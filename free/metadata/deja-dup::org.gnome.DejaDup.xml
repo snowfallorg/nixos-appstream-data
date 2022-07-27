@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns:its="http://www.w3.org/2005/11/its" type="desktop-application" version="2.0">
+  <description>
+    <p>Déjà Dup is a simple backup tool. It hides the complexity of backing up the Right Way (encrypted, off-site, and regular) and uses duplicity as the backend.</p>
+    <ul>
+      <li>Support for local, remote, or cloud backup locations such as Google Drive</li>
+      <li>Securely encrypts and compresses your data</li>
+      <li>Incrementally backs up, letting you restore from any particular backup</li>
+      <li>Schedules regular backups</li>
+      <li>Integrates well into your GNOME desktop</li>
+    </ul>
+    <p>Déjà Dup focuses on ease of use and recovering from personal, accidental data loss. If you need a full system backup or an archival program, you may prefer other backup apps.</p>
+  </description>
+  <description lang="af">
+    <p>Déjà Dup is 'n eenvoudige rugsteun hulpmiddel. Dit verberg die kompleksiteit van die rugsteun op die regte manier (geïnkripteer, off-site, en gereelde) en gebruik duplicity as die terugeinde.</p>
+    <ul>
+      <li>Ondersteuning vir plaaslike, afgeleë of wolk-rugsteunliggings soos Google Drive</li>
+      <li>Beveiligdely enkripteer en pers jou data</li>
+      <li>Inkrementeelly rug op, laat jou herstel van enige spesifieke rugsteun</li>
+      <li>Skedules gereelde rugsteune</li>
+      <li>Integreer goed in jou GNOME Bureaublad</li>
+    </ul>
+    <p>Déjà Dup fokus op gemak van gebruik en die herstel van persoonlike, toevallige verlies van data. As jy 'n volledige stelsel back-up of 'n argief program nodig het, kan jy verkies om ander Friends apps.</p>
+  </description>
+  <description lang="ar">
+    <ul>
+      <li>جدولة نسخ احتياطية منتظمة</li>
+    </ul>
+  </description>
+  <description lang="ast">
+    <p>Déjà Dup ye una ferramienta cenciella pa crear copies de seguridá. Tapez la complexidá de crear copies de seguridá de manera correuta (cifraes, esternes y con regularidá) y usa duplicity como infraestructura.</p>
+    <ul>
+      <li>Cifra y comprime los datos con seguridá</li>
+      <li>Fai copies de seguridá incrementales, permitiendo restaurar dende cualquier copia en particular</li>
+      <li>Programa copies de seguridá regulares</li>
+      <li>Intégrase bien nel escritoriu GNOME</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>El Déjà Dup és una eina simple de còpies de seguretat. Amaga la complexitat de fer còpies de seguretat de la manera correcta (amb xifratge, mantenint les còpies a un lloc remot i de forma regular) i usa Duplicity com a rerefons.</p>
+    <ul>
+      <li>Suport per a ubicacions locals, remotes o al núvol de còpia de seguretat com ara Google Drive</li>
+      <li>Xifra i comprimeix les vostres dades amb seguretat</li>
+      <li>Fa còpies de seguretat incrementalment, deixant-vos restaurar des de qualsevol còpia de seguretat particular</li>
+      <li>Planifica còpies de seguretat</li>
+      <li>S'integra bé amb l'escriptori de GNOME</li>
+    </ul>
+    <p>Déjà Dup se centra en la facilitat d'ús i recuperació de la pèrdua de dades personals de forma accidental. Si necessiteu una còpia de seguretat completa del sistema o un programa d'arxiu, és possible que preferiu altres aplicacions de còpia de seguretat.</p>
+  </description>
+  <description lang="ca@valencia">
+    <ul>
+      <li>Encripta i comprimeix les vostres dades amb seguretat</li>
+      <li>Planifica còpies de seguretat</li>
+      <li>S'integra bé a l'escriptori de GNOME</li>
+    </ul>
+  </description>
+  <description lang="ckb">
+    <ul>
+      <li>پشتگیری لە ناوخۆیی، دوور، یان شوێنی پاڵپشتی هەوری وەک گووگل درایڤ</li>
+      <li>بە نهێنیکردنی و پەستاندنی زانیارییەکانت</li>
+      <li>پاڵپشتی دیاریکراو، ڕێگەت دەدات هێنانەوە بکەیت لەهەر جۆرە پاڵپشتیەکی تر</li>
+      <li>پاڵپستی دیاریکراو دابنێ</li>
+      <li>ئەگونجێت لەگەڵ ڕوومێزی گنۆم</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>Déjà Dup je jednoduchý zálohovací nástroj. Postará se za vás o komplexitu správně prováděného zálohování (šifrování, ukládání záloh dále od zálohovaných dat a hlavně pravidelnost). Jedná se o nadstavbu k nástroji duplicity.</p>
+    <ul>
+      <li>Podpora pro místní, vzdálená nebo cloudová umístění záloh, jako například Disk Google</li>
+      <li>Komprimuje data a zabezpečuje je šifrováním</li>
+      <li>Zálohuje přírůstkově, obnovit lze z libovolné konkrétní zálohy</li>
+      <li>Plánuje pravidelné zálohy</li>
+      <li>Je dobře začleněné do prostředí GNOME</li>
+    </ul>
+    <p>Déjà Dup se zaměřuje na usnadnění používání a obnovování při ztrátách uživatelských dat. Pokud potřebujete zálohu celého systému nebo archivační program, jsou vhodnější jiné zálohovací aplikace.</p>
+  </description>
+  <description lang="da">
+    <p>Déjà Dup er et enkelt sikkerhedskopieringsværktøj. Det skjuler kompleksiteten ved sikkerhedskopiering på den rette måde (krypteret, andetsteds og regelmæssigt), og bruger duplicity som sin motor.</p>
+    <ul>
+      <li>Understøttelse af placering af sikkerhedskopi lokalt, fjernt eller i skyen såsom Google Drive</li>
+      <li>Krypterer og komprimerer dine data sikkert</li>
+      <li>Trinvis sikkerhedskopiering, lader dig genoprette fra hver enkelt sikkerhedskopi</li>
+      <li>Planlæg regelmæssige sikkerhedskopieringer</li>
+      <li>Integrerer godt med dit GNOME-skrivebord</li>
+    </ul>
+    <p>Déjà Dup har fokus på at være let at bruge og at genoprette fra utilsigtet tab af data. Hvis du har brug for en fuld systemsikkerhedskopiering eller et arkiveringsprogram, så kan det være du vil foretrække andre sikkerhedskopieringsprogrammer.</p>
+  </description>
+  <description lang="de">
+    <p>Déjà Dup ist ein einfaches Datensicherungswerkzeug. Es versteckt die Komplexität einer korrekten Datensicherung (Verschlüsselung, getrennter Speicherplatz, Regelmäßigkeit) und benutzt dafür duplicity als Grundlage.</p>
+    <ul>
+      <li>Unterstützung für lokale, entfernte oder Cloud-Datensicherung wie Google Drive</li>
+      <li>Verschlüsselt und komprimiert Ihre Daten auf sichere Weise</li>
+      <li>Stufenweise Datensicherungen, Wiederherstellung von beliebigen Sicherungen</li>
+      <li>Zeitgesteuerte regelmäßige Datensicherungen</li>
+      <li>Gut in die GNOME-Arbeitsumgebung integriert</li>
+    </ul>
+    <p>Déjà Dup zielt auf bequeme Sicherung und Wiederherstellung von verloren gegangenen Daten. Falls Sie eine vollständige Systemsicherung oder ein Archivprogramm benötigen, könnten andere Datensicherungsprogramme besser geeignet sein.</p>
+  </description>
+  <description lang="el">
+    <p>Το Déjà Dup είναι ένα απλό εργαλείο αντιγράφων ασφαλείας. Κρύβει την πολυπλοκότητα της διαδικασίας δημιουργίας αντιγράφων ασφαλείας με τον σωστό τρόπο (κρυπτογραφημένα, σε άλλη τοποθεσία και τακτικά) και χρησιμοποιεί παρασκηνιακά το πρόγραμμα duplicity.</p>
+    <ul>
+      <li>Κρυπτογραφεί και συμπιέζει με ασφάλεια τα δεδομένα σας</li>
+      <li>Βηματικά (ή αυξητικά) αντίγραφα ασφαλείας που επιτρέπουν την αποκτάστασή τους από οποιοδήποτε συγκεκριμένο αντίγραφο ασφαλείας</li>
+      <li>Προγραμματίζει τακτικά αντίγραφα ασφαλείας</li>
+      <li>Ενσωματώνεται καλά στο GNOME περιβάλλον εργασίας σας</li>
+    </ul>
+  </description>
+  <description lang="en_AU">
+    <p>Déjà Dup is a simple backup tool. It hides the complexity of backing up the Right Way (encrypted, off-site, and regular) and uses duplicity as the backend.</p>
+    <ul>
+      <li>Support for local, remote, or cloud backup locations such as Google Drive</li>
+      <li>Securely encrypts and compresses your data</li>
+      <li>Incrementally backs up, letting you restore from any particular backup</li>
+      <li>Schedules regular backups</li>
+      <li>Integrates well into your GNOME desktop</li>
+    </ul>
+    <p>Déjà Dup focuses on ease of use and recovering from personal, accidental data loss. If you need a full system backup or an archival program, you may prefer other backup apps.</p>
+  </description>
+  <description lang="en_CA">
+    <p>Déjà Dup is a simple backup tool. It hides the complexity of backing up the Right Way (encrypted, off-site, and regular) and uses duplicity as the backend.</p>
+    <ul>
+      <li>Securely encrypts and compresses your data</li>
+      <li>Incrementally backs up, letting you restore from any particular backup</li>
+      <li>Schedules regular backups</li>
+      <li>Integrates well into your GNOME desktop</li>
+    </ul>
+  </description>
+  <description lang="en_GB">
+    <p>Déjà Dup is a simple backup tool. It dispels the complexity of backing up the Right Way (encrypted, off-site, and regular) and uses duplicity as the backend.</p>
+    <ul>
+      <li>Support for local, remote, or cloud backup locations such as Google Drive</li>
+      <li>Securely encrypts and compresses your data</li>
+      <li>Incrementally backs up, letting you restore from any particular backup</li>
+      <li>Schedules regular backups</li>
+      <li>Integrates well into your GNOME desktop</li>
+    </ul>
+    <p>Déjà Dup focuses on ease of use and recovering from personal, accidental data loss. If you need a full system backup or an archival program, you may prefer other backup apps.</p>
+  </description>
+  <description lang="eo">
+    <p>Déjà Dup estas simpla sekurkopiilo. Ĝi kaŝas la komplikeco de sekurkopiado per la Prava Vojo (ĉifrita, fora, kaj ofta), kaj uzas duplicity kiel motoro.</p>
+    <ul>
+      <li>Subteno por loka, defora, kaj nuba sekurkopiaj lokoj kiel Google Drive</li>
+      <li>Sekure ĉifras kaj densigas viajn datumojn</li>
+      <li>Tempoplanas regularajn sekurkopiojn</li>
+      <li>Integras bone je via GNOME-labortablo</li>
+    </ul>
+    <p>Déjà Dup fokusas faciluzeblecon kaj restaŭradon de persona, akcidenta datumperdo. Se vi bezonas programon por sekurkopii vian tutan sistemon, vi eble preferus alian programon.</p>
+  </description>
+  <description lang="es">
+    <p>Déjà Dup es una herramienta sencilla para realizar copias de seguridad, que oculta la complejidad del proceso de respaldo «correcto» (cifrado, en ubicación externa y regular), y utiliza duplicity como su motor.</p>
+    <ul>
+      <li>Soporte para ubicaciones de copias locales, remotas y en la nube (como Google Drive)</li>
+      <li>Cifra y comprime sus datos de manera segura</li>
+      <li>Realiza respaldos de forma incremental, lo que le permite restaurar desde cualquier respaldo</li>
+      <li>Programa respaldos regularmente</li>
+      <li>Se integra bien en su escritorio GNOME</li>
+    </ul>
+    <p>Déjà Dup se centra en la facilidad de uso y en la recuperación de datos personales perdidos accidentalmente. Si necesita una copia de seguridad completa del sistema o un programa de archivado, puede que prefiera otras aplicaciones de copia de seguridad.</p>
+  </description>
+  <description lang="eu">
+    <p>Déjà Dup babeskopiak sortzeko tresna erabilerraza da. Babeskopiak behar bezala (zifratuta, kanpoko kokalekuan, eta maiztasunez) egitearen konplexutasuna barnean ezkutatzen du, backend gisa duplicity erabiliz.</p>
+    <ul>
+      <li>Babeskopien kokaleku lokalak, urrunekoak eta hodeikoak, adibidez Google Drive, onartzen ditu</li>
+      <li>Zure datuak modu seguruan zifratu eta trinkotzen ditu</li>
+      <li>Babeskopia inkrementalak egiten ditu, edozein kopiatatik berreskuratzen utziz</li>
+      <li>Babeskopien maiztasuna programatzen du</li>
+      <li>Ondo integratzen da zure GNOME mahaigainean</li>
+    </ul>
+    <p>Déjà Dup erabiltzeko erraza da eta datu pertsonalen galera nahigabekotik datuak berreskuratzen laguntzen du. Sistemaren babeskopia osoa edo artxiborako programa bat behar baduzu, agian beste aplikazioaren bat erabili beharko zenuke.</p>
+  </description>
+  <description lang="fi">
+    <p>Déjà Dup on yksinkertainen työkalu varmuuskopiointiin. Se piilottaa oikeaoppisen varmuuskopioinnin (salattuna, etäsijainteihin ja säännöllisin väliajoin) monimutkaisuuden. Déjà Dupin toiminta pohjautuu duplicity-ohjelmistoon.</p>
+    <ul>
+      <li>Tuki paikallisille, etä- tai pilvivarmuuskopio paikoille, kuten Google Drivelle</li>
+      <li>Pakkaa ja salaa tietosi turvallisesti</li>
+      <li>Vähittäiset varmuuskopiot mahdollistavat palautuksen mistä tahansa yksittäisestä varmuuskopiosta</li>
+      <li>Ajastaa säännölliset varmuuskopioinnit</li>
+      <li>Integroituu hyvin Gnome-työpöydälle</li>
+    </ul>
+    <p>Déjà Dup keskittyy helppokäyttöisyyteen ja toipumiseen henkilöllisestä vahingossa tapahtuvasta tietojen menetyksestä. Jos tarvitset täydellisen järjestelmän varmuuskopion tai arkistointiohjelman, voit mieluummin käyttää muita varmuuskopiointisovelluksia.</p>
+  </description>
+  <description lang="fr">
+    <p>Déjà Dup est un outil de sauvegarde simple. Il masque la complexité nécessaire pour sauvegarder de la bonne façon (chiffrée, hors-site et normale) et utilise le moteur duplicity.</p>
+    <ul>
+      <li>Prise en charge des emplacements de sauvegarde locaux, distants ou en nuage tels que Google Drive</li>
+      <li>Chiffrez et compressez vos données en toute sécurité</li>
+      <li>Sauvegarde par incrémentation, vous laissant la possibilité de restaurer à partir d’une sauvegarde donnée</li>
+      <li>Sauvegardes régulières planifiées</li>
+      <li>Il s’intègre parfaitement avec le bureau GNOME</li>
+    </ul>
+    <p>Déjà Dup se concentre sur la facilité d’utilisation et de récupération après une perte de données personnelle et accidentelle. Si vous avez besoin d’une sauvegarde complète du système ou d’un programme d’archivage, vous pouvez préférer d’autres applications de sauvegarde.</p>
+  </description>
+  <description lang="fr_CA">
+    <p>Déjà Dup est un outil de sauvegarde simple. Il cache la complexité de sauvegarder de la bonne manière (chiffrée, hors site et régulièrement) et utilise duplicity comme dorsale.</p>
+    <ul>
+      <li>Chiffre et compresse vos données en toute sécurité</li>
+      <li>Sauvegardes incrémentales vous permettant de restaurer à partir de n'importe quelle sauvegarde</li>
+      <li>Planifie des sauvegardes régulières</li>
+      <li>S'intégre bien avec votre bureau GNOME</li>
+    </ul>
+  </description>
+  <description lang="fur">
+    <p>Déjà Dup al è un sempliç strument par fâ copiis di backup. Al plate la complessitât dal fâ copiis di backup inte maniere juste (cifradis, in ubicazions esternis e regolârs) e al dopre duplicity come backend.</p>
+    <ul>
+      <li>Supuart par posizions di backup locâls, rimotis o cloud come par esempli Google Drive</li>
+      <li>Al cifre in sigurece e al strice i dâts</li>
+      <li>Al realize i backup in mût incrementâl, permetint di ripristinâ di cualsisei copie di backup</li>
+      <li>Al programe backups regolârs</li>
+      <li>Si integre ben intal scritori GNOME</li>
+    </ul>
+    <p>Déjà Dup si concentre te facilitât di utilizazion e recupar di pierditis di dâts acidentâls e personâls. Se al covente un backup complet dal sisteme o un program archiviât, al è miôr cirî altris aplicazions pai backup.</p>
+  </description>
+  <description lang="gd">
+    <p>'S e inneal lethbhreacan-glèidhidh simplidh a tha sa Déjà Dup. Falaichidh e dè cho toinnte 's a th' ann lethbhreacan-glèidhidh a dhèanamh mar bu chòir (crioptaichte, air làrach cèin 's gu cunbhalach) agus cleachdaidh e duplicity mar backend.</p>
+    <ul>
+      <li>Crioptaichidh 's dùmhlaichidh e an dàta agad gu tèarainte</li>
+      <li>Nì e lethbhreacan-glèidhidh ioncramaideach a leigeas leat aiseag o gach lethbhreac-glèidhidh a thogras tu</li>
+      <li>Cuiridh e lethbhreacan cunbhalach air an sgeideal</li>
+      <li>Amalaichidh e gu math san deasg GNOME agad</li>
+    </ul>
+  </description>
+  <description lang="gl">
+    <p>O Déjà Dup é unha ferramenta sinxela para a creación de copias de seguranza. Elimina a complexidade da creación de copias de seguranza correctas (con cifrado, fóra do sitio e con regularidade) e emprega duplicity como infraestrutura.</p>
+    <ul>
+      <li>Compatibilidade con almacenamento de copias de seguranza locais, remotas ou na nube, como Google Drive.</li>
+      <li>Realiza cifrados seguros e comprime os datos</li>
+      <li>Copias de seguranza incrementais, permitindo restabelecer calquera copia en particular</li>
+      <li>Programa copias regularmente</li>
+      <li>Intégrase ben no escritorio GNOME</li>
+    </ul>
+    <p>Déjà Dup céntrase na facilidade de uso e na recuperación de perdas de datos persoais ou accidentais. Se precisa dunha copia de seguranza dun sistema completo ou dun programa de arquivo debe buscar outras opcións.</p>
+  </description>
+  <description lang="he">
+    <p>‏Déjà Dup הוא כלי גיבוי פשוט. הוא מסתיר את המורכבות של גיבוי בדרך הנכונה (הצפנה, מחוץ לאתר ובאופן קבוע) ומשתמש ב־duplicity כמנגנון הרקע.</p>
+    <ul>
+      <li>תמיכה במיקומים מקומיים או מרוחקים כמו Google Drive</li>
+      <li>מצפין ודוחס את הנתונים שלך באופן מאובטח</li>
+      <li>מגבה באופן מצטבר, מאפשר לך לשחזר מכל גיבוי שהוא</li>
+      <li>מתזמן גיבויים על בסיס קבוע</li>
+      <li>משתלב בשולחן העבודה GNOME שלך</li>
+    </ul>
+    <p>מערכת Déjà Dup מתמקדת בקלות שימוש ושחזור מאבדן נתונים מקרי, אישי. אם יש לך צורך בגיבוי מערכת מלא או בתכנית ארכיון, יתכן שעדיף לך להשתמש ביישומי גיבויים אחרים.</p>
+  </description>
+  <description lang="hr">
+    <p>Déjà Dup je jednostavan alat sigurnosnog kopiranja. Sakriva složenost sigurnosnog kopiranja na pravi način (šifrirano, vanmrežno i redovno) i koristi dvostrukost kao pozadinu.</p>
+    <ul>
+      <li>Podrška za sigurnosno kopiranje lokalno, udaljeno ili u oblaku poput Google diska</li>
+      <li>Pouzdano šifrira i sažima vaše podatke</li>
+      <li>Postepeno sigurnosno kopira, dopuštajući vam obnovu iz određene sigurnosne kopije</li>
+      <li>Raspored redovite sigurnosne kopije</li>
+      <li>Integrira se dobro u GNOME radno okruženje</li>
+    </ul>
+    <p>Déjà Dup se fokusira na jednostavnost korištenja i oporavak od osobnih, slučajnih gubitaka podataka. Ako vam je potrebno cjelovito sigurnosno kopiranje sustava ili trebate program za arhiviranje, možda želite druge aplikacije za sigurnosno kopiranje.</p>
+  </description>
+  <description lang="hu">
+    <p>A Déjà Dup egy egyszerű biztonsági mentést készítő eszköz. Elrejti a biztonsági mentések Helyes Módjának (titkosított, külön helyű és rendszeres) összetettségét, és háttérprogramként a duplicity-t használja.</p>
+    <ul>
+      <li>Helyi, távoli vagy a Google Drive-hoz hasonló felhő megoldások támogatása a biztonsági mentésekhez</li>
+      <li>Biztonságosan titkosítja és tömöríti adatait</li>
+      <li>Növekményesen ment, lehetővé téve a visszaállítást bármely konkrét mentésből</li>
+      <li>Rendszeres mentéseket ütemez</li>
+      <li>Jól integrálódik a GNOME asztali környezetbe</li>
+    </ul>
+    <p>A Déjà Dup az egyszerű használhatóságra törkszik és a célja a felhasználó adatainak védelme az esetleges elvesztéstől. Ha egy rendszerszintű biztonsági mentéshez vagy archiváláshoz való programot keres, akkor arra más program alkalmasabb lehet.</p>
+  </description>
+  <description lang="id">
+    <p>Déjà Dup adalah perkakas pencadangan sederhana. Ini menyembunyikan kerumitan melakukan pencadangan Yang Baik dan Benar (dienkripsi, luar situs, berkala) dan memakai duplicity sebagai backend.</p>
+    <ul>
+      <li>Dukungan untuk lokasi pencadangan lokal, jarak jauh, atau cloud seperti Google Drive</li>
+      <li>Secara aman mengenkripsi dan mengkompresi data Anda</li>
+      <li>Secara inkremental melakukan pencadangan, memungkinkan Anda memulihkan dari sebarang pencadangan tertentu</li>
+      <li>Menjadwalkan pencadangan berkala</li>
+      <li>Terintegrasi dengan baik ke deskto GNOME Anda</li>
+    </ul>
+    <p>Déjà Dup berfokus pada kemudahan penggunaan dan pemulihan dari kehilangan data pribadi yang tidak disengaja. Jika Anda memerlukan cadangan sistem lengkap atau program arsip, Anda mungkin lebih suka aplikasi cadangan lainnya.</p>
+  </description>
+  <description lang="it">
+    <p>Déjà Dup è un semplice strumento di backup. Nasconde la complessità dell'esecuzione di un corretto backup (cifrato, esterno o normale) e usa Duplicity come motore.</p>
+    <ul>
+      <li>Supporto ai backup locali, remoti e sui cloud come Google Drive</li>
+      <li>Cifratura e compressione sicura dei propri dati</li>
+      <li>Esecuzione di backup incrementali, con la possibilità di ripristino da ogni backup effettuato</li>
+      <li>Pianificazione di backup regolari</li>
+      <li>Ottima integrazione con l'ambiente GNOME</li>
+    </ul>
+    <p>Déjà Dup si concentra sulla facilità d'uso e sul recupero dalla perdita accidentale di dati personali. Se si ha bisogno di un backup completo del sistema o di un programma di archiviazione, si potrebbero preferire altre applicazioni di backup.</p>
+  </description>
+  <description lang="ja">
+    <p>Déjà Dup はシンプルなバックアップツールです。バックアップに特有の複雑な設定は見せずに、適切に (暗号化して/別の場所に/定期的に) バックアップします。バックエンドとして duplicity を用いています。</p>
+    <ul>
+      <li>バックアップ場所として次の場所をサポート: ローカル、リモート、Google ドライブなどのクラウド</li>
+      <li>あなたのデータを安全に暗号化、圧縮</li>
+      <li>差分バックアップにより特定のバックアップからの復元が可能</li>
+      <li>定期的なバップアップをスケジュール</li>
+      <li>GNOME デスクトップに高度に統合</li>
+    </ul>
+    <p>Déjà Dup は、使いやすさと、個人が不測の事態によって失ったデータを復元することに、焦点を置いています。システム全体のバックアップやアーカイバルなプログラムが必要な場合は、他のバックアップアプリを選択することをお勧めします。</p>
+  </description>
+  <description lang="km">
+    <p>Déjà Dup is a simple backup tool. It hides the complexity of backing up the Right Way (encrypted, off-site, and regular) and uses duplicity as the backend.</p>
+    <ul>
+      <li>Securely encrypts and compresses your data</li>
+      <li>Incrementally backs up, letting you restore from any particular backup</li>
+      <li>Schedules regular backups</li>
+      <li>Integrates well into your GNOME desktop</li>
+    </ul>
+  </description>
+  <description lang="lt">
+    <ul>
+      <li>Saugiau užšifruoja ir suglaudina duomenis</li>
+    </ul>
+  </description>
+  <description lang="lv">
+    <p>Déjà Dup ir vienkāršs rezerves kopiju veidošanas rīks. Tas slēpj pareizās dublēšanas (šifrēti, regulāri un uz citu datoru) sarežģītību un izmanto duplicity kā aizmuguri.</p>
+    <ul>
+      <li>Droši šifrē un saspiež jūsu datus</li>
+      <li>Pakāpeniski dublē, ļaujot jums atjaunot no jebkura noteikta dublējuma</li>
+      <li>Veic regulāru dublēšanu</li>
+      <li>Labi integrējas GNOME darbvirsmā</li>
+    </ul>
+  </description>
+  <description lang="mnw">
+    <p>Déjà Dup ဂှ် ကရိယာ ဂိုၚ်စွံကပေါတ်သောၚ်သောၚ်မွဲရ။ ဍေံဂှ်သီဂိုၚ်စွံကဵုဒၞါဲသောၚ်ၚ်ဂွံတုဲ ညံၚ်ဖှာၚ်ဟွံဂွံထပ်လေဝ်ဍေံသ္ပကဵုမာန်ရ။</p>
+    <ul>
+      <li>ထံက်ပၚ်အပ္ဍဲစက်၊ မ္ၚးစက် ကေုာံ ဒၞါဲသီဂိုၚ်လ္တူလပှ်ကျာ ဗီုကဵု ဂူဂဴဒရိုက်(ဖ်)</li>
+      <li>ဂိုၚ်စွံကဵုခိုၚ်ၚ်ကၠိုက်က် ကေုာံ သှ်ကဵုတၚ်နၚ် ဂီုဂီုကၠီုကၠီုမာန်ရ</li>
+      <li>ဂိုၚ်စွံကပေါတ်လောဲလောဲမာန်ကီု သီုကဵုမၞးကလေၚ်ဂိုၚ်စွံနူ ဒၞါဲတၞဟ်ဟ်မာန်ရ</li>
+      <li>ချိုၚ်အခိၚ်သွက်ဂွံဂိုၚ်စွံလၟိုန်</li>
+      <li>သကဵုပံၚ်စပ်အာခိုဟ်ဟ် ပ္ဍဲGNOME desktop</li>
+    </ul>
+    <p>Déjà Dup ပတဝ်က္ဍိုပ်ကဵုဗီုသုၚ်စောဲ တုဲ ကလေၚ်ဂိုၚ်ကေတ်တၚ်နၚ်ပူဂဵု ကေုာံ တၚ်နၚ်လီုအာတုဲတုဲတံ။ ယဝ်မၞးမိက်ဂွံဂွံ ဂိုၚ်စွံသၞောတ်စက်သီုမွဲမဟွံသေၚ်မ္ဂး သပ်ဝဴဂိုၚ်စွံမွဲမွဲမ္ဂးမၞးသုၚ်စောဲသပ်ဝဴတၞဟ်ဟ်မာန်ရ။</p>
+  </description>
+  <description lang="ms">
+    <p>Déjà Dup merupakan alat sandar yang ringkas. Ia sembunyikan kerumitan menyandar dengan Cara yang Betul (tersuliy, luar-laman, dan biasa) dan gunakan pendua sebagai bahagian belakang.</p>
+    <ul>
+      <li>Sulit dan mampatkan data anda secara selamat</li>
+      <li>Sandar secara tokokan, membolehkan anda pulihkan dari mana-mana sandar yang ada</li>
+      <li>Jadualkan sandar tetap</li>
+      <li>Sepadu ke dekstop GNOME anda dengan baik</li>
+    </ul>
+  </description>
+  <description lang="nb">
+    <p>Déjà Dup er et enkelt verktøy for sikkerhetskopiering. Det hjelper deg - via programmet duplicity - med å ta sikkerhetskopi på rett måte: kryptert, fysisk adskilt fra pc-en din, og regelmessig.</p>
+    <ul>
+      <li>Krypterer og komprimerer dataene dine på en sikker måte</li>
+      <li>Lager økende (også kalt inkrementelle) sikkerhetskopier, og lar deg gjenopprette fra den kopien du ønsker</li>
+      <li>Planlegger regemessig sikkerhetskopiering</li>
+      <li>Godt integrert på GNOME-skrivebordet</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>Déjà Dup is een eenvoudig hulpmiddel om back-ups te maken. De eenvoud van Déjà Dup verhult de complexiteit van het maken van correcte back-ups (versleuteld, off-site en regelmatig) en maakt gebruik van het achtergrondprogramma ‘duplicity’.</p>
+    <ul>
+      <li>Ondersteuning voor lokale, externe of cloudback-uplocaties zoals Google Drive</li>
+      <li>Déjà Dup versleutelt en pakt uw data op een veilige manier in</li>
+      <li>Incrementele back-ups geven u de mogelijkheid om te herstellen vanaf een bepaalde back-up</li>
+      <li>Back-ups op regelmatige tijdstippen plannen</li>
+      <li>Integreert goed met de GNOME-werkomgeving</li>
+    </ul>
+    <p>Déjà Dup richt zich op gebruiksgemak en herstel van persoonlijk, onbedoeld gegevensverlies. Als u een volledige back-up van het systeem of een archiefprogramma nodig hebt, geeft u misschien de voorkeur aan andere back-uptoepassingen.</p>
+  </description>
+  <description lang="oc">
+    <p>Déjà Dup es una aisina de salvament simpla. Amaga la complexitat necessària per salvar coma cal (chifrada, fòra site e normala) e utiliza lo motor duplicity.</p>
+    <ul>
+      <li>Pres en carga dels emplaçaments de salvagarda locals, distants, o sul cloud coma Google Drive</li>
+      <li>Chifra e compressa vòstras donadas</li>
+      <li>Salvagardas successivas, vos daissant la possibilitat de restaurar a partir d’una salvagarda donada</li>
+      <li>Salvaments regulars planificats</li>
+      <li>S'intègra plan amb lo burèu GNOME</li>
+    </ul>
+    <p>Déjà Dup bota l’accent sus la facilitat d’utilizacion e de la recuperacion aprèp una pèrda de donadas personalas e accidentalas. Se vos fa mestièr una salvagarda del sistèma o d’un programa d’archivatge, benlèu que vos estimariatz mai d’autras aplicacions de salvagarda.</p>
+  </description>
+  <description lang="pl">
+    <p>Déjà Dup to proste narzędzie do robienia kopii zapasowych. Ukrywa ono złożoność kopii zapasowych (regularnie szyfrując je i przechowując poza komputerem) i używa programu duplicity.</p>
+    <ul>
+      <li>Obsługa lokalnych, zdalnych oraz umieszczonych w chmurze kopii zapasowych, takich jak Google Drive</li>
+      <li>Bezpiecznie szyfruje i kompresuje dane</li>
+      <li>Tworzy przyrostowe kopie zapasowe, umożliwiając przywracanie z dowolnej chwili</li>
+      <li>Planuje regularne kopie zapasowe</li>
+      <li>Dobrze integruje się ze środowiskiem GNOME</li>
+    </ul>
+    <p>Celem programu Déjà Dup jest łatwość użycia i pomoc przy ratowaniu prywatnych danych po przypadkowej utracie. Jeśli potrzebna jest kopia zapasowa całego komputera lub narzędzie do archiwizacji, lepiej jest spróbować innego programu.</p>
+  </description>
+  <description lang="pt">
+    <p>O Déjà Dup é uma ferramenta simples de backup. Oculta a complexidade de efetuar um backup da maneira correta (encriptada, remota e regular) e usa o duplicity como backend.</p>
+    <ul>
+      <li>Suporte para backup local, remoto ou localizações na nuvem, tais como o Google Drive</li>
+      <li>Encripta e comprime os dados com segurança</li>
+      <li>Efetua backup de forma incremental, deixando-o restaurar a partir de qualquer backup em particular</li>
+      <li>Agenda backups regularmente</li>
+      <li>Integra-se bem com o ambiente gráfico GNOME</li>
+    </ul>
+    <p>O Déjà Dup concentra-se na facilidade de uso e recuperação de perda de dados pessoais e acidentais. Se precisar de um backup completo do sistema ou de um programa de arquivo, pode preferir outras aplicações de backup.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Déjà Dup é uma ferramenta de backup simples. Ela oculta a complexidade de fazer um backup da maneira correta (criptografada, fora do local e regular) e usa o duplicity como retaguarda.</p>
+    <ul>
+      <li>Suporte para locais de backup local, remoto ou na nuvem, como o Google Drive</li>
+      <li>Criptografa e comprime seus dados com segurança</li>
+      <li>Faz seu backup de forma incremental, deixando que você retome qualquer backup em particular</li>
+      <li>Agenda backups regulares</li>
+      <li>Integra-se bem ao seu ambiente GNOME</li>
+    </ul>
+    <p>O Déjà Dup se concentra na facilidade de uso e recuperação de perda de dados pessoais e acidentais. Se você precisar de um backup completo do sistema ou de um programa de arquivamento, pode preferir outros aplicativos de backup.</p>
+  </description>
+  <description lang="ro">
+    <p>Déjà Dup este un utilitar simplu pentru realizarea de copii de siguranță. El ascunde capacitatea de a realiza copii de siguranță în maniera Right Way (criptate, off-site și obișnuite) și utilizează duplicity ca program de bază.</p>
+    <ul>
+      <li>Suport pentru locații de copii de rezervă locale, la distanță sau cloud precum Google Drive</li>
+      <li>Criptează și arhivează în manieră securizată datele dumneavoastră</li>
+      <li>Copiile de siguranță sunt realizate incremental, cu posibilitatea de a restaura datele din orice copie de siguranță</li>
+      <li>Programează copii de siguranță la intervale regulate</li>
+      <li>Se integrează bine cu mediul desktop GNOME</li>
+    </ul>
+    <p>Déjà Dup se focusează pe ușurința de utilizare și recuperarea din pierderea de date personale, accidentală. Dacă aveți nevoie de o copiere de rezervă a sistemului completă sau un program de arhivare, este posibil să preferați alte aplicații de copiere de rezervă.</p>
+  </description>
+  <description lang="ru">
+    <p>Déjà Dup — это простое средство резервного копирования. Оно скрывает сложность правильного создания резервных копий (использование шифрования, хранение отдельно от компьютера, регулярность копирования) и использует duplicity в качестве внутреннего интерфейса.</p>
+    <ul>
+      <li>Поддержка локальных, дистанционных или облачных расположений резервных копий, таких как Google Drive</li>
+      <li>Надежно шифрует и сжимает данные</li>
+      <li>Поэтапное резервное копирование, позволяет вам выполнять восстановление из определённых резервных копий</li>
+      <li>Планирование регулярного резервного копирования</li>
+      <li>Интегрируется на должном уровне с рабочим столом GNOME</li>
+    </ul>
+    <p>Déjà Dup сфокусирована на простоте использования восстановления персональных данных, в случае их потери. Если вам требуется полноценное резервное копирование системы или программа архивации, рассмотрите другие варианты программ резервного копирования.</p>
+  </description>
+  <description lang="sk">
+    <p>Aplikácia Déjà Dup je jednoduchý nástroj na zálohovanie. Zjednodušuje správne zálohovanie (šifrované, uložené na vzdialenom mieste a pravidelné) a využíva nástroj duplicity ako podporný program.</p>
+    <ul>
+      <li>Podpora pre miestne, vzdialené alebo cloudové umiestnenia záloh, ako je Disk Google</li>
+      <li>Bezpečné šifrovanie a komprimácia vašich údajov</li>
+      <li>Postupné zálohovanie, ktoré vám umožňuje vykonať obnovu z ktorejkoľvek čiastočnej zálohy</li>
+      <li>Plánovanie pravidelných zálohovaní</li>
+      <li>Dobrá integrácia do vášho pracovného prostredia GNOME</li>
+    </ul>
+    <p>Aplikácia Déjà Dup je zameraná na jednoduchosť používanie a na obnovu osobných, neúmyselne stratených údajov. Ak potrebujete zálohovať celý systém, musíte sa rozhodnúť pre iné zálohovacie aplikácie.</p>
+  </description>
+  <description lang="sl">
+    <p>Program Déjà Dup je enostavno orodje za ustvarjanje varnostnih kopij. Skrije zapletene korake ustvarjanja varnostnih kopij (omogoča šifriranje, oddaljeno in običajno) in kot zaledje uporablja duplicity.</p>
+    <ul>
+      <li>Podprto je varnostno kopiranje krajevno na oddaljena mesta in na mesta v oblaku, kot je na primer Google Drive.</li>
+      <li>Varno šifriranje in stiskanje podatkov</li>
+      <li>Ustvarja različice varnostnih kopij, kar omogoča obnovitev iz katerekoli varnostne kopije</li>
+      <li>Razporeja redno varnostno kopiranje</li>
+      <li>Program se v celoti poveže z namizjem GNOME</li>
+    </ul>
+    <p>Program Déjà Dup je zasnovan za enostavno osebno uporabo pri ustvarjanju varnostnih kopij dokumentov. Če iščete orodja za ustvarjanje popolnih varnostnih kopij sistema ali program za arhiviranje, je dobro poiskati druge rešitve.</p>
+  </description>
+  <description lang="sq">
+    <p>Déjà Dup është një mjet i thjeshtë ruajtjeje. Ai e fsheh kompleksitetin e ruajtjes në Mënyrën e Duhur (kriptuar, larg kompjuterit dhe të rregullt) dhe përdor duplicity si mbështetje.</p>
+    <ul>
+      <li>I kripton dhe ngjesh të dhënat tuaja me siguri</li>
+      <li>Ruan në mënyrën në rritje, duke ju mundësuar rikthimin nga çdo ruajtje e veçantë</li>
+      <li>Skedon ruajtje të rregullta</li>
+      <li>Integrohet mirë me desktopin tuaj GNOME</li>
+    </ul>
+  </description>
+  <description lang="sr">
+    <p>Безбедни сеф је једноставан алат за резерве. Скрива сложеност прављења резерви „Правог начина“ (шифроване, ван сајта, и редовне) и користи дуплирање као услужни програм.</p>
+    <ul>
+      <li>Подршка за локална, удаљена или места резерве у облаку као што је „Google Drive“</li>
+      <li>Безбедно шифрујте и запакујте ваше податке</li>
+      <li>Правите увећавајуће резерве, допуштајући вам да вратите из неке нарочите резерве</li>
+      <li>Испланирајте редовно прављење резрви</li>
+      <li>Лепо се уклапа у вашу Гномову радну површ</li>
+    </ul>
+    <p>Безбедни сеф се усредсређује на лакоћу коришћења и опоравак личних, случајно изгубљених података. Ако вам треба резерва читавог система или програм архивирања, потражите неки други програм за резерве.</p>
+  </description>
+  <description lang="sv">
+    <p>Déjà Dup är ett enkelt verktyg för säkerhetskopiering. Det döljer hur komplicerat det kan vara att sköta processen på rätt sätt (kryptering, annan plats, och vanlig) och använder duplicity som bakände.</p>
+    <ul>
+      <li>Stöd för lokal placering samt fjärr- eller molnplatser för säkerhetskopior så som Google Drive</li>
+      <li>Krypterar och komprimerar dina data säkert</li>
+      <li>Säkerhetskopierar stegvis så att du kan återställa från vilken specifik säkerhetskopia du vill</li>
+      <li>Schemalägger regelbundna säkerhetskopieringar</li>
+      <li>Integrerar bra med ditt GNOME-skrivbord</li>
+    </ul>
+    <p>Déjà Dup fokuserar på att vara lättanvänt samt tillhandahålla återhämtning från personlig, oavsiktlig dataförlust. Om du behöver fullständiga systemsäkerhetskopior eller ett arkiveringsprogram så kanske du föredrar andra program för säkerhetskopiering.</p>
+  </description>
+  <description lang="szl">
+    <p>Déjà Dup to ajnfachowe noczynie do robiynio kopiji ibrycznych. Kryje słożōność noleżnego tworzynio kopiji ibrycznych (szyfrowanych, regularnych, poza kōmputrym) i używo programu duplicity.</p>
+    <ul>
+      <li>Bezpiecznie szyfruje i kōmpresuje dane</li>
+      <li>Tworzi przirostowe kopije ibryczne i przizwolo na prziwrocanie z leda jakij chwile</li>
+      <li>Planuje regularne kopije ibryczne</li>
+      <li>Dobrze integruje sie ze strzodowiskym GNOME</li>
+    </ul>
+  </description>
+  <description lang="th">
+    <p>Déjà Dup เป็นเครื่องมือสำรองข้อมูลอย่างง่าย ซึ่งซ่อนความซ้ำซ้อนของการสำรองข้อมูลในวิธีที่ถูกต้อง (เข้ารหัส นอกสถานที่ และปกติ) โดยใช้ duplicity เป็นแบ็กเอนด์</p>
+    <ul>
+      <li>เข้ารหัสและบีบอัดข้อมูลของคุณอย่างปลอดภัย</li>
+      <li>สำรองข้อมูลแบบเพิ่มหน่วย และให้คุณเรียกคืนข้อมูลสำรองใด ๆ ที่ต้องการ</li>
+      <li>จัดตารางการกู้คืนข้อมูลธรรมดา</li>
+      <li>ทำงานร่วมกับเดสก์ท็อป GNOME ของคุณอย่างดี</li>
+    </ul>
+  </description>
+  <description lang="tr">
+    <p>Déjà Dup, basit yedekleme aracıdır. Doğru yöntemle yedekleme karmaşasını (şifreli, dışarıda ve düzenli) kolaylaştırır ve arkauç olarak duplicity kullanır.</p>
+    <ul>
+      <li>Yerel, uzak veya Google Drive gibi bulut yedekleme konumlarını destekler</li>
+      <li>Verinizi güvenle şifreler ve sıkıştırır</li>
+      <li>Adım adım yedekler, size herhangi bir yedekten geri yüklemeyi sağlar</li>
+      <li>Düzenli yedekleri planlar</li>
+      <li>Gnome masaüstünüzle sorunsuz tümleşir</li>
+    </ul>
+    <p>Déjà Dup; kolay kullanıma ve kişisel, kazara veri kaybını kurtarmaya odaklanmıştır. Eğer tam sistem yedekleme veya arşivleme programına gereksiniyorsanız başka yeek uygulamalarını yeğleyebilirsiniz.</p>
+  </description>
+  <description lang="ug">
+    <p>Déjà Dup بولسا بىر ئاددى بولغان زاپاسلاش قۇرالى، duplicityنى ئارقا سوپىدا ئىجرا بولىدىغان پرۇگرامما ئورنىدا ئىشلىتىپ، مۇۋاپىق زاپاسلاش ئارقىسىدىكى مۇرەككەپ جەريانلارنى يوشۇرىدۇ(ئىم سېلىش، باشقا جاي، قەرەللىك)</p>
+    <ul>
+      <li>زىيادە شەكىلدە زاپاسلاپ، خالىغان زاپاسلاش ئورنىدىن ئاسانلا ئەسلىگە كەلتۈرەلەيسىز</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>Déjà Dup — це простий засіб резервного копіювання. Він приховує складність правильного створення резервних копій (використання шифрування, зберігання окремо від комп’ютера, регулярність копіювання) й використовує duplicity у якості внутрішнього інтерфейсу.</p>
+    <ul>
+      <li>Підтримка локальних, віддалених або хмарних резервних копій, таких як Google Drive</li>
+      <li>Надійно шифрує та стискає дані</li>
+      <li>Поетапне резервне копіювання, що дозволяє вам  відновитися з будь-якої конкретної резервної копії</li>
+      <li>Розклад регулярного резервного копіювання</li>
+      <li>Добра інтеграція з вашою стільницею GNOME</li>
+    </ul>
+    <p>Déjà Dup фокусується на простоті використання та відновленні випадкових втрат особистих даних. Якщо вам потрібна система резервного копіювання  всієї системи або програма для архівації, ви можете віддати перевагу іншим програмам резервного копіювання.</p>
+  </description>
+  <description lang="vi">
+    <p>Déjà Dup là một công cụ sao lưu đơn giản. Nó ẩn sự phức tạp của sao lưu đúng cách (mã hóa, off-site, và thường xuyên) và sử dụng duplicity là ứng dụng chạy phía sau.</p>
+    <ul>
+      <li>Hỗ trợ các vị trí sao lưu cục bộ, từ xa hoặc đám mây như Google Drive</li>
+      <li>Mã hóa và nén dữ liệu của bạn một cách an toàn</li>
+      <li>Sao lưu dần dần, cho phép bạn khôi phục từ bất kỳ bản sao lưu cụ thể nào</li>
+      <li>Lên lịch sao lưu dự phòng thường xuyên</li>
+      <li>Tích hợp tốt với môi trường máy tính để bàn GNOME của bạn</li>
+    </ul>
+    <p>Déjà Dup hướng đến sử dụng và khôi phục dễ dàng từ mất dữ liệu do tai nạn, chủ quan. Nếu bạn cần một sao lưu dự phòng hệ thống đầy đủ hoặc một chương trình lưu trữ, bạn nên xem xét đến các ứng dụng sao lưu dự phòng khác.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>Déjà Dup 是一个简易备份工具。它隐藏了合理备份的复杂机制（加密、异地和定期），并使用 dupicity 作为后端。</p>
+    <ul>
+      <li>支持本地、远程或云端备份位置，例如 Google Drive</li>
+      <li>安全地加密并压缩您的数据</li>
+      <li>增量式备份，让您可以从任何特定备份点恢复</li>
+      <li>计划定期备份</li>
+      <li>与您的 GNOME 桌面无缝集成</li>
+    </ul>
+    <p>Déjà Dup 注重于简化个人从意外数据丢失中的恢复和工具使用。如果您需要整个系统的备份或归档程序，则可能需要其他备份应用。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>Déjà Dup 是個簡易備份工具。其將備份背後的複雜性 (加密、離站、定期) 隱藏得很好，並以 dupicity 作為後端程式。</p>
+    <ul>
+      <li>支援本機、遠端備份，以及 Google Drive 之類的雲端備份</li>
+      <li>安全地加密並儲存您的資料</li>
+      <li>增量式備份，讓您可從任何一個備份還原資料</li>
+      <li>定期備份</li>
+      <li>與 GNOME 桌面緊密整合</li>
+    </ul>
+    <p>Déjà Dup 的目標是要讓使用者可以在個人資料遺失，或資料意外遺失的狀況下輕鬆還原。如果您需要完整的系統備份功能，或是封存檔案用的程式，您可能要參考其他備份軟體。</p>
+  </description>
+  <pkgname>deja-dup</pkgname>
+  <icon type="cached" width="64" height="64">org.gnome.DejaDup.png</icon>
+  <icon type="cached" width="128" height="128">org.gnome.DejaDup.png</icon>
+  <id>org.gnome.DejaDup</id>
+  <name>Déjà Dup Backups</name>
+  <name lang="zh_TW">Déjà Dup 備份</name>
+  <name lang="zh_CN">Déjà Dup 备份</name>
+  <name lang="vi">Sao lưu dự phòng Déjà Dup</name>
+  <name lang="uk">«Резервні копії» Déjà Dup</name>
+  <name lang="tr">Déjà Dup Yedekleri</name>
+  <name lang="sv">Déjà Dup Säkerhetskopior</name>
+  <name lang="sr">Резерве Безбедног сефа</name>
+  <name lang="sl">Varnostne kopije Déjà Dup</name>
+  <name lang="sk">Zálohy Déjà Dup</name>
+  <name lang="ru">Резервные копии Déjà Dup</name>
+  <name lang="ro">Copii de rezervă Déjà Dup</name>
+  <name lang="pt_BR">Déjà Dup Backups</name>
+  <name lang="pt">Déjà Dup Backups</name>
+  <name lang="pl">Kopie zapasowe Déjà Dup</name>
+  <name lang="oc">Salvagardas Déjà Dup</name>
+  <name lang="nl">Déjà Dup-back-ups</name>
+  <name lang="ja">Déjà Dup バックアップ</name>
+  <name lang="it">Backup Déjà Dup</name>
+  <name lang="id">Cadangan Déjà Dup</name>
+  <name lang="hu">Déjà Dup Biztonsági mentések</name>
+  <name lang="hr">Déjà Dup sigurnosno kopiranje</name>
+  <name lang="he">‏Déjà Dup גיבויים</name>
+  <name lang="gl">Copias de seguridade de Déjà Dup</name>
+  <name lang="fur">Backups di Déjà Dup</name>
+  <name lang="fr">Sauvegardes Déja Dup</name>
+  <name lang="fi">Déjà Dup -varmuuskopiot</name>
+  <name lang="fa">پشتیبان‌های دژا داپ</name>
+  <name lang="eu">Déjà Dup babeskopiak</name>
+  <name lang="es">Copias de seguridad Déjà Dup</name>
+  <name lang="eo">Déjà Dup Sekurkopioj</name>
+  <name lang="en_GB">Déjà Dup Backups</name>
+  <name lang="de">Déjà Dup Datensicherungen</name>
+  <name lang="da">Déjà Dup-sikkerhedskopieringer</name>
+  <name lang="cs">Zálohy Déjà Dup</name>
+  <name lang="ca">Còpies de seguretat Déjà Dup</name>
+  <name lang="af">Déjà Dup Rugsteuns</name>
+  <summary>Protect yourself from data loss</summary>
+  <summary lang="zh_TW">保護您的資料不流失</summary>
+  <summary lang="zh_CN">保护您免受数据丢失困扰</summary>
+  <summary lang="vi">Bảo vệ bản thân bạn không bị mất dữ liệu</summary>
+  <summary lang="uk">Захистіть себе від втрати даних</summary>
+  <summary lang="tr">Kendinizi veri yitiminden koruyun</summary>
+  <summary lang="sv">Skydda dig själv från dataförlust</summary>
+  <summary lang="sr">Заштитите се од губитка података</summary>
+  <summary lang="sl">Zaščitite se pred izgubo podatkov</summary>
+  <summary lang="sk">Ochráňte sa pred stratou údajov</summary>
+  <summary lang="ru">Защитите себя от потери данных</summary>
+  <summary lang="pt_BR">Proteja-se contra perda de dados</summary>
+  <summary lang="pt">Proteja-se da perda de dados</summary>
+  <summary lang="pl">Chroń się przed utratą danych</summary>
+  <summary lang="oc">Protegissètz-vos de las pèrdas de donadas</summary>
+  <summary lang="nl">Bescherm uzelf tegen gegevensverlies</summary>
+  <summary lang="ja">データ損失からあなたを守ります</summary>
+  <summary lang="it">Proteggersi dalla perdita di dati</summary>
+  <summary lang="id">Lindungi dirimu dari kehilangan data</summary>
+  <summary lang="hu">Védje meg magát az adatvesztés ellen</summary>
+  <summary lang="hr">Zaštitite se od gubitka podataka</summary>
+  <summary lang="he">הגנה מאיבוד המידע שלך</summary>
+  <summary lang="gl">Protéxase das perdas de datos</summary>
+  <summary lang="fur">Proteziti da lis pierditis di dâts</summary>
+  <summary lang="fr">Protégez-vous contre la perte de données</summary>
+  <summary lang="fi">Suojaa itsesi tietojen menetykseltä</summary>
+  <summary lang="eu">Babestu zure datuak, ez daitezela galdu</summary>
+  <summary lang="de">Schützen Sie sich vor Datenverlust</summary>
+  <summary lang="da">Beskyt dig selv mod tab af data</summary>
+  <summary lang="cs">Chraňte se před ztrátou dat</summary>
+  <summary lang="ca">Protegiu-vos de la pèrdua de dades</summary>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>HighContrast</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>Notifications</kudo>
+    <kudo>UserDocs</kudo>
+  </kudos>
+  <recommends>
+    <control>keyboard</control>
+    <control>pointing</control>
+    <control>touch</control>
+  </recommends>
+  <requires>
+    <display_length compare="ge">360</display_length>
+  </requires>
+  <provides>
+    <binary>deja-dup</binary>
+    <id>deja-dup.desktop</id>
+    <id>deja-dup-preferences.desktop</id>
+    <id>io.snapcraft.deja-dup-FWBFbkKw7QOrYcJDRBwoDT2JNsavuet8</id>
+    <id>org.gnome.DejaDup.desktop</id>
+  </provides>
+  <categories>
+    <category>Utility</category>
+  </categories>
+  <project_license>GPL-3.0-or-later</project_license>
+  <launchable type="desktop-id">org.gnome.DejaDup.desktop</launchable>
+  <translation type="gettext">deja-dup</translation>
+  <content_rating type="oars-1.1" />
+  <url type="homepage">https://wiki.gnome.org/Apps/DejaDup</url>
+  <url type="help">https://wiki.gnome.org/Apps/DejaDup/Help</url>
+  <url type="bugtracker">https://gitlab.gnome.org/World/deja-dup/-/issues</url>
+  <url type="translate">https://l10n.gnome.org/module/deja-dup/</url>
+  <url type="faq">https://wiki.gnome.org/Apps/DejaDup/Details</url>
+  <url type="donation">https://liberapay.com/DejaDup</url>
+  <url type="contact">https://matrix.to/#/#deja-dup:gnome.org</url>
+  <metadata_license>CC-BY-SA-4.0</metadata_license>
+  <developer_name translate="no">Michael Terry</developer_name>
+  <custom>
+    <!-- Some blueish colors, which seem like a good background for our gray icon.
+     For dark mode (with light text): dark blue 406785
+     For light mode (with dark text): light blue 7bc9ff -->
+    <value key="GnomeSoftware::key-colors">[(64, 103, 133), (123, 201, 255)]</value>
+  </custom>
+  <!-- Run ./demo.sh to recreate these screenshots -->
+  <screenshots>
+    <screenshot type="default">
+      <image width="822" type="source" height="622">https://gitlab.gnome.org/World/deja-dup/raw/43.4/data/screenshots/main.png</image>
+      <caption>Back up your files automatically — set it and forget it</caption>
+      <caption lang="zh_TW">自動備份您的檔案 — 設定好就可以拋到腦後</caption>
+      <caption lang="zh_CN">自动备份您的文件——设置好，然后抛之脑后</caption>
+      <caption lang="vi">Sao lưu dự phòng các tập tin của bạn một cách tự động — Đặt nó và quên luôn</caption>
+      <caption lang="uk">Створюйте резервні копії ваших файлів автоматично. Налаштуйте програму і позбудьтеся клопоту.</caption>
+      <caption lang="tr">Dosyalarınızı kendiliğinden yedekleyin — ayarlayın ve unutun</caption>
+      <caption lang="sv">Säkerhetskopiera dina filer automatiskt — ställ in det och glöm det</caption>
+      <caption lang="sr">Правите резерве ваших датотека аутоматски — поставите ово и заборавите на то</caption>
+      <caption lang="sl">Samodejne varnostne kopije – nastavite in pozabite</caption>
+      <caption lang="sk">Zálohujte vaše súbory automaticky — vykonajte nastavenie a pustite to z hlavy</caption>
+      <caption lang="ru">Сохраняйте резервные копии автоматически - настройте и забудьте</caption>
+      <caption lang="pt_BR">Backup automático de seus arquivos — configure e não se preocupe</caption>
+      <caption lang="pt">Backup automático dos seus ficheiros — configure e não se preocupe</caption>
+      <caption lang="pl">Automatyczne kopie zapasowe — ustaw i zapomnij</caption>
+      <caption lang="oc">Salvagardatz vòstres fichièrs automaticament — configuratz-lo e oblidatz-lo</caption>
+      <caption lang="nl">Maak automatisch back-ups van uw bestanden — stel het één keer in en u hoeft er niet meer aan te denken</caption>
+      <caption lang="it">Esegui il backup automatico dei file — impostalo e dimenticalo</caption>
+      <caption lang="id">Cadangkan berkas-berkas Anda secara otomatis — atur itu dan lupakan</caption>
+      <caption lang="hu">Készítsen automatikus biztonsági mentést a fájljairól – állítsa be és felejtse el a problémát</caption>
+      <caption lang="hr">Sigurnosno kopirajte svoje datoteke automatski — postavite i zaboravite</caption>
+      <caption lang="he">גיבוי הקבצים שלך באופן אוטומטי - הגדרה אחת בלבד</caption>
+      <caption lang="gl">Respalde os seus ficheiros automaticamente — configúreo e olvídeo</caption>
+      <caption lang="fur">Fâs il backup dai tiei files in auotmatic — configurilu e dismenteiti di lui</caption>
+      <caption lang="fr">Sauvegardez vos fichiers automatiquement — configurez et n’y pensez plus</caption>
+      <caption lang="fi">Varmuuskopioi tiedostot automaattisesti — määritä asetukset ja unohda asia</caption>
+      <caption lang="eu">Egin zure fitxategien babeskopia automatikoki - konfiguratu eta ahaztu</caption>
+      <caption lang="de">Sichern Sie Ihre Daten automatisch. Einmal einstellen und nie wieder darum kümmern</caption>
+      <caption lang="da">Foretag automatisk sikkerhedskopiering af dine filer — indstil og lad det køre</caption>
+      <caption lang="cs">Zálohujte soubory automaticky — nastavte a zapomeňte na to</caption>
+      <caption lang="ca">Fes una còpia de seguretat dels fitxers automàticament - configureu-lo i oblideu-vos</caption>
+    </screenshot>
+    <screenshot>
+      <image type="source" width="822" height="622">https://gitlab.gnome.org/World/deja-dup/raw/43.4/data/screenshots/restore.png</image>
+      <caption>Restoring is a breeze — browse your files and select which to restore</caption>
+      <caption lang="zh_TW">還原有如春風拂面 —瀏覽您的檔案，並選取想還原的項目</caption>
+      <caption lang="zh_CN">轻松恢复——浏览您的文件，选择要恢复的部分</caption>
+      <caption lang="vi">Khôi phục là việc nhẹ nhàng — duyệt các tập tin của bạn và chọn cái muốn khôi phục lại</caption>
+      <caption lang="uk">Відновлення даних є надзвичайно простим. Достатньо вибрати файли і каталог для відновлення.</caption>
+      <caption lang="tr">Geri yüklemek çocuk oyuncağı — dosyalarınıza göz atın ve hangisinin geri yükleneceğini seçin</caption>
+      <caption lang="sv">Återställning är enkelt — bläddra bland dina filer och välj vilka du vill återställa</caption>
+      <caption lang="sr">Враћање је врло лако — разгледајте ваше датотеке и изаберите које желите да вратите</caption>
+      <caption lang="sl">Obnavljanje je enostavno – med brskanjem lahko izberete in obnovite</caption>
+      <caption lang="sk">Obnova je hračka — prehliadajte vaše súbory a vyberte, ktoré sa majú obnoviť</caption>
+      <caption lang="ru">Восстановление в один момент — просмотрите свои файлы и выберите, что восстановить</caption>
+      <caption lang="pt_BR">Restaurar é moleza — navegue por seus arquivos e selecione quais restaurar</caption>
+      <caption lang="pt">Restaurar é fácil — navegue pelos seus ficheiros e selecione o que pretende restaurar</caption>
+      <caption lang="pl">Przywracanie jest łatwizną — przeglądaj pliki i zaznacz te, które przywrócić</caption>
+      <caption lang="oc">La restauracion es facila — navigatz demest vòstres fichièrs e seleccionatz quin restaurar</caption>
+      <caption lang="nl">Herstellen is simpel — blader door uw bestanden en selecteer dewelke u wilt herstellen</caption>
+      <caption lang="it">Ripristina in un soffio — esplora i file e seleziona quali ripristinare</caption>
+      <caption lang="id">Memulihkan itu ringan — ramban berkas Anda dan pilih mana yang akan dipulihkan</caption>
+      <caption lang="hu">A visszaállítás gyerekjáték – tallózza a fájljait, és válassza ki, amit visszaállítana</caption>
+      <caption lang="hr">Obnavljanje je jednostavno — pregledajte svoje datoteke i odaberite koje ćete obnoviti</caption>
+      <caption lang="he">השחזרו הוא קל - עיון בקבצים שלך ובחירת הקבצים לשחזור</caption>
+      <caption lang="gl">Restaurar é moi doado — explore os seus ficheiros e seleccione o que restaurar</caption>
+      <caption lang="fur">Ripristinâ al è facilissim — cîr i tiei files e selezione cuâl ripristinâ</caption>
+      <caption lang="fr">La restauration est un jeu d’enfant — parcourez vos fichiers et sélectionnez ceux que vous souhaitez restaurer</caption>
+      <caption lang="fi">Palauttaminen tapahtuu hetkessä — selaa tiedostojasi ja valitse mitä palautetaan</caption>
+      <caption lang="eu">Leheneratzea erraz-erraza da - arakatu zure fitxategiak eta hautatu zein leheneratuko den</caption>
+      <caption lang="de">Dateien wiederherstellen ist ein Kinderspiel. Durchsuchen Sie Ihre Dateien und wählen Sie Dateien zur Wiederherstellung aus</caption>
+      <caption lang="da">Gendannelse er pærenemt — gennemse dine filer og vælg dem, der skal genoprettes</caption>
+      <caption lang="cs">Obnovení je hračka — procházejte soubory a vyberte ty, které chcete obnovit</caption>
+      <caption lang="ca">La restauració és ràpida — navegueu pels vostres fitxers i seleccioneu el que voleu restaurar</caption>
+    </screenshot>
+    <screenshot>
+      <image width="622" height="622" type="source">https://gitlab.gnome.org/World/deja-dup/raw/43.4/data/screenshots/preferences.png</image>
+      <caption>Back up to the cloud, a network server, or a local drive</caption>
+      <caption lang="zh_TW">備份至雲端、網路伺服器、本地裝置等</caption>
+      <caption lang="zh_CN">备份到云端、网络服务器或是本地驱动器</caption>
+      <caption lang="vi">Sao lưu dự phòng lên mây, máy phục vụ trên mạng, hoặc đĩa nội bộ</caption>
+      <caption lang="uk">Створюйте резервні копії у «хмарі», на сервері у мережі або на диску вашого комп'ютера.</caption>
+      <caption lang="tr">Buluta, ağ sunucusuna veya yerel sürücüye yedekleyin</caption>
+      <caption lang="sv">Säkerhetskopiera till molnet, en nätverksserver eller en lokal enhet</caption>
+      <caption lang="sr">Направите резерву на облаку, мрежном серверу или на месном диску</caption>
+      <caption lang="sl">Varnostno kopiranje v oblak, na omrežni strežnik, na krajevni disk – kakorkoli želite</caption>
+      <caption lang="sk">Zálohujte do cloudu, na sieťový server alebo miestnu jednotku</caption>
+      <caption lang="ru">Сохраняйте в облако, сетевой сервер или локальный диск</caption>
+      <caption lang="pt_BR">Faça backup para a nuvem, um servidor de rede ou uma unidade local</caption>
+      <caption lang="pt">Faça backup para a nuvem, um servidor de rede ou uma unidade local</caption>
+      <caption lang="pl">Kopie zapasowe w chmurze, na serwerze sieciowym lub lokalnym dysku</caption>
+      <caption lang="oc">Salvar cap al cloud, a un servidor ret o a un disc local</caption>
+      <caption lang="nl">Maak back-ups naar de cloud, een netwerkserver of een lokale schijf</caption>
+      <caption lang="it">Esegui il backup sul cloud, un server di rete o un dispositivo locale</caption>
+      <caption lang="id">Cadangkan ke cloud, suatu server jaringan, atau drive lokal</caption>
+      <caption lang="hu">Mentsen felhőbe, hálózati kiszolgálóra vagy helyi meghajtóra</caption>
+      <caption lang="hr">Sigurnosno kopirajte u oblak, mrežni poslužitelj ili na lokalni disk</caption>
+      <caption lang="he">גיבוי לענן, לשרת מרוחקת או להחסן מקומי</caption>
+      <caption lang="gl">Respalde na nube, nun servidor de rede ou nunha unidade local</caption>
+      <caption lang="fur">Fâs il backup sul cloud, suntun servidôr di rêt o suntune unitât locâl</caption>
+      <caption lang="fr">Sauvegardez dans le nuage, un serveur réseau ou un lecteur local</caption>
+      <caption lang="fi">Varmuuskopioi pilveen, verkkopalvelimelle tai paikalliselle levylle</caption>
+      <caption lang="eu">Egin babeskopia hodeian, sareko zerbitzari batean edo unitate lokal batean</caption>
+      <caption lang="de">Sichern Sie in die Cloud, auf einen Netzwerkrechner oder ein lokales Laufwerk</caption>
+      <caption lang="da">Gem sikkerhedskopien i skyen, på en netværksserver eller et lokalt drev</caption>
+      <caption lang="cs">Zálohujte do cloudu, na síťový server nebo místní disk</caption>
+      <caption lang="ca">Fes una còpia de seguretat al núvol, a un servidor de xarxa o a una unitat local</caption>
+    </screenshot>
+    <screenshot>
+      <image height="622" width="622" type="source">https://gitlab.gnome.org/World/deja-dup/raw/43.4/data/screenshots/folders.png</image>
+      <caption>Take control of your backup by choosing exactly which folders to include</caption>
+      <caption lang="zh_TW">掌握您的備份，選擇您實際想納入那些資料夾</caption>
+      <caption lang="zh_CN">控制您的备份，选择要包含的文件夹</caption>
+      <caption lang="vi">Kiểm soát sao lưu dự phòng bằng cách chọn chính xác thư mục muốn được bao gồm</caption>
+      <caption lang="uk">Керуйте резервним копіюванням, вибравши саме ті теки, які вам потрібні.</caption>
+      <caption lang="tr">Tam olarak hangi klasörlerin içerileceğini seçerek yedeğinizin denetimini ele alın</caption>
+      <caption lang="sv">Ta kontroll över din säkerhetskopiering genom att välja exakt vilka mappar som ska inkluderas</caption>
+      <caption lang="sr">Преузмите контролу над вашим резервама бирајући тачно које ће фасцикле бити укључене</caption>
+      <caption lang="sl">Prevzemite nadzor nad varnostnim kopiranjem in izberite le tiste mape, ki jih želite vključiti.</caption>
+      <caption lang="sk">Ovládajte vašu zálohu výlučným zvolením priečinkov, ktoré sa majú zahrnúť</caption>
+      <caption lang="ru">Возьмите контроль в свои руки, выбирая, что именно вы хотите включить в копию</caption>
+      <caption lang="pt_BR">Assuma o controle de seu backup, escolhendo exatamente quais pastas a serem incluídas</caption>
+      <caption lang="pt">Assuma o controlo do backup, escolhendo exatamente quais as pastas a serem incluídas</caption>
+      <caption lang="pl">Przejmij kontrolę nad kopią zapasową wybierając dokładnie, które katalogi zapisać</caption>
+      <caption lang="oc">Contrarotlatz vòstras salvagardas en causissent exactament quins dossièrs inclure</caption>
+      <caption lang="nl">Neem de touwtjes van uw back-ups in handen door te kiezen welke mappen u precies in de back-up wilt zetten</caption>
+      <caption lang="it">Prendi il controllo del backup scegliendo esattamente quali cartelle includere</caption>
+      <caption lang="id">Ambil kendali dari pencadangan Anda dengan memilih secara eksak folder mana yang disertakan</caption>
+      <caption lang="hu">Vegye kezébe a biztonsági mentése irányítását, és adja meg pontosan, hogy mely mappákat veszi bele</caption>
+      <caption lang="hr">Upravljajte svojim sigurnosnim kopijama točnim odabirom mapa koje će biti obuhvaćene</caption>
+      <caption lang="he">שליטה על הגיבוי שלך באמצעות בחירה מדוקדקת של התיקייות לגיבוי</caption>
+      <caption lang="gl">Tome control do seu respaldo escollendo exactamente que cartafoles incluír</caption>
+      <caption lang="fur">Cjape il control dai tiei backups sielzint in maniere esate cualis cartelis includi</caption>
+      <caption lang="fr">Prenez le contrôle de votre sauvegarde en choisissant exactement les dossiers à inclure</caption>
+      <caption lang="fi">Ota hallinta varmuuskopioista valitsemalla haluamasi kansiot varmistettavaksi</caption>
+      <caption lang="eu">Hartu zure babeskopien kontrola, aukeratu zein karpeta zehatz sartuko den kopian</caption>
+      <caption lang="es">Tome el control de sus respaldos eligiendo exactamente qué carpetas incluir</caption>
+      <caption lang="de">Behalten Sie die Kontrolle über Ihre Sicherung und wählen Sie die einzubeziehenden Ordner aus</caption>
+      <caption lang="da">Få fuld kontrol over din sikkerhedskopi ved at vælge, hvilke mapper der skal medtages</caption>
+      <caption lang="cs">Mějte kontrolu nad zálohováním tak, že vyberete, které složky zahrnout</caption>
+      <caption lang="ca">Preneu el control de les còpies de seguretat escollint exactament quines carpetes incloure</caption>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release version="43.4" date="2022-06-21">
+      <description translate="no">
+        <p>Fixes some quality of life issues, like notifying about power saver mode delaying your backup and fitting on small screens better.</p>
+      </description>
+      <url>https://gitlab.gnome.org/World/deja-dup/-/tags/43.4</url>
+    </release>
+    <release date="2022-05-17" version="43.3">
+      <description translate="no">
+        <p>Update the Google/Microsoft authentication flow to a more secure version.</p>
+      </description>
+      <url>https://gitlab.gnome.org/World/deja-dup/-/tags/43.3</url>
+    </release>
+    <release version="43.2" date="2022-02-05">
+      <description translate="no">
+        <p>Fix a crash when picking a mount as a Local Folder destination.</p>
+      </description>
+      <url>https://gitlab.gnome.org/World/deja-dup/-/tags/43.2</url>
+    </release>
+    <release version="43.1" date="2022-01-05">
+      <description translate="no">
+        <p>Increases default window size, to avoid being too small.</p>
+      </description>
+      <url>https://gitlab.gnome.org/World/deja-dup/-/tags/43.1</url>
+    </release>
+    <release date="2022-01-01" version="43.0">
+      <description translate="no">
+        <p>Adds support for Microsoft OneDrive, experimental opt-in support for Restic, and a visual refresh.</p>
+      </description>
+      <url>https://gitlab.gnome.org/World/deja-dup/-/tags/43.0</url>
+    </release>
+    <release type="development" version="43~beta" date="2021-11-26">
+      <description translate="no">
+        <p>Adds a couple extra automatic schedule options and some bug fixes.</p>
+      </description>
+      <url>https://gitlab.gnome.org/World/deja-dup/-/tags/43.beta</url>
+    </release>
+    <release date="2021-09-22" type="development" version="43~alpha">
+      <description translate="no">
+        <p>Adds support for Microsoft OneDrive, experimental opt-in support for Restic, and some UI cleanup.</p>
+      </description>
+    </release>
+    <release version="42.8" date="2021-08-11">
+      <description translate="no">
+        <p>Fix scheduled backups being skipped if a previous password prompt was ignored.</p>
+      </description>
+    </release>
+    <release version="42.7" date="2021-01-13">
+      <description translate="no">
+        <p>Fix descending into a folder while searching in the browse and restore view.</p>
+      </description>
+    </release>
+    <release version="42.6" date="2020-11-21">
+      <description translate="no">
+        <p>Fix a possible crash when searching over unicode filenames.</p>
+      </description>
+    </release>
+    <release version="42.5" date="2020-10-21">
+      <description translate="no">
+        <p>Fix a few issues with restoring files that have unusual characters in their filenames, plus some other small UI improvements and bug fixes.</p>
+      </description>
+    </release>
+    <release version="42.4" date="2020-09-11">
+      <description translate="no">
+        <p>Hotfix for a bug that prevented restoring from removable drives.</p>
+      </description>
+    </release>
+    <release version="42.3" date="2020-09-09">
+      <description translate="no">
+        <p>Improves detection of encrypted drives, shows the browse and restore interface during fresh-install restores, and uses desktop notifications when user attention is needed.</p>
+      </description>
+    </release>
+    <release version="42.2" date="2020-08-10">
+      <description translate="no">
+        <p>Fixes a few edge cases of not mounting the storage location drive before backing up.</p>
+      </description>
+    </release>
+    <release version="42.1" date="2020-07-15">
+      <description translate="no">
+        <p>Fixes automatic backups for removable drives not firing off like they should, plus a few UI tweaks.</p>
+      </description>
+    </release>
+    <release date="2020-06-24" version="42.0">
+      <description translate="no">
+        <p>A whole new backup browse and restore interface has been added. Preferences got a glow-up too.</p>
+      </description>
+    </release>
+    <release version="41.3" type="development" date="2020-06-22">
+      <description translate="no">
+        <p>Warns you if you're trying to restore files that you can't write to.</p>
+      </description>
+    </release>
+    <release date="2020-06-08" type="development" version="41.2">
+      <description translate="no">
+        <p>Fixes a bug preventing some restores from new browser.</p>
+      </description>
+    </release>
+    <release type="development" version="41.1" date="2020-05-27">
+      <description translate="no">
+        <p>Adds an in-app restore browser.</p>
+      </description>
+    </release>
+    <release date="2020-05-19" type="development" version="41.0">
+      <description translate="no">
+        <p>Redesigned UI and dropped support for deprecated cloud storage locations.</p>
+      </description>
+    </release>
+    <release version="40.7" date="2020-06-14">
+      <description translate="no">
+        <p>Fixes a bug that prevented restoring from Google Drive accounts if you haven't backed up yet.</p>
+      </description>
+    </release>
+    <release date="2019-12-08" version="40.6">
+      <description translate="no">
+        <p>Fixes a bug that prevented backing up to Google Drive accounts with unlimited quotas.</p>
+      </description>
+    </release>
+    <release version="40.5" date="2019-11-23">
+      <description translate="no">
+        <p>Fixes a bug that prevented backing up to Google Drive in some rare situations.</p>
+      </description>
+    </release>
+    <release version="40.4" date="2019-11-14">
+      <description translate="no">
+        <p>Fixes a bug that prevented the first login to Google Drive.</p>
+      </description>
+    </release>
+    <release version="40.3" date="2019-11-13">
+      <description translate="no">
+        <p>Fixes a bug that prevented resuming a full backup.</p>
+      </description>
+    </release>
+    <release version="40.2" date="2019-10-23">
+      <description translate="no">
+        <p>Fixes 2038 date problems by using 64-bit dates internally.</p>
+      </description>
+    </release>
+  </releases>
+</component>

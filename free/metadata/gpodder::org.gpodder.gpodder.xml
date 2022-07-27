@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>gpodder</pkgname>
+  <icon type="cached" width="64" height="64">gpodder.png</icon>
+  <icon type="cached" height="128" width="128">gpodder.png</icon>
+  <id>org.gpodder.gpodder</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>gPodder</name>
+  <summary>Media aggregator and podcast client</summary>
+  <description>
+    <p>gPodder lets you manage your Podcast subscriptions, discover new content and download episodes to your devices.</p>
+    <p>You can also take advantage of the service gpodder.net, which lets you sync subscriptions, playback progress and starred episodes.</p>
+  </description>
+  <launchable type="desktop-id">gpodder.desktop</launchable>
+  <url type="homepage">https://www.gpodder.org</url>
+  <provides>
+    <binary>gpodder</binary>
+    <id>gpodder.desktop</id>
+  </provides>
+  <content_rating type="oars-1.0" />
+  <screenshots>
+    <screenshot type="default">
+      <caption>The main window</caption>
+      <image>https://raw.githubusercontent.com/flathub/org.gpodder.gpodder/master/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release version="3.10.5" date="2018-09-15">
+      <description>This is a bugfix release, shortly after 3.10.4, for the Rename after Download extension.</description>
+    </release>
+    <release version="3.10.4" date="2018-09-09" />
+    <release date="2018-06-14" version="3.10.3" />
+  </releases>
+</component>

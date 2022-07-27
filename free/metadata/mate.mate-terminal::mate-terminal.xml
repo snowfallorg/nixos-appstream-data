@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>mate.mate-terminal</pkgname>
+  <launchable type="desktop-id">mate-terminal.desktop</launchable>
+  <id>mate-terminal.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>MATE Terminal</name>
+  <name lang="zh_TW">MATE 終端機</name>
+  <name lang="zh_HK">MATE 終端機</name>
+  <name lang="zh_CN">MATE 终端</name>
+  <name lang="xh">I-Terminal ye-MATE</name>
+  <name lang="wa">Terminå di MATE</name>
+  <name lang="vi">Thiết bị cuối MATE</name>
+  <name lang="uz">MATE Terminali</name>
+  <name lang="ur">میٹ کا ٹرمنل</name>
+  <name lang="uk">Термінал MATE</name>
+  <name lang="ug">MATE تېرمىنال</name>
+  <name lang="tr">MATE Uçbirim</name>
+  <name lang="th">เทอร์มินัลของ MATE</name>
+  <name lang="te">MATE టెర్మినల్</name>
+  <name lang="ta">க்னோம் முனையம்</name>
+  <name lang="sv">MATE-terminal</name>
+  <name lang="sr@latin">Gnom terminal</name>
+  <name lang="sr">Мејтов терминал</name>
+  <name lang="sq">Terminali i MATE</name>
+  <name lang="sl">MATE Terminal</name>
+  <name lang="sk">Terminál prostredia MATE</name>
+  <name lang="si">MATE අග්‍රය</name>
+  <name lang="ru">Терминал MATE</name>
+  <name lang="ro">Terminal MATE</name>
+  <name lang="pt_BR">Terminal MATE</name>
+  <name lang="pt">Consola MATE</name>
+  <name lang="ps">جنومي پايالی</name>
+  <name lang="pl">Terminal MATE</name>
+  <name lang="pa">ਗਨੋਮ ਟਰਮੀਨਲ</name>
+  <name lang="or">MATE ଟର୍ମିନାଲ</name>
+  <name lang="oc">Terminal MATE</name>
+  <name lang="nn">MATE terminal</name>
+  <name lang="nl">MATE Terminalvenster</name>
+  <name lang="ne">जिनोम टर्मिनल</name>
+  <name lang="nds">MATE Terminal</name>
+  <name lang="nb">MATE terminal</name>
+  <name lang="ms">Terminal MATE</name>
+  <name lang="mr">MATE टर्मिनल</name>
+  <name lang="mn">ГНОМЕ Терминал</name>
+  <name lang="ml">ഗ്നോം ടെര്‍മിനല്‍</name>
+  <name lang="mk">Терминал за MATE</name>
+  <name lang="mg">Terminal an'ny MATE</name>
+  <name lang="mai">गनोम टर्मिनल</name>
+  <name lang="lv">MATE Terminālis</name>
+  <name lang="lt">MATE terminalas</name>
+  <name lang="la">MATE Termināle</name>
+  <name lang="ky">MATE терминалы</name>
+  <name lang="ku_IQ">تێرمیناڵی MATE</name>
+  <name lang="ku">Termînala MATE</name>
+  <name lang="ko">MATE 터미널</name>
+  <name lang="kn">MATE ಟರ್ಮಿನಲ್</name>
+  <name lang="kk">MATE терминалы</name>
+  <name lang="ka">გნომის ტერმინალი</name>
+  <name lang="jv">MATE Terminal</name>
+  <name lang="ja">MATE 端末</name>
+  <name lang="it">Terminale di MATE</name>
+  <name lang="ie">Terminal MATE</name>
+  <name lang="id">Terminal MATE</name>
+  <name lang="hy">ԳՆՈՄ Տերմինալ</name>
+  <name lang="hu">MATE Terminál</name>
+  <name lang="hr">MATE Terminal</name>
+  <name lang="hi">गनोम टर्मिनल</name>
+  <name lang="he">מסוף MATE</name>
+  <name lang="gu">જીનોમ ટર્મિનલ</name>
+  <name lang="gl">Terminal do MATE</name>
+  <name lang="ga">Teirminéal MATE</name>
+  <name lang="fur">Terminâl di MATE</name>
+  <name lang="frp">Tèrminâl de MATE</name>
+  <name lang="fr">Terminal MATE</name>
+  <name lang="fi">MATEn Pääte</name>
+  <name lang="fa">پایانه‌ی گنوم</name>
+  <name lang="eu">MATEko terminala</name>
+  <name lang="et">MATE terminal</name>
+  <name lang="es_CO">Terminal de MATE</name>
+  <name lang="es_AR">Terminal de MATE</name>
+  <name lang="es">Terminal de MATE</name>
+  <name lang="eo">MATE-Terminalo</name>
+  <name lang="en_GB">MATE Terminal</name>
+  <name lang="en_CA">MATE Terminal</name>
+  <name lang="en_AU">MATE Terminal</name>
+  <name lang="el">Τερματικό MATE</name>
+  <name lang="dz">ཇི་ནོམ་ ཊར་མི་ནཱལ།</name>
+  <name lang="de">MATE-Terminal</name>
+  <name lang="da">Mate-terminal</name>
+  <name lang="cy">Terfynell MATE</name>
+  <name lang="cs">Terminál MATE</name>
+  <name lang="crh">MATE Terminal</name>
+  <name lang="cmn">MATE 終端機</name>
+  <name lang="ca@valencia">Terminal del MATE</name>
+  <name lang="ca">Terminal de MATE</name>
+  <name lang="bs">MATE terminal</name>
+  <name lang="br">MATE Termenell</name>
+  <name lang="bn_IN">MATE Terminal</name>
+  <name lang="bn">MATE টার্মিনাল</name>
+  <name lang="bg">Терминал на MATE</name>
+  <name lang="be">Тэрмінал MATE</name>
+  <name lang="az">MATE Terminalı</name>
+  <name lang="ast">Terminal MATE</name>
+  <name lang="as">MATE Terminal</name>
+  <name lang="ar">طرفيّة متّة</name>
+  <name lang="am">የ ሜት ተርሚናል</name>
+  <name lang="af">MATE-terminaal</name>
+  <summary>A terminal emulator for the MATE desktop environment</summary>
+  <summary lang="zh_TW">適用於 MATE 桌面環境的終端機模擬器</summary>
+  <summary lang="zh_CN">用于 MATE 桌面的终端模拟器</summary>
+  <summary lang="uz">MATE ish stoli muhiti uchun terminal emulyatori</summary>
+  <summary lang="uk">Емулятор терміналу для стільничного середовища MATE</summary>
+  <summary lang="tr">MATE masaüstü ortamı için bir uçbirim öykünücüsü</summary>
+  <summary lang="th">เทอร์มินัลเทียมสำหรับสภาพแวดล้อมเดสก์ท็อป MATE</summary>
+  <summary lang="sv">En terminal-emulator för skrivbordsmiljön MATE</summary>
+  <summary lang="sr">Терминал за Мејтово радно окружење</summary>
+  <summary lang="sl">Terminalski emulator za MATE namizno okolje.</summary>
+  <summary lang="sk">Emulátor terminálu pre prostredie MATE</summary>
+  <summary lang="sc">Unu emuladore de terminale pro s'ambiente de iscriania MATE</summary>
+  <summary lang="ru">Эмулятор терминала для рабочего стола MATE</summary>
+  <summary lang="ro">Un emulator de terminal pentru desktop-ul MATE</summary>
+  <summary lang="pt_BR">Um emulador de terminal para o Ambiente de Trabalho MATE</summary>
+  <summary lang="pt">Um emulador de consola para o ambiente de trabalho MATE</summary>
+  <summary lang="pl">Emulator terminala dla środowiska MATE</summary>
+  <summary lang="oc">Emulator de terminal pel environament de burèu MATE</summary>
+  <summary lang="nl">Een terminalvenster voor de MATE-werkomgeving</summary>
+  <summary lang="nds">Een Terminal-Emulator för de MATE-Schrievdisk-Umgeven</summary>
+  <summary lang="nb">En terminalemulator for MATE skrivebordsmiljø</summary>
+  <summary lang="ms">Emulator terminal untuk persekitaran desktop MATE</summary>
+  <summary lang="lv">Termināļa emulators priekš MATE darbvirsmas</summary>
+  <summary lang="lt">Terminalo emuliatorius MATE darbalaukio aplinkai</summary>
+  <summary lang="la">Aemulātor terminālārius prō MATE circumiectō mēnsālī</summary>
+  <summary lang="ko">MATE 데스크톱 환경용 터미널</summary>
+  <summary lang="kk">MATE жұмыс үстелі үшін терминал эмуляторы</summary>
+  <summary lang="jv">Emulator dening terminal kanggo lingkungan MATE destop</summary>
+  <summary lang="ja">MATE デスクトップ環境向けの端末エミュレーター</summary>
+  <summary lang="it">Un emulatore di terminale per l'ambiente desktop MATE</summary>
+  <summary lang="ie">Un emulator de terminal por li ambientie MATE</summary>
+  <summary lang="id">Emulator terminal untuk lingkungan destop MATE</summary>
+  <summary lang="hy">MATE սեղանադիր միջավայրի համար տերմինալ էմուլյատորը</summary>
+  <summary lang="hu">Terminálemulátor a MATE asztali környezethez</summary>
+  <summary lang="hr">Emulator terminala za MMATE radno okruženje</summary>
+  <summary lang="he">המסוף של שולחן העבודה MATE</summary>
+  <summary lang="gl">Un emulador de terminal para o contorno de escritorio MATE</summary>
+  <summary lang="frp">Un èmulatòr de tèrminâl por la chaplèta de MATE</summary>
+  <summary lang="fr">Un émulateur de terminal pour l'environnement de bureau MATE</summary>
+  <summary lang="fi">Pääteikkuna MATE-työpöytäympäristölle</summary>
+  <summary lang="eu">Terminal emuladorea MATEren mahaigain ingurunerako</summary>
+  <summary lang="et">Terminaliemulaator MATE töölauakeskkonnale</summary>
+  <summary lang="es_CO">Un emulador de terminal para el entorno de escritorio MATE</summary>
+  <summary lang="es_AR">Un emulador de terminal para el entorno de escritorio MATE</summary>
+  <summary lang="es">Un emulador de terminal para el entorno de escritorio MATE</summary>
+  <summary lang="en_GB">A terminal emulator for the MATE desktop environment</summary>
+  <summary lang="en_AU">A terminal emulator for the MATE desktop environment</summary>
+  <summary lang="el">Προσομοιωτής τερματικού για το περιβάλλον εργασίας του MATE</summary>
+  <summary lang="de">Ein Terminalemulator für die MATE-Arbeitsumgebung</summary>
+  <summary lang="da">En terminalemulator for skrivebordsmijøet MATE</summary>
+  <summary lang="cy">Efelychydd terfnyell i'r amgylchedd bwrdd gwaith MATE</summary>
+  <summary lang="cs">Emulátor terminálu pro prostředí plochy MATE</summary>
+  <summary lang="ca@valencia">Un emulador de terminal per a l'entorn d'escriptori MATE</summary>
+  <summary lang="ca">Un emulador de terminal per a l'entorn d'escriptori MATE</summary>
+  <summary lang="bs">Emulator terminala za MATE desktop.</summary>
+  <summary lang="bg">Терминал за графична среда MATE</summary>
+  <summary lang="be">Эмулятар тэрміналу асяроддзя MATE</summary>
+  <summary lang="ast">Un emulador de terminal pal escritoriu Mate</summary>
+  <summary lang="ar">محاكي طرفية لسطح مكتب متّة</summary>
+  <summary lang="am">ተርሚናል ተመሳሳይ ለ ሜት ዴስክቶፕ አካባቢ </summary>
+  <description>
+    <p>
+   MATE Terminal is a terminal emulation application that you can use
+   to access a UNIX shell in the MATE environment. MATE Terminal emulates
+   the xterm program developed by the X Consortium. It supports translucent
+   backgrounds, opening multiple terminals in a single window (tabs) and
+   clickable URLs.
+  </p>
+    <p>
+   MATE Terminal is a fork of GNOME Terminal and part of the MATE Desktop Environment.
+   If you would like to know more about MATE and MATE Terminal, please visit the
+   project's home page.
+  </p>
+  </description>
+  <description lang="ca">
+    <p> El terminal de MATE és una aplicació d'emulació de terminal que pot utilitzar-se per accedir a un shell UNIX a l'entorn MATE. El terminal de MATE emula el programa xterm desenvolupat pel X Consortium. És compatible amb els fons transparents, l'apertura de diversos terminals en una sola finestra (pestanyes) i es poden fer clic als URL.</p>
+    <p>El terminal de MATE és una bifurcació del terminal de GNOME, i part de l'entorn d'escriptori MATE. Si voleu saber més sobre MATE i el terminal de MATE, visiteu la pàgina principal del projecte.</p>
+  </description>
+  <description lang="cs">
+    <p>Terminál MATE je je aplikace emulující terminál, kterou můžete použít pro přístup k shellu UNIXu v prostředí MATE. Terminál MATE emuluje program xterm vyvinutý společností X Consortium. Podporuje průsvitné pozadí, otevírání více terminálů v jednom okně (karty) a klikatelné adresy URL.</p>
+    <p>Terminál MATE je forkem aplikace GNOME Terminal a součástí prostředí MATE. Pokud se chcete dozvědět více o MATE a MATE Terminal, navštivte domovskou stránku projektu.</p>
+  </description>
+  <description lang="da">
+    <p>MATE Terminal er en terminalemulator, som du kan bruge til at tilgå en UNIX-skal i MATE-miljøet. MATE Terminal emulerer xterm-programmet udviklet af X Consortium. Den understøtter gennemskinnelige baggrunde, åbning af flere terminaler i et enkelt vindue (faneblade) og adresser, der kan klikkes på.</p>
+    <p>MATE Terminal er en forgrening af GNOME Terminal og en del af skrivebordsmiljøet MATE. Hvis du ønsker at vide mere om MATE og MATE Terminal så besøg projektets hjemmeside.</p>
+  </description>
+  <description lang="en_GB">
+    <p>MATE Terminal is a terminal emulation application that you can use to access a UNIX shell in the MATE environment. MATE Terminal emulates the xterm program developed by the X Consortium. It supports translucent backgrounds, opening multiple terminals in a single window (tabs) and clickable URLs.</p>
+    <p>MATE Terminal is a fork of GNOME Terminal and part of the MATE Desktop Environment. If you would like to know more about MATE and MATE Terminal, please visit the project's home page.</p>
+  </description>
+  <description lang="es">
+    <p>Terminal de MATE es una aplicación de emulación de terminal que puede usar para acceder a un intérprete de órdenes de UNIX en el entorno MATE. Terminal de MATE emula el programa xterm desarrollado por el X Consortium. Admite fondos transparentes, abrir de múltiples terminales en una sola ventana (pestañas) y hacer clic en URL. </p>
+    <p>Terminal de MATE es una bifurcación de Terminal de GNOME y es parte del entorno de escritorio MATE. Si quiere saber más sobre MATE y Terminal de MATE, visite la página principal del proyecto. </p>
+  </description>
+  <description lang="et">
+    <p>MATE Terminal on GNOME Terminali haru ja osa MATE töölauakeskkonnast. Kui soovite MATE ja MATE terminali kohta rohkem teada saada, külastage projekti kodulehte.</p>
+  </description>
+  <description lang="eu">
+    <p>MATE Terminala terminal-emulazio aplikazio bat da, MATE ingurunean UNIX shell bat atzitzeko erabil daitekeena. MATE Terminalek X Consortiumek garatutako xterm programa emulatzen du. Atzealde gardenxkak onartzen ditu, eta baita hainbat terminal irekitzea leiho bakarrean (fitxak) eta URL klikagarriak ere.</p>
+    <p>MATE Terminala GNOME Terminaleko adarkatze bat da, eta MATE mahaigainaren inguruneko zati bat. MATE eta MATE Terminalari buruz gehiago jakin nahi baduzu, ikusi proiektuaren orri nagusia.</p>
+  </description>
+  <description lang="fr">
+    <p>MATE Terminal est une application d'émulation de terminal que vous pouvez utiliser pour accéder à un shell UNIX dans l'environnement MATE. MATE Terminal émule le programme xterm développé par le Consortium X. Il prend en charge les arrière-plans translucides, ouvrant plusieurs terminaux dans une seule fenêtre (onglets) et des URL cliquables.</p>
+    <p>MATE Terminal est un fork de GNOME Terminal et fait partie de MATE Desktop Environment. Si vous souhaitez en savoir plus sur MATE et MATE Terminal, veuillez visiter la page d'accueil du projet.</p>
+  </description>
+  <description lang="gl">
+    <p>MATE Terminal é unha aplicación de emulación de terminal, para ser empregada para un acceso á unha consola UNIX nun contorno MATE. MATE Terminal emula ao programa «xterm» desenvolvido polo X Consortium. Admite fondos translucidos, a apertura de múltiples terminais (lapelas)  nunha mesma xanela e URL no que poder premer.</p>
+    <p>MATE Terminal é unha bifurcación do GNOME Terminal e é parte do contorno de escritorio MATE. Se quere saber máis sobre MATE e MATE Terminal, vexa a páxina do proxecto.</p>
+  </description>
+  <description lang="id">
+    <p>Terminal MATE adalah aplikasi emulasi terminal yang dapat Anda gunakan untuk mengakses shell UNIX pada lingkungan MATE. Terminal MATE mengemulasikan program xterm yang dikembangkan oleh Konsorsium X. Ini mendukung latar belakang tembus pandang, membuka banyak terminal dalam satu jendela (tab), dan URL yang dapat diklik.</p>
+    <p>Terminal MATE adalah fork dari Terminal GNOME dan bagian dari Lingkungan Destop MATE. Bila Anda ingin tahu lebih banyak tentang MATE dan Terminal MATE, silakan kunjungi halaman web proyek.</p>
+  </description>
+  <description lang="it">
+    <p>Terminale di MATE è un emulatore di terminale che può essere usato per accedere alla shell UNIX nell'ambiente desktop MATE. Terminale di MATE emula il programma xterm sviluppato dal X Consortium. Supporta gli sfondi trasparenti, l'apertura di terminali multipli in una singola finestra (schede) e gli URL cliccabili.</p>
+    <p>Terminale di MATE è un fork di GNOME Terminal ed è parte dell'ambiente desktop MATE. Se vuoi conoscere di più su MATE e MATE Terminal, visita la home page del progetto.</p>
+  </description>
+  <description lang="ja">
+    <p>MATE 端末は、MATE 環境で UNIX シェルにアクセスするために使用する端末をエミュレートするアプリケーションで す。MATE 端末は、X Consortium が開発した xterm プログラムをエミュレートします。半透明の背景、複数の端末を一つのウィンドウ（タブ）で開いたり、クリック可能なURLをサポートしています。</p>
+    <p>MATE 端末は GNOME 端末のフォークであり、MATE デスクトップ環境の一部です。MATE と MATE 端末についてもっと知りたければ、当プロジェクトのウェブサイトをご覧ください。</p>
+  </description>
+  <description lang="ko">
+    <p>GNOME 터미널은 GNOME 터미널의 포크이자 GNOME 데스크톱 환경의 일부입니다. GNOME와 GNOME 터미널에 대해 자세히 알고 싶으시면 프로젝트 홈페이지를 방문해주세요.</p>
+  </description>
+  <description lang="lt">
+    <p>MATE terminalas yra terminalo emuliatoriaus programa, kurią galima naudoti pasiekti UNIX apvalkalą MATE aplinkoje. MATE terminalas emuliuoja xterm programą, kuriamą „X Consortium“. Ji palaiko permatomus fonus, kelių terminalų atidarymą viename lange (kortelėse) ir spustelėjamus URL adresus.</p>
+    <p>MATE terminalas yra GNOME terminalo atšaka ir MATE darbalaukio aplinkos dalis. Jei norėtumėte sužinoti daugiauapie MATE ir MATE terminalą, prašom aplankyti projekto tinklalapį,</p>
+  </description>
+  <description lang="ms">
+    <p>Terminal MATE adalah aplikasi emulasi yang membolehkan anda capai shell UNIX di dalam persekitaran MATE. Terminal MATE emulasikan program xterm yang telah dibangunkan oleh X Consortium. Ia menyokong latar belakang lutsinar, pembukaan terminal berbilang dalam satu tinggal (tab) dan URL boleh klik.</p>
+    <p>Terminal MATE merupakan cabang dari GNOME Terminal dan sebahagian dari Persekitaran Atas Meja MATE. Jika anda mahu ketahui lebih lanjut mengenai MATE dan Terminal MATE, sila lawati laman sesawang projek.</p>
+  </description>
+  <description lang="nb">
+    <p>MATE-terminal er en terminalemulator du kan bruke til å nå et UNIX-skall i MATE-miljøet. MATE terminal emulerer xterm-programmet utviklet av X Consortium. Det støtter gjennomsiktige bakgrunner, åpning av flerfoldige terminaler i et enkelt vindu (faner) og klikkbare nettadresser. </p>
+    <p>MATE-terminal er en forgreining av GNOME-terminal og en del av skrivebordsmiljøet MATE. Besøk prosjektets hjemmeside hvis du ønsker å vite mer om MATE og MATE-terminal.</p>
+  </description>
+  <description lang="nl">
+    <p>MATE Terminal is een terminalvenstertoepassing die u kunt gebruiken om een Unix-schil te gebruiken in de werkomgeving MATE. MATE Terminal bootst het xterm-programma na dat is ontwikkeld door het X-consortium. Hij ondersteunt doorzichtige achtergronden, het openen van meerdere terminalvensters in een enkel venster (tabbladen) en aanklikbare webadressen.</p>
+    <p>MATE Terminal is een vork van GNOME Terminal en maakt deel uit van de werkomgeving MATE. Als u meer wilt weten over MATE en MATE Terminal, bezoek dan a.u.b. de thuispagina van het project.</p>
+  </description>
+  <description lang="oc">
+    <p>MATE Terminal es una derivacion de GNOME TERMINAL e fa part de l’environament de burèu MATE. Se volètz ne saber mai tocant MATE e MATE TERMINAL, consultatz lo site del projècte.</p>
+  </description>
+  <description lang="pl">
+    <p>Terminal MATE jest aplikacją emulacji terminala, którą możesz użyć, aby zyskać dostęp do powłoki UNIX-a w środowisku MATE. Terminal MATE emuluje program xterm stworzony przez Konsorcjum X. Obsługuje przezroczyste tła, otwieranie wielu terminali w pojedynczym oknie (karty) oraz klikalne adresy URL.</p>
+    <p>Terminal MATE jest forkiem Terminala GNOME i jest częścią środowiska MATE. Jeżeli chcesz się dowiedzieć więcej na temat MATE i Terminala MATE, proszę odwiedzić stronę domową projektu.</p>
+  </description>
+  <description lang="pt">
+    <p>O MATE Terminal é uma aplicação de emulação de terminal e pode ser usado para aceder a um interpretador de comandos (shell) UNIX no ambiente MATE. O MATE Terminal emula o programa xterm desenvolvido pelo Consórcio X. Suporta fundos semi-transparentes, abertura de vários terminais numa só janela (separadores) e URLs clicáveis.</p>
+    <p>O MATE Terminal é uma derivação do GNOME Terminal e é parte do Ambiente de Trabalho MATE. Para saber mais sobre o MATE e o MATE Terminal, visitar o sítio web do projecto.</p>
+  </description>
+  <description lang="ru">
+    <p>MATE Terminal – эмулятор терминала, используемый для доступа к командной оболочке UNIX в среде MATE. MATE Terminal эмулирует приложение xterm, разработанное консорциумом X. Он поддерживает прозрачный фон, открытие нескольких терминалов в одном окне (вкладки) и кликабельные URL.</p>
+    <p>MATE Terminal – форк GNOME Terminal и часть рабочей среды MATE. Если вы хотите знать больше о MATE и MATE Terminal, пожалуйста, посетите домашнюю страницу проекта.</p>
+  </description>
+  <description lang="sr">
+    <p>Мејтов терминал је програм опонашања терминала који можете да користите да приступите „UNIX“ љусци у Мејтовом окружењу. Мејтов терминал опонаша програм „xterm“ који је развио Конзорцијум Икса. Подржава светлуцаве позадине, отварање неколико терминала у једном прозору (језичцима) и УРЛ-ове на које се може кликнути.</p>
+    <p>Мејтов терминал је исцепак Гномовог терминала и део Мејтовог окружења радне површи. Ако желите да знате више о Мејту и Мејтовом терминалу, посетите главну страницу пројекта.</p>
+  </description>
+  <description lang="sv">
+    <p>MATE Terminal är en terminalemuleringsprogram som du kan använda för att få tillgång till ett UNIX-skal i skrivbordsmiljön MATE. MATE Terminal emulerar xterm, ett program som är utvecklat av X Consortium. Det stöder transparenta bakgrunder, öppnande av flera terminaler i samma fönster (flikar) och klickbara webbadresser.</p>
+    <p>MATE Terminal är en avgrening av GNOME Terminal och är en del av skrivbordsmiljön MATE. Om du vill veta mer om MATE och MATE Terminal, besök gärna projektets hemsida.</p>
+  </description>
+  <description lang="th">
+    <p>เทอร์มินัล MATE เป็นโปรแกรมจำลองเทอร์มินัลสำหรับเข้าใช้สภาพแวดล้อมเชลล์ยูนิกซ์ในสภาพแวดล้อม MATE เทอร์มินัล MATE เลียนแบบโปรแกรม xterm ที่พัฒนาโดยสมาคม X รองรับพื้นหลังโปร่งแสง การเปิดหลายเทอร์มินัลในหน้าต่างเดียว (แท็บ) และสามารถคลิก URL ด้</p>
+    <p>เทอร์มินัล MATE แตกแขนงมาจากเทอร์มินัล GNOME และเป็นส่วนหนึ่งของสภาพแวดล้อมเดสก์ท็อป MATE ถ้าคุณต้องการทราบข้อมูลเพิ่มเติมเกี่ยวกับ MATE และเทอร์มินัล MATE กรุณาเยี่ยมชมโฮมเพจของโครงการ</p>
+  </description>
+  <description lang="uk">
+    <p>MATE Terminal — це програма для емуляції терміналу, яку ви можете використовувати для доступу до оболонки UNIX у середовищі MATE. Термінал MATE імітує програму xterm, розроблену X Консорціумом. Він підтримує напівпрозорі тла, відкриваючи кілька терміналів у одному вікні (вкладки) та URL-адреси, які можна натиснути.</p>
+    <p>Термінал MATE — це відгалуження терміналу GNOME та частина стільничного середовища MATE. Якщо ви волієте дізнатися більше про MATE та термінал MATE, відвідайте домашню сторінку проєкту.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>MATE 终端是一个终端模拟应用程序，让你可在 MATE 桌面环境下访问 UNIX 命令提示符。MATE 终端可模拟 X 协会的 xterm 程序。它还支持透明背景、在同一窗口下开启多个终端模拟器（标签页）以及 URL 浏览。</p>
+    <p>MATE 终端是一个 GNOME Terminal 的 fork，也是 MATE 桌面环境的一部分。欲知更多关于 MATE 及 MATE 终端的信息，请访问项目主页。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>MATE 終端機是一個可以讓您在 MATE 桌面環境下使用 UNIX 殼層的終端機模擬應用程式。MATE 終端機模擬由 X.Org 基金會所開發的 xterm 程式。它支援半透明背景、在單一視窗中開啟多個終端機模擬器頁籤及可點擊的 URL。</p>
+    <p>MATE 終端機是一個 GNOME 終端機的衍生產品，且為 MATE 桌面環境的一部份。如果您想要知道關於 MATE 及 MATE 終端機的更多資訊，請參觀專案首頁。</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image height="540" width="960">
+    https://alexpl.fedorapeople.org/AppData/mate-terminal/screens/mate-terminal_01.png
+   </image>
+    </screenshot>
+    <screenshot>
+      <image height="540" width="960">
+    https://alexpl.fedorapeople.org/AppData/mate-terminal/screens/mate-terminal_02.png
+   </image>
+    </screenshot>
+    <screenshot>
+      <image height="540" width="960">
+    https://alexpl.fedorapeople.org/AppData/mate-terminal/screens/mate-terminal_03.png
+   </image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://mate-desktop.org</url>
+  <updatecontact>mate-dev@ml.mate-desktop.org</updatecontact>
+  <project_group>MATE</project_group>
+</component>

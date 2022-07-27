@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>
+    Skanlite is a simple image scanning application to scan and save images.
+    It is optimized for scanning with flatbed scanners. Skanlite can capture not only photos and documents, but also transparent slides and filmstrips, with supported scanners.
+    </p>
+    <p>Features:</p>
+    <ul>
+      <li>Save dialog for every image scanned or saving the images immediately in a specified folder with auto-generated names and format</li>
+      <li>Support for networks scanners</li>
+      <li>Preview with selection feature for the final scan</li>
+      <li>Scanning multiple selections of an image</li>
+    </ul>
+  </description>
+  <description lang="ar">
+    <p>سكانلايت هو تطبيق بسيط لمسح الصور وحفظها. تم تحسينه للمسح الضوئي باستخدام الماسحات الضوئية المسطحة. لا تقتصر إمكانيات سكانلايت على التقاط الصور والمستندات فحسب ، بل يمكنه أيضًا التقاط الشرائح الشفافة وأشرطة الأفلام باستخدام الماسحات الضوئية المدعومة.</p>
+    <p>الميزات:</p>
+    <ul>
+      <li>حفظ مربع الحوار لكل صورة تم مسحها ضوئيًا أو حفظ الصور على الفور في مجلد محدد بأسماء وتنسيق أنشئت تلقائيًا</li>
+      <li>دعم الماسحات الضوئية الشبكية</li>
+      <li>معاينة مع ميزة التحديد قبل المسح النهائي</li>
+      <li>مسح عدة تحديدات في الصورة</li>
+    </ul>
+  </description>
+  <description lang="az">
+    <p>Skanlite şəkilləri taramaq və saxlamaq üçün sadə təsvir tarama tətbiqidir. Bu planşet skanerlərlə uyğunlaşdırılmış bir tarama cihazıdır. Skanlite təkcəşəkillərin və sənədlərin görüntüsünü deyil həmçinin dəstəkləyən skaner olduqda, şəffaf slaydların və diaflimlərin surətini oxuyaraq görüntüləyə bilir.</p>
+    <p>İmkanlar:</p>
+    <ul>
+      <li>Hər taranan təsvirin saxlanılması dialoqu və ya avtomatik ad və format təyin etməklə göstərilən qovluqda dərhal saxlanılması</li>
+      <li>Şəbəkə üzərindəki skanerləri dəstəkləyir</li>
+      <li>Son tarama üçün seçilən öncədən baxış</li>
+      <li>Təsvirin birdən çox seçimini tarama</li>
+    </ul>
+  </description>
+  <description lang="bg">
+    <p>Skanlite е просто приложение за сканиране и запазване на изображения. То е оптимизирано за сканиране с плоски скенери. Skanlite може да заснема не само снимки и документи, но и прозрачни слайдове и филмови ленти, с поддържани скенери.</p>
+    <p>Функции:</p>
+    <ul>
+      <li>Диалогов прозорец за запазване за всяко сканирано изображение или записване на изображенията незабавно в 
+определена папка с автоматично генерирани имена и формат</li>
+      <li>Поддръжка за мрежови скенери</li>
+      <li>Предварителен преглед с възможност за допълнителна селекция за сканиране</li>
+      <li>Сканиране на множество селекции на изображение</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>L'Skanlite és una aplicació d'escaneig d'imatges per a escanejar imatges i desar-les. Està optimitzada per a l'escaneig amb escàners de superfície plana. L'Skanlite no només pot capturar fotos i documents, també diapositives transparents i tires de pel·lícula, amb els escàners acceptats.</p>
+    <p>Característiques:</p>
+    <ul>
+      <li>Diàleg per a desar cada imatge escanejada o desar les imatges immediatament en una carpeta especificada amb noms i format generats automàticament</li>
+      <li>Implementació per a escàners en xarxa</li>
+      <li>Vista prèvia amb la característica de selecció per a l'escaneig final</li>
+      <li>Escaneig de múltiples seleccions d'una imatge</li>
+    </ul>
+  </description>
+  <description lang="ca-valencia">
+    <p>L'Skanlite és una aplicació d'escaneig d'imatges per a escanejar imatges i guardar-les. Està optimitzada per a l'escaneig amb escàners de superfície plana. L'Skanlite no només pot capturar fotos i documents, també diapositives transparents i tires de pel·lícula, amb els escàners acceptats.</p>
+    <p>Característiques:</p>
+    <ul>
+      <li>Diàleg per a guardar cada imatge escanejada o guardar les imatges immediatament en una carpeta especificada amb noms i format generats automàticament</li>
+      <li>Implementació per a escàners en xarxa</li>
+      <li>Vista prèvia amb la característica de selecció per a l'escaneig final</li>
+      <li>Escaneig de múltiples seleccions d'una imatge</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>Vlastnosti:</p>
+  </description>
+  <description lang="da">
+    <p>Skanlite er et simpelt scannerprogram til at scanne og gemme billeder. Skanlite er optimeret til at scanne med flatbed-scannere. Skanlite kan ikke kun scanne billeder og dokumenter, men også transparenter og filmruller med scannere der understøtter det.</p>
+    <p>Funktioner:</p>
+    <ul>
+      <li>Gemmedialog for hvert billede der scannes eller gemning af billeder direkte i en angiven mappe med autogenererede navne og format</li>
+      <li>Understøttelse af netværksscannere</li>
+      <li>Forhåndsvisning med vælgefunktion til den endelige scanning</li>
+      <li>Scanning af flere markeringer af et billede</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>Funktionen:</p>
+    <ul>
+      <li>Dialog zum Speichern für jedes eingescannte Bild oder Speichern der Bilder sofort in einem angegebenen Ordner wit automatisch generierten Namen und Format</li>
+      <li>Unterstützung für Netzwerk-Scanner</li>
+      <li>Vorschau mit der Auswahlfunktion für den endgültigen Scan</li>
+      <li>Sannen mehrerer Bereiche eines Fotos</li>
+    </ul>
+  </description>
+  <description lang="el">
+    <p>Το Skanlite είναι μια απλή εφαρμογή σάρωσης και αποθήκευσης εικόνων. Η βέλτιστη απόδοση είναι για σάρωση με επίπεδους σαρωτές. Το Skanlite δεν συλλαμβάνει μόνο φωτογραφίες και έγγραφα, αλλά και διαφάνειες και λωρίδες φιλμ με τους υποστηριζόμενους σαρωτές.</p>
+    <p>Χαρακτηριστικά:</p>
+    <ul>
+      <li>Αποθήκευση διαλόγου για κάθε εικόνα μετά τη σάρωση ή αποθήκευση των εικόνων αμέσως σε έναν δοσμένο φάκελο με αυτόματη εκχώρηση ονομάτων και τύπου αποθήκευσης</li>
+      <li>Υποστήιρξη για δικτυακούς σαρωτές</li>
+      <li>Προεπισκόπηση με το επιλεγμένο χαρακτηριστικό για την τελική σάρωση</li>
+      <li>Σάρωση πολλών επιλογών μιας εικόνας</li>
+    </ul>
+  </description>
+  <description lang="en-GB">
+    <p>Skanlite is a simple image scanning application to scan and save images. It is optimised for scanning with flatbed scanners. Skanlite can capture not only photos and documents, but also transparent slides and filmstrips, with supported scanners.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Save dialogue for every image scanned or saving the images immediately in a specified folder with auto-generated names and format</li>
+      <li>Support for networks scanners</li>
+      <li>Preview with selection feature for the final scan</li>
+      <li>Scanning multiple selections of an image</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>Skanlite es una sencilla aplicación para escanear y guardar imágenes. Está optimizada para escáneres de cama plana. Además de fotos y documentos, Skanlite puede escanear diapositivas y filminas con los escáneres admitidos.</p>
+    <p>Características:</p>
+    <ul>
+      <li>Diálogo para guardar las imágenes escaneadas o para guardarlas inmediatamente en la carpeta indicada con nombres generados automáticamente y en el formato indicado.</li>
+      <li>Permite el uso de escáneres en red.</li>
+      <li>Vista previa con función de selección para el escaneo final.</li>
+      <li>Escanear múltiples selecciones de una imagen.</li>
+    </ul>
+  </description>
+  <description lang="et">
+    <p>Omadused:</p>
+    <ul>
+      <li>Salvestamisdialoogi avamine kõigi skannitud piltide puhul või ka piltide kohene salvestamine määratud kataloogi automaatselt genereeritud nimede ja vorminguga</li>
+      <li>Võrguskannerite toetus</li>
+      <li>Valikuvõimalusega eelvaatlus enne lõplikku skannimist</li>
+      <li>Mitme pildivaliku skannimine</li>
+    </ul>
+  </description>
+  <description lang="eu">
+    <p>Skanlite irudiak eskaneatzeko eta gordetzeko aplikazio xume bat da. Gainazal lauko eskanerrekin eskaneatzeko optimizatua dago. Skanlitek argazkiak eta dokumentuak ez ezik, diapositiba gardenak eta film-zerrendak ere eskaneatu ditzake halakorik egitea onartzen duten eskanerrekin.</p>
+    <p>Eginbideak:</p>
+    <ul>
+      <li>Gorde elkarrizketa-koadroa eskaneatutako irudi bakoitzeko edo gorde berehala adierazitako formatu eta karpetan auto-sortutako izenekin.</li>
+      <li>Sareko Eskanerren euskarria</li>
+      <li>Aurrebista hautatzeko gaitasunaz azken eskaneatzerako</li>
+      <li>Irudi baten hautatze anitzen eskaneatzea</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>Skanlite on yksinkertainen kuvanlukusovellus kuvien lukemiseen ja tallentamiseen. Se on optimoitu kuvanlukuun tasoskannereilla. Skanlite ei lue vain valokuvia ja tekstiä vaan toimii tuetuissa laitteissa myös dia- ja filmiskannerina.</p>
+    <p>Ominaisuuksia:</p>
+    <ul>
+      <li>Tallennusikkuna kullekin luetulle kuvalle tai kuvien välitön tallennus määräkansioon automaattisesti luodulla nimellä automaattisesti valittuun muotoon</li>
+      <li>Verkkokuvanlukutuki</li>
+      <li>Esikatselu lopullisen kuva-alueen valintaominaisuudella</li>
+      <li>Useampien kuvan alueiden luku</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>Skanlite est une application de numérisation d'images simple, permettant de numériser et d'enregistrer des images. Il est optimisé pour la numérisation sur des périphériques de numérisation à plat. Skanlite peut capturer non seulement des photos et des documents mais aussi des diapositives transparentes et des négatifs de films pour les périphériques de numérisation pris en charge.</p>
+    <p>Fonctionnalités :</p>
+    <ul>
+      <li>Boîte de dialogue d'enregistrement pour chaque image numérisée ou enregistrement automatique dans un dossier au format spécifié, sous un nom généré automatiquement</li>
+      <li>Prise en charge des scanners réseau</li>
+      <li>Fonctionnalité aperçu avec sélection pour la numérisation définitive</li>
+      <li>Numérisation de plusieurs parties d'une image</li>
+    </ul>
+  </description>
+  <description lang="gl">
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Diálogo de gardar para cada imaxe que se dixitaliza, ou gardar as imaxes inmediatamente nun cartafol indicado con nome e formato xerados automaticamente.</li>
+      <li>Compatibilidade con escáneres remotos.</li>
+      <li>Vista previa con funcionalidade de selección para a dixitalización final.</li>
+      <li>Dixitalización de varias seleccións dunha imaxe.</li>
+    </ul>
+  </description>
+  <description lang="hi">
+    <p>स्कैनलाइट छवियों को स्कैन और सहेजने के लिए एक सरल छवि स्कैन करने वाला एप्लिकेशन है। यह फ्लैटबेड स्कैनर के साथ स्कैनिंग के लिए अनुकूलित है। स्कैनलाइट समर्थित स्कैनर के साथ न केवल तस्वीरें और दस्तावेज, बल्कि पारदर्शी स्लाइड और फिल्मस्ट्रिप्स भी कैप्चर कर सकता है।</p>
+    <p>विशेषताएँ :</p>
+    <ul>
+      <li>हर एक छवि के लिए सहेज संवाद दिखाए या छवियों को तुरंत एक उल्लेखित फोल्डर में स्वतः उत्पन्न नाम और प्रारूप में सहेजें।</li>
+      <li>संजाल के स्कैन यंत्रों के लिए समर्थन</li>
+      <li>अंतिम स्कैन के लिए चयन के साथ पूर्वावलोकन की सुविधा</li>
+      <li>एक छवि के कई चयनों को स्कैन करना</li>
+    </ul>
+  </description>
+  <description lang="hu">
+    <p>A Skanlite egy egyszerű képolvasó alkalmazás képek beolvasásához és mentéséhez. Működését síkágyas képolvasókhoz optimalizálták. A Skanlite nem csak fényképeket és dokumentumokat, hanem átlátszó diákat és filmszalagokat is képes beolvasni, támogatott képolvasókkal.</p>
+    <p>Szolgáltatások:</p>
+    <ul>
+      <li>Mentési párbeszédablak minden beolvasott képhez, vagy azonnali mentés egy megadott mappába, automatikusan generált fájlnévvel és formátumban</li>
+      <li>Hálózati képolvasók támogatása</li>
+      <li>Előnézet kijelölési lehetőséggel a végső beolvasáshoz</li>
+      <li>Több kijelölés beolvasása egy képről</li>
+    </ul>
+  </description>
+  <description lang="ia">
+    <p>Skanlite es un simple application per scander e salveguardar images. Illo es optimisate per scander con scanners de typo flatbed. Skanlite pote capturar non solmente photos e documentos ma anque slides transparente e strias de film, con scanners supportate.</p>
+    <p>Characteristicas:</p>
+    <ul>
+      <li>Salveguarda dialogo per cata image scandite o salveguardar le images immediatemente in un specificate dossier con nomines e formato auto-generate</li>
+      <li>Supporto per le scanditores de rete</li>
+      <li>Vista preliminari con characteristica de selection per le scansion final</li>
+      <li>Scandente multiple selectiones de un image</li>
+    </ul>
+  </description>
+  <description lang="id">
+    <p>Skanlite adalah aplikasi pemindaian citra yang sederhana untuk memindai dan menyimpan citra. Dioptimisasikan untuk pemindaian dengan pemindai flatbed. Skanlite dapat menangkap tidak hanya citra dan dokumen, tetapi juga dengan slide dan strip film yang transparan, dengan pemindai yang didukung.</p>
+    <p>Fitur:</p>
+    <ul>
+      <li>Dialog penyimpanan untuk setiap citra yang dipindai atau penyimpanan citra langsung ke dalam sebuah folder yang ditentukan dengan nama dan format yang dihasilkan secara otomatis</li>
+      <li>Mendukung pemindaian jaringan</li>
+      <li>Pratinjau dengan fitur pemilihan untuk pemindaian akhir</li>
+      <li>Pemindaian pemilihan multipel pada sebuah citra</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>Skanlite è una semplice applicazione per la scansione e il salvataggio delle immagini. È ottimizzata per la scansione con scanner piani. Skanlite è in grado di catturare non solo foto e documenti, ma anche diapositive trasparenti e pellicole, con gli scanner supportati.</p>
+    <p>Funzionalità:</p>
+    <ul>
+      <li>Finestra di dialogo per ogni scansione immagine o salvataggio immediato delle immagini in una cartella specifica con nomi e formati generati in automatico</li>
+      <li>Supporto per scanner di rete</li>
+      <li>Anteprima con funzionalità di selezione per la scansione finale</li>
+      <li>Selezioni multiple di scansione di un'immagine</li>
+    </ul>
+  </description>
+  <description lang="ko">
+    <p>Skanlite는 그림을 스캔하고 저장하는 간단한 도구입니다. 플랫베드 스캐너에 최적화되어 있습니다. Skanlite를 사용하여 사진이나 문서뿐만 아니라 슬라이드 및 네거티브 필름도 스캔할 수 있습니다(지원하는 스캐너 필요).</p>
+    <p>기능:</p>
+    <ul>
+      <li>스캔한 그림마다 이름을 지정하거나 지정한 폴더에 자동 생성한 이름으로 저장</li>
+      <li>네트워크 스캐너 지원</li>
+      <li>미리 보기 기능 및 일부만 최종 스캔</li>
+      <li>한 그림의 여러 선택 영역 스캔</li>
+    </ul>
+  </description>
+  <description lang="lt">
+    <p>Skanlite yra paprasta paveikslų skenavimo programa, skirta skenuoti bei įrašyti paveikslus. Ji yra optimizuota skenavimui naudojant plokščiuosius skenerius. Skanlite gali įamžinti ne tik nuotraukas ir dokumentus, bet naudojant palaikomus skenerius, gali skenuoti ir permatomas skaidres bei diafilmus.</p>
+    <p>Ypatybės:</p>
+    <ul>
+      <li>Įrašymo dialogas kiekvienam nuskenuotam paveikslui arba betarpiškas paveikslų įrašymas į nurodytą aplanką su automatiškai sugeneruotais pavadinimais bei formatu</li>
+      <li>Tinklo skenerių palaikymas</li>
+      <li>Peržiūra su galutinio skenavimo pasirinkimo ypatybe</li>
+      <li>Kelių paveikslo pasirinkimų skenavimas</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>Skanlite is eenvoudige toepassing voor het scannen en opslaan van afbeeldingen. Het is geoptimaliseerd voor scannen met flatbedscanners. Skanlite kan niet alleen foto's en documenten opnemen, maar ook transparante dia's en filmstrips, met ondersteunde scanners.</p>
+    <p>Mogelijkheden:</p>
+    <ul>
+      <li>De dialoog voor opslaan van elke gescande afbeelding of het onmiddellijk in een een gespecificeerde map opslaan met automatisch gegenereerde namen en formaten.</li>
+      <li>Ondersteuning voor scanners in het netwerk</li>
+      <li>Voorbeeldweergave met geselecteerde functie voor de uiteindelijke scan</li>
+      <li>Scannen van meerdere selecties van een afbeelding</li>
+    </ul>
+  </description>
+  <description lang="nn">
+    <p>Funksjonar:</p>
+    <ul>
+      <li>Lagringsvindauge for kvart bilete som skannast, eller automatisk lagring i tilpassa mappe med biletnamn og -format som programmet genererer.</li>
+      <li>Støtte for nettverksskannarar</li>
+      <li>Førehandsvising med veljing av utsnittet som skal takast med i skanninga</li>
+      <li>Skanning av fleire utsnitt frå eitt bilete</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <p>Skanlite jest prostą aplikacją do skanowania i zapisywania obrazów. Jest dostosowana do skanowania na płaskich skanerach. Skanlite może skanować nie tylko zdjęcia i dokumenty, ale także przezrocza oraz taśmy filmowe na skanerach, które to obsługują.</p>
+    <p>Możliwości:</p>
+    <ul>
+      <li>Okno dialogowe zapisywania dla każdego zeskanowanego obrazu lub zapisywanie obrazów bezpośrednio w podanym katalogu z samodzielnie utworzonymi nazwami i wybranym formatem</li>
+      <li>Obsługa skanerów w sieci</li>
+      <li>Podgląd z możliwością zaznaczenia ostatecznego skanowania</li>
+      <li>Skanowanie wielu obszarów obrazu</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>O Skanlite é uma aplicação simples de digitalização de imagens para digitalizar e gravar as imagens. Está optimizado para digitalizar com 'scanners' horizontais. O Skanlite não só consegue capturar fotografias e documentos, mas também diapositivos transparentes ou fitas de filmes, desde que haja suporte para os dispositivos em questão.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Janela de gravação para todas as imagens digitalizadas ou gravação imediata das imagens numa pasta à escolha, com nomes e formato gerados automaticamente</li>
+      <li>Suporte para 'scanners' na rede</li>
+      <li>Antevisão com funcionalidade de selecção para a digitalização final</li>
+      <li>Digitalização de várias selecções numa imagem</li>
+    </ul>
+  </description>
+  <description lang="pt-BR">
+    <p>Skanlite é um aplicativo simples para digitalizar e salvar imagens. Ele é otimizado para digitalizar com scanners de mesa. O Skanlite pode capturar não apenas fotos e documentos, mas também slides transparentes e negativos de filmes com os scanners suportados</p>
+    <p>Recursos:</p>
+    <ul>
+      <li>Caixa de diálogo de gravação para todas as imagens digitalizadas ou gravação imediata das imagens em uma pasta específica, com nomes e formato gerados automaticamente</li>
+      <li>Suporte para scanners de rede</li>
+      <li>Visualização com funcionalidade de seleção para a digitalização final</li>
+      <li>Digitalização de várias seleções de uma imagem</li>
+    </ul>
+  </description>
+  <description lang="ro">
+    <p>Caracteristici:</p>
+    <ul>
+      <li>Susținere pentru scanere de rețea</li>
+      <li>Previzualizare cu funcție de selectare pentru scanarea finală</li>
+      <li>Scanarea selecțiilor multiple dintr-o imagine</li>
+    </ul>
+  </description>
+  <description lang="ru">
+    <p>Skanlite — простое изображение для получения и сохранения изображения со сканеров. Приложение ориентировано на работу с планшетными сканерами. Skanlite может использоваться для сканирования не только изображений и документов, но также слайдов и плёнок, если используемое оборудование поддерживает эти функции.</p>
+    <p>Возможности:</p>
+    <ul>
+      <li>Показ диалога сохранения для каждого полученного со сканера изображения или автоматическое сохранения в заданную папку с формированием автоматическим формированием имён файлов по заданным правилам;</li>
+      <li>Поддержка сетевых сканеров;</li>
+      <li>Предварительный просмотр с выбором области для сканирования;</li>
+      <li>Сканирование нескольких областей одного изображения.</li>
+    </ul>
+  </description>
+  <description lang="sk">
+    <p>Skanlite je jednoduchá aplikácia na skenovanie a ukladanie obrázkov. Skanlite je založený na libksane, rozhraní pre knižnicu SANE na ovládanie obrazových skenerov.</p>
+    <p>Funkcie:</p>
+    <ul>
+      <li>Dialógové okno ukladania pre každý naskenovaný obrázok alebo uložiť obrázky okamžite v určenom priečinku s automaticky generovanými názvami a formátom</li>
+      <li>Podpora pre sieťové skenery</li>
+      <li>Náhľad s funkciou výberu pre finálny sken</li>
+      <li>Skenovanie viacerých výberov obrázka</li>
+    </ul>
+  </description>
+  <description lang="sl">
+    <p>Skanlite je preprosta aplikacija za optičnega branja slik za skeniranje in shranjevanje slik. Je optimizirana za skeniranje z namiznimi bralniki. Skanlite lahko zajema ne samo fotografije in dokumente, ampak tudi diapozitive in filme s podprtimi bralniki.</p>
+    <p>Zmožnosti:</p>
+    <ul>
+      <li>Pogovorno okno za shranjevanje posamičnih slik ali paketno shranjevanje slik v navedeno mapo s samodejno ustvarjenimi imeni in vrsto datotek</li>
+      <li>Podpora omrežnim optičnim bralnikom</li>
+      <li>Predogled z zmožnostjo izbire območja za končno optično branje</li>
+      <li>Optično branje več izborov na sliki</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <p>Skanlite är ett enkelt bildläsningsprogram för att läsa in och spara bilder. Det är optimerat för inläsning med flatbäddsbildläsare. Skanlite kan inte bara läsa in foton och dokument, utan också transparenta bilder och filmremsor, med bildläsare som stöder det.</p>
+    <p>Funktioner:</p>
+    <ul>
+      <li>Dialog för att spara varje bild som läses in, eller spara bilderna omedelbart i en angiven katalog med automatiskt genererade namn och format</li>
+      <li>Stöd för nätverksbildläsare</li>
+      <li>Förhandsgranskning med markeringsfunktion för slutlig bild</li>
+      <li>Läs in flera markeringar i en bild</li>
+    </ul>
+  </description>
+  <description lang="tr">
+    <p>Özellikleri:</p>
+    <ul>
+      <li>Her taranan resim için kaydetme penceresi ya da otomatik isim ve biçim oluşturma ile belirtilen klasöre anında kaydetme.</li>
+      <li>Ağ tarayıcı desteği</li>
+      <li>Son tarama için seçim özelliği ile önizleme</li>
+      <li>Bir resimde birden çok seçimi tarama</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>Skanlite — проста програма для сканування зображень і збереження даних зображень до файлів. Її оптимізовано для сканування за допомогою планшетних сканерів. Skanlite може допомогти у скануванні не лише фотографій і документів, але і прозорих слайдів та плівок, якщо у вас є підтримуваний програмою сканер.</p>
+    <p>Можливості:</p>
+    <ul>
+      <li>Можливість показу діалогового вікна збереження для кожного з зображень та можливість автоматичного зберігання зображень із автоматично визначеною назвою до вказаної теки.</li>
+      <li>Підтримка роботи зі сканерами з мережі.</li>
+      <li>Засіб попереднього перегляду із можливістю вибору остаточної області сканування.</li>
+      <li>Можливість одночасного сканування декількох позначених областей на зображенні.</li>
+    </ul>
+  </description>
+  <description lang="x-test">
+    <p>xxSkanlite is a simple image scanning application to scan and save images. It is optimized for scanning with flatbed scanners. Skanlite can capture not only photos and documents, but also transparent slides and filmstrips, with supported scanners.xx</p>
+    <p>xxFeatures:xx</p>
+    <ul>
+      <li>xxSave dialog for every image scanned or saving the images immediately in a specified folder with auto-generated names and formatxx</li>
+      <li>xxSupport for networks scannersxx</li>
+      <li>xxPreview with selection feature for the final scanxx</li>
+      <li>xxScanning multiple selections of an imagexx</li>
+    </ul>
+  </description>
+  <description lang="zh-CN">
+    <p>Skanlite 是一款简易图像扫描程序，它主要针对平板扫描仪设计，可以扫描照片和文档，并将扫描结果保存为图像。如果扫描仪支持透扫，它还能扫描透明的幻灯片和胶卷底片。</p>
+    <p>功能：</p>
+    <ul>
+      <li>每扫描一张图像后显示保存对话框，或者按照设定的自动文件名和格式保存到指定的目录。</li>
+      <li>网络扫描支持</li>
+      <li>在正式扫描前对选中区域进行预览</li>
+      <li>扫描图像的多个被选中区域</li>
+    </ul>
+  </description>
+  <description lang="zh-TW">
+    <p>功能：</p>
+    <ul>
+      <li>支援網路掃描機</li>
+      <li>將多個部份掃描成一張影像</li>
+    </ul>
+  </description>
+  <pkgname>libsForQt5.skanlite</pkgname>
+  <launchable type="desktop-id">org.kde.skanlite.desktop</launchable>
+  <id>org.kde.skanlite.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+ and GFDL-1.3</project_license>
+  <name>Skanlite</name>
+  <name lang="ar">سكانلايت</name>
+  <name lang="az">Skanlite</name>
+  <name lang="bg">Skanlite</name>
+  <name lang="ca">Skanlite</name>
+  <name lang="ca-valencia">Skanlite</name>
+  <name lang="cs">Skanlite</name>
+  <name lang="da">Skanlite</name>
+  <name lang="de">Skanlite</name>
+  <name lang="el">Skanlite</name>
+  <name lang="en-GB">Skanlite</name>
+  <name lang="es">Skanlite</name>
+  <name lang="et">Skanlite</name>
+  <name lang="eu">Skanlite</name>
+  <name lang="fi">Skanlite</name>
+  <name lang="fr">Skanlite</name>
+  <name lang="gl">Skanlite</name>
+  <name lang="hi">स्कैनलाइट</name>
+  <name lang="hu">Skanlite</name>
+  <name lang="ia">Skanlite</name>
+  <name lang="id">Skanlite</name>
+  <name lang="it">Skanlite</name>
+  <name lang="ko">Skanlite</name>
+  <name lang="lt">Skanlite</name>
+  <name lang="nl">Skanlite</name>
+  <name lang="nn">Skanlite</name>
+  <name lang="pl">Skanlite</name>
+  <name lang="pt">Skanlite</name>
+  <name lang="pt-BR">Skanlite</name>
+  <name lang="ro">Skanlite</name>
+  <name lang="ru">Skanlite</name>
+  <name lang="sk">Skanlite</name>
+  <name lang="sl">Skanlite</name>
+  <name lang="sv">Skanlite</name>
+  <name lang="tr">Skanlite</name>
+  <name lang="uk">Skanlite</name>
+  <name lang="x-test">xxSkanlitexx</name>
+  <name lang="zh-CN">Skanlite 扫描工具</name>
+  <name lang="zh-TW">Skanlite</name>
+  <summary>Image Scanning Application</summary>
+  <summary lang="ar">تطبيق لمسح الصّور ضوئيًّا</summary>
+  <summary lang="az">Təsviri tarama tətbiqi</summary>
+  <summary lang="bg">Приложение за сканиране на изображения</summary>
+  <summary lang="ca">Aplicació de digitalització d'imatges</summary>
+  <summary lang="ca-valencia">Aplicació de digitalització d'imatges</summary>
+  <summary lang="cs">Aplikace pro skenování obrázků</summary>
+  <summary lang="da">Scannerprogram</summary>
+  <summary lang="de">Anwendung zum Scannen von Bildern</summary>
+  <summary lang="el">Εφαρμογή σάρωσης εικόνων</summary>
+  <summary lang="en-GB">Image Scanning Application</summary>
+  <summary lang="es">Aplicación para escanear imágenes</summary>
+  <summary lang="et">Piltide skannimise rakendus</summary>
+  <summary lang="eu">Irudiak eskaneatzeko aplikazioa</summary>
+  <summary lang="fi">Kuvanlukusovellus</summary>
+  <summary lang="fr">Application de numérisation d'images</summary>
+  <summary lang="gl">Aplicación de dixitalización de imaxes</summary>
+  <summary lang="hi">छवि स्कैन करने का अनुप्रयोग</summary>
+  <summary lang="hu">Képolvasó alkalmazás</summary>
+  <summary lang="ia">Application pro scander imagines</summary>
+  <summary lang="id">Aplikasi Pemindaian Citra</summary>
+  <summary lang="it">Applicazione per la scansione delle immagini</summary>
+  <summary lang="ko">그림 스캐닝 프로그램</summary>
+  <summary lang="lt">Paveikslų skenavimo programa</summary>
+  <summary lang="nl">Afbeeldingscanprogramma</summary>
+  <summary lang="nn">Biletskanningsprogram</summary>
+  <summary lang="pl">Program do skanowania obrazów</summary>
+  <summary lang="pt">Aplicação de Digitalização de Imagens</summary>
+  <summary lang="pt-BR">Aplicativo para digitalização de imagens</summary>
+  <summary lang="ro">Aplicație de scanare a imaginilor</summary>
+  <summary lang="ru">Сканирование изображений</summary>
+  <summary lang="sk">Aplikácia na skenovanie obrázkov</summary>
+  <summary lang="sl">Program za optično branje slik</summary>
+  <summary lang="sv">Bildinläsningsprogram</summary>
+  <summary lang="tr">Resim Tarama Uygulaması</summary>
+  <summary lang="uk">Програма для сканування зображень</summary>
+  <summary lang="x-test">xxImage Scanning Applicationxx</summary>
+  <summary lang="zh-CN">图像扫描应用程序</summary>
+  <summary lang="zh-TW">影像掃描應用程式</summary>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://cdn.kde.org/screenshots/skanlite/skanlite.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://www.kde.org/applications/graphics/skanlite/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=skanlite</url>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>skanlite</binary>
+  </provides>
+  <releases>
+    <release version="22.04.3" date="2022-07-07" />
+    <release date="2022-06-09" version="22.04.2" />
+    <release version="22.04.1" date="2022-05-12" />
+    <release version="22.04.0" date="2022-04-21" />
+  </releases>
+  <content_rating type="oars-1.1" />
+</component>

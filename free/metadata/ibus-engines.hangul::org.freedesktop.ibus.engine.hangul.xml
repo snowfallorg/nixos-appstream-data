@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="inputmethod">
+  <pkgname>ibus-engines.hangul</pkgname>
+  <launchable type="desktop-id">ibus-setup-hangul.desktop</launchable>
+  <icon width="64" type="cached" height="64">ibus-setup-hangul.png</icon>
+  <icon width="128" height="128" type="cached">ibus-setup-hangul.png</icon>
+  <id>org.freedesktop.ibus.engine.hangul</id>
+  <name>ibus-hangul</name>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2</project_license>
+  <summary>Hangul engine for IBus</summary>
+  <description>
+    <p>IBus-Hangul is a Korean input method engine for IBus.</p>
+  </description>
+  <project_group>IBus</project_group>
+  <url type="homepage">https://github.com/libhangul/ibus-hangul</url>
+  <url type="bugtracker">https://github.com/libhangul/ibus-hangul/issues</url>
+  <translation type="gettext">ibus-hangul</translation>
+</component>

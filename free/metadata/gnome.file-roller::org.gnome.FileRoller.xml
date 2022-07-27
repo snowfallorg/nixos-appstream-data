@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <description>
+    <p>
+      Archive Manager (also known as File Roller) is the default GNOME application for opening, creating, and
+      modifying archive and compressed archive files.
+    </p>
+    <p>
+      Archive Manager supports a wide range of different archive files, including:
+    </p>
+    <ul>
+      <li>gzip archives (.tar.gz, .tgz)</li>
+      <li>bzip archives (.tar.bz, .tbz)</li>
+      <li>zip archives (.zip)</li>
+      <li>xz archives (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="af">
+    <p>Argiefbestuurder (ook bekend as File Roller) is die verstek GNOME-toepassing vir die oopmaak, skep en wysiging van argief- en saamgeperste argieflêers.</p>
+    <p>Argiefbestuurder ondersteun 'n wye verskeidinheid argieflêers, insluitend:</p>
+    <ul>
+      <li>gzip argiewe (.tar.gz, .tgz)</li>
+      <li>bzip argiewe (.tar.bz, .tbz)</li>
+      <li>zip argiewe (.zip)</li>
+      <li>xz argiewe (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="an">
+    <p>O chestor d'archivadors (tamién conoixiu como File Roller) ye l'aplicación predeterminada de GNOME ta ubrir, creyar y modificar fichers d'archivadors comprimius.</p>
+    <p>O chestor d'archivadors suporta un amplio rango d'archivadors diferents, incluindo:</p>
+    <ul>
+      <li>archivadors gzip (.tar.gz, .tgz)</li>
+      <li>archivadors bzip (.tar.bz, .tbz)</li>
+      <li>Zip (.zip)</li>
+      <li>archivadors xz (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="ar">
+    <p>مدير الأرشيفات هو تطبيق جنوم المبدئي لفتح و تعديل و إنشاء الأرشيفات و الملفات المضغوطة.</p>
+    <p>يدعم مدير الأرشيفات طيفًا واسعا من ملفات الأرشيفات، بما فيها:</p>
+    <ul>
+      <li>أرشيفات gzip ‏(.tar.gz, .tgz)</li>
+      <li>أرشيفات bzip ‏(.tar.bz, .tbz)</li>
+      <li>أرشيفات zip ‏(‪.zip‬)</li>
+      <li>أرشيفات xz ‏(.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="as">
+    <p>আৰ্কাইভ ব্যৱস্থাপক (File Roller ৰূপেও জনাজাত) হল আৰ্কাইভ আৰু সংকোচিত ফাইলসমূহ খোলাৰ, সৃষ্টি কৰাৰ, আৰু পৰিবৰ্তন কৰাৰ অবিকল্পিত GNOME এপ্লিকেচন।</p>
+    <p>আৰ্কাইভ ব্যৱস্থাপকে বিভিন্ন আৰ্কাইভ ফাইলসমূহৰ এটা বিস্তৃত বিস্তাৰ সমৰ্থন কৰে, য'ত অন্তৰ্ভুক্ত হয়:</p>
+    <ul>
+      <li>gzip আৰ্কাইভসমূহ (.tar.gz, .tgz)</li>
+      <li>bzip আৰ্কাইভসমূহ (.tar.bz, .tbz)</li>
+      <li>zip আৰ্কাইভসমূহ (.zip)</li>
+      <li>xz আৰ্কাইভসমূহ (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="be">
+    <p>Кіраўнік архіваў (таксама вядомы як File Roller) - гэта стандартная праграма асяроддзя GNOME для адкрыцця, стварэння і змянення архіваў.</p>
+    <p>Кіраўнік архіваў падтрымлівае шырокае кола файлаў архіваў, у тым ліку:</p>
+    <ul>
+      <li>gzip архівы (.tar.gz, .tgz)</li>
+      <li>bzip архівы (.tar.bz, .tbz)</li>
+      <li>zip архівы (.zip)</li>
+      <li>xz архівы (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="bg">
+    <p>Архиваторът или още „File Roller“, е стандартната програма на GNOME за отваряне, създаване и промяна на архиви и компресирани файлове.</p>
+    <p>Архиваторът поддържа голям брой формати, в това число:</p>
+    <ul>
+      <li>gzip (.tar.gz, .tgz)</li>
+      <li>bzip (.tar.bz, .tbz)</li>
+      <li>zip (.zip)</li>
+      <li>xz (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="bn_IN">
+    <p>সংরক্ষণাগার এবং সংকুচিত সংরক্ষণাগার ফাইল খুলতে, তৈরি করতে, এবং সংশোধন করতে সংরক্ষণাগার ব্যবস্থাপক হল (ফাইল রোলার হিসাবেও পরিচিত) ডিফল্ট GNOME অ্যাপ্লিকেশন।</p>
+    <p>সংরক্ষণাগার ব্যবস্থাপক এইগুলি সমেত বিভিন্ন ধরনের সংরক্ষণাগার ফাইল সমর্থন করে:</p>
+    <ul>
+      <li>gzip সংরক্ষণাগার (.tar.gz, .tgz)</li>
+      <li>bzip সংরক্ষণাগার (.tar.bz, .tbz)</li>
+      <li>zip সংরক্ষণাগার (.zip)</li>
+      <li>xz সংরক্ষণাগার (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="bs">
+    <p>Arhivni menadžer (poznat i kao File Roller) je standardna GNOME aplikacija za otvaranje, kreiranje i izmjenu arhivnih i kompresovanih arhivnih datoteka.</p>
+    <p>Arhivni menadžet podržava više arhivnih datoteka, uključujući:</p>
+    <ul>
+      <li>gzip arhive (.tar.gz, .tgz)</li>
+      <li>bzip arhive (.tar.bz, .tbz)</li>
+      <li>zip arhive (.zip)</li>
+      <li>xz arhive (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>El Gestor d'arxius (també conegut com a «File Roller») és l'aplicació per defecte del GNOME per a obrir, crear i modificar arxius i fitxers d'arxiu comprimit.</p>
+    <p>El Gestor d'arxius permet l'ús d'una gran varietat de fitxers d'arxiu, entre els quals:</p>
+    <ul>
+      <li>arxius gzip (.tar.gz, .tgz)</li>
+      <li>arxius bzip (.tar.bz, .tbz)</li>
+      <li>arxius zip (.zip)</li>
+      <li>arxius xz (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="ca@valencia">
+    <p>El Gestor d'arxius (també conegut com a «File Roller») és l'aplicació per defecte del GNOME per obrir, crear i modificar arxius i fitxers d'arxiu comprimit.</p>
+    <p>El Gestor d'arxius permet l'ús d'una gran varietat de fitxers d'arxiu, entre els quals:</p>
+    <ul>
+      <li>arxius gzip (.tar.gz, .tgz)</li>
+      <li>arxius bzip (.tar.bz, .tbz)</li>
+      <li>arxius zip (.zip)</li>
+      <li>arxius xz (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="ckb">
+    <p>ڕێکخەری ئەرشیف داواناماەی بنەڕەتی گنۆم بۆ کردنەوە، دروستکردن، دەستکاریکردنی پەڕگەی ئەرشیفی پەستێنراو.</p>
+    <p>ڕێکخەری ئەرشیف پشتگییری چەند جۆرێکی زۆری پەڕگەی ئەرشیفی وەک:</p>
+    <ul>
+      <li>ئەرشیفی gzip  (.tar.gz, .tgz)</li>
+      <li>ئەرشیفی bzip  (.tar.bz, .tbz)</li>
+      <li>ئەرشیفی  (.zip)zip</li>
+      <li>ئەرشیفی xz (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>Správa archivů (známá také jako File Roller) je výchozí aplikací GNOME určenou k otevírání, vytváření a úpravám archivních a komprimovaných archivních souborů.</p>
+    <p>Správa archivů podporuje širokou řadu různých archivních formátů, včetně:</p>
+    <ul>
+      <li>archivy gzip (.tar.gz, .tgz)</li>
+      <li>archivy bzip (.tar.bz, .tbz)</li>
+      <li>archivy zip (.zip)</li>
+      <li>archivy xz (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="da">
+    <p>Arkivhåndtering (også kendt som File Roller) er GNOMEs standardprogram til at åbne, oprette eller modificere arkiver og komprimerede arkivfiler.</p>
+    <p>Arkivhåndtering understøtter et bredt udvalg af forskellig arkivfiler inklusive:</p>
+    <ul>
+      <li>gzip-arkiver (.tar.gz, .tgz)</li>
+      <li>bzip-arkiver (.tar.bz, .tbz)</li>
+      <li>zip-arkiver (.zip)</li>
+      <li>xz-arkiver (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>Archivmanager (auch bekannt unter dem Namen »File Roller«) ist die voreingestellte GNOME-Anwendung zum Öffnen, Erstellen und Verändern von komprimierten und unkomprimierten Archivdateien.</p>
+    <p>Archivmanager unterstützt eine breite Vielfalt verschiedener Archivdateien, unter anderem:</p>
+    <ul>
+      <li>GZip-Archive (.tar.gz, .tgz)</li>
+      <li>BZip-Archive (.tar.bz, .tbz)</li>
+      <li>Zip-Archive (.zip)</li>
+      <li>XZ-Archive (.tag.xz)</li>
+    </ul>
+  </description>
+  <description lang="el">
+    <p>Ο διαχειριστής συμπιεσμένων αρχείων (επίσης γνωστός ως File Roller) είναι η προεπιλεγμένη εφαρμογή του GNOME για το άνοιγμα, τη δημιουργία και την τροποποίηση αρχειοθετημένων και συμπιεσμένων αρχείων.</p>
+    <p>Ο διαχειριστής συμπιεσμένων αρχείων υποστηρίζει ένα ευρύ φάσμα διαφορετικών αρχείων, όπως:</p>
+    <ul>
+      <li>αρχεία gzip (.tar.gz, .tgz)</li>
+      <li>αρχεία bzip (.tar.bz, .tbz)</li>
+      <li>αρχεία zip (.zip)</li>
+      <li>αρχεία xz (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="en_GB">
+    <p>Archive Manager (also known as File Roller) is the default GNOME application for opening, creating, and modifying archive and compressed archive files.</p>
+    <p>Archive Manager supports a wide range of different archive files, including:</p>
+    <ul>
+      <li>gzip archives (.tar.gz, .tgz)</li>
+      <li>bzip archives (.tar.bz, .tbz)</li>
+      <li>Zip archives (.zip)</li>
+      <li>xz archives (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="eo">
+    <p>Arĥivilo estas la implicita GNOME-aplikaĵo por malfermi, krei kaj modifi arĥivodosierojn kaj densigitajn arĥivodosierojn.</p>
+    <p>Arĥivilo subtenas multajn diversajn arĥivo-dosierojn, kiel:</p>
+    <ul>
+      <li>gzip-arĥivoj (.tar.gz, .tgz)</li>
+      <li>bzip-arĥivoj (.tar.bz, .tbz)</li>
+      <li>zip-arĥivoj (.zip)</li>
+      <li>xz-arĥivoj (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>El gestor de archivadores (también conocido como File Roller) es la aplicación predeterminada de GNOME para abrir, crear y modificar archivos de archivadores comprimidos.</p>
+    <p>El gestor de archivadores soporta un amplio rango de archivadores diferentes, incluyendo:</p>
+    <ul>
+      <li>archivadores gzip (.tar.gz, .tgz)</li>
+      <li>archivadores bzip (.tar.bz, .tbz)</li>
+      <li>archivadores zip (.zip)</li>
+      <li>archivadores xz (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="eu">
+    <p>Artxiboen kudeatzailea (File Roller bezala ezaguna) GNOMEren aplikazio lehenetsia da konprimatutako artxiboak irekitzeko, aldatzeko eta sortzeko.</p>
+    <p>Artxiboen kudeatzaileak hainbat artxibo mota desberdin onartzen ditu, hala nola:</p>
+    <ul>
+      <li>gzip artxiboak (.tar.gz, .tgz)</li>
+      <li>bzip artxiboak (.tar.bz, .tbz)</li>
+      <li>zip artxiboak (.zip)</li>
+      <li>xz artxiboak (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="fa">
+    <p>مدیر بایگانی (یا پرونده پیچ) نرم‌افزار پیش‌گزیدهٔ گنوم برای گشودن، ایجاد و تغییر بایگانی‌ها و پرونده‌های پایگانی فشرده است..</p>
+    <p>مدیر بایگانی دامنهٔ وسیعی از پرونده‌های بایگانی مختلف را پشتبانی می‌کند، شامل:</p>
+    <ul>
+      <li>بایگانی‌های gzip (مانند ‪.tar.gz و .tgz‬)</li>
+      <li>بایگانی‌های bzip (مانند ‪.tar.bz و .tbz‬)</li>
+      <li>بایگانی‌های zip (مانند ‪.zip‬)</li>
+      <li>بایگانی‌های xz (مانند ‪.tar.xz‬)</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>Arkistonhallinta (tuttavallisemmin Pakettienkäsittely) on Gnomen oletussovellus pakattujen arkistotiedostojen avaamiseen, luomiseen ja muokkaamiseen.</p>
+    <p>Arkistonhallinta tukee lukuisia eri arkistotiedostoja, muun muassa:</p>
+    <ul>
+      <li>gzip-arkistot (.tar.gz, .tgz)</li>
+      <li>bzip-arkistot (.tar.bz, .tbz)</li>
+      <li>zip-arkistot (.zip)</li>
+      <li>xz-arkistot (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>Gestionnaire d’archives (aussi connu sous le nom File Roller) est l’application GNOME par défaut pour ouvrir, créer, et modifier des fichiers archives et fichiers archives compressés.</p>
+    <p>Gestionnaire d’archives prend en charge une large gamme de fichiers archives, incluant :</p>
+    <ul>
+      <li>les archives gzip (.tar.gz, .tgz)</li>
+      <li>les archives bzip (.tar.bz, .tbz)</li>
+      <li>les archives zip (.zip)</li>
+      <li>les archives xz (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="fur">
+    <p>Gjestôr di archivis (cognossût ancje come File Roller) e je la aplicazion predefinide di GNOME par vierzi, creâ e modificâ archivis e archivis comprimûts di file.</p>
+    <p>Gjestôr di archivis al supuarte une largje schirie di formâts, dai cuai:</p>
+    <ul>
+      <li>archivis gzip (.tar.gz, .tgz)</li>
+      <li>archivis bzip (.tar.bz, .tbz)</li>
+      <li>archivis zip (.zip)</li>
+      <li>archivis xz (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="gd">
+    <p>’S e an aplacaid GNOME thùsail gus faidhlichean tasglainn ’s faidhlichean tasglainn dùmhlaichte fhosgladh, a chruthachadh ’s a dheasachadh a th’ ann am Manaidsear nan tasglann (air a bheil File Roller cuideachd).</p>
+    <p>Cuiridh Manaidsear nan tasglannan taic ri roghainn fharsaing de dh’fhaidhlichean tasglainn, a’ gabhail a-steach:</p>
+    <ul>
+      <li>tasglannan gzip (.tar.gz, .tgz)</li>
+      <li>tasglannan bzip (.tar.bz, .tbz)</li>
+      <li>tasglannan zip (.zip)</li>
+      <li>tasglannan xz (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="gl">
+    <p>O xestor de arquivos (tamén coñecido como File Roller) é a aplicación predeterminada de GNOME para abrir, crear e modificar arquivos e ficheiros de arquivo comprimidos.</p>
+    <p>O Xestor de arquivos admite un largo conxunto de ficheiros de arquivo distintos, incluíndo:</p>
+    <ul>
+      <li>arquivos gzip (.tar.gz, .tgz)</li>
+      <li>arquivos bzip (.tar.bz, .tbz)</li>
+      <li>arquivos zip (.zip)</li>
+      <li>arquivos xz (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="gu">
+    <p>અર્ક સંચાલક (File Roller તરીકે પણ જાણીતુ છે) એ અર્કને ખોલવા, બનાવવા , અને બદલવા માટે મૂળભૂત GNOME કાર્યક્રમ છે અને સંકોચાયેલ અર્ક ફાઇલો.</p>
+    <p>અર્ક સંચાલક વિવિધ અર્ક ફાઇલોની વિશાળ સીમાને આધાર આપે છે, સમાવી રહ્યા છે:</p>
+    <ul>
+      <li>gzip પેટી (.tar.gz, .tgz)</li>
+      <li>bzip પેટી (.tar.bz, .tbz)</li>
+      <li>zip પેટી (.zip)</li>
+      <li>xz પેટી (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="he">
+    <p>מנהל הארכיונים (ידוע גם כ־File Roller) הוא יישום בררת המחדל עבור GNOME לפתיחה, יצירה ושינוי ארכיונים וקבצי ארכיונים דחוסים.</p>
+    <p>מנהל הארכיונים תומך מגוון רחב של קבצי ארכיונים שונים, כולל:</p>
+    <ul>
+      <li>ארכיוני gzip‏ (‎.tar.gz, .tgz)</li>
+      <li>ארכיוני bzip‏ (‎.tar.bz, .tbz)</li>
+      <li>ארכיוני zip‏ (‎.zip)</li>
+      <li>ארכיוני xz‏ (‎.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="hi">
+    <p>अभिलेख प्रबंधक (जिसे फ़ाइल रोलर के रूप में जाना जाता है) तयशुदा गनोम अनुप्रयोग है जो अभिलेख और संकुचित अभिलेख फ़ाइल के खोलने, बनाने और बदलने के लिए उपयोग किया जाता है.</p>
+    <p>अभिलेख प्रबंधक कई प्रकार अभिलेख फ़ाइल का समर्थन करता है जिसमें शामिल हैं:</p>
+    <ul>
+      <li>gzip archives (.tar.gz, .tgz)</li>
+      <li>bzip archives (.tar.bz, .tbz)</li>
+      <li>zip archives (.zip)</li>
+      <li>xz archives (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="hr">
+    <p>Upravitelj arhivom (poznat i kao File Roller) je uobičaejna GNOME aplikacija za otvaranje, stvaranje, promjenu i raspakiravanje arhiviranih datoteka.</p>
+    <p>Upravitelj arhivom podržava širok raspon različitih arhiva datoteka, uključujući:</p>
+    <ul>
+      <li>gzip arhive (.tar.gz, .tgz)</li>
+      <li>bzip arhive (.tar.bz, .tbz)</li>
+      <li>zip arhive (.zip)</li>
+      <li>xz arhive (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="hu">
+    <p>Az Archívumkezelő (File Roller néven is ismert) az alapértelmezett GNOME alkalmazás archívumok és tömörített archívumfájlok megnyitásához, létrehozásához és módosításához.</p>
+    <p>Az Archívumkezelő különféle archívumfájlok széles tartományát támogatja, beleértve:</p>
+    <ul>
+      <li>gzip archívumok (.tar.gz, .tgz)</li>
+      <li>bzip archívumok (.tar.bz, .tbz)</li>
+      <li>zip archívumok (.zip)</li>
+      <li>xz archívumok (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="id">
+    <p>Manajer Arsip (juga dikenal sebagai Penggulung Berkas) adalah aplikasi GNOME baku untuk membuka, membuat, dan mengubah arsip dan berkas arsip terkompresi.</p>
+    <p>Manajer Arsip mendukung berbagai jenis berkas arsip yang berbeda, termasuk:</p>
+    <ul>
+      <li>arsip gzip (.tar.gz, .tgz)</li>
+      <li>arsip bzip (.tar.bz, .tbz)</li>
+      <li>arsip zip (.zip)</li>
+      <li>arsip xz (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="is">
+    <p>Safnskráastjórn (einnig þekkt sem File Roller) er sjálfgefið forrit í GNOME til að opna, búa til og breyta þjöppuðum og óþjöppuðum safnskrám.</p>
+    <p>Safnskráastjórn styður fjölbreytt snið safnskráa, þar með talin:</p>
+    <ul>
+      <li>gzip safnskrár (.tar.gz, .tgz)</li>
+      <li>bzip safnskrár (.tar.bz, .tbz)</li>
+      <li>zip safnskrár (.zip)</li>
+      <li>xz safnskrár (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>Gestore di archivi (o anche File Roller) è l'applicazione predefinita di GNOME per aprire, creare e modificare archivi e archivi compressi di file.</p>
+    <p>Gestore di archivi supporta una vasta gamma di formati, tra cui:</p>
+    <ul>
+      <li>archivi gzip (.tar.gz, .tgz)</li>
+      <li>archivi bzip (.tar.bz, .tbz)</li>
+      <li>archivi zip (.zip)</li>
+      <li>archivi xz (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="ja">
+    <p>アーカイブマネージャー (File Roller としても知られています) は、アーカイブファイルや圧縮ファイルのオープン、作成、修正を行うための GNOME デフォルトのアプリケーションです。</p>
+    <p>アーカイブマネージャーは様々なアーカイブ形式に対応しています。代表的な形式としては次のものがあります。</p>
+    <ul>
+      <li>gzip アーカイブ (.tar.gz, .tgz)</li>
+      <li>bzip アーカイブ (.tar.bz, .tbz)</li>
+      <li>zip アーカイブ (.zip)</li>
+      <li>xz アーカイブ (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="kk">
+    <p>Архивтерді басқарушысы (тағы File Roller ретінде белгілі) - бұл архивтер және сығылған архивтер файлдарын ашу, жасау және түзету үшін арналған GNOME қолданбасы.</p>
+    <p>Архивтер басқарушысы әр түрлі архивтер файлдарының біршама пішімдерін қолдайды, соның ішінде:</p>
+    <ul>
+      <li>gzip архивтері (.tar.gz, .tgz)</li>
+      <li>bzip архивтері (.tar.bz, .tbz)</li>
+      <li>zip архивтері (.zip)</li>
+      <li>xz архивтері (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="kn">
+    <p>ಆರ್ಕೈವ್‌ ವ್ಯವಸ್ಥಾಪಕ (ಫೈಲ್‌ ರೋಲರ್‌ ಎಂದೂ ಸಹ ಕರೆಯಲಾಗುತ್ತದೆ) ಎನ್ನುವುದು ಸಂಕುಚನಗೊಳಿಸಲಾದ ಆರ್ಕೈವ್‌ ಕಡತಗಳನ್ನು ತೆರೆಯಬಹುದಾದ, ಮಾರ್ಪಡಿಸಬಹುದಾದ ಮತ್ತು ರಚಿಸಬಹುದಾದ ಪೂರ್ವನಿಯೋಜಿತ GNOME ಅನ್ವಯವಾಗಿದೆ.</p>
+    <p>ಆರ್ಕೈವ್ ವ್ಯವಸ್ಥಾಪಕವು ಒಂದು ವಿಸ್ತಾರವಾದ ವ್ಯಾಪ್ತಿಯ ವಿವಿಧ ಬಗೆಯ ಕಡತಗಳನ್ನು ಬೆಂಬಲಿಸುತ್ತದೆ, ಅವುಗಳಲ್ಲಿ:</p>
+    <ul>
+      <li>gzip ಆರ್ಕೈವ್‌ಗಳು (.tar.gz, .tgz)</li>
+      <li>bzip ಆರ್ಕೈವ್‌ಗಳು(.tar.bz, .tbz)</li>
+      <li>zip ಆರ್ಕೈವ್‌ಗಳು (.zip)</li>
+      <li>xz ಆರ್ಕೈವ್‌ಗಳು (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="ko">
+    <p>압축 관리자(다른 이름으로 파일 롤러라고 합니다)는 압축 파일을 열고, 만들고, 수정할 때 사용하는 기본 그놈 프로그램입니다.</p>
+    <p>압축 관리자는 다음의 여러가지 종류의 압축 파일을 지원합니다:</p>
+    <ul>
+      <li>gzip 압축(.tar.gz, .tgz)</li>
+      <li>bzip 압축(.tar.bz, .tbz)</li>
+      <li>zip 압축(.zip)</li>
+      <li>xz 압축(.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="lt">
+    <p>Archyvų tvarkyklė (dar žinoma kaip File Roller) yra numatytoji GNOME programa archyvų ir suspaustų archyvų failų atidarymui bei sukūrimui.</p>
+    <p>Archyvų tvarkyklė palaiko daug skirtingų archyvų failų, pvz.:</p>
+    <ul>
+      <li>gzip archyvai (.tar.gz, .tgz)</li>
+      <li>bzip archyvai (.tar.bz, .tbz)</li>
+      <li>zip archyvai (.zip)</li>
+      <li>xz archyvai (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="lv">
+    <p>Arhīvu pārvaldnieks (zināms arī kā File Roller), ir GNOME noklusējuma lietotne arhīva datņu atvēršanai, veidošanai un mainīšanai.</p>
+    <p>Arhīvu pārvaldnieks atbalsta plašu arhīva datņu klāstu, tai skaitā:</p>
+    <ul>
+      <li>gzip arhīvus (.tar.gz, .tgz)</li>
+      <li>bzip arhīvus (.tar.bz, .tbz)</li>
+      <li>zip arhīvus (.zip)</li>
+      <li>xz arhīvus (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="mr">
+    <p>आर्काइव्ह मॅनेजर (ज्यास फाइल रोलर असेही म्हटले जाते) पूर्वनिर्धारित GNOME ॲप्लिकेशन आहे ज्याचा वापर आंकुचीत आर्काइव्ह फाइल्स आर्काइव्ह खुले, निर्माण, आणि संपादित करण्यासाठी होतो.</p>
+    <p>आर्काइव्ह मॅनेजर विविध आर्काइव्ह फाइल्सकरिता समर्थन पुरवितात, खालील समाविष्टीत:</p>
+    <ul>
+      <li>gzip आर्काइव्ज (.tar.gz, .tgz)</li>
+      <li>bzip आर्काइव्ज (.tar.bz, .tbz)</li>
+      <li>zip आर्काइव्ज (.zip)</li>
+      <li>xz आर्काइव्ज (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="ms">
+    <p>Pengurus Arkib (juga dikenali sebagai File Roller) merupakan aplikasi GNOME lalai untuk membuka, mencipta, dan mengubahsuai arkib serta memampatkan fail arkib.</p>
+    <p>Pengurus Arkib menyokong pelbagai jenis fail arkib, termasuklah:</p>
+    <ul>
+      <li>arkib gzip (.tar.gz, .tgz)</li>
+      <li>arkib bzip (.tar.bz, .tbz)</li>
+      <li>arkib zip (.zip)</li>
+      <li>arkib xz (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="nb">
+    <p>Arkivbehandler (også kjent som File Roller) er forvalgt GNOME-program for å åpne, lage og endre arkiver og komprimerte arkivfiler.</p>
+    <p>Arkivbehandler støtter en rekke ulike arkivformater, inkludert:</p>
+    <ul>
+      <li>gzip-arkiver (.tar.gz, .tgz)</li>
+      <li>bzip-arkiver (.tar.bz, .tbz)</li>
+      <li>zip-arkiver (.zip)</li>
+      <li>xz-arkiver (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>Archiefbeheer (ook bekend als File Roller) is de standaard Gnome-toepassing voor het openen, aanmaken en wijzigen van archiefbestanden en gecomprimeerde archiefbestanden.</p>
+    <p>Archiefbeheer ondersteunt een ruim aantal verschillende archiefbestanden, waaronder:</p>
+    <ul>
+      <li>GZIP-archieven (.tar.gz, .tgz)</li>
+      <li>BZIP-archieven (.tar.bz, .tbz)</li>
+      <li>ZIP-archieven (.zip)</li>
+      <li>XZ-archieven (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="oc">
+    <p>Gestionari d'archius (tanben conegut jol nom File Roller) es l'aplicacion GNOME per defaut per dobrir, crear, e modificar de fichièrs d'archius e fichièrs d'archius compressats.</p>
+    <p>Gestionari d'archius pren en carga una larga gama de fichièrs d'archius, en incluissent :</p>
+    <ul>
+      <li>los archius gzip (.tar.gz, .tgz)</li>
+      <li>los archius bzip (.tar.bz, .tbz)</li>
+      <li>los archius zip (.zip)</li>
+      <li>los archius xz (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="or">
+    <p>ଅଭିଲେଖ ପରିଚାଳକ (ଫାଇଲ ରୋଲର ନାମରେ ମଧ୍ଯ ପରିଚିତ) ଟି ହେଉଛି ଅଭିଲେଖ ଏବଂ ସଙ୍କୋଚିତ ଅଭିଲେଖ ଫାଇଲଗୁଡ଼ିକୁ ଖୋଲିବା, ନିର୍ମାଣ କରିବା, ଏବଂ ପରିବର୍ତ୍ତନ କରିବା ପାଇଁ ପୂର୍ବନିର୍ଦ୍ଧାରିତ GNOME ପ୍ରୟୋଗ।</p>
+    <p>ଅଭିଲେଖ ପରିଚାଳକ ବିଭିନ୍ନ ପ୍ରକାରର ଅଭିଲେଖ ଫାଇଲଗୁଡ଼ିକୁ ସହାୟତା କରିଥାଏ :</p>
+    <ul>
+      <li>gzip ଅଭିଲେଖ (.tar.gz, .tgz)</li>
+      <li>bzip ଅଭିଲେଖଗୁଡ଼ିକ (.tar.bz, .tbz)</li>
+      <li>zip ଅଭିଲେଖଗୁଡ଼ିକ (.zip)</li>
+      <li>xz ଅଭିଲେଖଗୁଡ଼ିକ (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="pa">
+    <p>ਅਕਾਇਵ ਮੈਨੇਜਰ (ਜਿਸ ਨੂੰ ਫਾਇਲ ਰੋਲਰ ਵੀ ਕਿਹਾ ਜਾਂਦਾ ਹੈ) ਅਕਾਇਵ ਅਤੇ ਕੰਪਰੈੱਸ ਅਕਾਇਵ ਫਾਇਲਾਂ ਨੂੰ ਖੋਲ੍ਹਣ, ਬਣਾਉਣ ਅਤੇ ਸੋਧਣ ਲਈ ਮੂਲ ਗਨੋਮ ਐਪਲੀਕੇਸ਼ਨ ਹੈ।</p>
+    <p>ਅਕਾਇਵ ਮੈਨੇਜਰ ਵੱਡੀ ਗਿਣਤੀ ਦੀਆਂ ਵੱਖ-ਵੱਖ ਕਿਸਮਾਂ ਦੀਆਂ ਅਕਾਇਵ ਫਾਇਲਾਂ ਲਈ ਸਹਾਇਕ ਹੈ, ਜਿਸ ਵਿੱਚ ਹਨ:</p>
+    <ul>
+      <li>gzip ਅਕਾਇਵ (.tar.gz, .tgz)</li>
+      <li>bzip ਅਕਾਇਵ (.tar.bz, .tbz)</li>
+      <li>zip ਅਕਾਇਵ (.zip)</li>
+      <li>xz ਅਕਾਇਵ (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <p>Menedżer archiwów (znany również pod nazwą File Roller) jest domyślnym programem dla środowiska GNOME do otwierania, tworzenia i modyfikowania archiwów i skompresowanych plików archiwów.</p>
+    <p>Menedżer archiwów obsługuje szeroki zakres plików archiwów, w tym:</p>
+    <ul>
+      <li>archiwa gzip (.tar.gz, .tgz)</li>
+      <li>archiwa bzip (.tar.bz, .tbz)</li>
+      <li>archiwa zip (.zip)</li>
+      <li>archiwa xz (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>O Gestor de Arquivos (também conhecido como File Roller) é a aplicação predefinida do GNOME para abrir, criar e modificar arquivos e arquivos de ficheiros comprimidos.</p>
+    <p>O Gestor de Arquivos suporta uma grande variedade de formatos de arquivos, incluindo:</p>
+    <ul>
+      <li>arquivos gzip (.tar.gz, .tgz)</li>
+      <li>arquivos bzip (.tar.bz, .tbz)</li>
+      <li>arquivos zip (.zip)</li>
+      <li>arquivos xz (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="pt_BR">
+    <p>O Gerenciador de compactação (também conhecido como File Roller) é o aplicativo padrão do GNOME para abertura, criação e modificação de pacotes e de arquivos de pacotes comprimidos.</p>
+    <p>O Gerenciador de compactação possui suporte a uma ampla gama de diferentes arquivos de pacote, o que inclui:</p>
+    <ul>
+      <li>pacotes gzip (.tar.gz, .tgz)</li>
+      <li>pacotes bzip (.tar.bz, .tbz)</li>
+      <li>pacotes zip (.zip)</li>
+      <li>pacotes xz (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="ro">
+    <p>Administrator de arhive (cunoscut și ca File Roller) este aplicația implicită GNOME pentru deschiderea, creearea și alterarea conținutului arhivelor și fișierelor arhivă comprimate.</p>
+    <p>Administratorul de arhive suportă o gamă largă de fișiere arhivă, printre care:</p>
+    <ul>
+      <li>arhive gzip (.tar.gz, .tgz)</li>
+      <li>arhive bzip (.tar.bz, .tbz)</li>
+      <li>arhive zip (.zip)</li>
+      <li>arhive xz (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="ru">
+    <p>Менеджер архивов (также известный как File Roller) — стандартное приложение среды GNOME для открытия, создания и изменения архивов.</p>
+    <p>Менеджер архивов поддерживает множество форматов архивов, включая:</p>
+    <ul>
+      <li>архивы gzip (.tar.gz, .tgz)</li>
+      <li>архивы bzip (.tar.bz, .tbz)</li>
+      <li>архивы zip (.zip)</li>
+      <li>архивы xz (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="sk">
+    <p>Správca archívov (tiež známy ako File Roller) je predvolenou aplikáciou prostredia GNOME na otváranie, vytváranie a úpravu archívov a komprimovaných súborov archívov.</p>
+    <p>Správca archívov podporuje široký okruh rôznych súborov archívov, vrátane:</p>
+    <ul>
+      <li>archívov gzip (.tar.gz, .tgz)</li>
+      <li>archívov bzip (.tar.bz, .tbz)</li>
+      <li>archívov zip (.zip)</li>
+      <li>archívov xz (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="sl">
+    <p>Upravljalnik arhivov (znan tudi kot File Roller) je privzet program za upravljanje z arhivi za namizje GNOME, ki podpira odpiranje, ustvarjanje, spreminjanje in upravljanje arhivov in stisnjenih datotek.</p>
+    <p>Upravljalnik arhivov omogoča podporo širokemu naboru različnih arhiviranih datotek:</p>
+    <ul>
+      <li>arhivi gzip (.tar.gz, .tgz)</li>
+      <li>arhivi bzip (.tar.bz, .tbz)</li>
+      <li>arhivi zip (.zip)</li>
+      <li>arhivi xz (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="sr">
+    <p>Управљач архивом је основни Гномов програм за отварање, стварање, и мењање архива и запакованих датотека архива.</p>
+    <p>Управљач архивом подржава широки опсег различитих датотека архива, укључујући:</p>
+    <ul>
+      <li>гзип архиве (.tar.gz, .tgz)</li>
+      <li>бзип архиве (.tar.bz, .tbz)</li>
+      <li>зип архиве (.zip)</li>
+      <li>иксз архиве (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="sr@latin">
+    <p>Upravljač arhivom je osnovni Gnomov program za otvaranje, stvaranje, i menjanje arhiva i zapakovanih datoteka arhiva.</p>
+    <p>Upravljač arhivom podržava široki opseg različitih datoteka arhiva, uključujući:</p>
+    <ul>
+      <li>gzip arhive (.tar.gz, .tgz)</li>
+      <li>bzip arhive (.tar.bz, .tbz)</li>
+      <li>zip arhive (.zip)</li>
+      <li>iksz arhive (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <p>Arkivhanterare (även känd som File Roller) är standardprogrammet i GNOME för att öppna, skapa och modifiera arkivfiler och komprimerade arkivfiler.</p>
+    <p>Arkivhanterare stöder ett brett utbud av olika arkivfiler, exempelvis:</p>
+    <ul>
+      <li>gzip-arkiv (.tar.gz, .tgz)</li>
+      <li>bzip-arkiv (.tar.bz, .tbz)</li>
+      <li>zip-arkiv (.zip)</li>
+      <li>xz-arkiv (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="ta">
+    <p>காப்பக நிர்வாகி (File Roller என்றும் அழைக்கப்படும்) என்பது காப்பகங்களையும் அமுக்கப்பட்ட காப்பகக் கோப்புகளையும் திறக்கவும் உருவாக்கவும் மாற்றவும் பயன்படும் முன்னிருப்பு GNOME பயன்பாடாகும்.</p>
+    <p>காப்பக நிர்வாகி பயன்பாடானது பின்வருபவை உட்பட பல வகை காப்பகக் கோப்புகளை ஆதரிக்கும்:</p>
+    <ul>
+      <li>gzip காப்பகங்கள் (.tar.gz, .tgz)</li>
+      <li>bzip காப்பகங்கள் (.tar.bz, .tbz)</li>
+      <li>zip காப்பகங்கள் (.zip)</li>
+      <li>xz காப்பகங்கள் (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="te">
+    <p>ఆర్కైవ్ నిర్వాహిక (ఫైల్ రోలర్‌గా కూడా పిలువబడును) అప్రమేయ గ్నోమ్ అనువర్తనం. ఇది ఆర్కైవ్ మరియు కుదించిన ఆర్కైవ్డ్ దస్త్రాలను తెరుచుటకు, సృష్టించుటకు, మరియు సవరించుటకు ఉపయోగపడును.</p>
+    <p>ఆర్కైవ్ నిర్వాహిక వివిధ రకాల ఆర్కైవ్ దస్త్రాలకు తోడ్పాటునిచ్చును, వీటితో సహా:</p>
+    <ul>
+      <li>gzip archives (.tar.gz, .tgz)</li>
+      <li>bzip archives (.tar.bz, .tbz)</li>
+      <li>zip archives (.zip)</li>
+      <li>xz archives (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="tg">
+    <p>Мудири бойгонӣ (инчунин бо номи File Roller маълум аст) барномаи пешфарзи GNOME барои кушодан, эҷод кардан ва тағйир додани бойгонӣ ва файлҳои бойгонии фишурдашуда мебошад.</p>
+    <p>Мудири бойгонӣ файлҳои бойгонии гуногунро дастгирӣ мекунад, аз он ҷумла:</p>
+    <ul>
+      <li>бойгонии gzip (.tar.gz, .tgz)</li>
+      <li>бойгонии bzip (.tar.bz, .tbz)</li>
+      <li>бойгонии zip (.zip)</li>
+      <li>бойгонии xz (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="tr">
+    <p>Arşiv Yöneticisi (File Roller olarak da bilinir) arşiv ve sıkıştırılmış arşiv dosyalarını açmak, oluşturmak ve değiştirmek için öntanımlı GNOME uygulamasıdır.</p>
+    <p>Arşiv Yöneticisi şunlar da dahil olmak üzere çok çeşitli arşiv dosyalarını destekler:</p>
+    <ul>
+      <li>gzip arşivleri (.tar.gz, .tgz)</li>
+      <li>bzip arşivleri (.tar.bz, .tbz)</li>
+      <li>zip arşivleri (.zip)</li>
+      <li>xz arşivleri (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>Менеджер архівів (ще відомий як File Roller) — типова програма GNOME для відкривання, створення та редагування архівів і архівованих файлів.</p>
+    <p>Менеджер архівів підтримує широкий діапазон різних архівованих файлів, зокрема:</p>
+    <ul>
+      <li>Архіви gzip (.tar.gz, .tgz)</li>
+      <li>Архіви bzip (.tar.bz, .tbz)</li>
+      <li>Архіви zip (.zip)</li>
+      <li>Архіви xz (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="vi">
+    <p>Bộ quản lý kho nén (hay được biết với tên là bộ cuộn tập tin File Roller) là ứng dụng GNOME mặc định để mở, tạo và sửa kho nén hay nén các tập tin kho nén.</p>
+    <p>Bộ quản lý kho hỗ trợ nhiều kiểu nén khác nhau, bao gồm:</p>
+    <ul>
+      <li>Kho gzip (.tar.gz, .tgz)</li>
+      <li>Kho bzip (.tar.bz, .tbz)</li>
+      <li>Kho zip (.zip)</li>
+      <li>Kho xz (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="zh_CN">
+    <p>归档管理器（又名文件压缩器）是 GNOME 用来打开，创建和修改压缩存档文件的默认应用程序。</p>
+    <p>归档管理器支持许多不同的归档文件，包括:</p>
+    <ul>
+      <li>gzip 档案 (.tar.gz,.tgz)</li>
+      <li>bzip 档案 (.tar.bz,.tbz)</li>
+      <li>zip 档案 (.zip)</li>
+      <li>xz 档案 (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="zh_HK">
+    <p>壓縮檔管理員 (亦即 File Roller) 是 GNOME 預設用來開啟、編輯檔案庫與壓縮檔的應用程式。</p>
+    <p>壓縮檔管理員支援廣泛且不同的壓縮檔，包含：</p>
+    <ul>
+      <li>gzip 壓縮檔 (.tar.gz, .tgz)</li>
+      <li>bzip 壓縮檔 (.tar.bz, .tbz)</li>
+      <li>zip 壓縮檔 (.zip)</li>
+      <li>xz 壓縮檔 (.tar.xz)</li>
+    </ul>
+  </description>
+  <description lang="zh_TW">
+    <p>封存檔管理員 (亦即 File Roller) 是 GNOME 預設用來開啟、製作、修改封存檔及壓縮後封存檔的應用程式。</p>
+    <p>封存檔管理員支援廣泛且不同種類的封存檔，包含：</p>
+    <ul>
+      <li>gzip 封存檔 (.tar.gz, .tgz)</li>
+      <li>bzip 封存檔 (.tar.bz, .tbz)</li>
+      <li>zip 封存檔 (.zip)</li>
+      <li>xz 封存檔 (.tar.xz)</li>
+    </ul>
+  </description>
+  <pkgname>gnome.file-roller</pkgname>
+  <icon type="cached" width="64" height="64">org.gnome.ArchiveManager.png</icon>
+  <icon height="128" type="cached" width="128">org.gnome.ArchiveManager.png</icon>
+  <id>org.gnome.FileRoller</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>File Roller</name>
+  <name lang="zu">I-File Roller</name>
+  <name lang="zh_TW">File Roller</name>
+  <name lang="zh_CN">文件压缩器</name>
+  <name lang="xh">Irola Yefayili</name>
+  <name lang="vi">Trình nén tập tin</name>
+  <name lang="ur">فائل رولر</name>
+  <name lang="uk">Архіватор файлів</name>
+  <name lang="ug">ھۆججەت تايلىغۇچ</name>
+  <name lang="tr">File Roller</name>
+  <name lang="tk">Faýll Roler</name>
+  <name lang="th">File Roller</name>
+  <name lang="sv">File Roller</name>
+  <name lang="sr@latin">Valjač datoteke</name>
+  <name lang="sr@ije">File Roller</name>
+  <name lang="sr">Ваљач датотеке</name>
+  <name lang="sq">File Roller</name>
+  <name lang="sl">File Roller</name>
+  <name lang="sk">File Roller</name>
+  <name lang="si">ගොනු සංරක්‍ෂණය</name>
+  <name lang="ru">File Roller</name>
+  <name lang="ro">File Roller</name>
+  <name lang="pt_BR">File Roller</name>
+  <name lang="pt">Gestor de Arquivos</name>
+  <name lang="ps">دوتنه تاوونکی</name>
+  <name lang="pl">File Roller</name>
+  <name lang="pa">ਫਾਇਲ ਰੋਲਰ</name>
+  <name lang="oc">File Roller</name>
+  <name lang="nn">File Roller</name>
+  <name lang="nl">File-roller</name>
+  <name lang="nb">File Roller</name>
+  <name lang="my">ဖိုင်ဒလိမ့်တုန်း</name>
+  <name lang="ms">Penggulung Fail</name>
+  <name lang="mn">Файл Бүртгэгч</name>
+  <name lang="ml">ഫയല്‍ റോളര്‍</name>
+  <name lang="mk">File Roller</name>
+  <name lang="mg">File Roller</name>
+  <name lang="mai">फाइल रोलर</name>
+  <name lang="lv">Datņu rullis</name>
+  <name lang="lt">Failų presas</name>
+  <name lang="ku">File Roller</name>
+  <name lang="ko">파일 롤러</name>
+  <name lang="km">ឯកសារ Roller</name>
+  <name lang="kk">File Roller</name>
+  <name lang="ka">ფაილთა არქივიატორი</name>
+  <name lang="ja">File Roller</name>
+  <name lang="it">File Roller</name>
+  <name lang="is">File Roller</name>
+  <name lang="id">Penggulung Berkas</name>
+  <name lang="hy">Ֆայլ Ռոլեր</name>
+  <name lang="hu">Archívumkezelő</name>
+  <name lang="hr">Upravitelj arhivom</name>
+  <name lang="he">מנהל הארכיונים</name>
+  <name lang="gl">File Roller</name>
+  <name lang="gd">File Roller</name>
+  <name lang="ga">File Roller</name>
+  <name lang="fur">File Roller</name>
+  <name lang="fr">File Roller</name>
+  <name lang="fi">Pakettienkäsittely</name>
+  <name lang="fa">پرونده‌پیچ</name>
+  <name lang="eu">File Roller</name>
+  <name lang="et">File Roller</name>
+  <name lang="es">File Roller</name>
+  <name lang="eo">Arĥivilo</name>
+  <name lang="en@shaw">𐑓𐑲𐑤 𐑮𐑴𐑤𐑼</name>
+  <name lang="en_GB">File Roller</name>
+  <name lang="en_CA">File Roller</name>
+  <name lang="el">File Roller</name>
+  <name lang="dz">ཕ་ཡིལ་རོ་ལར་།</name>
+  <name lang="de">Archivmanager</name>
+  <name lang="da">File Roller</name>
+  <name lang="cy">File Roller</name>
+  <name lang="cs">File Roller</name>
+  <name lang="ckb">ڕێکخەری ئەرشیف</name>
+  <name lang="ca@valencia">File Roller</name>
+  <name lang="ca">File Roller</name>
+  <name lang="br">File Roller</name>
+  <name lang="bn">ফাইল রোলার</name>
+  <name lang="bg">File Roller</name>
+  <name lang="be@latin">File Roller</name>
+  <name lang="be">Архіватар файлаў</name>
+  <name lang="az">File Roller</name>
+  <name lang="ast">File Roller</name>
+  <name lang="ar">ضاغط الملفات</name>
+  <name lang="af">Argiefbestuurder</name>
+  <summary>Open, modify and create compressed archive files</summary>
+  <summary lang="zh_TW">開啟、編輯、製作壓縮過的封存檔</summary>
+  <summary lang="zh_HK">開啟、編輯與建立壓縮過的壓縮檔</summary>
+  <summary lang="zh_CN">打开，修改和创建压缩存档文件</summary>
+  <summary lang="vi">Mở, sửa và tạo các tập tin kho nén</summary>
+  <summary lang="uk">Відкриття, редагування та створення архівів</summary>
+  <summary lang="tr">Sıkıştırılmış arşiv dosyalarını aç, değiştir ve oluştur</summary>
+  <summary lang="tg">Файлҳои бойгонии фишурдашударо эҷод кунед, тағйир диҳед ва кушоед</summary>
+  <summary lang="te">కుదించిన అర్కైవ్ దస్త్రాలను తెరుచును, సవరించును మరియు సృష్టించును</summary>
+  <summary lang="ta">அமுக்கப்பட்ட காப்பகக் கோப்புகளைத் திறக்கலாம், மாற்றம் செய்யலாம் மற்றும் உருவாக்கலாம்</summary>
+  <summary lang="sv">Öppna, modifiera och skapa komprimerade arkivfiler</summary>
+  <summary lang="sr@latin">Otvorite, menjajte i pravite zapakovane datoteke arhive</summary>
+  <summary lang="sr">Отворите, мењајте и правите запаковане датотеке архиве</summary>
+  <summary lang="sl">Odpiranje, spreminjanje in ustvarjanje stisnjenih arhivov</summary>
+  <summary lang="sk">Otvára, upravuje a vytvára komprimované súbory archívov</summary>
+  <summary lang="ru">Открытие, изменение и создание архивов</summary>
+  <summary lang="ro">Deschide, modifică și creează fișiere arhivă comprimate</summary>
+  <summary lang="pt_BR">Abra, modifique e crie arquivos de pacotes comprimidos</summary>
+  <summary lang="pt">Abrir, modificar e criar arquivos de ficheiros comprimidos</summary>
+  <summary lang="pl">Otwieranie, modyfikowanie i tworzenie skompresowanych plików archiwów</summary>
+  <summary lang="pa">ਕੰਪਰੈੱਸ ਕੀਤੀਆਂ ਅਕਾਇਵ ਫਾਇਲਾਂ ਖੋਲ੍ਹੋ, ਸੋਧੋ, ਅਤੇ ਬਣਾਓ</summary>
+  <summary lang="or">ସଙ୍କୋଚିତ ଅଭିଲେଖ ଫାଇଲଗୁଡ଼ିକୁ ଖୋଲନ୍ତୁ, ପରିବର୍ତ୍ତନ କରନ୍ତୁ ଏବଂ ସୃଷ୍ଟି କରନ୍ତୁ</summary>
+  <summary lang="oc">Dobrir, modificar e crear de fichièrs d'archius</summary>
+  <summary lang="nl">Openen, bewerken en creëren van gecomprimeerde archiefbestanden</summary>
+  <summary lang="nb">Åpne, endre og lag komprimerte arkivfiler</summary>
+  <summary lang="ms">Buka, ubahsuai dan cipta fail arkib termampat</summary>
+  <summary lang="mr">आंकुचीत आर्काइव्ह फाइल्स खुले करा, संपादित करा आणि निर्माण करा</summary>
+  <summary lang="lv">Atvērt, modificēt un izveidot saspiestas arhīva datnes</summary>
+  <summary lang="lt">Atverti, keisti ar sukurti suspaustus archyvų failus</summary>
+  <summary lang="ko">압축 파일을 열고, 수정하고, 만듭니다</summary>
+  <summary lang="kn">ಸಂಕುಚನಗೊಳಿಸಲಾದ ಆರ್ಕೈವ್‌ ಕಡತಗಳನ್ನು ತೆರೆ, ಮಾರ್ಪಡಿಸು ಮತ್ತು ರಚಿಸು</summary>
+  <summary lang="kk">Сығылған архивтер файлдарын ашу, түзету немесе жасау</summary>
+  <summary lang="ja">圧縮ファイル、アーカイブファイルのオープン、修正、作成を行います</summary>
+  <summary lang="it">Apre, modifica e crea archivi compressi di file</summary>
+  <summary lang="is">Opna, breyta og búa til þjappaðar safnskrár</summary>
+  <summary lang="id">Buka, ubah, dan buat berkas arsip terkompresi</summary>
+  <summary lang="hu">Tömörített archívumfájlok megnyitása, módosítása és létrehozása</summary>
+  <summary lang="hr">Otvorite, promijenjite i stvorite zapakiranu arhivu datoteka</summary>
+  <summary lang="hi">संकुचित अभिलेख फ़ाइल खोलें, बदलें और बनाएँ</summary>
+  <summary lang="he">פתיחה, שינוי ויצירת קבצי ארכיונים דחוסים</summary>
+  <summary lang="gu">સંકોચાયેલ અર્ક ફાઇલોને ખોલો, બદલો અને બનાવો</summary>
+  <summary lang="gl">Abrir, modificar e crear ficheiros de arquivo comprimidos</summary>
+  <summary lang="gd">Fosgail, atharraich is cruthaich tasglannan dùmhlaichte de dh’fhaidhlichean</summary>
+  <summary lang="fur">Vierç, modifiche e cree archivis comprimûts di file</summary>
+  <summary lang="fr">Ouvrir, modifier et créer des fichiers archives</summary>
+  <summary lang="fi">Avaa, muokkaa ja luo pakattuja arkistotiedostoja</summary>
+  <summary lang="fa">گشودن، تغییر و ایجاد پرونده‌های بایگانی فشرده</summary>
+  <summary lang="eu">Ireki, aldatu eta sortu konprimatutako artxiboak</summary>
+  <summary lang="es">Abrir, modificar y crear archivos de archivadores comprimidos</summary>
+  <summary lang="eo">Malfermi, aliigi kaj krei densigitajn arĥivo-dosierojn</summary>
+  <summary lang="en_GB">Open, modify and create compressed archive files</summary>
+  <summary lang="el">Ανοίξτε, τροποποιήστε και δημιουργήστε συμπιεσμένα αρχεία</summary>
+  <summary lang="de">Öffnen, Erstellen und Verändern komprimierter Archivdateien</summary>
+  <summary lang="da">Åbn, modificér eller opret komprimerede arkivfiler</summary>
+  <summary lang="cs">Otevírejte, upravujte a vytvářejte komprimované archivní soubory</summary>
+  <summary lang="ckb">کردنەوە، دەستکاری و دروستکردنی پەڕگەی ئەرشیفی پەستێنراو</summary>
+  <summary lang="ca@valencia">Obri, modifica i crea fitxers d'arxiu comprimit</summary>
+  <summary lang="ca">Obre, modifica i crea fitxers d'arxiu comprimit</summary>
+  <summary lang="bs">Otvorite, mijenjajte i kreirajte kompresovane arhivne datoteke</summary>
+  <summary lang="bn_IN">সংকুচিত সংরক্ষণাগার ফাইলগুলি খুলুন, সংশোধরন করুন এবং তৈরি করুন</summary>
+  <summary lang="bg">Отваряне, създаване и промяна на архиви и компресирани файлове.</summary>
+  <summary lang="be">Адкрыццё, змяненне і стварэнне сціснутых архіваў</summary>
+  <summary lang="as">সংকোচিত আৰ্কাইভ ফাইলসমূহ খোলক, পৰিবৰ্তন কৰক আৰু সৃষ্টি কৰক</summary>
+  <summary lang="ar">افتح و عدّل و أنشئ الأرشيفات</summary>
+  <summary lang="an">Ubrir, modificar y creyar fichers d'archivadors comprimius</summary>
+  <summary lang="af">Open, verander en skep saamgeperste argieflêers</summary>
+  <launchable type="desktop-id">org.gnome.FileRoller.desktop</launchable>
+  <url type="homepage">https://wiki.gnome.org/Apps/FileRoller</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://wiki.gnome.org/Apps/FileRoller?action=AttachFile&amp;do=get&amp;target=file-roller.png</image>
+    </screenshot>
+  </screenshots>
+  <update_contact>paobac_at_src.gnome.org</update_contact>
+  <kudos>
+    <kudo>AppMenu</kudo>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>Notifications</kudo>
+    <kudo>UserDocs</kudo>
+  </kudos>
+  <project_group>GNOME</project_group>
+  <translation type="gettext">file-roller</translation>
+  <provides>
+    <id>org.gnome.FileRoller.desktop</id>
+  </provides>
+  <releases>
+    <release version="3.42.0" date="2022-03-20" />
+    <release date="2022-02-23" version="3.41.90" type="development" />
+    <release version="3.40.0" date="2021-05-01" />
+    <release version="3.38.0" date="2020-09-12" />
+    <release version="3.36.3" date="2020-08-08" />
+  </releases>
+  <content_rating type="oars-1.1" />
+</component>

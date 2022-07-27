@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>libsForQt5.spacebar</pkgname>
+  <launchable type="desktop-id">org.kde.spacebar.desktop</launchable>
+  <icon height="64" type="cached" width="64">org.kde.spacebar.png</icon>
+  <icon type="cached" height="128" width="128">org.kde.spacebar.png</icon>
+  <id>org.kde.spacebar</id>
+  <name>Spacebar</name>
+  <name lang="az">Spacebar</name>
+  <name lang="ca">Spacebar</name>
+  <name lang="ca-valencia">Spacebar</name>
+  <name lang="cs">Spacebar</name>
+  <name lang="de">Spacebar</name>
+  <name lang="en-GB">Spacebar</name>
+  <name lang="es">Spacebar</name>
+  <name lang="et">Spacebar</name>
+  <name lang="eu">Spacebar</name>
+  <name lang="fi">Spacebar</name>
+  <name lang="fr">Spacebar</name>
+  <name lang="gl">Spacebar</name>
+  <name lang="hi">स्पेसबार</name>
+  <name lang="id">Spacebar</name>
+  <name lang="it">Spacebar</name>
+  <name lang="ko">Spacebar</name>
+  <name lang="lt">Spacebar</name>
+  <name lang="nl">Spacebar</name>
+  <name lang="nn">Spacebar</name>
+  <name lang="pa">ਸਪੇਸਬਾਰ</name>
+  <name lang="pl">Spacebar</name>
+  <name lang="pt">Spacebar</name>
+  <name lang="pt-BR">Spacebar</name>
+  <name lang="ro">Spacebar</name>
+  <name lang="sk">Spacebar</name>
+  <name lang="sl">Spacebar</name>
+  <name lang="sv">Spacebar</name>
+  <name lang="tg">Фосилагузор</name>
+  <name lang="uk">Spacebar</name>
+  <name lang="x-test">xxSpacebarxx</name>
+  <name lang="zh-CN">Spacebar</name>
+  <name lang="zh-TW">空間列</name>
+  <summary>SMS/MMS telepathy client</summary>
+  <summary lang="az">SMS/MMS telepaty müştərisi</summary>
+  <summary lang="ca">Client Telepathy d'SMS/MMS</summary>
+  <summary lang="ca-valencia">Client Telepathy d'SMS/MMS</summary>
+  <summary lang="cs">Klient telepathy SMS/MMS</summary>
+  <summary lang="en-GB">SMS/MMS telepathy client</summary>
+  <summary lang="es">Cliente SMS/MMS de Telepathy</summary>
+  <summary lang="fr">Client « Telepathy » pour messages « SMS / MMS »</summary>
+  <summary lang="it">Client di telepathy per SMS e MMS</summary>
+  <summary lang="ko">SMS/MMS Telepathy 클라이언트</summary>
+  <summary lang="nl">Client voor SMS/MMS van telepathy</summary>
+  <summary lang="pa">SMS/MMS ਟੈਲੀਪੈਥੀ ਕਲਾਂਇਟ</summary>
+  <summary lang="pl">Klient telepathy oraz SMS/MMS</summary>
+  <summary lang="pt">Cliente de SMS/MMS e Telepathy</summary>
+  <summary lang="pt-BR">Cliente Telepathy de SMS/MMS</summary>
+  <summary lang="sl">Odjemalec telepathy za SMS/MMS</summary>
+  <summary lang="sv">SMS/MMS Telepathy-klient</summary>
+  <summary lang="uk">Клієнт SMS/MMS telepathy</summary>
+  <summary lang="x-test">xxSMS/MMS telepathy clientxx</summary>
+  <summary lang="zh-CN">短信/彩信客户端</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0-or-later</project_license>
+  <developer_name>KDE Community</developer_name>
+  <developer_name lang="az">KDE İcması</developer_name>
+  <developer_name lang="ca">Comunitat KDE</developer_name>
+  <developer_name lang="ca-valencia">Comunitat KDE</developer_name>
+  <developer_name lang="cs">Komunita KDE</developer_name>
+  <developer_name lang="de">KDE-Gemeinschaft</developer_name>
+  <developer_name lang="en-GB">KDE Community</developer_name>
+  <developer_name lang="es">Comunidad KDE</developer_name>
+  <developer_name lang="et">KDE kogukond</developer_name>
+  <developer_name lang="eu">KDE komunitatea</developer_name>
+  <developer_name lang="fi">KDE-yhteisö</developer_name>
+  <developer_name lang="fr">La communauté KDE</developer_name>
+  <developer_name lang="gl">Comunidade KDE</developer_name>
+  <developer_name lang="hi">केडीई समुदाय</developer_name>
+  <developer_name lang="id">Komunitas KDE</developer_name>
+  <developer_name lang="it">Comunità KDE</developer_name>
+  <developer_name lang="ko">KDE 커뮤니티</developer_name>
+  <developer_name lang="lt">KDE bendruomenė</developer_name>
+  <developer_name lang="nl">KDE-gemeenschap</developer_name>
+  <developer_name lang="nn">KDE-fellesskapet</developer_name>
+  <developer_name lang="pa">ਕੇਡੀਈ ਕਮਿਊਨਟੀ</developer_name>
+  <developer_name lang="pl">Społeczność KDE</developer_name>
+  <developer_name lang="pt">Comunidade do KDE</developer_name>
+  <developer_name lang="pt-BR">Comunidade KDE</developer_name>
+  <developer_name lang="ro">Comunitatea KDE</developer_name>
+  <developer_name lang="sk">KDE komunita</developer_name>
+  <developer_name lang="sl">Skupnost KDE</developer_name>
+  <developer_name lang="sv">KDE-gemenskapen</developer_name>
+  <developer_name lang="tg">Ҷамъияти KDE</developer_name>
+  <developer_name lang="uk">Спільнота KDE</developer_name>
+  <developer_name lang="x-test">xxKDE Communityxx</developer_name>
+  <developer_name lang="zh-CN">KDE 社区</developer_name>
+  <developer_name lang="zh-TW">KDE 社群</developer_name>
+  <description>
+    <p>Spacebar is a telepathy client for Plasma Mobile, that is primarily written for sending and receiving SMS/MMS.</p>
+  </description>
+  <description lang="az">
+    <p>Spacebar Plasma Mobil üçün telepaty müştərisidir və ilkin olaraq SMS/MMS göndərmək və almaq üçün yazılmışdır.</p>
+  </description>
+  <description lang="ca">
+    <p>L'Spacebar és un client del Telepathy per al Plasma Mobile, el qual està escrit principalment per a enviar i rebre SMS/MMS.</p>
+  </description>
+  <description lang="ca-valencia">
+    <p>L'Spacebar és un client de Telepathy per a Plasma Mobile, el qual està escrit principalment per a enviar i rebre SMS/MMS.</p>
+  </description>
+  <description lang="en-GB">
+    <p>Spacebar is a telepathy client for Plasma Mobile, that is primarily written for sending and receiving SMS/MMS.</p>
+  </description>
+  <description lang="es">
+    <p>Spacebar es un cliente de Telepathy para Plasma Mobile, escrito principalmente para enviar y recibir SMS/MMS.</p>
+  </description>
+  <description lang="fr">
+    <p>Le logiciel Spacebar est un client « Telepathy » pour Plasma Mobile. Il a été développé initialement pour l'envoi et la réception de messages « SMS / MMS ».</p>
+  </description>
+  <description lang="it">
+    <p>Spacebar è un client di telepathy per Plasma Mobile, che è stato scritto principalmente per inviare e per ricevere SMS e MMS.</p>
+  </description>
+  <description lang="ko">
+    <p>Spacebar는 Plasma 모바일용 Telepathy 클라이언트입니다. 주 사용 목적은 SMS/MMS 주고받기입니다.</p>
+  </description>
+  <description lang="nl">
+    <p>Spacebar is een client van telepathy voor Plasma Mobile, die primair is geschreven voor het verzenden en ontvangen van SMS/MMS.</p>
+  </description>
+  <description lang="pa">
+    <p>ਸਪੇਸਬਾਰ ਪਲਾਜ਼ਮਾ ਮੋਬਾਇਲ ਲਈ ਟੈਲੀਪੈਥੀ ਕਲਾਂਇਟ ਹੈ, ਜੋ ਕਿ ਮੂਲ ਰੂਪ ਵਿੱਚ SMS/MMS ਸੁਨੇਹੇ ਭੇਜਣ ਤੇ ਲੈਣ ਲਈ ਲਿਖਿਆ ਗਿਆ ਹੈ।</p>
+  </description>
+  <description lang="pl">
+    <p>Spacebar jest klientem telepathy dla Plasma Mobile, który został głównie napisany do wysyłania i odbierania SMS/MMS.</p>
+  </description>
+  <description lang="pt">
+    <p>O Spacebar é um cliente de Telepathy para o Plasma Mobile, que foi criado principalmente para receber e enviar SMS/MMS.</p>
+  </description>
+  <description lang="pt-BR">
+    <p>O Spacebar é um cliente Telepathy para o Plasma Mobile, que é escrito principalmente para enviar e receber SMS/MMS.</p>
+  </description>
+  <description lang="sl">
+    <p>Spacebar je odjemalec programa telepahy za Plasma Mobile, ki je v prvenstveno napisan za pošiljanje in prejemanje SMS/MMS-ov.</p>
+  </description>
+  <description lang="sv">
+    <p>Spacebar är en Telepathy-klient för Plasma Mobil, som i huvudsak är skriven för att skicka och ta emot SMS/MMS.</p>
+  </description>
+  <description lang="uk">
+    <p>Spacebar — клієнт telepathy для мобільної версії Плазми. Основним завданням програми є надсилання і отримання SMS/MMS.</p>
+  </description>
+  <description lang="x-test">
+    <p>xxSpacebar is a telepathy client for Plasma Mobile, that is primarily written for sending and receiving SMS/MMS.xx</p>
+  </description>
+  <description lang="zh-CN">
+    <p>Spacebar 是为 Plasma Mobile 设计的短消息客户端。它的主要功能是用来收发短信和彩信。</p>
+  </description>
+  <url type="bugtracker">https://invent.kde.org/plasma-mobile/spacebar/-/issues</url>
+  <releases>
+    <release version="22.06" date="2022-06-24">
+      <url>https://www.plasma-mobile.org/2022/06/28/plasma-mobile-gear-22-06/</url>
+      <description>
+        <ul>
+          <li>General bug-fixing and improvements</li>
+          <li>Fix mimetype for VCards</li>
+        </ul>
+      </description>
+    </release>
+    <release version="22.04" date="2022-04-26">
+      <url>https://www.plasma-mobile.org/2022/04/26/plasma-mobile-gear-22-04/</url>
+      <description>
+        <ul>
+          <li>Change header style to toolbar</li>
+          <li>Flatten application navigation</li>
+          <li>Improvements in add attachment layout</li>
+          <li>Add notification settings options</li>
+          <li>Add support for choosing phone number via contact</li>
+          <li>Allow to open the links in messages</li>
+          <li>Mark incoming message as read for open chat conversations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2022-02-09" version="22.02">
+      <url>https://www.plasma-mobile.org/2022/02/09/plasma-mobile-gear-22-02/</url>
+      <description>
+        <ul>
+          <li>Fix crash when sending message to non-contact</li>
+          <li>Minor user interface improvements and bugfixes</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-12-07" version="21.12">
+      <description>
+        <ul>
+          <li>Port spacebar to use ModemManager</li>
+          <li>Support for MMS and group messages</li>
+          <li>Streamlined handling of the phone numbers</li>
+          <li>Options to customize the appearance of the chat bubble colors and message font size</li>
+          <li>Added the ability to delete individual messages</li>
+          <li>Added the ability to extract links and 2FA codes from within a message's text and copy it to the clipboard</li>
+          <li>Added the ability to resend a failed message</li>
+          <li>The current chat's notifications are disabled when viewing it</li>
+          <li>Chat list shows date/time of most recent message</li>
+          <li>Message text input now allows multiple lines</li>
+          <li>Fixed premium number detection</li>
+        </ul>
+      </description>
+      <url>https://www.plasma-mobile.org/2021/12/07/plasma-mobile-gear-21-12/</url>
+    </release>
+    <release date="2021-08-31" version="21.08">
+      <url>https://www.plasma-mobile.org/2021/08/31/plasma-mobile-gear-21-08/</url>
+    </release>
+    <release version="21.07" date="2021-07-20">
+      <description>
+        <ul>
+          <li>Rework the phone number normalization, which should now find more cases of differently formatted numbers belonging to the same contact</li>
+          <li>More possible errors while sending messages are now reported to the user</li>
+          <li>Display dates above messages</li>
+          <li>Phone Numbers are now always displayed in local format</li>
+          <li>It is now visible from which number a message will be sent</li>
+          <li>The chat list is now correctly sorted</li>
+        </ul>
+      </description>
+      <url>https://www.plasma-mobile.org/2021/07/20/plasma-mobile-gear-21-07/</url>
+    </release>
+    <release version="21.06" date="2021-06-10">
+      <description>
+        <ul>
+          <li>Links in messages are now clickable</li>
+          <li>Spacebar now opens sms protocol links</li>
+          <li>There is now a warning when trying to text premium SMS numbers</li>
+        </ul>
+      </description>
+      <url>https://www.plasma-mobile.org/2021/06/10/plasma-mobile-update-june/</url>
+    </release>
+  </releases>
+</component>

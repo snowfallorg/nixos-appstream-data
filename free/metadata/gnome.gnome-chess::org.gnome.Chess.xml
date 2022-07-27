@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>gnome.gnome-chess</pkgname>
+  <icon type="cached" width="64" height="64">org.gnome.Chess.png</icon>
+  <icon type="cached" height="128" width="128">org.gnome.Chess.png</icon>
+  <id>org.gnome.Chess</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>GNOME Chess</name>
+  <name lang="zh_TW">GNOME Chess</name>
+  <name lang="zh_HK">GNOME Chess</name>
+  <name lang="zh_CN">GNOME 国际象棋</name>
+  <name lang="vi">Cờ GNOME</name>
+  <name lang="uk">Шахи GNOME</name>
+  <name lang="tr">GNOME Satranç</name>
+  <name lang="sv">GNOME Schack</name>
+  <name lang="sr@latin">Gnomov šah</name>
+  <name lang="sr">Гномов шах</name>
+  <name lang="sl">GNOME Šah</name>
+  <name lang="sk">Šach GNOME</name>
+  <name lang="ru">Шахматы GNOME</name>
+  <name lang="ro">Șah GNOME</name>
+  <name lang="pt_BR">GNOME Xadrez</name>
+  <name lang="pt">Xadrez do GNOME</name>
+  <name lang="pl">Szachy GNOME</name>
+  <name lang="pa">ਗਨੋਮ ਸਤਰੰਜ਼</name>
+  <name lang="oc">Jòc d'escacs GNOME Chess</name>
+  <name lang="nl">Gnome Schaken</name>
+  <name lang="ne">जिनोम बुद्धिचाल</name>
+  <name lang="nb">GNOME sjakk</name>
+  <name lang="ms">Catur GNOME</name>
+  <name lang="ml">ഗ്നോം ചെസ്സ്</name>
+  <name lang="lv">GNOME šahs</name>
+  <name lang="lt">GNOME Šachmatai</name>
+  <name lang="ko">그놈 체스</name>
+  <name lang="kk">GNOME шахмат</name>
+  <name lang="it">GNOME Scacchi</name>
+  <name lang="id">GNOME Catur</name>
+  <name lang="hu">GNOME Sakk</name>
+  <name lang="hr">GNOME Šah</name>
+  <name lang="he">‏GNOME שחמט</name>
+  <name lang="gl">Xadrez de GNOME</name>
+  <name lang="fur">GNOME Scacs</name>
+  <name lang="fr">Jeu d’échecs de GNOME</name>
+  <name lang="fi">Gnomen Šakki</name>
+  <name lang="fa">شطرنج گنوم</name>
+  <name lang="eu">GNOME Xakea</name>
+  <name lang="es">GNOME Ajedrez</name>
+  <name lang="eo">GNOME Ŝako</name>
+  <name lang="en_GB">GNOME Chess</name>
+  <name lang="el">Σκάκι GNOME</name>
+  <name lang="de">GNOME Schach</name>
+  <name lang="da">GNOME Skak</name>
+  <name lang="cs">Šachy GNOME</name>
+  <name lang="ca@valencia">GNOME Escacs</name>
+  <name lang="ca">Escacs del GNOME</name>
+  <name lang="bs">GNOME šah</name>
+  <name lang="bg">Шах</name>
+  <name lang="be">Шахматы GNOME</name>
+  <name lang="af">GNOME-skaak</name>
+  <summary>Play the classic two-player board game of chess</summary>
+  <summary lang="zh_TW">玩傳統的雙人國際象棋遊戲</summary>
+  <summary lang="zh_HK">玩傳統的雙人國際象棋遊戲</summary>
+  <summary lang="zh_CN">经典的两人国际象棋对弈</summary>
+  <summary lang="vi">Chơi cờ hai người truyền thống</summary>
+  <summary lang="uk">Зіграти у класичні шахи (дошка на два гравці)</summary>
+  <summary lang="tr">Klasik iki oyunculu satranç oyununu oyna</summary>
+  <summary lang="sv">Spela schack, det klassiska brädspelet för två spelare</summary>
+  <summary lang="sr@latin">Igrajte klasičnu šahovsku igru na tabli sa dva igrača</summary>
+  <summary lang="sr">Играјте класичну шаховску игру на табли са два играча</summary>
+  <summary lang="sl">Igranje običajne partije šaha</summary>
+  <summary lang="sk">Hrajte klasický stolný šach pre dvoch hráčov</summary>
+  <summary lang="ru">Сыграть в классические шахматы</summary>
+  <summary lang="ro">Joacă clasicul joc de șah de doi jucători</summary>
+  <summary lang="pt_BR">Jogue o clássico jogo de tabuleiro de xadrez para dois jogadores</summary>
+  <summary lang="pt">Jogar o claśsico jogo de tabuleiro de xadrez para duas pessoas</summary>
+  <summary lang="pl">Klasyczne szachy dla dwóch graczy</summary>
+  <summary lang="pa">ਸਤਰੰਜ਼ ਦੀ ਦੋ ਖਿਡਾਰੀਆਂ ਵਾਲੀ ਕਲਾਸੀਕਲ ਖੇਡ ਖੇਡੋ</summary>
+  <summary lang="oc">Jogar al jòc d'escacs classic de dos jogaires</summary>
+  <summary lang="nl">Het klassieke schaakspel voor twee spelers spelen</summary>
+  <summary lang="ne">बुद्धिचाल पुरानो दुइ खेलाडीको बोर्ड खेल खेल्नुहोस्</summary>
+  <summary lang="nb">Spill det klassiske tomannsbrettspillet sjakk</summary>
+  <summary lang="ms">Main permainan papan catur klasik untuk dua-pemain</summary>
+  <summary lang="ml">രണ്ടു പേര്‍ക്ക് കളിക്കാവുന്ന ക്ലാസ്സിക്‌ ചെസ്സ്‌ കളി കളിക്കൂ</summary>
+  <summary lang="lv">Spēlēt klasisko divu spēlētāju šaha spēli</summary>
+  <summary lang="lt">Žaisti klasikinius dviejų žaidėjų šachmatus</summary>
+  <summary lang="ko">전통적인 2인 체스 보드 게임을 플레이합니다</summary>
+  <summary lang="kk">Екі ойыншы үшін классикалық шахмат үстел ойынын ойнау</summary>
+  <summary lang="ja">二人のプレイヤーで対戦型のチェスゲームをお楽しみください</summary>
+  <summary lang="it">Gioca al classico gioco degli scacchi</summary>
+  <summary lang="id">Mainkan permainan papan catur klasik dengan dua pemain</summary>
+  <summary lang="hu">A klasszikus kétszemélyes sakk játék</summary>
+  <summary lang="hr">Igrajte klasičnu šahovsku igru u dvoje na ploči</summary>
+  <summary lang="he">שחמט - משחק לוח קלסי לשני שחקנים</summary>
+  <summary lang="gl">Xogar unha partida clásica de xadrez de dous xogadores</summary>
+  <summary lang="fur">Zuie al classic zûc dai scacs</summary>
+  <summary lang="fr">Jouer au jeu d’échecs classique à deux joueurs</summary>
+  <summary lang="fi">Pelaa šakkia, klassista kahden pelaajan lautapeliä</summary>
+  <summary lang="fa">بازی کلاسیک دونفرهٔ شطرنج</summary>
+  <summary lang="eu">Jokatu bi jokalarirentzako xake-taula klasikoan</summary>
+  <summary lang="es">Juegue una partida clásica de ajedrez de dos jugadores</summary>
+  <summary lang="eo">Ludi la klasikan du-lundantan tabulludon ŝakon</summary>
+  <summary lang="en_GB">Play the classic two-player board game of chess</summary>
+  <summary lang="el">Παίξτε το κλασικό επιτραπέζιο σκάκι με δύο παίχτες</summary>
+  <summary lang="de">Das klassische 2-Spieler-Brettspiel Schach spielen</summary>
+  <summary lang="da">Spil det klassiske brætspil skak med to spillere</summary>
+  <summary lang="cs">Hrát klasickou šachovou hru pro dva hráče</summary>
+  <summary lang="ca@valencia">Jugueu al clàssic joc dels escacs entre dues persones</summary>
+  <summary lang="ca">Jugueu al clàssic joc dels escacs entre dues persones</summary>
+  <summary lang="bs">Igraj klasičnu igru šaha sa dva igrača</summary>
+  <summary lang="bg">Класическата игра на шах за двама</summary>
+  <summary lang="be">Класічная настольная гульня ў шахматы для двух гульцоў</summary>
+  <description>
+    <p>
+      GNOME Chess is a simple chess game. You can play against your computer at
+      three different difficulty levels, or against a friend at your computer.
+    </p>
+    <p>
+      Computer chess enthusiasts will appreciate GNOME Chess’s compatibility with
+      nearly all modern computer chess engines, and its ability to detect several
+      popular engines automatically if installed.
+    </p>
+  </description>
+  <description lang="be">
+    <p>Шахматы GNOME. Вы можаце гуляць супраць камп'ютара на трох розных узроўнях цяжкасці або супраць сябра.</p>
+    <p>Аматары камп'ютарных шахмат ацэняць сумяшчальнасць праграмы амаль што з усімі сучаснымі праграмнымі шахматнымі рухавікамі, а таксама яе здольнасць аўтаматычна апазнаць некаторыя папулярныя рухавікі, усталяваныя ў сістэме.</p>
+  </description>
+  <description lang="bg">
+    <p>Това е стандартната игра на шах. Можете да играете срещу компютъра на три нива на трудност или да играете срещу друг човек.</p>
+    <p>За шахматните ентусиасти е важно да знаят, че този „Шах“ е съвместим с почти всички съвременни алгоритми за шах и може автоматично да ги засича, когато са инсталирани.</p>
+  </description>
+  <description lang="bs">
+    <p>GNOME šah je jednostavna igra šaha. Možeš igrati protiv kompjutera u tri nivoa,ili protiv prijatelja na svom kompjuteru.</p>
+  </description>
+  <description lang="ca">
+    <p>L'Escacs del GNOME és un joc senzill d'escacs. Podeu jugar contra l'ordinador, amb tres nivells de dificultat, o contra un amic al mateix ordinador.</p>
+    <p>Els entusiastes dels escacs per ordinador apreciaran la compatibilitat de l'Escacs del GNOME amb tots els motors d'ordinador d'escacs moderns, així com la seva habilitat per a detectar molts motors populars de forma automàtica si es troben instal·lats.</p>
+  </description>
+  <description lang="ca@valencia">
+    <p>El GNOME Escacs és un joc senzill d'escacs. Podeu jugar contra l'ordinador, amb tres nivells de dificultat, o contra un amic al mateix ordinador.</p>
+    <p>Els entusiastes dels escacs per ordinador apreciaran la compatibilitat del GNOME Escacs amb tots els motors d'ordinador d'escacs moderns, així com la seua habilitat per detectar molts motors populars de forma automàtica si es troben instal·lats.</p>
+  </description>
+  <description lang="cs">
+    <p>Šachy GNOME jsou jednoduchá šachová hra. Můžete hrát proti počítačovému protivníkovi se třemi úrovněmi obtížnosti nebo proti kamarádovi u počítače.</p>
+    <p>Příznivci počítačového šachu ocení kompatibilitu Šachů GNOME s téměř všemi moderními počítačovými šachovými jádry a jeho schopnost automaticky vyhledat, že jsou některá z nich nainstalována.</p>
+  </description>
+  <description lang="da">
+    <p>GNOME Skak er et simpelt skakspil. Du kan spille mod computeren på tre forskellige sværhedsgrader, eller mod en ven ved computeren.</p>
+    <p>Computerskakentusiaster vil sætte pris på GNOME Skaks kompatibilitet med næsten alle moderne computerskakmaskiner, samt programmets evne til at finde adskillige populære maskiner automatisk hvis installeret.</p>
+  </description>
+  <description lang="de">
+    <p>Schach ist ein einfaches Schachspiel. Man kann auf drei Schwierigkeitsgraden gegen den Rechner spielen, oder gegen einen Freund am selben Rechner.</p>
+    <p>Schach-Enthusiasten werden die Kompatibilität von Schach zu nahezu allen modernen Schachprogrammen und die Fähigkeit, die installierten Programme automatisch zu erkennen, zu schätzen wissen.</p>
+  </description>
+  <description lang="el">
+    <p>Το Σκάκι GNOME είναι ένα απλό παιχνίδι σκακιού. Μπορείτε να παίξετε εναντίον του υπολογιστή σας σε τρία διαφορετικά επίπεδα δυσκολίας, ή εναντίον ενός φίλου σας στον υπολογιστή σας.</p>
+    <p>Οι φίλοι του σκακιού στον υπολογιστή θα εκτιμήσουν τη συμβατότητα του σκακιού GNOME με σχεδόν όλες τις σύγχρονες μηχανές σκακιού για υπολογιστή και τη δυνατότητά του να αναγνωρίζει αυτόματα πολλές δημοφιλείς μηχανές, αν είναι εγκατεστημένες.</p>
+  </description>
+  <description lang="en_GB">
+    <p>GNOME Chess is a simple chess game. You can play against your computer at three different difficulty levels, or against a friend at your computer.</p>
+    <p>Computer chess enthusiasts will appreciate GNOME Chess’s compatibility with nearly all modern computer chess engines, and its ability to detect several popular engines automatically if installed.</p>
+  </description>
+  <description lang="eo">
+    <p>GNOME Ŝako estas simpla ŝakludo. Vi povas ludi kontraŭ via komputilo je tri diversaj malfacilecaj niveloj, aŭ kontraŭ amiko ĉe via komputilo.</p>
+    <p>Entuziasmuloj de komputila ŝako aprezos la kongruecon de GNOME Ŝako kun preskaŭ ĉiuj modernaj komputilaj ŝakaj motoroj, kaj ĝia eblo aŭtomate detekti diversajn popularajn motoron se instalitaj.</p>
+  </description>
+  <description lang="es">
+    <p>GNOME Ajedrez es un sencillo juego de ajedrez. Puede jugar contra el equipo en tres niveles de dificultad, o contra un amigo en su equipo.</p>
+    <p>Los amantes de los juegos de ajedrez para ordenador apreciarán la compatibilidad de GNOME Ajedrez con casi todos los motores de ajedrez modernos para ordenador, y su capacidad para detectar automáticamente varios motores populares si están instalados.</p>
+  </description>
+  <description lang="eu">
+    <p>GNOME Xakea xake-joko xume bat da. Ordenagailuaren aurka zailtasuneko hiru maila desberdinetan joka dezakezu, edo beste lagun baten aurka ordenagailu berean.</p>
+    <p>Ordenagailu bidezko xake zaleek GNOME Xakea gogoko izango dute, ordenagailu bidezko xake-motor ia guztiekin bateragarria baita, eta, instalatuta edukiz gero, hainbat motor ospetsu atzemateko gaitasuna du.</p>
+  </description>
+  <description lang="fa">
+    <p>شطرنج گنوم یک بازی سادهٔ شطرنج است. می‌توانید مقابل دوستی در رایانه‌تان یا در سه سطح دشواری مختلف در مقابل رایانه‌تان بازی کنید.</p>
+    <p>هوادارن شطرنج رایانه‌ای، سازگاری شطرنج گنوم با تقریباً تمام موتورهای شطرنج رایانه‌ای نوین و قابلیتش در تشخیص چندین موتور محبوب در صورت نصب بودن را خواهند ستود.</p>
+  </description>
+  <description lang="fi">
+    <p>Gnomen Šakki on yksinkertainen šakkipeli. Voit pelata joko tietokonetta vastaan jollakin kolmesta vaikeustasosta tai ystävää vastaan tällä tietokoneella.</p>
+    <p>Tietokonešakin harrastajat arvostanevat Gnomen Šakin yhteensopivuutta lähes kaikkien nykyaikaisten tietokonešakkimoottoreiden kanssa, sekä sen kykyä tunnistaa monet suositut asennettuna olevat moottorit automaattisesti.</p>
+  </description>
+  <description lang="fr">
+    <p>Jeu d’échecs de GNOME est un jeu d’échecs simple. Vous pouvez jouer contre l’ordinateur à trois niveaux de difficulté différents ou contre un ami.</p>
+    <p>Les passionnés du jeu d’échecs contre l’ordinateur apprécieront la compatibilité avec presque tous les moteurs d’échecs récents et sa capacité à détecter automatiquement plusieurs moteurs d’échecs connus s’ils sont installés.</p>
+  </description>
+  <description lang="fur">
+    <p>GNOME Scacs al è un sempliç zûc di scacs. Al è pussibil zuiâ cuintri il computer a trê nivei di dificoltât diferents, o cuintri un ami.</p>
+    <p>I apassionâts di scacs a gjoldaran de compatibilitât di GNOME Scacs cun cuasi ducj i motôrs plui gnûfs di scacs e la sô abilitât di cjatâ in automatic i diviers motôrs di chei plui popolârs (se instalâts).</p>
+  </description>
+  <description lang="gl">
+    <p>Xadrez de GNOME é un xogo de xadrez simple. Pode xogar contra o seu computador en tres diferentes niveis de dificultade ou contra un amigo no seu computador.</p>
+    <p>Os entusiastas de xadrez en computador apreciarán a compatibilidade de Xadrez de GNOME con case todos os motores de xadrez de computador, e a súa habilidade de detectar varios motores populares automaticamente se están instalados.</p>
+  </description>
+  <description lang="he">
+    <p>‏GNOME שחמט הוא משחק שחמט פשוט. ניתן לשחק מול המחשב בשלוש רמות קושי שונות, או נגד חבר במחשב שלך.</p>
+    <p>חובבי משחק שחמט ממוחשב יעריכו את שחמט GNOME כתואם עם כמעט כל מנועי השחמט הממוחשבים החדישים, ואת היכולת שלו להבחין באופן אוטומטי במספר מנועים מפורסמים אם הם מותקנים.</p>
+  </description>
+  <description lang="hr">
+    <p>GNOME Šah je jednostavna šahovska igra. Možete igrati protiv svojeg računala na tri različite razine ili protiv prijatelja na vašem računalu.</p>
+    <p>Računalni šahovski entuzijasti će cijeniti kompatibilnost GNOME Šaha s gotovo svim modernim pogonima računalnog šaha i njegovu mogućnost da otkrije nekoliko popularnih pogona automatski ako su instalirani.</p>
+  </description>
+  <description lang="hu">
+    <p>A GNOME sakk egy egyszerű sakk játék. Játszhat a számítógép ellen három különböző nehézségi szinten, vagy a sakkpartnere ellen a számítógépen.</p>
+    <p>A számítógépes sakk rajongói méltányolni fogják, hogy a GNOME Sakk közel az összes modern sakkmotorral kompatibilis, illetve hogy számos népszerű sakk motort automatikusan felismer, ha telepítve vannak.</p>
+  </description>
+  <description lang="id">
+    <p>GNOME Catur adalah suatu permainan catur sederhana. Anda bisa bermain melawan komputer Anda dengan tiga tingkat kesulitan yang berbeda, atau melawan seorang teman pada komputer Anda.</p>
+    <p>Para peminat catur akan mengapresiasi kompatibilitas GNOME Catur dengan hampir seluruh mesin catur komputer modern, dan kemampuannya mendeteksi beberapa mesin populer secara otomatis bila dipasang.</p>
+  </description>
+  <description lang="it">
+    <p>GNOME Scacchi è un semplice gioco di scacchi: puoi giocare contro il computer con tre diversi livelli di difficoltà o contro un tuo amico.</p>
+    <p>Gli appassionati di scacchi apprezzeranno la compatibilità di GNOME Scacchi con quasi tutti i più moderni motori di scacchi e la sua abilità nel rilevare automaticamente diversi motori tra i più popolari (se installati).</p>
+  </description>
+  <description lang="kk">
+    <p>GNOME шахмат — қарапайым шахмат ойыны. Компьютерге қарсы үш түрлі қиындық деңгейінде немесе компьютеріңіздегі досыңызға қарсы ойнауға болады.</p>
+    <p>Компьютерлік шахмат әуесқойлары GNOME шахмат ойынының барлық заманауи компьютерлік шахмат қозғалтқыштарымен үйлесімділігін және орнатылған болса, бірнеше танымал қозғалтқыштарды автоматты түрде анықтау қабілетін бағалайтын болады.</p>
+  </description>
+  <description lang="ko">
+    <p>그놈 체스는 간단한 체스 게임입니다. 세 가지 난이도로 컴퓨터와 플레이할 수도 있고, 친구를 상대로 플레이할 수도 있습니다.</p>
+    <p>그놈 체스는 현대의 거의 모든 컴퓨터 체스 엔진과 호환되며 대중적인 몇몇 엔진은 설치된 경우 자동으로 인식합니다.</p>
+  </description>
+  <description lang="lt">
+    <p>GNOME šachmatai yra paprastas šachmatų žaidimas. Galite žaisti prieš kompiuterį trim skirtingais sudėtingumo lygiais arba prieš draugą prie jūsų kompiuterio.</p>
+    <p>Kompiuterio šachmatų mėgėjams patiks GNOME šachmatų suderinamumas su beveik visais šiuolaikiniais kompiuterinių šachmatų varikliukais bei galimybė automatiškai aptikti kelis populiarius varikliukus, jei šie įdiegti.</p>
+  </description>
+  <description lang="lv">
+    <p>GNOME šahs ir vienkārša šaha spēle. Tu vari spēlēt pret datoru trīs dažādos sarežģītības līmeņos, vai pret draugu pie šī datora.</p>
+    <p>Datoru šaha entuziasti spēs novērtēt GNOME šaha savietojamību ar gandrīz visiem mūsdienu šaha dziņiem, un tā spēju automātiski noteikt uzinstalētos dziņus.</p>
+  </description>
+  <description lang="ml">
+    <p>ഗ്നോം ചെസ്സ് ലളിതമായ ഒരു ചെസ്സ് കളിയാണ്. നിങ്ങളുടെ കമ്പ്യൂട്ടറിന് എതിരായി മൂന്ന് വ്യത്യസ്ത കഠിനതാതലങ്ങളിൽ കളിക്കുകയോ ,അല്ലെങ്കിൽ നിങ്ങളുടെ കമ്പ്യൂട്ടറിൽ ഒരു സുഹൃത്തിനെതിരെയോ കളിക്കുകയോ ചെയ്യാം.</p>
+    <p>ആധുനിക കമ്പ്യൂട്ടർ ചെസ്സ് എഞ്ചിനുകളുമായി ഗ്നോം ചെസ്സിന്റെ അനുയോജ്യതയും, നിരവധി ജനപ്രിയ എഞ്ചിനുകൾ ഇൻസ്റ്റാൾ ചെയ്തിട്ടുണ്ടെങ്കിൽ തനിയേ കണ്ടെത്തുന്നതിനുള്ള കഴിവും ചെസ്സ് പ്രേമികൾക്ക് പ്രിയങ്കരമായിരിക്കും.</p>
+  </description>
+  <description lang="ms">
+    <p>Catur GNOME ialah permainan catur ringkas. Anda berlawan dengan pihak komputer pada tiga aras kesukaran, atau dengan rakan anda dengan komputer yang sama.</p>
+    <p>Peminat catur komputer akan menyukai keserasian Catur GNOME dengan hampir semua enjin catur komputer modern, dan keupayaannya mengesan beberapa enjin terkenal secara automatik jika telah dipasang.</p>
+  </description>
+  <description lang="nb">
+    <p>GNOME sjakk er et enkelt sjakkspill. Du kan spille mot datamaskinen på tre forskjellige vanskelighetsnivper, eller mot en venn på samme datamaskin.</p>
+    <p>Entusiaster for sjakk på datamaskinen vil like GNOME sjakk's kompatibilitet med nesten alle moderne datasjakkmotorer, og evnen til å gjenkjenne flere populære motorer automatisk hvis de er installert.</p>
+  </description>
+  <description lang="ne">
+    <p>जिनोम चेस खेल हो । तपाईं कम्प्युटरविरुद्ध तीनवटा फरक-फरक कठिनाइ वा कम्प्युटरको साथीविरुद्ध खेल्न सक्नुहुन्छ।.</p>
+    <p>कम्प्युटर चेसप्रति उत्साहीहरूले लगभग सबै आधुनिक कम्प्युटर चेस इन्जिनसँग जिनोम चेसको अनुकूलता र स्थापना गरिएमा स्वचालित रूपमा धेरै लोकप्रिय इन्जिनहरू पत्ता लगाउने क्षमतालाई बुझ्नेछन्।.</p>
+  </description>
+  <description lang="nl">
+    <p>Gnome Schaken is een eenvoudig schaakspel. U kunt tegen uw computer spelen met drie verschillende moeilijkheidsgraden, of tegen een vriend op uw computer.</p>
+    <p>Enthousiastelingen van computerschaak zullen de verenigbaarheid van Gnome Schaken met bijna alle moderne schaakcomputers waarderen, alsmede de mogelijkheid om automatisch verschillende populaire schaakcomputers te detecteren als deze geïnstalleerd zijn.</p>
+  </description>
+  <description lang="oc">
+    <p>GNOME Chess es un jòc d'escacs simple. Podètz jogar contra l'ordenador a tres nivèls de dificultat diferents o contra un amic.</p>
+    <p>Los afogats del jòc d'escacs contra l'ordenador presaràn la compatibilitat amb gaireben totes los motors d'escacs recents e sa capacitat a detectar automaticament mantun motor d'escacs coneguts se son installats.</p>
+  </description>
+  <description lang="pl">
+    <p>Prosta gra w szachy dla środowiska GNOME. Można grać przeciwko komputerowi na trzech poziomach trudności lub przeciwko innemu graczowi przy tym samym komputerze.</p>
+    <p>Wielbiciele komputerowych szachów z pewnością docenią zgodność Szachów GNOME z prawie wszystkimi współczesnymi mechanizmami szachowymi i ich możliwość automatycznego wykrywania zainstalowanych mechanizmów.</p>
+  </description>
+  <description lang="pt">
+    <p>O GNOME Chess é um simples jogo de xadrez. Pode jogar contra o computador com três níveis diferentes de dificuldade ou contra um amigo no seu computador.</p>
+    <p>Os entusiastas de xadrez no computador vão apreciar a compatibilidade do GNOME Chess com quase todos os motores modernos de inteligência artificial de xadrez e a sua habilidade para detetar vários engenhos populares automaticamente, se instalados.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>GNOME Xadrez é um jogo de xadrez simples. Você pode jogar contra seu computador em três diferentes níveis de dificuldade ou jogar contra um amigo no seu computador.</p>
+    <p>Entusiastas de xadrez de computador irão apreciar a compatibilidade do GNOME Xadrez com quase todos os mecanismos modernos de xadrez e sua habilidade em detectar automaticamente vários mecanismos populares, caso estejam instalados.</p>
+  </description>
+  <description lang="ro">
+    <p>Șah GNOME este un simplu joc de șah. Puteți juca împotriva calculatorului la nivele diferite de dificultate sau împotriva unui prieten la calculatorul dumneavoastră.</p>
+    <p>Amatorii de șah pe calculator vor aprecia compatibilitatea lui Șah GNOME cu aproape toate motoarele moderne de șah pe calculator și capacitatea sa de a detecta automat multe dintre motoarele populare dacă sunt instalate.</p>
+  </description>
+  <description lang="ru">
+    <p>Шахматы GNOME — это простая игра в шахматы. Вы можете играть против компьютера на трёх различных уровнях сложности, а также против другого человека за ваших компьютером.</p>
+    <p>Любители компьютерных шахмат оценят совместимость «Шахмат GNOME» с другими современными компьютерными шахматными движками, а также способность автоматически определять некоторые установленные популярные движки.</p>
+  </description>
+  <description lang="sk">
+    <p>Šach GNOME je jednoduchá hra, ktorú môžete hrať proti počítaču (tri úrovne obtiažnosti) alebo proti vášmu kamarátovi na vašom počítači.</p>
+    <p>Nadšenci v oblasti počítačového šachu ocenia kompatibilitu s takmer všetkými modernými šachovými strojmi, a tiež schopnosť automatického zistenia ich prítomnosti na vašom počítači.</p>
+  </description>
+  <description lang="sl">
+    <p>Igra Gnome Šah omogoča igraje proti računalniku na treh različnih ravneh. Igro je mogoče igrati tudi proti človeškemu nasprotniku.</p>
+    <p>Navdušenci nad šahom bodo z veseljem ugotovili, da podpira igra GNOME Šah skoraj vse sodobne šahovske programnike in jih celo samodejno zazna, če so nameščeni.</p>
+  </description>
+  <description lang="sr">
+    <p>Гномов шах је једноставна шаховска игра. Можете играти против вашег рачунара на три различита нивоа тежине, или против пријатеља на вашем рачунару.</p>
+    <p>Љубитељи машинског шаха ће ценити сагласност Гномовог шаха са скоро свим савременим моторима машинског шаха, и његову способност да самостално открије неколико популарних мотора ако су инсталирани.</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Gnomov šah je jednostavna šahovska igra. Možete igrati protiv vašeg računara na tri različita nivoa težine, ili protiv prijatelja na vašem računaru.</p>
+    <p>Ljubitelji mašinskog šaha će ceniti saglasnost Gnomovog šaha sa skoro svim savremenim motorima mašinskog šaha, i njegovu sposobnost da samostalno otkrije nekoliko popularnih motora ako su instalirani.</p>
+  </description>
+  <description lang="sv">
+    <p>GNOME Schack är ett enkelt schackspel. Du kan spela mot din dator på tre olika svårighetsnivåer, eller mot en vän vid din dator.</p>
+    <p>Datorschacksentusiaster kommer uppskatta den kompatibilitet GNOME Schack har med nästan alla moderna datorschackmotorer, och dess förmåga att upptäcka flera populära motorer automatiskt om de finns installerade.</p>
+  </description>
+  <description lang="tr">
+    <p>GNOME Satranç, basit satranç oyunudur. Üç başka zorluk düzeyinde bilgisayara ya da arkadaşınıza karşı oynayabilirsiniz.</p>
+    <p>Bilgisayarlı satranç meraklıları, GNOME Satrançʼın neredeyse tüm çağdaş bilgisayar satranç motorları ile uyumluluğunu ve eğer kuruluysa birçok gözde satranç motorunu kendiliğinden algılama yeteneğini takdir edecektir.</p>
+  </description>
+  <description lang="uk">
+    <p>GNOME шахи – проста гра у шахи. Ви можете грати з комп'ютером, вибравши з трьох рівнів складності, або з другом на вашому комп'ютері.</p>
+    <p>Прихильники комп'ютерних шахів оцінять сумісність GNOME шахів з практично усіма сучасними комп'ютерними шаховими рушіями і їхню здатність автоматичного визначення декількох популярних рушіїв (якщо такі встановлено).</p>
+  </description>
+  <description lang="vi">
+    <p>Cờ GNOME là chương trình chơi cờ đơn giản. Bạn có thể đánh với máy tính với ba mức độ khó, hoặc với bạn bè tại máy tính của mình.</p>
+    <p>Những người đam mê cờ máy tính sẽ đánh giá cao sự tương thích với các bộ máy chơi cờ hiện đại bằng máy tính của Cờ GNOME, và nó có khả năng dò tìm các bộ máy phổ biến một cách tự động nếu nó đã được cài đặt.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>GNOME 国际象棋是一款简单的国际象棋游戏。您可以与三种难度级别的电脑对弈，或与朋友在您的计算机上对弈。</p>
+    <p>GNOME 国际象棋与几乎所有的现代计算机象棋引擎兼容，也能自动检测常用的引擎。</p>
+  </description>
+  <description lang="zh_HK">
+    <p>GNOME Chess 是簡單的國際象棋遊戲。你可以與你的電腦下三種難度的棋，或是在你的電腦上與朋友下一盤棋。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>GNOME Chess 是簡單的國際象棋遊戲。您可以與您的電腦下三種難度的棋，或是在您的電腦上與朋友下一盤棋。</p>
+    <p>電腦國際象棋的愛好者會喜歡 GNOME Chess 與所有現代電腦國際象棋引擎的相容性，以及它自動偵測電腦安裝多種熱門引擎的能力。</p>
+  </description>
+  <screenshots>
+    <screenshot height="484" width="748" type="default">
+      <image>https://gitlab.gnome.org/GNOME/gnome-chess/-/raw/master/data/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://wiki.gnome.org/Apps/Chess</url>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/gnome-chess/issues/</url>
+  <url type="donation">http://www.gnome.org/friends/</url>
+  <url type="help">https://help.gnome.org/users/gnome-chess/stable/</url>
+  <url type="translate">https://wiki.gnome.org/TranslationProject</url>
+  <update_contact>mcatanzaro_at_gnome.org</update_contact>
+  <launchable type="desktop-id">org.gnome.Chess.desktop</launchable>
+  <project_group>GNOME</project_group>
+  <provides>
+    <id>gnome-chess.desktop</id>
+  </provides>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>UserDocs</kudo>
+  </kudos>
+  <recommends>
+    <control>pointing</control>
+    <control>touch</control>
+  </recommends>
+  <requires>
+    <display_length compare="ge">small</display_length>
+  </requires>
+  <releases>
+    <release version="42.0" date="2022-03-17" />
+    <release version="42~alpha" date="2022-01-06" />
+    <release date="2021-10-29" version="41.1" />
+    <release date="2021-09-16" version="41.0" />
+    <release date="2021-04-15" version="40.1" />
+    <release version="40.0" date="2021-03-22" />
+    <release version="40~alpha" date="2021-01-07" />
+    <release version="3.38.1" date="2020-12-06" />
+    <release version="3.38.0" date="2020-09-11" />
+    <release date="2020-07-02" version="3.37.3" />
+    <release date="2020-05-28" version="3.37.2" />
+    <release version="3.37.1.1" date="2020-04-25" />
+    <release version="3.37.1" date="2020-04-25" />
+    <release date="2020-03-05" version="3.36.0" />
+    <release version="3.35.3" date="2020-01-03" />
+    <release version="3.34.0" date="2019-09-08" />
+  </releases>
+  <translation type="gettext">gnome-chess</translation>
+  <developer_name>The GNOME Project</developer_name>
+  <developer_name lang="zh_TW">GNOME 計畫</developer_name>
+  <developer_name lang="zh_CN">GNOME 项目</developer_name>
+  <developer_name lang="vi">Dự án GNOME</developer_name>
+  <developer_name lang="uk">Проект GNOME</developer_name>
+  <developer_name lang="tr">GNOME Projesi</developer_name>
+  <developer_name lang="sv">GNOME-projektet</developer_name>
+  <developer_name lang="sr@latin">Gnomov projekat</developer_name>
+  <developer_name lang="sr">Гномов пројекат</developer_name>
+  <developer_name lang="sl">Projekt GNOME</developer_name>
+  <developer_name lang="sk">Projekt GNOME</developer_name>
+  <developer_name lang="ru">Проект GNOME</developer_name>
+  <developer_name lang="ro">Proiectul GNOME</developer_name>
+  <developer_name lang="pt_BR">O Projeto GNOME</developer_name>
+  <developer_name lang="pt">Projeto GNOME</developer_name>
+  <developer_name lang="pl">Projekt GNOME</developer_name>
+  <developer_name lang="oc">Lo projècte GNOME</developer_name>
+  <developer_name lang="nl">Het Gnome-project</developer_name>
+  <developer_name lang="ne">जिनोम परियोजना</developer_name>
+  <developer_name lang="nb">GNOME prosjektet</developer_name>
+  <developer_name lang="ms">Projek GNOME</developer_name>
+  <developer_name lang="ml">ഗ്നോം പ്രോജക്റ്റ്</developer_name>
+  <developer_name lang="lv">GNOME projekts</developer_name>
+  <developer_name lang="lt">GNOME projektas</developer_name>
+  <developer_name lang="ko">그놈 프로젝트</developer_name>
+  <developer_name lang="kk">GNOME жобасы</developer_name>
+  <developer_name lang="ja">The GNOME Project</developer_name>
+  <developer_name lang="it">Il progetto GNOME</developer_name>
+  <developer_name lang="id">Proyek GNOME</developer_name>
+  <developer_name lang="hu">A GNOME projekt</developer_name>
+  <developer_name lang="hr">GNOME projekt</developer_name>
+  <developer_name lang="he">מיזם GNOME</developer_name>
+  <developer_name lang="gl">O Proxecto GNOME</developer_name>
+  <developer_name lang="fur">Il progjet GNOME</developer_name>
+  <developer_name lang="fr">Le projet GNOME</developer_name>
+  <developer_name lang="fi">Gnome-projekti</developer_name>
+  <developer_name lang="fa">پروژهٔ گنوم</developer_name>
+  <developer_name lang="eu">GNOME proiektua</developer_name>
+  <developer_name lang="es">El Proyecto GNOME</developer_name>
+  <developer_name lang="eo">La Projekto GNOME</developer_name>
+  <developer_name lang="en_GB">The GNOME Project</developer_name>
+  <developer_name lang="el">Το έργο GNOME</developer_name>
+  <developer_name lang="de">Das GNOME-Projekt</developer_name>
+  <developer_name lang="da">GNOME-projektet</developer_name>
+  <developer_name lang="cs">Projekt GNOME</developer_name>
+  <developer_name lang="ca@valencia">El projecte GNOME</developer_name>
+  <developer_name lang="ca">El projecte GNOME</developer_name>
+  <developer_name lang="bg">Проектът GNOME</developer_name>
+  <developer_name lang="be">Праект GNOME</developer_name>
+  <developer_name lang="af">Die GNOME-projek</developer_name>
+  <content_rating type="oars-1.0">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+  <custom>
+    <value key="Purism::form_factor">workstation</value>
+    <value key="Purism::form_factor">mobile</value>
+  </custom>
+</component>

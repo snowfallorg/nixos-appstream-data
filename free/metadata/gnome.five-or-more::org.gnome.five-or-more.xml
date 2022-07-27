@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>gnome.five-or-more</pkgname>
+  <icon height="64" type="cached" width="64">org.gnome.five-or-more.png</icon>
+  <icon width="128" height="128" type="cached">org.gnome.five-or-more.png</icon>
+  <id>org.gnome.five-or-more</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>Five or More</name>
+  <name lang="zh_TW">五子連色棋</name>
+  <name lang="zh_HK">五子連色棋</name>
+  <name lang="zh_CN">连珠消球</name>
+  <name lang="xh">U-Five or More</name>
+  <name lang="vi">Năm hay nhiều hơn</name>
+  <name lang="uk">П'ять або більше</name>
+  <name lang="ug">Five ياكى More</name>
+  <name lang="tr">Beş veya Fazlası</name>
+  <name lang="th">หยิบห้า</name>
+  <name lang="te">ఐదు లేదా ఎక్కువ</name>
+  <name lang="ta">ஐந்து அல்லது அதற்கு மேல்</name>
+  <name lang="sv">Fem eller mer</name>
+  <name lang="sr@latin">Pet ili više</name>
+  <name lang="sr">Пет или више</name>
+  <name lang="sq">Pesë apo më Shumë</name>
+  <name lang="sl">Pet ali več</name>
+  <name lang="sk">Päť a viac</name>
+  <name lang="ru">Пять или более</name>
+  <name lang="ro">Cinci sau mai multe</name>
+  <name lang="pt_BR">Cinco ou Mais</name>
+  <name lang="pt">Cinco ou mais</name>
+  <name lang="pl">Kulki</name>
+  <name lang="pa">ਪੰਜ ਜਾਂ ਵੱਧ</name>
+  <name lang="or">ପାଞ୍ଚ କିମ୍ବା ଅଧିକ</name>
+  <name lang="oc">Cinc o mai</name>
+  <name lang="nn">Fem eller meir</name>
+  <name lang="nl">Vijf of meer</name>
+  <name lang="ne">पाँच वा बढी</name>
+  <name lang="nb">Fem eller flere</name>
+  <name lang="ms">LImau atau Lebih</name>
+  <name lang="mr">पाच किंवा जास्त</name>
+  <name lang="ml">അഞ്ച് അല്ലെങ്കില്‍ കൂടുതല്‍</name>
+  <name lang="mk">Five or More</name>
+  <name lang="mai">पाँच अथवा बेसी </name>
+  <name lang="lv">Vismaz pieci</name>
+  <name lang="lt">Penketas ar daugiau</name>
+  <name lang="ko">다섯개</name>
+  <name lang="kn">ಐದು ಅಥವ ಹೆಚ್ಚಿನ</name>
+  <name lang="km">ប្រាំ ឬច្រើនជាង</name>
+  <name lang="kk">"Бес немесе одан да көп"</name>
+  <name lang="ka">ხუთი ან მეტი</name>
+  <name lang="ja">Five or More</name>
+  <name lang="it">Cinque o più</name>
+  <name lang="is">Five or More</name>
+  <name lang="id">Five or More</name>
+  <name lang="hu">Öt vagy több</name>
+  <name lang="hr">Pet ili više</name>
+  <name lang="hi">पांच या अधिक</name>
+  <name lang="he">חמש או יותר</name>
+  <name lang="gu">પાંચ અથવા વધુ</name>
+  <name lang="gl">Cinco ou Máis</name>
+  <name lang="ga">Cúig nó Breis</name>
+  <name lang="fur">Cinc o plui</name>
+  <name lang="fr">Cinq ou plus</name>
+  <name lang="fi">Viisi tai enemmän</name>
+  <name lang="fa">پنج یا بیش‌تر</name>
+  <name lang="eu">Bost edo gehiago</name>
+  <name lang="et">Viis või rohkem</name>
+  <name lang="es">Cinco o más</name>
+  <name lang="eo">Kvin Aŭ Pli</name>
+  <name lang="en@shaw">·𐑓𐑲𐑝 𐑹 ·𐑥𐑹</name>
+  <name lang="en_GB">Five or More</name>
+  <name lang="en_CA">Five or More</name>
+  <name lang="el">Πέντε ή περισσότερα</name>
+  <name lang="dz">ལྔའམ་དེ་ལས་མངམ།</name>
+  <name lang="de">Fünf oder mehr</name>
+  <name lang="da">Fem eller mere</name>
+  <name lang="cy">Pump neu Fwy</name>
+  <name lang="cs">Pět nebo víc</name>
+  <name lang="ca@valencia">Cinc o més</name>
+  <name lang="ca">Cinc o més</name>
+  <name lang="bs">Pet ili više</name>
+  <name lang="bn_IN">'পাঁচ অথবা বেশি'</name>
+  <name lang="bn">'পাঁচ অথবা বেশি'</name>
+  <name lang="bg">Пет и повече</name>
+  <name lang="be">Пяць і болей</name>
+  <name lang="ast">Five or More</name>
+  <name lang="as">পাঁচ অথবা অধিক</name>
+  <name lang="ar">خمسة أو أكثر</name>
+  <name lang="af">Vyf-of-meer</name>
+  <summary>Remove colored balls from the board by forming lines</summary>
+  <summary lang="zh_TW">移動同色的球成一直線令球消失</summary>
+  <summary lang="zh_HK">移動同色的球成一直線令球消失</summary>
+  <summary lang="zh_CN">将彩球连成一线以消去</summary>
+  <summary lang="xh">Susa iibhola ezinombala ebhodini ngokuthi wenze imigca</summary>
+  <summary lang="vi">Bỏ các bóng cùng màu ra khỏi bảng bằng cách sắp chúng thành hàng</summary>
+  <summary lang="uk">Вилучати кольорові кулі з дошки, формуючи ряди</summary>
+  <summary lang="ug">رەڭلىك توپلارنى تىزىپ ئۇلارنى تاختىدىن ئېلىۋېتىڭ</summary>
+  <summary lang="tr">Çizgiler oluşturarak renkli topları tahtadan kaldırın</summary>
+  <summary lang="th">หยิบลูกแก้วสีออกโดยเรียงให้เป็นแถว</summary>
+  <summary lang="te">గీతలు ఏర్పర్చుకుంటూ పలకం పైనుండి రంగుల బంతులను తొలగించుంము</summary>
+  <summary lang="ta">பககையிலிருந்து வண்ண பந்துகளை வரிசைகளாக நீக்கவும்ும்.</summary>
+  <summary lang="sv">Ta bort färgade bollar från brädet genom att skapa linjer</summary>
+  <summary lang="sr@latin">Uklanjajte obojene loptice sa table obrazujući linije</summary>
+  <summary lang="sr">Уклањајте обојене лоптице са табле образујући линије</summary>
+  <summary lang="sq">Hiq topat me ngjyrë nga tabela duke krijuar rreshta</summary>
+  <summary lang="sl">Odstrani barvne kroglice s plošče s postavljanjem kroglic v vrste</summary>
+  <summary lang="sk">Odstráňte farebné loptičky z hracej plochy zoradením do radov</summary>
+  <summary lang="ru">Убирайте разноцветные шарики с поля, выстраивая прямые линии одного цвета</summary>
+  <summary lang="ro">Elimină bilele colorate de pe tablă formând linii</summary>
+  <summary lang="pt_BR">Remova bolas coloridas do tabuleiro formando linhas</summary>
+  <summary lang="pt">Remova bolas coloridas do tabuleiro formando linhas</summary>
+  <summary lang="pl">Usuwanie kolorowych kulek poprzez układanie ich w linie</summary>
+  <summary lang="pa">ਲਾਇਨਾਂ ਬਣਾ ਕੇ ਬੋਰਡ ਉੱਤੇ ਰੰਗਦਾਰ ਬਾਲਾਂ ਹਟਾਓ</summary>
+  <summary lang="or">ରେଖା ଗଠନ କରିବା ଦ୍ବାରା ବୋର୍ଡରୁ ରଙ୍ଗ ବଲଗୁଡିକୁ ହଟାଅ</summary>
+  <summary lang="oc">Levar de bilhas de color del platèu en formant de linhas</summary>
+  <summary lang="nn">Fjern farga ballar frå brettet ved å laga linjer</summary>
+  <summary lang="nl">Gekleurde ballen van het bord verwijderen door lijnen te vormen</summary>
+  <summary lang="ne">लाइन सिर्जना गरेर बोर्डबाट रङ लगाइएका बल हटाउनुहोस्</summary>
+  <summary lang="nb">Fjern fargede baller fra brettet ved å lage linjer</summary>
+  <summary lang="ms">Buang bola berwarna drpd papan dengan membentuk barisan</summary>
+  <summary lang="mr">रांगा तयार करत पटावरुन रंगीत चेंडु काढा</summary>
+  <summary lang="mn">Шулууны хэлбэрээр өнгөт бөмбөгүүдийг хөлөгөөс устгана</summary>
+  <summary lang="ml">നിറമുള്ള പന്തുകള്‍ വര ഉണ്ടാക്കി ബോര്‍ഡില്‍ നിന്ന് മാറ്റുക</summary>
+  <summary lang="mk">Отстранете ги обоените топчиња од таблата со формирање линии</summary>
+  <summary lang="mai">रंगीन गेंदकेँ पट्ट सँ मेटाबै लेल पंक्तिमे लगाबू</summary>
+  <summary lang="lv">Noņemt krāsainās bumbas no galda, veidojot līnijas</summary>
+  <summary lang="lt">Pašalinti nuo lentos spalvotus rutulius sukūrus iš jų linijas</summary>
+  <summary lang="ko">색색의 공을 제거해 한 줄로 만듭니다</summary>
+  <summary lang="kn">ಗೆರೆಗಳನ್ನು ರಚಿಸುವ ಮೂಲಕ ಬಣ್ಣದ ಚೆಂಡುಗಳನ್ನು ಬೋರ್ಡಿನಿಂದ ತೆಗೆದು ಹಾಕಿ</summary>
+  <summary lang="km">យកបាល់ដែលបានដាក់ពណ៌ចេញពីក្ដារដោយធ្វើឲ្យមានរូបរាងបន្ទាត់</summary>
+  <summary lang="kk">Тақтадан түсті шарларды қатарларды құру арқылы алып тастаңыз</summary>
+  <summary lang="ka">ა</summary>
+  <summary lang="ja">色の付いた石を並べて盤から取り去るゲームです</summary>
+  <summary lang="it">Rimuovi le biglie colorate dalla scacchiera formando linee</summary>
+  <summary lang="is">Fjarlægðu litaða bolta úr borðinu með því að mynda raðir</summary>
+  <summary lang="id">Hapus bola berwarna dari papan dengan membuat baris</summary>
+  <summary lang="hu">Színes labdák leszedése a tábláról azok egymás mellé helyezésével</summary>
+  <summary lang="hr">Uklonite obojene lopte s ploče formirajući redke</summary>
+  <summary lang="hi">रंगीन गेंदों को पट्ट से मिटाने हेतु पंक्ति में लगाएँ </summary>
+  <summary lang="he">הסרת כדורים צבעוניים מהלוח על־ידי יצירת שורות</summary>
+  <summary lang="gu">લીટીઓ બનાવીને પાટિયા પરથી રંગીન બોલ દૂર કરો</summary>
+  <summary lang="gl">Retirar as bólas de cores do taboleiro formando liñas</summary>
+  <summary lang="fur">Gjave lis balutis coloradis de scachiere formant liniis</summary>
+  <summary lang="fr">Enlever des billes de couleur du plateau en formant des lignes</summary>
+  <summary lang="fi">Poista värilliset pallot laudalta muodostamalla rivejä</summary>
+  <summary lang="fa">حذف توپ‌های رنگی از صفحه با تشکیل خط</summary>
+  <summary lang="eu">Lerroak osatuz, kendu koloretako puxtarriak taulatik</summary>
+  <summary lang="et">Värviliste kuulide eemaldamine nende rittaajamise teel</summary>
+  <summary lang="es">Elimine bolas de colores del tablero formando líneas</summary>
+  <summary lang="eo">Forigu kolorajn pilkojn de la tabulo, farante liniojn</summary>
+  <summary lang="en@shaw">𐑮𐑦𐑥𐑵𐑝 𐑒𐑳𐑤𐑼𐑛 𐑚𐑷𐑤𐑟 𐑓𐑮𐑪𐑥 𐑞 𐑚𐑹𐑛 𐑚𐑲 𐑓𐑹𐑥𐑦𐑙 𐑤𐑲𐑯𐑟</summary>
+  <summary lang="en_GB">Remove coloured balls from the board by forming lines</summary>
+  <summary lang="en_CA">Remove coloured balls from the board by forming lines</summary>
+  <summary lang="el">Αφαιρέστε τις χρωματιστές μπάλες από τον πίνακα σχηματίζοντας γραμμές</summary>
+  <summary lang="dz">གྲལ་ཐིག་བཟོ་ཐོག་ལས་ ཚོས་གཞི་ཅན་གྱི་རྩེད་རིལ་ཚུ་ རྩེད་གཞོང་གུ་ལས་ རྩ་བསྐྲད་གཏང་།</summary>
+  <summary lang="de">Farbige Kugeln durch Formieren von Linien aus dem Spielbrett entfernen</summary>
+  <summary lang="da">Fjern farvede kugler fra brættet ved at danne linjer</summary>
+  <summary lang="cy">Tynnu peli lliwgar o'r bwrdd gan ffurfio llinellau</summary>
+  <summary lang="cs">Odstraňovat barevné koule z hrací desky tvořením úseček</summary>
+  <summary lang="ca@valencia">Suprimiu les boles de colors del tauler formant línies</summary>
+  <summary lang="ca">Suprimiu les boles de colors del tauler formant línies</summary>
+  <summary lang="bs">Uklanjajte obojene lopte sa table formirajući linije</summary>
+  <summary lang="bn_IN">সারি গঠনের মাধ্যমে বোর্ড থেকে রঙিন বলগুলো সরিয়ে ফেলুন</summary>
+  <summary lang="bn">সারি গঠনের মাধ্যমে বোর্ড থেকে রঙিন বলগুলো সরিয়ে ফেলুন</summary>
+  <summary lang="bg">Премахване на цветни топчета от дъската чрез образуване на линии</summary>
+  <summary lang="be">Выдаляй каляровыя аб'екты з дошкі, складаючы іх у лініі</summary>
+  <summary lang="az">Rəngli toplardan sıralar yaradaraq lövhədən silin</summary>
+  <summary lang="ast">Desaniciar boles de colores del tableru formando llinies</summary>
+  <summary lang="as">শাৰী গঠন কৰি বৰ্ডৰ পৰা ৰঙীন বলবোৰ আতৰাওক</summary>
+  <summary lang="ar">حذف الكرات الملوّنة من اللوحة بتأليف سطور</summary>
+  <summary lang="af">Verwyder gekleurde balle van die bord deur lyne te vorm</summary>
+  <description>
+    <p>
+      Five or More is the GNOME port of a once-popular computer game. Align five or
+      more objects of the same color into a line to cause them to disappear and
+      score points. Earn many more points by lining up as many objects as possible
+      before clearing them.
+    </p>
+    <p>
+      More objects appear after every turn. Play for as long as possible, until the
+      board is completely full!
+    </p>
+  </description>
+  <description lang="as">
+    <p>পাঁচ অথবা অধিক এসয়মৰ জনপ্ৰিয় কমপিউটাৰ খেলৰ GNOME সংস্কৰণ। একে ৰঙৰ পাঁচ অথবা অধিক বস্তুক এটা লাইনত থওক যাতে সিহত নাইকীয়া হয় আৰু আপুনি নম্বৰ পায়। বস্তুবোৰক আতৰোৱাৰ আগত যিমান সম্ভব তিমান বস্তু শাৰীবদ্ধ কৰি অধিক নম্বৰ প্ৰাপ্ত কৰক।</p>
+    <p>প্ৰতি পালৰ পিছত অধিক বস্তু আহে। যিমান দেৰি সম্ভব খেলক, যেতিয়ালৈকে বৰ্ড সম্পূৰ্ণভাৱে পূৰ্ণ নহয়!</p>
+  </description>
+  <description lang="be">
+    <p>"Пяць ці болей", порт калісьці папулярнай камп'ютарнай гульні для GNOME. Задача гульні - складаць пяць ці болей аб'ектаў аднаго колеру ў лінію, каб тыя знікалі, даючы вам балы. Чым больш аб'ектаў у лініі, тым болей балаў.</p>
+    <p>З кожным ходам з'яўляецца болей аб'ектаў. Гуляйце як мага даўжэй, пакуль гульнявое поле цалкам не запоўніцца!</p>
+  </description>
+  <description lang="bg">
+    <p>„Пет или повече“ е версия за GNOME на популярна компютърна игра. Подредете поне пет пула в линия и те ще изчезнат от дъската, а вие ще получите точки. Колкото повече са пуловете, които изчезват едновременно, толкова повече точки получавате.</p>
+    <p>След всеки ход се появяват още пулове. Играйте възможно най-дълго преди дъската за се запълни</p>
+  </description>
+  <description lang="bs">
+    <p>Greška prilikom upita za  informacije za  '% s' od strane simboličkih linkova  '% s':% s.</p>
+    <p>Više objekata se pojavljuje  nakon svakog koraka.Igrajte što je duže moguće, dok sgod je tabla puna!</p>
+  </description>
+  <description lang="ca">
+    <p>El Cinc o més és la versió del GNOME d'un joc d'ordinador que va ser popular. Alineeu cinc o més objectes del mateix color en una línia perquè desapareguin i aconseguir punts. Alineeu com més objectes millor per aconseguir encara més punts abans de netejar-los.</p>
+    <p>A cada ronda apareixen més objectes. Jugueu tan com pugueu fins que s'empleni el tauler!</p>
+  </description>
+  <description lang="ca@valencia">
+    <p>El Cinc o més és la versió del GNOME d'un joc d'ordinador que va ser popular. Alineeu cinc o més objectes del mateix color en una línia perquè desapareguin i aconseguir punts. Alineeu com més objectes millor per aconseguir encara més punts abans de netejar-los.</p>
+    <p>A cada ronda apareixen més objectes. Jugueu tan com pugueu fins que s'ompla el tauler!</p>
+  </description>
+  <description lang="cs">
+    <p>Pět nebo víc je port pro GNOME podle dřívější populární počítačové hry. Vyrovnáním pěti nebo více objektů stejné barvy do řady způsobíte, že tyto objekty zmizí a navýší se vám skóre. Více bodů získáte, když se budete snažit před vymazáním seřadit objektů co nejvíce.</p>
+    <p>Po každém tahu se objeví nové objekty. Hrajte, co nejdéle to půjde, dokud nebude hrací plocha plná.</p>
+  </description>
+  <description lang="da">
+    <p>Fem eller mere er en GNOME-udgave af det engang populære computerspil. Arrangér fem eller flere objekter af samme farve i en linje for at de forsvinder, og du får points. Få mange flere points ved at arrangere så mange objekter som muligt før du rydder dem.</p>
+    <p>Der kommer flere objekter efter hver tur. Spil så længe som muligt, indtil brættet er helt fuldt!</p>
+  </description>
+  <description lang="de">
+    <p>»Fünf oder mehr« ist die GNOME-Portierung eines ehemals populären Spiels. Richten Sie fünf oder mehr Objekte der gleichen Farbe in einer Line aus, damit sie vom Spielfeld verschwinden und Punkte gutgeschrieben werden. Je mehr Objekte in einer Reihe liegen, desto mehr Punkte gibt es.</p>
+    <p>Nach jedem Spielzug erscheinen weitere Objekte. Spielen Sie so lange, bis das Spielfeld vollständig ausgefüllt ist!</p>
+  </description>
+  <description lang="el">
+    <p>Το Πέντε ή περισσότερα είναι η μεταφορά στο GNOME ενός, πάλαι ποτέ, δημοφιλούς παιχνιδιού για υπολογιστές το Color Lines. Στοιχίστε πέντε ή περισσότερα αντικείμενα του ίδιου χρώματος σε μια γραμμή, για να τα κάνετε να εξαφανιστούν και να κερδίσετε πόντους. Κερδίστε πολλούς περισσότερους πόντους στοιχίζοντας όσο το δυνατό περισσότερα αντικείμενα πριν τα καθαρίσετε.</p>
+    <p>Περισσότερα αντικείμενα εμφανίζονται μετά από κάθε γύρο. Παίξτε όσο το δυνατόν περισσότερο, μέχρις ότου ο πίνακας να γεμίσει πλήρως!</p>
+  </description>
+  <description lang="en_GB">
+    <p>Five or More is the GNOME port of a once-popular computer game. Align five or more objects of the same colour into a line to cause them to disappear and score points. Earn many more points by lining up as many objects as possible before clearing them.</p>
+    <p>More objects appear after every turn. Play for as long as possible, until the board is completely full!</p>
+  </description>
+  <description lang="eo">
+    <p>Kvin Aŭ Pli estas GNOME-versio de iufoje populara videoludo. Vicigi kvin aŭ pli da objektoj de la sama koloro en linion por ke ili malaperos kaj vi gajnos poentojn. Gajnu eĉ pli da poentoj per vicigi kiel eble plej multe da objektoj antaŭ ol vakigi ilin.</p>
+    <p>Pli da objektoj aperos post ĉiu vico. Ludu kiel eble plej longe, ĝis la tabulo estas plena!</p>
+  </description>
+  <description lang="es">
+    <p>Cinco o más es la versión de GNOME del popular juego de ordenador. Alinee cinco o más objetos del mismo color en una línea para hacer que desaparezcan y ganar puntos. Gane tantos puntos como pueda alineando tantos objetos como sea posible antes de eliminarlos.</p>
+    <p>Después de cada turno aparecen más objetos. Juegue todo el tiempo que pueda, hasta que se llene el tablero.</p>
+  </description>
+  <description lang="eu">
+    <p>Ospetsua den joko baten  GNOMErako moldaketa da 'Bost edo gehiago'. Kolore berdineko bost edo objektu gehiago lerrokatzean hauek desagertzen dira eta puntuazioa lortzen da. Irabazi puntu gehiago ahalik eta objektuen kopuru handiena lerrokatuz guztiak batera garbitzeko.</p>
+    <p>Txanda bakoitzaren ondoren, objektu gehiago agertzen dira. Jokatu ahal duzun gehiena taula erabat bete arte.</p>
+  </description>
+  <description lang="fa">
+    <p>پنج یا بیشتر نسخهٔ گنوم از یک بازی محبوب کامپیوتری است. پنج شیء از یک رنگ را در یک مرتب کنید تا حذف بشوند و امتیاز بگیرید. با مرتب کردن بیشتر شیءها قبل از حذف آنها امتیازهای بیشتری بگیرید.</p>
+    <p>شیءهای بیشتری پس از هر نوبت پدیدار خواهند شد. تا هر زمان که می‌توانید بازی کنید، تا اینکه تخته کاملا خالی شود!</p>
+  </description>
+  <description lang="fi">
+    <p>Viisi tai enemmän on Gnomen versio aikoinaan suositusta tietokonepelistä. Järjestä viisi tai enemmän samaa väriä olevia kohteita riviin, jolloin ne katoavat ja saat pisteitä. Mitä enemmän saat poistettua kohteita kerralla, sitä enemmän saat pisteitä.</p>
+    <p>Joka vuoron jälkeen pelialueelle ilmestyy lisää kohteita. Pelaa niin kauan kuin pystyt - mieluiten niin että lauta täyttyy!</p>
+  </description>
+  <description lang="fr">
+    <p>Cinq ou plus est la version GNOME d’un jeu informatique autrefois bien connu. Alignez cinq objets ou plus de la même couleur sur une ligne pour les faire disparaître et marquer des points. Plus vous alignez d’objets avant de les faire disparaître, plus vous gagnez de points.</p>
+    <p>De nouveaux objets apparaissent de plus en plus après chaque tour. Jouez le plus longtemps possible, jusqu’à ce que le plateau soit complètement rempli !</p>
+  </description>
+  <description lang="fur">
+    <p>Cinc o plui al je la version par GNOME di un vecjo zûc famôs. Met in linie cinc o plui elements dal stes colôr par fâju sparî e cjapâ ponts. Vuadagne ponts ingrumant plui elements pussibii prime di fâju sparî.</p>
+    <p>A ogni turni, gnûfs elements a saran disponibii. Zuie par plui timp pussibil, fintremai che la taule di zûc no je plene!</p>
+  </description>
+  <description lang="gl">
+    <p>Cinco ou máis é un xogo de computador popular traído a GNOME. Aliñe cinco ou máis obxectos da mesma cor nunha liña para que desaparezan e obter puntos. Recolla moitos máis puntos aliñando tantos obxectos como sexa posíbel facéndoos desaparecer.</p>
+    <p>Aparecerán máis obxectos despois de cada turno. Xogue tanto como poida, até que o taboleiro estea completamente completo!</p>
+  </description>
+  <description lang="he">
+    <p>חמש או יותר הוא גרסת GNOME למשחק מחשב פופולרי. יישור חמישה עצמים או יותר מאותו הצבע לשורה גורם להם להיעלם ולצבירת נקודות. ניתן להרוויח הרבה יותר נקודות על ידי סידור עצמים רבים ככל האפשר לפני פינויים.</p>
+    <p>יותר עצמים יופיעו אחרי כל תור. שחק זמן רב ככל האפשר עד שהלוח יתמלא לגמרי!</p>
+  </description>
+  <description lang="hr">
+    <p>Pet ili više je GNOME inačica nekad popularne računalne igre. Povežite pet objekata iste boje u redku kako bi nestali za osvajanje bodova. Zaradite što više bodova poravnanjem što više objekata prije nego ih očistite.</p>
+    <p>Više objekata se pojavi nakon svakog kruga. Igrajte što je duže moguće, sve dok se ploča u potpunosti ne popuni!</p>
+  </description>
+  <description lang="hu">
+    <p>Az Öt vagy több egy valaha népszerű játék átirata GNOME alá. Rendezzen öt vagy több azonos színű objektumot egy sorba, hogy azok eltűnjenek és ezért pontokat kapjon. A legtöbb pont a lehető legtöbb objektum egy sorba rendezésével érhető el.</p>
+    <p>Minden kör után több objektum jelenik meg. Játsszon amíg csak lehet, amíg a tábla meg nem telik!</p>
+  </description>
+  <description lang="id">
+    <p>Port GNOME dari permainan komputer yang pernah populer. Jadikan segaris lima objek atau lebih dengan warna yang sama agar mereka hilang dan mendapat nilai. Dapatkan lebih banyak nilai dengan menjajarkan sebanyak mungkin objek sebelum membersihkan mereka.</p>
+    <p>Lebih banyak objek akan muncul setiap langkah. Bermainlah selama mungkin sampai papan benar-benar penuh!</p>
+  </description>
+  <description lang="it">
+    <p>Cinque o più è la versione per GNOME in un vecchio gioco famoso. Allinea cinque o più oggetti dello stesso colore in una riga per farli sparire e guadagnare punti. Guadagna punti accumulando più oggetti possibili prima di farli sparire.</p>
+    <p>A ogni turno, nuovi oggetti saranno disponibili. Gioca per il più lungo tempo possibile, finché il tavolo di gioco non è pieno!</p>
+  </description>
+  <description lang="ja">
+    <p>Five or More は、かつて人気のあったコンピューターゲームの GNOME 版です。同じ色の石を 5 個以上一列に並べると、石が消えて得点が入ります。石を消すときにできるだけ多くの石を並べると、その分得点もたくさん入ります。</p>
+    <p>ターン毎に石は増えていきます。盤が石で一杯になればゲーム終了です。できるだけ長くプレイしましょう。</p>
+  </description>
+  <description lang="kk">
+    <p>"Бес немесе одан да көп" - Бұрында танымал болатын компьютерлік ойынының GNOME нұсқасы. Тақтадан алып тастау және ұпай жинау үшін бір түсті бес немесе одан да көп объектті бір қатарға жинаңыз. Кетірудің алдында неғұрлым көп объектті жинасаңыз, соғұрлым көп ұпай жинайсыз.</p>
+    <p>Әр жүруден кейін көбірек объекттер қосылады. Тақта толып кеткенге дейін ұзағырақ ойнаңыз!</p>
+  </description>
+  <description lang="ko">
+    <p>다섯개는 한때 유행했던 색상 라인 게임을 그놈으로 옮긴 프로그램입니다. 같은 색의 물체를 다섯개 이상 한 줄로 모으면 사라지고 점수를 얻습니다. 물체가 사라질 때 가능한 많은 물체를 한 줄로 모아서 점수를 얻으십시오.</p>
+    <p>매 턴이 끝나면 물체가 나타납니다. 게임판이 가득 찰 때까지 가능한 오래 플레이하십시오!</p>
+  </description>
+  <description lang="lt">
+    <p>Penketas ar daugiau yra kadaise populiaraus kompiuterinio žaidimo GNOME variantas. Sudėliokite penkis ar daugiau tos pačios spalvos objektų į vieną eilę, kad jie išnyktų, ir gaukite už tai taškus. Gaukite daug daugiau taškų sudėdami į eilę kiek galima daugiau objektų prieš juos išvalydami.</p>
+    <p>Po kiekvieno ėjimo atsiranda daugiau objektų. Žaiskite kiek galima ilgiau iki lenta užsipildys!</p>
+  </description>
+  <description lang="lv">
+    <p>“Vismaz pieci” ir GNOME variants kādreiz populārai datorspēlei. Saliec vismaz piecus vienas krāsas objektus vienā rindā, lai tie pazustu un dotu punktus. Lai nopelnītu daudz vairāk punktus, pirms objektus noņemt, tos rindā saliec pēc iespējas vairāk.</p>
+    <p>Pēc katra gājiena parādās arvien jauni objekti. Spēlē līdz galdiņš ir pavisam pilns!</p>
+  </description>
+  <description lang="nb">
+    <p>Fem eller flere er GNOME versjonen av et tidligere populært dataspill. Plasser fem eller flere objekter med samme farge på en linje for å få dem bort og motta poeng. Få flere poeng ved å få så mange objekter som mulig på linje før du tar dem bort.</p>
+    <p>Flere objekter kommer til syne for hvert trekk. Spill så lenge som mulig til brettet er helt fullt.</p>
+  </description>
+  <description lang="nl">
+    <p>Vijf of meer is de Gnome-variant van een computerspel dat eens populair was. Plaats vijf of meer objecten van dezelfde kleur op één lijn om ze te laten verdwijnen en punten te scoren. Verdien nog meer punten door zo veel mogelijk objecten op één lijn te zetten voordat ze verdwijnen.</p>
+    <p>Er verschijnen meer objecten na elke beurt. Speel zo lang mogelijk, totdat het bord volledig vol is!</p>
+  </description>
+  <description lang="oc">
+    <p>Cinc o mai es la version GNOME d'un jòc informatic autrescòps plan conegut. Alinhatz cinc objèctes o mai de la meteissa color sus una linha per los far desaparéisser e marcar de punts. Mai alinhatz d'objèctes abans de los far desaparéisser, mai ganhatz de punts.</p>
+    <p>De novèls objèctes apareisson de mai en mai aprèp cada torn. Jogatz lo mai longtemps possible, fins al moment que lo platèu siá completament emplenat !</p>
+  </description>
+  <description lang="pa">
+    <p>ਪੰਜ ਜਾਂ ਵੱਧ ਹਰਮਨ ਪਿਆਰੀ ਖੇਡ ਦਾ ਗਨੋਮ ਰੂਪ ਹੈ। ਇੱਕ ਰੰਗ ਦੀਆਂ ਪੰਜ ਜਾਂ ਵੱਧ ਚੀਜ਼ਾਂ ਨੂੰ ਇੱਕ ਰੇਖਾ ਵਿੱਚ ਲਗਾਉਣ ਨਾਲ ਉਹ ਗੁੰਮ ਹੋ ਜਾਂਦੀਆਂ ਹਨ ਅਤੇ ਅੰਕ ਮਿਲਦੇ ਹਨ। ਕਈ ਚੀਜ਼ਾਂ ਨੂੰ ਖਤਮ ਹੋਣ ਤੋਂ ਪਹਿਲਾਂ ਇੱਕ ਰੇਖਾ ਵਿੱਚ ਰੱਖ ਕੇ ਵੱਧ ਤੋਂ ਵੱਧ ਅੰਕ ਇੱਕਠੇ ਕਰੋ।</p>
+    <p>ਹਰ ਵਾਰੀ ਦੇ ਬਾਅਦ ਇੱਥੇ ਹੋਰ ਚੀਜ਼ਾਂ ਆਉਣਗੀਆਂ। ਜਿੰਨਾ ਵੀ ਵੱਧ ਸਮਾਂ ਖੇਡ ਸਕਦੇ ਹੋ, ਖੇਡੋ, ਜਦੋਂ ਤੱਕ ਕਿ ਬੋਰਡ ਪੂਰੀ ਤਰ੍ਹਾਂ ਭਰ ਨਹੀਂ ਜਾਂਦਾ ਹੈ।</p>
+  </description>
+  <description lang="pl">
+    <p>Gra w kulki jest portem niegdyś popularnej gry w kolorowe linie dla środowiska GNOME. Dopasowanie pięciu lub więcej kulek tego samego koloru w jednej linii powoduje ich zniknięcie i zaliczenie punktów. Im więcej kulek w linii, tym więcej punktów.</p>
+    <p>Po każdej rundzie pojawia się więcej kulek. Można grać, dopóki cała plansza się nie zapełni!</p>
+  </description>
+  <description lang="pt">
+    <p>Cinco ou mais é uma conversão para GNOME de um jogo de computador que já foi popular. Alinhe cinco ou mais objetos da mesma cor numa linha para os fazer desaparecer e pontuar. Ganhe muito mais pontos se alinhar mais objetos antes de os limpar.</p>
+    <p>Aparecem mais objetos após turno. Jogue durante o máximo de tempo possível até que o tabuleiro esteja completo!</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Cinco ou Mais é uma versão para o GNOME de um jogo de computador que certa vez foi popular. Alinhe cinco ou mais objetos da mesma cor em uma linha para fazê-los desaparecer e pontuar. Ganhe muito mais pontos alinhando a maior quantidade de objetos possível antes de apagá-los.</p>
+    <p>Mais objetos aparecem após cada turno. Jogo o máximo que conseguir, até que tabuleiro esteja completamente cheio.</p>
+  </description>
+  <description lang="ro">
+    <p>Cinci sau mai multe este portarea GNOME a unui joc pe calculator odinioară popular. Aliniați cinci sau mai multe obiecte de aceeași culoare într-o linie pentru a le face să dispară și a înscrie puncte. Câștigați mult mai multe puncte prin alinierea a cât mai multor obiecte posibil înainte de a le elibera.</p>
+    <p>Mai multe obiecte apar după fiecare rundă. Jucați cât mai mult timp posibil, până când tabla este completă!</p>
+  </description>
+  <description lang="ru">
+    <p>«Пять или более» — это порт для GNOME некогда популярной компьютерной игры. Выстраивайте в линию пять или более объектов одного цвета, чтобы они исчезли и вам были начислены очки. Получайте как можно больше очков, выстраивая в линию максимально возможное количество объектов.</p>
+    <p>После каждого хода появляются новые объекты. Игра продолжается до тех пор, пока игровая доска не заполнится объектами.</p>
+  </description>
+  <description lang="sk">
+    <p>Päť a viac je prerobenie kedysi populárnej počítačovej hry pre prostredie GNOME. Zarovnajte päť a viac objektov rovnakej farby do riadka čím sa ich zbavíte a získate body. Čím viac objektov zarovnáte, tým viac bodov získate.</p>
+    <p>Po každom ťahu sa objavia ďalšie objekty. Hrajte pokým nie je hracie pole zaplnené.</p>
+  </description>
+  <description lang="sl">
+    <p>Igra Pet ali več je predelava nekdaj popularne igre za namizje GNOME. Pri igri je treba v vrsto postaviti pet ali več predmetov enake barve. Ko so urejeni v vrsto, izginejo, zabeležijo pa se točke. Cilj igre je čim dlje prazniti polje, preden se ta do konca zapolni.</p>
+    <p>Na vsaki ravni se pojavijo novi predmeti. Igra se konča, ko je zapolnjeno celotno igralno polje.</p>
+  </description>
+  <description lang="sr">
+    <p>Пет или више је Гномова изведба некад популарне рачунарске игре. Поређајте пет или више предмета исте боје у низу да би нестали а ви освојили поене. Зарадите што више поена повезивањем што је могуће више предмета пре него ли их почистите.</p>
+    <p>Након сваког покушаја појављује се више предмета. Играјте што дуже можете, све док се табла потпуно не испуни!</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Pet ili više je Gnomova izvedba nekad popularne računarske igre. Poređajte pet ili više predmeta iste boje u nizu da bi nestali a vi osvojili poene. Zaradite što više poena povezivanjem što je moguće više predmeta pre nego li ih počistite.</p>
+    <p>Nakon svakog pokušaja pojavljuje se više predmeta. Igrajte što duže možete, sve dok se tabla potpuno ne ispuni!</p>
+  </description>
+  <description lang="sv">
+    <p>Fem eller mer är GNOME-porteringen av ett en gång populärt dataspel. Lägg fem eller fler objekt av samma färg på rad för att få dem att försvinna och få poäng. Tjäna fler poäng genom att rada upp så många objekt som möjligt innan du avlägsnar dem.</p>
+    <p>Fler objekt dyker upp efter varje omgång. Spela så länge som möjligt, tills brädet är helt fullt!</p>
+  </description>
+  <description lang="tr">
+    <p>Five or More, bir zamanlar gözde olan bir bilgisayar oyununun GNOME sürümüdür. Aynı renkteki beş veya daha çok nesneyi kaybolmaları için tek çizgide hizalayın ve puanları kazanın. Onları temizlemeden önce mümkün olduğunca çok nesneyi sıralayarak daha çok puan kazanın.</p>
+    <p>Her turdan sonra daha çok öge meydana gelir. Pano tümüyle doluncaya kadar mümkün olduğunca uzun süre oyna!</p>
+  </description>
+  <description lang="uk">
+    <p>П'ять або більше — у свій час популярна комп'ютерна гра в середовищі GNOME. Вишикувати п'ять або більше об'єктів однакового кольору в ряд, щоб змусити їх зникнути і здобути бали. Заробляйте більше балів за шикування якнайбільше об'єктів перед їхніх знищенням.</p>
+    <p>Більше об'єктів з'являються після кожного кроку. Грайте якнайдовше, поки дошка повністю не заповниться!</p>
+  </description>
+  <description lang="vi">
+    <p>Năm hay nhiều hơn là bản chuyển đổi cho GNOME của trò chơi trên máy tính một thời phổ biến. Sắp năm đối tượng cùng màu hay nhiều hơn vào cùng một hàng làm cho nó biến mất và nhận điểm số. Kiếm được nhiều điểm hơn bằng cách sắp hàng càng nhiều càng tốt trước khi xóa chúng.</p>
+    <p>Nhiều đối tượng xuất hiện hơn sau từng bước đi. Hãy chơi càng lâu càng tốt, cho đến khi bảng hoàn toàn bị đầy!</p>
+  </description>
+  <description lang="zh_CN">
+    <p>Five or More 是曾经风行的计算机游戏连珠消球的 GNOME 移植版本。将同色的五个或更多个物体连成一线来消除它们并得分。一次连线消除得越多，得分越高。</p>
+    <p>每轮后新的物体会出现。想办法玩下去，不要让棋盘被塞满！</p>
+  </description>
+  <description lang="zh_HK">
+    <p>五子連色棋是把一度流行的遊戲移殖到 GNOME 的成果。將五個或更多同樣顏色的目標連成一線就能讓它們消失並獲得分數。在清除棋子之前只要連結愈多的棋子就能獲得愈多的分數。</p>
+    <p>更多棋子會在每一輪後出現。儘可能玩久一點，直到盤面完全充滿為止！</p>
+  </description>
+  <description lang="zh_TW">
+    <p>五子連色棋是把一度流行的遊戲移殖到 GNOME 的成果。將五個或更多同樣顏色的目標連成一線就能讓它們消失並獲得分數。在清除棋子之前只要連結愈多的棋子就能獲得愈多的分數。</p>
+    <p>更多棋子會在每一輪後出現。儘可能玩久一點，直到盤面完全充滿為止！</p>
+  </description>
+  <screenshots>
+    <screenshot width="972" height="524" type="default">
+      <image>https://people.gnome.org/~mcatanzaro/five-or-more.png</image>
+    </screenshot>
+  </screenshots>
+  <launchable type="desktop-id">org.gnome.five-or-more.desktop</launchable>
+  <url type="homepage">https://wiki.gnome.org/Apps/Five%20or%20more</url>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/five-or-more/issues</url>
+  <url type="donation">http://www.gnome.org/friends/</url>
+  <url type="help">https://help.gnome.org/users/five-or-more/stable/</url>
+  <url type="translate">https://wiki.gnome.org/TranslationProject</url>
+  <update_contact>mcatanzaro_at_gnome.org</update_contact>
+  <project_group>GNOME</project_group>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>UserDocs</kudo>
+  </kudos>
+  <translation type="gettext">five-or-more</translation>
+  <developer_name>The GNOME Project</developer_name>
+  <developer_name lang="zh_TW">GNOME 計畫</developer_name>
+  <developer_name lang="zh_CN">GNOME 项目</developer_name>
+  <developer_name lang="vi">Dự án GNOME</developer_name>
+  <developer_name lang="uk">Проект GNOME</developer_name>
+  <developer_name lang="tr">GNOME Projesi</developer_name>
+  <developer_name lang="sv">GNOME-projektet</developer_name>
+  <developer_name lang="sr@latin">Gnomov projekat</developer_name>
+  <developer_name lang="sr">Гномов пројекат</developer_name>
+  <developer_name lang="sl">Projekt GNOME</developer_name>
+  <developer_name lang="sk">Projekt GNOME</developer_name>
+  <developer_name lang="ru">Проект GNOME</developer_name>
+  <developer_name lang="ro">Proiectul GNOME</developer_name>
+  <developer_name lang="pt_BR">O Projeto GNOME</developer_name>
+  <developer_name lang="pt">O Projeto GNOME</developer_name>
+  <developer_name lang="pl">Projekt GNOME</developer_name>
+  <developer_name lang="oc">Lo projècte GNOME</developer_name>
+  <developer_name lang="nl">Het Gnome-project</developer_name>
+  <developer_name lang="ne">जिनोम परियोजना</developer_name>
+  <developer_name lang="nb">GNOME prosjektet</developer_name>
+  <developer_name lang="lv">GNOME projekts</developer_name>
+  <developer_name lang="lt">GNOME projektas</developer_name>
+  <developer_name lang="ko">그놈 프로젝트</developer_name>
+  <developer_name lang="kk">GNOME жобасы</developer_name>
+  <developer_name lang="it">Il progetto GNOME</developer_name>
+  <developer_name lang="id">Projek GNOME</developer_name>
+  <developer_name lang="hu">A GNOME projekt</developer_name>
+  <developer_name lang="hr">GNOME projekt</developer_name>
+  <developer_name lang="he">מיזם GNOME</developer_name>
+  <developer_name lang="gl">O Proxecto GNOME</developer_name>
+  <developer_name lang="fur">Il progjet GNOME</developer_name>
+  <developer_name lang="fr">Le projet GNOME</developer_name>
+  <developer_name lang="fi">Gnome-projekti</developer_name>
+  <developer_name lang="fa">پروژه گنوم</developer_name>
+  <developer_name lang="eu">GNOME proiektua</developer_name>
+  <developer_name lang="es">El proyecto GNOME</developer_name>
+  <developer_name lang="eo">La GNOME Projekto</developer_name>
+  <developer_name lang="en_GB">The GNOME Project</developer_name>
+  <developer_name lang="el">Το έργο GNOME</developer_name>
+  <developer_name lang="de">Das GNOME-Projekt</developer_name>
+  <developer_name lang="da">GNOME-projektet</developer_name>
+  <developer_name lang="cs">Projekt GNOME</developer_name>
+  <developer_name lang="ca@valencia">El projecte GNOME</developer_name>
+  <developer_name lang="ca">El projecte GNOME</developer_name>
+  <developer_name lang="bg">Проектът GNOME</developer_name>
+  <developer_name lang="be">Праект GNOME</developer_name>
+  <developer_name lang="af">Die GNOME-projek</developer_name>
+  <!-- Generated by  http://apps-xdgapp.rhcloud.com/oars -->
+  <content_rating type="oars-1.0">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+  <releases>
+    <release date="2022-03-31" version="3.32.3">
+      <description>
+        <p>Overview of changes in five-or-more 3.32.2</p>
+        <ul>
+          <li>Updated translations</li>
+          <li>Fixed homepage in doap file (Sam Thursfield)</li>
+          <li>Fixed email of one of the authors (Szokovacs Robert)</li>
+          <li>Fixed minor meson warning (Robert Roth)</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-03-28" version="3.32.2">
+      <description>
+        <p>Overview of changes in five-or-more 3.32.2</p>
+        <ul>
+          <li>Fixed theme switcher working (Arnaud Bonatti)</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-03-12" version="3.32.1">
+      <description>
+        <p>Overview of changes in five-or-more 3.32.1</p>
+        <ul>
+          <li>Fixed translations not working (Arnaud Bonatti)</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-03-11" version="3.32.0">
+      <description>
+        <p>Overview of changes in five-or-more 3.32.0</p>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.31.92" date="2019-03-05">
+      <description>
+        <p>Overview of changes in five-or-more 3.31.92</p>
+        <ul>
+          <li>Updated translations</li>
+          <li>Updated documentation (Andre Klapper)</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-02-18" version="3.31.91">
+      <description>
+        <p>Overview of changes in five-or-more 3.31.91</p>
+        <ul>
+          <li>Updated translations</li>
+          <li>Added snap build (Jeremy Bicha)</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-02-04" version="3.31.90">
+      <description>
+        <p>Overview of changes in five-or-more 3.31.90</p>
+        <ul>
+          <li>Updated translations</li>
+          <li>Nightly builds (Bilal Elmoussaoui)</li>
+          <li>Appdata updates (Bilal Elmoussaoui)</li>
+          <li>Tests for appdata and desktop validation (Bilal Elmoussaoui)</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+</component>

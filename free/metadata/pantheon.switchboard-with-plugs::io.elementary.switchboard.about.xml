@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>pantheon.switchboard-with-plugs</pkgname>
+  <id>io.elementary.switchboard.about</id>
+  <extends>io.elementary.switchboard</extends>
+  <name>System</name>
+  <name lang="zh_CN">系统信息</name>
+  <name lang="uk">Система</name>
+  <name lang="tr">Sistem</name>
+  <name lang="sr">Систем</name>
+  <name lang="sk">Systém</name>
+  <name lang="ru">Система</name>
+  <name lang="pt">Sistema</name>
+  <name lang="pl">System</name>
+  <name lang="nl">Systeem</name>
+  <name lang="nb">System</name>
+  <name lang="mr">सिस्टिम</name>
+  <name lang="ja">システム</name>
+  <name lang="hu">Rendszer</name>
+  <name lang="he">מערכת</name>
+  <name lang="fr">Système</name>
+  <name lang="fi">Järjestelmä</name>
+  <name lang="es">Sistema</name>
+  <name lang="en_GB">System</name>
+  <name lang="de">System</name>
+  <name lang="cs">Systém</name>
+  <name lang="ca">Sistema</name>
+  <summary>View operating system and hardware information</summary>
+  <summary lang="zh_TW">檢視作業系統和硬體資訊</summary>
+  <summary lang="zh_CN">查看操作系统和硬件信息</summary>
+  <summary lang="zh">查看操作系统和硬件信息</summary>
+  <summary lang="ur">آپریٹنگ سسٹم اور ہارڈ ویئر کی معلومات دیکھیں</summary>
+  <summary lang="uk">Огляд операційної системи та подробиць про апаратні засоби</summary>
+  <summary lang="ug">مەشغۇلات سىستېمىسى ۋە قاتتىق دىتال ئۇچۇرلىرىنى كۆرۈش</summary>
+  <summary lang="tr">İşletim sistemini ve donanım bilgilerini görüntüle</summary>
+  <summary lang="tl">Ipakita ang impormasyon ng operating system at hardware</summary>
+  <summary lang="ta">இயக்க முறைமை மற்றும் வன்பொருள் தகவலைக் காண்க</summary>
+  <summary lang="sv">Visa information om operativsystem och hårdvara</summary>
+  <summary lang="sr">Прегледајте податке о оперативном систему и хардверу</summary>
+  <summary lang="sq">Shiko informacione të sistemit operativ e të hardware-it</summary>
+  <summary lang="sl">Pregled informacij o operacijskem sistemu in strojni opremi</summary>
+  <summary lang="sk">Zobrazujte informácie o operačnom systéme a hardvéri</summary>
+  <summary lang="ru">Просмотр информации об операционной системе и комплектующих</summary>
+  <summary lang="pt_BR">Visualizar sistema operacional e informações de hardware</summary>
+  <summary lang="pt">Ver informações sobre o sistema operativo e o hardware</summary>
+  <summary lang="pl">Wyświetl informacje o systemie oraz sprzęcie</summary>
+  <summary lang="nn">Vis operativsystem- og maskinvareinformasjon</summary>
+  <summary lang="nl">Bekijk informatie over het besturingssysteem en hardware</summary>
+  <summary lang="nb">Vis informasjon for system og maskinvare</summary>
+  <summary lang="mr">ऑपरेटिंग सिस्टम आणि हार्डवेअर माहिती पहा</summary>
+  <summary lang="mo">Vizualizați informațiile sistemului de operare și hardware</summary>
+  <summary lang="lt">Rodyti operacinės sistemos ir aparatinės įrangos informaciją</summary>
+  <summary lang="ku">Înformasyona pengale karkirin û amûrên kompûteran binere</summary>
+  <summary lang="ko">운영 체제와 하드웨어 정보 보기</summary>
+  <summary lang="jv">Tampilno info OS lan perangkat</summary>
+  <summary lang="ja">オペレーティングシステムとハードウェアの情報を参照します</summary>
+  <summary lang="it">Guarda le informazioni del sistema operativo e dell'hardware</summary>
+  <summary lang="id">Lihat informasi sistem operasi dan perangkat keras</summary>
+  <summary lang="hu">Operációs rendszer és hardverinformációk megtekintése</summary>
+  <summary lang="hr">Pogledajte informacije operativnog sustava i hardvera</summary>
+  <summary lang="hi">ऑपरेटिंग सिस्टम और हार्डवेयर की जानकारी देंखे</summary>
+  <summary lang="he">צפייה במידע חומרה ומערכת ההפעלה</summary>
+  <summary lang="gl">Ver información do sistema operativo e hardware</summary>
+  <summary lang="fr_CA">Afficher les informations du système et du matériel</summary>
+  <summary lang="fr">Afficher les informations du système d'exploitation et du matériel</summary>
+  <summary lang="fi">Katso käyttöjärjestelmän ja laitteiston tiedot</summary>
+  <summary lang="et">Operatsioonisüsteemi ja riistvara teave</summary>
+  <summary lang="es">Vea información del sistema operativo y el equipo</summary>
+  <summary lang="eo">Vidi operaciuman kaj aparataran informojn</summary>
+  <summary lang="en_GB">View operating system and hardware information</summary>
+  <summary lang="en_CA">View operating system and hardware information</summary>
+  <summary lang="en_AU">View operating system and hardware information</summary>
+  <summary lang="el">Προβολή πληροφοριών λειτουργικού συστήματος και υλικού</summary>
+  <summary lang="de">Betriebssystem- und Hardware-Informationen anzeigen</summary>
+  <summary lang="da">Vis information om styresystem og hardware</summary>
+  <summary lang="cs">Zobrazit informace o operačním systému a hardwaru</summary>
+  <summary lang="ca">Mostra la informació del sistema operatiu i del maquinari</summary>
+  <summary lang="bs">Pogledaj informacije o operativnom sistemu i hardveru</summary>
+  <summary lang="bg">Преглед на сведения за операционната системата и апаратурата</summary>
+  <summary lang="ar">عرض معلومات نظام التشغيل و العتاد</summary>
+  <summary lang="ak">Hwɛ w'afidie no ho nsɛm</summary>
+  <icon type="stock">application-x-firmware</icon>
+  <translation type="gettext">about-plug</translation>
+  <releases>
+    <release urgency="medium" date="2022-04-06" version="6.1.0">
+      <description>
+        <p>New features:</p>
+        <p lang="uk">Нові функції:</p>
+        <p lang="tr">Yeni özellikler:</p>
+        <p lang="sk">Nové funkcie:</p>
+        <p lang="pt">Novas funcionalidades:</p>
+        <p lang="pl">Nowe funkcje:</p>
+        <p lang="ja">新機能:</p>
+        <p lang="hu">Új funkciók:</p>
+        <p lang="he">יכולות חדשות:</p>
+        <p lang="fr">Nouvelles fonctionnalités :</p>
+        <p lang="cs">Nové funkce:</p>
+        <p lang="ca">Característiques noves:</p>
+        <ul>
+          <li>Added support for dark style manufacturer logos</li>
+          <li lang="uk">Додано підтримку темного стилю логотипів виробників</li>
+          <li lang="sk">Pridaná podpora pre logá výrobcov s podporou tmavého štýlu</li>
+          <li lang="pt">Adicionado suporte para logótipos de fabricantes de estilo negro</li>
+          <li lang="pl">Dodano wsparcie dla marki producenta w ciemnym stylu</li>
+          <li lang="ja">ダークスタイル用のメーカーロゴに対応</li>
+          <li lang="he">נוספה תמיכה בלוגואים של יצרנים בסגנון כהה</li>
+          <li lang="fr">Ajout de la prise en charge des logos de fabricant spécifiques en mode sombre</li>
+          <li lang="ca">S'ha afegit suport per als logotips dels fabricants per a l'estil fosc.</li>
+          <li>Added support for offline firmware updates</li>
+          <li lang="uk">Додано підтримку офлайн оновлень мікропрограми</li>
+          <li lang="sk">Pridaná podpora pre offline aktualizácie firmvéru</li>
+          <li lang="pt">Adicionado suporte para atualizações de firmware offline</li>
+          <li lang="pl">Dodano wsparcie dla aktualizacji sprzętu bez internetu</li>
+          <li lang="ja">オフラインでのファームウェアのアップデートに対応</li>
+          <li lang="he">נוספה תמיכה בעדכוני קושחה בלתי מקוונים</li>
+          <li lang="fr">Ajout de la prise en charge des mises à jour hors-ligne du micrologiciel</li>
+          <li lang="ca">S'ha afegit suport per a actualitzacions de microprogramari fora de línia.</li>
+        </ul>
+        <p>Minor updates:</p>
+        <p lang="zh_CN">次要更新：</p>
+        <p lang="uk">Незначні оновлення:</p>
+        <p lang="tr">Küçük güncellemeler:</p>
+        <p lang="sk">Menšie aktualizácie:</p>
+        <p lang="ru">Незначительные обновления:</p>
+        <p lang="pt_BR">Pequenas atualizações:</p>
+        <p lang="pt">Pequena atualizações:</p>
+        <p lang="pl">Mniejsze aktualizacje:</p>
+        <p lang="nl">Kleine updates:</p>
+        <p lang="ja">軽微なアップデート:</p>
+        <p lang="hu">Kisebb frissítések:</p>
+        <p lang="he">עדכונים משניים:</p>
+        <p lang="fr">Mises à jour mineures :</p>
+        <p lang="fi">Pienet päivitykset:</p>
+        <p lang="es">Actualizaciones menores:</p>
+        <p lang="en_GB">Minor updates:</p>
+        <p lang="de">Kleinere Aktualisierungen:</p>
+        <p lang="cs">Drobné aktualizace:</p>
+        <p lang="ca">Actualitzacions menors:</p>
+        <ul>
+          <li>Updated translations</li>
+          <li lang="zh_TW">翻譯更新</li>
+          <li lang="zh_CN">翻译更新</li>
+          <li lang="uk">Оновлено переклади</li>
+          <li lang="tr">Çeviriler güncellendi</li>
+          <li lang="sr">Освежени преводи</li>
+          <li lang="sl">Posodobljeni prevodi</li>
+          <li lang="sk">Aktualizované preklady</li>
+          <li lang="ru">Обновлены переводы</li>
+          <li lang="pt_BR">Traduções atualizadas</li>
+          <li lang="pt">Traduções atualizadas</li>
+          <li lang="pl">Zaktualizowane tłumaczenia</li>
+          <li lang="nl">Bijgewerkte vertalingen</li>
+          <li lang="nb">Oppdaterte oversettelser</li>
+          <li lang="mr">अद्ययावत भाषांतर</li>
+          <li lang="ja">翻訳の更新</li>
+          <li lang="it">Traduzioni aggiornate</li>
+          <li lang="id">Terjemahan yang diperbarui</li>
+          <li lang="hu">Frissített fordítások</li>
+          <li lang="hr">Nadopunjeni prijevodi</li>
+          <li lang="he">תרגומים עודכנו</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="fi">Päivityksiä kielikäännöksiin</li>
+          <li lang="es">Traducciones actualizadas</li>
+          <li lang="eo">Ĝisdatigitaj tradukoj</li>
+          <li lang="en_GB">Updated translations</li>
+          <li lang="de">Aktualisierte Übersetzungen</li>
+          <li lang="da">Opdaterede oversættelser</li>
+          <li lang="cs">Aktualizovány překlady</li>
+          <li lang="ca">Traduccions actualitzades</li>
+          <li lang="ar">ترجمات محدثة</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" version="6.0.1" date="2021-08-23">
+      <description>
+        <p>Minor updates:</p>
+        <p lang="zh_CN">次要更新：</p>
+        <p lang="uk">Незначні оновлення:</p>
+        <p lang="tr">Küçük güncellemeler:</p>
+        <p lang="sk">Menšie aktualizácie:</p>
+        <p lang="ru">Незначительные обновления:</p>
+        <p lang="pt_BR">Pequenas atualizações:</p>
+        <p lang="pt">Pequena atualizações:</p>
+        <p lang="pl">Mniejsze aktualizacje:</p>
+        <p lang="nl">Kleine updates:</p>
+        <p lang="ja">軽微なアップデート:</p>
+        <p lang="hu">Kisebb frissítések:</p>
+        <p lang="he">עדכונים משניים:</p>
+        <p lang="fr">Mises à jour mineures :</p>
+        <p lang="fi">Pienet päivitykset:</p>
+        <p lang="es">Actualizaciones menores:</p>
+        <p lang="en_GB">Minor updates:</p>
+        <p lang="de">Kleinere Aktualisierungen:</p>
+        <p lang="cs">Drobné aktualizace:</p>
+        <p lang="ca">Actualitzacions menors:</p>
+        <ul>
+          <li>Use formatted device name when available</li>
+          <li lang="uk">Застосування назви відформатованого пристрою, якщо вона доступна</li>
+          <li lang="sk">Použiť názov naformátovaného zariadenia, ak je to možné</li>
+          <li lang="ru">Применение названия отформатированного устройства, если оно доступно</li>
+          <li lang="pt">Usar o nome do dispositivo formatado quando disponível</li>
+          <li lang="pl">Zformatowana nazwa urządzenia jest wykorzystywana tam gdzie to możliwe</li>
+          <li lang="ja">可能な場合は整形されたデバイス名を使用するように修正</li>
+          <li lang="he">ייעשה שימוש בשם מסוגנן למכשיר כשיש שם כזה</li>
+          <li lang="fr">Utilisation du nom du périphérique si disponible</li>
+          <li lang="en_GB">Use formatted device name when available</li>
+          <li lang="de">Partitionsnamen verwenden, falls verfügbar</li>
+          <li lang="cs">Když je k dispozici, je použit formátovaný název zařízení</li>
+          <li lang="ca">Usa el nom del dispositiu formatat quan està disponible.</li>
+          <li>Display more information for certain GPUs, including Intel® Xe Graphics</li>
+          <li lang="uk">Показ додаткових відомостей про деякі графічні процесори, включно з Intel® Xe Graphics</li>
+          <li lang="sk">Zobrazovať viac informácií pre určité grafické karty, vrátane Intel® Xe Graphics</li>
+          <li lang="ru">Отображение большей информации для определённых видеокарт, включая Intel® Xe Graphics</li>
+          <li lang="pt">Mostrar mais informação para certas GPUs, incluindo Placas Gráficas Intel® Xe</li>
+          <li lang="pl">Dla niektórych kart graficznych, m.in. Intel® Xe Graphics, wyświetlane jest teraz więcej informacji</li>
+          <li lang="ja">Intel® Xe Graphics などの特定の GPU に関する情報を詳細に表示するように修正</li>
+          <li lang="he">הצגת מידע נוסף על מעבדים גרפיים מסוימים לרבות Intel® Xe Graphics</li>
+          <li lang="fr">Affichage de plus d'informations pour certaines cartes graphiques, cartes Intel® Xe incluses</li>
+          <li lang="en_GB">Display more information for certain GPUs, including Intel® Xe Graphics</li>
+          <li lang="de">Mehr Informationen für bestimmte GPUs einblenden, inkl. Intel® Xe Graphics</li>
+          <li lang="cs">Zobrazování dalších informací pro určité grafické čipy, včetně Intel® Xe Graphics</li>
+          <li lang="ca">Es mostra més informació per a certes GPU, inclosa Intel® Xe Graphics.</li>
+          <li>Updated translations</li>
+          <li lang="zh_TW">翻譯更新</li>
+          <li lang="zh_CN">翻译更新</li>
+          <li lang="uk">Оновлено переклади</li>
+          <li lang="tr">Çeviriler güncellendi</li>
+          <li lang="sr">Освежени преводи</li>
+          <li lang="sl">Posodobljeni prevodi</li>
+          <li lang="sk">Aktualizované preklady</li>
+          <li lang="ru">Обновлены переводы</li>
+          <li lang="pt_BR">Traduções atualizadas</li>
+          <li lang="pt">Traduções atualizadas</li>
+          <li lang="pl">Zaktualizowane tłumaczenia</li>
+          <li lang="nl">Bijgewerkte vertalingen</li>
+          <li lang="nb">Oppdaterte oversettelser</li>
+          <li lang="mr">अद्ययावत भाषांतर</li>
+          <li lang="ja">翻訳の更新</li>
+          <li lang="it">Traduzioni aggiornate</li>
+          <li lang="id">Terjemahan yang diperbarui</li>
+          <li lang="hu">Frissített fordítások</li>
+          <li lang="hr">Nadopunjeni prijevodi</li>
+          <li lang="he">תרגומים עודכנו</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="fi">Päivityksiä kielikäännöksiin</li>
+          <li lang="es">Traducciones actualizadas</li>
+          <li lang="eo">Ĝisdatigitaj tradukoj</li>
+          <li lang="en_GB">Updated translations</li>
+          <li lang="de">Aktualisierte Übersetzungen</li>
+          <li lang="da">Opdaterede oversættelser</li>
+          <li lang="cs">Aktualizovány překlady</li>
+          <li lang="ca">Traduccions actualitzades</li>
+          <li lang="ar">ترجمات محدثة</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-07-15" version="6.0.0" urgency="medium">
+      <description>
+        <p>Redesign and new features:</p>
+        <p lang="uk">Редизайн та нові можливості:</p>
+        <p lang="tr">Yeniden tasarım ve yeni özellikler:</p>
+        <p lang="sk">Redizajn a nové funkcie:</p>
+        <p lang="ru">Редизайн и новые возможности:</p>
+        <p lang="pt">Redesenho e novas funcionalidades:</p>
+        <p lang="pl">Przeprojektowanie i nowe funkcje:</p>
+        <p lang="ja">デザイン変更と新機能:</p>
+        <p lang="he">עיצוב מחדש ויכולות חדשות:</p>
+        <p lang="fr">Nouvelle apparence et nouvelles fonctionnalités :</p>
+        <p lang="en_GB">Redesign and new features:</p>
+        <p lang="de">Redesign und neue Funktionen:</p>
+        <p lang="cs">Předělání a nové funkce:</p>
+        <p lang="ca">Redisseny i funcions noves:</p>
+        <ul>
+          <li>Rename from About to System</li>
+          <li lang="uk">Перейменування з вкладки Про систему</li>
+          <li lang="tr">Hakkında, Sistem olarak yeniden adlandırıldı</li>
+          <li lang="sk">Premenovaná tabla O systéme na Systém</li>
+          <li lang="ru">Переименовано из «О системе» в «Система»</li>
+          <li lang="pt">Renomear de Acerca para Sistema</li>
+          <li lang="pl">Zmiana nazwy z Informacje na System</li>
+          <li lang="ja">“このシステムについて”から“システム”に名称変更</li>
+          <li lang="he">שינוי שם מ„על אודות” ל„מערכת”</li>
+          <li lang="fr">Renommage de « À propos  » en « Système »</li>
+          <li lang="en_GB">Rename from About to System</li>
+          <li lang="de">Umbenennung von About in System</li>
+          <li lang="cs">Přejmenováno z O systému</li>
+          <li lang="ca">Canvi de nom des de l'apartat Quant al sistema</li>
+          <li>Split Hardware and Operating System info into their own tabs</li>
+          <li lang="uk">Розділено дані про обладнання та операційну систему на окремі вкладки</li>
+          <li lang="tr">Donanım ve İşletim Sistemi bilgileri kendi sekmelerine ayrıldı</li>
+          <li lang="sk">Rozdelené informácie o hardvéri a operačnom systéme na oddelené tably</li>
+          <li lang="ru">Информация об оборудовании и операционной системе разделена в отдельные вкладки</li>
+          <li lang="pt">Dividir a informação do Hardware e do Sistema Operativo nos seus próprios separadores</li>
+          <li lang="pl">Rozdzielono Sprzęt i System operacyjny do osobnych zakładek</li>
+          <li lang="ja">“ハードウェア”と“オペレーティングシステム”を独立したタブに分割</li>
+          <li lang="he">פיצול פרטי חומרה ומערכת הפעלה ללשוניות עצמאיות</li>
+          <li lang="fr">Séparation des informations sur le matériel et le système d'exploitation en deux onglets distincts</li>
+          <li lang="en_GB">Split Hardware and Operating System info into their own tabs</li>
+          <li lang="de">Unterteile Hardware und Betriebssystem in jeweils eigene Tabs</li>
+          <li lang="cs">Rozdělení Hardware a Operačního systému do oddělených panelů</li>
+          <li lang="ca">Divisió de la informació del maquinari i del sistema operatiu a les seves pestanyes</li>
+          <li>Redesign the Operating System tab with clearer links and buttons</li>
+          <li lang="uk">Перероблено вкладки операційної системи з чіткішими посиланнями та кнопками</li>
+          <li lang="tr">İşletim Sistemi sekmesini daha net bağlantılar ve düğmelerle yeniden tasarladık</li>
+          <li lang="sk">Redizajn tably Operačného systému s použitím jasnejších odkazov a tlačidiel</li>
+          <li lang="ru">Редизайн вкладки «Операционная система» с более понятными ссылками и кнопками</li>
+          <li lang="pt">Redesenha o separador Sistema Operativo com ligações e botões mais claros</li>
+          <li lang="pl">Przeprojektowano kartę systemu operacyjnego z wyraźniejszymi linkami i przyciskami</li>
+          <li lang="ja">“オペレーティングシステム”タブに、より明確なリンクとボタンを配置するデザイン変更</li>
+          <li lang="he">עיצוב מחדש של לשונית מערכת ההפעלה ונוספו קישורים וכפתורים ברורים יותר</li>
+          <li lang="fr">Nouvelle apparence de l'onglet sur le système d'exploitation avec des liens et boutons plus clairs</li>
+          <li lang="en_GB">Redesign the Operating System tab with clearer links and buttons</li>
+          <li lang="de">Redesign des Betriebssystem-Tabs mit klareren Links und Buttons</li>
+          <li lang="cs">Předělán panel Operační systém – lépe uspořádané odkazy a tlačítka</li>
+          <li lang="ca">Redisseny de la pestanya del Sistema operatiu amb enllaços i botons més clars</li>
+          <li>Add a Firmware view to manage device firmware updates</li>
+          <li lang="uk">Додано перегляд мікропрограми для керування оновленнями мікропрограми пристроїв</li>
+          <li lang="tr">Cihaz üretici yazılımı güncellemelerini yönetmek için bir Üretici Yazılımı görünümü eklendi</li>
+          <li lang="sk">Pridané zobrazenie Firmvéru na správu aktualizácií firmvéru zariadení</li>
+          <li lang="ru">Добавлено представление «Прошивка» для управления обновлениями прошивок устройств</li>
+          <li lang="pt">Adiciona uma vista de Firmware para gerir atualizações de firmware do dispositivo</li>
+          <li lang="pl">Dodano widok firmware'u by zarządzać aktualizacjami firmware'u urządzenia</li>
+          <li lang="ja">デバイスファームウェアのアップデートを管理する“ファームウェア”ビューを追加</li>
+          <li lang="he">הוספת תצוגת קושחה כדי לנהל את עדכוני קושחות ההתקנים</li>
+          <li lang="fr">Ajout d'une vue « Logiciel » pour gérer les mises à jour logicielles de l'appareil</li>
+          <li lang="en_GB">Add a Firmware view to manage device firmware updates</li>
+          <li lang="de">Firmware-Ansicht hinzugefügt um Firmware Updates für Geräte zu verwalten</li>
+          <li lang="cs">Přidáno zobrazení Firmware pro správu aktualizací firmware</li>
+          <li lang="ca">Addició d'una vista de microprogramari per gestionar les actualitzacions de microprogramari del dispositiu</li>
+        </ul>
+        <p>More information:</p>
+        <p lang="uk">Докладніші відомості:</p>
+        <p lang="tr">Daha fazla bilgi:</p>
+        <p lang="sk">Viac informácií:</p>
+        <p lang="ru">Больше информации:</p>
+        <p lang="pt">Mais informação:</p>
+        <p lang="pl">Więcej informacji:</p>
+        <p lang="ja">追加された情報:</p>
+        <p lang="he">מידע נוסף:</p>
+        <p lang="fr">Plus d'informations :</p>
+        <p lang="en_GB">More information:</p>
+        <p lang="de">Weitere Informationen:</p>
+        <p lang="cs">Další informace:</p>
+        <p lang="ca">Més informació:</p>
+        <ul>
+          <li>Provide information for ARM CPUs</li>
+          <li lang="uk">Надає відомості про ARM-процесори</li>
+          <li lang="tr">ARM CPU'lar için bilgi sağlar</li>
+          <li lang="sk">Poskytovať informácie o ARMových procesoroch</li>
+          <li lang="ru">Предоставление информации для процессоров ARM</li>
+          <li lang="pt">Fornece informação para CPUs ARM</li>
+          <li lang="pl">Dodano informacje dla procesorów ARM</li>
+          <li lang="ja">ARM CPU の情報を表示できるように変更</li>
+          <li lang="he">אספקת מידע לסוגים נוספים של מעבדי ARM</li>
+          <li lang="fr">Informations sur les processeurs ARM</li>
+          <li lang="en_GB">Provide information for ARM CPUs</li>
+          <li lang="de">Informationen für ARM CPUs hinzugefügt</li>
+          <li lang="cs">Poskytování informací o procesorech platformy ARM</li>
+          <li lang="ca">Es proporciona informació per a les CPU d'ARM.</li>
+          <li>Provide information for more types of Graphics</li>
+          <li lang="zh_CN">提供更多类型的显卡信息</li>
+          <li lang="uk">Надає відомості про більше типів графіки</li>
+          <li lang="tr">Daha çok ekran kartı türü için bilgi sağlar</li>
+          <li lang="sr">Обезбеђује информације за више врста графике</li>
+          <li lang="sk">Poskytovať informácie pre viac typov grafických kariet</li>
+          <li lang="ru">Предоставляет информацию для большего количества типов графики</li>
+          <li lang="pt">Fornece informação para mais tipos de Gráficos</li>
+          <li lang="pl">Dodano informacje dla większej liczby kart graficznych</li>
+          <li lang="nl">Geef informatie over meer types videokaarten</li>
+          <li lang="mr">ग्राफिक्सच्या अधिक प्रकारांसाठी माहिती प्रदान करा</li>
+          <li lang="ja">検出可能なグラフィックスの種類が増加</li>
+          <li lang="it">Fornisce informazioni più dettagliate sulla tipologia di scheda grafica</li>
+          <li lang="he">אספקת מידע לסוגים נוספים של גרפיקה</li>
+          <li lang="fr">Informations supplémentaires pour plus de cartes graphiques</li>
+          <li lang="es">Se brinda información para más tipos de tarjetas gráficas</li>
+          <li lang="en_GB">Provide information for more types of Graphics</li>
+          <li lang="de">Informationen für weitere Grafik-Dateitypen hinzugefügt</li>
+          <li lang="cs">Poskytovány informace pro více typů grafického zobrazování</li>
+          <li lang="ca">Proporciona informació per a més tipus de gràfics.</li>
+        </ul>
+        <p>Fixes:</p>
+        <p lang="zh_CN">修复:</p>
+        <p lang="uk">Виправлення:</p>
+        <p lang="tr">Düzeltmeler:</p>
+        <p lang="sk">Opravy:</p>
+        <p lang="ru">Исправления:</p>
+        <p lang="pt">Correções:</p>
+        <p lang="pl">Poprawki:</p>
+        <p lang="ja">修正点:</p>
+        <p lang="hu">Javítások:</p>
+        <p lang="he">תיקונים:</p>
+        <p lang="fr">Corrections :</p>
+        <p lang="fi">Korjaukset:</p>
+        <p lang="es">Correcciones:</p>
+        <p lang="en_GB">Fixes:</p>
+        <p lang="de">Fehlerbehebungen:</p>
+        <p lang="cs">Opravy:</p>
+        <p lang="ca">Correccions:</p>
+        <ul>
+          <li>Fix an issue where the view was destroyed early when navigating away</li>
+          <li lang="uk">Виправлено проблему, коли подання нищилося зарано під час переходів</li>
+          <li lang="tr">Sayfadan ayrılmadan önce görünümün erken yok olmasına neden olan bir sorun düzeltildi</li>
+          <li lang="sk">Opravený problém, keď bolo zobrazenie zničené príliš skoro pri navigácií preč z okna</li>
+          <li lang="ru">Исправлена проблема когда представление уничтожалось раньше времени при навигации в сторону</li>
+          <li lang="pt">Corrige um problema em que a vista foi destruída prematuramente quando se navegava para longe</li>
+          <li lang="pl">Naprawiono problem gdzie widok był zbyt wcześnie niszczony podczas nawigacji z niego</li>
+          <li lang="ja">このプラグから移動する場合にビューが先に破棄される不具合を修正</li>
+          <li lang="he">תוקנה תקלה בה התצוגה הושמדה מוקדם מדי בעת ניווט אל מחוצה לה</li>
+          <li lang="fr">Correction d'un problème où la vue était détruite trop tôt lors de la navigation</li>
+          <li lang="en_GB">Fix an issue where the view was destroyed early when navigating away</li>
+          <li lang="de">Fehler behoben, der dazu führte, dass die Ansicht zu früh zerstört wurde, wenn wegnavigiert wurde</li>
+          <li lang="cs">Opraven problém kdy pohled byl při odchodu zlikvidován příliš brzy</li>
+          <li lang="ca">Solució d'un problema que provocava que la vista es destruís aviat en allunyar-se'n</li>
+          <li>Fix system memory calculation</li>
+          <li lang="uk">Виправлено обчислення системної пам'яті</li>
+          <li lang="tr">Sistem belleği hesaplaması düzeltildi</li>
+          <li lang="sk">Opravené výpočty systémovej pamäte</li>
+          <li lang="ru">Исправлено вычисление системной памяти</li>
+          <li lang="pt">Corrige o cálculo de memória do sistema</li>
+          <li lang="pl">Naprawiono obliczanie pamięci systemu</li>
+          <li lang="ja">システムメモリー容量の検出方法を修正</li>
+          <li lang="he">חישוב זיכרון המערכת תוקן</li>
+          <li lang="fr">Correction du calcul de la mémoire du système</li>
+          <li lang="en_GB">Fix system memory calculation</li>
+          <li lang="de">Korrektur bei der Berechnung des Arbeitsspeichers</li>
+          <li lang="cs">Opraveno počítání kapacit operační paměti</li>
+          <li lang="ca">Correcció del càlcul de la memòria del sistema</li>
+        </ul>
+        <p>Minor updates:</p>
+        <p lang="zh_CN">次要更新：</p>
+        <p lang="uk">Незначні оновлення:</p>
+        <p lang="tr">Küçük güncellemeler:</p>
+        <p lang="sk">Menšie aktualizácie:</p>
+        <p lang="ru">Незначительные обновления:</p>
+        <p lang="pt_BR">Pequenas atualizações:</p>
+        <p lang="pt">Pequena atualizações:</p>
+        <p lang="pl">Mniejsze aktualizacje:</p>
+        <p lang="nl">Kleine updates:</p>
+        <p lang="ja">軽微なアップデート:</p>
+        <p lang="hu">Kisebb frissítések:</p>
+        <p lang="he">עדכונים משניים:</p>
+        <p lang="fr">Mises à jour mineures :</p>
+        <p lang="fi">Pienet päivitykset:</p>
+        <p lang="es">Actualizaciones menores:</p>
+        <p lang="en_GB">Minor updates:</p>
+        <p lang="de">Kleinere Aktualisierungen:</p>
+        <p lang="cs">Drobné aktualizace:</p>
+        <p lang="ca">Actualitzacions menors:</p>
+        <ul>
+          <li>Ellipsize long hardware names</li>
+          <li lang="uk">Ховання частини довгих назв обладнання</li>
+          <li lang="tr">Uzun donanım adları kısaltıldı</li>
+          <li lang="sk">Elipsovať dlhé názvy hardvéru</li>
+          <li lang="ru">Сокращение длинных названий оборудования</li>
+          <li lang="pt">Elipsar nomes longos de hardware</li>
+          <li lang="pl">Przycięto długie nazwy sprzętu</li>
+          <li lang="ja">ハードウェア名が長い場合に省略表示</li>
+          <li lang="he">שמות רכיבי חומרה ארוכים מקוצרים</li>
+          <li lang="fr">Les noms de matériels trop longs sont désormais tronqués</li>
+          <li lang="en_GB">Ellipsise long hardware names</li>
+          <li lang="de">Lange Hardwarenamen auslaufen lassen (...)</li>
+          <li lang="cs">Zkrátit dlouhé názvy hardware pomocí výpustky</li>
+          <li lang="ca">El·lipsi dels noms de maquinari llargs</li>
+          <li>Performance improvements</li>
+          <li lang="uk">Поліпшено швидкодію</li>
+          <li lang="tr">Performans iyileştirmeleri</li>
+          <li lang="sk">Zlepšenia výkonu</li>
+          <li lang="ru">Улучшения производительности</li>
+          <li lang="pt">Melhorias de desempenho</li>
+          <li lang="pl">Zwiększona wydajność</li>
+          <li lang="ja">パフォーマンスの改善</li>
+          <li lang="he">שיפורי ביצועים</li>
+          <li lang="fr">Amélioration des performances</li>
+          <li lang="en_GB">Performance improvements</li>
+          <li lang="de">Leistungsverbesserungen</li>
+          <li lang="cs">Vylepšení výkonu</li>
+          <li lang="ca">Millores de rendiment</li>
+          <li>Updated translations</li>
+          <li lang="zh_TW">翻譯更新</li>
+          <li lang="zh_CN">翻译更新</li>
+          <li lang="uk">Оновлено переклади</li>
+          <li lang="tr">Çeviriler güncellendi</li>
+          <li lang="sr">Освежени преводи</li>
+          <li lang="sl">Posodobljeni prevodi</li>
+          <li lang="sk">Aktualizované preklady</li>
+          <li lang="ru">Обновлены переводы</li>
+          <li lang="pt_BR">Traduções atualizadas</li>
+          <li lang="pt">Traduções atualizadas</li>
+          <li lang="pl">Zaktualizowane tłumaczenia</li>
+          <li lang="nl">Bijgewerkte vertalingen</li>
+          <li lang="nb">Oppdaterte oversettelser</li>
+          <li lang="mr">अद्ययावत भाषांतर</li>
+          <li lang="ja">翻訳の更新</li>
+          <li lang="it">Traduzioni aggiornate</li>
+          <li lang="id">Terjemahan yang diperbarui</li>
+          <li lang="hu">Frissített fordítások</li>
+          <li lang="hr">Nadopunjeni prijevodi</li>
+          <li lang="he">תרגומים עודכנו</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="fi">Päivityksiä kielikäännöksiin</li>
+          <li lang="es">Traducciones actualizadas</li>
+          <li lang="eo">Ĝisdatigitaj tradukoj</li>
+          <li lang="en_GB">Updated translations</li>
+          <li lang="de">Aktualisierte Übersetzungen</li>
+          <li lang="da">Opdaterede oversættelser</li>
+          <li lang="cs">Aktualizovány překlady</li>
+          <li lang="ca">Traduccions actualitzades</li>
+          <li lang="ar">ترجمات محدثة</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-05-28" urgency="medium" version="2.6.3">
+      <description>
+        <p>Updated translations</p>
+        <p lang="zh_TW">翻譯更新</p>
+        <p lang="zh_CN">翻译更新</p>
+        <p lang="uk">Оновлено переклади</p>
+        <p lang="tr">Çeviriler güncellendi</p>
+        <p lang="sr">Освежени преводи</p>
+        <p lang="sl">Posodobljeni prevodi</p>
+        <p lang="sk">Aktualizované preklady</p>
+        <p lang="ru">Обновлены переводы</p>
+        <p lang="pt_BR">Traduções atualizadas</p>
+        <p lang="pt">Traduções atualizadas</p>
+        <p lang="pl">Zaktualizowane tłumaczenia</p>
+        <p lang="nl">Bijgewerkte vertalingen</p>
+        <p lang="nb">Oppdaterte oversettelser</p>
+        <p lang="mr">अद्ययावत भाषांतर</p>
+        <p lang="ja">翻訳の更新</p>
+        <p lang="it">Traduzioni aggiornate</p>
+        <p lang="id">Terjemahan yang diperbarui</p>
+        <p lang="hu">Frissített fordítások</p>
+        <p lang="hr">Nadopunjeni prijevodi</p>
+        <p lang="he">תרגומים עודכנו</p>
+        <p lang="fr">Mise à jour des traductions</p>
+        <p lang="fi">Päivityksiä kielikäännöksiin</p>
+        <p lang="es">Traducciones actualizadas</p>
+        <p lang="eo">Ĝisdatigitaj tradukoj</p>
+        <p lang="en_GB">Updated translations</p>
+        <p lang="de">Aktualisierte Übersetzungen</p>
+        <p lang="da">Opdaterede oversættelser</p>
+        <p lang="cs">Aktualizovány překlady</p>
+        <p lang="ca">Traduccions actualitzades</p>
+        <p lang="ar">ترجمات محدثة</p>
+      </description>
+    </release>
+    <release date="2020-04-08" urgency="medium" version="2.6.2">
+      <description>
+        <p>Updated translations</p>
+        <p lang="zh_TW">翻譯更新</p>
+        <p lang="zh_CN">翻译更新</p>
+        <p lang="uk">Оновлено переклади</p>
+        <p lang="tr">Çeviriler güncellendi</p>
+        <p lang="sr">Освежени преводи</p>
+        <p lang="sl">Posodobljeni prevodi</p>
+        <p lang="sk">Aktualizované preklady</p>
+        <p lang="ru">Обновлены переводы</p>
+        <p lang="pt_BR">Traduções atualizadas</p>
+        <p lang="pt">Traduções atualizadas</p>
+        <p lang="pl">Zaktualizowane tłumaczenia</p>
+        <p lang="nl">Bijgewerkte vertalingen</p>
+        <p lang="nb">Oppdaterte oversettelser</p>
+        <p lang="mr">अद्ययावत भाषांतर</p>
+        <p lang="ja">翻訳の更新</p>
+        <p lang="it">Traduzioni aggiornate</p>
+        <p lang="id">Terjemahan yang diperbarui</p>
+        <p lang="hu">Frissített fordítások</p>
+        <p lang="hr">Nadopunjeni prijevodi</p>
+        <p lang="he">תרגומים עודכנו</p>
+        <p lang="fr">Mise à jour des traductions</p>
+        <p lang="fi">Päivityksiä kielikäännöksiin</p>
+        <p lang="es">Traducciones actualizadas</p>
+        <p lang="eo">Ĝisdatigitaj tradukoj</p>
+        <p lang="en_GB">Updated translations</p>
+        <p lang="de">Aktualisierte Übersetzungen</p>
+        <p lang="da">Opdaterede oversættelser</p>
+        <p lang="cs">Aktualizovány překlady</p>
+        <p lang="ca">Traduccions actualitzades</p>
+        <p lang="ar">ترجمات محدثة</p>
+      </description>
+    </release>
+    <release urgency="medium" version="2.6.1" date="2019-11-15">
+      <description>
+        <p>Updated translations</p>
+        <p lang="zh_TW">翻譯更新</p>
+        <p lang="zh_CN">翻译更新</p>
+        <p lang="uk">Оновлено переклади</p>
+        <p lang="tr">Çeviriler güncellendi</p>
+        <p lang="sr">Освежени преводи</p>
+        <p lang="sl">Posodobljeni prevodi</p>
+        <p lang="sk">Aktualizované preklady</p>
+        <p lang="ru">Обновлены переводы</p>
+        <p lang="pt_BR">Traduções atualizadas</p>
+        <p lang="pt">Traduções atualizadas</p>
+        <p lang="pl">Zaktualizowane tłumaczenia</p>
+        <p lang="nl">Bijgewerkte vertalingen</p>
+        <p lang="nb">Oppdaterte oversettelser</p>
+        <p lang="mr">अद्ययावत भाषांतर</p>
+        <p lang="ja">翻訳の更新</p>
+        <p lang="it">Traduzioni aggiornate</p>
+        <p lang="id">Terjemahan yang diperbarui</p>
+        <p lang="hu">Frissített fordítások</p>
+        <p lang="hr">Nadopunjeni prijevodi</p>
+        <p lang="he">תרגומים עודכנו</p>
+        <p lang="fr">Mise à jour des traductions</p>
+        <p lang="fi">Päivityksiä kielikäännöksiin</p>
+        <p lang="es">Traducciones actualizadas</p>
+        <p lang="eo">Ĝisdatigitaj tradukoj</p>
+        <p lang="en_GB">Updated translations</p>
+        <p lang="de">Aktualisierte Übersetzungen</p>
+        <p lang="da">Opdaterede oversættelser</p>
+        <p lang="cs">Aktualizovány překlady</p>
+        <p lang="ca">Traduccions actualitzades</p>
+        <p lang="ar">ترجمات محدثة</p>
+      </description>
+    </release>
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/elementary/switchboard-plug-about/master/data/screenshot.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/elementary/switchboard-plug-about/master/data/screenshot-hardware.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/elementary/switchboard-plug-about/master/data/screenshot-firmware.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://elementary.io</url>
+  <url type="bugtracker">https://github.com/elementary/switchboard-plug-about/issues</url>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+</component>

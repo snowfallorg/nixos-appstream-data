@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <description>
+    <p>
+      <b>Note:</b>
+      <b lang="gl">Nota:</b>
+      <b lang="fr">Remarque :</b>
+      <b lang="es">Nota:</b>
+      <b lang="en_GB">Note:</b>
+      <b lang="en_CA">Note:</b>
+      <b lang="en_AU">Note:</b> This application does not actually encrypt files. This was made just to encipher strings. Have fun!
+    </p>
+    <p>
+      <b>Note:</b>
+    </p>
+    <p>Available Ciphers</p>
+    <ul>
+      <li>Caesar Shift Cipher</li>
+      <li>Atbash Cipher</li>
+      <li>ROT13 Cipher</li>
+      <li>ASCII Encoding</li>
+      <li>Base64 Encoding</li>
+      <li>Polybius Square Cipher</li>
+      <li>Vigenere Cipher</li>
+      <li>Hashing Functions (MD5, SHA1, SHA256, SHA384, SHA512)</li>
+    </ul>
+  </description>
+  <description lang="en_AU">
+    <p>A simple application for encoding and decoding text. Hide your text from prying eyes!</p>
+    <p>
+      <b>Note:</b>
+    </p>
+    <p>Available Ciphers</p>
+    <ul>
+      <li>Caesar Shift Cipher</li>
+      <li>Atbash Cipher</li>
+      <li>ROT13 Cipher</li>
+      <li>ASCII Encoding</li>
+      <li>Base64 Encoding</li>
+      <li>Polybius Square Cipher</li>
+      <li>Vigenere Cipher</li>
+      <li>Hashing Functions (MD5, SHA1, SHA256, SHA384, SHA512)</li>
+    </ul>
+  </description>
+  <description lang="en_CA">
+    <p>A simple application for encoding and decoding text. Hide your text from prying eyes!</p>
+    <p>
+      <b>Note:</b>
+    </p>
+    <p>Available Ciphers</p>
+    <ul>
+      <li>Caesar Shift Cipher</li>
+      <li>Atbash Cipher</li>
+      <li>ROT13 Cipher</li>
+      <li>ASCII Encoding</li>
+      <li>Base64 Encoding</li>
+      <li>Polybius Square Cipher</li>
+      <li>Vigenere Cipher</li>
+      <li>Hashing Functions (MD5, SHA1, SHA256, SHA384, SHA512)</li>
+    </ul>
+  </description>
+  <description lang="en_GB">
+    <p>A simple application for encoding and decoding text. Hide your text from prying eyes!</p>
+    <p>
+      <b>Note:</b>
+    </p>
+    <p>Available Ciphers</p>
+    <ul>
+      <li>Caesar Shift Cipher</li>
+      <li>Atbash Cipher</li>
+      <li>ROT13 Cipher</li>
+      <li>ASCII Encoding</li>
+      <li>Base64 Encoding</li>
+      <li>Polybius Square Cipher</li>
+      <li>Vigenere Cipher</li>
+      <li>Hashing Functions (MD5, SHA1, SHA256, SHA384, SHA512)</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>Una aplicación simple para codificar y decodificar texto. ¡Oculte su texto de miradas indiscretas!</p>
+    <p>
+      <b>Nota:</b>
+    </p>
+    <p>Cifrados disponibles</p>
+    <ul>
+      <li>Cifrado César</li>
+      <li>Atbash</li>
+      <li>ROT13</li>
+      <li>Codificación ASCII</li>
+      <li>Codificación Base64</li>
+      <li>Cuadrado de Polibio</li>
+      <li>Cifrado de Vigenère</li>
+      <li>Funciones de «hash» (MD5, SHA1, SHA256, SHA384, SHA512)</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>Une simple application pour encoder et décoder du texte. Masquez votre texte des regards indiscrets !</p>
+    <p>
+      <b>Remarque :</b>
+    </p>
+    <p>Chiffrements disponibles</p>
+    <ul>
+      <li>Chiffre de César</li>
+      <li>Atbash</li>
+      <li>ROT13</li>
+      <li>Encodage ASCII</li>
+      <li>Encodage Base64</li>
+      <li>Carré de Polybe</li>
+      <li>Chiffre de Vigenère</li>
+      <li>Fonctions de hachage (MD5, SHA1, SHA256, SHA384, SHA512)</li>
+    </ul>
+  </description>
+  <description lang="gl">
+    <p>Un aplicativo sinxelo para codificar e descodificar texto. Agoche o seu texto dos ollos indiscretos!</p>
+    <p>
+      <b>Nota:</b>
+    </p>
+    <p>Cifraxes dispoñíbeis</p>
+    <ul>
+      <li>Cifraxe César</li>
+      <li>Atbash</li>
+      <li>ROT13</li>
+      <li>Codificación ASCII</li>
+      <li>Codificación Base64</li>
+      <li>Cadrado de Polibio</li>
+      <li>Cifraxe de Vigenère</li>
+      <li>Funcións de hash (MD5, SHA1, SHA256, SHA384, SHA512)</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>Een eenvoudige toepassing voor het ver- en ontsleutelen van tekst. Verberg je tekst voor nieuwsgierige aagjes!</p>
+    <ul>
+      <li>Caesar Shift-vercijfering</li>
+      <li>Atbash-vercijfering</li>
+      <li>ROT13-vercijfering</li>
+      <li>ASCII-versleuteling</li>
+      <li>Base64-versleuteling</li>
+      <li>Polybius Square-vercijfering</li>
+      <li>Vigenere-vercijfering</li>
+    </ul>
+  </description>
+  <pkgname>cipher</pkgname>
+  <launchable type="desktop-id">com.github.arshubham.cipher.desktop</launchable>
+  <icon width="64" type="cached" height="64">com.github.arshubham.cipher.png</icon>
+  <icon width="128" height="128" type="cached">com.github.arshubham.cipher.png</icon>
+  <id>com.github.arshubham.cipher</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>Cipher</name>
+  <name lang="nl">Cipher</name>
+  <name lang="gl">Cipher</name>
+  <name lang="fr">Cipher</name>
+  <name lang="es">Cipher</name>
+  <name lang="en_GB">Cipher</name>
+  <name lang="en_CA">Cipher</name>
+  <name lang="en_AU">Cipher</name>
+  <summary>Encode and decode text</summary>
+  <summary lang="nl">Tekst ver- en ontsleutelen</summary>
+  <summary lang="gl">Codifique e descodifique texto</summary>
+  <summary lang="fr">Encodez et décodez du texte</summary>
+  <summary lang="es">Codifique y descodifique texto</summary>
+  <summary lang="en_GB">Encode and decode text</summary>
+  <summary lang="en_CA">Encode and decode text</summary>
+  <summary lang="en_AU">Encode and decode text</summary>
+  <developer_name>Shubham Arora</developer_name>
+  <developer_name lang="nl">Shubham Arora</developer_name>
+  <developer_name lang="gl">Shubham Arora</developer_name>
+  <developer_name lang="fr">Shubham Arora</developer_name>
+  <developer_name lang="es">Shubham Arora</developer_name>
+  <developer_name lang="en_GB">Shubham Arora</developer_name>
+  <developer_name lang="en_CA">Shubham Arora</developer_name>
+  <developer_name lang="en_AU">Shubham Arora</developer_name>
+  <provides>
+    <binary>com.github.arshubham.cipher</binary>
+  </provides>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/arshubham/cipher/master/data/images/Screenshot1.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/arshubham/cipher/master/data/images/Screenshot2.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/arshubham/cipher/master/data/images/Screenshot3.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/arshubham/cipher/master/data/images/Screenshot4.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/arshubham/cipher/master/data/images/Screenshot5.png</image>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release version="2.5.0" date="2019-11-22">
+      <description>
+        <ul>
+          <li> Add Dutch translations. Thanks @Vistaus (https://github.com/Vistaus) </li>
+          <li> Add preserve case option to Vigenere Cipher. Thanks @sahilarora3117 (https://github.com/sahilarora3117) </li>
+          <li> Add Spanish and Galician translations. Thanks @riesp (https://github.com/riesp) </li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-09-15" version="2.0.0">
+      <description>
+        <ul>
+          <li> New Icon! Thanks @Fatih20 (https://github.com/Fatih20) </li>
+          <li> Added Vigenere Cipher </li>
+          <li> Added SHA384 and SHA512 Hash Functions </li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.0.0" date="2019-02-02">
+      <description>
+        <ul>
+          <li> Complete UI/UX Redesign! </li>
+          <li> Added i18n Capability </li>
+          <li> Added French Tranlations. Thanks @NathanBnm (https://github.com/NathanBnm) </li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.1.6" date="2018-05-25">
+      <description>
+        <ul>
+          <li> Update for Juno </li>
+          <li> Add Hashing Functions </li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.1.5" date="2018-01-15">
+      <description>
+        <ul>
+          <li>New Icon</li>
+          <li>Fixes in .desktop file</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.1.3" date="2018-01-15">
+      <description>
+        <p>Appdata and minor language fixes</p>
+      </description>
+    </release>
+  </releases>
+  <url type="homepage">https://github.com/arshubham/cipher</url>
+  <url type="bugtracker">https://github.com/arshubham/cipher/issues</url>
+  <url type="help">https://shubhamarora.in</url>
+  <update_contact>shubhamarora@protonmail.com</update_contact>
+  <custom>
+    <value key="x-appcenter-color-primary">#BA635C</value>
+    <value key="x-appcenter-color-primary-text">#ECF0F1</value>
+    <value key="x-appcenter-suggested-price">0</value>
+  </custom>
+</component>

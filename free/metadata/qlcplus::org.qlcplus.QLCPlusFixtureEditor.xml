@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>qlcplus</pkgname>
+  <launchable type="desktop-id">qlcplus.desktop</launchable>
+  <id>org.qlcplus.QLCPlusFixtureEditor</id>
+  <metadata_license>CC-BY-SA-3.0</metadata_license>
+  <project_license>Apache-2.0</project_license>
+  <name>QLC+ Fixture Definition Editor</name>
+  <summary>Fixture Editor for QLC+</summary>
+  <summary lang="fr">Editeur de définition d'appareil pour QLC+</summary>
+  <summary lang="nl">Armatuur Editor voor QLC+</summary>
+  <summary lang="it">Editor di definizioni di fixture per QLC+</summary>
+  <summary lang="es">Editor de definiciones de fixtures para QLC+</summary>
+  <summary lang="ca">Editor de definicions de fixtures per QLC+</summary>
+  <summary lang="de">Editor für QLC+ Gerätedefinitionen</summary>
+  <description>
+    <p>
+   This is the Fixture Definition Editor for QLC+.
+  </p>
+  </description>
+  <description lang="ca">
+    <p>
+   Aquest es l'editor de definicions de fixtures per QLC+.
+  </p>
+  </description>
+  <description lang="de">
+    <p>
+   Editor zum Bearbeiten und Erstellen von Gerätedefinitionen für QLC+.
+  </p>
+  </description>
+  <description lang="es">
+    <p>
+   Éste es el editor de definiciones de fixtures para QLC+.
+  </p>
+  </description>
+  <description lang="fr">
+    <p>
+   Ceci est l'éditeur de définition d'appareil pour QLC+.
+  </p>
+  </description>
+  <description lang="it">
+    <p>
+   Questo è l'editor di definizioni di fixture per QLC+.
+  </p>
+  </description>
+  <description lang="nl">
+    <p>
+   Dit is de Armatuur Editor voor QLC+.
+  </p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>http://www.qlcplus.org/shots/qlcplus_fixtureeditor.png</image>
+      <caption>Fixture Definition Editor</caption>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">http://www.qlcplus.org/</url>
+  <url type="bugtracker">https://github.com/mcallegari/qlcplus/issues</url>
+  <provides>
+    <binary>qlcplus-fixtureeditor</binary>
+  </provides>
+</component>

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>brasero</pkgname>
+  <launchable type="desktop-id">brasero.desktop</launchable>
+  <icon width="64" type="cached" height="64">brasero.png</icon>
+  <icon width="128" height="128" type="cached">brasero.png</icon>
+  <id type="desktop">brasero.desktop</id>
+  <licence>CC0</licence>
+  <description>
+    <p>Brasero is a application to burn CD/DVD for the GNOME Desktop. It is designed to be as simple as possible and has some unique features to enable users to create their discs easily and quickly.</p>
+    <p>Brasero can create, copy and burn Data and Audio CD/DVDs. It fully supports CD-TEXT, multisession and joliet extensions. You can simply drag and drop files from other local applications or from remote shared drives to easily burn them to a disc.</p>
+  </description>
+  <description lang="as">
+    <p>Brasero হল GNOME ডেস্কটপৰ বাবে CD/DVD বাৰ্ণ কৰাৰ এটা এপ্লিকেচন। ইয়াক যিমান সম্ভব সহজ কৰিবলৈ ৰূপাঙ্কণ কৰা হৈছে আৰু ব্যৱহাৰকাৰীসকলে তেওলোকৰ ডিস্কবোৰ সহজতে আৰু দ্ৰুতভাৱে সৃষ্টি কৰিবলৈ কিছুমান অবিকল্প বৈশিষ্ট্য আছে।</p>
+    <p>Brasero এ তথ্য আৰু অডিঅ' CD/DVDs সৃষ্টি, কপি আৰু বাৰ্ণ কৰিব পাৰে। ই CD-TEXT, বহুঅধিবেশন আৰু joilet সম্প্ৰসাৰনসমূহ সম্পূৰ্ণভাৱে সমৰ্থন কৰে। আপুনি ফাইলসমূহক সহজতে এটা ডিস্কত বাৰ্ণ কৰিবলৈ অন্য স্থানীয় এপ্লিকেচন অথবা দূৰৱৰ্তী অংশীদাৰী কৰা ড্ৰাইভসমূহৰ পৰা ড্ৰেগ আৰু ড্ৰপ কৰিব পাৰে।</p>
+  </description>
+  <description lang="be">
+    <p>Brasero, праграма для асяроддзя GNOME, прызначаная для запісу CD/DVD-дыскаў. Яна адмыслова спраектаваная дзеля таго, каб быць простай у выкарыстанні, і мае колькі ўнікальных функцый для зручнага запісу дыскаў.</p>
+    <p>Brasero дазваляе ствараць, капіраваць і запісваць аўдыядыскі і дыскі з данымі на CD/DVD. Праграма поўнасцю падтрымлівае CD-TEXT, а таксама пашырэнні для шматсесійных дыскаў і Joliet. Дарэчы, вы можаце проста перацягваць файлы з іншых праграм або з аддаленых супольных дыскаў у акно гэтай праграмы, каб запісаць іх на дыску.</p>
+  </description>
+  <description lang="bg">
+    <p>Brasero е програма за запис на CD/DVD дискове за графичната среда GNOME. Проектирана е за лесна употреба и има някои уникални функционалности, които улесняват създаването на дискове.</p>
+    <p>Brasero може да записва и копира CD/DVD с данни или аудио. Има пълна поддръжка на CD-TEXT, много сесии и разширенията Joliet. За по-лесен запис можете просто да издърпате и пуснете файлове от твърди дискове независимо дали са на вашия или отдалечен компютър.</p>
+  </description>
+  <description lang="bn_IN">
+    <p>Brasero হল GNOME ডেস্কটপ থেকে CD/DVD বার্ন করার একটি অ্যাপ্লিকেশন। এটিকে যতাসম্ভব সহজ ভাবে তৈরি করা হয়েছে এবং এতে এমন কিছু বিশেষ বৈশিষ্ট্য রয়েছৈ যার সাহায্যে ব্যবহারকারীরা সহজেই এবং দ্রুত তাদের ডিস্ক তৈরি করে নিতে পারবেন।</p>
+    <p>Brasero, ডেটা এবং অডিও CD/DVD তৈরি করতে, অনুলিপি করতে এবং বার্ন করতে পারবে। এটি সম্পূর্ণ ভাবেCD-TEXT, মাল্টিসেশন এবং জোলিয়েট এক্সটেনশন সমর্থন করে। ফাইল ডিস্কে বার্ন করতে অাপনি তাদের সহজেই অন্য স্থানীয় অ্যাপ্লিকেশন বা দূরবর্তী ভাগ করা ড্রাইভ থেকে টেনে নিয়ে এসে রাখতে পারবেন।</p>
+  </description>
+  <description lang="bs">
+    <p>Brasero je aplikacija za prženje CD/DVD za GNOME Desktop. Dizajnirana je da bude što jednostavnija moguće i ima neke specifične  osobine koje omogućavaju korisnicima da kreiraju svoje diskove brzo i jednstavno.</p>
+    <p>Brasero može kreirati, kopirati i pržiti Data i Audio SD/DVD. Potpuno podržava CD-TEXT, multipristup i joilet ekstenzije. Možete brzo dovući i spustiti vaš fajl iz drugih lokalnih aplikacija ili priključenih uređaja.</p>
+  </description>
+  <description lang="ca">
+    <p>El Brasero és una aplicació per a enregistrar CD/DVD per a l'escriptori GNOME. Està dissenyat per a ser senzill i té característiques úniques per a permetre als usuaris crear discos de forma ràpida i senzilla.</p>
+    <p>El Brasero pot crear, copiar i enregistrar CD/DVD de dades i d'àudio. És compatible amb CD-TEXT, multisessió i extensions joliet. Podeu enregistrar els discos arrossegant i deixant anar fitxers des d'altres aplicacions o dispositius remots compartits.</p>
+  </description>
+  <description lang="ca@valencia">
+    <p>El Brasero és una aplicació per gravar CD/DVD per a l'escriptori GNOME. Està dissenyat per ser senzill i té característiques úniques per permetre als usuaris crear discos de forma ràpida i senzilla.</p>
+    <p>El Brasero pot crear, copiar i gravar CD/DVD de dades i d'àudio. És compatible amb CD-TEXT, multisessió i extensions joliet. Podeu gravar els discos arrossegant i deixant anar fitxers des d'altres aplicacions o dispositius remots compartits.</p>
+  </description>
+  <description lang="cs">
+    <p>Brasero je aplikace pro pracovní prostředí GNOME sloužící k vypalování CD/DVD. Je nevržena tak, aby byla co nejjednodušší a má některé jedinečné funkce, díky nimž mohou uživatelé své disky vytvářet snadno a rychle.</p>
+    <p>Brasero umí vytvářet, kopírovat a vypalovat datové a zvukové CD/DVD. Plně podporuje rozšíření CD-TEXT, multisession a joliet. Když chcete vypálit soubory, stačí je prostě přetáhnout z místní aplikace nebo vzdáleného sdíleného úložiště na disk.</p>
+  </description>
+  <description lang="da">
+    <p>Brasero er et program til GNOME-skrivebordet til at brænde cd'er og dvd'er med. Det er designet til at være så simpelt som muligt og har nogle unikke funktioner, som gør brugeren i stand til at lave deres diske nemt og hurtigt.</p>
+    <p>Brasero kan oprette, kopiere og brænde data- og lyd-cd'er. Det understøtter fuldt ud udvidelserne CD-TEXT, multisession og joliet. Du kan blot trække og slippe filer fra andre programmer eller fra fjerne delte mapper for nemt at brænde dem til en disk.</p>
+  </description>
+  <description lang="de">
+    <p>Brasero ist eine Anwendung für den GNOME-Arbeitsplatz, um CDs oder DVDs zu brennen. Es ist möglichst einfach gestaltet und beinhaltet einige einzigartige Funktionen, so dass Anwender ihre Datenträger einfach und schnell erstellen können.</p>
+    <p>Brasero kann Daten- und Audio-CDs/DVDs erstellen, kopieren und brennen. CD-TEXT, Multisession und Joliet werden vollständig unterstützt. Sie können Dateien durch ziehen und ablegen einfach von anderen lokalen Anwendungen oder von entfernt freigegebenen Laufwerken auf Datenträger brennen.</p>
+  </description>
+  <description lang="el">
+    <p>Το Brasero είναι μια εφαρμογή για εγγραφή CD/DVD για το GNOME. Είναι σχεδιασμένη ώστε να είναι όσο το δυνατό απλή και έχει μερικές μοναδικές λειτουργίες ώστε να δώσει τη δυνατότητα στους χρήστες να δημιουργήσουν τους δικούς τους δίσκους εύκολα και γρήγορα.</p>
+    <p>Με το Brasero μπορείτε να δημιουργήσετε, αντιγράψετε και να εγγράψετε CD/DVD με δεδομένα και ήχο. Υποστηρίζει πλήρως τα πρόσθετα CD-TEXT, multisession και joliet. Μπορείτε απλά να σύρετε και αποθέστε αρχεία από άλλες τοπικές εφαρμογές ή από απομακρυσμένους κοινόχρηστους δίσκους και να τα εγγράψετε σε ένα δίσκο.</p>
+  </description>
+  <description lang="en_GB">
+    <p>Brasero is a application to burn CD/DVD for the GNOME Desktop. It is designed to be as simple as possible and has some unique features to enable users to create their discs easily and quickly.</p>
+    <p>Brasero can create, copy and burn Data and Audio CD/DVDs. It fully supports CD-TEXT, multisession and joliet extensions. You can simply drag and drop files from other local applications or from remote shared drives to easily burn them to a disc.</p>
+  </description>
+  <description lang="eo">
+    <p>Brasero estas programo por registri KD-ojn aŭ DVD-ojn por la GNOME-Labortablo. Ĝi estas fasonita por esti tre simpla kaj enhavas unikajn funkciojn por ebligi al uzantoj krei iliajn diskojn facile kaj rapide.</p>
+    <p>Brasero povas krei, kopii kaj registri datumojn kaj sonojn en KD/DVDj. Ĝi plene subtenas na CD-TEXT, etendaĵojn de Joliet kaj plurseancon. Vi povas simple ŝovi kaj demeti dosierojn de aliaj lokaj programoj aŭ el foraj kunhavaj aparatoj por facile registri ilin al diskon.</p>
+  </description>
+  <description lang="es">
+    <p>Brasero es una aplicación para grabar CD/DVD para el escritorio GNOME. Está diseñada para tan sencilla como sea posible y tiene algunas características únicas para que los usuarios puedan crear sus discos fácil y rápidamente.</p>
+    <p>Brasero puede crear, copiar y grabar CD/DVD de sonido y de datos. Soporta CD-TEXT por completo, extensiones joliet y multisesión. Puede arrastrar y soltar archivos desde otras aplicaciones locales o desde unidades remotas compartidas para grabarlos fácilmente a un disco.</p>
+  </description>
+  <description lang="et">
+    <p>Brasero on CD ja DVD plaatide kirjutamise rakendus GNOME töölaual. See on tehtud nii lihtsaks kui võimalik ning sisaldab mõningaid unikaalseid võimalusi, tänu millele on plaatide kirjutamine lihtne ja kiire.</p>
+    <p>Braseroga saab luua, kopeerida ja kirjutada andme- ja audio CD ja DVD plaate. See toetab CD-TEXT vormingut, multisessioone ning jolieti laiendusi. Paatide kirjutamiseks võid lohistada faile kaustadest, teistest rakendustest või kaugketastelt, et need mugavalt plaadile kirjutada.</p>
+  </description>
+  <description lang="eu">
+    <p>Brasero CDak/DVDak grabatzeko GNOME mahaigaineko aplikazio bat da. Ahalik eta xumeena izateko diseinatua izan da, eta eginbide paregabe batzuk ditu erabiltzaileek beraien diskoak modu errazean eta azkar sortzeko.</p>
+    <p>Braserok datuen eta audio formatuko CDak/DVDak sor ditzake. CD-TEXT, saio-anitzak eta Joliet luzapenak osotasunez onartzen ditu. Arrastatu eta jaregin fitxategiak lokaleko beste aplikazio batzuetatik, edo urruneko partekatutako unitateetatik haiek diskoan grabatzeko.</p>
+  </description>
+  <description lang="fa">
+    <p>برازرو برنامه‌ای برای نوشتن سی‌دی/دی‌وی‌دی در میزکار گنوم است. این برنامه برای این طراحی شده است که تا جای ممکن ساده باشد و دارای برخی امکانات منحصر به فرد است تا به کاربران امکان ایجاد آسان و سریع دیسک‌هایشان را بدهد.</p>
+    <p>برازرو می‌تواند سی‌دی/دی‌وی‌دی‌های صوتی و داده‌ را ایجاد کند، از آن‌ها نسخه‌برداری کند و یا در آن‌ها بنویسد. این برنامه به صورت کامل از پسوندهای multisession، CD-TEXT و joliet پشتیبانی می‌کند. شما به سادگی میتوانید پرونده‌ها را از برنامه‌های محلی دیگر یا از دیسک‌گردان‌های اشتراکی دوردست بکشید و رها کنید تا به آسانی آنها را روی یک دیسک بنویسید.</p>
+  </description>
+  <description lang="fi">
+    <p>Brasero on CD- ja DVD-levyjen polttoon tarkoitettu Gnome-sovellus. Se on suunniteltu mahdollisimman yksinkertaiseksi, mutta samalla se tarjoaa ainutlaatuisia ominaisuuksia, joiden avulla levyjen luominen käy ketterästi.</p>
+    <p>Braseron avulla voi luoda, kopioida ja polttaa data- ja ääni-CD- sekä -DVD-levyjä. Tuettuja ominaisuuksia ovat muun muassa CD-TEXT, moni-istunto ja joliet-laajennukset. Tiedostojen lisääminen poltettavalle levylle käy muista sovelluksista vetämällä ja pudottamalla tiedostoja.</p>
+  </description>
+  <description lang="fr">
+    <p>Brasero est une application pour l’environnement GNOME qui grave des CD/DVD. Elle est conçue pour être aussi simple que possible et possède des fonctionnalités uniques pour permettre aux utilisateurs de créer leurs disques facilement et rapidement.</p>
+    <p>Brasero peut créer, copier et graver des CD/DVD de données et de fichiers audio. Il prend complètement en charge les extensions CD-TEXT, multisession et joliet. Vous pouvez simplement glisser et déposer des fichiers d’autres applications locales ou provenant de disques partagés distants pour les graver facilement sur un disque.</p>
+  </description>
+  <description lang="fur">
+    <p>Brasero e je une aplicazion pal scritori GNOME che e covente par incidi CD/DVD. E je pensade par jessi semplice di doprâ e e je furnide di funzionalitâts che a judin e a sveltissin la creazion dai discs.</p>
+    <p>Brasero al pues creâ, copiâ e incidi CD/DVD musicâi e di dâts. Al supuarte a plen lis estensions CD-TEXT, multisession e joilet. Par scriviju tu puedis semplicementri strissinâ i files di une altre aplicazion locâl o di une unitât lontane condividude.</p>
+  </description>
+  <description lang="gd">
+    <p>’S e aplacaid an deasga GNOME a th’ ann am Brasero gus CD/DVD a losgadh. Chaidh a dhealbhachadh ach am biodh e cho furasta cleachdadh ’s a ghabhas agus tha gleusan àraidh ’na lùib leis an urrainn dhut na diosgan agad a chruthachadh gu furasta ’s gu luath.</p>
+    <p>Tha comas aig Brasero air CD/DVDan dàta no fuaime a chruthachadh, lethbhreacan dhiubh a dhèanamh ’s an losgadh. Cuiridh e làn-taic ris na leudachain CD-TEXT, multisession agus joliet. Cha leig thu leas ach dàta a shlaodadh ’s a leigeil às o dh’aplacaid ionadail eile no o dhraibhean cèine co-roinnte gus an losgadh air diosga.</p>
+  </description>
+  <description lang="gl">
+    <p>Brasero é unha aplicación de gravación de CD/DVD para o escritorio GNOME. Está deseñado para ser tan simple como sexa posíbel e ten algunhas características únicas que lle permiten aos usuarios crear os seus propios discos de forma doada e rápida.</p>
+    <p>Brasero pode crear, copiar e gravar CDs ou DVDs de datos ou son. Admite perfectamente as extensións de CD-TEXT, multisesión e joliet. Pode arrastrar e soltar ficheiros desde outras aplicacións locais ou desde unidades compartidas remotas para gravalos nun disco.</p>
+  </description>
+  <description lang="gu">
+    <p>Brasero એ GNOME ડેસ્કટોપ માટે CD/DVD બર્ન કરવા માટેનો કાર્યક્રમ છે. તે શક્ય હોય તેટલું સરળ બનાવવા માટે રચાયેલ છે અને તેની ડિસ્કને સરળ અને ઝડપી બનાવવા માટે વપરાશકર્તાઓને સક્રિય કરવા માટે અમુક અનન્ય લક્ષણો છે.</p>
+    <p>Brasero એ માહિતી અને ઓડિયો CD/DVDs ને બનાવી, નકલ અને બર્ન કરી શકે છે, તે સંપૂર્ણપણે CD-TEXT, ઘણાં સત્ર અને જોલીયેટ ઍક્સટેન્શનને આધાર આપે છે. તમે ડિસ્કમાં તેઓને સરળતાથી બર્ન કરવા માટે દૂરસ્થ વહેંચાયેલ ડ્રાઇવમાંથી અથવા બીજા સ્થાનિક કાર્યક્રમોમાંથી ફાઇલોને ડ્રેગ અને ડ્રોપ કરી શકે છે.</p>
+  </description>
+  <description lang="he">
+    <p>‏Brasero הוא יישום לצריבת תקליטורים עבור שולחן העבודה GNOME. הוא מעוצב להיות פשוט ככל האפשר והוא מגיע עם כמה תכונות ייחודיות כדי לאפשר למשתמש ליצור את התקליטורים שלו בקלות ובמהירות.</p>
+    <p>‏Brasero יכול ליצור, להעתיק ולצרוב נתונים ושמע על גבי תקליטורים. הוא תומך באופן מלא בהרחבות CD-TEXT, צריבת מידע בכמה שלבים ו־Joliet. ניתן פשוט לגרור ולשחרר קבצים מיישומים מקומיים אחרים או מכונן שיתופי מרוחק כדי לצרוב אותם בקלות לתקליטור.</p>
+  </description>
+  <description lang="hi">
+    <p>ब्रसेरो गनोम डेस्कटॉप के लिए CD/DVD लिखने के लिए अनुप्रयोग है. इसे सरलतम रहने के लिए डिज़ायन किया है और उपयोक्ता को सक्रिय करने के लिए कुछ अनूठी विशेषताएँ रखता है ताकि उन डिस्क को आसानी से और तेजी से बनाया जा सके.</p>
+    <p>ब्रसेरो डाटा और CD/DVD का निर्माण, नक़ल और लिख सकता है. यह पूरी तरह से CD-TEXT, मल्टीस्क्रीन और ज्वाइलेट विस्तार का समर्थन करता है. आप अन्य स्थानीय अनुप्रयोग से फ़ाइल को खींच कर ला सकते हैं या दूरस्थ साझा ड्राइव से डिस्क में लिख सकते हैं.</p>
+  </description>
+  <description lang="hr">
+    <p>Brasero je aplikacija za CD/DVD snimanje u GNOME radnom okruženju. Dizajnirana je kako bi bila što jednostavnija i ima neke jedinstvene značajke koje omogućuju korisnicima stvaranje njihovih diskova jednostavno i brzo.</p>
+    <p>Brasero može stvarati, kopirati i snimati podatkovne i glazbene CD/DVD-e. U potpunosti podržava CD-TEXT, višesesijska i joliet proširenja. Jednostavno možete povući i ispustiti datoteke s drugih lokalnih aplikacija ili s udaljenog dijeljenog uređaja kako bi ih jednostavno snimili na disk.</p>
+  </description>
+  <description lang="hu">
+    <p>A Brasero egy GNOME asztali környezethez készült CD/DVD író alkalmazás. Az alkalmazást minél egyszerűbben használhatónak tervezték, de mégis rendelkezik egyedi jellemzőkkel, amelyekkel a felhasználók egyszerűen és gyorsan hozhatnak létre lemezeket.</p>
+    <p>A Braseroval létrehozhat, másolhat és kiírhat adat és hang CD-ket vagy DVD-ket. Az alkalmazás teljesen támogatja a CD-TEXT, többmenetes és Joliet kiterjesztéseket. Más alkalmazásokból vagy megosztott távoli meghajtókról egyszerűen áthúzhat fájlokat, majd ezeket egyszerűen lemezre írhatja.</p>
+  </description>
+  <description lang="id">
+    <p>Brasero adalah aplikasi untuk membakar CD/DVD bagi Desktop GNOME. Ini dirancang agar sesederhana mungkin dan memiliki beberapa fitur unik yang memungkinkan pengguna membuat cakram mereka dengan mudah dan cepat.</p>
+    <p>Brasero dapat membuat, menyalin, dan membakar CD/DVD Data dan Audio. Ini mendukung ekstensi joliet, multi sesi, dan CD-TEXT sepenuhnya. Anda bisa sekedar menyeret dan menjatuhkan berkas dari aplikasi lokal lain atau dari kandar bersama jarak jauh untuk membakar mereka ke cakram dengan mudah.</p>
+  </description>
+  <description lang="it">
+    <p>Brasero è un'applicazione per masterizzare CD/DVD. È progettato per essere semplice da usare ed è dotato di funzionalità che facilitano e velocizzano la creazione dei dischi.</p>
+    <p>Con Brasero è possibile creare, copiare e masterizzare CD/DVD audio e musicali, supporta le estensioni CD-TEXT, multi-sessione e joliet ed è possibile trascinare i file da applicazioni locali o da unità remote per copiarli facilmente su un disco.</p>
+  </description>
+  <description lang="ja">
+    <p>Brasero は CD/DVD を作成する GNOME デスクトップ向けアプリケーションです。Brasero はできる限りシンプルにデザインされ、ユニークな機能も搭載しており、素早く簡単にディスクを作成できます。</p>
+    <p>Brasero はデータや音楽の CD/DVD のコピーおよび書き込みができます。また、CD-TEXT や、マルチセッション、Joliet 拡張規格にも対応しています。他のアプリケーションやリモートの共有ドライブからファイルをドラッグ・アンド・ドロップするだけでて、簡単にディスクを作成できます。</p>
+  </description>
+  <description lang="kk">
+    <p>Brasero — GNOME үстеліне арналған CD/DVD-ді жазуға арналған қолданба. Ол барынша қарапайым болуға арналған және пайдаланушыларға дискілерді оңай және жылдам жасауға мүмкіндік беретін кейбір бірегей мүмкіндіктері бар.</p>
+  </description>
+  <description lang="kn">
+    <p>Brasero ಎನ್ನುವುದು GNOME Desktop ಗಾಗಿ CD/DVD ಅನ್ನು ಬರೆಯುವ ತಂತ್ರಾಂಶವಾಗಿದೆ. ಇದನ್ನು ಎಷ್ಟು ಸರಳವಾಗಿರಿಸಲು ಸಾಧ್ಯವೊ ಅಷ್ಟು ಸರಳವಾಗಿಸಲಾಗಿದೆ ಮತ್ತು ಬಳಕೆದಾರರು ತಮ್ಮ ಡಿಸ್ಕ್‌ಗಳನ್ನು ಸುಲಭವಾಗಿ ಮತ್ತು ಕ್ಷಿಪ್ರವಾಗಿ ರಚಿಸಲು ಕೆಲವು ವಿಶಿಷ್ಟವಾದ ಸೌಲಭ್ಯಗಳನ್ನು ಹೊಂದಿದೆ.</p>
+    <p>Brasero ಎನ್ನುವುದು ದತ್ತಾಂಶ ಮತ್ತು ಆಡಿಯೊ CD/DVDಯನ್ನು ರಚಿಸಲು, ಪ್ರತಿ ಮಾಡಲು ಮತ್ತು ಬರೆಯಲು ಬಳಸಲಾಗುತ್ತದೆ. ಇದು ಸಂಪೂರ್ಣವಾಗಿ CD-TEXT, ಮಲ್ಟಿಸೆಶನ್ ಮತ್ತು ಜೋಲಿಯೆಟ್ ವಿಸ್ತರಣೆಗಳನ್ನು ಬೆಂಬಲಿಸುತ್ತದೆ. ನೀವು ಬೇರೆ ಸ್ಥಳೀಯ ಅನ್ವಯಗಳಿಂದ ಕಡತಗಳನ್ನು ಎಳೆದು ಸೇರಿಸಲು ಅಥವ ದೂರದಿಂದಲೆ ಹಂಚಲಾದ ಡ್ರೈವ್‌ಗಳಿಂದ ಸುಲಭವಾಗಿ ಡಿಸ್ಕಿಗೆ ಬರೆಯಲು ಸಾಧ್ಯವಿರುತ್ತದೆ.</p>
+  </description>
+  <description lang="ko">
+    <p>브라세로는 그놈 데스크톱의 CD/DVD 굽기 프로그램입니다. 이 프로그램은 가능한 간단히 설계되었고, 쉽고 빠르고 CD/DVD를 만들 수 있는 독창적인 기능이 들어 있습니다.</p>
+    <p>브라세로에서 데이터 및 오디오 CD를 만들고, 복사하고, 구울 수 있습니다. CD-TEXT, 멀티세션, 졸리엣 확장을 완전히 지원합니다. 로컬 프로그램이나 원격 공유 드라이브에서도 파일을 끌어서 디스크로 구울 수 있습니다.</p>
+  </description>
+  <description lang="lt">
+    <p>Brasero yra GNOME darbalaukio programa CD/DVD kūrimui. Ji sukurta taip, kad būtų kuo paprastesnė, ir turi išskirtinių savybių, leidžiančių naudotojams paprastai ir greitai sukurti diskus.</p>
+    <p>Brasero gali sukurti, kopijuoti bei įrašyti duomenų ir garso CD/DVD. Jis pilnai palaiko CD-TEXT, daugeli seansų ir joliet plėtinius. Galite tiesiog atitempti failus iš kitų programų ar nutolusių viešinamų diskų jų įrašymui į diską.</p>
+  </description>
+  <description lang="lv">
+    <p>Brasero ir CD/DVD rakstīšanas lietotne GNOME darbvirsmai. Tā ir veidota, lai būtu pēc iespējas vienkāršāka un tai ir arī unikālas iespējas, kas ļauj lietotājam izveidot diskus ātri un vienkārši.</p>
+    <p>Brasero var izveidot, kopēt un ierakstīt datu un audio CD/DVD. Tas pilnībā atbalsta CD-TEXT, multisesiju un joliet paplašinājumus. Jūs varat vienkārši vilkt un nomest datnes no citām lietotnēm vai no attālinātiem koplietojuma diskiem, lai tos viegli ierakstītu diskā.</p>
+  </description>
+  <description lang="ml">
+    <p>ഗ്നോം പണിയിടത്തില്‍ സിഡി/ഡിവിഡിയിലേക്ക് പകര്‍ത്തുന്നതിനുള്ള ഒരു പ്രയോഗമാണു് ബ്രസേറോ.ഉപയോക്താക്കള്‍ക്ക് എളുപ്പത്തില്‍ ഡിസ്കുകള്‍ തയ്യാറാക്കുന്നതിനുള്ള വിശേഷതകള്‍ ഇതു് സജ്ജമാക്കുന്നു.</p>
+    <p>ഡേറ്റാ, ഓഡിയോ സിഡി/വിസിഡികളിലേക്ക് പകര്‍ത്തുന്നതിന് ബ്രസേറോ സഹായിയ്ക്കുന്നു.CD-TEXT, മള്‍ട്ടിസെഷന്‍, joliet എക്സ്റ്റന്‍ഷനുകള്‍ ഇതു് പൂര്‍ണ്ണമായും പിന്തുണയ്ക്കുന്നു. പ്രദേശിക പ്രയോഗങ്ങളില്‍നിന്നോ പങ്കിട്ട വിദൂര ഡ്രൈവുകളില്‍ നിന്നോ നിങ്ങള്‍ക്കു് ഫയലുകള്‍ ഡിസ്കിലേക്ക് വലിച്ചിട്ട് ഇതിലേക്ക് പകര്‍ത്താം</p>
+  </description>
+  <description lang="mr">
+    <p>ब्रसेरो GNOME डेस्कटॉपवरील सीडी किंवा डीवीडी बर्ण करण्यासाठी एक ॲप्लिकेशन आहे. त्याची रचना खूप सोपी असून त्यामध्ये काही डिस्क्स पटकन आणि जलद गतीने निर्माण करण्यासाठी एकमेव गुणविशेष समाविष्ट केले आहे.</p>
+    <p>ब्रसेरो डाटा आणि ऑडिओ सीडी किंवा डीवीडीचे निर्माण, प्रत बनवणे आणि बर्ण करते. ते पूर्णतया सीडी-टेक्स्ट, बहुसत्र आणि जॉलिएट एक्सटेंशन्सकरिता समर्थन पुरवते. तुम्ही इतर स्थानीय ॲप्लिकेशन्सपासून किंवा इतर दूरस्त शेअर्ड ड्राइव्हजपासून फाइल्सला डिस्कवर बर्ण करण्यासाठी, सहज ओढून टाकू शकता.</p>
+  </description>
+  <description lang="ms">
+    <p>Brasero adalah aplikasi untuk menulis CD / DVD untuk Atas Meja GNOME. Ia direka untuk menjadi semudah mungkin dan mempunyai beberapa fitur unik yang membolehkan pengguna mencipta cakera mereka dengan mudah dan cepat.</p>
+    <p>Brasero boleh membuat, menyalin dan menulis Data dan Audio CD/DVD. Ia menyokong sepenuhnya CD-TEXT, sesi berbilang dan sambungan Joliet. Anda boleh seret dan lepas fail-fail dari aplikasi lain atau melalui perkongsian pemacu jauh supaya dapat menulis ke dalam cakera dengan mudah.</p>
+  </description>
+  <description lang="nb">
+    <p>Brasero er et program for GNOME-skrivebordet som skriver CD- og DVD-plater. Det er laget for å være så lettvint som mulig, og lar deg lage plater lett og raskt.</p>
+    <p>Brasero kan lage, kopiere og skrive data- og lyd-CDer/DVDer. Det støtter CD-TEXT-, multisesjon- og joliet-utvidelsene. Du kan dra og slippe filer fra andre lokale programmer eller fra eksterne delte stasjoner for å skrive dem til en plate på en enkel måte.</p>
+  </description>
+  <description lang="ne">
+    <p>ब्रासेरो जीनोम डेस्कटपको लागि CD / DVD जलाउन एक अनुप्रयोग हो। यो सकेसम्म सरल बनाउनको लागि डिजाइन गरिएको हो र प्रयोगकर्ताहरूलाई सजिलै र चाँडै उनीहरूको डिस्कहरू सिर्जना गर्न सक्षम गर्न केही अद्वितीय सुविधाहरू छन्।.</p>
+    <p>ब्रासेरोले डाटा र ध्वनि सीडी / डीभीडीहरू सिर्जना गर्न, प्रतिलिपि गर्न र जलाउन सक्छ। यसले पूर्ण रूपमा CD-TEXT, मल्टिसेसन र joliet विस्तारलाई समर्थन गर्दछ। तपाईं सजिलैसँग अन्य स्थानीय अनुप्रयोगहरू वा रिमोट सेयर ड्राइभबाट फाइलहरू तान्न र ड्रप गर्न सक्नुहुनेछ तिनीहरूलाई सजिलैसँग डिस्कमा बर्नको लागि।.</p>
+  </description>
+  <description lang="nl">
+    <p>Brasero is een toepassing voor het branden van cd's/dvd's voor de Gnome-werkomgeving. Het is ontworpen om zo eenvoudig mogelijk te zijn en heeft een aantal unieke functies waardoor gebruikers gemakkelijk en snel schijven kunnen aanmaken.</p>
+    <p>Met Brasero kunt u data- en audiocd's/dvd's aanmaken, kopiëren en branden. CD-TEXT, multisessie en jolietextensies worden volledig ondersteund. U kunt op eenvoudige wijze bestanden van andere lokale toepassingen of van externe gedeelde stations naar een schijf branden via slepen en neerzetten.</p>
+  </description>
+  <description lang="oc">
+    <p>Brasero es una aplicacion per l'environament GNOME que grava de CD/DVD. Es concebuda per èsser tant simpla coma possible e possedís de foncionalitats unicas per permetre als utilizaires de crear lors disques aisidament e rapidament.</p>
+    <p>Brasero pòt crear, copiar e gravar de CD/DVD de donadas e de fichièrs àudio. Pren completament en carga las extensions CD-TEXT, multisession e joliet. Podètz simplament lisar e depausar de fichièrs d'autras aplicacions localas o que provenon de disques partejats distants per las gravar aisidament sus un disc.</p>
+  </description>
+  <description lang="or">
+    <p>Brasero ହେଉଛିGNOME ଡେସ୍କଟପ ପାଇଁ  CD/DVD ଲେଖିବା ପାଇଁ ଉଦ୍ଦିଷ୍ଟ ପ୍ରୟୋଗ। ଏହାକୁ ଯେତେ ସମ୍ଭବ ସରଳ କରିବା ପାଇଁ ରଚନା କରାଯାଇଥାଏ ଏବଂ ଏଥିରେ କିଛି ଅନନ୍ୟ ବିଶେଷ୍ୟତା ରହିଛି ଯାହାକି ବ୍ୟବହାରକାରୀଙ୍କୁ ସେମାନଙ୍କର ଡିସ୍କଗୁଡ଼ିକୁ ସହଜରେ ଏବଂ ଶିଘ୍ର ନିର୍ମାଣ କରିବା ପାଇଁ ସକ୍ରିୟ କରାଯାଇଛି।</p>
+    <p>Brasero ତଥ୍ୟ ଏବଂ ଧ୍ୱନି CD/DVDs ନିର୍ମାଣ, ନକଲ ଏବଂ ଲିଖନ କରିପାରିବ। ଏହା ସମ୍ପୂର୍ଣ୍ଣ ଭାବରେ CD-TEXT, ଏକାଧିକ ଅଧିବେଶନ ଏବଂ ଜଲିଏଟ ଅନୁଲଗ୍ନଗୁଡ଼ିକୁ ସହାୟତା କରିଥାଏ। ଆପଣ ଅନ୍ୟ ସ୍ଥାନୀୟ ପ୍ରୟୋଗଗୁଡ଼ିକରୁ କିମ୍ବା ସୁଦୂର ସହଭାଗୀ ଡ୍ରାଇଭରଗୁଡ଼ିକରୁ ସହଜରେ ଡିସ୍କରେ ଲେଖିବା ପାଇଁ ଟାଣିକରି ପକାଇ ପାରିବେ।</p>
+  </description>
+  <description lang="pa">
+    <p>ਬਰਾਸੀਰੋ ਗਨੋਮ ਡੈਸਕਟਾਪ ਲਈ ਸੀਡੀ/ਡੀਵੀਡੀ ਲਿਖਣ ਲਈ ਐਪਲੀਕੇਸ਼ਨ ਹੈ। ਇਹ ਜਿੰਨਾ ਵੀ ਸੰਭਵ ਹੋ ਸਕਦੇ, ਸੌਖੇ ਰੂਪ ਵਿੱਚ ਤਿਆਰ ਕੀਤੀ ਗਈ ਹੈ ਅਤੇ ਇਸ ਦੇ ਕੁਝ ਵਿਲੱਖਣ ਲੱਛਣ ਵਰਤੋਂਕਾਰ ਨੂੰ ਉਹਨਾਂ ਦੀਆਂ ਡਿਸਕਾਂ ਸੌਖੀ ਤੇ ਤੁਰੰਤ ਬਣਾਉਣ ਲਈ ਸਹਾਇਕ ਹਨ।</p>
+    <p>ਬਰਾਸੀਰੋ ਡਾਟਾ ਤੇ ਆਡੀਓ ਸੀਡੀ/ਡੀਵੀਡੀ ਬਣਾਉ, ਕਾਪੀ ਕਰ ਸਕਦਾ ਹੈ। ਇਹ CD-TEXT, ਮਲਟੀਸ਼ੈਸ਼ਨ ਅਤੇ ਜੋਲਿਟ ਇਕਸੈਟੈਂਸ਼ਨ ਲਈ ਪੂਰੀ ਤਰ੍ਹਾਂ ਸਹਾਇਕ ਹੈ। ਤੁਸੀਂ ਕਿਸੇ ਵੀ ਲੋਕਲ ਐਪਲੀਸ਼ੇਨ ਤੋਂ ਰਿਮੋਟ ਤੋਂ ਸਾਂਝੀ ਡਰਾਇਵ ਤੋਂ ਡਿਸਕ ਉੱਤੇ ਲਿਖਣ ਲਈ ਫਾਇਲਾਂ ਨੂੰ ਖਿੱਚ ਕੇ ਵਿੱਚ ਪਾ ਸਕਦੇ ਹੋ।</p>
+  </description>
+  <description lang="pl">
+    <p>Brasero to program do nagrywania płyt CD/DVD dla środowiska GNOME. Został stworzony z myślą o jak największej prostocie, a jego unikalne funkcje umożliwiają użytkownikowi nagrywanie płyt w łatwy i szybki sposób.</p>
+    <p>Za pomocą programu Brasero można tworzyć, kopiować i nagrywać płyty CD/DVD z danymi lub dźwiękiem. Ma on również pełną obsługę CD-Text, nagrywania wielosesyjnego oraz systemu Joliet. Aby nagrać pliki na płytę, wystarczy tylko przeciągnąć je z innego programu lub zdalnego dysku.</p>
+  </description>
+  <description lang="pt">
+    <p>O Brasero é uma aplicação do Ambiente de trabalho GNOME para gravar CD/DVDs. Esta foi criada para ser o mais simples possível e tem algumas funcionalidades únicas que permitem aos utilizadores criar os seus discos facilmente e rapidamente.</p>
+    <p>O Brasero pode criar, copiar e gravar CDs ou DVDs de dados ou áudio. Este suporta CD-TEXT, sessão múltipla e extensões ''joliet''. Pode simplesmente arrastar e largar os ficheiros de outras aplicações locais ou de discos remotos partilhados e gravá-los num disco.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>O Brasero é um aplicativo para gravação de CDs/DVDs para a área de trabalho GNOME. Ele foi projetado para ser o mais simples quanto possível e possui alguns recursos únicos que permitem aos usuários criarem facilmente e com rapidez seus discos.</p>
+    <p>O Brasero pode criar, copiar e gravar CDs/DVDs de dados e áudio. Possui suporte completo a CD-TEXT, multissessão e extensões joliet. Você pode simplesmente arrastar e soltar arquivos de outros aplicativos locais ou de unidades remotas compartilhadas para facilmente gravá-los em um disco.</p>
+  </description>
+  <description lang="ro">
+    <p>Brasero este o aplicație pentru scrierea de CD-uri/DVD-uri pentru mediul desktop GNOME. Este conceput să fie cât de simplu posibil și are unele funcționlaități unice ce le permit utilizatorilor să-și creeze discuri într-un mod ușor și rapid.</p>
+    <p>Brasero poate creea, copia și scrie CD-uri/DVD-uri audio și de date. Suportă complet CD-TEXT, multisesiuni și extensii joliet. Puteți să glisați și să plasați fișiere din alte aplicații sau de pe unități partajate la distanță pentru a le inscripționa pe un disc.</p>
+  </description>
+  <description lang="ru">
+    <p>Brasero — это приложение для записи CD/DVD для GNOME. Brasero имеет простой интерфейс, но в то же время предоставляет ряд уникальных возможностей для быстрой и удобной записи дисков.</p>
+    <p>Brasero позволяет создавать, копировать и записывать CD- и DVD-диски. Он полностью поддерживает CD-TEXT, мультисессии и расширения joliet. Для записи файлов на диск достаточно перетащить файлы из других локальных приложений или из подключённых носителей.</p>
+  </description>
+  <description lang="sk">
+    <p>Brasero je aplikácia na napaľovanie CD a DVD nosičov, určená pre prostredie GNOME. Táto aplikácia sa jednoducho používa a poskytuje zopár jedinečných funkcií, ktoré vám umožnia  jednoducho a rýchlo vytvárať disky.</p>
+    <p>Brasero dokáže vytvárať, kopírovať a napaľovať dátové a Audio CD a DVD nosiče. Plne podporuje rozšírenia CD-TEXT, multisession a joliet. Súbory môžeme jednoducho potiahnuť z iných miestnych aplikácií alebo pripojených vzdialených jednotiek a napáliť ich na disk.</p>
+  </description>
+  <description lang="sl">
+    <p>Brasero je program za zapisovanje nosilcev CD/DVD za namizje GNOME. Zasnovan je kot orodje, ki je enostavno za uporabo. Uporabnikom omogoča hitro in enostavno ustvarjanje in zapisovanje vsebine.</p>
+    <p>Program omogoča ustvarjanje, kopiranje in zapisovanje podatkovnih in zvočnih nosilcev CD in DVD. Omogoča polno podporo besedila CD-TEXT, zapisuje nosilce z več sledmi in z razširitvami joliet. Vsebino enostavno povlečemo in spustimo v programsko okno iz diska ali oddaljenega mesta in datoteke zapišemo..</p>
+  </description>
+  <description lang="sr">
+    <p>Бразеро је програм за резање ЦД/ДВД-а за Гномову радну површ. Осмишљен је да буде што једноставнији и има неке јединствене функције да омогући корисницима да лако и брзо направе своје дискове.</p>
+    <p>Бразеро може да ствара, умножава и нарезује ЦД/ДВД података и звука. У потпуности подржава ЦД-ТЕКСТ, више сесија и жолиет проширења. Можете једноставно да превучете и да убаците датотеке из других месних програма или са удаљених дељених уређаја да бисте их нарезали на диск.</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Brazero je program za rezanje CD/DVD-a za Gnomovu radnu površ. Osmišljen je da bude što jednostavniji i ima neke jedinstvene funkcije da omogući korisnicima da lako i brzo naprave svoje diskove.</p>
+    <p>Brazero može da stvara, umnožava i narezuje CD/DVD podataka i zvuka. U potpunosti podržava CD-TEKST, više sesija i žoliet proširenja. Možete jednostavno da prevučete i da ubacite datoteke iz drugih mesnih programa ili sa udaljenih deljenih uređaja da biste ih narezali na disk.</p>
+  </description>
+  <description lang="sv">
+    <p>Brasero är ett program för att bränna cd/dvd för skrivbordsmiljön GNOME. Det är designat för att vara så enkelt som möjligt och har några unika funktioner som tillåter användare att skapa sina skivor snabbt och enkelt.</p>
+    <p>Brasero kan skapa, kopiera och bränna data- samt ljud-cd/dvd. Det har fullständigt stöd för cd-text, multisessioner och joliet-tillägg. Du kan helt enkelt dra och släppa filer från andra lokala program eller från delade fjärrdiskar för att lätt bränna dem till en skiva.</p>
+  </description>
+  <description lang="ta">
+    <p>பிரேசெரோ என்பது க்னோம் டெஸ்க்டாப்பிற்கான சிடி/டிவிடியை எழுத பயன்படும் ஒரு மென்பொருள் ஆகும். இது முடிந்தவரை எளிமையானதாக வடிவமைக்கப்பட்டுள்ளது மற்றும் பயனர்கள் தங்கள் வட்டுகளை எளிதாகவும் விரைவாகவும் உருவாக்க உதவும் சில தனித்துவமான அம்சங்களைக் கொண்டுள்ளது.</p>
+    <p>பிரேசெரோவால் தரவு மற்றும் கேட்பொலி சிடி/டிவிடிகளை உருவாக்கலாம், நகலெடுக்கலாம் மற்றும் எழுதலாம். இது சிடி-உரை, பன்முக-அமர்வுகள் மற்றும் ஜோலியட் நீட்டிப்புகளை முழுமையாக கையாளும். கோப்புகளை மற்ற பயன்பாடுகளிலிருந்தோ அல்லது தொலை பகிர்வு இயக்ககங்களிலிருந்தோ எளிதாக சிடிக்கு எழுதலாம்.</p>
+  </description>
+  <description lang="te">
+    <p>బ్రాసెరో అనునది గ్నోమ్ డెస్కుటాప్ నందు CD/DVD బర్న్ చేయుటకు అనువర్తనం. ఇది సులువుగా ఉపయోగించుటకు వీలుగా రూపొందించబడింది మరియు వాడుకరులు వారి డిస్కులను సులువుగా త్వరితంగా సృష్టించుటకొనుటకు వీలుగా కొన్ని విశిష్ట విశేషణాలను కలిగివుంది.</p>
+    <p>బ్రాసెరో అనునది డాటా మరియు ఆడియో CD/DVDలను సృష్టించగలదు, నకలుతీయగలదు మరియు బర్న్ చేయగలదు. ఇది CD-TEXT, multisession మరియు joliet పొడిగింతలకు పూర్తిగా తోడ్పాటునిచ్చును. స్థానిక అనువర్తనాలనుండి లేదా రిమోట్ భాగస్వామ్య డ్రైవులనుండి ఫైళ్ళను తెచ్చి ఇక్కడ వదులుటద్వారా మీరు వాటిని డిస్కునకు బర్న్ చేయవచ్చు.</p>
+  </description>
+  <description lang="tg">
+    <p>Brasero - ин барнома барои сабт кардани дискҳои CD/DVD дар Мизи кории GNOME мебошад. Он ба тавре тарроҳӣ шудааст, ки то ҳадди имкон оддӣ бошад, ва дорои баъзе хусусиятҳои беназир мебошад, ки ба корбарон эҷодкунии дискҳои онҳоро осон ва фаврӣ месозад.</p>
+    <p>Brasero метавонад дискҳои иттилоотӣ ва аудиоии CD/DVD-ро эҷод, нусхабардорӣ ва сабт намояд. Он пасвандҳои CD-TEXT, multisession ва joliet-ро пурра дастгирӣ мекунад. Шумо метавонед файлҳоро аз барномаҳои дигари маҳаллӣ ё аз дискҳои дурдасти муштарак ба таври оддӣ кашида баред, то ин ки онҳоро ба осонӣ ба диск сабт кунед.</p>
+  </description>
+  <description lang="th">
+    <p>Brasero เป็นโปรแกรมเขียน CD/DVD สำหรับเดสก์ท็อป GNOME ถูกออกแบบมาให้เรียบง่ายเท่าที่จะเรียบง่ายได้ และมีคุณสมบัติเฉพาะตัวบางอย่างให้ผู้ใช้สร้างแผ่นได้ง่ายและรวดเร็ว</p>
+    <p>Brasero สามารถสร้าง, คัดลอก และเขียนซีดี/ดีวีดีข้อมูล และซีดี/ดีวีดีเพลงได้ รองรับ CD-TEXT, มัลติเซสชัน และส่วนขยาย Joliet เต็มรูปแบบ คุณสามารถเพียงแค่ลากวางแฟ้มจากโปรแกรมอื่นในเครื่อง หรือจากไดรว์ที่ใช้ร่วมกันในเครือข่าย เพื่อเขียนลงแผ่นได้อย่างง่ายดาย</p>
+  </description>
+  <description lang="tr">
+    <p>Brasero, GNOME Masaüstü için bir CD/DVD yazma uygulamasıdır. Mümkün olduğunca sade olacak şekilde tasarlanmıştır ve kullanıcıların disklerini kolayca ve hızlı bir şekilde oluşturmalarına olanak tanıyan bazı özgün özelliklere sahiptir.</p>
+    <p>Brasero Veri ve Ses CD/DVD'lerini oluşturabilir, kopyalayabilir ve diske yazabilir. CD-TEXT, çoklu oturum ve joliet uzantılarına tam destek sunar. Diğer yerel uygulamalardan ya da paylaşılan uzak sürücülerden dosyaları sürükleyip bırakarak, kolayca diske yazabilirsiniz.</p>
+  </description>
+  <description lang="uk">
+    <p>Brasero — програма для записування CD/DVD у стільничному середовищі GNOME. Вона розроблена, щоб бути якнайпростішою, та має кілька особливостей для створення дисків просто й швидко.</p>
+    <p>Brasero може створювати, копіювати та записувати музичні CD/DVD або з даними. Повне підтримування CD-TEXT, кілька сеансів і розширення Joliet. Можете перетягувати файли з інших локальних програм або з віддалених ресурсів, щоб легко записувати їх на диск.</p>
+  </description>
+  <description lang="vi">
+    <p>Brasero là ứng dụng để ghi đĩa CD/DVD trên môi trường máy tính để bàn GNOME. Nó được thiết kế theo kiểu càng đơn giản càng tốt và có một số tính năng độc đáo để giúp cho người dùng có thể tạo đĩa nhanh chóng và dễ dàng.</p>
+    <p>Brasero có thể tạo, chép và ghi đĩa CD/DVD dữ liệu hay âm nhạc. Nó hỗ trợ CD-TEXT, đa phần và joliet. Bạn có thể dễ dàng kéo thả các tập tin từ các ứng dụng hay từ các ổ đĩa chia sẻ trên mạng để dễ dàng ghi chúng lên đĩa.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>Brasero 是一款 GNOME 桌面下的 CD/DVD 刻录应用程序。其设计宗旨是尽可能简单，以独具特色的方式让用户以简单快捷的方式创建他们的光盘。</p>
+    <p>Brasero 可以创建、复制和刻录数据以及音频 CD/DVD。完全支持 CD-TEXT、多会话以及 Joliet 扩展。您只需将文件从其他应用程序或远程共享驱动器中拖拽进来，就可以轻松的将它们刻录成光盘。</p>
+  </description>
+  <description lang="zh_HK">
+    <p>Brasero 是 GNOME 桌面燒錄 CD/DVD 的應用程式。它的設計是儘可能簡單，並且具有獨特的功能讓使用者能簡單而快速的建立他們自己的光碟。</p>
+    <p>Brasero 可以建立、複製與燒錄資料和音樂 CD/DVD。它支援 CD-TEXT 、多重階段與 joliet 擴充功能。你可以從其他本地端應用程式或遠端分享的磁碟簡單的拖放檔案，並將它們燒錄到光碟。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>Brasero 是 GNOME 桌面燒錄 CD/DVD 的應用程式。它的設計是儘可能簡單，並且具有獨特的功能讓使用者能簡單而快速的建立他們自己的碟片。</p>
+    <p>Brasero 可以建立、複製與燒錄資料和音樂 CD/DVD。它支援 CD-TEXT 、多重階段與 joliet 擴充功能。您可以從其他本地端應用程式或遠端分享的磁碟簡單的拖放檔案，並將它們燒錄到碟片。</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">https://wiki.gnome.org/Apps/Brasero?action=AttachFile&amp;do=get&amp;target=copy-disc.png</screenshot>
+    <screenshot>https://wiki.gnome.org/Apps/Brasero?action=AttachFile&amp;do=get&amp;target=audio-disc.png</screenshot>
+    <screenshot>https://wiki.gnome.org/Apps/Brasero?action=AttachFile&amp;do=get&amp;target=data-project.png</screenshot>
+  </screenshots>
+  <url type="homepage">https://wiki.gnome.org/Apps/Brasero</url>
+  <updatecontact>brasero-list@gnome.org</updatecontact>
+  <project_group>GNOME</project_group>
+  <translation type="gettext">brasero</translation>
+</component>

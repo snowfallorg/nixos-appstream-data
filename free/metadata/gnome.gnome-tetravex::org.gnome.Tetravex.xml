@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>gnome.gnome-tetravex</pkgname>
+  <icon type="cached" height="64" width="64">org.gnome.Tetravex.png</icon>
+  <icon type="cached" width="128" height="128">org.gnome.Tetravex.png</icon>
+  <id>org.gnome.Tetravex</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+ and CC-BY-SA-3.0</project_license>
+  <name>GNOME Tetravex</name>
+  <name lang="zh_TW">GNOME 數字拼圖</name>
+  <name lang="zh_HK">GNOME 數字拼圖</name>
+  <name lang="zh_CN">GNOME 四邻</name>
+  <name lang="uk">Тетравекс GNOME</name>
+  <name lang="tr">GNOME Tetravex</name>
+  <name lang="sv">GNOME Tetravex</name>
+  <name lang="sr@latin">Gnomova slagalica</name>
+  <name lang="sr">Гномова слагалица</name>
+  <name lang="sl">GNOME Tetravex</name>
+  <name lang="sk">Tetravex GNOME</name>
+  <name lang="ru">Тетравекс GNOME</name>
+  <name lang="ro">Tetravex GNOME</name>
+  <name lang="pt_BR">GNOME Tetravex</name>
+  <name lang="pt">GNOME Tetravex</name>
+  <name lang="pl">GNOME Tetravex</name>
+  <name lang="oc">GNOME Tetravex</name>
+  <name lang="nl">Gnome Tetravex</name>
+  <name lang="nb">GNOME Tetravex</name>
+  <name lang="ms">Tetravex GNOME</name>
+  <name lang="lv">GNOME Tetravex</name>
+  <name lang="lt">GNOME Tetravex</name>
+  <name lang="ko">그놈 테트라벡스</name>
+  <name lang="it">GNOME Tetravex</name>
+  <name lang="id">GNOME Tetravex</name>
+  <name lang="hu">GNOME Tetravex</name>
+  <name lang="hr">GNOME Tetravex</name>
+  <name lang="he">‏GNOME ארבע צלעות Tetravex</name>
+  <name lang="gl">Tetravex de GNOME</name>
+  <name lang="fur">GNOME Tetravex</name>
+  <name lang="fr">Tetravex de GNOME</name>
+  <name lang="fi">Tetravex</name>
+  <name lang="fa">تتراوکس گنوم</name>
+  <name lang="eu">GNOME Tetravex</name>
+  <name lang="es">GNOME Tetravex</name>
+  <name lang="eo">GNOME Tetravekso</name>
+  <name lang="en_GB">GNOME Tetravex</name>
+  <name lang="el">Τετραβέξ</name>
+  <name lang="de">GNOME Tetravex</name>
+  <name lang="da">GNOME Tetravex</name>
+  <name lang="cs">Tetravex GNOME</name>
+  <name lang="ca@valencia">GNOME Tetravex</name>
+  <name lang="ca">GNOME Tetravex</name>
+  <name lang="bs">GNOME Tetravex</name>
+  <name lang="bg">Четворно домино</name>
+  <name lang="be">GNOME Tetravex</name>
+  <name lang="an">GNOME Tetravex</name>
+  <summary>Reorder tiles to fit a square</summary>
+  <summary lang="zh_TW">重新排序拼貼來符合方塊</summary>
+  <summary lang="zh_CN">调整方块以填满一个方框</summary>
+  <summary lang="uk">Перевпорядкувати плиточки, щоб вони помістились у квадрат</summary>
+  <summary lang="tr">Karoları bir kareye sığdırmak için yeniden sıralayın</summary>
+  <summary lang="sv">Flytta om brickor så de passar i en kvadrat</summary>
+  <summary lang="sr@latin">Premeštajte pločice da popunite kvadrat</summary>
+  <summary lang="sr">Премештајте плочице да попуните квадрат</summary>
+  <summary lang="sl">Spremenite postavitev ploščic, da zapolnijo polje.</summary>
+  <summary lang="sk">Usporiadajte dlaždice tak, aby vyplnili štvorec</summary>
+  <summary lang="ru">Расположите кусочки на поле в правильном порядке</summary>
+  <summary lang="ro">Reordonează dalele pentru a se potrivi unui pătrat</summary>
+  <summary lang="pt_BR">Arranje as peças para encaixarem no quadrado</summary>
+  <summary lang="pt">Reordene as peças para caberem num quadrado</summary>
+  <summary lang="pl">Ułóż kafelki, aby pasowały do kwadratu</summary>
+  <summary lang="oc">Reagençatz de pèças per formar un carrat</summary>
+  <summary lang="nl">Herorden de puzzelstukken om een vierkant te vormen</summary>
+  <summary lang="nb">Plasser flisene så de passer i en firkant</summary>
+  <summary lang="ms">Susun semula jubin supaya muat dalam satu petak</summary>
+  <summary lang="lv">Pārkārto kauliņus, lai iekļautu kvadrātā</summary>
+  <summary lang="lt">Pertvarkyti koklius, kad tilptų į kvadratą</summary>
+  <summary lang="ko">타일 위치를 바꿔 사각형을 맞춥니다</summary>
+  <summary lang="kk">Плиткаларды шаршыға құрастыру үшін ретке келтіру</summary>
+  <summary lang="it">Riordina i riquadri all'interno del quadrato</summary>
+  <summary lang="id">Susun ulang kotak agar pas dengan bujur sangkar</summary>
+  <summary lang="hu">Rendezze át a darabokat a négyzet kitöltéséhez</summary>
+  <summary lang="hr">Promijenite poredak pločica kako bi odgovarale kvadratu</summary>
+  <summary lang="he">Reorder tiles to fit a square</summary>
+  <summary lang="gl">Reordenar pezas para axustalas a un cadrado</summary>
+  <summary lang="fur">Met in ordin i ricuadris intal cuadrât</summary>
+  <summary lang="fr">Réagencez des pièces pour former un carré</summary>
+  <summary lang="fi">Järjestä laatat sopimaan neliöön</summary>
+  <summary lang="fa">مهره‌ها را جابه‌جا کنید تا در یک خانه جور شوند</summary>
+  <summary lang="eu">Ordenatu berriro lauzak karratura doitzeko</summary>
+  <summary lang="es">Reordenar las fichas para ajustarlas a un cuadrado</summary>
+  <summary lang="en_GB">Reorder tiles to fit a square</summary>
+  <summary lang="el">Επανατοποθετήστε τα πλακίδια ώστε να χωρούν στο τετράγωνο</summary>
+  <summary lang="de">Ordnen Sie Kacheln neu an, um ein Quadrat zu bilden</summary>
+  <summary lang="da">Omrokér brikker så de passer i en firkant</summary>
+  <summary lang="cs">Uspořádejte kameny tak, aby správně vyplnily čtverec</summary>
+  <summary lang="ca@valencia">Reordena les fitxes per ajustar-se a un quadrat</summary>
+  <summary lang="ca">Reordena les fitxes per a ajustar-se a un quadrat</summary>
+  <summary lang="bs">Preuredi pločice da se uklope u kvadrad</summary>
+  <summary lang="bg">Подреждане на плочките, за да запълнят квадрат</summary>
+  <summary lang="be">Перастаўляйце косці каб запоўніць квадрат</summary>
+  <summary lang="an">Reordenar as fichas ta achustar-las a un quadrau</summary>
+  <description>
+    <p>
+      Each square piece has a number on each side. Position the pieces on the left
+      side of the board so that the same numbers are next to each other. If the
+      numbers don’t match, you can’t put the piece there. Move quickly: you’re
+      being timed!
+    </p>
+    <p>
+      You can make the game easier or harder by changing the size of the board.
+    </p>
+  </description>
+  <description lang="an">
+    <p>Puede fer que o chuego sía mas facil u mas dificil cambiando a grandaria d'o tablero.</p>
+  </description>
+  <description lang="be">
+    <p>Змяняючы памер дашкі, можна зрабіць гульню прасцей ці складаней.</p>
+  </description>
+  <description lang="bg">
+    <p>Променяте трудността на играта като променяте размерите на дъската.</p>
+  </description>
+  <description lang="bs">
+    <p>Možete učiniti igricu lakšom ili težom, promjenom veličine ploče.</p>
+  </description>
+  <description lang="ca">
+    <p>Cada peça quadrada té un número a cada costat. Poseu les peces al costat esquerre del tauler de forma que els números estiguin els uns al costat dels altres. Si els números no coincideixen, no podeu posar-hi la peça. Afanyeu-vos! El temps avança!</p>
+    <p>Podeu fer el joc més fàcil o més difícil canviant la mida del tauler.</p>
+  </description>
+  <description lang="ca@valencia">
+    <p>Podeu fer el joc més fàcil o més difícil canviant la mida del tauler.</p>
+  </description>
+  <description lang="cs">
+    <p>Každý čtvercový kámen má po stranách čísla. Umístěte kameny na levou herní desku tak, aby se navzájem dotýkaly stejnými čísly. Pokud někde čísla nesedí, nelze tam kámen umístit. Hrajte rychle, měří se vám čas.</p>
+    <p>Hru si můžete usnadnit, a nebo naopak ztížit, změnou velikosti herní desky.</p>
+  </description>
+  <description lang="da">
+    <p>Hver af de firkantede brikker har et tal på hver side. Placér brikkerne på venstre side af brættet, så de samme tal er ved siden af hinanden. Hvis tallene ikke passer, kan du ikke flytte brikken derhen. Flyt hurtigt: Der tages tid!</p>
+    <p>Du kan gøre spillet nemmere eller sværere ved at ændre brættets størrelse.</p>
+  </description>
+  <description lang="de">
+    <p>Jede quadratische Kachel hat nummerierte Seiten. Platzieren Sie die Kachel links auf dem Spielbrett so, dass sich die gleichen Zahlen benachbarn. Falls die Zahlen nicht übereinstimmen, können Sie die Kacheln dort nicht platzieren. Seien Sie schnell: Die Zeit wird erfasst!</p>
+    <p>Sie machen das Spiel leichter oder schwieriger, indem Sie die Größe des Spielbretts anpassen.</p>
+  </description>
+  <description lang="el">
+    <p>Κάθε τετράγωνο κομμάτι έχει έναν αριθμό σε κάθε πλευρά. Τοποθετήστε τα κομμάτια στα αριστερά του πίνακα έτσι ώστε οι ίδιοι αριθμοί να είναι δίπλα μεταξύ τους. Αν οι αριθμοί δεν ταιριάζουν, δεν μπορείτε να βάλετε το κομμάτι εκεί. Πιο γρήγορα: χρονομετρείστε!</p>
+    <p>Μπορείτε να διευκολύνετε το παιχνίδι ή να το δυσκολέψετε αλλάζοντας το μέγεθος του πίνακα.</p>
+  </description>
+  <description lang="en_GB">
+    <p>Each square piece has a number on each side. Position the pieces on the left side of the board so that the same numbers are next to each other. If the numbers don’t match, you can’t put the piece there. Move quickly: you’re being timed!</p>
+    <p>You can make the game easier or harder by changing the size of the board.</p>
+  </description>
+  <description lang="es">
+    <p>Cada cuadrado de la pieza tiene un número de cara. Coloque las piezas a la izquierda del tablero para que los números iguales estén juntos. Si los números no coinciden, no podrá poner ahí la pieza. Muévase rápidamente, se le está cronometrando.</p>
+    <p>Puede hacer que el juego sea más fácil o más difícil cambiando el tamaño del tablero.</p>
+  </description>
+  <description lang="eu">
+    <p>Karratu bakoitzak zenbaki bat dauka albo bakoitzean. Jarri piezak mahaiko ezker aldean, zenbaki berdinak bata bestearen alboan elkar ukituz. Piezak ezin dira jarri zenbakiak bat ez datozenean. Mugitu bizkor: denbora aurka duzu.</p>
+    <p>Jokoa errazagoa edo zailagoa egin dezakezu mahaiaren tamaina aldatuz.</p>
+  </description>
+  <description lang="fa">
+    <p>هر خانه یک عدد در کنار خود دارد. مهره‌ها را در سمت چپ تخته جمع کنید تا اعداد یکسان در کنار یکدیگر قرار گیرند. اگر عددها منطبق نشوند، نمی‌توانید مهره‌ای آن‌جا بگذارید. سریع حرکت کنید: زمان شما ثبت می‌شود!</p>
+    <p>شما می‌توانید بازی را با تغییر اندازه تخته، ساده‌تر یا سخت‌تر کنید.</p>
+  </description>
+  <description lang="fi">
+    <p>Jokainen neliö sisältää numeron jokaisella sivulla. Aseta neliöt laudan vasemmalle puolelle siten, että samat numerot ovat toisiaan vasten. Jos numerot eivät vastaa toisiaan, et voi asettaa neliötä kyseiselle paikalle. Tee siirtosi nopeasti, sillä pelaat aikaa vastaan!</p>
+    <p>Voit tehdä pelistä aiempaa haastavemman tai helpomman muuttamalla laudan kokoa.</p>
+  </description>
+  <description lang="fr">
+    <p>Toute pièce carrée a un chiffre de chaque côté. Placez les pièces du côté gauche du plateau de telle sorte que les chiffres identiques soient côte à côte, condition nécessaire pour les poser. Dépêchez-vous : vous êtes chronométré !</p>
+    <p>Vous pouvez régler la difficulté du jeu en changeant la taille du plateau.</p>
+  </description>
+  <description lang="fur">
+    <p>Ogni singul toc al à un numar su ducj i flancs. Posizione i tocs te bande çampe de taule di zûc in mût che i numars compagns a sedin a contat. Se i numars no son compagns, no tu puedis plaçâ il toc. Moviti, tu âs un limit di timp!</p>
+    <p>Tu puedis rindi il zûc plui facil o dificil cambiant la dimension de taule.</p>
+  </description>
+  <description lang="gl">
+    <p>Cada peza cadrada ten un número no seu lado. Dispoña as pezas na parte esquerda do taboleiro para que os números iguais estean ao carón. Se os números non coinciden non poderá poñer a peza no lugar. Móvase rápido: hai unha conta atrás!</p>
+    <p>Pode facer máis doado ou máis difícil o xogo cambiando o tamaño do taboleiro.</p>
+  </description>
+  <description lang="he">
+    <p>בכל חתיכת ריבוע יש מספר בכל צד. יש למקם את החתיכות בצד שמאל של הלוח כך שאותם המספרים סמוכים זה לזה. אם המספרים אינם מתאימים, לא יהיה ניתן לשים שם את החתיכה. יש לפעול במהירות: הזמן קצוב!</p>
+    <p>ניתן לעשות את המשחק קל יותר או קשה יותר על ידי שינוי גודל הלוח.</p>
+  </description>
+  <description lang="hr">
+    <p>Svaki dio kvadrata ima broj na svakoj strani. Smjestite dio na lijevoj strani ploče tako da su isti brojevi jedan do drugoga. Ako se brojevi ne podudaraju, ne možete staviti dio na to mjesto. Pomičite brzo: odbrojavanje je počelo!</p>
+    <p>Možete igru učiniti lakšom ili težom promjenom veličine ploče.</p>
+  </description>
+  <description lang="hu">
+    <p>Minden négyzet minden oldalán egy-egy szám van. Helyezze egymás mellé a tábla bal oldalán a négyzeteket úgy, hogy egymás mellett azonos számok legyenek. Ha a számok nem egyeznek, nem teheti le a négyzetet. Lépjen gyorsan, a játék időre megy!</p>
+    <p>A játékot egyszerűbbé vagy nehezebbé teheti a tábla méretének módosításával.</p>
+  </description>
+  <description lang="id">
+    <p>Setiap keping bujur sangkar memiliki angka pada setiap sisi. Posisikan keping-keping pada sisi kiri papan sehingga angka yang sama saling bersebelahan. Bila angka tak cocok, Anda tak bisa meletakkan keping di sana. Cepatlah: waktu Anda dicatat!</p>
+    <p>Anda dapat membuat permainan lebih mudah atau lebih sulit dengan mengubah ukuran papan.</p>
+  </description>
+  <description lang="it">
+    <p>Ogni singolo pezzo ha un numero su ciascun lato: posiziona i pezzi sulla sinistra del tavolo di gioco in modo che i numeri simili siano a contatto. Se i numeri non coincidono, non puoi posizionare il pezzo. Fai in fretta, c'è un tempo limite!</p>
+    <p>Puoi rendere il gioco più facile o difficile cambiando la dimensione del tavolo di gioco.</p>
+  </description>
+  <description lang="ko">
+    <p>각 사각형 조각은 각 변마다 번호가 붙어 있습니다. 조각을 왼쪽에 놓아서 같은 번호가 마주보도록 만드십시오. 번호가 맞지 않으면 조각을 그 위치에 둘 수 없습니다. 시간이 가니 빨리 움직이십시오!</p>
+    <p>게임판 크기를 바꿔서 게임을 더 쉽거나 더 어렵게 만들 수 있습니다.</p>
+  </description>
+  <description lang="lt">
+    <p>Kiekvienas kvadratas kiekvienoje savo pusėje turi skaičių. Sudėliok kvadratėlius lentoje taip, kad vienodi skaičiai būtų šalia. Jei skaičiai nesutampa, negalima ten dėti kvadratėlio. Dėliok greitai: laikas matuojamas!</p>
+    <p>Žaidimą galima padaryti paprastesnį ir patogesnį keičiant lentos dydį.</p>
+  </description>
+  <description lang="lv">
+    <p>Katram kvadrāta kauliņam uz katras malas ir skaitlis. Novieto kauliņus galdiņa kreisajā pusē tā, lai blakus esošie skaitļi būtu vienādi. Ja skaitļi nesakrīt, tur nevarēs ievietot kauliņu. Domā ātri, jo laiks ir pret tevi!</p>
+    <p>Spēli var padarīt grūtāku vai vieglāku, mainot galdiņa izmēru.</p>
+  </description>
+  <description lang="ms">
+    <p>Setiap kepingan petak mempunyai nombor pada setiap sisinya. Letak kepingan di bahagian kiri papan supaya nombor yang serupa bersebelahan antara satu sama lain. Jika nombor tidak sepadan, anda tidak boleh letak kepingan tersebut. Bergerak pantas: kerana permainan ini diberi masa!</p>
+    <p>Anda boleh tentukan permainan ini lebih mudah atau lebih sukar dengan mengubah saiz papan.</p>
+  </description>
+  <description lang="nb">
+    <p>Du kan gjøre spillet lettere eller vanskeligere ved å endre størrelsen på brettet.</p>
+  </description>
+  <description lang="nl">
+    <p>Elk stuk van het vierkant heeft aan elke kant een nummer. Verplaats de stukken naar de linkerkant van het bord zodat dezelfde nummers naast elkaar komen te staan. Als de nummers niet overeenkomen, kunt u het stuk daar niet plaatsen. Beweeg snel: uw tijd wordt opgenomen!</p>
+    <p>U kunt het spel makkelijker of moeilijker maken door de grootte van het bord aan te passen.</p>
+  </description>
+  <description lang="oc">
+    <p>Podètz reglar la dificultat del jòc en cambiant la talha del platèu.</p>
+  </description>
+  <description lang="pl">
+    <p>Każdy kafelek posiada liczby po każdej stronie. Należy ułożyć kafelki po lewej stronie planszy tak, aby te same liczby były obok siebie. Jeśli liczby nie pasują, to nie można ułożyć kafelka. Należy ruszać się szybko: czas jest liczony!</p>
+    <p>Można ułatwić lub utrudnić grę zmieniając rozmiar planszy.</p>
+  </description>
+  <description lang="pt">
+    <p>Cada peça quadrada tem um número em cada lado. Posicione as peças no lado esquerdo do tabuleiro de modo a que fiquem números iguais lado a lado. Se os números não corresponderem, não pode colocar lá a peça. Seja rápido, o tempo está a contar!</p>
+    <p>Pode tornar o jogo mais difícil aumentando o tamanho do tabuleiro.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Cada peça quadrada possui um número em cada lado. Posicione as peças no tabuleiro do lado esquerdo para que os mesmos números fiquem próximos uns dos outros. Se os números não coincidirem, você não pode colocar a peça lá. Mova com rapidez: você está sendo cronometrado!</p>
+    <p>Ao alterar o tamanho do tabuleiro você pode fazer o jogo ficar mais fácil ou mais difícil.</p>
+  </description>
+  <description lang="ro">
+    <p>Fiecare piesă pătrat are un număr pe fiecare parte. Poziționați piesele pe partea stânga a tablei astfel încât aceleași numere se află unele lângă altele. Dacă numerele nu se potrivesc, nu puteți plasa piesele acolo. Mutați rapid: sunteți cronometrat!</p>
+    <p>Puteți face jocul mai simplu sau mai dificil prin modificarea dimensiunii tablei.</p>
+  </description>
+  <description lang="ru">
+    <p>Сложность игры можно менять, изменяя размер игрового поля.</p>
+  </description>
+  <description lang="sk">
+    <p>Zmenou veľkosti hracej plochy môžete hru spraviť jednoduchšou alebo náročnejšou.</p>
+  </description>
+  <description lang="sl">
+    <p>Vsaka ploščica ima številko na vsaki strani. Postaviti je treba ploščice na levo stran igralne plošče, da bo na obeh straneh enaka številka. Če se števila ne ujemajo, ploščice na mesto ni mogoče postaviti. Igra je časovno omejena.</p>
+    <p>Težavnost igre je mogoče prilagoditi s spreminjanjem velikosti igralne plošče.</p>
+  </description>
+  <description lang="sr">
+    <p>Сваки квадратни део има бројеве на свакој страни. Поставите делове на левој страни табле тако да исти бројеви буду један поред другог. Ако се бројеви не подударају, онда нећете моћи да ставите део на том месту. Будите брзи, време вам је ограничено!</p>
+    <p>Можете да учините игру лакшом или тежом мењајући величину табле.</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Možete da učinite igru lakšom ili težom menjajući veličinu table.</p>
+  </description>
+  <description lang="sv">
+    <p>Varje kvadratisk bit har ett nummer på var sida. Placera bitarna på vänstra sidan av brädet så att samma nummer är intill varandra. Om numren inte överensstämmer kan du inte placera biten där. Skynda på: klockan går!</p>
+    <p>Du kan göra spelet lättare eller svårare genom att ändra storleken på brädet.</p>
+  </description>
+  <description lang="tr">
+    <p>Her kare parçasının her bir yanda numarası vardır. Aynı numaralar birbiriyle bitişik olsun diye parçaları tahtanın sol tarafında konumlandırın. Eğer numaralar eşleşmezse, parçayı oraya koyamazsınız. Hızlı hareket edin: zamanınız başladı!</p>
+    <p>Tahta boyutunu değiştirerek oyunu kolaylaştırabilir ya da zorlaştırabilirsiniz.</p>
+  </description>
+  <description lang="uk">
+    <p>Кожен шматок квадрату має номер на кожній стороні. Розставте шматки на лівій стороні дошки, щоб було однакові номери близько одне до одного. Якщо номер не збігається, то шматок не можна поставити там. Рухайтесь швидко: час іде!</p>
+    <p>Можете спростити гру або ускладнити, змінивши розмір дошки.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>每个方块四面都有数字。将方块放在左侧的棋盘上，让相同的数字相邻。数字不匹配不允许放下。抓紧时间，游戏是计时的哦！</p>
+    <p>您可以通过改变棋盘的大小来增加或降低难度。</p>
+  </description>
+  <description lang="zh_HK">
+    <p>你可以改變棋盤的尺寸讓遊戲更簡單或更困難。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>您可以改變棋盤的尺寸讓遊戲更簡單或更困難。</p>
+  </description>
+  <screenshots>
+    <screenshot width="748" height="462" type="default">
+      <image>https://people.gnome.org/~mcatanzaro/gnome-tetravex.png</image>
+    </screenshot>
+  </screenshots>
+  <launchable type="desktop-id">org.gnome.Tetravex.desktop</launchable>
+  <url type="homepage">https://wiki.gnome.org/Apps/Tetravex</url>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/gnome-tetravex/issues</url>
+  <url type="donation">https://www.gnome.org/friends/</url>
+  <url type="help">https://help.gnome.org/users/gnome-tetravex/stable/</url>
+  <update_contact>mcatanzaro_at_gnome.org</update_contact>
+  <project_group>GNOME</project_group>
+  <developer_name>The GNOME Project</developer_name>
+  <developer_name lang="zh_CN">GNOME 项目</developer_name>
+  <developer_name lang="uk">Проєкт GNOME</developer_name>
+  <developer_name lang="tr">GNOME Projesi</developer_name>
+  <developer_name lang="sv">GNOME-projektet</developer_name>
+  <developer_name lang="sr">Гном пројекат</developer_name>
+  <developer_name lang="sl">Projekt GNOME</developer_name>
+  <developer_name lang="sk">Projekt GNOME</developer_name>
+  <developer_name lang="ro">Proiectul GNOME</developer_name>
+  <developer_name lang="pt_BR">O Projeto GNOME</developer_name>
+  <developer_name lang="pt">Projeto GNOME</developer_name>
+  <developer_name lang="pl">Projekt GNOME</developer_name>
+  <developer_name lang="nl">Het Gnome-project</developer_name>
+  <developer_name lang="ms">Projek GNOME</developer_name>
+  <developer_name lang="lv">GNOME projekts</developer_name>
+  <developer_name lang="lt">GNOME projektas</developer_name>
+  <developer_name lang="ko">그놈 프로젝트</developer_name>
+  <developer_name lang="kk">GNOME жобасы</developer_name>
+  <developer_name lang="it">Il progetto GNOME</developer_name>
+  <developer_name lang="id">Proyek GNOME</developer_name>
+  <developer_name lang="hu">A GNOME projekt</developer_name>
+  <developer_name lang="hr">GNOME projekt</developer_name>
+  <developer_name lang="he">מיזם GNOME</developer_name>
+  <developer_name lang="gl">O Proxecto GNOME</developer_name>
+  <developer_name lang="fur">Il progjet GNOME</developer_name>
+  <developer_name lang="fr">Le projet GNOME</developer_name>
+  <developer_name lang="fi">Gnome-projekti</developer_name>
+  <developer_name lang="fa">پروژهٔ گنوم</developer_name>
+  <developer_name lang="eu">GNOME proiektua</developer_name>
+  <developer_name lang="es">El Proyecto GNOME</developer_name>
+  <developer_name lang="en_GB">The GNOME Project</developer_name>
+  <developer_name lang="el">Το έργο GNOME</developer_name>
+  <developer_name lang="de">Das GNOME-Projekt</developer_name>
+  <developer_name lang="da">GNOME-projektet</developer_name>
+  <developer_name lang="cs">Projekt GNOME</developer_name>
+  <developer_name lang="ca">El projecte GNOME</developer_name>
+  <provides>
+    <id>gnome-tetravex.desktop</id>
+  </provides>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>UserDocs</kudo>
+  </kudos>
+  <translation type="gettext">gnome-tetravex-gui</translation>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="violence-desecration">none</content_attribute>
+    <content_attribute id="violence-slavery">none</content_attribute>
+    <content_attribute id="violence-worship">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="sex-homosexuality">none</content_attribute>
+    <content_attribute id="sex-prostitution">none</content_attribute>
+    <content_attribute id="sex-adultery">none</content_attribute>
+    <content_attribute id="sex-appearance">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+
+  <releases>
+    <!-- should be kept in versioning inverted order -->
+    <release date="2020-11-22" version="3.38.2" urgency="medium" type="stable" />
+    <release version="3.37.91" urgency="low" type="development" date="2020-08-28" />
+  </releases>
+</component>

@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="https://specifications.freedesktop.org/metainfo/1.0" type="desktop">
+  <pkgname>gnome.aisleriot</pkgname>
+  <launchable type="desktop-id">sol.desktop</launchable>
+  <icon width="64" type="cached" height="64">gnome-aisleriot.png</icon>
+  <icon width="128" type="cached" height="128">gnome-aisleriot.png</icon>
+  <id>sol.desktop</id>
+  <id lang="zh_TW">sol.desktop</id>
+  <id lang="zh_CN">sol.desktop</id>
+  <id lang="uk">sol.desktop</id>
+  <id lang="tr">sol.desktop</id>
+  <id lang="sv">sol.desktop</id>
+  <id lang="sr">sol.desktop</id>
+  <id lang="sl">sol.desktop</id>
+  <id lang="sk">sol.desktop</id>
+  <id lang="ru">sol.desktop</id>
+  <id lang="ro">sol.desktop</id>
+  <id lang="pt_BR">sol.desktop</id>
+  <id lang="pt">sol.desktop</id>
+  <id lang="pl">sol.desktop</id>
+  <id lang="oc">sol.desktop</id>
+  <id lang="nl">sol.desktop</id>
+  <id lang="ne">sol.desktop</id>
+  <id lang="nb">sol.desktop</id>
+  <id lang="ms">sol.desktop</id>
+  <id lang="lv">sol.darbvirsma</id>
+  <id lang="lt">sol.desktop</id>
+  <id lang="ko">sol.desktop</id>
+  <id lang="kk">sol.desktop</id>
+  <id lang="ja">sol.desktop</id>
+  <id lang="it">sol.desktop</id>
+  <id lang="is">sol.desktop</id>
+  <id lang="id">sol.desktop</id>
+  <id lang="hu">sol.desktop</id>
+  <id lang="hr">sol.desktop</id>
+  <id lang="he">sol.desktop</id>
+  <id lang="gl">sol.desktop</id>
+  <id lang="fur">sol.desktop</id>
+  <id lang="fr">sol.desktop</id>
+  <id lang="fi">sol.desktop</id>
+  <id lang="fa">sol.desktop</id>
+  <id lang="eu">sol.desktop</id>
+  <id lang="es">sol.desktop</id>
+  <id lang="en_GB">sol.desktop</id>
+  <id lang="el">sol.desktop</id>
+  <id lang="de">sol.desktop</id>
+  <id lang="da">sol.desktop</id>
+  <id lang="cs">sol.desktop</id>
+  <id lang="ca">sol.desktop</id>
+  <metadata_license>GPL-3.0+ or GFDL-1.3-only</metadata_license>
+  <metadata_license lang="zh_TW">GPL-3.0+ 或 GFDL-1.3-only</metadata_license>
+  <metadata_license lang="zh_CN">GPL-3.0+ 或 GFDL-1.3-only</metadata_license>
+  <metadata_license lang="uk">GPL-3.0+ або лише GFDL-1.3</metadata_license>
+  <metadata_license lang="tr">GPL-3.0+ veya GFDL-1.3-only</metadata_license>
+  <metadata_license lang="sv">GPL-3.0+ or GFDL-1.3-only</metadata_license>
+  <metadata_license lang="sr">ОЈЛ 3.0+ (GPL-3.0+) или само GFDL-1.3</metadata_license>
+  <metadata_license lang="sl">GPL-3.0+ ali GFDL-1.3</metadata_license>
+  <metadata_license lang="sk">Iba GPL-3.0+ alebo GFDL-1.3-</metadata_license>
+  <metadata_license lang="ru">GPL-3.0+ или только GFDL-1.3</metadata_license>
+  <metadata_license lang="ro">GPL-3.0+ sau numai GFDL-1.3</metadata_license>
+  <metadata_license lang="pt_BR">GPL-3.0+ ou GFDL-1.3-only</metadata_license>
+  <metadata_license lang="pt">GPL-3.0+ ou somente GFDL-1.3</metadata_license>
+  <metadata_license lang="pl">GPL-3.0+ or GFDL-1.3-only</metadata_license>
+  <metadata_license lang="oc">GPL-3.0+ o sonlament GFDL-1.3</metadata_license>
+  <metadata_license lang="nl">GPL-3.0+ of enkel GFDL-1.3</metadata_license>
+  <metadata_license lang="ne">GPL-3.0+ or GFDL-1.3-मात्र</metadata_license>
+  <metadata_license lang="nb">GPL-3.0+ eller GFDL-1.3-only</metadata_license>
+  <metadata_license lang="ms">GPL-3.0+ atau GFDL-1.3-sahaja</metadata_license>
+  <metadata_license lang="lv">GPL-3.0+ vai GFDL tikai 1.3</metadata_license>
+  <metadata_license lang="lt">Tik GPL-3.0+ arba GFDL-1.3</metadata_license>
+  <metadata_license lang="ko">GPL-3.0+ or GFDL-1.3-only</metadata_license>
+  <metadata_license lang="kk">GPL-3.0+ немесе тек GFDL-1.3</metadata_license>
+  <metadata_license lang="it">GPL-3.0+ o solo GFDL-1.3</metadata_license>
+  <metadata_license lang="is">GPL-3.0+ eða GFDL-1.3-einungis</metadata_license>
+  <metadata_license lang="id">GPL-3.0+ atau GFDL-1.3-only</metadata_license>
+  <metadata_license lang="hu">GPL-3.0+ vagy csak GFDL-1.3</metadata_license>
+  <metadata_license lang="hr">GPL-3.0+ ili GFDL-1.3-samo</metadata_license>
+  <metadata_license lang="he">‫GPL-3.0+‎ או GFDL-1.3 בלבד</metadata_license>
+  <metadata_license lang="gl">GPL-3.0+ or GFDL-1.3-only</metadata_license>
+  <metadata_license lang="fur">GPL-3.0+ or GFDL-1.3-only</metadata_license>
+  <metadata_license lang="fr">GPL-3.0 ou GFDL-1.3-only</metadata_license>
+  <metadata_license lang="fi">GPL-3.0+ tai GFDL-1.3-only</metadata_license>
+  <metadata_license lang="fa">GPL-3.0+ یا GFDL-1.3-only</metadata_license>
+  <metadata_license lang="eu">GPL-3.0+ edo GFDL-1.3 soilik</metadata_license>
+  <metadata_license lang="es">GPL-3.0+ or GFDL-1.3-only</metadata_license>
+  <metadata_license lang="en_GB">GPL-3.0+ or GFDL-1.3-only</metadata_license>
+  <metadata_license lang="el">GPL-3.0+ ή GFDL-1.3-μόνο</metadata_license>
+  <metadata_license lang="de">GPL-3.0+ oder nur GFDL-1.3</metadata_license>
+  <metadata_license lang="da">Kun GPL-3.0+ eller GFDL-1.3</metadata_license>
+  <metadata_license lang="cs">GPL-3.0+ or GFDL-1.3-only</metadata_license>
+  <metadata_license lang="ca">GPL-3.0+ o GFDL-1.3-only</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <project_license lang="zh_TW">GPL-3.0+</project_license>
+  <project_license lang="zh_CN">GPL-3.0+</project_license>
+  <project_license lang="uk">GPL-3.0+</project_license>
+  <project_license lang="tr">GPL-3.0+</project_license>
+  <project_license lang="sv">GPL-3.0+</project_license>
+  <project_license lang="sr">ОЈЛ 3.0+ (GPL-3.0+)</project_license>
+  <project_license lang="sl">GPL-3.0+</project_license>
+  <project_license lang="sk">GPL-3.0+</project_license>
+  <project_license lang="ru">GPL-3.0+</project_license>
+  <project_license lang="ro">GPL-3.0+</project_license>
+  <project_license lang="pt_BR">GPL-3.0+</project_license>
+  <project_license lang="pt">GPL-3.0+</project_license>
+  <project_license lang="pl">GPL-3.0+</project_license>
+  <project_license lang="oc">GPL-3.0+</project_license>
+  <project_license lang="nl">GPL-3.0+</project_license>
+  <project_license lang="ne">GPL-3.0+</project_license>
+  <project_license lang="nb">GPL-3.0+</project_license>
+  <project_license lang="ms">GPL-3.0+</project_license>
+  <project_license lang="lv">GPL-3.0+</project_license>
+  <project_license lang="lt">GPL-3.0+</project_license>
+  <project_license lang="ko">GPL-3.0+</project_license>
+  <project_license lang="kk">GPL-3.0+</project_license>
+  <project_license lang="ja">GPL-3.0+</project_license>
+  <project_license lang="it">GPL-3.0+</project_license>
+  <project_license lang="is">GPL-3.0+</project_license>
+  <project_license lang="id">GPL-3.0+</project_license>
+  <project_license lang="hu">GPL-3.0+</project_license>
+  <project_license lang="hr">GPL-3.0+</project_license>
+  <project_license lang="he">‫GPL-3.0+‎</project_license>
+  <project_license lang="gl">GPL-3.0+</project_license>
+  <project_license lang="fur">GPL-3.0+</project_license>
+  <project_license lang="fr">GPL-3.0+</project_license>
+  <project_license lang="fi">GPL-3.0+</project_license>
+  <project_license lang="fa">GPL-3.0+</project_license>
+  <project_license lang="eu">GPL 3.0</project_license>
+  <project_license lang="es">GPL-3.0+</project_license>
+  <project_license lang="en_GB">GPL-3.0+</project_license>
+  <project_license lang="el">GPL-3.0+</project_license>
+  <project_license lang="de">GPL-3.0+</project_license>
+  <project_license lang="da">GPL-3.0+</project_license>
+  <project_license lang="cs">GPL-3.0+</project_license>
+  <project_license lang="ca">GPL-3.0+</project_license>
+  <name>Aisleriot Solitaire</name>
+  <name lang="zh_TW">Aisleriot 接龍遊戲</name>
+  <name lang="zh_HK">Aisleriot 接龍遊戲</name>
+  <name lang="zh_CN">AisleRiot 纸牌游戏</name>
+  <name lang="uk">Пасьянс Айслеріот</name>
+  <name lang="tr">Aisleriot İskambil Falı</name>
+  <name lang="sv">Aisleriot-patiens</name>
+  <name lang="sr@latin">Pasijans</name>
+  <name lang="sr">Пасијанс</name>
+  <name lang="sl">Pasjansa AisleRiot</name>
+  <name lang="sk">Solitér Aisleriot</name>
+  <name lang="ru">Пасьянс Айслериот</name>
+  <name lang="ro">Solitaire Aisleriot</name>
+  <name lang="pt_BR">Paciência Aisleriot</name>
+  <name lang="pt">Solitário Aisleriot</name>
+  <name lang="pl">Pasjans AisleRiot</name>
+  <name lang="oc">Solitari Aisleriot</name>
+  <name lang="nl">Aisleriot patience</name>
+  <name lang="ne">एस्लेरिओट सोलिटेइर</name>
+  <name lang="nb">Aisleriot Solitaire</name>
+  <name lang="ms">Solitaire AisleRiot</name>
+  <name lang="lv">Aisleriot Solitaire</name>
+  <name lang="lt">AisleRiot pasjansas</name>
+  <name lang="ko">아일라이어트 솔리테어</name>
+  <name lang="ja">Aisleriot ソリティア</name>
+  <name lang="it">Solitario Aisleriot</name>
+  <name lang="is">AisleRiot kapall</name>
+  <name lang="id">Aisleriot Solitaire</name>
+  <name lang="hu">Aisleriot pasziánsz</name>
+  <name lang="hr">Aisleriot pasijans</name>
+  <name lang="he">סוליטר Aisleriot</name>
+  <name lang="gl">Solitario AisleRiot</name>
+  <name lang="fur">Solitari Aisleriot</name>
+  <name lang="fr">Solitaire Aisleriot</name>
+  <name lang="fi">Aisleriot-pasianssi</name>
+  <name lang="fa">اِیل‌رایِت</name>
+  <name lang="eu">AisleRiot bakar-jokoa</name>
+  <name lang="es">Solitario Aisleriot</name>
+  <name lang="eo">Aisleriot ermitludo</name>
+  <name lang="en_GB">Aisleriot Solitaire</name>
+  <name lang="el">Πασιέντζα Aisleriot</name>
+  <name lang="de">AisleRiot Solitaire</name>
+  <name lang="da">Kabale</name>
+  <name lang="cs">Solitér Aisleriot</name>
+  <name lang="ca@valencia">Solitari Aisleriot</name>
+  <name lang="ca">Solitari Aisleriot</name>
+  <name lang="bs">Aisleriot Solitaire</name>
+  <name lang="bg">Пасианси</name>
+  <name lang="be">Пасьянс Aisleriot</name>
+  <name lang="as">Aisleriot Solitaire</name>
+  <summary>Play many different solitaire games</summary>
+  <summary lang="zh_TW">玩不同類型的接龍遊戲</summary>
+  <summary lang="zh_HK">玩不同類型的接龍遊戲</summary>
+  <summary lang="zh_CN">玩各种纸牌游戏</summary>
+  <summary lang="xh">Dlala imidlalo emininzi eyahlukeneyo ye-solitaire</summary>
+  <summary lang="vi">Chơi nhiều trò chơi solitaire khác nhau</summary>
+  <summary lang="uk">Дозволяє грати у багато різних пасьянсів</summary>
+  <summary lang="ug">نۇرغۇن ئوخشىمايدىغان solitaire ئويۇننى ئويناش</summary>
+  <summary lang="tr">Birçok değişik iskambil falı oyunu oynayın</summary>
+  <summary lang="th">เล่นเกมถอดไพ่สารพัดแบบ</summary>
+  <summary lang="te">రకరకాలైన సాల్టైర్ ఆటలను ఆడుము</summary>
+  <summary lang="ta">பல வித சாலிடேர் விளையாட்டை விளையாடு</summary>
+  <summary lang="sv">Spela många olika patiensspel</summary>
+  <summary lang="sr@latin">Igrajte različite varijante pasijansa</summary>
+  <summary lang="sr">Играјте различите варијанте пасијанса</summary>
+  <summary lang="sq">Lojra të shumta solitaire</summary>
+  <summary lang="sl">Igrajte več različnih iger pasjanse</summary>
+  <summary lang="sk">Množstvo kartových hier pre jedného hráča</summary>
+  <summary lang="ru">Позволяет играть во множество различных пасьянсов</summary>
+  <summary lang="ro">Joacă multe alte jocuri solitaire</summary>
+  <summary lang="pt_BR">Jogue muitos jogos diferentes de paciência</summary>
+  <summary lang="pt">Jogue muitos jogos solitários diferentes</summary>
+  <summary lang="pl">Zbiór różnych pasjansów</summary>
+  <summary lang="pa">ਕਈ ਹੋਰ ਸੋਲੀਟਾਇਰ ਖੇਡ ਖੇਡੋ</summary>
+  <summary lang="or">ଅନେକ ଭିନ୍ନ ଭିନ୍ନ ସଲିଟେଯାର ଖେଳ ଗୁଡିକୁ ଖେଳ</summary>
+  <summary lang="oc">Jogar a mantun jòc de solitari diferents</summary>
+  <summary lang="nn">Spel mange ulike kabalar</summary>
+  <summary lang="nl">Speel veel verschillende soorten patiencespellen</summary>
+  <summary lang="ne">विभिन्न सोलिटेइर खेल खेल्नुहोस्</summary>
+  <summary lang="nb">Spill mange forskjellige solitaire-spill</summary>
+  <summary lang="ms">Main pelbagai jenis permainan solitaire</summary>
+  <summary lang="mr">अनेक वेगवेगळे सॉलिटेयर खेळ खेळा</summary>
+  <summary lang="mn">Өөр олон хөзрийн тоглоомууд тоглох</summary>
+  <summary lang="ml">പലതരം സോളിറ്റെയര്‍ കളികള്‍ കളിക്കുക</summary>
+  <summary lang="mk">Играјте различни игри со карти</summary>
+  <summary lang="mai">भिन्न प्रकार क' सॉलिटेयर खेल खेलू</summary>
+  <summary lang="lv">Spēlē daudz dažādas solitaire spēles</summary>
+  <summary lang="lt">Žaisti įvairius pasjansų žaidimus</summary>
+  <summary lang="ko">여러가지 솔리테어 게임을 플레이합니다</summary>
+  <summary lang="kn">ಅನೇಕ ಬಗೆಯ ಸಾಲಿಟೇರ್ ಆಟವನ್ನು ಆಡು</summary>
+  <summary lang="km">លេងល្បែង solitaire ខុសៗគ្នាជាច្រើន</summary>
+  <summary lang="ja">いろいろなソリティアゲームを楽しんでください</summary>
+  <summary lang="it">Gioca differenti tipi di solitari</summary>
+  <summary lang="is">Spila marga ólíka kapla</summary>
+  <summary lang="id">Mainkan bermacam permainan solitaire yang berbeda</summary>
+  <summary lang="hu">Sok különféle pasziánszjáték</summary>
+  <summary lang="hr">Igraj više različitih varijanti pasijansa</summary>
+  <summary lang="hi">भिन्न प्रकार के सॉलिटेयर खेल खेलें</summary>
+  <summary lang="he">משחק בהרבה משחקי סוליטייר שונים</summary>
+  <summary lang="gu">ઘણી બધી અલગ સોલિટૅર રમત રમો</summary>
+  <summary lang="gl">Xogar a moitos solitarios diferentes</summary>
+  <summary lang="ga">Imir neart cluichí aonair difriúla</summary>
+  <summary lang="fur">Zuie a diviers gjenars di solitaris</summary>
+  <summary lang="fr">Jouer à plusieurs jeux de solitaire différents</summary>
+  <summary lang="fi">Pelaa monia erilaisia pasiansseja</summary>
+  <summary lang="fa">بازی‌های ورقی مختلف یک‌نفره</summary>
+  <summary lang="eu">Jolastu hainbat bakar-joko</summary>
+  <summary lang="et">Palju erinevaid kaardiladumismänge</summary>
+  <summary lang="es">Juegue a diferentes solitarios</summary>
+  <summary lang="eo">Ludu plurajn diversajn ermitludojn</summary>
+  <summary lang="en@shaw">𐑐𐑤𐑱 𐑥𐑧𐑯𐑦 𐑛𐑦𐑓𐑼𐑩𐑯𐑑 𐑕𐑪𐑤𐑦𐑑𐑺 𐑜𐑱𐑥𐑟</summary>
+  <summary lang="en_GB">Play many different solitaire games</summary>
+  <summary lang="en_CA">Play many different solitaire games</summary>
+  <summary lang="el">Παίξτε πολλά διαφορετικά παιχνίδια πασιέντζας</summary>
+  <summary lang="dz">སོ་ལི་ཊེར་རྩེདམོ་མ་འདྲཝ་ ལེ་ཤ་རྩེ།</summary>
+  <summary lang="de">Viele verschiedene Solitaire-Spiele spielen</summary>
+  <summary lang="da">Spil mange forskellige kortspil</summary>
+  <summary lang="cy">Chwarae nifer o gemau amynedd gwahanol</summary>
+  <summary lang="cs">Zahrajte si plno různých solitérových her</summary>
+  <summary lang="ca@valencia">Jugueu a molts jocs de solitari diferents</summary>
+  <summary lang="ca">Jugueu a molts jocs de solitari diferents</summary>
+  <summary lang="bs">Igrajte više različitih igara pasijansa</summary>
+  <summary lang="bn_IN">বিভিন্ন ধরনের সলিটেয়ার খেলুন</summary>
+  <summary lang="bn">বিভিন্ন ধরনের সলিটেয়ার খেলুন</summary>
+  <summary lang="bg">Игра с голям набор от пасианси</summary>
+  <summary lang="be">Разнастайныя гульні ў пасьянс</summary>
+  <summary lang="az">Birdən çox fərqli solitaire oyununu oynayın</summary>
+  <summary lang="ast">Xugar a dellos xuegos de solitariu</summary>
+  <summary lang="as">বিভিন্ন ধৰণৰ solitaire খেলক</summary>
+  <summary lang="ar">إلعب ألعاب صولتار عديدةً مختلفة</summary>
+  <summary lang="af">Speel baie verskillende soorte patience</summary>
+  <description>
+    <p>
+      Aisleriot — also known as sol or solitaire — is a card game application
+      that features over 80 different solitaire-type card games which are designed to
+      play using a mouse, keyboard, or trackpad.
+    </p>
+  </description>
+  <description lang="as">
+    <p>Aisleriot — sol অথবা solitaire নামৰেও জনাজাত — এটা তাচ পাতৰ খেল এপ্লিকেচন যি ৮০ ৰ অধিক বিভিন্ন solitaire-ধৰণ তাচ খেলসমূহ অন্তৰ্ভুক্ত কৰে যিসমূহ এটা মাউছ, কিবৰ্ড, অথবা ট্ৰেকপেড ব্যৱহাৰ কৰি খেলিবলে ৰূপাঙ্কিত।</p>
+  </description>
+  <description lang="be">
+    <p>Aisleriot, таксама вядомы як саліцёр ці пасьянс, - гэта праграма-картачная гульня, якая падтрымлівае больш за 80 варыянтаў пасьянсу. У яе можна гуляць з дапамогай мышы, клавіятуры ці чулай панэлі.</p>
+  </description>
+  <description lang="bg">
+    <p>„Пасианси“ е набор от над 80 различни игри с карти за сам играч. Може да играете с мишка, клавиатура или сензорния панел.</p>
+  </description>
+  <description lang="bs">
+    <p>Aisleriot — poznat i kao sol ili solitier — je igra s kartama koja pruža preko 80 raznih pasijansa za igru mišem, tastaturom ili trakpedom.</p>
+  </description>
+  <description lang="ca">
+    <p>L'Aisleriot - també conegut com a sol o solitari - és una aplicació de jocs de cartes que conté fins a 80 tipus diferents de jocs de cartes semblants al solitari que estan pensats per a ser jugats amb un ratolí, teclat o ratolí tàctil.</p>
+  </description>
+  <description lang="ca@valencia">
+    <p>L'Aisleriot - també conegut com a sol o solitari - és una aplicació de jocs de cartes que conté fins a 80 tipus diferents de jocs de cartes semblants al solitari que estan pensats per ser jugats amb un ratolí, teclat o ratolí tàctil.</p>
+  </description>
+  <description lang="cs">
+    <p>Aisleriot, také známý jako Solitér, je karetní hra, která zahrnuje více než 80 různých karetních her pro jednoho hráče. Je navržena pro hraní myší, klavesnicí a touchpadem.</p>
+  </description>
+  <description lang="da">
+    <p>Aisleriot — også kendt som sol, solitaire eller kabale — er et kortspilsprogram som tilbyder over 80 forskellige kabaler, dvs. kortspil for en enkelt spiller, som er designet til at blive spillet med mus, tastatur eller pegeplade.</p>
+  </description>
+  <description lang="de">
+    <p>Aisleriot – auch bekannt als »Sol« oder «Solitaire« – ist ein Kartenspielprogramm, das mehr als 80 verschiedene Varianten des »Solitaire« Spiels zu bieten hat. Man kann sie mit mit allen Eingabegeräten spielen.</p>
+  </description>
+  <description lang="el">
+    <p>Aisleriot — γνωστό και ως sol ή πασιέντζα — είναι ένα παιχνίδι με χαρτιά με περισσότερους από 80 διαφορετικούς τύπους πασιέντζας, σχεδιασμένο για να παίξετε χρησιμοποιώντας το ποντίκι, το πληκτρολόγιο ή την πινακίδα αφής.</p>
+  </description>
+  <description lang="en_GB">
+    <p>Aisleriot — also known as sol or solitaire — is a card game application that features over 80 different solitaire-type card games which are designed to play using a mouse, keyboard, or trackpad.</p>
+  </description>
+  <description lang="eo">
+    <p>Aisleriot — ankaŭ konita kiel ermitludo — estas kartluda aplikaĵo kun pli ol 80 diversaj ermitludaj kartudoj, desegnitaj por ludi per muso, klavaro, aŭ tuŝplato.</p>
+  </description>
+  <description lang="es">
+    <p>Aisleriot (también conocido como sol o slitario) es una aplicación de juego de cartas que incluye 80 tipos de solitarios diferentes, diseñados para jugar con el ratón, el teclado o un «trackpad».</p>
+  </description>
+  <description lang="eu">
+    <p>Aisleriot — bakar-jokoa bezala ere ezaguna — 80 bakar-joko mota desberdin baino gehiago eskaintzen dituen karta-jokoen aplikazio bat da sagua, teklatua edo eta trackpad-a erabiliz jokatzeko.</p>
+  </description>
+  <description lang="fa">
+    <p>اِیل‌رایِت — به نام سول یا فال ورق نیز شناخته می‌شود — یک برنامهٔ بازی کارتی است که بیش از ۸۰ گونهٔ بازی‌های کارتی شبیه فال ورق را که برای بازی با موشی، صفحه‌کلید یا صفحهٔ لمسی طرّاحی شده‌اند را در بر دارد.</p>
+  </description>
+  <description lang="fi">
+    <p>Aisleriot - tunnetaan myös nimellä sol, solitaire tai pasianssi - on korttipelisovellus, jolla voi pelata yli 80:tä eri pasianssityyppistä peliä hiirtä, näppäimistöä tai kosketuslevyä käyttäen.</p>
+  </description>
+  <description lang="fr">
+    <p>Aisleriot — aussi connu sous le nom de sol ou solitaire — est un logiciel de jeu de cartes comportant plus de 80 jeux de cartes de type solitaire conçus pour être joués avec une souris, un clavier ou un pavé tactile.</p>
+  </description>
+  <description lang="fur">
+    <p>Aisleriot — cognossût ancje come solitari — al è un zûc di cjartis cun plui di 80 diviers zûcs di solitaris, pensâts par jessi zuiâts cun mouse, tastiere o trackpad.</p>
+  </description>
+  <description lang="gl">
+    <p>Aisleriot — tamén coñecido como sol ou solitario — é unha aplicación de xogo de cartas que conta con 80 xogos de cartas tipo solitario diferentes os cales están deseñados para xogar usando un rato, teclado ou área táctil.</p>
+  </description>
+  <description lang="he">
+    <p>‫Aisleriot — ידוע גם בשם סול או סוליטר — הוא יישום משחק קלפים שמציע למעלה מ־80 משחקי קלפים בסגנון סוליטר שתוכננו כך שניתן יהיה לשחק בהם הם עכבר, מקלדת או משטח מגע.</p>
+  </description>
+  <description lang="hr">
+    <p>Aisleriot — još poznat kao i pasijans — je aplikacija kartaške igra koja pruža preko 80 različitih izvedenica pasijans kartaških igra koje su dizajnirane za igranje pomoću miša, tipkovnice ili dodirne površine.</p>
+  </description>
+  <description lang="hu">
+    <p>Az Aisleriot - ismert még pasziánszként is - egy kártyajáték alkalmazás, amely több mint 80 különböző pasziánsz típusú kártyajátékot tartalmaz, amelyek egér, billentyűzet vagy érintőtábla használatával történő játékhoz lettek tervezve.</p>
+  </description>
+  <description lang="id">
+    <p>Aisleriot — juga dikenal sebagai sol atau solitaire — adalah aplikasi permainan kartu yang memiliki lebih dari 80 permainan kartu bertipe solitaire yang dirancang untuk dimainkan memakai tetikus, papan tik, atau trackpad.</p>
+  </description>
+  <description lang="is">
+    <p>Aisleriot — einnig þekkt sem sol eða solitaire — er spilaforrit sem inniheldur yfir 80 spilakapla, sem hægt er að leggja með því að nota músina, lyklaborð eða snertiplatta.</p>
+  </description>
+  <description lang="it">
+    <p>Aisleriot, noto anche come solitario, è un gioco di carte con oltre 80 diversi giochi di solitari pensati per essere giocati con mouse, tastiera o trackpad.</p>
+  </description>
+  <description lang="ko">
+    <p>아일라이어트(솔리테어)는 80가지의 솔리테어 형식의 카드 게임이 들어 있는 카드 게임 프로그램입니다. 마우스, 키보드, 트랙패드를 사용해 즐길 수 있습니다.</p>
+  </description>
+  <description lang="lt">
+    <p>Aisleriot — dar žinomas kaip soliteris — yra kortų žaidimo programa su 80 skirtingų soliterio tipo kortų žaidimų, skirtų žaisti pele, klaviatūra ar jutikliniu kilimėliu.</p>
+  </description>
+  <description lang="lv">
+    <p>Aisleriot — zināms arī kā sol vai pasjans — ir kāršu spēļu lietotne, kura ir vairāk kā 80 dažādu pasjansa veida kāršu spēles, kuras var spēlēt ar peli, tastatūru vai skārienpaliktni.</p>
+  </description>
+  <description lang="ms">
+    <p>Aisleroit — juga dikenali sebagai sol atau solitaire — merupakan sebuah aplikasi permainan kad yang memfiturkan lebih dari 80 permainan kad jenis-solitaire berbeza yang direka untuk bermain dengan tetikus, papan kekunci, atau pad jejak.</p>
+  </description>
+  <description lang="nb">
+    <p>Aisleriot – også kjent som solitaire – er et kortspill som har over 80 forskjellige kabalspill som er laget for å spilles med mus, tastatur eller trackpad.</p>
+  </description>
+  <description lang="ne">
+    <p>एस्लेरिओट लाई सोल वा सोलिटेयर पनि भनिन्छ ।. यो कार्ड गेम को अनुप्रयोग हो जसमा ८० भन्दा बढी सोलिटेयर प्रकारका कार्ड गेमहरू हुन्छन् जुन माउस, किबोर्ड वा ट्रयाकप्याड प्रयोग गरेर खेल्नका लागि डिजाइन गरिएका हुन्छन् ।.</p>
+  </description>
+  <description lang="nl">
+    <p>Aisleriot — ook bekend als patience — is een kaartspeltoepassing die beschikt over meer dan 80 verschillende patience-kaartspellen die zijn ontworpen om met een muis, toetsenbord of trackpad te spelen.</p>
+  </description>
+  <description lang="oc">
+    <p>Aisleriot — tanben conegut jol nom de sol o solitari — es un logicial de jòc de cartas que compòrta mai de 80 jòcs de cartas de tipe solitari concebuts per èsser jogats amb una mirga, un clavièr o un pavat tactil.</p>
+  </description>
+  <description lang="pl">
+    <p>AisleRiot to program do gier karcianych, zawierający ponad 80 różnych gier typu pasjans, zaprojektowanych do grania za pomocą myszy, klawiatury lub panelu dotykowego.</p>
+  </description>
+  <description lang="pt">
+    <p>Aisleriot — também conhecido como sol ou solitário — é uma aplicação de jogos de cartas com mais de 80 jogos diferentes, desenhados para funcionar com o rato, teclado ou trackpad.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>O Aisleriot — também conhecido como sol ou paciência — é um aplicativo de jogo de cartas que apresenta mais de 80 tipos diferentes de jogos projetados para serem disputados usando um mouse, teclado, ou trackpad.</p>
+  </description>
+  <description lang="ro">
+    <p>Aisleriot — cunoscut de asemenea ca sol sau solitaire — este o aplicație de jocuri de cărți care oferă peste 80 de jocuri de cărți de tip solitaire diferite care sunt concepute pentru a le juca utilizând un maus, o tastatură, sau un trackpad.</p>
+  </description>
+  <description lang="ru">
+    <p>Айслериот (известный также как sol) — это приложение, предлагающее более 80 различных пасьянсов и ориентированное на использование мыши, клавиатуры или трекпада.</p>
+  </description>
+  <description lang="sk">
+    <p>Hra Aisleriot - tiež známa ako sol alebo solitér - je kartová hra, ktorá disponuje s viac ako 80 rôznymi kartovými hrami typu solitér, ktoré sú navrhnuté na hranie pomocou myši, klávesnice alebo trackpadu.</p>
+  </description>
+  <description lang="sl">
+    <p>Pesjansa Aisleriot je igra s kartami, ki omogoča igranje 80 različic igre z uporabo miške, tipkovnice in sledilne ploščice.</p>
+  </description>
+  <description lang="sr">
+    <p>Пасијанс — такође познат као соло — је програм карташких игара који садржи преко 80 различитих карташких игара за једног играча које су осмишљене за играње мишем, тастатуром или додирном таблом.</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Pasijans — takođe poznat kao solo — je program kartaških igara koji sadrži preko 80 različitih kartaških igara za jednog igrača koje su osmišljene za igranje mišem, tastaturom ili dodirnom tablom.</p>
+  </description>
+  <description lang="sv">
+    <p>Aisleriot — även känt som sol eller patiens — är ett kortspelsprogram med över 80 olika patienser som är designade för att spelas med mus, tangentbord eller styrplatta.</p>
+  </description>
+  <description lang="tr">
+    <p>Aisleriot — sol ya da solitaire olarak da bilinir — bir fare, klavye ya da dokunmatik iz sürücü kullanarak oynamak üzere tasarlanmış 80’den fazla solitaire tipi kart oyunu sunan bir kart oyunu uygulamasıdır.</p>
+  </description>
+  <description lang="uk">
+    <p>Айслеріот — також відомий як пасьянс — програма з понад 80 карткових ігор на кшталт пасьянсу, які створено для гри мишею, клавіатурою та тягучою панеллю. </p>
+  </description>
+  <description lang="zh_CN">
+    <p>Aisleriot —— 又称 sol 或 solitaire（纸牌）—— 带有超过 80 种设计给鼠标、键盘或触摸板的纸牌类型游戏。</p>
+  </description>
+  <description lang="zh_HK">
+    <p>Aisleriot — 亦稱為接龍遊戲 — 是由超過 80 種不同類型的接龍型啤牌遊戲應用程式，專為使用滑鼠、鍵盤或觸控板而設計。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>Aisleriot — 亦稱為接龍遊戲 — 是由超過 80 種不同類型的接龍型紙牌遊戲應用程式，專為使用滑鼠、鍵盤或觸控板而設計。</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;do=get&amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="zh_TW">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="zh_CN">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="uk">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="tr">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="sv">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="sr">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="sl">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="sk">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="ru">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="ro">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="pt_BR">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="pt">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="pl">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="oc">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="nl">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="ne">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="nb">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="ms">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="lv">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;do=view&amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="lt">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="ko">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="kk">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="it">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="is">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="id">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="hu">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="hr">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="he">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="gl">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="fur">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="fr">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png.fr</screenshot>
+    <screenshot lang="fi">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="fa">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="eu">GPL 3.0</screenshot>
+    <screenshot lang="es">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="en_GB">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="el">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="de">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="da">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="cs">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+    <screenshot lang="ca">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;amp;do=get&amp;amp;target=aisleriot-3.10.png</screenshot>
+  </screenshots>
+  <kudos>
+    <kudo>AppMenu</kudo>
+    <kudo lang="zh_TW">AppMenu</kudo>
+    <kudo lang="zh_CN">应用程序菜单</kudo>
+    <kudo lang="uk">AppMenu</kudo>
+    <kudo lang="tr">AppMenu</kudo>
+    <kudo lang="sv">AppMenu</kudo>
+    <kudo lang="sr">Апмени</kudo>
+    <kudo lang="sl">AppMenu</kudo>
+    <kudo lang="sk">AppMenu</kudo>
+    <kudo lang="ru">AppMenu</kudo>
+    <kudo lang="ro">AppMenu</kudo>
+    <kudo lang="pt_BR">AppMenu</kudo>
+    <kudo lang="pt">Menu da aplicação</kudo>
+    <kudo lang="pl">AppMenu</kudo>
+    <kudo lang="oc">AppMenu</kudo>
+    <kudo lang="nl">AppMenu</kudo>
+    <kudo lang="ne">अनुप्रयोगमेनु</kudo>
+    <kudo lang="nb">AppMenu</kudo>
+    <kudo lang="ms">AppMenu</kudo>
+    <kudo lang="lv">Izvēlne</kudo>
+    <kudo lang="lt">AppMenu</kudo>
+    <kudo lang="ko">AppMenu</kudo>
+    <kudo lang="kk">AppMenu</kudo>
+    <kudo lang="it">AppMenu</kudo>
+    <kudo lang="is">Forritsvalmynd</kudo>
+    <kudo lang="id">AppMenu</kudo>
+    <kudo lang="hu">AppMenu</kudo>
+    <kudo lang="hr">Izbornik aplikacije</kudo>
+    <kudo lang="he">תפריט יישומים</kudo>
+    <kudo lang="gl">AppMenu</kudo>
+    <kudo lang="fur">AppMenu</kudo>
+    <kudo lang="fr">AppMenu</kudo>
+    <kudo lang="fi">AppMenu</kudo>
+    <kudo lang="fa">فهرست کاره</kudo>
+    <kudo lang="eu">AppMenu</kudo>
+    <kudo lang="es">AppMenu</kudo>
+    <kudo lang="en_GB">AppMenu</kudo>
+    <kudo lang="el">Μενού εφαρμογής</kudo>
+    <kudo lang="de">Anwendungsmenü</kudo>
+    <kudo lang="da">AppMenu</kudo>
+    <kudo lang="cs">AppMenu</kudo>
+    <kudo lang="ca">AppMenu</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo lang="zh_TW">ModernToolkit</kudo>
+    <kudo lang="zh_CN">现代工具箱</kudo>
+    <kudo lang="uk">ModernToolkit</kudo>
+    <kudo lang="tr">ModernToolkit</kudo>
+    <kudo lang="sv">ModernToolkit</kudo>
+    <kudo lang="sr">СавремениСкупАлата</kudo>
+    <kudo lang="sl">ModernToolkit</kudo>
+    <kudo lang="sk">ModernToolkit</kudo>
+    <kudo lang="ru">ModernToolkit</kudo>
+    <kudo lang="ro">ModernToolkit</kudo>
+    <kudo lang="pt_BR">ModernToolkit</kudo>
+    <kudo lang="pt">Ferramentas modernas</kudo>
+    <kudo lang="pl">ModernToolkit</kudo>
+    <kudo lang="oc">ModernToolkit</kudo>
+    <kudo lang="nl">ModernToolkit</kudo>
+    <kudo lang="ne">आधुनिक टुलकिट</kudo>
+    <kudo lang="nb">ModernToolkit</kudo>
+    <kudo lang="ms">ModernToolkit</kudo>
+    <kudo lang="lv">Rīkkopa</kudo>
+    <kudo lang="lt">ModernToolkit</kudo>
+    <kudo lang="ko">ModernToolkit</kudo>
+    <kudo lang="kk">ModernToolkit</kudo>
+    <kudo lang="it">ModernToolkit</kudo>
+    <kudo lang="is">NímalegtTólasett</kudo>
+    <kudo lang="id">ModernToolkit</kudo>
+    <kudo lang="hu">ModernToolkit</kudo>
+    <kudo lang="hr">Moderan komplet alata</kudo>
+    <kudo lang="he">ערכת כלים מודרנית</kudo>
+    <kudo lang="gl">ModernToolkit</kudo>
+    <kudo lang="fur">ModernToolkit</kudo>
+    <kudo lang="fr">ModernToolkit</kudo>
+    <kudo lang="fi">ModernToolkit</kudo>
+    <kudo lang="fa">جعبه‌ابزار نوین</kudo>
+    <kudo lang="eu">ModernToolkit</kudo>
+    <kudo lang="es">ModernToolkit</kudo>
+    <kudo lang="en_GB">ModernToolkit</kudo>
+    <kudo lang="el">Σύγχρονη εργαλειοθήκη</kudo>
+    <kudo lang="de">ModernToolkit</kudo>
+    <kudo lang="da">ModernToolkit</kudo>
+    <kudo lang="cs">ModernToolkit</kudo>
+    <kudo lang="ca">ModernToolkit</kudo>
+    <kudo>UserDocs</kudo>
+    <kudo lang="zh_TW">UserDocs</kudo>
+    <kudo lang="zh_CN">用户文档</kudo>
+    <kudo lang="uk">UserDocs</kudo>
+    <kudo lang="tr">UserDocs</kudo>
+    <kudo lang="sv">UserDocs</kudo>
+    <kudo lang="sr">КорисничкаДокументација</kudo>
+    <kudo lang="sl">Uporabniška dokumentacija</kudo>
+    <kudo lang="sk">UserDocs</kudo>
+    <kudo lang="ru">UserDocs</kudo>
+    <kudo lang="ro">UserDocs</kudo>
+    <kudo lang="pt_BR">UserDocs</kudo>
+    <kudo lang="pt">Documentos de utilizador</kudo>
+    <kudo lang="pl">UserDocs</kudo>
+    <kudo lang="oc">Docs utilizaire</kudo>
+    <kudo lang="nl">UserDocs</kudo>
+    <kudo lang="ne">UserDocs</kudo>
+    <kudo lang="nb">UserDocs</kudo>
+    <kudo lang="ms">UserDocs</kudo>
+    <kudo lang="lv">Lietotāja dokumentācija</kudo>
+    <kudo lang="lt">UserDocs</kudo>
+    <kudo lang="ko">UserDocs</kudo>
+    <kudo lang="kk">UserDocs</kudo>
+    <kudo lang="it">UserDocs</kudo>
+    <kudo lang="is">Handbækur</kudo>
+    <kudo lang="id">UserDocs</kudo>
+    <kudo lang="hu">UserDocs</kudo>
+    <kudo lang="hr">Korisnička dokumentacija</kudo>
+    <kudo lang="he">תיעוד למשתמשים</kudo>
+    <kudo lang="gl">UserDocs</kudo>
+    <kudo lang="fur">UserDocs</kudo>
+    <kudo lang="fr">UserDocs</kudo>
+    <kudo lang="fi">UserDocs</kudo>
+    <kudo lang="fa">مستندات کاربری</kudo>
+    <kudo lang="eu">UserDocs</kudo>
+    <kudo lang="es">UserDocs</kudo>
+    <kudo lang="en_GB">UserDocs</kudo>
+    <kudo lang="el">Έγγραφα χρήστη</kudo>
+    <kudo lang="de">BenutzerDokumentation</kudo>
+    <kudo lang="da">UserDocs</kudo>
+    <kudo lang="cs">UserDocs</kudo>
+    <kudo lang="ca">UserDocs</kudo>
+  </kudos>
+  <url type="homepage">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="zh_TW">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="zh_CN">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="uk">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="tr">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="sv">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="sr">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="sl">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="sk">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="ru">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="ro">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="pt_BR">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="pt">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="pl">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="oc">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="nl">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="ne">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="nb">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="ms">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="lv">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="lt">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="ko">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="kk">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="ja">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="it">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="is">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="id">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="hu">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="hr">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="he">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="gl">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="fur">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="fr">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="fi">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="fa">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="eu">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="es">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="en_GB">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="el">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="de">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="da">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="cs">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="ca">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <project_group>GNOME</project_group>
+  <project_group lang="zh_TW">GNOME</project_group>
+  <project_group lang="zh_CN">GNOME</project_group>
+  <project_group lang="uk">GNOME</project_group>
+  <project_group lang="tr">GNOME</project_group>
+  <project_group lang="sv">GNOME</project_group>
+  <project_group lang="sr">Гном</project_group>
+  <project_group lang="sl">GNOME</project_group>
+  <project_group lang="sk">GNOME</project_group>
+  <project_group lang="ru">GNOME</project_group>
+  <project_group lang="ro">GNOME</project_group>
+  <project_group lang="pt_BR">GNOME</project_group>
+  <project_group lang="pt">GNOME</project_group>
+  <project_group lang="pl">GNOME</project_group>
+  <project_group lang="oc">GNOME</project_group>
+  <project_group lang="nl">Gnome</project_group>
+  <project_group lang="ne">जिनोम</project_group>
+  <project_group lang="nb">GNOME</project_group>
+  <project_group lang="ms">GNOME</project_group>
+  <project_group lang="lv">GNOME</project_group>
+  <project_group lang="lt">GNOME</project_group>
+  <project_group lang="ko">그놈</project_group>
+  <project_group lang="kk">GNOME</project_group>
+  <project_group lang="ja">GNOME</project_group>
+  <project_group lang="it">GNOME</project_group>
+  <project_group lang="is">GNOME</project_group>
+  <project_group lang="id">GNOME</project_group>
+  <project_group lang="hu">GNOME</project_group>
+  <project_group lang="hr">GNOME</project_group>
+  <project_group lang="he">GNOME</project_group>
+  <project_group lang="gl">GNOME</project_group>
+  <project_group lang="fur">GNOME</project_group>
+  <project_group lang="fr">GNOME</project_group>
+  <project_group lang="fi">GNOME</project_group>
+  <project_group lang="fa">گنوم</project_group>
+  <project_group lang="eu">GNOME</project_group>
+  <project_group lang="es">GNOME</project_group>
+  <project_group lang="en_GB">GNOME</project_group>
+  <project_group lang="el">GNOME</project_group>
+  <project_group lang="de">GNOME</project_group>
+  <project_group lang="da">GNOME</project_group>
+  <project_group lang="cs">GNOME</project_group>
+  <project_group lang="ca">GNOME</project_group>
+  <translation type="gettext">aisleriot</translation>
+  <translation lang="zh_TW">aisleriot</translation>
+  <translation lang="zh_CN">aisleriot</translation>
+  <translation lang="uk">aisleriot</translation>
+  <translation lang="tr">aisleriot</translation>
+  <translation lang="sv">aisleriot</translation>
+  <translation lang="sr">пасијанс</translation>
+  <translation lang="sl">aisleriot</translation>
+  <translation lang="sk">aisleriot</translation>
+  <translation lang="ru">Айслериот</translation>
+  <translation lang="ro">aisleriot</translation>
+  <translation lang="pt_BR">aisleriot</translation>
+  <translation lang="pt">aisleriot</translation>
+  <translation lang="pl">aisleriot</translation>
+  <translation lang="oc">aisleriot</translation>
+  <translation lang="nl">aisleriot</translation>
+  <translation lang="ne">एस्लेरिओट</translation>
+  <translation lang="nb">aisleRiot</translation>
+  <translation lang="ms">aisleriot</translation>
+  <translation lang="lv">aisleriot</translation>
+  <translation lang="lt">aisleriot</translation>
+  <translation lang="ko">아일라이어트</translation>
+  <translation lang="kk">aisleriot</translation>
+  <translation lang="ja">aisleriot</translation>
+  <translation lang="it">aisleriot</translation>
+  <translation lang="is">aisleriot</translation>
+  <translation lang="id">aisleriot</translation>
+  <translation lang="hu">aisleriot</translation>
+  <translation lang="hr">aisleriot</translation>
+  <translation lang="he">aisleriot</translation>
+  <translation lang="gl">aisleriot</translation>
+  <translation lang="fur">aisleriot</translation>
+  <translation lang="fr">aisleriot</translation>
+  <translation lang="fi">aisleriot</translation>
+  <translation lang="fa">اِیل‌رایِت</translation>
+  <translation lang="eu">aisleriot</translation>
+  <translation lang="es">aisleriot</translation>
+  <translation lang="en_GB">aisleriot</translation>
+  <translation lang="el">aisleriot</translation>
+  <translation lang="de">AisleRiot</translation>
+  <translation lang="da">kabale</translation>
+  <translation lang="cs">aisleriot</translation>
+  <translation lang="ca">aisleriot</translation>
+</component>

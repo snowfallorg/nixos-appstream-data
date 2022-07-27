@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>gnome.gnome-calendar</pkgname>
+  <launchable type="desktop-id">org.gnome.Calendar.desktop</launchable>
+  <icon type="cached" width="64" height="64">org.gnome.Calendar.png</icon>
+  <icon type="cached" height="128" width="128">org.gnome.Calendar.png</icon>
+  <id>org.gnome.Calendar.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <name>Calendar</name>
+  <name lang="zh_TW">行事曆</name>
+  <name lang="zh_HK">行事曆</name>
+  <name lang="zh_CN">日历</name>
+  <name lang="vi">Lịch</name>
+  <name lang="uk">Календар</name>
+  <name lang="tr">Takvim</name>
+  <name lang="th">ปฏิทิน</name>
+  <name lang="tg">Тақвим</name>
+  <name lang="ta">நாள்காட்டி</name>
+  <name lang="sv">Kalender</name>
+  <name lang="sr@latin">Kalendar</name>
+  <name lang="sr">Календар</name>
+  <name lang="sl">Koledar</name>
+  <name lang="sk">Kalendár</name>
+  <name lang="ru">Календарь</name>
+  <name lang="ro">Calendar</name>
+  <name lang="pt_BR">Calendário</name>
+  <name lang="pt">Calendário</name>
+  <name lang="pl">Kalendarz</name>
+  <name lang="pa">ਕੈਲੰਡਰ</name>
+  <name lang="oc">Agenda</name>
+  <name lang="nl">Agenda</name>
+  <name lang="ne">पात्रो</name>
+  <name lang="nb">Kalender</name>
+  <name lang="ms">Kalendar</name>
+  <name lang="ml">കലണ്ടർ</name>
+  <name lang="mjw">Calendar</name>
+  <name lang="lv">Kalendārs</name>
+  <name lang="lt">Kalendorius</name>
+  <name lang="ko">달력</name>
+  <name lang="kk">Күнтізбе</name>
+  <name lang="kab">Awitay</name>
+  <name lang="ja">カレンダー</name>
+  <name lang="it">Calendario</name>
+  <name lang="is">Dagatal</name>
+  <name lang="id">Kalender</name>
+  <name lang="hu">Naptár</name>
+  <name lang="hr">Kalendar</name>
+  <name lang="he">לוח שנה</name>
+  <name lang="gl">Calendario</name>
+  <name lang="gd">Am mìosachan</name>
+  <name lang="ga">Féilire</name>
+  <name lang="fy">Kalinder</name>
+  <name lang="fur">Calendari</name>
+  <name lang="fr">Agenda</name>
+  <name lang="fi">Kalenteri</name>
+  <name lang="fa">تقویم</name>
+  <name lang="eu">Egutegia</name>
+  <name lang="et">Kalender</name>
+  <name lang="es">Calendario</name>
+  <name lang="eo">Kalendaro</name>
+  <name lang="en_GB">Calendar</name>
+  <name lang="el">Ημερολόγιο</name>
+  <name lang="de">Kalender</name>
+  <name lang="da">Kalender</name>
+  <name lang="cs">Kalendář</name>
+  <name lang="ckb">ڕۆژژمێر</name>
+  <name lang="ca@valencia">Calendari</name>
+  <name lang="ca">Calendari</name>
+  <name lang="bs">Kalendar</name>
+  <name lang="bg">Календар</name>
+  <name lang="be">Каляндар</name>
+  <name lang="ar">التقويم</name>
+  <name lang="an">Calandario</name>
+  <name lang="af">Kalender</name>
+  <summary>Calendar for GNOME</summary>
+  <summary lang="zh_TW">GNOME 的行事曆</summary>
+  <summary lang="zh_CN">GNOME 日历</summary>
+  <summary lang="vi">Lịch cho Gnome</summary>
+  <summary lang="uk">Календар для GNOME</summary>
+  <summary lang="tr">GNOME için Takvim</summary>
+  <summary lang="th">ปฏิทินสำหรับ GNOME</summary>
+  <summary lang="tg">Тақвим барои GNOME</summary>
+  <summary lang="sv">Kalender för GNOME</summary>
+  <summary lang="sr@latin">Kalendar za Gnom</summary>
+  <summary lang="sr">Календар за Гном</summary>
+  <summary lang="sl">Koledar za GNOME</summary>
+  <summary lang="sk">Kalendár prostredia GNOME</summary>
+  <summary lang="ru">Календарь для среды рабочего стола GNOME</summary>
+  <summary lang="ro">Calendar pentru GNOME</summary>
+  <summary lang="pt_BR">Calendário do GNOME</summary>
+  <summary lang="pt">Calendário para o GNOME</summary>
+  <summary lang="pl">Kalendarz dla środowiska GNOME</summary>
+  <summary lang="pa">ਗਨੋਮ ਲਈ ਕੈਲੰਡਰ</summary>
+  <summary lang="oc">Agenda per GNOME</summary>
+  <summary lang="nl">Agenda voor Gnome</summary>
+  <summary lang="ne">जिनोमको पात्रो</summary>
+  <summary lang="nb">Kalender for GNOME</summary>
+  <summary lang="ms">Kalendar untuk GNOME</summary>
+  <summary lang="ml">ഗ്നോമിന്റെ കലണ്ടർ</summary>
+  <summary lang="mjw">GNOME phan Calendar</summary>
+  <summary lang="lv">Kalendārs GNOME videi</summary>
+  <summary lang="lt">GNOME kalendorius</summary>
+  <summary lang="ko">그놈용 달력 메모</summary>
+  <summary lang="kk">GNOME үшін күнтізбе</summary>
+  <summary lang="ja">GNOME のカレンダー</summary>
+  <summary lang="it">Calendario per GNOME</summary>
+  <summary lang="is">Dagatal fyrir GNOME</summary>
+  <summary lang="id">Kalender untuk GNOME</summary>
+  <summary lang="hu">Naptár a GNOME-hoz</summary>
+  <summary lang="hr">Kalendar za GNOME</summary>
+  <summary lang="he">לוח שנה עבור GNOME</summary>
+  <summary lang="gl">Calendario de GNOME</summary>
+  <summary lang="gd">Mìosachan airson GNOME</summary>
+  <summary lang="ga">Féilire do GNOME</summary>
+  <summary lang="fy">Kalinder foar GNOME</summary>
+  <summary lang="fur">Calendari par GNOME</summary>
+  <summary lang="fr">Agenda de GNOME</summary>
+  <summary lang="fi">Kalenteri Gnome-työpöydälle</summary>
+  <summary lang="fa">تقویم برای گنوم</summary>
+  <summary lang="eu">GNOMEren egutegia</summary>
+  <summary lang="et">Kalender GNOME’ile</summary>
+  <summary lang="es">Calendario para GNOME</summary>
+  <summary lang="eo">Kalendaro por GNOME</summary>
+  <summary lang="en_GB">Calendar for GNOME</summary>
+  <summary lang="el">Ημερολόγιο του GNOME</summary>
+  <summary lang="de">Kalender für GNOME</summary>
+  <summary lang="da">Kalender til GNOME</summary>
+  <summary lang="cs">Kalendář pro GNOME</summary>
+  <summary lang="ckb">ڕۆژژمێر بۆ گنۆم</summary>
+  <summary lang="ca@valencia">Calendari per al GNOME</summary>
+  <summary lang="ca">Calendari per al GNOME</summary>
+  <summary lang="bs">Kalendar za GNOME</summary>
+  <summary lang="bg">Календар за GNOME</summary>
+  <summary lang="be">Каляндар для GNOME</summary>
+  <summary lang="ar">تطبيق تقويم لجنوم</summary>
+  <summary lang="an">Calandario ta GNOME</summary>
+  <summary lang="af">Kalender vir GNOME</summary>
+  <description>
+    <p>
+      GNOME Calendar is a simple and beautiful calendar application designed to perfectly fit the GNOME
+      desktop. By reusing the components which the GNOME desktop is built on, Calendar nicely integrates
+      with the GNOME ecosystem.
+    </p>
+    <p>
+      We aim to find the perfect balance between nicely crafted features and user-centred usability. No
+      excess, nothing missing. You’ll feel comfortable using Calendar, like you’ve been using it for ages!
+    </p>
+  </description>
+  <description lang="af">
+    <p>GNOME Kalender is 'n eenvoudige en elegante kalender toepassing ontwerp om met GNOME te integreer. Deur komponente waarop GNOME gebou is te hergebruik, pas dit mooi in die GNOME ekosisteem in.</p>
+    <p>Ons streef daarna om die perfekte balans te kry tussen goed ontwikkelde funksies en bruikbaarheid. Nie te veel of te min nie. U sal gemaklik voel om Kalender te gebruik, asof u dit al 'n ewigheid gebruik!</p>
+  </description>
+  <description lang="ar">
+    <p>«تقويم جنوم» هو تطبيق تقويم جميل و بسيط مصمّم ليلائم سطح مكتب جنوم تماما. يتكامل التقويم مع نظام جنوم البيئي باستخدام المكونات التي بُني عليها سطح مكتب جنوم.</p>
+  </description>
+  <description lang="be">
+    <p>Каляндар GNOME - гэта простая і прыгожая праграма, распрацаваная для працоўнага асяроддзя GNOME. Праграма распрацаваная з дапамогай кампанентаў, якія выкарыстоўваліся падчас стварэння працоўнага стала GNOME, таму каляндар выдатна інтэгруецца ў экасістэму GNOME.</p>
+    <p>Нашай мэтай было знайсці ідэальны баланс паміж прыгожым выглядам і зручнасцю выкарыстання. Нічога лішняга, ніякіх недахопаў. Вам будзе камфортна, нібыта вы карысталіся ім заўсёды!</p>
+  </description>
+  <description lang="bg">
+    <p>Календарите на GNOME са красива и лесна за употреба програма, която се вписва чудесно в работната среда. Календарите използват същите графичните компоненти като средата GNOME и се интегрират правилно с екосистемата на работната среда.</p>
+    <p>Целта е перфектният баланс от лекота на употреба и наличие на необходимата функционалност. Няма излишни неща, но и нищо не липсва. Ще се чувствате на правилното място с Календарите.</p>
+  </description>
+  <description lang="ca">
+    <p>El Calendari del GNOME és una aplicació de calendari simple i bonica dissenyada per a encaixar perfectament amb l'escriptori GNOME. Gràcies a la reutilització dels components amb què s'ha construït l'escriptori GNOME, el calendari s'integra bé amb l'ecosistema GNOME.</p>
+    <p>El nostre objectiu és trobar l'equilibri perfecte entre característiques ben elaborades i usabilitat centrada en l'usuari. Sense excessos ni mancances. Us trobareu a gust usant el Calendari, com si l'haguéssiu utilitzat sempre!</p>
+  </description>
+  <description lang="ckb">
+    <p>ڕۆژژمێری گنۆم بریتییە لە داوانامەیەکی سانا و جوان کە درووستکراوە بۆ ئەوەی بەباشی بگونجێت لەگەڵ ڕوومێزی گنۆم. بەبەکارهێنانی هەمان پێکهاتەکانی ڕوومێزی گنۆم، ڕۆژژمێر بەباشی تێکەڵدەبێت لە ژینگەی گنۆم.</p>
+  </description>
+  <description lang="cs">
+    <p>Kalendář GNOME je jednoduchá a hezká kalendářová aplikace navržená tak, aby skvěle zapadla do pracovního prostředí GNOME. Díky využití komponent, na kterých je pracovní prostředí GNOME vybudováno, Kalendář krásně pasuje do celého ekosystému.</p>
+    <p>Cílem vývojářů bylo najít rovnováhu mezi propracovanými funkcemi a použitelností pro uživatele. Nic nepřebývá, nic neschází. Používání Kalendáře vám sedne, jako byste jej používali už věky.</p>
+  </description>
+  <description lang="da">
+    <p>GNOME Kalender er et simpelt og smukt kalenderprogram designet til at passe perfekt med GNOME-skrivebordet. Ved at genbruge komponenterne, som GNOME-skrivebordet er bygget med, er Kalender godt integreret i GNOME-økosystemet.</p>
+    <p>Vi bestræber os på at finde den perfekte balance mellem fint udarbejdede funktioner og brugervenlighed. Ingen overflod, ingen mangler. Du kan bruge Kalender, som om du har brugt det længe!</p>
+  </description>
+  <description lang="de">
+    <p>GNOME Kalender ist eine einfache und schöne Kalenderverwaltung, entwickelt, um sich perfekt in die GNOME-Arbeitsumgebung einzufügen. Durch die Wiederverwendung von Komponenten, auf denen die GNOME-Arbeitsumgebung basiert, integriert sich der Kalender wunderbar in das GNOME-Ökosystem.</p>
+    <p>Wir streben die perfekte Balance an zwischen schön gestalteten Funktionen und Benutzerfreundlichkeit. Nicht mehr, nicht weniger. Sie werden sich bei der Verwendung von Kalender wohl fühlen, so als ob Sie ihn schon seit Jahren nutzen!</p>
+  </description>
+  <description lang="el">
+    <p>Το Ημερολόγιο GNOME είναι μια απλή και όμορφη εφαρμογή ημερολογίου που σχεδιάστηκε ώστε να ταιριάζει τέλεια με το γραφικό περιβάλλον GNOME. Με την επαναχρησιμοποίηση των συστατικών στα οποία το γραφικό περιβάλλον GNOME έχει βασιστεί, το Ημερολόγιο ενσωματώνεται όμορφα στο οικοσύστημα του GNOME.</p>
+    <p>Στόχος μας είναι να βρούμε την τέλεια ισορροπία ανάμεσα σε ωραία σχεδιασμένα χαρακτηριστικά και ευχρηστία για τον χρήστη. Χωρίς υπερβολές, χωρίς στερήσεις. Δεν υπάρχει υπερβολή, τίποτα δεν λείπει. Θα αισθάνεστε άνετα χρησιμοποιώντας το Ημερολόγιο, σαν να το χρησιμοποιούσατε για πολύ καιρό!</p>
+  </description>
+  <description lang="en_GB">
+    <p>GNOME Calendar is a simple and beautiful calendar application designed to perfectly fit the GNOME desktop. By reusing the components which the GNOME desktop is built on, Calendar nicely integrates with the GNOME ecosystem.</p>
+    <p>We aim to find the perfect balance between nicely crafted features and user-centred usability. No excess, nothing missing. You’ll feel comfortable using Calendar, like you’ve been using it for ages!</p>
+  </description>
+  <description lang="eo">
+    <p>GNOME-Kalendaro estas simpla kaj bela kalendar-aplikaĵo desegnita por perfekte konveni la GNOME-labortablon. Per reuzado de la eroj sur kiuj la GNOME-labortablo estas konstruita, Kalendaro agrable integriĝas en la ekosistemo de GNOME.</p>
+    <p>Ni celas trovi la perfektan egalpezon inter agrable formitaj eblecoj kaj uzanto-centrita afableco. Neniuj troigoj, neniuj mankoj. Vi komforte fartos dum uzado de Kalendaro, samkiel vi estis uzanta ĝin dum longa tempo!</p>
+  </description>
+  <description lang="es">
+    <p>Calendario de GNOME es una aplicación de calendario bonita y sencilla diseñada para ajustarse perfectamente al escritorio GNOME. Al reutilizar componentes con los que se ha construido el escritorio GNOME, Calendario se integra muy bien con el entorno de GNOME.</p>
+    <p>Se ha tratado de buscar el equilibrio entre características bien elaboradas y la usabilidad centrada en el usuario. No hay excesos ni carencias. Se sentirá cómodo usando Calendario, como si llevara años usándolo.</p>
+  </description>
+  <description lang="et">
+    <p>GNOME Kalender on lihtne ja kena kalendrirakendus, mis sobitub ideaalselt GNOME töölauaga. Kuna Kalender kasutab samu komponente, millele on üles ehitatud GNOME töölaud, integreerub ta GNOME’i ökosüsteemiga suurepäraselt.</p>
+    <p>Meie eesmärk on leida täiuslik tasakaal hästi väljatöötatud võimaluste ja kasutajasõbralikkuse vahel. Hoidume üleliigsest, kuid samas seisame hea selle eest, et kõik oluline oleks sinu käsutuses. Kalendrit on nii mugav kasutada, et seda proovides tekib sul kiiresti tunne, nagu oleksite juba vanad tuttavad!</p>
+  </description>
+  <description lang="eu">
+    <p>GNOME Calendar egutegien aplikazio sotil eta ederra da, GNOME mahaigainean primeran integratu dadin diseinatua. GNOME mahaigainak oinarritzat dituen osagaiak berrerabilita, Calendar ederto integratzen da GNOME ekosisteman.</p>
+    <p>Oreka egokia bilatu nahi dugu ongi eraikitako eginbideen eta erabiltzailean zentratutako erabilgarritasunaren artean. Ezer ez soberan, ezer ez faltan. Eroso arituko zara Calendar erabilita, betidanik erabili izan bazenu bezala!</p>
+  </description>
+  <description lang="fa">
+    <p>تقویم گنوم یک برنامه ساده و زیبای تقویم است که به گونه‌ای طراحی شده است تا کاملاً مطابق میزکار گنوم باشد. با استفاده از اجزایی که میزکار گنوم از آن‌ها تشکیل شده، تقویم کاملاً با زیست‌بوم گنوم سازگار است.</p>
+    <p>هدف ما پیدا کردن نقطهٔ عطف خوش‌ساختی و کاربردپذیری است. جامع و مانع .هنگام استفاده از تقویم چنان راحتی خواهید بود که انگار که سال‌هاست از آن استفاده می‌کنید!</p>
+  </description>
+  <description lang="fi">
+    <p>Gnomen kalenteri on yksinkertainen ja nätti sovellus tapahtumien sekä aikataulujen hallintaan.</p>
+    <p>Tavoite on löytää sopiva tasapaino hyödyllisien ominaisuuksien sekä käytettävyyden välillä. Ei liikaa, ei liian vähän. Kalenterin käyttö on yhtä helppoa kuin aina ennenkin!</p>
+  </description>
+  <description lang="fr">
+    <p>Agenda de GNOME est un agenda simple et de belle facture, conçu pour s’intégrer parfaitement au bureau GNOME. En réutilisant les composants sur lesquels le bureau GNOME est construit, Agenda s’intègre à la perfection à l’écosystème GNOME.</p>
+    <p>Nous recherchons l’équilibre parfait entre fonctionnalités bien conçues et facilité d’utilisation. Aucun excès, aucun manque. Vous serez à l’aise en utilisant Agenda, comme si vous l’utilisiez depuis des siècles !</p>
+  </description>
+  <description lang="fur">
+    <p>GNOME Calendari a je une semplice e biele aplicazion calendari progjetade par adatâsi in maniere perfete al scritori GNOME. Tornant a doprâ i components che a costituissin il scritori GNOME, Calendari si integre ben cul ecosisteme GNOME.</p>
+    <p>Il nestri obietîf al è chel di cjatâ il perfet belançament tra funzionalitâts ben fatis e doprabilitât utent: nuie di masse, nuie che al mancji. Doprâ Calendari al sarà sempliç e imediât, come che tu lu vessis doprât par agns!</p>
+  </description>
+  <description lang="fy">
+    <p>GNOME Kalinder is in ienfâldige en moaie kalinderapplikaasje, ûntwurpen om perfekt by de GNOME-desktop te passen. Troch de komponinten wêr't de GNOME-desktop út bestiet wer opnij te brûken, kin Calendar goed yntegrearje yn it GNOME-ekosysteem.</p>
+    <p>Wy probearje de balâns te finen tusken goed gearstalde funksjes en brûkberheid foar de einbrûker. Net te folle, mar ek net te min. Jo kinne Kalinder komfortabel brûke, it is krekt as brûke jo it al jierren!</p>
+  </description>
+  <description lang="gl">
+    <p>Calendario de GNOME é unha aplicación de calendario simple e bonito deseñado para adaptarse perfectamente ao escritorio GNOME. Ao reusar os compoñentes nos que está construído o escritorio GNOME, o Calendario intégrase perfectamente co ecosistema GNOME.</p>
+    <p>Tentamos buscar o equilibro entre características ben elaboradas e a usabilidade centrada no usuario. Non hai excesos nin carencias. Sentirase cómodo usando Calendario, como se levase anos usándoo!</p>
+  </description>
+  <description lang="he">
+    <p>לוח שנה מבית GNOME הוא יישום לוח שנה פשוט ויפה שעוצב להתאים באופן מושלם לשולחן העבודה GNOME. באמצעות שימוש חוזר ברכיבים אשר עליהם בנוי שולחן העבודה GNOME, לוח השנה משתלב בצורה יפה עם סביבת GNOME.</p>
+    <p>אנו שואפים למצוא את האיזון המושלם בין עיצוב יפה יפה לבין שימושיות ממוקדת משתמש. ללא עודף, ללא מחסור. תורגש נוחות בשימוש לוח השנה, כאילו הוא בשימוש על ידך כבר שנים!</p>
+  </description>
+  <description lang="hr">
+    <p>GNOME kalendar je jednostavna ugodna aplikacija za kalendar dizajnirana kako bi se uklopila u GNOME radnu površinu. Koristi komponente na kojima je GNOME radna površina izgrađena, Kalendar se dobro integrira u GNOME eko sustav.</p>
+    <p>Cilj nam je pronalazak ravnoteže između korisnih značajki i upotrebljivosti za korisnike. Bez nedostataka i manjkavosti, osjećati ćete se komforno koristeći Kalendar, kao da ga koristite godinama!</p>
+  </description>
+  <description lang="hu">
+    <p>A GNOME Naptár egy egyszerű és gyönyörű naptáralkalmazás, amelyet úgy terveztek, hogy tökéletesen illeszkedjen a GNOME asztalhoz. A GNOME asztalt felépítő összetevők újrafelhasználásával a Naptár nagyon jól integrálódik a GNOME ökoszisztémába.</p>
+    <p>Célunk a tökéletes egyensúly megtalálása a szépen kialakított szolgáltatások és a felhasználó-központú használhatóság között. Túlzások és hiány nélkül. Kényelmesen fogja érezni magát a Naptár használatakor, mintha már évek óta ezt használná!</p>
+  </description>
+  <description lang="id">
+    <p>GNOME Kalender adalah aplikasi kalender yang sederhana dan indah, dirancang untuk secara sempurna pas dengan destop GNOME. Dengan memakai ulang komponen pembangun destop GNOME, Kalender terintegrasi secara baik dengan ekosistem GNOME.</p>
+    <p>Kami berupaya mencari keseimbangan sempurna antara fitur yang dibuat dengan baik dan usabilitas yang terpusat pengguna. Tak ada yang berlebihan, tak ada yang hilang. Anda akan merasa nyaman memakai Calendar, serasa Anda sudah memakainya bertahun-tahun!</p>
+  </description>
+  <description lang="is">
+    <p>GNOME Dagatal er einfalt og áferðarfallegt dagatalsforrit, sérstaklega hannað til að falla inn í GNOME skjáborðið. Með því að endurnýta aðrar einingar GNOME skjáborðsins, verður dagatalið órjúfanlegur hluti GNOME vistkerfisins.</p>
+    <p>Við reynum að finna rétta jafnvægið á milli fallegrar virkni og notendamiðaðs notagildis. Engu ofaukið, ekkert vantar. Þér á eftir að finnast þægilegt að vinna með dagatalið, rétt eins og þú hafir notað það svo árum skiptir!</p>
+  </description>
+  <description lang="it">
+    <p>Calendario per GNOME è un'applicazione di calendario progettata per integrarsi alla perfezione con l'ambiente grafico GNOME. Sfruttando l'insieme di componenti che l'ambiente grafico GNOME mette a disposizione, Calendario si integra con tutto l'ecosistema GNOME.</p>
+    <p>Cerchiamo di trovare quel giusto bilanciamento tra nuove e interessanti funzionalità e usabilità: niente di più, niente di meno. Usare Calendario risulterà semplice e immediato.</p>
+  </description>
+  <description lang="ja">
+    <p>GNOME カレンダーは、GNOME デスクトップ環境のために設計されたシンプルで美しいカレンダーアプリケーションです。GNOME デスクトップ環境を構築するコンポーネントを再利用することで、カレンダーが GNOME のエコシステムとシームレスに統合されています。</p>
+    <p>私たちは、洗練された機能とユーザー中心のユーザビリティの間の絶妙なバランスを取ることを目指しています。機能としては過不足なく、長年愛用してきたカレンダーのように心地よく感じることでしょう。</p>
+  </description>
+  <description lang="kk">
+    <p>GNOME күнтізбе қолданбасы GNOME жұмыс үстел ортасына жарасатындай етіп жасалған қарапайым әрі әдемі күнтізбе қолданбасы. GNOME жұмыс үстелі негізінде жатқан құрауыштарды қолдану арқылы күнтізбе қолданбасы GNOME жүйесімен жақсы үйлеседі.</p>
+    <p>Біз кеңейтілген мүмкіндіктер және пайдалану ыңғайлығы арасында теңгерімді табуға тырысамыз. Артығы жоқ, жетпеушілігі жоқ. Calendar қолданбасын қолдануды ыңғайлы екенін өзіңіз де көресіз!</p>
+  </description>
+  <description lang="ko">
+    <p>그놈 달력은 그놈 데스크톱에 완벽하게 맞춰 설계한 단순하고 아름다운 달력 프로그램입니다. 그놈 달력은 그놈 데스크톱에 내장한 구성 요소를 재사용하여 그놈 환경에 멋지게 어우러집니다.</p>
+    <p>멋지게 다듬은 기능과 사용자 중심의 활용성 간의 완벽한 균형의 유지가 목표입니다. 잘나지도 부족하지도 않습니다. 오랫동안 달력을 사용해보셨던 것 같은 편안함을 느끼실 수 있습니다!</p>
+  </description>
+  <description lang="lt">
+    <p>Gnome kalendorius yra paprasta ir patraukli kalendoriaus programa, sukurtas specialiai GNOME darbalaukiui. Panaudojant kitus GNOME komponentus kalendorius patogiai integruotas į GNOME ekosistemą.</p>
+    <p>Mūsų tikslas – tobula gerai paruoštų funkcijų ir į vartotoją orientuotos sąsajos harmonija. Nieko per daug, nieko trūkstamo. Naudodami kalendorių jausitės taip, lyg tai jau darėte metų metus!</p>
+  </description>
+  <description lang="lv">
+    <p>GNOME kalendārs ir vienkārša un skaista kalendāra lietotne, veidota, lai labi iekļautos GNOME darbvirsmā. Atkārtoti izmantojot komponentes, uz kurām ir veidota GNOME darbvirsma, kalendāra lietotne labi integrējas GNOME ekosistēmā.</p>
+    <p>Mēs mēģinām atrast līdzsvaru starp labi veidotām lietotnes iespējām un lietojamību. Ne par daudz, ne par maz. Kalendāra lietotne ir komfortabla un jums liksies, ka esat to lietojuši jau mūžību.</p>
+  </description>
+  <description lang="ml">
+    <p>ഗ്നോം ഡെസ്ക്ടോപ്പുമായി കൃത്യമായി ചേർന്നുനിൽക്കാനായി നിർമ്മിച്ച ഒരു ലളിതവും മനോഹരവുമായ കലണ്ടർ പ്രയോഗമാണ് ഗ്നോം കലണ്ടർ.</p>
+    <p>ഉപയോക്തൃ-കേന്ദ്രീകൃതമായ ഉപയോഗ്യതയ്ക്കും മികച്ച സവിശേഷതകൾക്കും ഇടയിലുള്ള സന്തുലനാവസ്ഥ കണ്ടെത്താനാണ് ഞങ്ങൾ ലക്ഷ്യം വയ്ക്കുന്നത്. ഒട്ടും കൂടുതലുമില്ല കുറവുമില്ല. കലണ്ടർ ഉപയോഗിക്കുമ്പോൾ കാലങ്ങളായി ഇത് ഉപയോഗിക്കുന്നതു പോലെയുള്ള സുഖം താങ്കൾക്ക് ലഭിക്കും!</p>
+  </description>
+  <description lang="ms">
+    <p>Kalendar GNOME adalah aplikasi kalendar yang ringkas dan cantik. Ia direka khas untuk atas meja GNOME. Dengan menggunakan semula komponen yang serupa dengan atas meja GNOME, Kalendar dapat disepadukan dengan baik dalam ekosistem GNOME.</p>
+    <p>Kami berhasrat untuk memperoleh keseimbangan sempurna antara fitur pembuatan yang baik dengan kebolehgunaan pengguna berpusat. Tiada lebihan, tiada yang hilang. Anda akan berasa selesa ketika menggunakan kalendar, seperti yang anda telah gunakan sebelum ini!</p>
+  </description>
+  <description lang="nb">
+    <p>GNOME Kalender er et enkelt og pent kalenderprogram som er laget for å passe til GNOME skrivebordet. Det gjenbruker mange av komponentene som GNOME-skrivebordet er bygget på og integrerer bra med GNOME økosystemet.</p>
+    <p>Vi prøver å finne en perfekt balanse mellom velbygde funksjoner og brukervennlighet. Ikke for mye, og ikke for lite. Du skal føle deg komfortabel med å bruke Kalender som om du har brukt den i mange år.</p>
+  </description>
+  <description lang="ne">
+    <p>जिनोम पात्रो सजिलो र स्तरिय पात्रो हो, जुन जिनोम डेस्कटपमा पनि उचित रुपले मिल्छ, यसले जिनोम डेस्कटपकै पाट्पुर्जा प्रयोग गरेर सही रुपले जिनोम ईकोसिस्टममा समावेश हुन्छ.</p>
+    <p>राम्ररी बनाइएका विशेषताहरू र प्रयोगकर्ता-केन्द्रीत उपयोगिताबीच सही सन्तुलन कायम गर्ने हामीले लक्ष्य राखेका छौं। अतिरिक्त छैन, केही पनि छुटेको छैन । तपाईँले पात्रो प्रयोग गर्न सहज महसुस गर्नुहुनेछ, जस्तै तपाईँले यसलाई युगौंयुगदेखि प्रयोग गर्दै हुनुहुन्छ!</p>
+  </description>
+  <description lang="nl">
+    <p>Gnome Agenda is een eenvoudig en mooi agendaprogramma dat perfect aansluit bij de Gnome-werkomgeving. Door de onderdelen waarop de Gnome-werkomgeving is gebouwd opnieuw te gebruiken, integreert Agenda mooi binnen het Gnome-systeem.</p>
+    <p>We streven ernaar de ideale balans te vinden tussen goede functionaliteit en gebruiksvriendelijkheid. Niet te veel, niet te weinig. U zult zich comfortabel voelen bij het gebruiken van Agenda, alsof u het al jaren gebruikt!</p>
+  </description>
+  <description lang="oc">
+    <p>GNOME Calendar es una aplicacion de calendièr simpla e bèla elaborada per s’adaptar perfèitament al burèu GNOME. En reütilizant los compausants que construisson lo burèu GNOME, Calendar s’intègra simpaticament a l’ecosistèma GNOME.</p>
+    <p>Recercam l'equilibri perfèit entre foncionalitats plan concebudas e facilitat d'utilizacion. Pas cap d'excès, pas cap de manca. Seretz d'aise en utilizant Agenda, coma se l'utilizàvetz dempuèi de sègles !</p>
+  </description>
+  <description lang="pa">
+    <p>ਗਨੋਮ ਕੈਲੰਡਰ ਸਧਾਰਨ ਤੇ ਸੋਹਣੀ ਕੈਲੰਡਰ ਐਪਲੀਕੇਸ਼ਨ ਹੈ, ਜੋ ਕਿ ਗਨੋਮ ਡੈਸਕਟਾਪ ਵਿੱਚ ਫਿੱਟ ਹੋਣ ਲਈ ਤਿਆਰ ਕੀਤੀ ਗਈ ਹੈ। ਗਨੋਮ ਡੈਸਕਟਾਪ ਵਿੱਚ ਮੌਜੂਦ ਭਾਗਾਂ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਤਿਆਰ ਕੀਤੇ ਹੋਣ ਨਾਲ ਕੈਲੰਡਰ ਗਨੋਮ ਸਿਸਟਮ ਦੇ ਨਾਲ ਬਹੁਤ ਵਧੀਆ ਰੂਪ ਵਿੱਚ ਜੁੜਿਆ ਹੈ।</p>
+    <p>ਅਸੀਂ ਵਧੀਆ ਤਿਆਰ ਕੀਤੇ ਫੀਚਰਾਂ ਤੇ ਵਰਤੋਂਕਾਰ ਦੀ ਸੌਖ ਦੇ ਵਿਚਾਲੇ ਚੰਗਾ ਤਾਲਮੇਲ ਲੱਭਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਹੈ। ਕੋਈ ਬਹਾਨਾ ਨਹੀਂ, ਕੋਈ ਖੁੰਝਿਆਂ ਨਹੀਂ। ਤੁਸੀਂ ਕੈਲੰਡਰ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਤੁਹਾਨੂੰ ਲੱਗੇਗਾ ਕਿ ਜਿਵੇਂ ਤੁਸੀਂ ਇਸ ਨੂੰ ਸਾਲਾਂ ਤੋਂ ਵਰਤ ਰਹੇ ਹੋ।</p>
+  </description>
+  <description lang="pl">
+    <p>Kalendarz GNOME jest prostym i ładnym kalendarzem zaprojektowanym tak, aby jak najlepiej pasował do środowiska GNOME. Dzięki użyciu oprogramowania, na którym oparte jest środowisko GNOME, Kalendarz dobrze się z nim integruje.</p>
+    <p>Celem jest znalezienie idealnej równowagi między przydatnymi funkcjami a użytecznością skierowaną na użytkownika.</p>
+  </description>
+  <description lang="pt">
+    <p>O Calendário do GNOME é uma aplicação de agenda simples e bonita, desenhada para uma integração perfeita no ambiente de trabalho GNOME. Ao utilizar os mesmos componentes do GNOME, o calendário integra-se lindamente no ecossistema GNOME.</p>
+    <p>Procuramos atingir o equilíbrio perfeito entre funcionalidade e utilização centrada no utilizador. Sem excessos, sem faltas. Sentir-se-á confortável ao usar o Calendário, tal como se a utilizasse há décadas!</p>
+  </description>
+  <description lang="pt_BR">
+    <p>O GNOME Calendário é um aplicativo de calendário simples e bonito projetado para se encaixar perfeitamente ao ambiente GNOME. Por reutilizar os componentes com o qual GNOME é construído, Calendário se integra muito bem à esse ecossistema.</p>
+    <p>Nosso objetivo é alcançar o balanço perfeito entre funcionalidades bem construídas e usabilidade focada no usuário. Sem excessos, nada faltando. Você se sentirá confortável usando Calendário, como se usasse-o por anos!</p>
+  </description>
+  <description lang="ro">
+    <p>Calendar GNOME este o aplicație de calendar simplă și frumoasă concepută pentru a se potrivi perfect pentru desktopul GNOME. Prin reutilizarea componentelor pe care desktopul GNOME este construit, Calendar se integrează uniform cu ecosistemul GNOME.</p>
+    <p>Scopul nostru este de a găsi echilibrul perfect între caracteristici frumos concepute și gradul de utilizare centrată pe utilizator. Fără exces, fără lipsuri. Vă veți simți confortabil folosind Calendar, ca și cum l-ați fi folosit dintotdeauna!</p>
+  </description>
+  <description lang="ru">
+    <p>Календарь GNOME представляет собой простое и красивое приложение календаря, разработанное, чтобы полностью соответствовать рабочему столу GNOME. За счет использования тех же компонентов из которых состоит рабочий стол GNOME, календарь красиво интегрируется с экосистемой среды GNOME.</p>
+    <p>Мы стремимся найти идеальный баланс между хорошо созданными функциями и ориентированным на пользователя удобством использования. Нет излишеств, ничего не упущено. Вы будете чувствовать себя комфортно, используя календарь, будто вы используете его уже годы!</p>
+  </description>
+  <description lang="sk">
+    <p>Kalendár prostredia GNOME je jednoduchá a nádherná aplikácia s kalendárom navrhnutá tak, aby perfektne zapasovala do prostredia GNOME. Použitím komponentov, na ktorých je zostavené prostredie GNOME, je Kalendár integrovaný s ekosystémom prostredia GNOME.</p>
+    <p>Našim cieľom je nájsť dokonalé vyváženie medzi užitočnými funkciami a použiteľnosťou. Bez zbytočností, bez nedostatkov. Pri používaní programu Kalendár sa budete cítiť pohodlne, ako keby ste ho už používali roky!</p>
+  </description>
+  <description lang="sl">
+    <p>Koledar za GNOME je program, ki omogoča enostaven dostop do koledarja in povezuje številne druge zmožnosti namizja GNOME.</p>
+    <p>Program deluje na ravni optimalne uporabniške izkušnje in najpomembnejših zmožnosti. Ni presežkov ni pomanjkljivosti. Uporaba programa je enostavna, kot je od nekdaj bila.</p>
+  </description>
+  <description lang="sr">
+    <p>Гномов календар је једноставан и леп програм, осмишљен тако да се савршено уклопи у Гномову радну површ. Користећи састојке на којима је изграђена Гномова радна површ, Календар се одлично уклапа у Гномов екосистем.</p>
+    <p>Циљ нам је да пронађемо савршену равнотежу између лепо одрађених функција и једноставности употребе тако да он не угрожава крајње кориснике. Без претеривања, без недостатака. Осећаћете се удобно користећи Календар, као што сте га већ годинама користили!</p>
+  </description>
+  <description lang="sv">
+    <p>GNOME Kalender är ett enkelt och snyggt kalenderprogram som är designat att passa in i skrivbordsmiljön GNOME. Genom att återanvända de komponenter som skrivbordsmiljön GNOME är byggd med, integrerar Kalender väl med GNOME-ekosystemet.</p>
+    <p>Vår målsättning är att hitta den perfekta balansen mellan väl genomtänkta funktioner och användarcentrerad användbarhet. Inget överflöd, inget som saknas. Du kommer att känna dig bekväm med att använda Kalender, som om du har använt den i åratal!</p>
+  </description>
+  <description lang="tr">
+    <p>GNOME Takvim, GNOME masaüstüne kusursuzca uymak üzere tasarlanmış basit ve güzel takvim uygulamasıdır. GNOME masaüstünün kurulu olduğu bileşenleri yeniden kullanan Takvim, GNOME ekosistemi ile uyum içindedir.</p>
+    <p>Hoş özellikler ve kullanıcı odaklı kullanılabilirlik arasında kusursuz dengeyi sağlamayı amaçlıyoruz. Ne eksik, ne çok. Takvim’i kullanırken güya onu yıllardır kullanıyormuş gibi rahat hissedeceksiniz!</p>
+  </description>
+  <description lang="uk">
+    <p>Календар GNOME — простий і гарний календар створений для стільничного середовища GNOME. Використовуючи компоненти, на яких побудовано стільницю GNOME, календар гарно інтегрується зі всією екосистемою GNOME.</p>
+    <p>Ми намагаємось знайти досконалий баланс між зручністю у використання та продуманою функціональністю. Все потрібне й нічого зайвого. Вам буде зручно користуватись календарем, неначе ви ним користувались роками!</p>
+  </description>
+  <description lang="vi">
+    <p>Lịch GNOME là một ứng dụng lịch đơn giản và đẹp được thiết kế để hoàn toàn phù hợp với môi trường máy tính để bàn GNOME. Bằng cách tái sử dụng các thành phần mà máy tính để bàn GNOME được xây dựng trên, Lịch tích hợp độc đáo với hệ sinh thái GNOME.</p>
+    <p>Chúng tôi mong muốn tìm sự cân bằng hoàn hảo giữa các tính năng được chế tạo độc đáo và khả năng sử dụng lấy người dùng làm trung tâm. Không thừa, không thiếu gì. Bạn sẽ cảm thấy thoải mái khi sử dụng Lịch, giống như bạn đã sử dụng nó trong nhiều năm!</p>
+  </description>
+  <description lang="zh_CN">
+    <p>GNOME 日历设计符合 GNOME 桌面简洁美观的风格。通过重用组件，日历能够很好地与 GNOME 生态系统结合。</p>
+    <p>我们的目标是找到很好的功能和用户为中心的易用性之间的完美平衡。功能适中，使用舒适！</p>
+  </description>
+  <description lang="zh_TW">
+    <p>GNOME《行事曆》是為了能完美搭配 GNOME 桌面而設計的簡單、精美行事曆應用程式。藉著重複使用 GNOME 桌面內建的元件，《行事曆》順利整合到 GNOME 生態系中。</p>
+    <p>我們的目標是在精心設計的功能，與以使用者為中心的可用性之間找到完美的平衡點，麻雀雖小五臟俱全，您會很舒適的使用《行事曆》，就像您過去一直在使用的一樣！</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image height="1029" width="1560">https://gitlab.gnome.org/GNOME/gnome-calendar/raw/gnome-42/data/appdata/default.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Week view</caption>
+      <caption lang="zh_TW">週次檢視</caption>
+      <caption lang="zh_CN">周视图</caption>
+      <caption lang="vi">Xem tuần</caption>
+      <caption lang="uk">Перегляд тижня</caption>
+      <caption lang="tr">Hafta görünümü</caption>
+      <caption lang="sv">Veckovy</caption>
+      <caption lang="sr@latin">Nedeljni pregled</caption>
+      <caption lang="sr">Недељни преглед</caption>
+      <caption lang="sl">Tedenski pogled</caption>
+      <caption lang="sk">Prehľad týždňa</caption>
+      <caption lang="ru">Просмотр недели</caption>
+      <caption lang="ro">Vizualizare săptămânală</caption>
+      <caption lang="pt_BR">Visão de semana</caption>
+      <caption lang="pt">Vista da semana</caption>
+      <caption lang="pl">Widok tygodnia</caption>
+      <caption lang="pa">ਹਫਤਾ ਝਲਕ</caption>
+      <caption lang="oc">Vista setmanièra</caption>
+      <caption lang="nl">Weekweergave</caption>
+      <caption lang="ne">साप्ताहिक दृश्य</caption>
+      <caption lang="nb">Ukevisning</caption>
+      <caption lang="ms">Pandangan minggu</caption>
+      <caption lang="ml">ആഴ്ച രീതി</caption>
+      <caption lang="lv">Nedēļas skats</caption>
+      <caption lang="lt">Savaitės rodinys</caption>
+      <caption lang="ko">주별 보기</caption>
+      <caption lang="kk">Апта көрінісі</caption>
+      <caption lang="ja">週表示</caption>
+      <caption lang="it">Vista settimanale</caption>
+      <caption lang="is">Vikusýn</caption>
+      <caption lang="id">Tilikan minggu</caption>
+      <caption lang="hu">Hét nézet</caption>
+      <caption lang="hr">Tjedni prikaz</caption>
+      <caption lang="he">תצוגה שבועית</caption>
+      <caption lang="gl">Vista de semana</caption>
+      <caption lang="gd">Sealladh seachdaineach</caption>
+      <caption lang="fy">Wike-oersjoch</caption>
+      <caption lang="fur">Viodude setemanâl</caption>
+      <caption lang="fr">Vue hebdomadaire</caption>
+      <caption lang="fi">Viikkonäkymä</caption>
+      <caption lang="fa">نمای هفتگی</caption>
+      <caption lang="eu">Asteko ikuspegia</caption>
+      <caption lang="et">Nädalavaade</caption>
+      <caption lang="es">Vista de semana</caption>
+      <caption lang="eo">Semajna vido</caption>
+      <caption lang="en_GB">Week view</caption>
+      <caption lang="el">Προβολή εβδομάδας</caption>
+      <caption lang="de">Wochenansicht</caption>
+      <caption lang="da">Ugevisning</caption>
+      <caption lang="cs">Týdenní zobrazení</caption>
+      <caption lang="ckb">پێشاندانی هەفتەیی</caption>
+      <caption lang="ca@valencia">Vista setmanal</caption>
+      <caption lang="ca">Vista setmanal</caption>
+      <caption lang="bg">Седмичен изглед</caption>
+      <caption lang="be">Прагляд тыдня</caption>
+      <caption lang="ar">المنظور التالي</caption>
+      <caption lang="af">Week oorsig</caption>
+      <image width="1560" height="1029">https://gitlab.gnome.org/GNOME/gnome-calendar/raw/gnome-42/data/appdata/week-view.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Year view</caption>
+      <caption lang="zh_TW">年檢視</caption>
+      <caption lang="zh_CN">年视图</caption>
+      <caption lang="vi">Xem năm</caption>
+      <caption lang="uk">Перегляд року</caption>
+      <caption lang="tr">Yıl görünümü</caption>
+      <caption lang="sv">Årsvy</caption>
+      <caption lang="sr">Годишњи преглед</caption>
+      <caption lang="sl">Letni pogled</caption>
+      <caption lang="sk">Prehľad roka</caption>
+      <caption lang="ru">Просмотр года</caption>
+      <caption lang="ro">Vizualizare anuală</caption>
+      <caption lang="pt_BR">Visão por ano</caption>
+      <caption lang="pt">Vista de ano</caption>
+      <caption lang="pl">Widok roku</caption>
+      <caption lang="pa">ਸਾਲ ਝਲਕ</caption>
+      <caption lang="oc">Vista annadièra</caption>
+      <caption lang="nl">Jaarweergave</caption>
+      <caption lang="ne">बार्सिक दृश्य</caption>
+      <caption lang="nb">Årsvisning</caption>
+      <caption lang="lv">Gada skats</caption>
+      <caption lang="lt">Metų rodinys</caption>
+      <caption lang="ko">연 단위 보기</caption>
+      <caption lang="kk">Жыл көрінісі</caption>
+      <caption lang="ja">年表示</caption>
+      <caption lang="it">Vista annuale</caption>
+      <caption lang="is">Ársyfirlit</caption>
+      <caption lang="id">Tilikan tahun</caption>
+      <caption lang="hu">Év nézet</caption>
+      <caption lang="hr">Godišnji prikaz</caption>
+      <caption lang="he">תצוגה שנתית</caption>
+      <caption lang="gl">Vista anual</caption>
+      <caption lang="fy">Jieroersjoch</caption>
+      <caption lang="fur">Viodude anuâl</caption>
+      <caption lang="fr">Vue par année</caption>
+      <caption lang="fi">Vuosinäkymä</caption>
+      <caption lang="fa">نمای سالانه</caption>
+      <caption lang="eu">Urtearen ikuspegia</caption>
+      <caption lang="es">Vista de año</caption>
+      <caption lang="en_GB">Year view</caption>
+      <caption lang="el">Προβολής έτους</caption>
+      <caption lang="de">Jahresansicht</caption>
+      <caption lang="da">Årsvisning</caption>
+      <caption lang="cs">Roční zobrazení</caption>
+      <caption lang="ca">Vista anual</caption>
+      <caption lang="bg">Годишен изглед</caption>
+      <caption lang="be">Прагляд года</caption>
+      <image height="1029" width="1560">https://gitlab.gnome.org/GNOME/gnome-calendar/raw/gnome-42/data/appdata/year-view.png</image>
+    </screenshot>
+  </screenshots>
+  <kudos>
+    <kudo>AppMenu</kudo>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>SearchProvider</kudo>
+  </kudos>
+  <url type="homepage">https://wiki.gnome.org/Apps/Calendar</url>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/gnome-calendar/issues</url>
+  <project_group>GNOME</project_group>
+  <releases>
+    <release date="2022-06-14" version="42.2" />
+    <release date="2022-04-26" version="42.1" />
+    <release date="2022-03-18" version="42.0">
+      <description>
+        <p>
+          <ul>
+            <li>Port to GTK4</li>
+            <li>Various UI tweaks</li>
+            <li>Much improved timezone handling</li>
+          </ul>
+        </p>
+      </description>
+    </release>
+    <release version="41.0" date="2021-09-17">
+      <description>
+        <p>
+          GNOME Calendar 41.0 release brings updated translations, and new event preview
+          popover, and the ability to import events from calendar files.
+        </p>
+      </description>
+    </release>
+    <release date="2021-06-03" version="40.2">
+      <description>
+        <p>
+          GNOME Calendar 40.2 release brings updated translations, and a fix to
+          weather forecast not showing.
+        </p>
+      </description>
+    </release>
+    <release date="2021-05-11" version="40.1">
+      <description>
+        <p>
+          GNOME Calendar 40.1 release brings stability improvements, updated translations.
+        </p>
+        <p>
+          With this release, the code to fetch the system timezone is more robust, and doesn't
+          crash if for some reason it fails to find the system timezone.
+        </p>
+        <p>
+          A couple of documented keyboard shortcuts weren't working, and with this release they
+          are functional again.
+        </p>
+        <p>
+          Thanks to the new contributors that helped with this release of GNOME Calendar!
+        </p>
+      </description>
+    </release>
+    <release date="2021-03-22" version="40.0">
+      <description>
+        <p>
+          GNOME Calendar 40.0 release brings stability improvements, updated translations,
+          and minor visual updates.
+        </p>
+      </description>
+    </release>
+    <release date="2020-09-12" version="3.38.0">
+      <description>
+        <p>
+          GNOME Calendar 3.38 release is here! This release brings stability
+          improvements and more security by preventing data loss when moving
+          events to other calendars.
+        </p>
+      </description>
+    </release>
+    <release date="2020-03-06" version="3.36.0">
+      <description>
+        <p>GNOME Calendar 3.36 release is here!</p>
+        <p>
+          This is an exciting release with many improvements and new features:
+          <ul>
+            <li>The event editor dialog was redesigned and reimplemented</li>
+            <li>Minor tweaks to the main interface</li>
+            <li>Many improvements and fixes</li>
+          </ul>
+        </p>
+      </description>
+    </release>
+    <release version="3.34.0" date="2019-09-09">
+      <description>
+        <p>GNOME Calendar 3.34 release is here!</p>
+        <p>
+          This release comes with many improvements and new features:
+          <ul>
+            <li>The calendar management dialog was redesigned and reimplemented</li>
+            <li>Discovering online calendars is much more reliable</li>
+            <li>Minor tweaks to the main interface</li>
+          </ul>
+        </p>
+      </description>
+    </release>
+    <release date="2019-03-11" version="3.32.0">
+      <description>
+        <p>GNOME Calendar 3.32.0 release is here!</p>
+        <p>Thanks to all the contributors that worked on GNOME Calendar!</p>
+      </description>
+    </release>
+    <release version="3.30.0" date="2018-09-03">
+      <description>
+        <p>GNOME Calendar 3.30.0 release is here!</p>
+        <p>The major highlight of this release is the integration with GNOME's Night Light, making GNOME Calendar use the dark variant of the theme when Night Light is active.</p>
+        <p>Thanks to all the contributors that worked on GNOME Calendar!</p>
+      </description>
+    </release>
+    <release date="2018-08-27" version="3.29.92">
+      <description>
+        <p>This release bring a small improvement and updates many translations.</p>
+        <p>Thanks to all the contributors that worked on GNOME Calendar!</p>
+      </description>
+    </release>
+    <release date="2018-07-30" version="3.29.90">
+      <description>
+        <p>This release brings small improvements, bug fixes, and updates many translations.</p>
+        <p>Thanks to all the contributors that worked on GNOME Calendar!</p>
+      </description>
+    </release>
+    <release version="3.27.92" date="2018-03-05">
+      <description>
+        <p>This is the release candidate version of the next big release of GNOME Calendar, and it brings a few Flatpak improvements.</p>
+        <p>This release also updates many translations.</p>
+        <p>Thanks to all the contributors that worked on GNOME Calendar!</p>
+      </description>
+    </release>
+    <release version="3.27.90" date="2018-02-12">
+      <description>
+        <p>This is the alpha version of the next big release of GNOME Calendar, and it brings the following new features and improvements:</p>
+        <ul>
+          <li>Big code refactorings that lead to more stability and ease of maintainership.</li>
+          <li>Follow-up improvements after rewritting the Month view.</li>
+          <li>The Flatpak Nightly builds of GNOME Calendar now have debugging and tracing enabled by default. This
+            will allow testers to report bugs with more precision.
+          </li>
+          <li>Huge memory leaks were also fixed.</li>
+        </ul>
+        <p>This release also updates many translations.</p>
+        <p>Thanks to all the contributors that worked on GNOME Calendar!</p>
+      </description>
+    </release>
+    <release date="2017-11-15" version="3.27.2">
+      <description>
+        <p>This release brings the following new features and improvements:</p>
+        <ul>
+          <li>Month view was rewritten, and received a substantial redesign.</li>
+          <li>Events were also redesigned. All-day events look different than timed events.</li>
+          <li>Improvements when adding calendars from files.</li>
+        </ul>
+        <p>This release also updates many translations.</p>
+        <p>Thanks to all the contributors that worked on GNOME Calendar!</p>
+      </description>
+    </release>
+    <release date="2017-08-11" version="3.25.90">
+      <description>
+        <p>
+          The GNOME Calendar team is proud to announce the 3.25.90 release of
+          GNOME Calendar, the third release in the next (3.26) unstable series.
+        </p>
+        <p>This release brings the following new features and improvements:</p>
+        <ul>
+          <li>Add the options to add, modify and remove recurrences from events.</li>
+          <li>Improve Month view by greying out out-of-range days.</li>
+          <li>Completely move to the Meson build system. This allows building Calendar at least 3x faster.</li>
+        </ul>
+        <p>This release also updates many translations.</p>
+        <p>Thanks to all the contributors that worked on GNOME Calendar!</p>
+      </description>
+    </release>
+    <release date="2017-06-19" version="3.25.3">
+      <description>
+        <p>
+          The GNOME Calendar team is proud to announce the 3.25.3 release of
+          GNOME Calendar, the first release in the next (3.26) unstable series.
+          This release brings the first steps to modify and delete recurrent
+          events, as well as many bugfixes.
+        </p>
+        <p>This release also updates translations.</p>
+        <p>Thanks to all the contributors that worked on GNOME Calendar!</p>
+      </description>
+    </release>
+    <release date="2017-04-24" version="3.25.1">
+      <description>
+        <p>
+          The GNOME Calendar team is proud to announce the 3.25.1 release of
+          GNOME Calendar, the first release in the next (3.26) unstable series.
+          This release contains most of the changes that landed for 3.24.1, plus
+          a few translation changes.
+        </p>
+        <p>This release also updates translations.</p>
+        <p>Thanks to all the contributors that worked on GNOME Calendar!</p>
+      </description>
+    </release>
+    <release date="2017-04-24" version="3.24.1">
+      <description>
+        <p>
+          The GNOME Calendar team is proud to announce the 3.24.1 release of
+          GNOME Calendar! This is a bugfix release that improves a lot the
+          performance and stability of GNOME Calendar.
+        </p>
+        <p>This release also updates translations.</p>
+        <p>Thanks to all the contributors that worked on GNOME Calendar!</p>
+      </description>
+    </release>
+    <release version="3.24.0" date="2017-03-20">
+      <description>
+        <p>
+          The GNOME Calendar team is proud to announce the 3.24 release of
+          GNOME Calendar! In this release, users will notice big changes,
+          with the inclusion of the new Week view, various improvements to
+          ranging from various bugfixes, improved keyboard flow for creating
+          events using the quick-add popover, cleanups and much more.
+        </p>
+        <p>This release also updates translations.</p>
+        <p>Thanks to all the contributors that worked on GNOME Calendar!</p>
+      </description>
+    </release>
+    <release date="2017-03-16" version="3.23.92">
+      <description>
+        <p>
+          In this release, many bugs were fixed in the Week view. GNOME Calendar is
+          now freeze until the next stable release.
+        </p>
+        <p>This release also updates translations.</p>
+        <p>Thanks to all the contributors that worked on GNOME Calendar!</p>
+      </description>
+    </release>
+    <release date="2017-02-28" version="3.23.91.1">
+      <description>
+        <p>
+          In this release, a couple of minor bugs were fixed. GNOME Calendar is
+          gaining stability fixes until the next stable release now.
+        </p>
+        <p>Thanks to all the contributors that worked on GNOME Calendar!</p>
+      </description>
+    </release>
+    <release date="2017-02-27" version="3.23.91">
+      <description>
+        <p>
+          In this release, a couple of minor bugs were fixed. GNOME Calendar is
+          gaining stability fixes until the next stable release now.
+        </p>
+        <p>This release also updates translations, and adds new translations.</p>
+        <p>Thanks to all the contributors that worked on GNOME Calendar!</p>
+      </description>
+    </release>
+    <release version="3.23.90" date="2017-02-14">
+      <description>
+        <p>
+          This release candidate for GNOME 3.24 adds many new features and improvements. The
+          major highlight is the new Week view, besides the many stability and bugs that
+          were fixed.
+          <ul>
+            <li>The new Week view is here!</li>
+            <li>GNOME Calendar now has an official Flatpak manifest</li>
+            <li>Keyboard interaction was improved</li>
+          </ul>
+        </p>
+        <p>
+          This release also updates translations, and adds new translations. GNOME Calendar
+          if officially supported on more then 50 languages now.
+        </p>
+        <p>Thanks to all the contributors that worked on GNOME Calendar!</p>
+      </description>
+    </release>
+    <release date="2016-12-19" version="3.22.2">
+      <description>
+        <p>
+          This is the third stable release for GNOME Calendar 3.22, and focuses on
+          bugfixes and stability issues.
+          <ul>
+            <li>Online calendars are now downloaded offline and synchronized</li>
+            <li>Properly draw the current month after scrolling</li>
+            <li>Add an animation on the new month chooser widget</li>
+            <li>Correctly escape strings</li>
+            <li>Plug a memory leak</li>
+          </ul>
+        </p>
+        <p>This release also updates translations, and adds new translations.</p>
+        <p>Thanks to all the contributors that worked on GNOME Calendar!</p>
+      </description>
+    </release>
+  </releases>
+  <update_contact>gbsneto@gnome.org</update_contact>
+  <translation type="gettext">gnome-calendar</translation>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="violence-desecration">none</content_attribute>
+    <content_attribute id="violence-slavery">none</content_attribute>
+    <content_attribute id="violence-worship">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="sex-homosexuality">none</content_attribute>
+    <content_attribute id="sex-prostitution">none</content_attribute>
+    <content_attribute id="sex-adultery">none</content_attribute>
+    <content_attribute id="sex-appearance">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+</component>

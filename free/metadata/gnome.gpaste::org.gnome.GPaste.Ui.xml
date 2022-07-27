@@ -1,0 +1,1246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>gnome.gpaste</pkgname>
+  <launchable type="desktop-id">org.gnome.GPaste.Ui.desktop</launchable>
+  <id>org.gnome.GPaste.Ui.desktop</id>
+  <name>GPaste</name>
+  <name lang="ru">GPaste</name>
+  <name lang="zh_CN">GPaste</name>
+  <name lang="cs">GPaste</name>
+  <name lang="tr">GPaste</name>
+  <name lang="zh_Hant">GPaste</name>
+  <name lang="pl">GPaste</name>
+  <name lang="sl">GPaste</name>
+  <name lang="it">GPaste</name>
+  <name lang="nb_NO">GPaste</name>
+  <name lang="sv">GPaste</name>
+  <name lang="pt_BR">GPaste</name>
+  <name lang="nl_NL">GPaste</name>
+  <name lang="fr">GPaste</name>
+  <name lang="es">GPaste</name>
+  <name lang="de">GPaste</name>
+  <summary>Manage your clipboard history</summary>
+  <summary lang="ru">Управляйте историей буфера обмена</summary>
+  <summary lang="zh_CN">管理你的剪切板记录</summary>
+  <summary lang="tr">Pano geçmişinizi yönetin</summary>
+  <summary lang="zh_Hant">管理您的剪貼簿歷史</summary>
+  <summary lang="pl">Zarządzaj historią swojego schowka</summary>
+  <summary lang="sl">Upravljanje z zgodovino odložišča</summary>
+  <summary lang="it">Gestisci la cronologia degli appunti</summary>
+  <summary lang="nb_NO">Håndter din utklippstavlehistorikk</summary>
+  <summary lang="sv">Hantera din urklippshistorik</summary>
+  <summary lang="pt_BR">Gerencie seu histórico da área de transferência</summary>
+  <summary lang="nl_NL">Beheer uw klembordgeschiedenis</summary>
+  <summary lang="fr">Gérez l'historique de votre presse-papier</summary>
+  <summary lang="es">Gestione el histórico de su portapapeles</summary>
+  <summary lang="de">Verwalten Sie Ihren Zwischenablageverlauf</summary>
+  <developer_name>Marc-Antoine Perennou</developer_name>
+  <developer_name lang="ru">Marc-Antoine Perennou</developer_name>
+  <developer_name lang="zh_CN">Marc-Antoine Perennou</developer_name>
+  <developer_name lang="cs">Marc-Antoine Perennou</developer_name>
+  <developer_name lang="tr">Marc-Antoine Perennou</developer_name>
+  <developer_name lang="pl">Marc-Antoine Perennou</developer_name>
+  <developer_name lang="sl">Marc-Antoine Perennou</developer_name>
+  <developer_name lang="it">Marc-Antoine Perennou</developer_name>
+  <developer_name lang="nb_NO">Marc-Antoine Perennou</developer_name>
+  <developer_name lang="sv">Marc-Antoine Perennou</developer_name>
+  <developer_name lang="pt_BR">Marc-Antoine Perennou</developer_name>
+  <developer_name lang="fr">Marc-Antoine Perennou</developer_name>
+  <developer_name lang="es">Marc-Antoine Perennou</developer_name>
+  <developer_name lang="de">Marc-Antoine Perennou</developer_name>
+  <project_license>BSD-2-Clause</project_license>
+  <metadata_license>CC-BY-SA-3.0</metadata_license>
+  <project_group>GNOME</project_group>
+  <content_rating type="oars-1.1" />
+  <description>
+    <p>
+      GPaste is a clipboard managing system allowing you to track and manage your clipboard history in a highly customizable way.
+    </p>
+    <p>
+      GPaste provides you with a graphical tool allowing you to manage everything easily.
+    </p>
+  </description>
+  <description lang="cs">
+    <p>GPaste vám poskytuje grafický nástroj, který vám umožní vše snadno spravovat.</p>
+  </description>
+  <description lang="de">
+    <p>GPaste ist ein Verwaltungssystem für die Zwischenablage, dass es erlaubt die Chronik der Zwischenablage auf eine sehr flexible Art zu verfolgen und zu verwalten.</p>
+    <p>GPaste stellt eine graphische Oberfläche bereit, die es eine einfache Verwaltung ermöglicht.</p>
+  </description>
+  <description lang="es">
+    <p>GPaste es un sistema de gestión del portapapeles que le permite dar seguimiento al histórico del portapapeles de una manera altamente personalizable.</p>
+    <p>GPaste le brinda una herramienta gráfica para gestionarlo todo de manera sencilla.</p>
+  </description>
+  <description lang="fr">
+    <p>GPaste est un outil de gestion du presse-papier qui vous permet de suivre et de manipuler votre historique de presse-papier de façon très configurable.</p>
+    <p>GPaste vous fournit un outil graphique vous permettant de tout gérer simplement.</p>
+  </description>
+  <description lang="it">
+    <p>GPaste è un sistema per la gestione degli appunti che permette di tracciare e gestire la cronologia degli appunti in modo altamente personalizzabile.</p>
+    <p>GPaste ti fornisce uno strumento grafico per gestire tutto agevolmente.</p>
+  </description>
+  <description lang="nb_NO">
+    <p>GPaste er et utklippstavlehåndteringssystem som lar deg holde øye med og behandle din utklippshistorikk på veldig tilpasset vis.</p>
+    <p>GPaste gir det et grafisk verktøy som lar deg håndtere alt veldig enkelt.</p>
+  </description>
+  <description lang="nl_NL">
+    <p>GPaste is een klembordbeheersysteem dat u in staat stelt uw klembordgeschiedenis bij te houden en te beheren. Dit alles is zeer aanpasbaar.</p>
+    <p>GPaste geeft u een grafisch hulpmiddel dat u in staat stelt om alles gemakkelijk te beheren.</p>
+  </description>
+  <description lang="pl">
+    <p>GPaste jest systemem zarządzania schowkiem, pozwalającym na śledzenie i zarządzanie historią schowka w wysoko konfigurowalny sposób.</p>
+    <p>GPaste zapewnia Ci narzędzie graficzne, które pozwala Ci wszystkim łatwo zarządzać.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>O GPaste é um sistema de gerenciamento de área de transferência que permite controlar e gerenciar seu histórico de uma maneira altamente personalizável.</p>
+    <p>O GPaste fornece uma ferramenta gráfica que permite gerenciar tudo facilmente.</p>
+  </description>
+  <description lang="ru">
+    <p>GPaste - это система управления буфером обмена, позволяющая отслеживать и управлять историей буфера обмена с широкими возможностями настройки.</p>
+    <p>GPaste предоставляет вам графический инструмент, позволяющий легко управлять всем.</p>
+  </description>
+  <description lang="sv">
+    <p>GPaste är ett system för urklippshantering, som låter dig övervaka och hantera din urklippshistorik på ett mycket anpassningsbart sätt.</p>
+    <p>GPaste är ett grafiskt verktyg som låter dig hantera allt på ett enkelt sätt.</p>
+  </description>
+  <description lang="tr">
+    <p>GPaste, pano geçmişinizi son derece özelleştirilebilir bir şekilde izlemenize ve yönetmenize olanak tanıyan bir pano yönetim sistemidir.</p>
+    <p>GPaste size her şeyi kolayca yönetmenizi sağlayan bir grafik araç sağlar.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>GPaste是一个可以让你高度定制的剪切板记录管理系统。</p>
+    <p>GPaste可以让你通过界面轻而易举地管理所有剪切板记录。</p>
+  </description>
+  <description lang="zh_Hant">
+    <p>GPaste 是一個允許您以一個高度可自定的方法追蹤和管理您的剪貼簿歷史的剪貼簿管理系統。</p>
+    <p>GPaste 提供一個簡單易用的界面來讓您容易的管理。</p>
+  </description>
+  <url type="homepage">http://www.imagination-land.org/tags/GPaste.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <caption>The main UI</caption>
+      <caption lang="ru">Основной интерфейс</caption>
+      <caption lang="zh_CN">主界面</caption>
+      <caption lang="tr">Ana kullanıcı arayüzü</caption>
+      <caption lang="zh_Hant">主界面</caption>
+      <caption lang="pl">Główny interfejs użytkownika</caption>
+      <caption lang="sl">Glavni vmesnik</caption>
+      <caption lang="it">L'interfaccia utente principale</caption>
+      <caption lang="nb_NO">Hovedgrensesnittet</caption>
+      <caption lang="sv">Primärt UI</caption>
+      <caption lang="pt_BR">A UI principal</caption>
+      <caption lang="nl_NL">Hoofdvenster</caption>
+      <caption lang="fr">L'interface principale</caption>
+      <caption lang="es">La interfaz principal</caption>
+      <caption lang="de">Die Hauptbenutzeroberfläche</caption>
+      <image width="686" height="610">http://www.imagination-land.org/images/GPaste/3/Ui-1.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>The settings UI</caption>
+      <caption lang="ru">Настройки интерфейса</caption>
+      <caption lang="zh_CN">设置界面</caption>
+      <caption lang="cs">Nastavení UI</caption>
+      <caption lang="tr">Ayarlar kullanıcı arayüzü</caption>
+      <caption lang="zh_Hant">設定界面</caption>
+      <caption lang="pl">Interfejs ustawień</caption>
+      <caption lang="sl">Vmesnik nastavitev</caption>
+      <caption lang="it">L'interfaccia utente delle impostazioni</caption>
+      <caption lang="nb_NO">Innstillingsgrensesnittet</caption>
+      <caption lang="sv">Inställnings-UI</caption>
+      <caption lang="pt_BR">A UI de configurações</caption>
+      <caption lang="nl_NL">Instellingenvenster</caption>
+      <caption lang="fr">L'interface de préférences</caption>
+      <caption lang="es">La interfaz de configuración</caption>
+      <caption lang="de">Die Benutzeroberfläche für Einstellungen</caption>
+      <image width="686" height="610">http://www.imagination-land.org/images/GPaste/3/Ui-2.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>The settings UI</caption>
+      <caption lang="ru">Настройки интерфейса</caption>
+      <caption lang="zh_CN">设置界面</caption>
+      <caption lang="cs">Nastavení UI</caption>
+      <caption lang="tr">Ayarlar kullanıcı arayüzü</caption>
+      <caption lang="zh_Hant">設定界面</caption>
+      <caption lang="pl">Interfejs ustawień</caption>
+      <caption lang="sl">Vmesnik nastavitev</caption>
+      <caption lang="it">L'interfaccia utente delle impostazioni</caption>
+      <caption lang="nb_NO">Innstillingsgrensesnittet</caption>
+      <caption lang="sv">Inställnings-UI</caption>
+      <caption lang="pt_BR">A UI de configurações</caption>
+      <caption lang="nl_NL">Instellingenvenster</caption>
+      <caption lang="fr">L'interface de préférences</caption>
+      <caption lang="es">La interfaz de configuración</caption>
+      <caption lang="de">Die Benutzeroberfläche für Einstellungen</caption>
+      <image width="686" height="610">http://www.imagination-land.org/images/GPaste/3/Ui-3.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>The settings UI</caption>
+      <caption lang="ru">Настройки интерфейса</caption>
+      <caption lang="zh_CN">设置界面</caption>
+      <caption lang="cs">Nastavení UI</caption>
+      <caption lang="tr">Ayarlar kullanıcı arayüzü</caption>
+      <caption lang="zh_Hant">設定界面</caption>
+      <caption lang="pl">Interfejs ustawień</caption>
+      <caption lang="sl">Vmesnik nastavitev</caption>
+      <caption lang="it">L'interfaccia utente delle impostazioni</caption>
+      <caption lang="nb_NO">Innstillingsgrensesnittet</caption>
+      <caption lang="sv">Inställnings-UI</caption>
+      <caption lang="pt_BR">A UI de configurações</caption>
+      <caption lang="nl_NL">Instellingenvenster</caption>
+      <caption lang="fr">L'interface de préférences</caption>
+      <caption lang="es">La interfaz de configuración</caption>
+      <caption lang="de">Die Benutzeroberfläche für Einstellungen</caption>
+      <image height="610" width="686">http://www.imagination-land.org/images/GPaste/3/Ui-4.png</image>
+    </screenshot>
+  </screenshots>
+  <update_contact>Marc-Antoine@Perennou.com</update_contact>
+  <url type="bugtracker">https://github.com/Keruspe/GPaste/issues</url>
+  <url type="donation">https://paypal.me/keruspe/</url>
+  <url type="help">https://github.com/Keruspe/GPaste/issues</url>
+  <url type="translate">https://github.com/Keruspe/GPaste</url>
+  <translation type="gettext">GPaste</translation>
+  <releases>
+    <release type="stable" date="2022-03-21" version="42.1">
+      <description>
+        <p>This is a maintenance release. Changes:</p>
+        <p lang="ru">Это выпуск для обслуживания. Изменения:</p>
+        <p lang="zh_CN">这是一个维护版本。更改如下：</p>
+        <p lang="cs">Toto je udržované vydaní. Změny:</p>
+        <p lang="tr">Bu bir bakım sürümüdür. Değişiklikler:</p>
+        <p lang="zh_Hant">這是一個維護更新。更新內容：</p>
+        <p lang="pl">To wydanie konserwacyjne. Zmiany:</p>
+        <p lang="sl">Nameščena je vzdrževalna različica s spremembami:</p>
+        <p lang="it">Questa è una versione di manutenzione. Cambiamenti:</p>
+        <p lang="nb_NO">Dette er en vedlikeholdsutgivelse. Endringer:</p>
+        <p lang="pt_BR">Este é um lançamento de manutenção. Alterações:</p>
+        <p lang="fr">Ceci est une mise à jour de maintenance. Changements :</p>
+        <p lang="es">Esta es una versión de mantenimiento. Cambios:</p>
+        <p lang="de">Dies ist eine Wartungsfreigabe. Änderungen:</p>
+        <ul>
+          <li>Fixes to the new preferences tool</li>
+          <li>Style fixes</li>
+          <li>Translations updates</li>
+          <li lang="zh_CN">更新翻译</li>
+          <li lang="it">Aggiornamento traduzioni</li>
+        </ul>
+      </description>
+    </release>
+    <release version="42.0" type="stable" date="2022-03-19">
+      <description>
+        <p>First release for GNOME 42. Changes:</p>
+        <p lang="zh_CN">GNOME 42 下发行的首个版本。更改如下：</p>
+        <p lang="it">Prima versione per GNOME 42. Cambiamenti:</p>
+        <ul>
+          <li>Old libgpaste replaced by a new minimal libgpaste-2 with no gtk dependency</li>
+          <li lang="zh_CN">用不依赖 gtk 的新的最小 libgpaste-2 替代了旧的 libgpaste</li>
+          <li lang="it">Il vecchio libgpaste è stato sostituito da libgpaste-2 minimale senza dipendenze a gtk</li>
+          <li>New libgpaste-gtk3 for utils and settings ui</li>
+          <li lang="zh_CN">新的 libgpaste-gtk3 用于 utils 和设置界面</li>
+          <li lang="it">Nuovo libgpaste-gtk3 per utilità e impostazioni dell'interfaccia utente</li>
+          <li>New libgpaste-gtk4 for utils and preferences ui</li>
+          <li lang="zh_CN">新的 libgpaste-gtk4 用于 utils 和设置界面</li>
+          <li lang="it">Nuovo libgpaste-gtk4 per utilità e impostazioni dell'interfaccia utente</li>
+          <li>New gtk4 based gpaste-preferences utility</li>
+          <li lang="zh_CN">新的基于 gtk4 的 gpaste-preferences 工具</li>
+          <li lang="it">Nuovo gpaste-preferences basato su gtk4</li>
+          <li>Autotools are no longer supported</li>
+          <li lang="zh_CN">不再支持 Autotools</li>
+          <li lang="it">Gli strumenti automatici non sono più supportati</li>
+          <li>Extension updated for gnome-shell 42</li>
+          <li lang="zh_CN">为 gnome-shell 42 更新了扩展</li>
+          <li lang="it">Aggiornamento a gnome-shell 42</li>
+          <li>Translations updates</li>
+          <li lang="zh_CN">更新翻译</li>
+          <li lang="it">Aggiornamento traduzioni</li>
+        </ul>
+      </description>
+    </release>
+    <release type="stable" date="2022-02-24" version="3.42.6">
+      <description>
+        <p>This is a maintenance release. Changes:</p>
+        <p lang="ru">Это выпуск для обслуживания. Изменения:</p>
+        <p lang="zh_CN">这是一个维护版本。更改如下：</p>
+        <p lang="cs">Toto je udržované vydaní. Změny:</p>
+        <p lang="tr">Bu bir bakım sürümüdür. Değişiklikler:</p>
+        <p lang="zh_Hant">這是一個維護更新。更新內容：</p>
+        <p lang="pl">To wydanie konserwacyjne. Zmiany:</p>
+        <p lang="sl">Nameščena je vzdrževalna različica s spremembami:</p>
+        <p lang="it">Questa è una versione di manutenzione. Cambiamenti:</p>
+        <p lang="nb_NO">Dette er en vedlikeholdsutgivelse. Endringer:</p>
+        <p lang="pt_BR">Este é um lançamento de manutenção. Alterações:</p>
+        <p lang="fr">Ceci est une mise à jour de maintenance. Changements :</p>
+        <p lang="es">Esta es una versión de mantenimiento. Cambios:</p>
+        <p lang="de">Dies ist eine Wartungsfreigabe. Änderungen:</p>
+        <ul>
+          <li>fix the storage path for meson builds</li>
+          <li lang="zh_CN">修复 meson 构建的存储路径</li>
+          <li lang="it">Correzione per il percorso di archiviazione delle build meson</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2022-02-15" version="3.42.5" type="stable">
+      <description>
+        <p>This is a maintenance release. Changes:</p>
+        <p lang="ru">Это выпуск для обслуживания. Изменения:</p>
+        <p lang="zh_CN">这是一个维护版本。更改如下：</p>
+        <p lang="cs">Toto je udržované vydaní. Změny:</p>
+        <p lang="tr">Bu bir bakım sürümüdür. Değişiklikler:</p>
+        <p lang="zh_Hant">這是一個維護更新。更新內容：</p>
+        <p lang="pl">To wydanie konserwacyjne. Zmiany:</p>
+        <p lang="sl">Nameščena je vzdrževalna različica s spremembami:</p>
+        <p lang="it">Questa è una versione di manutenzione. Cambiamenti:</p>
+        <p lang="nb_NO">Dette er en vedlikeholdsutgivelse. Endringer:</p>
+        <p lang="pt_BR">Este é um lançamento de manutenção. Alterações:</p>
+        <p lang="fr">Ceci est une mise à jour de maintenance. Changements :</p>
+        <p lang="es">Esta es una versión de mantenimiento. Cambios:</p>
+        <p lang="de">Dies ist eine Wartungsfreigabe. Änderungen:</p>
+        <ul>
+          <li>fix some race conditions in history handling</li>
+          <li lang="zh_CN">修复历史记录处理方面的某些竞态条件</li>
+          <li lang="it">Corrette alcune condizioni nella gestione della cronologia</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.42.4" type="stable" date="2022-02-15">
+      <description>
+        <p>This is a maintenance release. Changes:</p>
+        <p lang="ru">Это выпуск для обслуживания. Изменения:</p>
+        <p lang="zh_CN">这是一个维护版本。更改如下：</p>
+        <p lang="cs">Toto je udržované vydaní. Změny:</p>
+        <p lang="tr">Bu bir bakım sürümüdür. Değişiklikler:</p>
+        <p lang="zh_Hant">這是一個維護更新。更新內容：</p>
+        <p lang="pl">To wydanie konserwacyjne. Zmiany:</p>
+        <p lang="sl">Nameščena je vzdrževalna različica s spremembami:</p>
+        <p lang="it">Questa è una versione di manutenzione. Cambiamenti:</p>
+        <p lang="nb_NO">Dette er en vedlikeholdsutgivelse. Endringer:</p>
+        <p lang="pt_BR">Este é um lançamento de manutenção. Alterações:</p>
+        <p lang="fr">Ceci est une mise à jour de maintenance. Changements :</p>
+        <p lang="es">Esta es una versión de mantenimiento. Cambios:</p>
+        <p lang="de">Dies ist eine Wartungsfreigabe. Änderungen:</p>
+        <ul>
+          <li>better fix crash when there is no history yet</li>
+          <li lang="zh_CN">更好修复尚无历史记录时的崩溃</li>
+          <li lang="tr">henüz bir geçmiş olmadığında çökmeyi daha iyi düzelt</li>
+          <li lang="it">Miglior correzione per l'arresto anomalo quando la cronologia è vuota</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.42.3" type="stable" date="2022-02-15">
+      <description>
+        <p>This is a maintenance release. Changes:</p>
+        <p lang="ru">Это выпуск для обслуживания. Изменения:</p>
+        <p lang="zh_CN">这是一个维护版本。更改如下：</p>
+        <p lang="cs">Toto je udržované vydaní. Změny:</p>
+        <p lang="tr">Bu bir bakım sürümüdür. Değişiklikler:</p>
+        <p lang="zh_Hant">這是一個維護更新。更新內容：</p>
+        <p lang="pl">To wydanie konserwacyjne. Zmiany:</p>
+        <p lang="sl">Nameščena je vzdrževalna različica s spremembami:</p>
+        <p lang="it">Questa è una versione di manutenzione. Cambiamenti:</p>
+        <p lang="nb_NO">Dette er en vedlikeholdsutgivelse. Endringer:</p>
+        <p lang="pt_BR">Este é um lançamento de manutenção. Alterações:</p>
+        <p lang="fr">Ceci est une mise à jour de maintenance. Changements :</p>
+        <p lang="es">Esta es una versión de mantenimiento. Cambios:</p>
+        <p lang="de">Dies ist eine Wartungsfreigabe. Änderungen:</p>
+        <ul>
+          <li>fix crash when there is no history yet</li>
+          <li lang="zh_CN">修复没有历史记录时的崩溃</li>
+          <li lang="tr">henüz bir geçmiş olmadığında çökmeyi düzelt</li>
+          <li lang="it">Correzione per l'arresto anomalo quando la cronologia è vuota</li>
+          <li>translations update</li>
+          <li lang="ru">обновление переводов</li>
+          <li lang="zh_CN">更新翻译</li>
+          <li lang="tr">çeviri güncellemesi</li>
+          <li lang="it">aggiornamento traduzioni</li>
+          <li lang="pt_BR">atualização de traduções</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="de">Übersetzungen aktualisiert</li>
+        </ul>
+      </description>
+    </release>
+    <release type="stable" version="3.42.2" date="2021-11-24">
+      <description>
+        <p>This is a maintenance release. Changes:</p>
+        <p lang="ru">Это выпуск для обслуживания. Изменения:</p>
+        <p lang="zh_CN">这是一个维护版本。更改如下：</p>
+        <p lang="cs">Toto je udržované vydaní. Změny:</p>
+        <p lang="tr">Bu bir bakım sürümüdür. Değişiklikler:</p>
+        <p lang="zh_Hant">這是一個維護更新。更新內容：</p>
+        <p lang="pl">To wydanie konserwacyjne. Zmiany:</p>
+        <p lang="sl">Nameščena je vzdrževalna različica s spremembami:</p>
+        <p lang="it">Questa è una versione di manutenzione. Cambiamenti:</p>
+        <p lang="nb_NO">Dette er en vedlikeholdsutgivelse. Endringer:</p>
+        <p lang="pt_BR">Este é um lançamento de manutenção. Alterações:</p>
+        <p lang="fr">Ceci est une mise à jour de maintenance. Changements :</p>
+        <p lang="es">Esta es una versión de mantenimiento. Cambios:</p>
+        <p lang="de">Dies ist eine Wartungsfreigabe. Änderungen:</p>
+        <ul>
+          <li>fix gnome-shell exntesion when the daemon restarts</li>
+          <li lang="ru">исправлено расширение gnome-shell при перезапуске демона</li>
+          <li lang="zh_CN">修复守护进程重启时 gnome-shell 扩展的问题</li>
+          <li lang="tr">arka plan programı yeniden başladığında gnome-shell uzantısını düzeltin</li>
+          <li lang="it">Correzione per l'estensione gnome-shell all'avvio del demone</li>
+          <li lang="pt_BR">corrige a extensão do gnome-shell quando o daemon é reiniciado</li>
+          <li>translations update</li>
+          <li lang="ru">обновление переводов</li>
+          <li lang="zh_CN">更新翻译</li>
+          <li lang="tr">çeviri güncellemesi</li>
+          <li lang="it">aggiornamento traduzioni</li>
+          <li lang="pt_BR">atualização de traduções</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="de">Übersetzungen aktualisiert</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.42.1" type="stable" date="2021-10-30">
+      <description>
+        <p>This is a maintenance release. Changes:</p>
+        <p lang="ru">Это выпуск для обслуживания. Изменения:</p>
+        <p lang="zh_CN">这是一个维护版本。更改如下：</p>
+        <p lang="cs">Toto je udržované vydaní. Změny:</p>
+        <p lang="tr">Bu bir bakım sürümüdür. Değişiklikler:</p>
+        <p lang="zh_Hant">這是一個維護更新。更新內容：</p>
+        <p lang="pl">To wydanie konserwacyjne. Zmiany:</p>
+        <p lang="sl">Nameščena je vzdrževalna različica s spremembami:</p>
+        <p lang="it">Questa è una versione di manutenzione. Cambiamenti:</p>
+        <p lang="nb_NO">Dette er en vedlikeholdsutgivelse. Endringer:</p>
+        <p lang="pt_BR">Este é um lançamento de manutenção. Alterações:</p>
+        <p lang="fr">Ceci est une mise à jour de maintenance. Changements :</p>
+        <p lang="es">Esta es una versión de mantenimiento. Cambios:</p>
+        <p lang="de">Dies ist eine Wartungsfreigabe. Änderungen:</p>
+        <ul>
+          <li>Fix keybindings for wayland</li>
+          <li lang="ru">Исправлены привязки клавиш для Wayland</li>
+          <li lang="zh_CN">修复 Wayland 模式下的键绑定</li>
+          <li lang="tr">Wayland için tuş atamalarını düzelt</li>
+          <li lang="it">Correzione tasti di scelta rapida per wayland</li>
+          <li lang="pt_BR">Corrige associações de teclas para o wayland</li>
+          <li lang="es">Se arregla la captación de los vínculos de teclado para wayland</li>
+          <li lang="de">Repariere die Tastenkürzel-Akquise mit gnome-shell</li>
+          <li>translations update</li>
+          <li lang="ru">обновление переводов</li>
+          <li lang="zh_CN">更新翻译</li>
+          <li lang="tr">çeviri güncellemesi</li>
+          <li lang="it">aggiornamento traduzioni</li>
+          <li lang="pt_BR">atualização de traduções</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="de">Übersetzungen aktualisiert</li>
+        </ul>
+      </description>
+    </release>
+    <release type="stable" date="2021-09-28" version="3.42.0">
+      <description>
+        <p>First release for GNOME 41. Changes:</p>
+        <p lang="ru">Первый выпуск для GNOME 41. Изменения:</p>
+        <p lang="zh_CN">GNOME 41 下发行的首个版本。更改如下：</p>
+        <p lang="tr">GNOME 41 için ilk sürüm. Değişiklikler:</p>
+        <p lang="it">Prima versione per GNOME 41. Cambiamenti:</p>
+        <p lang="pt_BR">Primeiro lançamento para o GNOME 41. Alterações:</p>
+        <p lang="fr">Première mise à jour pour GNOME 41. Changements :</p>
+        <p lang="es">Primera versión para GNOME 41. Cambios:</p>
+        <p lang="de">Erstes Release für GNOME 3.38. Änderungen:</p>
+        <ul>
+          <li>port to gnome-shell 41</li>
+          <li lang="ru">переход на gnome-shell 41</li>
+          <li lang="zh_CN">移植到 gnome-shell 41</li>
+          <li lang="tr">gnome-shell 41 sürümüne uyarla</li>
+          <li lang="it">Portabilità a gnome-shell 41</li>
+          <li lang="pt_BR">port para gnome-shell 41</li>
+          <li lang="fr">port vers gnome-shell version 41</li>
+          <li lang="es">Migrado a gnome-shell 41</li>
+          <li>translations update</li>
+          <li lang="ru">обновление переводов</li>
+          <li lang="zh_CN">更新翻译</li>
+          <li lang="tr">çeviri güncellemesi</li>
+          <li lang="it">aggiornamento traduzioni</li>
+          <li lang="pt_BR">atualização de traduções</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="de">Übersetzungen aktualisiert</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-09-26" version="3.40.3" type="stable">
+      <description>
+        <p>This is a maintenance release. Changes:</p>
+        <p lang="ru">Это выпуск для обслуживания. Изменения:</p>
+        <p lang="zh_CN">这是一个维护版本。更改如下：</p>
+        <p lang="cs">Toto je udržované vydaní. Změny:</p>
+        <p lang="tr">Bu bir bakım sürümüdür. Değişiklikler:</p>
+        <p lang="zh_Hant">這是一個維護更新。更新內容：</p>
+        <p lang="pl">To wydanie konserwacyjne. Zmiany:</p>
+        <p lang="sl">Nameščena je vzdrževalna različica s spremembami:</p>
+        <p lang="it">Questa è una versione di manutenzione. Cambiamenti:</p>
+        <p lang="nb_NO">Dette er en vedlikeholdsutgivelse. Endringer:</p>
+        <p lang="pt_BR">Este é um lançamento de manutenção. Alterações:</p>
+        <p lang="fr">Ceci est une mise à jour de maintenance. Changements :</p>
+        <p lang="es">Esta es una versión de mantenimiento. Cambios:</p>
+        <p lang="de">Dies ist eine Wartungsfreigabe. Änderungen:</p>
+        <ul>
+          <li>translations update</li>
+          <li lang="ru">обновление переводов</li>
+          <li lang="zh_CN">更新翻译</li>
+          <li lang="tr">çeviri güncellemesi</li>
+          <li lang="it">aggiornamento traduzioni</li>
+          <li lang="pt_BR">atualização de traduções</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="de">Übersetzungen aktualisiert</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.40.2" type="stable" date="2021-04-30">
+      <description>
+        <p>This is a maintenance release. Changes:</p>
+        <p lang="ru">Это выпуск для обслуживания. Изменения:</p>
+        <p lang="zh_CN">这是一个维护版本。更改如下：</p>
+        <p lang="cs">Toto je udržované vydaní. Změny:</p>
+        <p lang="tr">Bu bir bakım sürümüdür. Değişiklikler:</p>
+        <p lang="zh_Hant">這是一個維護更新。更新內容：</p>
+        <p lang="pl">To wydanie konserwacyjne. Zmiany:</p>
+        <p lang="sl">Nameščena je vzdrževalna različica s spremembami:</p>
+        <p lang="it">Questa è una versione di manutenzione. Cambiamenti:</p>
+        <p lang="nb_NO">Dette er en vedlikeholdsutgivelse. Endringer:</p>
+        <p lang="pt_BR">Este é um lançamento de manutenção. Alterações:</p>
+        <p lang="fr">Ceci est une mise à jour de maintenance. Changements :</p>
+        <p lang="es">Esta es una versión de mantenimiento. Cambios:</p>
+        <p lang="de">Dies ist eine Wartungsfreigabe. Änderungen:</p>
+        <ul>
+          <li>fix a crash in memory usage checking</li>
+          <li lang="ru">исправление сбоя при проверке использования памяти</li>
+          <li lang="zh_CN">修复内存使用检查的一处崩溃</li>
+          <li lang="cs">oppravena selhaní kontroly využití paměti</li>
+          <li lang="tr">bellek kullanımı denetiminde bir çökmeyi düzelt</li>
+          <li lang="zh_Hant">修復在檢查記憶體使用量時的崩潰</li>
+          <li lang="pl">naprawiono błąd w sprawdzeniu wykorzystania pamięci</li>
+          <li lang="it">Correzione di un crash durante il controllo dell'utilizzo della memoria</li>
+          <li lang="nb_NO">fikset krasj i sjekk av minnebruk</li>
+          <li lang="pt_BR">corrige uma falha na verificação do uso de memória</li>
+          <li lang="fr">Correction d'un crash dans la vérification de l'utilisation de la mémoire</li>
+          <li lang="es">corrige un cierre inesperado durante la comprobación de uso de memoria</li>
+          <li lang="de">Behebe Absturz bei Überprüfung des Speicherverbrauchs</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.40.1" date="2021-04-10" type="stable" />
+    <release version="3.40.0" type="stable" date="2021-04-09">
+      <description>
+        <p>First release for GNOME 40. Changes:</p>
+        <p lang="ru">Первый выпуск для GNOME 40. Изменения:</p>
+        <p lang="zh_CN">GNOME 40 下发行的首个版本。更改如下：</p>
+        <p lang="cs">Prvni vydaní pro GNOME 40. Změny:</p>
+        <p lang="tr">GNOME 40 için ilk sürüm. Değişiklikler:</p>
+        <p lang="zh_Hant">第一個適用於 GNOME 40 的版本。更新內容：</p>
+        <p lang="pl">Pierwsze wydanie na GNOME 40. Zmiany:</p>
+        <p lang="it">Prima versione per GNOME 40. Cambiamenti:</p>
+        <p lang="nb_NO">Første utgave for GNOME 40. Endringer:</p>
+        <p lang="pt_BR">Primeiro lançamento para o GNOME 40. Alterações:</p>
+        <p lang="fr">Première mise à jour pour GNOME 40. Changements :</p>
+        <p lang="es">Primera versión para GNOME 40. Cambios:</p>
+        <ul>
+          <li>port to gnome-shell 40</li>
+          <li lang="ru">переход на gnome-shell 40</li>
+          <li lang="zh_CN">移植到 gnome-shell 40</li>
+          <li lang="cs">port do gnome-shel 40</li>
+          <li lang="tr">gnome kabuğuna bağlantı noktası 40</li>
+          <li lang="zh_Hant">讓其可用於 GNOME Shell 40</li>
+          <li lang="pl">port na gnome-shell 40</li>
+          <li lang="it">Portabilità a gnome-shell 40</li>
+          <li lang="nb_NO">portet til gnome-shell 40</li>
+          <li lang="sv">port till gnome-shell 40</li>
+          <li lang="pt_BR">port para gnome-shell 40</li>
+          <li lang="fr">port vers gnome-shell version 40</li>
+          <li lang="es">Migrado a gnome-shell 40</li>
+          <li lang="de">Aktualisierung auf gnome-shell 3.34.0</li>
+          <li>placeholder for gnome-shell prefs</li>
+          <li lang="ru">место для предварительных настроек gnome-shell</li>
+          <li lang="zh_CN">gnome-shell 首选项的占位符</li>
+          <li lang="tr">gnome-shell tercihleri için yer tutucu</li>
+          <li lang="pl">placeholder dla preferencji gnome-shell</li>
+          <li lang="it">segnaposto per le preferenze di gnome-shell</li>
+          <li lang="pt_BR">espaço reservado para preferências do gnome-shell</li>
+          <li lang="fr">espace réservé aux préférences gnome-shell</li>
+          <li lang="de">Platzhalter für gnome-shell einstellungen</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.38.6" type="stable" date="2020-03-08">
+      <description>
+        <p>This is a maintenance release. Changes:</p>
+        <p lang="ru">Это выпуск для обслуживания. Изменения:</p>
+        <p lang="zh_CN">这是一个维护版本。更改如下：</p>
+        <p lang="cs">Toto je udržované vydaní. Změny:</p>
+        <p lang="tr">Bu bir bakım sürümüdür. Değişiklikler:</p>
+        <p lang="zh_Hant">這是一個維護更新。更新內容：</p>
+        <p lang="pl">To wydanie konserwacyjne. Zmiany:</p>
+        <p lang="sl">Nameščena je vzdrževalna različica s spremembami:</p>
+        <p lang="it">Questa è una versione di manutenzione. Cambiamenti:</p>
+        <p lang="nb_NO">Dette er en vedlikeholdsutgivelse. Endringer:</p>
+        <p lang="pt_BR">Este é um lançamento de manutenção. Alterações:</p>
+        <p lang="fr">Ceci est une mise à jour de maintenance. Changements :</p>
+        <p lang="es">Esta es una versión de mantenimiento. Cambios:</p>
+        <p lang="de">Dies ist eine Wartungsfreigabe. Änderungen:</p>
+        <ul>
+          <li>fix X11 keybinder outside of GNOME</li>
+          <li lang="ru">исправлена привязка клавиш X11 вне GNOME</li>
+          <li lang="zh_CN">修复了 GNOME 外的 X11 keybinder</li>
+          <li lang="tr">GNOME dışında X11 tuş atayıcısını düzelt</li>
+          <li lang="pl">poprawiono keybinder X11 poza GNOME</li>
+          <li lang="it">correzione tasti di X11 al di fuori di GNOME</li>
+          <li lang="nb_NO">fikset X11-tastaturbindinger utenfor GNOME</li>
+          <li lang="pt_BR">corrige associação de teclas X11 fora do GNOME</li>
+          <li lang="fr">corriger le clavier X11 en dehors de GNOME</li>
+          <li lang="es">arreglado el bindeo de tecla fuera de GNOME con X11</li>
+          <li lang="de">Behebe X11 Tastenbindung außerhalb von GNOME</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-02-03" type="stable" version="3.38.5">
+      <description>
+        <p>This is a maintenance release. Changes:</p>
+        <p lang="ru">Это выпуск для обслуживания. Изменения:</p>
+        <p lang="zh_CN">这是一个维护版本。更改如下：</p>
+        <p lang="cs">Toto je udržované vydaní. Změny:</p>
+        <p lang="tr">Bu bir bakım sürümüdür. Değişiklikler:</p>
+        <p lang="zh_Hant">這是一個維護更新。更新內容：</p>
+        <p lang="pl">To wydanie konserwacyjne. Zmiany:</p>
+        <p lang="sl">Nameščena je vzdrževalna različica s spremembami:</p>
+        <p lang="it">Questa è una versione di manutenzione. Cambiamenti:</p>
+        <p lang="nb_NO">Dette er en vedlikeholdsutgivelse. Endringer:</p>
+        <p lang="pt_BR">Este é um lançamento de manutenção. Alterações:</p>
+        <p lang="fr">Ceci est une mise à jour de maintenance. Changements :</p>
+        <p lang="es">Esta es una versión de mantenimiento. Cambios:</p>
+        <p lang="de">Dies ist eine Wartungsfreigabe. Änderungen:</p>
+        <ul>
+          <li>better handling and reporting of invalid uuids passed to gpaste-client</li>
+          <li lang="ru">улучшена обработка и информирование о недопустимых uuids, переданных в gpaste-client</li>
+          <li lang="zh_CN">无效的uuid被传递到gpaste-client时最佳的处理和反馈</li>
+          <li lang="cs">lepší zpracování a hlášení neplatných uuid předaných do gpaste-client.</li>
+          <li lang="tr">gpaste istemcisine iletilen geçersiz kullanıcı kimliklerinin daha iyi işlenmesi ve raporlanması</li>
+          <li lang="pl">lepsza obsługa i zgłaszanie nieprawidłowych unikalnych identyfikatorów przekazywanych do gpaste-client</li>
+          <li lang="sl">boljše upravljanje in poročanje o neveljavnih določilih UUID, poslanih na program gpaste-client</li>
+          <li lang="it">migliore gestione e segnalazione degli uuid invalidi passati a gpaste-client</li>
+          <li lang="nb_NO">bedre håndtering og rapportering av ugyldige UUID-er sendt til gpaste-client</li>
+          <li lang="pt_BR">melhor tratamento e relatório de uuids inválidos passados para gpaste-client</li>
+          <li lang="fr">meilleure gestion et remontée d'erreurs quand des uuids invalides sont passés à gpaste-client</li>
+          <li lang="es">mejorado el reporte de uuids pasados a gpaste-client</li>
+          <li lang="de">Bessere Handhabung von ungültigen UUIDs die dem gpaste-client übergeben werden</li>
+          <li>gpaste-client now has a --use-index argument for several subcommands to use index instead of uuid</li>
+          <li lang="ru">gpaste-client теперь имеет аргумент --use-index в нескольких подкомандах для использования индекса вместо uuid</li>
+          <li lang="zh_CN">当前gpaste-client拥有一个子命令的--use-index参数以方便使用索引来代替uuid</li>
+          <li lang="cs">gpaste-client má nyní argument --use-index pro několik dílčích příkazů, které používají index místo uuid.</li>
+          <li lang="tr">gpaste istemcisinin artık birkaç alt komutun uuid yerine dizin kullanması için bir --kullanım dizini argümanı var</li>
+          <li lang="pl">gpaste-client obsługuje teraz argument --use-index dla użycia kilku subkomend zamiast unikalnego identyfikatora</li>
+          <li lang="it">gpaste-client ora ha un argomento --use-index per diversi sottocomandi per usare index invece di uuid</li>
+          <li lang="nb_NO">gpaste-client har nå et --use-index -argument for flere underkommandoer for bruke av indeks istedenfor UUID</li>
+          <li lang="pt_BR">gpaste-client agora tem um argumento --use-index para vários subcomandos para usar index em vez de uuid</li>
+          <li lang="fr">gpaste-client a maintenant un paramètre --use-index pour plusieurs sous-commandes pour utiliser l'index à la place de l'uuid</li>
+          <li lang="de">gpaste-client hat jetzt ein --use-index Argument für mehrere Unterbefehle, um index statt UUID zu verwenden</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.38.4" type="stable" date="2020-12-22">
+      <description>
+        <p>This is a maintenance release. Changes:</p>
+        <p lang="ru">Это выпуск для обслуживания. Изменения:</p>
+        <p lang="zh_CN">这是一个维护版本。更改如下：</p>
+        <p lang="cs">Toto je udržované vydaní. Změny:</p>
+        <p lang="tr">Bu bir bakım sürümüdür. Değişiklikler:</p>
+        <p lang="zh_Hant">這是一個維護更新。更新內容：</p>
+        <p lang="pl">To wydanie konserwacyjne. Zmiany:</p>
+        <p lang="sl">Nameščena je vzdrževalna različica s spremembami:</p>
+        <p lang="it">Questa è una versione di manutenzione. Cambiamenti:</p>
+        <p lang="nb_NO">Dette er en vedlikeholdsutgivelse. Endringer:</p>
+        <p lang="pt_BR">Este é um lançamento de manutenção. Alterações:</p>
+        <p lang="fr">Ceci est une mise à jour de maintenance. Changements :</p>
+        <p lang="es">Esta es una versión de mantenimiento. Cambios:</p>
+        <p lang="de">Dies ist eine Wartungsfreigabe. Änderungen:</p>
+        <ul>
+          <li>fix the make-password keybinding</li>
+          <li lang="ru">исправлена привязка клавиши для make-password</li>
+          <li lang="zh_CN">修复make-password快捷键</li>
+          <li lang="tr">Parola yap tuş atamasını düzelt</li>
+          <li lang="zh_Hant">修復「建立密碼」快捷鍵</li>
+          <li lang="pl">poprawka dla skrótu klawiszowego "stwórz hasło"</li>
+          <li lang="it">correzione per la scorciatoia da tastiera make-password</li>
+          <li lang="nb_NO">fikset make-password -tastaturbinding</li>
+          <li lang="pt_BR">corrige a associação de teclas do make-password</li>
+          <li lang="fr">correction du raccourcis clavier pour créer un mot de passe</li>
+          <li lang="es">arreglado el enlace de makepassword</li>
+          <li lang="de">Behebung der make-password-Tastenbindung</li>
+          <li>updated translations</li>
+          <li lang="ru">обновленные переводы</li>
+          <li lang="zh_CN">更新翻译</li>
+          <li lang="tr">güncellenmiş çeviriler</li>
+          <li lang="zh_Hant">更新翻譯</li>
+          <li lang="pl">zaktualizowano tłumaczenia</li>
+          <li lang="it">traduzioni aggiornate</li>
+          <li lang="nb_NO">oppdaterte oversettelser</li>
+          <li lang="sv">uppdaterade översättningar</li>
+          <li lang="pt_BR">traduções atualizadas</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="es">traducciones actualizadas</li>
+          <li lang="de">Übersetzungen aktualisiert</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.38.3" date="2020-11-02" type="stable">
+      <description>
+        <p>This is a maintenance release. Changes:</p>
+        <p lang="ru">Это выпуск для обслуживания. Изменения:</p>
+        <p lang="zh_CN">这是一个维护版本。更改如下：</p>
+        <p lang="cs">Toto je udržované vydaní. Změny:</p>
+        <p lang="tr">Bu bir bakım sürümüdür. Değişiklikler:</p>
+        <p lang="zh_Hant">這是一個維護更新。更新內容：</p>
+        <p lang="pl">To wydanie konserwacyjne. Zmiany:</p>
+        <p lang="sl">Nameščena je vzdrževalna različica s spremembami:</p>
+        <p lang="it">Questa è una versione di manutenzione. Cambiamenti:</p>
+        <p lang="nb_NO">Dette er en vedlikeholdsutgivelse. Endringer:</p>
+        <p lang="pt_BR">Este é um lançamento de manutenção. Alterações:</p>
+        <p lang="fr">Ceci est une mise à jour de maintenance. Changements :</p>
+        <p lang="es">Esta es una versión de mantenimiento. Cambios:</p>
+        <p lang="de">Dies ist eine Wartungsfreigabe. Änderungen:</p>
+        <ul>
+          <li>gnome-shell extension warning fixes</li>
+          <li lang="ru">исправлены предупреждения в расширении для gnome-shell</li>
+          <li lang="zh_CN">gnome-shell扩展的warning被修复</li>
+          <li lang="tr">gnome kabuk uzantısı uyarı düzeltmeleri</li>
+          <li lang="zh_Hant">GNOME Shell 插件警告修復</li>
+          <li lang="pl">poprawki w ostrzeżeniach rozszerzenia gnome-shell</li>
+          <li lang="it">correzione per gli avvisi dell'estensione gnome-shell</li>
+          <li lang="nb_NO">advarselsfikser i gnome-shell-utvidelsen</li>
+          <li lang="pt_BR">correções de aviso de extensão do gnome-shell</li>
+          <li lang="fr">Correction de warnings dans l'extension gnome-shell</li>
+          <li lang="es">arreglos de avisos en la extensión para GNOME Shell</li>
+          <li lang="de">gnome-shell erweiterung warnung behoben</li>
+          <li>updated translations</li>
+          <li lang="ru">обновленные переводы</li>
+          <li lang="zh_CN">更新翻译</li>
+          <li lang="tr">güncellenmiş çeviriler</li>
+          <li lang="zh_Hant">更新翻譯</li>
+          <li lang="pl">zaktualizowano tłumaczenia</li>
+          <li lang="it">traduzioni aggiornate</li>
+          <li lang="nb_NO">oppdaterte oversettelser</li>
+          <li lang="sv">uppdaterade översättningar</li>
+          <li lang="pt_BR">traduções atualizadas</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="es">traducciones actualizadas</li>
+          <li lang="de">Übersetzungen aktualisiert</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.38.2" type="stable" date="2020-10-03">
+      <description>
+        <p>This is a maintenance release. Changes:</p>
+        <p lang="ru">Это выпуск для обслуживания. Изменения:</p>
+        <p lang="zh_CN">这是一个维护版本。更改如下：</p>
+        <p lang="cs">Toto je udržované vydaní. Změny:</p>
+        <p lang="tr">Bu bir bakım sürümüdür. Değişiklikler:</p>
+        <p lang="zh_Hant">這是一個維護更新。更新內容：</p>
+        <p lang="pl">To wydanie konserwacyjne. Zmiany:</p>
+        <p lang="sl">Nameščena je vzdrževalna različica s spremembami:</p>
+        <p lang="it">Questa è una versione di manutenzione. Cambiamenti:</p>
+        <p lang="nb_NO">Dette er en vedlikeholdsutgivelse. Endringer:</p>
+        <p lang="pt_BR">Este é um lançamento de manutenção. Alterações:</p>
+        <p lang="fr">Ceci est une mise à jour de maintenance. Changements :</p>
+        <p lang="es">Esta es una versión de mantenimiento. Cambios:</p>
+        <p lang="de">Dies ist eine Wartungsfreigabe. Änderungen:</p>
+        <ul>
+          <li>gnome-shell extension cosmetic updates</li>
+          <li lang="ru">косметические обновления в расширения gnome-shell</li>
+          <li lang="zh_CN">gnome-shell扩展cosmetic更新</li>
+          <li lang="tr">gnome kabuk uzantısı kozmetik güncellemeleri</li>
+          <li lang="pl">poprawki kosmetyczne rozszerzenia dla gnome-shell</li>
+          <li lang="it">aggiornamenti cosmetici dell'estensione gnome-shell</li>
+          <li lang="nb_NO">kosmetiske oppdateringer i gnome-shell-utvidelsen</li>
+          <li lang="pt_BR">atualizações cosméticas de extensão do gnome-shell</li>
+          <li lang="fr">Mises à jour cosmétiques de l'extension gnome-shell</li>
+          <li lang="es">Actualizaciones superficiales a la extensión para GNOME Shell</li>
+          <li lang="de">kosmetische Aktualisierungen für die Gnome-Shell-Erweiterung</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-10-01" type="stable" version="3.38.1">
+      <description>
+        <p>This is a maintenance release. Changes:</p>
+        <p lang="ru">Это выпуск для обслуживания. Изменения:</p>
+        <p lang="zh_CN">这是一个维护版本。更改如下：</p>
+        <p lang="cs">Toto je udržované vydaní. Změny:</p>
+        <p lang="tr">Bu bir bakım sürümüdür. Değişiklikler:</p>
+        <p lang="zh_Hant">這是一個維護更新。更新內容：</p>
+        <p lang="pl">To wydanie konserwacyjne. Zmiany:</p>
+        <p lang="sl">Nameščena je vzdrževalna različica s spremembami:</p>
+        <p lang="it">Questa è una versione di manutenzione. Cambiamenti:</p>
+        <p lang="nb_NO">Dette er en vedlikeholdsutgivelse. Endringer:</p>
+        <p lang="pt_BR">Este é um lançamento de manutenção. Alterações:</p>
+        <p lang="fr">Ceci est une mise à jour de maintenance. Changements :</p>
+        <p lang="es">Esta es una versión de mantenimiento. Cambios:</p>
+        <p lang="de">Dies ist eine Wartungsfreigabe. Änderungen:</p>
+        <ul>
+          <li>Disable images support by default (can be reenabled in preferences)</li>
+          <li lang="ru">По умолчанию отключена поддержка изображений (можно снова включить в настройках)</li>
+          <li lang="zh_CN">默认禁用图片(可以在首选项中重新启用)</li>
+          <li lang="tr">Görüntü desteğini varsayılan olarak devre dışı bırakın (tercihlerde yeniden etkinleştirilebilir)</li>
+          <li lang="zh_Hant">預設禁用圖像歷史（可在偏好設定裏重啓）</li>
+          <li lang="pl">Domyślnie wyłącz wsparcie dla zdjęć (może zostać ponownie włączone w preferencjach)</li>
+          <li lang="it">Disabilita il supporto alle immagini per impostazione predefinita (può essere riattivato nelle preferenze)</li>
+          <li lang="pt_BR">Desabilita suporte a imagens por padrão (pode ser reabilitado nas preferências)</li>
+          <li lang="fr">Désactivation de la prise en charge des images par défaut (peut être réactivée dans les préférences)</li>
+          <li lang="es">Se desactiva la compatibilidad con imágenes de manera predeterminada (puede reactivarse en la configuración)</li>
+          <li lang="de">Deaktiviere die Unterstützung für Bilder standardmäßig (kann in den Einstellungen wiederhergestellt werden)</li>
+          <li>Search now includes passwords (using their names)</li>
+          <li lang="ru">Поиск теперь включает пароли (используя их имена)</li>
+          <li lang="zh_CN">搜索现在包括了密码(使用密码名)</li>
+          <li lang="tr">Arama artık şifreleri içeriyor (adlarını kullanarak)</li>
+          <li lang="pl">Wyszukiwanie uwzględnia teraz hasła (używając ich nazw)</li>
+          <li lang="it">La ricerca ora include le password (usando il loro nome)</li>
+          <li lang="pt_BR">A pesquisa agora inclui senhas (usando seus nomes)</li>
+          <li lang="fr">La recherche inclut maintenant les mots de passe (en utilisant leurs noms)</li>
+          <li lang="es">La búsqueda ahora incluye contraseñas (utilizando sus nombres)</li>
+          <li lang="de">Die Suche bezieht nun auch Passwörter ein (über deren Namen)</li>
+          <li>systemd integration enhancements</li>
+          <li lang="ru">улучшения интеграции с systemd</li>
+          <li lang="zh_CN">systemd集成增强功能</li>
+          <li lang="tr">systemd entegrasyon geliştirmeleri</li>
+          <li lang="pl">poprawki w integracji z systemd</li>
+          <li lang="it">miglioramenti nell'integrazione con systemd</li>
+          <li lang="nb_NO">forbedringer i systemd-integrasjon</li>
+          <li lang="pt_BR">melhorias de integração systemd</li>
+          <li lang="fr">Amélioration de l'intégration avec systemd</li>
+          <li lang="es">Mejoras en la integración con systemd</li>
+          <li lang="de">Verbesserungen hinsichtlich der systemd-Integration</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-09-15" type="stable" version="3.38.0">
+      <description>
+        <p>First release for GNOME 3.38. Changes:</p>
+        <p lang="ru">Первый выпуск для GNOME 3.38. Изменения:</p>
+        <p lang="zh_CN">首次发行GNOME 3.38的更改如下:</p>
+        <p lang="tr">GNOME 3.38 için ilk sürüm. Değişiklikler:</p>
+        <p lang="pl">Pierwsze wydanie dla GNOME 3.38. Zmiany:</p>
+        <p lang="sl">Prva objava za GNOME 3.38. Spremembe:</p>
+        <p lang="it">Prima versione per GNOME 3.38. Cambiamenti:</p>
+        <p lang="nb_NO">Første utgave for GNOME 3.38. Endringer:</p>
+        <p lang="pt_BR">Primeiro lançamento para GNOME 3.38. Alterações:</p>
+        <p lang="fr">Première mise à jour pour GNOME 3.38. Changements :</p>
+        <p lang="es">Primera versión para GNOME 3.38. Cambios:</p>
+        <p lang="de">Erstes Release für GNOME 3.38. Änderungen:</p>
+        <ul>
+          <li>Drop the Tracking DBus signal</li>
+          <li lang="ru">Сброс сигнала DBus для отслеживания</li>
+          <li lang="zh_CN">去除跟踪DBus的信号</li>
+          <li lang="tr">İzleme DBus sinyalini bırakın</li>
+          <li lang="pl">Wyłącz śledzenie sygnału DBus</li>
+          <li lang="it">Abbandona il segnale Tracking DBus</li>
+          <li lang="pt_BR">Descara o sinal Tracking DBus</li>
+          <li lang="fr">Suppression du signal DBus Tracking</li>
+          <li lang="es">Se desecha la señal Tracking de DBus</li>
+          <li lang="de">Verwerfe das Tracking DBus-Signal</li>
+          <li>Switch to uuids to identify items</li>
+          <li lang="ru">Переход на uuids для идентификации предметов</li>
+          <li lang="zh_CN">将标识符项切换到uuid</li>
+          <li lang="tr">Öğeleri tanımlamak için kullanıcı kimliklerine geçin</li>
+          <li lang="pl">Przełącz na unikalne identyfikatory do identyfikacji elementów</li>
+          <li lang="it">Passa ad identificare gli oggetti tramite uuid</li>
+          <li lang="pt_BR">Alterna para uuids para identificar itens</li>
+          <li lang="fr">Utilisation d'uuids pour identifier les éléments</li>
+          <li lang="es">Se cambia a utilizar UUID para identificar elementos</li>
+          <li lang="de">Wechsel zu UUIDs, um Elemente zu identifizieren</li>
+          <li>Bump DBus interface to org.gnome.GPaste2</li>
+          <li lang="ru">Обновление интерфейса DBus до org.gnome.GPaste2</li>
+          <li lang="zh_CN">将DBus接口连接到org.gnome.GPaste2</li>
+          <li lang="tr">DBus arabirimini org.gnome.GPaste2'ye aktarın</li>
+          <li lang="it">Passa interfaccia DBus a org.gnome.GPaste2</li>
+          <li lang="pt_BR">Incrementa a interface DBus para org.gnome.GPaste2</li>
+          <li lang="fr">Mise à jour de l'intrface DBus en org.gnome.GPaste2</li>
+          <li lang="es">Se actualiza la interfaz de DBus a org.gnome.GPaste2</li>
+          <li lang="de">Upgrade DBus-Interface zu org.gnome.GPaste2</li>
+          <li>Update to gnome-shell 3.38.0</li>
+          <li lang="ru">Обновление до gnome-shell 3.38.0</li>
+          <li lang="zh_CN">更新到gnome-shell 3.38.0</li>
+          <li lang="tr">Gnome-shell 3.38.0 güncellemesi</li>
+          <li lang="pl">Zaktualizowano do gnome-shell 3.38.0</li>
+          <li lang="it">Aggiorna a gnome-shell 3.38.0</li>
+          <li lang="nb_NO">Oppgradering til gnome-shell 3.38.0</li>
+          <li lang="pt_BR">Atualiza para o gnome-shell 3.38.0</li>
+          <li lang="fr">Mise à jour de gnome-shell en verison 3.38.0</li>
+          <li lang="es">Actualización a gnome-shell 3.38.0</li>
+          <li lang="de">Update auf gnome-shell 3.38.0</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.36.5" type="stable" date="2020-03-08">
+      <description>
+        <p>This is a maintenance release. Changes:</p>
+        <p lang="ru">Это выпуск для обслуживания. Изменения:</p>
+        <p lang="zh_CN">这是一个维护版本。更改如下：</p>
+        <p lang="cs">Toto je udržované vydaní. Změny:</p>
+        <p lang="tr">Bu bir bakım sürümüdür. Değişiklikler:</p>
+        <p lang="zh_Hant">這是一個維護更新。更新內容：</p>
+        <p lang="pl">To wydanie konserwacyjne. Zmiany:</p>
+        <p lang="sl">Nameščena je vzdrževalna različica s spremembami:</p>
+        <p lang="it">Questa è una versione di manutenzione. Cambiamenti:</p>
+        <p lang="nb_NO">Dette er en vedlikeholdsutgivelse. Endringer:</p>
+        <p lang="pt_BR">Este é um lançamento de manutenção. Alterações:</p>
+        <p lang="fr">Ceci est une mise à jour de maintenance. Changements :</p>
+        <p lang="es">Esta es una versión de mantenimiento. Cambios:</p>
+        <p lang="de">Dies ist eine Wartungsfreigabe. Änderungen:</p>
+        <ul>
+          <li>fix X11 keybinder outside of GNOME</li>
+          <li lang="ru">исправлена привязка клавиш X11 вне GNOME</li>
+          <li lang="zh_CN">修复了 GNOME 外的 X11 keybinder</li>
+          <li lang="tr">GNOME dışında X11 tuş atayıcısını düzelt</li>
+          <li lang="pl">poprawiono keybinder X11 poza GNOME</li>
+          <li lang="it">correzione tasti di X11 al di fuori di GNOME</li>
+          <li lang="nb_NO">fikset X11-tastaturbindinger utenfor GNOME</li>
+          <li lang="pt_BR">corrige associação de teclas X11 fora do GNOME</li>
+          <li lang="fr">corriger le clavier X11 en dehors de GNOME</li>
+          <li lang="es">arreglado el bindeo de tecla fuera de GNOME con X11</li>
+          <li lang="de">Behebe X11 Tastenbindung außerhalb von GNOME</li>
+        </ul>
+      </description>
+    </release>
+    <release type="stable" date="2020-10-03" version="3.36.4">
+      <description>
+        <p>This is a maintenance release. Changes:</p>
+        <p lang="ru">Это выпуск для обслуживания. Изменения:</p>
+        <p lang="zh_CN">这是一个维护版本。更改如下：</p>
+        <p lang="cs">Toto je udržované vydaní. Změny:</p>
+        <p lang="tr">Bu bir bakım sürümüdür. Değişiklikler:</p>
+        <p lang="zh_Hant">這是一個維護更新。更新內容：</p>
+        <p lang="pl">To wydanie konserwacyjne. Zmiany:</p>
+        <p lang="sl">Nameščena je vzdrževalna različica s spremembami:</p>
+        <p lang="it">Questa è una versione di manutenzione. Cambiamenti:</p>
+        <p lang="nb_NO">Dette er en vedlikeholdsutgivelse. Endringer:</p>
+        <p lang="pt_BR">Este é um lançamento de manutenção. Alterações:</p>
+        <p lang="fr">Ceci est une mise à jour de maintenance. Changements :</p>
+        <p lang="es">Esta es una versión de mantenimiento. Cambios:</p>
+        <p lang="de">Dies ist eine Wartungsfreigabe. Änderungen:</p>
+        <ul>
+          <li>gnome-shell extension cosmetic updates</li>
+          <li lang="ru">косметические обновления в расширения gnome-shell</li>
+          <li lang="zh_CN">gnome-shell扩展cosmetic更新</li>
+          <li lang="tr">gnome kabuk uzantısı kozmetik güncellemeleri</li>
+          <li lang="pl">poprawki kosmetyczne rozszerzenia dla gnome-shell</li>
+          <li lang="it">aggiornamenti cosmetici dell'estensione gnome-shell</li>
+          <li lang="nb_NO">kosmetiske oppdateringer i gnome-shell-utvidelsen</li>
+          <li lang="pt_BR">atualizações cosméticas de extensão do gnome-shell</li>
+          <li lang="fr">Mises à jour cosmétiques de l'extension gnome-shell</li>
+          <li lang="es">Actualizaciones superficiales a la extensión para GNOME Shell</li>
+          <li lang="de">kosmetische Aktualisierungen für die Gnome-Shell-Erweiterung</li>
+        </ul>
+      </description>
+    </release>
+    <release type="stable" version="3.36.3" date="2020-03-27">
+      <description>
+        <p>This is a maintenance release. Changes:</p>
+        <p lang="ru">Это выпуск для обслуживания. Изменения:</p>
+        <p lang="zh_CN">这是一个维护版本。更改如下：</p>
+        <p lang="cs">Toto je udržované vydaní. Změny:</p>
+        <p lang="tr">Bu bir bakım sürümüdür. Değişiklikler:</p>
+        <p lang="zh_Hant">這是一個維護更新。更新內容：</p>
+        <p lang="pl">To wydanie konserwacyjne. Zmiany:</p>
+        <p lang="sl">Nameščena je vzdrževalna različica s spremembami:</p>
+        <p lang="it">Questa è una versione di manutenzione. Cambiamenti:</p>
+        <p lang="nb_NO">Dette er en vedlikeholdsutgivelse. Endringer:</p>
+        <p lang="pt_BR">Este é um lançamento de manutenção. Alterações:</p>
+        <p lang="fr">Ceci est une mise à jour de maintenance. Changements :</p>
+        <p lang="es">Esta es una versión de mantenimiento. Cambios:</p>
+        <p lang="de">Dies ist eine Wartungsfreigabe. Änderungen:</p>
+        <ul>
+          <li>Fix activating items using Ctrl-Number in gnome-shell</li>
+          <li lang="ru">Исправлена активация элементов с помощью Ctrl+Номер в gnome-shell</li>
+          <li lang="zh_CN">使用 Ctrl-数字 来修复gnome-shell的激活项</li>
+          <li lang="tr">Gnome kabuğunda Ctrl-Number kullanarak etkinleştirilen öğeleri düzeltin</li>
+          <li lang="pl">Naprawiono aktywowanie elementów używając Ctrl+numer w gnome-shell</li>
+          <li lang="it">Correzione per l'attivazione degli elementi con Ctrl-Numero in gnome-shell</li>
+          <li lang="pt_BR">Corrige itens de ativação usando Ctrl-Número no gnome-shell</li>
+          <li lang="fr">Correction de l'activation d'un élément avec Ctrl-Nombre dans gnome-shell</li>
+          <li lang="es">Se corrige la activación de elementos con Ctrl+número en GNOME Shell</li>
+          <li lang="de">Repariere die Aktivierung von Elementen via Ctrl+Nummer in gnome-shell</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.36.2" type="stable" date="2020-03-19">
+      <description>
+        <p>This is a maintenance release. Changes:</p>
+        <p lang="ru">Это выпуск для обслуживания. Изменения:</p>
+        <p lang="zh_CN">这是一个维护版本。更改如下：</p>
+        <p lang="cs">Toto je udržované vydaní. Změny:</p>
+        <p lang="tr">Bu bir bakım sürümüdür. Değişiklikler:</p>
+        <p lang="zh_Hant">這是一個維護更新。更新內容：</p>
+        <p lang="pl">To wydanie konserwacyjne. Zmiany:</p>
+        <p lang="sl">Nameščena je vzdrževalna različica s spremembami:</p>
+        <p lang="it">Questa è una versione di manutenzione. Cambiamenti:</p>
+        <p lang="nb_NO">Dette er en vedlikeholdsutgivelse. Endringer:</p>
+        <p lang="pt_BR">Este é um lançamento de manutenção. Alterações:</p>
+        <p lang="fr">Ceci est une mise à jour de maintenance. Changements :</p>
+        <p lang="es">Esta es una versión de mantenimiento. Cambios:</p>
+        <p lang="de">Dies ist eine Wartungsfreigabe. Änderungen:</p>
+        <ul>
+          <li>Fix keybinding regrab with gnome-shell</li>
+          <li lang="ru">Исправлена привязка клавиш regrab с помощью gnome-shell</li>
+          <li lang="zh_CN">重新修复gnome-shell的快捷键</li>
+          <li lang="tr">Gnome kabuğu ile tuş atama yeniden düzenlemesini düzelt</li>
+          <li lang="it">Correzione ricattura scorciatoie da tastiera in gnome-shell</li>
+          <li lang="pt_BR">Corrige nova captura de associação de teclas com gnome-shell</li>
+          <li lang="fr">Correction de la modification des raccourcis clavier dans gnome-shell</li>
+          <li lang="es">Se arregla la recaptación de los vínculos de teclado en GNOME Shell</li>
+          <li lang="de">Repariere die Tastenkürzel-Akquise mit gnome-shell</li>
+        </ul>
+      </description>
+    </release>
+    <release type="stable" version="3.36.1" date="2020-03-19">
+      <description>
+        <p>This is a maintenance release. Changes:</p>
+        <p lang="ru">Это выпуск для обслуживания. Изменения:</p>
+        <p lang="zh_CN">这是一个维护版本。更改如下：</p>
+        <p lang="cs">Toto je udržované vydaní. Změny:</p>
+        <p lang="tr">Bu bir bakım sürümüdür. Değişiklikler:</p>
+        <p lang="zh_Hant">這是一個維護更新。更新內容：</p>
+        <p lang="pl">To wydanie konserwacyjne. Zmiany:</p>
+        <p lang="sl">Nameščena je vzdrževalna različica s spremembami:</p>
+        <p lang="it">Questa è una versione di manutenzione. Cambiamenti:</p>
+        <p lang="nb_NO">Dette er en vedlikeholdsutgivelse. Endringer:</p>
+        <p lang="pt_BR">Este é um lançamento de manutenção. Alterações:</p>
+        <p lang="fr">Ceci est une mise à jour de maintenance. Changements :</p>
+        <p lang="es">Esta es una versión de mantenimiento. Cambios:</p>
+        <p lang="de">Dies ist eine Wartungsfreigabe. Änderungen:</p>
+        <ul>
+          <li>Fix keybinding grab with gnome-shell</li>
+          <li lang="ru">Исправлен захват привязки клавиш с помощью gnome-shell</li>
+          <li lang="zh_CN">重新修复gnome-shell的快捷键</li>
+          <li lang="tr">Gnome kabuğu ile tuş atama tutuşunu düzelt</li>
+          <li lang="it">Correzione cattura scorciatoie da tastiera in gnome-shell</li>
+          <li lang="pt_BR">Corrige captura de associação de teclas com gnome-shell</li>
+          <li lang="fr">Correction des raccourcis clavier dans gnome-shell</li>
+          <li lang="es">Se arregla la captación de los vínculos de teclado en GNOME Shell</li>
+          <li lang="de">Repariere die Tastenkürzel-Akquise mit gnome-shell</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.36.0" type="stable" date="2020-03-08">
+      <description>
+        <p>First release for GNOME 3.36. Changes:</p>
+        <p lang="ru">Первый выпуск для GNOME 3.36. Изменения:</p>
+        <p lang="zh_CN">首次发行GNOME 3.36。更改如下：</p>
+        <p lang="tr">GNOME 3.36 için ilk sürüm. Değişiklikler:</p>
+        <p lang="pl">Pierwsze wydanie na GNOME 3.36. Zmiany:</p>
+        <p lang="it">Prima versione per GNOME 3.36. Cambiamenti:</p>
+        <p lang="nb_NO">Første utgave for GNOME 3.36. Endringer:</p>
+        <p lang="pt_BR">Primeiro lançamento para o GNOME 3.36. Alterações:</p>
+        <p lang="fr">Première mise à jour pour GNOME 3.36. Changements :</p>
+        <p lang="es">Primera versión para GNOME 3.36. Cambios:</p>
+        <p lang="de">Erstes Release für GNOME 3.36. Änderungen:</p>
+        <ul>
+          <li>Update to gnome-shell 3.36.0</li>
+          <li lang="ru">Обновление до gnome-shell 3.36.0</li>
+          <li lang="zh_CN">更新到gnome-shell 3.36.0</li>
+          <li lang="tr">Gnome kabuğu 3.36.0'a güncelleme</li>
+          <li lang="pl">Aktualizacja do gnome-shell 3.36.0</li>
+          <li lang="it">Aggiornamento a gnome-shell 3.36.0</li>
+          <li lang="nb_NO">Oppgradering til gnome-shell 3.36.0.</li>
+          <li lang="pt_BR">Atualização para o gnome-shell 3.36.0</li>
+          <li lang="fr">Mise à jour de gnome-shell en verison 3.36.0</li>
+          <li lang="es">Actualización a gnome-shell 3.36.0</li>
+          <li lang="de">Update auf gnome-shell 3.36.0</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-03-27" version="3.34.4" type="stable">
+      <description>
+        <p>This is a maintenance release. Changes:</p>
+        <p lang="ru">Это выпуск для обслуживания. Изменения:</p>
+        <p lang="zh_CN">这是一个维护版本。更改如下：</p>
+        <p lang="cs">Toto je udržované vydaní. Změny:</p>
+        <p lang="tr">Bu bir bakım sürümüdür. Değişiklikler:</p>
+        <p lang="zh_Hant">這是一個維護更新。更新內容：</p>
+        <p lang="pl">To wydanie konserwacyjne. Zmiany:</p>
+        <p lang="sl">Nameščena je vzdrževalna različica s spremembami:</p>
+        <p lang="it">Questa è una versione di manutenzione. Cambiamenti:</p>
+        <p lang="nb_NO">Dette er en vedlikeholdsutgivelse. Endringer:</p>
+        <p lang="pt_BR">Este é um lançamento de manutenção. Alterações:</p>
+        <p lang="fr">Ceci est une mise à jour de maintenance. Changements :</p>
+        <p lang="es">Esta es una versión de mantenimiento. Cambios:</p>
+        <p lang="de">Dies ist eine Wartungsfreigabe. Änderungen:</p>
+        <ul>
+          <li>Fix activating items using Ctrl-Number in gnome-shell</li>
+          <li lang="ru">Исправлена активация элементов с помощью Ctrl+Номер в gnome-shell</li>
+          <li lang="zh_CN">使用 Ctrl-数字 来修复gnome-shell的激活项</li>
+          <li lang="tr">Gnome kabuğunda Ctrl-Number kullanarak etkinleştirilen öğeleri düzeltin</li>
+          <li lang="pl">Naprawiono aktywowanie elementów używając Ctrl+numer w gnome-shell</li>
+          <li lang="it">Correzione per l'attivazione degli elementi con Ctrl-Numero in gnome-shell</li>
+          <li lang="pt_BR">Corrige itens de ativação usando Ctrl-Número no gnome-shell</li>
+          <li lang="fr">Correction de l'activation d'un élément avec Ctrl-Nombre dans gnome-shell</li>
+          <li lang="es">Se corrige la activación de elementos con Ctrl+número en GNOME Shell</li>
+          <li lang="de">Repariere die Aktivierung von Elementen via Ctrl+Nummer in gnome-shell</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.34.3" date="2020-03-19" type="stable">
+      <description>
+        <p>This is a maintenance release. Changes:</p>
+        <p lang="ru">Это выпуск для обслуживания. Изменения:</p>
+        <p lang="zh_CN">这是一个维护版本。更改如下：</p>
+        <p lang="cs">Toto je udržované vydaní. Změny:</p>
+        <p lang="tr">Bu bir bakım sürümüdür. Değişiklikler:</p>
+        <p lang="zh_Hant">這是一個維護更新。更新內容：</p>
+        <p lang="pl">To wydanie konserwacyjne. Zmiany:</p>
+        <p lang="sl">Nameščena je vzdrževalna različica s spremembami:</p>
+        <p lang="it">Questa è una versione di manutenzione. Cambiamenti:</p>
+        <p lang="nb_NO">Dette er en vedlikeholdsutgivelse. Endringer:</p>
+        <p lang="pt_BR">Este é um lançamento de manutenção. Alterações:</p>
+        <p lang="fr">Ceci est une mise à jour de maintenance. Changements :</p>
+        <p lang="es">Esta es una versión de mantenimiento. Cambios:</p>
+        <p lang="de">Dies ist eine Wartungsfreigabe. Änderungen:</p>
+        <ul>
+          <li>Fix keybinding regrab with gnome-shell</li>
+          <li lang="ru">Исправлена привязка клавиш regrab с помощью gnome-shell</li>
+          <li lang="zh_CN">重新修复gnome-shell的快捷键</li>
+          <li lang="tr">Gnome kabuğu ile tuş atama yeniden düzenlemesini düzelt</li>
+          <li lang="it">Correzione ricattura scorciatoie da tastiera in gnome-shell</li>
+          <li lang="pt_BR">Corrige nova captura de associação de teclas com gnome-shell</li>
+          <li lang="fr">Correction de la modification des raccourcis clavier dans gnome-shell</li>
+          <li lang="es">Se arregla la recaptación de los vínculos de teclado en GNOME Shell</li>
+          <li lang="de">Repariere die Tastenkürzel-Akquise mit gnome-shell</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-03-19" version="3.34.2" type="stable">
+      <description>
+        <p>This is a maintenance release. Changes:</p>
+        <p lang="ru">Это выпуск для обслуживания. Изменения:</p>
+        <p lang="zh_CN">这是一个维护版本。更改如下：</p>
+        <p lang="cs">Toto je udržované vydaní. Změny:</p>
+        <p lang="tr">Bu bir bakım sürümüdür. Değişiklikler:</p>
+        <p lang="zh_Hant">這是一個維護更新。更新內容：</p>
+        <p lang="pl">To wydanie konserwacyjne. Zmiany:</p>
+        <p lang="sl">Nameščena je vzdrževalna različica s spremembami:</p>
+        <p lang="it">Questa è una versione di manutenzione. Cambiamenti:</p>
+        <p lang="nb_NO">Dette er en vedlikeholdsutgivelse. Endringer:</p>
+        <p lang="pt_BR">Este é um lançamento de manutenção. Alterações:</p>
+        <p lang="fr">Ceci est une mise à jour de maintenance. Changements :</p>
+        <p lang="es">Esta es una versión de mantenimiento. Cambios:</p>
+        <p lang="de">Dies ist eine Wartungsfreigabe. Änderungen:</p>
+        <ul>
+          <li>Fix keybinding grab with gnome-shell</li>
+          <li lang="ru">Исправлен захват привязки клавиш с помощью gnome-shell</li>
+          <li lang="zh_CN">重新修复gnome-shell的快捷键</li>
+          <li lang="tr">Gnome kabuğu ile tuş atama tutuşunu düzelt</li>
+          <li lang="it">Correzione cattura scorciatoie da tastiera in gnome-shell</li>
+          <li lang="pt_BR">Corrige captura de associação de teclas com gnome-shell</li>
+          <li lang="fr">Correction des raccourcis clavier dans gnome-shell</li>
+          <li lang="es">Se arregla la captación de los vínculos de teclado en GNOME Shell</li>
+          <li lang="de">Repariere die Tastenkürzel-Akquise mit gnome-shell</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-10-09" version="3.34.1" type="stable">
+      <description>
+        <p>This is a maintenance release. Changes:</p>
+        <p lang="ru">Это выпуск для обслуживания. Изменения:</p>
+        <p lang="zh_CN">这是一个维护版本。更改如下：</p>
+        <p lang="cs">Toto je udržované vydaní. Změny:</p>
+        <p lang="tr">Bu bir bakım sürümüdür. Değişiklikler:</p>
+        <p lang="zh_Hant">這是一個維護更新。更新內容：</p>
+        <p lang="pl">To wydanie konserwacyjne. Zmiany:</p>
+        <p lang="sl">Nameščena je vzdrževalna različica s spremembami:</p>
+        <p lang="it">Questa è una versione di manutenzione. Cambiamenti:</p>
+        <p lang="nb_NO">Dette er en vedlikeholdsutgivelse. Endringer:</p>
+        <p lang="pt_BR">Este é um lançamento de manutenção. Alterações:</p>
+        <p lang="fr">Ceci est une mise à jour de maintenance. Changements :</p>
+        <p lang="es">Esta es una versión de mantenimiento. Cambios:</p>
+        <p lang="de">Dies ist eine Wartungsfreigabe. Änderungen:</p>
+        <ul>
+          <li>Compatibility with recent appstream-glib</li>
+          <li lang="ru">Совместимость с последними версиями appstream-glib</li>
+          <li lang="zh_CN">兼容最近的appstream-glib</li>
+          <li lang="tr">En son uygulama akışı-glib ile uyumluluk</li>
+          <li lang="pl">Kompatybilność z ostatnim appstream-glib</li>
+          <li lang="it">Compatibilità con appstream-glib recente</li>
+          <li lang="nb_NO">Kompabilitet med nyere appstream-glib</li>
+          <li lang="pt_BR">Compatibilidade com appstream-glib recente</li>
+          <li lang="fr">Compatibilité avec les versions récentes d'appstream-glib</li>
+          <li lang="es">Compatibilidad con appstream-glib recientes</li>
+          <li lang="de">Kompatibilität mit der aktuellen appstream-glib</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-09-09" type="stable" version="3.34.0">
+      <description>
+        <p>First release for GNOME 3.34. Changes:</p>
+        <p lang="ru">Первый выпуск для GNOME 3.34. Изменения:</p>
+        <p lang="zh_CN">首次发行GNOME 3.34。更改如下：</p>
+        <p lang="tr">GNOME 3.34 için ilk sürüm. Değişiklikler:</p>
+        <p lang="pl">Pierwsze wydanie dla GNOME 3.34. Zmiany:</p>
+        <p lang="it">Prima versione per GNOME 3.34. Cambiamenti:</p>
+        <p lang="nb_NO">Første utgave for GNOME 3.34. Endringer:</p>
+        <p lang="pt_BR">Primeiro lançamento para o GNOME 3.34. Alterações:</p>
+        <p lang="fr">Première mise à jour pour GNOME 3.34. Changements :</p>
+        <p lang="es">Primera versión para GNOME 3.34. Cambios:</p>
+        <p lang="de">Erstes Release für GNOME 3.34. Änderungen:</p>
+        <ul>
+          <li>Update to gnome-shell 3.34.0</li>
+          <li lang="ru">Обновление до gnome-shell 3.34.0</li>
+          <li lang="zh_CN">更新到gnome-shell 3.34.0</li>
+          <li lang="tr">Gnome kabuğu 3.34.0 güncellemesi</li>
+          <li lang="pl">Aktualizacja do gnome-shell 3.34.0</li>
+          <li lang="it">Aggiornamento a gnome-shell 3.34.0</li>
+          <li lang="nb_NO">Oppgradering til gnome-shell 3.34.0</li>
+          <li lang="pt_BR">Atualização para o gnome-shell 3.34.0</li>
+          <li lang="fr">Mise à jour de gnome-shell version 3.34.0</li>
+          <li lang="es">Actualización a gnome-shell 3.34.0</li>
+          <li lang="de">Aktualisierung auf gnome-shell 3.34.0</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.32.1" date="2020-03-27" type="stable">
+      <description>
+        <p>This is a maintenance release. Changes:</p>
+        <p lang="ru">Это выпуск для обслуживания. Изменения:</p>
+        <p lang="zh_CN">这是一个维护版本。更改如下：</p>
+        <p lang="cs">Toto je udržované vydaní. Změny:</p>
+        <p lang="tr">Bu bir bakım sürümüdür. Değişiklikler:</p>
+        <p lang="zh_Hant">這是一個維護更新。更新內容：</p>
+        <p lang="pl">To wydanie konserwacyjne. Zmiany:</p>
+        <p lang="sl">Nameščena je vzdrževalna različica s spremembami:</p>
+        <p lang="it">Questa è una versione di manutenzione. Cambiamenti:</p>
+        <p lang="nb_NO">Dette er en vedlikeholdsutgivelse. Endringer:</p>
+        <p lang="pt_BR">Este é um lançamento de manutenção. Alterações:</p>
+        <p lang="fr">Ceci est une mise à jour de maintenance. Changements :</p>
+        <p lang="es">Esta es una versión de mantenimiento. Cambios:</p>
+        <p lang="de">Dies ist eine Wartungsfreigabe. Änderungen:</p>
+        <ul>
+          <li>Compatibility with recent appstream-glib</li>
+          <li lang="ru">Совместимость с последними версиями appstream-glib</li>
+          <li lang="zh_CN">兼容最近的appstream-glib</li>
+          <li lang="tr">En son uygulama akışı-glib ile uyumluluk</li>
+          <li lang="pl">Kompatybilność z ostatnim appstream-glib</li>
+          <li lang="it">Compatibilità con appstream-glib recente</li>
+          <li lang="nb_NO">Kompabilitet med nyere appstream-glib</li>
+          <li lang="pt_BR">Compatibilidade com appstream-glib recente</li>
+          <li lang="fr">Compatibilité avec les versions récentes d'appstream-glib</li>
+          <li lang="es">Compatibilidad con appstream-glib recientes</li>
+          <li lang="de">Kompatibilität mit der aktuellen appstream-glib</li>
+          <li>Fix keybinding regrab with gnome-shell</li>
+          <li lang="ru">Исправлена привязка клавиш regrab с помощью gnome-shell</li>
+          <li lang="zh_CN">重新修复gnome-shell的快捷键</li>
+          <li lang="tr">Gnome kabuğu ile tuş atama yeniden düzenlemesini düzelt</li>
+          <li lang="it">Correzione ricattura scorciatoie da tastiera in gnome-shell</li>
+          <li lang="pt_BR">Corrige nova captura de associação de teclas com gnome-shell</li>
+          <li lang="fr">Correction de la modification des raccourcis clavier dans gnome-shell</li>
+          <li lang="es">Se arregla la recaptación de los vínculos de teclado en GNOME Shell</li>
+          <li lang="de">Repariere die Tastenkürzel-Akquise mit gnome-shell</li>
+          <li>Fix activating items using Ctrl-Number in gnome-shell</li>
+          <li lang="ru">Исправлена активация элементов с помощью Ctrl+Номер в gnome-shell</li>
+          <li lang="zh_CN">使用 Ctrl-数字 来修复gnome-shell的激活项</li>
+          <li lang="tr">Gnome kabuğunda Ctrl-Number kullanarak etkinleştirilen öğeleri düzeltin</li>
+          <li lang="pl">Naprawiono aktywowanie elementów używając Ctrl+numer w gnome-shell</li>
+          <li lang="it">Correzione per l'attivazione degli elementi con Ctrl-Numero in gnome-shell</li>
+          <li lang="pt_BR">Corrige itens de ativação usando Ctrl-Número no gnome-shell</li>
+          <li lang="fr">Correction de l'activation d'un élément avec Ctrl-Nombre dans gnome-shell</li>
+          <li lang="es">Se corrige la activación de elementos con Ctrl+número en GNOME Shell</li>
+          <li lang="de">Repariere die Aktivierung von Elementen via Ctrl+Nummer in gnome-shell</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+</component>

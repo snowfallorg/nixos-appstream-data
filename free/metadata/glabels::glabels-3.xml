@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>glabels</pkgname>
+  <launchable type="desktop-id">glabels-3.0.desktop</launchable>
+  <icon height="64" type="cached" width="64">glabels-3.0.png</icon>
+  <icon type="cached" width="128" height="128">glabels-3.0.png</icon>
+  <id>glabels-3.0.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>gLabels</name>
+  <name lang="cs">gLabels</name>
+  <name lang="da">gLabels</name>
+  <name lang="de">gLabels</name>
+  <name lang="eo">gLabels</name>
+  <name lang="es">gLabels</name>
+  <name lang="fi">gLabels</name>
+  <name lang="fr">gLabels</name>
+  <name lang="hu">gLabels</name>
+  <name lang="id">gLabels</name>
+  <name lang="lv">gLabels</name>
+  <name lang="oc">gLabels</name>
+  <name lang="pt">Etiquetas</name>
+  <name lang="pt_BR">gLabels</name>
+  <name lang="sk">gLabels</name>
+  <name lang="sr">Гномове налепнице</name>
+  <name lang="sr@latin">Gnomove nalepnice</name>
+  <name lang="sv">gLabels</name>
+  <summary>Create labels, business cards and media covers</summary>
+  <summary lang="bs">Kreirajte naljepnice, poslovne vizitke i naslovnice medija</summary>
+  <summary lang="ca">Crea etiquetes, targetes de visita i caràtules de suports multimèdia</summary>
+  <summary lang="ca@valencia">Crea etiquetes, targetes de visita i caràtules de suports multimèdia</summary>
+  <summary lang="cs">Vytvářejte etikety, vizitky a obaly médií</summary>
+  <summary lang="da">Opret etiketter, visitkort og mediecovere</summary>
+  <summary lang="de">Erstellen von Etiketten, Visitenkarten und Medien-Covern</summary>
+  <summary lang="el">Δημιουργία ετικετών, επαγγελματικών καρτών και εξώφυλλα πολυμέσων</summary>
+  <summary lang="en_GB">Create labels, business cards and media covers</summary>
+  <summary lang="eo">Krei etikedojn, vizitkartojn kaj kovrilojn de plurmediaĵoj</summary>
+  <summary lang="es">Crear etiquetas, tarjetas de visita y portadas</summary>
+  <summary lang="fi">Luo etikettejä, käyntikortteja ja kansia eri medioille</summary>
+  <summary lang="fr">Crée des étiquettes et des cartes de visite</summary>
+  <summary lang="hu">Címkék, névjegykártyák és borítók készítése</summary>
+  <summary lang="id">Buat label, kartu nama, dan sampul media</summary>
+  <summary lang="it">Crea etichette, biglietti da visita e copertine</summary>
+  <summary lang="ja">ラベルや名刺、メディアのジャケットをデザインします</summary>
+  <summary lang="ko">라벨, 명함 그리고 미디어 커버 만들기</summary>
+  <summary lang="lv">Izveidot etiķetes, vizītkartes un datu nesēju vāciņi</summary>
+  <summary lang="nb">Lag etiketter, visittkort og medieomslag</summary>
+  <summary lang="nl">Etiketten, visitekaartjes en hoesjes aanmaken</summary>
+  <summary lang="oc">Crèa d'etiquetas e de cartas de visita</summary>
+  <summary lang="pt">Crie etiquetas, cartões de visita e capas de multimédia</summary>
+  <summary lang="pt_BR">Crie etiquetas, cartões de visita e capas para mídias</summary>
+  <summary lang="ro">Crează etichete, cărți de vizită și coperți media.</summary>
+  <summary lang="ru">Создание этикеток, визитных карточек и вкладышей для дисков</summary>
+  <summary lang="sk">Vytvára štítky, vizitky a obaly médií</summary>
+  <summary lang="sl">Ustvarjanje nalepk, poslovnih vizitk in platnic različnih nosilcev</summary>
+  <summary lang="sr">Направите налепнице, пословне картице и омоте за медије</summary>
+  <summary lang="sr@latin">Napravite nalepnice, poslovne kartice i omote za medije</summary>
+  <summary lang="sv">Skapa etiketter, visitkort och skivomslag</summary>
+  <summary lang="tr">Etiketler, kart vizitler ve medya kapakları oluşturun.</summary>
+  <summary lang="zh_CN">制作标签，名片和光盘盒封面</summary>
+  <summary lang="zh_HK">製作標籤、卡片以及媒體封面</summary>
+  <summary lang="zh_TW">製作標籤、名片以及媒體封面</summary>
+  <description>
+    <p>gLabels is a program for creating labels and business cards. It is designed to work with various laser/ink-jet peel-off label and business card sheets that you'll find at most office supply stores.</p>
+    <p>gLabels can be used to design address labels, name tags, price tags, cd/dvd labels, or just about anything else that is organized in a regular pattern on a sheet of paper. Labels (or cards) can contain text, images, lines, shapes, and barcodes. gLabels also includes a document-merge feature which lets you print a unique label for each record from an external data source, such as a CSV file or an Evolution address book.</p>
+  </description>
+  <description lang="bs">
+    <p>gLabels je program za stvaranje naljepnica i vizitkarti. Dizajniran je da radi sa različitim laser/ink-jet odljepljivim naljepnicama i papirima za vizit karte koje ćete pronaći u većini radnji za opskrbu ureda.</p>
+    <p>gLabels se može koristiti za dizajniranje adresnih naljepnica,  oznaka sa imenima, za oznake cijena, cd/dvd naljepnice, ili bilo šta drugo što je je organizovano po pravilnom šablonu na listu papira. Naljepnice (ili kartice) mogu sadržavati tekst, slike, linije, oblike, i barkodove. gLabels također podržava spajanje dokumenata koje omogućava štampanje jedinstvene naljepnice za svaki zapis sa vanjskog izvorišta, kao što je CSV datoteka ili Evolution imenik.</p>
+  </description>
+  <description lang="cs">
+    <p>gLabels je aplikace pro vytváření etiket a vizitek. Je nevržena tak, aby uměla pracovat se všemi možnými druhy štítků a kartiček na arších, které seženete v obchodech s kancelářskými potřebami, a to jak do laserových, tak inkoustových tiskáren.</p>
+    <p>gLabels můžete používat k navrhování adresních štítků, štítků se jmény, cenových vysaček, obalů a polepek na CD/DVD nebo prostě čehokoliv jiného, co je na archu papíru pravidelně uspořádáno. Etikety (a kartičky) mohou obsahovat text, obrázky, čáry, různé obrazce a čárové kódy. gLabels rovněž podporuje funkci slučování dokumentů, takže můžete tisknout jedinečné etikety podle dat z externích zdrojů, jako jsou soubory CSV nebo adresář Evolution.</p>
+  </description>
+  <description lang="da">
+    <p>gLabels er et program til at oprette etiketter og visitkort. Programmet er designet til at fungere med diverse laser/blæk aftagelige etiket- og visitkortark, som du kan finde i de fleste kontorforsyninger.</p>
+    <p>gLabels kan bruges til at designe adresseetiketter, navnemærkater, prismærkater, cd/dvd-etiketter eller bare alt som er organiseret i et regulært mønster på et stykke papir. Etiketter (eller kort) kan indeholde tekst, billeder, linjer, former og stregkoder. gLabels inkluderer også en funktion til at sammenføje dokumenter, som giver dig mulighed for at udskrive en unik etiket for hver post fra en ekstern datakilde, såsom en CSV-fil eller en adressebog fra Evolution.</p>
+  </description>
+  <description lang="de">
+    <p>gLabels ist ein Programm zum Entwerfen von Etiketten und Visitenkarten. Es wurde für die verschiedensten mit Laser- oder Tintenstrahldruckern bedruckbaren (selbstklebenden) Etiketten sowie Visitenkarten entworfen, so wie Sie sie bei den meisten Anbietern für Bürozubehör finden.</p>
+    <p>gLabels kann zum Entwerfen von Adressaufklebern, Namens- und Preisschildern, CD- und DVD-Aufklebern oder für alles Andere verwendet werden, was mit dem Bedrucken von Papieren zu tun hat, die Etiketten oder Karten in einer regulären Anordnung enthalten. Die Etiketten oder Karten können Text, Bilder, Linien, Formen oder Strichcodes enthalten. gLabels verfügt auch über ein Funktionsmerkmal zur Dokumentmischung. Das bedeutet, dass Sie eine externe Datenquelle dazu verwenden können, ein Etikett für jeden Datensatz zu drucken. Als Datenquelle kann dabei beispielsweise eine CSV-Datei oder das Adressbuch von Evolution genutzt werden.</p>
+  </description>
+  <description lang="el">
+    <p>Το gLabels είναι ένα πρόγραμμα για δημιουργία ετικετών και επαγγελματικών καρτών. Σχεδιάστηκε για να δουλεύει με ποικίλες αυτοκόλλητες ετικέτες λέιζερ/ψεκασμού και φύλλα επαγγελματικών καρτών που θα βρείτε στα περισσότερα καταστήματα ειδών γραφείου.</p>
+    <p>Η εφαρμογή gLabels μπορεί να χρησιμοποιηθεί για την σχεδίαση ετικετών διευθύνσεων, ετικετών ονομάτων, ετικετών τιμών, ετικετών cd/dvd, ή οτιδήποτε άλλου που διοργανώνεται σε ένα κανονικό υπόδειγμα ενός φύλλου χαρτιού. Οι ετικέτες (ή κάρτες) μπορεί να περιέχουν κείμενο, εικόνες, γραμμές, σχήματα, και ραβδωτούς κώδικες. Το gLabels περιλαμβάνει επίσης το χαρακτηριστικό συγχώνευσης εγγράφου το οποίο σας επιτρέπει να εκτυπώσετε μια μοναδική ετικέτα για κάθε εγγραφή από μια εξωτερική πηγή δεδομένων, όπως ένα αρχείο CSV ή ένα βιβλίο διευθύνσεων του Evolution.</p>
+  </description>
+  <description lang="es">
+    <p>gLabels es un programa para crear etiquetas y tarjetas de visita. Está diseñado para funcionar en varios modelos de etiquetas láser y de chorro de tinta y con tarjetas de visita que encontrará en la mayoría de las tiendas de suministros ofimáticos.</p>
+    <p>gLabels se puede usar para diseñar tarjetas de visita, de precios, carátulas de CD/DVD o simplemente para organizar cualquier cosa siguiendo un patrón en una hoja de papel. Las etiquetas (o las tarjetas) pueden contener imágenes, líneas, formas y códigos de barras. gLabels también incluye una características para fusionar documentos que le permite imprimir una etiqueta única para cada registro de una fuente de datos externa, como puede ser un archivo CSV o una libreta de direcciones de Evolution.</p>
+  </description>
+  <description lang="fi">
+    <p>gLabels on ohjelma käyntikorttien ja erilaisten tulostettavien etikettien luomista varten. Se on suunniteltu toimimaan useimpien yleisesti kaupoissa myytävien tulostuspaperien ja -tarvikkeiden kanssa.</p>
+    <p>Suunnittele esimerkiksi osoite-, nimi- ja hintalappuja, CD-/DVD-kansia sekä melkein mitä tahansa tulostettavia lipukkeita. Etiketit (tai kortit) voivat sisältää tekstiä, kuvia, viivoja, muotoja ja viivakoodeja. gLabels sisältää myös yhdistämisominaisuuden, jonka avulla voi yksittäiselle tulosteelle asettaa yksilöllistä tietoa ulkoisista tietolähteistä, kuten CSV-tiedostosta tai Evolutionin osoitekirjasta.</p>
+  </description>
+  <description lang="fr">
+    <p>gLabels est un logiciel de création d'étiquettes et de cartes de visite. Il est conçu pour fonctionner avec différents formats d'étiquettes et de cartes de visite détachables pour imprimantes laser et jet d'encre que l'on peut trouver dans de nombreux commerces de papeterie.</p>
+    <p>gLabels peut être utilisé pour concevoir des étiquettes d'adresses, des badges nominaux, des étiquettes de prix, des étiquettes pour CD/DVD ou pour tout autre usage impliquant un motif répétitif sur une feuille de papier. Les étiquettes (ou cartes) peuvent contenir du texte, des images, des lignes, des formes et des codes-barres. gLabels propose également une fonctionnalité de fusion de document permettant d'imprimer une étiquette pour chaque occurrence d'une source de données externe, telle qu'un fichier CSV ou un carnet d'adresses Evolution.</p>
+  </description>
+  <description lang="hu">
+    <p>A gLabels címkék és névjegyek létrehozására szolgál. A legtöbb papírboltban megtalálható különböző, lézer/tintasugaras nyomtatókhoz készült öntapadós címkék és névjegykártyaívek kezelésére tervezték.</p>
+    <p>A gLabels használható címző címkék, névcímkék, árcédulák, CD/DVD címkék vagy bármi más tervezésére, ami szabályos mintába rendeződik egy ív papíron. A címkék (vagy névjegykártyák) szöveget, képeket, vonalakat, alakzatokat és vonalkódokat tartalmazhatnak. A gLabels tartalmaz dokumentumegyesítési funkciót is, ami lehetővé teszi egyedi címkék nyomtatását egy külső adatforrás, például CSV fájl vagy Evolution címjegyzék minden rekordjához.</p>
+  </description>
+  <description lang="id">
+    <p>gLabels adalah program untuk membuat label dan kartu nama. Ini dirancang untuk bekerja dengan berbagai lembar kartu nama dan label stiker laser/ink-jet yang akan Anda temukan pada kebanyakan toko alat tulis.</p>
+    <p>gLabels dapat digunakan untuk merancang label alamat, tanda pengenal, label harga, label cd/dvd, atau apapun yang diatur dalam pola teratur pada selembar kertas. Label (atau kartu) bisa memuat teks, gambar, garis, bentuk, dan barcode. gLabels juga termasuk fitur gabung dokumen yang memungkinkan Anda mencetak label yang unik bagi setiap rekaman dari sumber data eksternal, seperti misalnya berkas CSV atau buku alamat Evolution.</p>
+  </description>
+  <description lang="lv">
+    <p>gLabels ir lietotne etiķešu un vizītkaršu veidošanai. Tā ir veidota, lai strādātu ar dažādām nolīmējamām etiķetēm un vizītkaršu loksnēm, kuras var atrast vairumā kancelejas preču veikalos.</p>
+    <p>gLabels var izmantot, lai izstrādātu adrešu etiķetes, vārdu birkas, cenu birkas, cd/dvd etiķetes vai jebko citu, kas ir izkārtots regulārā rakstā uz papīra loksnes. Etiķetes (vai kartes) var saturēt tekstu, attēlus, līnijas, figūras un svītru kodus. gLabels ir arī dokumentu sapludināšanas iespēja, kas jums ļauj drukāt unikālas etiķetes katram ierakstam no ārēja datu avota, piemēram, CSV datnes vai Evolution adrešu grāmatas.</p>
+  </description>
+  <description lang="oc">
+    <p>gLabels es un logicial de creacion d'etiquetas e de cartas de visita. Es concebut per foncionar amb diferents formats d'etiquetas e de cartas de visita destacables per imprimentas lasèr e jet de tinta qu'òm pòt trobar dins fòrça comèrcis de papetariá.</p>
+    <p>gLabels pòt èsser utilizat per concebre d'etiquetas d'adreças, de badges nominals, d'etiquetas de prètz, d'etiquetas per CD/DVD o per tot autre usatge qu'implica un motiu repetitiu sus un fuèlh de papièr. Las etiquetas (o cartas) pòdon conténer de tèxte, d'imatges, de linhas, de formas e de còdis barras. gLabels prepausa tanben una foncionalitat de fusion de document que permet d'imprimir una etiqueta per cada ocurréncia d'una font de donadas extèrna, tala coma un fichièr CSV o un quasernet d'adreças Evolution.</p>
+  </description>
+  <description lang="pt">
+    <p>O gLabels é um programa para criar etiquetas e cartões de visita. É concebido para trabalhar com diversas folhas de cartões e etiquetas autocolantes com laser/jato de tinta que se encontram na maioria das lojas de material de escritório.</p>
+    <p>O gLabels pode ser usado para desenhar etiquetas de endereços, nomes, preços, CD/DVD ou praticamente qualquer outra coisa que seja ordenanda num padrão regular numa folha de papel. As etiquetas (ou cartões) podem conter texto, imagens, linhas, formas e códigos de barras. O gLabels também inclui uma funcionalidade de união de documentos que lhe permite imprimir uma única etiqueta de cada registo numa origm externa, tal como um ficheiro CSV ou um livro de endereços do Evolution.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>O gLabels é um programa usado para criar etiquetas e cartões de visita. Ele foi projetado para trabalhar com vários rótulos destacáveis de laser/jato de tinta e folhas de cartão de visita que podem ser encontradas na maioria das lojas de materiais de escritório.</p>
+    <p>O gLabels pode ser usado para projetar etiquetas de endereço, etiquetas com nomes, etiquetas de preços, etiquetas de CD/DVD ou simplesmente tudo mais que possa ser organizado em um padrão regular sobre uma folha de papel. As etiquetas (ou cartões) podem conter textos, imagens, linhas, formas e códigos de barras. O gLabels também inclui um recurso de mesclagem de documentos que permite a você imprimir uma única etiqueta para cada registro vindo de uma fonte externa de dados, como um arquivo CSV ou um catálogo de endereços do Evolution.</p>
+  </description>
+  <description lang="sk">
+    <p>gLabels je program na vytváranie štítkov a vizitiek. Je navrhnutý tak, aby fungoval s rozličnými samolepiacimi hárkami so štítkami potlačiteľnými laserovými alebo atramentovými tlačiarňami, ktoré nájdete vo väčšine obchodov s kancelárskymi potrebami.</p>
+    <p>Program gLabels môže byť použitý na navrhovanie adresných štítkov, menoviek, cenoviek, štítkov na cd/dvd, alebo na hocičo iné, čo je usporiadané v pravidelnom vzore na hárku papiera. Štítky (alebo vizitky) môžu obsahovať text, obrázky, čiary, tvary a čiarové kódy. Program gLabels tiež obsahuje funkciu na zlúčenie dokumentov, ktorý vám umožňuje tlačiť unikátnu menovku pre každý záznam z externého zdroja údajov, ako je súbor CSV alebo adresár kontaktov programu Evolution.</p>
+  </description>
+  <description lang="sl">
+    <p>gLabels je program za ustvarjanje nalepk in vizitk. Zasnovan je kot združljiv z različnimi vnaprej pripravljenimi nalepkami in vizitkami za laserske in brizgalne tiskalnike, ki jih najdete v večini trgovin s pisarniškim materialom.</p>
+    <p>gLabels lahko uporabimo za oblikovanje nalepk za naslove, imenskih oznak, cen, nalepk za zgoščenke oziroma za vse, kar je razporejeno po določenem vzorcu na list papirja. Nalepke (ali vizitke) lahko vsebujejo besedilo, slike, črte, like in črtne kode. gLabels vsebuje tudi možnost spajanja dokumentov, ki omogoča tiskanje posebne nalepke za vsak zapis v zunanjem viru podatkov, kot je datoteka CSV ali adresar Evolution.</p>
+  </description>
+  <description lang="sr">
+    <p>Гномове налепнице је програм за стварање налепница и пословних картица. Осмишљен је да ради са разним листовима лепљивих налепница и пословних картица за ласерске и штампаче са бризгалицама које можете наћи у већини радњи канцеларијског прибора.</p>
+    <p>Гномове налепнице можете користити да направите налепнице за адресе, именике, ценовнике, цд/двд, или за било шта друго што је организовано у регуларном шаблону на листу папира. Налепнице (или картице) могу да садрже текст, слике, линије, облике, и тракасте шифре. Гномове налепнице такође укључују функцију стапања документа која вам допушта да штампате јединствену налепницу за свки снимак са спољног извора података, као што је ЦСВ датотека или адресар Еволуције.</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Gnomove nalepnice je program za stvaranje nalepnica i poslovnih kartica. Osmišljen je da radi sa raznim listovima lepljivih nalepnica i poslovnih kartica za laserske i štampače sa brizgalicama koje možete naći u većini radnji kancelarijskog pribora.</p>
+    <p>Gnomove nalepnice možete koristiti da napravite nalepnice za adrese, imenike, cenovnike, cd/dvd, ili za bilo šta drugo što je organizovano u regularnom šablonu na listu papira. Nalepnice (ili kartice) mogu da sadrže tekst, slike, linije, oblike, i trakaste šifre. Gnomove nalepnice takođe uključuju funkciju stapanja dokumenta koja vam dopušta da štampate jedinstvenu nalepnicu za svki snimak sa spoljnog izvora podataka, kao što je CSV datoteka ili adresar Evolucije.</p>
+  </description>
+  <description lang="sv">
+    <p>gLabels är ett program för att skapa etiketter och visitkort. Det är designat för att fungera med olika etikett- och visitkortsblad, för både laser- och bläckstråleskrivare, som du kan hitta i de flesta butiker för kontorsmaterial.</p>
+    <p>gLabels kan användas för att designa adressetiketter, namnbrickor, prislappar, CD/DVD-etiketter eller i stort sett vad som helst som är organiserat i ett regelbundet mönster på ett pappersark. Etiketterna (eller korten) kan t.ex. innehålla text, bilder, linjer, olika former och streckkoder. gLabels inkluderar också en dokumentsammanfogningsfunktion som låter dig skriva ut en unik etikett för varje enskild post från en extern datakälla, så som en CSV-fil eller en Evolution-adressbok.</p>
+  </description>
+  <description lang="tr">
+    <p>gLabels etiket ve iş kartları oluşturmak için yapılmış bir programdır. Çoğu ofis tedarik mağazasında bulacağınız bir çok lazer/mürekkepli etiket ve iş kartı sayfasıyla çalışacak şekilde tasarlanmıştır.</p>
+    <p>gLabels adres etiketleri, isim etiketleri, fiyat etiketleri, cd/dvd etiketleri, veya bir sayfa üzerinde düzenli kalıpla organize edilmiş herhangi bir şeyi tasarlamak için kullanılabilir. Etiketler (veya kartlar) metin, resim, çizgiler, şekiller veya barkod içerebilir. gLabels ayrıca belge-birleştirme özelliği ile bir CSV dosyası veya Evolution adres defteri gibi harici bir veri kaynağından her kayıt için özel bir etiket basabilir.</p>
+  </description>
+  <description lang="zh_HK">
+    <p>gLabels 是用來製作標籤和名片的程式，可配合多種適用於鐳射及噴墨打印機的標籤及卡片紙使用；此等標籤和卡片紙通常可在大型文具店買得到。</p>
+    <p>gLabels 用來設計地址標籤、姓名牌、價錢牌、CD/DVD 標籤，或任何在紙面排成特定規律的東西。標籤可包含文字、圖像、線條、不同形狀，以及條碼。此外 gLabels 還有「合併文件」功能，可以外來資料來源製作每張不同的標籤；資料來源可以是 CSV 檔案或 Evolution 通訊錄。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>gLabels 是用來製作標籤和名片的程式，可配合多種適用於鐳射及噴墨印表機的標籤及卡片紙使用；此等標籤和卡片紙通常可在大型文具店買得到。</p>
+    <p>gLabels 用來設計地址標籤、姓名牌、價錢牌、CD/DVD 標籤，或任何在紙面排成特定規律的東西。標籤可包含文字、圖像、線條、不同形狀，以及條碼。此外 gLabels 還有「合併文件」功能，可以外來資料來源製作每張不同的標籤；資料來源可以是 CSV 檔案或 Evolution 通訊錄。</p>
+  </description>
+  <screenshots>
+    <screenshot type="default" height="640" width="881">
+      <image>http://glabels.org/images/320-screenshot-main.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">http://glabels.org/</url>
+  <url type="bugtracker">https://bugzilla.gnome.org/enter_bug.cgi?product=glabels</url>
+  <url type="donation">http://www.gnome.org/friends/</url>
+  <url type="help">https://help.gnome.org/users/glabels/stable/</url>
+  <update_contact>evins_at_snaught.com</update_contact>
+  <project_group>GNOME</project_group>
+  <translation type="gettext">glabels-3.0</translation>
+</component>

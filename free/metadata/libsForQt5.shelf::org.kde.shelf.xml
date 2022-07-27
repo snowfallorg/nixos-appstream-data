@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>libsForQt5.shelf</pkgname>
+  <launchable type="desktop-id">org.kde.shelf.desktop</launchable>
+  <icon type="cached" height="64" width="64">shelf.png</icon>
+  <icon height="128" type="cached" width="128">shelf.png</icon>
+  <id>org.kde.nota</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>LGPL-3.0</project_license>
+  <name>Shelf</name>
+  <name lang="ca">Shelf</name>
+  <name lang="ca-valencia">Shelf</name>
+  <name lang="cs">Shelf</name>
+  <name lang="de">Shelf</name>
+  <name lang="en-GB">Shelf</name>
+  <name lang="es">Shelf</name>
+  <name lang="fi">Shelf</name>
+  <name lang="fr">Shelf</name>
+  <name lang="hi">शेल्फ़</name>
+  <name lang="it">Shelf</name>
+  <name lang="ko">Shelf</name>
+  <name lang="my">စာအုပ်စင်</name>
+  <name lang="nl">Shelf</name>
+  <name lang="pl">Shelf</name>
+  <name lang="pt">Shelf</name>
+  <name lang="sk">Shelf</name>
+  <name lang="sl">Shelf</name>
+  <name lang="sv">Shelf</name>
+  <name lang="tr">Raf</name>
+  <name lang="uk">Шафа</name>
+  <name lang="x-test">xxShelfxx</name>
+  <name lang="zh-CN">Shelf</name>
+  <summary>Browse and view your documents</summary>
+  <summary lang="ca">Navegueu i visualitzeu els vostres documents</summary>
+  <summary lang="ca-valencia">Navegueu i visualitzeu els vostres documents</summary>
+  <summary lang="cs">Procházejte a prohlížejte svoje dokumenty</summary>
+  <summary lang="en-GB">Browse and view your documents</summary>
+  <summary lang="es">Explore y vea sus documentos</summary>
+  <summary lang="fi">Selaa ja katsele tiedostoja.</summary>
+  <summary lang="fr">Naviguer et afficher vos documents</summary>
+  <summary lang="hi">अपने दस्तावेज़ों का विचरण एवं प्रदर्शन करें।</summary>
+  <summary lang="it">Sfoglia e visualizza i tuoi documenti</summary>
+  <summary lang="ko">문서를 탐색하고 보기</summary>
+  <summary lang="nl">Uw documenten door bladeren en bekijken.</summary>
+  <summary lang="pl">Przeglądaj i oglądaj swoje dokumenty</summary>
+  <summary lang="pt">Navegue e veja os seus documentos</summary>
+  <summary lang="sl">Brskajte in ogledujete si vaše dokumente</summary>
+  <summary lang="sv">Bläddra bland och visa dina dokument</summary>
+  <summary lang="tr">Belgelerinize göz atın ve onları görüntüleyin</summary>
+  <summary lang="uk">Навігація вашими документами та перегляд документів</summary>
+  <summary lang="x-test">xxBrowse and view your documentsxx</summary>
+  <summary lang="zh-CN">浏览并查看文档</summary>
+  <description>
+    <p>Shelf is a simple PDF and EPUB document browser and viewer.</p>
+  </description>
+  <description lang="ca">
+    <p>El Shelf és un navegador i visor de documents PDF and EPUB.</p>
+  </description>
+  <description lang="ca-valencia">
+    <p>Shelf és un navegador i visor de documents PDF and EPUB.</p>
+  </description>
+  <description lang="cs">
+    <p>Shelf je jednoduchý prohlížeč dokumentů PDF a EPUB.</p>
+  </description>
+  <description lang="en-GB">
+    <p>Shelf is a simple PDF and EPUB document browser and viewer.</p>
+  </description>
+  <description lang="es">
+    <p>Shelf es un sencillo explorador y visor de documentos PDF y EPUB.</p>
+  </description>
+  <description lang="fi">
+    <p>Shelf on yksinkertainen PDF- ja ePub-tiedostoselain ja -katselin.</p>
+  </description>
+  <description lang="fr">
+    <p>Shelf est un navigateur et un afficheur simple de documents « PDF » et « ePub ».</p>
+  </description>
+  <description lang="hi">
+    <p>शेल्फ़ एक साधारण पीडीएफ और इ-पब दस्तावेज़ ब्राउज़र और प्रदर्शक है।</p>
+  </description>
+  <description lang="it">
+    <p>Shelf è un semplice navigatore e visore di documenti PDF ed EPUB.</p>
+  </description>
+  <description lang="ko">
+    <p>Shelf는 간단한 PDF와 EPUB 문서 뷰어와 탐색기입니다.</p>
+  </description>
+  <description lang="nl">
+    <p>Shelf is een eenvoudige PDF en EPUB documentbrowser en viewer.</p>
+  </description>
+  <description lang="pl">
+    <p>Shelf jest prostą przeglądarką dokumentów PDF oraz EPUB.</p>
+  </description>
+  <description lang="pt">
+    <p>O Shelf é um navegador e visualizador simples de documentos PDF e EPUB.</p>
+  </description>
+  <description lang="sl">
+    <p>Shelf je preprost brskalnik in pregledovalnik dokumentov PDF in EPUB.</p>
+  </description>
+  <description lang="sv">
+    <p>Shelf är en enkel PDF- och EPUB-dokumentbläddrare och visare.</p>
+  </description>
+  <description lang="tr">
+    <p>Raf, yalın bir PDF ve EPUB belge tarayıcı ve görüntüleyicidir.</p>
+  </description>
+  <description lang="uk">
+    <p>«Шафа» проста програма для навігації збіркою документів PDF та EPUB та перегляду документів.</p>
+  </description>
+  <description lang="x-test">
+    <p>xxShelf is a simple PDF and EPUB document browser and viewer.xx</p>
+  </description>
+  <description lang="zh-CN">
+    <p>Shelf 是一款简易 PDF 和 EPUB 文档浏览器和查看器。</p>
+  </description>
+  <url type="homepage">https://mauikit.org/</url>
+  <url type="bugtracker">https://invent.kde.org/maui/shelf/-/issues</url>
+  <url type="donation">https://kde.org/community/donations</url>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Shelf</caption>
+      <caption lang="ca">Shelf</caption>
+      <caption lang="ca-valencia">Shelf</caption>
+      <caption lang="cs">Shelf</caption>
+      <caption lang="de">Shelf</caption>
+      <caption lang="en-GB">Shelf</caption>
+      <caption lang="es">Shelf</caption>
+      <caption lang="fi">Shelf</caption>
+      <caption lang="fr">Shelf</caption>
+      <caption lang="hi">शेल्फ़</caption>
+      <caption lang="it">Shelf</caption>
+      <caption lang="ko">Shelf</caption>
+      <caption lang="my">စာအုပ်စင်</caption>
+      <caption lang="nl">Shelf</caption>
+      <caption lang="pl">Shelf</caption>
+      <caption lang="pt">Shelf</caption>
+      <caption lang="sk">Shelf</caption>
+      <caption lang="sl">Shelf</caption>
+      <caption lang="sv">Shelf</caption>
+      <caption lang="tr">Raf</caption>
+      <caption lang="uk">Шафа</caption>
+      <caption lang="x-test">xxShelfxx</caption>
+      <caption lang="zh-CN">Shelf</caption>
+      <image type="source" width="2464" height="1929">
+        https://cdn.kde.org/screenshots/shelf/shelf.png
+      </image>
+    </screenshot>
+  </screenshots>
+  <provides>
+    <binary>shelf</binary>
+  </provides>
+  <recommends>
+    <control>pointing</control>
+    <control>keyboard</control>
+    <control>touch</control>
+  </recommends>
+  <content_rating type="oars-1.0" />
+  <project_group>KDE</project_group>
+  <releases>
+    <release version="1.2.2" date="2021-05-11">
+      <url>https://nxos.org/maui/maui-1-2-2-release/</url>
+    </release>
+  </releases>
+</component>

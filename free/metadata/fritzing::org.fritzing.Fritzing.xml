@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>fritzing</pkgname>
+  <launchable type="desktop-id">org.fritzing.Fritzing.desktop</launchable>
+  <id>org.fritzing.Fritzing.desktop</id>
+  <metadata_license>CC-BY-SA-3.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <content_rating type="oars-1.1">
+    <content_attribute id="social-info">mild</content_attribute>
+  </content_rating>
+  <name>Fritzing</name>
+  <summary>Electronic Design Tool</summary>
+  <description>
+    <p>
+    Fritzing is an open-source electronic design tool focusing on makers, hobbyists, and everyone else
+    interested in getting creative with interactive electronics. Document your electronic sketches, learn
+    from example projects, produce your own PCBs, and share with the community.
+    Fritzing differs from other tools through:
+  </p>
+    <ul>
+      <li>A real-world breadboard view that is hands-on and easy to understand</li>
+      <li>A visual component library including the Arduino, Raspberry Pi, SparkFun parts and many more</li>
+      <li>An intuitive user interface, with seamless switching between breadboard, schematic and pcb design</li>
+    </ul>
+    <p>
+    The lively community on fritzing.org exchanges projects and tips, and there is also a PCB service "Fritzing Fab"
+    that produces user designs.
+  </p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://fritzing.org/static/img/fritzing-preview-bb.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://fritzing.org/static/img/fritzing-preview-schem.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://fritzing.org/static/img/fritzing-preview-pcb.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://fritzing.org/static/img/fritzing-preview-welcome.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://fritzing.org/</url>
+  <url type="bugtracker">https://github.com/fritzing/fritzing-app/issues</url>
+  <url type="faq">https://fritzing.org/faq/</url>
+  <url type="help">https://fritzing.org/learning/</url>
+  <url type="forum">https://forum.fritzing.org</url>
+  <!-- <url type="donation">https://fritzing.org/shop/donations/</url> -->
+  <url type="translate">https://fritzing.org/support-us/language-translation/</url>
+  <releases>
+    <release date="2021-09-09" version="0.9.9" />
+  </releases>
+  <provides>
+    <binary>Fritzing</binary>
+  </provides>
+  <translation type="qt">fritzing</translation>
+  <update_contact>info_AT_fritzing.org</update_contact>
+</component>

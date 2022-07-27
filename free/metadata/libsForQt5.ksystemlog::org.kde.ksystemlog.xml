@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <description>
+    <p>KSystemLog show all logs of your system, grouped by General (Default system
+    log, Authentication, Kernel, X.org...), and optional Services (Apache, Cups,
+    etc, ...). It includes many features to read nicely your log files:</p>
+    <ul>
+      <li>Colorize log lines depending on their severities</li>
+      <li>Tabbed view to allow displaying several logs at the same time</li>
+      <li>Auto display new lines logged</li>
+      <li>Detailed information for each log lines</li>
+    </ul>
+  </description>
+  <description lang="ar">
+    <p>يعرض سجلات نظامك جميع سجلات المتعلقة بالحاسوب ، مجمعة بشكل عام (سجل النظام الافتراضي، المصادقة، النواة، أكس.أورغ ...) والخدمات الاختيارية (Apache ،Cups، إلخ ...). يتضمن العديد من الميزات لقراءة ملفات السجل الخاصة بك بشكل جيد:</p>
+    <ul>
+      <li>تلوين خطوط السجل حسب خطورتها</li>
+      <li>عرض مبوب للسماح بعرض عدة سجلات في نفس الوقت</li>
+      <li>عرض آلي للسطور المضافة في السجل</li>
+      <li>معلومات مفصلة عن كل سطر من الأسطر</li>
+    </ul>
+  </description>
+  <description lang="az">
+    <p>KsystemLog, sisteminizin bütün jurnalını ümumi qruplaşdırılmış (Standart sistem jurnalı, Kimlik doğrulaması, Nüvə bidirişləri jurnalı, X.org jurnalı...) və əlavə xidmətlər (Apache, Cups və s...) şəklində baxmağa imkan verir. Bu tətbiq, jurnal faylları ilə sadə şəkildə işləmək aşağıdakı funksiyaları təqdim edir:</p>
+    <ul>
+      <li>Üstünlüyündən asılı olaraq jurnal sətirlərinin rənglənməsi</li>
+      <li>Bir neçə jurnalın eyni vaxtda vərəqlər şəkildində göstərilməsi</li>
+      <li>Yeni jurnal sətirlərinin avtomatik göstərilməsi</li>
+      <li>Hər jurnal sətri haqqında ətraflı məlumat</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>El KSystemLog mostra tots els registres del sistema, agrupats per serveis generals (Registre predeterminat del sistema, Autenticació, Nucli, X.org...), i opcionals (Apache, CUPS...). Inclou moltes funcionalitats per a llegir de manera agradable els fitxers de registre:</p>
+    <ul>
+      <li>Acoloreix les línies de registre en funció de la seva severitat</li>
+      <li>Vista amb pestanyes que permet mostrar diversos registres a la vegada</li>
+      <li>Presentació automàtica de les línies noves del registre</li>
+      <li>Informació detallada per a cada línia de registre</li>
+    </ul>
+  </description>
+  <description lang="ca-valencia">
+    <p>KSystemLog mostra tots els registres del sistema, agrupats per serveis generals (Registre predeterminat del sistema, Autenticació, Nucli, X.org...), i opcionals (Apache, CUPS...). Inclou moltes funcionalitats per a llegir de manera agradable els fitxers de registre:</p>
+    <ul>
+      <li>Acolorix les línies de registre en funció de la seua gravetat</li>
+      <li>Vista amb pestanyes que permet mostrar diversos registres a la vegada</li>
+      <li>Presentació automàtica de les línies noves del registre</li>
+      <li>Informació detallada per a cada línia de registre</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>KSystemLog zeigt alle Protokolle Ihres Systems in verschiedenen Gruppen wie Allgemein (Standard-Systemprotokoll, Authentifizierung, Kernel, X.org....) und optionale Dienste (Apache, Cups ...), usw.). Es enthält viele Funktionen, um Ihre Protokolldateien gut zu lesen:</p>
+    <ul>
+      <li>Farbige Anzeige der Protokollzeilen abhängig von der Protokollstufe</li>
+      <li>Anzeige verschiedener Protokolldateien in einzelnen Unterfenstern.</li>
+      <li>Automatische Anzeiger neuer Protokollzeilen</li>
+      <li>Ausführliche Informationen zu jeder Protokoll-Zeile</li>
+    </ul>
+  </description>
+  <description lang="el">
+    <p>Το KSystemLog εμφανίζει όλες τις καταγραφές του συστήματός σας, ομαδοποιημένες με βάση Γενικές (Προκαθορισμένες καταγραφές συστήματος, ταυτοποίηση, πυρήνας, X.org...) και προαιρετικές υπηρεσίες (Apache, Cups, κλπ, ...). Περιλαμβάνει πολλές λειτουργίες για να διαβάζετε με την ησυχία σας τα αρχεία καταγραφών σας:</p>
+    <ul>
+      <li>Ο χρωματισμός γραμμών καταγραφών εξαρτάται από τη σπουδαιότητά τους</li>
+      <li>Προβολή σε καρτέλες που επιτρέπει την εμφάνιση πολλών καταγραφών ταυτόχρονα</li>
+      <li>Αυτόματη εμφάνιση νέων γραμμών καταγραφής.</li>
+      <li>Λεπτομερής πληροφόρηση για κάθε γραμμή καταγραφής</li>
+    </ul>
+  </description>
+  <description lang="en-GB">
+    <p>KSystemLog show all logs of your system, grouped by General (Default system log, Authentication, Kernel, X.org...), and optional Services (Apache, Cups, etc, ...). It includes many features to read nicely your log files:</p>
+    <ul>
+      <li>Colourise log lines depending on their severities</li>
+      <li>Tabbed view to allow displaying several logs at the same time</li>
+      <li>Auto display new lines logged</li>
+      <li>Detailed information for each log lines</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>KSystemLog muestra todos los registros del sistema, agrupados por servicios generales (registro predeterminado del sistema, autenticación, kernel, X.org...) y opcionales (Apache, Cups...). Incluye diversas funcionalidades para leer los archivos de registro de forma agradable:</p>
+    <ul>
+      <li>Líneas de registro coloreadas según su severidad</li>
+      <li>Vista en pestañas para poder mostrar varios registros a la vez</li>
+      <li>Muestra de forma automática las nuevas líneas registradas</li>
+      <li>Información detallada para las líneas de cada registro</li>
+    </ul>
+  </description>
+  <description lang="et">
+    <p>KSystemLog näitab kõiki süsteemi logisid rühmitatuna üld- (vaikimisi süsteemilogi, autentimise, kerneli, X.org'i jne logid) ja lisateenuste (Apache, Cups jne) kaupa. Rakendus pakub mitmeid võimalusi logifaile kenasti ja arusaadavalt esitada:</p>
+    <ul>
+      <li>Logiridade eristamine värviga vastavalt raskusastmele</li>
+      <li>Kaartidega vaade, mis lubab näha korraga mitut logi</li>
+      <li>Lisanduvate logikirjete automaatne näitamine</li>
+      <li>Üksikasjalik teave iga logirea kohta</li>
+    </ul>
+  </description>
+  <description lang="eu">
+    <p>KSystemLog-ek zure sistemako egunkari guztiak erakusten ditu, zerbitzu orokor (sistemaren egunkari lehenetsia, autentifikazioa, nukleoa, X-org, ...) eta aukerakoetan (Apache, Cups, etab., ...) taldekatuak. Eginbide ugari ditu zure egunkari fitxategiak irakurtzea behar bezala egiteko:</p>
+    <ul>
+      <li>Koloreztatu egunkari lerroak bere larritasunaren arabera</li>
+      <li>Fitxadun ikuspegia aldi berean hainbat egunkari bistaratzeko</li>
+      <li>Automatikoki bistaratu egunkarira gehitutako lerro berriak</li>
+      <li>Informazio xehatua egunkari lerro bakoitzeko</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>KSystemLog näyttää kaikki järjestelmälokit yleisiin (oletusloki, tunnistauminen, ydin, X.org…) ja lisäpalveluihin (Apache, Cups jne.) ryhmiteltynä. Sillä on monia ominaisuuksia, jotka helpottavat lokien tarkastelua:</p>
+    <ul>
+      <li>lokirivien väritys niiden vakavuusasteen mukaan</li>
+      <li>välilehtinäkymä useiden lokien samanaikaiseen tarkasteluun</li>
+      <li>uusien lokirivien näyttäminen automaattisesti</li>
+      <li>yksityiskohtaiset tiedot kustakin lokirivistä</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>KSystemLog affiche tous les journaux de votre système, groupés par catégories : Général (journal système par défaut, authentification, noyau, X.org, etc.) et services optionnels (Apache, Cups, etc.). Il inclut de nombreuses fonctionnalités facilitant la lecture de vos fichiers de journaux :</p>
+    <ul>
+      <li>Mise en couleur des lignes des journaux en fonction de leur sévérité</li>
+      <li>La vue en onglets permet d'afficher plusieurs journaux en même temps</li>
+      <li>Affichage automatique des nouvelles lignes des journaux</li>
+      <li>Informations détaillées pour chaque ligne des journaux</li>
+    </ul>
+  </description>
+  <description lang="gl">
+    <p>KSystemLog mostra todos os rexistros do sistema, agrupados en xerais (rexistro predeterminado do sistema, autenticación, kernel, X.org…) e servizos opcionais (Apache, Cups, etc.). Inclúe moitas funcionalidades para ler facilmente os ficheiros de rexistro:</p>
+    <ul>
+      <li>Colorar as liñas de rexistro segundo a súa gravidade</li>
+      <li>Vista con lapelas que permite mostrar varios rexistros simultaneamente</li>
+      <li>Mostrar automaticamente as novas liñas rexistradas</li>
+      <li>Información detallada en cada liña de rexistro</li>
+    </ul>
+  </description>
+  <description lang="hu">
+    <p>A KSystemLog megjeleníti a rendszer összes naplófájlját, általános (alapértelmezett rendszernapló, hitelesítés, kernel, X.org…) és opcionális szolgáltatások (Apache, Cups, stb, …) szerint csoportosítva. Számos funkcióval segíti a naplófájlok olvasását:</p>
+    <ul>
+      <li>Sorok színezése a fontosságuk szerint</li>
+      <li>Lapokra osztott nézet több naplófájl egyszerre történő megjelenítéséhez</li>
+      <li>Új bejegyzések automatikus megjelenítése</li>
+      <li>Részletes információk minden egyes sorhoz</li>
+    </ul>
+  </description>
+  <description lang="ia">
+    <p>KSystemLog monstra omne registros de tu systema, gruppate per Registro General  (registro de systema redefinite, Authentication, Kernel, X.org...) e Servitios optional  (Apache, Cups, etc, ...). Illo  include multe characteristicas per leger agradibilemente tu files de registro:</p>
+    <ul>
+      <li>Colora lineas de registro dependente de lor severitate</li>
+      <li>Vista a schedas que permitte monstrar plure registros al mesme tempore</li>
+      <li>Monstra automaticamente nove lineas registrate</li>
+      <li>Informationdetaliate per cata lineas de registro (log)</li>
+    </ul>
+  </description>
+  <description lang="id">
+    <p>KSystemLog menampilkan semua catatan log sistemmu, dikelompokkan berdasarkan General (Catatan log sistem baku, Autentikasi, Kernel, X.org...), dan Layanan (Apache, Cups, dll, ...) opsional. Serta banyak fitur-fitur pembacaan secara baik file-file catatan log-mu:</p>
+    <ul>
+      <li>Pewarnaan baris log tergantung pada kepelikannya</li>
+      <li>Tampilan bertab untuk memungkinkan penayangan log di waktu yang sama</li>
+      <li>Auto tayang baris baru yang di-log</li>
+      <li>Informasi terperinci untuk setiap baris log</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>KSystemLog mostra tutti i registri di sistema, raggruppati per Generale (registro predefinito di sistema, autenticazione, Kernel, X.org...) e Servizi opzionali (Apache, Cups, ecc, ...). Include molte funzionalità per leggere bene i file di registro:</p>
+    <ul>
+      <li>Colorazione delle righe del registro in base alla loro gravità</li>
+      <li>Vista a schede, che permette la visualizzazione di più registri nello stesso tempo</li>
+      <li>Visualizzazione automatica delle nuove righe registrate</li>
+      <li>Informazioni dettagliate per ciascuna riga del registro</li>
+    </ul>
+  </description>
+  <description lang="ko">
+    <p>KSystemLog는 시스템의 모든 로그를 볼 수 있는 도구입니다. 일반(기본 시스템 로그, 인증, 커널, X.org, ...) 및 추가 서비스(Apache, CUPS, ...) 로그로 분류합니다. 로그 파일을 읽기 편하게 하는 도구를 제공합니다.</p>
+    <ul>
+      <li>심각도에 따라서 로그 줄 자동 색상 지정</li>
+      <li>여러 로그를 탭을 통해서 동시에 표시</li>
+      <li>새로 로그에 추가된 줄 자동 표시</li>
+      <li>각각 로그 줄별 자세한 정보</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>KSystemLog toont alle logs op uw systeem, gegroepeerd op Algemeen (Standaard systeemlog, Authenticatie, Kernel, X.org...) en optionele services (Apache, Cups, etc, ...). Het bevat vele mogelijkheden om uw logbestanden netjes te lezen:</p>
+    <ul>
+      <li>Logregels kleuren afhankelijk van hun ernst</li>
+      <li>In tabbladen tonen om verschillende logs tegelijk te tonen</li>
+      <li>Automatische nieuwe logregels weergeven</li>
+      <li>Gedetailleerde informatie voor elke logregel</li>
+    </ul>
+  </description>
+  <description lang="nn">
+    <p>KSystemLog viser alle loggane på systemet, gruppert etter generelle loggar (standard systemloggar, autentisering, kjernen, X.org, …) og tenesteloggar (Apache, Cups, …). Programmet har mange funksjonar for lettare lesing av loggfilene:</p>
+    <ul>
+      <li>Fargelegg logglinjer basert på alvorsgrad</li>
+      <li>Fanebasert vising av fleire loggar samtidig</li>
+      <li>Automatisk vising av nye logglinjer</li>
+      <li>Detaljert informasjon om kvar logglinje</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <p>KSystemLog pokazuje wszystkie dzienniki systemu, zgrupowane wg ogólnych (domyślny dziennik systemu, uwierzytelnienie, jądro, X.org...), oraz opcjonalnych usług (Apache, Cups, itp.). Zawiera wiele ułatwień do czytania plików dziennika:</p>
+    <ul>
+      <li>Zabarwianie wierszy dziennika w zależności od ich znaczenia</li>
+      <li>Widok w kartach umożliwiający przeglądanie kilku dzienników jednocześnie</li>
+      <li>Wyświetlanie nowych wierszy, które trafiły do dziennika</li>
+      <li>Szczegółowe dane dla każdego wiersza dziennika</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>O KSystemLog mostra todos os registos do seu sistema, agrupados por Geral (Registo predefinido do sistema, Autenticação, 'Kernel', X.org...), e pelos Serviços opcionais (Apache, Cups, etc, ...). Inclui muitas funcionalidades agradáveis para ler os seus ficheiros de registo de forma agradável:</p>
+    <ul>
+      <li>Colorir as linhas de registo de acordo com a sua criticidade</li>
+      <li>Vista em páginas que permite mostrar vários registos ao mesmo tempo</li>
+      <li>Mostrar automaticamente as novas linhas registadas</li>
+      <li>Informação detalhada para cada linha do registo</li>
+    </ul>
+  </description>
+  <description lang="pt-BR">
+    <p>O KSystemLog mostra todos os registros do seu sistema, agrupados por Geral (Registro padrão do sistema, Autenticação, Kernel, X.org...), e por Serviços opcionais (Apache, Cups, etc, ...). Inclui muitas funcionalidades agradáveis para leitura dos arquivos de registro:</p>
+    <ul>
+      <li>Colorir as linhas de registro de acordo com a sua criticidade</li>
+      <li>Exibição em abas que permite apresentar vários registros ao mesmo tempo</li>
+      <li>Exibição automática das novas linhas registradas</li>
+      <li>Informação detalhada para cada linha do registro</li>
+    </ul>
+  </description>
+  <description lang="ro">
+    <ul>
+      <li>Colorează liniile de jurnal conform severității acestora</li>
+      <li>Afișează automat noile linii înregistrate</li>
+      <li>Informații detaliate pentru fiecare linie din jurnal</li>
+    </ul>
+  </description>
+  <description lang="ru">
+    <p>KSystemLog — приложение для просмотра системных журналов. Приложение позволяет просматривать основные (системный журнал по умолчанию, журнал аутентификации, журнал сообщений ядра, журнал X.org) и дополнительные журналы (Apache, CUPS и других). Приложение использует следующие функции для упрощения работы с файлами журналов:</p>
+    <ul>
+      <li>Использование выделения цветом для событий различного приоритета;</li>
+      <li>Использование вкладок для одновременного просмотра нескольких журналов;</li>
+      <li>Автоматический показ новых записей;</li>
+      <li>Подробная информация о каждой строке журнала.</li>
+    </ul>
+  </description>
+  <description lang="sk">
+    <p>KSystemLog zobrazí všetky záznamy vášho systému, zoskupené podľa všeobecných (predvolený systémový záznam, autentifikácia, jadro, X.org...) a voliteľných služieb (Apache, Cups, atď...) Zahŕňa veľa funkcií na pekné čítanie vašich súborov záznamov:</p>
+    <ul>
+      <li>Zafarbiť riadky záznamu podľa ich závažnosti</li>
+      <li>Kartový pohľad na umožnenie zobrazenia niekoľkých záznamov naraz</li>
+      <li>Automaticky zobraziť nové zaznamenané riadky</li>
+      <li>Podrobné informácie pre každý riadok záznamu</li>
+    </ul>
+  </description>
+  <description lang="sl">
+    <p>KSystemLog prikaže vse dnevnike vašega sistema, razvrščene v skupine Splošno (Privzeti sistemski dnevnik, overjanje, Kernel, X.org ...) in izbirne storitve (Apache, Cups itd.). Vsebuje veliko funkcij za lažje branje datotek dnevnika:</p>
+    <ul>
+      <li>Pobarvaj vrstice dnevnika v odvisnosti od resnosti</li>
+      <li>Pogled z zavihki, ki dovoljuje prikaz več dnevnikov istočasno</li>
+      <li>Avtomatski prikaz novih zabeleženih vrstic dnevnika</li>
+      <li>Podrobna informacija za vsako zabeleženo vrstico</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <p>Ksystemlog visar alla loggar i systemet, grupperade enligt allmänna (standardsystemlogg, behörighetskontroll, kärna, X.org, ...) och valfria tjänster (Apache, Cups, etc.). Det inkluderar många funktioner för att snyggt läsa loggfiler:</p>
+    <ul>
+      <li>Färglägg loggrader beroende på deras svårighetsgrad</li>
+      <li>Flikvy för att tillåta att flera loggar visas samtidigt</li>
+      <li>Visa automatiskt nya loggade rader</li>
+      <li>Detaljerad information för varje loggrad</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>KSystemLog може показувати усі журнали роботи вашої системи. Журнали поділено на загальні (типовий журнал системи, журнал розпізнавання, журнал ядра, журнал X.org...) та додаткові журнали служб (Apache, CUPS тощо). Передбачено багато можливостей для зручного перегляду журналів:</p>
+    <ul>
+      <li>Розфарбовування записів журналу за їхньою критичністю</li>
+      <li>Перегляд з вкладками, який надає вам змогу бачити декілька журналів одразу</li>
+      <li>Автоматичний показ нових рядків журналу</li>
+      <li>Докладна інформація щодо кожного рядка журналу</li>
+    </ul>
+  </description>
+  <description lang="x-test">
+    <p>xxKSystemLog show all logs of your system, grouped by General (Default system log, Authentication, Kernel, X.org...), and optional Services (Apache, Cups, etc, ...). It includes many features to read nicely your log files:xx</p>
+    <ul>
+      <li>xxColorize log lines depending on their severitiesxx</li>
+      <li>xxTabbed view to allow displaying several logs at the same timexx</li>
+      <li>xxAuto display new lines loggedxx</li>
+      <li>xxDetailed information for each log linesxx</li>
+    </ul>
+  </description>
+  <description lang="zh-CN">
+    <p>KSystemLog 能够显示系统的所有日志，并可按照常规 (默认系统日志、身份验证、内核、X.org...)和额外服务 (Apache、Cups 等) 进行分组。它的界面功能强大，让您可以方便清晰地阅读日志文件：</p>
+    <ul>
+      <li>根据严重程度将日志信息行显示为不同颜色</li>
+      <li>标签页视图，可同时显示多个日志</li>
+      <li>自动显示新日志记录</li>
+      <li>每行日志均可显示详情</li>
+    </ul>
+  </description>
+  <description lang="zh-TW">
+    <p>KSystemLog 顯示您系統的所有日誌，並分類成「一般」（預設系統日誌、認證、內核及 X.org 等…），和選用服務（Apache、Cups 等等…）。其包含許多能讓您更好閱讀日誌檔案的功能：</p>
+    <ul>
+      <li>基於日誌中行的重要性上色</li>
+      <li>分頁檢視，允許同時顯示多個日誌</li>
+      <li>自動顯示新記錄的行</li>
+      <li>詳細列出每行日誌的資訊</li>
+    </ul>
+  </description>
+  <pkgname>libsForQt5.ksystemlog</pkgname>
+  <id>org.kde.ksystemlog</id>
+  <metadata_license>FSFAP</metadata_license>
+  <project_license>GPL-2.0-or-later</project_license>
+  <name>KSystemLog</name>
+  <name lang="ar">سجلّات نظامك</name>
+  <name lang="az">KSystemLog</name>
+  <name lang="ca">KSystemLog</name>
+  <name lang="ca-valencia">KSystemLog</name>
+  <name lang="cs">KSystemLog</name>
+  <name lang="da">KSystemLog</name>
+  <name lang="de">KSystemLog</name>
+  <name lang="el">KSystemLog</name>
+  <name lang="en-GB">KSystemLog</name>
+  <name lang="es">KSystemLog</name>
+  <name lang="et">KSystemLog</name>
+  <name lang="eu">kSystemLog</name>
+  <name lang="fi">KSystemLog</name>
+  <name lang="fr">KSystemLog</name>
+  <name lang="gl">KSystemLog</name>
+  <name lang="hu">KSystemLog</name>
+  <name lang="ia">KSystemLog</name>
+  <name lang="id">KSystemLog</name>
+  <name lang="it">KSystemLog</name>
+  <name lang="ko">KSystemLog</name>
+  <name lang="nl">KSystemLog</name>
+  <name lang="nn">KSystemLog</name>
+  <name lang="pl">KSystemLog</name>
+  <name lang="pt">KSystemLog</name>
+  <name lang="pt-BR">KSystemLog</name>
+  <name lang="ro">KSystemLog</name>
+  <name lang="ru">KSystemLog</name>
+  <name lang="sk">KSystemLog</name>
+  <name lang="sl">KSystemLog</name>
+  <name lang="sv">Ksystemlog</name>
+  <name lang="uk">KSystemLog</name>
+  <name lang="x-test">xxKSystemLogxx</name>
+  <name lang="zh-CN">KSystemLog 系统日志</name>
+  <name lang="zh-TW">KSystemLog</name>
+  <summary>system log viewer</summary>
+  <summary lang="ar">عارض سجلّات النّظام</summary>
+  <summary lang="az">sistem jurnalı göstəricisi</summary>
+  <summary lang="ca">Visor dels registres del sistema</summary>
+  <summary lang="ca-valencia">Visor dels registres del sistema</summary>
+  <summary lang="cs">Prohlížeč záznamů systému</summary>
+  <summary lang="de">Systemprotokoll-Betrachter</summary>
+  <summary lang="el">προβολέας καταγραφών συστήματος</summary>
+  <summary lang="en-GB">system log viewer</summary>
+  <summary lang="es">Visor del registro del sistema</summary>
+  <summary lang="et">Süsteemi loginäitaja</summary>
+  <summary lang="eu">Sistemaren egunkari erakuslea</summary>
+  <summary lang="fi">Järjestelmälokikatselin</summary>
+  <summary lang="fr">afficheur de journaux système</summary>
+  <summary lang="gl">visor dos rexistros do sistema</summary>
+  <summary lang="hu">Rendszernapló-megjelenítő</summary>
+  <summary lang="ia">visor de registro de systema</summary>
+  <summary lang="id">penampil catatan log sistem</summary>
+  <summary lang="it">Visore dei registri di sistema</summary>
+  <summary lang="ko">시스템 로그 뷰어</summary>
+  <summary lang="nl">Systeemlogviewer</summary>
+  <summary lang="nn">Systemloggvisar</summary>
+  <summary lang="pl">Przeglądarka dziennika systemowego</summary>
+  <summary lang="pt">visualizador de registos do sistema</summary>
+  <summary lang="pt-BR">Visualizador do registros do sistema</summary>
+  <summary lang="ro">vizualizor jurnale de sistem</summary>
+  <summary lang="ru">Просмотр системных журналов</summary>
+  <summary lang="sk">prehliadač záznamov systému</summary>
+  <summary lang="sl">vpogledovalnik v sistemski dnevnik</summary>
+  <summary lang="sv">Visningsverktyg för systemloggar</summary>
+  <summary lang="uk">Переглядач системних журналів</summary>
+  <summary lang="x-test">xxsystem log viewerxx</summary>
+  <summary lang="zh-CN">系统日志查看器</summary>
+  <summary lang="zh-TW">系統日誌檢視器</summary>
+  <url type="homepage">https://www.kde.org</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=ksystemlog</url>
+  <url type="donation">https://www.kde.org/community/donations/?app=ksystemlog</url>
+  <launchable type="desktop-id">org.kde.ksystemlog.desktop</launchable>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://cdn.kde.org/screenshots/ksystemlog/ksystemlog.png</image>
+    </screenshot>
+  </screenshots>
+  <provides>
+    <binary>ksystemlog</binary>
+  </provides>
+  <project_group>KDE</project_group>
+  <releases>
+    <release version="22.04.3" date="2022-07-07" />
+    <release date="2022-06-09" version="22.04.2" />
+    <release version="22.04.1" date="2022-05-12" />
+    <release version="22.04.0" date="2022-04-21" />
+  </releases>
+</component>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>mate.mate-utils</pkgname>
+  <launchable type="desktop-id">mate-disk-usage-analyzer.desktop</launchable>
+  <icon height="64" type="cached" width="64">mate-disk-usage-analyzer.png</icon>
+  <icon width="128" height="128" type="cached">mate-disk-usage-analyzer.png</icon>
+  <id>mate-disk-usage-analyzer.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>MATE Disk Usage Analyzer</name>
+  <name lang="zh_TW">MATE 磁碟用量分析器</name>
+  <name lang="zh_CN">MATE 磁盘用量分析器</name>
+  <name lang="vi">Bộ phân tích sử dụng đĩa MATE</name>
+  <name lang="uz">MATE Diskdan Foydalanish Tahlilchisi</name>
+  <name lang="uk">Аналізатор використання диска MATE</name>
+  <name lang="tr">MATE Disk Kullanım Analizcisi</name>
+  <name lang="th">เครื่องมือวิเคราะห์การใช้ดิสก์ของ MATE</name>
+  <name lang="sv">Diskanvändningsanalyseraren för MATE</name>
+  <name lang="sr">Мејтов испитивач искоришћености диска</name>
+  <name lang="sl">MATE Analizator Uporabe Diska</name>
+  <name lang="sk">Analyzátor využitia disku prostredia MATE</name>
+  <name lang="ru">Анализатор использования дисков MATE</name>
+  <name lang="ro">Analizator disc MATE</name>
+  <name lang="pt_BR">Analisador de Uso do Disco MATE</name>
+  <name lang="pt">Analisador de Utilização do Disco MATE</name>
+  <name lang="pl">Analizator wykorzystania dysku MATE</name>
+  <name lang="oc">Analisador MATE d’utilizacion dels disques</name>
+  <name lang="nl">MATE Schijfgebruikanalyse</name>
+  <name lang="nb">MATE diskbrukanalyse</name>
+  <name lang="ms">Penganalisis Penggunaan Cakera MATE</name>
+  <name lang="lv">MATE Diska Izmantojums</name>
+  <name lang="lt">MATE disko naudojimo analizatorius</name>
+  <name lang="ko">MATE 디스크 사용 분석기</name>
+  <name lang="kk">MATE диск қолдануын анализдеушісі</name>
+  <name lang="ja">MATE ディスク使用量解析器</name>
+  <name lang="it">Analizzatore di utilizzo del disco di MATE</name>
+  <name lang="ie">Analisator del usage de discos MATE</name>
+  <name lang="id">Penganalisa Penggunaan Disk MATE</name>
+  <name lang="hy">MATE Սկավառակի օգտագործման վերլուծիչ</name>
+  <name lang="hu">MATE lemezhasználat-elemző</name>
+  <name lang="he">מנתח הדיסק של MATE</name>
+  <name lang="gl">Analizador do uso do disco do MATE</name>
+  <name lang="fr">Analyseur d'utilisation des disques</name>
+  <name lang="fi">MATE Levynkäytön analysointi</name>
+  <name lang="et">MATE kettakasutuse analüsaator</name>
+  <name lang="es_CO">Analizador de Uso de Disco de MATE</name>
+  <name lang="es">Analizador del uso del disco de MATE</name>
+  <name lang="en_GB">MATE Disk Usage Analyser</name>
+  <name lang="en_AU">MATE Disk Usage Analyser</name>
+  <name lang="el">Ανάλυση χρήσης δίσκου του MATE</name>
+  <name lang="de">MATE-Festplattenbelegungsanalyse</name>
+  <name lang="da">MATE - diskforbrugsanalyse</name>
+  <name lang="cs">Analyzátor využití disku pro MATE</name>
+  <name lang="ca@valencia">Analitzador de l'ús dels discos del MATE</name>
+  <name lang="ca">Analitzador de l'ús dels discs de MATE</name>
+  <name lang="br">Dezrannerez arver kantenn MATE</name>
+  <name lang="bg">Анализатор за използване на диска на MATE</name>
+  <name lang="be">Дыскавы аналізатар MATE</name>
+  <name lang="ast">Analizador d'usu de discu MATE</name>
+  <name lang="ar">محلّل متّة لاستخدام الأقراص</name>
+  <name lang="am">ሜት የ ዲስክ አጠቃቀም መርማሪ</name>
+  <summary>A disk usage analyzing tool for MATE Desktop</summary>
+  <summary lang="zh_TW">適用於 MATE 桌面環境的磁碟使用分析工具</summary>
+  <summary lang="zh_CN">MATE 桌面的磁盘使用分析工具</summary>
+  <summary lang="uz">MATE Ish stoli uchun diskdan foydalanish tahlili vositasi</summary>
+  <summary lang="uk">Знаряддя аналізу використання дисків для середовища MATE</summary>
+  <summary lang="tr">MATE Masaüstü için disk kullanım analiz aracı</summary>
+  <summary lang="th">เครื่องมือวินิจฉัยการใช้ดิสก์สำหรับเดสก์ท็อปของ MATE</summary>
+  <summary lang="sv">Ett diskanvändning och analyseriingsverktyg för MATE-skrivbordet</summary>
+  <summary lang="sr">Алат за испитивање искоришћености диска за Мејтову радну површ</summary>
+  <summary lang="sl">Orodje za analizo uporabe diska za MATE Namizje.</summary>
+  <summary lang="sk">Nástroj na analýzu využitia disku pre prostredie MATE</summary>
+  <summary lang="ru">Анализ использования дисков для рабочего стола MATE</summary>
+  <summary lang="ro">O unealtă de analiză a spațiului ocupat pe disc pentru desktopul MATE</summary>
+  <summary lang="pt_BR">Uma ferramenta de análise de uso do disco para o Ambiente de Trabalho MATE</summary>
+  <summary lang="pt">Uma ferramenta de análise à utilização de disco para o Ambiente de Trabalho MATE</summary>
+  <summary lang="pl">Narzędzie analizowania użycia dysku dla środowiska MATE</summary>
+  <summary lang="oc">Una aisina d’analisi d’utilizacion disc per l’environament de burèu MATE</summary>
+  <summary lang="nl">Een hulpmiddel voor schijfgebruikanalyse voor de MATE-werkomgeving</summary>
+  <summary lang="nb">Et diskanalyseverktøy for MATE-skrivebordet</summary>
+  <summary lang="ms">Alat menganalisis penggunaan cakera untuk Desktop MATE</summary>
+  <summary lang="lt">Disko naudojimo analizavimo įrankis MATE darbalaukiui</summary>
+  <summary lang="ko">MATE 데스크톱용 디스크 사용량 분석 도구</summary>
+  <summary lang="kk">MATE жұмыс үстелі үшін дисктің қолданылуын анализдеу сайманы</summary>
+  <summary lang="ja">MATE デスクトップのディスク使用量解析ツール</summary>
+  <summary lang="it">Uno strumento per analizzare l'uso del disco per l'ambiente desktop MATE</summary>
+  <summary lang="ie">Un analisator de spacie de disco por ambientie MATE</summary>
+  <summary lang="id">Perangkat analisa penggunaan disk untuk Desktop MATE</summary>
+  <summary lang="hy">MATE Աշխատասեղանի համար սկավառակի օգտագործման վերլուծության գործիք</summary>
+  <summary lang="hu">Lemezhasználat-elemző eszköz a MATE asztali környezethez</summary>
+  <summary lang="he">כלי לניתוח השימוש בדיסק עבור שולחן העבודה MATE</summary>
+  <summary lang="gl">Unha ferramenta de análise do uso do disco para o escritorio MATE</summary>
+  <summary lang="fr">Un outil d'analyse de l'usage disque pour le bureau MATE</summary>
+  <summary lang="fi">Levyn käytön analysointityökalu MATE Työpöydälle</summary>
+  <summary lang="eu">Diskaren erabilera aztertzeko tresna bat MATE Desktop-erako.</summary>
+  <summary lang="et">Kettakasutuse analüüsivahend MATE töölauale</summary>
+  <summary lang="es">Una herramienta para analizar el uso del disco para el escritorio MATE</summary>
+  <summary lang="en_GB">A disk usage analysing tool for MATE Desktop</summary>
+  <summary lang="en_AU">A disk usage analysing tool for MATE Desktop</summary>
+  <summary lang="el">Ένα εργαλείο ανάλυσης της χρήσης δίσκων για την επιφάνεια εργασίας MATE</summary>
+  <summary lang="de">Ein Werkzeug zur Festplattenbelegungsanalyse für die MATE-Arbeitsumgebung</summary>
+  <summary lang="da">Et analysværktøj til diskforbrug for MATE-skrivebordet</summary>
+  <summary lang="cs">Nástroj pro zobrazení využití místa na disku</summary>
+  <summary lang="ca@valencia">Una eina d'anàlisi de l'ús dels discos per a l'escriptori MATE</summary>
+  <summary lang="ca">Una eina d'anàlisi de l'ús dels discs per a l'escriptori MATE</summary>
+  <summary lang="br">Ur benveg da zezrannañ arver ar gantennad evit burev MATE</summary>
+  <summary lang="bg">Инструмент за анализ на използването на диска за MATE работна среда</summary>
+  <summary lang="be">Сродак аналізу выкарыстання дыскавай прасторы для асяроддзя MATE</summary>
+  <summary lang="ast">Una ferramienta p'analizar l'usu de discu pal escritoriu MATE</summary>
+  <summary lang="ar">أداة لتحليل استخدام الأقراص لسطح مكتب متّة</summary>
+  <summary lang="am">የ ዲስክ አጠቃቀም መርማሪ ለ ሜት ዴስክቶፕ</summary>
+  <description>
+    <p>
+   As its name implies, Disk Usage Analyzer is a graphical utility that you
+   can use to view and monitor your disk usage and folder structure. It displays
+   summary information in ring or treemap charts.
+  </p>
+    <p>
+   You can perform scans on a file system, your home or any other folder - local
+   or remote. There is also an option to constantly monitor any external changes
+   to the home directory and warn the user if a file is added/removed.
+  </p>
+  </description>
+  <description lang="ca">
+    <p>Com el seu nom indica, l'analitzador d'ús de disc és una utilitat gràfica que es pot utilitzar per veure i controlar l'ús dels vostres discs i l'estructura de les carpetes. Mostra la informació resumida en gràfics d'anell o en gràfics d'arbre d'assignació.</p>
+    <p>Podeu realitzar exploracions en un sistema de fitxers, en la carpeta d'inici de l'usuari o en qualsevol altra carpeta - local o remota. També hi ha una opció per monitorar constantment qualsevol canvi extern al directori d'inici de l'usuari i advertir a l'usuari si s'afegeix o s'elimina un fitxer.</p>
+  </description>
+  <description lang="cs">
+    <p>Jak jeho název napovídá, Analyzátor využití disku je grafický nástroj, který můžete použít k prohlížení a sledování využití disku a struktury složek. Zobrazuje souhrnné informace v kruhových nebo stromových diagramech.</p>
+    <p>Můžete provádět skenování v souborovém systému, ve své domovské nebo v jakékoli jiné složce - místní nebo vzdálené. K dispozici je také možnost neustále sledovat jakékoli externí změny domovského adresáře a upozornit uživatele, pokud je soubor přidán/odebrán.</p>
+  </description>
+  <description lang="da">
+    <p>Som navnet antyder, er Disk Usage Analyzer et grafisk redskab, som du kan bruge til at se og overvåge dit diskforbrug samt mappestruktur. Programmet viser resumeinformation i et ring- eller trækortdiagram. </p>
+    <p>Du kan udføre skanninger på et filsystem, din hjemmemappe eller en anden mappe - lokalt eller eksternt. Der er også et tilvalg til konstant at overvåge eksterne ændringer til hjemmemappen og advare brugeren hvis en fil tilføjes/fjernes.</p>
+  </description>
+  <description lang="es">
+    <p>Como su nombre indica, el Analizador del uso del disco es una utilidad gráfica que puede usar para ver y monitorear el uso del disco y la estructura de carpetas. Muestra información resumida en gráficos de anillo o de árbol.</p>
+    <p>Puede explorar un sistema de archivos, la carpeta personal o cualquier otra carpeta local o remota. También hay una opción para monitorear constantemente los cambios externos en la carpeta personal y advertir al usuario si se añade o elimina un archivo.</p>
+  </description>
+  <description lang="eu">
+    <p>Bere izena dioen bezala, Diskaren Erabilera Aztertzeko tresna zure diskaren erabiliera eta karpeten egitura aztertzeko eta kontrolatzeko erabili dezakezu. Informazioa eraztun edo zuhaitz grafiko gisa erabiliz laburbiltzen du.</p>
+  </description>
+  <description lang="fr">
+    <p>Comme son nom l'indique, l'analyseur d'utilisation des disques est un utilitaire graphique que vous pouvez utiliser pour afficher et surveiller votre utilisation du disque et la structure des dossiers. Il affiche des informations récapitulatives dans des graphiques en anneaux ou en carte arborescente.</p>
+    <p>Vous pouvez effectuer des analyses sur un système de fichiers, votre dossier personnel ou tout autre dossier - local ou distant. Il existe également une option pour surveiller en permanence toutes les modifications externes apportées à votre dossier personnel et avertir l'utilisateur si un fichier est ajouté/supprimé.</p>
+  </description>
+  <description lang="gl">
+    <p>Como o seu nome indica, o Analizador de uso do disco é unha utilidade gráfica que se pode empregar para ver e supervisar o uso do disco e a estrutura de cartafoles. Amosa información resumida en gráficos de anel ou mapas en árbore.</p>
+    <p>Pode realizar análises nun sistema de ficheiros, no cartafol persoal ou calquera outro, local ou remoto. Ten tamén a opción de controlar constantemente calquera cambio externo no directorio persoal e avisar ao usuario se se engade/retira un ficheiro.</p>
+  </description>
+  <description lang="id">
+    <p>Sesuai dengan namanya, Disk Usage Analyzer adalah utilitas grafis yang dapat digunakan untuk melihat dan memonitor penggunaan disk dan struktur folder Anda. Ini menampilkan ringkasan informasi dalam bagan peta pohon atau cincin.</p>
+    <p>Anda melakukan pemindaian terhadap sistem berkas, rumah Anda, atau folder lain - lokal atau remote. Terdapat juga sebuah opsi untuk secara konstan memonitor adanya perubahan eksternal pada direktori home dan memperingatkan pengguna apabila terdapat sebuah berkas yang ditambahkan/dihapus.</p>
+  </description>
+  <description lang="it">
+    <p>Come indica il nome, l'Analizzatore di utilizzo del disco di MATE è una utility grafica per visualizzare l'utilizzo del disco e la struttura delle cartelle. Mostra informazioni riassuntive sotto forma di grafico ad anello o ad albero.</p>
+    <p>È possibile eseguire scansioni su un filesystem, sulla cartella home o su qualsiasi altra cartella - locale o remota. Dispone di un'opzione per monitorare costantemente qualsiasi modifica esterna alla directory home e avvertire l'utente se viene aggiunto/rimosso un file.</p>
+  </description>
+  <description lang="ja">
+    <p>ディスク使用量解析器は、その名前が示すように、ディスク使用状況およびフォルダ構造を表示および監視するために使用できるグラフィカル・ユーティリティです。円グラフまたはツリーマップのグラフに大まかな情報を表示します。</p>
+    <p>ファイル・システムやホーム、その他のフォルダ（ローカルまたはリモート）に対してスキャンを実行できます。また、ホーム・ディレクトリに対する外部の変更を常時に監視し、ファイルが追加または削除された場合にユーザーに警告するオプションもあります。</p>
+  </description>
+  <description lang="lt">
+    <p>Kaip matoma iš pavadinimo, Disko naudojimo analizatorius yra grafinė paslaugų programa, kurią galite naudoti savo disko naudojimo ir aplankų struktūros peržiūrai ir stebėsenai. Ji rodo informacijos suvestinę žiedinės diagramos ar medžių žemėlapio pavidalu.</p>
+    <p>Galite atlikti failų sistemos, savo namų aplanko ar bet kokio kito aplanko - vietinio ar nuotolinio skaitymą. Taip pat yra galimybė pastoviai stebėti bet kokius išorinius namų katalogo pokyčius ir įspėti naudotoją, jei yra pridedamas/šalinamas failas. </p>
+  </description>
+  <description lang="ms">
+    <p>Berdasarkan namanya, Penganalisis Penggunaan Cakera merupakan sebuah utiliti yang anda boleh gunakan untuk melihat dan memantau penggunaan cakera dan struktur foldernya. Ia memaparkan maklumat ringkasan dalam bentuk carta gelang atau peta pepohon.</p>
+    <p>Anda boleh membuat imbasan dalam sistem fail, rumah atau lain-lain folder lain - secara setempat atau jauh. Terdapat juga satu pilihan untuk memantau apa-apa perubahan di dalam direktori rumah secara berterusan seterusnya memberi amaran kepada pengguna jika ada fail telah ditambah/dibuang.</p>
+  </description>
+  <description lang="nb">
+    <p>Som navnet antyder er Diskbrukanalyse et grafisk verktøy som kan vise og overvåke diskbruk og mappestruktur. Programmet viser sammendrag i et ring- eller trediagram.</p>
+    <p>Programmet kan gjennomsøke filsystemet, hjemmemappa eller en vilkårlig mappe, lokal eller ekstern. Det er også mulig å overvåke eksterne endringer av hjemmemappa og advare brukeren hvis en fil legges til eller slettes.</p>
+  </description>
+  <description lang="nl">
+    <p>Zoals zijn naam al aangeeft, is Schijfgebruikanalyse een grafisch gereedschapje waarmee u uw schijfgebruik en mapstructuur kunt bekijken en bewaken. Het toont summiere informatie in ring- of boomstructuurdiagrammen.</p>
+    <p>U kunt een bestandssysteem onderzoeken, uw thuismap of een willekeurige andere map - lokaal of op afstand. Er is ook een optie voor het constant bewaken van externe veranderingen aan de thuismap en het waarschuwen van de gebruiker indien er een bestand wordt toegevoegd of verwijderd.</p>
+  </description>
+  <description lang="pl">
+    <p>Jak nazwa sugeruje, Analizator wykorzystania dysku jest graficznym narzędziem, którego możesz używać do wyświetlenia i monitorowania użycia dysku i struktury katalogów. Wyświetla informację podsumowującą w wykresach kołowych lub drzewie.</p>
+    <p>Możesz wykonać skan na systemie plików, katalogu domowym lub każdym innym katalogu, lokalnym lub zdalnym. Jest także opcja do ciągłego monitorowania każdej zewnętrznej zmiany w katalogu domowym i ostrzegania użytkownika, jeśli plik został dodany/usunięty. </p>
+  </description>
+  <description lang="ru">
+    <p>Как следует из названия, анализатор использования дисков — это графическое приложение, предназначенное для просмотра и слежения за использованием носителей и иерархии папок. Анализатор отображает сводку информации в виде кольцевой или древовидной диаграммы.</p>
+    <p>Можно выполнять сканирование файловой системы, вашей домашней папки или любой другой — локальной или внешней. Также можно постоянно следить за внешними изменениями домашнего каталога и получать уведомления, если какой-либо файл был добавлен/удалён. </p>
+  </description>
+  <description lang="sr">
+    <p>Као што његов назив говори, Испитивач искоришћености диска је графичко помагало које можете да користите да прегледате и пратите искоришћеност вашег диска и структуру фасцикли. Приказује сажетак информација у облику прстена или мапе графикчог стабла.</p>
+    <p>Можете да обавите преглед система датотека, ваше личне или неке друге фасцикле – месне или удаљене. Постоји такође и могућност непрекидног надгледања спољних измена у личном директоријуму и упозоравања корисника на додавање/уклањање датотека.</p>
+  </description>
+  <description lang="tr">
+    <p>Adından anlaşılacağı gibi, Disk Kullanım Analizcisi, disk kullanımınızı ve dizin yapınızı görüntülemek ve izlemek için kullanabileceğiniz grafik arayüzlü yardımcı bir programdır. Halka veya ağaç harita grafikleri ile özet bilgileri gösterir.</p>
+    <p>Bir dosya sisteminde, evinizde veya başka bir dizinde (yerel veya uzak) tarama yapabilirsiniz. Ana dizinde yapılan harici değişiklikleri sürekli olarak izleme ve bir dosya ekleme/kaldırma olursa kullanıcıyı uyarma seçeneği de vardır.</p>
+  </description>
+  <description lang="uk">
+    <p>Як можна зрозуміти з назви, «Аналізатор використання диска» — програма з графічним інтерфейсом, якою ви можете скористатися для перегляду та спостереження за використанням диска вашого комп'ютера та структури каталогів. Програма показує підсумки аналізу у форматі кругової діаграми, або мозаїчної мапи.</p>
+    <p>Ви можете виконувати сканування у файловій системі, вашому домашньому каталозі, або будь-якій иншій теці — локальній, або віддаленій. Також передбачено можливість постійного спостереження за будь-якими зовнішніми змінами у домашньому каталозі та попередження користувача щодо додавання, або вилучення файлів.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>磁盘占用分析器为一款实用的图形工具，采用环状表或树形图。可显示并监控磁盘用量，以及文件夹结构。</p>
+    <p>可在任意文件系统及文件夹上执行扫描——无论本地或远程条件下。 还可以持续监视主目录的任何外部更改，并在执行添加/删除文件时抛出警告。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>顧名思義，「磁碟用量分析器」是一個讓您可用於檢視並監視您的磁碟使用量與資料夾結構的圖形化實用工具。它可以使用環狀或樹狀圖來顯示資訊。</p>
+    <p>您可以掃描一個檔案系統、您的家目錄或是任何其它的資料夾 ─ 本機或是遠端。它也有一個選項可以持續監控任何在您家目錄的外部變更，並在有檔案加入或移除時警告使用者。</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image width="960" height="540">
+    https://alexpl.fedorapeople.org/AppData/mate-disk-usage-analyzer/screens/mate-disk-usage-analyzer_01.png
+   </image>
+    </screenshot>
+    <screenshot>
+      <image width="960" height="540">
+    https://alexpl.fedorapeople.org/AppData/mate-disk-usage-analyzer/screens/mate-disk-usage-analyzer_02.png
+   </image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://mate-desktop.org</url>
+  <updatecontact>mate-dev@ml.mate-desktop.org</updatecontact>
+  <project_group>MATE</project_group>
+</component>

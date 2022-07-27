@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="inputmethod">
+  <pkgname>ibus-engines.m17n</pkgname>
+  <launchable type="desktop-id">ibus-setup-m17n.desktop</launchable>
+  <id>m17n.xml</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>Ibus M17N</name>
+  <summary>M17N input engine for IBus</summary>
+  <description>
+    <p>
+      This multilingualization input method allows entering many
+      languages using the input methods from the m17n library.
+    </p>
+  </description>
+  <project_license>GPL-2</project_license>
+  <developer_name>Parag Nemade, Mike FABIAN</developer_name>
+  <update_contact>pnemade@redhat.com, mfabian@redhat.com</update_contact>
+  <url type="homepage">https://github.com/ibus/ibus-m17n</url>
+  <url type="bugtracker">https://github.com/ibus/ibus-m17n/issues</url>
+  <url type="help">https://github.com/ibus/ibus-m17n</url>
+  <releases>
+    <release version="1.4.9" date="2022-01-18" urgency="medium">
+      <description>
+        <p>This new stable release includes these changes:</p>
+      </description>
+      <url>github.com/ibus/ibus-m17n/releases/tag/1.4.9</url>
+      <issues>
+        <issue>
+          Hide status from the panel if status == title (by Daiki
+          Ueno, this patch has been applied to the Fedora packages for
+          a long time, take it upstream)
+        </issue>
+        <issue url="https://github.com/ibus/ibus-m17n/issues/39">
+          Free lang and name after engine_name is built
+        </issue>
+        <issue url="https://github.com/ibus/ibus-m17n/issues/39">
+          Just return from ibus_m17n_engine_callback with nullable m17n
+        </issue>
+        <issue url="https://github.com/ibus/ibus-m17n/issues/42">
+          Accept virtual engine names for CI
+        </issue>
+      </issues>
+    </release>
+    <release date="2021-10-19" version="1.4.8" urgency="medium">
+      <description>
+        <p>This new stable release includes these changes:</p>
+      </description>
+      <url>github.com/ibus/ibus-m17n/releases/tag/1.4.8</url>
+      <issues>
+        <issue url="https://github.com/ibus/ibus-m17n/pull/37">
+          Remove gnome-common requirement in autogen.sh (by Parag Nemade)
+        </issue>
+        <issue>
+          Translation update from Weblate for Sinhala
+        </issue>
+      </issues>
+    </release>
+    <release version="1.4.7" urgency="medium" date="2021-08-13">
+      <description>
+        <p>This new stable release includes these changes:</p>
+      </description>
+      <url>github.com/ibus/ibus-m17n/releases/tag/1.4.7</url>
+      <issues>
+        <issue url="https://github.com/ibus/ibus-m17n/issues/34">
+          Assign symbols to all the new inscript2 engines (and add
+          some other missing symbols)
+        </issue>
+        <issue url="https://github.com/ibus/ibus-m17n/issues/32">
+          Allow to use kbd engines (#32)
+        </issue>
+        <issue>
+          Add ibus-m17n-xkb-options.patch from Fedora
+        </issue>
+        <issue>
+          Add ibus-m17n-enable-ar-kbd.patch from Fedora
+        </issue>
+      </issues>
+    </release>
+    <release version="1.4.6" date="2021-07-15" urgency="medium">
+      <description>
+        <p>This new stable release includes these changes:</p>
+      </description>
+      <url>github.com/ibus/ibus-m17n/releases/tag/1.4.6</url>
+      <issues>
+        <issue url="https://bugzilla.redhat.com/show_bug.cgi?id=1982546">
+          Make inscript2 engines rank higher than inscript engines
+        </issue>
+      </issues>
+    </release>
+    <release date="2021-03-12" urgency="medium" version="1.4.5">
+      <description>
+        <p>This new stable release includes these changes:</p>
+        <ul>
+          <li>
+            Use ibus_engine_update_preedit_with_mode() *always* with
+            IBUS_ENGINE_PREEDIT_COMMIT mode
+
+            Even if the preedit *is* highlighted it is not natural to
+            discard the preedit when the focus moves to a different
+            window. Committing the preedit feels better.
+          </li>
+          <li>
+            Translation update from Weblate, bn new and 100% complete,
+            pt_BR now 100% complete.
+          </li>
+          <li>
+            Remove redundant target for desktop.in file.  It will be
+            done in desktop file generation since switched to
+            gettext-0.19.
+          </li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.4.4" date="2021-01-28" urgency="medium">
+      <description>
+        <p>This new stable release includes these changes:</p>
+        <ul>
+          <li>
+            Translation update from Weblate, zh_CN now 100% complete.
+          </li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" version="1.4.3" date="2020-06-20">
+      <description>
+        <p>This new stable release includes these changes:</p>
+        <ul>
+          <li>
+            New translation: es (Spanish) 100%
+          </li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-01-20" urgency="medium" version="1.4.2">
+      <description>
+        <p>This new stable release includes these changes:</p>
+        <ul>
+          <li>
+            New translations: tr (Turkish) 100%, uk (Ukrainian) 100%,
+            id (Indonesian) 100%, ja_JP (Japanese) 100%.
+          </li>
+          <li>
+            Translation updates: zh_CN, pt_BR
+          </li>
+        </ul>
+      </description>
+    </release>
+    <release date="2018-10-25" urgency="medium" version="1.4.1">
+      <description>
+        <p>This new stable release includes these changes:</p>
+        <ul>
+          <li>
+            Fix for google code issue 1781 in ibus-m17n for kk
+            (Correct symbols for kk input methods)
+          </li>
+          <li>
+            Add German translations
+          </li>
+          <li>
+            Add m17n.appdata.xml
+          </li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.4.0" urgency="medium" date="2018-10-24">
+      <description>
+        <p>This new stable release includes these changes:</p>
+        <ul>
+          <li>
+            Migrate from IBusConfig to GSettings. Resolves:
+            https://github.com/ibus/ibus-m17n/issues/3
+          </li>
+          <li>
+            Add an option to emulate US layout
+          </li>
+          <li>
+            Fix preedit background colour and underlining
+          </li>
+          <li>
+            Switch off preedit background and foreground correctly if
+            disabled in the setup tool
+          </li>
+          <li>
+            Other minor bug fixes.
+          </li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <translation type="gettext">ibus-m17n</translation>
+</component>

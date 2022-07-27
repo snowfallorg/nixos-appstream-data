@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>libsForQt5.plasma-sdk</pkgname>
+  <id>org.kde.plasmaengineexplorer</id>
+  <launchable type="desktop-id">org.kde.plasmaengineexplorer.desktop</launchable>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Plasma Engine Explorer</name>
+  <name lang="az">Plasma Mexanizmi Bələdçisi</name>
+  <name lang="bg">Преглед на енджини на Plasma</name>
+  <name lang="ca">Explorador de motors del Plasma</name>
+  <name lang="ca-valencia">Explorador de motors de Plasma</name>
+  <name lang="cs">Průzkumník zdrojů Plasma</name>
+  <name lang="da">Udforsk Plasma-motorer</name>
+  <name lang="de">Plasma-Datenquellen</name>
+  <name lang="el">Περιηγητής μηχανών Plasma</name>
+  <name lang="en-GB">Plasma Engine Explorer</name>
+  <name lang="es">Explorador de motores de Plasma</name>
+  <name lang="et">Plasma mootori uurija</name>
+  <name lang="eu">Plasma motorren esploratzailea</name>
+  <name lang="fi">Plasma Engine Explorer</name>
+  <name lang="fr">Explorateur de moteurs Plasma</name>
+  <name lang="gl">Explorador de motores de Plasma</name>
+  <name lang="hu">Plasma adatmodul-böngésző</name>
+  <name lang="ia">Explorator de Motor de Plasma (Plasma Engine Explorer)</name>
+  <name lang="id">Plasma Engine Explorer</name>
+  <name lang="it">Esploratore del motore di Plasma</name>
+  <name lang="ko">Plasma 엔진 탐색기</name>
+  <name lang="lt">Plasma modulių tyrinėtojas</name>
+  <name lang="nl">Plasma-engine-verkenner</name>
+  <name lang="nn">Utforskar for Plasma-motorar</name>
+  <name lang="pl">Przeglądarka silnika Plazmy</name>
+  <name lang="pt">Explorador de Motores do Plasma</name>
+  <name lang="pt-BR">Explorador de mecanismos do Plasma</name>
+  <name lang="ru">Диспетчер данных Plasma</name>
+  <name lang="sk">Prieskumník zdrojov Plasma</name>
+  <name lang="sl">Plasma Engine Explorer</name>
+  <name lang="sv">Gränssnittsutforskare för Plasma</name>
+  <name lang="tg">Роҳнамои низоми Плазма</name>
+  <name lang="tr">Plasma Motoru Gezgini</name>
+  <name lang="uk">Навігатор рушіїв Плазми</name>
+  <name lang="x-test">xxPlasma Engine Explorerxx</name>
+  <name lang="zh-CN">Plasma 引擎浏览器</name>
+  <name lang="zh-TW">Plasma 引擎瀏覽器</name>
+  <summary>Explorer for the data published by Plasma Data Engines</summary>
+  <summary lang="az">Plasma Məlumat Mexanizmləri tərəfindən yayımlanan məlumatlara baxış</summary>
+  <summary lang="bg">Преглед на данни, представени от Plasma енджини</summary>
+  <summary lang="ca">Explorador de les dades publicades pels motors de dades del Plasma</summary>
+  <summary lang="ca-valencia">Explorador de les dades publicades pels motors de dades de Plasma</summary>
+  <summary lang="da">Udforsk de data der offentliggøres af Plasma datamotorer</summary>
+  <summary lang="de">Anzeige von Daten, die von Plasma-Datenquellen veröffentlicht werden.</summary>
+  <summary lang="el">Περιηγητής για τα δεδομένα που δημοσιεύουν οι μηχανές δεδομένων Plasma</summary>
+  <summary lang="en-GB">Explorer for the data published by Plasma Data Engines</summary>
+  <summary lang="es">Explorador para los datos publicados por los motores de datos de Plasma</summary>
+  <summary lang="et">Plasma andmemootorite avaldatud andmete uurija</summary>
+  <summary lang="eu">Plasma datu-motorrek argitaratutako datuen esploratzailea</summary>
+  <summary lang="fi">Plasman tietomoottorien julkaisemien tietojen selain</summary>
+  <summary lang="fr">Explorer les données publiées par les moteurs de données Plasma</summary>
+  <summary lang="gl">Explorador dos datos publicados polos motores de datos de Plasma</summary>
+  <summary lang="hu">Adatkezelő a Plasma adatmodulok által szolgáltatott adatokhoz</summary>
+  <summary lang="ia">Explorator per le datos publicate per Plasma Data Engines  (Motores de Datos de Plasma)</summary>
+  <summary lang="id">Penjelajah data yang dipublikasikan oleh Plasma Data Engines</summary>
+  <summary lang="it">Esploratore dei dati pubblicati con i motori di dati di Plasma</summary>
+  <summary lang="ko">Plasma 데이터 엔진에서 게시한 데이터에 대한 탐색기</summary>
+  <summary lang="lt">Tyrinėtojas, skirtas Plasma duomenų modulių paskelbtiems duomenims</summary>
+  <summary lang="nl">Verkenner voor de gegevens gepubliceerd door Plasma Data Engines</summary>
+  <summary lang="nn">Utforsking av data publisert av Plasma-datamotorar</summary>
+  <summary lang="pl">Przeglądaj dane udostępniane przez silniki danych Plazmy</summary>
+  <summary lang="pt">Explorador dos dados publicados pelos Motores de Dados do Plasma</summary>
+  <summary lang="pt-BR">Explorador para os dados publicados pelo mecanismo de dados do Plasma</summary>
+  <summary lang="ru">Просмотр данных, опубликованных поставщиками данных Plasma</summary>
+  <summary lang="sk">Prehliadač pre dáta publikované cez Plasma Data Engines</summary>
+  <summary lang="sl">Raziskovalec podatkov, ki jih je objavil Plasma Data Engines</summary>
+  <summary lang="sv">Utforskare av data som publiceras av datagränssnitt i Plasma</summary>
+  <summary lang="tg">Роҳнамо барои иттилооти мунташир аз низомҳои иттилоотии Плазма</summary>
+  <summary lang="tr">Plasma Veri Motorları tarafından yayımlanan veri için gezgin</summary>
+  <summary lang="uk">Навігатор для даних, оприлюднених рушіями даних Плазми</summary>
+  <summary lang="x-test">xxExplorer for the data published by Plasma Data Enginesxx</summary>
+  <summary lang="zh-CN">Plasma 数据引擎发布的数据的浏览器</summary>
+  <summary lang="zh-TW">用來瀏覽 Plamsa 資料引擎發佈之資料的瀏覽器</summary>
+  <description>
+    <p>Plasma Engine Explorer is a graphical tool allowing developers to test Plasma DataEngines without writing a Plasma applet.</p>
+  </description>
+  <description lang="az">
+    <p>Plasmoidlərə baxış vasitəsi, tərtibatçılara Plasma əlavələrini yenidən  yazmadan onların test olunmasına imkan verən qrafik alətidir.</p>
+  </description>
+  <description lang="bg">
+    <p>Преглед на енджини на Plasma е графичен инструмент, който позволява на разработчиците да тестват Plasma енджини за данни, без да пишат Plasma аплет.</p>
+  </description>
+  <description lang="ca">
+    <p>L'explorador de motors del Plasma és una eina gràfica que permet als desenvolupadors provar els motors de dades del Plasma sense escriure una miniaplicació del Plasma.</p>
+  </description>
+  <description lang="ca-valencia">
+    <p>L'explorador de motors de Plasma és una eina gràfica que permet als desenvolupadors provar els motors de dades de Plasma sense escriure una miniaplicació de Plasma.</p>
+  </description>
+  <description lang="cs">
+    <p>Průzkumník zdrojů Plasma je grafický nástroj umožňující vývojářům testovat datové stroje Plasma bez psaní apletů.</p>
+  </description>
+  <description lang="da">
+    <p>Plasma Engine Explorer er et grafisk værktøj så udviklere kan teste Plasma datamotorer uden at skrive en Plasma-applet.</p>
+  </description>
+  <description lang="de">
+    <p>Dies ist eine grafische Benutzeroberfläche, mit der Entwickler Plasma-Datenquellen testen können, ohne ein Plasma-Miniprogramm zu schreiben.</p>
+  </description>
+  <description lang="el">
+    <p>Ο περιηγητής μηχανών Plasma είναι ένα γραφικό εργαλείο που επιτρέπει στους προγραμματιστές να δοκιμάζουν μηχανές δεδομένων Plasma χωρίς να χρειάζεται να γράψουν μια μικροεφαρμογή Plasma.</p>
+  </description>
+  <description lang="en-GB">
+    <p>Plasma Engine Explorer is a graphical tool allowing developers to test Plasma DataEngines without writing a Plasma applet.</p>
+  </description>
+  <description lang="es">
+    <p>El explorador de motores de Plasma es una herramienta gráfica que permite a los desarrolladores probar motores de datos de Plasma sin la necesidad de escribir una miniaplicación para Plasma.</p>
+  </description>
+  <description lang="et">
+    <p>Plasma mootori uurija on graafiline tööriist, mis võimaldab arendajatel katsetada Plasma andmemootoreid ilma Plasma apletti valmis kirjutamata.</p>
+  </description>
+  <description lang="eu">
+    <p>Plasma motorren esploratzailea tresna grafiko bat da, garatzaileei, Plasma aplikaziotxorik idatzi gabe, Plasma datu-motorrak probatzen uzten diena.</p>
+  </description>
+  <description lang="fi">
+    <p>Plasma Engine Explorer on graafinen työkalu, jolla kehittäjät voivat testata Plasman tietomoottoreita tarvitsematta kirjoittaa Plasma-sovelmaa.</p>
+  </description>
+  <description lang="fr">
+    <p>L'explorateur de moteurs Plasma est un outil graphique qui permet aux développeurs de tester les moteurs de données Plasma sans avoir à écrire une applet Plasma.</p>
+  </description>
+  <description lang="gl">
+    <p>O explorador de motores de Plasma é unha ferramenta gráfica que permite aos desenvolvedores probar os motores de datos de Plasma sen escribir un trebello de Plasma.</p>
+  </description>
+  <description lang="hu">
+    <p>A Plasma adatmodul-böngésző egy grafikus segédprogram, amely lehetővé teszi a fejlesztőknek a Plasma DataEngines tesztelését anélkül, hogy meg kellene írni hozzá egy Plasma kisalkalmazást.</p>
+  </description>
+  <description lang="ia">
+    <p>Plasma Engine Explorer (Explorator de motor de Plasma) es un instrumento graphic permettente a disveloppatores de testar Plasma Data Engines sin scriber un applet de Plasma.</p>
+  </description>
+  <description lang="id">
+    <p>Plasma Engine Explorer adalah sebuah alat grafik yang memungkinkan pengembang untuk menguji Plasma DataEngines tanpa harus menulis sebuah applet Plasma.</p>
+  </description>
+  <description lang="it">
+    <p>L'esploratore del motore di Plasma è uno strumento grafico che permette agli sviluppatori di provare i motori di dati di Plasma senza dover scrivere un'applet di Plasma.</p>
+  </description>
+  <description lang="ko">
+    <p>Plasma 엔진 탐색기는 개발자가 Plasma 애플릿을 작성하지 않고 Plasma 데이터 엔진을 테스트할 수 있도록 하는 그래픽 도구입니다.</p>
+  </description>
+  <description lang="lt">
+    <p>Plasma modulio tyrinėtojas yra grafinis įrankis, leidžiantis kūrėjams išbandyti Plasma duomenų modulius nerašant Plasma įskiepio.</p>
+  </description>
+  <description lang="nl">
+    <p>Plasma-engine-verkenner is een grafisch hulpmiddel die ontwikkelaars in staat stelt om Plasma DataEngines te testen zonder een Plasma-applet te schrijven.</p>
+  </description>
+  <description lang="nn">
+    <p>Utforskaren for Plasma-motorar er eit grafisk verktøy som lèt utviklarar testa datamotorar for Plasma utan å skriva eit eige Plasma-element.</p>
+  </description>
+  <description lang="pl">
+    <p>Przeglądarka silnika Plazmy jest narzędziem graficznym umożliwiającym programistom wypróbowywanie silników danych Plazmy bez pisania apletów Plazmy.</p>
+  </description>
+  <description lang="pt">
+    <p>O Explorador do Motor do Plasma é uma ferramenta gráfica que permite aos programadores testarem os motores de dados do Plasma sem criar uma 'applet' do Plasma.</p>
+  </description>
+  <description lang="pt-BR">
+    <p>O Explorador de mecanismos do Plasma é uma ferramenta gráfica que permite aos desenvolvedores testar o Plasma DataEngines sem escrever um miniaplicativo Plasma.</p>
+  </description>
+  <description lang="ru">
+    <p>Диспетчер данных Plasma — приложение с графическим интерфейсом, позволяющее разработчикам тестировать модули данных Plasma без написания соответствующего апплета.</p>
+  </description>
+  <description lang="sk">
+    <p>Plasma Engine Explorer je grafický nástroj umožnujúci vývojárom testovať Plasma DataEngines bez písania Plasma appletu.</p>
+  </description>
+  <description lang="sl">
+    <p>Plasma Engine Explorer je grafično orodje, ki razvijalcem omogoča testiranje Plasma DataEngines, ne da bi pisali Plazmin applet.</p>
+  </description>
+  <description lang="sv">
+    <p>Gränssnittsutforskare för Plasma är ett grafiskt verktyg som låter utvecklare testa Plasma datagränssnitt utan att skriva ett Plasma miniprogram.</p>
+  </description>
+  <description lang="tg">
+    <p>Роҳнамои низоми Плазма абзори графикиест, ки ба барномасозон барои санҷидани Plasma DataEngines бе навиштани зербарномаи Плазма имкон медиҳад.</p>
+  </description>
+  <description lang="tr">
+    <p>Plasma Motoru Gezgini, geliştiricilerin bir Plasma uygulamacığı yazmadan Plasma Veri Motorlarına göz atabilmeleri için geliştirilmiş grafik arabirimli bir araçtır.</p>
+  </description>
+  <description lang="uk">
+    <p>Навігатор рушіїв Плазми — це графічний інструмент, який надає розробникам можливість перевірити рушії Плазми без написання аплету Плазми.</p>
+  </description>
+  <description lang="x-test">
+    <p>xxPlasma Engine Explorer is a graphical tool allowing developers to test Plasma DataEngines without writing a Plasma applet.xx</p>
+  </description>
+  <description lang="zh-CN">
+    <p>Plasma 引擎浏览器是给开发者的图形工具，用于测试 Plasma 数据引擎而无需编写 Plasma 小部件。</p>
+  </description>
+  <description lang="zh-TW">
+    <p>Plasma 引擎瀏覽器是個圖形化工具，能讓開發者不用寫 Plasma 元件也能測試 Plasma DataEngines。</p>
+  </description>
+  <launchable type="desktop-id">org.kde.plasmaengineexplorer.desktop</launchable>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=Plasma%20SDK&amp;component=engineexplorer</url>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>plasmaengineexplorer</binary>
+  </provides>
+  <releases>
+    <release version="5.25.3" date="2022-07-12" />
+    <release date="2022-06-28" version="5.25.2" />
+    <release date="2022-06-21" version="5.25.1" />
+    <release version="5.25.0" date="2022-06-14" />
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://cdn.kde.org/screenshots/plasmaengineexplorer/plasmaengineexplorer.png</image>
+    </screenshot>
+  </screenshots>
+</component>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>qsynth</pkgname>
+  <icon type="cached" width="64" height="64">qsynth.png</icon>
+  <icon width="128" height="128" type="cached">qsynth.png</icon>
+  <id>org.rncbc.qsynth</id>
+  <metadata_license>FSFAP</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Qsynth</name>
+  <summary>A fluidsynth Qt GUI Interface</summary>
+  <description>
+    <p>Qsynth is a fluidsynth GUI front-end application, written in C++ around the
+  Qt framework, using Qt Designer. Eventually it may evolve into a softsynth
+  management application allowing the user to control and manage a variety of
+  command line softsynths.</p>
+  </description>
+  <launchable type="desktop-id">qsynth.desktop</launchable>
+  <provides>
+    <binary>qsynth</binary>
+  </provides>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://qsynth.sourceforge.io/image/qsynth-screenshot1.png</image>
+      <caption>The main window showing the application in action</caption>
+    </screenshot>
+  </screenshots>
+  <keywords>
+    <keyword>Audio</keyword>
+    <keyword>MIDI</keyword>
+    <keyword>ALSA</keyword>
+    <keyword>JACK</keyword>
+    <keyword>FluidSynth</keyword>
+    <keyword>SoundFont</keyword>
+    <keyword>Synthesizer</keyword>
+    <keyword>Sampler</keyword>
+    <keyword>SF2</keyword>
+    <keyword>Qt</keyword>
+  </keywords>
+  <url type="homepage">https://qsynth.sourceforge.io</url>
+  <project_group>rncbc.org</project_group>
+  <developer_name>rncbc aka. Rui Nuno Capela</developer_name>
+  <update_contact>rncbc@rncbc.org</update_contact>
+</component>

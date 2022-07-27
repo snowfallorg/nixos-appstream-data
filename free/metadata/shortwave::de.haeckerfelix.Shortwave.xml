@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <description>
+    <p>
+      Shortwave is an internet radio player that provides access to a station database with over 25,000 stations.
+    </p>
+    <p>Features:</p>
+    <ul>
+      <li>Create your own library where you can add your favorite stations</li>
+      <li>Easily search and discover new radio stations</li>
+      <li>Automatic recognition of songs, with the possibility to save them individually</li>
+      <li>Responsive application layout, compatible for small and large screens</li>
+      <li>Play audio on supported network devices (e.g. Google Chromecasts)</li>
+      <li>Seamless integration into the GNOME desktop environment</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>Shortwave és un reproductor de ràdio per Internet que proporciona accés a una base de dades amb més de 25.000 emissores.</p>
+    <p>Característiques:</p>
+    <ul>
+      <li>Crea la teva pròpia biblioteca on pots afegir les teves emissores preferides</li>
+      <li>Cerca fàcilment i descobreix emissores de ràdio noves</li>
+      <li>Reconeixement automàtic de les cançons, amb la possibilitat de desar-les individualment</li>
+      <li>Disposició d'aplicació responsiva, compatible amb pantalles grans i petites</li>
+      <li>Reprodueix àudio en dispositius de xarxa compatibles (p. ex. Google Chromecasts)</li>
+      <li>Integració a l'entorn d'escriptori GNOME</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>Shortwave je přehrávač internetových rádií, který poskytuje přístup k databázi s více než 25 tisíci stanicemi.</p>
+    <p>Vlastnosti:</p>
+    <ul>
+      <li>Vytvoření vlastní knihovny, kam si můžete přidat oblíbené stanice</li>
+      <li>Snadné vyhledávání a objevování nových rádiových stanic</li>
+      <li>Automatické rozpoznání skladeb s možností je jednotlivě uložit</li>
+      <li>Responzivní rozvržení aplikace kompatibilní s malými a velkými obrazovkami</li>
+      <li>Přehrávání zvuku na podporovaných síťových zařízeních (např. Google Chromecast)</li>
+      <li>Dokonale zapadne do uživatelského prostředí GNOME</li>
+    </ul>
+  </description>
+  <description lang="da">
+    <p>Shortwave er en internetradioafspiller som giver adgang til en database med over 25.000 stationer.</p>
+    <p>Funktioner:</p>
+    <ul>
+      <li>Opret dit eget bibliotek hvor du kan tilføje dine favoritstationer</li>
+      <li>Det er let at søge efter og opdage nye radiostationer</li>
+      <li>Automatisk genkendelse af sange med mulighed for at gemme dem enkeltvis</li>
+      <li>Programlayoutet tilpasser sig automatisk på både små og store skærme</li>
+      <li>Afspil lyd på understøttede netværksenheder (f.eks. Google Chromecasts)</li>
+      <li>Perfekt integration i GNOME-skrivebordsmiljøet</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>Shortwave ist eine Internet-Radiowiedergabe, die Zugang zu einer Senderdatenbank mit über 25.000 Sendern bietet.</p>
+    <p>Funktionen:</p>
+    <ul>
+      <li>Erstellen Sie Ihre eigene Bibliothek, in der Sie Ihre Lieblingssender hinzufügen</li>
+      <li>Einfaches Suchen und Entdecken neuer Radiosender</li>
+      <li>Automatische Erkennung von Titeln, mit der Möglichkeit, sie einzeln zu speichern</li>
+      <li>Dynamisches Anwendungslayout, kompatibel mit kleinen und großen Bildschirmen</li>
+      <li>Tonwiedergabe auf unterstützten Netzwerkgeräten (z.B. Google Chromecasts)</li>
+      <li>Nahtlose Integration in die GNOME-Arbeitsumgebung</li>
+    </ul>
+  </description>
+  <description lang="el">
+    <p>Χαρακτηριστικά:</p>
+    <ul>
+      <li>Δημιουργήστε τη δική σας βιβλιοθήκη όπου μπορείτε να προσθέσετε τους αγαπημένους σας σταθμούς</li>
+      <li>Εύκολη αναζήτηση και ανακάλυψη νέων ραδιοφωνικών σταθμών</li>
+      <li>Αναπαραγωγή ήχου σε υποστηριζόμενες συσκευές δικτύου (π.χ. Google Chromecasts)</li>
+      <li>Απρόσκοπτη ενσωμάτωση στο GNOME</li>
+    </ul>
+  </description>
+  <description lang="en_GB">
+    <p>Shortwave is an internet radio player that provides access to a station database with over 25,000 stations.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Create your own library where you can add your favourite stations</li>
+      <li>Easily search and discover new radio stations</li>
+      <li>Automatic recognition of songs, with the possibility to save them individually</li>
+      <li>Responsive application layout, compatible for small and large screens</li>
+      <li>Play audio on supported network devices (e.g. Google Chromecasts)</li>
+      <li>Seamless integration into the GNOME desktop environment</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>Shortwave es un reproductor de radio por Internet que proporciona acceso a una base de datos con más de 25.000 emisoras.</p>
+    <p>Características:</p>
+    <ul>
+      <li>Crear su propia biblioteca donde puede añadir sus emisoras favoritas</li>
+      <li>Buscar y descubrir nuevas emisoras de radio fácilmente</li>
+      <li>Reconocimiento automático de las canciones, con la posibilidad de guardarlas individualmente</li>
+      <li>Diseño adaptativo, compatible con pantallas grandes y pequeñas</li>
+      <li>Reproducir sonido en dispositivos de red soportados (Ej. Google Chromecast)</li>
+      <li>Integración sin fisuras con el entorno de escritorio GNOME</li>
+    </ul>
+  </description>
+  <description lang="eu">
+    <p>Shortwave interneteko irrati-estazioen erreproduzigailua ba, 25.000 estazio baino gehiago dituen datu-base baterako sarbidea ematen duena.</p>
+    <p>Eginbideak:</p>
+    <ul>
+      <li>Sortu zure liburutegi propioa zure gogoko estazioak gehitzeko</li>
+      <li>Bilatu eta aurkitu irrati-estazio berriak modu errazean</li>
+      <li>Ezagutu abestiak automatikoki, eta gorde haiek banaka.</li>
+      <li>Aplikazio-diseinu moldagarria, pantaila txiki zein handiekin bateragarria dena</li>
+      <li>Erreproduzitu audioa onartutako sare-gailuetan (adibidez Google Chromecast)</li>
+      <li>Josturatik gabeko integrazioa GNOME mahaigaineko ingurunearekin</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>Shortwave on internetradioasemien toistamiseen tarkoitettu sovellus, joka tarjoaa yli 25000 aseman tietokannan.</p>
+    <p>Ominaisuudet:</p>
+    <ul>
+      <li>Luo oma kirjasto, johon voit lisätä omat suosikkiasemasi</li>
+      <li>Etsi ja löydä vaivatta uusia radioasemia</li>
+      <li>Kappaleiden automaattinen tunnistaminen ja mahdollisuus tallentaa yksittäisiä kappaleita</li>
+      <li>Mukautuva sovelluksen asettelu, yhteensopiva pienien ja suurien näyttöjen kanssa</li>
+      <li>Toista ääntä tuetuilla verkkolaitteilla (esim. Google Chromecast)</li>
+      <li>Saumaton integraatio Gnome-työpöytäympäristöön</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>Shortwave est un lecteur de radios internet qui permet d’accéder à une base de données de plus de 25 000 stations.</p>
+    <p>Fonctionnalités :</p>
+    <ul>
+      <li>Créez votre propre bibliothèque où ajouter vos stations préférées</li>
+      <li>Cherchez et découvrez de nouvelles stations de radio</li>
+      <li>Reconnaissance automatique des chansons, avec possibilité de les enregistrer individuellement</li>
+      <li>Interface adaptative, compatible avec les petits et grands écrans</li>
+      <li>Diffusion audio sur les appareils réseau pris en charge (par exemple les Google Chromecasts)</li>
+      <li>Intégration transparente à l’environnement de bureau GNOME</li>
+    </ul>
+  </description>
+  <description lang="gl">
+    <p>Shortwave é un reprodutor de radio por internet que fornece acceso a unha base de datos con máis de 25.500 emisoras</p>
+    <p>Características:</p>
+    <ul>
+      <li>Cree a súa propia biblioteca onde engadir as súas emisoras favoritas</li>
+      <li>Busque e descubra facilmente novas emisoras de radio</li>
+      <li>Recoñecemento automático de cancións, coa posibilidade de gardalas automaticamente</li>
+      <li>Disposición de aplicación responsiva, compatíbel con pantallas pequenas e grandes</li>
+      <li>Reprodución de son en dispositivos de rede compatíbeis (p.ex. Google Chromecasts)</li>
+      <li>Integración sen problemas no ambiente de escritorio de GNOME</li>
+    </ul>
+  </description>
+  <description lang="he">
+    <p>‏Shortwave הוא נגן רדיו אינטרנט המספק גישה למסד נתונים עם למעלה מ־25,000 תחנות.</p>
+    <p>תכונות:</p>
+    <ul>
+      <li>יצירת ספרייה משלך אליה ניתן להוסיף את התחנות המועדפות עליך</li>
+      <li>חיפוש קל לגילוי תחנות רדיו חדשות</li>
+      <li>זיהוי אוטומטי של שירים, עם אפשרות לשמור אותם בנפרד</li>
+      <li>פריסת היישום משתנה ומגיבה, מתאימה למסכים קטנים וגדולים כאחד</li>
+      <li>ניגון שמע בהתקני רשת נתמכים (למשל Google Chromecasts)</li>
+      <li>שילוב חלק בסביבת שולחן העבודה GNOME</li>
+    </ul>
+  </description>
+  <description lang="hr">
+    <p>Shortwave je internetski radio reproduktor koji omogućuje pristup bazi podataka stanica s preko 25,000 stanica.</p>
+    <p>Značajke:</p>
+    <ul>
+      <li>Stvorite svoju vlastitu radioteku gdje možete dodati svoje omiljene stanice</li>
+      <li>Jednostavno pretražite i otkrijte nove radio stanice</li>
+      <li>Automatsko prepoznavanje pjesama, sa mogućnošću njihova pojedinačna spremanja</li>
+      <li>Odgovarajući izgled aplikacije, kompatibilan za male i velike zaslone</li>
+      <li>Reproduciraj zvuk na podržanim mrežnim uređajima (npr. Google Chromecast)</li>
+      <li>Besprijekorna integracija u GNOME radno okruženje</li>
+    </ul>
+  </description>
+  <description lang="hu">
+    <p>A Rövidhullám egy internetesrádió-lejátszó, amely hozzáférést biztosít egy több mint 25 000 állomással rendelkező állomás-adatbázishoz.</p>
+    <p>Funkciók:</p>
+    <ul>
+      <li>Saját könyvtár létrehozása, ahol hozzáadhatja a kedvenc állomásait</li>
+      <li>Új rádióállomások egyszerű keresése és fedezése</li>
+      <li>A dalok automatikus felismerése azzal a lehetőséggel, hogy külön-külön elmentheti őket</li>
+      <li>Alkalmazkodó alkalmazáselrendezés, kis és nagy képernyők támogatása</li>
+      <li>Hang lejátszása a támogatott hálózati eszközökön (például Google Chromecasts)</li>
+      <li>Zökkenőmentes integráció a GNOME asztali környezetbe</li>
+    </ul>
+  </description>
+  <description lang="id">
+    <p>Shortwave adalah pemutar radio internet yang menyediakan akses ke basis data stasiun dengan lebih dari 25.000 stasiun.</p>
+    <p>Fitur:</p>
+    <ul>
+      <li>Buat perpustakaan Anda sendiri di mana Anda dapat menambahkan stasiun favorit Anda</li>
+      <li>Mudah mencari dan menemukan stasiun radio baru</li>
+      <li>Pengenalan otomatis lagu, dengan kemungkinan untuk menyimpannya secara individual</li>
+      <li>Tata letak aplikasi responsif, kompatibel untuk layar kecil dan besar</li>
+      <li>Memutar audio pada perangkat jaringan yang didukung (mis. Google Chromecasts)</li>
+      <li>Integrasi mulus ke dalam lingkungan destop GNOME</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>Shortwave è un riproduttore di radio su Internet che fornisce l'accesso a un database con oltre 25.000 stazioni.</p>
+    <p>Funzionalità:</p>
+    <ul>
+      <li>Creare una propria raccolta dove poter aggiungere le stazioni preferite</li>
+      <li>Cercare e scoprire facilmente nuove stazioni radio</li>
+      <li>Riconoscere automaticamente i brani con la possibilità di salvarli individualmente</li>
+      <li>Una disposizione reattiva dell'applicazione, compatibile con piccoli e grandi schermi</li>
+      <li>Riprodurre l'audio su dispositivi di rete supportati (ad esempio Google Chromecast)</li>
+      <li>Una perfetta integrazione all'interno dell'ambiente desktop GNOME</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>Shortwave is een internetradiospeler die toegang geeft tot een database van meer dan 25.000 radiostations.</p>
+    <p>Functies:</p>
+    <ul>
+      <li>Maak uw eigen collectie aan en voeg uw favoriete radiostations eraan toe</li>
+      <li>Zoek en ontdek eenvoudig nieuwe radiostations</li>
+      <li>Automatische herkenning van nummers, met de mogelijkheid om ze individueel op te slaan</li>
+      <li>Responsieve indeling, geschikt voor zowel kleine als grote schermen</li>
+      <li>Audio afspelen op ondersteunde netwerkapparaten (zoals Google Chromecasts)</li>
+      <li>Naadloze integratie in de Gnome-bureaubladomgeving</li>
+    </ul>
+  </description>
+  <description lang="oc">
+    <p>Foncionalitats :</p>
+  </description>
+  <description lang="pl">
+    <p>Shortwave to odtwarzacz radia internetowego zapewniający dostęp do bazy ponad 25 000 stacji.</p>
+    <p>Funkcje:</p>
+    <ul>
+      <li>Tworzenie własnej kolekcji, do której można dodawać ulubione stacje</li>
+      <li>Łatwe wyszukiwanie i odkrywanie nowych stacji radiowych</li>
+      <li>Automatyczne rozpoznawanie utworów z możliwością ich zapisywania</li>
+      <li>Interfejs zgodny z małymi i wielkimi ekranami</li>
+      <li>Odtwarzanie dźwięku na obsługiwanych urządzeniach sieciowych (np. Google Chromecast)</li>
+      <li>Integracja ze środowiskiem GNOME</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>O Shortwave é um reprodutor de rádio por Internet que fornece acesso a uma base de dados de mais de 25 000 estações.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Criar sua própria coleção onde pode adicionar suas estações favoritas</li>
+      <li>Procurar facilmente e descobrir novas estações de rádio</li>
+      <li>Reconhecer faixas automaticamente, com a possibilidade de guardá-las individualmente</li>
+      <li>Modelo de aplicação responsivo, compatível com ecrãs pequenos ou grandes</li>
+      <li>Reproduz som em dispositivos de rede com suporte (ex.: Google Chromecasts)</li>
+      <li>Integração transparente com o ambiente de trabalho GNOME</li>
+    </ul>
+  </description>
+  <description lang="pt_BR">
+    <p>Shortwave é um reprodutor de rádio da Internet que fornece acesso a um banco de dados de estações com mais de 25.000 estações.</p>
+    <p>Recursos:</p>
+    <ul>
+      <li>Crie sua própria biblioteca à qual você pode adicionar suas estações favoritas</li>
+      <li>Pesquise e descubra facilmente novas estações de rádio</li>
+      <li>Reconhecimento automático de músicas, com a possibilidade de salvá-las individualmente</li>
+      <li>Layout de aplicativo responsivo, compatível com telas pequenas e grandes</li>
+      <li>Reprodução áudio em dispositivos de rede compatíveis (por exemplo, Google Chromecasts)</li>
+      <li>Integração perfeita no ambiente GNOME</li>
+    </ul>
+  </description>
+  <description lang="ro">
+    <p>Shortwave este un player de radio prin internet ce oferă acces la o bază de date cu peste 25.000 de stații radio.</p>
+    <p>Funcționalități:</p>
+    <ul>
+      <li>Creați-vă propria bibliotecă unde puteți adăuga stațiile favorite</li>
+      <li>Căutați și descoperiți stații noi radio cu ușurință</li>
+      <li>Recunoașterea automată a pieselor, cu posibilitatea de a le salva individual</li>
+      <li>Aspect de aplicație responsiv, compatibil cu ecrane mici și mari</li>
+      <li>Redă audio pe dispozitive de rețea suportate (de ex. Google Chromecasturi)</li>
+      <li>Integrare unitară în mediul desktop GNOME</li>
+    </ul>
+  </description>
+  <description lang="ru">
+    <p>Коротковолновое Интернет-Радио - это интернет-радиоплеер, который предоставляет доступ к базе данных станций, насчитывающей более 25 000 станций.</p>
+    <p>Возможности:</p>
+    <ul>
+      <li>Создайте собственную библиотеку, в которую можно добавлять любимые станции</li>
+      <li>Легкий поиск и открытие новых радиостанций</li>
+      <li>Автоматическое распознавание песен с возможностью их индивидуального сохранения</li>
+      <li>Отзывчивый интерфейс приложения, совместимый с маленькими и большими экранами</li>
+      <li>Воспроизведение аудио на поддерживаемых сетевых устройствах (например, Google Chromecasts)</li>
+      <li>Бесшовная интеграция в среду рабочего стола GNOME</li>
+    </ul>
+  </description>
+  <description lang="sk">
+    <p>Shortwave je prehrávač internetových rádií, ktorý poskytuje prístup k databáze s viac ako 25 000 stanicami.</p>
+    <p>Funkcie:</p>
+    <ul>
+      <li>Vytvorte svoju vlastnú knižnicu, do ktorej si môžete pridať obľúbené stanice</li>
+      <li>Jednoducho vyhľadávajte a objavujte nové rádiové stanice</li>
+      <li>Automatické rozpoznávanie skladieb s možnosťou ich jednotlivého uloženia</li>
+      <li>Dobre reagujúce rozloženie aplikácie, kompatibilné s malými aj veľkými obrazovkami</li>
+      <li>Prehrávajte zvuk na podporovaných sieťových zariadeniach (napr. Google Chromecast)</li>
+      <li>Hladká integrácia do pracovného prostredia GNOME</li>
+    </ul>
+  </description>
+  <description lang="sl">
+    <p>Program Shortwave je internetni radijski predvajalnik, ki omogoča dostop do podatkovne zbirke več kot 25 000 postaj.</p>
+    <p>Zmožnosti:</p>
+    <ul>
+      <li>Ustvarite svojo zbirko, v katero lahko dodate vse priljubljene postaje</li>
+      <li>Enostavno iskanje in odkrivanje novih radijskih postaj</li>
+      <li>Samodejno prepoznavanje skladb z možnostjo posamičnega shranjevanja</li>
+      <li>Odzivno prilagajanje programa je skladno z velikimi in majhnimi zasloni</li>
+      <li>Predvajanje glasbe na podprtih napravah (na primer Google Chromecast)</li>
+      <li>Popolna povezava programa z namiznim okoljem GNOME</li>
+    </ul>
+  </description>
+  <description lang="sr">
+    <p>Кратки талас је пуштач интернет радиа који пружа приступ бази радио станица са више од 25.000 станица.</p>
+    <p>Могућности:</p>
+    <ul>
+      <li>Направите сопствену библиотеку у коју можете додати ваше омиљене станице</li>
+      <li>Једноставна претрага и откривање нових радио станица</li>
+      <li>Самостално препознавање песама, са могућношћу чувања појединачних песама</li>
+      <li>Изглед програма прилагодљив величини екрана, усклађен са малим и великим екранима</li>
+      <li>Пуштање звука на подржаним мрежним уређајима (нпр.: Гугл Хромкастови)</li>
+      <li>Ненаметљива усклађеност у Гномово радно окружење</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <p>Shortwave är en internetradiospelare som ger tillgång till en stationsdatabas med över 25000 stationer.</p>
+    <p>Funktioner:</p>
+    <ul>
+      <li>Skapa ditt eget bibliotek där du kan lägga till dina favoritstationer</li>
+      <li>Sök och upptäck enkelt nya radiostationer</li>
+      <li>Automatisk igenkänning av låtar, med möjligheten att spara dem individuellt</li>
+      <li>Kvickt reagerande programlayout, kompatibel med små och stora skärmar</li>
+      <li>Spela ljud på nätverksenheter som stöds (t.ex. Google Chromecast)</li>
+      <li>Sömlös integration med skrivbordsmiljön GNOME</li>
+    </ul>
+  </description>
+  <description lang="tr">
+    <p>Kısa Dalga, 25.000’i aşkın istasyon barındıran veri tabanına erişmenizi sağlayan internet radyo oynatıcısıdır.</p>
+    <p>Özellikler:</p>
+    <ul>
+      <li>Beğendiğiniz istasyonları ekleyerek kendi kitaplığınızı oluşturun</li>
+      <li>Yeni radyo istasyonlarını kolayca arayın ve keşfedin</li>
+      <li>Şarkıları kendiliğinden tanıma, ayrı ayrı kaydetme özelliği</li>
+      <li>Küçük ve büyük ekranlarla uyumlu, duyarlı uygulama düzeni</li>
+      <li>Desteklenen ağ aygıtlarında ses çalma (ör. Google Chromecast)</li>
+      <li>GNOME masaüstü ortamı ile kusursuz tümleşim</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>«Коротка хвиля» — програвач інтернет-радіостанцій, який надає доступ до бази з понад 25000 станцій.</p>
+    <p>Можливості:</p>
+    <ul>
+      <li>Створіть власну бібліотеку, до якої ви зможете додавати улюблені станції</li>
+      <li>Простий пошук і виявлення нових радіостанцій</li>
+      <li>Автоматичне виявлення пісень із можливістю їхнього збереження окремо</li>
+      <li>Якісне компонування вікна програми, яке сумісне із малими і великими екранами</li>
+      <li>Відтворення звукових даних на підтримуваних пристроях у мережі (наприклад, Google Chromecast)</li>
+      <li>Безшовна інтеграція до стільничного середовища GNOME</li>
+    </ul>
+  </description>
+  <description lang="vi">
+    <p>Sóng ngắn là một phần mềm nghe radio phát qua mạng internet cái mà có khả năng truy cập vào cơ sở dữ liệu đài phát thanh với hơn 25.000 đài.</p>
+    <p>Các tính năng:</p>
+    <ul>
+      <li>Tạo thư viện của riêng bạn, nơi bạn có thể thêm các đài yêu thích của mình</li>
+      <li>Dễ dàng tìm kiếm và khám phá các đài phát thanh mới</li>
+      <li>Tự động nhận dạng các bài hát, với khả năng lưu chúng riêng lẻ</li>
+      <li>Bố cục ứng dụng thích ứng, tương thích với cả màn hình nhỏ và lớn</li>
+      <li>Phát âm thanh trên các thiết bị mạng được hỗ trợ (ví dụ: Google Chromecasts)</li>
+      <li>Tích hợp liên thông vào môi trường máy tính để bàn GNOME</li>
+    </ul>
+  </description>
+  <description lang="zh_CN">
+    <p>短波是个互联网广播播放器，提供具有 25,000 多个电台的电台数据库。</p>
+    <p>特性：</p>
+    <ul>
+      <li>创建您自己的媒体库，可以在其中添加最喜欢的电台</li>
+      <li>轻松搜索并发现新电台</li>
+      <li>自动识别歌曲，并可以将其分别保存</li>
+      <li>响应式应用程序布局，兼容小型屏幕和大型屏幕</li>
+      <li>在受支持的网络设备（例如 Google Chromecasts）上播放音频</li>
+      <li>与 GNOME 桌面环境无缝集成</li>
+    </ul>
+  </description>
+  <pkgname>shortwave</pkgname>
+  <icon type="cached" width="64" height="64">de.haeckerfelix.Shortwave.png</icon>
+  <icon width="128" height="128" type="cached">de.haeckerfelix.Shortwave.png</icon>
+  <id>de.haeckerfelix.Shortwave</id>
+  <name>Shortwave</name>
+  <name lang="zh_CN">短波</name>
+  <name lang="vi">Sóng ngắn</name>
+  <name lang="uk">Коротка хвиля</name>
+  <name lang="tr">Kısa Dalga</name>
+  <name lang="sv">Shortwave</name>
+  <name lang="sr">Кратки талас</name>
+  <name lang="sl">Shortwave</name>
+  <name lang="sk">Shortwave</name>
+  <name lang="ru">Коротковолновое Интернет-Радио</name>
+  <name lang="ro">Shortwave</name>
+  <name lang="pt_BR">Shortwave</name>
+  <name lang="pt">Shortwave</name>
+  <name lang="pl">Shortwave</name>
+  <name lang="oc">Shortwave</name>
+  <name lang="nl">Shortwave</name>
+  <name lang="it">Shortwave</name>
+  <name lang="id">Shortwave</name>
+  <name lang="hu">Rövidhullám</name>
+  <name lang="hr">Shortwave</name>
+  <name lang="he">Shortwave</name>
+  <name lang="gl">Shortwave</name>
+  <name lang="fr">Shortwave</name>
+  <name lang="fi">Shortwave</name>
+  <name lang="eu">Shortwave</name>
+  <name lang="es">Shortwave</name>
+  <name lang="en_GB">Shortwave</name>
+  <name lang="de">Shortwave</name>
+  <name lang="da">Shortwave</name>
+  <name lang="cs">Shortwave</name>
+  <name lang="ca">Shortwave</name>
+  <summary>Listen to internet radio</summary>
+  <summary lang="zh_CN">收听互联网广播</summary>
+  <summary lang="vi">Nghe đài phát qua mạng internet</summary>
+  <summary lang="uk">Прослуховування інтернет-радіо</summary>
+  <summary lang="tr">İnternet radyolarını dinle</summary>
+  <summary lang="sv">Lyssna på internetradio</summary>
+  <summary lang="sr">Слушајте радио преко Интернета</summary>
+  <summary lang="sl">Poslušanje spletnih radijskih postaj</summary>
+  <summary lang="sk">Počúvajte internetové rádiá</summary>
+  <summary lang="ru">Слушайте интернет-радио</summary>
+  <summary lang="ro">Ascultați la stația de radio prin internet</summary>
+  <summary lang="pt_BR">Ouça a rádios da Internet</summary>
+  <summary lang="pt">Ouça rádio na Internet</summary>
+  <summary lang="pl">Słuchanie radia internetowego</summary>
+  <summary lang="oc">Escotar la ràdio Internet</summary>
+  <summary lang="nl">Beluister internetradio</summary>
+  <summary lang="it">Ascolta la radio su Internet</summary>
+  <summary lang="id">Dengarkan radio internet</summary>
+  <summary lang="hu">Internetes rádió hallgatása</summary>
+  <summary lang="hr">Slušajte internetski radio</summary>
+  <summary lang="he">האזנה לתחנת רדיו</summary>
+  <summary lang="gl">Escoitar radio por internet</summary>
+  <summary lang="fr">Écouter une radio internet</summary>
+  <summary lang="fi">Kuuntele internetradiota</summary>
+  <summary lang="eu">Entzun interneteko irrratiak</summary>
+  <summary lang="es">Escuchar la radio por Internet</summary>
+  <summary lang="en_GB">Listen to internet radio</summary>
+  <summary lang="el">Ακρόαση ιντερνετικού ραδιοφώνου</summary>
+  <summary lang="de">Internet-Radio hören</summary>
+  <summary lang="da">Lyt til internetradio</summary>
+  <summary lang="cs">Poslouchejte internetové rádio</summary>
+  <summary lang="ca">Escolta la ràdio per internet</summary>
+  <translation type="gettext">shortwave</translation>
+  <developer_name>Felix Häcker</developer_name>
+  <developer_name lang="zh_CN">Felix Häcker</developer_name>
+  <developer_name lang="vi">Felix Häcker</developer_name>
+  <developer_name lang="uk">Felix Häcker</developer_name>
+  <developer_name lang="tr">Felix Häcker</developer_name>
+  <developer_name lang="sv">Felix Häcker</developer_name>
+  <developer_name lang="sr">Felix Häcker</developer_name>
+  <developer_name lang="sl">Felix Häcker</developer_name>
+  <developer_name lang="sk">Felix Häcker</developer_name>
+  <developer_name lang="ru">Феликс Хеккер (Felix Häcker)</developer_name>
+  <developer_name lang="ro">Felix Häcker</developer_name>
+  <developer_name lang="pt_BR">Felix Häcker</developer_name>
+  <developer_name lang="pt">Felix Häcker</developer_name>
+  <developer_name lang="pl">Felix Häcker</developer_name>
+  <developer_name lang="nl">Felix Häcker</developer_name>
+  <developer_name lang="it">Felix Häcker</developer_name>
+  <developer_name lang="id">Felix Häcker</developer_name>
+  <developer_name lang="hu">Felix Häcker</developer_name>
+  <developer_name lang="hr">Felix Häcker</developer_name>
+  <developer_name lang="he">Felix Häcker</developer_name>
+  <developer_name lang="gl">Felix Häcker</developer_name>
+  <developer_name lang="fr">Felix Häcker</developer_name>
+  <developer_name lang="fi">Felix Häcker</developer_name>
+  <developer_name lang="eu">Felix Häcker</developer_name>
+  <developer_name lang="es">Felix Häcker</developer_name>
+  <developer_name lang="en_GB">Felix Häcker</developer_name>
+  <developer_name lang="el">Felix Häcker</developer_name>
+  <developer_name lang="de">Felix Häcker</developer_name>
+  <developer_name lang="da">Felix Häcker</developer_name>
+  <developer_name lang="cs">Felix Häcker</developer_name>
+  <developer_name lang="ca">Felix Häcker</developer_name>
+  <update_contact>haeckerfelix@gnome.org</update_contact>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <launchable type="desktop-id">de.haeckerfelix.Shortwave.desktop</launchable>
+  <content_rating type="oars-1.1" />
+  <screenshots>
+    <screenshot type="default" width="772" height="1072">
+      <image>https://gitlab.gnome.org/World/Shortwave/raw/master/data/screenshots/1.png</image>
+    </screenshot>
+    <screenshot width="772" height="1072">
+      <image>https://gitlab.gnome.org/World/Shortwave/raw/master/data/screenshots/2.png</image>
+    </screenshot>
+    <screenshot width="772" height="1072">
+      <image>https://gitlab.gnome.org/World/Shortwave/raw/master/data/screenshots/3.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://gitlab.gnome.org/World/Shortwave</url>
+  <url type="bugtracker">https://gitlab.gnome.org/World/Shortwave/issues</url>
+  <url type="donation">https://de.liberapay.com/haecker-felix</url>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>Notifications</kudo>
+  </kudos>
+  <recommends>
+    <control>keyboard</control>
+    <control>pointing</control>
+    <control>touch</control>
+  </recommends>
+  <requires>
+    <display_length compare="ge">360</display_length>
+  </requires>
+  <releases>
+    <release date="2022-04-23" version="3.0.0">
+      <description>
+        <p>
+          Version 3.0.0 is a stable release, with the following major
+          improvements since 2.0.1:
+        </p>
+        <ul>
+          <li>Updated user interface that uses the new Adwaita design, with many improvements.</li>
+          <li>Support for the new GNOME 42 dark mode.</li>
+          <li>New option to add private stations to the library, which should not (or cannot) be available on radio-browser.info (e.g. local network or paid streams).</li>
+          <li>Display station bitrate information, which can also be used as a sorting option.</li>
+          <li>Save station data to disk so that it is still available when a station gets removed from the online database.</li>
+          <li>New button on the search page that allows to sort the search results.</li>
+          <li>Overhauled station dialog, with more clearly displayed information.</li>
+          <li>Update desktop notification on song change instead of generating a new separate notification for each song.</li>
+          <li>Shortwave can now be used normally, even if radio-browser.info is offline / unavailable.</li>
+        </ul>
+        <p>
+          Besides these improvements, this version also includes many changes
+          under the hood changes, so many crashes and other bugs have been
+          fixed. It also contains updated translations for 31 different
+          languages.
+        </p>
+      </description>
+    </release>
+    <release version="2.0.1" date="2021-04-23">
+      <description>
+        <p>
+          This version contains minor improvements and bug fixes.
+        </p>
+        <ul>
+          <li>Improve buffering to avoid audio issues for streams with a high bitrate.</li>
+          <li>Fix issue that no connection could be established when a VPN connection was active.</li>
+          <li>Automatically select search entry when the search view gets activated.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.0.0" date="2021-03-10">
+      <description>
+        <p>
+          Version 2.0.0 is a stable release, with the following major
+          improvements since 1.1.0:
+        </p>
+        <ul>
+          <li>Get notified about new songs via desktop notifications.</li>
+          <li>New mini player window mode. Control important features with a super compact window widget.</li>
+          <li>Redesigned station information dialog window. Added ability to copy the stream url.</li>
+          <li>Improved keyboard navigation of the user interface.</li>
+          <li>Inhibit sleep/hibernate mode during audio playback.</li>
+        </ul>
+        <p>
+          Besides these improvements, this version contains many under the hood
+          changes. The complete user interface has been updated from GTK3 to
+          GTK4. Many app components have been modernised or completely
+          rewritten. As a result, many crashes or other bugs have been fixed.
+        </p>
+        <p>
+          This version also contains updated translations for 27 different
+          languages.
+        </p>
+      </description>
+    </release>
+    <release date="2020-06-07" version="1.1.1">
+      <description>
+        <p>This version fixes a bug that caused some users not to be able to record songs.</p>
+        <p>This release also updates translations in several languages.</p>
+        <p>
+          This might be the last release with the feature to import Gradio
+          databases. The needed API server will be deactivated / no longer
+          available in August 2020.
+        </p>
+      </description>
+    </release>
+    <release date="2020-06-01" version="1.1.0">
+      <description>
+        <p>
+          Version 1.1.0 is a stable release, with the following major
+          improvements since 1.0.1:
+        </p>
+        <ul>
+          <li>Add CTRL + spacebar as shortcut to start/stop audio playback.</li>
+          <li>Add stream buffering to prevent playback stuttering.</li>
+          <li>Add featured carousel to discover page.</li>
+          <li>Add support for non pulseaudio systems / environments.</li>
+          <li>Add support for additional mouse buttons to switch between views.</li>
+          <li>Improve stability of audio/recording backend.</li>
+          <li>Fixed issue that the volume didn't get calculated correctly (linear/cubic).</li>
+          <li>Fixed issue that broken stations are getting displayed in search results.</li>
+          <li>Fixed issue with random scrolling in search page.</li>
+          <li>Fixed issues which prevented to import Gradio databases.</li>
+        </ul>
+        <p>This release also updates translations in several languages.</p>
+        <p>
+          This might be the last release with the feature to import Gradio
+          databases. The needed API server will be deactivated / no longer
+          available in August 2020.
+        </p>
+      </description>
+    </release>
+    <release date="2020-03-15" version="1.0.1">
+      <description>
+        <p>Fixes a bug that no songs can be saved.</p>
+        <p>Add Finnish translation.</p>
+      </description>
+    </release>
+    <release date="2020-03-14" version="1.0.0">
+      <description>
+        <p>First stable release.</p>
+      </description>
+    </release>
+    <release date="2020-03-08" version="0.0.3">
+      <description>
+        <p>Third beta release.</p>
+      </description>
+    </release>
+    <release date="2020-02-17" version="0.0.2">
+      <description>
+        <p>Second beta release.</p>
+      </description>
+    </release>
+    <release version="0.0.1" date="2019-11-09">
+      <description>
+        <p>First beta release.</p>
+      </description>
+    </release>
+  </releases>
+  <custom>
+    <value key="Purism::form_factor">workstation</value>
+    <value key="Purism::form_factor">mobile</value>
+  </custom>
+</component>

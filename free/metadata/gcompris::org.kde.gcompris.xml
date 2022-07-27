@@ -1,0 +1,1258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>GCompris is a high quality educational software suite, including a large number of activities for children aged 2 to 10.</p>
+    <p>Some of the activities are game orientated, but nonetheless
+    still educational.</p>
+    <p>Below you can find a list of categories with some of the
+    activities available in that category.</p>
+    <ul>
+      <li>computer discovery: keyboard, mouse, different mouse gestures, ...</li>
+      <li>arithmetic: table memory, enumeration, mirror image, balance
+    the scale, change giving, ...</li>
+      <li>science: the canal lock, color mixing, gravity concept, ...</li>
+      <li>games: memory, connect 4, tic tac toe, sudoku, hanoi tower, ...</li>
+      <li>reading: reading practice, ...</li>
+      <li>other: learn to tell time, the braille system, maze, music
+    instruments, ...</li>
+    </ul>
+    <p>Currently GCompris offers in excess of 100 activities and more
+    are being developed. GCompris is free software, that means that
+    you can adapt it to your own needs, improve it and, most
+    importantly, share it with children everywhere.</p>
+  </description>
+  <description lang="ar">
+    <p>فهمت هو طقم برمجيّات تعليميّة عالية الجودة يضمّ مختلف الأنشطة للأطفال من سنتين إلى ١٠ سنوات.</p>
+    <p>بعض الأنشطة هدفها الترفيه، ولكنّها -مع ذلك- تعليميّة.</p>
+    <p>يمكنك أن تجد أدناه قائمة بالفئات وبعض الأنشطة الموجودة في كل فئة.</p>
+    <ul>
+      <li>استكشاف الحاسوب: لوحة المفاتيح والفأرة ومختلف إيماءات الفأرة وغيرها.</li>
+      <li>الحساب: جدول الضرب والعدّ وصورة المرآة وموازنة كفّتا الميزان وإعطاء الباقي وغيرها.</li>
+      <li>العلوم: قفل القناة ومزج الألوان ومفهوم الجاذبيّة وغيرها.</li>
+      <li>الألعاب: الذاكرة و«وصّل ٤» و"إكس-أُو" و«سودوكو»، وبرج هانوي وغيرها.</li>
+      <li>القراءة: ممارسة القراءة وغيرها.</li>
+      <li>أخرى: تعلّم قراءة الوقت ونظام «بريل» وألغاز متاهات والآلات الموسيقيّة وغيرها.</li>
+    </ul>
+    <p>في «فهمت» حاليًا أكثر من ١٠٠ نشاط وثمّة غيرها يجري تطويرها. «فهمت» برمجيّة حرّة، هذا يعني أنك تستطيع تطويعها حسب احتياجك، وكذلك تطويرها، والأهم من ذلك هو مشاركتها مع الأطفال في كل مكان.</p>
+  </description>
+  <description lang="az">
+    <p>GCompris 2 yaşından 10 yaşınadək uşaqlar üçün çoxlu sayda çalşmalardan ibarət tədris proqramı paketidir.</p>
+    <p>Bəzi çalışmalar oyun şəkilində yaradılmışdır, bununla belə onlar tədris xarakteri daşıyır.</p>
+    <p>Aşağıda, bu kateqoriyada mövcud olan bəzi çalışmaların kateqoriyalarının siyahısını tapa bilərsiniz.</p>
+    <ul>
+      <li>kompyuter ilə tanışlıq: klaviatura, siçan, müxtəlif siçan jestləri, ...</li>
+      <li>hesab: cədvəl yaddaşı, sadalama, əks olunma, tarazlıq, verilmişlərin dəyişdirilməsi, ...</li>
+      <li>elm: kanal kilidi, rəng qarışımı, cazibə anlayışı, ...</li>
+      <li>oyunlar: yaddaş, 4 qoşulma, "X×O" oyunu, sudoku, Hanoy qülləsi, ...</li>
+      <li>oxu: oxu çalışması, ...</li>
+      <li>digər: saatdakı vaxtı demək, Brayla əlifbası, labirint, musiqi alətləri, ...</li>
+    </ul>
+    <p>Hazırda GCompris 100-dən çox çalışma təklif edir və daha çox çalışmalar tərtib olunma mərhələsindədir. GCompris pulsuz proqramdır, yəni siz onu öz ehtiyaclarınıza uyğunlaşdıra, təkmilləşdirə və ən əsası onu hər yerdə uşaqlarla paylaşa bilərsiniz.</p>
+  </description>
+  <description lang="br">
+    <p>Un dastumadeg a-feson gant obererezhioù ha c'hoarioù kelennadel evit ar vugale etre 2 ha 10 vloaz eo GCompris.</p>
+    <p>Obererezhioù 'zo a zo bet troet da c'hoarioù, chom a reont kelennadel avat.</p>
+    <p>Amañ dindan e kaver ur roll eus ar rummadoù gant un toullad eus an oberezhioù kinniget e pep rummad.</p>
+    <ul>
+      <li>Dizoleiñ an urzhiataer: klavier, logodenn, jestroù disheñvel gant al logodenn…</li>
+      <li>Jediñ : deskiñ an taolennoù-jediñ, niveriñ eeun, simetriezh ar skeudenn, kempouezañ ar bouezerez, distreiñ ar moneiz, ...</li>
+      <li>Skiantoù : mont en-dro ur skluj, meskañ al livioù, meizad an nerzh-dedennañ, ...</li>
+      <li>C'hoarioù : memor, pevar a-steud, tri merk a-steud, sudoku, tour Hanoi,…</li>
+      <li>Lenn : pleustriñ war al lenn…</li>
+      <li>A bep seurt : deskiñ reiñ an eur, meizad Braille, milendall, benvegoù sonerezh, ...</li>
+    </ul>
+    <p>Evit ar poent e kinnig GCompris muioc'h eget 100 oberezh ha reoù all a zo war ar stern. Ur meziant digor eo GCompris, ar pezh a sinifi e c'heller azasaat anezhañ diouzh ezhommoù-mañ-ezhommoù, gwellaat anezhañ ha, pouezusosc'h c'hoazh, lakaat bugale d'ober gantañ ne vern pelec'h.</p>
+  </description>
+  <description lang="ca">
+    <p>El GCompris és una suite de programari educatiu d'alta qualitat, que inclou una gran quantitat d'activitats per a nens i nenes entre els 2 i els 10 anys.</p>
+    <p>Algunes de les activitats estan orientades a joc, però sempre són educatives.</p>
+    <p>A continuació trobareu una llista de les categories amb algunes de les activitats disponibles en cadascuna.</p>
+    <ul>
+      <li>descobrir l'ordinador: teclat, ratolí, diferents gestos del ratolí...</li>
+      <li>aritmètica: memoritzar la taula, enumeració, imatge al mirall, equilibrar la balança, donar el canvi...</li>
+      <li>ciència: blocar el canal, mescla de colors, el concepte de la gravetat...</li>
+      <li>jocs: memòria, connecta 4, tres en ratlla, sudoku, torre de Hanoi...</li>
+      <li>Lectura: pràctica de lectura...</li>
+      <li>altres: aprendre a dir l'hora, el sistema braille, laberints, instruments musicals...</li>
+    </ul>
+    <p>Actualment el GCompris ofereix més de 100 activitats i encara se'n desenvolupen més. El GCompris és programari lliure, el qual vol dir que podeu adaptar-lo a les vostres pròpies necessitats, millorar-lo i, el més important, compartir-lo amb infants de tot arreu.</p>
+  </description>
+  <description lang="ca-valencia">
+    <p>GCompris és una suite de programari educatiu d'alta qualitat, que inclou una gran quantitat d'activitats per a nens i nenes entre els 2 i els 10 anys.</p>
+    <p>Algunes de les activitats estan orientades a joc, però sempre són educatives.</p>
+    <p>A continuació trobareu una llista de les categories amb algunes de les activitats disponibles en cadascuna.</p>
+    <ul>
+      <li>descobrir l'ordinador: teclat, ratolí, diferents gestos del ratolí...</li>
+      <li>aritmètica: memoritzar la taula, enumeració, imatge al mirall, equilibrar la balança, donar el canvi...</li>
+      <li>ciència: blocar el canal, mescla de colors, el concepte de la gravetat...</li>
+      <li>jocs: memòria, connecta 4, tres en ratlla, sudoku, torre de Hanoi...</li>
+      <li>Lectura: pràctica de lectura...</li>
+      <li>altres: aprendre a dir l'hora, el sistema braille, laberints, instruments musicals...</li>
+    </ul>
+    <p>Actualment GCompris ofereix més de 100 activitats i encara se'n desenvolupen més. GCompris és programari lliure, el qual vol dir que podeu adaptar-lo a les vostres pròpies necessitats, millorar-lo i, el més important, compartir-lo amb infants de tot arreu.</p>
+  </description>
+  <description lang="cs">
+    <p>GCompris je vysoce kvalitní vzdělávací softwarový balík, skládající se z mnoha aktivit pro děti ve věku 2-10.</p>
+    <p>Některé aktivity jsou v podobě her, ale přesto jsou poučné.</p>
+    <p>Níže naleznete seznam kategorií s některými aktivitami k dispozici v této kategorii.</p>
+    <ul>
+      <li>objevování počítače: klávesnice, myš, různá gesta myší, ...</li>
+      <li>aritmetika: tabulková paměť, výčet, zrcadlový obraz, vyvážení měřítka, dávání drobných, ...</li>
+      <li>věda: zámek kanálu, míchání barev, gravitace, ...</li>
+      <li>hry: pexeso, spoj 4, piškvorky, sudoku, hanojská věž, ...</li>
+      <li>čtení: procvičování čtení, ...</li>
+      <li>ostatní: nauč se čas, Braillovo písmo, bludiště, hudební nástroje, ...</li>
+    </ul>
+    <p>V současné době GCompris nabízí více než 100 aktivit a další se připravují. GCompris je svobodný software, což znamená, že můžeš přizpůsobit svým vlastním potřebám, zlepšit a co je nejdůležitější, je sdílet s dětmi po celém světě.</p>
+  </description>
+  <description lang="de">
+    <p>GCompris ist eine Lernsoftware mit vielen Aktivitäten für Kinder im Alter von 2 bis 10 Jahren.</p>
+    <p>Einige Aktivitäten sind eher spielerisch, aber immer lehrreich.</p>
+    <p>Sie können Aktivitäten aus folgenden Bereichen in GCompris finden:</p>
+    <ul>
+      <li>Entdeckung des Computers: Tastatur, Maus, verschiedene Mausgesten ...</li>
+      <li>Arithmetik: Kombitabellen, Aufzählungen, Bilder spiegeln, Gewichte ausgleichen, Wechselgeld geben...</li>
+      <li>Wissenschaft: Kanalschleuse, Farbmischung, Gravitation,...</li>
+      <li>Spiele: Memory, Vier gewinnt, Tic-Tac-Toe, Sudoku, Türme von Hanoi,...</li>
+      <li>Lesen: Leseübungen ...</li>
+      <li>Sonstiges: Uhrzeit, Braille-System, Labyrinthe, Musikinstrumente ...</li>
+    </ul>
+    <p>Insgesamt beinhaltet GCompris mehr als 100 Aktivitäten und wird ständig weiterentwickelt. GCompris ist freie Software. Sie haben also die Möglichkeit, sie ihren Bedürfnissen anzupassen und zu verbessern, und gerne auch alle Kinder der Welt von Ihrer Arbeit profitieren zu lassen.</p>
+  </description>
+  <description lang="el">
+    <p>Το GCompris είναι μια σουίτα εκπαιδευτικού λογισμικού με πολυάριθμες δραστηριότητες για παιδιά ηλικίας 2 έως 10 ετών.</p>
+    <p>Ορισμένες από τις δραστηριότητες είναι απλώς παιχνίδια, αλλά οπωσδήποτε με εκπαιδευτικό χαρακτήρα.</p>
+    <p>Παρακάτω θα βρείτε μια λίστα με κατηγορίες που περιέχουν ορισμένες από το σύνολο των δραστηριοτήτων σε κάθε κατηγορία.</p>
+    <ul>
+      <li>ανακαλύπτω τον υπολογιστή: πληκτρολόγιο, ποντίκι, διάφορες ενδείξεις δείκτη ποντικιού, ...</li>
+      <li>αριθμητική: παιχνίδια memory, απαρίθμηση, κάτοπτρο, ισορροπώ τη ζυγαριά, δίνω ρέστα, ...</li>
+      <li>επιστήμη: σύστημα αλλαγής στάθμης ροής, ανάμειξη χρωμάτων, η έννοια της βαρύτητας, ...</li>
+      <li>παιχνίδια: μνήμη, τετράδες, τρίλιζα, σουντόκου, πύργος του Ανόι, ...</li>
+      <li>ανάγνωση: εξάσκηση στην ανάγνωση, ...</li>
+      <li>άλλα: μαθαίνω να λέω την ώρα, το σύστημα μπράιγ, λαβύρινθος, μουσικά όργανα, ...</li>
+    </ul>
+    <p>Προς το παρόν το GCompris προσφέρει περισσότερες από 100 δραστηριότητες και αναπτύσσονται και άλλες. Το GCompris είναι ελεύθερο λογισμικό, το οποίο σημαίνει ότι μπορείτε να το προσαρμόσετε στις ανάγκες σας, να το βελτιώσετε, και, το σπουδαιότερο, να το μοιραστείτε με παιδιά από όλον τον κόσμο.</p>
+  </description>
+  <description lang="en-GB">
+    <p>GCompris is a high quality educational software suite, including a large number of activities for children aged 2 to 10.</p>
+    <p>Some of the activities are game orientated, but nonetheless still educational.</p>
+    <p>Below you can find a list of categories with some of the activities available in that category.</p>
+    <ul>
+      <li>computer discovery: keyboard, mouse, different mouse gestures, ...</li>
+      <li>arithmetic: table memory, enumeration, mirror image, balance the scale, change giving, ...</li>
+      <li>science: the canal lock, colour mixing, gravity concept, ...</li>
+      <li>games: memory, connect 4, tic tac toe, sudoku, hanoi tower, ...</li>
+      <li>reading: reading practice, ...</li>
+      <li>other: learn to tell time, the braille system, maze, music instruments, ...</li>
+    </ul>
+    <p>Currently GCompris offers in excess of 100 activities and more are being developed. GCompris is free software, that means that you can adapt it to your own needs, improve it and, most importantly, share it with children everywhere.</p>
+  </description>
+  <description lang="es">
+    <p>GCompris es un conjunto de programas educativos de alta calidad que contiene un gran número de actividades para niños entre 2 y 10 años.</p>
+    <p>Algunas de las actividades son juegos, aunque siguen siendo educativas.</p>
+    <p>A continuación puede encontrar una lista de categorías con algunas de las actividades disponibles en cada una de ellas.</p>
+    <ul>
+      <li>descubrimiento del ordenador: teclado, ratón, distintos gestos con el ratón...</li>
+      <li>aritmética: memorización de tablas, enumeración, imagen especular, equilibrar la balanza, devolver cambios...</li>
+      <li>ciencia: la esclusa de un canal, mezcla de colores, concepto de gravedad...</li>
+      <li>juegos: memoria, conectar 4, tres en raya, sudoku, torres de hanoi...</li>
+      <li>lectura: prácticas de lectura...</li>
+      <li>otras: aprender a decir la hora, el sistema braille, laberintos, instrumentos musicales...</li>
+    </ul>
+    <p>En la actualidad, GCompris ofrece más de 100 actividades y hay muchas más en desarrollo. GCompris es software libre, lo que significa que puede adaptarlo a sus necesidades, mejorarlo y, lo que es más importante, compartirlo con los niños de todo el mundo.</p>
+  </description>
+  <description lang="et">
+    <p>GCompris on kvaliteetne õpirakenduse komplekt, mis koosneb paljudest tegevustest lastele vanuses 2-10,</p>
+    <p>Mõned tegevused on mängulisemad, aga siiski õppeotstarbega.</p>
+    <p>Allpool leiab kategooriate loetelu koos mõningate neile omaste tegevustega.</p>
+    <ul>
+      <li>arvuti tundmaõppimine: klaviatuur, hiir, erinevad hiireliigutused ...</li>
+      <li>aritmeetika: nähtu mäletamine, loendamine, peegelpildid, kaalu tasakaalustamine, raha tagasiandmine ...</li>
+      <li>loodusteadused: kanali lüüs, värvide segamine, gravitatsiooni mõistmine ...</li>
+      <li>mängud: mälu, nelja ühendamine, trips-traps-trull, sudoku, Hanoi tornid ...</li>
+      <li>lugemine: lugemise harjutamine ...</li>
+      <li>muu: kellaaja väljendamine, Braille'i kiri, labürint, muusikariistad ...</li>
+    </ul>
+    <p>Praegu pakub GCompris üle 100 tegevuse ja neid tuleb aina juurde. GCompris on vaba tarkvara, mis tähendab, et seda saab kohandada oma vajadustele, täiustada, ja mis peamine, jagada oma täiustusi lastega kogu maailmas.</p>
+  </description>
+  <description lang="eu">
+    <p>GCompris kalitate handiko hezkuntza-software multzo bat da, 2 eta 10 urte bitarteko haurrentzako jarduera ugari dituena.</p>
+    <p>Jardueretako batzuk jolasera zuzenduak daude, hala eta guztiz ere, heztea dute helburu.</p>
+    <p>Behean kategoria zerrenda bat aurki dezakezu, kategoria horretan erabilgarri dauden jardueretako batzuekin batera.</p>
+    <ul>
+      <li>ordenagailua ezagutzea: teklatua, sagua, saguaren mugimendu ezberdinak, ...</li>
+      <li>aritmetika: eragiketa matematikoen taulak oroitzea, zenbaketa, irudi ispilatua, balantza orekatu, diru xehea itzultzea, ...</li>
+      <li>zientzia: ubidearen uhatea, koloreak nahastea, grabitate kontzeptua, ...</li>
+      <li>jokoak: oroimena, konektatu 4, hirutan hiru, sudoku, hanoi dorrea, ...</li>
+      <li>irakurketa: irakurtzen trebatzea, ...</li>
+      <li>bestelakoak: ikasi ordua esaten, braille sistema, labirintoa, musika tresnak, ...</li>
+    </ul>
+    <p>Gaur egun GCompris-ek 100 jardueratik gora eskaintzen ditu eta gehiago garatzen ari dira. GCompris software askea da, horrek esan nahi du zure beharretara egokitu dezakezula, hobetu dezakezula eta, garrantzitsuagoa dena, haurrekin partekatu dezakezu dauden lekuan daudela.</p>
+  </description>
+  <description lang="fi">
+    <p>GCompris on laadukas monitoimintoinen opetusohjelmisto 2–10-vuotiaille lapsille.</p>
+    <p>Jotkin toiminnoista ovat pelimäisiä mutta silti opettavaisia.</p>
+    <p>Alta löydät luettelot luokista sekä maininnan joistakin kuhunkin luokkaan kuuluvista toiminnoista.</p>
+    <ul>
+      <li>tietokoneen oppiminen: näppäimistö, hiiri, eri hiirieleet…</li>
+      <li>aritmetiikka: kertotaulujen opettelu, laskutehtävät, peilikuvan piirtäminen, vaa’an tasapainottaminen, vaihtorahan antaminen, …</li>
+      <li>tiede: kanavasulku, värien sekoitus, painovoiman käsite…</li>
+      <li>pelit: muisti, neljän suora, ristinolla, sudoku, Hanoin tornit…</li>
+      <li>lukeminen: lukemisen harjoittelu…</li>
+      <li>muuta: kellonajan kertominen, Braille-järjestelmä, sokkelo, soittimet…</li>
+    </ul>
+    <p>GComprisissa on nykyisellään yli sata toimintoa, ja lisää kehitetään. GCompris on vapaata ohjelmistoa, mikä tarkoittaa, että voit muokata sitä tarpeisiisi, parannella sitä ja mikä tärkeintä jakaa sitä lapsille kaikkialla.</p>
+  </description>
+  <description lang="fr">
+    <p>GCompris est un logiciel éducatif qui propose des activités variées aux enfants de 2 à 10 ans. Il est plébiscité par les écoles maternelles et primaires de part sa qualité et son spectre couvrant les cycles 1, 2 et 3.</p>
+    <p>Certaines activités sont ludiques mais ont toujours un intérêt pédagogique.</p>
+    <p>Vous pouvez trouver ci-dessous une liste des catégories avec certaines de leurs activités.</p>
+    <ul>
+      <li>découverte de l'ordinateur : clavier, souris, mouvements de la souris…</li>
+      <li>arithmétique : apprentissage des tables d'opérations mathématiques, l'énumération, de symétrie d'image, équilibrage de la balance, rendre la monnaie…</li>
+      <li>science : fonctionnement d'une écluse, mélange des couleurs, concept de la gravité…</li>
+      <li>jeux : trouve les paires, puissance 4, morpion, sudoku, la tour d'hanoï…</li>
+      <li>lecture : entraînement à la lecture…</li>
+      <li>autre : apprendre à dire l'heure, le système braille, le labyrinthe, les instruments de musique…</li>
+    </ul>
+    <p>Actuellement, GCompris contient plus de 100 activités et d'autres sont en cours de développement. GCompris est un logiciel libre, ce qui veut dire que vous pouvez l'adapter à vos propres besoins, le modifier et, le plus important, le partager avec des enfants où que ce soit.</p>
+  </description>
+  <description lang="gl">
+    <p>GCompris é unha colección de programas educativos que inclúe numerosas actividades para nenas e nenos de entre 2 e 10 anos.</p>
+    <p>Algunhas das actividades están orientadas ao xogo, pero son aínda así educativas.</p>
+    <p>A continuación atopará unha lista de categorías e as actividades dispoñíbeis en cada unha desas categorías.</p>
+    <ul>
+      <li>Descubrimento do computador: teclado, rato, xestos do rato, etc.</li>
+      <li>Aritmética: táboas de memoria, enumeración, imaxes espello, equilibrio de balanzas, cálculo do cambio, etc.</li>
+      <li>Ciencia: o bloqueo da canle, mestura de cores, o concepto de gravidade, etc.</li>
+      <li>Xogos: memoria, conectar 4, pai nai fillo, sudoku, torre de Hanoi, etc.</li>
+      <li>Lectura: práctica de lectura, etc.</li>
+      <li>Outros: aprender a dicir as horas, o sistema braille, labirinto, instrumentos musicais, etc.</li>
+    </ul>
+    <p>Actualmente GCompris ofrece máis de 100 actividades e hai máis en desenvolvemento. GCompris é software libre, o que significa que pode adaptalo para axustalo ás súas necesidades, melloralo e, o máis importante, compartilo con nenos de todo o mundo.</p>
+  </description>
+  <description lang="he">
+    <p>חבילת הלומדות האיכותיות Gcompris כוללת מספר גדול של פעילויות לילדים וילדות בגילאי 2 עד 10</p>
+    <p>חלק מהפעילויות הן מוכוונות משחק אבל לא פחות לימודיות.</p>
+    <p>למטה אפשר למצוא רשימת נושאים והפעילויות שקיימות תחת כל נושא.</p>
+    <ul>
+      <li>לגלות את המחשב: מקלדת, עכבר, מחוות...</li>
+      <li>חשבון: טבלת זכרון, מנייה, תמונות מראה, לאזן את המאזניים, להחזיר עודף...</li>
+      <li>מדע: מנעולי מים בתעלה, ערבוב צבעים, מושג כח-המשיכה...</li>
+      <li>משחקים: זכרון, 4 בשורה, איקס-עיגול, סודוקו, מגדלי האנוי...</li>
+      <li>קריאה: אימוני קריאה...</li>
+      <li>אחרים: ללמוד לקרוא שעון, מערכת הבּרָייל, מבוכים, כלי נגינה...</li>
+    </ul>
+    <p>כרגע מציעה חבילת ג'יקומפריס יותר מ100 פעילויות ונוספות נמצאות בפיתוח. ג'יקומפריס היא תוכנה חופשית, מה שאומר שאפשר לשנות אותה לפי הצרכים שלך, לשפר אותה והכי חשוב- לחלוק אותה עם ילדים בכל מקום.</p>
+  </description>
+  <description lang="hi">
+    <p>जीकॉम्परी एक शैक्षिक सॉफ्टवेयर सूट है जिसमें 2 से 10 वर्ष की आयु के बच्चों के लिए कई गतिविधियां शामिल हैं।</p>
+    <p>कुछ गतिविधियां खेल केंद्रित हैं, लेकिन फिर भी शैक्षिक हैं।</p>
+    <p>नीचे आप उस श्रेणी में उपलब्ध कुछ गतिविधियों के साथ श्रेणियों की एक सूची पा सकते हैं।</p>
+    <ul>
+      <li>कंप्यूटर की खोज: कीबोर्ड, माउस, अलग माउस इशारों, ...</li>
+      <li>अंकगणितीय: तालिका मेमोरी, गणण, दर्पण छवि, पैमाने संतुलन, देय परिवर्तन, ...</li>
+      <li>विज्ञान: नहर लॉक, रंग मिश्रण, गुरुत्वाकर्षण अवधारणा, ...</li>
+      <li>खेल: स्मृति, कनेक्ट ४, टिक टैक टो , सुडोकू, हनोई टॉवर, ...</li>
+      <li>पढ़ना: पढ़ने का अभ्यास, ...</li>
+      <li>अन्य: समय बताओ, ब्रेल प्रणाली, भूलभुलैया, संगीत वाद्ययंत्र, ...</li>
+    </ul>
+    <p>वर्तमान में जी कॉम्पप्रस १०० गतिविधियों से अधिक प्रदान करता है और अधिक विकसित किए जा रहे हैं। जी कॉम्पप्रस मुफ्त सॉफ्टवेयर है, इसका मतलब है कि आप इसे अपनी आवश्यकताओं के अनुसार अनुकूलित कर सकते हैं, इसमें सुधार कर सकते हैं, और सबसे महत्वपूर्ण बात, इसे हर जगह बच्चों के साथ साझा कर सकते हैं।</p>
+  </description>
+  <description lang="hu">
+    <p>A Gcompris egy minőségi oktató szoftvercsomag amely sokféle feladatot tartalmaz 2-10 éves gyermekek számára.</p>
+    <p>Bár néhány tevékenység játék központú, ettől függetlenül oktató jellegű.</p>
+    <p>Lentebb néhány tevékenység listáját találod melyek egy-egy ilyen kategóriában elérhetőek.</p>
+    <ul>
+      <li>számítógép használat: billentyűzet, egér, az egér mozgás gyakorlása, ...</li>
+      <li>számtan: memória, számlálás, tükörkép, mérleg használat, mérleg egyensúly, visszajáró kiszámítása ...</li>
+      <li>tudományok: a zsiliprendszer, színkeverés, a gravitáció működése, ...</li>
+      <li>játékok: memóriajáték, amőba. sudoku, hanoi tornyai, ...</li>
+      <li>olvasás: olvasás gyakorlása, ....</li>
+      <li>egyéb:ismerkedés az órávalm a braille abc, labirintus, hangszerfelismerés, ...</li>
+    </ul>
+    <p>Jelenleg a GCompris több mint 100 féle tevékenységet kínál és több is fejlesztés alatt áll. A Gcompris ingyenes szoftver, amely azt jelenti, kedvedre átalakíthatod, fejlesztheted, és a legfontosabb: megoszthatod bármely gyerekkel.</p>
+  </description>
+  <description lang="id">
+    <p>GCompris adalah kumpulan permainan berbagai kegiatan pendidikan untuk anak usia 2 sampai 10 tahun.</p>
+    <p>Beberapa kegiatan berorientasi pada permainan, tetapi masih memiliki nilai pendidikan.</p>
+    <p>Di bawah ini kamu dapat menemukan daftar kategori dengan beberapa kegiatan yang tersedia di dalam setiap kategori tersebut.</p>
+    <ul>
+      <li>pengenalan komputer: keyboard, mouse, gerakan mouse yang berbeda, ...</li>
+      <li>aritmatika: tabel ingatan, pencacahan, cerminkan gambar, menyeimbangkan skala, ganti memberi, ...</li>
+      <li>ilmu pengetahuan: kunci kanal, pencampuran warna, konsep gravitasi, ...</li>
+      <li>permainan: ingatan, menyambung 4, tic tac toe, sudoku, menara hanoi, ...</li>
+      <li>membaca: latihan membaca, ...</li>
+      <li>lainnya: belajar menceritakan waktu, sistem braille, labirin, alat musik, ...</li>
+    </ul>
+    <p>Saat ini GCompris menawarkan lebih dari 100 aktivitas dan masih banyak lagi yang sedang dikembangkan. GCompris adalah perangkat lunak bebas, itu berarti kamu dapat menyesuaikannya dengan kebutuhanmu sendiri, memperbaikinya dan yang terpenting, bagikan dengan anak-anak di mana-mana.</p>
+  </description>
+  <description lang="it">
+    <p>GCompris è una raccolta di alta qualità di programmi didattici che comprende numerose attività per bambini da 2 a 10 anni.</p>
+    <p>Alcune delle attività sono orientate al gioco, ma comunque didattiche.</p>
+    <p>Di seguito puoi trovare un elenco di categorie con alcune delle attività disponibili per categoria.</p>
+    <ul>
+      <li>scoperta del computer: tastiera, mouse, vari gesti con il mouse, ...</li>
+      <li>aritmetica: tabelline, enumerazione, immagine speculare, allineare la bilancia, dare il resto, ...</li>
+      <li>scienza: la chiusa del canale, miscelazione dei colori, il concetto di gravità, ...</li>
+      <li>giochi: memory, forza 4, filetto, sudoku, torre di hanoi, ...</li>
+      <li>lettura: esercitare la lettura, ...</li>
+      <li>altro: impara a leggere l'ora, il sistema braille, labirinto, strumenti musicali, ...</li>
+    </ul>
+    <p>Attualmente GCompris offre più di 100 attività e altre sono in fase di sviluppo. GCompris è software libero, che significa che puoi adattarlo alle tue necessità, migliorarlo e, cosa più importante, condividerlo con tutti i bambini.</p>
+  </description>
+  <description lang="ko">
+    <p>GCompris는 다양한 2세에서 10세 사이의 아동용 활동이 들어 있는 고품질의 교육용 소프트웨어 제품군입니다.</p>
+    <p>일부 활동은 기능성 게임을 지향합니다.</p>
+    <p>아래에서 분류 목록과 해당 분류의 활동을 찾을 수 있습니다.</p>
+    <ul>
+      <li>컴퓨터와 친해지기: 키보드, 마우스, 마우스 제스처, ...</li>
+      <li>산술 연산: 표 기억하기, 배열하기, 그림 뒤집기, 저울 맞추기, 거스름돈 계산하기, ...</li>
+      <li>과학: 운하 갑문, 색 섞기, 중력, ...</li>
+      <li>게임: 메모리 게임, 4개 연결하기, 삼목, 수도쿠, 하노이 탑, ...</li>
+      <li>읽기: 읽기 연습, ...</li>
+      <li>기타: 시간 읽기, 점자, 미로, 악기, ...</li>
+    </ul>
+    <p>GCompris에는 100개 이상의 활동이 들어 있으며 더 많은 활동을 개발하고 있습니다. GCompris는 자유 소프트웨어이며, 필요에 따라서 활동을 개선할 수 있으며 전 세계의 사람들과 공유할 수 있습니다.</p>
+  </description>
+  <description lang="lt">
+    <p>Gcompris yra kokybiškas mokomųjų (edukacinių) programų rinkinys turintis daugybę pamokėlių 3 - 12 metų vaikams.</p>
+    <p>Kai kurios pamokėlės yra kaip lavinamieji žaidimai.</p>
+    <p>Žemiau rasite pamokėlių kategorijų sąrašą bei kelių pamokėlių pavadinimus.</p>
+    <ul>
+      <li>pažink kompiuterį: klaviatūra, pelė, įvairūs pelės gestai, ...</li>
+      <li>aritmetika: daugybos lentelė, skaičiavimas iš eilės, sudėtis ir atimtis, subalansuok svarstykles, suskaičiuok grąžą, ...</li>
+      <li>mokslas: kanalų šliuzai, spalvų maišymas, elektros grandinė, gravitacija, ...</li>
+      <li>žaidimai: šachmatai, atminties lavinimas, sujunk 4, tic tac toe, Sudoku, ...</li>
+      <li>skaitymas: mokymasis skaityti, ...</li>
+      <li>kita: laikrodžio bei laiko pažinimas, Brailio raštas, labirintas, muzikos instrumentai, ...</li>
+    </ul>
+    <p>Šiuo metu „GCompris“ siūlo daugiau nei 140 pamokėlių, o dar daugiau yra kuriama. „GCompris“ yra laisva programinė įranga, tai reiškia, kad jūs galite pritaikyti jį savo poreikiams, tobulinti ir, svarbiausia, visada nemokamai dalintis šiomis programomis su vaikais.</p>
+  </description>
+  <description lang="mk">
+    <p>Жикомпри е висококвалитетен образовен софтвер, кој вклучува голем број активности за деца на возраст од 2 до 10 години.</p>
+    <p>Некои од активностите се ориентирани кон игри, но сепак се едукативни.</p>
+    <p>Подолу можете да најдете список на категории со некои активности достапни во таа категорија.</p>
+    <ul>
+      <li>откривање на компјутер: тастатура, глувче, различни гестови на глувчето, ...</li>
+      <li>аритметика: меморија, набројување, отцртување слика, балансирање на вага, враќање кусур, ...</li>
+      <li>наука: заклучување на каналот, мешање на бои, концепт на гравитација, ...</li>
+      <li>игри: меморија, поврзи 4, икс и точка, судоку, ханој кула, ...</li>
+      <li>читање: пракса за читање, ...</li>
+      <li>друго: учење на часовник, учење на брајовиот систем, лавиринт, музички инструменти, ...</li>
+    </ul>
+    <p>Во моментов, Жикомпри нуди повеќе од 100 активности и уште се развиваат. Жикомпри е слободен софтвер, тоа значи дека можете да го прилагодите на вашите сопствени потреби, да го подобрите и што е најважно, да го споделите со децата секаде.</p>
+  </description>
+  <description lang="ml">
+    <p>2 മുതൽ 10 വയസ്സുവരെയുള്ള കുട്ടികൾക്ക് വേണ്ടിയുള്ള വിവിധ പ്രവർത്തനങ്ങൾ അടങ്ങിയിട്ടുള്ള വളരെ ഗുണനിലവാരമുള്ള ഒരു വിദ്യാഭ്യാസ സോഫ്റ്റ്‍വെയർ ആണ് ജികോംപ്രി.</p>
+    <p>ചില പ്രവർത്തനങ്ങൾ കളിയെ അടിസ്ഥാനമാക്കിയാണ്, എന്നിരുന്നാലും വിദ്യാഭ്യാസപരമാണ്.</p>
+    <p>ലഭ്യമായ കുറച്ചു പ്രവർത്തനങ്ങളോടുകൂടിയുള്ള വിഭാഗങ്ങളുടെ ഒരു പട്ടിക താഴെ കൊടുത്തിരിക്കുന്നു.</p>
+    <ul>
+      <li>കമ്പ്യൂട്ടർ പഠിക്കാം: കീബോർഡ്, മൗസ്, മൗസ് കൊണ്ടുള്ള വ്യത്യസ്ത ചലനങ്ങൾ, ...</li>
+      <li>ഗണിതശാസ്ത്രം: പട്ടിക ഓർക്കാം, എണ്ണൽ, പ്രതിബിംബം, തൂക്കമൊപ്പിക്കാം, ബാക്കി കൊടുക്കാം, ...</li>
+      <li>ശാസ്ത്രം: കനാലിന്റെ പൂട്ട്, നിറം ചേർക്കാം, ഗുരുത്വം എന്ന ആശയം, ...</li>
+      <li>കളികൾ: ഓർമ്മ, 4 എണ്ണം ബന്ധിപ്പിക്കുക, ടിക് ടാക് ടോ, ഹാനോയിയുടെ ഗോപുരം, ...</li>
+      <li>വായന: വായന പരിശീലനം, ...</li>
+      <li>മറ്റുള്ളവ: സമയം പറയാൻ പഠിക്കാം, ബ്രായി ലിപി, കുടുക്കുവഴി, സംഗീതോപകരണങ്ങൾ, ...</li>
+    </ul>
+    <p>ജികോംപ്രിയിൽ ഇപ്പോൾ 100-ലധികം പ്രവർത്തനങ്ങൾ ഉണ്ട്, കൂടുതൽ ഡെവലപ്പു ചെയ്തുകൊണ്ടിരിക്കുന്നുമുണ്ട്. ജികോംപ്രി ഒരു സ്വതന്ത്ര സോഫ്റ്റ്‍വെയർ ആണ്, അതായത് താങ്കൾക്ക് അതിനെ താങ്കളുടെ ആവശ്യങ്ങൾക്കനുസരിച്ച് രൂപപ്പെടുത്താം, മെച്ചപ്പെടുത്താം, ഏറ്റവും പ്രധാനമായി, ലോകമെമ്പാടുമുള്ള കുട്ടികളുമായും അതു പങ്കുവെയ്ക്കാം.</p>
+  </description>
+  <description lang="nl">
+    <p>GCompris is een educatieve software suite van hoge kwaliteit die bestaat uit vele activiteiten voor kinderen vanaf twee tot tien jaar.</p>
+    <p>Sommige activiteiten zijn spelletjes, maar toch leerzaam.</p>
+    <p>Hieronder vindt u een lijst met categorieën met enige van de activiteiten beschikbaar in die categorie.</p>
+    <ul>
+      <li>ontdekken van de computer: toetsenbord, muis, verschillende muisbewegingen, ...</li>
+      <li>rekenen: tafels oefenen, reeksen, afbeelding spiegelen, de schaal in evenwicht brengen, wijziging gegeven, ...</li>
+      <li>natuurkunde: de sluis, mengen van kleuren, concept van zwaartekracht, ...</li>
+      <li>spellen: geheugenspel, vier verbinden, tic-tac-toe, sudoku, torens van hanoi, ...</li>
+      <li>lezen: lezen oefenen, ...</li>
+      <li>overig: leren klokkijken, het braille-systeem, doolhof, muziekinstrumenten, ...</li>
+    </ul>
+    <p>Op dit moment biedt GCompris meer dan 100 activiteiten en meer zijn er in ontwikkeling. GCompris is vrije software, dat betekent dat u het kunt aanpassen aan uw eigen behoeften, het verbeteren en, meest belangrijk, het met kinderen overal kun delen.</p>
+  </description>
+  <description lang="nn">
+    <p>GCompris er eit leik og lær-spel med mange ulike aktivitetar for ungar frå 2 til 10 år.</p>
+    <p>Nokre av aktivitetane er mest som spel, men er likevel lærerike.</p>
+    <p>Nedanfor finn du ei oversikt over kategoriar, saman med nokre av aktivitetane i kvar kategori.</p>
+    <ul>
+      <li>datamaskin: tastatur, mus, ulike muserørsler, …</li>
+      <li>rekning: gongetabellen, teljing, spegelbilete, måling av vekt, vekslepengar, …</li>
+      <li>vitskap: kanalsluse, blanding av fargar, tyngdekraft, …</li>
+      <li>spel: hugsespel, fire på rad, bondesjakk, sudoku, tårnet i Hanoi, …</li>
+      <li>lesing: leseøvingar, …</li>
+      <li>anna: lær klokka, lær blindeskrift, labyrint, musikkinstrument, …</li>
+    </ul>
+    <p>GCompris har over 100 aktivitetar, og fleire vert utvikla. GCompris er fri programvare. Det vil seia at du kan tilpassa spelet slik du ønskjer, forbetra det og dela det med ungar i heile verda.</p>
+  </description>
+  <description lang="pl">
+    <p>GCompris to wysokiej jakości pakiet oprogramowania edukacyjnego z licznymi aktywnościami dla dzieci w wieku od 2 do 10 lat.</p>
+    <p>Niektóre z aktywności są bardziej grą, lecz nadal bardzo pouczającą.</p>
+    <p>Poniżej znajdziesz wykaz kategorii z niektórymi aktywnościami dostępnymi w tej kategorii.</p>
+    <ul>
+      <li>odkrywanie komputera: klawiatura, mysz, różne ruchy myszą, ...</li>
+      <li>arytmetyka: tablice pamięciowe, wyliczanie, obraz lustrzany, wyrównoważanie wagi, wydawanie reszty, ...</li>
+      <li>nauka: śluza na kanale, mieszanie barw, poczucie grawitacji, ...</li>
+      <li>gry: na pamięć, łączenie czwórek, tic tac toe, sudoku, wieża hanoi, ...</li>
+      <li>czytanie: nauka czytania, ...</li>
+      <li>inne: naucz się godzin na zegarze, systemu brajla, labiryntów, instrumentów muzycznych, ...</li>
+    </ul>
+    <p>Obecnie GCompris zapewnia ponad 100 aktywności, a jeszcze więcej jest opracowywanych. GCompris jest darmowym oprogramowaniem, co oznacza, że możesz je dopasować do własnych potrzeb, ulepszać je i co najważniejsze udostępniać je dzieciom.</p>
+  </description>
+  <description lang="pt">
+    <p>O GCompris é um pacote aplicacional educativo de alta qualidade, composto por uma grande quantidade de actividades para crianças dos 2 aos 10 anos.</p>
+    <p>Algumas das actividades são apresentadas como jogos, mas são educativas à mesma.</p>
+    <p>Em baixo, poderá encontrar uma lista de categorias, com algumas das actividades disponíveis para essa categoria.</p>
+    <ul>
+      <li>descoberta do computador: teclado, rato, os diferentes gestos com o rato, ...</li>
+      <li>aritmética: memória da tabuada, enumeração, imagem-espelho, equilíbrio de balanças, trocos, ...</li>
+      <li>ciência: bloqueio de canais, misturas de cores, conceito de gravidade, ...</li>
+      <li>jogos: memória, 4 em linha, jogo do galo, sudoku, torres de Hanói, ...</li>
+      <li>leitura: exercícios de leitura, ...</li>
+      <li>outros: aprender a dizer as horas, o sistema Braille, labirintos, instrumentos musicais, ...</li>
+    </ul>
+    <p>De momento, o GCompris oferece mais de 100 actividades, estando ainda mais em desenvolvimento. O GCompris é uma aplicação de 'software' livre, o que significa que o poderá adaptar às suas próprias necessidades, melhorá-lo e, o mais importante, partilhá-lo com as crianças em todo o lado.</p>
+  </description>
+  <description lang="pt-BR">
+    <p>O GCompris é uma suíte de software educacional de alta qualidade que inclui um grande número de atividades para crianças com idade entre 2 e 10 anos.</p>
+    <p>Algumas das atividades são de orientação lúdica, mas mesmo assim ainda educacionais.</p>
+    <p>Abaixo está relacionada uma lista de categorias com algumas das atividades disponíveis em cada uma delas.</p>
+    <ul>
+      <li>conhecendo o computador: teclado, mouse, diferentes movimentações com o mouse, ...</li>
+      <li>matemática: memória matemática, enumeração, imagens espelhadas, balanceamento de escalas, moedas e troco, ...</li>
+      <li>ciência: comporta de canal, mistura de cores, conceito de gravidade, ...</li>
+      <li>jogos: memória, ligue 4, jogo da velha, sudoku, torre de Hanói, ...</li>
+      <li>leitura: prática de leitura, ...</li>
+      <li>outros: aprendendo a ver as horas, o sistema Braille, labirintos, instrumentos musicais, ...</li>
+    </ul>
+    <p>Atualmente o GCompris oferece mais de 100 atividades e outras mais estão sendo desenvolvidas. O GCompris é um software livre, o que significa que você pode adaptá-lo para as suas próprias necessidades, melhorá-lo e, mais importante, compartilhar com as crianças de todo o mundo.</p>
+  </description>
+  <description lang="ro">
+    <p>GCompris este un pachet de software educațional compus din numeroase activități pentru copii între 2 și 10 ani.</p>
+    <p>Unele activități sunt orientate pe joacă, dar totuși educative.</p>
+    <p>Dedesubt puteți găsi o listă de categorii cu unele din activitățile disponibile în acea categorie.</p>
+    <ul>
+      <li>descoperirea calculatorului: tastatura, mausul, diferite gesturi cu mausul, ...</li>
+      <li>aritmetică: tabla înmulțirii, enumerări, imagini în oglindă, echilibrarea balanței, datul restului, ...</li>
+      <li>științe: ecluza unui canal, amestecul culorilor, conceptul de gravitație, ...</li>
+      <li>jocuri: memorie, leagă 4, X și 0, sudoku, turnul hanoi, ...</li>
+      <li>citire: exerciții de citire, ...</li>
+      <li>altele: învață să citești ceasul, sistemul braille, labirint, instrumente muzicale, ...</li>
+    </ul>
+    <p>Momentan GCompris oferă peste 100 de activități și multe altele sunt în lucru. GCompris este software liber, ceea ce înseamnă că poate fi adaptat nevoilor dumneavoastră, îmbunătățit, dar mai ales, partajat cu copii de pretutindeni.</p>
+  </description>
+  <description lang="ru">
+    <p>GCompris — большая коллекция обучающих игр и упражнений для детей от 2 до 10 лет.</p>
+    <p>Некоторые из заданий представлены в игровой форме, но и они являются обучающими.</p>
+    <p>Ниже представлен список категорий с доступными в этих категориях заданиями.</p>
+    <ul>
+      <li>знакомство с компьютером: клавиатура, мышь, различные жесты мышью, ...</li>
+      <li>арифметика: игра «память» с подсчётом, счёт, отражение рисунка, уравновешивание весов, подсчёт сдачи, ...</li>
+      <li>наука: работа судоходного шлюза, смешивание цветов, представление о гравитации, ...</li>
+      <li>игры: память, соедини 4, крестики-нолики, судоку, Ханойская башня, ...</li>
+      <li>чтение: упражнение в чтении, ...</li>
+      <li>другое: определение времени по часам, шрифт Брайля, лабиринт, музыкальные инструменты, ...</li>
+    </ul>
+    <p>В настоящее время GCompris содержит более 100 упражнений, и новые находятся в  разработке. GCompris — свободное ПО, и это значит, что вы можете приспособить его для своих нужд, улучшить, а самое главное — поделиться им с детьми во всём мире.</p>
+  </description>
+  <description lang="sk">
+    <p>GCompris je balík výukového softvéru zložený z rôznych aktivít pre deti od 2 do 10 rokov.</p>
+    <p>Niektoré z aktivít sú herne orientované, ale stále výukové.</p>
+    <p>Tu môžete nájsť zoznam kategórií s niektorými aktivitami dostupnými v kategórii.</p>
+    <ul>
+      <li>objavovanie počítača: klávesnica, myš, rôzne gestá myši...</li>
+      <li>aritmetické: tabuľková pamäť, výpočet, zrkalový obrázok, vyváženie mierky, zmena dávky...</li>
+      <li>veda: zamknutý kanál, miešanie farieb, koncept grvitácie...</li>
+      <li>hry: pamäť, spojenie 4, tic tac toe, sudoku, hanojská veža...</li>
+      <li>čítanie: precvičovanie čítania...</li>
+      <li>iné: ako povedať čas, braillov systém, bludisko, hudobná nástroje...</li>
+    </ul>
+    <p>Aktuálne GCompris ponúka vyše 100 aktivít a ďalšie sa vyvíjajú. GCompris je slobodný softvér, čo znamená, že si ho môžete prispôsobiť na vlastné potreby, zlepšiť, a hlavne zdieľať s deťmi všade.</p>
+  </description>
+  <description lang="sl">
+    <p>Program GCompris je visokokakovostna izobraževalna zbirka, sestavljena iz velikega števila dejavnosti, ki so namenjena otrokom med drugim in desetim letom starosti.</p>
+    <p>Nekatere dejavnosti so bolj podobne igram, vendar še vedno poučne.</p>
+    <p>Spodaj lahko najdete seznam kategorij in nekaj dejavnosti, ki so na voljo v tisti kategoriji.</p>
+    <ul>
+      <li>delo z računalnikom: tipkovnica, miška, kretnje miške, ...</li>
+      <li>računstvo: spomin z računi, štetje, uravnoteži tehtnico, vračanje drobiža, ...</li>
+      <li>znanost: zapornica kanala, mešanje barv, koncept težnosti ...</li>
+      <li>igre: spomin, štiri v vrsto, križci in krožci, sudoku, Hanojski stolpi, ...</li>
+      <li>branje: bralna vaja, ...</li>
+      <li>ostalo: prepoznavanje časa, brajica, blodnjak, glasbila, ...</li>
+    </ul>
+    <p>GCompris trenutno ponuja več kot 100 dejavnosti, še več pa jih je v razvoju. GCompris je prosta programska oprema, kar pomeni, da jo lahko prilagodite po svoje, še pomembneje pa je, da jo lahko delite z otroki po vsem svetu.</p>
+  </description>
+  <description lang="sq">
+    <p>GCompris- është një suitë software-i edukativ i cilësisë së lartë, që përfshin një numër të madh veprimtarish për fëmijë të moshës nga 2 deri në 10 vjeç.</p>
+    <p>Disa nga veprimtaritë shkojnë drejt lojës, por megjithatë prapë edukative.</p>
+    <p>Më poshtë mund të gjeni një listë të kategorive, me disa nga veprimtaritë e gatshme nën atë kategori.</p>
+    <ul>
+      <li>njohje me kompjuterin: tastierë, mi, gjeste të ndryshme të miut, …</li>
+      <li>aritmetikë: kujtesë tabelash, numërim, pasqyrim figurash, baraspeshim peshoreje, dhënie kusuri, …</li>
+      <li>shkencë: bllokim kanali, përzierje ngjyra, koncepti i rëndesës, …</li>
+      <li>lojëra: kujtesë, lidhni 4, tik tak to, sudoku, kullë Hanoi, …</li>
+      <li>lexim: ushtrim të lexuari, …</li>
+      <li>të tjera: mësoni si të tregoni orën, sistemi Braj, maze, vegla muzikore, …</li>
+    </ul>
+    <p>Aktualisht GCompris-i ofron më shumë se 100 veprimtari dhe po zhvillohen dhe të tjera. GCompris-i është “software” i lirë, që do të thotë se mund t’ia përshtatni nevojave tuaja, ta përmirësoni, dhe, më e rëndësishmja, t’ua jepni fëmijëve kudo.</p>
+  </description>
+  <description lang="sv">
+    <p>GCompris är en högkvalitativ pedagogisk programvarusvit som innehåller ett stort antal aktiviteter för barn mellan 2 och 10 år.</p>
+    <p>Vissa av aktiviteterna är spelorienterade, men trots det ändå pedagogiska.</p>
+    <p>Nedan finns en lista över kategorier med några av aktiviteterna tillgängliga i varje kategori.</p>
+    <ul>
+      <li>upptäcka datorn: tangentbord, mus, olika musgester, ...</li>
+      <li>aritmetik: tabellminne, uppräkning, spegelbild, balansera vågen, ge växel, ...</li>
+      <li>vetenskap: kanalslussen, färgblandning, gravitationskonceptet, ...</li>
+      <li>spel: memory, koppla 4, tre-i-rad, sudoku, tornen i Hanoi, ...</li>
+      <li>läsning: läsningsövning, ...</li>
+      <li>annat: lära sig klockan, punktskrift, labyrint, musikinstrument, ...</li>
+    </ul>
+    <p>För närvarande erbjuder GCompris över 100 aktiviteter och ännu fler håller på att utvecklas. GCompris är fri programvara, vilket betyder att man kan anpassa det till sina egna behov, och viktigast av allt, dela det med barn överallt.</p>
+  </description>
+  <description lang="tr">
+    <p>GCompris, 2 ile 10 yaş arasındaki çocuklar için çok sayıda etkinlik içeren bir eğitim yazılımı paketidir.</p>
+    <p>Bazı etkinlikler oyun odaklıdır, ancak yine de eğiticidir.</p>
+    <p>Aşağıda, bazı etkinliklerin bulunduğu kategorilerin bir listesini bulabilirsiniz.</p>
+    <ul>
+      <li>bilgisayarı keşfetme: klavye, fare, farklı fare hareketleri, ...</li>
+      <li>aritmetik: tablo belleği, numaralandırma, ayna görüntüsü, ölçeği dengelemek, para üstü, ...</li>
+      <li>bilim: kanal kilidi, renk karışımı, yerçekimi kavramı, ...</li>
+      <li>oyunlar: hafıza, dörtleme, üç taş, sudoku, hanoi kulesi, ...</li>
+      <li>okuma: okuma egzersizi, ...</li>
+      <li>diğer: saati söylemeyi öğrenme, braille sistemi, labirent, müzik, enstrümanlar, ...</li>
+    </ul>
+    <p>Şu anda GCompris 100'den fazla etkinlik sunuyor ve daha fazlasını geliştiriliyor. GCompris bir özgür yazılımdır; bu, onu kendi ihtiyaçlarınıza uyarlayabilir, geliştirebilir ve en önemlisi, her yerde çocuklarla paylaşabileceğiniz anlamına gelir.</p>
+  </description>
+  <description lang="uk">
+    <p>GCompris — високоякісний комплекс навчального програмного забезпечення, що складається з багатьох вправ для дітей від 2 до 10 років.</p>
+    <p>Деякі із вправ є суто ігровими, але містять і елементи навчання.</p>
+    <p>Нижче наведено список категорій із деякими вправами у цих категоріях.</p>
+    <ul>
+      <li>Знайомство з комп’ютером: клавіатура, миша, керування мишею…</li>
+      <li>Арифметика: запам’ятовування таблиць, нумерація, віддзеркалення, балансування масштабу, обчислення решти…</li>
+      <li>Наука: шлюзування, змішування кольорів, поняття тяжіння…</li>
+      <li>Ігри: запам’ятовування, чотири-у-рядок, хрестики-нулики, судоку, ханойські вежі…</li>
+      <li>Читання: вправи із читання…</li>
+      <li>Інше: навчання позначенням часу, система Брайля, лабіринти, музичні інструменти…</li>
+    </ul>
+    <p>У поточній версії GCompris понад 100 вправ. Розробники постійно працюють над новими вправами. GCompris є вільним програмним забезпеченням, це означає, що ви можете адаптувати програму до власних потреб, покращувати її і, що найважливіше, ділитися вашими творіннями із усіма дітьми.</p>
+  </description>
+  <description lang="x-test">
+    <p>xxGCompris is a high quality educational software suite, including a large number of activities for children aged 2 to 10.xx</p>
+    <p>xxSome of the activities are game orientated, but nonetheless still educational.xx</p>
+    <p>xxBelow you can find a list of categories with some of the activities available in that category.xx</p>
+    <ul>
+      <li>xxcomputer discovery: keyboard, mouse, different mouse gestures, ...xx</li>
+      <li>xxarithmetic: table memory, enumeration, mirror image, balance the scale, change giving, ...xx</li>
+      <li>xxscience: the canal lock, color mixing, gravity concept, ...xx</li>
+      <li>xxgames: memory, connect 4, tic tac toe, sudoku, hanoi tower, ...xx</li>
+      <li>xxreading: reading practice, ...xx</li>
+      <li>xxother: learn to tell time, the braille system, maze, music instruments, ...xx</li>
+    </ul>
+    <p>xxCurrently GCompris offers in excess of 100 activities and more are being developed. GCompris is free software, that means that you can adapt it to your own needs, improve it and, most importantly, share it with children everywhere.xx</p>
+  </description>
+  <description lang="zh-CN">
+    <p>GCompris 是一款高品质的少儿教学软件，内含大量适合 2 至 10 岁儿童的教学活动。</p>
+    <p>虽然某些活动采用了游戏导向的设计，但它们依然是以教学为目的的。</p>
+    <p>下面列出了软件提供的活动类型和它们包含的具体教学活动。</p>
+    <ul>
+      <li>计算机启蒙：键盘、鼠标、鼠标手势……</li>
+      <li>数学基础：乘法表记忆、识数、图形镜像、天平配平、找零……</li>
+      <li>科学基础：船闸、颜色混合、重力概念……</li>
+      <li>智力游戏：速记、四子棋、井子棋、数独、汉诺塔……</li>
+      <li>阅读训练：阅读练习……</li>
+      <li>其他活动：时间识别、盲文、迷宫、乐器……</li>
+    </ul>
+    <p>GCompris 当前提供了超过 100 种教学活动，更多的活动也会在日后陆续加入。GCompris 是一款自由软件，这意味着您可以根据您的需要对其进行调整、改进，并且自由地将它分享给世界各地的孩子们。</p>
+  </description>
+  <description lang="zh-TW">
+    <p>GCompris 是一套教育軟體的集合，它提供適合兩歲到十歲兒童各種不同的遊戲。</p>
+    <p>有些活動是遊戲性質，但還是有很棒的教育意義。</p>
+    <p>下方您可以看到該類別的遊戲清單。</p>
+    <ul>
+      <li>電腦探索：鍵盤、滑鼠、不同的滑鼠手勢等</li>
+      <li>數學運算：表格記憶、列舉、影像映射、平衡、找零計算等</li>
+      <li>科學：顏色混合、重力觀念、運河鎖等等</li>
+      <li>遊戲：記憶遊戲、四子棋、井字遊戲、數獨、河內塔等等</li>
+      <li>閱讀：閱讀練習等等</li>
+      <li>其他：看時間、點字系統、迷宮、認識樂器等等</li>
+    </ul>
+    <p>目前 GCompris 提供超過 100 個遊戲，還有更多正在開發中。GCompris 是一套自由軟體，表示您可以根據您自己的需求來改進，並分享給所有的孩子們。</p>
+  </description>
+  <pkgname>gcompris</pkgname>
+  <launchable type="desktop-id">org.kde.gcompris.desktop</launchable>
+  <icon type="cached" width="64" height="64">gcompris-qt.png</icon>
+  <icon type="cached" height="128" width="128">gcompris-qt.png</icon>
+  <id>org.kde.gcompris.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>AGPL-3.0</project_license>
+  <name>GCompris</name>
+  <name lang="ar">فهمت</name>
+  <name lang="az">GCompris</name>
+  <name lang="br">GCompris</name>
+  <name lang="ca">GCompris</name>
+  <name lang="ca-valencia">GCompris</name>
+  <name lang="cs">GCompris</name>
+  <name lang="de">GCompris</name>
+  <name lang="el">GCompris</name>
+  <name lang="en-GB">GCompris</name>
+  <name lang="es">GCompris</name>
+  <name lang="et">GCompris</name>
+  <name lang="eu">GCompris</name>
+  <name lang="fi">GCompris</name>
+  <name lang="fr">GCompris</name>
+  <name lang="gl">GCompris</name>
+  <name lang="he">GCompris (ג'יקומפריס)</name>
+  <name lang="hi">जीकोंप्रिस</name>
+  <name lang="hu">Gcompris</name>
+  <name lang="ia">GCompris</name>
+  <name lang="id">GCompris</name>
+  <name lang="it">GCompris</name>
+  <name lang="ko">GCompris</name>
+  <name lang="lt">GCompris žaidimai</name>
+  <name lang="mk">Жикомпри</name>
+  <name lang="ml">ജികോംപ്രി</name>
+  <name lang="nl">GCompris</name>
+  <name lang="nn">GCompris</name>
+  <name lang="pl">GCompris</name>
+  <name lang="pt">GCompris</name>
+  <name lang="pt-BR">GCompris</name>
+  <name lang="ro">GCompris</name>
+  <name lang="ru">GCompris</name>
+  <name lang="sk">GCompris</name>
+  <name lang="sl">GCompris</name>
+  <name lang="sq">GCompris</name>
+  <name lang="sv">GCompris</name>
+  <name lang="tr">GCompris</name>
+  <name lang="uk">GCompris</name>
+  <name lang="x-test">xxGComprisxx</name>
+  <name lang="zh-CN">GCompris</name>
+  <name lang="zh-TW">GCompris</name>
+  <summary>Multi-Activity Educational game for children 2 to 10</summary>
+  <summary lang="ar">لعبة تعليميّة متعدّدة الأنشطة للأطفال من سنتين إلى ١٠ سنوات</summary>
+  <summary lang="az">2 - 10 yaş arası uşaqlar üçün çoxfəaliyyətli öyrədici oyun</summary>
+  <summary lang="br">C'hoari kelennadel gant oberezioù a bep seur evit ar vugale etre 2 ha 10 vloaz</summary>
+  <summary lang="ca">Joc educatiu amb múltiples activitats per a infants de 2 a 10 anys</summary>
+  <summary lang="ca-valencia">Joc educatiu amb múltiples activitats per a infants de 2 a 10 anys</summary>
+  <summary lang="cs">Vzdělávání pomocí spousty aktivit pro děti od 2 do 10 let</summary>
+  <summary lang="de">Lernspiel mit vielen Aktivitäten für Kinder von 2 bis 10 Jahren</summary>
+  <summary lang="el">Εκπαιδευτικό παιχνίδι πολλαπλών δραστηριοτήτων για ηλικίες 2 έως 10 ετών</summary>
+  <summary lang="en-GB">Multi-Activity Educational game for children 2 to 10</summary>
+  <summary lang="es">Juego educativo multiactividad para niños de 2 a 10 años</summary>
+  <summary lang="et">Rohkete tegevustega hariv mäng lastele vanuses 2-10</summary>
+  <summary lang="eu">Jarduera anitzeko Hezkuntza-jokoa 2 eta 10 urte arteko haurrentzat</summary>
+  <summary lang="fi">Useampitoimintoinen opettavainen peli 2–10-vuotiaille lapsille</summary>
+  <summary lang="fr">Jeu éducatif multi-activités pour les enfants de 2 à 10 ans</summary>
+  <summary lang="gl">Xogo educativo con varias actividades para nenos de entre 2 e 10 anos</summary>
+  <summary lang="he">משחק חינוך לפלטפורמות מרובות לילדים/ות בגילאי 2-10</summary>
+  <summary lang="hi">२ से १० वर्ष के बच्चों के लिए विभिन्न क्रियाओं वाला शैक्षणिक खेल</summary>
+  <summary lang="hu">Oktató játékcsomag 2-10 éves gyerekek számára</summary>
+  <summary lang="ia">Joco de Instruction e Multi-activitate per filios de 2 a 10</summary>
+  <summary lang="id">Permainan berisi berbagai kegiatan pendidikan untuk anak usia 2 sampai 10 tahun</summary>
+  <summary lang="it">Gioco didattico multi-attività per bambini da 2 a 10 anni</summary>
+  <summary lang="ko">2-10세 어린이용 다양한 활동이 있는 교육용 게임</summary>
+  <summary lang="lt">Lavinamųjų pamokėlių bei žaidimų rinkinys vaikams nuo 3 iki 12</summary>
+  <summary lang="mk">Едукативна игра со повеќе активности за деца од 2 до 10 години</summary>
+  <summary lang="ml">2 മുതൽ 10 വയസ്സുവരെയുള്ള കുട്ടികൾക്ക് വിവിധ പ്രവർത്തനങ്ങളിലൂടെ പഠിക്കാനായുള്ള കളി</summary>
+  <summary lang="nl">Educatief spel met meerdere activiteiten voor kinderen van 2 tot 10</summary>
+  <summary lang="nn">Leik-og-lærspel med mange aktivitetar – for barn frå 2 til 10 år</summary>
+  <summary lang="pl">Gra edukacyjna z wieloma aktywnościami dla dzieci w wieku od 2 do 10 lat</summary>
+  <summary lang="pt">Jogo Educativo Multi-Actividades para crianças dos 2 aos 10 anos</summary>
+  <summary lang="pt-BR">Jogo educacional com várias atividades para crianças de 2 a 10 anos</summary>
+  <summary lang="ro">Joc educațional cu activități multiple pentru copii între 2 și 10 ani</summary>
+  <summary lang="ru">Интерактивные обучающие игры для детей от 2 до 10 лет</summary>
+  <summary lang="sk">Viac-aktivitová výuková hra pre deti od 2 do 10 rokov</summary>
+  <summary lang="sl">Izobraževalna igra z več dejavnostmi za otroke med drugim in desetim letom starosti</summary>
+  <summary lang="sq">Lojë Edukative me Shumë Veprimtari për fëmijë nga 2 deri në 10 vjeç</summary>
+  <summary lang="sv">Pedagogiskt multiaktivitetsspel för barn från 2 till 10 år</summary>
+  <summary lang="tr">2 ile 10 yaş arasındaki çocuklar için çok Etkinlikli oyun</summary>
+  <summary lang="uk">Набір освітніх ігор для дітей від 2 до 10 років</summary>
+  <summary lang="x-test">xxMulti-Activity Educational game for children 2 to 10xx</summary>
+  <summary lang="zh-CN">面向 2 到 10 岁儿童的多学科教学游戏</summary>
+  <summary lang="zh-TW">為 2-10 歲孩子設計的教育遊戲</summary>
+  <screenshots>
+    <screenshot type="default">
+      <caption>GCompris main menu</caption>
+      <caption lang="ar">قائمة «فهمت» الرئيسيّة</caption>
+      <caption lang="az">GCompris əsas menyusu</caption>
+      <caption lang="br">Lañser pennañ GCompris</caption>
+      <caption lang="ca">Menú principal del GCompris</caption>
+      <caption lang="ca-valencia">Menú principal de GCompris</caption>
+      <caption lang="cs">Hlavní nabídka GCompris</caption>
+      <caption lang="de">GCompris-Hauptmenü</caption>
+      <caption lang="el">Κύριο μενού του GCompris</caption>
+      <caption lang="en-GB">GCompris main menu</caption>
+      <caption lang="es">Menú principal de GCompris</caption>
+      <caption lang="et">GComprise peamenüü</caption>
+      <caption lang="eu">GCompris menu nagusia</caption>
+      <caption lang="fi">GComprisin päävalikko</caption>
+      <caption lang="fr">Menu principal de GCompris</caption>
+      <caption lang="gl">Menú principal de GCompris</caption>
+      <caption lang="he">התפריט המרכזי של ג'יקומפריס</caption>
+      <caption lang="hi">जीकोंप्रिस मुख्य मेनू </caption>
+      <caption lang="hu">A GCompris főmenüje</caption>
+      <caption lang="id">Menu Utama GCompris</caption>
+      <caption lang="it">Menu principale di GCompris</caption>
+      <caption lang="ko">GCompris 주 메뉴</caption>
+      <caption lang="lt">GCompris pagrindinis meniu</caption>
+      <caption lang="mk">Жикомпри главно мени</caption>
+      <caption lang="ml">ജികോംപ്രി പ്രധാന മെനു</caption>
+      <caption lang="nl">GCompris-hoofdmenu</caption>
+      <caption lang="nn">Hovudmenyen i GCompris</caption>
+      <caption lang="pl">Główne menu GCompris</caption>
+      <caption lang="pt">Menu principal do GCompris</caption>
+      <caption lang="pt-BR">Menu principal do GCompris</caption>
+      <caption lang="ro">Meniul principal GCompris</caption>
+      <caption lang="ru">Главное меню GCompris</caption>
+      <caption lang="sk">Hlavná ponuka GCompris</caption>
+      <caption lang="sl">GCompris glavni meni</caption>
+      <caption lang="sq">Menuja kryesore e GCompris-it</caption>
+      <caption lang="sv">GCompris-huvudmeny</caption>
+      <caption lang="tr">GCompris ana menü</caption>
+      <caption lang="uk">Головне меню GCompris</caption>
+      <caption lang="x-test">xxGCompris main menuxx</caption>
+      <caption lang="zh-CN">GCompris 主菜单</caption>
+      <caption lang="zh-TW">GCompris 主畫面</caption>
+      <image height="1080" width="1920">https://cdn.kde.org/screenshots/gcompris/gcompris.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>"Click on an uppercase letter" activity</caption>
+      <caption lang="ar">نشاط "النقر على الحرف الكبير"</caption>
+      <caption lang="az">"Böyük hərflərə vurun" çalışması</caption>
+      <caption lang="br">Obererezh "Klik war ur bennlizherenn"</caption>
+      <caption lang="ca">Activitat «Fes clic en una lletra en majúscula»</caption>
+      <caption lang="ca-valencia">Activitat «Fes clic en una lletra en majúscula»</caption>
+      <caption lang="cs">Aktivita "Klikni na velké písmeno"</caption>
+      <caption lang="de">Aktivität „Klicke auf einen Großbuchstaben“</caption>
+      <caption lang="el">Δραστηριότητα "Κλικ σε κεφαλαίο γράμμα"</caption>
+      <caption lang="en-GB">"Click on an uppercase letter" activity</caption>
+      <caption lang="es">Actividad «Pulsa en una letra mayúscula»</caption>
+      <caption lang="et">"Klõpsa suurtähel" tegevus</caption>
+      <caption lang="eu">"Egin klik letra larri batean" jarduera</caption>
+      <caption lang="fi">”Napsauta suuraakkosta” -toiminto</caption>
+      <caption lang="fr">L'activité « Clique la lettre majuscule »</caption>
+      <caption lang="gl">Actividade de «Premer unha letra maiúscula»</caption>
+      <caption lang="he">פעילות "להקיש על האותיות הגדולות"</caption>
+      <caption lang="hi">"अपरकेस अक्षर पर क्लिक करें" क्रिया</caption>
+      <caption lang="hu">"Kattints egy nagybetűre" a  tevékenységekhez!</caption>
+      <caption lang="id">Aktivitas "Klik pada huruf kapital"</caption>
+      <caption lang="it">Attività «Fai clic su una lettera maiuscola»</caption>
+      <caption lang="ko">"대문자 누르기" 활동</caption>
+      <caption lang="lt">Pamokėlė „SPUSTELK IŠGIRSTĄ RAIDĘ“</caption>
+      <caption lang="mk">"Кликнете на голема буква" активност</caption>
+      <caption lang="ml">"ഒരു വലിയ അക്ഷരത്തിൽ ക്ലിക്ക് ചെയ്യുക" പ്രവർത്തനം</caption>
+      <caption lang="nl">"Click op een hoofdletter" activiteit</caption>
+      <caption lang="nn">Aktiviteten «Trykk på ein stor bokstav»</caption>
+      <caption lang="pl">Aktywność "klikania na wielkie litery"</caption>
+      <caption lang="pt">Actividade para "Carregar numa letra maiúscula"</caption>
+      <caption lang="pt-BR">Atividade "Clique em uma letra maiúscula"</caption>
+      <caption lang="ro">Activitatea "Clic pe o literă mare"</caption>
+      <caption lang="ru">Упражнение «Щёлкни по прописной букве»</caption>
+      <caption lang="sk">Aktivita "Kliknúť na veľké písmeno"</caption>
+      <caption lang="sl">Dejavnost "Kliknite na veliko črko"</caption>
+      <caption lang="sq">Veprimtaria ”Klikoni mbi një shkronjë të madhe”</caption>
+      <caption lang="sv">Aktiviteten "Klicka på en stor bokstav"</caption>
+      <caption lang="tr">"Büyük bir harfe tıkla" aktivite</caption>
+      <caption lang="uk">Вправа «Клацніть на великій літері»</caption>
+      <caption lang="x-test">xx"Click on an uppercase letter" activityxx</caption>
+      <caption lang="zh-CN">“点击一个大写字母” 活动</caption>
+      <caption lang="zh-TW">「在大寫字母上按一下」遊戲</caption>
+      <image height="1040" width="1600">https://gcompris.net/screenshots_qt/large/click_on_letter_up.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>"Learning Clock" activity</caption>
+      <caption lang="ar">نشاط "تعلم الساعة"</caption>
+      <caption lang="az">"Saatı öyrənin" çalışması</caption>
+      <caption lang="br">Obererezh "Horolajoù"</caption>
+      <caption lang="ca">Activitat «Rellotge d'aprenentatge»</caption>
+      <caption lang="ca-valencia">Activitat «Rellotge d'aprenentatge»</caption>
+      <caption lang="cs">Aktivita "Nauč se hodiny"</caption>
+      <caption lang="de">Aktivität „Lerne die Uhrzeit“</caption>
+      <caption lang="el">Δραστηριότητα "Ρολόι"</caption>
+      <caption lang="en-GB">"Learning Clock" activity</caption>
+      <caption lang="es">Actividad «Juego del reloj»</caption>
+      <caption lang="et">"Õpi kella tundma" tegevus</caption>
+      <caption lang="eu">"Erlojua ezagutzea" jarduera</caption>
+      <caption lang="fi">”Kellon oppiminen” -toiminto</caption>
+      <caption lang="fr">L'activité « Trouve l'heure »</caption>
+      <caption lang="gl">Actividade de «Aprender o reloxo»</caption>
+      <caption lang="he">פעילות "ללמוד לקרוא שעון"</caption>
+      <caption lang="hi">घड़ी सीखें</caption>
+      <caption lang="hu">"Óratanulás" tevékenység</caption>
+      <caption lang="id">Aktivitas "Mengenal Jam"</caption>
+      <caption lang="it">Attività «Impara l'orologio»</caption>
+      <caption lang="ko">"시계 익히기" 활동</caption>
+      <caption lang="lt">Pamokėlė „Pažink laikrodį“</caption>
+      <caption lang="mk">"Учење на часовникот" активност</caption>
+      <caption lang="ml">"ക്ലോക്ക് പഠനം" പ്രവർത്തനം</caption>
+      <caption lang="nl">Activiteit "Leren klok kijken</caption>
+      <caption lang="nn">Aktiviteten «Lær klokka»</caption>
+      <caption lang="pl">Aktywność "nauki zegara"</caption>
+      <caption lang="pt">Actividade para "Descobrir o Relógio"</caption>
+      <caption lang="pt-BR">Atividade "O Relógio"</caption>
+      <caption lang="ro">Activitatea de "Învățarea ceasului clasic"</caption>
+      <caption lang="ru">Упражнение «Изучение часов»</caption>
+      <caption lang="sk">Aktivita "Učenie hodín"</caption>
+      <caption lang="sl">Dejavnost "Učimo se poznati na uro"</caption>
+      <caption lang="sq">Veprimtaria “Mësoni Sahatin”</caption>
+      <caption lang="sv">Aktiviteten "Lär dig klockan"</caption>
+      <caption lang="tr">"Saatleri öğrenme" aktivite</caption>
+      <caption lang="uk">Вправа «Вивчення годинника»</caption>
+      <caption lang="x-test">xx"Learning Clock" activityxx</caption>
+      <caption lang="zh-CN">“学习时钟”活动</caption>
+      <caption lang="zh-TW">「學習時鐘」遊戲</caption>
+      <image width="1600" height="1040">https://gcompris.net/screenshots_qt/large/clockgame.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>"Mixing color of paint" activity</caption>
+      <caption lang="ar">نشاط "خلط الألوان"</caption>
+      <caption lang="az">"Boya rənglərinin qarışdırılması" çalışması</caption>
+      <caption lang="br">Obererezh "Kemmeskañ livioù pentur"</caption>
+      <caption lang="ca">Activitat «Mescla els colors de la pintura»</caption>
+      <caption lang="ca-valencia">Activitat «Mescla els colors de la pintura»</caption>
+      <caption lang="cs">Aktivita "Míchání tiskařských barev"</caption>
+      <caption lang="de">Aktivität „Farben mischen“</caption>
+      <caption lang="el">Δραστηριότητα "Μείξη χρωμάτων"</caption>
+      <caption lang="en-GB">"Mixing colour of paint" activity</caption>
+      <caption lang="es">Actividad «Mezcla de colores»</caption>
+      <caption lang="et">"Sega värve" tegevus</caption>
+      <caption lang="eu">"Margo koloreak nahastea" jarduera</caption>
+      <caption lang="fi">”Värien sekoitus” -toiminto</caption>
+      <caption lang="fr">L'activité « Mélange de la couleur de peinture »</caption>
+      <caption lang="gl">Actividade de «Mesturar a cor da pintura»</caption>
+      <caption lang="he">פעילות "לערבב צבעים עם צבע"</caption>
+      <caption lang="hi">पेंट के रंग मिलाएं</caption>
+      <caption lang="hu">"Színkeverés" tevékenység</caption>
+      <caption lang="id">Aktivitas "Mencampur warna cat"</caption>
+      <caption lang="it">Attività «Miscela la vernice colorata»</caption>
+      <caption lang="ko">"물감 색 섞기" 활동</caption>
+      <caption lang="lt">Pamokėlė „Dažų spalvų maišymas“</caption>
+      <caption lang="mk">"Мешање на бои" активност</caption>
+      <caption lang="ml">"ചായത്തിന്റെ നിറങ്ങൾ കൂട്ടിക്കലർത്താം" പ്രവർത്തനം</caption>
+      <caption lang="nl">Activiteit "Verfkleuren mengen"</caption>
+      <caption lang="nn">Aktiviteten «Blanda målingsfargar»</caption>
+      <caption lang="pl">Aktywność "mieszania barw"</caption>
+      <caption lang="pt">Actividade para "Misturar a cor das tintas"</caption>
+      <caption lang="pt-BR">Atividade "Mistura de tintas coloridas"</caption>
+      <caption lang="ro">Activitatea "Amestecul culorilor din vopsea"</caption>
+      <caption lang="ru">Упражнение «Смешение цветов краски»</caption>
+      <caption lang="sk">Aktivita "Miešanie farieb maľby"</caption>
+      <caption lang="sl">Dejavnost "Mešanje barv"</caption>
+      <caption lang="sq">Veprimtaria Zgjidhni ngjyrë veprimtarie skede</caption>
+      <caption lang="sv">Aktiviteten "Blanda målarfärger"</caption>
+      <caption lang="tr">"Renkli boya karışımı" aktivite</caption>
+      <caption lang="uk">Вправа «Змішування кольорів малюнка»</caption>
+      <caption lang="x-test">xx"Mixing color of paint" activityxx</caption>
+      <caption lang="zh-CN">“颜料混合颜色”活动</caption>
+      <caption lang="zh-TW">「混合顏色」遊戲</caption>
+      <image width="1600" height="1040">https://gcompris.net/screenshots_qt/large/color_mix.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>"Colors" activity</caption>
+      <caption lang="ar">نشاط "الألوان"</caption>
+      <caption lang="az">"Rənglər" çalışması</caption>
+      <caption lang="br">Obererezh "Livioù"</caption>
+      <caption lang="ca">Activitat «Colors»</caption>
+      <caption lang="ca-valencia">Activitat «Colors»</caption>
+      <caption lang="cs">Aktivita "Barvy"</caption>
+      <caption lang="de">Aktivität „Farben“</caption>
+      <caption lang="el">Δραστηριότητα "Χρώματα"</caption>
+      <caption lang="en-GB">"Colours" activity</caption>
+      <caption lang="es">Actividad «Colores»</caption>
+      <caption lang="et">"Värvide" tegevus</caption>
+      <caption lang="eu">"Koloreak" jarduera</caption>
+      <caption lang="fi">”Värit”-toiminto</caption>
+      <caption lang="fr">L'activité « Trouve la couleur »</caption>
+      <caption lang="gl">Actividade de «Cores»</caption>
+      <caption lang="he">פעילות "צבעים"</caption>
+      <caption lang="hi">रंगों की गतिविधि</caption>
+      <caption lang="hu">"Színek" tevékenység</caption>
+      <caption lang="id">Aktivitas "Mengenal warna"</caption>
+      <caption lang="it">Attività «Colori»</caption>
+      <caption lang="ko">"색깔" 활동</caption>
+      <caption lang="lt">Pamokėlė „Spalvos“</caption>
+      <caption lang="mk">"Бои" активност</caption>
+      <caption lang="ml">"നിറങ്ങൾ" പ്രവർത്തനം</caption>
+      <caption lang="nl">Activiteit "Kleuren"</caption>
+      <caption lang="nn">Aktiviteten «Fargar»</caption>
+      <caption lang="pl">Aktywność "barw"</caption>
+      <caption lang="pt">Actividade de "Cores"</caption>
+      <caption lang="pt-BR">Atividade "Cores"</caption>
+      <caption lang="ro">Activitatea "Culorile"</caption>
+      <caption lang="ru">Упражнение «Цвета»</caption>
+      <caption lang="sk">Aktivita "Farby"</caption>
+      <caption lang="sl">Dejavnost "Barve"</caption>
+      <caption lang="sq">Veprimtaria “Ngjyra”</caption>
+      <caption lang="sv">Aktiviteten "Färger"</caption>
+      <caption lang="tr">"Renkler" aktivite</caption>
+      <caption lang="uk">Вправа з кольорами</caption>
+      <caption lang="x-test">xx"Colors" activityxx</caption>
+      <caption lang="zh-CN">“颜色”活动</caption>
+      <caption lang="zh-TW">「顏色」遊戲</caption>
+      <image width="1600" height="1040">https://gcompris.net/screenshots_qt/large/colors.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>"Build the same model" activity</caption>
+      <caption lang="ar">نشاط "ابن نفس الطراز"</caption>
+      <caption lang="az">"Oxşar modeli qurun" çalışması</caption>
+      <caption lang="br">Obererezh "Krou ar memes skouer"</caption>
+      <caption lang="ca">Activitat «Construeix el mateix model»</caption>
+      <caption lang="ca-valencia">Activitat «Construeix el mateix model»</caption>
+      <caption lang="cs">Aktivita "Postav stejný model"</caption>
+      <caption lang="de">Aktivität „Baue das gleiche Modell“</caption>
+      <caption lang="el">Δραστηριότητα "Φτιάξε το ίδιο"</caption>
+      <caption lang="en-GB">"Build the same model" activity</caption>
+      <caption lang="es">Actividad «Grúa»</caption>
+      <caption lang="et">"Ehita samasugune mudel" tegevus</caption>
+      <caption lang="eu">"Eraiki eredu bera" jarduera</caption>
+      <caption lang="fi">”Rakenna sama malli” -toiminto</caption>
+      <caption lang="fr">L'activité « Reconstruis le modèle »</caption>
+      <caption lang="gl">Actividade de «Constrúe o mesmo modelo»</caption>
+      <caption lang="he">פעילות "לבנות את אותו דגם"</caption>
+      <caption lang="hi">वैसा ही बनाएँ गतिविधि</caption>
+      <caption lang="hu">"Építsd fel ugyanazt" tevékenység</caption>
+      <caption lang="id">Aktivitas "Bangun model yang sama"</caption>
+      <caption lang="it">Attività «Costruisci lo stesso modello»</caption>
+      <caption lang="ko">"같은 모델 만들기" 활동</caption>
+      <caption lang="lt">Pamokėlė „Sudėliok tokį patį modelį“</caption>
+      <caption lang="mk">"Изградете го истиот модел" активност</caption>
+      <caption lang="ml">"മാതൃക പോലെ നിർമ്മിക്കുക" പ്രവർത്തനം</caption>
+      <caption lang="nl">Activiteit "Bouw hetzelfde model"</caption>
+      <caption lang="nn">Aktiviteten «Bygg opp modellen»</caption>
+      <caption lang="pl">Aktywność "zbudowania tego samego modelu"</caption>
+      <caption lang="pt">Actividade para "Construir o mesmo modelo"</caption>
+      <caption lang="pt-BR">Atividade "Construa o mesmo modelo"</caption>
+      <caption lang="ro">Activitatea "Construiește același model"</caption>
+      <caption lang="ru">Упражнение «Построй такую же модель»</caption>
+      <caption lang="sk">Aktivita "Postaviť rovnaký model"</caption>
+      <caption lang="sl">Dejavnost "Izgradi enak model"</caption>
+      <caption lang="sq">Veprimtaria “Ndërtoni të njëjtin model”</caption>
+      <caption lang="sv">Aktiviteten "Bygg samma modell"</caption>
+      <caption lang="tr">"Aynı modeli inşa et" aktivite</caption>
+      <caption lang="uk">Вправа «Відтворіть модель»</caption>
+      <caption lang="x-test">xx"Build the same model" activityxx</caption>
+      <caption lang="zh-CN">“建立相同的模型”活动</caption>
+      <caption lang="zh-TW">「建立相同的模型」遊戲</caption>
+      <image width="1600" height="1040">https://gcompris.net/screenshots_qt/large/crane.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>"Count the items" activity</caption>
+      <caption lang="ar">نشاط "عد الأشياء"</caption>
+      <caption lang="az">"Elementləri sayın" çalışması</caption>
+      <caption lang="br">Obererezh "Kont an traoù"</caption>
+      <caption lang="ca">Activitat «Compta els elements»</caption>
+      <caption lang="ca-valencia">Activitat «Compta els elements»</caption>
+      <caption lang="cs">Aktivita "Spočítej položky"</caption>
+      <caption lang="de">Aktivität „Zähle die Gegenstände“</caption>
+      <caption lang="el">Δραστηριότητα "Μέτρα τα αντικείμενα"</caption>
+      <caption lang="en-GB">"Count the items" activity</caption>
+      <caption lang="es">Actividad «Enumeración»</caption>
+      <caption lang="et">"Loe esemed kokku" tegevus</caption>
+      <caption lang="eu">"Zenbatu elementuak" jarduera</caption>
+      <caption lang="fi">”Laske kohteet” -toiminto</caption>
+      <caption lang="fr">L'activité « Compte les éléments »</caption>
+      <caption lang="gl">Actividade de «Contar os elementos»</caption>
+      <caption lang="he">פעילות "למנות את הפריטים"</caption>
+      <caption lang="hi">सामान गिनने की गतिविधि</caption>
+      <caption lang="hu">"Számold meg a tárgyakat!" tevékenység</caption>
+      <caption lang="id">Aktivitas "Menghitung benda"</caption>
+      <caption lang="it">Attività «Conta gli oggetti»</caption>
+      <caption lang="ko">"물건 개수 세기" 활동</caption>
+      <caption lang="lt">Pamokėlė „Suskaičiuok elementus“</caption>
+      <caption lang="mk">"Изброј ги предметите" активност</caption>
+      <caption lang="ml">"എത്രയെണ്ണം?" പ്രവർത്തനം</caption>
+      <caption lang="nl">Activiteit "Tel het aantal items"</caption>
+      <caption lang="nn">Aktiviteten «Tel gjenstandane»</caption>
+      <caption lang="pl">Aktywność "zliczania elementów"</caption>
+      <caption lang="pt">Actividade para "Contar os itens"</caption>
+      <caption lang="pt-BR">Atividade "Contagem de itens"</caption>
+      <caption lang="ro">Activitatea "Numără elementele"</caption>
+      <caption lang="ru">Упражнение «Счёт предметов»</caption>
+      <caption lang="sk">Aktivita "Počítať položky"</caption>
+      <caption lang="sl">Dejavnost "Preštej predmete"</caption>
+      <caption lang="sq">Veprimtaria “Numëroni objektet”</caption>
+      <caption lang="sv">Aktiviteten "Räkna sakerna"</caption>
+      <caption lang="tr">"Nesneleri say" aktivite</caption>
+      <caption lang="uk">Вправа «Порахувати предмети»</caption>
+      <caption lang="x-test">xx"Count the items" activityxx</caption>
+      <caption lang="zh-CN">“计数”活动</caption>
+      <caption lang="zh-TW">「數一數物品」遊戲</caption>
+      <image height="1040" width="1600">https://gcompris.net/screenshots_qt/large/enumerate.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>"The fifteen game" activity</caption>
+      <caption lang="ar">نشاط "لعبة الخمسة عشر"</caption>
+      <caption lang="az">"Onbeşlik oyunu" çalışması</caption>
+      <caption lang="br">Obererezh "Ar miltamm lec'h-dilec'h"</caption>
+      <caption lang="ca">Activitat «El joc dels quinze»</caption>
+      <caption lang="ca-valencia">Activitat «El joc dels quinze»</caption>
+      <caption lang="cs">Aktivita "Hra patnáct"</caption>
+      <caption lang="de">Aktivität „Das Fünfzehn-Spiel“</caption>
+      <caption lang="el">Δραστηριότητα "Δεκαπέντε"</caption>
+      <caption lang="en-GB">"The fifteen game" activity</caption>
+      <caption lang="es">Actividad «Quince»</caption>
+      <caption lang="et">"Viieteistkümnemängu" tegevus</caption>
+      <caption lang="eu">"Hamabosteko jokoa" jarduera</caption>
+      <caption lang="fi">”Viisitoista-peli”-toiminto</caption>
+      <caption lang="fr">L'activité « Le jeu du taquin »</caption>
+      <caption lang="gl">Actividade de «O xogo dos quince»</caption>
+      <caption lang="he">פעילות "המשחק החמישהעשר"</caption>
+      <caption lang="hi">पंद्रह खेलों की गतिविधि</caption>
+      <caption lang="hu">"A 15-ös játék" tevékenység</caption>
+      <caption lang="id">Aktivitas "Permainan lima belas"</caption>
+      <caption lang="it">Attività «Il gioco del quindici»</caption>
+      <caption lang="ko">"15 게임" 활동</caption>
+      <caption lang="lt">Žaidimas „Penkiolika“</caption>
+      <caption lang="mk">"Петнаесеттата игра" активност</caption>
+      <caption lang="ml">"പതിനഞ്ചിന്റെ കളി" പ്രവർത്തനം</caption>
+      <caption lang="nl">Activiteit "Het vijftien-spel"</caption>
+      <caption lang="nn">Aktiviteten «Spelet 15»</caption>
+      <caption lang="pl">Aktywność "gra w piętnaście"</caption>
+      <caption lang="pt">Actividade do "Jogo dos quinze"</caption>
+      <caption lang="pt-BR">Atividade "O jogo do quinze"</caption>
+      <caption lang="ro">Activitatea "Jocul de cincisprezece"</caption>
+      <caption lang="ru">Упражнение «Пятнашки»</caption>
+      <caption lang="sk">Aktivita "Hra pätnásť"</caption>
+      <caption lang="sl">Dejavnost "Igra petnajst"</caption>
+      <caption lang="sq">Veprimtaria “Loja e pesëmbëdhjetëshes”</caption>
+      <caption lang="sv">Aktiviteten "Femtonspel"</caption>
+      <caption lang="tr">"On beş oyun" aktivite</caption>
+      <caption lang="uk">Вправа «Гра „П'ятнадцять“»</caption>
+      <caption lang="x-test">xx"The fifteen game" activityxx</caption>
+      <caption lang="zh-CN">“十五数字推盘”活动</caption>
+      <caption lang="zh-TW">「遊戲十五」</caption>
+      <image height="1040" width="1600">https://gcompris.net/screenshots_qt/large/fifteen.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>"Hexagon" activity</caption>
+      <caption lang="ar">نشاط "المضلع"</caption>
+      <caption lang="az">"Altıbucaqlı" çalışması</caption>
+      <caption lang="br">Obererezh "C'hwec'hkorn"</caption>
+      <caption lang="ca">Activitat «Hexàgon»</caption>
+      <caption lang="ca-valencia">Activitat «Hexàgon»</caption>
+      <caption lang="cs">Aktivita "Hexagon"</caption>
+      <caption lang="de">Aktivität „Sechseck“</caption>
+      <caption lang="el">Δραστηριότητα "Εξάγωνο"</caption>
+      <caption lang="en-GB">"Hexagon" activity</caption>
+      <caption lang="es">Actividad «Hexágono»</caption>
+      <caption lang="et">"Kuusnurga" tegevus</caption>
+      <caption lang="eu">"Hexagonoa" jarduera</caption>
+      <caption lang="fi">”Kuusiokulmio”-toiminto</caption>
+      <caption lang="fr">L'activité « Localise la fraise »</caption>
+      <caption lang="gl">Actividade de «Hexágono»</caption>
+      <caption lang="he">פעילות "מתומן"</caption>
+      <caption lang="hi">षटकोण गतिविधि</caption>
+      <caption lang="hu">"Hexagon" tevékenység</caption>
+      <caption lang="id">Aktivitas "Segi enam"</caption>
+      <caption lang="it">Attività «Esagono»</caption>
+      <caption lang="ko">"육각형" 활동</caption>
+      <caption lang="lt">Pamokėlė „Šešiakampis“</caption>
+      <caption lang="mk">"Шестаголник" активност</caption>
+      <caption lang="ml">"ഷഡ്ഭുജം" പ്രവർത്തനം</caption>
+      <caption lang="nl">Activiteit "Hexagon"</caption>
+      <caption lang="nn">Aktiviteten «Heksagon»</caption>
+      <caption lang="pl">Aktywność "sześciokąta"</caption>
+      <caption lang="pt">Actividade de "Hexágono"</caption>
+      <caption lang="pt-BR">Atividade "Hexágono"</caption>
+      <caption lang="ro">Activitatea "Hexagonul"</caption>
+      <caption lang="ru">Упражнение «Шестиугольники»</caption>
+      <caption lang="sk">Aktivita "Hexagón"</caption>
+      <caption lang="sl">Dejavnost "Šesterokotnik"</caption>
+      <caption lang="sq">Veprimtaria “Gjashtëkëndëshi”</caption>
+      <caption lang="sv">Aktiviteten "Hexagon"</caption>
+      <caption lang="tr">"Altıgen" aktivite</caption>
+      <caption lang="uk">Вправа «Шестикутник»</caption>
+      <caption lang="x-test">xx"Hexagon" activityxx</caption>
+      <caption lang="zh-CN">“六边形”活动</caption>
+      <caption lang="zh-TW">「六角形」遊戲</caption>
+      <image width="1600" height="1040">https://gcompris.net/screenshots_qt/large/hexagon.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>"Balance the scales properly" activity</caption>
+      <caption lang="ar">نشاط "وازن الأحجام بشكل صحيح"</caption>
+      <caption lang="az">"Tərəzinin tarazlığı" çalışması</caption>
+      <caption lang="br">Obererezh "Pouezerez Roberval"</caption>
+      <caption lang="ca">Activitat «Equilibra correctament la balança»</caption>
+      <caption lang="ca-valencia">Activitat «Equilibra correctament la balança»</caption>
+      <caption lang="cs">Aktivita "Správně vyrovnat váhy"</caption>
+      <caption lang="de">Aktivität „Balanciere die Waage genau aus“</caption>
+      <caption lang="el">Δραστηριότητα "Ισορρόπησε τη ζυγαριά"</caption>
+      <caption lang="en-GB">"Balance the scales properly" activity</caption>
+      <caption lang="es">Actividad «Balanzas»</caption>
+      <caption lang="et">"Kaalud tasakaalu" tegevus</caption>
+      <caption lang="eu">"Orekatu balantzak behar bezala" jarduera</caption>
+      <caption lang="fi">”Tasapainota vaaka oikein” -toiminto</caption>
+      <caption lang="fr">L'activité « Trouve le poids »</caption>
+      <caption lang="gl">Actividade de «Equilibra a balanza de forma axeitada»</caption>
+      <caption lang="he">פעילות "לאזן את המאזניים"</caption>
+      <caption lang="hi">तराजू बराबर करने की गतिविधि</caption>
+      <caption lang="hu">"Hozd egyensúlyba a mérleget!" tevékenység</caption>
+      <caption lang="id">Aktivitas "Seimbangkan timbangan"</caption>
+      <caption lang="it">Attività «Allinea correttamente i piatti della bilancia»</caption>
+      <caption lang="ko">"저울 균형 맞추기" 활동</caption>
+      <caption lang="lt">Pamokėlė „Subalansuok svarstykles“</caption>
+      <caption lang="mk">"Мерење со вага" активност</caption>
+      <caption lang="ml">"തട്ടുകളിലെ തൂക്കമൊപ്പിക്കൂ" പ്രവർത്തനം</caption>
+      <caption lang="nl">Activiteit "Breng de weegschaal in evenwicht"</caption>
+      <caption lang="nn">Aktiviteten «Få vekta i likevekt»</caption>
+      <caption lang="pl">Aktywność "zrównoważenia skal"</caption>
+      <caption lang="pt">Actividade para "Equilibrar as balanças adequadamente"</caption>
+      <caption lang="pt-BR">Atividade "Equilibre a balança"</caption>
+      <caption lang="ro">Activitatea "Echilibrează balanța"</caption>
+      <caption lang="ru">Упражнение «Равновесие на весах»</caption>
+      <caption lang="sk">Aktivita "Vyvážiť správne váhy"</caption>
+      <caption lang="sl">Dejavnost "Pravilno uravnoteži tehtnice"</caption>
+      <caption lang="sq">Veprimtaria “Baraspeshoni peshoret si duhet”</caption>
+      <caption lang="sv">Aktiviteten "Balansera vågen"</caption>
+      <caption lang="tr">"Teraziyi doğru şekilde dengele" aktivite</caption>
+      <caption lang="uk">Вправа «Рівновага на вагах»</caption>
+      <caption lang="x-test">xx"Balance the scales properly" activityxx</caption>
+      <caption lang="zh-CN">“平衡天平”活动</caption>
+      <caption lang="zh-TW">「讓天平平衡」遊戲</caption>
+      <image height="1040" width="1600">https://gcompris.net/screenshots_qt/large/scalesboard.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>"End of chess game" activity</caption>
+      <caption lang="ar">نشاط "نهاية لعبة الشطرنج"</caption>
+      <caption lang="az">"Şahmat oyununun son mərhələsi" çalışması</caption>
+      <caption lang="br">Obererezh "Dibenn an echedoù"</caption>
+      <caption lang="ca">Activitat «Final de la partida d'escacs»</caption>
+      <caption lang="ca-valencia">Activitat «Final de la partida d'escacs»</caption>
+      <caption lang="cs">Aktivita "Konec šachové partie"</caption>
+      <caption lang="de">Aktivität „Schach-Endspiele“</caption>
+      <caption lang="el">Δραστηριότητα "Το σκάκι στο τέλος"</caption>
+      <caption lang="en-GB">"End of chess game" activity</caption>
+      <caption lang="es">Actividad «Final de partida de ajedrez»</caption>
+      <caption lang="et">"Male lõppmängu" tegevus</caption>
+      <caption lang="eu">"Xake jokoaren amaierako zatia" jarduera</caption>
+      <caption lang="fi">”Šakin loppupeli” -toiminto</caption>
+      <caption lang="fr">L'activité « Le jeu des échecs »</caption>
+      <caption lang="gl">Actividade de «Final dunha partida de xadrez»</caption>
+      <caption lang="he">פעילות "סוף משחק שחמט"</caption>
+      <caption lang="hi">"शतरंज खेल की समाप्ति" क्रिया</caption>
+      <caption lang="hu">"Adj mattot!" tevékenység</caption>
+      <caption lang="id">Aktivitas "Akhir dari permainan catur"</caption>
+      <caption lang="it">Attività «Fine della partita a scacchi»</caption>
+      <caption lang="ko">"체스 게임" 활동</caption>
+      <caption lang="lt">Šachmatų žaidimo pabaiga (Endšpilis)</caption>
+      <caption lang="mk">"Крај на шаховска игра" активност</caption>
+      <caption lang="ml">"ചെസ്സു കളിയുടെ അവസാനം" പ്രവർത്തനം</caption>
+      <caption lang="nl">Activiteit "Eindspel van schaken"</caption>
+      <caption lang="nn">Aktiviteten «Sluttspel i sjakk»</caption>
+      <caption lang="pl">Aktywność "zakończeń partii szachowych"</caption>
+      <caption lang="pt">Actividade de "Fim de jogo de xadrez"</caption>
+      <caption lang="pt-BR">Atividade "Finalize o jogo de xadrez"</caption>
+      <caption lang="ro">Activitatea "Sfârșitul jocului de șah"</caption>
+      <caption lang="ru">Упражнение «Эндшпиль»</caption>
+      <caption lang="sk">Aktivita "Koniec šachovej hry"</caption>
+      <caption lang="sl">Dejavnost "Šahovska končnica"</caption>
+      <caption lang="sq">Veprimtari “Lojë fundi shahu”</caption>
+      <caption lang="sv">Aktiviteten "Slutet på schackspelet"</caption>
+      <caption lang="tr">"Santranç oyunu sona erdi" aktivite</caption>
+      <caption lang="uk">Вправа «Завершення гри у шахи»</caption>
+      <caption lang="x-test">xx"End of chess game" activityxx</caption>
+      <caption lang="zh-CN">“国际象棋游戏”活动</caption>
+      <caption lang="zh-TW">「西洋棋殘局」遊戲</caption>
+      <image width="1600" height="1040">https://gcompris.net/screenshots_qt/large/chess_partyend.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>"A sliding-block puzzle game" activity</caption>
+      <caption lang="ar">نشاط "لعبة حرك الكتل"</caption>
+      <caption lang="az">"Blokların yerini dəyişməklə tapmaca" çalışması</caption>
+      <caption lang="br">Obererezh "Torr-penn ar parkva"</caption>
+      <caption lang="ca">Activitat «Un joc de trencaclosques amb blocs que es desplacen»</caption>
+      <caption lang="ca-valencia">Activitat «Un joc de trencaclosques amb blocs que es desplacen»</caption>
+      <caption lang="cs">Aktivita "Hra s posouváním bloků"</caption>
+      <caption lang="de">Aktivität „Ein Schiebe-Puzzle“</caption>
+      <caption lang="el">Δραστηριότητα "Βγάζω το αυτοκίνητο"</caption>
+      <caption lang="en-GB">"A sliding-block puzzle game" activity</caption>
+      <caption lang="es">Actividad «Tráfico»</caption>
+      <caption lang="et">"Liuglevate klotside mängu" tegevus</caption>
+      <caption lang="eu">"Bloke irristagarrien puzzle joko bat" jarduera</caption>
+      <caption lang="fi">”Liukulohkopulmapeli” -toiminto</caption>
+      <caption lang="fr">L'activité « Embouteillage »</caption>
+      <caption lang="gl">Actividade de «Un crebacabezas de bloques que se moven»</caption>
+      <caption lang="he">פעילות "משחק הרכבה של לבנים מחליקות"</caption>
+      <caption lang="hi">"स्लाइडिंग-ब्लॉक पहेली खेल" क्रिया</caption>
+      <caption lang="hu">"Tologatós kirakó" tevékenység</caption>
+      <caption lang="id">Aktivitas "Permainan teka-teki menggeser balok"</caption>
+      <caption lang="it">Attività «Un rompicapo con blocchi scorrevoli»</caption>
+      <caption lang="ko">"블록 밀기 퍼즐 게임" 활동</caption>
+      <caption lang="lt">Stumdomų blokų dėlionė</caption>
+      <caption lang="mk">"Сложувалка со лизгачки блокови" активност</caption>
+      <caption lang="ml">"വഴി കണ്ടെത്തൽ" പ്രവർത്തനം</caption>
+      <caption lang="nl">Activiteit "Een puzzel met schuivende blokken"</caption>
+      <caption lang="nn">Aktiviteten «Skyvespel»</caption>
+      <caption lang="pl">Aktywność "puzzli z przesuwającym się puzzlem"</caption>
+      <caption lang="pt">Actividade de "Puzzle de blocos deslizantes"</caption>
+      <caption lang="pt-BR">Atividade "Quebra-cabeça com peças deslizantes"</caption>
+      <caption lang="ro">Activitatea "Un joc de puzzle cu blocuri glisante"</caption>
+      <caption lang="ru">Упражнение «Головоломка с подвижными блоками»</caption>
+      <caption lang="sk">Aktivita "Posuvné puzzle"</caption>
+      <caption lang="sl">Dejavnost "Sestavljanke drsečih blokov"</caption>
+      <caption lang="sq">Veprimtari “Lojë puzzle me blloqe të lëvizshëm”</caption>
+      <caption lang="sv">Aktiviteten "Ett pusselspel med glidande block"</caption>
+      <caption lang="tr">"Kayan blok yap boz oyunu" aktivite</caption>
+      <caption lang="uk">Вправа «Головоломка з пересувними блоками»</caption>
+      <caption lang="x-test">xx"A sliding-block puzzle game" activityxx</caption>
+      <caption lang="zh-CN">"滑块类游戏"活动</caption>
+      <caption lang="zh-TW">「滑動方塊」解謎遊戲</caption>
+      <image width="1600" height="1040">https://gcompris.net/screenshots_qt/large/traffic.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://gcompris.net/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=gcompris</url>
+  <url type="help">https://docs.kde.org/?application=gcompris</url>
+  <url type="donation">https://gcompris.net/donate-en.html</url>
+  <url type="translate">https://gcompris.net/wiki/Developer%27s_corner#Translation</url>
+  <update_contact>gcompris-devel@kde.org</update_contact>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>gcompris-qt</binary>
+  </provides>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="violence-desecration">none</content_attribute>
+    <content_attribute id="violence-slavery">none</content_attribute>
+    <content_attribute id="violence-worship">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="sex-homosexuality">none</content_attribute>
+    <content_attribute id="sex-prostitution">none</content_attribute>
+    <content_attribute id="sex-adultery">none</content_attribute>
+    <content_attribute id="sex-appearance">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+  <custom>
+    <value key="KDE::f_droid">https://f-droid.org/en/packages/net.gcompris.full/</value>
+    <value key="KDE::google_play">https://play.google.com/store/apps/details?id=net.gcompris.full</value>
+    <value key="KDE::windows_store">https://www.microsoft.com/store/apps/9pgxjtcxn8qm</value>
+  </custom>
+  <releases>
+    <release date="2022-04-13" version="2.4" />
+    <release version="2.3" date="2022-02-27" />
+    <release date="2022-02-24" version="2.2" />
+    <release date="2022-01-21" version="2.1" />
+    <release date="2021-12-17" version="2.0" />
+    <release version="1.1" date="2021-03-21" />
+    <release version="1.0" date="2020-11-19" />
+  </releases>
+</component>

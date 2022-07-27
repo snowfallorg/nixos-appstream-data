@@ -1,0 +1,1080 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>Pitivi is a video editor that aims to appeal to hobbyists and professionals alike, with a strong focus on efficiency, quality and usability. It integrates well with other applications and sports a beautiful user interface designed to be powerful yet easy to learn.</p>
+    <p>With a non-modal editing workflow, a framerate-independent and playhead-centric timeline, Pitivi allows you quickly and accurately trim, split and review your scenes. Pitivi's ripple and roll editing features allow spending more time on storytelling and less time on "pushing clips around".</p>
+    <p>Some other features include:</p>
+    <ul>
+      <li>Accepts any file formats supported by the GStreamer multimedia framework</li>
+      <li>Can animate hundreds of special effects and filters with keyframable properties</li>
+      <li>Ability to set custom aspect ratios, framerates and rendering presets</li>
+      <li>Easy to use crossfades and SMPTE transitions</li>
+      <li>Multihead-friendly with detachable user interface components</li>
+    </ul>
+  </description>
+  <description lang="bs">
+    <p>Pitivi je video editor koji ima za cilj da se svidii hobistima i profesionalcima podjednako, s jakim naglaskom na učinkovitosti kvalitete i upotrebljivosti. On se integrira s drugim aplikacijama i kao sportski lijepo korisničko sučelje dizajnirano da bude moćno, ali jednostavno za naučiti.</p>
+    <p>Uz ne-modalnog tijeka rada za uređivanje, framerate neovisan i playhead-centric timelajnom, Pitivi omogućuje brzo i precizno podrezivanje, podjelu i pregledavanje svoje scene. Pitivi je talasanje, zamotavanje i uređivanje značajki koje omogućuju trošenje više vremena na pripovijedanje i manje vremena na "guranje isječaka oko".</p>
+    <p>Neke druge značajke uključuju:</p>
+    <ul>
+      <li>Prihvaća sve formate datoteka koje podržavaju multimedijske okviru GStreamer</li>
+      <li>Može animirati stotine specijalnih efekata i filtera s keyframable svojstvima</li>
+      <li>Sposobnost za postavljanje  običaja i aspekata omjera, framerata i pružanje postavki</li>
+      <li>Jednostavan za korištenje crossfades i SMPTE prijelaza</li>
+      <li>Multi prijateljski s odvojivim korisničkim sučeljima komponenti</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>Pitivi és un editor de vídeo que vol ser atractiu per aficionats i professionals, amb un fort èmfasis en eficiència, qualitat i usabilitat. S'integra bé amb altres aplicacions i llueix una interfície d'usuari dissenyada per a ser potent però fàcil d'aprendre.</p>
+    <p>Amb un flux de treball d'edició no modal, una freqüència de fotogrames independent i una línia de temps, Pitivi us permet retallar, dividir i revisar les vostres pel·lícules ràpidament. Les característiques d'edició i desplaçament permeten invertir més temps en explicar la història i menys en moure seqüències amunt i avall.</p>
+    <p>Algunes altres característiques inclouen:</p>
+    <ul>
+      <li>Accepta qualsevol format de fitxer compatible amb l'entorn de treball multimèdia GStreamer</li>
+      <li>Pot animar centenars d'efectes especials i filtres amb propietats de fotogrames clau</li>
+      <li>Pot establir relacions d'aspecte personalitzades, freqüències i composició de fotogrames predefinides</li>
+      <li>Fosos i transicions SMPTE senzilles d'utilitzar</li>
+      <li>Components d'interfície d'usuari que es poden desacoblar i usar en múltiples pantalles</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>Pitivi je videoeditor, který si klade za cíl oslovit fandy i profesionály a který klade velký důraz na efektivitu, kvalitu a použitelnost. Je dobře integrován s dalšími aplikacemi a předvádí pěkné uživatelské rozhraní navržené s důrazem na snadné osvojení.</p>
+    <p>Pomocí volného průběhu úprav, časové ose nezávislé na snímkové rychlosti a s přehrávací hlavou, můžete v Pitivi scény velmi rychle a přitom přesně ořezávat, rozdělovat a kontrolovat. Díky řetězovým a svitkovým úpravám můžete více času věnovat vlastnímu příběhu a měně nudným pracem okolo.</p>
+    <p>Mezi dalšími funkcemi najdete:</p>
+    <ul>
+      <li>Zpracování libovolného formátu, který je podporován multimediálním rámcem GStreamer</li>
+      <li>Možnost animace pomocí stovek speciálních efektů a filtrů s vlastnosmi na klíčových snímcích</li>
+      <li>Schopnost nastavení vlastního poměru stran, snímkové rychlosti a předvoleb vykreslování</li>
+      <li>Snadné použití prolnutí a přechodů SMPTE</li>
+      <li>Podporu vícevláknového zpracování a odpojitelných součástí uživatelského rozhraní</li>
+    </ul>
+  </description>
+  <description lang="da">
+    <p>Pitivi er et program til redigering af videoer, som forsøger at appellere til både amatører og professionelle. Der er stort fokus på effektivitet, kvalitet og brugbarhed. Pitivi integrerer godt med andre programmer og har en flot brugergrænseflade, som er designet til at være funktionsrigt og dog let at lære.</p>
+    <p>Med en ikke-modal redigeringsarbejdsgang, en billedfrekvens-uafhængig og afspilningsmarkør-centreret tidslinje giver Pitivi dig mulighed for at trimme, opdele og gennemse dine scener. Pitivis redigeringsfunktioner “ripple” og “roll” lader dig bruge mere tid på historiefortælling og mindre tid på at flytte rundt på klip.</p>
+    <p>Andre funktioner inkluderer:</p>
+    <ul>
+      <li>Accepterer ethvert filformat, som understøttes af GStreamer-multimedierammen</li>
+      <li>Kan animere hundredvis af specialeffekter og filtre med egenskaber hvor der kan bruges nøglebilleder</li>
+      <li>Mulighed for at tilpasse højde-/breddeforhold, billedfrekvens og forudindstilling af gengivelse</li>
+      <li>Glidende overgange og SMPTE-overgange der er nemme at bruge</li>
+      <li>Nem at bruge på flere skærme med brugergrænsefladekomponenter der kan løsrives</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>Pitivi ist ein Videoeditor, der sowohl Hobbyisten als auch Profis ansprechen soll, mit einem starken Fokus auf Effizienz, Qualität und Benutzerfreundlichkeit. Er lässt sich gut in andere Anwendungen integrieren und verfügt über eine schöne Benutzeroberfläche, die leistungsstark und dennoch leicht zu erlernen ist.</p>
+    <p>Mit einem nicht-modalen Schnitt-Workflow, einer Bildwiederholungsraten-unabhängigen und Abspielkopf-zentrierten Zeitleiste ermöglicht Pitivi das schnelle und präzise Trimmen, Aufteilen und Überprüfen Ihrer Szenen. Pitivis Bearbeitungsfunktionen »Löschen und Lücke schließen« (engl. ripple edit) und »Rollen« (engl. roll edit) ermöglichen es, mehr Zeit auf das Erzählen der Geschichte und weniger Zeit auf das "Herumschieben von Clips" zu verwenden.</p>
+    <p>Weitere Funktionen:</p>
+    <ul>
+      <li>Akzeptiert alle Dateiformate, die vom Multimedia-Framework GStreamer unterstützt werden</li>
+      <li>Kann hunderte von Spezialeffekten und Filter mit parametrierbaren Eigenschaften animieren</li>
+      <li>Die Möglichkeit, benutzerdefinierte Seitenverhältnisse, Bildwiederholraten und Erstellungs-Voreinstellungen einzustellen</li>
+      <li>Einfach zu benutzende Überblendungen und SMPTE-Übergänge</li>
+      <li>Multi-Monitor-freundlich mit loslösbaren Benutzeroberflächenelementen</li>
+    </ul>
+  </description>
+  <description lang="el">
+    <p>Το Pitivi είναι ένας επεξεργαστής βίντεο που σκοπεύει να προσελκύσει ερασιτέχνες και επαγγελματίες, που αποβλέπουν σε αποτελεσματικότητα, ποιότητα και χρηστικότητα. Ενσωματώνεται καλά με άλλες εφαρμογές και επιδεικνύει μια όμορφη διεπαφή χρήστη σχεδιασμένη να είναι ισχυρή αλλά και εύκολη στην εκμάθηση.</p>
+    <p>Με μια μη αναγκαστική ροή εργασίας της επεξεργασίας, μια λωρίδα χρόνου ανεξάρτητη από τον ρυθμό λήψεων και την κεντρική κεφαλή αναπαραγωγής, το Pitivi σας επιτρέπει να περικόψετε, να διαιρέσετε και να επιθεωρήσετε τις σκηνές σας γρήγορα και με ακρίβεια. Τα γνωρίσματα επεξεργασίας κυματισμού και κύλισης επιτρέπυν την διάθεση περισσότερου χρόνου στην αφήγηση και λιγότερο χρόνο στην "προώθηση κομματιών ολόγυρα".</p>
+    <p>Κάποια άλλα γνωρίσματα περιλαμβάνουν:</p>
+    <ul>
+      <li>Αποδοχή οποιασδήποτε μορφής αρχείου όπου υποστηρίζεται από το πλαίσιο πολυμέσων GStreamer</li>
+      <li>Δυνατότητα απεικόνισης εκατοντάδων ειδικών εφέ και φίλτρων με ιδιότητες βασικού πλαισίου</li>
+      <li>Δυνατότητα ορισμού προσαρμοσμένων αναλογιών διαστάσεων, ρυθμών λήψεων και απόδοσης προεπιλογών</li>
+      <li>Εύχρηστες σταδιακές μίξεις και μεταβάσεις SMPTE</li>
+      <li>Φιλική πολλαπλή κεφαλή με αποσπώμενα συστατικά διεπαφής χρήστη</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>Pitivi es un editor de vídeo que pretende atraer a aficionados y profesionales por igual, orientado a la usabilidad, la eficiencia y la calidad. Se integra bien con otras aplicaciones y tiene una bonita interfaz diseñada para ser potente y fácil de usar.</p>
+    <p>Con un flujo de trabajo de edición no modal, una tasa de fotogramas independiente y una línea de tiempo centrada, Pitivi le permite recortar, dividir y revisar sus películas rápidamente. Las características de edición de remolino y de desplazamiento permiten invertir más tiempo en contar la historia y menos en recortar los vídeos.</p>
+    <p>Entre otras características se incluyen:</p>
+    <ul>
+      <li>Acepta cualquier formato de archivo soportado por el entorno de trabajo multimedia GStreamer</li>
+      <li>Puede animar cientos de efectos especiales y filtros con fotogramas</li>
+      <li>Posibilidad de establecer relaciones de aspecto personalizadas, y configuraciones predefinidas de tasas de fotogramas y renderizado</li>
+      <li>Posibilidad de usar fundidos y transiciones SMPTE</li>
+      <li>Adaptado para varias pantallas con componentes de la interfaz de usuario desacoplables</li>
+    </ul>
+  </description>
+  <description lang="eu">
+    <p>Pitivi zaleentzako nahiz profesionalentzako bideo-editore bat da, eta eraginkortasuna, kalitatea eta erabilgarritasuna lehenesten ditu. Ondo integratzen da beste aplikazioekin; eta erabiltzaile-interfaze polita dauka, ahaltsua eta ikasteko erraza izateko diseinatua.</p>
+    <p>Pitivi-n, ediziorako lan-fluxua ez-modala da, eta denbora-lerroa, berriz, fotograma-abiadurarekiko independentea eta erreprodukzio-puntuan zentratua; hala, Pitivi-rekin, bizkor eta zehazki moztu, zatitu eta berrikus daitezke eszenak. Mozketak egitean sekuentziak egokitzeko Pitivi-k dituen "ripple" eta "roll" edizio-tresnei esker, denbora gehiago emango duzu istorioak kontatzen eta gutxiago sekuentziak eskuz moldatzen.</p>
+    <p>Ezaugarri hauek ere baditu, besteak beste:</p>
+    <ul>
+      <li>GStreamer multimedia-sistemak onartzen duen edozein fitxategi-formatu onartzen du</li>
+      <li>Ehunka efektu berezi eta iragazki anima ditzake, fotograma gakoen propietateak erabiliz</li>
+      <li>Aukera ematen du aspektu-erlazio pertsonalizatuak, fotograma-abiadurak eta errendatze lehenetsiak ezartzeko</li>
+      <li>Erraz erabiltzeko nahaste gurutzatuak eta SMPTE trantsizioak</li>
+      <li>Aldi berean pantaila bat baino gehiagotan erabiltzeko egokia da, erabiltzaile-interfazearen osagaiak desuztartzen baitzaizkio</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>Pitivi on videomuokkain, jonka on tarkoitus täyttää harrastajien ja ammattilaisten tarpeet keskittymällä käytettävyyteen, tehokkuuteen ja laatuun. Se integroituu hyvin muihin sovelluksiin ja tarjoaa nätin käyttöliittymän, joka on samanaikaisesti tehokas käyttää että helppo oppia.</p>
+    <p>Muita ominaisuuksia:</p>
+    <ul>
+      <li>Hyväksyy kaikki GStreamer-multimediakehyksen tukemat tiedostomuodot</li>
+      <li>Mahdollisuus asettaa omavalintaisia kuvasuhteita, kehysnopeuksia ja renderöintiesivalintoja</li>
+      <li>Helppokäyttöiset ristiinhäivytykset ja SMPTE-siirtymät</li>
+      <li>Toimii mainiosti usealla näytöllä, käyttöliittymän elementit ovat irrotettavissa ja siirrettävissä</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>Un éditeur vidéo visant aussi bien les passionnés que les professionnels, avec un fort accent sur la convivialité, l'efficacité et la qualité. Pitivi s'intègre harmonieusement avec les autres logiciels et présente une magnifique interface utilisateur conçue pour être puissante tout en restant simple à apprendre.</p>
+    <p>Avec son flux de travail non modal, sa piste de montage indépendante de la cadence d'images et centrée sur le point de lecture, Pitivi vous permet de rogner, scinder et réviser vos scènes rapidement et avec précision. Les fonctions agiles de déplacement de séquences de Pitivi permettent de passer plus de temps sur le scénario dans son ensemble et moins de temps à manipuler des séquences.</p>
+    <p>Parmi les autres fonctionnalités :</p>
+    <ul>
+      <li>Accepte tout format de fichier pris en charge par le système multimédia GStreamer</li>
+      <li>Sait combiner des centaines de filtres et d'effets spéciaux avec des propriétés par image-clé</li>
+      <li>Permet de personnaliser les rapports d'affichage, la cadence d'images et les pré-réglages de rendu</li>
+      <li>Fondus enchaînés et transitions SMPTE faciles à utiliser</li>
+      <li>Compatible avec le multi-écrans par ses composants d'interface détachables</li>
+    </ul>
+  </description>
+  <description lang="hu">
+    <p>A Pitivi videoszerkesztő célja vonzónak lenni az amatőröknek és szakembereknek egyaránt, nagy hangsúlyt fektetve a hatékonyságra, minőségre és használhatóságra. Jól integrálódik más alkalmazásokhoz, és gyönyörű felhasználói felülete van, amelyet hatékonynak, de könnyen tanulhatónak terveztek.</p>
+    <p>Nem kizárólagos szerkesztési munkamenettel, a képkockasebesség-független és lejátszófej-központú idővonallal a Pitivi lehetővé teszi a jelenetek gyors és pontos vágását, felosztását és áttekintését. A Pitivi szerkesztési funkciói lehetővé teszik, hogy több időt töltsön a történetmeséléssel, és kevesebbet a klipek „tologatásával”.</p>
+    <p>Néhány további funkció:</p>
+    <ul>
+      <li>Bármely, a GStreamer multimédiás keretrendszer által támogatott fájlformátumot elfogad</li>
+      <li>Több száz speciális effektust és szűrőt tud animálni, kulcsképkockával ellátható tulajdonságokkal</li>
+      <li>Képes egyéni méretarányok, képkockasebességek és renderelési előbeállítások használatára</li>
+      <li>Egyszerűen használható keresztátmenetek és SMPTE átmenetek</li>
+      <li>Több monitoron is használható a leválasztható felületi összetevőinek köszönhetően</li>
+    </ul>
+  </description>
+  <description lang="id">
+    <p>Pitivi adalah penyunting video yang bertujuan menarik para penggemar maupun profesional, dengan fokus yang kuat pada efisiensi, kualitas, dan kegunaan. Ini terintegrasi secara baik dengan aplikasi lain dan menyajikan antarmuka pengguna yang indah, yang dirancang untuk kuat namun mudah dipelajari.</p>
+    <p>Dengan alur kerja penyuntingan non-modal, lini masa yang bebas laju bingkai dan berpusat playhead, Pitivi memungkinkan Anda dengan cepat dan akurat memangkas, memecah, dan meninjau skenario Anda. Fitur penyuntingan 'ripple and roll' Pitivi memungkinkan lebih banyak waktu untuk bercerita dan sedikit waktu untuk "menggeser-geser klip".</p>
+    <p>Fitur lain termasuk:</p>
+    <ul>
+      <li>Menerima sebarang format berkas yang didukung oleh framework multimedia GStreamer</li>
+      <li>Dapat menganimasikan ratusan efek khusus dan menyaring dengan properti yang dapat di-keyframe-kan</li>
+      <li>Kemampuan menata rasio aspek, laju bingkai, dan perenderan ubahan</li>
+      <li>Transisi SMPTE dan pudar silang yang mudah dipakai</li>
+      <li>Mendukung tampilan ganda dengan komponen antarmuka pengguna yang dapat dilepas</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>Pitivi è un editor video destinato sia ad appassionati che a professionisti, concepito badando soprattutto alla qualità, all'efficienza ed all'usabilità. Si integra bene con altre applicazioni e si avvale di una bella interfaccia, concepita per essere potente ma anche facile da comprendere.</p>
+    <p>Grazie a una gestione del processo di editing di tipo non modale, l'indipendenza dal frame rate delle clip e la linea temporale che si avvale del cursore di riproduzione, Pitivi permette velocemente e con accuratezza: regolazione, taglio e revisione delle scene. Le caratteristiche di editing di Pitivi mediante ripple e roll, permettono di investire più tempo a raccontare storie e meno a “trascinare le clip”.</p>
+    <p>Altre caratteristiche di Pitivi:</p>
+    <ul>
+      <li>Riconoscimento di ogni formato supportato dal framework multimediale di GStreamer</li>
+      <li>Utilizzo di centinaia di effetti speciali e filtri con proprietà definibili da fotogrammi chiave</li>
+      <li>Possibilità di definire proporzioni personalizzate, frequenza dei fotogrammi e preset per il render finale</li>
+      <li>Dissolvenze incrociate facili da usare e transizioni basate su codice SMPTE</li>
+      <li>Predisposizione al multi-monitor grazie a componenti di interfaccia staccabili</li>
+    </ul>
+  </description>
+  <description lang="lt">
+    <p>Pitivi yra vaizdo įrašų redaktorius, kuris siekia patikti panašiams hobiistams ir profesionalams, daug dėmesio skiriant naudojamumui, efektyvumui ir kokybei. Jis gerai integruojasi su kitomis programomis bei turi gražią naudotojo sąsają, sukurtą taip, kad būtų galinga, bet tuo pat metu lengva išmokti.</p>
+    <p>Su nemodaline redagavimo seka, nuo kadrų dažnio nepriklausančia bei grojimo galvute paremta laiko linija Pitivi leidžia greitai ir tiksliai sutrumpinti, padalinti ir peržiūrėti scenas. Pitivi redagavimo savybės leidžia daugiau laiko praleisti kuriant istoriją ir mažiau klipų stumdymui.</p>
+    <p>Kai kurios kitos savybės:</p>
+    <ul>
+      <li>Palaiko bet kurį GStreamer daugialypės terpės karkaso palaikomą failo formatą</li>
+      <li>Turi daugybę specialiųjų efektų ir filtrų su kadrų savybėmis</li>
+      <li>Galimybė nustatyti pasirinktines proporcijas, kadrų dažnius ir piešimo išankstinius nustatymus</li>
+      <li>Lengvai naudojami kryžiaus ir SMOTE perėjimai</li>
+      <li>Pritaikytas daugeliui galvų su atkabinamais naudotojo sąsajos komponentais</li>
+    </ul>
+  </description>
+  <description lang="lv">
+    <p>Pitivi ir video redaktors, kas paredzēts amatieriem un profesionāļiem, ar spēcīgu uzsvaru uz efektivitāti, kvalitāti un lietojamību. Tas labi integrējas ar citām lietotnēm un izceļas ar skaistu lietotāja saskarni, kura ir izstrādāta jaudīga, taču viegli apgūstama.</p>
+    <p>Ar ne-modālu rediģēšanas darbplūsmu, no kadru nomaiņas ātruma neatkarīgu un uz atskaņošanas galviņu orientētu laika skalu Pitivi ļauj jums ātri un precīzi apcirpt, sadalīt un pārskatīt savas ainas. Pitivi pulsāciju un spolēšanas rediģēšanas iespējas ļauj pavadīt vairāk laika stāstījumā, bet mazāk "pārvietojot apkārt klipus".</p>
+    <p>Daži citi līdzekļi iekļauj:</p>
+    <ul>
+      <li>Pieņem jebkurus GStreamer multimediju satvara atbalstītus datņu formātus</li>
+      <li>Var animēt simtiem speciālo efektu un filtrus ar atslēgas kadru spējīgām īpašībām</li>
+      <li>Spēja iestatīt pielāgotas malu proporcijas, kadru nomaiņas ātrumus un renderēšanas priekšiestatījumus</li>
+      <li>Viegli lietojamas krustpārejas un SMPTE pārejas</li>
+      <li>Vairākgalviņu draudzīgs ar atdalāmām lietotāja saskarnes komponentēm</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <p>Edytor plików wideo przeznaczony dla hobbistów i zawodowców, oferujący użyteczność, wydajność i jakość. Integrując się ze środowiskiem GNOME i innymi programami, Pitivi ma prosty, lecz jednocześnie oferujący wiele możliwości interfejs użytkownika.</p>
+    <p>Dzięki niemodalnemu montażowi oraz niezależnej od liczby klatek i opartej o głowicę osi czasu, Pitivi umożliwia szybkie i dokładne przycinanie, dzielenie i przeglądanie tworzonych scen. Funkcje montażu programu Pitivi pozwalają spędzić więcej czasu na opowiadaniu historii, a mniej na „przerzucaniu” klipów.</p>
+    <p>Inne funkcje obejmują:</p>
+    <ul>
+      <li>Można używać wszystkich formatów plików obsługiwanych przez bibliotekę multimedialną GStreamer</li>
+      <li>Można animować setki efektów specjalnych i filtrów za pomocą właściwości klatek kluczowych</li>
+      <li>Możliwość ustawiania własnych proporcji, liczby klatek i opcji renderowania</li>
+      <li>Łatwe w użyciu efekty przenikania i przejścia SMPTE</li>
+      <li>Możliwość odłączania elementów interfejsu użytkownika, co ułatwia korzystanie z wielu monitorów</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>O Pitivi é um editor de vídeo que tem por objetivo agradar a amadores mas também a profissionais, com forte foco na usabilidade, eficiência e qualidade. Com boa integração com outras aplicações, o Pitivi ostenta um ambiente gráfico bonito, projetado para ser poderoso e de fácil aprendizagem.</p>
+    <p>Com um fluxo de trabalho de edição não-modal, independente de taxa de molduras e cronologia centrada no indicador de reprodução, o Pitivi permite que apare divida e reveja rapidamente e com precisão as suas cenas. Os recursos de edição de ondular e rolar do Pitivi permitem que dedique mais tempo à narração e menos tempo "empurrando clipes por aí".</p>
+    <p>Algumas outras características incluem:</p>
+    <ul>
+      <li>Aceitar quaisquer formatos de ficheiro suportados pela estrutura multimédia do GStreamer</li>
+      <li>Poder aplicar centenas de efeitos especiais e filtros com propriedades de molduras chave</li>
+      <li>Capacidade para definir proporções, taxas de moldura e predefinições de entrega personalizadas</li>
+      <li>Transições SMPTE e graduais fáceis de usar</li>
+      <li>Ajustável a multijanela, com componentes do ambiente gráfico destacáveis</li>
+    </ul>
+  </description>
+  <description lang="pt_BR">
+    <p>O Pitivi é um editor de vídeo que tem por objetivo atrair amadores e também profissionais, com forte foco em usabilidade, eficiência e qualidade. Com boa integração com outros aplicativos, o Pitivi ostenta uma bela interface gráfica projetada para ser poderosa e ainda de fácil aprendizagem.</p>
+    <p>Com um fluxo de trabalho de edição não-modal, independente de taxa de quadros e linha de tempo centrada no indicador de reprodução, o Pitivi permite que você rapidamente e com precisão apare, divida e reveja suas cenas. Os recursos de edição de ondulação e rolagem do Pitivi permitem que você dedique mais tempo à narração e menos tempo “empurrando clipes por aí”.</p>
+    <p>Algumas outras características incluem:</p>
+    <ul>
+      <li>São aceitos quaisquer formatos de arquivos suportados pelo framework multimídia do GStreamer</li>
+      <li>Pode-se aplicar centenas de efeitos especiais e filtros com propriedades de quadros chave</li>
+      <li>Há capacidade para definir taxas de proporção, taxas de quadros e predefinições de renderização personalizadas</li>
+      <li>Transições SMPTE e graduais fáceis de usar</li>
+      <li>Capacidade de multi-janela, com componentes destacáveis de interface gráfica</li>
+    </ul>
+  </description>
+  <description lang="ro">
+    <p>Pitivi este un editor video ce urmărește să apeleze la amatori și profesioniști, concentrat puternic pe eficiență, calitate și utilizabilitate. Se integrează bine cu alte aplicații și vine cu o frumoasă interfață pentru utilizatori concepută să fie puternică dar ușor de învățat.</p>
+    <p>Alte caracteristici includ:</p>
+    <ul>
+      <li>Acceptă orice formate suportate de platforma multimedia GStreamer</li>
+      <li>Poate anima sute de efecte speciale și filtre cu proprietăți pentru cadrele cheie</li>
+      <li>Abilitatea de a stabili rapoartele de aspect, rata de cadre și prestabilirile de randare</li>
+      <li>Ușor de utilizat tranzițiile translucide și SMPTE</li>
+    </ul>
+  </description>
+  <description lang="ru">
+    <p>Pitivi это видеоредактор для любителей и полупрофессионалов с основным акцентом на удобстве в использовании, эффективности и качества. Он хорошо интегрируется с другими приложениями и обладает мощным, но простым в изучении пользовательским интерфейсом.</p>
+    <p>Благодаря немодальному режиму работы и независимости от кадровой частоты на монтажном столе, работа на котором ориентирована на указатель воспроизведения. С помощью Pitivi можно точно и быстро обрезать, разделить и просмотреть сцены. Великолепные возможности по редактированию Pitivi предоставят вам возможность сосредоточиться на материале и тратить меньше времени на бессмысленное передвижение клипов.</p>
+    <p>Среди прочих возможностей:</p>
+    <ul>
+      <li>Читает любые файлы, поддерживаемые мультимедийным фреймворком GStreamer</li>
+      <li>Может анимировать сотни спецэффектов и фильтров по ключевым кадрам</li>
+      <li>Возможность установки собственных форматов изображения, кадровой частоты и предустановок сборки</li>
+      <li>Использование системных переходов и переходов SMPTE</li>
+      <li>Поддерживает работу с двумя и более мониторами с переносом элементов интерфейса между экранами</li>
+    </ul>
+  </description>
+  <description lang="sk">
+    <p>Pitivi je editor videa určený pre nadšencov a profesionálov so silným zameraním na efektivitu, kvalitu a použiteľnosť. Je dobre integrovaný s ďalšími aplikáciami a má elegantný vzhľad s dôrazom na ľahko osvojiteľné a výkonné ovládanie.</p>
+    <p>S nepovinným postupom úpravy, nezávislom na počte snímok za sekundu a priamym prehrávaním v smere časovej osi umožňuje Pitivi rýchlo a presne orezať, rozdeliť a prehliadať vaše scény.  Vďaka reťazovým a zvitkovým úpravám umožňuje venovať viac času rozprávaniu príbehu ako „preťahovaniu klipov dookola“.</p>
+    <p>Medzi ďalšie funkcie patrí:</p>
+    <ul>
+      <li>Použitie formátov súborov, ktoré sú podporované multimediálnym frameworkom GStreamer</li>
+      <li>Možnosť animácie so stovkami špeciálnych efektov a filtrov s vlastnosťami na kľúčové snímky</li>
+      <li>Možnosť nastaviť vlastné proporcie, počet snímkov za sekundu a predvoľby vykresľovania</li>
+      <li>Jednoduché využitie prelínania a prechodov SMPTE</li>
+      <li>Viac vláknové spracovanie s využitím odpojiteľných komponentov používateľského rozhrania</li>
+    </ul>
+  </description>
+  <description lang="sl">
+    <p>Montažni program za video, namenjen navdušencem in strokovnjakom, z močnim poudarkom na uporabnosti, učinkovitosti in kakovosti. Dobro je integriran z drugimi programi in krasi ga lep uporabniški vmesnik, zaradi katerega je kljub vsej funkcionalnosti enostaven za učenje.</p>
+    <p>Med drugimi novostmi so tudi:</p>
+    <ul>
+      <li>Sprejmi katerikoli zapis, podprt v okolju GStreamer</li>
+      <li>Za uporabo enostavni prelivi in prehodi SMPTE</li>
+    </ul>
+  </description>
+  <description lang="sr">
+    <p>Питиви је видео уређивач који има за циљ да се подједнако допадне хобистима и професионалцима, са јаким нагласком на делотворност, квалитет и употребљивост. Одлично се обједињује са другим програмима и поседује лепо корисничко сучеље осмишљено да буде снажно и лако за учење.</p>
+    <p>Са не-модалним радним током уређивања, временском линијом средишне прве позиције независном од протока кадра, Питиви вам омогућава да брзо и тачно скратите, поделите и прегледате ваше сцене. Питивијеве уређивачке функције таласања и котрљања обезбеђују више времена на разради теме а мање на „премештању снимака унаоколо“.</p>
+    <p>У остале функције спадају:</p>
+    <ul>
+      <li>Прихвата било који запис датотеке подржан Гстримеровим мултимедијским радним склопом</li>
+      <li>Може да произведе стотине посебних ефеката и пропусника са својствима кључног кадра</li>
+      <li>Способност постављања произвољних односа размере, протока кадрова и подешавања исцртавања</li>
+      <li>Постепено исчезавање и СМПТЕ прелази лаки за коришћење</li>
+      <li>Вишеглавна корисност са откачивим састојцима корисничког сучеља</li>
+    </ul>
+  </description>
+  <description lang="sr@latin">
+    <p>Pitivi je video uređivač koji ima za cilj da se podjednako dopadne hobistima i profesionalcima, sa jakim naglaskom na delotvornost, kvalitet i upotrebljivost. Odlično se objedinjuje sa drugim programima i poseduje lepo korisničko sučelje osmišljeno da bude snažno i lako za učenje.</p>
+    <p>Sa ne-modalnim radnim tokom uređivanja, vremenskom linijom središne prve pozicije nezavisnom od protoka kadra, Pitivi vam omogućava da brzo i tačno skratite, podelite i pregledate vaše scene. Pitivijeve uređivačke funkcije talasanja i kotrljanja obezbeđuju više vremena na razradi teme a manje na „premeštanju snimaka unaokolo“.</p>
+    <p>U ostale funkcije spadaju:</p>
+    <ul>
+      <li>Prihvata bilo koji zapis datoteke podržan Gstrimerovim multimedijskim radnim sklopom</li>
+      <li>Može da proizvede stotine posebnih efekata i propusnika sa svojstvima ključnog kadra</li>
+      <li>Sposobnost postavljanja proizvoljnih odnosa razmere, protoka kadrova i podešavanja iscrtavanja</li>
+      <li>Postepeno isčezavanje i SMPTE prelazi laki za korišćenje</li>
+      <li>Višeglavna korisnost sa otkačivim sastojcima korisničkog sučelja</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <p>Pitivi är en videoredigerare med inriktning på både hobbyanvändare och professionella, med ett starkt fokus på effektivitet, kvalitet och användbarhet. Det integrerar bra med andra program och har ett vackert användargränssnitt framtaget för att vara kraftfullt och enkelt.</p>
+    <p>Med ett icke-modalt arbetsflöde för redigering, en bildfrekvensoberoende och uppspelningshuvudcentrerad tidslinje, gör Pitivi det möjligt för dig att snabbt och korrekt trimma, dela och förhandsgranska dina scener. Pitivis krusnings- och rullredigeringsmöjligheter gör det möjligt att lägga tiden på historieberättande istället för att ”flytta omkring klipp”.</p>
+    <p>Några andra funktioner:</p>
+    <ul>
+      <li>Accepterar alla filformat som stöds av multimediaramverket GStreamer</li>
+      <li>Kan animera hundratals specialeffekter och filter med nyckelbildsegenskaper</li>
+      <li>Förmåga att ange anpassade bildförhållanden, bildfrekvens och renderingsförinställningar</li>
+      <li>Lätt att använda övertoningar och SMPTE-övergångar</li>
+      <li>Flerskärmsvänlig med frånkopplingsbara användarkomponenter</li>
+    </ul>
+  </description>
+  <description lang="tr">
+    <p>Pitivi meraklıları ve uzman sayılacak kişileri hedefleyen, nitelik, kullanılabilirlik ve etkinlik üzerine güçlüce eğilen video düzenleyicidir. Diğer uygulamalarla iyi tümleşir ve güçlü olduğu kadar kolay öğrenilebilen kullanıcı arayüzü sunar.</p>
+    <p>Kipsel olmayan bir düzenleme iş akışıyla, çerçeve oranı bağımsız ve oynatma başı merkezli zaman çizelgesi ile, Pitivi sahnelerinizi hızlıca ve doğru olarak bölmenizi, gözden geçirmenizi ve düzeltmenizi sağlar. Pitivi’nin dalgalanma ve yuvarlanma düzenleme özellikleri "klipleri çevreye itelemek" yerine hikaye anlatımı üzerinde daha çok zaman geçirmenizi sağlar.</p>
+    <p>Diğer bazı özellikleri arasında şunlar yer alır:</p>
+    <ul>
+      <li>GStreamer çokluortam çatısınca desteklenen her tür dosya biçimini kabul eder</li>
+      <li>Yüzlerce özel efekti canlandırabilir ve anahtar çerçevelenebilir özelliklerle süzebilir</li>
+      <li>Özel en boy oranları, çerçeve oranları ve gerçekleme önayarlamaları ayarlama olanağı</li>
+      <li>Kullanımı kolay çapraz geçişler ve SMPTE geçişleri</li>
+      <li>Ayrılabilir kullanıcı arayüzü bileşenleri ile çoklu arayüz dostu</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>Відеоредактор для аматорів та напівпрофесіоналів з основним акцентом на зручності у користуванні, ефективності та якості. Чудово інтегруючись до інших програм, Pitivi має красивий інтерфейс, потужний і простий у вивченні.</p>
+    <p>У програмі передбачено редагування без зайвих вікон, незалежний від частоти кадрів монтажний стіл, роботу на якому зосереджено навколо курсора стола. За допомогою Pitivi ви зможете точно і швидко обрізати, розділити та переглянути сцени. Чудові можливості з редагування Pitivi нададуть вам змогу зосередитися на матеріалі і витрачати менше часу на беззмістовне пересування кліпів.</p>
+    <p>Серед інших можливостей:</p>
+    <ul>
+      <li>Робота з будь-якими форматами файлів, підтримку яких передбачено у мультимедійному комплекті бібліотек GStreamer.</li>
+      <li>Використання сотень спеціальних ефектів та фільтрів з прив’язкою до ключових кадрів відео.</li>
+      <li>Можливість встановлення нетипових розмірів кадру, частоти кадрів та шаблонів обробки остаточного відео.</li>
+      <li>Прості у користуванні переходи між частинами відео.</li>
+      <li>Зручність у користуванні на багатомоніторних конфігураціях з можливістю розташування елементів інтерфейсу на різних екранах.</li>
+    </ul>
+  </description>
+  <description lang="zh_CN">
+    <p>Pitivi 是一个旨在成为对类似于爱好者和专业人士有吸引力的，着重于效率、质量和易用性的视频编辑器。它能与其他应用程序良好地配合，并提供一个设计得强大且易学易用的漂亮的用户界面。</p>
+    <p>拥有一个非模块化编辑工作流，一个帧率独立和播放头中心时间轴，Pitivi 允许您快速且精确地整理、分割和审阅您的画面。Pitivi 的连锁和滚动编辑特性允许您把时间更多地花在叙事，而不是“把片段挪来挪去”上面。</p>
+    <p>其他一些特性包括：</p>
+    <ul>
+      <li>接受被 GStreamer 多媒体框架所支持的任何文件格式</li>
+      <li>利用关键帧属性可以应用上百的特效和滤镜</li>
+      <li>可以设定自定义宽高比，帧率和渲染预设</li>
+      <li>容易使用的淡入淡出和 SMPTE 过渡</li>
+      <li>多显示器友好和可分离的用户界面组件</li>
+    </ul>
+  </description>
+  <description lang="zh_HK">
+    <p>Pitivi 是個以「吸引愛好者，也吸引專家」為目標的影片編輯器，非常專注於效率、品質、便用。它不只與其他應用程式整合良好，更具有美觀的使用者介面，設計雖強大但仍易於學習。</p>
+    <p>其他特點包括：</p>
+    <ul>
+      <li>接受任何 GStreamer 多媒體框架所支援的檔案格式</li>
+      <li>可以自選長寬比、幀率、壓製預置設定</li>
+      <li>易用的交錯淡化與 SMPTE 轉場</li>
+    </ul>
+  </description>
+  <description lang="zh_TW">
+    <p>Pitivi 是以「吸引愛好者，也吸引專家」為目標的影片編輯器，非常專注於效率、品質、便用。它不只與其他應用程式整合良好，更具有美觀的使用者介面，設計雖強大但仍易於學習。</p>
+    <p>擁有非典範式編輯流程，以及幀率獨立、以播放頭為中心的時間軸，Pitivi 讓您可以快速且精確地修剪、裁切、檢閱各個場景。Pitivi 的漣漪與捲滾編輯特色，讓您可以更專注於說故事本身，而不是「到處拖推剪輯位置」。</p>
+    <p>其他特點包括：</p>
+    <ul>
+      <li>接受任何 GStreamer 多媒體框架所支援的檔案格式</li>
+      <li>有上百種特效與過濾器可以利用鍵幀屬性來製作動畫</li>
+      <li>可以自訂長寬比、幀率、壓製預置設定</li>
+      <li>易用的交錯淡化與 SMPTE 轉場</li>
+      <li>對多螢幕友善的可脫離式使用者介面組件</li>
+    </ul>
+  </description>
+  <pkgname>pitivi</pkgname>
+  <icon type="cached" width="64" height="64">org.pitivi.Pitivi.png</icon>
+  <icon height="128" type="cached" width="128">org.pitivi.Pitivi.png</icon>
+  <id>org.pitivi.Pitivi</id>
+  <launchable type="desktop-id">org.pitivi.Pitivi.desktop</launchable>
+  <metadata_license>CC-BY-3.0</metadata_license>
+  <project_license>LGPL-2.0+</project_license>
+  <name>Pitivi</name>
+  <name lang="zh_TW">Pitivi</name>
+  <name lang="zh_CN">Pitivi</name>
+  <name lang="uk">Pitivi</name>
+  <name lang="tr">Pitivi</name>
+  <name lang="sv">Pitivi</name>
+  <name lang="sr@latin">Pitivi</name>
+  <name lang="sr">Питиви</name>
+  <name lang="sl">Pitivi</name>
+  <name lang="sk">Pitivi</name>
+  <name lang="ru">Pitivi</name>
+  <name lang="ro">Pitivi</name>
+  <name lang="pt_BR">Pitivi</name>
+  <name lang="pt">Pitivi</name>
+  <name lang="pl">Pitivi</name>
+  <name lang="lt">Pitivi</name>
+  <name lang="lv">Pitivi</name>
+  <name lang="it">Pitivi</name>
+  <name lang="id">Pitivi</name>
+  <name lang="hu">Pitivi</name>
+  <name lang="fr">Pitivi</name>
+  <name lang="fi">Pitivi</name>
+  <name lang="eu">Pitivi</name>
+  <name lang="es">Pitivi</name>
+  <name lang="eo">Pitivio</name>
+  <name lang="el">Pitivi</name>
+  <name lang="de">Pitivi</name>
+  <name lang="da">Pitivi</name>
+  <name lang="cs">Pitivi</name>
+  <name lang="ca">Pitivi</name>
+  <summary>Create and edit your own movies</summary>
+  <summary lang="zh_TW">建立與編輯您的電影</summary>
+  <summary lang="zh_HK">建立與編輯你的電影</summary>
+  <summary lang="zh_CN">创建和编辑自己的电影</summary>
+  <summary lang="vi">Tạo ra và chỉnh sửa phim của bạn</summary>
+  <summary lang="uk">Створюйте та редагуйте власні відео</summary>
+  <summary lang="tr">Kendi filminizi yaratın ve düzenleyin</summary>
+  <summary lang="te">మీ సొంత చలనచిత్రాలను సృష్టించండి మరియు సవరించండి</summary>
+  <summary lang="sv">Skapa och redigera dina egna filmer</summary>
+  <summary lang="sr@latin">Stvarajte i uređujte vaše lične video zapise</summary>
+  <summary lang="sr">Стварајте и уређујте ваше личне видео записе</summary>
+  <summary lang="sl">Ustvarite in montirajte svoje filme</summary>
+  <summary lang="sk">Vytvára a upravuje vaše vlastné filmy</summary>
+  <summary lang="ru">Создание и редактирование видеороликов</summary>
+  <summary lang="ro">Creează și editează filmele tale</summary>
+  <summary lang="pt_BR">Crie e edite os seus próprios filmes</summary>
+  <summary lang="pt">Crie e edite os seus filmes</summary>
+  <summary lang="pl">Tworzenie i montaż filmów</summary>
+  <summary lang="oc">Crear e modificar vòstras pròprias vidèos</summary>
+  <summary lang="nl">Uw eigen films maken en bewerken</summary>
+  <summary lang="nds">Erstell un bewark dien eegen Filme</summary>
+  <summary lang="nb">Lag og rediger dine egne videoer</summary>
+  <summary lang="lt">Kurkite ir redaguokite savo filmus</summary>
+  <summary lang="lv">Izveido un rediģē savas filmas</summary>
+  <summary lang="ku">Fîlmên xwe biafirîne û sererast bike</summary>
+  <summary lang="ko">동영상 제작 및 편집</summary>
+  <summary lang="ja">自分で動画を作成・編集します</summary>
+  <summary lang="it">Creare e modificare i propri filmati</summary>
+  <summary lang="id">Buat dan sunting filmmu sendiri</summary>
+  <summary lang="hu">Saját videók létrehozása és szerkesztése</summary>
+  <summary lang="he">יצירה ועריכה של סרטים עצמיים</summary>
+  <summary lang="gl">Cree e edite os seus propios filmes</summary>
+  <summary lang="fr">Créer et modifier vos propres films</summary>
+  <summary lang="fi">Luo ja muokkaa elokuvia</summary>
+  <summary lang="eu">Sortu eta editatu zure filmak</summary>
+  <summary lang="et">Loo ja muuda enda filme</summary>
+  <summary lang="es">Cree y edite sus propias películas</summary>
+  <summary lang="eo">Krei kaj redakti viajn proprajn filmojn</summary>
+  <summary lang="en_GB">Create and edit your own movies</summary>
+  <summary lang="el">Δημιουργήστε και επεξεργαστείτε τις δικές σας ταινίες</summary>
+  <summary lang="de">Erstellen und bearbeiten Sie Ihre eigenen Filme</summary>
+  <summary lang="da">Opret og redigér dine egne film</summary>
+  <summary lang="cs">Vytvářejte a upravujte své vlastní filmy</summary>
+  <summary lang="ca@valencia">Creeu i editeu les vostres pel·lícules</summary>
+  <summary lang="ca">Creeu i editeu les vostres pel·lícules</summary>
+  <summary lang="bs">Kreiranje i pregledanje vaših vlastitih filmova</summary>
+  <summary lang="bg">Създаване и редактиране на собствени филми</summary>
+  <summary lang="ast">Crea y edita les tos películes</summary>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://www.pitivi.org/i/screenshots/2020.05.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://www.pitivi.org</url>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/pitivi/</url>
+  <url type="donation">https://www.pitivi.org/donators/</url>
+  <url type="help">https://www.pitivi.org/manual/</url>
+  <url type="translate">https://wiki.gnome.org/TranslationProject#How_can_I_help.3F</url>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>UserDocs</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>Notifications</kudo>
+  </kudos>
+  <update_contact>pitivi@pitivi.org</update_contact>
+  <project_group>GNOME</project_group>
+  <translation type="gettext">pitivi</translation>
+  <developer_name>The Pitivi Team</developer_name>
+  <developer_name lang="zh_TW">Pitivi 團隊</developer_name>
+  <developer_name lang="zh_CN">Pitivi 团队</developer_name>
+  <developer_name lang="uk">Команда Pitivi</developer_name>
+  <developer_name lang="tr">Pitivi Takımı</developer_name>
+  <developer_name lang="sv">Pitivi-teamet</developer_name>
+  <developer_name lang="sr@latin">Tim Pitivija</developer_name>
+  <developer_name lang="sr">Тим Питивија</developer_name>
+  <developer_name lang="sl">Skupina Pitivi</developer_name>
+  <developer_name lang="sk">Tím aplikácie Pitivi</developer_name>
+  <developer_name lang="ru">Команда Pitivi</developer_name>
+  <developer_name lang="ro">Echipa Pitivi</developer_name>
+  <developer_name lang="pt_BR">A equipe do Pitivi</developer_name>
+  <developer_name lang="pl">Zespół projektu Pitivi</developer_name>
+  <developer_name lang="lt">Pitivi komanda</developer_name>
+  <developer_name lang="lv">Pitivi komanda</developer_name>
+  <developer_name lang="it">Il Team di Pitivi</developer_name>
+  <developer_name lang="id">Tim Pitivi</developer_name>
+  <developer_name lang="hu">A Pitivi csapat</developer_name>
+  <developer_name lang="fr">L'équipe Pitivi</developer_name>
+  <developer_name lang="fi">Pitivi-tiimi</developer_name>
+  <developer_name lang="eu">Pitivi taldea</developer_name>
+  <developer_name lang="es">El equipo de Pitivi</developer_name>
+  <developer_name lang="eo">La teamo de Pitivio</developer_name>
+  <developer_name lang="de">Das Pitivi Team</developer_name>
+  <developer_name lang="da">Pitivi-holdet</developer_name>
+  <developer_name lang="cs">Tým Pitivi</developer_name>
+  <developer_name lang="ca">L'equip Pitivi</developer_name>
+  <releases>
+    <release version="2022.06" date="2021-06-25">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>Object tracking and blurring.</li>
+          <li>Beat detection and snapping clips to detected beats.</li>
+          <li>Title clip text border and shadow.</li>
+          <li>Allow maintaining aspect-ratio when resizing clips.</li>
+          <li>Added Source blending mode.</li>
+          <li>Easier to fade in/out a clip.</li>
+          <li>Playback sound VU meter.</li>
+          <li>Cut clips to paste them at a different position.</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-05-30" version="2021.05">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>Clips in the Media Library can be tagged.</li>
+          <li>Drag a keyframe vertically or horizontally by pressing Ctrl.</li>
+          <li>Keyboard shortcuts to seek to the previous/next marker.</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-01-31" version="2021.01">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>The Render dialog has been further simplified.</li>
+          <li>Lots of bugfixes.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2020.09" date="2020-09-30">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>
+            A plugin system allows extending the Pitivi functionality
+            medium-term, targeted for teams of editors.
+          </li>
+          <li>
+            A developer console plugin allows interacting with the project in a
+            Python console.
+          </li>
+          <li>
+            Custom UI replaces the automatically generated UI for a handful of
+            effects.
+          </li>
+          <li>Easy Ken-Burns effect.</li>
+          <li>
+            The new Greeter perspective replaces the Welcome wizard dialog and
+            allows a slick selection of a recently opened project.
+          </li>
+          <li>
+            When being resized, the Viewer shows the percent of the actual widget
+            size in relation to the project video size.
+          </li>
+          <li>The Viewer size snaps at 50% when being resized.</li>
+          <li>Scaled proxies if optimized media is too much for your machine.</li>
+          <li>Timeline markers.</li>
+          <li>
+            Support for nested timelines by importing entire XGES files as a
+            clip.
+          </li>
+          <li>
+            The Effects Library has been redesigned to allow quick access to
+            effects.
+          </li>
+          <li>Ability to favorite effects in the Effects Library.</li>
+          <li>Improved workflow for adding effects.</li>
+          <li>
+            The refreshed clip effects UI allows working on multiple effects at a
+            time.
+          </li>
+          <li>Refactored Media Library using same logic for different view modes.</li>
+          <li>
+            Refactored Render Dialog UI to avoid overwhelming people. Tell us
+            what you think about it.
+          </li>
+          <li>Restoring the editing state when reopening a project.</li>
+          <li>Safe areas visualization in the Viewer.</li>
+          <li>Easy alignment for video clips.</li>
+          <li>Composition guidelines in the Viewer.</li>
+          <li>Solid color clips.</li>
+          <li>Ability to mute or hide an entire layer.</li>
+          <li>
+            Interactive intro so newcomers get familiar with the names of the UI
+            elements.
+          </li>
+          <li>
+            The action search is a shortcut to everything possible in the
+            timeline, if you can find it. Press "/".
+          </li>
+          <li>New keyboard shortcuts for pros.</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2018-08-29" version="0.999">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>Rendering non-square pixels was broken and has been disabled</li>
+          <li>The xges files have an icon associated</li>
+          <li>
+            The Save and Render buttons in the headerbar have been moved on the
+            right side
+          </li>
+          <li>Lots of bug fixing</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.99" date="2017-09-2">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>Many performance improvements</li>
+          <li>Lots of bug fixing</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.98" date="2016-12-5">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>Customizable keyboard shortcuts</li>
+          <li>
+            Used the warnings printed by GTK 3.22 to fix issues in the timeline
+            widget
+          </li>
+          <li>Lots of bug fixing, mostly on the timeline</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2016-08-8" version="0.97">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>
+            The rendering dialog has been reworked to clearly state what encoders
+            and muxer are  officially supported
+          </li>
+          <li>
+            The build system has been ported to Meson and gst-transcoder is now a
+            subproject
+          </li>
+          <li>Usual bug fixes</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.96" date="2016-06-30">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>Proxy editing</li>
+          <li>The clip graphical transformation box has been reimplemented</li>
+          <li>Some timeline behaviour enhancements</li>
+          <li>Project settings are now automatically computed if possible</li>
+          <li>New project settings and rendering UI</li>
+          <li>Keyboard shortcuts window</li>
+          <li>The undo/redo removal has been undone</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.95" date="2015-11-19">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>The timeline has been rewritten purely in GTK+</li>
+          <li>The glimagesink video rendering widget was replaced by gtk(gl)sink</li>
+          <li>The clip transformation box has been reimplemented</li>
+          <li>Direct importing to the timeline</li>
+          <li>Ability to copy and paste clips across the timeline</li>
+          <li>Integration with GstValidate and the "scenarios" system</li>
+          <li>Rewritten video mixing elements</li>
+          <li>We finally killed GNonLin</li>
+          <li>Now compatible again with smaller screen resolutions</li>
+          <li>Massive bug fixing all over the place</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2014-11-2" version="0.94">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>
+            The main toolbar and menubar have been replaced by a headerbar and
+            menubutton, saving a significant amount of precious vertical space
+            and using the horizontal space better.
+          </li>
+          <li>
+            The viewer has been ported to use a GStreamer GL video output sink
+            instead of the Clutter sink. This solves crashes when running Pitivi
+            outside of GNOME Shell and is expected to be a more future-proof
+            solution.
+          </li>
+          <li>
+            We dropped our use of CoGL APIs, namely path_round_rectangle which
+            caused crashes on various Linux distributions shipping a broken
+            version of CoGL
+          </li>
+          <li>Pitivi has been ported to Python 3</li>
+          <li>
+            Text wrapping in the rendering progress dialog and title editor has
+            been fixed
+          </li>
+          <li>Effects can now be reordered within a clip's properties</li>
+          <li>The default positioning of UI components</li>
+          <li>Undocked window components do not shift position on startup anymore</li>
+          <li>
+            Docked window components do not shift position on startup anymore,
+            when the window is not maximized.
+          </li>
+          <li>
+            The title editor's UI has been simplified, and now supports
+            decimal font sizes
+          </li>
+          <li>
+            Educational infobars throughout the UI have been tweaked to make
+            their colors less intrusive
+          </li>
+          <li>
+            The user manual is now up to date with the state of the new Pitivi
+            series
+          </li>
+          <li>Port deprecated GTK+ widgets to new ones</li>
+          <li>Timeline UI animations have been tweaked</li>
+          <li>Code refactoring and cleanup all over the place</li>
+          <li>Various build and packaging fixes</li>
+          <li>Various fixes to the test suite</li>
+          <li>Various other bugs have been corrected</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2014-03-20" version="0.93">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>
+            Port the viewer and media file previewers to use a Clutter video
+            output sink
+          </li>
+          <li>Visual refinements to the timeline</li>
+          <li>Improvements to the ruler and timecode display</li>
+          <li>Allow importing MPEG-TS/AVCHD files</li>
+          <li>Fixes and improvements to the timeline's clip thumbnailers</li>
+          <li>Clip thumbnailing in the media library, better import error handling</li>
+          <li>Various fixes to the application version checking</li>
+          <li>Rework the way dependencies are checked on startup</li>
+          <li>Make some features contextual and cleanup menus</li>
+          <li>Many content updates to the user manual</li>
+          <li>Papercut fixes to keyframe curves</li>
+          <li>Many fixes for rendering</li>
+          <li>Fix pylint errors</li>
+          <li>Various fixes to the automated test suite</li>
+          <li>Code refactoring and cleanup all over the place</li>
+          <li>Fixes for AppData XML spec compliance</li>
+          <li>Various build and packaging fixes</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.92" date="2013-11-3">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>Fix a bug where transitions would stop working</li>
+          <li>Fix the handling of rendering parameters</li>
+          <li>Fixes for the keyframes UI in the timeline</li>
+          <li>Usability improvements for the welcome dialog</li>
+          <li>Update the preview immediately when adding an effect</li>
+          <li>Fixes for AppData XML spec compliance</li>
+          <li>Various build and packaging fixes</li>
+          <li>Drop the PyXDG dependency</li>
+          <li>Translations have been updated</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2013-09-29" version="0.91">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>
+            Replacing the core of Pitivi by GES; 20 thousand lines of code
+            removed
+          </li>
+          <li>Porting to GStreamer 1.x</li>
+          <li>Porting to GTK+ 3.x</li>
+          <li>Replacing GooCanvas by Clutter for the timeline</li>
+          <li>
+            An automated UI test suite, with many checks for mission-critical
+            parts
+          </li>
+          <li>Fixing hundreds of bugs</li>
+          <li>Implementing many new features</li>
+          <li>UI polish all over the place</li>
+          <li>Refactoring pretty much the entire codebase</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.15.2" date="2012-05-3">
+      <description />
+    </release>
+    <release version="0.15.1" date="2012-02-24">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>
+            Bug fix release to ensure compatibility with Gst "good"
+            plugins >0.10.29
+          </li>
+          <li>Minor string fixes and additions to the user manual</li>
+          <li>Translations have been updated</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2011-09-26" version="0.15">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>
+            A new transformation feature allows resizing, panning and cropping
+            clips directly in the previewer
+          </li>
+          <li>
+            Automatic clip alignment by analyzing soundtracks to sync multicamera
+            footage
+          </li>
+          <li>Ability to have presets for rendering</li>
+          <li>Default set of project settings and rendering presets</li>
+          <li>Cleaner preferences dialog</li>
+          <li>Integrated offline user manual</li>
+          <li>Cleaner advanced codec settings dialog</li>
+          <li>Improved video thumbnailing performance</li>
+          <li>
+            "Soft dependencies" manager to warn the user of features
+            requiring additional packages
+          </li>
+          <li>Port to gtkbuilder</li>
+          <li>Respect GNOME's button icons setting</li>
+          <li>Improved startup time</li>
+          <li>Code cleanups and remove dead code</li>
+          <li>Properly show property descriptions</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.14" date="2011-05-31">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>Audio and video effects</li>
+          <li>
+            Completely redesigned project settings dialog, with the ability to
+            create presets
+          </li>
+          <li>Completely redesigned rendering dialog</li>
+          <li>
+            Welcome dialog that helps you start a project or load recent projects
+            in two clicks
+          </li>
+          <li>Ability to preview video, audio and image files before importing</li>
+          <li>Add a "best fit" zoom button</li>
+          <li>Ability to jump to an exact position in the timeline</li>
+          <li>Ability to specify custom aspect ratios and framerates</li>
+          <li>Show a progress bar when loading projects</li>
+          <li>300% faster project timeline loading</li>
+          <li>Search bar in the Media Library</li>
+          <li>Ability to detach all the tabs and the previewer</li>
+          <li>New manpage</li>
+          <li>Commandline render mode</li>
+          <li>Use the standard infobar widget all around</li>
+          <li>Remove hal dependency</li>
+          <li>Lots of bug fixing</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.13.5" date="2010-09-16">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>periodic backup of the current project file</li>
+          <li>easy crossfading transitions of overlapping clips</li>
+          <li>better icons for link and group operations</li>
+          <li>new add keyframe button</li>
+          <li>fixed support for the missing plugins installer</li>
+          <li>improved support for pictures</li>
+          <li>various performance improvements</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.13.4" date="2010-03-10">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>video mixing/transparency support</li>
+          <li>icon view in source list</li>
+          <li>smoother scrolling</li>
+          <li>modeless splitting</li>
+          <li>seek on click</li>
+          <li>faster waveforms</li>
+          <li>zoom slider</li>
+          <li>UI beautifications</li>
+          <li>Speed optimisations</li>
+          <li>dbus/hal dependency now optional</li>
+          <li>translated in 30 languages</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.13.3" date="2009-09-12">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>Fix rendering failures</li>
+          <li>UI beautifications</li>
+          <li>Switch to themeable ruler</li>
+          <li>Speed optimisations</li>
+          <li>Show the project name in the window title</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2009-08-13" version="0.13.2">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>Undo/Redo support</li>
+          <li>Audio-mixing</li>
+          <li>Ripple/Roll edit</li>
+          <li>misc fixes</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.13.1" date="2009-05-27">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>core rewrite</li>
+          <li>multi-layered timeline</li>
+          <li>trimming features</li>
+          <li>audio waveforms and video thumbnails in timeline</li>
+          <li>picture support</li>
+          <li>New project file format support</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.11.3" date="2008-12-11">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>Remove usage of gobject as much as possible from non-ui components</li>
+          <li>Make smarter choices about audio/video sinks</li>
+          <li>Fix issues with seeking in ruler/viewer</li>
+          <li>general pylint cleanup</li>
+          <li>Picture support in the timeline</li>
+          <li>Improve viewer for proper Display Aspect Ratio</li>
+          <li>Timeline : Unlink-ing sources is now possible</li>
+          <li>Fix some issues when using very long sources</li>
+          <li>SourceList now detachable from main window</li>
+          <li>Now requires GNonLin 0.10.10 and python >= 2.5</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2008-10-15" version="0.11.2">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>New advanced timeline interface by Brandon Lewis</li>
+          <li>Capture interface for webcams and network sources by Sarath Lakshman</li>
+          <li>Simple Timeline is gone.</li>
+          <li>Project save/load now activated by default</li>
+          <li>Cutting/Trimming/Removing features added to advanced timeline.</li>
+          <li>Misc fixes and improvements</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2007-11-18" version="0.11.1">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>More work on project save/load, use PITIVI_FILE_SUPPORT=1 to try it.</li>
+          <li>
+            Be more flexible with encoding caps, should fix more issues when
+            encoding.
+          </li>
+          <li>Fixed issues for non icon-theme-spec compliant systems</li>
+          <li>i18n updates</li>
+          <li>Misc fixes</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.11.0" date="2007-10-14">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>Merging of all the 2007 Summer-Of-Code branch</li>
+          <li>Simple timeline improvements : trimming and moving of sources</li>
+          <li>Simple timeline improvement : volume change</li>
+          <li>Advanced timeline re-activated</li>
+          <li>Advanced timeline features : cutting and moving of sources</li>
+          <li>Plugin framework added</li>
+          <li>File save/load framework added, not activated yet</li>
+          <li>i18n support, translated in 16 languages</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.10.3" date="2007-05-30">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>Improvement of first time user experience.</li>
+          <li>Frame-by-frame seeking</li>
+          <li>UI improvements for usability</li>
+          <li>New graphics</li>
+          <li>i18n support, translated in 14 languages</li>
+          <li>Critical bugfixes</li>
+          <li>Unit tests</li>
+          <li>Advanced view disabled by default</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2007-01-31" version="0.10.2">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>UI improvements for usability</li>
+          <li>decodebin2 support</li>
+          <li>Rendering improvements</li>
+          <li>i18n support, translated in 12 languages</li>
+          <li>Critical bugfixes</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2006-05-23" version="0.10.1">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>More UI improvements for usability</li>
+          <li>Works with X11/Imagesink</li>
+          <li>Handles more formats</li>
+          <li>More startup checks</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.10.0" date="2006-04-26">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>Lots of UI improvements for usability</li>
+          <li>Better error handling</li>
+          <li>Many playback issues fixed</li>
+          <li>Works in non-gnome environments</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="violence-desecration">none</content_attribute>
+    <content_attribute id="violence-slavery">none</content_attribute>
+    <content_attribute id="violence-worship">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="sex-homosexuality">none</content_attribute>
+    <content_attribute id="sex-prostitution">none</content_attribute>
+    <content_attribute id="sex-adultery">none</content_attribute>
+    <content_attribute id="sex-appearance">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+</component>

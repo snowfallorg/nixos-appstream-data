@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>cinnamon.xviewer</pkgname>
+  <launchable type="desktop-id">xviewer.desktop</launchable>
+  <icon height="64" type="cached" width="64">xviewer.png</icon>
+  <icon height="128" width="128" type="cached">xviewer.png</icon>
+  <id type="desktop">xviewer.desktop</id>
+  <licence>CC0</licence>
+  <description>
+    <p>Xviewer is an image viewer which supports many formats. It can be used to view single images or images in a collection.</p>
+    <p>Xviewer also allows to view the images in a fullscreen slideshow mode or set an image as the desktop wallpaper. It reads the camera tags to automatically rotate your images in the correct portrait or landscape orientation.</p>
+  </description>
+  <description lang="af">
+    <p>Xviewer is 'n beeldbekyker wat heelwat formate ondersteun. Dit kan gebruik word om enkelbeelde of beelde in 'n versameling te besigtig.</p>
+    <p>Xviewer kan ook beelde vertoon by wyse van 'n skyfievertoning in volskerm modus of 'n beeld stel as werkskermagtergrond. Dit lees die kamera-inligting om beelde outomaties te roteer na die korrekte oriëntasie.</p>
+  </description>
+  <description lang="am">
+    <p>Xመመልከቻ የ ምስል መመልከቻ ነው: በርካታ አቀራረቦችን የያዘ: ለ መመልከት ነጠላ ምስል ወይንም ምስል ከ ስብስቦች ውስጥ</p>
+    <p>Xመመልከቻ እንዲሁም ያስችላል ምስሎችን መመልከት በ ሙሉ መመልከቻ ዘዴ በ ተንሸራታች ማሳያ ውስጥ: ወይንም ምስል እንደ ዴስክቶፕ መደብ ማሰናዳት ያስችላል: የ ካሜራ tags ማንበብ ይችላል ራሱ በራሱ እንዲሁም ምስሎችን ማዞር ይችላል በ ትክክለኛው አቀራረብ በ ምስል ወይንም በ መሬት አቀራረብ</p>
+  </description>
+  <description lang="an">
+    <p>O Visor d'imachens tamién le permite veyer imachens en modo de presentación a pantalla completa u configurar una imachen como fondo d'o escritorio. Leye as etiquetas d'a camera ta rotar as imachens automaticament, amostrando-las con a orientación correcta.</p>
+  </description>
+  <description lang="ar">
+    <p>Xviewer هو عارض الصور الذي يدعم العديد من التنسيقات. يمكن استخدامه لعرض صور أو صور مفردة في مجموعة.</p>
+    <p>كما يسمح Xviewer بعرض الصور في وضع عرض الشرائح بملء الشاشة أو تعيين صورة كخلفية لسطح المكتب. يقرأ علامات الكاميرا لتدوير صورك تلقائياً في الاتجاه الأفقي أو الصحيح.</p>
+  </description>
+  <description lang="as">
+    <p>Xviewer এ লগতে ছবিবোৰ এটা পূৰ্ণপৰ্দা স্লাইউশ্ব অৱস্থাত দৰ্শন কৰাৰ অথবা এটা ছবিক ডেস্কটপ ৱালপেপাৰ ৰূপে সংহতি কৰাৰ অনুমতি দিয়ে। ই আপোনাৰ ছবিবোৰক সঠিক পটট্ৰেইট অথবা লেণ্ডস্কেইপ দিশত স্বচালিতভাৱে ঘুৰাবলে কেমেৰা টেগ পঢ়ে।</p>
+  </description>
+  <description lang="be">
+    <p>Xviewer - гэта прагляднік выяў, які падтрымлівае шмат фарматаў. Ім можна глядзець і асобныя выявы, і цэлыя калекцыі.</p>
+    <p>Xviewer таксама дазваляе праглядаць выявы ў поўнаэкранным рэжыме слайдшоў, а таксама прызначаць фонавыя выявы для стала. Гэта праграма ўмее чытаць тэгі, прастаўленыя фотаапаратамі, каб карэктна паварочваць выявы ў правільны бок.</p>
+  </description>
+  <description lang="bg">
+    <p>Xviewer  е програма за преглед на изображения, която поддържа множество формати. Може да се използва както за преглед на самостоятелно изображение, така и за цяла колекция.</p>
+    <p>„Също така Окото на GNOME“ (xviewer) има възможност за прожекции на цял екран и задаване на изображенията за фон на работния плот. Мета данните в изображенията от цифровите фотоапарати се използват за завъртане в подходящата посока — вертикална или хоризонтална.</p>
+  </description>
+  <description lang="bs">
+    <p>Xviewer također omogućava pregled fotografija kao prezentaciju preko cijelog ekrana ili set fotografija za sliku radne površine. On čita tagove kamere kako bi automatski rotirao vašu fotografiju u pravilan položaj (vertikalno ili horizontalno).</p>
+  </description>
+  <description lang="ca">
+    <p>Xviewer és un visualitzador d'imatges que admet molts formats. Es pot utilitzar per mostrar imatges individuals o en una col·lecció.</p>
+    <p>Xviewer també permet visualitzar les imatges en mode de presentació a pantalla completa o establir una imatge com a fons d'escriptori. Llegeix les etiquetes de la càmera per girar automàticament les imatges en l'orientació vertical o horitzontal.</p>
+  </description>
+  <description lang="ca@valencia">
+    <p>Xviewer és un visor d'imatges que suporta molts formats. Es pot utilitzar per a veure imatges individuals o imatges d'una col·lecció.</p>
+    <p>L'Xviewer també permet visualitzar les imatges en mode de presentació a pantalla completa o establir una imatge com a fons d'escriptori. Llig les etiquetes de la càmera per girar automàticament les imatges en l'orientació vertical o horitzontal.</p>
+  </description>
+  <description lang="cs">
+    <p>Xviewer je prohlížeč obrázků s podporou mnoha formátů. Je možné jím prohlížet jak jednotlivé obrázky, tak i celé sbírky.</p>
+    <p>Xviewer také umožňuje z obrázků pouštět promítání na celou obrazovku nebo nastavit obrázek jako tapetu pracovní plochy. Dále čte štítky zapsané fotoaparátem a automaticky podle nich otáčí obrázky na šířku nebo výšku.</p>
+  </description>
+  <description lang="cy">
+    <p>Mae Xviewer yn ddangosydd delweddau sy'n cynnal llawer o fformatau. Gall gael ei ddefnyddio i edrych ar ddelweddau unigol neu ddelweddau mewn casgliadau.</p>
+    <p>Mae Xviewer hefyd yn caniatáu edrych ar ddelweddau o fewn sioe sleidiau sgrin lawn neu osod delwedd fel papur wal bwrdd gwaith. Mae'n darllen tagiau camerâu er mwyn troi eich delweddau'n awtomatig i'r ffurf portread neu dirwedd gywir.</p>
+  </description>
+  <description lang="da">
+    <p>Xviewer er en billedfremviser, som understøtter mange filformater.  Det kan vise enkelte billeder eller billeder i en samling.</p>
+    <p>Xviewer giver også mulighed for at se billederne i fuld skærm i præsentationstilstand eller at vælge et billede som skrivebordsbaggrund. Det læser også billedmærker fra kameraet for derved automatisk at kunne rotere dine billeder i den korrekte portræt- eller landskabsorientering.</p>
+  </description>
+  <description lang="de">
+    <p>Xviewer ist ein Bildbetrachter der viele Formate unterstützt. Er kann genutzt werden, um einzelne Bilder oder Bildersammlungen zu betrachten.</p>
+    <p>Xviewer ermöglicht es auch, Bilder in einem Vollbild-Diaschaumodus zu betrachten oder ein Bild als Hintergrundbild für den Arbeitsplatz festzulegen. Es liest Kamera-Metainformationen, um Bilder automatisch richtig in das Hoch- oder Querformat zu drehen.</p>
+  </description>
+  <description lang="el">
+    <p>Το Xviewer είναι μια εφαρμογή προβολής εικόνων που υποστηρίζει πολλές μορφές. Μπορεί να χρησιμοποιηθεί για την προβολή μιας μόνο εικόνας ή μιας συλλογής εικόνων.</p>
+    <p>Το Μάτι του GNOME επιτρέπει επίσης την προβολή αλληλουχίας εικόνων σε πλήρη οθόνη ή τον ορισμό μιας εικόνας ως ταπετσαρία της επιφάνειας εργασίας. Αναγνωρίζει τις ετικέτες από τη φωτογραφική μηχανή και περιστρέφει αυτόματα τις εικόνες σε κατακόρυφο ή οριζόντιο προσανατολισμό.</p>
+  </description>
+  <description lang="en_GB">
+    <p>Xviewer is an image viewer which supports many formats. It can be used to view single images or images in a collection.</p>
+    <p>Xviewer also allows to view the images in a fullscreen slideshow mode or set an image as the desktop wallpaper. It reads the camera tags to automatically rotate your images in the correct portrait or landscape orientation.</p>
+  </description>
+  <description lang="eo">
+    <p>Xviewer estas bildomontrilo, kiu subtenas multajn dosierformojn. Ĝi uzeblas  por montri bildojn unuope aŭ ene de aro.</p>
+    <p>Xviewer ankaŭ permesas montri la bildojn per tutekrana bildoprezento aŭ agordi iun bildon kiel la ekranfonon. Ĝi legas la kameraajn etikedojn por aŭtomate turni la bildojn en la ĝusta horizontala aŭ vertikala orientiĝo.</p>
+  </description>
+  <description lang="es">
+    <p>Xviewer es un visor de imágenes compatible con muchos formatos. Se puede usar para mostrar imágenes individuales o las imágenes de una colección.</p>
+    <p>Xviewer también permite mostrar las imágenes como una presentación de diapositivas a pantalla completa o configurar una imagen como fondo del escritorio. Lee las etiquetas de la cámara y rota las imágenes automáticamente para mostrarlas con la orientación vertical u horizontal correcta.</p>
+  </description>
+  <description lang="et">
+    <p>Hviever on pildi vaatur mis toetab paljusi vorminguid. Saab kasutada üksiku või siis pildikogu vaatamiseks</p>
+    <p>Xviewer võimaldab pilte vaadata ka täisekraanil või määrata pildi töölaua taustaks. See loeb kaamerasilte ning pöörab neile vastavalt pildi õigesti portree- või maastikupildi suunda.</p>
+  </description>
+  <description lang="eu">
+    <p>Xviewer hainbat formatu onartzen dituen irudi-ikustailea da. Irudi arruntak edo irudi-bildumak ikusteko erabil daiteke.</p>
+    <p>GNOMEren Begia irudien diapositiba-aurkezpena pantaila osoko moduan ikustea edo irudi bat atzeko planoaren irudi gisa ezartzea baimentzen du. Kameraren etiketak irakurtzen ditu zure irudiak orientazio bertikal edo horizontal zuzenean automatikoki biratzeko.</p>
+  </description>
+  <description lang="fa">
+    <p>همچنین «چشم گنوم» به شما امکان می‌دهد که تصاویر را در حالت تمام‌صفحه و نمایشی ببینید یا آنها را به عنوان پس‌زمینه تصویر خود انتخاب کنید. برچسب‌های دوربین را می‌خواند تا به‌طور خودکار عکس را بچرخاند تا در حالت صحیحی از منظره‌ای یا عمودی قرار بگیرد.</p>
+  </description>
+  <description lang="fi">
+    <p>Xviewer on useita kuvamuotoja tukeva kuvakatselin. Sitä voi käyttää niin yksittäisten kuvien kuin kuvakokoelmienkin katseluun.</p>
+    <p>Kuvakatselimen avulla kuvia voi katsella esimerkiksi koko näytön tilassa diaesityksenä tai asettaa kuvia työpöydän taustakuvaksi. Sovellus lukee kameran kuviin asettamat tunnistetiedot, joten kuvat ovat automaattisesti aina "oikein päin".</p>
+  </description>
+  <description lang="fr">
+    <p>Xviewer est un visionneur d'images qui prend en charge de nombreux formats. Il peut être utilisé pour visualiser une seule image ou des images appartenant à une collection.</p>
+    <p>Xviewer permet également d'afficher les images dans un mode diaporama en plein écran ou de définir une image comme fond d'écran. Il sait lire les balises des appareils photo pour pivoter automatiquement les images dans la bonne orientation (portrait ou paysage).</p>
+  </description>
+  <description lang="fur">
+    <p>Xviewer ale un vizualizador de imagin cal supuarte tant forme. Pol esar usa pa vjodi une sole figure o une collezion de figure</p>
+    <p>Xviewer al permet ancje di viodi lis figuris in modalitât diapositive a plen visôr o doprâ une figure come sfont dal scritori. Al lei lis etichetis de fotocjamare par voltâ in automatic lis fotos tal orientament, verticâl o orizontâl, just.</p>
+  </description>
+  <description lang="gd">
+    <p>'S e sealladair dhealbhan a th' ann an Xviewer a chuireas taic ri iomadh fòrmat. 'S urrainn dhut dealbhan fa leth no cruinneachaidhean a shealltainn leis.</p>
+    <p>Leigidh Xviewer leat cuideachd na dealbhan a shealltainn ann am modh taisbeanadh-dhealbhan làn-sgrìn no dealbh a chleachdadh mar chùlaibh an deasga. Leughaidh e tagaichean camara gus na dealbhan agad a chuairteachadh 'nam portraid no cruth-tìre gu fèin-obrachail 's mar bu chòir.</p>
+  </description>
+  <description lang="gl">
+    <p>Xviewer é un visor de imaxes que soporta moitos formatos. Pode amosar imaxes individuais ou imaxes nunha colección.</p>
+    <p>Xviewer tamén permite ver as imaxes en modo diaporama a pantalla completa ou estabelecer unha imaxe como fondo de pantalla. Pode ler as etiquetas das cámaras para rotar automaticamente as súas imaxes a orientación vertical ou apaisada segundo corresponda.</p>
+  </description>
+  <description lang="he">
+    <p>Xviewer הינה תוכנה לתצוגת תמונות התומכת במגוון רחב של פורמטים. ניתן להשתמש בתוכנה זו להצגה תמונה בודדת וכן להצגת אוסף תמונות.</p>
+    <p>העין של GNOME מאפשר להציג את התמונות במצב מצגת במסך מלא או להגדיר תמונות כרקע שולחן העבודה. הוא קורא תגי מצלמה על מנת לסובב באופן אוטומטי את התמונות שלך בכיוון הנכון לאורך או לרוחב.</p>
+  </description>
+  <description lang="hi">
+    <p>XViewer एक चित्र प्रदर्शक है जो अनेक प्रारूपों का समर्थन करता है। इसके द्वारा आप चित्र या चित्र संग्रह देख सकते हैं।</p>
+    <p>XViewer में आप चित्र फुलस्क्रीन स्लाइडशो मोड में देख सकते हैं या उन्हें डेस्कटॉप वॉलपेपर लगा सकते हैं। यह कैमरे के टैग ज्ञात कर चित्रों को स्वतः ही घुमाकर अभिविन्यास कर देता है।</p>
+  </description>
+  <description lang="hr">
+    <p>Xviewer je preglednik slika koji podržava mnoge formate. Može se koristiti za pregledavanje pojedinih slika ili kolekcije.</p>
+    <p>Xviewer vam omogućuje pregled slika u načinu rada cjelozaslonske prezentacije ili postavljanje slike kao pozadine radne površine. Čita oznake kamere kako bi automatski zakrenuo vaše slike u ispravanu položenu ili uspravnu orijentaciju.</p>
+  </description>
+  <description lang="hu">
+    <p>Xviewer számtalan képformátumot támogató képnéző alkalmazás. Használhatja egy-egy kép, vagy képgyűjtemények megtekintésére.</p>
+    <p>Az Xviewer lehetővé teszi a képek megjelenítését teljes képernyős diavetítés módban, vagy asztali háttérkép beállítását. Beolvassa a fényképezőgép-címkéket a képek automatikus forgatásához a megfelelő álló vagy fekvő tájolásba.</p>
+  </description>
+  <description lang="ia">
+    <p>Xviewer es un visor de imagine que supporta plure formatos. Illo poter ser usate pro vider imagines singule o imagines in collection.</p>
+    <p>Xviewer permitte alsi a vider le  presentation de imagines in modo schermo plen o configurar un imagine como tapete de papiro del scriptorio. Illo lege le tags del apparato photographic pro automaticamente girar tu imagines in le correcte orientation horizontal o vertical.</p>
+  </description>
+  <description lang="id">
+    <p>Xviewer adalah penampil gambar yang mendukung beberapa format. Bisa di gunakan untuk melihat satu gambar atau lebih dalam sebuah koleksi.</p>
+    <p>Xviewer juga memungkinkan menilik citra dalam mode salindia layar penuh atau menata suatu citra sebagai gambar latar desktop. Dia membaca tag kamera untuk secara otomatis memutar citra Anda dalam orientasi potret atau lansekap yang benar.</p>
+  </description>
+  <description lang="is">
+    <p>Xviewer myndarýnirinn er  myndaskoðari sem styður mörg myndskráasnið. Hægt er að nota hann hvort sem er til skoðunar á stökum myndum eða myndasöfnum.</p>
+    <p>Xviewer myndarýnirinn gerir einnig kleift að skoða myndir sem skyggnusýningu á öllum skjánum eða að setja mynd sem bakgrunn skjáborðs. Ennfremur les hann merki frá myndavélum þannig að myndum sé snúið sjálfvirkt lárétt eða lóðrétt, eftir því hvernig þær voru teknar.</p>
+  </description>
+  <description lang="it">
+    <p>Xviewer è un visualizzatore di immagini che supporta vari formati. Può essere usato per visualizzare un'immagine singola oppure un'immagine in una collezione.</p>
+    <p>Xviewer permette anche di visualizzare le immagini in modalità diapositive a schermo intero oppure di impostare un'immagine come sfondo. Legge le etichette della fotocamera per ruotare automaticamente le immagini nel corretto orientamento verticale od orizzontale.</p>
+  </description>
+  <description lang="ja">
+    <p>Xviewerは、多くの形式をサポートする画像ビューアです。コレクション内の単一の画像または画像を表示するために使用できます。</p>
+    <p>Xviewer では、フルスクリーンでスライドショーを楽しんだり、画像をデスクトップの壁紙にしたりできます。カメラのタグを自動的に読み込んで画像の縦横の方向を正しく表示します。</p>
+  </description>
+  <description lang="kab">
+    <p>Xviewer d ameskan n tugna isefraken deqs n imasalen. Yezmer ad ittwaseqdec i uskan n yiwet neɣ deqs n tegrummiwin n tugniwin.</p>
+    <p>Xviewer yettaǧǧa daɣen askan n tugniwin deg uskar n tigratin deg ugdil aččuran neɣ ad isbadu tugna deg ugilal n ugdil. Yeqqar-d tibzimin n tkamiṛat akken ad yezzi s wudem awurman tugniwin  s teɣzi neɣ s tehri.</p>
+  </description>
+  <description lang="kk">
+    <p>Xviewer бұл суреттерді ашатын, көптеген форматтарды қолдайды. Ол жалғыз немесе суреттердің жиынтығын ашу үшін қолданылады</p>
+    <p>Сонымен қатар, GNOME көзі қолданбасы суреттерді толық экран режимінде қарауды, және суреттерді жұмыс үстелінің тұсқағазы ретінде орната алады. Ол камера тегтерін автоматты түрде оқып, суреттерді дұрыс бағдарда бұрайды (тік не жатық).</p>
+  </description>
+  <description lang="ko">
+    <p>엑스뷰어는 여러 형식을 지원하는 이미지 뷰어입니다. 콜렉션에 있는 이미지나 이미지들을 볼 때 이용할 수 있습니다.</p>
+    <p>또 전체 화면 슬라이드쇼 모드에서 볼 수도 있고, 이미지를 데스크톱 배경으로 사용할 수도 있습니다. 또 카메라 태그를 자동으로 읽어서 가로나 세로 모드로 적절히 회전합니다.</p>
+  </description>
+  <description lang="lt">
+    <p>Xviewer yra paveikslų žiūryklė, kuri palaiko daugelį formatų. Ji gali būti naudojama atskirų paveikslų arba paveikslų galerijos peržiūrai.</p>
+    <p>Xviewer taip pat leidžia rodyti paveikslus viso ekrano skaidrių rodymo veiksenoje bei nustatyti paveikslą kaip darbalaukio foną. Programa automatiškai skaito fotoaparato žymas ir pasuka paveikslus į teisingą padėtį.</p>
+  </description>
+  <description lang="lv">
+    <p>Xviewer arī ļauj skatīt attēlus pilnekrāna slīdrādes režīmā, vai iestatīt attēlu ka darbvirsmas tapeti. Tas nolasa kameras birkas, lai automātiski pagrieztu attēlus pareizā portreta vai ainavas orientācijā.</p>
+  </description>
+  <description lang="mr">
+    <p>Xviewer अनेक स्वरूप चे समर्थन करणारी एक प्रतिमा दर्शक आहे. तो एक संग्रह एकच प्रतिमा किंवा प्रतिमा पाहण्यासाठी वापरले जाऊ शकते.</p>
+    <p>Xviewer प्रतिमांना पडदाभर स्लाईडशो मोडमध्ये पहण्यास किंवा प्रतिमेला डेस्कटॉप वॉलपेपर म्हणून सेट करण्यासाठी परवानगी देते. योग्य उभे किंवा आडव्या दिशामध्ये प्रतिमांना स्व फिरवण्याकरिता, ते कॅमेरा टॅग्ज देखील वाचते.</p>
+  </description>
+  <description lang="nb">
+    <p>Xviewer er en bildeviser som støtter mange formater. Den kan brukes til å se på enkelt bilder eller bilder i en samling.</p>
+    <p>Xviewer lar deg også se på bilder i som en lysbildefremvisning i fullskjerm modus eller du kan sette et bilde som bakgrunn på skrivebordet. Det leser kameramerkelapper for å rotere bildene automatisk som portrett- eller landskapsorientering.</p>
+  </description>
+  <description lang="nl">
+    <p>Xviewer is een afbeeldingkijker die vele bestandsoorten ondersteunt. Hij kan worden gebruikt om enkele afbeeldingen te bekijken of afbeeldingen in een verzameling.</p>
+    <p>Xviewer kan afbeeldingen ook als diapresentatie op volledig scherm tonen en de achtergrond van het bureaublad instellen. Daarnaast leest het camera-informatie uit afbeeldingsbestanden zodat deze automatisch in de juiste oriëntatie getoond worden.</p>
+  </description>
+  <description lang="oc">
+    <p>Xviewer es un vizualizator d'imatge qué es compatible amb hèra formats. El pot èsser usat per vizualizar imatges unencas o imatges en coleccion.</p>
+    <p>Xviewer tanben permet vizualizar las imatges en un slideshow en ecran plen o definir una imatge coma rèireplan. El legís las etiquetas de camerà per virar seunas imatges en lo quadre corrècte o en la orientacion de paisatge.</p>
+  </description>
+  <description lang="pa">
+    <p>ਗਨੋਮ ਦੀ ਅੱਖ ਚਿੱਤਰਾਂ ਨੂੰ ਸਲਾਈਡ-ਸ਼ੋ ਰਾਹੀਂ ਪੂਰੀ ਸਕਰੀਨ ਵਿੱਚ ਵੇਖਣ ਲਈ ਸਹਾਇਕ ਹੈ ਜਾਂ ਚਿੱਤਰ ਨੂੰ ਡੈਸਕਟਾਪ ਵਾਲਪੇਪਰ ਸੈੱਟ ਕਰਦਾ ਹੈ। ਇਹ ਤੁਹਾਡੇ ਚਿੱਤਰ ਨੂੰ ਠੀਕ ਸਥਿਤੀ ਪੋਰਟਰੇਟ ਜਾਂ ਲੈਡਸਲੇਪ ਵਿੱਚ ਲਗਾਉਣ ਲਈ ਆਪਣੇ-ਆਪ ਘੁੰਮਾਉਣ ਲਈ ਕੈਮਰਾ ਟੈਗ ਪੜ੍ਹਦਾ ਹੈ।</p>
+  </description>
+  <description lang="pl">
+    <p>Xviewer jest przeglądarką plików graficznych obsługującą wiele formatów. Może być używana do wyświetlania pojedynczych zdjęć lub kolekcji obrazów.</p>
+    <p>Program umożliwia również wyświetlanie pokazu slajdów na pełnym ekranie i ustawienie obrazu jako tapety pulpitu. Odczytuje również etykiety aparatu fotograficznego, aby automatycznie obrócić obraz do prawidłowej orientacji: pionowej lub poziomej.</p>
+  </description>
+  <description lang="pt">
+    <p>O Xviewer é um visualizador de imagens com suporte a diversos formatos. Pode ser utilizado para ver uma ou várias imagens.</p>
+    <p>O Xviewer também permite a visualização de uma apresentação em ecrã inteiro ou definir a imagem do ambiente de trabalho. Utiliza os dados exif mostrar e para rodar automaticamente as imagens.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Xviewer é um visualizador de imagens que suporta muitos formatos. Ele pode ser usado para exibir imagens individuais ou imagens em uma coleção.</p>
+    <p>O Xviewer também permite a visualização de imagens em modo de apresentação de slides em tela cheia ou definir uma imagem como plano de fundo da área de trabalho. Ele lê as etiquetas da câmera para girar automaticamente suas imagens na orientação correta - retrato ou paisagem.</p>
+  </description>
+  <description lang="ro">
+    <p>Xviewer este un vizualizator de imagini care suportă numeroase formate. Poate fi utilizat pentru a vizualiza imagini sau colecții de imagini.</p>
+    <p>De asemenea, Xviewer permite vizualizarea imaginilor ca slideshow pe tot ecranul sau setarea unei imagini ca fundal pe desktop. Citește metadatele pentru a roti automat imaginile în poziția portret sau peisaj.</p>
+  </description>
+  <description lang="ru">
+    <p>Xviewer - это программа для просмотра изображений, которая поддерживает множество форматов. Она может использоваться для просмотра как одиночных изображений, так и их коллекций.</p>
+    <p>«Глаз GNOME» также позволяет просматривать изображения в полноэкранном режиме, в режиме презентации, устанавливать изображения в качестве фонового изображения рабочего стола. «Глаз GNOME» считывает тэги с камеры для автоматической ориентации снимков (в ландшафтной или в портретной).</p>
+  </description>
+  <description lang="sk">
+    <p>Xviewer je prehliadač obrázkov, ktorý podporuje mnoho formátov. Môže byť použitý na zobrazenie samotných obrázkov, alebo obrázkov v zbierke.</p>
+    <p>Prehliadač obrázkov umožňuje zobrazenie obrázkov vo forme prezentácie na celej obrazovke alebo nastaviť obrázok ako tapetu pracovnej plochy. Dokáže prečítať značky fotoaparátu a na základe toho správne nastaviť orientáciu obrázka na výšku alebo na šírku.</p>
+  </description>
+  <description lang="sl">
+    <p>Xviewer je pregledovalnik slik, ki podpira veliko formatov. Uporablja se ga lahko za pregled tako posamičnih slik, kot albume.</p>
+    <p>Program Gnomovo oko omogoča tudi ogled slik v celozaslonskem predstavitvenem načinu in nastavljanje slike za ozadje namizja. Prebere oznake slike in samodejno obrne sliko pokončno ali ležeče.</p>
+  </description>
+  <description lang="sr">
+    <p>Иксоко је прегледач слика који подржава многе формате. Може да се користи како за преглед једне слике тако и за слике из збирке.</p>
+    <p>Иксоко такође омогућава прегледање слика у покретном приказу преко целог екрана или постављање неке слике за позадину радне површи. Чита ознаке фото-апарата да би сам окренуо ваше слике на праву страну.</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Xviewer je pregledač slika koji podržava mnoge formate. Može se koristiti za gledanje pojedinačnih slika ili slika u kolekciji.</p>
+    <p>Gnomovo oko takođe omogućava pregledanje slika u pokretnom prikazu preko celog ekrana ili postavljanje neke slike za pozadinu radne površi. Čita oznake foto-aparata da bi sam okrenuo vaše slike na pravu stranu.</p>
+  </description>
+  <description lang="sv">
+    <p>Xviewer är en bildvisare som stöder många format. Den kan användas för att visa enskilda bilder eller bilder i en bildkollektion.</p>
+    <p>Xviewer kan också visa bilderna som ett bildspel i helskärmsläge eller använda en bild som skrivbordsbakgrund. Bildvisaren läser av kamerataggarna för att automatiskt rotera dina bilder till stående eller liggande format.</p>
+  </description>
+  <description lang="tg">
+    <p>Xviewer имкон медиҳад, ки тавонед тасвирҳоро дар ҳолати намоиши слайдҳои экрани пурра тамошо кунед ё тасвиреро ҳамчун тасвири замина танзим кунед. Ин барнома барчаспҳои камераро муайян мекунад, то ки тасвирҳоро ба самти дурусти амудӣ ё уфуқӣ ба таври худкор давр занонад.</p>
+  </description>
+  <description lang="th">
+    <p>Xviewer เป็นโปรแกรมดูรูปภาพซึ่งรองรับแฟ้มรูปภาพหลายประเภทด้วยกัน สามารถใช้ดูรูปเดียวหรือรูปที่อยู่ในชุดรวมได้</p>
+    <p>นอกจากนี้ Xviewer ยังสามารถแสดงรูปภาพแบบเล่นสไลด์เต็มจอ หรือกำหนดรูปภาพเป็นภาพพื้นหลังของพื้นโต๊ะได้ สามารถอ่านแท็กของกล้องถ่ายรูปเพื่อหมุนภาพของคุณให้เป็นแนวตั้งหรือแนวนอนได้อย่างถูกต้อง</p>
+  </description>
+  <description lang="tr">
+    <p>Xviewer pek çok biçimi destekleyen bir resim göstericisidir. Tek resim ya da bir koleksiyondaki resimleri görüntülemek için kullanılabilir.</p>
+    <p>Ayrıca Xviewer, resimleri tam ekran slayt gösterisi kipinde görüntülemeye ve herhangi bir resmi masaüstü duvar kağıdı olarak ayarlamaya da olanak tanır. Resimlerinizi uygun dikey ya da yatay yönelimde otomatik olarak döndürmek için fotoğraf makinesi etiketlerini okur.</p>
+  </description>
+  <description lang="uk">
+    <p>Xviewer — програма перегляду зображень, яка підтримує безліч форматів. Вона може використовуватись як для перегляду окремих зображень так і для колекцій зображень.</p>
+    <p>Xviewer також дозволяє переглядати зображення у повноекранному режимі показу слайдів або встановлювати зображення як стільничні шпалери. Він читає позначки камери для автоматичного обертання зображення у правильній орієнтації.</p>
+  </description>
+  <description lang="ur">
+    <p>ایکس ویوئر ایک ایمج ویوئر ہے جو بہت سے فائل فارمیٹ چلا سکتا ہے۔ اس کے ذریعے آپ ایک تصویر یا تصاویر کا مجموعہ دیکھ سکتے ہیں۔</p>
+  </description>
+  <description lang="uz">
+    <p>Xviewer кўпгина форматлар билан ишлай оладиган, расмлар кўриш учун мўлжалланган дастур. У бир дона расм ёки расмлар тўпламини кўришда ишлатилиши мумкин.</p>
+    <p>Xviewer расмларни экран бўйлаб тўлиқ ёйиб кўришга ёки расмни экран фони сифатида ўрнатишга имкон беради. У камера параметрларини ўқийди ва расмларни портрет ёки ландскайп йўналишда тўғри кўринишини таъминлаш учун автоматик  айлантиради.</p>
+  </description>
+  <description lang="vi">
+    <p>Xviewer là một trình xem ảnh hỗ trợ nhiều định dạng. CÓ thể dùng để xem ảnh đơn hoặc xem ảnh trong bộ sưu tập.</p>
+    <p>“Xviewer” cũng cho phép xem các ảnh ở chế độ trình diễn toàn màn hình hay đặt một ảnh làm ảnh nền cho màn hình. Nó đọc thẻ của máy ảnh để tự động quay ảnh của bạn theo hướng đứng hay ngang cho phù hợp.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>Xviewer 是一个支持多种格式的图片查看器，可用于查看单独的图片或者图片集。</p>
+    <p>GNOME 之眼也可以全屏幻灯片播放的方式查看图片，或者将图片设置为桌面壁纸。它会自动读取相机的标签来自动旋转您的照片，从而正确的横向/纵向显示它们。</p>
+  </description>
+  <description lang="zh_HK">
+    <p>Xviewer 是一個支援許多格式的影像檢視器。可用於檢視單一影像或收藏圖集。</p>
+    <p>Xviewer 亦允許以全熒幕投影片模式檢視圖片或是將圖片設定為桌面的桌布。它會讀取數碼相機的標籤自動將你的影像旋轉到正確的直式或橫式方向。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>Xviewer 是支援許多格式的影像檢視器。其可用於檢視單一影像或影像集合。</p>
+    <p>Xviewer 也允許以全螢幕投影片模式檢視圖片或是將圖片設定為桌面的桌布。它會讀取數位相機的標籤自動將您的影像旋轉到正確的直式或橫式方向。</p>
+  </description>
+  <url type="homepage">https://github.com/linuxmint/xviewer</url>
+</component>

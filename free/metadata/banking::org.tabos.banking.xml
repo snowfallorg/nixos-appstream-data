@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>banking</pkgname>
+  <icon height="64" type="cached" width="64">org.tabos.banking.png</icon>
+  <icon type="cached" width="128" height="128">org.tabos.banking.png</icon>
+  <id>org.tabos.banking.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <name>Banking</name>
+  <name lang="de">Banking</name>
+  <summary>Keep track of your finance with FinTS online banking</summary>
+  <summary lang="de">Behalte deine Finanzen mit FinTS Online Banking im Überblick</summary>
+  <description>
+    <p>
+      An easy way to access your online banking information. Show your balance and transaction based on FinTS online banking information.
+    </p>
+  </description>
+  <description lang="de">
+    <p>Ein einfacher Weg um Online Banking Informationen zu verwenden. Zeige deine Bilanz und Umsätze basierend auf FinTS Online Banking Informationen.</p>
+  </description>
+  <screenshots>
+    <screenshot>
+      <image>https://gitlab.com/tabos/banking/-/raw/master/data/screenshots/banking1.png</image>
+      <caption>Lock screen</caption>
+      <caption lang="de">Sperrbildschirm</caption>
+    </screenshot>
+    <screenshot type="default">
+      <image>https://gitlab.com/tabos/banking/-/raw/master/data/screenshots/banking2.png</image>
+      <caption>Main view</caption>
+      <caption lang="de">Hauptfenster</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.com/tabos/banking/-/raw/master/data/screenshots/banking3.png</image>
+      <caption>Details view</caption>
+      <caption lang="de">Detailansicht</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.com/tabos/banking/-/raw/master/data/screenshots/banking4.png</image>
+      <caption>Search view</caption>
+      <caption lang="de">Suchansicht</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.com/tabos/banking/-/raw/master/data/screenshots/banking5.png</image>
+      <caption>Setup assistant</caption>
+      <caption lang="de">Setup-Assistenten</caption>
+    </screenshot>
+  </screenshots>
+  <developer_name>Jan-Michael Brummer</developer_name>
+  <developer_name lang="de">Jan-Michael Brummer</developer_name>
+  <launchable type="desktop-id">org.tabos.banking.desktop</launchable>
+  <url type="homepage">https://tabos.org/projects/banking/</url>
+  <url type="bugtracker">https://gitlab.com/tabos/banking/issues</url>
+  <url type="donation">https://www.paypal.com/paypalme/tabos/10/</url>
+  <url type="help">https://gitlab.com/tabos/banking/-/issues/</url>
+  <kudos>
+    <kudo>ModernToolkit</kudo>
+  </kudos>
+  <update_contact>jan.brummer@tabos.org</update_contact>
+  <translation type="gettext">org.tabos.banking</translation>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release date="2022-05-29" version="0.5.1">
+      <description>
+        <p>New Features:</p>
+        <ul>
+          <li>Fix account update</li>
+          <li>Client bank code indicator</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2022-05-27" version="0.5.0">
+      <description>
+        <p>New Features:</p>
+        <ul>
+          <li>Encrypted sqlite storage</li>
+          <li>Improved category support</li>
+          <li>Notification for new and first time transactions</li>
+          <li>UI refactoring</li>
+          <li>Run in background option</li>
+          <li>New application logo</li>
+          <li>Fix random crash during initial setup</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.4.0" date="2021-10-01">
+      <description>
+        <p>New Features:</p>
+        <ul>
+          <li>Port to GTK4</li>
+          <li>Update server database</li>
+          <li>Support for TAN mechanism selection</li>
+          <li>PhotoTAN and FlickerCode support</li>
+          <li>In-App notification</li>
+          <li>Category support</li>
+          <li>Search functionality</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.3.0" date="2020-12-23" urgency="medium" />
+    <release date="2020-10-25" urgency="medium" version="0.2.4" />
+    <release urgency="medium" date="2020-10-24" version="0.2.3" />
+    <release date="2020-10-23" urgency="medium" version="0.2.2" />
+    <release date="2020-10-20" version="0.2.1" urgency="medium" />
+    <release urgency="medium" version="0.2.0" date="2020-10-20" />
+  </releases>
+  <custom>
+    <value key="Purism::form_factor">workstation</value>
+    <value key="Purism::form_factor">mobile</value>
+  </custom>
+</component>

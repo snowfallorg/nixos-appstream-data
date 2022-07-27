@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>
+   Engrampa is an archive manager for the MATE environment. It allows you
+   to create and modify archives, view the contents of an archive, view a
+   file contained in an archive, and extract files from archive.
+  </p>
+    <p>
+   Engrampa is only a front-end (a graphical interface) to archiving programs
+   like tar and zip. The supported file types are:
+  </p>
+    <ul>
+      <li>7-Zip Compressed File (.7z)</li>
+      <li>WinAce Compressed File (.ace)</li>
+      <li>ALZip Compressed File (.alz)</li>
+      <li>AIX Small Indexed Archive  (.ar)</li>
+      <li>ARJ Compressed Archive (.arj)</li>
+      <li>Cabinet File (.cab)</li>
+      <li>UNIX CPIO Archive (.cpio)</li>
+      <li>Debian Package (.deb, .udeb) [Read-only mode]</li>
+      <li>ISO-9660 Disk Image (.iso) [Read-only mode]</li>
+      <li>Java Archive (.jar)</li>
+      <li>Java Enterprise archive (.ear)</li>
+      <li>Java Web Archive (.war)</li>
+      <li>LHA Archive (.lzh, .lha)</li>
+      <li>WinRAR Compressed Archive (.rar)</li>
+      <li>RAR Archived Comic Book (.cbr)</li>
+      <li>RPM Package Manager (.rpm) [Read-only mode]</li>
+      <li>Tape Archive File uncompressed (.tar) or compressed with: gzip (.tar.gz, .tgz), brotli (.tar.br), bzip (.tar.bz, .tbz), bzip2 (.tar.bz2, .tbz2),
+      compress (.tar.Z, .taz), lrzip (.tar.lrz, .tlrz), lzip (.tar.lz, .tlz), lzop (.tar.lzo, .tzo), 7zip (.tar.7z), xz (.tar.xz), Zstandard (.zst)
+   </li>
+      <li>Stuffit Archives (.bin, .sit)</li>
+      <li>ZIP Archive (.zip)</li>
+      <li>ZIP Archived Comic Book (.cbz)</li>
+      <li>ZOO Compressed Archive File (.zoo)</li>
+      <li>Single files compressed with gzip (.gz), brotli (.br), bzip (.bz), bzip2 (.bz2), compress (.Z),
+      lrzip (.lrz), lzip (.lz), lzop (.lzo), rzip(.rz), xz (.xz).</li>
+    </ul>
+    <p>
+   Engrampa is a fork of File Roller and part of the MATE Desktop Environment.
+   If you would like to know more about MATE and Engrampa, please visit the
+   project's home page.
+  </p>
+  </description>
+  <description lang="ca">
+    <p>Engrampa és un gestor d’arxius per a l’entorn MATE. Permet crear i modificar arxius, visualitzar el contingut d’un arxiu, visualitzar un fitxer que està dins d'un arxiu i extreure fitxers de l’arxiu.</p>
+    <p>Engrampa només és una interfície gràfica per als programes d'arxivament, com ara tar i zip. Els tipus de fitxers compatibles són:</p>
+    <ul>
+      <li>Fitxer comprimit amb 7-Zip (.7z)</li>
+      <li>Fitxer comprimit amb WinAce (.ace)</li>
+      <li>Fitxer comprimit amb ALZip (.alz)</li>
+      <li>Arxiu indexat petit d'AIX (.ar)</li>
+      <li>Fitxer comprimit amb ARJ (.arj)</li>
+      <li>Fitxer Cabinet (.cab)</li>
+      <li>Arxiu CPIO UNIX (.cpio)</li>
+      <li>Paquet de Debian (.deb, .udeb) [mode només lectura]</li>
+      <li>Imatge de disc ISO-9660 (.rpm) [mode només lectura]</li>
+      <li>Arxiu Java (.jar)</li>
+      <li>Arxiu Java Enterprise (.ear)</li>
+      <li>Arxiu Java Web (.war)</li>
+      <li>Arxiu LHA (.lzh, .lha)</li>
+      <li>Arxiu amb compressió WinRAR (.rar)</li>
+      <li>Llibre de còmic amb arxivament RAR (.cbr)</li>
+      <li>Gestor de paquets RPM (.rpm) [mode només lectura]</li>
+      <li>Fitxer d'arxiu de cinta sense comprimir (.tar) o comprimit amb: gzip (.tar.gz, .tgz), brotli (.tar.br), bzip (.tar.bz, .tbz), bzip2 (.tar.bz2, .tbz2), compress (.tar.Z, .taz), lrzip (.tar.lrz, .tlrz), lzip (.tar.lz, .tlz), lzop (.tar.lzo, .tzo), 7zip (.tar.7z), xz (.tar.xz), Zstandard (.zst)</li>
+      <li>Arxiu Stuffit (.bin, .sit)</li>
+      <li>Arxiu ZIP (.zip)</li>
+      <li>Llibre de còmic amb arxivament ZIP (.cbz)</li>
+      <li>Fitxer d'arxiu comprimit ZOO (.zoo)</li>
+      <li>Fitxers únics comprimits amb gzip (.gz), brotli (.br), bzip (.bz), bzip2 (.bz2), compress (.Z), lrzip (.lrz), lzip (.lz), lzop (.lzo), rzip(.rz), xz (.xz).</li>
+    </ul>
+    <p>Engrampa és una bifurcació de File Roller, i part de l'entorn d'escriptori MATE. Si voleu saber més sobre MATE i Engrampa, si us plau, visiteu la pàgina principal del projecte.</p>
+  </description>
+  <description lang="cs">
+    <p>Engrampa je správce archivů pro prostředí MATE. Umožňuje vytvářet a upravovat archivy, prohlížet obsah archivu, prohlížet soubor obsažený v archivu a extrahovat soubory z archivu.</p>
+    <p>Engrampa je pouze front-end (grafické rozhraní) pro archivační programy, jako je tar nebo zip. Podporované typy souborů jsou:</p>
+    <ul>
+      <li>7-Zip komprimovaný soubor (.7z)</li>
+      <li>WinAce komprimovaný soubor (.ace)</li>
+      <li>ALZip komprimovaný soubor (.alz)</li>
+      <li>AIX malý indexovaný archiv (.ar)</li>
+      <li>ARJ komprimovaný archiv (.arj)</li>
+      <li>Cabinet soubor (.cab)</li>
+      <li>UNIX CPIO archiv (.cpio)</li>
+      <li>Balíček Debian (.deb, .udeb) [režim jen pro čtení]</li>
+      <li>Obraz disku ISO-9660 (.iso) [režim jen pro čtení]</li>
+      <li>Java archiv (.jar)</li>
+      <li>Java Enterprise archiv (.ear)</li>
+      <li>Java Web archiv (.war)</li>
+      <li>LHA archiv (.lzh, .lha)</li>
+      <li>WinRAR komprimovaný archiv (.rar)</li>
+      <li>Komiks archivovaný pomocí RAR (.cbr)</li>
+      <li>RPM Package Manager (.rpm) [režim jen pro čtení]</li>
+      <li>Soubor archivu pásky nekomprimovaný (.tar) nebo komprimovaný pomocí: gzip (.tar.gz, .tgz), brotli (.tar.br), bzip (.tar.bz, .tbz), bzip2 (.tar.bz2, .tbz2), compress (.tar.Z, .taz), lrzip (.tar.lrz, .tlrz), lzip (.tar.lz, .tlz), lzop (.tar.lzo, .tzo), 7zip (.tar.7z), xz (.tar.xz), Zstandard (.zst)</li>
+      <li>Stuffit archiv (.bin, .sit)</li>
+      <li>ZIP archiv (.zip)</li>
+      <li>ZIP Archived Comic Book (.cbz)</li>
+      <li>ZOO komprimovaný archiv (.zoo)</li>
+      <li>Jednotlivé soubory komprimované pomocí gzip (.gz), brotli (.br), bzip (.bz), bzip2 (.bz2), compress (.Z), lrzip (.lrz), lzip (.lz), lzop (.lzo), rzip(.rz), xz (.xz).</li>
+    </ul>
+    <p>Engrampa je forkem aplikace File Roller a je součástí prostředí MATE. Pokud se chcete dozvědět více o MATE a aplikaci Engrampa, navštivte domovskou stránku projektu.</p>
+  </description>
+  <description lang="da">
+    <p>Engrampa er en arkivhåndtering for MATE-miljøet. Du kan oprette og ændre arkiver, se indholdet på et arkiv, vise en fil indeholdt i et arkiv og udpakke filer fra arkivet.</p>
+    <p>Engrampa er kun en brugerflade (en grafisk grænseflade) til arkivprogrammer såsom tar og zip. De understøttede filtyper er:</p>
+    <ul>
+      <li>7-Zip-komprimeret fil (.7z)</li>
+      <li>WinAce-komprimeret fil (.ace)</li>
+      <li>ALZip-komprimeret fil (.alz)</li>
+      <li>AIX Small Indexed Archive (.ar)</li>
+      <li>ARJ-komprimeret arkiv (.arj)</li>
+      <li>Cabinet-fil (.cab)</li>
+      <li>UNIX CPIO-arkiv (.cpio)</li>
+      <li>Debianpakke (.deb, .udeb) [skrivebeskyttet tilstand]</li>
+      <li>ISO-9660-diskaftryk (.iso) [skrivebeskyttet tilstand]</li>
+      <li>Javaarkiv (.jar)</li>
+      <li>Java Enterprise-arkiv (.ear)</li>
+      <li>Java Web-arkiv (.war)</li>
+      <li>LHA-arkiv (.lzh, .lha)</li>
+      <li>WinRAR-komprimeret arkiv (.rar)</li>
+      <li>RAR-arkiveret tegneserie (.cbr)</li>
+      <li>RPM-pakkehåndtering (.rpm) [skrivebeskyttet tilstand]</li>
+      <li>Tape Archive File uden komprimering (.tar) eller komprimeret med: gzip (.tar.gz, .tgz), brotli (.tar.br), bzip (.tar.bz, .tbz), bzip2 (.tar.bz2, .tbz2), compress (.tar.Z, .taz), lrzip (.tar.lrz, .tlrz), lzip (.tar.lz, .tlz), lzop (.tar.lzo, .tzo), 7zip (.tar.7z), xz (.tar.xz), Zstandard (.zst)</li>
+      <li>Stuffit-arkiver (.bin, .sit)</li>
+      <li>ZIP-arkiv (.zip)</li>
+      <li>ZIP-pakket tegneserie (.cbz)</li>
+      <li>Zoo-komprimeret arkivfil (.zoo)</li>
+      <li>Enkelte filer komprimeret med gzip .gz), brotli (.br), bzip (.bz), bzip2 (.bz2), compress (.Z), lrzip (.lrz), lzip (.lz), lzop (.lzo), rzip(.rz), xz (.xz).</li>
+    </ul>
+    <p>Engrampa er en forgrening af File Roller og en del af skrivebordsmiljøet MATE. Hvis du ønsker at vide mere om MATE og Engrampa, så besøg projektets hjemmeside.</p>
+  </description>
+  <description lang="es">
+    <p>Engrampa es un gestor de archivadores para el entorno MATE. Le permite crear y modificar archivadores, ver el contenido de un archivador, ver un archivo contenido en un archivador y extraer archivos de un archivador.</p>
+    <p>Engrampa es solo una interfaz gráfica para programas de archivado como tar y zip. Tipos de archivo compatibles:</p>
+    <ul>
+      <li>Archivo comprimido 7-Zip (.7z)</li>
+      <li>Archivo comprimido WinAce (.ace)</li>
+      <li>Archivo comprimido ALZip (.alz)</li>
+      <li>Archivador indexado pequeño AIX (.ar)</li>
+      <li>Archivador comprimido ARJ (.arj)</li>
+      <li>Archivo Cabinet (.cab)</li>
+      <li>Archivador CPIO de UNIX (.cpio)</li>
+      <li>Paquete Debian (.deb, .udeb) [modo de solo lectura]</li>
+      <li>Imagen de disco ISO-9660 (.iso) [modo de solo lectura]</li>
+      <li>Archivador Java (.jar)</li>
+      <li>Archivador empresarial de Java (.ear)</li>
+      <li>Archivador web de Java (.war)</li>
+      <li>Archivador LHA (.lzh, .lha)</li>
+      <li>Archivador comprimido WinRAR (.rar)</li>
+      <li>Cómic archivado en RAR (.cbr)</li>
+      <li>Paquete RPM (.rpm) [modo de solo lectura]</li>
+      <li>Archivador de cinta no comprimido (.tar) o comprimido con: gzip (.tar.gz, .tgz), brotli (.tar.br), bzip (.tar.bz, .tbz), bzip2 (.tar.bz2, .tbz2), compress (.tar.Z, .taz), lrzip (.tar.lrz, .tlrz), lzip (.tar.lz, .tlz), lzop (.tar.lzo, .tzo), 7zip (.tar.7z), xz (.tar.xz), Zstandard (.zst)</li>
+      <li>Archivadores Stuffit (.bin, .sit)</li>
+      <li>Archivador ZIP (.zip)</li>
+      <li>Cómic archivado en ZIP (.cbz)</li>
+      <li>Archivador comprimido ZOO (.zoo)</li>
+      <li>Archivos sueltos comprimidos con gzip (.gz), brotli (.br), bzip (.bz), bzip2 (.bz2), compress (.Z), lrzip (.lrz), lzip (.lz), lzop (.lzo), rzip(.rz), xz (.xz).</li>
+    </ul>
+    <p>Engrampa es una bifurcación de File Roller y es parte del entorno de escritorio MATE. Si quiere saber más sobre MATE y Engrampa, visite la página principal del proyecto.</p>
+  </description>
+  <description lang="fr">
+    <p>Engrampa est un gestionnaire d'archives pour l'environnement de bureau MATE. Il vous permet de créer et modifier des archives, visualiser leur contenu, visualiser un fichier contenu dans une archive, et extraire des fichiers provenant d'archives.</p>
+    <p>Engrampa est seulement un front-end (une interface graphique) pour des programmes d'archivage comme tar ou zip. Les types de fichiers supportés sont :</p>
+    <ul>
+      <li>Fichier compressé avec 7-Zip (.7z)</li>
+      <li>Fichier compressé avec WinAce (.ace)</li>
+      <li>Fichier compressé avec ALZip (.alz)</li>
+      <li>Archive compressée AIX(.ar)</li>
+      <li>Archive compressée ARJ (.arj)</li>
+      <li>Fichier Cabinet (.cab)</li>
+      <li>Archive CPIO UNIX (.cpio)</li>
+      <li>Paquetage de Debian (.deb, .udeb) [mode Lecture seule]</li>
+      <li>Image disque ISO-9660 (.iso) [Mode lecture seule]</li>
+      <li>Archive Java (.jar)</li>
+      <li>Archive Java Entreprise (.ear)</li>
+      <li>Archive Web Java (.war)</li>
+      <li>Archive LHA (.lzh, .lha)</li>
+      <li>Archive compressée avec WinRAR (.rar)</li>
+      <li>Bande dessinée archivée en RAR (.cbr)</li>
+      <li>Gestionnaire de paquetage de Red Hat (.rpm) [mode Lecture seule]</li>
+      <li>Fichier archive de bande, non compressé (.tar) ou compressé avec: gzip (.tar.gz, .tgz), brotli (.tar.br), bzip (.tar.bz, .tbz), bzip2 (.tar.bz2, .tbz2), compress (.tar.Z, .taz), lrzip (.tar.lrz, .tlrz), lzip (.tar.lz, .tlz), lzop (.tar.lzo, .tzo), 7zip (.tar.7z), xz (.tar.xz), Zstandard (.zst)</li>
+      <li>Archives StuffIt (.bin, .sit)</li>
+      <li>Archive ZIP (.zip)</li>
+      <li>Bande dessinée archivée en ZIP (.cbz)</li>
+      <li>Archive compressée avec ZOO (.zoo)</li>
+      <li>Fichiers individuels compressés avec (.gz), brotli (.br), bzip (.bz), bzip2 (.bz2), compress (.Z), lrzip (.lrz), lzip (.lz), lzop (.lzo), rzip(.rz), xz (.xz).</li>
+    </ul>
+    <p>Engrampa est un fork de File Roller faisant partie de l'environnement de bureau MATE. Si vous voulez en savoir plus à propos de MATE et Engrampa, veuillez visiter la page Web du projet.</p>
+  </description>
+  <description lang="gl">
+    <p>Engrampa é un xestor de arquivos para o contorno MATE. Permite crear e modificar arquivos, ver o contido dun arquivo, ver un ficheiro contido nun arquivo e extraer ficheiros do arquivo.</p>
+    <p>Engrampa é só un front-end (unha interface gráfica) para arquivar programas como tar e zip. Os tipos de ficheiro compatíbeis son:</p>
+    <ul>
+      <li>Arquivo comprimido co 7-Zip (.7z)</li>
+      <li>Arquivo comprimido co WinAce (.ace)</li>
+      <li>Arquivo comprimido co ALZip (.alz)</li>
+      <li>Pequeno arquivo indexado AIX (.ar)</li>
+      <li>Arquivo comprimido co ARJ (.arj)</li>
+      <li>Arquivo Cabinet (.cab)</li>
+      <li>Arquivo UNIX CPIO (.cpio)</li>
+      <li>Paquete Debian (.deb, .udeb) [modo só lectura]</li>
+      <li>Imaxe de disco ISO-9660 (.iso) [modo só lectura]</li>
+      <li>Arquivo Java (.jar)</li>
+      <li>Arquivo Java Enterprise (.ear)</li>
+      <li>Arquivo Java para web (.war)</li>
+      <li>Arquivo LHA (.lzh, .lha)</li>
+      <li>Arquivo comprimido con WinRAR (.rar)</li>
+      <li>Libro de comic arquivado con RAR (.cbr)</li>
+      <li>Paquete RPM (.rpm) [modo só lectura]</li>
+      <li>Arquivo de cinta Arquivo non comprimido (.tar) ou comprimido con: gzip (.tar.gz, .tgz), brotli (.tar.br), bzip (.tar.bz, .tbz), bzip2 (.tar.bz2,. tbz2), compress (.tar.Z, .taz), lrzip (.tar.lrz, .tlrz), lzip (.tar.lz, .tlz), lzop (.tar.lzo, .tzo), 7zip (. tar.7z), xz (.tar.xz), Zstandard (.zst)</li>
+      <li>Arquivos Stuffit (.bin, .sit)</li>
+      <li>Arquivo ZIP (.zip)</li>
+      <li>Libro de comic arquivado con ZIP (.cbz)</li>
+      <li>Ficheiro de arquivo comprimido  ZOO (.zoo)</li>
+      <li>Ficheiros individuais comprimidos con gzip (.gz), brotli (.br), bzip (.bz), bzip2 (.bz2), compress (.Z), lrzip (.lrz), lzip (.lz), lzop (.lzo) ), rzip (.rz), xz (.xz).</li>
+    </ul>
+    <p>Engrampa é unha bifurcación do File Roller e forma parte do contorno de escritorio MATE. Se quere saber máis sobre MATE e Engrampa, visite a páxina do proxecto.</p>
+  </description>
+  <description lang="he">
+    <ul>
+      <li>קובץ דחוס מסוג 7-Zip ‏(.7z)</li>
+      <li>קובץ דחוס מסוג WinAce ‏(.ace)</li>
+    </ul>
+  </description>
+  <description lang="id">
+    <p>Engrampa adalah sebuah manajer arsip untuk lingkungan MATE. Ini memungkinkan Anda membuat dan mengubah arsip, melihat isi dari suatu arsip, melihat suatu berkas yang berada dalam suatu arsip, dan mengekstrak berkas dari arsip.</p>
+    <p>Engrampa hanyalah suatu front-end (antarmuka grafis) ke program pengarsipan seperti tar dan zip. Tipe-tipe berkas yang didukung adalah:</p>
+    <ul>
+      <li>Berkas Terkompresi 7-Zip (.7z)</li>
+      <li>Berkas Terkompresi WinAce (.ace)</li>
+      <li>Berkas Terkompresi ALZip (.alz)</li>
+      <li>Arsip Terindeks Kecil AIX (.ar)</li>
+      <li>Arsip Terkompresi ARJ (.arj)</li>
+      <li>Berkas Cabinet (.cab)</li>
+      <li>Arsip CPIO UNIX (.cpio)</li>
+      <li>Paket Debian (.deb, .udeb) [Mode hanya baca]</li>
+      <li>Image Diska ISO-9660 (.iso) [Mode hanya baca]</li>
+      <li>Arsip Java (.jar)</li>
+      <li>Arsip Java Enterprise (.ear)</li>
+      <li>Arsip Web Java (.war)</li>
+      <li>Arsip LHA (.lzh, .lha)</li>
+      <li>Arsip Terkompresi WinRAR (.rar)</li>
+      <li>Buku Komik Terarsip RAR (.cbr)</li>
+      <li>Manajer Paket RPM (.rpm) [Mode hanya baca]</li>
+      <li>Berkas Arsip Tape tak terkompresi (.tar) atau terkompresi dengan: gzip (.tar.gz, tgs), brotli (.tar.br), bzip (.tar.bz, .tbz), bzip2 (.tar.bz2, .tbz2), compress (.tar.Z, .taz), lrzip (.tar.lrz, .trlz), lzip (.tar.lz, .tlz), lzop (.tar.lzo, .tzo), 7zip (.tar.7z), xz (.tar.xz), Zstandard (.zst)</li>
+      <li>Arsip Stuffit (.bin, .sit)</li>
+      <li>Arsip ZIP (.zip)</li>
+      <li>Buku Komik Terarsip ZIP (.cbz)</li>
+      <li>Berkas Arsip Terkompresi ZOO (.zoo)</li>
+      <li>Berkas tunggal terkompresi dengan gzip (.gz), brotli (.br), bzip (.bz), bzip2 (.bz2), compress (.Z), lrzip (.lrz), lzip (.lz), lzop (.lzo), rzip(.rz), xz (.xz).</li>
+    </ul>
+    <p>Engrampa adalah fork dari File Roller dan bagian dari Lingkungan Desktop MATE. Bila Anda ingin tahu lebih jauh tentang MATE dan Engrampa, harap kunjungi laman proyek.</p>
+  </description>
+  <description lang="it">
+    <p>Engrampa è il gestore di archivi dell'ambiente MATE. Permette di creare, modificare e visualizzare il contenuto di un archivio o di un file contenuto in un archivio, nonché di estrarre i file dall'archivio.</p>
+    <p>Engrampa è solo un front-end (un'interfaccia grafica) di programmi per l'archiviazione come tar e zip. I tipi di file supportati sono:</p>
+    <ul>
+      <li>File compresso 7-Zip (.7z)</li>
+      <li>File compresso WinAce (.ace)</li>
+      <li>File compresso ALZip (.alz)</li>
+      <li>Archivio a indice ristretto AIX (.ar)</li>
+      <li>Archivio compresso ARJ (.arj)</li>
+      <li>File Cabinet (.cab)</li>
+      <li>Archivio UNIX CPIO (.cpio)</li>
+      <li>Pacchetto Debian (.deb, .udeb) [modalità Sola-lettura]</li>
+      <li>Immagine Disco ISO-9660 (.iso) [modalità Sola-lettura]</li>
+      <li>Archivio Java (.jar)</li>
+      <li>Archivio Java Enterprise (.ear)</li>
+      <li>Archivio Java Web (.war)</li>
+      <li>Archivio LHA (.lzh, .lha)</li>
+      <li>Archivio compresso WinRAR (.rar)</li>
+      <li>Fumetto archivio RAR (.cbr)</li>
+      <li>RPM Package Manager (.rpm) [modalità Sola-lettura]</li>
+      <li>File Archivio Tape non compresso (.tar) o compresso con: gzip (.tar.gz, .tgz), brotli (.tar.br), bzip (.tar.bz, .tbz), bzip2 (.tar.bz2, .tbz2), compress (.tar.Z, .taz), lrzip (.tar.lrz, .tlrz), lzip (.tar.lz, .tlz), lzop (.tar.lzo, .tzo), 7zip (.tar.7z), xz (.tar.xz), Zstandard (.zst)</li>
+      <li>Archivi Stuffit (.bin, .sit)</li>
+      <li>Archivio ZIP (.zip)</li>
+      <li>Fumetti archiviati come ZIP (.cbz)</li>
+      <li>File archivio compresso ZOO (.zoo)</li>
+      <li>File singoli compressi con gzip (.gz), brotli (.br), bzip (.bz), bzip2 (.bz2), compress (.Z), lrzip (.lrz), lzip (.lz), lzop (.lzo), rzip(.rz), xz (.xz).</li>
+    </ul>
+    <p>Engrampa è un fork di File Roller e fa parte dell'ambiente desktop MATE. Se vuoi saperne di più su MATE e Engrampa, visita la home page del progetto.</p>
+  </description>
+  <description lang="ja">
+    <p>Engrampa は、MATE環境用のアーカイブマネージャです。アーカイブの作成や変更、アーカイブの内容の閲覧、アーカイブに含まれるファイルの閲覧、アーカイブからのファイル抽出などが可能です。</p>
+    <p>Engrampa は、tar や zip のようなアーカイブ・プログラムのフロントエンド（グラフィカル・インターフェース）に過ぎません。サポートするファイルタイプは以下です。</p>
+    <ul>
+      <li>7-Zip 圧縮ファイル (.7z)</li>
+      <li>WinAce 圧縮ファイル (.ace)</li>
+      <li>ALZip 圧縮ファイル (.alz)</li>
+      <li>AIX Small Indexed アーカイブ (.ar)</li>
+      <li>ARJ 圧縮アーカイブ (.arj)</li>
+      <li>キャビネットファイル (.cab)</li>
+      <li>UNIX CPIO アーカイブ (.cpio)</li>
+      <li>Debian パッケージ (.deb, .udeb) [読み取りのみ]</li>
+      <li>ISO-9660 ディスクイメージ (.iso) [読み取りのみ]</li>
+      <li>Java アーカイブ (.jar)</li>
+      <li>Java エンタープライズ・アーカイブ (.ear)</li>
+      <li>Java ウェブアーカイブ (.war)</li>
+      <li>LHA アーカイブ (.lzh, .lha)</li>
+      <li>WinRAR 圧縮アーカイブ (.rar)</li>
+      <li>RAR 形式圧縮コミックブック (.cbr)</li>
+      <li>RPM パッケージマネージャ (.rpm) [読み取りのみ]</li>
+      <li>テープアーカイブファイル・非圧縮 (.tar) または以下の圧縮形式: gzip (.tar.gz, .tgz), brotli (.tar.br), bzip (.tar.bz, .tbz), bzip2 (.tar.bz2, .tbz2)、圧縮形式 (.tar.Z, .taz), lrzip (.tar.lrz, .tlrz), lzip (.tar.lz, .tlz), lzop (.tar.lzo, .tzo), 7zip (.tar.7z), xz (.tar.xz), Zstandard (.zst)</li>
+      <li>Stuffit アーカイブ (.bin, .sit)</li>
+      <li>ZIP アーカイブ (.zip)</li>
+      <li>ZIP アーカイブ・コミックブック (.cbz)</li>
+      <li>ZOO 圧縮アーカイブファイル (.zoo)</li>
+      <li>以下の形式で圧縮された単独ファイル gzip (.gz), brotli (.br), bzip (.bz), bzip2 (.bz2), compress (.Z), lrzip (.lrz), lzip (.lz), lzop (.lzo), rzip(.rz), xz (.xz).</li>
+    </ul>
+    <p>Engrampa は File Roller のフォークで、MATEデスクトップ環境の一部です。MATE と Engrampa についてもっと知りたい方は、プロジェクトの公式ページをご覧ください。</p>
+  </description>
+  <description lang="ko">
+    <ul>
+      <li>Debian 패키지(.deb, .udeb) [읽기 전용 모드]</li>
+      <li>RPM 패키지 관리자(.rpm)[읽기 전용 모드]</li>
+    </ul>
+    <p>Engrampa는 파일 Roller의 포크이며 MATE 데스크톱 환경의 일부입니다. MATE와 Engrampa에 대해 자세히 알고 싶으시면 프로젝트 홈페이지를 방문하시기 바랍니다.</p>
+  </description>
+  <description lang="lt">
+    <p>Engrampa yra MATE darbalaukio aplinkos archyvų tvarkytuvė. Ji leidžia kurti ir keisti archyvus, žiūrėti jų turinį, atsidaryti archyvuose esančius failus bei juos išskleisti.</p>
+    <p>Engrampa yra tik archyvavimo programų kaip tar ir zip vartotojo sąsaja. Palaikomi šie failų tipai:</p>
+    <ul>
+      <li>7-Zip suglaudintas failas (.7z)</li>
+      <li>WinAce suglaudintas failas (.ace)</li>
+      <li>ALZip suglaudintas failas (.alz)</li>
+      <li>AIX mažas indeksuotas archyvas (.ar)</li>
+      <li>ARJ suglaudintas archyvas (.arj)</li>
+      <li>Kabinetinis failas (.cab)</li>
+      <li>UNIX CPIO archyvas (.cpio)</li>
+      <li>Debian paketas (.deb, .udeb.) [Tik skaitymo režimas]</li>
+      <li>ISO-96660 disko atvaizdas (.iso) [Tik skaitymo režimas]</li>
+      <li>Java archyvas (.jar)</li>
+      <li>Java Enterprise archyvas (.ear)</li>
+      <li>Java Web archyvas (.war)</li>
+      <li>LHA archyvas (.lzh, .lha)</li>
+      <li>WinRAR suglaudintas archyvas (.rar)</li>
+      <li>RAR archyvuota komiksų knyga (.cbr)</li>
+      <li>RPM paketas (.rpm) [Tik skaitymo režimas]</li>
+      <li>Tar neglaudintas failas (.tar) arba suglaudintas, naudojant gzip (.tar.gz, .tgz), brotli (.tar.br), bzip (.tar.bz, .tbz), bzip2 (.tar.bz2, .tbz2), compress (.tar.Z, .taz), lrzip (.tar.lrz, .tlrz), lzip (.tar.lz, .tlz), lzop (.tar.lzo, .tzo), 7zip (.tar.7z), xz (.tar.xz), Zstandard (.zst)</li>
+      <li>Stuffit archyvai (.bin, .sit)</li>
+      <li>ZIP archyvas (.zip)</li>
+      <li>ZIP archyvuota komiksų knyga (.cbz)</li>
+      <li>ZOO suspaustas archyvas (.zoo)</li>
+      <li>Atskiri failai, suglaudinti, naudojant gzip (.gz), brotli (.br), bzip (.bz), bzip2 (.bz2), compress (.Z), lrzip (.lrz), lzip (.lz), lzop (.lzo), rzip(.rz), xz (.xz).</li>
+    </ul>
+    <p>Engrampa yra File Roller atšaka ir MATE dabalaukio aplinkos dalis. Jei norite sužinoti daugiau apie MATE ir Engrampą, prašom apsilankyti projekto tinklalapyje. </p>
+  </description>
+  <description lang="ms">
+    <p>Engrampa ialah sebuah pengurus arkib untuk persekitaran MATE. Anda boleh mencipta dan mengubah suai arkib, melihat kandungan arkib, melihat fail yang terkandung di dalam sebuah arkib, dan juga mengekstrak fail-fail daripada arkib.</p>
+    <p>Engrampa ialah satu bahagian-hadapan (antara muka bergrafik) yang dapat mengarkibkan program-program seperti tar dan zip. Jenis-jenis fail yang disokong adalah:</p>
+    <ul>
+      <li>Fail termampat 7-Zip (.7z)</li>
+      <li>Fail termampat WinAce (.ace)</li>
+      <li>Fail termampat ALZip (.alz)</li>
+      <li>Akrib Terindeks Kecil AIX (.ar)</li>
+      <li>Arkib termampat ARJ (.arj)</li>
+      <li>Fail Cabinet (.cab)</li>
+      <li>Arkib CPIO UNIX (.cpio)</li>
+      <li>Pakej Debian (.deb, .udeb) [Mod baca-sahaja]</li>
+      <li>Imej Cakera ISO-9660 (.iso) [Mod baca-sahaja]</li>
+      <li>Arkib Java (.jar)</li>
+      <li>Arkib Enterprise Java (.ear)</li>
+      <li>Arkib Sesawang Java (.war)</li>
+      <li>Arkib LHA (.lzh, .lha)</li>
+      <li>Arkib termampat WinRAR (.rar)</li>
+      <li>Buku Komik Terarkib RAR (.cbr)</li>
+      <li>Pengurus Pakej RPM (.rpm) [Mod baca-sahaja]</li>
+      <li>Fail Arkib Tape ternyahmampat (.tar) termampat dengan: gzip (.tar.gz, .tgz), brotli (.tar.br), bzip (.tar.bz, .tbz), bzip2 (.tar.bz2, .tbz2), mampat (.tar.Z, .taz), lrzip (.tar.lrz, .tlrz), lzip (.tar.lz, .tlz), lzop (.tar.lzo, .tzo), 7zip (.tar.7z), xz (.tar.xz), Zstandard (.zst)</li>
+      <li>Arkib Stuffit (.bin, .sit)</li>
+      <li>Arkib ZIP (.zip)</li>
+      <li>Buku Komik Terarkib ZIP (.cbz)</li>
+      <li>Fail Arkib Termampat ZOO (.zoo)</li>
+      <li>Fail tunggal termampat dengan gzip (.gz), brotli (.br), bzip (.bz), bzip2 (.bz2), mampat (.Z), lrzip (.lrz), lzip (.lz), lzop (.lzo), rzip(.rz), xz (.xz).</li>
+    </ul>
+    <p>Engrampa merupakan cabang File Roller dan sebahagian dari Persekitaran Atas Meja MATE. Jika anda mahu ketahui lebih lanjut mengenai MATE dan Engrampa, sila lawati laman sesawang projek.</p>
+  </description>
+  <description lang="nb">
+    <p>Engrampa er en arkivbehandler for skrivebordsmiljøet MATE. Den kan opprette og endre arkiver, vise arkivinnhold, vise filer i et arkiv og trekke ut filer fra arkivet.</p>
+    <p>Engrampa er kun et grafisk grensesnitt til arkivprogrammer som tar og zip. Følgende filtyper støttes:</p>
+    <ul>
+      <li>7-Zip-komprimert fil (.7z)</li>
+      <li>WinAce-komprimert fil (.ace)</li>
+      <li>ALZip-komprimert fil (.alz)</li>
+      <li>AIX - Lite indeksert arkiv (.ar)</li>
+      <li>ARJ-komprimert arkiv (.arj)</li>
+      <li>Kabinettfil (.cab)</li>
+      <li>UNIX CPIO-arkiv (.cpio)</li>
+      <li>Debian-pakke (.deb, .udeb) [Kun lesing]</li>
+      <li>ISO-9660 CD-avtrykk (.iso) [Kun lesing]</li>
+      <li>Java-arkiv (.jar)</li>
+      <li>Java Enterprise-arkiv (.ear)</li>
+      <li>Java Web-arkiv (.war)</li>
+      <li>LHA-arkiv (.lzh, .lha)</li>
+      <li>WinRAR-komprimert arkiv (.rar)</li>
+      <li>RAR-arkivert tegneserie (.cbr)</li>
+      <li>RPM pakkebehandling (.rpm) [Kun lesing]</li>
+      <li>Tar-arkiv, ukomprimert (.tar) eller komprimert med: gzip (.tar.gz, .tgz), brotli (.tar.br), bzip (.tar.bz, .tbz), bzip2 (.tar.bz2, .tbz2), compress (.tar.Z, .taz), lrzip (.tar.lrz, .tlrz), lzip (.tar.lz, .tlz), lzop (.tar.lzo, .tzo), 7zip (.tar.7z), xz (.tar.xz), Zstandard (.zst)</li>
+      <li>Stuffit-arkiver (.bin, .sit)</li>
+      <li>ZIP-arkiv (.zip)</li>
+      <li>ZIP-arkivert tegneserie (.cbz)</li>
+      <li>ZOO-komprimert arkivfil (.zoo)</li>
+      <li>Enkeltfiler komprimert med gzip (.gz), brotli (.br), bzip (.bz), bzip2 (.bz2), compress (.Z), lrzip (.lrz), lzip (.lz), lzop (.lzo), rzip(.rz), xz (.xz).</li>
+    </ul>
+    <p>Engrampa er avledet fra File Roller og er en del av skrivebordsmiljøet MATE. Besøk hjemmesiden til prosjektet hvis du vil vite mer om MATE og Engrampa.</p>
+  </description>
+  <description lang="nl">
+    <p>Engrampa is een archiefbeheerder voor de MATE-werkomgeving. U kunt er ingepakte archiefbestanden mee maken en bewerken, de inhoud van een archiefbestand bekijken, een bestand in een archiefbestand bekijken, en bestanden uit het archief uitpakken.</p>
+    <p>Engrampa is slechts een bedieningsschil (een grafische schil) voor archiveringstoepassingen als tar en zip. De ondersteunde bestandssoorten zijn:</p>
+    <ul>
+      <li>7-Zip Compressed File (.7z)</li>
+      <li>WinAce Compressed File (.ace)</li>
+      <li>ALZip Compressed File (.alz)</li>
+      <li>AIX Small Indexed Archive (.ar)</li>
+      <li>ARJ Compressed Archive (.arj)</li>
+      <li>Cabinet File (.cab)</li>
+      <li>UNIX CPIO Archive (.cpio)</li>
+      <li>Debianpakket (.deb, .udeb) [Alleen-lezen-modus]</li>
+      <li>ISO-9660 schijfkopie (.iso) [Alleen-lezen-modus]</li>
+      <li>Java Archive (.jar)</li>
+      <li>Java Enterprise archive (.ear)</li>
+      <li>Java Web Archive (.war)</li>
+      <li>LHA Archive (.lzh, .lha)</li>
+      <li>WinRAR Compressed Archive (.rar)</li>
+      <li>RAR Archived Comic Book (.cbr)</li>
+      <li>RPM Package Manager (.rpm) [Alleen-lezen-modus]</li>
+      <li>Tape Archive File niet-samengeperst (.tar) of samengeperst met: gzip (.tar.gz, .tgz), brotli (.tar.br), bzip (.tar.bz, .tbz), bzip2 (.tar.bz2, .tbz2), compress (.tar.Z, .taz), lrzip (.tar.lrz, .tlrz), lzip (.tar.lz, .tlz), lzop (.tar.lzo, .tzo), 7zip (.tar.7z), xz (.tar.xz), Zstandard (.zst)</li>
+      <li>Stuffit Archives (.bin, .sit)</li>
+      <li>ZIP Archive (.zip)</li>
+      <li>ZIP Archived Comic Book (.cbz)</li>
+      <li>ZOO Compressed Archive File (.zoo)</li>
+      <li>Enkele bestanden samengeperst met gzip (.gz), brotli (.br), bzip (.bz), bzip2 (.bz2), compress (.Z), lrzip (.lrz), lzip (.lz), lzop (.lzo), rzip(.rz), xz (.xz).</li>
+    </ul>
+    <p>Engrampa is afgevorkt van File Roller en maakt deel uit van de MATE-werkomgeving. Als u meer wilt weten over MATE en Engrampa, bezoek dan a.u.b. de thuispagina van het project.</p>
+  </description>
+  <description lang="oc">
+    <p>Engrampa es un gestionari d’archius per l’environament MATE. Vos permet de crear e modificar archius, veire lo contengut d’un archiu, veire un fichièr contengut dins un archiu, e traire fichièrs d’un archiu estant.</p>
+    <p>Engrampa es pas qu’una vista frontala (interfàcia grafica) a de programas d’archius coma tar e zip. Los tipes de fichièr compatibles son :</p>
+    <ul>
+      <li>Fichièr compressat amb 7-zip (.7z)</li>
+      <li>Fichièr WinAce compressat (.ace)</li>
+      <li>Fichièr compressat ALZip (.alz)</li>
+      <li>Archiu AIX Small Indexed (.ar)</li>
+      <li>Archiu compressat ARJ (.arj)</li>
+      <li>Fichièr Cabinet (.cab)</li>
+      <li>Archiu UNIX CPIO (.cpio)</li>
+      <li>Paquet Debian (.deb, .udeb) [Mòde lectura sola]</li>
+      <li>Imatge disc ISO-9660 (.iso) [Mòde lectura sola]</li>
+      <li>Archiu Java (.jar)</li>
+      <li>Archiu Java Enterprise (.ear)</li>
+      <li>Archiu Java Web (.war)</li>
+      <li>Archiu LHA (.lzh, .lha)</li>
+      <li>Archiu compressat WinRAR (.rar)</li>
+      <li>Benda dessenhada archivadas en RAR (.cbr)</li>
+      <li>RPM Package Manager (.rpm) [Mòde lectura sola]</li>
+      <li>Fichièr descompressat Tape Archive File (.tar) o compressat amb : gzip (.tar.gz, .tgz), brotli (.tar.br), bzip (.tar.bz, .tbz), bzip2 (.tar.bz2, .tbz2), compress (.tar.Z, .taz), lrzip (.tar.lrz, .tlrz), lzip (.tar.lz, .tlz), lzop (.tar.lzo, .tzo), 7zip (.tar.7z), xz (.tar.xz), Zstandard (.zst)</li>
+      <li>Archius Stuffit (.bin, .sit)</li>
+      <li>Archiu ZIP (zip)</li>
+      <li>Benda dessenhada archivadas en ZIP (.cbz)</li>
+      <li>ZOO Compressed Archive File (.zoo)</li>
+      <li>Fichièrs sols compressats amb gzip (.gz), brotli (.br), bzip (.bz), bzip2 (.bz2), compress (.Z), lrzip (.lrz), lzip (.lz), lzop (.lzo), rzip(.rz), xz (.xz).</li>
+    </ul>
+    <p>Engrampa es una derivacion de File Roller e fa part de l’environament de burèu MATE. Se volètz ne saber mai a prepaus de MATE e Engrampa, consultatz lo site del projècte.</p>
+  </description>
+  <description lang="pl">
+    <p>Engrampa jest menedżerem archiwów dla MATE. Pozwala tworzyć, modyfikować, przeglądać archiwa, oraz pliki w nich zawarte, a także wyodrębniać pliki z archiwum.</p>
+    <p>Engrampa to tylko nakładka (interfejs graficzny) programów archiwizacyjnych takich jak tar i zip. Obsługiwane typy plików to:</p>
+    <ul>
+      <li>Plik skompresowany 7-Zip (.7z)</li>
+      <li>Plik skompresowany WinAce (.ace)</li>
+      <li>Plik skompresowany ALZip (.alz)</li>
+      <li>Małe zindeksowane archiwum AIX (.ar)</li>
+      <li>Skompresowane archiwum ARJ (.arj)</li>
+      <li>Plik Cabinet (.cab)</li>
+      <li>Archiwum UNIX CPIO (.cpio)</li>
+      <li>Pakiet Debiana (.deb, .udeb) [Tryb tylko do odczytu]</li>
+      <li>Obraz dysku ISO-9660 (.iso) [Tryb tylko do odczytu]</li>
+      <li>Archiwum Java (.jar)</li>
+      <li>Archiwum Java Enterprise (.ear)</li>
+      <li>Archiwum Java Web (.war)</li>
+      <li>Archiwum LHA (.lzh, .lha)</li>
+      <li>Archiwum skompresowane WinRAR (.rar)</li>
+      <li>Archiwum komiksu RAR (.cbr)</li>
+      <li>Menedżer pakietów RPM (.rpm) [Tryb tylko do odczytu]</li>
+      <li>Plik nieskompresowany Tape Archive (.tar) lub skompresowany z: gzip (.tar.gz, .tgz), brotli (.tar.br), bzip (.tar.bz, .tbz), bzip2 (.tar.bz2, .tbz2), compress (.tar.Z, .taz), lrzip (.tar.lrz, .tlrz), lzip (.tar.lz, .tlz), lzop (.tar.lzo, .tzo), 7zip (.tar.7z), xz (.tar.xz), Zstandard (.zst)</li>
+      <li>Archiwa Stuffit (.bin, .sit)</li>
+      <li>Archiwum ZIP (.zip)</li>
+      <li>Archiwum komiksu ZIP (.cbz)</li>
+      <li>Plik skompresowanego archiwum ZOO (.zoo)</li>
+      <li>Pojedyncze pliki skompresowane z gzip (.gz), brotli (.br), bzip (.bz), bzip2 (.bz2), compress (.Z), lrzip (.lrz), lzip (.lz), lzop (.lzo), rzip(.rz), xz (.xz).</li>
+    </ul>
+    <p>Engrampa jest forkiem File Roller oraz częścią MATE Desktop Environment. Jeśli chcesz dowiedzieć się więcej o MATE oraz Engrampa, odwiedź strony domowe projektów.</p>
+  </description>
+  <description lang="pt">
+    <p>Engrampa é um gestor de arquivos para o ambiente MATE. Permite criar e modificar arquivos, ver os conteúdos dum arquivo, ver um ficheiro contido num arquivo, e extrair ficheiros de arquivos.</p>
+    <p>Engrampa é apenas uma visualização (uma interface gráfica) para arquivar programas como tar e zip. Os tipos de ficheiro suportados são:</p>
+    <ul>
+      <li>Ficheiro Comprimido 7-Zip (.7z)</li>
+      <li>Ficheiro Comprimido WinAce (.ace)</li>
+      <li>Ficheiro Comprimido ALZip (.alz)</li>
+      <li>Arquivo Pequeno Indexado AIX (.ar)</li>
+      <li>Arquivo Comprimido ARJ (.arj)</li>
+      <li>Ficheiro Cabinet (.cab)</li>
+      <li>Arquivo UNIX CPIO (.cpio)</li>
+      <li>Pacote Debian (.deb, .udeb) [Modo de leitura]</li>
+      <li>Imagem de Disco ISO-9660 (.iso) [Modo de leitura]</li>
+      <li>Arquivo Java (.jar)</li>
+      <li>Arquivo Java Enterprise (.ear)</li>
+      <li>Arquivo Java Web (.war)</li>
+      <li>Arquivo LHA (.lzh, .lha)</li>
+      <li>Arquivo Comprimido WinRAR (.rar)</li>
+      <li>Banda Desenhada RAR Arquivada (.cbr)</li>
+      <li>Gestor de Pacotes RPM (.rpm) [Modo de leitura]</li>
+      <li>Ficheiro Tape Archive descomprimido (.tar) ou comprimido com: gzip (.tar.gz, .tgz), brotli (.tar.br), bzip (.tar.bz, .tbz), bzip2 (.tar.bz2, .tbz2), compress (.tar.Z, .taz), lrzip (.tar.lrz, .tlrz), lzip (.tar.lz, .tlz), lzop (.tar.lzo, .tzo), 7zip (.tar.7z), xz (.tar.xz), Zstandard (.zst)</li>
+      <li>Arquivos Stuffit (.bin, .sit)</li>
+      <li>Arquivo ZIP (.zip)</li>
+      <li>Banda Desenhada ZIP Arquivada (.cbz)</li>
+      <li>Arquivo Ficheiro Comprimido ZOO (.zoo)</li>
+      <li>Ficheiros singulares comprimidos com gzip (.gz), brotli (.br), bzip (.bz), bzip2 (.bz2), compress (.Z), lrzip (.lrz), lzip (.lz), lzop (.lzo), rzip(.rz), xz (.xz).</li>
+    </ul>
+    <p>Engrampa é uma modificação do File Roller e parte do Ambiente de Trabalho MATE. Se gostaria de saber mais sobre o MATE e o Engrampa, visite a página do projecto.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Engrampa é um gerenciador de arquivos para o ambiente MATE. Te permite criar e modificar arquivos, ver os conteúdos de um arquivo, ver um arquivo contido noutro arquivo e extrair conteúdo de um arquivo.</p>
+    <p>Engrampa é apenas um front-end (uma interface gráfica) para arquivar programas como tar e zip. Os tipos de arquivos suportados são:</p>
+    <ul>
+      <li>Arquivo compactado 7-Zip (.7z)</li>
+      <li>Arquivo compactado WinAce (.ace)</li>
+      <li>Arquivo compactado ALZip (.alz)</li>
+      <li>Arquivo Java (.jar)</li>
+      <li>Arquivo compactado WinRAR (.rar)</li>
+      <li>Arquivo ZIP (.zip)</li>
+    </ul>
+  </description>
+  <description lang="ru">
+    <p>Engrampa — менеджер архивов для среды MATE. Он позволяет создавать и модифицировать архивы, просматривать содержимое архива, просматривать файлы из архива, а также извлекать файлы из архива.</p>
+    <p>Engrampa представляет собой лишь графический интерфейс для программ-архиваторов, таких как tar и zip. Поддерживаемые типы файлов:</p>
+    <ul>
+      <li>Сжатый файл 7-Zip (.7z)</li>
+      <li>Сжатый файл WinAce (.ace)</li>
+      <li>Сжатый файл ALZip (.alz)</li>
+      <li>Архив AIX Small Indexed (.ar)</li>
+      <li>Сжатый архив ARJ (.arj)</li>
+      <li>Файл Cabinet (.cab)</li>
+      <li>Архив UNIX CPIO (.cpio)</li>
+      <li>Архив Java (.jar)</li>
+      <li>Архив Java Enterprise (.ear)</li>
+      <li>Архив Java Web (.war)</li>
+      <li>Архив LHA (.lzh, .lha)</li>
+      <li>Сжатый архив WinRAR (.rar)</li>
+      <li>Книга комиксов в архиве RAR (.cbr)</li>
+      <li>Файл архива Tape без сжатия (.tar) или сжатый с помощью: gzip (.tar.gz, .tgz), brotli (.tar.br), bzip (.tar.bz, .tbz), bzip2 (.tar.bz2, .tbz2), compress (.tar.Z, .taz), lrzip (.tar.lrz, .tlrz), lzip (.tar.lz, .tlz), lzop (.tar.lzo, .tzo), 7zip (.tar.7z), xz (.tar.xz), Zstandard (.zst)</li>
+      <li>Архивы Stuffit (.bin, .sit)</li>
+      <li>ZIP-архив (.zip)</li>
+      <li>Книга комиксов в архиве ZIP (.cbz)</li>
+      <li>Сжатый файл архива ZOO (.zoo)</li>
+      <li>Одиночные файлы, сжатые с помощью gzip (.gz), brotli (.br), bzip (.bz), bzip2 (.bz2), compress (.Z), lrzip (.lrz), lzip (.lz), lzop (.lzo), rzip(.rz), xz (.xz).</li>
+    </ul>
+    <p>Engrampa – форк File Roller и часть рабочей среды MATE. Если вы хотите знать больше о MATE и Engrampa, пожалуйста, посетите домашнюю страницу проекта.</p>
+  </description>
+  <description lang="sk">
+    <p>Aplikácia Engrampa je správca archívov pre prostredie MATE. Umožňuje vám vytvárať a upravovať archívy, zobrazovať obsah archívov, zobrazovať súbory obsiahnuté v archívoch a rozbaľovať súbory z archívov.</p>
+    <p>Aplikácia Engrampa je iba grafickým rozhraním pre archivačné programy ako je tar a zip. Podporované typy súborov sú:</p>
+    <ul>
+      <li>Komprimovaný súbor 7-Zip (.7z)</li>
+      <li>Komprimovaný súbor WinAce (.ace)</li>
+      <li>Komprimovaný súbor ALZip (.alz)</li>
+      <li>Malý indexovaný archív AIX (.ar)</li>
+      <li>Komprimovaný archív ARJ (.arj)</li>
+      <li>Súbor kabinetu (.cab)</li>
+      <li>Archív UNIX CPIO (.cpio)</li>
+      <li>Archív Java (.jar)</li>
+      <li>Archív Java Enterprise (.ear)</li>
+      <li>Webový archív Java (.war)</li>
+      <li>Archív LHA (.lzh, .lha)</li>
+      <li>Komprimovaný archív WinRAR (.rar)</li>
+      <li>Správca balíkov RPM (.rpm) [Režim iba na čítanie]</li>
+      <li>Archívy Stuffit (.bin, .sit)</li>
+      <li>Archív ZIP (.zip)</li>
+      <li>Súbor komprimovaného archívu ZOO (.zoo)</li>
+      <li>Jednotlivé súbory komprimované pomocou nástrojov gzip (.gz), brotli (.br), bzip (.bz), bzip2 (.bz2), compress (.Z), lrzip (.lrz), lzip (.lz), lzop (.lzo), rzip(.rz), xz (.xz).</li>
+    </ul>
+    <p>Aplikácia Engrampa je odnožou aplikácie File Roller a je súčasťou pracovného prostredia MATE. Ak by ste sa chceli dozvedieť viac o prostredí MATE a aplikácii Engrampa, prosím, navštívte domovskú stránku projektu.</p>
+  </description>
+  <description lang="sr">
+    <p>Енгрампа је управник архивама за Мејтово окружење. Омогућава вам да стварате и мењате архиве, прегледате њен садржај, видите датотеке које она садржи, и да их извучете из ње. </p>
+    <p>Енгрампа је само челник (графичко сучеље) за програме архивирања као што је „tar“ и „zip“. Подржане врсте датотека су:</p>
+    <ul>
+      <li>Датотеке сажете 7-Zip-ом (.7z)</li>
+      <li>Датотеке сажете „WinAce“-ом (.ace)</li>
+      <li>Датотеке сажете „ALZip“-ом (.alz)</li>
+      <li>Мале индексиране архиве „AIX“-а (.ar)</li>
+      <li>Архиве сажете „ARJ“-ом (.arj)</li>
+      <li>Кабинет датотеке (.cab)</li>
+      <li>Архиве „UNIX CPIO“ (.cpio)</li>
+      <li>Дебијан пакети (.deb, .udeb) [режим само за читање]</li>
+      <li>ИСО-9660 Диск слика (.iso) [режим само за читање]</li>
+      <li>Архиве Јаве (.jar)</li>
+      <li>Пословне архиве Јаве (.ear)</li>
+      <li>Веб архиве Јаве (.war)</li>
+      <li>„LHA“ архиве (.lzh, .lha)</li>
+      <li>Сажете архиве „WinRAR“-а (.rar)</li>
+      <li>Стрипови архивирани „RAR“-ом (.cbr)</li>
+      <li>„RPM“ управник пакета (.rpm) [режим само за читање]</li>
+      <li>Несажете датотеке архиве траке (.tar) или сажете следећим програмима: gzip (.tar.gz, .tgz), brotli (.tar.br), bzip (.tar.bz, .tbz), bzip2 (.tar.bz2, .tbz2), compress (.tar.Z, .taz), lrzip (.tar.lrz, .tlrz), lzip (.tar.lz, .tlz), lzop (.tar.lzo, .tzo), 7zip (.tar.7z), xz (.tar.xz), Zstandard (.zst)</li>
+      <li>„Stuffit“ архиве (.bin, .sit)</li>
+      <li>„ZIP“ архиве (.zip)</li>
+      <li>Стрипом архивирани „ZIP“-ом (.cbz)</li>
+      <li>Датотеке архиве сажете „ZOO“-ом (.zoo)</li>
+      <li>Појединачне датотеке сажете програмима: gzip (.gz), brotli (.br), bzip (.bz), bzip2 (.bz2), compress (.Z), lrzip (.lrz), lzip (.lz), lzop (.lzo), rzip(.rz), xz (.xz).</li>
+    </ul>
+    <p>Енгрампа је исцепак Управника архивама и део Мејтовог окружења радне површи. Ако желите да сазнате више о Мејту и Егрампи, посетите матичну страницу пројекта.</p>
+  </description>
+  <description lang="sv">
+    <ul>
+      <li>7-Zip-komprimerad fil (.7z)</li>
+      <li>WinAce komprimerad fil  (.ace)</li>
+      <li>ALZip komprimerad fil  (.alz)</li>
+      <li>ARJ komprimerat arkiv (.arj)</li>
+      <li>Kabinett fil (.cab)</li>
+      <li>Unix CPIO arkiv (.cpio)</li>
+      <li>Java arkiv (.jar)</li>
+      <li>Java Enterprise arkiv (.ear)</li>
+      <li>Java webbarkiv (.war)</li>
+      <li>LHA arkiv (.lzh, .lha)</li>
+      <li>WinRAR komprimerat arkiv (.rar)</li>
+      <li>Rar-arkiverad serietidning (.cbr)</li>
+      <li>StuffIt arkiv (.bin, .sit)</li>
+      <li>ZIP arkiv (.zip)</li>
+      <li>Zip-arkiverad serietidning (.cbz)</li>
+      <li>ZOO komprimerad arkiv fil (.zoo)</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>Engrampa — упорядник архівів для середовища MATE. Він дозволяє створювати та змінювати архіви, переглядати вміст архівів, переглядати файли, що міститься в архіві, та видобувати файли з архівів.</p>
+    <p>Engrampa — це лише інтерфейс (графічний інтерфейс) для архівування таких програм, як tar і zip. Підтримувані типи файлів:</p>
+    <ul>
+      <li>7-Zip Стиснений файл (.7z)</li>
+      <li>WinAce Стиснений файл (.ace)</li>
+      <li>ALZip Стиснений файл (.alz)</li>
+      <li>AIX Невеликий індексований архів (.ar)</li>
+      <li>ARJ Стиснений архів (.arj)</li>
+      <li>Файл Cabinet (.cab)</li>
+      <li>UNIX CPIO Архів (.cpio)</li>
+      <li>Пакунок Debian (.deb, .udeb) [Режим лише для читання]</li>
+      <li>Образ диска ISO-9660 (.iso) [режим лише для читання]</li>
+      <li>Архів Java (.jar)</li>
+      <li>Java Enterprise архів (.ear)</li>
+      <li>Java Web Архів (.war)</li>
+      <li>Архів LHA (.lzh, .lha)</li>
+      <li>WinRAR Стиснений архів (.rar)</li>
+      <li>Книга коміксів у архіві RAR (.cbr)</li>
+      <li>Розпорядник пакунків RPM (.rpm) [Режим лише для читання]</li>
+      <li>Файл архіву Tape без стиснення (.tar) або стиснений за допомогою: gzip (.tar.gz, .tgz), brotli (.tar.br), bzip (.tar.bz, .tbz), bzip2 (.tar.bz2, .tbz2), compress (.tar.Z, .taz), lrzip (.tar.lrz, .tlrz), lzip (.tar.lz, .tlz), lzop (.tar.lzo, .tzo), 7zip (.tar.7z), xz (.tar.xz), Zstandard (.zst)</li>
+      <li>Stuffit архіви (.bin, .sit)</li>
+      <li>ZIP архів (.zip)</li>
+      <li>Книга коміксів у архіві ZIP (.cbz)</li>
+      <li>Стиснений файл архіву ZOO (.zoo)</li>
+      <li>Одинарні файли, стиснені за допомогою gzip (.gz), brotli (.br), bzip (.bz), bzip2 (.bz2), compress (.Z), lrzip (.lrz), lzip (.lz), lzop (.lzo), rzip(.rz), xz (.xz).</li>
+    </ul>
+    <p>Engrampa — це відгалуження File Roller і частина робочого середовища MATE. Якщо ви волієте дізнатись більше про MATE й Engrampa, відвідайте домашню сторінку проєкту.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>Engrampa 是 MATE 桌面的存档管理器。可用来创建或修改存档、查看存档的内容、查看存档中包含的文件，以及从存档中提取文件。</p>
+    <p>Engrampa 只是归档程序如 tar 和 zip 的一个前端（图形界面）。受支持的文件类型有：</p>
+    <ul>
+      <li>7-Zip 压缩文件 (.7z)</li>
+      <li>WinAce 压缩文件 (.ace)</li>
+      <li>ALZip 压缩文件 (.alz)</li>
+      <li>AIX 小索引归档 (.ar)</li>
+      <li>ARJ 压缩归档 (.arj)</li>
+      <li>Cabinet 文件 (.cab)</li>
+      <li>UNIX CPIO 归档 (.cpio)</li>
+      <li>Debian 软件包 (.deb, .udeb) [只读模式]</li>
+      <li>ISO-9660 CD 光盘映像 (.iso) [只读模式]</li>
+      <li>Java 归档 (.jar)</li>
+      <li>Java 企业归档 (.ear)</li>
+      <li>Java Web 归档 (.war)</li>
+      <li>LHA 归档 (.lzh, .lha)</li>
+      <li>WinRAR 压缩归档 (.rar)</li>
+      <li>RAR 归档的漫画书 (.cbr)</li>
+      <li>RPM 软件管理包 (.rpm) [只读模式]</li>
+      <li>未经压缩的磁带归档文件 (.tar) 或使用 gzip (.tar.gz, .tgz), brotli (.tar.br), bzip (.tar.bz, .tbz), bzip2 (.tar.bz2, .tbz2), compress (.tar.Z, .taz), lrzip (.tar.lrz, .tlrz), lzip (.tar.lz, .tlz), lzop (.tar.lzo, .tzo), 7zip (.tar.7z), xz (.tar.xz), Zstandard (.zst) 压缩的磁带归档文件。</li>
+      <li>Stuffit 归档 (.bin, .sit)</li>
+      <li>ZIP 归档 (.zip)</li>
+      <li>ZIP 压缩的漫画书 (.cbz)</li>
+      <li>ZOO 压缩的归档文件 (.zoo)</li>
+      <li>使用 gzip (.gz), brotli (.br), bzip (.bz), bzip2 (.bz2), compress (.Z), lrzip (.lrz), lzip (.lz), lzop (.lzo), rzip(.rz), xz (.xz) 压缩的单个文件。</li>
+    </ul>
+    <p>Engrampa 为 MATE 桌面环境的一部分，是 File Roller 的复刻。想了解更多 MATE 及 Engrampa 的信息，请访问项目主页。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>Engrampa 是 MATE 桌面環境的壓縮檔管理員。它讓您可以建立並修改壓縮檔、檢視壓縮檔內容、檢視包含在壓縮檔內的檔案，以及從壓縮檔中解壓縮出檔案。</p>
+    <p>Engrampa 只是壓縮程式（如 tar 與 zip）的（圖形化）前端。支援的檔案類型有：</p>
+    <ul>
+      <li>7-Zip 壓縮檔 (.7z)</li>
+      <li>WinAce 壓縮檔 (.ace)</li>
+      <li>ALZip 壓縮檔 (.alz)</li>
+      <li>AIX 小型索引壓縮檔 (.ar)</li>
+      <li>ARJ 壓縮檔 (.arj)</li>
+      <li>Cabinet 檔 (.cab)</li>
+      <li>UNIX CPIO 壓縮檔 (.cpio)</li>
+      <li>Debian 軟體包 (.deb, .udeb) [唯讀模式]</li>
+      <li>ISO-9660 磁碟映像檔 (.iso) [唯讀模式]</li>
+      <li>Java 壓縮檔 (.jar)</li>
+      <li>Java Enterprise 壓縮檔 (.ear)</li>
+      <li>Java Web 壓縮檔 (.war)</li>
+      <li>LHA 壓縮檔 (.lzh, .lha)</li>
+      <li>WinRAR 壓縮檔 (.rar)</li>
+      <li>RAR 壓縮漫畫書 (.cbr)</li>
+      <li>RPM 軟體包管理程式 (.rpm) [唯讀模式]</li>
+      <li>未壓縮的 Tar (.tar) 或以下列程式壓縮：gzip (.tar.gz, .tgz), brotli (.tar.br), bzip (.tar.bz, .tbz), bzip2 (.tar.bz2, .tbz2), compress (.tar.Z, .taz), lrzip (.tar.lrz, .tlrz), lzip (.tar.lz, .tlz), lzop (.tar.lzo, .tzo), 7zip (.tar.7z), xz (.tar.xz), Zstandard (.zst)</li>
+      <li>Stuffit 壓縮檔 (.bin, .sit)</li>
+      <li>ZIP 壓縮檔 (.zip)</li>
+      <li>ZIP 壓縮漫畫書 (.cbz)</li>
+      <li>ZOO 壓縮檔 (.zoo)</li>
+      <li>以下列程式壓縮的單一檔案：gzip (.gz), brotli (.br), bzip (.bz), bzip2 (.bz2), compress (.Z), lrzip (.lrz), lzip (.lz), lzop (.lzo), rzip(.rz), xz (.xz)。</li>
+    </ul>
+    <p>Engrampa 是 File Roller 的分支，且為 MATE 桌面環境的一部分。如果您想要知道更多關於 MATE 與 Engrampa 的資訊，請造訪專案首頁。</p>
+  </description>
+  <pkgname>mate.engrampa</pkgname>
+  <launchable type="desktop-id">engrampa.desktop</launchable>
+  <icon width="64" type="cached" height="64">engrampa.png</icon>
+  <icon height="128" width="128" type="cached">engrampa.png</icon>
+  <id>engrampa.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Engrampa Archive Manager</name>
+  <name lang="zh_TW">Engrampa 壓縮檔管理員</name>
+  <name lang="zh_CN">Engrampa 归档管理器</name>
+  <name lang="uz">Engrampa Arxiv Boshqaruvchisi</name>
+  <name lang="uk">Упорядник архівів Engrampa </name>
+  <name lang="tr">Engrampa Arşiv Yöneticisi</name>
+  <name lang="th">โปรแกรมจัดการแฟ้มจัดเก็บ Engrampa</name>
+  <name lang="sv">Arkivhanteraren Engrampa</name>
+  <name lang="sr">Управљач архива Енгрампа</name>
+  <name lang="sl">Upravljalnik arhivov Engrampa</name>
+  <name lang="sk">Správca archívov Engrampa</name>
+  <name lang="ru">Менеджер архивов Engrampa</name>
+  <name lang="ro">Administratorul de arhive Engrampa</name>
+  <name lang="pt_BR">Gerenciador de pacotes Engrampa</name>
+  <name lang="pt">Gestor de Arquivos Engrampa</name>
+  <name lang="pl">Menedżer archiwów Engrampa</name>
+  <name lang="oc">Gestionari d’archius Engrampa</name>
+  <name lang="nl">Engrampa Archiefbeheer</name>
+  <name lang="nb">Engrampa arkivhåndtering</name>
+  <name lang="ms">Pengurus Arkib Engrampa</name>
+  <name lang="mr">एनग्राम्पा आर्काइव्ह व्यवस्थापक</name>
+  <name lang="lv">Engrampa Arhīvu Pārvaldnieks</name>
+  <name lang="lt">Archyvų tvarkytuvė „Engrampa“</name>
+  <name lang="ko">Engrampa 압축 관리자</name>
+  <name lang="kk">Engrampa архивтерді басқарушысы</name>
+  <name lang="ja">Engrampa 書庫マネージャ</name>
+  <name lang="it">Gestore di archivi Engrampa</name>
+  <name lang="ie">Gerente de archives Engrampa</name>
+  <name lang="id">Engrampa Archive Manager</name>
+  <name lang="hy">Engrampa Արխիվային Կառավարիչ</name>
+  <name lang="hu">Engrampa archívumkezelő</name>
+  <name lang="hr">Engrampa upravitelj arhivama</name>
+  <name lang="he">מנהל הארכיונים Engrampa</name>
+  <name lang="gl">Xestor de arquivos Engrampa</name>
+  <name lang="fr">Gestionnaire d'archives Engrampa</name>
+  <name lang="fi">Engrampa Pakettienkäsittelyohjelma</name>
+  <name lang="eu">Engrampa fitxategi-kudeatzailea</name>
+  <name lang="et">Arhiivihaldur Engrampa</name>
+  <name lang="es">Gestor de archivadores Engrampa</name>
+  <name lang="eo">Engrampa Arkivo Manaĝisto</name>
+  <name lang="en_GB">Engrampa Archive Manager</name>
+  <name lang="en_AU">Engrampa Archive Manager</name>
+  <name lang="el">Πρόγραμμα διαχείρισης συμπιεσμένων αρχείων Engrampa</name>
+  <name lang="de">Engrampa-Archivverwaltung</name>
+  <name lang="da">Engrampa - arkivhåndtering</name>
+  <name lang="cs">Engrampa správce archivů</name>
+  <name lang="ca@valencia">Gestor d'arxius Engrampa</name>
+  <name lang="ca">Gestor d'arxius Engrampa</name>
+  <name lang="br">Ardoer dielloù Engrampa</name>
+  <name lang="bg">Работа с архиви Engrampa</name>
+  <name lang="be">Кіраўнік архіваў Engrampa</name>
+  <name lang="ast">Xestor d'archivadores Engrampa</name>
+  <name lang="ar">مدير اﻷرشيفات أنغرمبا</name>
+  <name lang="am">ኤንግራምፓ የ ማህደር አስተዳዳሪ</name>
+  <summary>An Archive Manager for the MATE desktop environment</summary>
+  <summary lang="zh_TW">適用於 MATE 桌面環境的壓縮檔管理員</summary>
+  <summary lang="zh_CN">MATE 的归档管理器</summary>
+  <summary lang="uz">MATE ish stoli muhiti uchun Arxiv Boshqaruvchi</summary>
+  <summary lang="uk">Упорядник архівів для стільничного середовища МАТЕ  </summary>
+  <summary lang="tr">MATE masaüstü ortamı için bir Arşiv Yöneticisi</summary>
+  <summary lang="th">เครื่องมือจัดการแฟ้มจัดเก็บสำหรับสภาพแวดล้อมเดสก์ท็อป MATE</summary>
+  <summary lang="sv">En arkivhanterare för skrivbordsmiljön MATE</summary>
+  <summary lang="sr">Управник архива за Мејтово радно окружење</summary>
+  <summary lang="sl">Upravljalnik arhivov za namizno okolje MATE</summary>
+  <summary lang="sk">Správca archívov pre prostredie MATE</summary>
+  <summary lang="ru">Менеджер архивов рабочей среды MATE.</summary>
+  <summary lang="ro">Un administrator de arhive pentru mediul desktop MATE</summary>
+  <summary lang="pt_BR">Um gerenciador de pacotes para o ambiente desktop MATE</summary>
+  <summary lang="pt">Um Gestor de Arquivos para o ambiente de trabalho MATE</summary>
+  <summary lang="pl">Menedżer archiwów dla środowiska MATE</summary>
+  <summary lang="oc">Gestionari de fichièrs compressats per l’environament MATE desktop</summary>
+  <summary lang="nl">Een archiefbeheerder voor de MATE-werkomgeving</summary>
+  <summary lang="nb">Et arkivprogram for skrivebordsmiljøet MATE</summary>
+  <summary lang="ms">Pengurus Arkib untuk persekitaran desktop MATE</summary>
+  <summary lang="lv">Arhīvu Pārvaldnieks MATE darbvirsmai</summary>
+  <summary lang="lt">Archyvų tvarkytuvė MATE darbalaukio aplinkai</summary>
+  <summary lang="ko">MATE 데스크톱 환경용 압축 관리자</summary>
+  <summary lang="kk">MATE жұмыс үстел ортасы үшін архивтер басқарушысы</summary>
+  <summary lang="ja">MATEデスクトップ環境の書庫マネージャです。</summary>
+  <summary lang="it">Un Gestore di Archivi per l'ambiente desktop MATE</summary>
+  <summary lang="ie">Un gerente de archives por li ambientie MATE</summary>
+  <summary lang="id">Manajer arsip untuk lingkungan desktop MATE</summary>
+  <summary lang="hy">Արխիվի Կառավարիչ  MATE աշխատասեղանի միջավայրի համար</summary>
+  <summary lang="hu">Archívumkezelő a MATE asztali környezethez</summary>
+  <summary lang="hr">Upravitelj arhivama za MATE radno okruženje</summary>
+  <summary lang="gl">Un xestor de arquivos para o contorno de escritorio MATE</summary>
+  <summary lang="fr">Un gestionnaire d’archives pour l'environnement de bureau MATE</summary>
+  <summary lang="fi">Pakettienkäsittelyohjelma MATE työpöytäympäristölle</summary>
+  <summary lang="eu">MATE mahaigaineko inguruneko fitxategien kudeatzailea</summary>
+  <summary lang="et">MATE töölauakeskkonna arhiivihaldur</summary>
+  <summary lang="es">Un gestor de archivadores para el entorno de escritorio MATE</summary>
+  <summary lang="en_GB">An Archive Manager for the MATE desktop environment</summary>
+  <summary lang="en_AU">An Archive Manager for the MATE desktop environment</summary>
+  <summary lang="el">Ένα πρόγραμμα διαχείρισης συμπιεσμένων αρχείων για το περιβάλλον εργασίας του ΜΑΤΕ</summary>
+  <summary lang="de">Eine Archivverwaltung für die Mate-Arbeitsumgebung</summary>
+  <summary lang="da">Et arkivprogram for skrivebordsmiljøet MATE</summary>
+  <summary lang="cs">Správce archivů pro prostředí plochy MATE</summary>
+  <summary lang="ca@valencia">Un gestor d'arxius per a l'entorn d'escriptori MATE</summary>
+  <summary lang="ca">Un gestor d'arxius per a l'entorn d'escriptori MATE</summary>
+  <summary lang="br">Ardoer an Dielloù evit an amva burev MATE</summary>
+  <summary lang="bg">Мениджър на архивите за работната среда MATE</summary>
+  <summary lang="be">Кіраўнік архіваў асяроддзя MATE</summary>
+  <summary lang="ast">Un xestor d'archivadores pal entornu d'escritoriu MATE</summary>
+  <summary lang="ar">مدير اﻷرشيفات لسطح مكتب متّة</summary>
+  <summary lang="am">የ ማህደር አስተዳዳሪ ለ ሜት ዴስክቶፕ አካባቢ</summary>
+  <screenshots>
+    <screenshot type="default">
+      <image height="540" width="960">
+    https://alexpl.fedorapeople.org/AppData/engrampa/screens/engrampa_01.png
+   </image>
+    </screenshot>
+    <screenshot>
+      <image width="960" height="540">
+    https://alexpl.fedorapeople.org/AppData/engrampa/screens/engrampa_02.png
+   </image>
+    </screenshot>
+    <screenshot>
+      <image height="540" width="960">
+    https://alexpl.fedorapeople.org/AppData/engrampa/screens/engrampa_03.png
+   </image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://mate-desktop.org</url>
+  <updatecontact>mate-dev@ml.mate-desktop.org</updatecontact>
+  <project_group>MATE</project_group>
+</component>

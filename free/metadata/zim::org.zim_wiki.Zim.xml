@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>zim</pkgname>
+  <id>org.zim_wiki.Zim</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Zim</name>
+  <summary>Write notes in a desktop wiki</summary>
+  <description>
+    <p>
+      Zim brings the power of a wiki to your desktop, providing a neat and structured
+      way to take notes and record your thoughts.
+      Each page in Zim is automatically saved as text file with wiki markup,
+      including the ability to link pages and to add other files as attachments.
+      Pages in Zim are also displayed in the sidebar in a hierarchical tree style
+      layout to help organize your notes better.
+	</p>
+    <p>
+		Various plugins provide additional functionality, like a task list manager,
+		an equation editor, a tray icon, and support for version control.
+	</p>
+    <p>Zim can be used to:</p>
+    <ul>
+      <li>Keep an archive of notes</li>
+      <li>Keep a daily or weekly journal</li>
+      <li>Take notes during meetings or lectures</li>
+      <li>Organize task lists</li>
+      <li>Draft blog entries and emails</li>
+      <li>Do brainstorming</li>
+    </ul>
+  </description>
+  <launchable type="desktop-id">zim.desktop</launchable>
+  <url type="homepage">http://zim-wiki.org/</url>
+  <screenshots>
+    <screenshot type="default">http://zim-wiki.org/screenshots/zim-normal.png</screenshot>
+  </screenshots>
+  <releases>
+    <release date="2021-10-11" version="0.74.2">
+      <description>
+        <ul>
+          <li>Let Toolbar plugin also remove window decoration</li>
+          <li>Fix execution of custom tools from Toolbar</li>
+          <li>Add plugin "view" items to Toolbar plugin</li>
+          <li>Make drag&amp;drop optional in the pageindex</li>
+          <li>Add option to toggle tooltips for index panes</li>
+          <li>Fix Zeitgeist plugin to work with Gtk3 branch</li>
+          <li>Improve dialog feedback for invalid input</li>
+          <li>Fix error on cancel insert dialog</li>
+          <li>Let exceptions not block search</li>
+          <li>Make page parser robust for empty files</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-09-23" version="0.74.1">
+      <description>
+        <ul>
+          <li>Add preference to hide edit bar</li>
+          <li>Add separate parameter for wrapped lines linespacing</li>
+          <li>Fix behavior of copying images on copy-paste</li>
+          <li>Fix export of anchors to make valid HTML tags</li>
+          <li>Fix storing of uistate for window panes</li>
+          <li>Fix issues for "file:/path" file URIs</li>
+          <li>Fix bug in "copy link"</li>
+          <li>Make clipboard handling robust for non-local file URI</li>
+          <li>Fix issue with escaping in find input</li>
+          <li>Fix behavior of TrashDialog on error</li>
+          <li>Remove string literal formatting syntax</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.74.0" date="2021-09-14">
+      <description>
+        <ul>
+          <li>Support link "anchors" to allow linking within page</li>
+          <li>Add new-style headerbar as window decoration</li>
+          <li>Add auto-hiding headerbar in full screen mode </li>
+          <li>Add confirmation dialog when trashing pages</li>
+          <li>Replace toolbar by a plugin, introduce "Edit Bar" in pageview</li>
+          <li>Remove statusbar</li>
+          <li>Make single page window editable</li>
+          <li>Keep undostack for the last 10 pages</li>
+          <li>Copy equations on copy-paste</li>
+          <li>Copy image attachments on copy-paste</li>
+          <li>Update relative links on copy-paste formatted text</li>
+          <li>Fix copy-pasting links to another notebook</li>
+          <li>Add Bullet Journal "back arrow" checkbox</li>
+          <li>Add default browser to preferences</li>
+          <li>Add option to paste short relative link names</li>
+          <li>Add support for "INCLUDE file" in templates</li>
+          <li>Add `&lt;Ctrl>&lt;Shift>C` for copying the current line</li>
+          <li>Show plugins that failed to load in the plugin list</li>
+          <li>Add auto-expand and -collapse options to tags plugin</li>
+          <li>Add option for horizontal scrollbar to pageindex &amp; tags plugins</li>
+          <li>Add "open backlink in new window" in backlinks plugin</li>
+          <li>Add count and full path options for backlinks plugin</li>
+          <li>Add rename and delete menu entries in attachmentbrowser</li>
+          <li>Improve language selection for sourceview plugin</li>
+          <li>Add border width preference to sourceview plugin</li>
+          <li>Add dark mode preference to equation editor</li>
+          <li>Add Toolbar plugin, including "classic" mode</li>
+          <li>Add Command Palette plugin</li>
+          <li>Also match URL in wiki text for local network</li>
+          <li>Improve read performance for large text attachments</li>
+          <li>Fix issue with unicode mismatch in link and page names</li>
+          <li>Make indexer robust against false folder mtime</li>
+          <li>Make windows installer robust against overwriting data</li>
+          <li>Try to use GtkSourceView 4.x if 3.x not found</li>
+          <li>Fix numbered lists with letters in Markdown export</li>
+          <li>Use Pillow fallback to load WebP images</li>
+          <li>Make appending to page undo-able</li>
+          <li>Highlight "Toggle Editable" button when read-only</li>
+          <li>Add extensions on PageWindow by splitting NotebookView and PageView</li>
+          <li>Show link destination for keyboard navigation</li>
+          <li>Exclude formatting when copying headings</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.73.5" date="2021-01-30">
+      <description>
+        <ul>
+          <li>Fix regression for "www." links in pages</li>
+          <li>Fix bug with email address or url wrapped in higlight markup</li>
+          <li>Fix bug with handling newline in inline formatting</li>
+          <li>Fix bug when deleting a bullet-like sequence</li>
+          <li>Fix bug with relative links in single page export</li>
+          <li>Fix bug if notebook name is not set</li>
+          <li>Interpret pasted text as "wiki" format and add "Paste As Verbatim"</li>
+          <li>Update default application lookup to latest spec</li>
+          <li>Fix portable environment windows installer</li>
+          <li>Merge Weblate translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.73.4" date="2020-11-19">
+      <description>
+        <ul>
+          <li>Fix issue with relative links on windows</li>
+          <li>Fix reload page after change in external editor</li>
+          <li>Fix regressions due to python3.9 change in ElementTree</li>
+          <li>Fix regression in nested format in link</li>
+          <li>Fix test failure in testing translations</li>
+          <li>Let versions control plugin initialize git repro to not quote non-ascii paths</li>
+          <li>Update markdown extension and mime-type</li>
+          <li>Merge translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-10-09" version="0.73.3">
+      <description>
+        <ul>
+          <li>Fix missing export formats in windows installer</li>
+          <li>Add support for environ.ini at startup for portable install</li>
+          <li>Make trash function more robust for GLib.Error errors</li>
+          <li>Remove xdg import in windows for mimetyping</li>
+          <li>Fix regression with GdkPixbuf.PixbufRotation constants</li>
+          <li>Fix issues in parser under Python 3.9</li>
+          <li>Fix regression with pages with formatting in heading</li>
+          <li>Merge translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-07-24" version="0.73.2">
+      <description>
+        <ul>
+          <li>Add "show debug log" menu item</li>
+          <li>Add missing "triangle" icons for windows installer</li>
+          <li>Include helper to spawn external processes for windows installer</li>
+          <li>Fix dropdown namespace autocomplete in move-page dialog</li>
+          <li>Fix wiki parser for case of nested URL</li>
+          <li>Fix ParseTreeBuilder interface for python3.9</li>
+          <li>Add debug output for drag-and-drop workaround</li>
+          <li>Fix popup menu in attachment browser plugin</li>
+          <li>Fix warnings during export for "page.meta"</li>
+          <li>Fix on-preferences-changed for tableofcontents plugin</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-06-19" version="0.73.1">
+      <description>
+        <ul>
+          <li>Fix regression for opening single instance</li>
+          <li>Fix exception on toggle format</li>
+          <li>Fix failing tests due to change in sorting python3.8</li>
+          <li>Make robust for deprecation of cElementTree in python3.9</li>
+          <li>Improve tmpdir usage by using tempfile.mkdtemp()</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.73.0" date="2020-06-06">
+      <description>
+        <ul>
+          <li>Add ability to combine formatting styles in editor</li>
+          <li>Improve URL and link parsing to look for matching brackets</li>
+          <li>Reduce the number of `-` needed to auto-format a horizontal line</li>
+          <li>Allow typing bullet after e.g. checkbox to replace it</li>
+          <li>Add autoformat for sub- and super-script by typing `^..` and `_{..}`</li>
+          <li>On autoformat headings also strip trailing `=`</li>
+          <li>Fix issue with lost formatting when using spellchecker</li>
+          <li>Add support for "paragraph-background" property in style.conf</li>
+          <li>Improve keyboard behavior of find bar in editor</li>
+          <li>Swap the layout in the InsertDateDialog</li>
+          <li>Allow re-arranging side pane tabs by drag and drop</li>
+          <li>Add option to automatically collapse sections in the pageindex</li>
+          <li>Fix regression for inserting links on "Attach file" and moved this</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.72.1" date="2020-01-01">
+      <description>
+        <ul>
+          <li>Update translations &amp; documentation</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.72.0" date="2019-08-29">
+      <description>
+        <ul>
+          <li>Improve pathbar with "linked" visual design</li>
+          <li>Improve statusbar visual style</li>
+          <li>Change behavior for lists with mixed bullets</li>
+          <li>Add configuration of keybindings to preferences dialog</li>
+          <li>Support gnome-screenshot in the insert screenshot pluing</li>
+          <li>Save size of secondary page window</li>
+          <li>Add option for linenumbers option in insert code block dialog</li>
+          <li>Add option to display date column in tasklist side pane</li>
+          <li>Add warnings if locale does not support unicode</li>
+          <li>Make SVG thumbnail support configurable</li>
+          <li>Fix bug for insert equation and other objects</li>
+          <li>Fix use of escape sequence in table cells</li>
+          <li>Fix tasklist view for multiple dates in task</li>
+          <li>Fix "apply heading" to strip list formatting</li>
+          <li>Make ToC plugin update instead of refresh on save</li>
+          <li>Fix issue with not-unique headings in tableofcontents</li>
+          <li>Fix bugs in auto insert bullet at newline</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <update_contact>jaap.karssenberg@gmail.com</update_contact>
+  <translation type="gettext">zim</translation>
+  <content_rating type="oars-1.1" />
+</component>

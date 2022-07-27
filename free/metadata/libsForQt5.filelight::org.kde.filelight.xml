@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <description>
+    <p>
+      Filelight is an application to visualize the disk usage on your computer
+    </p>
+    <p>Features:</p>
+    <ul>
+      <li>Scan local, remote or removable disks</li>
+      <li>Configurable color schemes</li>
+      <li>File system navigation by mouse clicks</li>
+      <li>Information about files and directories on hovering</li>
+      <li>Files and directories can be copied or removed directly from the context menu</li>
+      <li>Integration into Konqueror and Krusader</li>
+    </ul>
+  </description>
+  <description lang="ar">
+    <p>كشاف الملفات هو تطبيق لتصور استخدام القرص على حاسوبك</p>
+    <p>الميزات:</p>
+    <ul>
+      <li>امسح الأقراص المحلية و البعيدة وقابلة للإزالة</li>
+      <li>تشكيلات ألوان قابلة للضبط</li>
+      <li>التنقل في نظام الملفات عن طريق نقرات الفارة</li>
+      <li>معلومات حول الملفات والأدلة عند التحويم عليها</li>
+      <li>يمكن نسخ الملفات والأدلة أو إزالتها مباشرة من قائمة السياق</li>
+      <li>تكامل مع كونكيور وكروسادر</li>
+    </ul>
+  </description>
+  <description lang="ast">
+    <p>Filelight ye una aplicación pa visualizar l'espaciu en discu del ordenador</p>
+    <p>Carauterístiques:</p>
+    <ul>
+      <li>Escanéu de discos llocales, remotos o estrayibles</li>
+      <li>Esquemes de colores configurables</li>
+      <li>Navegación pelos sistemes de ficheros pente calcos del mur</li>
+      <li>Información tocante a ficheros y direutorios al pasar penriba'l mur</li>
+      <li>Los ficheros y direutorios puen copiase o desaniciase direutamente dende'l menú contestual</li>
+      <li>Integración con Konqueror y Krusader</li>
+    </ul>
+  </description>
+  <description lang="az">
+    <p>Filelight komouterinizdəki diskin istifadəsini vizuallaşdıran tətbiqdir</p>
+    <p>İmkanlar:</p>
+    <ul>
+      <li>Lokal, şəbəkədəki və ya çıxarıla bilən disklərin analizi</li>
+      <li>Ayarlana bilən rəng sxemləri</li>
+      <li>Siçan düyməsinin klikləri ilə fayl sistemi üzrə naviqasiya</li>
+      <li>Kursor üzərində dayandıqda fayllar və qovluqlar haqqında məlumat</li>
+      <li>Fayllar və qovluqlar birbaşa kontekst menyudan kopyalana və silinə bilər</li>
+      <li>Dolphin, Konqueror və Krusader-ə inteqrasiya</li>
+    </ul>
+  </description>
+  <description lang="bg">
+    <p>Filelight е приложение за визуализиране на използването на диска на вашия компютър</p>
+    <p>Функции:</p>
+    <ul>
+      <li>Сканира локални, отдалечени и сменяеми дискови устройства</li>
+      <li>С възможност за настройване на цветови схеми</li>
+      <li>Навигация във файловата система с мишката</li>
+      <li>Информация за файлове и директории при посочване с мишката</li>
+      <li>Файловете и директориите могат да бъдат копирани или премахнати директно от контекстното меню</li>
+      <li>Директно интегриране в Konqueror и Krusader</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>El Filelight és una aplicació per a visualitzar l'ús del disc a l'ordinador</p>
+    <p>Característiques:</p>
+    <ul>
+      <li>Explora discs locals, remots o extraïbles</li>
+      <li>Esquemes de color configurables</li>
+      <li>Navegació pel sistema de fitxers amb clics de ratolí</li>
+      <li>Informació quant a fitxers i directoris en passar-hi per sobre</li>
+      <li>Els fitxers i directoris es poden copiar o eliminar directament des del menú contextual</li>
+      <li>Integració en el Konqueror i el Krusader</li>
+    </ul>
+  </description>
+  <description lang="ca-valencia">
+    <p>Filelight és una aplicació per a visualitzar l'ús del disc a l'ordinador</p>
+    <p>Característiques:</p>
+    <ul>
+      <li>Explora discs locals, remots o extraïbles</li>
+      <li>Esquemes de color configurables</li>
+      <li>Navegació pel sistema de fitxers amb clics de ratolí</li>
+      <li>Informació quant a fitxers i directoris en passar-hi per damunt</li>
+      <li>Els fitxers i directoris es poden copiar o eliminar directament des del menú contextual</li>
+      <li>Integració en Konqueror i Krusader</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>Vlastnosti:</p>
+    <ul>
+      <li>Nastavitelná schémata barev</li>
+      <li>Integrace do Konqueroru a Krusaderu</li>
+    </ul>
+  </description>
+  <description lang="da">
+    <p>Filelight er et program til at visualisere diskforbruget på din computer</p>
+    <p>Funktioner:</p>
+    <ul>
+      <li>Skan lokale-, fjern- eller flytbare diske</li>
+      <li>Konfigurerbare farveskemaer</li>
+      <li>Navigation af filsystemet med museklik</li>
+      <li>Information om filer og mapper når markøren holdes over</li>
+      <li>Filer og mapper kan kopieres eller fjernes direkte fra genvejsmenuen</li>
+      <li>Integration i Konqueror og Krusader</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>Filelight zeigt die Belegung von Speichermedien auf ihrem Rechner</p>
+    <p>Funktionen:</p>
+    <ul>
+      <li>Durchsehen von lokalen oder entfernten Festplatten oder Wechselmedien </li>
+      <li>Einstellbare Farbschemata</li>
+      <li>Navigation im Dateisystem durch Mausklicks</li>
+      <li>Informationen über Dateien und Ordner beim Überfahren mit dem Mauszeiger</li>
+      <li>Dateien und Ordner können direkt aus dem Kontextmenü kopiert oder entfernt werden</li>
+      <li>Integration in Konqueror und Krusader</li>
+    </ul>
+  </description>
+  <description lang="el">
+    <p>Το Filelight είναι μια εφαρμογή οπτικοποίησης της χρήσης του δίσκου στον υπολογιστή σας</p>
+    <p>Χαρακτηριστικά:</p>
+    <ul>
+      <li>Σάρωση τοπικών, απομακρυσμένων ή μετακινούμενων δίσκων</li>
+      <li>Διαμορφώσιμα χρωματιστά σχήματα</li>
+      <li>Πλοήγηση στο σύστημα αρχείων με κλικ στο ποντίκι</li>
+      <li>Πληροφορίες για αρχεία και καταλόγους με αιώρηση</li>
+      <li>Αρχεία και κατάλογοι μπορούν να αντιγραφούν ή να αφαιρεθούν απευθείας από το μενού</li>
+      <li>Ενσωμάτωση σε Konqueror και Krusader</li>
+    </ul>
+  </description>
+  <description lang="en-GB">
+    <p>Filelight is an application to visualise the disk usage on your computer</p>
+    <p>Features:</p>
+    <ul>
+      <li>Scan local, remote or removable disks</li>
+      <li>Configurable colour schemes</li>
+      <li>File system navigation by mouse clicks</li>
+      <li>Information about files and directories on hovering</li>
+      <li>Files and directories can be copied or removed directly from the context menu</li>
+      <li>Integration into Konqueror and Krusader</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>Filelight es una aplicación para visualizar el uso del disco de su equipo</p>
+    <p>Funciones:</p>
+    <ul>
+      <li>Explora discos locales, remotos y extraíbles</li>
+      <li>Esquemas de color que se pueden configurar</li>
+      <li>Navegación a través del sistema de archivos mediante clics del ratón</li>
+      <li>Información sobre archivos y directorios al situar el cursor del ratón sobre ellos</li>
+      <li>Los archivos y los directorios se pueden copiar o eliminar directamente desde el menú de contexto</li>
+      <li>Integración en Konqueror y en Krusader</li>
+    </ul>
+  </description>
+  <description lang="et">
+    <p>Filelight on rakendus arvuti kettakasutuse visuaalseks esitamiseks</p>
+    <p>Omadused:</p>
+    <ul>
+      <li>Kohalike, võrgus asuvate või eemaldatavate ketaste uurimine</li>
+      <li>Seadistatavad värviskeemid</li>
+      <li>Failisüsteemis liikumine hiireklõpsudega</li>
+      <li>Teave failide ja kataloogide kohta hiirekursorit nende kohale viies</li>
+      <li>Faile ja katalooge saab kopeerida või eemaldada otse kontekstimenüü abil</li>
+      <li>Põimimine Konquerori ja Krusaderiga</li>
+    </ul>
+  </description>
+  <description lang="eu">
+    <p>Filelight zure ordenagailuko diskoaren erabilera irudikatzeko aplikazio bat da</p>
+    <p>Eginbide:</p>
+    <ul>
+      <li>Aztertu bertako diskoak, urrunekoak edo aldagarriak</li>
+      <li>Kolore antolaerak konfigura daitezke</li>
+      <li>Fitxategi-sisteman nabigatzea saguaren klik bidez</li>
+      <li>Fitxategi eta direktorioei buruzko informazioak haien gainetik iragatean</li>
+      <li>Fitxategiak eta direktorioak zuzenean kopiatu edo kendu daitezke testuinguru menutik</li>
+      <li>Integrazioa Konquerren eta Krusaderren</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>Filelight on sovellus tietokoneen levynkäytön hahmottamiseksi</p>
+    <p>Ominaisuudet:</p>
+    <ul>
+      <li>Tutkii paikalliset, etä- ja siirrettävät levyt</li>
+      <li>Mukautettavat värimallit</li>
+      <li>Tiedostojärjestelmän navigointi hiirellä</li>
+      <li>Näyttää tiedostojen ja kansioiden tiedot hiiren leijuessa niiden yllä</li>
+      <li>Tiedostoja ja kansioita voi kopioida ja poistaa suoraan kontekstivalikosta</li>
+      <li>Integrointi Konqueroriin ja Krusaderiin</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>Filelight est une application pour afficher l'utilisation de l'espace disque sur votre ordinateur.</p>
+    <p>Fonctionnalités :</p>
+    <ul>
+      <li>Parcourt les disques locaux, distants ou amovibles</li>
+      <li>Schémas de couleurs configurable</li>
+      <li>Navigation dans le système de fichiers par clic de souris</li>
+      <li>Informations sur les fichiers et les dossiers lors du survol</li>
+      <li>Les fichiers et dossiers peuvent être copiés ou supprimés directement depuis le menu contextuel</li>
+      <li>Intégration dans Konqueror et Krusader</li>
+    </ul>
+  </description>
+  <description lang="gl">
+    <p>Filelight é unha aplicación para visualizar o uso de disco no computador</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Examinar discos locais, remotos e retirábeis.</li>
+      <li>Esquema de cores configurábel.</li>
+      <li>Navegación polo sistema de ficheiros mediante clics do rato.</li>
+      <li>Información sobre os ficheiros e directorios ao cubrilos.</li>
+      <li>Os ficheiros e directorios poden copiarse e retirarse directamente desde o menú de contexto.</li>
+      <li>Integración con Konqueror e Krusader.</li>
+    </ul>
+  </description>
+  <description lang="hu">
+    <p>A Filelight egy vizuális lemezhasználati alkalmazás</p>
+    <p>Szolgáltatások:</p>
+    <ul>
+      <li>Helyi, távoli és cserélhető eszközök olvasása</li>
+      <li>Testre szabható színsémák</li>
+      <li>Navigáció a fájlrendszerben egérkattintással</li>
+      <li>Információ a fájlokról és mappálról rámutatással</li>
+      <li>Fájlok és mappák másolása vagy törlése közvetlenül a helyi menüből</li>
+      <li>Konqueror és Krusader integráció</li>
+    </ul>
+  </description>
+  <description lang="ia">
+    <p>Filelight es un application per visualisar le usage de disco sur tu computator</p>
+    <p>Characteristicas:</p>
+    <ul>
+      <li>Scander discos local, remote o removabile</li>
+      <li>Schemas de color configurabile</li>
+      <li>Navigation de systema de file per clicks de mus</li>
+      <li>Information re files e directorios sur planar</li>
+      <li>Files e directorios pote esser copiate o removite directemente ex le menu de contexto</li>
+      <li>Integration in Konqueror e Krusader</li>
+    </ul>
+  </description>
+  <description lang="id">
+    <p>Filelight adalah aplikasi untuk memvisualisasikan penggunaan disk di komputermu</p>
+    <p>Fitur:</p>
+    <ul>
+      <li>Scan lokal, jarak jauh atau disk yang dapat dilepas</li>
+      <li>Skema warna yang dapat dikonfigurasi</li>
+      <li>Navigasi sistem file dengan klik mouse</li>
+      <li>Informasi tentang file dan direktori saat melintasi</li>
+      <li>File dan direktori yang bisa disalin atau dihapus secara langsung dari menu konteks</li>
+      <li>Integrasi ke dalam Konqueror dan Krusader</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>Filelight è un'applicazione per visualizzare l'uso del disco nel tuo computer</p>
+    <p>Funzionalità:</p>
+    <ul>
+      <li>Analizza dischi locali, remoti e rimovibili</li>
+      <li>Schemi di colori configurabili</li>
+      <li>Navigazione del file system a clic di mouse</li>
+      <li>Informazioni su file e cartelle al passaggio del mouse</li>
+      <li>I file e le cartelle possono essere copiati o rimossi direttamente dal menu contestuale</li>
+      <li>Integrazione in Konqueror e in Krusader</li>
+    </ul>
+  </description>
+  <description lang="ko">
+    <p>Flielight는 컴퓨터 디스크 사용량을 시각화하는 프로그램입니다</p>
+    <p>기능:</p>
+    <ul>
+      <li>로컬, 원격, 이동식 디스크 검사</li>
+      <li>색 배열 설정</li>
+      <li>마우스 클릭으로 파일 시스템 탐색</li>
+      <li>지나다닐 때 파일과 디렉터리 정보 표시</li>
+      <li>콘텍스트 메뉴에서 파일과 디렉터리 직접 복사 및 삭제</li>
+      <li>Konqueror 및 Krusader 통합</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>Filelight is een toepassing om het schijfgebruik op uw computer te visualiseren</p>
+    <p>Kenmerken:</p>
+    <ul>
+      <li>Lokale, op afstand of verwijderbare schijven scannen</li>
+      <li>Te configureren kleurenschema's</li>
+      <li>Navigatie door bestandssysteem met muisklikken</li>
+      <li>Informatie over bestanden en mappen met er boven zweven</li>
+      <li>Bestanden en mappen kunnen gekopieerd of verwijderd worden direct vanuit het contextmenu</li>
+      <li>Integratie in Konqueror en Krusader</li>
+    </ul>
+  </description>
+  <description lang="nn">
+    <p>Filelight er eit program for å visualisera diskbruken på datamaskina di</p>
+    <p>Funksjonar:</p>
+    <ul>
+      <li>Søk gjennom lokale diskar, nettverksdiskar og flyttbare lagringsmedium</li>
+      <li>Støtte for ulike fargeoppsett</li>
+      <li>Navigering av filsystemet med museklikk</li>
+      <li>Informasjon om filer og mapper når ein held peikaren over dei</li>
+      <li>Filer og mapper kan kopierast eller flyttast direkte frå høgreklikkmenyen</li>
+      <li>Integrert med filhandsamarane Konqueror og Krusader</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <p>Filelight jest apikacją do zobrazowania wykorzystania przestrzeni dyskowej na twoim komputerze</p>
+    <p>Możliwości:</p>
+    <ul>
+      <li>Przeszukiwanie lokalnych, zdalnych, wymiennych dysków</li>
+      <li>Zestawy barwne do ustawienia</li>
+      <li>Poruszanie się po systemie plików poprzez mysz</li>
+      <li>Dane o plikach i katalogach po najechaniu myszą</li>
+      <li>Pliki i katalogi można kopiować lub usuwać bezpośrednio z menu podręcznego</li>
+      <li>Integracja z Konqueror i Krusaderem</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>O Filelight é uma aplicação para visualizar a utilização do disco no seu computador</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Sondar discos locais, remotos ou removíveis</li>
+      <li>Esquemas de cores configuráveis</li>
+      <li>Navegação pelo sistema de ficheiros com o rato</li>
+      <li>Informação sobre os ficheiros e pastas à passagem</li>
+      <li>Poderá copiar ou remover directamente os ficheiros e pastas directamente a partir do menu de contexto</li>
+      <li>Integração com o Konqueror e o Krusader</li>
+    </ul>
+  </description>
+  <description lang="pt-BR">
+    <p>O Filelight é um aplicativo para visualizar a utilização do disco no seu computador</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Verifica em discos locais, remotos ou removíveis</li>
+      <li>Esquemas de cores configuráveis</li>
+      <li>Navegação pelo sistema de arquivos com cliques do mouse</li>
+      <li>Informação sobre os arquivos e pastas ao passar o ponteiro do mouse</li>
+      <li>Os arquivos e pastas podem ser copiados ou removidos diretamente a partir do menu de contexto</li>
+      <li>Integração com o Konqueror e o Krusader</li>
+    </ul>
+  </description>
+  <description lang="ro">
+    <p>Filelight e o aplicație pentru vizualizarea folosirii discului din calculator</p>
+    <p>Caracteristici:</p>
+    <ul>
+      <li>Scanează discuri locale, distante sau amovibile</li>
+      <li>Scheme de culori configurabile</li>
+      <li>Navigare prin sistemul de fișiere cu clicuri de maus</li>
+      <li>Informații despre fișiere și dosare la planare</li>
+      <li>Fișierele și dosarele pot fi copiate sau eliminate direct din meniul contextual</li>
+      <li>Integrare în Konqueror și Krusader</li>
+    </ul>
+  </description>
+  <description lang="ru">
+    <p>Программа Filelight наглядно отображает использование дискового пространства</p>
+    <p>Возможности:</p>
+    <ul>
+      <li>Сканирование локальных, сетевых сменных дисков;</li>
+      <li>Настраиваемые цветовые схемы;</li>
+      <li>Навигация по файловой системе с использованием мыши;</li>
+      <li>Всплывающие подсказки с данными о файлах и папках;</li>
+      <li>Возможность копировать и удалять файлы и папки из контекстного меню;</li>
+      <li>Встраивание в Konqueror и Krusader</li>
+    </ul>
+  </description>
+  <description lang="sk">
+    <p>Filelight je aplikácia na vizualizovanie využitia disku na počítači</p>
+    <p>Funkcie:</p>
+    <ul>
+      <li>Skenovať lokálne, vzdialené alebo odoberateľné disky</li>
+      <li>Konfigurovateľné farebné schémy</li>
+      <li>Navigácia v súborovom systéme pomocou myši</li>
+      <li>Informácie o súboroch a priečinkoch prechodom myši ponad položky</li>
+      <li>Súbory a priečinky môžu byť kopírované alebo odstránené priamo z kontextovej ponuky</li>
+      <li>Integrácia do Konqueror a Krusader</li>
+    </ul>
+  </description>
+  <description lang="sl">
+    <p>Filelight je program za vidno predstavitev porabe diska na vašem računalniku</p>
+    <p>Zmožnosti:</p>
+    <ul>
+      <li>Preiščite krajevne, oddaljene ali odstranljive diske</li>
+      <li>Nastavljive barvne sheme</li>
+      <li>Krmarjenje po datotečnem sistemu z miško</li>
+      <li>Podrobnosti o datotekah in mapah ob prehodu miške</li>
+      <li>Datoteke in mape lahko kopirate ali odstranite neposredno preko vsebinskega menija</li>
+      <li>Vključitev v Konqueror in Krusader</li>
+    </ul>
+  </description>
+  <description lang="sr">
+    <p>Фајлајт је програм за визуелизовање искоришћења диска на рачунару.</p>
+    <p>Могућности:</p>
+    <ul>
+      <li>Скенирање локалних, удаљених и уклоњивих дискова.</li>
+      <li>Подесиве шеме боја.</li>
+      <li>Кретање кроз фајл систем кликтањем миша.</li>
+      <li>Подаци о фајловима и фасциклама на лебдење.</li>
+      <li>Фајлови и фасцикле могу да се копирају и уклањају непосредно из контекстног менија.</li>
+      <li>Уклапање у К‑освајач и Крусејдер.</li>
+    </ul>
+  </description>
+  <description lang="sr-Latn">
+    <p>Filelight je program za vizuelizovanje iskorišćenja diska na računaru.</p>
+    <p>Mogućnosti:</p>
+    <ul>
+      <li>Skeniranje lokalnih, udaljenih i uklonjivih diskova.</li>
+      <li>Podesive šeme boja.</li>
+      <li>Kretanje kroz fajl sistem kliktanjem miša.</li>
+      <li>Podaci o fajlovima i fasciklama na lebdenje.</li>
+      <li>Fajlovi i fascikle mogu da se kopiraju i uklanjaju neposredno iz kontekstnog menija.</li>
+      <li>Uklapanje u K‑osvajač i Krusader.</li>
+    </ul>
+  </description>
+  <description lang="sr-ijekavian">
+    <p>Фајлајт је програм за визуелизовање искоришћења диска на рачунару.</p>
+    <p>Могућности:</p>
+    <ul>
+      <li>Скенирање локалних, удаљених и уклоњивих дискова.</li>
+      <li>Подесиве шеме боја.</li>
+      <li>Кретање кроз фајл систем кликтањем миша.</li>
+      <li>Подаци о фајловима и фасциклама на лебдење.</li>
+      <li>Фајлови и фасцикле могу да се копирају и уклањају непосредно из контекстног менија.</li>
+      <li>Уклапање у К‑освајач и Крусејдер.</li>
+    </ul>
+  </description>
+  <description lang="sr-ijekavianlatin">
+    <p>Filelight je program za vizuelizovanje iskorišćenja diska na računaru.</p>
+    <p>Mogućnosti:</p>
+    <ul>
+      <li>Skeniranje lokalnih, udaljenih i uklonjivih diskova.</li>
+      <li>Podesive šeme boja.</li>
+      <li>Kretanje kroz fajl sistem kliktanjem miša.</li>
+      <li>Podaci o fajlovima i fasciklama na lebdenje.</li>
+      <li>Fajlovi i fascikle mogu da se kopiraju i uklanjaju neposredno iz kontekstnog menija.</li>
+      <li>Uklapanje u K‑osvajač i Krusader.</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <p>Filelight är ett program för att åskådliggöra diskanvändning på datorn</p>
+    <p>Funktioner:</p>
+    <ul>
+      <li>Sök igenom lokala diskar, diskar på en annan dator eller flyttbara diskar</li>
+      <li>Anpassningsbara färgscheman</li>
+      <li>Navigering i filsystem med musklick</li>
+      <li>Information om filer och kataloger när musen hålls över dem</li>
+      <li>Filer och kataloger kan kopieras eller tas bort direkt i den sammanhangsberoende menyn</li>
+      <li>Integrerat med Konqueror och Krusader</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>Filelight — програма для візуалізації використання дискового простору вашого комп'ютера</p>
+    <p>Можливості:</p>
+    <ul>
+      <li>Сканування локальних, віддалених та портативних дисків</li>
+      <li>Придатна до налаштовування тема кольорів</li>
+      <li>Навігація файловою системою за допомогою клацання кнопками миші</li>
+      <li>Показ даних щодо файлів і каталогів у відповідь на наведення вказівника миші</li>
+      <li>Можливість копіювання та вилучення файлів і каталогів за допомогою контекстного меню програми</li>
+      <li>Інтеграція з Konqueror та Krusader</li>
+    </ul>
+  </description>
+  <description lang="x-test">
+    <p>xxFilelight is an application to visualize the disk usage on your computerxx</p>
+    <p>xxFeatures:xx</p>
+    <ul>
+      <li>xxScan local, remote or removable disksxx</li>
+      <li>xxConfigurable color schemesxx</li>
+      <li>xxFile system navigation by mouse clicksxx</li>
+      <li>xxInformation about files and directories on hoveringxx</li>
+      <li>xxFiles and directories can be copied or removed directly from the context menuxx</li>
+      <li>xxIntegration into Konqueror and Krusaderxx</li>
+    </ul>
+  </description>
+  <description lang="zh-CN">
+    <p>Filelight 是一款图形化显示本机磁盘使用情况的应用程序</p>
+    <p>功能：</p>
+    <ul>
+      <li>扫描本地、远程或可移动磁盘</li>
+      <li>可自定义的配色方案</li>
+      <li>通过点击鼠标浏览文件系统</li>
+      <li>鼠标悬停时显示文件和目录信息</li>
+      <li>文件和目录可通过右键菜单直接复制或删除</li>
+      <li>与 Konqueror 和 Krusader 进行整合</li>
+    </ul>
+  </description>
+  <description lang="zh-TW">
+    <p>Filelight 是個能將電腦硬碟使用量可視化的應用程式</p>
+    <p>功能：</p>
+    <ul>
+      <li>掃描本機、遠端或卸除式硬碟</li>
+      <li>可設定的配色</li>
+      <li>按按滑鼠即可瀏覽檔案系統</li>
+      <li>停駐時顯示檔案或資料夾的資訊</li>
+      <li>可透過內容目錄直接複製或移除檔案或資料夾</li>
+      <li>可整合進 Konqueror 和 Krusader</li>
+    </ul>
+  </description>
+  <pkgname>libsForQt5.filelight</pkgname>
+  <icon height="64" type="cached" width="64">filelight.png</icon>
+  <icon type="cached" width="128" height="128">filelight.png</icon>
+  <id>org.kde.filelight.desktop</id>
+  <metadata_license>FSFAP</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Filelight</name>
+  <name lang="ar">كشاف الملفات</name>
+  <name lang="ast">Filelight</name>
+  <name lang="az">Filelight</name>
+  <name lang="bg">Filelight</name>
+  <name lang="ca">Filelight</name>
+  <name lang="ca-valencia">Filelight</name>
+  <name lang="cs">Filelight</name>
+  <name lang="da">Filelight</name>
+  <name lang="de">Filelight</name>
+  <name lang="el">Filelight</name>
+  <name lang="en-GB">Filelight</name>
+  <name lang="es">Filelight</name>
+  <name lang="et">Filelight</name>
+  <name lang="eu">Filelight</name>
+  <name lang="fi">Filelight</name>
+  <name lang="fr">Filelight</name>
+  <name lang="gl">Filelight</name>
+  <name lang="hu">Filelight</name>
+  <name lang="ia">Filelight</name>
+  <name lang="id">Filelight</name>
+  <name lang="it">Filelight</name>
+  <name lang="ko">Filelight</name>
+  <name lang="nl">Filelight</name>
+  <name lang="nn">Filelight</name>
+  <name lang="pl">Filelight</name>
+  <name lang="pt">Filelight</name>
+  <name lang="pt-BR">Filelight</name>
+  <name lang="ro">Filelight</name>
+  <name lang="ru">Filelight</name>
+  <name lang="sk">Filelight</name>
+  <name lang="sl">Filelight</name>
+  <name lang="sr">Фајлајт</name>
+  <name lang="sr-Latn">Filelight</name>
+  <name lang="sr-ijekavian">Фајлајт</name>
+  <name lang="sr-ijekavianlatin">Filelight</name>
+  <name lang="sv">Filelight</name>
+  <name lang="uk">Filelight</name>
+  <name lang="x-test">xxFilelightxx</name>
+  <name lang="zh-CN">Filelight 磁盘占用查看器</name>
+  <name lang="zh-TW">Filelight</name>
+  <summary>Filelight creates an interactive map of concentric segmented-rings that helps visualize disk usage on your computer</summary>
+  <summary lang="ar">ينشئ كشاف الملفات خريطة تفاعلية من حلقات مجزأة متحدة المركز  تساعد على تصور استخدام القرص على حاسوبك</summary>
+  <summary lang="ast">Filelight crea un mapa interactivu d'aniellos concéntricos y segmentaos qu'ayuda a visualizar l'usu de los discos del ordenador</summary>
+  <summary lang="az">Filelight kompüterinizdə disk istifadəsini vizuallaşdırmağa kömək edən konsentrik seqmentli halqalardan ibarət interaktiv xəritə yaradır</summary>
+  <summary lang="bg">Filelight създава интерактивна карта от концентрични сегментирани пръстени, които помагат за визуализиране на използването на диска на вашия компютър</summary>
+  <summary lang="ca">El Filelight crea un mapa interactiu d'anells concèntrics segmentats que ajuden a visualitzar l'ús del disc a l'ordinador</summary>
+  <summary lang="ca-valencia">Filelight crea un mapa interactiu d'anells concèntrics segmentats que ajuden a visualitzar l'ús del disc a l'ordinador</summary>
+  <summary lang="da">Filelight opretter et interaktivt kort med koncentriske segmenterede ringe som hjælper med at visualisere diskforbruget på din computer</summary>
+  <summary lang="de">Filelight zeigt Diagramme aus konzentrischen Ringen an, die die Belegung von Speichermedien auf ihrem Rechner darstellen</summary>
+  <summary lang="el">Το Filelight δημιουργεί ένα διαδραστικό χάρτη ομόκεντρων χωρισμένων σε τομείς δαχτυλίων που βοηθάει στην οπτικοποίηση της χρήσης του δίσκου στον υπολογιστή σας</summary>
+  <summary lang="en-GB">Filelight creates an interactive map of concentric segmented-rings that helps visualise disk usage on your computer</summary>
+  <summary lang="es">Filelight crea un mapa interactivo de segmentos de anillos concéntricos que ayuda a visualizar el uso del disco en su equipo</summary>
+  <summary lang="et">Filelight loob kontsentrilise segmenditud ringidega interaktiivse kaardi, mis aitab visuaalselt ette kujutada kettakasutust arvutis</summary>
+  <summary lang="eu">Filelightek eraztun-zati zentrokidez osaturiko mapa elkarreragile bat sortzen du, zure ordenagailuko diskoaren erabilera irudikatzen laguntzen duena</summary>
+  <summary lang="fi">Filelight luo vuorovaikutteisen samakeskisten lohkojen kaavion, joka auttaa hahmottaa tietokoneen levytilan käyttöä.</summary>
+  <summary lang="fr">Filelight crée une carte interactive en segments d'anneaux concentriques qui aide à afficher l'utilisation de l'espace disque sur votre ordinateur.</summary>
+  <summary lang="gl">Filelight crea un mapa interactivo de aneis concéntricos segmentados que axuda a visualizar o uso do disco no computador</summary>
+  <summary lang="hu">A Filelight egy koncentrikus körszeletekből álló interaktív térkép segítségével vizualizálja a lemezhasználati adatokat</summary>
+  <summary lang="ia">Filelight crea un mappa interactive de anillos segmentate concentric que adjuta a visualisar usage de discos sur tu computator</summary>
+  <summary lang="id">Filelight menciptakan peta interaktif cincin tersegmentasi konsentris yang membantu memvisualisasikan penggunaan disk di komputermu</summary>
+  <summary lang="it">Filelight crea una mappa interattiva di anelli segmentati concentrici che aiuta a visualizzare l'uso del disco nel tuo computer</summary>
+  <summary lang="ko">Filelight는 컴퓨터 디스크 사용량을 인터랙티브 동심원 그래프로 시각화하는 프로그램입니다</summary>
+  <summary lang="nl">Filelight maakt een interactieve grafiek van concentrische gesegmenteerde ringen die helpen om schijfgebruik op uw computer te visualiseren</summary>
+  <summary lang="nn">Filelight viser diskbruken på maskina som konsentriske kakestykke som du kan samhandla med</summary>
+  <summary lang="pl">Filelight tworzy interaktywną mapę współśrodkowych, dzielonych pierścieni, co ma na celu zobrazowanie wykorzystania przestrzeni dyskowej na twoim komputerze</summary>
+  <summary lang="pt">O Filelight cria um mapa interactivo com anéis concêntricos segmentados que o ajuda a visualizar a utilização do disco no seu computador</summary>
+  <summary lang="pt-BR">O Filelight cria um mapa interativo de anéis concêntricos em segmentos, que o ajuda a visualizar a utilização do disco no seu computador</summary>
+  <summary lang="ro">Filelight creează o hartă interactivă de inele segmentate concentrice ce vă ajută să vizualizați folosirea discului din calculator</summary>
+  <summary lang="ru">Программа Filelight наглядно отображает использование дискового пространства, представляя его в виде интерактивной карты из концентрических колец, разделённых на сегменты.</summary>
+  <summary lang="sk">Filelight vytvára interaktívnu mapu sústredných prstencov, ktoré vám pomôžu vizualizovať použitie disku na vašom počítači</summary>
+  <summary lang="sl">Filelight ustvari interaktivni zemljevid koncentričnih krožnih izsekov, ki pomagajo prikazati porabo diska na vašem računalniku</summary>
+  <summary lang="sr">Фајлајт прави интерактивну карту концентричних подеоних прстенова за визуелизацију искоришћења диска на рачунару.</summary>
+  <summary lang="sr-Latn">Filelight pravi interaktivnu kartu koncentričnih podeonih prstenova za vizuelizaciju iskorišćenja diska na računaru.</summary>
+  <summary lang="sr-ijekavian">Фајлајт прави интерактивну карту концентричних подеоних прстенова за визуелизацију искоришћења диска на рачунару.</summary>
+  <summary lang="sr-ijekavianlatin">Filelight pravi interaktivnu kartu koncentričnih podeonih prstenova za vizuelizaciju iskorišćenja diska na računaru.</summary>
+  <summary lang="sv">Filelight skapar en interaktiv avbildning av koncentriska segmenterade ringar som hjälper till att åskådliggöra diskanvändning på datorn</summary>
+  <summary lang="uk">Filelight створює інтерактивну карту з концентричних кіл, поділених на сектори, яка допоможе вам візуально контролювати використання дискового простору на вашому комп’ютері</summary>
+  <summary lang="x-test">xxFilelight creates an interactive map of concentric segmented-rings that helps visualize disk usage on your computerxx</summary>
+  <summary lang="zh-CN">Filelight 可以显示一个分段式同心圆环交互地图，帮助您掌握计算机的磁盘使用情况</summary>
+  <summary lang="zh-TW">Filelight 建立同心圓式的互動地圖，有助於可視化您電腦上的磁碟使用狀況</summary>
+  <launchable type="desktop-id">org.kde.filelight.desktop</launchable>
+  <url type="homepage">https://kde.org/applications/en/utilities/org.kde.filelight</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=filelight</url>
+  <url type="help">https://docs.kde.org/?application=filelight</url>
+  <url type="donation">https://www.kde.org/community/donations/?app=filelight&amp;source=appdata</url>
+  <screenshots>
+    <screenshot type="default">
+      <image width="658" height="418">https://cdn.kde.org/screenshots/filelight/filelight.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>filelight</binary>
+  </provides>
+  <custom>
+    <value key="KDE::windows_store">https://www.microsoft.com/store/apps/9pfxcd722m2c</value>
+  </custom>
+  <releases>
+    <release version="22.04.3" date="2022-07-07" />
+    <release date="2022-06-09" version="22.04.2" />
+    <release version="22.04.1" date="2022-05-12" />
+    <release version="22.04.0" date="2022-04-21" />
+  </releases>
+  <content_rating type="oars-1.1" />
+</component>

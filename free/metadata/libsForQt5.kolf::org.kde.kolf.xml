@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <description>
+    <p>
+      Kolf is a miniature golf game. The game is played from an overhead view, with a
+      hort bar representing the golf club. Kolf features many different types of objects,
+      such water hazards, slopes, sand traps, and black holes (warps), among others.
+    </p>
+    <p>Features:</p>
+    <ul>
+      <li>Single and Multi-player (up to ten players) modes</li>
+      <li>High scores table</li>
+      <li>Dynamic courses</li>
+      <li>Third-party courses</li>
+      <li>Course editor</li>
+    </ul>
+  </description>
+  <description lang="ar">
+    <p>غولف هي لعبة غولف مصغرة. تُلعب اللعبة من منظور علوي ، مع شريط هورت يمثل نادي الغولف. يتميز غولف بالعديد من الأنواع المختلفة من الأشياء، مثل مخاطر المياه، والمنحدرات، والفخاخ الرملية، والثقوب السوداء (الاعوجاج)، وغيرها.</p>
+    <p>الميزات:</p>
+    <ul>
+      <li>نمط لاعب واحد و نمط عدة لاعبين (حتى عشرة)</li>
+      <li>جدول أعلى النتائج</li>
+      <li>ميادين متفاعلة</li>
+      <li>ميادين أطراف ثالثة</li>
+      <li>محرر الميدان</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>El Kolf és un joc de golf en miniatura. El joc es juga amb una vista des de dalt, amb una barra d'herba que representa al club de golf. El Kolf disposa de diferents tipus d'objectes, com paranys d'aigua, desnivells, trampes de sorra, forats negres, entre altres.</p>
+    <p>Característiques:</p>
+    <ul>
+      <li>Modes individual i multijugador (fins a 10 jugadors)</li>
+      <li>Taula de puntuacions màximes</li>
+      <li>Camps dinàmics</li>
+      <li>Camps de tercers</li>
+      <li>Editor de camps</li>
+    </ul>
+  </description>
+  <description lang="ca-valencia">
+    <p>Kolf és un joc de golf en miniatura. El joc es juga amb una vista des de dalt, amb una barra d'herba que representa al club de golf. Kolf disposa de diferents tipus d'objectes, com paranys d'aigua, desnivells, trampes d'arena, forats negres, entre altres.</p>
+    <p>Característiques:</p>
+    <ul>
+      <li>Modes individual i multijugador (fins a 10 jugadors)</li>
+      <li>Taula de puntuacions màximes</li>
+      <li>Camps dinàmics</li>
+      <li>Camps de tercers</li>
+      <li>Editor de camps</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>Vlastnosti:</p>
+    <ul>
+      <li>Tabulka nejvyšších skóre</li>
+      <li>Dynamické kurzy</li>
+      <li>Kurzy od třetích stran</li>
+      <li>Editor kurzů</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>Kolf ist ein Minigolf-Spiel. Das Spiel wird aus der Vogelperspektive gespielt, mit einem Balken, der den Golfschläger darstellt. Kolf verfügt über viele verschiedene Arten von Objekten, wie Wasserlöcher, Hänge, Sandbunker und Schwarze Löcher (Verwerfungen), und noch mehr.</p>
+    <p>Funktionen:</p>
+    <ul>
+      <li>Einzel- und Mehrspielermodi, bis zu 10 Spielern</li>
+      <li>Bestenliste</li>
+      <li>Dynamische Golfplätze</li>
+      <li>Golfplätze anderer Anbieter</li>
+      <li>Golfplatz-Editor</li>
+    </ul>
+  </description>
+  <description lang="el">
+    <p>Το Kolf είναι μια μινιατούρα παιχνιδιού γκολφ. Το παιχνίδι παίζεται με την πίστα σε κάτοψη και με μία ράβδο που αναπαριστά το μπαστούνι του γκολφ. Το Kolf περιλαμβάνει πολλούς τύπους αντικειμένων, όπως υδάτινα εμπόδια, κλίσεις, αμμοπαγίδες και μαύρες τρύπες (παραμορφώσεις) μεταξύ άλλων.</p>
+    <p>Χαρακτηριστικά:</p>
+    <ul>
+      <li>Απλή και με πολλούς (έως 10) παίκτες λειτουργία</li>
+      <li>Πίνακας αποτελεσμάτων</li>
+      <li>Δυναμικές πίστες</li>
+      <li>Πίστες από τρίτους</li>
+      <li>Επεξεργαστής πίστας</li>
+    </ul>
+  </description>
+  <description lang="en-GB">
+    <p>Kolf is a miniature golf game. The game is played from an overhead view, with a short bar representing the golf club. Kolf features many different types of objects, such water hazards, slopes, sand traps, and black holes (warps), among others.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Single and Multi-player (up to ten players) modes</li>
+      <li>High scores table</li>
+      <li>Dynamic courses</li>
+      <li>Third-party courses</li>
+      <li>Course editor</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>Kolf es un juego de minigolf desde una perspectiva aérea y con una barra que representa el club de golf. Kolf contiene diversos tipos de objetos, como obstáculos de agua, pendientes, bancos de arena y agujeros negros (deformados), entre otros</p>
+    <p>Funciones:</p>
+    <ul>
+      <li>Modos de uno o más jugadores (hasta diez)</li>
+      <li>Tabla de mejores puntuaciones</li>
+      <li>Campos de golf dinámicos</li>
+      <li>Campos de golf de terceras partes</li>
+      <li>Editor de campos de golf</li>
+    </ul>
+  </description>
+  <description lang="et">
+    <p>Kolf on miniatuurne golfimäng. Mängitakse ülavaates, kus lühike kepp vastab golfikepile. Kolfis on kasutusel mitut laadi objektid, näiteks veetõkked, nõlvad, liivaväljad ja mustad augud.</p>
+    <p>Omadused:</p>
+    <ul>
+      <li>Ühe ja mitme (kuni kümme) mängijaga režiimid</li>
+      <li>Edetabel</li>
+      <li>Dünaamilised rajad</li>
+      <li>Kolmanda poole loodud rajad</li>
+      <li>Radade redaktor</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>Kolf on pienoisgolfpeli. Peliä pelataan yläkulmanäkymästä, missä viiva esittää golfmailaa. Kolfissa on monenlaisia maastoja: vesi- ja hiekkaesteitä sekä mustia aukkoja (”poimuja”) yms.</p>
+    <p>Ominaisuudet:</p>
+    <ul>
+      <li>Yksin- ja moninpeli (aina kymmeneen pelaajaan asti)</li>
+      <li>Ennätystaulukko</li>
+      <li>Dynaamiset kentät</li>
+      <li>Kolmannen osapuolen kentät</li>
+      <li>Kenttien muokkaus</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>Kolf est un jeu de golf miniature. Le jeu se joue depuis une vue en hauteur, une barre représentant le club de golf. Kolf propose de nombreux types d'obstacles différents, notamment des lacs, des pentes et des trous noirs.</p>
+    <p>Fonctionnalités :</p>
+    <ul>
+      <li>Modes solo et multi-joueurs (jusqu'à 10 joueurs)</li>
+      <li>Meilleurs scores</li>
+      <li>Parcours dynamiques</li>
+      <li>Parcours téléchargeables</li>
+      <li>Éditeur de parcours</li>
+    </ul>
+  </description>
+  <description lang="gl">
+    <p>Kolf é un xogo de golf en miniatura. Xógase cunha vista aérea, cunha barra curta que representa o pau de golf. Kolf goza de moitos tipos distintos de obxectos, como obstáculos de auga, rampas, trampas de area, e buratos negros (teleportación), entre outros.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Modos de un e varios xogadores (ata 10).</li>
+      <li>Táboa de mellores puntuacións.</li>
+      <li>Campos dinámicos</li>
+      <li>Campos de terceiros</li>
+      <li>Editor de campos</li>
+    </ul>
+  </description>
+  <description lang="id">
+    <p>Kgolf adalah permainan golf miniatur. Permainan dimainkan dari sebuah tampilan permukaan tanah, dengan hort bar mewakili klub golf. Fitur Kolf banyak tipe objek yang berbeda, seperti bahaya air, lereng, perangkap pasir, dan lubang hitam (lengkungan), dan yang lainnya.</p>
+    <p>Fitur:</p>
+    <ul>
+      <li>Mode Pemain Tunggal dan Multi (hingga sepuluh pemain)</li>
+      <li>Tabel tingkat skor</li>
+      <li>Haluan dinamis</li>
+      <li>Haluan pihak ketiga</li>
+      <li>Pengedit Haluan</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>Kolf è un gioco di di golf in miniatura. Il gioco si gioca da un punto di vista sopraelevato, con una barra che rappresenta la mazza da golf. Kolf contiene molti tipi di oggetti diversi, tra cui ostacoli d'acqua, pendenze, trappole di sabbia e buchi neri (deformazioni).</p>
+    <p>Caratteristiche:</p>
+    <ul>
+      <li>Modalità a uno o più giocatori (fino a dieci)</li>
+      <li>Tabellone dei migliori punteggi</li>
+      <li>Percorsi dinamici</li>
+      <li>Percorsi di terze parti</li>
+      <li>Editor dei percorsi</li>
+    </ul>
+  </description>
+  <description lang="ko">
+    <p>Kolf는 모형 골프 게임입니다. 게임은 오버헤드 뷰로 진행되며 골프 클럽은 막대기로 표시됩니다. Kolf는 물 해저드, 슬로프, 모래 트랩, 블랙홀 등 특수 객체를 지원합니다.</p>
+    <p>기능:</p>
+    <ul>
+      <li>단일 및 최대 10명까지 다중 플레이어 모드</li>
+      <li>최고 점수표</li>
+      <li>동적 코스</li>
+      <li>제 3자 개발 코스</li>
+      <li>코스 편집기</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>Kolf is een miniatuur spel golf. Het spel wordt gespeeld vanuit een bovenaanzicht, met een trekstang die de golfclub representeert. Kolf heeft veel verschillende typen objecten, zoals o.a. waterplassen, hellingen, zandbakken en zwarte gaten (warps).</p>
+    <p>Mogelijkheden:</p>
+    <ul>
+      <li>Modi met enkele en meerdere spelers (tot tien spelers)</li>
+      <li>Tabel met topscores</li>
+      <li>Dynamische banen</li>
+      <li>Banen van derden</li>
+      <li>Bewerker van de baan</li>
+    </ul>
+  </description>
+  <description lang="nn">
+    <p>Kolf er eit minigolfspel. Ein ser golfbana frå fugleperspektiv, der ei kort linje representerer golfkølla. Det finst òg mange hinder, som vatn, bakkar, bunkerar og svarte hòl.</p>
+    <p>Funksjonar:</p>
+    <ul>
+      <li>Kan vera frå éin til ti spelarar</li>
+      <li>Rekordtavle</li>
+      <li>Dynamiske golfbanar</li>
+      <li>Nedlastbare golfbanar</li>
+      <li>Kan laga eigne banar</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <p>Kolf jest grą w miniaturowego golfa. Gra się w widoku z góry, gdzie pasek hort stanowi kije golfowe. Kolf posiada wiele różnych rodzajów obiektów, takich jak woda, pochylenia, piasek, czarne dziury i inne.</p>
+    <p>Możliwości:</p>
+    <ul>
+      <li>Tryb gracza pojedynczego i wielu graczy (do dziesięciu)</li>
+      <li>Tablica najlepszych wyników</li>
+      <li>Dynamiczne pola golfowe</li>
+      <li>Dogrywane pola golfowe</li>
+      <li>Edytor pól golfowych</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>O Kolf é um jogo de golfe em miniatura. O jogo é executado numa perspectiva de cima, com uma barra que representa o taco de golfe. O Kolf oferece diversos tipos de objectos, como poças de água, rampas, armadilhas de areia e buracos negros (portais), entre outros.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Modos para um ou vários jogadores (até dez jogadores)</li>
+      <li>Tabela de recordes</li>
+      <li>Campos dinâmicos</li>
+      <li>Campos criados por terceiros</li>
+      <li>Editor de campos</li>
+    </ul>
+  </description>
+  <description lang="pt-BR">
+    <p>Kolf é um jogo de mini-golfe. É jogado de uma vista aérea com uma barra curta representando o clube de golfe. Kolf possui muitos tipos diferentes de objetos, como riscos de água, encostas, armadilhas de areia, buracos negros (empenamento), entre outros.</p>
+    <p>Recursos:</p>
+    <ul>
+      <li>Modos único jogador e multijogadores (até 10 jogadores)</li>
+      <li>Tabela de recordes</li>
+      <li>Cursos dinâmicos</li>
+      <li>Cursos de terceiros</li>
+      <li>Editor de curso</li>
+    </ul>
+  </description>
+  <description lang="ro">
+    <p>Caracteristici:</p>
+  </description>
+  <description lang="ru">
+    <p>Kolf — игра в гольф в миниатюре. Во время игры игрок смотрит на площадку сверху. В Kolf предусмотрены различные типы объектов, в том числе водные преграды, склоны, песчаные ловушки и черные дыры (тоннели).</p>
+    <p>Возможности:</p>
+    <ul>
+      <li>Однопользовательский и многопользовательский (не более десяти игроков) режимы игры</li>
+      <li>Таблица рекордов</li>
+      <li>Динамические площадки</li>
+      <li>Сторонние площадки</li>
+      <li>Редактор площадок</li>
+    </ul>
+  </description>
+  <description lang="sk">
+    <p>Kolf je miniatúrna golfová hra. Hra sa hrá pohľadom zhora. Obsahuje mnoho rôznych typov objektov, ako vodné prekážky, stĺpy, pieskové pasce, čierne diery a iné.</p>
+    <p>Funkcie:</p>
+    <ul>
+      <li>Režimy jedného a viacerých hráčov (do 10 hráčov)</li>
+      <li>Tabuľka najvyššieho skóre</li>
+      <li>Dynamické kurzy</li>
+      <li>Kurzy tretích strán</li>
+      <li>Editor kurzov</li>
+    </ul>
+  </description>
+  <description lang="sl">
+    <p>Kolf je igra miniaturnega golfa. Igrate iz ptičje perspektive, palico pa predstavlja deščica. V Kolfu boste našli številne predmete, kot so na primer vodne nevarnosti, klanci, peščene pasti in črne luknje.</p>
+    <p>Zmožnosti:</p>
+    <ul>
+      <li>Načina za enega in več igralcev (do deset)</li>
+      <li>Razpredelnica najboljših rezultatov</li>
+      <li>Dinamična igrišča</li>
+      <li>Igrišča tretjih oseb</li>
+      <li>Urejevalnik igrišč</li>
+    </ul>
+  </description>
+  <description lang="sr">
+    <p>Колф је игра минијатурног голфа. Игра се преко погледа одозго, и са пречком која представља палицу за голф. Колф садржи многе врсте објеката, попут водених препрека, косина, пешчаних замки и црних рупа (црвоточина).</p>
+    <p>Могућности:</p>
+    <ul>
+      <li>Режим за једног и више играча (до десет).</li>
+      <li>Табела најрезултата.</li>
+      <li>Динамички терени.</li>
+      <li>Терени са стране.</li>
+      <li>Уређивач терена.</li>
+    </ul>
+  </description>
+  <description lang="sr-Latn">
+    <p>Kolf je igra minijaturnog golfa. Igra se preko pogleda odozgo, i sa prečkom koja predstavlja palicu za golf. Kolf sadrži mnoge vrste objekata, poput vodenih prepreka, kosina, peščanih zamki i crnih rupa (crvotočina).</p>
+    <p>Mogućnosti:</p>
+    <ul>
+      <li>Režim za jednog i više igrača (do deset).</li>
+      <li>Tabela najrezultata.</li>
+      <li>Dinamički tereni.</li>
+      <li>Tereni sa strane.</li>
+      <li>Uređivač terena.</li>
+    </ul>
+  </description>
+  <description lang="sr-ijekavian">
+    <p>Колф је игра минијатурног голфа. Игра се преко погледа одозго, и са пречком која представља палицу за голф. Колф садржи многе врсте објеката, попут водених препрека, косина, пешчаних замки и црних рупа (црвоточина).</p>
+    <p>Могућности:</p>
+    <ul>
+      <li>Режим за једног и више играча (до десет).</li>
+      <li>Табела најрезултата.</li>
+      <li>Динамички терени.</li>
+      <li>Терени са стране.</li>
+      <li>Уређивач терена.</li>
+    </ul>
+  </description>
+  <description lang="sr-ijekavianlatin">
+    <p>Kolf je igra minijaturnog golfa. Igra se preko pogleda odozgo, i sa prečkom koja predstavlja palicu za golf. Kolf sadrži mnoge vrste objekata, poput vodenih prepreka, kosina, peščanih zamki i crnih rupa (crvotočina).</p>
+    <p>Mogućnosti:</p>
+    <ul>
+      <li>Režim za jednog i više igrača (do deset).</li>
+      <li>Tabela najrezultata.</li>
+      <li>Dinamički tereni.</li>
+      <li>Tereni sa strane.</li>
+      <li>Uređivač terena.</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <p>Kolf är ett minigolfspel. Spelet visas ovanifrån, med ett kort streck som representerar golfklubban. Kolf har många olika hinder, bland annat vattenhinder, sluttningar, bunkrar och svarta hål.</p>
+    <p>Funktioner:</p>
+    <ul>
+      <li>En eller flera spelare (upp till tio stycken)</li>
+      <li>Tabell över bästa resultat</li>
+      <li>Dynamiska banor</li>
+      <li>Tredjepartsbanor</li>
+      <li>Baneditor</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>Kolf — мініатюрна гра у гольф. Під час гри гравець дивиться на майданчик згори. У Kolf передбачено різні типи об’єктів-перешкод, зокрема водяні пастки, схили, піскові пастки і чорні діри (тунелі).</p>
+    <p>Можливості:</p>
+    <ul>
+      <li>Режими одного та декількох гравців (до десяти учасників змагань)</li>
+      <li>Таблиця найкращих результатів</li>
+      <li>Динамічні майданчики</li>
+      <li>Можливість використання сторонніх майданчиків</li>
+      <li>Редактор майданчиків</li>
+    </ul>
+  </description>
+  <description lang="x-test">
+    <p>xxKolf is a miniature golf game. The game is played from an overhead view, with a hort bar representing the golf club. Kolf features many different types of objects, such water hazards, slopes, sand traps, and black holes (warps), among others.xx</p>
+    <p>xxFeatures:xx</p>
+    <ul>
+      <li>xxSingle and Multi-player (up to ten players) modesxx</li>
+      <li>xxHigh scores tablexx</li>
+      <li>xxDynamic coursesxx</li>
+      <li>xxThird-party coursesxx</li>
+      <li>xxCourse editorxx</li>
+    </ul>
+  </description>
+  <description lang="zh-CN">
+    <p>功能：</p>
+    <ul>
+      <li>单人模式及多人 (最高十位玩家) 模式</li>
+      <li>高分表</li>
+      <li>动态高尔夫球场</li>
+      <li>第三方高尔夫球场</li>
+      <li>高尔夫球场编辑器</li>
+    </ul>
+  </description>
+  <description lang="zh-TW">
+    <p>功能：</p>
+  </description>
+  <pkgname>libsForQt5.kolf</pkgname>
+  <launchable type="desktop-id">org.kde.kolf.desktop</launchable>
+  <icon height="64" width="64" type="cached">kolf.png</icon>
+  <icon width="128" type="cached" height="128">kolf.png</icon>
+  <id>org.kde.kolf.desktop</id>
+  <metadata_license>FSFAP</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Kolf</name>
+  <name lang="ar">غولف</name>
+  <name lang="ca">Kolf</name>
+  <name lang="ca-valencia">Kolf</name>
+  <name lang="cs">Kolf</name>
+  <name lang="da">Kolf</name>
+  <name lang="de">Kolf</name>
+  <name lang="el">Kolf</name>
+  <name lang="en-GB">Kolf</name>
+  <name lang="es">Kolf</name>
+  <name lang="et">Kolf</name>
+  <name lang="fi">Kolf</name>
+  <name lang="fr">Kolf</name>
+  <name lang="gl">Kolf</name>
+  <name lang="id">Kolf</name>
+  <name lang="it">Kolf</name>
+  <name lang="ko">Kolf</name>
+  <name lang="nl">Kolf</name>
+  <name lang="nn">Kolf</name>
+  <name lang="pl">Kolf</name>
+  <name lang="pt">Kolf</name>
+  <name lang="pt-BR">Kolf</name>
+  <name lang="ro">Kolf</name>
+  <name lang="ru">Kolf</name>
+  <name lang="sk">Kolf</name>
+  <name lang="sl">Kolf</name>
+  <name lang="sr">Колф</name>
+  <name lang="sr-Latn">Kolf</name>
+  <name lang="sr-ijekavian">Колф</name>
+  <name lang="sr-ijekavianlatin">Kolf</name>
+  <name lang="sv">Kolf</name>
+  <name lang="uk">Kolf</name>
+  <name lang="x-test">xxKolfxx</name>
+  <name lang="zh-CN">Kolf</name>
+  <name lang="zh-TW">Kolf</name>
+  <summary>Miniature Golf</summary>
+  <summary lang="ar">غولف المصغر</summary>
+  <summary lang="ca">Golf en miniatura</summary>
+  <summary lang="ca-valencia">Golf en miniatura</summary>
+  <summary lang="cs">Miniaturní golf</summary>
+  <summary lang="de">Minigolf</summary>
+  <summary lang="el">Γκολφ μινιατούρα</summary>
+  <summary lang="en-GB">Miniature Golf</summary>
+  <summary lang="es">Minigolf</summary>
+  <summary lang="et">Miniatuurne golf</summary>
+  <summary lang="fi">Pienoisgolf</summary>
+  <summary lang="fr">Golf miniature</summary>
+  <summary lang="gl">Golf en miniatura</summary>
+  <summary lang="id">Golf Miniatur</summary>
+  <summary lang="it">Golf in miniatura</summary>
+  <summary lang="ko">모형 골프</summary>
+  <summary lang="nl">Miniatuurgolf</summary>
+  <summary lang="nn">Minigolf</summary>
+  <summary lang="pl">Miniaturowy golf</summary>
+  <summary lang="pt">Golfe em Miniatura</summary>
+  <summary lang="pt-BR">Mini-Golf</summary>
+  <summary lang="ro">Golf în miniatură</summary>
+  <summary lang="ru">Гольф в миниатюре</summary>
+  <summary lang="sk">Miniatúrny golf</summary>
+  <summary lang="sl">Miniaturni golf</summary>
+  <summary lang="sr">Минијатурни голф</summary>
+  <summary lang="sr-Latn">Minijaturni golf</summary>
+  <summary lang="sr-ijekavian">Минијатурни голф</summary>
+  <summary lang="sr-ijekavianlatin">Minijaturni golf</summary>
+  <summary lang="sv">Minigolf</summary>
+  <summary lang="uk">Мініатюрний гольф</summary>
+  <summary lang="x-test">xxMiniature Golfxx</summary>
+  <summary lang="zh-CN">迷你高尔夫</summary>
+  <url type="homepage">https://kde.org/applications/games/org.kde.kolf</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kolf</url>
+  <url type="help">https://docs.kde.org/?application=kolf</url>
+  <url type="donation">https://www.kde.org/community/donations/?app=kolf&amp;source=appdata</url>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Initial screen of Kolf</caption>
+      <caption lang="ar">الصورة الأولى للغولف</caption>
+      <caption lang="ca">Pantalla inicial del Kolf</caption>
+      <caption lang="ca-valencia">Pantalla inicial de Kolf</caption>
+      <caption lang="cs">Úvodní obrazovka Kolf</caption>
+      <caption lang="de">Start eines Spiels in Kolf</caption>
+      <caption lang="el">Αρχική οθόνη του Kolf</caption>
+      <caption lang="en-GB">Initial screen of Kolf</caption>
+      <caption lang="es">Pantalla inicial de Kolf</caption>
+      <caption lang="et">Kolfi avaekraan</caption>
+      <caption lang="fi">Kolfin alkunäkymä</caption>
+      <caption lang="fr">Écran d'ouverture de Kolf</caption>
+      <caption lang="gl">Pantalla inicial de Kolf</caption>
+      <caption lang="id">Layar awal Kolf</caption>
+      <caption lang="it">Schermata iniziale di Kolf</caption>
+      <caption lang="ko">Kolf 초기 화면</caption>
+      <caption lang="nl">Initiaal scherm van Kolf</caption>
+      <caption lang="nn">Startbiletet i Kolf</caption>
+      <caption lang="pl">Początkowy ekran Kolf</caption>
+      <caption lang="pt">Ecrã inicial do Kolf</caption>
+      <caption lang="pt-BR">Tela inicial do Kolf</caption>
+      <caption lang="ru">Начальное окно Kolf</caption>
+      <caption lang="sk">Úvodná obrazovka v Kolf</caption>
+      <caption lang="sl">Začetni zaslon Kolfa</caption>
+      <caption lang="sv">Inledande skärm i Kolf</caption>
+      <caption lang="uk">Початкове вікно Kolf</caption>
+      <caption lang="x-test">xxInitial screen of Kolfxx</caption>
+      <caption lang="zh-CN">Kolf 的初始界面</caption>
+      <caption lang="zh-TW">Kolf 的初始畫面</caption>
+      <image>https://cdn.kde.org/screenshots/kolf/kolf.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kolf</binary>
+  </provides>
+  <releases>
+    <release version="22.04.3" date="2022-07-07" />
+    <release version="22.04.2" date="2022-06-09" />
+    <release version="22.04.1" date="2022-05-12" />
+    <release date="2022-04-21" version="22.04.0" />
+  </releases>
+  <content_rating type="oars-1.1" />
+</component>

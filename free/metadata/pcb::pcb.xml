@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+  <pkgname>pcb</pkgname>
+  <launchable type="desktop-id">pcb.desktop</launchable>
+  <icon height="64" width="64" type="cached">pcb.png</icon>
+  <icon height="128" type="cached" width="128">pcb.png</icon>
+  <id type="desktop">pcb.desktop</id>
+  <metadata_license>GFDL-1.3</metadata_license>
+  <project_license>GPL-2.0</project_license>
+  <description>
+    <p>PCB is an interactive printed circuit board editor for Unix, Linux, Windows, and Mac systems.</p>
+    <p>PCB includes a rats nest feature and schematic/netlist import, design rule checking, and can provide industry standard RS-274X (Gerber), NC drill, IPC-D-356 netlist and centroid data (X-Y data) output for use in the board fabrication and assembly process, as well as photorealistic and design review images.</p>
+    <p>PCB offers high end features such as an autorouter, a topological router and various trace optimizers which can tremendously reduce layout time.</p>
+    <p>For custom requirements, PCB offers a plug-in API for inserting new functionality and using that functionality from within the GUI as well as in scripts.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>PCB é um editor de placa de circuito impresso interativo para sistemas Unix, Linux, Windows, e Mac.</p>
+    <p>Para requisitos personalizados, PCB oferece uma API de recursos adicionais para inserção de novas funcionalidades e utilização dessa nova funcionalidade a partir de dentro da interface gráfica do usuário bem com em scripts.</p>
+  </description>
+  <keywords>
+    <keyword>pcb</keyword>
+    <keyword>circuit</keyword>
+    <keyword>board</keyword>
+    <keyword>layout</keyword>
+    <keyword>editor</keyword>
+    <keyword>gerber</keyword>
+    <keyword>gcode</keyword>
+    <keyword>layout</keyword>
+    <keyword>eda</keyword>
+    <keyword>electronics</keyword>
+    <keyword>cad</keyword>
+    <keyword>design</keyword>
+    <keyword>autorouter</keyword>
+  </keywords>
+  <screenshots>
+    <screenshot type="default" height="619" width="892">http://wiki.geda-project.org/_media/geda:screenshot_pcb.png</screenshot>
+  </screenshots>
+  <url type="homepage">http://pcb.geda-project.org/</url>
+  <updatecontact>bert.timmerman@xs4all.nl</updatecontact>
+  <url type="translate">https://translations.launchpad.net/pcb</url>
+  <releases>
+    <release version="4.3.0" date="2021-03-01">
+      <description>
+        <p>New features release (pcb footprint file format change)</p>
+      </description>
+    </release>
+    <release date="2020-01-19" version="4.2.2">
+      <description>
+        <p>Hot fix and bugfixes release (no pcb file format change)</p>
+      </description>
+    </release>
+    <release version="4.2.1" date="2019-12-31">
+      <description>
+        <p>New features and bugfixes release (no pcb file format change)</p>
+      </description>
+    </release>
+    <release date="2019-02-02" version="4.2.0">
+      <description>
+        <p>New features release (pcb file format change)</p>
+      </description>
+    </release>
+    <release date="2018-10-03" version="4.1.3">
+      <description>
+        <p>Bug fix release</p>
+      </description>
+    </release>
+    <release version="4.1.2" date="2018-05-13">
+      <description>
+        <p>Bug fix release</p>
+      </description>
+    </release>
+    <release version="4.1.1" date="2018-04-07">
+      <description>
+        <p>Bug fix release</p>
+      </description>
+    </release>
+    <release date="2018-01-28" version="4.1.0">
+      <description>
+        <p>New features release (pcb file format change)</p>
+      </description>
+    </release>
+    <release version="4.0.2" date="2017-09-03">
+      <description>
+        <p>Bug fix release</p>
+      </description>
+    </release>
+    <release version="4.0.1" date="2017-05-07">
+      <description>
+        <p>Bug fix release</p>
+      </description>
+    </release>
+    <release date="2017-01-16" version="4.0.0">
+      <description>
+        <p>Major version release</p>
+      </description>
+    </release>
+  </releases>
+</component>

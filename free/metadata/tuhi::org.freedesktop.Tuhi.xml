@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>tuhi</pkgname>
+  <icon width="64" type="cached" height="64">org.freedesktop.Tuhi.png</icon>
+  <icon type="cached" height="128" width="128">org.freedesktop.Tuhi.png</icon>
+  <id>org.freedesktop.Tuhi</id>
+  <metadata_license>FSFAP</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <content_rating type="oars-1.0" />
+  <name>Tuhi</name>
+  <name lang="tr">Tuhi</name>
+  <name lang="pl">Tuhi</name>
+  <name lang="it">Tuhi</name>
+  <summary>Utility to download drawings from the Wacom Ink range of devices</summary>
+  <summary lang="tr">Wacom Ink cihazlarınızdan çizimlerinizi indirmek için bir araç</summary>
+  <summary lang="pl">Narzędzie do pobierania rysunków z rodziny urządzeń Wacom Ink</summary>
+  <summary lang="it">Utilità per scaricare i disegni dalla gamma Inchiostro di dispositivi Wacom</summary>
+  <description>
+    <p>
+      Tuhi is a graphical user interface to download drawings stored on
+      tablet devices from the Wacom Ink range, e.g. Intuos Pro Paper or
+      Bamboo Slate.
+    </p>
+    <p>
+      Tuhi requires Tuhi, the daemon to actually communicate with the
+      devices. ThiGui is merely a front end to Tuhi, Tuhi must be
+      installed and running when Tuhi is launched.
+    </p>
+  </description>
+  <description lang="it">
+    <p>Tuhi è un'interfaccia utente grafica per scaricare disegni archiviati su tablet dispositivi della gamma di Inchiostro Wacom, ad esempio Intuos Pro Paper o Bamboo Slate.</p>
+  </description>
+  <description lang="pl">
+    <p>Tuhi to graficzny interfejs użytkownika do pobierania rysunków przechowywanych na tabletach z rodziny Wacom Ink, np. Intuos Pro Paper i Bamboo Slate.</p>
+    <p>TuhiGUI wymaga Tuhi, usługi komunikującej się z urządzeniem. TuhiGUI to interfejs dla usługi Tuhi, która musi być zainstalowana i uruchomiona, aby narzędzie Tuhi mogło działać.</p>
+  </description>
+  <description lang="tr">
+    <p>Tuhi, Wacom Ink serisi cihazlarda depolanan çizimlerinizi indirmenize olanak sağlayan bir grafik kullanıcı arayüzüdür. Ör. Intuos Pro Paper veya Bamboo Slate.</p>
+  </description>
+  <kudos>
+    <kudo>AppMenu</kudo>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+  </kudos>
+  <launchable type="desktop-id">org.freedesktop.Tuhi.desktop</launchable>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Tuhi's main window</caption>
+      <caption lang="tr">Tuhi ana penceresi</caption>
+      <caption lang="pl">Główne okno Tuhi</caption>
+      <caption lang="it">Finestra principale di Tuhi</caption>
+      <image>https://raw.githubusercontent.com/tuhiproject/tuhi/screenshots/main-window.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Tuhi's main window (zoomed)</caption>
+      <caption lang="tr">Tuhi ana penceresi (yakın)</caption>
+      <caption lang="pl">Główne okno Tuhi (powiększone)</caption>
+      <caption lang="it">Finestra principale di Tuhi (ingrandita)</caption>
+      <image>https://raw.githubusercontent.com/tuhiproject/tuhi/screenshots/main-window-zoomed.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://github.com/tuhiproject/tuhi/</url>
+  <url type="bugtracker">https://github.com/tuhiproject/tuhi/issues</url>
+  <url type="help">https://github.com/tuhiproject/tuhi/wiki</url>
+  <project_group>GNOME</project_group>
+  <translation type="gettext">tuhi</translation>
+  <provides>
+    <binary>tuhi</binary>
+  </provides>
+  <releases>
+    <release date="2022-04-28" version="0.6" />
+  </releases>
+</component>

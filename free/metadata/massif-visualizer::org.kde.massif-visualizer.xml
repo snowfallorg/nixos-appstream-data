@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>
+      Massif Visualizer is a tool that - who'd guess that - visualizes massif data.
+      You run your application in Valgrind with --tool=massif and then open the generated
+      massif.out.%pid in the visualizer. Gzip or Bzip2 compressed massif files can also be
+      opened transparently.
+    </p>
+    <p>Features:</p>
+    <ul>
+      <li>Interactive chart of memory consumption over time.</li>
+      <li>Detailed snapshot analysis with callgraph visualization (requires KGraphViewer).</li>
+      <li>Summary of peak memory consumption of all allocating functions.</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>Massif Visualizer és una eina que -com imagineu- visualitza les dades massif. Executeu l'aplicació en Valgrind amb --tool=massif i després obriu el massif.out.%pid generat en el visualitzador. Els fitxers massif comprimits amb gzip o bzip2 també es poden obrir de forma transparent.</p>
+    <p>Característiques:</p>
+    <ul>
+      <li>Gràfic interactiu del consum de memòria al llarg del temps.</li>
+      <li>Anàlisi detallat de les captures amb visualització de «callgraph» (requereix el KGraphViewer).</li>
+      <li>Resum dels pics de consum de memòria de totes les funcions d'assignació.</li>
+    </ul>
+  </description>
+  <description lang="ca-valencia">
+    <p>Massif Visualizer és una eina que -com imagineu- visualitza les dades massif. Executeu l'aplicació en Valgrind amb --tool=massif i després obriu el massif.out.%pid generat en el visualitzador. Els fitxers massif comprimits amb gzip o bzip2 també es poden obrir de forma transparent.</p>
+    <p>Característiques:</p>
+    <ul>
+      <li>Gràfic interactiu del consum de memòria al llarg del temps.</li>
+      <li>Anàlisi detallat de les captures amb visualització de «callgraph» (requereix el KGraphViewer).</li>
+      <li>Resum dels pics de consum de memòria de totes les funcions d'assignació.</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>Vlastnosti:</p>
+  </description>
+  <description lang="de">
+    <p>Funktionen:</p>
+    <ul>
+      <li>Interaktive Diagramme des Speicherverbrauch über Zeiträume.</li>
+    </ul>
+  </description>
+  <description lang="el">
+    <p>Το Massif Visualizer είναι ένα εργαλείο το οποίο - ποιος το περίμενε - οπτικοποιεί δεδομένα massif. Εκτελείτε την εφαρμογή σας στο Valgrind με --tool=massif και ανοίγετε το παραγόμενο massif.out.%pid στον οπτικό αναπαραγωγέα. Ανοίγει και συμπιεσμένα Gzip ή Bzip αρχεία masif.</p>
+    <p>Χαρακτηριστικά:</p>
+    <ul>
+      <li>Διαδραστικό χρονοδιάγραμμα κατανάλωσης μνήμης.</li>
+      <li>Λεπτομερής ανάλυση στιγμιοτύπου με οπτική αναπαράσταση γράφου (απαιτεί KGraphViewer).</li>
+      <li>Περίληψη κατανάλωσης αιχμών μνήμης για όλες τις διανεμημένες λειτουργίες.</li>
+    </ul>
+  </description>
+  <description lang="en-GB">
+    <p>Massif Visualizer is a tool that - who'd guess that - visualises massif data. You run your application in Valgrind with --tool=massif and then open the generated massif.out.%pid in the visualiser. Gzip or Bzip2 compressed massif files can also be opened transparently.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Interactive chart of memory consumption over time.</li>
+      <li>Detailed snapshot analysis with callgraph visualisation (requires KGraphViewer).</li>
+      <li>Summary of peak memory consumption of all allocating functions.</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>Massif Visualizer es una herramienta que sirve para visualizar datos de Massif. Puede ejecutar una aplicación en Valgrind con «--tool=massif» y abrir a continuación en el visor el archivo «massif.out.%pid» generado. También se pueden abrir de forma transparente los archivos de Massif comprimidos con Gzip o Bzip2.</p>
+    <p>Funciones:</p>
+    <ul>
+      <li>Mapa interactivo del consumo de memoria a lo largo del tiempo.</li>
+      <li>Análisis detallado de instantáneas con visualización de «callgraph» (necesita KGraphViewer).</li>
+      <li>Sumario de picos de consumo de memoria de todas las funciones de asignación.</li>
+    </ul>
+  </description>
+  <description lang="et">
+    <p>Massif-Visualizer on, nagu niimigi ütleb, massif-andmete visualiseerimiseks mõeldud tööriist. Kui käivitada oma rakendus Valgrindis võtmega --tool=massif, saab hiljem loodud faili massif.out.%pid ava visualiseerijas. Läbipaistvalt saab avada ka gzip- või bzip2-tihendusega massif-faile.</p>
+    <p>Omadused:</p>
+    <ul>
+      <li>Interaktiivne mälutarvet ajas näitav diagramm</li>
+      <li>Üksikasjalik hetktõmmise analüüs callgraphi visualiseerimisega (vajab KGraphViewerit)</li>
+      <li>Kokkuvõte kõigi omistatud funktsioonide tipp-mälutarbest</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>Massif-visualisointi on työkalu, joka – arvatenkin – visualisoi massif-dataa. Suorita ensin ohjelmasi Valgrindilla käyttäen valitsinta --tool=massif ja avaa sitten luotu massif.out.%pid Massif-visualisoinnissa. Myös Gzip- tai Bzip2-pakatut massif-tiedostot voi avata suoraan.</p>
+    <p>Ominaisuuksia:</p>
+    <ul>
+      <li>Vuorovaikuttainen kaavio muistinkulutukselta ajan funktiona.</li>
+      <li>Yksityiskohtainen tilannevedosanalyysi kutsukaavion visualisoinnilla (tarvitsee KGraphViewerin).</li>
+      <li>Yhteenveto kaikkien muistia varaavien funktioiden muistinkulutushuipusta.</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>Fonctionnalités :</p>
+  </description>
+  <description lang="gl">
+    <p>Visualizador de Massif é unha ferramenta que, como o nome indica, permite visualizar datos Massif. Execute o seu aplicativo en Valgrind usando a opción «--tool=massif» e a continuación abra o ficheiro «massif.out.%pid» xerado no visualizador. Tamén pode abrir ficheiros Massif comprimidos con Gzip ou Bzip2 de maneira transparente.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Gráfica interactiva de consumo de memoria no tempo.</li>
+      <li>Análise detallada de capturas con visualización da gráfica de chamadas (require KGraphViewer).</li>
+      <li>Resumo dos picos de consumo de memoria de todas as funcións de reserva de memoria.</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>Massif Visualizer è uno strumento che - chi l'avrebbe immaginato - mostra i dati di Massif. Esegui la tua applicazione in Valgrind con --tool=massif e quindi apri nel visualizzatore il file generato massif.out.%pid. Anche file Massif compressi con gzip o bzip2 possono essere aperti in modo trasparente.</p>
+    <p>Funzionalità:</p>
+    <ul>
+      <li>Grafico interattivo del consumo di memoria nel tempo.</li>
+      <li>Analisi dettagliata delle istantanee con visualizzazione del grafico delle chiamata (richiede KGraphViewer).</li>
+      <li>Riepilogo del picco di consumo delle memoria per tutte le funzioni di allocazione.</li>
+    </ul>
+  </description>
+  <description lang="ko">
+    <p>Massif 시각화 도구는 massif 데이터를 표시합니다. Valgrind에서 프로그램을 실행시킬 때 --tool=massif 인자로 실행시키고, 생성된 massif.out.%pid 파일을 시각화 도구로 엽니다. Gzip/Bzip2 압축된 파일도 별도의 과정 없이 열 수 있습니다.</p>
+    <p>기능:</p>
+    <ul>
+      <li>시간별 메모리 사용량 차트 표시.</li>
+      <li>호출 그래프 시각화 및 자세한 스냅샷 분석(KGraphViewer 필요).</li>
+      <li>모든 할당된 함수의 메모리 소모 요약.</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>Massif Visualizer is een hulpmiddel dat - u raad het - massif-gegevens visualiseert. U kunt uw toepassing in Valgrind uitvoeren met --tool=massif en dan de gegenereerde massif.out.%pid openen in het visualisatieprogramma. Gzip of Bzip2 gecomprimeerde massif-bestanden kunnen ook transparent geopend worden.</p>
+    <p>Kenmerken:</p>
+    <ul>
+      <li>Interactieve grafiek van geheugengebruik in de tijd.</li>
+      <li>Gedetailleerde analyses van momentopnamen met callgraph-visualisatie (vereist KGraphViewer).</li>
+      <li>Overzicht van pieken in geheugengebruik van alle functies voor toekennen.</li>
+    </ul>
+  </description>
+  <description lang="nn">
+    <p>Programmet visualiserer data frå Massif-datafiler. Køyr programma dine i Valgrind med «--tool=massif», og opna så den genererte datafila «massif.out.%pid». Du kan òg opna gzip- og bzip2-komprimerte Massif-filer direkte.</p>
+    <p>Funksjonar:</p>
+    <ul>
+      <li>Interaktivt diagram som viser minnebruken over tid.</li>
+      <li>Detaljert analyse av minnebilete med kallgraf-visualisering (krev KGraphViewer).</li>
+      <li>Samandrag av høgste minnebruk for alle allokerande funksjonar.</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <p>Program do wizualizacji Massif jest narzędziem, które wizualizuje dane massif. Uruchamiasz swoją aplikację w Valgrind przy użyciu --tool=massif a następnie otwierasz utworzony massif.out.%pid w programie do wizualizacji. Można otwierać pliki massif skompresowane przy użyciu Gzip lub Bzip2.</p>
+    <p>Możliwości:</p>
+    <ul>
+      <li>Interaktywny wykres wykorzystania pamięci w czasie.</li>
+      <li>Szczegółowe analizy zrzutów z wizualizacją wykresu wywołań (wymaga KGraphViewer).</li>
+      <li>Podsumowanie szczytowego wykorzystania pamięci wszystkich przydzielonych funkcji.</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>O Visualizador do Massif é uma ferramenta que, como é óbvio, apresenta dados do Massif. Você poderá executar a sua aplicação no Valgrind com a opção --tool=massif e depois abrir o ficheiro massif.out.%pid gerado no visualizador. Poderá abrir de forma transparente os ficheiros do Massif comprimidos com Gzip ou Bzip2.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Gráfico interactivo do consumo de memória ao longo do tempo.</li>
+      <li>Análise detalhada das capturas com a visualização do grafo de chamadas (precisa do KGraphViewer).</li>
+      <li>Resumo do consumo de pico da memória de todas as funções de alocação.</li>
+    </ul>
+  </description>
+  <description lang="pt-BR">
+    <p>O Visualizador de Massif é uma ferramenta que, como o nome sugere, visualiza dados Massif. Você pode executar seu aplicativo no Valgrind com a opção --tool=massif e depois abrir o arquivo massif.out.%pid gerado no visualizador. Os arquivos Massif compactados com Gzip ou Bzip2 podem ser abertos de forma transparente.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Gráfico interativo do consumo de memória usada pelo aplicativo.</li>
+      <li>Análise detalhada das capturas com a visualização do grafo de chamadas (é necessário o KGraphViewer).</li>
+      <li>Resumo do consumo de pico da memória de todas as funções de alocação.</li>
+    </ul>
+  </description>
+  <description lang="sk">
+    <p>Massif Visualizer je nástroj, ktorý, kto by to povedal, vizualizuje údaje massif. Môžete spustiť aplikáciu vo Valgrinde s --tool=massif a potom otvoriť vygenerovaný massif.out.%pid vo vizualizátori. Gzip alebo Bzip2 komprimované massif súbory sa dajú otvoriť transaprentne.</p>
+    <p>Funkcie:</p>
+    <ul>
+      <li>Interaktívny graf použitia pamäte v čase.</li>
+      <li>Detailná snímka analýzy s vizualizáciou callgraph (vyžaduje KGraphViewer).</li>
+      <li>Prehľad vrcholu použitia pamäte všetkých alokačných funkcií.</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <p>Massif visualisering är ett verktyg som åskådliggöra data från Massif, som inte är svårt att gissa. Man kör sitt program i Valgrind med --tool=massif och öppnar den skapade massif.out.%pid i verktyget. Massif-filer komprimerade med gzip eller bzip2 kan också öppnas direkt.</p>
+    <p>Funktioner:</p>
+    <ul>
+      <li>Interaktivt diagram av minnesanvändning över tid.</li>
+      <li>Detaljerad ögonblicksanalys med visualisering av anropsgraf (kräver Kgraphviewer).</li>
+      <li>Sammanfattning av största minnesanvändning för alla allokerande funktioner.</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>Візуалізатор Massif, яким би дивним це не здавалося, — засіб для візуалізації даних massif. Ви запускаєте вашу програму у Valgrind із параметром --tool=massif, а потім відкриваєте створений файл massif.out.%pid у засобі візуалізації. Передбачено прозоре відкриття файлів massif, запакованих за допомогою Gzip або Bzip2.</p>
+    <p>Можливості:</p>
+    <ul>
+      <li>Інтерактивна діаграма споживання пам’яті.</li>
+      <li>Докладний аналіз знімків із візуалізацією графу викликів (потребує KGraphViewer).</li>
+      <li>Резюме щодо пікового споживання пам’яті для всіх функцій отримання об’ємів пам’яті.</li>
+    </ul>
+  </description>
+  <description lang="x-test">
+    <p>xxMassif Visualizer is a tool that - who'd guess that - visualizes massif data. You run your application in Valgrind with --tool=massif and then open the generated massif.out.%pid in the visualizer. Gzip or Bzip2 compressed massif files can also be opened transparently.xx</p>
+    <p>xxFeatures:xx</p>
+    <ul>
+      <li>xxInteractive chart of memory consumption over time.xx</li>
+      <li>xxDetailed snapshot analysis with callgraph visualization (requires KGraphViewer).xx</li>
+      <li>xxSummary of peak memory consumption of all allocating functions.xx</li>
+    </ul>
+  </description>
+  <description lang="zh-CN">
+    <p>功能：</p>
+  </description>
+  <pkgname>massif-visualizer</pkgname>
+  <launchable type="desktop-id">org.kde.massif-visualizer.desktop</launchable>
+  <icon width="64" type="cached" height="64">massif-visualizer.png</icon>
+  <icon height="128" type="cached" width="128">massif-visualizer.png</icon>
+  <id>org.kde.massif-visualizer.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Massif-Visualizer</name>
+  <name lang="ast">Massif-Visualizer</name>
+  <name lang="ca">Massif-Visualizer</name>
+  <name lang="ca-valencia">Massif-Visualizer</name>
+  <name lang="cs">Massif-Visualizer</name>
+  <name lang="de">Massif-Visualizer</name>
+  <name lang="el">Massif-Visualizer</name>
+  <name lang="en-GB">Massif-Visualizer</name>
+  <name lang="es">Massif-Visualizer</name>
+  <name lang="et">Massif-Visualizer</name>
+  <name lang="fi">Massif-visualisointi</name>
+  <name lang="gl">Visualizador de Massif</name>
+  <name lang="it">Massif-Visualizer</name>
+  <name lang="ko">Massif 시각화 도구</name>
+  <name lang="nl">Massif-Visualizer</name>
+  <name lang="nn">Massif-visualisering</name>
+  <name lang="pl">Wizualizacja-Massif</name>
+  <name lang="pt">Visualizador do Massif</name>
+  <name lang="pt-BR">Visualizador de Massif</name>
+  <name lang="sk">Massif-Visualizer</name>
+  <name lang="sv">Massif visualisering</name>
+  <name lang="uk">Візуалізатор Massif</name>
+  <name lang="x-test">xxMassif-Visualizerxx</name>
+  <name lang="zh-CN">Massif-Visualizer</name>
+  <summary>A visualizer for Valgrind Massif data files</summary>
+  <summary lang="ca">Un visualitzador pels fitxers de dades Massif del Valgrind</summary>
+  <summary lang="ca-valencia">Un visualitzador pels fitxers de dades Massif del Valgrind</summary>
+  <summary lang="es">Un visor para archivos de datos Massif de Valgrind</summary>
+  <summary lang="gl">Un visualizador para ficheiros de datos Massif de Valgrind</summary>
+  <summary lang="it">Un visualizzatore di file di dati dello strumento Massif di Valgrind</summary>
+  <summary lang="nl">Een programma voor het zichtbaar maken van gegevensbestanden van Valgrind Massif</summary>
+  <summary lang="pl">Wizualizacja dla plików Valgrind Massif</summary>
+  <summary lang="pt">Um visualizador dos ficheiros dos dados do Massif para o Valgrind</summary>
+  <summary lang="sk">Vizualizátor pre dátové súbory Valgrind Massif</summary>
+  <summary lang="sv">Ett visualiseringsverktyg för Valgrind Massif datafiler</summary>
+  <summary lang="uk">Засіб візуалізації файлів даних Massif Valgrind</summary>
+  <summary lang="x-test">xxA visualizer for Valgrind Massif data filesxx</summary>
+  <url type="homepage">https://phabricator.kde.org/source/massif-visualizer/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=massif-visualizer</url>
+  <url type="help">https://mail.kde.org/mailman/listinfo/massif-visualizer</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>http://milianw.de/files/massif-visualizer/memory-chart.png</image>
+      <caption>Interactive chart of memory consumption over time.</caption>
+      <caption lang="ca">Gràfic interactiu del consum de memòria al llarg del temps.</caption>
+      <caption lang="ca-valencia">Gràfic interactiu del consum de memòria al llarg del temps.</caption>
+      <caption lang="de">Interaktive Diagramme des Speicherverbrauch über Zeiträume.</caption>
+      <caption lang="el">Διαδραστικό χρονοδιάγραμμα κατανάλωσης μνήμης.</caption>
+      <caption lang="en-GB">Interactive chart of memory consumption over time.</caption>
+      <caption lang="es">Mapa interactivo del consumo de memoria a lo largo del tiempo.</caption>
+      <caption lang="et">Interaktiivne mälutarvet ajas näitav diagramm</caption>
+      <caption lang="fi">Vuorovaikuttainen kaavio muistinkulutukselta ajan funktiona.</caption>
+      <caption lang="gl">Gráfica interactiva de consumo de memoria no tempo.</caption>
+      <caption lang="it">Grafico interattivo del consumo di memoria nel tempo.</caption>
+      <caption lang="ko">시간별 메모리 사용량 차트 표시.</caption>
+      <caption lang="nl">Interactieve grafiek van geheugengebruik in de tijd.</caption>
+      <caption lang="nn">Interaktivt diagram som viser minnebruken over tid.</caption>
+      <caption lang="pl">Interaktywny wykres wykorzystania pamięci w czasie.</caption>
+      <caption lang="pt">Gráfico interactivo do consumo de memória ao longo do tempo.</caption>
+      <caption lang="pt-BR">Gráfico interativo do consumo de memória usada pelo aplicativo.</caption>
+      <caption lang="sk">Interaktívny graf použitia pamäte v čase.</caption>
+      <caption lang="sv">Interaktivt diagram av minnesanvändning över tid.</caption>
+      <caption lang="uk">Інтерактивна діаграма споживання пам’яті.</caption>
+      <caption lang="x-test">xxInteractive chart of memory consumption over time.xx</caption>
+    </screenshot>
+    <screenshot>
+      <image>http://milianw.de/files/massif-visualizer/callgraph.png</image>
+      <caption>Detailed snapshot analysis with callgraph visualization (requires KGraphViewer).</caption>
+      <caption lang="ca">Anàlisi detallat de les captures amb visualització de «callgraph» (requereix el KGraphViewer).</caption>
+      <caption lang="ca-valencia">Anàlisi detallat de les captures amb visualització de «callgraph» (requereix el KGraphViewer).</caption>
+      <caption lang="el">Λεπτομερής ανάλυση στιγμιοτύπου με οπτική αναπαράσταση γράφου (απαιτεί KGraphViewer).</caption>
+      <caption lang="en-GB">Detailed snapshot analysis with callgraph visualisation (requires KGraphViewer).</caption>
+      <caption lang="es">Análisis detallado de instantáneas con visualización de «callgraph» (necesita KGraphViewer).</caption>
+      <caption lang="et">Üksikasjalik hetktõmmise analüüs callgraphi visualiseerimisega (vajab KGraphViewerit)</caption>
+      <caption lang="fi">Yksityiskohtainen tilannevedosanalyysi kutsukaavion visualisoinnilla (tarvitsee KGraphViewerin).</caption>
+      <caption lang="gl">Análise detallada de capturas con visualización da gráfica de chamadas (require KGraphViewer).</caption>
+      <caption lang="it">Analisi dettagliata delle istantanee con visualizzazione del grafico delle chiamata (richiede KGraphViewer).</caption>
+      <caption lang="ko">호출 그래프 시각화 및 자세한 스냅샷 분석(KGraphViewer 필요).</caption>
+      <caption lang="nl">Gedetailleerde analyses van momentopnamen met callgraph-visualisatie (vereist KGraphViewer).</caption>
+      <caption lang="nn">Detaljert analyse av minnebilete med kallgraf-visualisering (krev KGraphViewer).</caption>
+      <caption lang="pl">Szczegółowe analizy zrzutów z wizualizacją wykresu wywołań (wymaga KGraphViewer).</caption>
+      <caption lang="pt">Análise detalhada das capturas com a visualização do grafo de chamadas (precisa do KGraphViewer).</caption>
+      <caption lang="pt-BR">Análise detalhada das capturas com a visualização do grafo de chamadas (é necessário o KGraphViewer).</caption>
+      <caption lang="sk">Detailná snímka analýzy s vizualizáciou callgraph (vyžaduje KGraphViewer).</caption>
+      <caption lang="sv">Detaljerad ögonblicksanalys med visualisering av anropsgraf (kräver Kgraphviewer).</caption>
+      <caption lang="uk">Докладний аналіз знімків із візуалізацією графу викликів (потребує KGraphViewer).</caption>
+      <caption lang="x-test">xxDetailed snapshot analysis with callgraph visualization (requires KGraphViewer).xx</caption>
+    </screenshot>
+    <screenshot>
+      <image>http://milianw.de/files/massif-visualizer/allocators.png</image>
+      <caption>Summary of peak memory consumption of all allocating functions.</caption>
+      <caption lang="ca">Resum dels pics de consum de memòria de totes les funcions d'assignació.</caption>
+      <caption lang="ca-valencia">Resum dels pics de consum de memòria de totes les funcions d'assignació.</caption>
+      <caption lang="el">Περίληψη κατανάλωσης αιχμών μνήμης για όλες τις διανεμημένες λειτουργίες.</caption>
+      <caption lang="en-GB">Summary of peak memory consumption of all allocating functions.</caption>
+      <caption lang="es">Sumario de picos de consumo de memoria de todas las funciones de asignación.</caption>
+      <caption lang="et">Kokkuvõte kõigi omistatud funktsioonide tipp-mälutarbest</caption>
+      <caption lang="fi">Yhteenveto kaikkien muistia varaavien funktioiden muistinkulutushuipusta.</caption>
+      <caption lang="gl">Resumo dos picos de consumo de memoria de todas as funcións de reserva de memoria.</caption>
+      <caption lang="it">Riepilogo del picco di consumo delle memoria per tutte le funzioni di allocazione.</caption>
+      <caption lang="ko">모든 할당된 함수의 메모리 소모 요약.</caption>
+      <caption lang="nl">Overzicht van pieken in geheugengebruik van alle functies voor toekennen.</caption>
+      <caption lang="nn">Samandrag av høgste minnebruk for alle allokerande funksjonar.</caption>
+      <caption lang="pl">Podsumowanie szczytowego wykorzystania pamięci wszystkich przydzielonych funkcji.</caption>
+      <caption lang="pt">Resumo do consumo de pico da memória de todas as funções de alocação.</caption>
+      <caption lang="pt-BR">Resumo do consumo de pico da memória de todas as funções de alocação.</caption>
+      <caption lang="sk">Prehľad vrcholu použitia pamäte všetkých alokačných funkcií.</caption>
+      <caption lang="sv">Sammanfattning av största minnesanvändning för alla allokerande funktioner.</caption>
+      <caption lang="uk">Резюме щодо пікового споживання пам’яті для всіх функцій отримання об’ємів пам’яті.</caption>
+      <caption lang="x-test">xxSummary of peak memory consumption of all allocating functions.xx</caption>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>massif-visualizer</binary>
+  </provides>
+</component>

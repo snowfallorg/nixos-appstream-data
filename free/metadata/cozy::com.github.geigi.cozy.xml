@@ -1,0 +1,1140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>
+      Do you like audio books? Then lets get cozy!
+      </p>
+    <p>
+      Cozy is a audio book player. Here are some of the features:
+      </p>
+    <ul>
+      <li>Import all your audio books into Cozy to browse them comfortably</li>
+      <li>Listen to your DRM free mp3, m4b, m4a (aac, ALAC, …), flac, ogg and wav audio books</li>
+      <li>Remembers your playback position</li>
+      <li>Sleep timer</li>
+      <li>Playback speed control for each book individually</li>
+      <li>Search your library</li>
+      <li>Multiple storage location support</li>
+      <li>Offline Mode! This allows you to keep an audio book on your internal storage if you store your audio books on an external or network drive. Perfect to listen to on the go!</li>
+      <li>Drag and Drop to import new audio books</li>
+      <li>Sort your audio books by author, reader and name</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>Máte rádi audioknihy? Tak si je užijte s Cozy!</p>
+    <ul>
+      <li>Poslech mp3, m4b, m4a (aac, ALAC, ...), flac, ogg a wav audioknih bez DRM</li>
+      <li>Zapamatování pozice přehrávání</li>
+      <li>Individuální rychlost přehrávání pro každou knihu</li>
+      <li>Prohledávání vaší knihovny</li>
+      <li>Podpora více úložných míst</li>
+      <li>Režim offline! Ten vám umožní ponechat audioknihu v interním úložišti, pokud máte audioknihy uložené na externím nebo síťovém disku. Ideální pro poslech na cestách!</li>
+      <li>Import nových audioknih přetažením</li>
+      <li>Třídění audioknih podle autora, čtenáře a názvu</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>Du magst Hörbücher? Dann bist du mit Cozy richtig!</p>
+    <p>Cozy ist ein Hörbuchspieler. Hier sind einige der Merkmale:</p>
+    <ul>
+      <li>Importieren Sie alle ihre Hörbücher nach Cozy um sie leicht zu durchsuchen</li>
+      <li>Höre deine DRM-freien mp3, m4b, m4a (aac, ALAC, ...), flac, ogg und wav Hörbücher an</li>
+      <li>Merkt sich, wo du das letzte mal aufgehört hast</li>
+      <li>Schlafen Timer</li>
+      <li>Die Wiedergabegeschwindigkeit kann für jedes Hörbuch separat eingestellt werden</li>
+      <li>Durchsuche deine Bibliothek</li>
+      <li>Unterstützung mehrer Speicherorte</li>
+      <li>Offline Modus: Er erlaubt es dir Hörbücher, die du auf einer externen Festplatte oder auf einer Netzwerkfestplatte gespeichert hast, für unterwegs auf deinem internen Speicher zu speichern.</li>
+      <li>Drag&amp;Drop um neue Hörbücher zu impoertieren</li>
+      <li>Sortiere deine Hörbücher nach Autor, Leser und Name</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>¿Le gustan los audiolibros? Entonces, ¡instale Cozy!</p>
+    <ul>
+      <li>Escuchar sus audiolibros sin DRM en mp3, m4a (aac, ALAC, ..:), flac, ogg y wav.</li>
+      <li>Recuerda la posición de reproducción.</li>
+      <li>Control de la velocidad de reproducción para cada libro de forma individual.</li>
+      <li>Buscar en la biblioteca</li>
+      <li>Soporta varias ubicaciones de almacenamiento.</li>
+      <li>¡Modo fuera de línea! Le permite mantener un audiolibro en el almacenamiento interno si los almacena en unidades externas o de red. ¡Perfecto para escuchar en cualquier parte!</li>
+      <li>Arrastrar y soltar para importar nuevos audiolibros.</li>
+      <li>Ordenar los libros por autor, lector o nombre.</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>Pidätkö äänikirjoista? Ota Cozy haltuun!</p>
+    <ul>
+      <li>Kuuntele DRM-vapaita mp3, m4b (aac, ALAC, ...), flac, ogg ja wav-tiedostomuotoisia äänikirjojasi</li>
+      <li>Ohjelma muistaa kohdan johon toisto on jäänyt</li>
+      <li>Toiston nopeudenhallinta jokaiselle kirjalle yksilöllisesti</li>
+      <li>Etsi kirjastostasi</li>
+      <li>Monitallennussijaintituki</li>
+      <li>Yhteydetön tila! Tämä mahdollistaa äänikirjojesi säilyttämisen sisäisessä tallennustilassa mikäli varastoit äänikirjoja ulkoiseen verkkoasemaan. Sopii hyvin liikkuvaan kuunteluun! </li>
+      <li>Raahaa ja pudota tuodaksesi kirjastoon uusia äänikirjoja</li>
+      <li>Lajittele äänikirjasi tekijän, lukijan ja nimen mukaan</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>Vous aimez les livres audio ? On est cozy !</p>
+    <ul>
+      <li>Écoutez vos livres audio sans DRM au format mp3, m4b, m4a (aac, ALAC, …), flac, ogg et wav</li>
+      <li>Mémorisation de votre position de lecture</li>
+      <li>Contrôle de la vitesse de lecture pour chaque livre</li>
+      <li>Recherchez dans votre bibliothèque</li>
+      <li>Prise en charge d’emplacements de stockage multiples</li>
+      <li>Mode hors-ligne ! Ceci vous permet de conserver vos livres audio sur votre espace de stockage local si vous les stockez sur un emplacement réseau ou externe. Parfait pour la lecture en déplacement !</li>
+      <li>Glissez et déposez pour importer de nouveaux livres audio</li>
+      <li>Triez vos livres audio par auteur, narrateur et nom</li>
+    </ul>
+  </description>
+  <description lang="gl">
+    <p>Gústanlle os audiolibros? Entón instale Cozy!</p>
+    <p>Cozy é un reprodutor de audiolibros. Conta coas seguintes características:</p>
+    <ul>
+      <li>Importe todos os audiolibros en Cozy para exploralos cómodamente</li>
+      <li>Escoitar os seus audiolibros sen DRM en mp3, m4a (aac, ALAC, ..:), flac, ogg e wav.</li>
+      <li>Recorde a posición de reprodución.</li>
+      <li>Temporizador para durmir</li>
+      <li>Control da velocidade de reprodución para cada libro de forma individual.</li>
+      <li>Buscar na biblioteca</li>
+      <li>Admite varias localizacións de almacenamento.</li>
+      <li>Modo fóra de liña! Permítelle manter un audiolibro no almacenamiento interno se os almacena en unidades externas ou de rede. Perfecto para escoitar en calquera parte!</li>
+      <li>Arrastre e solte para importar novos audiolibros.</li>
+      <li>Ordenar os libros por autor, lector ou nome.</li>
+    </ul>
+  </description>
+  <description lang="hi">
+    <p>क्या आपकी ऑडियो पुस्तकों में रूचि हैं? यदि हाँ तो Cozy उपयोग करें!</p>
+    <p>Cozy एक आधुनिक ऑडियो पुस्तक प्लेयर है। इसकी विशेषताएँ निम्नलिखित हैं :</p>
+    <ul>
+      <li>अपनी ऑडियो पुस्तकों के सरल प्रबंधन हेतु उन सभी को Cozy में आयात करें</li>
+      <li>डीआरएम मुक्त निःशुल्क mp3, m4b, m4a (aac, ALAC, …), flac, ogg व wav ऑडियो पुस्तकें श्रवण करें</li>
+      <li>वाचक स्थिति स्मरण</li>
+      <li>निद्रा टाइमर</li>
+      <li>प्रत्येक पुस्तक हेतु वाचक गति नियंत्रण</li>
+      <li>संग्रह में खोजें</li>
+      <li>एकाधिक संचय स्थान समर्थन</li>
+      <li>ऑफलाइन मोड! इस द्वारा आप ऑडियो पुस्तकें आंतरिक स्थान पर संचित कर सकते हैं यदि वे बाह्य या नेटवर्क ड्राइव पर हैं। श्रवण करें कभी भी कहीं भी!</li>
+      <li>माउस द्वारा ड्रैग कर नवीन ऑडियो पुस्तकें आयात करें</li>
+      <li>ऑडियो पुस्तकें लेखक, वाचक व नाम से अनुक्रमित करें</li>
+    </ul>
+  </description>
+  <description lang="hr">
+    <p>Voliš audio knjige? Koristi Cozy!</p>
+    <ul>
+      <li>Slušaj audio knjige u formatima mp3, m4b, m4a (aac, ALAC, …), flac, ogg i wav</li>
+      <li>Program pamti položaj reprodukcije</li>
+      <li>Upravljanje brzinom reprodukcije za svaku knjigu pojedinačno</li>
+      <li>Pretraži tvoju zbirku</li>
+      <li>Podrška za višestruka spremišta</li>
+      <li>Izvanmrežni način rada! Omogućuje spremanje audio knjiga u internom spremištu, ako se audio knjige spreme na vanjski ili mrežni pogon. Savršeno za slušanje na putu!</li>
+      <li>Uvoz novih audio knjiga pomoću povuci-i-ispusti</li>
+      <li>Razvrstavanje audio knjiga po autoru, čitaču i imenu</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>Ti piacciono gli audiolibri?  Allora mettiamoci comodi!</p>
+    <p>Cosy è un lettore di audiolibri. Ecco alcune delle caratteristiche:</p>
+    <ul>
+      <li>Importa tutti i tuoi audiolibri in Cosy per sfogliarli comodamente</li>
+      <li>Ascolta i tuoi audiolibri DRM free mp3, m4b, m4a (aac, ALAC, ...), flac, ogg e wav</li>
+      <li>Ricorda la posizione di riproduzione</li>
+      <li>Timer</li>
+      <li>Controllo della velocità di riproduzione per ogni libro individualmente</li>
+      <li>Cerca nella tua libreria</li>
+      <li>Supporto per più posizioni di archiviazione</li>
+      <li>Modalità offline! Ciò ti consente di conservare un audiolibro nella memoria interna se archivi i tuoi audiolibri su un'unità esterna o di rete. Perfetto da ascoltare in movimento!</li>
+      <li>Trascina e rilascia per importare nuovi audio libri</li>
+      <li>Ordina i tuoi audiolibri per autore, lettore e nome</li>
+    </ul>
+  </description>
+  <description lang="ms_MY">
+    <p>Anda suka mendengar buku audio? Jom dapatkan cozy!</p>
+    <ul>
+      <li>Dengar buku audio mp3, m4b, m4a (aac, ALAC, …), flac, ogg and wav yang bebas DRM</li>
+      <li>Ingat kedudukan main balik anda</li>
+      <li>Kawal kelajuan main balik untuk setiap buku secara individu</li>
+      <li>Gelintar pustaka anda</li>
+      <li>Sokongan lokasi storan berbilang</li>
+      <li>Mod luar talian! Ia membolehkan anda menyimpan buku audio anda ke dalam storan dalaman anda sekiranya anda menyimpan buku audio pada pemacu luar atau rangkaian. Mudah mendengar ketika berada di luar!</li>
+      <li>Serert dan Lepas untuk mengimport buku audio baharu</li>
+      <li>Isih buku audio anda mengikut pengarang, pembaca dan nama</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>Speel je graag luisterboeken af? Dan wil je cozy!</p>
+    <p>Cozy is een luisterboekspeler. Hieronder vind je enkele kenmerken:</p>
+    <ul>
+      <li>Importeer al je luisterboeken om ze ordelijk te kunnen bekijken</li>
+      <li>Speel je drm-vrije luisterboeken af (mp3, m4a (aac, alac, …), flac, ogg en wav)</li>
+      <li>De afspeelpositie wordt opgeslagen</li>
+      <li>Tijdklok</li>
+      <li>Kies bij elk boek de gewenste afspeelsnelheid</li>
+      <li>Doorzoek je bibliotheek</li>
+      <li>Ondersteuning voor meerdere opslaglocaties</li>
+      <li>Offline-modus! Hiermee kun je een luisterboek lokaal opslaan als je ze normaal extern opslaat. Ideaal om onderweg te kunnen luisteren!</li>
+      <li>Importeer luisterboeken middels slepen-en-neerzetten</li>
+      <li>Sorteer je luisterboeken op auteur, voorlezer en naam</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <ul>
+      <li>Lembra-se da posição da última reprodução</li>
+      <li>Controle de velocidade de reprodução para cada livro individualmente</li>
+      <li>Procurarr na sua biblioteca</li>
+      <li>Suporte para localizações de armazenamento múltiplas</li>
+      <li>Organize os seus áudio livros por autor, narrador e nome</li>
+    </ul>
+  </description>
+  <description lang="pt_BR">
+    <p>Você gosta de audiolivros? Então aconchegue-se com o Cozy!</p>
+    <ul>
+      <li>Ouça seus audiolivros livres de DRM em mp3, m4b, m4a (aac, ALAC, ...), flac, ogg e wav</li>
+      <li>Lembra da última posição de reprodução</li>
+      <li>Controle da velocidade de reprodução para cada livro individualmente</li>
+      <li>Buscar na sua biblioteca</li>
+      <li>Suporte a vários locais de armazenamento</li>
+      <li>Modo desconectado! Isso permite que você mantenha um audiolivro em seu armazenamento interno se você armazenar seus audiolivros em uma unidade externa ou de rede. Perfeito para ouvir em qualquer lugar!</li>
+      <li>Arraste e solve para importar novos audiolivros</li>
+      <li>Ordene seus audiolivros por autor, narrador e nome</li>
+    </ul>
+  </description>
+  <description lang="ru">
+    <p>Тебе нравятся аудиокниги? Тогда устраивайся поудобнее!</p>
+    <ul>
+      <li>Слушайте ваши бесплатные mp3, m4a (aac, ALAC, ...), flac, ogg и wav аудио книги</li>
+      <li>Запоминает позицию воспроизведения</li>
+      <li>Управление скоростью воспроизведения отдельно для каждой книги</li>
+      <li>Поиск в вашей аудиобиблиотеке</li>
+      <li>Поддержка нескольких хранилищ</li>
+      <li>Автономный режим! Это позволяет вам хранить аудиокниги в памяти устройства, если вы храните аудиокниги на внешнем или сетевом диске. Идеально, чтобы слушать на ходу!</li>
+      <li>Для импорта новых аудиокниг просто перетащите книги в окно программы</li>
+      <li>Сортируйте ваши аудиокниги по автору, диктору и имени</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <ul>
+      <li>Kommer ihåg var du slutade lyssna.</li>
+      <li>Kontroll av uppspelningshastighet, individuellt för varje bok.</li>
+      <li>Sök i ditt bibliotek.</li>
+      <li>Stöd för flera lagringsplatser.</li>
+      <li>Sortera dina ljudböcker efter författare, uppläsare och namn.</li>
+    </ul>
+  </description>
+  <description lang="te">
+    <p>మీకు ధ్వని పుస్తకాలు నచ్చిందా? అప్పుడు కొజి పొందండి!</p>
+    <ul>
+      <li>మీ DRM ఉచిత mp3, m4b, m4a (aac, ALAC,…), flac, ogg మరియు wav ధ్వని పుస్తకాలను వినండి</li>
+      <li>మీ ప్లేబ్యాక్ స్థానాన్ని గుర్తు చేస్తుంది</li>
+      <li>ప్రతి ఒక్క పుస్తకానికి ప్లేబ్యాక్ వేగ నియంత్రణ</li>
+      <li>మీ గ్రంధాలయంని శోధించండి</li>
+      <li>బహుళ నిల్వ స్థాన మద్దతు</li>
+      <li>ఆఫ్‌లైన్ మోడ్! మీరు మీ ధ్వని పుస్తకాలను బయటి లేదా నెట్‌వర్క్ డ్రైవ్‌లో నిల్వ చేస్తే మీ అంతర్గత నిల్వలో ధ్వని పుస్తకాన్ని ఉంచడానికి ఇది మిమ్మల్ని అనుమతిస్తుంది. ప్రయాణంలో వినడానికి పరిపూర్ణమైనది!</li>
+      <li>క్రొత్త ధ్వని పుస్తకాలను దిగుమతి చేయడానికి లాగండి మరియు వదలండి</li>
+      <li>మీ ధ్వని పుస్తకాలను రచయిత, రీడర్ మరియు పేరు ప్రకారం క్రమబద్ధీకరించండి</li>
+    </ul>
+  </description>
+  <description lang="tr">
+    <p>Sesli kitapları sever misin? O zaman cozy'yi deneyelim! </p>
+    <ul>
+      <li>DRM içermeyen mp3, m4b, m4a (aac, ALAC, ...) flac, ogg ve wav uzantılı sesli kitaplarınızı dinleyin</li>
+      <li>Son oynatma konumunuzu hatırlar</li>
+      <li>Her kitap için ayrıca düzenlenebilen oynatma hızı denetimi</li>
+      <li>Kütüphanende ara</li>
+      <li>Çoklu depolama konumu desteği</li>
+      <li>Çevrimdışı mod! Bu, sesli kitaplarınızı harici veya ağ sürücüsünde depoluyorsanız, dahili depolamanızda bir sesli kitap tutmanıza olanak tanır. Hareket halindeyken dinlemek için mükemmel!</li>
+      <li>Yeni sesli kitap içe aktarmak için sürükle ve bırak</li>
+      <li>Sesli kitapları yazarına, seslendirenine veya adına göre sıralayabilirsiniz</li>
+    </ul>
+  </description>
+  <pkgname>cozy</pkgname>
+  <launchable type="desktop-id">com.github.geigi.cozy.desktop</launchable>
+  <icon height="64" type="cached" width="64">com.github.geigi.cozy.png</icon>
+  <icon width="128" type="cached" height="128">com.github.geigi.cozy.png</icon>
+  <id>com.github.geigi.cozy</id>
+  <metadata_license>CC0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>Cozy</name>
+  <name lang="tr">Cozy</name>
+  <name lang="te">కొజి</name>
+  <name lang="sv">Cozy</name>
+  <name lang="ru">Cozy</name>
+  <name lang="pt_BR">Cozy</name>
+  <name lang="pt">Cozy</name>
+  <name lang="nl">Cozy</name>
+  <name lang="ms_MY">Cozy</name>
+  <name lang="it">Cozy</name>
+  <name lang="hr">Cozy</name>
+  <name lang="hi">Cozy</name>
+  <name lang="gl">Cozy</name>
+  <name lang="fr">Cozy</name>
+  <name lang="fi">Cozy</name>
+  <name lang="es">Cozy</name>
+  <name lang="de">Cozy</name>
+  <name lang="cs">Cozy</name>
+  <summary>Listen to audio books</summary>
+  <summary lang="nl">Speel luisterboeken af</summary>
+  <summary lang="it">Ascolta gli audiolibri</summary>
+  <summary lang="hi">ऑडियो पुस्तकें श्रवण करें</summary>
+  <summary lang="gl">Escoitar audiolibros</summary>
+  <summary lang="de">Hören Sie Hörbücher</summary>
+  <provides>
+    <binary>com.github.geigi.cozy</binary>
+  </provides>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/geigi/cozy/img/img/screenshot1.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/geigi/cozy/img/img/screenshot2.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/geigi/cozy/img/img/screenshot3.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/geigi/cozy/img/img/screenshot4.png</image>
+    </screenshot>
+  </screenshots>
+  <developer_name>Julian Geywitz</developer_name>
+  <developer_name lang="tr">Julian Geywitz</developer_name>
+  <developer_name lang="te">జూలియన్ గేవిట్జ్</developer_name>
+  <developer_name lang="sv">Julian Geywitz</developer_name>
+  <developer_name lang="ru">Julian Geywitz</developer_name>
+  <developer_name lang="pt_BR">Julian Geywitz</developer_name>
+  <developer_name lang="pt">Julian Geywitz</developer_name>
+  <developer_name lang="nl">Julian Geywitz</developer_name>
+  <developer_name lang="ms_MY">Julian Geywitz</developer_name>
+  <developer_name lang="it">Julian Geywitz</developer_name>
+  <developer_name lang="hr">Julian Geywitz</developer_name>
+  <developer_name lang="hi">जूलियन गेविट्ज़</developer_name>
+  <developer_name lang="gl">Julian Geywitz</developer_name>
+  <developer_name lang="fr">Julian Geywitz</developer_name>
+  <developer_name lang="fi">Julian Geywitz</developer_name>
+  <developer_name lang="es">Julian Geywitz</developer_name>
+  <developer_name lang="de">Julian Geywitz</developer_name>
+  <developer_name lang="cs">Julian Geywitz</developer_name>
+  <url type="homepage">https://cozy.sh</url>
+  <url type="bugtracker">https://github.com/geigi/cozy/issues</url>
+  <url type="help">https://github.com/geigi/cozy/issues</url>
+  <url type="donation">https://www.patreon.com/geigi</url>
+  <update_contact>cozy@geigi.de</update_contact>
+  <custom>
+    <value key="Purism::form_factor">workstation</value>
+    <value key="Purism::form_factor">mobile</value>
+  </custom>
+  <releases>
+    <release timestamp="1641661352" version="1.2.0">
+      <description>
+        <p>
+        This release features a redesigned preference window. All settings can now be searched. Good news for mobile users too: the redesign should work a lot better on mobile devices now.
+        </p>
+        <p lang="nl">Deze uitgave bevat een vernieuwd voorkeurenvenster. Alle voorkeuren kunnen voortaan worden doorzocht en worden voortaan beter getoond op mobiele apparaten.</p>
+        <p lang="gl">Esta publicación conta con unha xanela de preferencias redeseñada. Agora pode buscar en todas as preferencias. Boas novas para os usuarios de móbil: o redeseño debería funcionar moito mellor en dispositivos móbiles.</p>
+        <p lang="de">Diese Version kommt mit einem neuen Einstellungsfenster. Dort kann nun auch nach Einstellungen gesucht werden. Für Nutzer mobiler Geräte gibt es auch gute Neuigkeiten: das neue Einstellungsfenster funktioniert dort viel besser.</p>
+        <ul>
+          <li>Redesigned preference window</li>
+          <li lang="nl">Vernieuwd voorkeurenvenster</li>
+          <li lang="gl">Xanela de preferencias redeseñada</li>
+          <li lang="de">Neues Einstellungsfenster</li>
+          <li>Preferences can now be searched</li>
+          <li lang="nl">Voorkeuren kunnen voortaan worden doorzocht</li>
+          <li lang="gl">Agora as preferencias poden buscarse</li>
+          <li lang="de">Es kann nun nach Einstellungen gesucht werden</li>
+          <li>Fix: position slider did not update the time correctly after an import scan</li>
+          <li lang="nl">[OPGELOST] De positieschuifbalk toonde na het importeren een onjuiste tijd</li>
+          <li lang="gl">Arranxo: a posición do desprazador non se actualiza correctamente despois dunha análise de importado</li>
+          <li lang="de">Fix: der Positions-Slider hat die Zeit nach dem Aktualisieren der Bibliothek nicht mehr aktualisiert</li>
+          <li>Fix: after an import scan the library did not display the currently playing book correctly</li>
+          <li lang="nl">[OPGELOST] Het huidige boek werd na een import niet goed getoond</li>
+          <li lang="gl">Arranxo: despois dunha análise de importado a biblioteca non mostra o libro reproducíndose actualmente de forma correcta</li>
+          <li lang="de">Fix: nach dem Aktualisieren der Bibliothek wurde im aktuell abgespieltem Album der Status nicht korrekt angezeigt</li>
+          <li>Multiple small bug fixes</li>
+          <li lang="nl">Meerdere kleine fouten opgelost</li>
+          <li lang="it">Molteplici correzioni di piccoli bug</li>
+          <li lang="hi">अनेकों लघु सुधार</li>
+          <li lang="gl">Varios arranxos de erros pequenos</li>
+          <li lang="de">Verschiedene kleine Fehlerbehebungen</li>
+          <li>As always, updated translations thanks to all of the translators!</li>
+          <li lang="tr">Her zaman olduğu gibi, tüm çevirmenler sayesinde güncellenmiş çeviriler! </li>
+          <li lang="te">ఎప్పటిలాగే, నవీకరించబడిన అనువాదాలు అనువాదకులందరికీ ధన్యవాదాలు!</li>
+          <li lang="ru">Как обычно, обновлены все переводы. Благодарим всех переводчиков!</li>
+          <li lang="pt_BR">Como sempre, traduções atualizadas graças a todos os tradutores!</li>
+          <li lang="nl">Zoals altijd zijn er weer vertalingen bijgewerkt, met dank aan alle vertalers!</li>
+          <li lang="ms_MY">Seperti biasa, kemas kini terjemahan terima kasih para penterjemah!</li>
+          <li lang="it">Come sempre, traduzioni aggiornate grazie a tutti i traduttori!</li>
+          <li lang="hi">हमेशा की भाँति अनुवाद अपडेट हेतु सभी अनुवादकों को धन्यवाद!</li>
+          <li lang="gl">Como sempre, traducións actualizadas grazas a todos os tradutores!</li>
+          <li lang="fr">Comme toujours, de nouvelles traductions grâce à tous les traducteurs !</li>
+          <li lang="fi">Kuten aina, päivitetyt kielikäännökset ovat täällä; kiitokset kaikille suomentajille!</li>
+          <li lang="es">Como siempre, ¡traducciones actualizadas gracias a todos los traductores!</li>
+          <li lang="de">Wie immer, neue Übersetzungen dank allen Übersetzern!</li>
+        </ul>
+      </description>
+    </release>
+    <release timestamp="1640949259" version="1.1.3">
+      <description>
+        <p>
+        A small bugfix release which makes Cozy more reliable.
+        </p>
+        <p lang="tr">Cozy'i daha güvenilir yapan küçük bir hata düzeltme yayınlandı.</p>
+        <p lang="te">ఒక చిన్న బగ్‌ఫిక్స్ విడుదల ఇది కొజిని మరింత నమ్మదగినదిగా చేస్తుంది.</p>
+        <p lang="ru">Небольшое обновление, которое исправляет ошибки и улучшает надёжность приложения.</p>
+        <p lang="pt_BR">Uma pequena versão de correção de bug que torna o Cozy mais confiável.</p>
+        <p lang="nl">Een kleine uitgave met een paar foutoplossingen om Cozy betrouwbaarder te maken.</p>
+        <p lang="ms_MY">Satu keluaran pembaikan pepijat kecil yang menjadikan Cozy lebih diharap.</p>
+        <p lang="it">Una piccola versione con bugfix che rende Cozy più affidabile.</p>
+        <p lang="hi">Cozy की विश्वसनीयता उन्नत करने हेतु लघु सुधार युक्त संस्करण।</p>
+        <p lang="gl">Unha pequena corrección de erros que fai que Cozy sexa máis fiábel.</p>
+        <p lang="fr">Une petite sortie qui corrige certains bugs pour rendre Cozy plus fiable.</p>
+        <p lang="fi">Pienikokoinen virheenkorjauksiin perustuva julkaisu joka tekee Cozysta entistäkin luotettavamman.</p>
+        <p lang="es">Una pequeña corrección de errores que hace que Cozy sea más fiable.</p>
+        <p lang="de">Diese Version macht Cozy ein Stück mehr zuverlässiger.</p>
+        <ul>
+          <li>Fresh playback speed and sleep timer icons (thanks jimmac)</li>
+          <li lang="nl">Vernieuwde afspeelsnelheids- en tijdklokpictogrammen (met dank aan @jimmac!)</li>
+          <li lang="it">Nuove icone della velocità di riproduzione e del timer di spegnimento (grazie jimmac)</li>
+          <li lang="hi">परिचालन गति व निद्रा टाइमर हेतु नवीन आइकन (धन्यवाद jimmac)</li>
+          <li lang="gl">Iconas novas para a velocidade de reprodución e temporizador de apagado (grazas jimmac)</li>
+          <li lang="de">Neue Symbole für Wiedergabegeschwindigkeit und Schlafmodus (Danke jimmac)</li>
+          <li>Refreshing the library now uses a more descriptive text (thanks jubalh)</li>
+          <li lang="nl">Bij het herladen van de verzameling wordt voortaan een betere tekst getoond (met dank aan @jubalh)</li>
+          <li lang="it">L'aggiornamento della libreria ora utilizza un testo più descrittivo (grazie jubalh)</li>
+          <li lang="gl">Ao actualizar a biblioteca agora úsanse textos máis descriptivos (grazas jubalh)</li>
+          <li lang="de">Das Aktualisieren der Bibliothek benutzt nun einen besseren Beschreibungstext (danke jubalh)</li>
+          <li>Multiple small bug fixes</li>
+          <li lang="nl">Meerdere kleine fouten opgelost</li>
+          <li lang="it">Molteplici correzioni di piccoli bug</li>
+          <li lang="hi">अनेकों लघु सुधार</li>
+          <li lang="gl">Varios arranxos de erros pequenos</li>
+          <li lang="de">Verschiedene kleine Fehlerbehebungen</li>
+          <li>As always, updated translations thanks to all of the translators!</li>
+          <li lang="tr">Her zaman olduğu gibi, tüm çevirmenler sayesinde güncellenmiş çeviriler! </li>
+          <li lang="te">ఎప్పటిలాగే, నవీకరించబడిన అనువాదాలు అనువాదకులందరికీ ధన్యవాదాలు!</li>
+          <li lang="ru">Как обычно, обновлены все переводы. Благодарим всех переводчиков!</li>
+          <li lang="pt_BR">Como sempre, traduções atualizadas graças a todos os tradutores!</li>
+          <li lang="nl">Zoals altijd zijn er weer vertalingen bijgewerkt, met dank aan alle vertalers!</li>
+          <li lang="ms_MY">Seperti biasa, kemas kini terjemahan terima kasih para penterjemah!</li>
+          <li lang="it">Come sempre, traduzioni aggiornate grazie a tutti i traduttori!</li>
+          <li lang="hi">हमेशा की भाँति अनुवाद अपडेट हेतु सभी अनुवादकों को धन्यवाद!</li>
+          <li lang="gl">Como sempre, traducións actualizadas grazas a todos os tradutores!</li>
+          <li lang="fr">Comme toujours, de nouvelles traductions grâce à tous les traducteurs !</li>
+          <li lang="fi">Kuten aina, päivitetyt kielikäännökset ovat täällä; kiitokset kaikille suomentajille!</li>
+          <li lang="es">Como siempre, ¡traducciones actualizadas gracias a todos los traductores!</li>
+          <li lang="de">Wie immer, neue Übersetzungen dank allen Übersetzern!</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.1.2" timestamp="1629458444">
+      <description>
+        <p>
+        A small bugfix release which makes Cozy more reliable.
+        </p>
+        <p lang="tr">Cozy'i daha güvenilir yapan küçük bir hata düzeltme yayınlandı.</p>
+        <p lang="te">ఒక చిన్న బగ్‌ఫిక్స్ విడుదల ఇది కొజిని మరింత నమ్మదగినదిగా చేస్తుంది.</p>
+        <p lang="ru">Небольшое обновление, которое исправляет ошибки и улучшает надёжность приложения.</p>
+        <p lang="pt_BR">Uma pequena versão de correção de bug que torna o Cozy mais confiável.</p>
+        <p lang="nl">Een kleine uitgave met een paar foutoplossingen om Cozy betrouwbaarder te maken.</p>
+        <p lang="ms_MY">Satu keluaran pembaikan pepijat kecil yang menjadikan Cozy lebih diharap.</p>
+        <p lang="it">Una piccola versione con bugfix che rende Cozy più affidabile.</p>
+        <p lang="hi">Cozy की विश्वसनीयता उन्नत करने हेतु लघु सुधार युक्त संस्करण।</p>
+        <p lang="gl">Unha pequena corrección de erros que fai que Cozy sexa máis fiábel.</p>
+        <p lang="fr">Une petite sortie qui corrige certains bugs pour rendre Cozy plus fiable.</p>
+        <p lang="fi">Pienikokoinen virheenkorjauksiin perustuva julkaisu joka tekee Cozysta entistäkin luotettavamman.</p>
+        <p lang="es">Una pequeña corrección de errores que hace que Cozy sea más fiable.</p>
+        <p lang="de">Diese Version macht Cozy ein Stück mehr zuverlässiger.</p>
+        <ul>
+          <li>Display an error banner if an error occurs while importing new files</li>
+          <li lang="pt_BR">Exibe um banner de erro se ocorrer um erro durante a importação de novos arquivos</li>
+          <li lang="nl">[VERBETERD] Er wordt voortaan een foutmelding getoond als nieuwe bestanden niet kunnen worden geïmporteerd</li>
+          <li lang="it">Visualizza un banner di errore se si verifica un errore durante l'importazione di nuovi file</li>
+          <li lang="hi">नवीन फाइलें आयात करते समय त्रुटि होने पर एक त्रुटि सूचक प्रदर्शित होगा</li>
+          <li lang="gl">Mostrar unha mensaxe de erro se se produce un erro ao importar ficheiros novos</li>
+          <li lang="fi">Tuo näytölle virheilmoitus mikäli ilmenee virhe uusia tiedostoja tuotaessa</li>
+          <li lang="es">Muestra un banner de error si se produce un error al importar nuevos archivos</li>
+          <li lang="de">Falls beim Importieren ein Fehler Auftritt wird der Benutzer nun benachrichtigt</li>
+          <li>The audiobook directory selector in the empty state has been replaced by a button to allow a narrow window even with long directory names</li>
+          <li lang="pt_BR">O seletor de diretório de audiolivros no estado vazio foi substituído por um botão para permitir uma janela estreita, mesmo com nomes de diretório longos</li>
+          <li lang="nl">[VERBETERD] Het luisterboekmapvenster toont voortaan alleen nog een knop zodat lange mapnamen ook op smalle vensters worden getoond</li>
+          <li lang="it">Il selettore di directory degli audiolibri nello stato vuoto è stato sostituito da un pulsante per consentire una finestra stretta anche con nomi di directory lunghi</li>
+          <li lang="hi">अप्रयुक्त होने पर अब ऑडियो पुस्तक चयन साधन के स्थान पर एक बटन प्रदर्शित होगा जिससे लंबे नामों वाली डायरेक्टरी हेतु संगत एक संकीर्ण विंडो उपस्थित होगी</li>
+          <li lang="gl">O selector de cartafol de audiolibros no estado baleiro foi reemprazado por un botón para permitir unha xanela máis estreita incluso con nomes de cartafol largos</li>
+          <li lang="fi">Äänikirjahakemiston valitsija joka ilmenee tyhjässä tilassa on korvattu painikkeella mahdollistaen kapean ikkunoinnin jopa pitkien hakemistonimien suhteen</li>
+          <li lang="es">El selector de directorios de audiolibros en estado vacío ha sido sustituido por un botón para permitir una ventana estrecha incluso con nombres de directorios largos</li>
+          <li lang="de">Die Auswahl des Hörbuch-Ordners beim ersten Start wurde mit einem Button ersetzt. Das erlaubt ein sehr schmales Fenster auch bei langen Ordnernamen.</li>
+          <li>Fix: multiple small UI issues</li>
+          <li lang="pt_BR">Correção: vários pequenos problemas de interface do usuário</li>
+          <li lang="nl">[OPGELOST] Meerdere schoonheidsfoutjes</li>
+          <li lang="it">Correzione: piccoli problemi dell'interfaccia utente</li>
+          <li lang="hi">सुधार : अनेकों लघु उपयोक्ता अंतरफलक संबंधी समस्याएँ</li>
+          <li lang="gl">Arranxo: varios problemas de IU pequenos</li>
+          <li lang="fi">Korjaus: useita pieniä käyttöliittymän ongelmia</li>
+          <li lang="es">Corrección: varios pequeños problemas de interfaz de usuario</li>
+          <li lang="de">Fix: mehrere kleine Probleme in der UI</li>
+          <li>Fix: the welcome screen now works properly on a mobile device</li>
+          <li lang="pt_BR">Correção: a tela de boas-vindas agora funciona corretamente em um dispositivo móvel</li>
+          <li lang="nl">[OPGELOST] Het welkomstscherm werkt voortaan ook op mobiele apparaten</li>
+          <li lang="it">Correzione: la schermata di benvenuto ora funziona correttamente su un dispositivo mobile</li>
+          <li lang="hi">सुधार : मोबाइल उपकरण पर स्वागत स्क्रीन अब उचित रूप से प्रदर्शित होगी</li>
+          <li lang="gl">Arranxo: a pantalla de benvida agora funciona correctamente en dispositivos móbiles</li>
+          <li lang="fi">Korjaus: tervetuloruutu toimii nyt kunnollisesti mobiililaitteessa</li>
+          <li lang="es">Corrección: la pantalla de bienvenida ahora funciona correctamente en un dispositivo móvil</li>
+          <li lang="de">Fix: das Willkommen-Fenster funktioniert nun auch auf einem mobilen Gerät</li>
+          <li>Fix: don't display the mobile library switcher when no files are imported</li>
+          <li lang="pt_BR">Correção: não exibir o alternador de biblioteca móvel quando nenhum arquivo for importado</li>
+          <li lang="nl">[OPGELOST] De bibliotheekschakelaar wordt niet meer getoond als er geen bestanden zijn geïmporteerd</li>
+          <li lang="it">Correzione: non visualizzato lo switcher della libreria mobile quando non vengono importati file</li>
+          <li lang="hi">सुधार : फाइल आयात न होने की स्थिति में मोबाइल पुस्तक संग्रह परिवर्तन साधन प्रदर्शित नहीं होगा</li>
+          <li lang="gl">Arranxo: non mostrar o trocador de biblioteca móbil cando non hai ficheiros importados</li>
+          <li lang="fi">Korjaus: älä näytä mobiilin kirjastonvaihtajaa kun yhtäkään tiedostoa ei tuoda</li>
+          <li lang="es">Corrección: no mostrar el conmutador de la biblioteca móvil cuando no hay archivos importados</li>
+          <li lang="de">Fix: das App Menü wird bei einem mobilen Gerät ausgeblendet falls keine Dateien importiert sind</li>
+          <li>Fix: in the book detail view the pause icon for a chapter remained even when the next chapter already started playing</li>
+          <li lang="pt_BR">Correção: na visualização de detalhes do livro o ícone de pausa para um capítulo permanecia mesmo quando o próximo capítulo já começou a ser reproduzido</li>
+          <li lang="nl">[OPGELOST] Het pauzeerpictogram in de detailweergave bleef zichtbaar bij het vorige hoofdstuk, ook als dat al was afgelopen</li>
+          <li lang="it">Correzione: nella visualizzazione dei dettagli del libro l'icona di pausa per un capitolo rimaneva anche quando era già iniziata la riproduzione del capitolo successivo</li>
+          <li lang="hi">सुधार : पुस्तक विवरण दृश्य में अगले अध्याय का वाचन आरंभ होने पर भी अध्याय वचन रोकने का आइकन उपस्थित होने की समस्या का निवारण</li>
+          <li lang="gl">Arranxo: na vista de detalle a icona de pausar un capítulo seguía incluso cando o seguinte capítulo xa comezou a reproducirse</li>
+          <li lang="fi">Korjaus: kirjan yksityiskohtaisessa lisätietonäkymässä taukokuvake säilyi edelleen vaikkakin uusi luku oli jo toistossa</li>
+          <li lang="es">Corrección: en la vista detallada del libro, el icono de pausa de un capítulo permanecía incluso cuando el siguiente capítulo ya había comenzado a reproducirse.</li>
+          <li lang="de">Fix: In der Buchübersicht wurde das Pause-Icon bei Kapiteln nicht zurück geändert wenn das nächste Kapitel abgespielt wurde</li>
+          <li>As always, updated translations thanks to all of the translators!</li>
+          <li lang="tr">Her zaman olduğu gibi, tüm çevirmenler sayesinde güncellenmiş çeviriler! </li>
+          <li lang="te">ఎప్పటిలాగే, నవీకరించబడిన అనువాదాలు అనువాదకులందరికీ ధన్యవాదాలు!</li>
+          <li lang="ru">Как обычно, обновлены все переводы. Благодарим всех переводчиков!</li>
+          <li lang="pt_BR">Como sempre, traduções atualizadas graças a todos os tradutores!</li>
+          <li lang="nl">Zoals altijd zijn er weer vertalingen bijgewerkt, met dank aan alle vertalers!</li>
+          <li lang="ms_MY">Seperti biasa, kemas kini terjemahan terima kasih para penterjemah!</li>
+          <li lang="it">Come sempre, traduzioni aggiornate grazie a tutti i traduttori!</li>
+          <li lang="hi">हमेशा की भाँति अनुवाद अपडेट हेतु सभी अनुवादकों को धन्यवाद!</li>
+          <li lang="gl">Como sempre, traducións actualizadas grazas a todos os tradutores!</li>
+          <li lang="fr">Comme toujours, de nouvelles traductions grâce à tous les traducteurs !</li>
+          <li lang="fi">Kuten aina, päivitetyt kielikäännökset ovat täällä; kiitokset kaikille suomentajille!</li>
+          <li lang="es">Como siempre, ¡traducciones actualizadas gracias a todos los traductores!</li>
+          <li lang="de">Wie immer, neue Übersetzungen dank allen Übersetzern!</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.1.1" timestamp="1629456144">
+      <description>
+        <p>
+        A small bugfix release which makes Cozy more reliable.
+        </p>
+        <p lang="tr">Cozy'i daha güvenilir yapan küçük bir hata düzeltme yayınlandı.</p>
+        <p lang="te">ఒక చిన్న బగ్‌ఫిక్స్ విడుదల ఇది కొజిని మరింత నమ్మదగినదిగా చేస్తుంది.</p>
+        <p lang="ru">Небольшое обновление, которое исправляет ошибки и улучшает надёжность приложения.</p>
+        <p lang="pt_BR">Uma pequena versão de correção de bug que torna o Cozy mais confiável.</p>
+        <p lang="nl">Een kleine uitgave met een paar foutoplossingen om Cozy betrouwbaarder te maken.</p>
+        <p lang="ms_MY">Satu keluaran pembaikan pepijat kecil yang menjadikan Cozy lebih diharap.</p>
+        <p lang="it">Una piccola versione con bugfix che rende Cozy più affidabile.</p>
+        <p lang="hi">Cozy की विश्वसनीयता उन्नत करने हेतु लघु सुधार युक्त संस्करण।</p>
+        <p lang="gl">Unha pequena corrección de erros que fai que Cozy sexa máis fiábel.</p>
+        <p lang="fr">Une petite sortie qui corrige certains bugs pour rendre Cozy plus fiable.</p>
+        <p lang="fi">Pienikokoinen virheenkorjauksiin perustuva julkaisu joka tekee Cozysta entistäkin luotettavamman.</p>
+        <p lang="es">Una pequeña corrección de errores que hace que Cozy sea más fiable.</p>
+        <p lang="de">Diese Version macht Cozy ein Stück mehr zuverlässiger.</p>
+        <ul>
+          <li>Display an error banner if an error occurs while importing new files</li>
+          <li lang="pt_BR">Exibe um banner de erro se ocorrer um erro durante a importação de novos arquivos</li>
+          <li lang="nl">[VERBETERD] Er wordt voortaan een foutmelding getoond als nieuwe bestanden niet kunnen worden geïmporteerd</li>
+          <li lang="it">Visualizza un banner di errore se si verifica un errore durante l'importazione di nuovi file</li>
+          <li lang="hi">नवीन फाइलें आयात करते समय त्रुटि होने पर एक त्रुटि सूचक प्रदर्शित होगा</li>
+          <li lang="gl">Mostrar unha mensaxe de erro se se produce un erro ao importar ficheiros novos</li>
+          <li lang="fi">Tuo näytölle virheilmoitus mikäli ilmenee virhe uusia tiedostoja tuotaessa</li>
+          <li lang="es">Muestra un banner de error si se produce un error al importar nuevos archivos</li>
+          <li lang="de">Falls beim Importieren ein Fehler Auftritt wird der Benutzer nun benachrichtigt</li>
+          <li>The audiobook directory selector in the empty state has been replaced by a button to allow a narrow window even with long directory names</li>
+          <li lang="pt_BR">O seletor de diretório de audiolivros no estado vazio foi substituído por um botão para permitir uma janela estreita, mesmo com nomes de diretório longos</li>
+          <li lang="nl">[VERBETERD] Het luisterboekmapvenster toont voortaan alleen nog een knop zodat lange mapnamen ook op smalle vensters worden getoond</li>
+          <li lang="it">Il selettore di directory degli audiolibri nello stato vuoto è stato sostituito da un pulsante per consentire una finestra stretta anche con nomi di directory lunghi</li>
+          <li lang="hi">अप्रयुक्त होने पर अब ऑडियो पुस्तक चयन साधन के स्थान पर एक बटन प्रदर्शित होगा जिससे लंबे नामों वाली डायरेक्टरी हेतु संगत एक संकीर्ण विंडो उपस्थित होगी</li>
+          <li lang="gl">O selector de cartafol de audiolibros no estado baleiro foi reemprazado por un botón para permitir unha xanela máis estreita incluso con nomes de cartafol largos</li>
+          <li lang="fi">Äänikirjahakemiston valitsija joka ilmenee tyhjässä tilassa on korvattu painikkeella mahdollistaen kapean ikkunoinnin jopa pitkien hakemistonimien suhteen</li>
+          <li lang="es">El selector de directorios de audiolibros en estado vacío ha sido sustituido por un botón para permitir una ventana estrecha incluso con nombres de directorios largos</li>
+          <li lang="de">Die Auswahl des Hörbuch-Ordners beim ersten Start wurde mit einem Button ersetzt. Das erlaubt ein sehr schmales Fenster auch bei langen Ordnernamen.</li>
+          <li>Fix: multiple small UI issues</li>
+          <li lang="pt_BR">Correção: vários pequenos problemas de interface do usuário</li>
+          <li lang="nl">[OPGELOST] Meerdere schoonheidsfoutjes</li>
+          <li lang="it">Correzione: piccoli problemi dell'interfaccia utente</li>
+          <li lang="hi">सुधार : अनेकों लघु उपयोक्ता अंतरफलक संबंधी समस्याएँ</li>
+          <li lang="gl">Arranxo: varios problemas de IU pequenos</li>
+          <li lang="fi">Korjaus: useita pieniä käyttöliittymän ongelmia</li>
+          <li lang="es">Corrección: varios pequeños problemas de interfaz de usuario</li>
+          <li lang="de">Fix: mehrere kleine Probleme in der UI</li>
+          <li>Fix: the welcome screen now works properly on a mobile device</li>
+          <li lang="pt_BR">Correção: a tela de boas-vindas agora funciona corretamente em um dispositivo móvel</li>
+          <li lang="nl">[OPGELOST] Het welkomstscherm werkt voortaan ook op mobiele apparaten</li>
+          <li lang="it">Correzione: la schermata di benvenuto ora funziona correttamente su un dispositivo mobile</li>
+          <li lang="hi">सुधार : मोबाइल उपकरण पर स्वागत स्क्रीन अब उचित रूप से प्रदर्शित होगी</li>
+          <li lang="gl">Arranxo: a pantalla de benvida agora funciona correctamente en dispositivos móbiles</li>
+          <li lang="fi">Korjaus: tervetuloruutu toimii nyt kunnollisesti mobiililaitteessa</li>
+          <li lang="es">Corrección: la pantalla de bienvenida ahora funciona correctamente en un dispositivo móvil</li>
+          <li lang="de">Fix: das Willkommen-Fenster funktioniert nun auch auf einem mobilen Gerät</li>
+          <li>Fix: don't display the mobile library switcher when no files are imported</li>
+          <li lang="pt_BR">Correção: não exibir o alternador de biblioteca móvel quando nenhum arquivo for importado</li>
+          <li lang="nl">[OPGELOST] De bibliotheekschakelaar wordt niet meer getoond als er geen bestanden zijn geïmporteerd</li>
+          <li lang="it">Correzione: non visualizzato lo switcher della libreria mobile quando non vengono importati file</li>
+          <li lang="hi">सुधार : फाइल आयात न होने की स्थिति में मोबाइल पुस्तक संग्रह परिवर्तन साधन प्रदर्शित नहीं होगा</li>
+          <li lang="gl">Arranxo: non mostrar o trocador de biblioteca móbil cando non hai ficheiros importados</li>
+          <li lang="fi">Korjaus: älä näytä mobiilin kirjastonvaihtajaa kun yhtäkään tiedostoa ei tuoda</li>
+          <li lang="es">Corrección: no mostrar el conmutador de la biblioteca móvil cuando no hay archivos importados</li>
+          <li lang="de">Fix: das App Menü wird bei einem mobilen Gerät ausgeblendet falls keine Dateien importiert sind</li>
+          <li>Fix: in the book detail view the pause icon for a chapter remained even when the next chapter already started playing</li>
+          <li lang="pt_BR">Correção: na visualização de detalhes do livro o ícone de pausa para um capítulo permanecia mesmo quando o próximo capítulo já começou a ser reproduzido</li>
+          <li lang="nl">[OPGELOST] Het pauzeerpictogram in de detailweergave bleef zichtbaar bij het vorige hoofdstuk, ook als dat al was afgelopen</li>
+          <li lang="it">Correzione: nella visualizzazione dei dettagli del libro l'icona di pausa per un capitolo rimaneva anche quando era già iniziata la riproduzione del capitolo successivo</li>
+          <li lang="hi">सुधार : पुस्तक विवरण दृश्य में अगले अध्याय का वाचन आरंभ होने पर भी अध्याय वचन रोकने का आइकन उपस्थित होने की समस्या का निवारण</li>
+          <li lang="gl">Arranxo: na vista de detalle a icona de pausar un capítulo seguía incluso cando o seguinte capítulo xa comezou a reproducirse</li>
+          <li lang="fi">Korjaus: kirjan yksityiskohtaisessa lisätietonäkymässä taukokuvake säilyi edelleen vaikkakin uusi luku oli jo toistossa</li>
+          <li lang="es">Corrección: en la vista detallada del libro, el icono de pausa de un capítulo permanecía incluso cuando el siguiente capítulo ya había comenzado a reproducirse.</li>
+          <li lang="de">Fix: In der Buchübersicht wurde das Pause-Icon bei Kapiteln nicht zurück geändert wenn das nächste Kapitel abgespielt wurde</li>
+          <li>As always, updated translations thanks to all of the translators!</li>
+          <li lang="tr">Her zaman olduğu gibi, tüm çevirmenler sayesinde güncellenmiş çeviriler! </li>
+          <li lang="te">ఎప్పటిలాగే, నవీకరించబడిన అనువాదాలు అనువాదకులందరికీ ధన్యవాదాలు!</li>
+          <li lang="ru">Как обычно, обновлены все переводы. Благодарим всех переводчиков!</li>
+          <li lang="pt_BR">Como sempre, traduções atualizadas graças a todos os tradutores!</li>
+          <li lang="nl">Zoals altijd zijn er weer vertalingen bijgewerkt, met dank aan alle vertalers!</li>
+          <li lang="ms_MY">Seperti biasa, kemas kini terjemahan terima kasih para penterjemah!</li>
+          <li lang="it">Come sempre, traduzioni aggiornate grazie a tutti i traduttori!</li>
+          <li lang="hi">हमेशा की भाँति अनुवाद अपडेट हेतु सभी अनुवादकों को धन्यवाद!</li>
+          <li lang="gl">Como sempre, traducións actualizadas grazas a todos os tradutores!</li>
+          <li lang="fr">Comme toujours, de nouvelles traductions grâce à tous les traducteurs !</li>
+          <li lang="fi">Kuten aina, päivitetyt kielikäännökset ovat täällä; kiitokset kaikille suomentajille!</li>
+          <li lang="es">Como siempre, ¡traducciones actualizadas gracias a todos los traductores!</li>
+          <li lang="de">Wie immer, neue Übersetzungen dank allen Übersetzern!</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.1.0" timestamp="1628322225">
+      <description>
+        <p>
+        This release features a redesigned library with responsiveness in mind.
+        </p>
+        <p lang="pt_BR">Esta versão apresenta uma biblioteca redesenhada com capacidade de resposta em mente.</p>
+        <p lang="nl">Deze versie bevat een opnieuw ontworpen bibliotheek dat zich aanpast aan de venster- en schermgrootte.</p>
+        <p lang="it">Questa versione presenta una libreria ridisegnata con in mente la reattività.</p>
+        <p lang="hi">कार्यक्षमता वर्धन के उद्देश्य से पुनर्रचित पुस्तक संग्रह युक्त संस्करण।</p>
+        <p lang="gl">Esta versión conta con un redeseño da biblioteca enfocada na capacidade de resposta.</p>
+        <p lang="fi">Tämä julkaisu sisältää uudelleensuunnitellun kirjaston jossa on otettu huomioon, että ohjelma vastaa nopeammin toimintoja käynnistellessä.</p>
+        <p lang="es">Esta versión presenta una biblioteca rediseñada pensando en la capacidad de respuesta.</p>
+        <p lang="de">Diese Version von Cozy beinhaltet eine neugestaltete Oberfläche.</p>
+        <ul>
+          <li>Redesigned library</li>
+          <li lang="pt_BR">Biblioteca redesenhada</li>
+          <li lang="nl">Opnieuw ontworpen bibliotheek</li>
+          <li lang="it">Libreria ridisegnata</li>
+          <li lang="hi">पुनर्रचित पुस्तक संग्रह</li>
+          <li lang="gl">Biblioteca redeseñada</li>
+          <li lang="fi">Kirjasto on suunniteltu uusiksi</li>
+          <li lang="es">Biblioteca rediseñada</li>
+          <li lang="de">Neugestaltete Bibliothek</li>
+          <li>Redesigned start screen</li>
+          <li lang="pt_BR">Tela inicial redesenhada</li>
+          <li lang="nl">Opnieuw ontworpen beginscherm</li>
+          <li lang="it">Schermata iniziale ridisegnata</li>
+          <li lang="hi">पुनर्रचित आरंभ स्क्रीन</li>
+          <li lang="gl">Pantalla de inicio redeseñada</li>
+          <li lang="fi">Aloitusruutu suunniteltu uusiksi</li>
+          <li lang="es">Pantalla de inicio rediseñada</li>
+          <li lang="de">Neugestaltetes Startfenster</li>
+          <li>Redesigned book detail screen</li>
+          <li lang="pt_BR">Tela de detalhes do livro redesenhada</li>
+          <li lang="nl">Opnieuw ontworpen detailpagina</li>
+          <li lang="it">Schermata dei dettagli del libro ridisegnata</li>
+          <li lang="hi">पुनर्रचित पुस्तक विवरण स्क्रीन</li>
+          <li lang="gl">Pantalla de detalles do libro redeseñada</li>
+          <li lang="fi">Kirjan yksityiskohtainen lisätietonäkymä suunniteltu uusiksi</li>
+          <li lang="es">Pantalla de detalles del libro rediseñada</li>
+          <li lang="de">Neugestaltete Buchansicht</li>
+          <li>Responsive design for the main window</li>
+          <li lang="pt_BR">Design responsivo para a janela principal</li>
+          <li lang="nl">Aan grootte aanpasbaar hoofdvenster</li>
+          <li lang="it">Design reattivo per la finestra principale</li>
+          <li lang="hi">मुख्य विंडो का उन्नत प्रारूप</li>
+          <li lang="gl">Deseño reactivo para a xanela principal</li>
+          <li lang="fi">Pääikkuna vastaa nyt käskyihin ja napsautuksiisi nopeammin</li>
+          <li lang="es">Diseño reactivo para la ventana principal</li>
+          <li lang="de">Responsives Design</li>
+          <li>Introducing a welcome screen for new installations</li>
+          <li lang="pt_BR">Apresentando uma tela de boas-vindas para novas instalações</li>
+          <li lang="nl">[NIEUW] Welkomstscherm na een nieuwe installatie</li>
+          <li lang="it">Presentazione di una schermata di benvenuto per le nuove installazioni</li>
+          <li lang="hi">अब नवीन इंस्टॉलों हेतु एक स्वागत स्क्रीन सम्मिलित है</li>
+          <li lang="gl">Introdución de unha pantalla de benvida para as novas instalacións</li>
+          <li lang="fi">Uusille asennuksille on tehty nyt tervetuliaisikkuna</li>
+          <li lang="es">Introducción de una pantalla de bienvenida para las nuevas instalaciones</li>
+          <li lang="de">Ein Willkommensfenster für neue Installationen</li>
+          <li>Fix: a rare bug where Cozy's volume was muted at first start</li>
+          <li lang="pt_BR">Correção: um bug raro em que o volume do Cozy era silenciado na primeira inicialização</li>
+          <li lang="nl">[OPGELOST] Zeldzame bug die er voor zorgde dat het volume gedempt was aan het begin van een boek</li>
+          <li lang="it">Correzzione: un bug raro per cui il volume di Cosy era disattivato al primo avvio</li>
+          <li lang="hi">सुधार : आरंभ पर Cozy की ध्वनि बंद होने की समस्या का निवारण</li>
+          <li lang="gl">Corrección: un erro raro polo que o volume de Cozy se silenciaba no primeiro inicio</li>
+          <li lang="fi">Korjaus: harvinainen virhe jossa Cozyn äänentaso oli vaiennettuna ensikäynnistyksellä</li>
+          <li lang="es">Corrección: un error raro por el que el volumen de Cozy se silenciaba en el primer inicio</li>
+          <li lang="de">Fix: ein seltener Bug bei dem Cozy's Lautstärke beim ersten Start gemuted ist</li>
+          <li>Fix: long book names or author names will be truncated properly</li>
+          <li lang="pt_BR">Correção: nomes longos de livros ou nomes de autores serão truncados corretamente</li>
+          <li lang="nl">[VERBETERD] Lange boek- en auteursnamen worden voortaan correct ingekort</li>
+          <li lang="it">Correzione: nomi di libri lunghi o nomi di autori verranno troncati correttamente</li>
+          <li lang="hi">सुधार : बड़े नाम वाली पुस्तक या लेखक के नाम अब उचित रूप से प्रदर्शित होंगें</li>
+          <li lang="gl">Corrección: los nombres largos de libros o autores se truncarán correctamente</li>
+          <li lang="fi">Korjaus: pitkät kirjannimet taikka tekijänimet saadaan nyt typistettyä kelvollisesti</li>
+          <li lang="es">Corrección: los nombres largos de libros o autores se truncarán correctamente</li>
+          <li lang="de">Fix: Lange Buchnamen oder Autorennamen werden nun gekürzt angezeigt</li>
+          <li>As always, updated translations thanks to all of the translators!</li>
+          <li lang="tr">Her zaman olduğu gibi, tüm çevirmenler sayesinde güncellenmiş çeviriler! </li>
+          <li lang="te">ఎప్పటిలాగే, నవీకరించబడిన అనువాదాలు అనువాదకులందరికీ ధన్యవాదాలు!</li>
+          <li lang="ru">Как обычно, обновлены все переводы. Благодарим всех переводчиков!</li>
+          <li lang="pt_BR">Como sempre, traduções atualizadas graças a todos os tradutores!</li>
+          <li lang="nl">Zoals altijd zijn er weer vertalingen bijgewerkt, met dank aan alle vertalers!</li>
+          <li lang="ms_MY">Seperti biasa, kemas kini terjemahan terima kasih para penterjemah!</li>
+          <li lang="it">Come sempre, traduzioni aggiornate grazie a tutti i traduttori!</li>
+          <li lang="hi">हमेशा की भाँति अनुवाद अपडेट हेतु सभी अनुवादकों को धन्यवाद!</li>
+          <li lang="gl">Como sempre, traducións actualizadas grazas a todos os tradutores!</li>
+          <li lang="fr">Comme toujours, de nouvelles traductions grâce à tous les traducteurs !</li>
+          <li lang="fi">Kuten aina, päivitetyt kielikäännökset ovat täällä; kiitokset kaikille suomentajille!</li>
+          <li lang="es">Como siempre, ¡traducciones actualizadas gracias a todos los traductores!</li>
+          <li lang="de">Wie immer, neue Übersetzungen dank allen Übersetzern!</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.0.4" timestamp="1627489551">
+      <description>
+        <p>
+        Performance improvements for the book detail view and some bugfixes.
+        </p>
+        <p lang="pt_BR">Melhorias de desempenho para a visualização de detalhes do livro e algumas correções de bugs.</p>
+        <p lang="nl">[VERBETERD] Prestatieverbeteringen in de detailweergave en enkele fouten opgelost</p>
+        <p lang="it">Miglioramenti delle prestazioni per la visualizzazione dei dettagli del libro e alcune correzioni di bug.</p>
+        <p lang="hi">पुस्तक विवरण दृश्य हेतु कार्यक्षमता संबंधी लघु सुधार व कुछ सामान्य सुधार।</p>
+        <p lang="gl">Melloras no rendemento da vista detallada do libro e algunhas correccións de erros.</p>
+        <p lang="fi">Suorituskyvyn parannuksia kirjan tietonäkymään sekä joitakin virheenkorjauksia. </p>
+        <p lang="es">Mejoras en el rendimiento de la vista detallada del libro y algunas correcciones de errores.</p>
+        <p lang="de">Performance Verbesserungen für die Buchübersichtsseite und Bugfixes.</p>
+        <ul>
+          <li>Chapters in the book detail view will now be loaded lazily (thanks chris-kobrzak!)</li>
+          <li lang="pt_BR">Os capítulos na visualização de detalhes do livro serão carregados lentamente (obrigado, chris-kobrzak!)</li>
+          <li lang="nl">[VERBETERD] Hoofdstukken in de detailweergave worden voortaan alleen ingeladen indien nodig (met dank aan @chris-kobrzak!)</li>
+          <li lang="it">I capitoli nella visualizzazione dei dettagli del libro ora verranno caricati lentamente (grazie chris-kobrzak!)</li>
+          <li lang="hi">पुस्तक विवरण दृश्य में अध्याय अब मंद गति से लोड होंगें (धन्यवाद chris-kobrzak!)</li>
+          <li lang="gl">Os capítulos da vista detallada do libro cargaranse agora de forma gradual (¡grazas chris-kobrzak!)</li>
+          <li lang="fi">Luvut kirjan yksityskohtaisessa tietonäkymässä lataantuvat nyt rivakammin (kiitos chris-kobrzakille!)</li>
+          <li lang="es">Los capítulos de la vista detallada del libro se cargarán ahora de forma gradual (¡gracias chris-kobrzak!)</li>
+          <li lang="de">Die Buchübersichtsseite wird nun bereits geöffnet, wenn im Hintergrund noch die Kapitelliste geladen wird (danke chris-kobrzak!)</li>
+          <li>Books with a single chapter don't display a chapter number anymore (thanks chris-kobrzak!)</li>
+          <li lang="pt_BR">Livros com um único capítulo não exibem mais o número de um capítulo (obrigado, chris-kobrzak!)</li>
+          <li lang="nl">[OPGELOST] Boeken met maar één hoofdstuk toonden geen hoofdstuknummer meer (met dank aan @chris-kobrzak!)</li>
+          <li lang="it">I libri con un solo capitolo non mostrano più un numero di capitolo (grazie chris-kobrzak!)</li>
+          <li lang="hi">केवल एक अध्याय युक्त पुस्तकों हेतु अध्याय संख्या प्रदर्शित नहीं होगी (धन्यवाद chris-kobrzak!)</li>
+          <li lang="gl">Os libros con un só capítulo xa non mostran un número de capítulo (¡grazas chris-kobrzak!)</li>
+          <li lang="fi">Kirjat jotka sisältävät vain yhden ainoan luvun, eivät tuo esille enää lukunäkymää (kiitokset chris-kobrzakille!)</li>
+          <li lang="es">Los libros con un solo capítulo ya no muestran un número de capítulo (¡gracias chris-kobrzak!)</li>
+          <li lang="de">Bei Büchern mit nur einem Kapitel wird nun die Kapitelnummer nicht mehr angezeigt (danke chris-kobrzak!)</li>
+          <li>Fix: Locals in What's new in Cozy screen (thanks alyssais!)</li>
+          <li lang="pt_BR">Correção: Locais na tela "O que há de novo no Cozy" (obrigado, alyssais!)</li>
+          <li lang="nl">[OPGELOST] Vertalingen ontbraken op het wijzigingslog (met dank aan @alyssais!)</li>
+          <li lang="it">Corretto: Locals in Novità nella schermata Cosy (grazie a Alyssais!)</li>
+          <li lang="hi">सुधार : स्क्रीन पर प्रदर्शित नवीन विशेषताओं की सामग्री हेतु उचित वर्तनी (धन्यवाद alyssais!)</li>
+          <li lang="gl">Corrección: Locais na pantalla de Novidades en Cozy (¡grazas alyssais!)</li>
+          <li lang="fi">Korjaus: Paikalliset -osio Mitä uutta -näkymässä (kiitos alyssais!)</li>
+          <li lang="es">Corrección: Locales en la pantalla de Novedades en Cozy (¡gracias alyssais!)</li>
+          <li lang="de">Fix: Ein Tippfehler in dem "Was gibts neues in Cozy" Fenster (danke alyssais!)</li>
+          <li>Fix: Catch an error that could occur when a book stops</li>
+          <li lang="pt_BR">Correção: Detectar um erro que pode ocorrer quando um livro para</li>
+          <li lang="nl">[OPGELOST] Een foutmelding die kon optreden na het onderbreken van een boek</li>
+          <li lang="it">Corretto: rilevare un errore che potrebbe verificarsi quando un libro si interrompe</li>
+          <li lang="hi">सुधार : अब पुस्तक वाचन रूकने पर होने वाली त्रुटि की पहचान करना संभव है</li>
+          <li lang="gl">Corrección: Corríxese un erro que podía producirse cando se detía un libro</li>
+          <li lang="fi">Korjaus: virheenkoppaus joka saattaa ilmetä kun kirjan toisto pysäytetään</li>
+          <li lang="es">Corrección: Se corrige un error que podía producirse cuando un libro se detenía</li>
+          <li lang="de">Fix: Ein Fehler welcher nach dem Ende eines Hörbuches auftreten konnte</li>
+          <li>Small performance improvements</li>
+          <li lang="pt_BR">Pequenas melhorias de desempenho</li>
+          <li lang="nl">[VERBETERD] Kleine prestatieverbeteringen</li>
+          <li lang="it">Piccoli miglioramenti delle prestazioni</li>
+          <li lang="hi">कार्यक्षमता संबंधी लघु सुधार</li>
+          <li lang="gl">Pequenas melloras de rendemento</li>
+          <li lang="fi">Pieniä parannuksia suorituskykyyn</li>
+          <li lang="es">Pequeñas mejoras de rendimiento</li>
+          <li lang="de">Kleinere Performance Verbesserungen</li>
+          <li>As always, updated translations thanks to all of the translators!</li>
+          <li lang="tr">Her zaman olduğu gibi, tüm çevirmenler sayesinde güncellenmiş çeviriler! </li>
+          <li lang="te">ఎప్పటిలాగే, నవీకరించబడిన అనువాదాలు అనువాదకులందరికీ ధన్యవాదాలు!</li>
+          <li lang="ru">Как обычно, обновлены все переводы. Благодарим всех переводчиков!</li>
+          <li lang="pt_BR">Como sempre, traduções atualizadas graças a todos os tradutores!</li>
+          <li lang="nl">Zoals altijd zijn er weer vertalingen bijgewerkt, met dank aan alle vertalers!</li>
+          <li lang="ms_MY">Seperti biasa, kemas kini terjemahan terima kasih para penterjemah!</li>
+          <li lang="it">Come sempre, traduzioni aggiornate grazie a tutti i traduttori!</li>
+          <li lang="hi">हमेशा की भाँति अनुवाद अपडेट हेतु सभी अनुवादकों को धन्यवाद!</li>
+          <li lang="gl">Como sempre, traducións actualizadas grazas a todos os tradutores!</li>
+          <li lang="fr">Comme toujours, de nouvelles traductions grâce à tous les traducteurs !</li>
+          <li lang="fi">Kuten aina, päivitetyt kielikäännökset ovat täällä; kiitokset kaikille suomentajille!</li>
+          <li lang="es">Como siempre, ¡traducciones actualizadas gracias a todos los traductores!</li>
+          <li lang="de">Wie immer, neue Übersetzungen dank allen Übersetzern!</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.0.3" timestamp="1622826417">
+      <description>
+        <p>
+        A small bugfix release which makes Cozy more reliable.
+        </p>
+        <p lang="tr">Cozy'i daha güvenilir yapan küçük bir hata düzeltme yayınlandı.</p>
+        <p lang="te">ఒక చిన్న బగ్‌ఫిక్స్ విడుదల ఇది కొజిని మరింత నమ్మదగినదిగా చేస్తుంది.</p>
+        <p lang="ru">Небольшое обновление, которое исправляет ошибки и улучшает надёжность приложения.</p>
+        <p lang="pt_BR">Uma pequena versão de correção de bug que torna o Cozy mais confiável.</p>
+        <p lang="nl">Een kleine uitgave met een paar foutoplossingen om Cozy betrouwbaarder te maken.</p>
+        <p lang="ms_MY">Satu keluaran pembaikan pepijat kecil yang menjadikan Cozy lebih diharap.</p>
+        <p lang="it">Una piccola versione con bugfix che rende Cozy più affidabile.</p>
+        <p lang="hi">Cozy की विश्वसनीयता उन्नत करने हेतु लघु सुधार युक्त संस्करण।</p>
+        <p lang="gl">Unha pequena corrección de erros que fai que Cozy sexa máis fiábel.</p>
+        <p lang="fr">Une petite sortie qui corrige certains bugs pour rendre Cozy plus fiable.</p>
+        <p lang="fi">Pienikokoinen virheenkorjauksiin perustuva julkaisu joka tekee Cozysta entistäkin luotettavamman.</p>
+        <p lang="es">Una pequeña corrección de errores que hace que Cozy sea más fiable.</p>
+        <p lang="de">Diese Version macht Cozy ein Stück mehr zuverlässiger.</p>
+        <ul>
+          <li>When an issue occurs during playback the error message is displayed to the user</li>
+          <li lang="pt_BR">Quando ocorre um problema durante a reprodução, a mensagem de erro é exibida para o usuário</li>
+          <li lang="nl">[NIEUW] Er wordt voortaan een foutmelding getoond als er tijdens het afspelen een probleem optreedt</li>
+          <li lang="ms_MY">Apabila satu isu berlaku ketika main balik, mesej ralat dipaparkan kepada pengguna</li>
+          <li lang="it">Quando si verifica un problema durante la riproduzione, all'utente viene visualizzato un messaggio di errore</li>
+          <li lang="hi">परिचालन के दौरान त्रुटि होने पर उपयोक्ता हेतु त्रुटि संदेश प्रदर्शित होगा</li>
+          <li lang="gl">Cando se produce un problema durante a reproducción, a mensaje de erro móstrase ao usuario</li>
+          <li lang="fi">Kun ilmenee virhe kirjaa toistettaessa, tuodaan käyttäjälle nyt näytille siihen liittyvä virheilmoitus </li>
+          <li lang="es">Cuando se produce un problema durante la reproducción, el mensaje de error se muestra al usuario</li>
+          <li lang="de">Falls beim Abspielen ein Fehler auftritt wird der Fehler nun dem Nutzer angezeigt</li>
+          <li>Fix: Importing media without tags now properly decodes the file name as chapter name (thanks chris-kobrzak!)</li>
+          <li lang="pt_BR">Correção: importar mídia sem tags agora decodifica corretamente o nome do arquivo como nome do capítulo (obrigado, chris-kobrzak!)</li>
+          <li lang="nl">[OPGELOST] Tijdens het importeren van media zonder labels worden hoofdstuknamen voortaan correct getoond (met dank aan @chris-kobrzak!)</li>
+          <li lang="ms_MY">Baiki: Pengimportan media tanpa tag kini dapat menyahkod nama fail dengan baik seperti nama bab (terima kasih buat chris-kobrzak!)</li>
+          <li lang="it">Corretto: l'importazione di file multimediali senza tag ora decodifica correttamente il nome del file come nome del capitolo (grazie a chris-kobrzak!)</li>
+          <li lang="hi">सुधार : उपनाम रहित मीडिया आयात होने पर फाइल नाम का अध्याय नाम के रूप में उचित रूप से विसंकेतन होगा (धन्यवाद chris-kobrzak!)</li>
+          <li lang="gl">Corrección: A importación de medios sen etiquetas agora decodifica correctamente o nome do ficheiro como nome do capítulo (¡grazas chris-kobrzak!)</li>
+          <li lang="fi">Korjaus: tuotaessa kirjastoon materiaalia jossa ei ole tunnisteita, käytetäänkin nyt hyväksi itse tiedostonimeä ja luodaan siitä nimi luvulle (kiitokset chris-kobrzakille!)</li>
+          <li lang="es">Corrección: La importación de medios sin etiquetas ahora decodifica correctamente el nombre del archivo como nombre del capítulo (¡gracias chris-kobrzak!)</li>
+          <li lang="de">Fix: Beim Importieren von Dateien ohne Tags wird nun der Dateiname richtig dekodiert und als Kapitel Name benutzt (danke chris-kobrzak!)</li>
+          <li>Fix: Ensure that always a default storage location is present</li>
+          <li lang="pt_BR">Correção: Garante que sempre um local de armazenamento padrão esteja presente</li>
+          <li lang="nl">[OPGELOST] Er is voortaan altijd een standaard opslaglocatie beschikbaar</li>
+          <li lang="ms_MY">Baiki: Memastikan sentiasa ada lokasi storan lalai yang hadir</li>
+          <li lang="it">Corretto: assicurato che sia sempre presente una posizione di archiviazione predefinita</li>
+          <li lang="hi">सुधार : डिफ़ॉल्ट संचय स्थान की स्थायी उपस्थिति की सुनिश्चितता</li>
+          <li lang="gl">Corrección: Garantizar que sempre haxa unha ruta de almacenamento por defecto</li>
+          <li lang="fi">Korjaus: varmistus, että vakiollinen säilytystilakohde on läsnä</li>
+          <li lang="es">Corrección: Garantizar que siempre haya una ruta de almacenamiento por defecto</li>
+          <li lang="de">Fix: Es wird nun sichergestellt, dass es immer einen Standard Hörbuch-Ordner gibt</li>
+          <li>Fix: During import an error could occur which stopped the import</li>
+          <li lang="pt_BR">Correção: Durante a importação, poderia ocorrer um erro que interrompe a importação</li>
+          <li lang="nl">[OPGELOST] Tijdens het importeren kon er een importfout optreden</li>
+          <li lang="ms_MY">Baiki: Ketika mengimport satu ralat berlaku yang menyebabkan proses pengimportan terhenti</li>
+          <li lang="it">Corretto: durante l'importazione potrebbe verificarsi un errore che interrompe l'importazione</li>
+          <li lang="hi">सुधार : आयात प्रक्रिया को बाधित कर सकने वाली त्रुटि की समस्या का निवारण</li>
+          <li lang="gl">Corrección: Durante a importación podía producirse un erro que detiña a importación</li>
+          <li lang="fi">Korjaus: ei enää virhettä joka joskus ilmeni aineistoa tuotaessa ja joka lopetti toiminnon  </li>
+          <li lang="es">Corrección: Durante la importación podía producirse un error que detenía la importación</li>
+          <li lang="de">Fix: Beim Importieren konnte ein Fehler auftreten, welchen den Prozess gestoppt hat</li>
+          <li>Fix: During the database migration an error could occur</li>
+          <li lang="pt_BR">Correção: Durante a migração do banco de dados, poderia ocorrer um erro</li>
+          <li lang="nl">[OPGELOST] Tijdens de databankmigratie kon er een migratiefout optreden</li>
+          <li lang="ms_MY">Baiki: Ketika pemindahan pangkalan data, satu ralat berlaku</li>
+          <li lang="it">Corretto: durante la migrazione del database potrebbe verificarsi un errore</li>
+          <li lang="hi">सुधार : डेटाबेस अंतरण प्रक्रिया हेतु संभावित त्रुटि की समस्या का निवारण</li>
+          <li lang="gl">Corrección: Durante a migración da base de datos podía producirse un erro</li>
+          <li lang="fi">Korjaus: tietokantasiirtymän aikana ilmeni ajoittainen virhe</li>
+          <li lang="es">Corrección: Durante la migración de la base de datos podía producirse un error</li>
+          <li lang="de">Fix: Während der Migration der Datenbank konnte ein Fehler auftreten</li>
+          <li>As always, updated translations thanks to all of the translators!</li>
+          <li lang="tr">Her zaman olduğu gibi, tüm çevirmenler sayesinde güncellenmiş çeviriler! </li>
+          <li lang="te">ఎప్పటిలాగే, నవీకరించబడిన అనువాదాలు అనువాదకులందరికీ ధన్యవాదాలు!</li>
+          <li lang="ru">Как обычно, обновлены все переводы. Благодарим всех переводчиков!</li>
+          <li lang="pt_BR">Como sempre, traduções atualizadas graças a todos os tradutores!</li>
+          <li lang="nl">Zoals altijd zijn er weer vertalingen bijgewerkt, met dank aan alle vertalers!</li>
+          <li lang="ms_MY">Seperti biasa, kemas kini terjemahan terima kasih para penterjemah!</li>
+          <li lang="it">Come sempre, traduzioni aggiornate grazie a tutti i traduttori!</li>
+          <li lang="hi">हमेशा की भाँति अनुवाद अपडेट हेतु सभी अनुवादकों को धन्यवाद!</li>
+          <li lang="gl">Como sempre, traducións actualizadas grazas a todos os tradutores!</li>
+          <li lang="fr">Comme toujours, de nouvelles traductions grâce à tous les traducteurs !</li>
+          <li lang="fi">Kuten aina, päivitetyt kielikäännökset ovat täällä; kiitokset kaikille suomentajille!</li>
+          <li lang="es">Como siempre, ¡traducciones actualizadas gracias a todos los traductores!</li>
+          <li lang="de">Wie immer, neue Übersetzungen dank allen Übersetzern!</li>
+        </ul>
+      </description>
+    </release>
+    <release timestamp="1622490608" version="1.0.2">
+      <description>
+        <p>
+        A small bugfix release which makes Cozy more reliable.
+        </p>
+        <p lang="tr">Cozy'i daha güvenilir yapan küçük bir hata düzeltme yayınlandı.</p>
+        <p lang="te">ఒక చిన్న బగ్‌ఫిక్స్ విడుదల ఇది కొజిని మరింత నమ్మదగినదిగా చేస్తుంది.</p>
+        <p lang="ru">Небольшое обновление, которое исправляет ошибки и улучшает надёжность приложения.</p>
+        <p lang="pt_BR">Uma pequena versão de correção de bug que torna o Cozy mais confiável.</p>
+        <p lang="nl">Een kleine uitgave met een paar foutoplossingen om Cozy betrouwbaarder te maken.</p>
+        <p lang="ms_MY">Satu keluaran pembaikan pepijat kecil yang menjadikan Cozy lebih diharap.</p>
+        <p lang="it">Una piccola versione con bugfix che rende Cozy più affidabile.</p>
+        <p lang="hi">Cozy की विश्वसनीयता उन्नत करने हेतु लघु सुधार युक्त संस्करण।</p>
+        <p lang="gl">Unha pequena corrección de erros que fai que Cozy sexa máis fiábel.</p>
+        <p lang="fr">Une petite sortie qui corrige certains bugs pour rendre Cozy plus fiable.</p>
+        <p lang="fi">Pienikokoinen virheenkorjauksiin perustuva julkaisu joka tekee Cozysta entistäkin luotettavamman.</p>
+        <p lang="es">Una pequeña corrección de errores que hace que Cozy sea más fiable.</p>
+        <p lang="de">Diese Version macht Cozy ein Stück mehr zuverlässiger.</p>
+        <ul>
+          <li>When copying files to the audiobook library goes wrong, the user is now informed with the error</li>
+          <li lang="pt_BR">Quando a cópia de arquivos para a biblioteca de audiolivro dá errado, o usuário agora é informado com o erro</li>
+          <li lang="nl">[VERBETERD] Als er tijdens het kopiëren van bestanden iets misgaat, wordt er voortaan een foutmelding getoond</li>
+          <li lang="ms_MY">Jika proses menyalin fail ke dalam pustaka buku audio bermasalah, kini pengguna dimaklumkan ralat tersebut</li>
+          <li lang="it">Quando la copia dei file nella libreria degli audiolibri va male, l'utente viene ora informato con l'errore</li>
+          <li lang="hi">ऑडियो पुस्तक संग्रह में फाइलें कॉपी करना विफल होने पर अब उपयोक्ता हेतु एक त्रुटि संदेश प्रदर्शित होगा</li>
+          <li lang="gl">Ao copiar ficheiros á biblioteca de audiolibros non funciona, infórmase ao usuario co erro</li>
+          <li lang="fi">Mikäli tiedostojen jäljentäminen äänikirjastoon meni mönkään, käyttäjää tiedotetaan siitä nyt</li>
+          <li lang="es">Cuando la copia de archivos a la biblioteca de audiolibros no funciona, se informa al usuario con el error</li>
+          <li lang="de">Falls beim Kopieren neuer Dateien ein Fehler auftritt, wird der Nutzer nun darüber informiert</li>
+          <li>Fix: Possible error while displaying offline cache copy progress</li>
+          <li lang="pt_BR">Correção: Possível erro ao exibir o progresso da cópia de cache offline</li>
+          <li lang="nl">[OPGELOST] Mogelijke fout tijdens het tonen van de offline-kopieervoortgang</li>
+          <li lang="ms_MY">Baiki: Ralat mungkin berlaku ketika memaparkan kemajuan salin cache luar talian</li>
+          <li lang="it">Corretto: possibile errore durante la visualizzazione dell'avanzamento della copia della cache offline</li>
+          <li lang="hi">सुधार : ऑफलाइन कैश कॉपी की प्रगति प्रदर्शन के समय संभावित त्रुटि का निवारण</li>
+          <li lang="gl">Corrección: Posíbel erro ao mostrar o progreso da copia da caché sen conexión</li>
+          <li lang="fi">Korjaus: mahdollinen virhe näytettäessä välimuistin verkkoyhteydetöntä jäljennösedistymistä</li>
+          <li lang="es">Corrección: Posible error al mostrar el progreso de la copia de la caché sin conexión</li>
+          <li lang="de">Fix: Ein möglicher Fehler bei der Anzeige des Offline Cache Kopierprozesses</li>
+          <li>Fix: When changing the audiobook location or selecting a file in the file not found dialog an unexpected error could occur</li>
+          <li lang="pt_BR">Correção: Ao alterar o local do audiolivro ou selecionar um arquivo na caixa de diálogo de arquivo não encontrado, um erro inesperado poderia ocorrer</li>
+          <li lang="nl">[OPGELOST] Na het wijzigen van de luisterboekmap of het selecteren van een bestand kon er een onverwachte fout optreden</li>
+          <li lang="ms_MY">Baiki: Ketika mengubah lokasi buku audio atau memilih satu fail di dalam fail tidak ditemui, satu dialog ralat tidak dijangka muncul</li>
+          <li lang="it">Corretto: quando si modifica la posizione dell'audiolibro o si seleziona un file nella finestra di dialogo File non trovato, potrebbe verificarsi un errore imprevisto</li>
+          <li lang="hi">सुधार : फाइल प्राप्ति विफल की विंडो में ऑडियो पुस्तक स्थान परिवर्तन या फाइल चयन के दौरान अनपेक्षित त्रुटि का निवारण</li>
+          <li lang="gl">Corrección: Ao cambiar a ruta do audiolibro ou ao seleccionar un ficheiro no cadro de diálogo de ficheiro non atopado podía producirse un erro non esperado</li>
+          <li lang="fi">Korjaus: muutettaessa äänikirjan sijaintia tai valitessa tiedostoa, saattoi joskus ilmetä "tiedostoa ei löydy" -herja, johtaen odottamattomaan virheeseen</li>
+          <li lang="es">Corrección: Al cambiar la ruta del audiolibro o al seleccionar un archivo en el cuadro de diálogo de archivo no encontrado podía producirse un error inesperado</li>
+          <li lang="de">Fix: Beim Ändern des Hörbuchordners oder beim Auswählen einer Datei im Datei nicht gefunden Dialog konnte ein Fehler auftreten</li>
+          <li>Fix: Removing a storage dir in settings did not work</li>
+          <li lang="pt_BR">Correção: A remoção de um diretório de armazenamento nas configurações não funcionava</li>
+          <li lang="nl">[OPGELOST] Het verwijderen van een opslagmap in de instellingen werkte niet</li>
+          <li lang="ms_MY">Baiki: Membuang satu storan dalam tetapan yang tidak berfungsi</li>
+          <li lang="it">Corretto: la rimozione di una directory di archiviazione nelle impostazioni non funzionava</li>
+          <li lang="hi">सुधार : सेटिंग्स से संचय डायरेक्टरी हटाने की प्रक्रिया अब उचित रूप से कार्य करती है</li>
+          <li lang="gl">Corrección: A eliminación dun cartafol de almacenamento na configuración non funcionaba</li>
+          <li lang="fi">Korjaus: poistettaessa tallennustilahakemistoa asetuksista ei toiminut. Nyt toimii</li>
+          <li lang="es">Corrección: La eliminación de un directorio de almacenamiento en la configuración no funcionaba</li>
+          <li lang="de">Fix: Das Entfernen eines Medienordners in den Einstellungen hat nicht funktioniert</li>
+          <li>Fix: Removing a book from the library did sometimes not work</li>
+          <li lang="pt_BR">Correção: A remoção de um livro da biblioteca às vezes não funcionava</li>
+          <li lang="nl">[OPGELOST] Het verwijderen van een boek was soms niet mogelijk</li>
+          <li lang="ms_MY">Baiki: Membuang satu buku dari pustaka kadang kala tidak berlaku</li>
+          <li lang="it">Corretto: la rimozione di un libro dalla libreria a volte non funzionava</li>
+          <li lang="hi">सुधार : संग्रह से पुस्तक हटाने की प्रक्रिया अब उचित रूप से कार्य करती है</li>
+          <li lang="gl">Corrección: Eliminar un libro da biblioteca a veces non funcionaba</li>
+          <li lang="fi">Korjaus: kirjan poistaminen kirjastosta ei aina onnistunut.</li>
+          <li lang="es">Corrección: Eliminar un libro de la biblioteca a veces no funcionaba</li>
+          <li lang="de">Fix: Manchmal konnte ein Buch nicht aus der Bibliothek entfernt werden</li>
+          <li>As always, updated translations thanks to all of the translators!</li>
+          <li lang="tr">Her zaman olduğu gibi, tüm çevirmenler sayesinde güncellenmiş çeviriler! </li>
+          <li lang="te">ఎప్పటిలాగే, నవీకరించబడిన అనువాదాలు అనువాదకులందరికీ ధన్యవాదాలు!</li>
+          <li lang="ru">Как обычно, обновлены все переводы. Благодарим всех переводчиков!</li>
+          <li lang="pt_BR">Como sempre, traduções atualizadas graças a todos os tradutores!</li>
+          <li lang="nl">Zoals altijd zijn er weer vertalingen bijgewerkt, met dank aan alle vertalers!</li>
+          <li lang="ms_MY">Seperti biasa, kemas kini terjemahan terima kasih para penterjemah!</li>
+          <li lang="it">Come sempre, traduzioni aggiornate grazie a tutti i traduttori!</li>
+          <li lang="hi">हमेशा की भाँति अनुवाद अपडेट हेतु सभी अनुवादकों को धन्यवाद!</li>
+          <li lang="gl">Como sempre, traducións actualizadas grazas a todos os tradutores!</li>
+          <li lang="fr">Comme toujours, de nouvelles traductions grâce à tous les traducteurs !</li>
+          <li lang="fi">Kuten aina, päivitetyt kielikäännökset ovat täällä; kiitokset kaikille suomentajille!</li>
+          <li lang="es">Como siempre, ¡traducciones actualizadas gracias a todos los traductores!</li>
+          <li lang="de">Wie immer, neue Übersetzungen dank allen Übersetzern!</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.0.1" timestamp="1622363623">
+      <description>
+        <p>
+        This release features chapter support for m4b files.
+        </p>
+        <p lang="te">ఈ విడుదల m4b ఫైళ్ళకు అధ్యాయ మద్దతును కలిగి ఉంది.</p>
+        <p lang="pt_BR">Esta versão apresenta suporte de capítulo para arquivos m4b.</p>
+        <p lang="nl">Deze uitgave ondersteunt hoofdstukken in m4b-luisterboeken.</p>
+        <p lang="ms_MY">Keluaran ini memfiturkan sokongan bab untuk fail m4b.</p>
+        <p lang="it">Questa versione include il supporto dei capitoli per i file m4b.</p>
+        <p lang="hi">इस संस्करण में m4b फाइलों हेतु अध्याय समर्थन सम्मिलित है।</p>
+        <p lang="gl">Esta versión inclúe compatibilidade de capítulos para ficheiros m4b.</p>
+        <p lang="fi">Tämä julkaisu sisältää tuen eri luvuille m4b-tiedostojen suhteen.</p>
+        <p lang="es">Esta versión incluye soporte de capítulos para archivos m4b.</p>
+        <p lang="de">Dieses Release unterstützt Kapitel bei m4b Dateien.</p>
+        <ul>
+          <li>A long awaited feature has finally arrived: Chapter support for m4b files.</li>
+          <li lang="te">దీర్ఘకాలంగా ఎదురుచూస్తున్న లక్షణం చివరకు వచ్చింది: m4b ఫైళ్ళకు అధ్యాయం మద్దతు.</li>
+          <li lang="pt_BR">Um recurso muito aguardado finalmente chegou: Suporte de capítulo para arquivos m4b.</li>
+          <li lang="nl">Lang verwacht en toch gekomen: hoofdstukondersteuning in m4b-bestanden.</li>
+          <li lang="ms_MY">Satu fitur yang sangat dinantikan telah tiba: Sokongan bab untuk fail m4b.</li>
+          <li lang="it">È finalmente arrivata una funzionalità tanto attesa: il supporto del capitolo per i file m4b.</li>
+          <li lang="hi">अंततः एक बहुप्रतीक्षित सुविधा अब उपलब्ध है : m4b फाइलों हेतु अध्याय समर्थन।</li>
+          <li lang="gl">Por fin chegou unha función moi agardada: Soporte de capítulos para archivos m4b.</li>
+          <li lang="fi">Pitkään odotettu ominaisuus on viimenkin saapunut: lukujen tuki m4b-tiedostojen kanssa.</li>
+          <li lang="es">Por fin ha llegado una función muy esperada: Soporte de capítulos para archivos m4b.</li>
+          <li lang="de">Ein lang erwartetes Feature ist nun fertig: Kapitelunterstützung bei m4b Dateien.</li>
+          <li>Books with inconsistent spelling are now grouped into a single book (thanks chris-kobrzak!).</li>
+          <li lang="te">అస్థిరమైన స్పెల్లింగ్ ఉన్న పుస్తకాలు ఇప్పుడు ఒకే పుస్తకంగా వర్గీకరించబడ్డాయి (ధన్యవాదాలు క్రిస్-కోబ్రాజాక్!).</li>
+          <li lang="pt_BR">Livros com grafia inconsistente agora são agrupados em um único livro (obrigado, chris-kobrzak!).</li>
+          <li lang="nl">Boeken met wisselende spelling worden voortaan gegroepeerd (met dank aan @chris-kobrzak!).</li>
+          <li lang="ms_MY">Buku-buku dengan ejaan tidak konsisten kini dikelompok dalam satu buku (terima kasih chris-kobrzak!).</li>
+          <li lang="it">I libri con ortografia incoerente sono ora raggruppati in un unico libro (grazie chris-kobrzak!).</li>
+          <li lang="hi">असंगत वर्तनी वाली पुस्तकों अब एक ही पुस्तक में वर्गीकृत होंगी (धन्यवाद chris-kobrzak!)।</li>
+          <li lang="gl">Os libros con ortografía inconsistente agrúpanse agora nun só libro (grazas chris-kobrzak!).</li>
+          <li lang="fi">Kirjat joissa on epäjohdonmukaista kielioppia ovat nyt ryhmitetyt yhdeksi kirjaksi (kiitokset chris-kobrzakille!)</li>
+          <li lang="es">Los libros con ortografía inconsistente se agrupan ahora en un solo libro (¡gracias chris-kobrzak!).</li>
+          <li lang="de">Bücher mit unterschiedlicher Groß- und Kleinschreibung werden nun automatisch in einem Hörbuch gruppiert (Danke chris-kobrzak!).</li>
+          <li>Improved reliability of restoring the previous playback position.</li>
+          <li lang="te">మునుపటి ప్లేబ్యాక్ స్థానాన్ని పునరుద్ధరించే మెరుగైన విశ్వసనీయత.</li>
+          <li lang="pt_BR">Maior confiabilidade para restaurar a posição de reprodução anterior.</li>
+          <li lang="nl">[VERBETERD] Betrouwbaarheid van det herstellen van de vorige afspeelpositie.</li>
+          <li lang="ms_MY">Kebolehpercayaan ditambah baik ketika memulihkan kedudukan main balik terdahulu.</li>
+          <li lang="it">Maggiore affidabilità del ripristino della posizione di riproduzione precedente.</li>
+          <li lang="hi">पूर्व वाचक स्थिति की पुनः स्थापना हेतु विश्वसनीयता सुधार।</li>
+          <li lang="gl">Mellora da fiabilidade da restauración da anterior posición de reproducción.</li>
+          <li lang="fi">Parannusta kirjankuuntelun jatkamiseksi edellisen toiston tiimoilta jäädystä toistokohdasta.</li>
+          <li lang="es">Mejorada la fiabilidad de la restauración de la posición de reproducción anterior.</li>
+          <li lang="de">Verbesserte Zuverlässigkeit bei der Wiederherstellung der vorherigen Abspielposition.</li>
+          <li>Fix: clicking on a currently playing chapter did not pause the chapter as expected.</li>
+          <li lang="te">పరిష్కరించండి: ప్రస్తుతం ఆడుతున్న అధ్యాయంపై క్లిక్ చేయడం అధ్యాయాన్ని ఊహించిన విధంగా పాజ్ చేయలేదు.</li>
+          <li lang="pt_BR">Correção: clicar em um capítulo atualmente em reprodução não pausou o capítulo como esperado.</li>
+          <li lang="nl">[OPGELOST] Klikken op een hoofdstuk dat wordt voorgelezen onderbrak het afspelen niet.</li>
+          <li lang="ms_MY">Baiki: Klik pada bab semasa yang dimainkan tidak dijeda seperti yang diharapkan.</li>
+          <li lang="it">Correzione: facendo clic su un capitolo in riproduzione non si metteva in pausa il capitolo come previsto.</li>
+          <li lang="hi">सुधार : वर्तमान में चालू अध्याय पर क्लिक कर उसे रोकने की प्रक्रिया अब उचित रूप से कार्य करती है।</li>
+          <li lang="gl">Corrección: ao facer clic nun capítulo que se estaba reproducindo non se pausaba o capítulo como se esperaba.</li>
+          <li lang="fi">Korjaus: napsauttaessa sillä hetkellä toistossa olevan luvun päällä ei aiemmin tauottanut toistoa kuten tarkoitus.</li>
+          <li lang="es">Corrección: al hacer clic en un capítulo que se estaba reproduciendo no se pausaba el capítulo como se esperaba.</li>
+          <li lang="de">Fix: beim Klick auf das Kapitel, das gerade abgespielt wird, wurde es nicht wie erwartet pausiert.</li>
+          <li>As always, updated translations thanks to all of the translators!</li>
+          <li lang="tr">Her zaman olduğu gibi, tüm çevirmenler sayesinde güncellenmiş çeviriler! </li>
+          <li lang="te">ఎప్పటిలాగే, నవీకరించబడిన అనువాదాలు అనువాదకులందరికీ ధన్యవాదాలు!</li>
+          <li lang="ru">Как обычно, обновлены все переводы. Благодарим всех переводчиков!</li>
+          <li lang="pt_BR">Como sempre, traduções atualizadas graças a todos os tradutores!</li>
+          <li lang="nl">Zoals altijd zijn er weer vertalingen bijgewerkt, met dank aan alle vertalers!</li>
+          <li lang="ms_MY">Seperti biasa, kemas kini terjemahan terima kasih para penterjemah!</li>
+          <li lang="it">Come sempre, traduzioni aggiornate grazie a tutti i traduttori!</li>
+          <li lang="hi">हमेशा की भाँति अनुवाद अपडेट हेतु सभी अनुवादकों को धन्यवाद!</li>
+          <li lang="gl">Como sempre, traducións actualizadas grazas a todos os tradutores!</li>
+          <li lang="fr">Comme toujours, de nouvelles traductions grâce à tous les traducteurs !</li>
+          <li lang="fi">Kuten aina, päivitetyt kielikäännökset ovat täällä; kiitokset kaikille suomentajille!</li>
+          <li lang="es">Como siempre, ¡traducciones actualizadas gracias a todos los traductores!</li>
+          <li lang="de">Wie immer, neue Übersetzungen dank allen Übersetzern!</li>
+        </ul>
+      </description>
+    </release>
+    <release timestamp="1622358236" version="1.0.0">
+      <description>
+        <p>
+        This release features chapter support for m4b files.
+        </p>
+        <p lang="te">ఈ విడుదల m4b ఫైళ్ళకు అధ్యాయ మద్దతును కలిగి ఉంది.</p>
+        <p lang="pt_BR">Esta versão apresenta suporte de capítulo para arquivos m4b.</p>
+        <p lang="nl">Deze uitgave ondersteunt hoofdstukken in m4b-luisterboeken.</p>
+        <p lang="ms_MY">Keluaran ini memfiturkan sokongan bab untuk fail m4b.</p>
+        <p lang="it">Questa versione include il supporto dei capitoli per i file m4b.</p>
+        <p lang="hi">इस संस्करण में m4b फाइलों हेतु अध्याय समर्थन सम्मिलित है।</p>
+        <p lang="gl">Esta versión inclúe compatibilidade de capítulos para ficheiros m4b.</p>
+        <p lang="fi">Tämä julkaisu sisältää tuen eri luvuille m4b-tiedostojen suhteen.</p>
+        <p lang="es">Esta versión incluye soporte de capítulos para archivos m4b.</p>
+        <p lang="de">Dieses Release unterstützt Kapitel bei m4b Dateien.</p>
+        <ul>
+          <li>A long awaited feature has finally arrived: Chapter support for m4b files.</li>
+          <li lang="te">దీర్ఘకాలంగా ఎదురుచూస్తున్న లక్షణం చివరకు వచ్చింది: m4b ఫైళ్ళకు అధ్యాయం మద్దతు.</li>
+          <li lang="pt_BR">Um recurso muito aguardado finalmente chegou: Suporte de capítulo para arquivos m4b.</li>
+          <li lang="nl">Lang verwacht en toch gekomen: hoofdstukondersteuning in m4b-bestanden.</li>
+          <li lang="ms_MY">Satu fitur yang sangat dinantikan telah tiba: Sokongan bab untuk fail m4b.</li>
+          <li lang="it">È finalmente arrivata una funzionalità tanto attesa: il supporto del capitolo per i file m4b.</li>
+          <li lang="hi">अंततः एक बहुप्रतीक्षित सुविधा अब उपलब्ध है : m4b फाइलों हेतु अध्याय समर्थन।</li>
+          <li lang="gl">Por fin chegou unha función moi agardada: Soporte de capítulos para archivos m4b.</li>
+          <li lang="fi">Pitkään odotettu ominaisuus on viimenkin saapunut: lukujen tuki m4b-tiedostojen kanssa.</li>
+          <li lang="es">Por fin ha llegado una función muy esperada: Soporte de capítulos para archivos m4b.</li>
+          <li lang="de">Ein lang erwartetes Feature ist nun fertig: Kapitelunterstützung bei m4b Dateien.</li>
+          <li>Books with inconsistent spelling are now grouped into a single book (thanks chris-kobrzak!).</li>
+          <li lang="te">అస్థిరమైన స్పెల్లింగ్ ఉన్న పుస్తకాలు ఇప్పుడు ఒకే పుస్తకంగా వర్గీకరించబడ్డాయి (ధన్యవాదాలు క్రిస్-కోబ్రాజాక్!).</li>
+          <li lang="pt_BR">Livros com grafia inconsistente agora são agrupados em um único livro (obrigado, chris-kobrzak!).</li>
+          <li lang="nl">Boeken met wisselende spelling worden voortaan gegroepeerd (met dank aan @chris-kobrzak!).</li>
+          <li lang="ms_MY">Buku-buku dengan ejaan tidak konsisten kini dikelompok dalam satu buku (terima kasih chris-kobrzak!).</li>
+          <li lang="it">I libri con ortografia incoerente sono ora raggruppati in un unico libro (grazie chris-kobrzak!).</li>
+          <li lang="hi">असंगत वर्तनी वाली पुस्तकों अब एक ही पुस्तक में वर्गीकृत होंगी (धन्यवाद chris-kobrzak!)।</li>
+          <li lang="gl">Os libros con ortografía inconsistente agrúpanse agora nun só libro (grazas chris-kobrzak!).</li>
+          <li lang="fi">Kirjat joissa on epäjohdonmukaista kielioppia ovat nyt ryhmitetyt yhdeksi kirjaksi (kiitokset chris-kobrzakille!)</li>
+          <li lang="es">Los libros con ortografía inconsistente se agrupan ahora en un solo libro (¡gracias chris-kobrzak!).</li>
+          <li lang="de">Bücher mit unterschiedlicher Groß- und Kleinschreibung werden nun automatisch in einem Hörbuch gruppiert (Danke chris-kobrzak!).</li>
+          <li>Improved reliability of restoring the previous playback position.</li>
+          <li lang="te">మునుపటి ప్లేబ్యాక్ స్థానాన్ని పునరుద్ధరించే మెరుగైన విశ్వసనీయత.</li>
+          <li lang="pt_BR">Maior confiabilidade para restaurar a posição de reprodução anterior.</li>
+          <li lang="nl">[VERBETERD] Betrouwbaarheid van det herstellen van de vorige afspeelpositie.</li>
+          <li lang="ms_MY">Kebolehpercayaan ditambah baik ketika memulihkan kedudukan main balik terdahulu.</li>
+          <li lang="it">Maggiore affidabilità del ripristino della posizione di riproduzione precedente.</li>
+          <li lang="hi">पूर्व वाचक स्थिति की पुनः स्थापना हेतु विश्वसनीयता सुधार।</li>
+          <li lang="gl">Mellora da fiabilidade da restauración da anterior posición de reproducción.</li>
+          <li lang="fi">Parannusta kirjankuuntelun jatkamiseksi edellisen toiston tiimoilta jäädystä toistokohdasta.</li>
+          <li lang="es">Mejorada la fiabilidad de la restauración de la posición de reproducción anterior.</li>
+          <li lang="de">Verbesserte Zuverlässigkeit bei der Wiederherstellung der vorherigen Abspielposition.</li>
+          <li>Fix: clicking on a currently playing chapter did not pause the chapter as expected.</li>
+          <li lang="te">పరిష్కరించండి: ప్రస్తుతం ఆడుతున్న అధ్యాయంపై క్లిక్ చేయడం అధ్యాయాన్ని ఊహించిన విధంగా పాజ్ చేయలేదు.</li>
+          <li lang="pt_BR">Correção: clicar em um capítulo atualmente em reprodução não pausou o capítulo como esperado.</li>
+          <li lang="nl">[OPGELOST] Klikken op een hoofdstuk dat wordt voorgelezen onderbrak het afspelen niet.</li>
+          <li lang="ms_MY">Baiki: Klik pada bab semasa yang dimainkan tidak dijeda seperti yang diharapkan.</li>
+          <li lang="it">Correzione: facendo clic su un capitolo in riproduzione non si metteva in pausa il capitolo come previsto.</li>
+          <li lang="hi">सुधार : वर्तमान में चालू अध्याय पर क्लिक कर उसे रोकने की प्रक्रिया अब उचित रूप से कार्य करती है।</li>
+          <li lang="gl">Corrección: ao facer clic nun capítulo que se estaba reproducindo non se pausaba o capítulo como se esperaba.</li>
+          <li lang="fi">Korjaus: napsauttaessa sillä hetkellä toistossa olevan luvun päällä ei aiemmin tauottanut toistoa kuten tarkoitus.</li>
+          <li lang="es">Corrección: al hacer clic en un capítulo que se estaba reproduciendo no se pausaba el capítulo como se esperaba.</li>
+          <li lang="de">Fix: beim Klick auf das Kapitel, das gerade abgespielt wird, wurde es nicht wie erwartet pausiert.</li>
+          <li>As always, updated translations thanks to all of the translators!</li>
+          <li lang="tr">Her zaman olduğu gibi, tüm çevirmenler sayesinde güncellenmiş çeviriler! </li>
+          <li lang="te">ఎప్పటిలాగే, నవీకరించబడిన అనువాదాలు అనువాదకులందరికీ ధన్యవాదాలు!</li>
+          <li lang="ru">Как обычно, обновлены все переводы. Благодарим всех переводчиков!</li>
+          <li lang="pt_BR">Como sempre, traduções atualizadas graças a todos os tradutores!</li>
+          <li lang="nl">Zoals altijd zijn er weer vertalingen bijgewerkt, met dank aan alle vertalers!</li>
+          <li lang="ms_MY">Seperti biasa, kemas kini terjemahan terima kasih para penterjemah!</li>
+          <li lang="it">Come sempre, traduzioni aggiornate grazie a tutti i traduttori!</li>
+          <li lang="hi">हमेशा की भाँति अनुवाद अपडेट हेतु सभी अनुवादकों को धन्यवाद!</li>
+          <li lang="gl">Como sempre, traducións actualizadas grazas a todos os tradutores!</li>
+          <li lang="fr">Comme toujours, de nouvelles traductions grâce à tous les traducteurs !</li>
+          <li lang="fi">Kuten aina, päivitetyt kielikäännökset ovat täällä; kiitokset kaikille suomentajille!</li>
+          <li lang="es">Como siempre, ¡traducciones actualizadas gracias a todos los traductores!</li>
+          <li lang="de">Wie immer, neue Übersetzungen dank allen Übersetzern!</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="violence-desecration">none</content_attribute>
+    <content_attribute id="violence-slavery">none</content_attribute>
+    <content_attribute id="violence-worship">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="sex-homosexuality">none</content_attribute>
+    <content_attribute id="sex-prostitution">none</content_attribute>
+    <content_attribute id="sex-adultery">none</content_attribute>
+    <content_attribute id="sex-appearance">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+  <custom>
+    <value key="x-appcenter-color-primary">#FB6542</value>
+    <value key="x-appcenter-color-primary-text">#FFFFFF</value>
+    <value key="x-appcenter-suggested-price">2</value>
+    <value key="x-appcenter-stripe">pk_live_XJocNlICBfLqHpdZXN0LxlyV00xrhZTbDe</value>
+  </custom>
+</component>

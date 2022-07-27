@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>heimer</pkgname>
+  <launchable type="desktop-id">heimer.desktop</launchable>
+  <icon type="cached" width="64" height="64">heimer.png</icon>
+  <icon width="128" type="cached" height="128">heimer.png</icon>
+  <id>heimer.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0 and CC BY-SA-3.0</project_license>
+  <name>Heimer</name>
+  <summary>An application for mind map creation and management.</summary>
+  <description>
+    <p>
+      Heimer is an application for mind map creation and management written in Qt (C++).
+    </p>
+  </description>
+  <screenshots />
+  <url type="homepage">https://juzzlin.github.io/Heimer/</url>
+  <update_contact>jussi.lind@iki.fi</update_contact>
+</component>

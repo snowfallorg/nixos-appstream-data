@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>malcontent-ui</pkgname>
+  <icon width="64" height="64" type="cached">org.freedesktop.MalcontentControl.png</icon>
+  <icon type="cached" width="128" height="128">org.freedesktop.MalcontentControl.png</icon>
+  <id>org.freedesktop.MalcontentControl</id>
+  <metadata_license>CC-BY-SA-3.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <!-- Translators: the name of the application as it appears in a software center -->
+  <name>Parental Controls</name>
+  <name lang="zh_TW">家長控制</name>
+  <name lang="uk">Батьківський контроль</name>
+  <name lang="tr">Ebeveyn Denetimleri</name>
+  <name lang="sv">Föräldrakontroller</name>
+  <name lang="pt_BR">Controle parental</name>
+  <name lang="pl">Kontrola rodzicielska</name>
+  <name lang="it">Controlli parentali</name>
+  <name lang="id">Pengawasan Orang Tua</name>
+  <name lang="hi">पैरेंटल कंट्रोल </name>
+  <name lang="fr">Contrôles parentaux</name>
+  <name lang="es">Controles parentales</name>
+  <name lang="de">Kindersicherung</name>
+  <name lang="da">Forældrestyring</name>
+  <name lang="cs">Rodičovská kontrola</name>
+  <name lang="ca">Controls parentals</name>
+  <name lang="ar">أدوات الإشراف العائلي</name>
+  <!-- Translators: the brief summary of the application as it appears in a software center. -->
+  <summary>Set parental controls and monitor usage by users</summary>
+  <summary lang="zh_TW">設定家長控制和監視孩童或青少年的使用情況</summary>
+  <summary lang="uk">Встановити батьківський контроль і стежити за користувачами</summary>
+  <summary lang="tr">Ebeveyn denetimlerini ayarlayın ve kullanıcılarla kullanımı izleyin</summary>
+  <summary lang="sv">Ställ in föräldrakontroller och övervaka användares användning</summary>
+  <summary lang="pt_BR">Defina o controle parental e monitore o uso por usuários</summary>
+  <summary lang="pl">Kontrola rodzicielska i monitorowanie użycia</summary>
+  <summary lang="it">Imposta i controlli parentali e monitora l'utilizzo degli utenti</summary>
+  <summary lang="id">Tata kontrol orangtua dan pantau pemakaian oleh pengguna</summary>
+  <summary lang="hi">पैरेंटल नियंत्रण सेट करें और यूजर द्वारा प्रयोग को मॉनीटर करें</summary>
+  <summary lang="fr">Configurer les contrôles parentaux et surveiller l'usage par les utilisateurs</summary>
+  <summary lang="es">Establezca controles parentales y supervise el uso por parte de los usuarios</summary>
+  <summary lang="de">Kindersicherungen erstellen und Computernutzung pro Benutzer verwalten</summary>
+  <summary lang="da">Indstil forældrestyring og overvåg brugernes anvendelse</summary>
+  <summary lang="cs">Nastavte rodičovskou kontrolu a monitorujte používání uživateli</summary>
+  <summary lang="ca">Definir els controls parentals i supervisar-ne l'ús</summary>
+  <summary lang="ar">قُم بضبط الإشراف العائلي ومراقبة الاستخدام بواسطة المستخدمين</summary>
+  <description>
+    <p>
+      Manage users’ parental controls restrictions, controlling how long they
+      can use the computer for, what software they can install, and what
+      installed software they can run.
+    </p>
+  </description>
+  <description lang="ar">
+    <p>إدارة قيود الإشراف العائلي للمستخدمين، والتحكم في المدة التي يمكنهم خلالها استخدام الكمبيوتر، والبرنامج الذي يمكنهم تثبيته، والبرنامج المثبت الذي يمكنهم تشغيله</p>
+  </description>
+  <description lang="ca">
+    <p>Gestionar les restriccions dels controls parentals dels usuaris, controlar quant de temps poden utilitzar l'ordinador, quin programari poden instal·lar i quin programari instal·lat poden executar.</p>
+  </description>
+  <description lang="cs">
+    <p>Spravujte omezení rodičovské kontroly uživatelů, určující jak dlouho mohou používat počítač, jaký software mohou instalovat a jaký software mohou spouštět.</p>
+  </description>
+  <description lang="da">
+    <p>Håndter brugernes forældrestyringsbegrænsninger, styring af hvor længe de kan bruge computeren, hvilke software de kan installere og hvilke installeret software de kan køre.</p>
+  </description>
+  <description lang="de">
+    <p>Die Einschränkungen des Nutzers verwalten, wie lange sie den Computer nutzen können, welche Software sie installieren können und welche bereits installierte Software ausgeführt werden darf.</p>
+  </description>
+  <description lang="es">
+    <p>Gestione las restricciones de los controles parentales de los usuarios, controlando el tiempo que pueden usar el equipo, el software que pueden instalar y el software instalado que pueden ejecutar.</p>
+  </description>
+  <description lang="fr">
+    <p>Gérez les restrictions des contrôles parentaux des utilisateurs, contrôlez la durée pendant laquelle ils peuvent utiliser l'ordinateur, quels logiciels ils peuvent installer, et quels logiciels installés ils peuvent exécuter.</p>
+  </description>
+  <description lang="hi">
+    <p>उपयोगकर्ताओं के पैरेंटल कंट्रोल प्रतिबंधों को प्रबंधित करें, यह नियंत्रित करते हुए कि वे कितने समय तक कंप्यूटर का उपयोग कर सकते हैं, वे कौन सा सॉफ़्टवेयर इंस्टाल कर सकते हैं और कौन से इंस्टाल हो चुके सॉफ़्टवेयर चला सकते हैं।</p>
+  </description>
+  <description lang="id">
+    <p>Kelola pembatasan kontrol orang tua pengguna, mengontrol berapa lama mereka dapat menggunakan komputer, perangkat lunak apa yang dapat mereka instal, dan perangkat lunak terinstal mana yang dapat mereka jalankan.</p>
+  </description>
+  <description lang="it">
+    <p>Gestisce i limiti sui controlli parentali dell'utente, controllando per quanto tempo possono usare il computer, che software possono installare e quali applicazioni installate possono usare.</p>
+  </description>
+  <description lang="pl">
+    <p>Umożliwia zarządzanie ograniczeniami kontroli rodzicielskiej użytkowników, kontrolowanie jak długo mogą używać komputera, jakie oprogramowanie mogą instalować oraz którego zainstalowanego oprogramowania mogą używać.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Gerencie as restrições de controle parental dos usuários, controlando por quanto tempo eles podem usar o computador, qual software eles podem instalar e qual software instalado eles podem executar.</p>
+  </description>
+  <description lang="sv">
+    <p>Hantera användares föräldrakontrollsbegränsningar, vilket styr hur länge de kan använda datorn, vilken programvara de kan installera, och vilken installerad programvara som de kan köra.</p>
+  </description>
+  <description lang="tr">
+    <p>Kullanıcıların ebeveyn denetimi kısıtlamalarını yönetin, bilgisayarı ne çok süre kullanabileceklerini, hangi yazılımları kurabileceklerini ve hangi kurulu yazılımları çalıştırabileceklerini denetleyin.</p>
+  </description>
+  <description lang="uk">
+    <p>Керуйте обмеженнями батьківського контролю користувачів, зокрема часом, протягом якого можна працювати з комп'ютером, переліком програмного забезпечення, яке можна встановлювати, та переліком програмного забезпечення, яке можна запускати.</p>
+  </description>
+  <description lang="zh_TW">
+    <p>管理孩童或青少年的家長控制設定值，控制他們的電腦使用時間、可以安裝的軟體以及能執行哪些已安裝的軟體。</p>
+  </description>
+  <screenshots>
+    <screenshot height="552" width="699" type="default">
+      <image>https://gitlab.freedesktop.org/pwithnall/malcontent/-/raw/HEAD/malcontent-control/malcontent-control.png</image>
+      <caption>Main window</caption>
+      <caption lang="zh_TW">主視窗</caption>
+      <caption lang="uk">Головне вікно</caption>
+      <caption lang="tr">Ana pencere</caption>
+      <caption lang="sv">Huvudfönster</caption>
+      <caption lang="pl">Główne okno</caption>
+      <caption lang="it">Finestra principale</caption>
+      <caption lang="id">Jendela utama</caption>
+      <caption lang="de">Hauptfenster</caption>
+      <caption lang="da">Hovedvindue</caption>
+      <caption lang="cs">Hlavní okno</caption>
+      <caption lang="ca">Finestra principal</caption>
+    </screenshot>
+  </screenshots>
+  <provides>
+    <binary>malcontent-control</binary>
+  </provides>
+  <launchable type="desktop-id">org.freedesktop.MalcontentControl.desktop</launchable>
+  <url type="homepage">https://gitlab.freedesktop.org/pwithnall/malcontent</url>
+  <url type="bugtracker">https://gitlab.freedesktop.org/pwithnall/malcontent/issues</url>
+  <url type="donation">http://www.gnome.org/friends/</url>
+  <url type="translate">https://wiki.gnome.org/TranslationProject/LocalisationGuide</url>
+  <update_contact>philip_at_tecnocode.co.uk</update_contact>
+  <compulsory_for_desktop>GNOME</compulsory_for_desktop>
+  <project_group>GNOME</project_group>
+  <developer_name>The GNOME Project</developer_name>
+  <developer_name lang="zh_TW">GNOME 專案</developer_name>
+  <developer_name lang="uk">Проєкт GNOME</developer_name>
+  <developer_name lang="tr">GNOME Projesi</developer_name>
+  <developer_name lang="sv">GNOME-projektet</developer_name>
+  <developer_name lang="pt_BR">O Projeto GNOME</developer_name>
+  <developer_name lang="pl">Projekt GNOME</developer_name>
+  <developer_name lang="it">Il progetto GNOME</developer_name>
+  <developer_name lang="id">Projek GNOME</developer_name>
+  <developer_name lang="es">El proyecto GNOME</developer_name>
+  <developer_name lang="de">Das GNOME-Projekt</developer_name>
+  <developer_name lang="da">GNOME-projektet</developer_name>
+  <developer_name lang="cs">Projekt GNOME</developer_name>
+  <developer_name lang="ca">El projecte GNOME</developer_name>
+  <kudos>
+    <kudo>AppMenu</kudo>
+    <kudo>HighContrast</kudo>
+    <kudo>ModernToolkit</kudo>
+  </kudos>
+  <translation type="gettext">malcontent</translation>
+  <releases>
+    <release version="0.10.5" date="2022-05-31" type="stable">
+      <description>
+        <p>This is a stable release with the following changes:</p>
+        <ul>
+          <li>German translation of the user help</li>
+          <li>Translation updates</li>
+          <li lang="es">Traducciones actualizadas</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2022-03-09" type="stable" version="0.10.4">
+      <description>
+        <p>This is a stable release with the following changes:</p>
+        <ul>
+          <li>Italian translation of the user help</li>
+          <li>Translation updates</li>
+          <li lang="es">Traducciones actualizadas</li>
+        </ul>
+      </description>
+    </release>
+    <release type="stable" version="0.10.3" date="2021-11-01">
+      <description>
+        <p>This is a stable release with the following changes:</p>
+        <ul>
+          <li>Prevent malcontent-control from being uninstalled and removing core desktop components with it</li>
+          <li>Improve keyboard navigation of the interface</li>
+          <li>Translation updates</li>
+          <li lang="es">Traducciones actualizadas</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.10.2" date="2021-09-17" type="stable">
+      <description>
+        <p>This is a stable release with the following changes:</p>
+        <ul>
+          <li>Hide the launcher for malcontent-control from gnome-shell if using the GNOME desktop; find it via gnome-control-center instead</li>
+          <li>Translation updates</li>
+          <li lang="es">Traducciones actualizadas</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-03-11" type="stable" version="0.10.1">
+      <description>
+        <p>This is a stable release with the following changes:</p>
+        <ul>
+          <li>Sort apps by displayed name when listing them</li>
+          <li>Translation updates</li>
+          <li lang="es">Traducciones actualizadas</li>
+        </ul>
+      </description>
+    </release>
+    <release type="stable" version="0.10.0" date="2020-12-09">
+      <description>
+        <p>This is a stable release with the following changes:</p>
+        <ul>
+          <li>Reload the application list when apps are installed or removed</li>
+          <li>Fix some data loss consistency problems in the UI</li>
+          <li>Hide support for flatpak user repositories, as they are typically not configured</li>
+          <li>Minor improvements to parental controls application UI</li>
+          <li lang="es">Refinamientos a la interfaz de usuario de la aplicación de controles parentales</li>
+          <li>Translation updates</li>
+          <li lang="es">Traducciones actualizadas</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-09-03" type="stable" version="0.9.0">
+      <description>
+        <p>This is a stable release with the following changes:</p>
+        <ul>
+          <li>Minor improvements to parental controls application UI</li>
+          <li lang="es">Refinamientos a la interfaz de usuario de la aplicación de controles parentales</li>
+          <li>Choose rating system by territory rather than language</li>
+          <li>Translation updates</li>
+          <li lang="es">Traducciones actualizadas</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.8.0" type="stable" date="2020-04-28">
+      <description>
+        <p>This is a stable release with the following changes:</p>
+        <ul>
+          <li>Minor improvements to parental controls application UI</li>
+          <li lang="es">Refinamientos a la interfaz de usuario de la aplicación de controles parentales</li>
+          <li>Add a user manual</li>
+          <li lang="es">Incorporación de un manual de uso</li>
+          <li>Translation updates</li>
+          <li lang="es">Traducciones actualizadas</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.7.0" date="2020-03-24" type="stable">
+      <description>
+        <p>This is a stable release with the following changes:</p>
+        <ul>
+          <li>Minor improvements to parental controls application UI</li>
+          <li lang="es">Refinamientos a la interfaz de usuario de la aplicación de controles parentales</li>
+          <li>Translations to Ukrainian and Polish</li>
+          <li lang="es">Traducciones en ucraniano y polaco</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-02-26" type="stable" version="0.6.0">
+      <description>
+        <p>This is a stable release with the following changes:</p>
+        <ul>
+          <li>Improve parental controls application UI and add icon</li>
+          <li lang="es">Mejoras a la interfaz de la aplicación de controles parentales y adición de un icono</li>
+          <li>Support for indicating which accounts are parent accounts</li>
+          <li lang="es">Es posible indicar cuáles cuentas pertenecen a los padres</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.5.0" date="2020-02-14" type="stable">
+      <description>
+        <p>This is a stable release with the following changes:</p>
+        <ul>
+          <li>Initial release of basic parental controls application</li>
+          <li lang="es">Versión inicial de la aplicación de controles parentales básicos</li>
+          <li>Support for setting app installation and run restrictions on users</li>
+          <li lang="es">Se permite establecer restricciones de instalación y ejecución de aplicaciones para cada cuenta</li>
+        </ul>
+      </description>
+    </release>
+    <release type="stable" version="0.4.0" date="2019-07-17">
+      <description>
+        <p>This is a stable release with the following changes:</p>
+        <ul>
+          <li>Maintenance release of underlying parental controls library</li>
+          <li lang="es">Actualización de mantenimiento para la biblioteca subyacente de los controles parentales</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <content_rating type="oars-1.1" />
+</component>

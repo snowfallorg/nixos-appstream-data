@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>
+      K3b was created to be a feature-rich and easy to handle CD burning
+      application. It consists of basically three parts:
+    </p>
+    <ul>
+      <li>
+        The projects: Projects are created from the file menu and then filled with
+        data to burn
+      </li>
+      <li>
+        The Tools: The tools menu offers different tools like CD copy or DVD
+        formatting
+      </li>
+      <li>
+        Context sensitive media actions: When clicking on the Icon representing a
+        CD/DVD drive K3b will present its contents and allow some further action.
+        This is for example the way to rip audio CDs
+      </li>
+    </ul>
+  </description>
+  <description lang="ar">
+    <p>صُنع «كي٣بي» ليكون تطبيق حرق أقراص غنيّ بمزاياه وسهل التّعامل. يتكوّن التّطبيق من ثلاثة أجزاء:</p>
+    <ul>
+      <li>المشاريع: المشاريع التي تُنشأ من قائمة ”ملفّ“ وثمّ تُملأ بالبيانات للحرق</li>
+      <li>الأدوات: توفّر قائمة ”أدوات“ مختلف الأدوات مثل نسخ الأسطوانات أو تهيئة أسطوانات DVD</li>
+      <li>إجراءات وسائط حسّاسة للسّياق: عند نقر أيقونة ترمز إلى جهاز أسطوانات/دي‌ڤي‌دي، سيعرض «كي٣بي» محتوياته ويتيح إجراءات أخرى. هذه (مثلًا) هي طريقة لتفريغ الأسطوانات الصّوتيّة</li>
+    </ul>
+  </description>
+  <description lang="bs">
+    <p>K3b je stvoren da bude aplikacija za prženje CD-ova bogata funkcijama i jednostavna za rukovanje. Sastoji se od tri dela u osnovi:</p>
+  </description>
+  <description lang="ca">
+    <p>El K3b es va crear per a ser una aplicació de gravació de CD plena de funcionalitats i fàcil de fer servir. Bàsicament, consisteix en tres parts:</p>
+    <ul>
+      <li>Els projectes: Els projectes es creen des del menú Fitxer i s'omplen amb les dades a gravar</li>
+      <li>Les eines: El menú Eines ofereix diferents eines com la còpia de CD o la formatació de DVD</li>
+      <li>Accions de suports sensibles al context: En clicar sobre la icona que representa una unitat de CD/DVD, el K3b presentarà el seu contingut i permetrà diverses accions. Per exemple, aquesta és la manera d'extreure els CD d'àudio</li>
+    </ul>
+  </description>
+  <description lang="ca-valencia">
+    <p>K3b es va crear per a ser una aplicació de gravació de CD plena de funcionalitats i fàcil d'utilitzar. Bàsicament, consistix en tres parts:</p>
+    <ul>
+      <li>Els projectes: Els projectes es creen des del menú Fitxer i s'òmpliguen amb les dades que es gravaran</li>
+      <li>Les eines: El menú Eines oferix diferents eines com la còpia de CD o la formatació de DVD</li>
+      <li>Accions de suports sensibles al context: En clicar sobre la icona que representa una unitat de CD/DVD, K3b presentarà el seu contingut i permetrà diverses accions. Per exemple, esta és la manera d'extreure els CD d'àudio</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>K3b bylo vytvořeno jako aplikace se spoustou vlastností a zároveň jednoduchá na používání. Skládá se v podstatě ze tří částí:</p>
+    <ul>
+      <li>Projekty: Projekty jsou vytvořeny z nabídky souboru a poté naplněny daty pro vypálení</li>
+      <li>Nástroje: Nabídka nástrojů nabízí různé nástroje jako třeba kopírování CD nebo formátování DVD</li>
+      <li>Činnosti s médii odpovídají situaci: Při kliknutí na ikonu reprezentující mechaniku CD/DVD, vám K3b zobrazí jejich obsah a nabídne nějakou další činnost. Například se takto dají ripovat audio CD</li>
+    </ul>
+  </description>
+  <description lang="da">
+    <p>K3b blev skabt til at være et funktionsrigt og brugervenligt cd-brænderprogram. Det består grundlæggende af tre dele:</p>
+    <ul>
+      <li>Projekterne: Projekter oprettes fra menuen Fil og udfyldes så med data der skal brændes</li>
+      <li>Værktøjerne: Menuen Værktøjer tilbyder forskellige værktøjer såsom cd-kopiering eller dvd-formattering</li>
+      <li>Kontekstafhængige mediehandlinger: Ved klik på ikonet som repræsenterer et cd-/dvd-drev vil K3b vise dets indhold og give mulighed for yderligere handling. Det er f.eks. sådan man ripper lyd-cd'er</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>K3b wurde als CD-Brennprogramm mit vielen Funktionen und einfacher Bedienung entwickelt. Es besteht im wesentlichen aus drei Teilen:</p>
+    <ul>
+      <li>Projekte: Projekte werden im Dateimenü erstellt und dann mit Daten zum Schreiben gefüllt</li>
+      <li>Extras: Im Menü Extras finden Sie verschiedene Aktionen wie das Kopieren von CDs oder die Formatierung von DVDs</li>
+      <li>Kontextsensitive Aktionen für Medien: Wenn Sie auf das Symbol eines CD-/DVD-Laufwerks klicken, zeigt K3b deren Inhalt und ermöglicht weitere Aktionen, zum Beispiel das Auslesen einer Audio-CD</li>
+    </ul>
+  </description>
+  <description lang="el">
+    <p>Το K3b δημιουργήθηκε για να είναι μια πλούσια χαρακτηριστικών και εύκολη στη χρήση εφαρμογή εγραφής σε CD. Βασικά αποτελείται από τρία μέρη:</p>
+    <ul>
+      <li>Τα έργα: Έργα δημιουργούνται από το μενού Αρχείο και έπειτα γεμίζονται με τα δεδομένα για εγγραφή</li>
+      <li>Τα εργαλεία: Το μενού Εργαλεία προσφέρει διάφορα εργαλεία όπως αντγραφή CD ή φορμάρισμα DVD</li>
+      <li>Ενέργειες πολυμέσων με ευαισθησία στο περιεχόμενο: Όταν κάνετε κλικ στο εικονίδιο που αναπαριστά έναν οδηγό CD/DVD, το K3b θα παρουσιάσει τα περιεχόμενά του και θα επιτρέψει κάποιες άλλες ενέργειες. Αυτός είναι για παράδειγμα, ο τρόπος εγγραφής σε CD ήχου</li>
+    </ul>
+  </description>
+  <description lang="en-GB">
+    <p>K3b was created to be a feature-rich and easy to handle CD burning application. It consists of basically three parts:</p>
+    <ul>
+      <li>The projects: Projects are created from the file menu and then filled with data to burn</li>
+      <li>The Tools: The tools menu offers different tools like CD copy or DVD formatting</li>
+      <li>Context sensitive media actions: When clicking on the Icon representing a CD/DVD drive K3b will present its contents and allow some further action. This is for example the way to rip audio CDs</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>K3b se creó para ser una aplicación para manejar grabaciones de CD rica en funcionalidades y fácil de usar. Consta básicamente de tres componentes:</p>
+    <ul>
+      <li>Los proyectos: los proyectos se crean desde el menú archivo y, a continuación, se cumplimentan con los datos a grabar</li>
+      <li>Las herramientas: el menú herramientas ofrece diferentes herramientas, como copia de CD o formateo de DVD</li>
+      <li>Acciones de medios sensibles al contexto: cuando se pulsa sobre un icono que representa una unidad de CD/DVD, K3b presentará su contenido y permitirá algunas acciones adicionales. Esto es, por ejemplo, el modo de extraer CD de audio</li>
+    </ul>
+  </description>
+  <description lang="et">
+    <p>K3b loodi võimalusterohkeks ja hõlpsasti kasutatavaks CD-de kirjutamise rakenduseks. See koosneb kolmest põhiosast:</p>
+    <ul>
+      <li>Projektid: neid saab luua menüüst Fail ja seejärel täita andmetega, mida soovid kirjutada</li>
+      <li>Tööriistad: vastav menüü pakub mitmesuguseid tööriistu, näiteks CD kopeerimiseks või DVD vormindamiseks</li>
+      <li>Kontekstitundlikud meediatoimingud: CD/DVD-plaati kujutavale ikoonile klõpsates näitab K3b selle sisu ja lubab sooritada mõningaid toiminguid. Nii saab näiteks rippida heli-CD-sid</li>
+    </ul>
+  </description>
+  <description lang="eu">
+    <p>K3b eginbidetan aberatsa eta erabiltzeko erraza izango zen CDak erretzeko aplikazio bat izateko sortu zen. Funtsean hiru zati ditu:</p>
+    <ul>
+      <li>Proiektua: Proiektuak fitxategi menutik sortu eta gero erreko diren datuz betetzen dira</li>
+      <li>Tresnak: Tresnak menuak tresna ezberdinak eskaintzen ditu, tartean CD kopia edo DVD formateatzea</li>
+      <li>Testuinguruarekiko sentikorrak diren euskarri ekintzak: CD/DVD gailu bat ordezkatzen duten ikonoetan klik egitean, K3b-k haien edukia aurkeztuko du eta beste ekintza batzuk egiteko aukera emango du. Hau da esaterako audio CDak erauzteko era.</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>K3b on rakennettu monipuoliseksi ja helppokäyttöiseksi CD-polttosovellukseksi. Se koostuu ennen kaikkea kolmesta osasta:</p>
+    <ul>
+      <li>Projektit: Projektit luodaan tiedostovalikosta, jonka jälkeen ne täytetään kirjoitettavalla tiedolla</li>
+      <li>Työkalut: Työkaluvalikosta löytyy työkaluja mm. CD:n kopiointiin tai DVD:n alustukseen</li>
+      <li>Kontekstisidonnaiset toimenpiteet: Napsautettaessa CD- tai DVD-asemaa esittävää kuvaketta K3b näyttää sen sisällön ja tarjoaa lisätoimenpiteitä. Tämä on esimerkiksi helpoin tapa purkaa ääni-CD:t tiedostoiksi</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>K3b a été créé comme une application de gravure de CD riche en fonctionnalité et facile à prendre en main. Il est simplement constitué de trois parties :</p>
+    <ul>
+      <li>Les projets : les projets sont créés depuis le menu fichier et remplis avec les données à graver</li>
+      <li>Les outils : le menu outils offre différente fonctionnalité comme la copie de CD ou le formatage de DVD.</li>
+      <li>Des actions sur les média sensibles au contexte : quand vous cliquez sur l'icône représentant un lecteur de CD ou DVD, K3b vous présentera son contenu et permettra de nouvelles actions. Ceci est par exemple la méthode pour extraire des CD audio.</li>
+    </ul>
+  </description>
+  <description lang="gl">
+    <p>K3b creouse para ser unha aplicación de gravar CD chea de funcionalidades e fácil de usar. Consiste basicamente en tres partes:</p>
+    <ul>
+      <li>Os proxectos, que se crean desde o menú de ficheiro e se completan posteriormente con datos para gravar.</li>
+      <li>As ferramentas. O menú de ferramentas ofrece utilidades con diversas funcións, como as de copiar CD ou formatar DVD.</li>
+      <li>Accións de recursos segundo o contexto. Ao premer a icona de unidade de CD/DVD, K3b presenta o seu contido e permite realizar accións. Por exemplo, así é como se extraen datos de CD de son.</li>
+    </ul>
+  </description>
+  <description lang="hu">
+    <p>A K3b azért jött létre, hogy egy funkció-gazdag és könnyen kezelhető CD-író alkalmazás legyen. Alapvetően három részből áll:</p>
+    <ul>
+      <li>A projektek: a projektek a fájlmenüből hozhatók létre, majd tölthetők fel adatokkal az íráshoz</li>
+      <li>Az eszközök: az eszközök menü különböző eszközöket kínál, úgymint CD-másolás vagy DVD-formázás</li>
+      <li>Környezetérzékeny médiaműveletek: a CD/DVD meghajtót ábrázoló ikonra kattintáskor a K3b meg fogja jeleníteni azok tartalmát, és néhány további műveletet engedélyez. Például ez a módja hang CD beolvasásának</li>
+    </ul>
+  </description>
+  <description lang="ia">
+    <p>K3b esseva create per esser un application de gravar ric in characteristicas e facile de manear. Illo consiste fundamentalmente de tres partes:</p>
+    <ul>
+      <li>Le projectos: Projectos es create ex le menu de file e postea reimplite con datos de gravar </li>
+      <li>Le instrumentos: Le menu de instrumentos offere instrumentos differente como copia de CD o formattation de DVD</li>
+      <li>Actiones de multimedia sensibile al contexto: Quando on pulsa sur le icone representante un drive de CD/DVD KDE monstrara su contentos e permittera ulterior actiones. Isto es pro exemplo le modo de rippar CDs audio.  </li>
+    </ul>
+  </description>
+  <description lang="id">
+    <p>K3b telah diciptakan untuk menjadi sebuah aplikasi yang kaya-fitur dan mudah untuk menangani pemburningan CD. Yang terdiri dari tiga bagian:</p>
+    <ul>
+      <li>Projects: Projek yang diciptakan dari menu file dan kemudian diisi dengan data untuk di-burn</li>
+      <li>Tools: Menu alat membawakan alat-alat yang berbeda seperti CD copy atau DVD formatting</li>
+      <li>Context sensitive media actions: Ketika mengeklik pada Ikon misal sebuah CD/DVD drive K3b akan menampilkan isinya dan memungkinkan beberapa aksi selanjutnya. Ini adalah contoh bagaimana caranya untuk merabit audio CD</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>K3b è stato progettato per essere un'applicazione per la masterizzazione di CD di semplice gestione e ricca di funzionalità. Consiste essenzialmente di tree parti:</p>
+    <ul>
+      <li>I progetti: sono creati dal menu File e poi completati dai dati da masterizzare</li>
+      <li>Gli strumenti: questo menu offre diversi strumenti come la copia dei CD o la formattazione dei DVD</li>
+      <li>Azioni sensibili al contesto: quando si fa clic sull'icona che rappresenta un lettore CD/DVD, K3b presenterà il suo contenuto e consentirà alcune azioni ulteriori. Questo è, ad esempio, il modo di estrarre i CD audio</li>
+    </ul>
+  </description>
+  <description lang="ko">
+    <p>K3b는 다양한 기능이 있고 사용하기 편한 CD 작성 프로그램입니다. 크게 세 가지 부분으로 구성됩니다:</p>
+    <ul>
+      <li>프로젝트: 파일 메뉴에서 만들 수 있으며 기록할 데이터를 파일로 저장합니다</li>
+      <li>도구: 도구 메뉴는 CD 복사와 DVD 포맷과 같은 도구를 제공합니다</li>
+      <li>미디어 종류에 따른 동작: CD/DVD 드라이브 아이콘을 클릭하면 내용과 사용 가능한 동작을 표시합니다. 예를 들어 오디오 CD를 삽입한 경우 음악을 추출할 수 있습니다</li>
+    </ul>
+  </description>
+  <description lang="nds">
+    <p>K3b schall en eenfach bruukbor CD-Brennprogramm mit vele Funkschonen wesen. Dat is in de Hööftsaak ut dree Delen opbuut:</p>
+  </description>
+  <description lang="nl">
+    <p>K3b is gemaakt om een rijk aan functies en gemakkelijk te gebruiken cd's te branden. Het bestaat in de basis uit drie delen:</p>
+    <ul>
+      <li>De projecten: Projecten worden gemaakt uit het menu voor bestanden en daarna gevuld met gegevens on te branden</li>
+      <li>De hulpmiddelen: Het menu Hulpmiddelen biedt verschillende hulpmiddelen zoals kopiëren van cd of formattering van een dvd</li>
+      <li>Context gevoelige mediumacties: bij klikken op het pictogram voor een cd/dvd-apparaat zal K3b zijn inhoud weergeven en enige verdere acties. Dit is bijvoorbeeld de manier om audio-cd's te rippen</li>
+    </ul>
+  </description>
+  <description lang="nn">
+    <p>K3b er eit funksjonsrikt og brukarvennleg brenneprogram for CD-ar og DVD-ar. Det har tre delar:</p>
+    <ul>
+      <li>Prosjekt: Prosjekt vert oppretta frå «Fil»-menyen og kan så fyllast med data som skal brennast.</li>
+      <li>Verktøy: «Verktøy»-menyen har ulike verktøy, for eksempel for CD-kopiering og DVD-formatering.</li>
+      <li>Situasjonsavhengige mediehandlingar: Når du trykkjer på eit ikon for ein CD-/DVD-stasjon vil K3b visa innhaldet der og tilby ulike handlingar. Du kan for eksempel henta ut lyden frå lyd-CD-ar.</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <p>K3b został stworzony, aby być programem do wypalania płyt CD bogatym w cechy i łatwym w obsłudze. Składa się z trzech podstawowych części:</p>
+    <ul>
+      <li>Projekty: Projekty są tworzone z menu plik, a następnie wypełniane danymi do wypalenia</li>
+      <li>Narzędzia: Menu narzędzi dostarcza różnych narzędzi takich jak powielenie CD lub formatowanie DVD</li>
+      <li>Działania wrażliwe na stosowany nośnik: Przy naciśnięciu na ikonę przedstawiającą napęd CD/DVD K3b przedstawi jej zawartość i umożliwi podjęcie dalszych działań. Jest to na przykład sposób na zgranie płyt CD z muzyką</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>O K3b foi criado para ser uma aplicação de gravação de CD's completa e fácil de usar. Consiste basicamente em três partes:</p>
+    <ul>
+      <li>Os projectos: Os projectos são criados a partir do menu de ficheiros e depois preenchidos com os dados a gravar</li>
+      <li>As ferramentas: O menu de ferramentas oferece diversas funcionalidades como a cópia de CD's ou a formatação de DVD's</li>
+      <li>Acções dependentes do contexto: Ao carregar no ícone que representa um leitor de CD/DVD, o K3b irá apresentar o seu conteúdo e permitir algumas acções adicionais. Esta é, por exemplo, a forma de extrair músicas de CD's de áudio</li>
+    </ul>
+  </description>
+  <description lang="pt-BR">
+    <p>O K3b foi criado para ser um aplicativo para gravação de CDs completo e fácil de usar. Ele consiste basicamente em três partes:</p>
+    <ul>
+      <li>Projetos: Os projetos são criados a partir do menu Arquivo e depois preenchidos com os dados a gravar</li>
+      <li>Ferramentas: O menu Ferramentas oferece diversas opções, como a cópia de CD ou a formatação de DVD</li>
+      <li>Ações que dependem do contexto: Ao clicar no ícone que representa uma unidade de CD/DVD, o K3b irá apresentar o seu conteúdo e permitir algumas ações adicionais. Esta é, por exemplo, a forma de extrair músicas de CDs de áudio</li>
+    </ul>
+  </description>
+  <description lang="ru">
+    <p>K3b является полнофункциональным и простым в использовании приложением для записи дисков. Интерфейс приложения разделён на три основных раздела:</p>
+    <ul>
+      <li>Проекты: для создания проекта служит меню «Файл», после чего новый проект следует наполнить данными, которые будут записаны на диск;</li>
+      <li>Инструменты: в этом меню содержатся различные инструменты, такие как копирование дисков или форматирование DVD;</li>
+      <li>Различные действия в контекстном меню, зависящие от типа данных: при нажатии на значок CD или DVD привода приложение покажет его содержимое и предложит различные действия. На изображении показано создание образа звукового диска.</li>
+    </ul>
+  </description>
+  <description lang="sk">
+    <p>K3b bol vytvorený na to, aby bola bohatá na funkcie a jednoduchá na používanie aplikácia na napaľovanie. Skladá sa z troch častí:</p>
+    <ul>
+      <li>Projekty: Projekty sa tvoria z ponuky súbor a potom sa naplnia dátami na napálenie.</li>
+      <li>Nástroje: Ponuka nástroje poskytuje iné nástroje ako kopírovanie CD alebo formátovanie DVD.</li>
+      <li>Kontextovo citlivé akcie médií: Pri kliknutí na ikonu reprezentujúcu CD/DVD mechaniku, K3b poskytne jej obsah a umožní ďalšie akcie. Je tu napríklad možnosť ripovať zvukové CD.</li>
+    </ul>
+  </description>
+  <description lang="sl">
+    <p>K3b je bil ustvarjen kot program za peko CD-jev, ki naj bi bil zmogljiv in hkrati enostaven za uporabo. Sestavljen je iz treh delov:</p>
+    <ul>
+      <li>Projekti: projekti se ustvarijo iz datotečnega menija in se nato zapolnijo s podatki za zapis</li>
+      <li>Orodja: meni z orodji ponuja različna orodja kot so kopiranje CD-jev ali formatiranje DVD-jev</li>
+      <li>Dejanja odvisna od vsebine: ko kliknete na ikono, ki predstavlja pogon CD/DVD, bo K3b predstavil njeno vsebino in ponudil nadaljnja dejanja. To je na primer način za zajetje zvočnih CD-jev</li>
+    </ul>
+  </description>
+  <description lang="sr">
+    <p>К3б је замишљен као свеобухватан програм за резање ЦД‑ова, лак за употребу. Састоји се од три дела:</p>
+    <ul>
+      <li>Пројекти — праве се кроз мени „Фајл“, а затим попуњавају подацима за резање.</li>
+      <li>Алатке — мени „Алатке“ нуди различите алатке, попут копирања ЦД‑а или форматирања ДВД‑а.</li>
+      <li>Контекстно зависне медијске радње — по клику на иконицу ЦД/ДВД јединице, К3б ће представити њен садржај и понудити даље радње. Овако се, на пример, може чупати са аудио ЦД‑ова.</li>
+    </ul>
+  </description>
+  <description lang="sr-Latn">
+    <p>K3b je zamišljen kao sveobuhvatan program za rezanje CD‑ova, lak za upotrebu. Sastoji se od tri dela:</p>
+    <ul>
+      <li>Projekti — prave se kroz meni „Fajl“, a zatim popunjavaju podacima za rezanje.</li>
+      <li>Alatke — meni „Alatke“ nudi različite alatke, poput kopiranja CD‑a ili formatiranja DVD‑a.</li>
+      <li>Kontekstno zavisne medijske radnje — po kliku na ikonicu CD/DVD jedinice, K3b će predstaviti njen sadržaj i ponuditi dalje radnje. Ovako se, na primer, može čupati sa audio CD‑ova.</li>
+    </ul>
+  </description>
+  <description lang="sr-ijekavian">
+    <p>К3б је замишљен као свеобухватан програм за резање ЦД‑ова, лак за употребу. Састоји се од три дела:</p>
+    <ul>
+      <li>Пројекти — праве се кроз мени „Фајл“, а затим попуњавају подацима за резање.</li>
+      <li>Алатке — мени „Алатке“ нуди различите алатке, попут копирања ЦД‑а или форматирања ДВД‑а.</li>
+      <li>Контекстно зависне медијске радње — по клику на иконицу ЦД/ДВД јединице, К3б ће представити њен садржај и понудити даље радње. Овако се, на пример, може чупати са аудио ЦД‑ова.</li>
+    </ul>
+  </description>
+  <description lang="sr-ijekavianlatin">
+    <p>K3b je zamišljen kao sveobuhvatan program za rezanje CD‑ova, lak za upotrebu. Sastoji se od tri dela:</p>
+    <ul>
+      <li>Projekti — prave se kroz meni „Fajl“, a zatim popunjavaju podacima za rezanje.</li>
+      <li>Alatke — meni „Alatke“ nudi različite alatke, poput kopiranja CD‑a ili formatiranja DVD‑a.</li>
+      <li>Kontekstno zavisne medijske radnje — po kliku na ikonicu CD/DVD jedinice, K3b će predstaviti njen sadržaj i ponuditi dalje radnje. Ovako se, na primer, može čupati sa audio CD‑ova.</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <p>K3b skapades för att vara ett funktionsrikt och lätthanterligt program för cd-bränning. Det består i huvudsak av tre delar:</p>
+    <ul>
+      <li>Projekten: Projekt skapas från arkivmenyn och fylls därefter med data att bränna</li>
+      <li>Verktygen: Verktygsmenyn erbjuder olika verktyg som cd-kopiering eller dvd-formatering</li>
+      <li>Sammanhangsberoende mediaåtgärder: Vid ett klick på ikonen som representerar en cd- eller dvd-enhet, visar K3b dess innehåll och tillåter vissa ytterligare åtgärder. Det är exempelvis sättet man lagrar ljud-cd</li>
+    </ul>
+  </description>
+  <description lang="tr">
+    <p>K3b, zengin özelliklere sahip ve kullanımı kolay bir CD yazma uygulaması olmak üzere tasarlandı. Temelde üç kısımdan oluşur:</p>
+    <ul>
+      <li>Projeler: Projeler, dosya menüsünden oluşturulur ve sonra da yazılacak verilerle doldurulur</li>
+      <li>Araçlar: Araçlar menüsü, CD kopyalama ya da DVD biçimlendirme gibi farklı araçlar sunar</li>
+      <li>Bağlama duyarlı ortam eylemleri: Bir CD/DVD sürücüsünü temsil eden simgeye tıklarkenK3b, bunların içeriğini gösterir ve duruma göre daha fazla eyleme izin verir. Örneğin bu, ses CD'leri yazma yolu olabilir</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>K3b є повноцінним комплектом програм для спрощення запису компакт-дисків та DVD. Він складається, в основному, з трьох частин:</p>
+    <ul>
+      <li>Проєктів: проєкти створюються за допомогою меню «Файл», а потім заповнюються даними, які слід записати.</li>
+      <li>Інструментів: за допомогою меню «Інструменти» ви можете скористатися різноманітними інструментами, зокрема інструментами копіювання компакт-дисків або форматування DVD.</li>
+      <li>Дій, що відповідають контексту носія даних: після натискання піктограми пристрою для читання компакт-дисків та DVD K3b показує вміст носія та надає змогу вибрати подальші дії з носієм. За допомогою цих дій можна, наприклад, видобути цифрові дані зі звукового компакт-диска.</li>
+    </ul>
+  </description>
+  <description lang="x-test">
+    <p>xxK3b was created to be a feature-rich and easy to handle CD burning application. It consists of basically three parts:xx</p>
+    <ul>
+      <li>xxThe projects: Projects are created from the file menu and then filled with data to burnxx</li>
+      <li>xxThe Tools: The tools menu offers different tools like CD copy or DVD formattingxx</li>
+      <li>xxContext sensitive media actions: When clicking on the Icon representing a CD/DVD drive K3b will present its contents and allow some further action. This is for example the way to rip audio CDsxx</li>
+    </ul>
+  </description>
+  <description lang="zh-CN">
+    <p>K3b 被创造为一个全功能的，易于使用的 CD 刻录程序。它由三个基本部分组成：</p>
+    <ul>
+      <li>项目：项目可以从文件菜单创建，然后填入数据刻录</li>
+      <li>工具: 工具菜单中提供不同的工具，像是 CD 复制或 DVD 格式化</li>
+      <li>上下文敏感的介质操作：当点击 CD/DVD 驱动器图标时，K3b 会呈现其内容并允许进一步的操作。例如，这可以用来翻录音频 CD</li>
+    </ul>
+  </description>
+  <description lang="zh-TW">
+    <p>K3b 是一個功能豐富且易於使用的 CD 燒錄程式。其基本上包含了三個部份：</p>
+    <ul>
+      <li>專案：專案是從檔案選單中建立並填入要燒錄的資料的部份。</li>
+      <li>工具：工具選單提供了許多不同的工具，像是 CD 複製與 DVD格式化。</li>
+      <li>依內容而定的媒體動作：當在一個 CD/DVD 碟片圖示上點擊時，K3b 將會視其內容來決定可以執行哪些動作。其中一個例子是擷取音訊 CD。</li>
+    </ul>
+  </description>
+  <pkgname>libsForQt5.k3b</pkgname>
+  <launchable type="desktop-id">org.kde.k3b.desktop</launchable>
+  <icon type="cached" width="64" height="64">k3b.png</icon>
+  <icon type="cached" width="128" height="128">k3b.png</icon>
+  <id>org.kde.k3b.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>K3b</name>
+  <name lang="ar">كي٣بي</name>
+  <name lang="ca">K3b</name>
+  <name lang="ca-valencia">K3b</name>
+  <name lang="cs">K3b</name>
+  <name lang="da">K3b</name>
+  <name lang="de">K3b</name>
+  <name lang="el">K3b</name>
+  <name lang="en-GB">K3b</name>
+  <name lang="es">K3b</name>
+  <name lang="et">K3b</name>
+  <name lang="eu">K3b</name>
+  <name lang="fi">K3b</name>
+  <name lang="fr">K3b</name>
+  <name lang="gl">K3b</name>
+  <name lang="hu">K3b</name>
+  <name lang="ia">K3b</name>
+  <name lang="id">K3b</name>
+  <name lang="it">K3b</name>
+  <name lang="ko">K3b</name>
+  <name lang="nl">K3b</name>
+  <name lang="nn">K3b</name>
+  <name lang="pa">K3b</name>
+  <name lang="pl">K3b</name>
+  <name lang="pt">K3b</name>
+  <name lang="pt-BR">K3b</name>
+  <name lang="ru">K3b</name>
+  <name lang="sk">K3b</name>
+  <name lang="sl">K3b</name>
+  <name lang="sr">К3б</name>
+  <name lang="sr-Latn">K3b</name>
+  <name lang="sr-ijekavian">К3б</name>
+  <name lang="sr-ijekavianlatin">K3b</name>
+  <name lang="sv">K3b</name>
+  <name lang="tr">K3b</name>
+  <name lang="uk">K3b</name>
+  <name lang="x-test">xxK3bxx</name>
+  <name lang="zh-CN">K3b</name>
+  <name lang="zh-TW">K3b</name>
+  <summary>Disk Burning</summary>
+  <summary lang="ar">حرق الأقراص</summary>
+  <summary lang="ca">Gravació de disc</summary>
+  <summary lang="ca-valencia">Gravació de disc</summary>
+  <summary lang="cs">Vypalování médií</summary>
+  <summary lang="da">Diskbrænding</summary>
+  <summary lang="de">Brennprogramm</summary>
+  <summary lang="el">Εγγραφή σε δίσκο</summary>
+  <summary lang="en-GB">Disc Burning</summary>
+  <summary lang="es">Grabación de discos</summary>
+  <summary lang="et">Plaadi kirjutamine</summary>
+  <summary lang="eu">Disko grabatzea</summary>
+  <summary lang="fi">Levynkirjoitus</summary>
+  <summary lang="fr">Gravure de disque</summary>
+  <summary lang="gl">Gravación de disco</summary>
+  <summary lang="hu">Lemezíró</summary>
+  <summary lang="ia">Gravator de disco</summary>
+  <summary lang="id">Disk Burning</summary>
+  <summary lang="it">Masterizzazione su disco</summary>
+  <summary lang="ko">디스크 쓰기</summary>
+  <summary lang="nl">Schijven branden</summary>
+  <summary lang="nn">Platebrenning</summary>
+  <summary lang="pa">ਡਿਸਕ ਲਿਖਣਾ</summary>
+  <summary lang="pl">Nagrywanie płyt</summary>
+  <summary lang="pt">Gravação de Discos</summary>
+  <summary lang="pt-BR">Gravação de discos</summary>
+  <summary lang="ru">Запись дисков</summary>
+  <summary lang="sk">Napaľovanie médií</summary>
+  <summary lang="sl">Zapisovanje nosilcev</summary>
+  <summary lang="sr">Резање дискова</summary>
+  <summary lang="sr-Latn">Rezanje diskova</summary>
+  <summary lang="sr-ijekavian">Резање дискова</summary>
+  <summary lang="sr-ijekavianlatin">Rezanje diskova</summary>
+  <summary lang="sv">Skivbränning</summary>
+  <summary lang="tr">Disk Yazdırma</summary>
+  <summary lang="uk">Запис оптичних дисків</summary>
+  <summary lang="x-test">xxDisk Burningxx</summary>
+  <summary lang="zh-CN">磁盘刻录</summary>
+  <summary lang="zh-TW">磁碟燒入</summary>
+  <url type="homepage">https://www.kde.org/applications/multimedia/k3b/</url>
+  <url type="donation">https://www.kde.org/community/donations/?app=k3b&amp;source=appdata</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://cdn.kde.org/screenshots/k3b/k3b.png</image>
+    </screenshot>
+  </screenshots>
+  <x-updatecontact>k3b@kde.org</x-updatecontact>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>k3b</binary>
+  </provides>
+  <releases>
+    <release date="2022-07-07" version="22.04.3" />
+    <release version="22.04.2" date="2022-06-09" />
+    <release version="22.04.1" date="2022-05-12" />
+    <release version="22.04.0" date="2022-04-21" />
+  </releases>
+</component>

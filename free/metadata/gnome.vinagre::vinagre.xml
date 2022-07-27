@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>gnome.vinagre</pkgname>
+  <launchable type="desktop-id">vinagre.desktop</launchable>
+  <id>vinagre.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Remote Desktop Viewer</name>
+  <name lang="ar">عارض سطوح مكتب بعيدة</name>
+  <name lang="as">দূৰবৰ্তী ডেস্কটপ প্ৰদৰ্শন</name>
+  <name lang="ast">Visor d'escritorios remotos</name>
+  <name lang="be">Праглядальнік аддаленых сталоў</name>
+  <name lang="be@latin">Prahladalnik addalenych stałoŭ</name>
+  <name lang="bg">Отдалечени работни места</name>
+  <name lang="bn">দূরবর্তী ডেস্কটপ প্রদর্শক</name>
+  <name lang="bn_IN">দূরবর্তী ডেস্কটপ প্রদর্শন ব্যবস্থা</name>
+  <name lang="bs">Pregled udaljenih radnih površina</name>
+  <name lang="ca">Visualitzador d'escriptoris remots</name>
+  <name lang="ca@valencia">Visualitzador d'escriptoris remots</name>
+  <name lang="cs">Prohlížeč vzdálené plochy</name>
+  <name lang="da">Fjernskrivebordsviser</name>
+  <name lang="de">Betrachter für entfernte Bildschirme</name>
+  <name lang="el">Εφαρμογή προβολής απομακρυσμένης επιφάνειας εργασίας</name>
+  <name lang="en@shaw">𐑮𐑦𐑥𐑴𐑑 𐑛𐑧𐑕𐑒𐑑𐑪𐑐 𐑝𐑿𐑼</name>
+  <name lang="en_GB">Remote Desktop Viewer</name>
+  <name lang="eo">Vidigilo de foraj labortabloj</name>
+  <name lang="es">Visor de escritorios remotos</name>
+  <name lang="et">Kaugtöölaudade vaataja</name>
+  <name lang="eu">Urruneko mahaigainen ikustailea</name>
+  <name lang="fa">نمایش‌گر رومیزی دوردست</name>
+  <name lang="fi">Etätyöpöytien käyttö</name>
+  <name lang="fr">Visionneur de bureaux distants</name>
+  <name lang="fur">Visualizadôr di Scritoris Rimots</name>
+  <name lang="ga">Amharcán Deasc Cianda</name>
+  <name lang="gl">Visualizador de escritorios remotos</name>
+  <name lang="gu">દૂરસ્થ ડેસ્કટોપ દર્શક</name>
+  <name lang="he">מציג שולחנות עבודה מרוחקים</name>
+  <name lang="hi">दूरस्थ डेस्कटॉप प्रदर्शक</name>
+  <name lang="hu">Távoli asztalok megjelenítése</name>
+  <name lang="id">Penampil Desktop Jauh</name>
+  <name lang="is">Skoða fjartengdar tölvur</name>
+  <name lang="it">Visualizzatore desktop remoti</name>
+  <name lang="ja">リモートデスクトップビューアー</name>
+  <name lang="kk">Қашықтағы жұмыс үстелдер шолушысы</name>
+  <name lang="kn">ದೂರಸ್ಥ ಗಣಕತೆರೆಗಳ ವೀಕ್ಷಕ</name>
+  <name lang="ko">원격 데스크톱 보기</name>
+  <name lang="lt">Nutolusių darbalaukių rodymo programa</name>
+  <name lang="lv">Attālinātās darbvirsmas pārlūks</name>
+  <name lang="mk">Прегледувач на далечени работни површини</name>
+  <name lang="ml">വിദൂര പണിയിട ദര്‍ശനി</name>
+  <name lang="mr">दूरस्थ डेक्टॉप प्रदर्शक</name>
+  <name lang="nb">Visning av eksternt skrivebord</name>
+  <name lang="ne">टाढाको डेस्कटप हेर्ने</name>
+  <name lang="nl">Werkplek op afstand</name>
+  <name lang="nn">Vising av eksternt skrivebord</name>
+  <name lang="oc">Visionador de burèus distants</name>
+  <name lang="or">ସୁଦୂର ଡେସ୍କଟପ ଦର୍ଶକ</name>
+  <name lang="pa">ਰਿਮੋਟ ਡੈਸਕਟਾਪ ਦਰਸ਼ਕ</name>
+  <name lang="pl">Zdalny pulpit</name>
+  <name lang="pt">Visualizador de área de trabalho remota</name>
+  <name lang="pt_BR">Visualizador de área de trabalho remota</name>
+  <name lang="ro">Vizualizare desktop la distanță</name>
+  <name lang="ru">Просмотр удалённых рабочих столов</name>
+  <name lang="si">දුරස්ථ තිර මුහුණත් දර්ශකය</name>
+  <name lang="sk">Zobrazovač vzdialenej pracovnej plochy</name>
+  <name lang="sl">Pregledovalnik oddaljenih namizij</name>
+  <name lang="sq">Shfaq ambiente në distancë pune</name>
+  <name lang="sr">Преглед удаљених радних површи</name>
+  <name lang="sr@latin">Pregled udaljenih radnih površi</name>
+  <name lang="sv">Fjärrskrivbordsvisare</name>
+  <name lang="ta">தொலை பணிமேடை காட்டி</name>
+  <name lang="te">రిమోట్ రంగస్థల దర్శని</name>
+  <name lang="th">เครื่องมือแสดงพื้นโต๊ะระยะไกล</name>
+  <name lang="tr">Uzak Masaüstü Görüntüleyici</name>
+  <name lang="ug">يىراقتىكى ئۈستەلئۈستىنى كۆرگۈ</name>
+  <name lang="uk">Перегляд віддалених стільниць</name>
+  <name lang="vi">Điều khiển màn hình từ xa</name>
+  <name lang="zh_CN">远程桌面查看器</name>
+  <name lang="zh_HK">遠端桌面檢視器</name>
+  <name lang="zh_TW">遠端桌面檢視器</name>
+  <summary>Access remote desktops</summary>
+  <summary lang="ar">اتصل بسطح مكتب بعيد</summary>
+  <summary lang="as">দূৰবৰ্তী ডেস্কটপ অভিগম কৰক</summary>
+  <summary lang="ast">Acceder a escritorios remotos</summary>
+  <summary lang="be">Доступ да аддаленых сталоў</summary>
+  <summary lang="be@latin">Spałučeńnie z addalenymi stałami</summary>
+  <summary lang="bg">Достъп до отдалечени работни места</summary>
+  <summary lang="bn">দূরবর্তী ডেস্কটপের সাথে সংযোগ করুন</summary>
+  <summary lang="bn_IN">দূরবর্তী ডেস্কটপের সাথে সংযোগ করুন</summary>
+  <summary lang="bs">Pristupi udaljenom računaru</summary>
+  <summary lang="ca">Accés a escriptoris remots</summary>
+  <summary lang="ca@valencia">Accés a escriptoris remots</summary>
+  <summary lang="cs">Přístup na vzdálené plochy</summary>
+  <summary lang="da">Tilgå fjernskriveborde</summary>
+  <summary lang="de">Auf entfernte Bildschirme zugreifen</summary>
+  <summary lang="el">Συνδεθείτε σε απομακρυσμένες επιφάνειες εργασίας</summary>
+  <summary lang="en@shaw">𐑨𐑒𐑕𐑧𐑕 𐑮𐑦𐑥𐑴𐑑 𐑛𐑧𐑕𐑒𐑑𐑭𐑐𐑕</summary>
+  <summary lang="en_GB">Access remote desktops</summary>
+  <summary lang="eo">Aliro al foraj labortabloj</summary>
+  <summary lang="es">Acceda a escritorios remotos</summary>
+  <summary lang="et">Ligipääs kaugtöölaudadele</summary>
+  <summary lang="eu">Sarbidetu urruneko mahaigainetara</summary>
+  <summary lang="fa">دسترسی به میزکار دوردست</summary>
+  <summary lang="fi">Käytä etätyöpöytiä</summary>
+  <summary lang="fr">Accéder à des bureaux distants</summary>
+  <summary lang="fur">Jentre tai scritoris rimots</summary>
+  <summary lang="ga">Déan rochtain ar dheasca cianda</summary>
+  <summary lang="gl">Acceso a escritorios remotos</summary>
+  <summary lang="gu">દૂરસ્થ ડેસ્કટોપો માં પ્રવેશો</summary>
+  <summary lang="he">גישה לשולחנות עבודה מרוחקים</summary>
+  <summary lang="hi">दूरस्थ डेस्कटॉप की पहुँच लें</summary>
+  <summary lang="hu">Távoli asztalok elérése</summary>
+  <summary lang="id">Mengakses desktop jarak jauh</summary>
+  <summary lang="is">Tengjast fjartengdum tölvum</summary>
+  <summary lang="it">Accede a desktop remoti</summary>
+  <summary lang="ja">リモートデスクトップへアクセスします</summary>
+  <summary lang="kk">Қашықтағы жұмыс үстелдеріне қатынау</summary>
+  <summary lang="kn">ದೂರಸ್ಥ ಗಣಕತೆರೆಗಳನ್ನು ನಿಲುಕಿಸಿಕೊಳ್ಳಿ</summary>
+  <summary lang="ko">원격 데스크톱 접속</summary>
+  <summary lang="lt">Junkitės prie nutolusių darbalaukių</summary>
+  <summary lang="lv">Piekļūt attālinātajām darbvirsmām</summary>
+  <summary lang="mk">Пристап до далечени работни површини</summary>
+  <summary lang="ml">വിദൂര പണിയിടത്തില്‍ പ്രവേശിയ്ക്കുക</summary>
+  <summary lang="mr">दूरस्थ डेस्कटॉप करीता प्रवेश</summary>
+  <summary lang="nb">Bruk eksternt skrivebord</summary>
+  <summary lang="ne">टाढाको डेस्कटप पहुँच सक्षम पार्नुहोस्</summary>
+  <summary lang="nl">Toegang tot werkplekken op afstand</summary>
+  <summary lang="nn">Bruk eksternt skrivebord</summary>
+  <summary lang="oc">Accedir a de burèus distants</summary>
+  <summary lang="or">ସୁଦୂର ଡେସ୍କଟପ ଗୁଡିକୁ ଅଭିଗମ କରନ୍ତୁ</summary>
+  <summary lang="pa">ਰਿਮੋਟ ਡੈਸਕਟਾਪ ਅਸੈੱਸ</summary>
+  <summary lang="pl">Dostęp do zdalnych pulpitów</summary>
+  <summary lang="pt">Aceder a áreas de trabalho remotas</summary>
+  <summary lang="pt_BR">Acesse áreas de trabalho remotas</summary>
+  <summary lang="ro">Accesați desktopuri la distanță</summary>
+  <summary lang="ru">Доступ к удалённым рабочим столам</summary>
+  <summary lang="si">දුරස්ථ තිර මුහුණත් වලට ප්‍රවේශ වන්න</summary>
+  <summary lang="sk">Prístup k vzdialeným pracovným plochám</summary>
+  <summary lang="sl">Dostop do oddaljenih namizij</summary>
+  <summary lang="sq">Hyrje në ambiente në distancë pune</summary>
+  <summary lang="sr">Приступите удаљеном рачунару</summary>
+  <summary lang="sr@latin">Pristupite udaljenom računaru</summary>
+  <summary lang="sv">Få åtkomst till fjärrskrivbord</summary>
+  <summary lang="ta">தொலை பணிமேடைகளை அணுகுதல்</summary>
+  <summary lang="te">రిమోట్ డెస్క్‌టాప్‌లను యాక్సిస్ చేయుము</summary>
+  <summary lang="th">เข้าใช้พื้นโต๊ะระยะไกล</summary>
+  <summary lang="tr">Uzak masaüstüne ulaş</summary>
+  <summary lang="ug">يىراقتىكى ئۈستەلئۈستىنى زىيارەت قىلىش پروگراممىسى</summary>
+  <summary lang="uk">Доступ до віддалених стільниць</summary>
+  <summary lang="vi">Truy cập đến màn hình nền từ xa</summary>
+  <summary lang="zh_CN">访问远程桌面</summary>
+  <summary lang="zh_HK">存取遠端桌面</summary>
+  <summary lang="zh_TW">存取遠端桌面</summary>
+  <description>
+    <p>Vinagre shows remote Windows, Mac OS X and Linux desktops.</p>
+    <p>It uses the VNC, RDP and SPICE protocols, and can even be used to connect to SSH servers.</p>
+  </description>
+  <description lang="as">
+    <p>Vinagre এ দূৰৱৰ্তী Windows, Mac OS X আৰু Linux ডেস্কটপসমূহ দেখুৱায়।</p>
+    <p>ই VNC, RDP আৰু SPICE প্ৰটোকলসমূহ ব্যৱহাৰ কৰে, আৰু SSH চাৰ্ভাৰসমূহৰ সৈতে সংযোগ কৰিবলে ব্যৱহাৰ কৰিব পাৰি।</p>
+  </description>
+  <description lang="be">
+    <p>Vinagre паказвае аддаленыя сеансы Windows, Mac OS X ды Linux.</p>
+    <p>Праграма выкарыстоўвае пратаколы VNC, RDP і SPICE, а нават дазваляе злучацца з серверамі праз SSH.</p>
+  </description>
+  <description lang="bg">
+    <p>Vinagre може да показва работния плот на Windows, Mac OS X и Linux.</p>
+    <p>Програмата използва протоколите VNC, RDP и SPICE. Тя може да се използва и за свързване към сървъри с SSH.</p>
+  </description>
+  <description lang="bn_IN">
+    <p>Vinagre রিমোট Windows, Mac OS X এবং Linux ডেস্কটপ দেখায়।</p>
+    <p>এটি VNC, RDP এবং SPICE প্রোটোকল ব্যবহার করে, এবংSSH সার্ভারে সংযোগ করতেও ব্যবহার করা যেতে পারে।</p>
+  </description>
+  <description lang="bs">
+    <p>Vinagre pokazuje udaljenom Windows, Mac OS X i Linux stolnim računalima.</p>
+    <p>Ona koristi VNC, RDP i Spice protokole, a čak se mogu koristiti za spajanje na SSH poslužiteljima.</p>
+  </description>
+  <description lang="ca">
+    <p>El Vinagre mostra escriptoris remots de Windows, de Mac OS X i de Linux.</p>
+    <p>Utilitza els protocols VNC, RDP i SPICE i es pot fer servir per connectar-se a servidors SSH.</p>
+  </description>
+  <description lang="ca@valencia">
+    <p>El Vinagre mostra escriptoris remots de Windows, de Mac OS X i de Linux.</p>
+    <p>Utilitza els protocols VNC, RDP i SPICE i es pot fer servir per connectar-se a servidors SSH.</p>
+  </description>
+  <description lang="cs">
+    <p>Aplikace Vinagre zobrazuje vzdálené pracovní plochy systémů Windows, Mac OS X a Linux.</p>
+    <p>Používá protokoly VNC, RDP a SPICE a umí se připojit i k serverům SSH.</p>
+  </description>
+  <description lang="da">
+    <p>Vinagre viser Windows- Mac OS X- og Linuxskriveborde over netværket.</p>
+    <p>Det bruger protokollerne VNC, RDP og SPICE, og kan endda bruges til at forbinde til SSH-servere.</p>
+  </description>
+  <description lang="de">
+    <p>Vinagre zeigt entfernte Arbeitsflächen von Windows, Mac OS X und Linux an.</p>
+    <p>Es verwendet die Protokolle VNC, RDP sowie SPICE und kann sogar zur Verbindung mit SSH-Servern eingesetzt werden.</p>
+  </description>
+  <description lang="el">
+    <p>Το Vinagre δείχνει απομακρυσμένες επιφάνειες εργασίας Windows, Mac OS X και GNU/Linux.</p>
+    <p>Χρησιμοποιεί τα πρωτόκολλα VNC, RDP και SPICE, και μπορεί ακόμη και να χρησιμοποιηθεί για σύνδεση με διακομιστές SSH.</p>
+  </description>
+  <description lang="en_GB">
+    <p>Vinagre shows remote Windows, Mac OS X and Linux desktops.</p>
+    <p>It uses the VNC, RDP and SPICE protocols, and can even be used to connect to SSH servers.</p>
+  </description>
+  <description lang="es">
+    <p>Vinagre muestra escritorios remotos de Windows, Linux y Mac OS.</p>
+    <p>Usa los protocolos VNC, RDP y SPICE, e incluso puede conectarse a servidores SSH.</p>
+  </description>
+  <description lang="eu">
+    <p>Vinagre-k urruneko Windows, Mac OS X eta Linux mahaigainak erakusten ditu.</p>
+    <p>VNC, RDP eta SPICE protokoloak erabiltzen ditu, eta SSH zerbitzarietara konektatzeko ere erabil daiteke.</p>
+  </description>
+  <description lang="fa">
+    <p>برنامه Vinagre میزکارهای ویندوز، مک و لینوکس را از راه‌دور نشان می‌دهد.</p>
+    <p>برای اینکار از پروتکل‌های VNC، RDP و SPICE استفاده می‌کند و حتی می‌تواند به کارگزارهای SSH متصل شود.</p>
+  </description>
+  <description lang="fi">
+    <p>Vinagren avulla yhdistät Windowsilla, Mac OS X:llä ja Linuxilla toimiviin etätyöpöytiin.</p>
+    <p>Se käyttää VNC-, RDP- ja SPICE-protokollia, ja voit ottaa yhteyden jopa SSH-palvelimiin.</p>
+  </description>
+  <description lang="fr">
+    <p>Vinagre affiche des bureaux à distance, sous Windows, Mac OS X ou Linux.</p>
+    <p>Il utilise les protocoles VNC, RDP et SPICE et peut même être utilisé pour se connecter à des serveurs SSH.</p>
+  </description>
+  <description lang="fur">
+    <p>Vinagre al mostre scritoris rimots di Windows, Mac OS X e Linux. </p>
+    <p>Al dopre i protocoi VNC, RDP e SPICE e al pues ancje jessi doprât par tacâsi ai servidôrs SSH.</p>
+  </description>
+  <description lang="gl">
+    <p>Vinagre mostra escritorios Windows, Mac OS X e Linux.</p>
+    <p>Usa os protocolos VNC, RDP e SPICE, e incluso pode usarse para conectarse a servidores SSH.</p>
+  </description>
+  <description lang="gu">
+    <p>Vinagre એ દૂરસ્થ Windows, Mac OS X અને Linux ડેસ્કટોપને બતાવે છે.</p>
+    <p>તે VNC, RDP અને SPICE પ્રોટોકોલને વાપરે છે, અને SSH સર્વરમાં જોડાવા માટે પણ વાપરી શકાય છે.</p>
+  </description>
+  <description lang="he">
+    <p>Vinagre מציגה שולחנות עבודה מרוחקים מסוג Windows, Mac OS X ולינוקס.</p>
+    <p>התכנית משתמשת ב־VNC, ב־RDP וב־SPICE ויכולה אף להתחבר לשרתי SSH.</p>
+  </description>
+  <description lang="hi">
+    <p>Vinagre दूरस्थ Windows, Mac OS X और लिनक्स डेस्कटॉप दिखाता है.</p>
+    <p>यह VNC, RDP और SPICE प्रोटोकॉल निर्गत करता है और इसे SSH सर्वर से कनेक्ट करने के लिए प्रयोग किया जाता है.</p>
+  </description>
+  <description lang="hu">
+    <p>A Vinagre távoli Windows, Mac OS X és Linux asztalokat jelenít meg.</p>
+    <p>VNC, RDP és SPICE protokollokat használ, és még SSH kiszolgálókhoz való csatlakozásra is használható.</p>
+  </description>
+  <description lang="id">
+    <p>Vinagre menampilkan desktop Windows, Mac OS X, dan Linux jarak jauh.</p>
+    <p>Ini memakai protokol VNC, RDP, dan SPICE, dan bahkan bisa dipakai untuk menyambung ke server SSH.</p>
+  </description>
+  <description lang="is">
+    <p>Vinagre sýnir fjartengd skjáborð á Windows, Mac OS X og Linux vélum.</p>
+    <p>Það notar VNC, RDP og SPICE samskiptamáta, og má jafnvel nota til að tengjast SSH-þjónum.</p>
+  </description>
+  <description lang="it">
+    <p>Vinagre mostra desktop remoti Windows, Mac OS X e Linux.</p>
+    <p>Usa i protocolli VNC, RDP e SPICE e può anche essere usato per connessioni a server SSH.</p>
+  </description>
+  <description lang="ja">
+    <p>Vinagre は、リモートの Windows、Mac OS X、Linux などのデスクトップを表示するアプリケーションです。</p>
+    <p>VNC、RDP、および SPICE プロトコルを使用します。SSH サーバーへ接続することも可能です。</p>
+  </description>
+  <description lang="kk">
+    <p>Vinagre Windows, Mac OS X және Linux қашықтағы жұмыс үстелдерін көрсетеді.</p>
+  </description>
+  <description lang="kn">
+    <p>Vinagre ದೂರಸ್ಥ Windows, Mac OS X ಮತ್ತು Linux ಗಣಕತೆರೆಗಳನ್ನು ತೋರಿಸುತ್ತದೆ.</p>
+    <p>ಇದು VNC, RDP ಮತ್ತು SPICE ಪ್ರೊಟೊಕಾಲ್‌ಗಳನ್ನು ಸಲ್ಲಿಸುತ್ತದೆ, ಮತ್ತು SSH ಪೂರೈಕೆಗಣಕಗಳಿಗೆ ಸಂಪರ್ಕಸಾಧಿಸಲು ಬಳಸಬಹುದಾಗಿರುತ್ತದೆ.</p>
+  </description>
+  <description lang="ko">
+    <p>비나그레에서는 원격에 있는 윈도우, 맥오에스X, 리눅스 데스크톱을 볼 수 있습니다.</p>
+    <p>VNC, RDP, SPICE 프로토콜을 사용하고, SSH 서버에 연결할 때도 사용할 수 있습니다.</p>
+  </description>
+  <description lang="lt">
+    <p>Vinagre rodo nutolusius Windows, Max OS X bei Linux darbalaukius.</p>
+    <p>Ji naudoja VNC, RDP ir SPICE protokolus bei gali būti naudojama prisijungimui prie SSH serverių.</p>
+  </description>
+  <description lang="lv">
+    <p>Vinagre rāda attālinātās Windows, Mac OS X un Linux darbvirsmas.</p>
+    <p>Tas izmanto VNC, RDP un SPICE protokolus, un to var izmantot pat lai savienotos ar SSH serveriem.</p>
+  </description>
+  <description lang="mr">
+    <p>विनाग्रे दूरस्त Windows, Mac OS X आणि Linux डेस्कटॉप्स दाखवते.</p>
+    <p>ते VNC, RDP आणि SPICE प्रोटोकॉल्सचा वापर करते, आणि SSH सर्व्हर्ससह जोडणीकरिता देखील वापर शक्य आहे.</p>
+  </description>
+  <description lang="nb">
+    <p>Vinagre viser eksterne skrivebord på Windows, Mac OS X og Linux.</p>
+    <p>Det bruker VNC-, RDP- og SPICE-protokollene, og kan til og med brukes til å koble til SSH-tjenere.</p>
+  </description>
+  <description lang="nl">
+    <p>Vinagre toont externe Windows, Mac OS X en Linux-bureaubladen.</p>
+    <p>Het gebruikt de VNC, RDP en SPICE-protocollen en kan zelfs gebruikt worden om met SSH-servers te verbinden.</p>
+  </description>
+  <description lang="oc">
+    <p>Vinagre aficha de burèus a distància, jos Windows, Mac OS X o Linux.</p>
+    <p>Utiliza los protocòls VNC, RDP e SPICE e pòt quitament èsser utilizat per se connectar a de servidors SSH.</p>
+  </description>
+  <description lang="or">
+    <p>Vinagre ସୁଦୂର Windows, Mac OS X ଏବଂ Linux ଡେସ୍କଟପଗୁଡ଼ିକୁ ଦର୍ଶାଇଥାଏ।</p>
+    <p>ଏହ VNC, RDP ଏବଂ SPICE ପ୍ରୋଟୋକଲଗୁଡ଼ିକୁ ବ୍ୟବହାର କରିଥାଏ, ଏବଂ SSH ସର୍ଭର ସହିତ ସଂଯୁକ୍ତ ହେବା ପାଇଁ ବ୍ୟବହାର କରାଯାଇପାରିବ।</p>
+  </description>
+  <description lang="pa">
+    <p>ਵੀਨਾਗਰੇ ਰਿਮੋਟ ਵਿੰਡੋਜ਼, ਮੈਕ OS X ਅਤੇ ਲੀਨਕਸ ਡੈਸਕਟਾਪ ਵਿਖਾਉਂਦਾ ਹੈ।</p>
+    <p>ਇਹ VNC, RDP, ਅਤੇ SPICE ਪ੍ਰੋਟੋਕਾਲ ਵਰਤਦਾ ਹੈ ਅਤੇ SSH ਸਰਵਰਾਂ ਨਾਲ ਵੀ ਕੁਨੈਕਟ ਹੋਣ ਲਈ ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ।</p>
+  </description>
+  <description lang="pl">
+    <p>Program Vinagre umożliwia wyświetlanie zdalnych pulpitów systemów Windows, Mac OS X oraz Linux.</p>
+    <p>Oprócz korzystania z protokołów VNC, RDP i SPICE, można również łączyć się z serwerami SSH.</p>
+  </description>
+  <description lang="pt">
+    <p>O Vinagre apresenta ambientes de trabalho do Windows, Mac OS X e Linux.</p>
+    <p>Utiliza os protocolos VNC, RDP e SPICE e até pode ser utilizado para se ligar a servidores SSH.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Vinagre acessa remotamente máquinas Windows, Mac OS X e Linux.</p>
+    <p>Ele usa os protocolos VNC, RDP e SPICE, e pode até mesmo ser usado para conectar em servidores SSH.</p>
+  </description>
+  <description lang="ru">
+    <p>Vinagre показывает удалённые рабочие столы Windows, Mac OS X и Linux.</p>
+    <p>Vinagre использует протоколы VNC, RDP и SPICE, его также можно использовать для подключения к серверам по SSH.</p>
+  </description>
+  <description lang="sk">
+    <p>Program Vinagre zobrazuje vzdialené pracovné plochy systémov Windows, Mac OS X a Linux.</p>
+    <p>Používa protokoly VNC, RDP a SPICE a tiež sa dá použiť na pripojenie k serverom SSH.</p>
+  </description>
+  <description lang="sl">
+    <p>Program VInagre omogoča prikaz oddaljenih namizij Windows, Mac OS X in Linux.</p>
+    <p>Program uporablja protokole VNC, RDP in SPICE, uporabiti pa ga je mogoče tudi za povezavo s strežnikom SSH.</p>
+  </description>
+  <description lang="sr">
+    <p>Винагре приказује удаљене радне површи Виндоуза, Мек ОС-а и Линукса.</p>
+    <p>Користи ВНЦ, РДП и СПАЈС протоколе, а може чак бити коришћен за повезивање на срвере безбедне шкољке.</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Vinagre prikazuje udaljene radne površi Vindouza, Mek OS-a i Linuksa.</p>
+    <p>Koristi VNC, RDP i SPAJS protokole, a može čak biti korišćen za povezivanje na srvere bezbedne školjke.</p>
+  </description>
+  <description lang="sv">
+    <p>Vinagre visar fjärrskrivbord för Windows, Mac OS X och Linux.</p>
+    <p>Det använder protokollen VNC, RDP och SPICE, och kan även användas för att ansluta till SSH-servrar.</p>
+  </description>
+  <description lang="ta">
+    <p>Vinagre தொலைநிலையில் உள்ள Windows, Mac OS X மற்றும் Linux பணிமேசைகளைக் காண்பிக்கும்.</p>
+    <p>இது VNC, RDP மற்றும் SPICE நெறிமுறைகளைப் பயன்படுத்துகிறது, இதைப் பயன்படுத்திSSH சேவையகங்களுடனும் இணைக்கலாம்.</p>
+  </description>
+  <description lang="te">
+    <p>వినాగ్రే రిమోట్ Windows, Mac OS X మరియు Linux డెస్క్‌టాప్‌లను చూపును.</p>
+    <p>ఇది VNC, RDP మరియు SPICE ప్రొటోకాల్స్ ఉపయోగించును, మరియు SSH సేవికలు అనుసంధానించుటకు కూడా ఉపయోగించవచ్చు.</p>
+  </description>
+  <description lang="th">
+    <p>Vinagre แสดงพื้นโต๊ะของวินโดวส์, Mac OS X และลินุกซ์จากระยะไกล</p>
+    <p>Vinagre ใช้โพรโทคอล VNC, RDP และ SPICE และสามารถใช้กระทั่งเชื่อมต่อไปยังเซิร์ฟเวอร์ SSH ได้ด้วย</p>
+  </description>
+  <description lang="tr">
+    <p>Vinagre uzak Windows, Mac OS X ve Linux masaüstlerini gösterir.</p>
+    <p>VNC, RDP ve SPICE iletişim kurallarını kullanır ve SSH sunucularına bağlanmak için bile kullanılabilir.</p>
+  </description>
+  <description lang="uk">
+    <p>Vinagre показує віддалені стільниці Windows, Mac OS X і Linux.</p>
+    <p>Програма використовує протоколи VNC, RDP і SPICE, може навіть з'єднуватись до серверів через SSH.</p>
+  </description>
+  <description lang="vi">
+    <p>Vinagre còn điều khiển màn hình trên máy mạng ở Windows, Mac OS X và Linux.</p>
+    <p>Nó sử dụng các giao thức VNC, RDP và SPICE, và thậm chí còn có thể kết nối đến máy phục vụ SSH.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>Vinagre 用来显示远程 Windows、Mac OS X 和 Linux 桌面。</p>
+    <p>它使用 VNC、RDP 和 SPICE 协议，甚至可以用来连接 SSH 服务器。</p>
+  </description>
+  <description lang="zh_HK">
+    <p>Vinagre 可以顯示遠端的 Windows、Mac OS X 和 Linux 桌面。</p>
+    <p>它使用 VNC、RDP 與 SPICE 協定，甚至可以用來連線到 SSH 伺服器。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>Vinagre 可以顯示遠端的 Windows、Mac OS X 和 Linux 桌面。</p>
+    <p>它使用 VNC、RDP 與 SPICE 協定，甚至可以用來連線到 SSH 伺服器。</p>
+  </description>
+  <url type="homepage">https://wiki.gnome.org/Apps/Vinagre</url>
+  <url type="bugtracker">https://bugzilla.gnome.org/enter_bug.cgi?product=vinagre</url>
+  <url type="donation">http://www.gnome.org/friends/</url>
+  <url type="help">https://help.gnome.org/users/vinagre/stable/</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>http://amigadave.com/temp/vinagre-default.png</image>
+      <caption />
+    </screenshot>
+  </screenshots>
+  <update_contact>amigadave@amigadave.com</update_contact>
+  <project_group>GNOME</project_group>
+  <translation type="gettext">vinagre</translation>
+</component>

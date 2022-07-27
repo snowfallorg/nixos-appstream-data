@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>KStars is freely licensed, open source, cross-platform Astronomy Software by KDE.</p>
+    <p>It provides an accurate graphical simulation of the night sky, from any location on Earth, at any date and time. The display includes up to 100 million stars, 13,000 deep-sky objects,all 8 planets, the Sun and Moon, and thousands of comets, asteroids, supernovae, and satellites.</p>
+    <p>For students and teachers, it supports adjustable simulation speeds in order to view phenomena that happen over long timescales, the KStars Astrocalculator to predict conjunctions, and many common astronomical calculations.</p>
+    <p>For the amateur astronomer, it provides an observation planner, a sky calendar tool, and an FOV editor to calculate field of view of equipment and display them. Find out interesting objects in the "What's up Tonight" tool, plot altitude vs. time graphs for any object, print high-quality sky charts, and gain access to lots of information and resources to help you explore the universe!</p>
+    <p>Included with KStars is Ekos astrophotography suite, a complete astrophotography solution that can control all INDI devices including numerous telescopes, CCDs, DSLRs, focusers, filters, and a lot more. Ekos supports highly accurate tracking using online and offline astrometry solver, autofocus and autoguiding capabilities, and capture of single or multiple images using the powerful built in sequence manager.</p>
+    <p>Astronomical Catalogs:</p>
+    <ul>
+      <li>Default catalog consisting of stars to magnitude 8</li>
+      <li>Extra catalogs consisting of 100 million stars to magnitude 16</li>
+      <li>Downloadable catalogs including Messier Images, Abell Planetary Nebulae, Sharpless Catalog, Lynds Dark Nebula Catalog</li>
+      <li>Corrections for precession, nutation and atmospheric refraction</li>
+      <li>Tools for retrieval of data from online databases</li>
+    </ul>
+  </description>
+  <description lang="ar">
+    <p>«نجوم‌ك» هي برمجيّة مجّانيّة ومفتوحة المصدر مختصّة بعلوم الفلك، وتتوفّر على مختلف المنصّات.</p>
+    <p>توفّر البرمجيّة محاكاةً رسوميّة دقيقة لسماء الليل، من أيّ نقطة على سطح الأرض وفي أيّ وقت. يعرض «نجوم‌ك» حوالي ١٠٠ مليون نجم، و١٣٬٠٠٠ جرم سماويّ عميق، والكواكب الثّمانية، والشّمس والقمر وآلاف المذنّبات والكويكبات، والمستعرات العظمى والأقمار الصّناعيّة.</p>
+    <p>إن كنت طالبًا أو أستاذًا، فستجد أنّ البرمجيّة تدعم ضبط سرعة المحاكاة الذي يتيح عرض الظّواهر التي تحدث على فترات زمنيّة طويلة، وتدعم الكثير من الحسابات الفلكيّة المعروفة، وتوفّر حاسبة فلكيّة لتوقّع الاقترانات.</p>
+    <p>توفّر البرمجيّة لهواة الفلك مخطِّطًا للرّؤية، وأداة لتقويم الطّقس، ومحرّرًا لمجال الرّؤية لحساب مجال رؤية العتاد وعرضها. اطّلع على أجرام شيّقة في أداة ”السّماء هذه الليلة“، وارسم رسومًا بيانيّة لخطّ ارتفاع أيّ جرم مقابل وقته، واطبع رسومًا بيانيّة للسّماء بجودة عالية، واقرأ الكثير من المعلومات والموارد لتساعدك في اكتشاف العالم!</p>
+    <p>تأتي مع «نجوم‌ك» مجموعة «إيكوس» للتّصوير الفلكيّ، وهي حلّ كامل للتّصوير الفلكيّ والذي يتحكّم بكلّ أجهزة INDI بما في ذلك التّلسكوبات بأنواعها، ومجسّات CCD، وكمرات DSLR، والمُركِّزات، والمرشّحات وغيرها الكثير. يدعم «إيكوس» التّعقّب بدقّة عالية وذلك باستخدام الحلّال الفلكيّ (بتوفّر الشّابكة أو بدونها) وإمكانيّات التّركيز الآليّ والتّوجيه الآليّ، ويلتقط أيضًا الصّور (مفردةً وبمجموعات) باستخدام مدير التّسلسل القويّ المضمّن في البرمجيّة.</p>
+    <p>الفهارس الفلكيّة:</p>
+    <ul>
+      <li>الفهرس المبدئيّ والذي يحتوي النّجوم حتّى القدْر ٨</li>
+      <li>فهارس أخرى فيها ما يقارب ١٠٠ مليون نجم حتّى القدْر ١٦</li>
+      <li>فهارس يمكن تنزيلها وتشمل صور ميسييه، و”أَبِلّ“ للسُّدم الكوكبيّة، وفهرس ”شَارپْلِس“، وفهرس ”لُوِند“ للسُّدم المعتمة</li>
+      <li>تصحيح الدّقّة والانحراف والانكسار الجوّيّ</li>
+      <li>أدوات لجلب البيانات من قواعد البيانات الشّبكيّة</li>
+    </ul>
+  </description>
+  <description lang="bs">
+    <p>Astronomski katalozi:</p>
+    <ul>
+      <li>Uobičajeni Katalog se sastoji od zvijezda do magnitude 8</li>
+      <li>Prošireni katalozi koji se sastoji od 100 milijuna zvijezda u veličini 16</li>
+      <li>Korekcije za precesiju, njihanje i atmosferske refrakcije</li>
+      <li>Alati za preuzimanje podataka iz mrežnih baza podataka</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>El KStars és un programari d'astronomia de llicència lliure, codi obert i multiplataforma, creat per la comunitat KDE.</p>
+    <p>Proporciona una simulació gràfica precisa del cel nocturn, des de qualsevol emplaçament a la Terra, en qualsevol data i hora. La visualització inclou fins a 100 milions d'estrelles, 13.000 objectes del cel profund, tots els 8 planetes, el Sol i la Lluna, milers de cometes, asteroides, supernoves i satèl·lits.</p>
+    <p>Per a estudiants i professors, permet velocitats de simulació ajustables per tal de veure fenòmens que transcorren en escales de temps llargues, la calculadora astronòmica del KStars per a predir conjuncions i molts càlculs astronòmics habituals.</p>
+    <p>Per a l'astrònom aficionat, proporciona un planificador de l'observació, una eina de calendari del cel i un editor del CDV per a calcular el camp de visió de l'equip i mostrar-lo. Descobreix objectes interessants amb l'eina «Què passa aquesta nit», dibuixa gràfics d'altitud en funció del temps per a qualsevol objecte, imprimeix diagrames del cel en alta qualitat i obté accés a molta informació i recursos per a ajudar-vos a explorar l'univers!</p>
+    <p>Inclòs amb el KStars hi ha el paquet astrofotogràfic Ekos, una solució completa d'astrofotografia que pot controlar tots els dispositius INDI, inclosos nombrosos telescopis, CCD, DSLR, enfocadors, filtres i molt més. L'Ekos admet el seguiment d'alta precisió emprant el solucionador d'astrometria en línia i fora de línia, té capacitats d'enfocament automàtic i de guiatge automàtic, i permet capturar una o múltiples imatges emprant el potent gestor de seqüències integrat.</p>
+    <p>Catàlegs astronòmics:</p>
+    <ul>
+      <li>Catàleg predeterminat consistent en estrelles fins a magnitud 8</li>
+      <li>Catàlegs addicionals consistents en 100 milions d'estrelles fins a magnitud 16</li>
+      <li>Catàlegs descarregables que inclouen imatges de Messier, la nebulosa planetària Abell, el catàleg Sharpless, el catàleg Lynds de nebuloses fosques</li>
+      <li>Correccions per a la precessió, nutació i refracció atmosfèrica</li>
+      <li>Eines per a recuperar dades des d'una base de dades en línia</li>
+    </ul>
+  </description>
+  <description lang="ca-valencia">
+    <p>KStars és un programari d'astronomia de llicència lliure, codi obert i multiplataforma, creat per la comunitat KDE.</p>
+    <p>Proporciona una simulació gràfica precisa del cel nocturn, des de qualsevol emplaçament a la Terra, en qualsevol data i hora. La visualització inclou fins a 100 milions d'estreles, 13.000 objectes del cel profund, tots els 8 planetes, el Sol i la Lluna, milers de cometes, asteroides, supernoves i satèl·lits.</p>
+    <p>Per a estudiants i professors, permet velocitats de simulació ajustables per tal de vore fenòmens que transcorren en escales de temps llargues, la calculadora astronòmica de KStars per a predir conjuncions i molts càlculs astronòmics habituals.</p>
+    <p>Per a l'astrònom aficionat, proporciona un planificador de l'observació, una eina de calendari del cel i un editor de CDV per a calcular el camp de visió de l'equip i mostrar-lo. Descobreix objectes interessants amb l'eina «Què passa esta nit», dibuixa gràfics d'altitud en funció del temps per a qualsevol objecte, imprimeix diagrames del cel en alta qualitat i obté accés a molta informació i recursos per a ajudar-vos a explorar l'univers!</p>
+    <p>Inclòs amb KStars hi ha el paquet astrofotogràfic Ekos, una solució completa d'astrofotografia que pot controlar tots els dispositius INDI, inclosos nombrosos telescopis, CCD, DSLR, enfocadors, filtres i molt més. Ekos admet el seguiment d'alta precisió emprant el solucionador d'astrometria en línia i fora de línia, té capacitats d'enfocament automàtic i de guiatge automàtic, i permet capturar una o múltiples imatges emprant el potent gestor de seqüències integrat.</p>
+    <p>Catàlegs astronòmics:</p>
+    <ul>
+      <li>Catàleg predeterminat consistent en estreles fins a magnitud 8</li>
+      <li>Catàlegs addicionals consistents en 100 milions d'estreles fins a magnitud 16</li>
+      <li>Catàlegs descarregables que inclouen imatges de Messier, la nebulosa planetària Abell, el catàleg Sharpless, el catàleg Lynds de nebuloses fosques</li>
+      <li>Correccions per a la precessió, nutació i refracció atmosfèrica</li>
+      <li>Eines per a recuperar dades des d'una base de dades en línia</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>Astronomické katalogy:</p>
+    <ul>
+      <li>Nástroje pro získávání dat z databází online</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>KStars ist eine frei lizenzierte, quelloffene, plattformübergreifende Astronomiesoftware von KDE.</p>
+    <p>KStars simuliert präzise den Blick in den nächtlichen Himmel von jedem Punkt der Erde aus, zu jedem beliebigen Datum und Uhrzeit. Derzeit gibt es im Planetarium bis zu 100 Millionen Sterne, 13000 Deep-Sky-Objekte, alle acht Planeten, die Sonne und den Mond, sowie tausende Kometen, Asteroiden, Supernovae und Satelliten.</p>
+    <p>Für Schüler und Lehrer unterstützt es einstellbare Simulationsgeschwindigkeiten, um Phänomene zu betrachten, die auf langen Zeitskalen ablaufen, den KStars-Astrorechner zur Vorhersage von Konjunktionen und viele allgemeine astronomische Berechnungen.</p>
+    <p>Für den Amateur-Astronomen bietet es einen Beobachtungsplaner, einen Himmelskalender und einen STF-Editor, um Sichtfelder von Geräten zu berechnen und anzuzeigen. Finden Sie interessante Objekte mit „Was ist los heute Nacht“, zeichnen Sie Höhen-Zeit-Diagramme für jedes Objekt, drucken Sie hochwertige Himmelskarten und erhalten Sie Zugang zu vielen Informationen und Ressourcen, die Ihnen bei der Erkundung des Universums helfen.</p>
+    <p>Im Lieferumfang von KStars ist das Astrofotografie-Programm Ekos enthalten, eine komplette Astrofotografie-Lösung, die alle INDI-Geräte steuern kann, darunter zahlreiche Teleskope, CCDs, DSLRs, Fokussierer, Filter und vieles mehr. Ekos unterstützt hochpräzise Nachführung mit Online- und Offline-Astrometrie-Lösung, automatischer Fokussierung und Automatischer Nachführung sowie die Aufnahme von Einzel- oder Mehrfachbildern mit dem leistungsstarken eingebauten Verwaltung von Aufnahmesequenzen.</p>
+    <p>Astronomische Kataloge:</p>
+    <ul>
+      <li>Standardkatalog mit Sternen bis zur Magnitude 8</li>
+      <li>Zusätzliche Kataloge mit 100 Millionen Sternen bis zur Magnitude 16</li>
+      <li>Herunterladbare Kataloge einschließlich Messier-Bilder, Abell-Katalog, Sharpless-Katalog und Lynds Dunkelnebel-Katalog</li>
+      <li>Korrekturen für Präzession, Nutation und atmosphärische Brechung</li>
+      <li>Werkzeuge zum Herunterladen von Daten aus Online-Datenbanken</li>
+    </ul>
+  </description>
+  <description lang="en-GB">
+    <p>KStars is freely licensed, open source, cross-platform Astronomy Software by KDE.</p>
+    <p>It provides an accurate graphical simulation of the night sky, from any location on Earth, at any date and time. The display includes up to 100 million stars, 13,000 deep-sky objects,all 8 planets, the Sun and Moon, and thousands of comets, asteroids, supernovae, and satellites.</p>
+    <p>For students and teachers, it supports adjustable simulation speeds in order to view phenomena that happen over long timescales, the KStars Astrocalculator to predict conjunctions, and many common astronomical calculations.</p>
+    <p>For the amateur astronomer, it provides an observation planner, a sky calendar tool, and an FOV editor to calculate field of view of equipment and display them. Find out interesting objects in the "What's up Tonight" tool, plot altitude vs. time graphs for any object, print high-quality sky charts, and gain access to lots of information and resources to help you explore the universe!</p>
+    <p>Included with KStars is Ekos astrophotography suite, a complete astrophotography solution that can control all INDI devices including numerous telescopes, CCDs, DSLRs, focusers, filters, and a lot more. Ekos supports highly accurate tracking using online and offline astrometry solver, autofocus and autoguiding capabilities, and capture of single or multiple images using the powerful built in sequence manager.</p>
+    <p>Astronomical Catalogues:</p>
+    <ul>
+      <li>Default catalogue consisting of stars to magnitude 8</li>
+      <li>Extra catalogues consisting of 100 million stars to magnitude 16</li>
+      <li>Downloadable catalogues including Messier Images, Abell Planetary Nebulae, Sharpless Catalogue, Lynds Dark Nebula Catalogue</li>
+      <li>Corrections for precession, nutation and atmospheric refraction</li>
+      <li>Tools for retrieval of data from online databases</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>KStars es un software astronómico de licencia libre, de código abierto y multiplataforma, creado por KDE.</p>
+    <p>Proporciona una precisa simulación gráfica del cielo nocturno vista desde cualquier punto de la Tierra y para cualquier fecha y hora. La pantalla muestra unos 100 millones de estrellas, 13.000 objetos del espacio profundo, los 8 planetas, el Sol y la Luna, así como miles de cometas, asteroides, supernovas y satélites.</p>
+    <p>Para estudiantes y profesores, permite ajustar la velocidad de simulación para poder ver fenómenos que ocurren a lo largo de mucho tiempo; la calculadora astronómica de KStars permite predecir conjunciones y realizar cálculos astronómicos comunes.</p>
+    <p>Para el astrónomo aficionado, proporciona un planificador de observaciones, una herramienta de calendario celeste y un editor de campo visual para calcular el campo visual de su equipo y poder mostrarlo. Descubra interesantes objetos con la herramienta «¿Qué ocurre esta noche?», muestre gráficos de altitud frente a hora para cualquier objeto, imprima mapas del cielo de gran calidad y obtenga acceso a gran cantidad de información y recursos que le ayudarán a explorar el universo.</p>
+    <p>KStars incluye la suite de astrofotografía Ekos, una completa solución de fotografía astronómica que puede controlar cualquier dispositivo INDI, como telescopios, cámaras CCD y DSLR, sistemas de enfoque y filtros, entre otros. Ekos permite un seguimiento de alta precisión mediante el uso de sistemas de identificación con y sin conexión, funciones de enfoque y de guiado automáticos, así como la captura de una o múltiples imágenes mediante el uso de potente gestor de secuencias que integra.</p>
+    <p>Catálogos astronómicos:</p>
+    <ul>
+      <li>El catálogo por omisión contiene estrellas hasta la magnitud 8</li>
+      <li>Los catálogos adicionales contienen 100 millones de estrellas hasta la magnitud 16</li>
+      <li>Los catálogos que puede descargar contienen imágenes de objetos Messier, Nebulosas planetarias Abell, el Catálogo Sharpless y el catálogo de nebulosas oscuras Lynds</li>
+      <li>Correcciones de precesión, nutación y refracción atmosférica</li>
+      <li>Herramientas de obtención de datos de bases de datos en línea</li>
+    </ul>
+  </description>
+  <description lang="et">
+    <p>KStars on KDE loodud vaba litsentsiga avatud lähtekoodiga platvormiülene astronoomiatarkvara.</p>
+    <p>See võimaldab öise taevapildi täpset graafilist kujutamist mis tahes maakera punktis mis tahes ajal. Näitamisvalikute hulka kuuluvad ligemale 100 miljonit tähte, 13 000 Päikesesüsteemi välist objekti, kõik 8 planeeti, Päike ja Kuu ning tuhanded komeedid, asteroidid, supernoovad ja satelliidid.</p>
+    <p>Õpilastele ja õpetajatele on pakkuda muudetava kiirusega matkimised, mis lubavad uurida ka nähtusi, mis toimuvad väga pika aja vältel. KStarsi astrokalkulaator suudab ette ennustada taevakehade ühendusi ja teha veel paljusid astronoomilisi arvutusi.</p>
+    <p>Amatöörastronoomile on pakkuda vaatluste kavandamine, taevakalendri tööriist ja vaatevälja kalkulaator varustuse vaatevälja väljaarvutamiseks ja selle kuvamiseks. Huvipakkuvaid objekte aitab leida tööriist "Mis on täna vaadata", kõigi objektide puhul saab koostada kõrguse/aja graafiku, taevakaarte on võimalik kõrge kvaliteediga trükkida ning lisaks pakume rohkelt teavet ja ressursse, mis aitavad sul universumit paremini tundma õppida!</p>
+    <p>KStarsiga on kaasas astrofotograafiakomplekt Ekos, mis kujutab endast kõikehõlmavat astrofotograafia lahendust, millega saab juhtida INDI-seadmeid, sealhulgas paljusid teleskoope, CCD-sid, digitaalseid peegelkaamerraid (DSLR), fokuseerijaid, filtreid ja paljut muud. Ekos toetab äärmiselt täpset jälgimist nii võrgu- kui ka autonoomsete astromeetriaprogrammidega, automaatset fokuseerimist ja gideerimist ning ühe või paljude piltide tegemist kaasasoleva võimsa sarivõtete halduriga.</p>
+    <p>Tähekataloogid:</p>
+    <ul>
+      <li>Vaikimisi kataloog sisaldab tähti kuni tähesuuruseni 8</li>
+      <li>Lisakataloogid sisaldavad 100 miljonit tähte kuni tähesuuruseni 16</li>
+      <li>Allalaaditavad kataloogid, sealhulgas Messieri pildid, Abelli planetaarudukogud, Sharplessi kataloog, Lyndsi tumedate udukogude kataloog</li>
+      <li>Pretsessiooni, nutatsiooni ja atmosfääri refraktsiooni korrigeerimine</li>
+      <li>Võimalus hankida andmeid võrguandmebaasidest</li>
+    </ul>
+  </description>
+  <description lang="eu">
+    <p>KStars lizentzia askeko, sorburu irekiko, plataforma-anitzerako KDEk egindako astronomia softwarea da.</p>
+    <p>Gaueko zeruaren simulazio grafiko zehatza ematen du, lurreko edozein kokalekutik, edozein data eta ordutan. Bistaratzeak 100 milioi izar ditu, 13.000 zeru-sakoneko objektu, 8 planetak, eguzkia eta ilargia, eta milaka kometa, asteroide, supernoba, eta satelite.</p>
+    <p>Ikasle eta irakasleentzat, simulazio abiadura erregulagarriak onartzen ditu denbora-eskala luzeetan gertatzen diren fenomenoak ikusi ahal izateko, KStars Astrokalkulagailua konjuntzioak kalkulatzeko, eta kalkulu astronomiko arrunt ugari.</p>
+    <p>Astronomia-zaleentzat, behaketa planifikatzaile bat dakar, zeruko egutegi tresna bat, eta FOV editore bat ekipamenduaren ikus-eremua kalkulatu eta bistaratzeko. Topatu objektu interesgarriak "Zer berri gaur gauean" tresnan, altitudea denborarekiko grafikoak trazatu edozein objekturentzat, inprimatu kalitate handiko zeruko diagramak, eta eskuratu ezazu unibertsoa esploratzen lagunduko dizun informazio eta baliabide ugarietara sarbidea!</p>
+    <p>KStars-ekin batera Ekos astro-argazkigintza suitea dator, astro-argazkigintza soluzio oso bat INDI gailu guztiak kontrolatu ditzakeena tartean teleskopio ugari, CCDak, DSLRak, fokatzaileak, iragazkiak, eta askoz gehiago. Ekos-ek zehaztasun handiko jarraipena onartzen du lerroko eta lerroz kanpoko astrometria ebazleak erabiliz, auto-fokua eta auto-gidatze gaitasunak, eta irudi bakar edo anitzak atzematea barnean eraikia duen sekuentzia kudeatzaile ahaltsua erabiliz.</p>
+    <p>Katalogo astronomikoak:</p>
+    <ul>
+      <li>Katalogo lehenetsia, 8 magnitude arteko izarrak dituena</li>
+      <li>Katalogo gehigarriak, 16 magnitude arteko 100 milioi izar dituztenak</li>
+      <li>Jaitsi daitezkeen katalogoak, haien artean Messier Irudiak, Abell Planeten Nebulosa, Sharpless Katalogoa, Lynds Nebulosa Iluna katalogoa</li>
+      <li>Zuzenketak prezesioentzat, nutazioarentzat eta errefrakzio atmosferikoarentzat</li>
+      <li>Lerroko datu-baseetatik datuak-berreskuratzerako tresnak</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>Tähtitieteelliset luettelot:</p>
+    <ul>
+      <li>Oletusluettelo sisältää tähdet suuruusluokkaan 8 saakka</li>
+      <li>Lisäluettelo sisältää 100 miljoonaa tähteä suuruusluokkaan 16 saakka</li>
+      <li>Korjaukset presessiolle, nutaatiolle ja ilmakehätaittumiselle</li>
+      <li>Työkalut aineiston hakemiseen verkossa olevista tietokannoista</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>KStar est un logiciel d'astronomie sous licence libre, « Open Source » et multi-plate-forme de KDE.</p>
+    <p>Il fournit une simulation graphique précise du ciel nocturne, de n'importe quel endroit sur Terre, à toute date et toute heure. L'affichage comporte plus de 100 millions d'étoiles, 13 000 objets du ciel lointain, toutes les huit planètes, le Soleil et la Lune, des milliers de comètes, d'astéroïdes, supernova et satellites.</p>
+    <p>Pour les élèves et les enseignants, il prend en charge des vitesses de simulation ajustables, afin d'afficher des phénomènes arrivant sur de longues périodes de temps. Le module « Astrocalculator » de KStars effectue les prédictions de conjonctions et de nombreux calculs classiques d'astronomie.</p>
+    <p>Pour l'astronome amateur, il fournit un planificateur d'observation, un outil de calendrier pour le ciel et un éditeur « FOV » (Field Of View) pour calculer le champs d'observation des équipements et les afficher. Vous pouvez aussi trouver des objets intéressants dans l'outil « Quoi de neuf ce soir », tracer une courbe altitude /temps pour n'importe quel objet, imprimer des cartes du ciel en haute qualité et avoir accès à beaucoup d'autres informations et ressources pour vous aider à explorer l'univers !</p>
+    <p>Faisant partie de KStars, la suite d'astrophotographie Ekos est une solution complète d'astrophotographie, contrôlant tous les périphériques « INDI », dont de nombreux télescopes, des caméras « CCD », des appareils photo « DSLR », des viseurs, des filtres et bien plus. Ekos prend en charge le suivi en haute précision en utilisant des résolveurs en ligne ou hors ligne, des capacités d'autofocus et d'autoguidage et la capture d'images simples ou multiples grâce à un puissant outil de gestionnaire de séquence.</p>
+    <p>Catalogues astronomiques :</p>
+    <ul>
+      <li>Le catalogue par défaut contient des étoiles de magnitude 8</li>
+      <li>D'autres catalogues contiennent 100 millions d'étoiles de magnitude 16</li>
+      <li>Les catalogues pouvant être téléchargés contiennent des images de Messier, les nébuleuses planétaires de Abell, le catalogue « Sharpless » et le catalogue de nébuleuses « Lynds Dark ».</li>
+      <li>Corrections pour la précession, la nutation et les réfractions atmosphériques.</li>
+      <li>Outils pour télécharger des données à partir de bases de données en ligne</li>
+    </ul>
+  </description>
+  <description lang="gl">
+    <p>KStars é un software de astronomía libre, de código aberto e compatíbel con múltiple plataformas creado por KDE.</p>
+    <p>Fornece un simulador gráfico preciso do ceo nocturno desde calquera lugar do planeta en calquera momento. A visualización inclúe ata 100 millóns de estrelas, 13.000 obxectos do espazo profundo, os 8 planetas, o sol e a lúa, e milleiros de cometas, asteroides, supernovas e satélites.</p>
+    <p>Para estudantes e profesores, permite axustar a velocidade da simulación para ver os fenómenos que se producen ao longo de moito tempo, a calculadora de astros de KStars para predicir aliñamentos, e moitos cálculos astronómicos comúns.</p>
+    <p>Para astrónomos afeccionados fornece un planificador de observación, unha ferramenta de calendario celeste, e un editor de campo de visión para calcular o campo de visión de equipamento e mostralo. Descobre obxectos interesantes coa ferramenta «Que pasa esta noite?», xera gráficos de altitude e tempo para calquera obxecto, imprime cartas celestes de gran calidade, e obtén acceso a unha morea de información e recursos para axudarte a explorar o universo.</p>
+    <p>KStar inclúe a colección de software de astrofotografía Ekos, unha solución completa de astrofotografía que pode controlar todos os dispositivos INDI, incluídos moitos telescopios, CCDs, DSLRs, enfocadores, filtros e moito máis. Ekos permite facer seguimentos moi precisos mediante un resolvedor de astrometría por Internet e sen Internet, goza de capacidade para enforcar e guiar automaticamente, e permite capturar unha ou varias imaxes usando un potente xestor de secuencias que vai incluído.</p>
+    <p>Catálogos astronómicos:</p>
+    <ul>
+      <li>Catálogo predeterminado composto de estrelas de magnitudes 8 e inferiores.</li>
+      <li>Catálogos adicionais con 100 millóns de estrelas de magnitudes ata a 16.</li>
+      <li>Catálogos dispoñíbeis para descarga entre os que hai imaxes de Messier, as nebulosas planetarias Abell, o catálogo Sharpless ou o catálogo de nebulosa escura de Lynds.</li>
+      <li>Correccións de precesión, nutación e refracción atmosférica.</li>
+      <li>Ferramentas para obter datos de bases de datos en Internet.</li>
+    </ul>
+  </description>
+  <description lang="id">
+    <p>KStars adalah Software Astronomi yang terlisensi secara bebas, sumber terbuka, lintas platform oleh KDE.</p>
+    <p>Ini memberikan simulasi grafis yang akurat dari langit malam, dari lokasi mana pun di Bumi, pada tanggal dan waktu apa pun. Termasuk displai hingga 100 juta bintang, 13.000 objek langit, semua 8 planet, Matahari dan Rembulan, dan ribuan komet, asteroid, supernova, dan satelit.</p>
+    <p>Bagi siswa dan guru, ini mendukung kecepatan simulasi yang disesuaikan untuk melihat fenomena yang terjadi dalam jangka waktu yang lama, KStars Astrocalculator untuk memprediksi konjungsi, dan banyak perhitungan astronomi umum.</p>
+    <p>Bagi astronom amatir, ia menyediakan perencana observasi, alat kalender langit, dan editor FOV untuk menghitung bidang pandang peralatan dan menampilkannya. Temukan benda-benda menarik di alat "What's up Tonight", plot ketinggian vs grafik waktu untuk objek apa pun, cetak bagan langit berkualitas tinggi, dan dapatkan akses ke banyak informasi dan sumberdaya untuk membantu Anda menjelajahi alam semesta!</p>
+    <p>Yang termasuk dengan KStars adalah Ekos astrophotography suite, solusi astrophotography lengkap yang dapat mengendalikan semua perangkat INDI termasuk banyak teleskop, CCD, DSLR, fokus, filter, dan banyak lagi. Ekos mendukung pelacakan yang sangat akurat menggunakan pemecah astrometri online dan offline, kemampuan fokus otomatis dan autoguiding, dan menangkap gambar tunggal atau ganda menggunakan pengelola urutan yang kuat.</p>
+    <p>Katalog Astronomi:</p>
+    <ul>
+      <li>Katalog baku yang terdiri dari bintang dengan magnitudo 8</li>
+      <li>Katalog ekstra yang terdiri dari 100 juta bintang dengan magnitudo 16</li>
+      <li>Katalog yang bisa diunduh termasuk Messier Images, Abell Planetary Nebulae, Sharpless Catalog, Lynds Dark Nebula Catalog</li>
+      <li>Koreksi untuk presesi, lenggut dan refraksi atmosfer</li>
+      <li>Peralatan untuk penerimaan data dari database online</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>KStars è un software di astronomia multi-piattaforma con licenza gratuita ed open source della comunità KDE.</p>
+    <p>Fornisce una simulazione grafica accurata del cielo notturno, da qualsiasi posizione della Terra, in qualsiasi data e ora. La vista include fino a 100 milioni di stelle, 13.000 oggetti del profondo cielo, tutti e otto i pianeti, il Sole e la Luna oltre a migliaia di comete, asteroidi, supernove e satelliti.</p>
+    <p>Per studenti e insegnanti supporta velocità di simulazione regolabili, in modo da poter vedere fenomeni che accadono in tempi molto lunghi, mentre l'astrocalcolatrice di KStars predice le congiunzioni ed esegue molti calcoli astronomici comuni.</p>
+    <p>Fornisce agli astronomi dilettanti un pianificatore di osservazione, uno strumento per il calendario celeste e un editor di CDV per calcolare il campo di vista dell'equipaggiamento e per visualizzarlo. Trova gli oggetti interessanti con lo strumento «Cosa si vede stanotte», traccia l'altezza in funzione del tempo di qualsiasi oggetto, esegue stampe in alta qualità della mappa celeste, e fornisce inoltre l'accesso a molte informazioni e a risorse che ti aiutano ad esplorare l'universo!</p>
+    <p>Inclusa con KStars c'è la suite per l'astrofotografia Ekos, una soluzione completa che può controllare tutti dispositivi INDI, inclusi numerosi telescopi, CCD, DSLR, focheggiatori, filtri e molto altro ancora. Ekos supporta un inseguimento altamente accurato, usando sia dei risolutori astrometrici sul web sia locali, ha capacità di messa a fuoco automatica e di autoguida, oltre a poter catturare immagini singole o multiple grazie al potente gestore di sequenze incorporato.</p>
+    <p>Cataloghi astronomici:</p>
+    <ul>
+      <li>Il catalogo predefinito, formato da stelle di magnitudo 8</li>
+      <li>Dei cataloghi aggiuntivi formati da 100 milioni di stelle fino alla magnitudo 16</li>
+      <li>Altri cataloghi scaricabili, che includono le immagini Messier, le nebulose planetarie di Abell, il catalogo Sharpless e il catalogo delle nebulose oscure di Lynds</li>
+      <li>Correzioni per precessione, nutazione e rifrazione atmosferica</li>
+      <li>Strumenti per il recupero di dati dalle base di dati in linea</li>
+    </ul>
+  </description>
+  <description lang="ko">
+    <p>천문 카탈로그:</p>
+  </description>
+  <description lang="nds">
+    <p>Astronoomsch Katalogen:</p>
+    <ul>
+      <li>Standardkataloog mit Steerns bet Magnituud 8</li>
+      <li>Bito-Katalogen mit 100 Millionen Steerns bet Magnituud 16</li>
+      <li>Richten för Küselbewegen, Eerass-Swunken un atmosfeersch Lichtbreken</li>
+      <li>Warktüüch för't Halen vun Daten ut Tokoppel-Datenbanken</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>KStars is een opensource Astronomieprogramma van KDE, met een vrije licentie, dat draait op allerlei verschillende soorten computers.</p>
+    <p>Het geeft een nauwkeurige grafische simulatie van de nachtelijke hemel, vanaf elke locatie op aarde, voor elke datum en op elk tijdstip. Er kunnen tot aan 100 miljoen sterren worden afgebeeld, 13000 zogenaamde deepsky-objecten, alle 8 planeten, de zon en de maan, en duizenden kometen, planetoïden, supernova's, en satellieten.</p>
+    <p>Voor leerlingen en docenten zijn aan te passen simulatiesnelheden mogelijk, om hemelverschijnselen zichtbaar te maken die in werkelijkheid heel veel tijd in beslag nemen. De Astrorekenmachine van KStars kan verduisteringen van te voren berekenen, en veel andere gewone sterrenkundige berekeningen uitvoeren.</p>
+    <p>Voor de amateur astronoom is er een observatieplanner, een hemelkalender, en een GV-bewerker voor het berekenen van het gezichtsveld van apparatuur, en het afbeelden daarvan. Ontdek interessante waarneemobjecten in het hulpmiddel voor Wat er vanavond te zien is, hoogtes te berekenen van enig object, als functie van de tijd, zeer goede hemelkaarten af te drukken, en toegang te verkrijgen tot een enorm scala aan informatie en bronnen waarmee u het heelal kunt onderzoeken!</p>
+    <p>Tot KStars behoren ook de programma's van Ekos Astrophotography, een complete oplossing voor sterrenfotografie, waarmee alle INDI-apparaten kunnen worden bestuurd, inclusief talloze telescopen, CCD's, DSLR's, focusers, filters, en veel meer. Met Ekos kunt u sterren zeer nauwkeurig volgen met behulp van online en offline astrometrische berekeningen, er zijn mogelijkheden voor autofocus en autovolgen, en voor opnames van enkele of meerdere afbeeldingen, met gebruik van een ingebouwde mogelijkheid tot het beheren van een serie opnames.</p>
+    <p>Astronomische catalogi:</p>
+    <ul>
+      <li>Standaard catalogus met sterren tot magnitude 8</li>
+      <li>Extra catalogi met 100 miljoen sterren tot magnitude 16</li>
+      <li>Catalogi die kunnen worden gedownload, met inbegrip van Messier objecten, Abell planetaire nevels, Sharpless Catalogus, Lynds Dark Nebula Catalog (catalogus donkere nevels)</li>
+      <li>Correcties voor precessie, nutatie en atmosferische straalbreking</li>
+      <li>Hulpmiddelen voor het verkrijgen van gegevens uit gegevensbanken vanaf het internet</li>
+    </ul>
+  </description>
+  <description lang="nn">
+    <p>Astronomikatalogar:</p>
+  </description>
+  <description lang="pa">
+    <p>ਖਾਗੋਲਸ਼ਾਲਾ ਸੂਚੀਆਂ:</p>
+  </description>
+  <description lang="pl">
+    <p>KStars jest darmowym, otwartoźródłowym, wieloplatformowym oprogramowaniem astronomicznym stworzonym przez KDE.</p>
+    <p>Dostarcza dokładnej graficznej symulacji nieba nocnego z dowolnego miejsca na Ziemi, w dowolnym dniu i o dowolnym czasie. Można wyświetlić do 100 milionów gwiazd, 13000 obiektów z głębokiego nieba, wszystkie 8 planet, Słońce i Księżyc i tysiące komet, asteroidów, supernowych i satelitów. </p>
+    <p>Dla uczniów i nauczycieli, przewidziano zmienne szybkości symulacji celem obserwacji zjawisk zachodzących w dłuższych okresach czasowych, kalkulator astronomiczny do przewidywania koniunkcji oraz wiele innych powszechnych obliczeń astronomicznych.</p>
+    <p>Dla astronomów-amatorów, przewidziano harmonogram obserwacji, kalendarz nieba i edytor pola widzenia do obliczania i wyświetlania pola widzenia sprzętu. Dowiaduje się o interesujących obiektach z narzędzia "Co dzisiaj na niebie", rysuj wykresy wysokości względem czasu dla dowolnych obiektów, drukuj wykresy nieba w wysokiej jakości i zyskuj dostęp do wielu informacji i zasobów mających na celu pomóc tobie w odkrywaniu wszechświata!</p>
+    <p>Do KStars dołączono pakiet astrofotograficzny Ekos, pełne rozwiązanie astrofotograficzne, które ma możliwość sterowania wszystkimi urządzeniami INDI włączając w to wiele teleskopów, CCD,DSLR, układy ogniskujące, filtry i wiele innych. Ekos obsługuje wysoce dokładne naprowadzanie przy użyciu lokalnych i internetowych programów do rozwiązywania, możliwości samoogniskowania i samonaprowadzania oraz przechwytywanie pojedynczych i wielu obrazów przy użyciu zaawansowanego zarządzania sekwencjami.</p>
+    <p>Katalogi astronomiczne:</p>
+    <ul>
+      <li>Domyślny katalog zawierający gwiazdy wielkości 8</li>
+      <li>Ekstra katalogi zawierające 100 milionów gwiazd wielkości 16</li>
+      <li>Katalogi do pobrania zawierające obrazy Messier, Mgławicę planetarną Abell, Katalog Sharpless, Katalog Lynds Dark Nebula</li>
+      <li>Poprawki do precesji, nutacji i załamania atmosferycznego</li>
+      <li>Narzędzia do pobierania danych z internetowych baz danych</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>O KStars é uma aplicação de astronomia com uma licença livre, de código-aberto e multi-plataforma.</p>
+    <p>Oferece uma simulação gráfica precisa do céu nocturno, em qualquer ponto da Terra e em qualquer data e hora. A apresentação inclui até 100 milhões de estrelas, 13 000 objectos distantes, todos os 8 planetas, o Sol e a Lua, assim como milhares de cometas, asteróides, supernovas e satélites.</p>
+    <p>Para os alunos e professores, suporta velocidades de simulação ajustáveis para poder ver os fenómenos que ocorrem ao longo de largos períodos de tempo, podendo também usar a Calculadora Astronómica para prever as conjunções e muitos outros cálculos astronómicos comuns.</p>
+    <p>Para o astrónomo amador, oferece um planeamento de observações, uma ferramenta de calendário do céu e um editor de CDV para calcular o campo de visão de um dado equipamento, bem como para o apresentar. Descubra objectos interessantes na ferramenta "O Que se Passa Esta Noite", gráficos da altitude vs. tempo para qualquer objecto, a impressão de gráficos do céu de alta qualidade e o acesso a bastante informação e recursos que o ajudam a explorar o Universo!</p>
+    <p>Incluído com o KStars vem o pacote de astro-fotografia Ekos, uma solução completa de fotografia na astronomia, que pode controlar todos os dispositivos INDI, incluindo os numerosos telescópios, CCD's, DSLR's, sistemas de focagem, filtros, entre muitas outras coisas. O Ekos suporta o seguimento altamente preciso de objectos, usando o sistema de resolução 'online' e 'offline' Astrometry, as capacidades de focagem e guia automáticos, assim como a captura de imagens individuais ou múltiplas, usando o poderoso gestor de sequências.</p>
+    <p>Catálogos Astronómicos:</p>
+    <ul>
+      <li>Catálogo predefinido que consiste nas estrelas de magnitude 8</li>
+      <li>Catálogos extra que consistem em 100 milhões de estrelas até à magnitude 16</li>
+      <li>Catálogos disponíveis para transferência, incluindo as imagens Messier, as Nebulosas Planetárias Abell, o Catálogo Sharpless e o Catálogo de Nebulosas Escuras Lynds</li>
+      <li>Correcções da precessão, nutação e refracção atmosférica</li>
+      <li>Ferramentas de obtenção de dados a partir de bases de dados 'online'</li>
+    </ul>
+  </description>
+  <description lang="pt-BR">
+    <p>KStars é um software de Astronomia do KDE licenciado gratuitamente, de código aberto e multiplataforma.</p>
+    <p>Oferece uma simulação gráfica precisa do céu noturno, em qualquer local da Terra à qualquer data e hora. A apresentação inclui até 100 milhões de estrelas, 13.000 objetos distantes, todos os 8 planetas, o Sol e a Lua, assim como milhares de cometas, asteroides, supernovas e satélites.</p>
+    <p>Para alunos e professores, tem suporte a velocidades de simulação ajustáveis para permitir a visualização dos fenômenos que ocorrem em longos períodos de tempo, a Calculadora Astronômica do KStars para prever as conjunções e muitos outros cálculos astronômicos comuns.</p>
+    <p>Para o astrônomo amador, oferece um planejamento de observações, uma ferramenta de calendário do céu e um editor de CDV para calcular e exibir o campo de visão do equipamento. Encontre objetos interessantes na ferramenta "O que acontece esta noite", gráficos da altitude vs. tempo para qualquer objeto, a impressão de gráficos do céu em alta qualidade e o acesso a muitas informações e recursos que o ajudam a explorar o universo!</p>
+    <p>Junto com o KStars vem a suíte de astrofotografia Ekos, uma solução completa de astrofotografia que consegue controlar todos os dispositivos INDI, incluindo diversos telescópios, CCDs, DSLRs, focalizadores, filtros, e muito mais. O Ekos tem suporte ao rastreamento altamente preciso usando o sistema de resolução online e offline 'astrometry', capacidade de focagem e guia automáticas, assim como a captura de imagens individuais ou múltiplas, usando o poderoso gerenciador de sequências integrado.</p>
+    <p>Catálogos astronômicos:</p>
+    <ul>
+      <li>Catálogo padrão que consiste nas estrelas de magnitude 8</li>
+      <li>Catálogos adicionais que consistem em 100 milhões de estrelas de magnitude 16</li>
+      <li>Catálogos disponíveis para transferência, incluindo as imagens Messier, Nebulosas Planetárias Abell, Catálogo Sharpless e o Catálogo de Nebulosas Escuras Lynds</li>
+      <li>Correções da precessão, nutação e refração atmosférica</li>
+      <li>Ferramentas para obtenção de dados dos bancos de dados online</li>
+    </ul>
+  </description>
+  <description lang="ru">
+    <p>Астрономические каталоги:</p>
+    <ul>
+      <li>Основной каталог содержит звёзды до 8 величины</li>
+      <li>Дополнительные каталоги содержат 100 миллионов звёзд до 16 величины</li>
+      <li>Поправки на прецессию, нутацию и атмосферную рефракцию</li>
+      <li>Инструменты для получения данных из онлайновых баз данных</li>
+    </ul>
+  </description>
+  <description lang="sk">
+    <p>KStars je slobodný, open source, cross platformový astronomický softvér od KDE.</p>
+    <p>Poskytuje presnú grafickú simuláciu nočnej oblohy z ľubovoľného miesta na Zemi v ľubovoľný dátum a čas. Zobrazenie zahŕňa do 100 miliónov hviezd, 13000 deep sky objektov, všetkých 8 planét, Slnko a Mesiac a tisíce komét, asteroidov, supernov a satelitov.</p>
+    <p>Pre študentov a učiteľov, podporuje upraviteľné simulované rýchlosti na zobrazenie fenomén, ktoré nastávajú počas dlhých období, KStars astrokalkulačka na predpovedanie konjunkcií a mnoho bežných astronomických výpočtov.</p>
+    <p>Pre amatérskeho astronóma poskytuje plánovať pozorovaní, nástroj nebeského kalendára a FOV editor na výpočet príslušenstva a ich zobrazenie. Nájdite zaujímavé objekty v nástroji "Čo je vidno dnes", zakreslite si graf výšky podľa času pre ľubovoľný objekt, vytlačte grafy oblohy vo vysokej kvalite a získajte prístup k mnohým informáciám a zdrojom, ktoré vám pomôžu skúmať vesmír!</p>
+    <p>KStars obsahuje astrofotografický balík Ekos, kompletné riešenie, ktoré vie ovládať všetky INDI zariadenia vrátane mnohých ďalekohľadov, CCD, DSLR, približovače, filtre a omnoho viac. Ekos podporuje vysoko presné sledovanie pomocou online a offline astrometrického riešiteľa, automatické zaostrovanie a navádzanie a snímanie jednej alebo viac snímok pomocou silného správcu sekvencií.</p>
+    <p>Astronomické katalógy:</p>
+    <ul>
+      <li>Predvolený katalóg obsahujúci hviezdy do magnitúdy 8</li>
+      <li>Dodatočné katalógy obsahujúce 100 miliónov hviezd do magnitúdy 16</li>
+      <li>Stiahnuteľné katalógy obsahujúce Messierove obrázky, Abellove planetárne hmloviny, Sharpless Catalog, Lynds Dark Nebula Catalog</li>
+      <li>Korekcie pre precesiu, nutáciu a atmosférickú refrakciu</li>
+      <li>Nástroje na získanie všetkých údajov zo všetkých online databáz</li>
+    </ul>
+  </description>
+  <description lang="sl">
+    <p>KStars je prosta, odprtokodna astronomska programska oprema, ki teče na več okoljih in izdelana pri KDE.</p>
+    <p>Ponuja natančno grafično simulacijo nočnega neba z vsakega mesta na Zemlji, ob poljubnem času poljubnega dneva. Prikaz vključuje več kot 100 milijonov zvezd, 13.000 objektov globokega neba, vseh 8 planetov, Sonce in Luno, ter na tisoče kometov, asteroidov, supernov in satelitov.</p>
+    <p>Za študente in učitelje so na voljo prilagodljive hitrosti simulacije za ogled fenomenov, ki se zgodijo v daljših časovnih obdobjih, ter zvezdno računalo KStars za napovedovanje konjunkcij ter številne pogoste astronomske izračune.</p>
+    <p>Amaterskemu astronomu ponuja načrtovalnik opazovanja, nebesni koledarček ter urejevalnik vidnega polja za izračun vidnega polja opreme in njihov prikaz. Z orodjem »Kaj je danes na nebu« se lahko pozanimate o zanimivih objektih, izrišete grafikone višine nasproti času za poljuben objekt, natisnete visokokakovostne nebesne karte ter pridobite dostop do velike količine podatkov in virov, ki vam bodo v pomoč pri raziskovanju vesolja!</p>
+    <p>V KStars je vključen tudi Etos, astronomski fotografski paket, popolna rešitev za astrofotografijo, s katero lahko nadzirate vse naprave INDI, vključno s številnimi daljnogledi, CCD-ji, DSLR-ji, ostrilci, filtri, itd. Ekos podpira zelo natančno sledenje z uporabo spletnega in nepovezanega reševalnika astrometry.net, zmogljivosti samodejnega ostrenja in sledenja ter zajem posamičnih ali zaporednih slik z zmogljivim vgrajenim upravljalnikom zaporedij.</p>
+    <p>Astronomski katalogi:</p>
+    <ul>
+      <li>Privzeti katalog, ki vsebuje zvezde do magnitude 8</li>
+      <li>Dodatni katalogi, ki vsebujejo 100 milijonov zvezd do magnitude 16</li>
+      <li>Katalogi, ki jih je mogoče prejeti in vsebujejo Messierjeve slike, Abellove planetarne meglice, Sharplessov katalog in Lyndsov katalog temnih meglic</li>
+      <li>Popravki precesije, nutacije in loma v ozračju</li>
+      <li>Orodja za pridobivanje podatkov iz spletnih podatkovnih zbirk</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <p>Kstars är en astronomiprogramvara med öppen källkod och fri licens för flera plattformar.</p>
+    <p>Den erbjuder en noggrann grafisk simulering av natthimlen från vilken plats som helst på jorden, vid vilket datum och vilken tid som helst. Visningen omfattar upp till 100 miljoner stjärnor, 13 000 avlägsna himmelsobjekt, alla 8 planeterna, solen, månen, samt tusentals kometer, asteroider, supernovor och satelliter.</p>
+    <p>För elever och lärare stöder den justerbar simuleringshastighet för att visa fenomen som inträffar under långa tidsperioder. Kstars astronomiräknare predikterar konjunktioner, och utför många vanliga astronomiska beräkningar.</p>
+    <p>För amatörastronomer tillhandahåller den observationsplanering, ett verktyg med en himmelskalender, och en synfältseditor för att beräkna utrustningens synfält och visa det. Ta reda på intressanta objekt med verktyget "Vad händer inatt", skapa diagram över elevation över tid för vilket objekt som helst, skriv ut himmelskartor med hög kvalitet, och få tillgång till massor med information och resurser för att hjälpa till att utforska universum.</p>
+    <p>Ekos astronomifotograferingssvit ingår i Kstars: en fullständig lösning för astronomisk fotografering som kan styra alla INDI-enheter, inklusive en mängd teleskop, CCD:er, digitala spegelreflexkameror, fokuseringsenheter, filter, med mera. Ekos stöder mycket noggrann följning med ett nätbaserat och lokalt astrometrilösningsverktyg, har möjlighet till automatisk fokusering och guidning, samt tagning av enstaka eller flera bilder med den kraftfulla inbyggda sekvenshanteraren.</p>
+    <p>Astronomiska kataloger:</p>
+    <ul>
+      <li>Standardkatalog som består av stjärnor till magnitud 8</li>
+      <li>Extra kataloger bestående av 100 millioner stjärnor till magnitud 16</li>
+      <li>Nerladdningsbara kataloger som omfattar Messier-bilder, Abell planetära nebulosor, Sharpless-katalog, Lynds katalog över mörka nebulosor</li>
+      <li>Korrektion för precession, nutation och atmosfärisk refraktion</li>
+      <li>Verktyg för hämtning av data från databaser på nätet</li>
+    </ul>
+  </description>
+  <description lang="tr">
+    <p>Herhangi bir tarih ve saatte, Dünya üzerindeki herhangi bir yerden gece gökyüzünün grafik simülasyonunu sağlar. Ekran, 100 milyona kadar yıldız, 13.000 derin gökyüzü objesi, 8 gezegen, Güneş ve Ay, binlerce kuyruklu yıldız, asteroit, süpernova ve uyduları kapsamaktadır.</p>
+    <p>Öğrenciler ve öğretmenler için, uzun zaman çizelgeleri üzerinde meydana gelen olguları, bağlantı elemanlarını tahmin etmek için KStars Astrocalculator'ı ve birçok ortak astronomik hesaplamaları görmek için ayarlanabilir simülasyon hızlarını desteklemektedir.</p>
+    <p>Amatör gökbilimciler için, gözlem planlayıcısı, gök takvimi aracı ve bir FOV düzenleyici sunar, böylece ekipman araçlarının alanını hesaplar ve onarı gösterir. "Bu gece ne oluyor?" aracındaki ilginç nesneleri keşfedin, herhangi bir nesne için zaman grafiği vs. yükseklik, yük çözünürlüklü gök grafikleri çizin ve evreni keşfetmenize yardımcı olmak için birçok bilgi ve kaynağa erişin!</p>
+    <p>KStars ile birlikte Ekos gökyüzü fotoğrafçılığı programı, sayısız teleskop, CCD, DSLR, odaklayıcı, filtre ve çok daha fazlasını içeren tüm INDI cihazlarını kontrol edebilen eksiksiz bir gökyüzü fotoğrafçılığı çözümü de dahildir. Ekos, çevrimiçi ve çevrimdışı astrometri çözücüsünü, otomatik netleme ve otomatik götürme özelliklerini kullanarak ve güçlü, yerleşik sıralama yöneticisini kullanarak tek veya birden çok görüntüyü yakalamak suretiyle son derece hassas izleme özelliğini destekler.</p>
+    <p>Astronomik Kataloglar:</p>
+    <ul>
+      <li>8 büyüklüğündeki yıldızlara kadar içeren varsayılan katalog</li>
+      <li>16 büyüklüğündeki 100 milyon yıldızı içeren ek katalog</li>
+      <li>İndirilebilir kataloglar, Messier Görüntüleri, Abell Gezegenimsi Bulutsusu ve Sharpless Kataloğu, Lynds Koyu Bulutsusu Kataloğu'nuda içerir</li>
+      <li>Devinim, nutasyon ve atmosferik kırılma için düzeltmeler</li>
+      <li>Çevrimiçi veritabanlarından veri alımı için araçlar</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>KStars — вільне астрономічне програмне забезпечення з відкритим кодом, яке може працювати на багатьох програмних платформах від KDE.</p>
+    <p>Програма точно відтворює вигляд нічного неба з будь-якого місця на Землі у будь-який день та час. Програмі відомі розташування понад 100 мільйонів зірок, 13.000 віддалених об’єктів, 8 планет, Сонця і Місяця, а також тисяч комет, астероїдів, наднових та супутників.</p>
+    <p>Для учнів і вчителів, у програмі передбачено підтримку налаштовуваної швидкості імітації з метою перегляду явищ, які тривають дуже довго, астрономічний калькулятор KStars для розрахунку сполучень та багатьох інших астрономічних обчислень.</p>
+    <p>Для астрономів-аматорів у програмі передбачено засіб планування спостережень, небесний календар та редактор поля здору для визначення поля зору обладнання та його показу. Ви зможете шукати цікаві об’єкти для спостереження за допомогою засобу «Сьогодні ввечері», переглядати графіки висота-час для усіх об’єктів, друкувати високоякісні карти неба та отримаєте доступ до багатьох інформаційних ресурсів та ресурсів із мультимедійними даними, які допоможуть вам вивчати всесвіт!</p>
+    <p>До складу пакунків з KStars включено астрометричний розв’язувач Ekos — повноцінне астрографічне рішення, яке може керувати усіма пристроями INDI, зокрема багатьма телескопами, ПЗЗ, цифровими дзеркальними фотокамерами, засобам фокусування, фільтрами та іншими інструментами. У Ekos передбачено підтримку високоточного стеження за допомогою засобів інтерактивної та авторомної астрометрії, автофокусування та автонаведення, можливості захоплення одного або декількох зображень на основі потужного вбудованого засобу керування зйомкою.</p>
+    <p>Каталоги астрономічних даних:</p>
+    <ul>
+      <li>типовий каталог з зірками до зоряної величини 8;</li>
+      <li>додаткові каталоги з 100 мільйонами зірок до зоряної величини 16;</li>
+      <li>придатні до отримання каталоги з зображеннями об’єктів каталогу Месьє, каталогу планетарних туманностей Абеля та каталогу Шарплеса, каталогу темних туманностей Ліндса;</li>
+      <li>виправлення прецесії, нутації та атмосферної рефракції;</li>
+      <li>інструменти для отримання даних з баз даних у інтернеті.</li>
+    </ul>
+  </description>
+  <description lang="x-test">
+    <p>xxKStars is freely licensed, open source, cross-platform Astronomy Software by KDE.xx</p>
+    <p>xxIt provides an accurate graphical simulation of the night sky, from any location on Earth, at any date and time. The display includes up to 100 million stars, 13,000 deep-sky objects,all 8 planets, the Sun and Moon, and thousands of comets, asteroids, supernovae, and satellites.xx</p>
+    <p>xxFor students and teachers, it supports adjustable simulation speeds in order to view phenomena that happen over long timescales, the KStars Astrocalculator to predict conjunctions, and many common astronomical calculations.xx</p>
+    <p>xxFor the amateur astronomer, it provides an observation planner, a sky calendar tool, and an FOV editor to calculate field of view of equipment and display them. Find out interesting objects in the "What's up Tonight" tool, plot altitude vs. time graphs for any object, print high-quality sky charts, and gain access to lots of information and resources to help you explore the universe!xx</p>
+    <p>xxIncluded with KStars is Ekos astrophotography suite, a complete astrophotography solution that can control all INDI devices including numerous telescopes, CCDs, DSLRs, focusers, filters, and a lot more. Ekos supports highly accurate tracking using online and offline astrometry solver, autofocus and autoguiding capabilities, and capture of single or multiple images using the powerful built in sequence manager.xx</p>
+    <p>xxAstronomical Catalogs:xx</p>
+    <ul>
+      <li>xxDefault catalog consisting of stars to magnitude 8xx</li>
+      <li>xxExtra catalogs consisting of 100 million stars to magnitude 16xx</li>
+      <li>xxDownloadable catalogs including Messier Images, Abell Planetary Nebulae, Sharpless Catalog, Lynds Dark Nebula Catalogxx</li>
+      <li>xxCorrections for precession, nutation and atmospheric refractionxx</li>
+      <li>xxTools for retrieval of data from online databasesxx</li>
+    </ul>
+  </description>
+  <description lang="zh-CN">
+    <p>KStars 是 KDE 开发的一款自由开源且跨平台的天文软件。</p>
+    <p>KStars 可以精确模拟地球上任意地点、时间的夜空图像。它的视图能够显示多达 1 亿颗恒星、1 万 3000 个深空天体、8 大行星、太阳和月球，以及数千个彗星、小行星、超新星和卫星。</p>
+    <p>对于学生和教师而言，KStars 支持对模拟速度进行调整，方便观看时间跨度极大的天文现象。KStars 的天体计算器可以用来预测合的发生时间和进行各种常见的天文学计算。</p>
+    <p>对于业余天文爱好者而言，KStars 提供了观测计划、星空日历等工具。它还具备视场编辑器，可用于计算设备的视场并按此显示视图。您还可以使用“今夜天象”工具来发现值得观测的天体，为任意天体按高度角和时间规划图表，打印高品质星图，获取大量有助于探索宇宙星空奥秘的信息和资源等。</p>
+    <p>KStars 还内建了 Ekos 天文摄影套件。Ekos 是一套完整的天体摄影解决方案，能够控制所有 INDI 设备，包括各种望远镜、CCD、DSLR、电调、滤镜和更多其他设备。Ekos 支持使用在线和离线天体测量解析器进行高精确度跟踪、自动聚焦和自动导星功能，以及使用内建的序列管理器拍摄单个或多个图像。</p>
+    <p>天文数据库：</p>
+    <ul>
+      <li>默认星表涵盖了 8 等星及以上恒星</li>
+      <li>附加星表涵盖了从最暗到 16 等星的一亿多颗恒星</li>
+      <li>可下载星表包括：梅西叶星云星团表、Abell 行星星云、沙普利斯亮星云表、林茨暗星云表</li>
+      <li>可针对岁差、章动和大气折射进行校正</li>
+      <li>用于检索在线数据库数据的工具</li>
+    </ul>
+  </description>
+  <description lang="zh-TW">
+    <p>KStars 是由 KDE 提供的自由授權、開放原始碼、跨平臺的天文學軟體。</p>
+    <p>它提供了準確的夜空圖形化模擬，從地球上的任何地方，在任何日期與時間。顯示了包含一億個星體、一萬三千個深空物體、以及八個系內行星、還有太陽與月亮，以及數千個慧星、小行星、超新星與衛星。</p>
+    <p>對於學生與教師來說，它支援了可調整的模擬速度以檢視在極長的時間尺度下發生的現象，KStars Astrocalculator 可用來預測天體會合，也可以用來計算許多常見的天文學數據。</p>
+    <p>對於業餘天文學家來說，它提供了觀測計劃器、天空日曆工具、FOV 編輯器來計算裝備的視野並顯示它們。在「今晚有什麼」工具中尋找有趣的目標、繪製任何物體的高度與時間關係圖，列印高品質的天空圖，並取得大量資訊與資源來協助您探索宇宙！</p>
+    <p>包含在 KStars 中的是 Ekos 天文攝影套裝軟體，這是一套可以控制所有 INDI 裝置的完整解決方案，其中包含了眾多望遠鏡、CCS、DSLR、聚焦器、濾光片與許多其他東西。Ekos 使用線上與離線的天體測量計算程式、自動對焦與自動導航功能進行高精度追蹤，並使用功能強大的序列管理程式來照出一張或多張照片。</p>
+    <p>天文類別：</p>
+    <ul>
+      <li>包含星等 8 的預設類別</li>
+      <li>包含到星等 16 的一億個星體的額外類別</li>
+      <li>可下載的分類，包括 Messier images、Abell Planetary Nebulae、Sharpless Catalog、Lynds Dark Nebula Catalog 等</li>
+      <li>歲差、地軸震動與大氣磨擦修正</li>
+      <li>顯示線上資料庫的工具</li>
+    </ul>
+  </description>
+  <pkgname>kstars</pkgname>
+  <launchable type="desktop-id">org.kde.kstars.desktop</launchable>
+  <icon width="64" height="64" type="cached">kstars.png</icon>
+  <icon width="128" type="cached" height="128">kstars.png</icon>
+  <id>org.kde.kstars.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KStars</name>
+  <name lang="ar">نجوم‌ك</name>
+  <name lang="bs">KStars</name>
+  <name lang="ca">KStars</name>
+  <name lang="ca-valencia">KStars</name>
+  <name lang="cs">KStars</name>
+  <name lang="da">KStars</name>
+  <name lang="de">KStars</name>
+  <name lang="en-GB">KStars</name>
+  <name lang="es">KStars</name>
+  <name lang="et">KStars</name>
+  <name lang="eu">KStars</name>
+  <name lang="fi">KStars</name>
+  <name lang="fr">KStars</name>
+  <name lang="gl">KStars</name>
+  <name lang="id">KStars</name>
+  <name lang="it">KStars</name>
+  <name lang="ko">KStars</name>
+  <name lang="lt">KStars</name>
+  <name lang="nds">KStars</name>
+  <name lang="nl">KStars</name>
+  <name lang="nn">KStars</name>
+  <name lang="pa">ਕੇ-ਤਾਰੇ</name>
+  <name lang="pl">KStars</name>
+  <name lang="pt">KStars</name>
+  <name lang="pt-BR">KStars</name>
+  <name lang="ru">KStars</name>
+  <name lang="sk">KStars</name>
+  <name lang="sl">KStars</name>
+  <name lang="sv">Kstars</name>
+  <name lang="tr">KStars</name>
+  <name lang="uk">KStars</name>
+  <name lang="x-test">xxKStarsxx</name>
+  <name lang="zh-CN">KStars</name>
+  <name lang="zh-TW">天文_KStars</name>
+  <summary>Desktop Planetarium</summary>
+  <summary lang="ar">قبّة سماويّة على سطح المكتب</summary>
+  <summary lang="bs">Stoni planetarij</summary>
+  <summary lang="ca">Planetari per a l'escriptori</summary>
+  <summary lang="ca-valencia">Planetari per a l'escriptori</summary>
+  <summary lang="cs">Planetárium na vaší obrazovce</summary>
+  <summary lang="de">Elektronisches Planetarium</summary>
+  <summary lang="en-GB">Desktop Planetarium</summary>
+  <summary lang="es">Planetario para el escritorio</summary>
+  <summary lang="et">Töölaua planetaarium</summary>
+  <summary lang="eu">Mahaigaineko planetarioa</summary>
+  <summary lang="fi">Työpöytäplanetaario</summary>
+  <summary lang="fr">Planétarium de bureau</summary>
+  <summary lang="gl">Planetario de escritorio</summary>
+  <summary lang="id">Planetarium Desktop</summary>
+  <summary lang="it">Planetario per il desktop</summary>
+  <summary lang="ko">데스크톱 별자리판</summary>
+  <summary lang="lt">Darbalaukio planetariumas</summary>
+  <summary lang="nds">Planetarium för den Schriefdisch</summary>
+  <summary lang="nl">Planetarium op uw bureaublad</summary>
+  <summary lang="nn">Skrivebordsplanetarium</summary>
+  <summary lang="pa">ਡੈਸਕਟਾਪ ਤਾਰੇ-ਗ੍ਰਹਿ ਦੇਖਣ ਦੀ ਥਾਂ</summary>
+  <summary lang="pl">Planetarium na pulpicie</summary>
+  <summary lang="pt">Planetário de Ambiente de Trabalho</summary>
+  <summary lang="pt-BR">Planetário no ambiente de trabalho</summary>
+  <summary lang="ru">Настольный планетарий</summary>
+  <summary lang="sk">Planetárium vašej plochy</summary>
+  <summary lang="sl">Namizni planetarij</summary>
+  <summary lang="sv">Skrivbordsplanetarium</summary>
+  <summary lang="tr">Masaüstü Yıldız Evi</summary>
+  <summary lang="uk">Настільний планетарій</summary>
+  <summary lang="x-test">xxDesktop Planetariumxx</summary>
+  <summary lang="zh-CN">桌面天文观测软件</summary>
+  <summary lang="zh-TW">桌面星象儀</summary>
+  <url type="homepage">https://edu.kde.org/kstars/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kstars</url>
+  <url type="help">https://docs.kde.org/?application=kstars</url>
+  <screenshots>
+    <screenshot type="default">
+      <caption>KStars main window</caption>
+      <caption lang="ar">النافذة الرئسية لنجومك</caption>
+      <caption lang="ca">Finestra principal del KStars</caption>
+      <caption lang="ca-valencia">Finestra principal de KStars</caption>
+      <caption lang="cs">Hlavní okno KStars</caption>
+      <caption lang="de">Hauptfenster von KStars</caption>
+      <caption lang="en-GB">KStars main window</caption>
+      <caption lang="es">Ventana principal de KStars</caption>
+      <caption lang="et">KStarsi peaaken</caption>
+      <caption lang="eu">Kstars leiho nagusia</caption>
+      <caption lang="fr">Fenêtre principale de KStars</caption>
+      <caption lang="gl">Xanela principal de KStars</caption>
+      <caption lang="id">Window utama KStars</caption>
+      <caption lang="it">Finestra principale di KStars</caption>
+      <caption lang="nl">Het hoofdvenster van KStars</caption>
+      <caption lang="nn">Hovudvindauget i KStars</caption>
+      <caption lang="pa">ਕੇ-ਤਾਰੇ ਮੁੱਖ ਵਿੰਡੋ</caption>
+      <caption lang="pl">Główne okno KStars</caption>
+      <caption lang="pt">Janela principal do KStars</caption>
+      <caption lang="pt-BR">Janela principal do KStars</caption>
+      <caption lang="sk">KStars hlavné okno</caption>
+      <caption lang="sl">Glavno okno KStars</caption>
+      <caption lang="sv">Huvudfönstret i Kstars</caption>
+      <caption lang="uk">Головне вікно KStars</caption>
+      <caption lang="x-test">xxKStars main windowxx</caption>
+      <caption lang="zh-CN">KStars 主窗口</caption>
+      <caption lang="zh-TW">KStars 主視窗</caption>
+      <image width="1600" height="900">https://edu.kde.org/kstars/appstream/kstars_main.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>"What's interesting" tool in KStars</caption>
+      <caption lang="ar">أداة "ما المثير؟" في نجومك</caption>
+      <caption lang="ca">Eina «Què hi ha d'interessant» al KStars</caption>
+      <caption lang="ca-valencia">Eina «Què hi ha d'interessant» a KStars</caption>
+      <caption lang="cs">Nástroj "Co je zajímavé! v KStars</caption>
+      <caption lang="de">„Was ist interessant“ in KStars</caption>
+      <caption lang="en-GB">"What's interesting" tool in KStars</caption>
+      <caption lang="es">Herramienta «Qué es interesante» de KStars</caption>
+      <caption lang="et">KStarsi tööriist "Mida huvitavat on vaadata"</caption>
+      <caption lang="eu">"Zer berri gaur gauean" tresna KStars-en</caption>
+      <caption lang="fr">Outil « Quoi d'intéressant » de KStars</caption>
+      <caption lang="gl">Ferramenta de «Que hai de interesante» de KStars</caption>
+      <caption lang="id">Alat "What's interesting" di KStars</caption>
+      <caption lang="it">Strumento "Cosa c'è di interessante" in KStars</caption>
+      <caption lang="nl">Het hulpmiddel voor "Wat is interessant" in KStars</caption>
+      <caption lang="pl">Narzędzie "Co jest interesującego" w KStars</caption>
+      <caption lang="pt">Ferramenta "O que há de interessante" no KStars</caption>
+      <caption lang="pt-BR">Ferramenta "O que há de interessante..." no KStars</caption>
+      <caption lang="sl">Orodje "Kaj je zanimivega" v programu KStars</caption>
+      <caption lang="sv">Verktyget "Vad är intressant" i Kstars</caption>
+      <caption lang="uk">Інструмент «Цікаві об'єкти» у KStars</caption>
+      <caption lang="x-test">xx"What's interesting" tool in KStarsxx</caption>
+      <caption lang="zh-CN">KStars 的“有趣天体”工具</caption>
+      <caption lang="zh-TW">「有哪些有趣的東西」工具在 KStars 中</caption>
+      <image width="1600" height="900">https://edu.kde.org/kstars/appstream/kstars_interesting.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Ekos tool in KStars</caption>
+      <caption lang="ar">أداة ايكوس في نجومك</caption>
+      <caption lang="ca">Eina Ekos al KStars</caption>
+      <caption lang="ca-valencia">Eina Ekos a KStars</caption>
+      <caption lang="cs">Nástroj Ekos v KStars</caption>
+      <caption lang="de">Ekos in KStars</caption>
+      <caption lang="en-GB">Ekos tool in KStars</caption>
+      <caption lang="es">Herramienta Ekos en KStars</caption>
+      <caption lang="et">KStarsi Ekosi tööriist</caption>
+      <caption lang="eu">Ekos tresnak KStars-en</caption>
+      <caption lang="fr">Outil Ekos de KStars</caption>
+      <caption lang="gl">Ferramenta de Ekos de KStars</caption>
+      <caption lang="id">Alat Ekos di KStars</caption>
+      <caption lang="it">Strumento Ekos in KStars</caption>
+      <caption lang="nl">Het hulpmiddel Ekos in KStars</caption>
+      <caption lang="pl">Narzędzie Ekos w KStars</caption>
+      <caption lang="pt">Ferramenta do Ekos no KStars</caption>
+      <caption lang="pt-BR">Ferramenta Ekos no KStars</caption>
+      <caption lang="sk">Nástroj Ekos v KStars</caption>
+      <caption lang="sl">Orodje Ekos v KStars</caption>
+      <caption lang="sv">Ekos-verktyget i Kstars</caption>
+      <caption lang="uk">Інструмент Ekos у KStars</caption>
+      <caption lang="x-test">xxEkos tool in KStarsxx</caption>
+      <caption lang="zh-CN">KStars 的 Ekos 工具</caption>
+      <caption lang="zh-TW">Ekos 工具在 Kstars 中</caption>
+      <image width="1600" height="900">https://edu.kde.org/kstars/appstream/kstars_ekos.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Observation Planner of KStars</caption>
+      <caption lang="ar">مخطط رصد لنجومك</caption>
+      <caption lang="ca">Planificador de l'observació del KStars</caption>
+      <caption lang="ca-valencia">Planificador de l'observació de KStars</caption>
+      <caption lang="cs">Plánovač pozorování KStars</caption>
+      <caption lang="de">Beobachtungsliste von KStars</caption>
+      <caption lang="en-GB">Observation Planner of KStars</caption>
+      <caption lang="es">Planificador de observación de KStars</caption>
+      <caption lang="et">KStarsi vaatluste plaanija</caption>
+      <caption lang="eu">KStars-en behaketa planifikatzailea</caption>
+      <caption lang="fr">Planificateur d'observation de KStars</caption>
+      <caption lang="gl">Planificador de observacións de KStars</caption>
+      <caption lang="id">Perencana Observasi KStars</caption>
+      <caption lang="it">Pianificatore delle osservazioni di KStars</caption>
+      <caption lang="nl">Plannen van waarnemingen in KStars</caption>
+      <caption lang="pl">Planista obserwacji w KStars</caption>
+      <caption lang="pt">Planeamento de Observações do KStars</caption>
+      <caption lang="pt-BR">Planejador de observação do KStars</caption>
+      <caption lang="sl">Planiranje opazovanja v KStars</caption>
+      <caption lang="sv">Observationsplanering i Kstars</caption>
+      <caption lang="uk">Планування спостережень у KStars</caption>
+      <caption lang="x-test">xxObservation Planner of KStarsxx</caption>
+      <caption lang="zh-CN">KStars 的观测规划器</caption>
+      <caption lang="zh-TW">KStars 的觀測計劃器</caption>
+      <image width="1600" height="900">https://edu.kde.org/kstars/appstream/kstars_planner.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kstars</binary>
+  </provides>
+  <custom>
+    <value key="KDE::windows_store">https://www.microsoft.com/store/apps/9pprz2qhlxtg</value>
+    <value key="KDE::google_play">https://play.google.com/store/apps/details?id=org.kde.kstars.lite</value>
+  </custom>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release date="2022-01-16" version="3.5.7" />
+    <release date="2021-11-10" version="3.5.6" />
+    <release version="3.5.5" date="2021-09-14" />
+    <release version="3.5.4" date="2021-07-03" />
+  </releases>
+</component>

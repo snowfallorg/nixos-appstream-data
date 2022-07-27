@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>icon-library</pkgname>
+  <icon type="cached" width="64" height="64">org.gnome.design.IconLibrary.png</icon>
+  <icon width="128" type="cached" height="128">org.gnome.design.IconLibrary.png</icon>
+  <id>org.gnome.design.IconLibrary</id>
+  <metadata_license>CC0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>Icon Library</name>
+  <name lang="zh_CN">图标库</name>
+  <name lang="uk">Бібліотека піктограм</name>
+  <name lang="tr">Simge Kütüphanesi</name>
+  <name lang="sv">Ikonbibliotek</name>
+  <name lang="sr">Збирка иконица</name>
+  <name lang="sl">Knjižnica ikon</name>
+  <name lang="ru">Библиотека значков</name>
+  <name lang="ro">Bibliotecă iconiță</name>
+  <name lang="pt_BR">Biblioteca de ícones</name>
+  <name lang="pl">Biblioteka ikon</name>
+  <name lang="oc">Bibliotèca d’icònas</name>
+  <name lang="nl">Pictogrambibliotheek</name>
+  <name lang="ko">아이콘 라이브러리</name>
+  <name lang="it">Libreria icone</name>
+  <name lang="id">Pustaka Ikon</name>
+  <name lang="hu">Ikonkönyvtár</name>
+  <name lang="hr">Zbirka ikona</name>
+  <name lang="gl">Biblioteca de iconas</name>
+  <name lang="fr">Bibliothèque d’icônes</name>
+  <name lang="fi">Kuvakekirjasto</name>
+  <name lang="eu">Ikono-liburutegia</name>
+  <name lang="es">Biblioteca de iconos</name>
+  <name lang="en_GB">Icon Library</name>
+  <name lang="de">Symbol-Bibliothek</name>
+  <name lang="da">Ikonbibliotek</name>
+  <name lang="cs">Knihovna ikon</name>
+  <name lang="ca">Biblioteca d'icones</name>
+  <summary>Symbolic icons for your apps</summary>
+  <summary lang="zh_CN">用于您的应用的符号图标</summary>
+  <summary lang="uk">Символічні піктограми для ваших програм</summary>
+  <summary lang="tr">Uygulamalarınız için sembolik simgeler</summary>
+  <summary lang="sv">Symboliska ikoner för dina program</summary>
+  <summary lang="sr">Симболичке иконице за ваше програме</summary>
+  <summary lang="sl">Zbirka ikon za programe</summary>
+  <summary lang="ru">Символические значки для ваших приложений</summary>
+  <summary lang="ro">Iconițe simbolice pentru aplicațiile dumneavoastre</summary>
+  <summary lang="pt_BR">Ícones simbólicos para seus aplicativos</summary>
+  <summary lang="pl">Ikony symboliczne dla programów</summary>
+  <summary lang="nl">Symbolische pictogrammen voor uw toepassingen</summary>
+  <summary lang="ko">앱에 활용할 심볼릭 아이콘</summary>
+  <summary lang="it">Icone simboliche per le proprie app</summary>
+  <summary lang="id">Ikon simbolik untuk aplikasi Anda</summary>
+  <summary lang="hu">Szimbolikus ikonok az alkalmazásaihoz</summary>
+  <summary lang="hr">Simboličke ikone za vaše aplikacije</summary>
+  <summary lang="gl">Iconas simbólicas para as súas aplicacións</summary>
+  <summary lang="fr">Icônes symboliques pour vos applications</summary>
+  <summary lang="fi">Symbolisia kuvakkeita sovelluksillesi</summary>
+  <summary lang="es">Iconos simbólicos para sus aplicaciones</summary>
+  <summary lang="de">Stilisiertes Symbole für Ihre Anwendungen</summary>
+  <summary lang="da">Symbolske ikoner til dine programmer</summary>
+  <summary lang="cs">Symbolické ikony pro vaši aplikaci</summary>
+  <summary lang="ca">Icones simbòliques per a les vostres aplicacions</summary>
+  <description>
+    <p>Find the right icon to use on your GNOME application.</p>
+  </description>
+  <description lang="ca">
+    <p>Trobeu la millor icona per a la vostra aplicació del GNOME</p>
+  </description>
+  <description lang="cs">
+    <p>Slouží k vyhledávání ikon pro použití ve vámi vyvíjených aplikacích GNOME.</p>
+  </description>
+  <description lang="da">
+    <p>Find det rette ikon til dit GNOME-program.</p>
+  </description>
+  <description lang="de">
+    <p>Finden Sie das passende Symbol für Ihre GNOME-Anwendung.</p>
+  </description>
+  <description lang="en_GB">
+    <p>Find the right icon to use on your GNOME application.</p>
+  </description>
+  <description lang="es">
+    <p>Buscar el icono correcto para usarlo en su aplicación de GNOME.</p>
+  </description>
+  <description lang="eu">
+    <p>Aurkitu zure GNOME aplikazioan erabiltzeko ikono egokia.</p>
+  </description>
+  <description lang="fi">
+    <p>Löydä oikea kuvake käytettäväksi Gnome-sovelluksessasi.</p>
+  </description>
+  <description lang="fr">
+    <p>Trouver la bonne icône pour son application GNOME</p>
+  </description>
+  <description lang="gl">
+    <p>Busque a icona correcta a usar na súa aplicación de GNOME.</p>
+  </description>
+  <description lang="hr">
+    <p>Pronađite prikladnu ikonu za korištenje u svojoj GNOME aplikaciji.</p>
+  </description>
+  <description lang="hu">
+    <p>A megfelelő ikon megtalálása a GNOME alkalmazásban való használathoz.</p>
+  </description>
+  <description lang="id">
+    <p>Temukan ikon yang tepat untuk digunakan pada aplikasi GNOME Anda.</p>
+  </description>
+  <description lang="it">
+    <p>Trova l'icona migliore da usare per le applicazioni GNOME.</p>
+  </description>
+  <description lang="ko">
+    <p>그놈 프로그램에 사용할 올바른 아이콘을 찾습니다.</p>
+  </description>
+  <description lang="nl">
+    <p>Vind het juiste pictogram voor uw Gnome-toepassing.</p>
+  </description>
+  <description lang="oc">
+    <p>Trobatz la boan icòna a utilizar per vòstra aplicacion GNOME.</p>
+  </description>
+  <description lang="pl">
+    <p>Umożliwia znalezienie odpowiedniej ikony dla programu GNOME.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Encontre o ícone certo para usar em seu aplicativo do GNOME.</p>
+  </description>
+  <description lang="ro">
+    <p>Găsește iconița potrivită de utilizat în aplicația dumneavoastră GNOME.</p>
+  </description>
+  <description lang="ru">
+    <p>Найдите правильный значок для использования в вашем приложении GNOME.</p>
+  </description>
+  <description lang="sl">
+    <p>Iskalnik zbirke ikon, ki jih je mogoče uporabiti s programi GNOME.</p>
+  </description>
+  <description lang="sr">
+    <p>Нађите праву иконицу за коришћење у Гномовим програмима.</p>
+  </description>
+  <description lang="sv">
+    <p>Hitta den rätta ikonen att använda i ditt GNOME-program.</p>
+  </description>
+  <description lang="tr">
+    <p>GNOME uygulamanızda kullanmak için doğru simgeyi bul.</p>
+  </description>
+  <description lang="uk">
+    <p>Знайдіть належну піктограму для використання у вашій програмі GNOME.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>查找适合在您的 GNOME 应用程序上使用的图标。</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://gitlab.gnome.org/World/design/icon-library/raw/master/data/resources/screenshots/screenshot1.png</image>
+      <caption>Main Window</caption>
+      <caption lang="zh_CN">主窗口</caption>
+      <caption lang="uk">Головне вікно</caption>
+      <caption lang="tr">Ana Pencere</caption>
+      <caption lang="sv">Huvudfönster</caption>
+      <caption lang="sr">Главни прозор</caption>
+      <caption lang="sl">Glavno okno</caption>
+      <caption lang="ru">Главное окно</caption>
+      <caption lang="ro">Fereastra principală</caption>
+      <caption lang="pt_BR">Janela principal</caption>
+      <caption lang="pl">Główne okno</caption>
+      <caption lang="oc">Fenèstra principala</caption>
+      <caption lang="nl">Hoofdvenster</caption>
+      <caption lang="ko">메인 창</caption>
+      <caption lang="it">Finestra principale</caption>
+      <caption lang="id">Jendela Utama</caption>
+      <caption lang="hu">Főablak</caption>
+      <caption lang="hr">Glavni prozor</caption>
+      <caption lang="gl">Xanela principal</caption>
+      <caption lang="fr">Fenêtre principale</caption>
+      <caption lang="fi">Pääikkuna</caption>
+      <caption lang="eu">Leiho nagusia</caption>
+      <caption lang="es">Ventana principal</caption>
+      <caption lang="en_GB">Main Window</caption>
+      <caption lang="el">Κυρίως παράθυρο</caption>
+      <caption lang="de">Hauptfenster</caption>
+      <caption lang="da">Hovedvindue</caption>
+      <caption lang="cs">Hlavní okno</caption>
+      <caption lang="ca">Finestra principal</caption>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://gitlab.gnome.org/World/design/icon-library</url>
+  <url type="bugtracker">https://gitlab.gnome.org/World/design/icon-library/issues</url>
+  <url type="donation">https://liberapay.com/bielmoussaoui</url>
+  <url type="translate">https://l10n.gnome.org/module/icon-library/</url>
+  <content_rating type="oars-1.0" />
+  <releases>
+    <release version="0.0.11" date="2021-02-16">
+      <description>
+        <p>New and updated icons</p>
+      </description>
+    </release>
+    <release version="0.0.10" date="2021-01-15">
+      <description>
+        <p>Bugfix release.</p>
+      </description>
+    </release>
+    <release date="2021-12-03" version="0.0.9">
+      <description>
+        <p>Port to GTK 4</p>
+        <p>New and updated icons</p>
+        <p>Translations updates</p>
+      </description>
+    </release>
+    <release date="2021-05-04" version="0.0.8">
+      <description>
+        <p>New and updated icons</p>
+        <p>Translations updates</p>
+      </description>
+    </release>
+    <release date="2021-03-18" version="0.0.7">
+      <description>
+        <p>New and updated icons</p>
+        <p>Translations updates</p>
+      </description>
+    </release>
+    <release date="2020-04-04" version="0.0.6">
+      <description>
+        <p>Include a basic documentation on how to include the icons in your application</p>
+        <p>Split between shipped icons and system ones</p>
+        <p>Update the icons.</p>
+        <p>Translations updates</p>
+      </description>
+    </release>
+    <release version="0.0.5" date="2020-02-22">
+      <description>
+        <p>Code cleanup</p>
+        <p>Update the icons.</p>
+        <p>Translations updates</p>
+      </description>
+    </release>
+    <release date="2019-12-18" version="0.0.4">
+      <description>
+        <p>Update the icons.</p>
+        <p>Translations updates</p>
+      </description>
+    </release>
+    <release date="2019-09-11" version="0.0.3">
+      <description>
+        <p>Fix icons colors on GNOME Search results.</p>
+        <p>Remove duplicated icons.</p>
+      </description>
+    </release>
+    <release version="0.0.2" date="2019-09-10">
+      <description>
+        <p>Add GNOME Search Provider support.</p>
+        <p>Translations updates.</p>
+      </description>
+    </release>
+    <release date="2019-07-24" version="0.0.1">
+      <description>
+        <p>First release of Icon Library.</p>
+      </description>
+    </release>
+  </releases>
+  <kudos>
+    <!--
+    GNOME Software kudos:
+    https://gitlab.gnome.org/GNOME/gnome-software/blob/master/doc/kudos.md
+    -->
+    <kudo>SearchProvider</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>HiDpiIcon</kudo>
+  </kudos>
+  <developer_name>Bilal Elmoussaoui</developer_name>
+  <developer_name lang="zh_CN">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="uk">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="tr">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="sv">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="sr">Билал Елмусауи</developer_name>
+  <developer_name lang="sl">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="ru">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="ro">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="pt_BR">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="pl">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="oc">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="nl">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="ko">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="it">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="id">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="hu">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="hr">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="gl">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="fr">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="fi">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="eu">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="es">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="en_GB">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="el">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="de">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="da">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="cs">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="ca">Bilal Elmoussaoui</developer_name>
+  <update_contact>bilal.elmoussaoui@gnome.org</update_contact>
+  <translation type="gettext">icon-library</translation>
+  <launchable type="desktop-id">org.gnome.design.IconLibrary.desktop</launchable>
+</component>

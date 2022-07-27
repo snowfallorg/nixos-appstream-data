@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>Start logging any task's time to completion, with the ability to stop the timer at any moment, with notifications for longer task sessions.</p>
+    <ul>
+      <li>Quit anytime with the shortcut Ctrl + Q</li>
+    </ul>
+  </description>
+  <description lang="da">
+    <ul>
+      <li>Luk på ethvert tidspunkt med genvejen Ctrl + Q</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <ul>
+      <li>Programm mit der Tastenkombination Strg + Q beenden</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>Comience a registrar el tiempo de cualquier tarea hasta su finalización, con la posibilidad de detener el temporizador en cualquier momento, con notificaciones para las sesiones de tareas más largas.</p>
+    <ul>
+      <li>Salir en cualquier momento con el atajo Ctrl + Q</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <ul>
+      <li>Quittez à tout moment avec le raccourci Ctrl + Q</li>
+    </ul>
+  </description>
+  <description lang="hr">
+    <p>Počni bilježiti vrijeme bilo kojeg zadatka do završetka, s mogućnošću prekidanja štoperice u bilo kojem trenutku, s obavijestima za duže sesije zadataka.</p>
+    <ul>
+      <li>Zatvori program u bilo kojem trenutku pomoću prečaca Ctrl + Q</li>
+    </ul>
+  </description>
+  <description lang="id">
+    <ul>
+      <li>Keluar kapan saja dengan pintasan Ctrl + Q</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>Inizia a registrare il tempo di completamento di qualsiasi attività, con la possibilità di interrompere il timer in qualsiasi momento, con notifiche per sessioni di attività più lunghe.</p>
+    <ul>
+      <li>Esci in qualsiasi momento con la scorciatoia Ctrl + Q</li>
+    </ul>
+  </description>
+  <description lang="ja">
+    <ul>
+      <li>ショートカット Ctrl + Q で、いつでも終了できます</li>
+    </ul>
+  </description>
+  <description lang="lt">
+    <ul>
+      <li>Išeikite bet kuriuo metu, naudodami klavišų susiejimą Ctrl (Vald) + Q</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <ul>
+      <li>Sluit af met Ctrl + Q</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <ul>
+      <li>Saía quando quiser com o atalho Ctrl + Q</li>
+    </ul>
+  </description>
+  <description lang="pt_BR">
+    <ul>
+      <li>Saia a qualquer momento com o atalho Ctrl + Q</li>
+    </ul>
+  </description>
+  <description lang="ru_RU">
+    <p>Начните регистрировать время выполнения любой задачи, с возможностью остановить таймер в любой момент, с уведомлениями о более длительном выполнении задачи.</p>
+    <ul>
+      <li>Выйти из программы в любое время с помощью сочетания клавиш Ctrl + Q</li>
+    </ul>
+  </description>
+  <description lang="sr">
+    <ul>
+      <li>Изаћите користећи пречицу Ctrl + Q</li>
+    </ul>
+  </description>
+  <description lang="sr@latin">
+    <ul>
+      <li>Izaćite koristeći prečicu Ctrl + Q</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <ul>
+      <li>Avsluta när som helst med genvägen Ctrl + Q</li>
+    </ul>
+  </description>
+  <pkgname>khronos</pkgname>
+  <launchable type="desktop-id">io.github.lainsce.Khronos.desktop</launchable>
+  <icon width="64" height="64" type="cached">io.github.lainsce.Khronos.png</icon>
+  <icon height="128" type="cached" width="128">io.github.lainsce.Khronos.png</icon>
+  <id>io.github.lainsce.Khronos</id>
+  <metadata_license>CC0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name translatable="no">Khronos</name>
+  <name lang="ru_RU">Khronos</name>
+  <name lang="sv">Khronos</name>
+  <name lang="sr@latin">Khronos</name>
+  <name lang="sr">Khronos</name>
+  <name lang="sk">Khronos</name>
+  <name lang="pt_BR">Khronos</name>
+  <name lang="pt">Khronos</name>
+  <name lang="nl">Khronos</name>
+  <name lang="lt">Tvarkaraštis</name>
+  <name lang="ja">Khronos</name>
+  <name lang="it">Khronos</name>
+  <name lang="id">Khronos</name>
+  <name lang="hr">Khronos</name>
+  <name lang="fr">Khronos</name>
+  <name lang="es">Khronos</name>
+  <name lang="de">Khronos</name>
+  <name lang="da">Tidsplan</name>
+  <name lang="ca">Horari</name>
+  <summary>Log the time it took to do tasks</summary>
+  <summary lang="ru_RU">Записывайте в журнал время, затраченное на выполнение заданий</summary>
+  <summary lang="sv">Logga den tid det tog att utföra uppgifter</summary>
+  <summary lang="sr@latin">Pratite vreme koje je potrebno da se urade zadaci</summary>
+  <summary lang="sr">Пратите време које је потребно да се ураде задаци</summary>
+  <summary lang="it">Registra il tempo impiegato per svolgere le attività</summary>
+  <summary lang="hr">Zabilježi vrijeme potrebno za obavljanje zadataka</summary>
+  <summary lang="es">Registre el tiempo que ha tardado en realizar las tareas</summary>
+  <provides>
+    <binary>io.github.lainsce.Khronos</binary>
+  </provides>
+  <kudos>
+    <kudo>ModernToolkit</kudo>
+    <kudo>HiDpiIcon</kudo>
+  </kudos>
+  <developer_name translatable="no">Lains</developer_name>
+  <developer_name lang="ru_RU">Lains</developer_name>
+  <developer_name lang="sv">Lains</developer_name>
+  <developer_name lang="pt_BR">Lains</developer_name>
+  <developer_name lang="pt">Lains</developer_name>
+  <developer_name lang="nl">Lains</developer_name>
+  <developer_name lang="lt">Lains</developer_name>
+  <developer_name lang="ja">Lains</developer_name>
+  <developer_name lang="it">Lains</developer_name>
+  <developer_name lang="id">Lains</developer_name>
+  <developer_name lang="hr">Lains</developer_name>
+  <developer_name lang="fr">Lains</developer_name>
+  <developer_name lang="de">Lains</developer_name>
+  <developer_name lang="da">Lains</developer_name>
+  <url type="homepage">https://github.com/lainsce/khronos/</url>
+  <url type="bugtracker">https://github.com/lainsce/khronos/issues</url>
+  <url type="donation">https://ko-fi.com/lainsce/</url>
+  <url type="translate">https://github.com/lainsce/khronos/blob/main/po/README.md</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/lainsce/khronos/main/data/shot.png</image>
+    </screenshot>
+  </screenshots>
+  <content_rating type="oars-1.1" />
+  <recommends>
+    <control>keyboard</control>
+    <control>pointing</control>
+    <control>touch</control>
+  </recommends>
+  <requires>
+    <display_length compare="ge">360</display_length>
+  </requires>
+  <custom>
+    <value key="GnomeSoftware::key-colors">[(145, 65, 172)]</value>
+  </custom>
+  <translation type="gettext">io.github.lainsce.Khronos</translation>
+  <releases>
+    <release date="2022-04-20" version="3.7.0">
+      <description>
+        <p>Release: Minute</p>
+        <ul>
+          <li>Changed: UI now follows my own style that complements that of Adwaita, called Solo.</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2022-01-05" version="3.6.8">
+      <description>
+        <p>Release: Second</p>
+        <ul>
+          <li>Changed: The UI colors, they are now way less in your face yet are still colored. The Logs are now stylized like cards.</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2022-01-05" version="3.6.7">
+      <description>
+        <p>Release: Nanosecond</p>
+        <ul>
+          <li>Removed: each log's delete button, as they would be accidentally clicked and would remove the log.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.6.6" date="2021-12-03">
+      <description>
+        <p>Release: Leap Year</p>
+        <ul>
+          <li>Added: Logs now have tags! Add tags in the new entry below log name, by specifying them with colons, like this: "tag1:tag2:tag3".</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.6.5" date="2021-12-01">
+      <description>
+        <p>Release: Tick Tock Clock</p>
+        <ul>
+          <li>Changed: UI now sports an experimental design.</li>
+          <li>Changed: A robust backend rewrite.</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-02-09" version="3.5.0">
+      <description>
+        <p>Release: UI Refreshments</p>
+        <ul>
+          <li>Changed: The UI is now with a better layout.</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-01-29" version="3.0.0">
+      <description>
+        <p>Release: Port to GTK4</p>
+        <ul>
+          <li>Changed: Rewritten for GTK4.</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+</component>

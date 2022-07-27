@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>almanah</pkgname>
+  <launchable type="desktop-id">almanah.desktop</launchable>
+  <icon type="cached" width="64" height="64">almanah.png</icon>
+  <icon type="cached" height="128" width="128">almanah.png</icon>
+  <id>almanah.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>Almanah Diary</name>
+  <name lang="zh_CN">Almanah 日记</name>
+  <name lang="uk">Щоденник Almanah</name>
+  <name lang="tr">Almanah Günlüğü</name>
+  <name lang="th">สมุดบันทึก Almanah</name>
+  <name lang="sv">Almanah dagbok</name>
+  <name lang="sr@latin">Dnevnik Almanah</name>
+  <name lang="sr">Дневник Алманах</name>
+  <name lang="sl">Dnevnik Almanah</name>
+  <name lang="ru">Дневник Almanah</name>
+  <name lang="ro">Jurnalul Almanah</name>
+  <name lang="pt_BR">Diário Almanah</name>
+  <name lang="pt">Diário Almanah</name>
+  <name lang="pl">Pamiętnik Almanah</name>
+  <name lang="oc">Jornal Almanah</name>
+  <name lang="nl">Almanah Diary</name>
+  <name lang="nb">Almanah dagbok</name>
+  <name lang="ms">Buku Harian Almanah</name>
+  <name lang="lv">Almanah dienasgrāmata</name>
+  <name lang="id">Buku Harian Almanah</name>
+  <name lang="hu">Almanah napló</name>
+  <name lang="gl">Diario Almanah</name>
+  <name lang="fur">Diari Almanah</name>
+  <name lang="fr">Journal Almanah</name>
+  <name lang="fi">Almanah-kalenteri</name>
+  <name lang="eu">Almanah agenda</name>
+  <name lang="es">Diario Almanah</name>
+  <name lang="en_GB">Almanah Diary</name>
+  <name lang="el">Ημερολόγιο Almanah</name>
+  <name lang="de">Almanah</name>
+  <name lang="da">Almanah - dagbog</name>
+  <name lang="cs">Diář Almanah</name>
+  <name lang="ca">Agenda Almanah</name>
+  <name lang="bs">Almanah dnevnik</name>
+  <summary>Keep a diary of your life</summary>
+  <summary lang="uk">Ведіть щоденник вашого життя</summary>
+  <summary lang="tr">Hayatınızın günlüğünü tutun</summary>
+  <summary lang="sv">För dagbok över ditt liv</summary>
+  <summary lang="sr@latin">Vodite dnevnik vašeg života</summary>
+  <summary lang="sr">Водите дневник вашег живота</summary>
+  <summary lang="sl">Zapisujte si dnevnik vašega življenja!</summary>
+  <summary lang="ru">Ведите свой личный дневник</summary>
+  <summary lang="ro">Păstrați un jurnal al vieții</summary>
+  <summary lang="pt_BR">Mantenha um diário da sua vida</summary>
+  <summary lang="pt">Mantenha um diário da sua vida</summary>
+  <summary lang="pl">Prowadzenie osobistego dziennika</summary>
+  <summary lang="nb">Skriv dagbok om livet ditt</summary>
+  <summary lang="ms">Rekod satu catatan harian kehidupan anda</summary>
+  <summary lang="id">Catat buku harian kehidupan Anda</summary>
+  <summary lang="hu">Vezessen naplót az életéről</summary>
+  <summary lang="fur">Ten un diari de tô vite</summary>
+  <summary lang="fr">Tenez le journal de votre vie</summary>
+  <summary lang="es">Mantiene un diario de su vida</summary>
+  <summary lang="en_GB">Keep a diary of your life</summary>
+  <summary lang="el">Κρατήστε ένα ημερολόγιο της ζωής σας</summary>
+  <summary lang="de">Ein Tagebuch Ihres Lebens schreiben</summary>
+  <summary lang="da">Før dagbog over dit liv</summary>
+  <summary lang="cs">Uchovávejte si diář svého života</summary>
+  <summary lang="ca">Manté una agenda de la vostra vida</summary>
+  <description>
+    <p>
+      Almanah Diary is an application to allow you to keep a diary of your life.
+    </p>
+    <p>
+      You can encrypt the diary to preserve your privacy. It has editing
+      abilities, including text formatting and printing and shows you a lists
+      of events which happened (on your computer) for each day (such as tasks
+      and appointments from Evolution).
+    </p>
+  </description>
+  <description lang="bs">
+    <p>Almanah dnevnik je aplikacija koja vam omogućava pisanje dnevnika o vašem životu.</p>
+    <p>Dnevnik možete šifrirati da biste zaštitili vašu privatnost. Moguće je vršiti razna uređivanja uključujući i formatiranje teksta i štampanje, a moguće je i izvršiti prikaz liste proteklih događaja (na vašem računaru) za svaki dan posebno (kao što su zadaci i sastanci iz Evolutiona).</p>
+  </description>
+  <description lang="ca">
+    <p>L'agenda Almanah és una aplicació que us permetrà mantenir una agenda de la vostra vida.</p>
+    <p>Podeu xifrar l'agenda per a preservar la vostra privacitat. Té les habilitats d'edició, que inclouen la formatació de text i la impressió de text, i també us mostra una llista dels esdeveniments que van succeir (en l'ordinador actual) per a cada dia (com ara les tasques i les cites d'Evolution).</p>
+  </description>
+  <description lang="cs">
+    <p>Diář Almanah je aplikace, ve které si můžete vést poznámky ze svého života.</p>
+    <p>Diář můžete mít zašifrovaný, abyste si ochránili své soukromí. Má různé editační funkce, včetně formátování textu a tisku, a zobrazí vám seznamu událostí, které se staly, den po dni (podobně jako se zobrazují úkoly a schůzky v aplikaci Evolution).</p>
+  </description>
+  <description lang="da">
+    <p>Almanah Diary er et program, som du kan bruge som dagbog i dit liv.</p>
+    <p>Du kan kryptere dagbogen for at beskytte dit privatliv. Programmet har funktioner til redigering, inklusive tekstformatering og udskrivning, og viser en liste over hændelser (på din computer) for dig om hvad der skete hver dag (såsom opgaver og aftaler fra Evolution).</p>
+  </description>
+  <description lang="de">
+    <p>Almanah ist eine Anwendung, welche es Ihnen ermöglicht, ein Tagebuch über ihr Leben zu führen.</p>
+    <p>Sie können Ihr Tagebuch verschlüsseln, um Ihre Privatsphäre zu schützen. Es werden Bearbeitungsmöglichkeiten, wie z.B. Textformatierung, Drucken und Anzeigen einer Liste von Ereignissen (von Ihrem Rechner) für jeden Tag (z.B. Aufgaben und Termine) geboten.</p>
+  </description>
+  <description lang="el">
+    <p>Το ημερολόγιο Almanah είναι μια εφαρμογή που σας επιτρέπει να κρατάτε ένα ημερολόγιο της ζωή σας.</p>
+    <p>Μπορείτε να κρυπτογραφήσετε το ημερολόγιο για να διατηρήσετε την ιδιωτικότητά σας. Έχει δυνατότητες επεξεργασίας, συμπεριλαμβανομένης της μορφοποίησης κειμένου και εκτύπωσης και σας εμφανίζει καταλόγους συμβάντων που συνέβησαν (στον υπολογιστή σας) για κάθε ημέρα (όπως εργασίες και συναντήσεις από το Evolution).</p>
+  </description>
+  <description lang="en_GB">
+    <p>Almanah Diary is an application to allow you to keep a diary of your life.</p>
+    <p>You can encrypt the diary to preserve your privacy. It has editing abilities, including text formatting and printing and shows you a list of events which happened (on your computer) for each day (such as tasks and appointments from Evolution).</p>
+  </description>
+  <description lang="es">
+    <p>Diario Almanah es una aplicación que le permite mantener un diario de su vida.</p>
+    <p>Puede cifrar el diario para preservar su privacidad. Tiene capacidad de edición, incluyendo formateado del texto e impresión y muestra una lista de eventos que han ocurrido (en su equipo) para cada día (igual que las tareas y las citas de Evolution).</p>
+  </description>
+  <description lang="fr">
+    <p>Almanah Diary est une application qui vous permet de garder un journal de votre vie.</p>
+    <p>Vous pouvez chiffrer le journal pour protéger votre vie privée. Il est possible d’éditer et de formater le texte, de l’imprimer et d’afficher une liste d’événements sur votre ordinateur pour chaque jour (tel que les tâches et les rendez-vous d’Evolution).</p>
+  </description>
+  <description lang="fur">
+    <p>Diari Almanah e je une aplicazion che ti permet di tignî un diari de tô vite.</p>
+    <p>Tu puedis cifrâ il diari par preservâ la tô privacy. Al à abilitâts di editôr, includudis la formatazion dal test, stampe e mostrâ listis di events che ti son capitadis (sul to computer) par ogni dî (come ativitâts e apontaments di evolution).</p>
+  </description>
+  <description lang="gl">
+    <p>O diario de Almanah é un aplicativo que lle permite manter un diario da súa vida.</p>
+    <p>Pode cifrar o diario para preservar a súa privacidade. Ten características para edición, incluíndo o formatado e impresión de texto e móstralle unha lista dos eventos que aconteceron (no seu computador) para cada día (como tarefas e notas de Evolution).</p>
+  </description>
+  <description lang="hu">
+    <p>Az Almanah napló egy olyan alkalmazás, amely lehetővé teszi az élete naplójának vezetését.</p>
+    <p>Titkosíthatja a naplót az adatvédelem megőrzéséhez. Rendelkezik módosítási képességgel, beleértve a szövegformázást és a nyomtatást, valamint megjeleníti azon események listáját, amelyek (a számítógépén) az adott napokon történtek (úgymint feladatok és találkozók az Evolution programból).</p>
+  </description>
+  <description lang="id">
+    <p>Buku Harian Almanah adalah aplikasi untuk mencatat buku harian kehidupan Anda.</p>
+    <p>Anda dapat menyandikan buku harian untuk menjaga privasi Anda. Ini memiliki kemampuan penyuntingan, termasuk pemformatan teks dan menampilkan daftar peristiwa yang terjadi (pada komputer Anda) untuk setiap hari (seperti misalnya tugas dan janji temu dari Evolution).</p>
+  </description>
+  <description lang="lv">
+    <p>Almanah dienasgrāmata ir lietotne, kurā var pierakstīt savas dzīves dienasgrāmatu.</p>
+    <p>Jūs varat šifrēt dienasgrāmatu, lai nodrošinātu tās privātumu. Tajā ir rediģēšanas iespējas, teksta formatēšana un drukāšana. Tāpat tajā var redzēt katras dienas notikumus uz datora, piemēram, uzdevumi un tikšanās no Evolution.</p>
+  </description>
+  <description lang="ms">
+    <p>Buku Harian Almanah ialah sebuah aplikasi yang membolehkan anda merekod catatan harian kehidupan anda.</p>
+    <p>Anda boleh sulitkan buku harian untuk mengekalkan kerahsiaan anda. Ia mempunyai keupayaan penyuntingan, termasuklah pemformatan teks dan percetakan serta dapat menunjukkan satu senarai peristiwa yang berlaku (pada komputer anda) bagi setiap hari (seperti tugas dan janji temu daripada Evolution).</p>
+  </description>
+  <description lang="pl">
+    <p>Pamiętnik Almanah to program umożliwiający prowadzenie osobistego dziennika.</p>
+    <p>Program wyświetla listę wydarzeń (na komputerze) dla każdego dnia (np. zadania i spotkania z programu Evolution) oraz posiada funkcje redagowania, takie jak formatowanie tekstu i drukowanie. Można także zaszyfrować pamiętnik, aby strzec swojej prywatności.</p>
+  </description>
+  <description lang="pt">
+    <p>O diário Almanah é uma aplicação que lhe permite manter um diário da sua vida.</p>
+    <p>Pode encriptar o diário para manter a sua privacidade. Possui alguns recursos de edição, incluindo formatação de texto e impressão e mostra-lhe uma lista de eventos que aconteceram (no seu computador) para cada dia (como tarefas e compromissos do Evolution).</p>
+  </description>
+  <description lang="pt_BR">
+    <p>O diário Almanah é um aplicativo que lhe permite manter um diário da sua vida.</p>
+    <p>Você pode criptografar o diário para preservar sua privacidade. Possui alguns recursos de edição, incluindo formatação de texto e impressão, também mostra a você uma lista de eventos que aconteceram (no seu computador) para cada dia (como tarefas e compromissos do Evolution).</p>
+  </description>
+  <description lang="ro">
+    <p>Jurnal Almanah este o aplicație care vă permite să păstrați un jurnal al vieții.</p>
+    <p>Puteți cripta jurnalul pentru a vă păstra confidențialitatea. Are abilități de editare, inclusiv formatare de text și tipărire și vă arată o listă de evenimente care s-au întâmplat (pe calculator) pentru fiecare zi (cum ar fi sarcini și programări din Evolution).</p>
+  </description>
+  <description lang="ru">
+    <p>Дневник Almanah — это приложение, позволяющее вести личный дневник.</p>
+    <p>Для обеспечения безопасности можно зашифровать дневник. Приложение обладает возможностями редактирования, включая форматирование текста и печать, и показывает список событий, происходящих (на вашем компьютере) для каждого дня (например, задачи и встречи из Evolution).</p>
+  </description>
+  <description lang="sl">
+    <p>Almanah je program, ki omogoča pisanje dnevnika vašega življenja.</p>
+    <p>Dnevnik je mogoče šifrirati in s tem zagotoviti zasebnost. Omogoča urejanje oblikovanja in tiskanje, pokaže sezname dogodkov (ki so zabeleženi digitalno) za vsak dan (na primer naloge in sestanki, povzeti iz programa Evolution)</p>
+  </description>
+  <description lang="sr">
+    <p>Алманах је програм који вам омогућава да водите дневник вашег живота.</p>
+    <p>Можете да шифрујете дневник да бисте очували вашу приватност. Има способности уређивања, укључујући обликовање текста и штампање, и приказује вам спискове догађаја (на вашем рачунару) за сваки дан (као што су задаци и састанци из Еволуције).</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Almanah je program koji vam omogućava da vodite dnevnik vašeg života.</p>
+    <p>Možete da šifrujete dnevnik da biste očuvali vašu privatnost. Ima sposobnosti uređivanja, uključujući oblikovanje teksta i štampanje, i prikazuje vam spiskove događaja (na vašem računaru) za svaki dan (kao što su zadaci i sastanci iz Evolucije).</p>
+  </description>
+  <description lang="sv">
+    <p>Almanah dagbok är ett program som låter dig föra en dagbok över ditt liv.</p>
+    <p>Du kan kryptera dagboken för att skydda ditt privatliv. Det har funktioner för redigering, inkluderande textformatering och utskrift och visar dig en lista över händelser som inträffat (på din dator) för varje dag (som exempelvis uppgifter och möten från Evolution).</p>
+  </description>
+  <description lang="tr">
+    <p>Almanak Günlüğü, size hayatınızın günlüğünü tutma olanağı sağlayan bir uygulamadır.</p>
+    <p>Gizliliğinizi korumak için günlüğü şifreleyebilirsiniz. Metin biçimleme ve yazdırma ve gerçekleşen olayları (bilgisayarınızda) her gün (Evolution'dan görevler veya randevular gibi) gösterme gibi düzenleme yetenekleri vardır.</p>
+  </description>
+  <description lang="uk">
+    <p>Щоденник Almanah — програма, за допомогою якої ви зможете вести щоденник.</p>
+    <p>Ви можете зашифрувати щоденник, щоб зберегти конфіденційність його записів. Передбачено можливість редагування записів, включено із використанням форматування, а також друк і показ списків подій, які трапилися (на вашому комп'ютері) кожного дня (зокрема записів завдань і зустрічей з Evolution).</p>
+  </description>
+  <releases>
+    <release type="stable" date="2021-03-05" version="0.12.3" />
+    <release date="2020-09-03" version="0.12.2" type="stable" />
+    <release date="2020-09-03" version="0.12.1" type="stable" />
+    <release date="2019-10-07" version="0.12.0" type="stable" />
+  </releases>
+  <screenshots>
+    <screenshot height="450" type="default" width="800">
+      <image>https://wiki.gnome.org/Apps/Almanah_Diary?action=AttachFile&amp;do=get&amp;target=screenshot-almanah-diary.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://wiki.gnome.org/Apps/Almanah_Diary</url>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/almanah/issues/new</url>
+  <url type="donation">https://www.gnome.org/friends/</url>
+  <update_contact>alvaropg_at_gmail.com</update_contact>
+  <project_group>GNOME</project_group>
+  <kudos>
+    <kudo>AppMenu</kudo>
+    <kudo>ModernToolkit</kudo>
+  </kudos>
+  <translation type="gettext">almanah</translation>
+  <content_rating type="oars-1.1" />
+</component>

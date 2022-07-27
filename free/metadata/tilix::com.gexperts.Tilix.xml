@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <description>
+    <p>
+      Tilix is a tiling terminal emulator.
+    </p>
+    <p>It lets you:</p>
+    <ul>
+      <li>Layout terminals in any fashion by splitting them horizontally or vertically</li>
+      <li>Terminals can be re-arranged using drag and drop both within and between windows</li>
+      <li>Terminals can be detached into a new window via drag and drop</li>
+      <li>Input can be synchronized between terminals so commands typed in one terminal are replicated to the others</li>
+      <li>The grouping of terminals can be saved and loaded from disk</li>
+      <li>Terminals support custom titles</li>
+      <li>Color schemes are stored in files and custom color schemes can be created by simply creating a new file</li>
+      <li>Transparent background</li>
+      <li>Supports notifications when processes are completed out of view</li>
+    </ul>
+    <p>
+      The application was written using GTK 3 and an effort was made to conform to
+      GNOME Human Interface Guidelines (HIG). As a result, it does use client-side-decorations, though it can be disabled if necessary.
+    </p>
+    <p>Tilix has been tested with GNOME and with Unity.</p>
+  </description>
+  <description lang="ar">
+    <p>إنه يدعك قادرًا على:</p>
+    <ul>
+      <li>ترتيب الطرفيات باستعمال السحب والإفلات داخل النافذة أو بين النوافذ</li>
+      <li>نزع الطرفية إلى نافذة جديدة بالسحب والإفلات</li>
+      <li>إمكانيَّة مزامنة الدخل بين الطرفيَّات بحيث أن الأمر الذي يُكتب في طرفية يُكرر في باقي الطرفيّات</li>
+      <li>حفظ تجميعة الطرفيَّات وتحميلها من القرص</li>
+      <li>تدعم الطرفيات عناوين مخصصة</li>
+      <li>تخزين مخططات الألوان في ملفات وإنشاء مخطَّطات ألوان مخصَّصة ببساطة بإنشاء ملف جديد</li>
+      <li>خلفية شفافة</li>
+      <li>يدعم التنبيهات عندما تكتمل العمليات بعيدًا عن مرآك</li>
+    </ul>
+    <p>تمت كتابة التطبيق باستخدام GTK 3 وبُذل جهد للتوافق مع إرشادات واجهة GNOME البشرية (HIG). نتيجة لذلك ، تستخدم الزخارف من جانب العميل ، على الرغم من إمكانية تعطيلها إذا لزم الأمر.</p>
+    <p>اختبر تِلِكس في سطح المكتب غنوم وفي يونتي.</p>
+  </description>
+  <description lang="bg">
+    <ul>
+      <li>Прозрачен фон</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>El Tilix és un emulador de mosaics de terminals.</p>
+    <p>Us permet:</p>
+    <ul>
+      <li>Disposar les terminals de qualsevol manera dividint-les horitzontalment o verticalment</li>
+      <li>Els terminals es poden tornar a organitzar arrossegant-les i soltant-les dins i entre les finestres</li>
+      <li>Els terminals es poden desconnectar en una finestra nova mitjançant arrossegar i soltar</li>
+      <li>L’entrada es pot sincronitzar entre els terminals de manera que les ordres escrites en un terminal es repliquen als altres</li>
+      <li>L’agrupació de terminals es pot desar i carregar des del disc</li>
+      <li>Els terminals poden tenir títols personalitzats</li>
+      <li>Els esquemes de color s'emmagatzemen en fitxers i se'n poden crear de personalitzats simplement creant un fitxer nou</li>
+      <li>Fons transparent</li>
+      <li>Compatible amb les notificacions quan els processos es completen fora de vista</li>
+    </ul>
+    <p>L'aplicació s'ha escrit usant GTK 3 i es va fer un esforç per complir les directrius de la interfície humana de GNOME (HIG). Com a resultat, utilitza decoracions laterals del client, tot i que es pot desactivar si voleu.</p>
+    <p>El Tilix s'ha provat amb el GNOME i amb el Unity.</p>
+  </description>
+  <description lang="cs">
+    <p>Tilix je dlaždicový emulátor terminálu.</p>
+    <p>Je v něm možné:</p>
+    <ul>
+      <li>Rozmístit terminály libovolným rozdělením vodorovně či svisle</li>
+      <li>Přesouvat terminály přetažením uvnitř oken i mezi okny</li>
+      <li>Přetažením odpojit terminály do nového okna</li>
+      <li>Synchronizovat vstup mezi terminály, aby se příkazy zadávané v jednom replikovaly v dalších</li>
+      <li>Ukládat seskupení terminálů a pak je později opět načítat z úložiště</li>
+      <li>Nastavit terminálům vlastní titulky</li>
+      <li>Barevná schémata jsou uložena v souborech a vlastní můžete vytvořit prostým vytvořením nového souboru</li>
+      <li>Průhledné pozadí</li>
+      <li>Podporuje oznamování o skončení procesů v nezaměřeném okně</li>
+    </ul>
+    <p>Tato aplikace je napsána pomocí GTK 3 a snahou bylo zůstat v souladu se Zásadami lidského rozhraní (HIG) GNOME. Ve výsledku tedy Tilix využívá dekorace na straně klienta, umí je však v případě nutnosti i vypnout.</p>
+    <p>Tilix je testován v GNOME a Unity.</p>
+  </description>
+  <description lang="de">
+    <p>Tilix ist ein Terminal-Emulator mit Kacheldarstellung.</p>
+    <p>Damit können Sie:</p>
+    <ul>
+      <li>Terminals durch horizontales oder vertikales Teilen beliebig anordnen</li>
+      <li>Terminals durch ziehen und ablegen sowohl innerhalb eines Fensters als auch zwischen Fenstern neu anordnen</li>
+      <li>Terminals per ziehen und ablegen als neues Fenster loslösen</li>
+      <li>Die Eingabe zwischen Terminals synchronisieren, um Befehle in einem Terminal auf ein anderes zu replizieren</li>
+      <li>Die Gruppierung der Terminals speichern und vom Datenträger laden</li>
+      <li>Terminals unterstützen benutzerdefinierte Titel</li>
+      <li>Farbschemata werden in Dateien gespeichert und benutzerdefinierte Farbschemata können durch Anlegen einer Datei erstellt werden</li>
+      <li>Transparenter Hintergrund</li>
+      <li>Unterstützt Benachrichtigungen, wenn nicht sichtbare Prozesse beendet werden</li>
+    </ul>
+    <p>Die Anwendung wurde mit GTK 3 geschrieben und es wurde Wert darauf gelegt, den GNOME Human Interface Guidelines (HIG) zu entsprechen. Infolgedessen werden Client Side Decorations verwendet, die aber bei Bedarf deaktiviert werden können.</p>
+    <p>Tilix wurde mit GNOME und Unity getestet.</p>
+  </description>
+  <description lang="el">
+    <p>Σας επιτρέπει να:</p>
+    <ul>
+      <li>Διαφανές παρασκήνιο</li>
+    </ul>
+  </description>
+  <description lang="en_GB">
+    <p>Tilix is a tiling terminal emulator.</p>
+    <p>It lets you:</p>
+    <ul>
+      <li>Layout terminals in any fashion by splitting them horizontally or vertically</li>
+      <li>Terminals can be re-arranged using drag and drop both within and between windows</li>
+      <li>Terminals can be detached into a new window via drag and drop</li>
+      <li>Input can be synchronised between terminals so commands typed in one terminal are replicated to the others</li>
+      <li>The grouping of terminals can be saved and loaded from disk</li>
+      <li>Terminals support custom titles</li>
+      <li>Colour schemes are stored in files and custom colour schemes can be created by simply creating a new file</li>
+      <li>Transparent background</li>
+      <li>Supports notifications when processes are completed out of view</li>
+    </ul>
+    <p>The application was written using GTK 3 and an effort was made to conform to GNOME Human Interface Guidelines (HIG). As a result, it does use client-side-decorations, though it can be disabled if necessary.</p>
+    <p>Tilix has been tested with GNOME and with Unity.</p>
+  </description>
+  <description lang="eo">
+    <p>Tilix estas kaheliga terminalimitilo.</p>
+    <p>Jen ĝiaj funkcioj:</p>
+    <ul>
+      <li>Aranĝu terminalojn iel ajn, dividante ilin horizontale aŭ vertikale</li>
+      <li>Terminaloj estas rearanĝeblaj per ŝovo-demeto kaj en fenestroj kaj inter fenestroj</li>
+      <li>Terminaloj estas disigeblaj en novan fenestron per ŝovo-demeto</li>
+      <li>Enigo povas esti sinkronigita inter terminaloj, tiel ke komandoj tajpitaj en unu terminalo estas ripetitaj en la aliaj</li>
+      <li>La grupo de terminaloj estas konservebla al kaj ŝargebla de disko</li>
+      <li>Terminaloj subtenas agordeblajn titolojn</li>
+      <li>Koloraroj estas konservitaj en dosieroj, kaj novaj koloraroj estas simple kreeblaj per kreado de nova dosiero</li>
+      <li>Travidebla fono</li>
+      <li>Subtenas sciigojn kiam procezoj kompletiĝas</li>
+    </ul>
+    <p>La programo uzas version 3 de GTK kaj klopodas konformi al la Gvidnormoj pri Fasadoj de GNOME (HIG). Tial, ĝi uzas klientflankajn ornamaĵojn, kvankam ili estas malŝalteblaj.</p>
+    <p>Tilix estas elprovita kun GNOME kaj kun Unity.</p>
+  </description>
+  <description lang="es">
+    <p>Tilix es un emulador de terminal divisible.</p>
+    <p>Le permite:</p>
+    <ul>
+      <li>Distribuir las terminales dividiéndolas horizontalmente o verticalmente</li>
+      <li>Las terminales pueden ser reordenadas arrastrando y soltando entre ventanas</li>
+      <li>Las terminales se pueden mover a una ventana nueva vía arrastrar y soltar</li>
+      <li>La entrada puede ser sincronizada entre terminales haciendo que las órdenes introducidas en una se repliquen en las otras</li>
+      <li>La agrupación de terminales se puede guardar y cargar desde el disco</li>
+      <li>Las terminales admiten títulos personalizados</li>
+      <li>las combinaciones de colores se guardan en archivos y es posible crear combinaciones personalizadas tan solo con un archivo nuevo</li>
+      <li>Fondo transparente</li>
+      <li>Permite notificaciones cuando los procesos finalizan fuera de la vista</li>
+    </ul>
+    <p>La aplicación fue escrita usando GTK 3 realizando un esfuerzo en cumplir las Directrices de Interfaz Humana de GNOME (HIG). Como resultado, se utilizan decoraciones en el lado del cliente, aunque se pueden desactivar si fuera necesario.</p>
+    <p>Tilix ha sido probado en GNOME y en Unity.</p>
+  </description>
+  <description lang="fi">
+    <p>Tilix on laatoittava pääte-emulaattori.</p>
+    <p>Sen avulla voit:</p>
+    <ul>
+      <li>Määrittää päätteiden asettelun millä tavoin tahansa jakamalla pääteikkunan vaaka- tai pystysuunnassa</li>
+      <li>Järjestää päätteitä vetämällä ja pudottamalla saman tai eri ikkunoiden välillä</li>
+      <li>Asettaa päätteen uuteen ikkunaan vetämällä ja pudottamalla</li>
+      <li>Syöte on mahdollista synkronoida eri päätteiden välillä, joten yhteen päätteeseen kirjoitetut komennot voidaan replikoida muihin päätteisiin</li>
+      <li>Päätteiden ryhmittely on mahdollista tallentaa ja ladata levyltä</li>
+      <li>Päätteet tukevat omavalintaisia otsikoita</li>
+      <li>Läpinäkyvä tausta</li>
+      <li>Tukee ilmoituksia, kun prosessit valmistuvat ilman että ne ovat näkyvissä</li>
+    </ul>
+    <p>Tilix on testattu Gnomessa ja Unityssa.</p>
+  </description>
+  <description lang="fr">
+    <p>Tilix est un émulateur de terminal scindable.</p>
+    <p>Il vous permet :</p>
+    <ul>
+      <li>D'organiser les terminaux de toutes les façons en les divisant horizontalement et verticalement</li>
+      <li>Les terminaux peuvent être réorganisés en utilisant le glisser-déposer dans une même fenêtre ou entre les fenêtres</li>
+      <li>Les terminaux peuvent être détachés en une nouvelle fenêtre via un glisser-déposer</li>
+      <li>L'entrée peut être synchronisée entre les terminaux de façon à ce que les commandes saisies dans un terminal soient répliquées vers les autres</li>
+      <li>Les groupes de terminaux peuvent être enregistrés et chargés depuis le disque</li>
+      <li>Les terminaux acceptent les titres personnalisés</li>
+      <li>Les palettes de couleurs sont enregistrées dans des fichiers et des palettes de couleurs personnalisées peuvent être créées simplement en créant un nouveau fichier</li>
+      <li>Arrière-plan transparent</li>
+      <li>Prend en charge les notifications de bureau quand les processus s'achèvent en arrière-plan</li>
+    </ul>
+    <p>L'application a été écrite en utilisant GTK 3 et un effort a été fait pour se conformer aux GNOME Human Interface Guidelines (HIG). En conséquence, elle utilise des décorations côté client, bien qu'elles puissent être désactivées si nécessaire.</p>
+    <p>Tilix a été testé sous GNOME et sous Unity.</p>
+  </description>
+  <description lang="he">
+    <p>Tilix הוא מדמה מסוף עם ריצוף.</p>
+    <p>ביכולתו:</p>
+    <ul>
+      <li>פריסת מסופים בכל דרך באמצעות פיצולם, אופקית או אנכית</li>
+      <li>ארגון מחדש של מסופים באמצעות גרירה ושחרור מחוץ לחלונות ובתוכם</li>
+      <li>ניתוק מסופים לחלון חדש באמצעות גרירה ושחרור</li>
+      <li>סנכרון קלט בין מסופים כך שפקודה המוזנת לאחד מועתקת לאחרים</li>
+      <li>שמירה וטעינה של קיבוץ המסופים</li>
+      <li>תמיכה בהתאמה אישית של כותרות המסופים</li>
+      <li>אחסון תכניות צבעים בקבצים ויצירת תכניות צבעים חדשות באמצעות יצירת קובץ חדש</li>
+      <li>רקע שקוף</li>
+      <li>תמיכה בהתראות בסיום תהליכים מחוץ לתצוגה</li>
+    </ul>
+    <p>היישום נכתב באמצעות GTK 3 ונעשה מאמץ להתאימו להנחיות לממשק אנוש (HIG) של GNOME. כתוצאה מכך, נעשה שימוש בקישוטי צד־לקוח, אם כי ניתן להשביתם בעת הצורך.</p>
+    <p>Tilix נבדק עם GNOME ועם Unity.</p>
+  </description>
+  <description lang="hr">
+    <p>Tilix je pločasti emulator terminala.</p>
+    <p>Omogućuje:</p>
+    <ul>
+      <li>Raspoređivanje terminala na bilo koji način, dijeleći ih vodoravno ili okomito</li>
+      <li>Terminali se mogu prerasporediti pomoću „povuci-i-ispusti” unutar i između prozora</li>
+      <li>Terminali se mogu odvojiti u novi prozor pomoću „povuci-i-ispusti”</li>
+      <li>Unos se može sinkronizirati između terminala, tako da se upisane naredbe u jednom terminalu, repliciraju na ostale</li>
+      <li>Grupiranje terminala može se spremiti i učitati s diska</li>
+      <li>Terminali podržavaju prilagođene naslove</li>
+      <li>Sheme boja spremaju se u datoteke, a prilagođene sheme boja mogu se jednostavno stvoriti stvaranjem nove datoteke</li>
+      <li>Prozirna pozadina</li>
+      <li>Podržava obavještavanje kad neprikazani procesi završe</li>
+    </ul>
+    <p>Program je napisan pomoću GTK 3 i nastojalo se uskladiti ga s GNOME-ovim smjernicama za ljudsko sučelje (HIG). Kao rezultat, koristi dizajn klijenta, ali se to po potrebi može deaktivirati.</p>
+    <p>Tilix je testiran s okruženjima GNOME i Unity.</p>
+  </description>
+  <description lang="id">
+    <p>Ini memungkinkan Anda:</p>
+    <ul>
+      <li>Terminal mendukung judul kustom</li>
+      <li>Latar belakang transparan</li>
+    </ul>
+    <p>Tilix telah diuji dengan GNOME dan Unity.</p>
+  </description>
+  <description lang="it">
+    <p>Tilix è un emulatore di terminale a riquadri.</p>
+    <p>Ti consente di:</p>
+    <ul>
+      <li>disporre di più terminali multipli su un'unica finestra dividendola orizzontalmente o verticalmente</li>
+      <li>riordinare i terminali mediante trascinamento</li>
+      <li>spostare i terminali da una finestra all'altra mediante trascinamento</li>
+      <li>sincronizzare l'input tra più terminali, così che i comandi digitati in un terminale sono replicati negli altri</li>
+      <li>salvare e caricare successivamente da disco il raggruppamento dei terminali</li>
+      <li>personalizzare i titoli dei terminali</li>
+      <li>memorizzare gli schemi dei colori su file e crearne nuovi personalizzati semplicemente creando nuovi file</li>
+      <li>Sfondo trasparente</li>
+      <li>Notifica il completamento dei processi quando il terminale non è visibile</li>
+    </ul>
+    <p>L'applicazione è scritta in GTK 3 e si conforma alle GNOME Human Interface Guidelines (HIG). Di conseguenza fa uso di client-side-decorations, anche se possono essere disattivate, se necessario.</p>
+    <p>Tilix è stato testato su GNOME e Unity.</p>
+  </description>
+  <description lang="ko">
+    <p>Tilix 는 타일링 터미널 에뮬레이터 입니다.</p>
+    <p>다음과 같은 것을 할 수 있게 해 줍니다:</p>
+    <ul>
+      <li>터미널을 가로 또는 세로로 분할하여 원하는 방식으로 배치하세요</li>
+      <li>창 안이나 창 사이에서 끌어옮겨 터미널을 재배열 할 수 있습니다</li>
+      <li>터미널을 끌어옮겨 새 창으로 분리 할 수 있습니다</li>
+      <li>터미널 사이 입력을 동기화 할 수 있으며 한 터미널에서의 입력이 다른 터미널에 복제 됩니다</li>
+      <li>터미널 그루핑은 디스크에 저장하거나 불러올 수 있습니다</li>
+      <li>터미널은 사용자 정의 제목을 지원합니다</li>
+      <li>색상 스키마는 파일에 보관되며 사용자 정의 색상 스키마는 단순히 새 파일 생성으로 생성 될 수 있습니다</li>
+      <li>투명한 배경</li>
+      <li>뷰 밖에서 프로세스를 끝날때에 대한 알림 지원</li>
+    </ul>
+    <p>이 앱은 GTK3 로 작성 되었으며 그놈 휴먼 인터페이스 가이드라인(HIG) 에 따르고자 노력 했습니다. 결과적으로, 이 앱은 클라이언트 측 데코레이션을 사용하며, 필요한 경우 비활성화 될 수 있습니다.</p>
+    <p>Tilix 는 그놈과 유니티에서 시험되었습니다.</p>
+  </description>
+  <description lang="nl">
+    <p>Tilix is een terminalapplicatie met tegelmogelijkheid.</p>
+    <p>Het stelt u in staat om:</p>
+    <ul>
+      <li>Terminals indelen op welke manier dan ook door ze horizontaal of verticaal te splitsen</li>
+      <li>Terminals kunnen anders worden ingedeeld middels slepen-en-neerzetten binnen en tussen vensters</li>
+      <li>Terminal kunnen worden veranderd in een nieuw venster middels slepen-en-neerzetten</li>
+      <li>De invoer kan worden gesynchroniseerd tussen terminals zodat opdrachten uit de ene terminal kunnen worden hergebruikt in andere terminals</li>
+      <li>Gegroepeerde terminals kunnen worden opgeslagen naar en geladen vanaf een schijf</li>
+      <li>De terminals hebben ondersteuning voor aangepaste titels</li>
+      <li>Kleurenschema's worden opgeslagen in bestanden. Aangepaste kleurenschema's kunnen worden samengesteld door het maken van een nieuw bestand.</li>
+      <li>Doorzichtige achtergrond</li>
+      <li>Ondersteunt meldingen voor processen die buiten het zicht worden voltooid</li>
+    </ul>
+    <p>De applicatie is geschreven in GTK 3 en er is veel moeite gestoken in het volgen van de richtlijnen van de HIG (GNOME Human Interface Guidelines). Dit resulteert in het gebruik van client-side-decorations maar deze kunnen, indien nodig, worden uitgeschakeld.</p>
+    <p>Tilix is getest onder GNOME en Unity.</p>
+  </description>
+  <description lang="oc">
+    <p>Vos permet de :</p>
+    <ul>
+      <li>Rèireplan transparent</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <p>Tilix jest emulatorem terminala obsługującym kafle.</p>
+    <p>Pozwala użytkownikowi na:</p>
+    <ul>
+      <li>rozmieszczanie terminali w dowolny sposób, dzieląc je pionowo lub poziomo,</li>
+      <li>przenoszenie terminali pomiędzy oknami przeciągając je,</li>
+      <li>odłączanie terminali do nowych okien przeciągając je,</li>
+      <li>synchronizowanie wejścia pomiędzy terminalami, co umożliwia powielanie poleceń wprowadzonych w jednym terminalu,</li>
+      <li>grupowanie terminali, zapisywanie grup na dysku i wczytywanie ich,</li>
+      <li>nadawanie własnych tytułów terminali,</li>
+      <li>przechowywanie zestawów kolorów w plikach i tworzenie własnych zestawów kolorów,</li>
+      <li>ustalenie przezroczystego tła,</li>
+      <li>Powiadamianie o zakończonych procesach, które są niewidoczne</li>
+    </ul>
+    <p>Program opracowano używając GTK3, zachowując wytyczne GNOME Human Interface Guidelines (HIG). W wyniku tego wyświetla on obramowania po stronie klienta, choć w razie potrzeby można je wyłączyć.</p>
+    <p>Tilix przetestowano z GNOME i Unity.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Tilix é um emulador de terminal em mosaico.</p>
+    <p>Ele permite:</p>
+    <ul>
+      <li>Dispor terminais de diferentes maneiras, dividindo-os horizontalmente ou verticalmente</li>
+      <li>Reorganizar terminais arrastando e soltando em uma mesma janela, ou entre janelas diferentes</li>
+      <li>Separar terminais em novas janelas arrastando e soltando</li>
+      <li>Sincronizar a entrada entre diferentes terminais, replicando comandos digitados em um terminal para outros</li>
+      <li>Carregar e salvar grupos de terminais de/para o disco</li>
+      <li>Atribuir títulos personalizados aos terminais</li>
+      <li>Criar e armazenar novos esquemas de cores personalizados apenas manipulando arquivos</li>
+      <li>Utilizar plano de fundo transparente</li>
+      <li>Receber notificações quando processos terminarem em segundo plano</li>
+    </ul>
+    <p>A aplicação foi escrita usando GTK 3 e um esforço foi feito para estar em conformidade com o GNOME Human Interface Guidelines (HIG). Como resultado, ele usa decorações do lado do cliente, embora possa ser desativado se necessário.</p>
+    <p>O Tilix foi testado nos ambientes GNOME e Unity.</p>
+  </description>
+  <description lang="pt_PT">
+    <p>Tilix é um emulador de terminal em mosaico.</p>
+    <p>Ele permite:</p>
+    <ul>
+      <li>Dispor terminais de diferentes maneiras, dividindo-os horizontalmente ou verticalmente</li>
+      <li>Reorganizar terminais arrastando e soltando numa mesma janela, ou entre janelas diferentes</li>
+      <li>Separar terminais em novas janelas arrastando e soltando</li>
+      <li>Sincronizar a entrada entre diferentes terminais, replicando comandos digitados num terminal para outros</li>
+      <li>Carregar e gravar grupos de terminais de/para o disco</li>
+      <li>Atribuir títulos personalizados aos terminais</li>
+      <li>Criar e armazenar novos esquemas de cores personalizados apenas manipulando ficheiros</li>
+      <li>Utilizar plano de fundo transparente</li>
+      <li>Receber notificações quando processos terminarem em segundo plano</li>
+    </ul>
+    <p>A aplicação utiliza o GTK 3, observando as Diretrizes de Interface Humana(HIG) do GNOME. Portanto, decorações de janela internas são utilizadas, mas podem ser desativadas se necessário.</p>
+    <p>O Tilix foi testado nos ambientes GNOME e Unity.</p>
+  </description>
+  <description lang="ro">
+    <p>Tilix este un emulator de terminal fără suprapunere.</p>
+    <p>Îți permite:</p>
+    <ul>
+      <li>Să așezi terminalele în orice fel împărțindu-le orizontal și vertical</li>
+      <li>Terminalele pot fi rearanjate trăgându-le înăuntrul ferestrelor sau între ferestre</li>
+      <li>Terminalele pot fi detașate într-o nouă fereastră prin tragere</li>
+      <li>Textul introdus poate fi sincronizat între terminale astfel încât comenzile introduse într-un terminal să fie replicate în celelalte</li>
+      <li>Gruparea terminalelor poate fi salvată și încărcată din disc</li>
+      <li>Terminalele suportă titluri personalizate</li>
+      <li>Schemele de culori sunt stocate în fișiere și schemele de culori preferențiale pot fi create doar creând un nou fișier</li>
+      <li>Fundal transparent</li>
+      <li>Suportă notificări când procesele sunt terminate în fundal</li>
+    </ul>
+    <p>Aplicația a fost scrisă folosind GTK 3 și a fost depus efort pentru conformarea la GNOME Human Interface Guidelines (HIG). În consecință, folosește decorații de la client, deși pot fi dezactivate dacă e necesar.</p>
+    <p>Tilix a fost testat cu GNOME și cu Unity.</p>
+  </description>
+  <description lang="ru">
+    <p>Tilix является тайлинговым эмулятором терминала.</p>
+    <p>Это позволяет:</p>
+    <ul>
+      <li>Компоновать терминалы можно любым способом, путем разделения их по горизонтали или по вертикали</li>
+      <li>Терминалы могут быть перестроены с помощью перетаскивания как внутри, так и между окнами</li>
+      <li>Терминалы могут быть отделены в новое окно с помощью перетаскивания</li>
+      <li>Ввод может быть синхронизирован между терминалами, поэтому команды набранные в одном терминале, повторяются на другие</li>
+      <li>Группировка терминалов может быть сохранена и загружена с диска</li>
+      <li>Терминалы поддерживают пользовательские названия</li>
+      <li>Цветовые схемы сохраняются в файлах и пользовательские цветовые схемы могут быть созданы путем простого создания нового файла</li>
+      <li>Прозрачный фон</li>
+      <li>Поддержка уведомлений, когда процессы завершаются вне поля зрения</li>
+    </ul>
+    <p>Приложение было написано с использованием GTK 3 и были предприняты усилия, чтобы они соответствовали GNOME Human Interface Guidelines (HIG). В результате, оно используется на стороне клиента-украшения, хотя оно может быть отключено, если это необходимо.</p>
+    <p>Tilix был протестирован с GNOME и Unity.</p>
+  </description>
+  <description lang="sr">
+    <p>Тајликс је плочасти опонашавач терминала.</p>
+    <p>Омогућава вам да:</p>
+    <ul>
+      <li>Распоредите терминале како год пожелите тако што ћете их раздвојити водоравно или усправно</li>
+      <li>Терминали се могу прерасподелити повлачењем и пуштањем унутар или између прозора</li>
+      <li>Терминали се могу откачити у нове прозоре повлачењем и пуштањем</li>
+      <li>Улаз се може ускладити између терминала тако да се нареде унете у једном терминалу одразе на друге</li>
+      <li>Начин распоређивања терминала се може сачувати и учитати са диска</li>
+      <li>Терминали подржавају прилагођене наслове</li>
+      <li>Шеме боје се чувају у датотекама и прилагођене шеме боје се могу једноставно направити са новом датотеком</li>
+      <li>Провидна позадина</li>
+      <li>Подржава обавештења када се ненадгледани процеси заврше</li>
+    </ul>
+    <p>Програм је написан уз помоћ ГТК 3 технологије и начињем је напор да буде у складу са Гномовим смерницама за развој програма (HIG). Због тога се користе декорације на клијентској страни али се он емогу онемогућити ако је то потребно.</p>
+    <p>Тајликс је испробан на Гному и Јунитију.</p>
+  </description>
+  <description lang="sv">
+    <p>Tilix är en terminalemulator där terminaler placeras sida vid sida.</p>
+    <p>Den låter dig:</p>
+    <ul>
+      <li>Ändra layout för terminaler på vilket sätt som helst genom att dela dem horisontellt eller vertikalt</li>
+      <li>Terminaler kan omplaceras genom att dra och släppa dem både inom och mellan fönster</li>
+      <li>Terminaler kan kopplas loss till ett nytt fönster genom att dra och släppa dem</li>
+      <li>Inmatning kan synkroniseras mellan terminaler så att kommandon som skrivs in i en terminal upprepas till de andra</li>
+      <li>Grupperingen av terminaler kan sparas och läsas in från disk</li>
+      <li>Terminaler stöder anpassade titlar</li>
+      <li>Färgscheman lagras i filer och anpassade färgscheman kan enkelt skapas genom att skapa en ny fil</li>
+      <li>Transparent bakgrund</li>
+      <li>Stöder aviseringar då processer utom synhåll blir klara</li>
+    </ul>
+    <p>Programmet skrevs med GTK 3 och försöker följa GNOME:s riktlinjer för mänskliga gränssnitt (HIG). Som ett resultat av detta använder det dekorationer från klientsidan, men det kan inaktiveras om nödvändigt.</p>
+    <p>Tilix har testats med GNOME och med Unity.</p>
+  </description>
+  <description lang="tr">
+    <p>Tilix döşeyen bir terminal emülatörüdür.</p>
+    <p>Sağlar:</p>
+    <ul>
+      <li>Terminalleri, onları düşey veya dikey ayıracak şekilde düzenle</li>
+      <li>Terminaller sürükle ve bırak kullanarak pencereler içinde ve arasında yeniden düzenlenebilir</li>
+      <li>Terminaller sürükle ve bırak ile yeni bir pencereye ayrılabilir</li>
+      <li>Giriş terminaller arasında eşitlenebilir böylece bir terminalde yazılan komutları diğerlerine kopyalanır</li>
+      <li>Terminallerin gruplaması kaydedilebilir ve diskten yüklenebilir</li>
+      <li>Terminaller özel başlıkları destekler</li>
+      <li>Renk düzenleri dosyalarda depolanır ve özel renk düzenleri sadece yeni bir dosya oluşturarak yaratılabilir</li>
+      <li>Şeffaf arka plan</li>
+      <li>İşlemler görünüm dışında tamamlandığında bildirimleri destekler</li>
+    </ul>
+    <p>Uygulama GTK 3 kullanarak yazılmıştır ve GNOME İnsan Arabirim Yönergelerine (HIG) uyması için çaba harcanmıştır. Sonuç olarak, istemci tarafı süslemeleri kullanır, yine de gerekirse bunlar devre dışı bırakılabilir.</p>
+    <p>Tilix, GNOME'la ve Unity ile test edilmiştir.</p>
+  </description>
+  <description lang="uk">
+    <p>Tilix - мозаїчний емулятор термінала.</p>
+    <p>Він дозволяє:</p>
+    <ul>
+      <li>Компонувати термінали в будь-якому вигляді, розділивши їх горизонтально та вертикально</li>
+      <li>Термінали можна впорядковувати перетягуванням у вікнах і між ними</li>
+      <li>Термінали можна від'єднати в нове вікно через перетягування</li>
+      <li>Введення можна синхронізувати між терміналами, тож команди, які будуть вводитись, будуть повторюватись на інших терміналах</li>
+      <li>Групування терміналів можна зберегти і завантажити з диска</li>
+      <li>Термінали підтримують власні заголовки</li>
+      <li>Схеми кольорів збережено у файлах і власні схеми кольорів додаються через звичайне створення нових файлів</li>
+      <li>Прозоре тло</li>
+      <li>Підтримування сповіщень, коли дії завершується позаочно</li>
+    </ul>
+    <p>Програма написана за допомогою GTK 3 з дотриманням правил побудови інтерфейсу (GNOME HIG). У результаті, використовується оздоблення на боці клієнта, але його можна вимкнути за потреби.</p>
+    <p>Tilix випробувано з GNOME і Unity.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>Tilix 是一个平铺终端模拟器。</p>
+    <p>它可让你：</p>
+    <ul>
+      <li>通过垂直和水平分割随心所欲地排布终端</li>
+      <li>可通过在窗口内外拖放重新安排终端</li>
+      <li>可通过拖放将终端脱离为新的窗口</li>
+      <li>可在终端之间同步输入，可将一个终端的输入复制到另一个终端里</li>
+      <li>可从磁盘保存和载入终端分组</li>
+      <li>终端支持自定义标题</li>
+      <li>配色方案存储在文件中，可通过创建文件来创建新的配色方案</li>
+      <li>透明背景</li>
+      <li>支持进程在视图外完成时发送桌面通知</li>
+    </ul>
+    <p>该应用程序使用 GTK 3 编写并尝试兼容 GNOME 人机交互指南（HIG）。因此，Terminix 使用了客户端窗口装饰（CSD），但此功能可随时关闭。</p>
+    <p>Tilix 已在 GNOME 和 Unity 上测试。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>他可以讓你：</p>
+    <ul>
+      <li>透明背景</li>
+      <li>程序完成時傳送桌面通知</li>
+    </ul>
+    <p>Tilix 已在GNOME以及Unity環境下測試過。</p>
+  </description>
+  <pkgname>tilix</pkgname>
+  <icon width="64" height="64" type="cached">com.gexperts.Tilix.png</icon>
+  <icon height="128" type="cached" width="128">com.gexperts.Tilix.png</icon>
+  <id>com.gexperts.Tilix</id>
+  <name>Tilix</name>
+  <name lang="zh_TW">Tilix</name>
+  <name lang="zh_CN">Tilix</name>
+  <name lang="uk">Tilix</name>
+  <name lang="tr">Tilix</name>
+  <name lang="sv">Tilix</name>
+  <name lang="sr">Тајликс</name>
+  <name lang="ru">Tilix</name>
+  <name lang="ro">Tilix</name>
+  <name lang="pt_PT">Tilix</name>
+  <name lang="pt_BR">Tilix</name>
+  <name lang="pl">Tilix</name>
+  <name lang="nl">Tilix</name>
+  <name lang="nb_NO">Tilix</name>
+  <name lang="ko">Tilix</name>
+  <name lang="ja">Tilix</name>
+  <name lang="it">Tilix</name>
+  <name lang="id">Tilix</name>
+  <name lang="hu">Tilix</name>
+  <name lang="hr">Tilix</name>
+  <name lang="he">Tilix</name>
+  <name lang="gl">Tilix</name>
+  <name lang="fr">Tilix</name>
+  <name lang="fi">Tilix</name>
+  <name lang="eu">Tilix</name>
+  <name lang="es">Tilix</name>
+  <name lang="eo">Tilix</name>
+  <name lang="en_GB">Tilix</name>
+  <name lang="de">Tilix</name>
+  <name lang="cs">Tilix</name>
+  <name lang="ca">Tilix</name>
+  <name lang="bg">Tilix</name>
+  <name lang="ar">تِلِكس</name>
+  <summary>A tiling terminal for GNOME</summary>
+  <summary lang="zh_CN">GNOME 的平铺终端模拟器</summary>
+  <summary lang="uk">Мозаїчний термінал для Gnome</summary>
+  <summary lang="tr">GNOME için döşeyen bir terminal</summary>
+  <summary lang="sv">En sida-vid-sida-terminal för GNOME</summary>
+  <summary lang="sr">Плочасти терминал за Гном</summary>
+  <summary lang="ru">Тайлинговый терминал для GNOME</summary>
+  <summary lang="ro">Un terminal fără suprapunere pentru GNOME</summary>
+  <summary lang="pt_PT">Um terminal em mosaico para o GNOME</summary>
+  <summary lang="pt_BR">Um terminal em mosaico para o GNOME</summary>
+  <summary lang="pl">Emuluje działanie terminala w środowisku GNOME wykorzystując interfejs kafli</summary>
+  <summary lang="nl">Een terminal voor GNOME met tegelmogelijkheid</summary>
+  <summary lang="ko">그놈을 위한 타일링 터미널</summary>
+  <summary lang="it">Un terminale a riquadri per GNOME</summary>
+  <summary lang="hr">Pločasti terminal za GNOME</summary>
+  <summary lang="he">מסוף בריצוף עבור GNOME</summary>
+  <summary lang="fr">Un terminal scindable pour GNOME</summary>
+  <summary lang="fi">Laatoittava pääte Gnomelle</summary>
+  <summary lang="es">Una terminal divisible para GNOME</summary>
+  <summary lang="eo">Kaheliga terminalo por GNOME</summary>
+  <summary lang="en_GB">A tiling terminal for GNOME</summary>
+  <summary lang="de">Ein Terminal für GNOME mit Kacheldarstellung</summary>
+  <summary lang="cs">Dlaždicový terminál pro GNOME</summary>
+  <summary lang="ca">Un mosaic de Terminals per a Gnome</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>MPL-2.0</project_license>
+  <developer_name>Gerald Nunn</developer_name>
+  <developer_name lang="uk">Gerald Nunn</developer_name>
+  <developer_name lang="tr">Gerald Nunn</developer_name>
+  <developer_name lang="sv">Gerald Nunn</developer_name>
+  <developer_name lang="sr">Џералд Нан (Gerald Nunn)</developer_name>
+  <developer_name lang="ru">Gerald Nunn</developer_name>
+  <developer_name lang="ro">Gerald Nunn omul</developer_name>
+  <developer_name lang="pt_PT">Gerald Nunn</developer_name>
+  <developer_name lang="pt_BR">Gerald Nunn</developer_name>
+  <developer_name lang="pl">Gerald Nunn</developer_name>
+  <developer_name lang="nl">Gerald Nunn</developer_name>
+  <developer_name lang="it">Gerald Nunn</developer_name>
+  <developer_name lang="id">Gerald Nunn</developer_name>
+  <developer_name lang="hr">Gerald Nunn</developer_name>
+  <developer_name lang="he">Gerald Nunn</developer_name>
+  <developer_name lang="fr">Gerald Nunn</developer_name>
+  <developer_name lang="fi">Gerald Nunn</developer_name>
+  <developer_name lang="eu">Gerald Nunn</developer_name>
+  <developer_name lang="es">Gerald Nunn</developer_name>
+  <developer_name lang="eo">Gerald Nunn</developer_name>
+  <developer_name lang="en_GB">Gerald Nunn</developer_name>
+  <developer_name lang="de">Gerald Nunn</developer_name>
+  <developer_name lang="cs">Gerald Nunn</developer_name>
+  <developer_name lang="ca">Gerald Nunn</developer_name>
+  <recommends>
+    <control>pointing</control>
+    <control>keyboard</control>
+  </recommends>
+  <launchable type="desktop-id">com.gexperts.Tilix.desktop</launchable>
+  <url type="homepage">https://gnunn1.github.io/tilix-web/</url>
+  <url type="bugtracker">https://github.com/gnunn1/tilix/issues</url>
+  <url type="faq">https://gnunn1.github.io/tilix-web/faq</url>
+  <url type="help">https://gnunn1.github.io/tilix-web/manual/</url>
+  <url type="translate">https://hosted.weblate.org/projects/tilix/translations/</url>
+  <provides>
+    <binary>tilix</binary>
+  </provides>
+  <translation type="gettext">tilix</translation>
+  <screenshots>
+    <screenshot type="default">
+      <image type="source">https://gnunn1.github.io/tilix-web/assets/images/gallery/tilix-screenshot-1.png</image>
+    </screenshot>
+    <screenshot>
+      <image type="source">https://gnunn1.github.io/tilix-web/assets/images/gallery/tilix-screenshot-2.png</image>
+    </screenshot>
+    <screenshot>
+      <image type="source">https://gnunn1.github.io/tilix-web/assets/images/gallery/tilix-screenshot-3.png</image>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release date="2022-02-22T00:00:00Z" version="1.9.5" type="stable">
+      <description>
+        <p>Tilix is still looking for a new maintainer!</p>
+        <p>This release adds the following features:</p>
+        <p lang="uk">У цьому випуску додано такі функції:</p>
+        <p lang="tr">Bu sürüm aşağıdaki özellikleri ekler:</p>
+        <p lang="ru">Этот релиз добавил следующие новшества:</p>
+        <p lang="pt_PT">Esta versão adiciona os seguintes recursos:</p>
+        <p lang="pt_BR">Esta versão adiciona os seguintes recursos:</p>
+        <p lang="nl">Deze uitgave bevat de volgende nieuwe functies:</p>
+        <p lang="id">Rilis ini menambahkan fitur berikut:</p>
+        <p lang="he">מהדורה זו מוסיפה את התכונות הבאות:</p>
+        <p lang="fr">Cette version apporte les fonctionnalités suivantes :</p>
+        <p lang="eo">Ĉi tiu versio aldonas la jenajn funkciojn:</p>
+        <p lang="en_GB">This release adds the following features:</p>
+        <ul>
+          <li>Disable advanced paste when there is no linebreak like iTerm2</li>
+          <li>Add environment variable when in quake mode</li>
+          <li>Add possibility to configure always enabled regex</li>
+        </ul>
+        <p>This release fixes the following bugs:</p>
+        <p lang="uk">У цьому випуску виправлено такі помилки:</p>
+        <p lang="tr">Bu sürüm aşağıdaki hataları düzeltir:</p>
+        <p lang="ru">В этой версии исправлены следующие ошибки:</p>
+        <p lang="pt_PT">Esta versão corrige os seguintes bugs:</p>
+        <p lang="pt_BR">Esta versão corrige os seguintes bugs:</p>
+        <p lang="nl">Deze uitgave lost de volgende bugs op:</p>
+        <p lang="id">Rilis ini memperbaiki bug berikut:</p>
+        <p lang="he">מהדורה זו מתקנת את התקלות הבאות:</p>
+        <p lang="fr">Cette version corrige les bugs suivants :</p>
+        <p lang="eo">Ĉi tiu versio korektas la jenajn cimojn:</p>
+        <p lang="en_GB">This release fixes the following bugs:</p>
+        <ul>
+          <li>More appdata -> metainfo move</li>
+          <li>Add meson target for man page translations</li>
+          <li>Update flatpak manifest</li>
+          <li>meson: drop unused argument for i18n.merge_file()</li>
+          <li>Stop using deprecated Meson features</li>
+          <li>Keep quake window open if focus is restored before timeout has been reached</li>
+          <li>Don't check GtkDragResult</li>
+          <li>Don't add application/x-rootwindow-drop to dragSourceSet targets</li>
+        </ul>
+        <p>With contributions from:</p>
+        <p>Alan Scherger, Antoine Belvire, David King, Jan Beich,
+ kohnish, luk1337, matishadow, Winston Hoy, Matthias Klumpp</p>
+      </description>
+    </release>
+    <release version="1.9.4" date="2021-02-10T00:00:00Z" type="stable">
+      <description>
+        <p>Tilix is looking for maintainers! At the moment, only very minimal maintenance is done, no new features will be implemented and pull-requests may be reviewed very slowly.</p>
+        <p lang="uk">Tilix шукає супроводжувачів! На цей час виконується лише мінімальне технічне обслуговування, жодних нових функцій не буде впроваджено, а запити на додавання можуть розглядатися дуже повільно.</p>
+        <p lang="tr">Tilix geliştiriciler arıyor! Şu anda çok az geliştirme yapılıyor, yeni özellikler uygulanmayacak ve çekme istekleri çok yavaş incelenebilir.</p>
+        <p lang="ru">Tilix ищет сопровождающих! На данный момент выполняется минимальное обслуживание, никакие новые функции не будут реализованы, а pull-requests могут пересматриваться очень медленно.</p>
+        <p lang="pt_PT">Tilix está a procurar mantenedores! No momento, apenas uma manutenção mínima é feita, nenhum novo recurso será implementado e os pull requests podem ser revisadas muito lentamente.</p>
+        <p lang="pt_BR">Tilix está procurando mantenedores! No momento, apenas uma manutenção mínima é feita, nenhum novo recurso será implementado e os pull requests podem ser revisadas muito lentamente.</p>
+        <p lang="nl">Tilix is op zoek naar onderhouders! Momenteel wordt er weinig onderhoud gepleegd, geen nieuwe functies toegevoegd en de pull requests zeer langzaam behandeld.</p>
+        <p lang="he">ל־Tilix דרושים מתחזקים! כרגע מתבצעת תחזוקה מזערית ביותר, לא מוטמעות יכולות חדשות ובקשות דחיפה נסקרות באטיות מחרידה.</p>
+        <p lang="fr">Tilix recherche des mainteneurs ! Pour le moment, seule la maintenance minimale est effectuée, aucune nouvelle fonctionnalité ne sera implémenté, et les requêtes de fusion seront relues très lentement.</p>
+        <p lang="eo">Tilix serĉas prizorgantojn! Nuntempe, nur minimumo da prizorgado estas farata; neniom da novaj funkcioj estos efektivigita; tirpetoj reviziiĝas malrapidege.</p>
+        <p lang="en_GB">Tilix is looking for maintainers! At the moment, only very minimal maintenance is done, no new features will be implemented and pull-requests may be reviewed very slowly.</p>
+        <p>If you are interested in helping Tilix, please chime in!</p>
+        <p lang="uk">Якщо ви зацікавлені в допомозі Tilix, будь ласка, відгукніться!</p>
+        <p lang="tr">Tilix'e yardım etmekle ilgileniyorsanız, lütfen bizimle iletişime geçin!</p>
+        <p lang="ru">Если вы заинтересованы в том, чтобы помочь Tilix, пожалуйста, присоединяйтесь!</p>
+        <p lang="pt_PT">Se estiver interessado em ajudar o Tilix, por favor, entre em contato!</p>
+        <p lang="pt_BR">Se você estiver interessado em ajudar o Tilix, por favor, entre em contato!</p>
+        <p lang="nl">Als u wilt meehelpen, laat het dan weten!</p>
+        <p lang="id">Jika Anda tertarik untuk membantu Tilix, silakan bergabung!</p>
+        <p lang="he">אם מעניין אותך לסייע ל־Tilix, נשמח לשמוע ממך!</p>
+        <p lang="fr">Si vous êtes intéressés pour améliorer Tilix, vous êtes le bienvenue !</p>
+        <p lang="eo">Se vi volas helpi Tilix, bonvolu partopreni!</p>
+        <p lang="en_GB">If you are interested in helping Tilix, please chime in!</p>
+        <p>This release adds the following features:</p>
+        <p lang="uk">У цьому випуску додано такі функції:</p>
+        <p lang="tr">Bu sürüm aşağıdaki özellikleri ekler:</p>
+        <p lang="ru">Этот релиз добавил следующие новшества:</p>
+        <p lang="pt_PT">Esta versão adiciona os seguintes recursos:</p>
+        <p lang="pt_BR">Esta versão adiciona os seguintes recursos:</p>
+        <p lang="nl">Deze uitgave bevat de volgende nieuwe functies:</p>
+        <p lang="id">Rilis ini menambahkan fitur berikut:</p>
+        <p lang="he">מהדורה זו מוסיפה את התכונות הבאות:</p>
+        <p lang="fr">Cette version apporte les fonctionnalités suivantes :</p>
+        <p lang="eo">Ĉi tiu versio aldonas la jenajn funkciojn:</p>
+        <p lang="en_GB">This release adds the following features:</p>
+        <ul>
+          <li>Actually install Yaru color scheme</li>
+          <li lang="uk">Власне встановіть колірну схему Yaru</li>
+          <li lang="tr">Yaru renk düzenini gerçekten kur</li>
+          <li lang="pt_PT">Instalar realmente o esquema de cores Yaru</li>
+          <li lang="nl">Het Yaru-kleurenschema wordt voortaan juist geïnstalleerd</li>
+          <li lang="id">Memasang skema warna Yaru</li>
+          <li lang="he">ערכת הצבעים Yaru ממש הותקנה</li>
+          <li lang="fr">Installe réellement la palette de couleurs Yaru</li>
+          <li lang="eo">Efektive instali koloraron Yaru</li>
+          <li lang="en_GB">Actually install Yaru colour scheme</li>
+          <li>Give every tab the ${title}</li>
+          <li lang="uk">Кожній вкладці надано ${title}</li>
+          <li lang="tr">Her sekmeye ${title} ver</li>
+          <li lang="ru">Присвойте каждой вкладке ${title}</li>
+          <li lang="pt_PT">Dá a cada guia o ${title}</li>
+          <li lang="pt_BR">Dá a cada aba o ${title}</li>
+          <li lang="nl">Elk tabblad krijgt de naam '${title}'</li>
+          <li lang="id">setiap tab ditandai ${title}</li>
+          <li lang="he">להעניק לכל לשונית את ${title}</li>
+          <li lang="fr">Mettre ${title} sur chaque onglet</li>
+          <li lang="es">Asigna a todas las pestañas el ${title}</li>
+          <li lang="eo">Doni al ĉiu langeto '${title}'</li>
+          <li lang="en_GB">Give every tab the ${title}</li>
+          <li>Add option to strip trailing whitespace on paste</li>
+          <li lang="uk">Додано параметр для прибирання пробілу після вставляння</li>
+          <li lang="tr">Yapıştırırken sondaki boşluk karakterlerini çıkarma seçeneği ekle</li>
+          <li lang="ru">Добавить опцию для удаления заключительного пробела при вставке</li>
+          <li lang="pt_PT">Adiciona opção para remover espaços em branco no final ao colar</li>
+          <li lang="pt_BR">Adiciona opção para remover espaços em branco no final ao colar</li>
+          <li lang="nl">Opties om witruimtes op einden te wissen na plakken</li>
+          <li lang="id">Menambahkan opsi ke spasi trailing strip pada tempel</li>
+          <li lang="he">נוספה אפשרות להשמיט רווחים מהסוף עם ההדבקה</li>
+          <li lang="fr">Ajout d’une option pour enlever les espaces de fin de ligne lors d’un collage</li>
+          <li lang="es">Adiciona la opcion para remover los espacios en blancos al final mientras pega</li>
+          <li lang="eo">Aldoni opcion por forigi finajn spacetojn kaj linifinojn antaŭ algluado</li>
+          <li lang="en_GB">Add option to strip trailing whitespace on paste</li>
+        </ul>
+        <p>This release fixes the following bugs:</p>
+        <p lang="uk">У цьому випуску виправлено такі помилки:</p>
+        <p lang="tr">Bu sürüm aşağıdaki hataları düzeltir:</p>
+        <p lang="ru">В этой версии исправлены следующие ошибки:</p>
+        <p lang="pt_PT">Esta versão corrige os seguintes bugs:</p>
+        <p lang="pt_BR">Esta versão corrige os seguintes bugs:</p>
+        <p lang="nl">Deze uitgave lost de volgende bugs op:</p>
+        <p lang="id">Rilis ini memperbaiki bug berikut:</p>
+        <p lang="he">מהדורה זו מתקנת את התקלות הבאות:</p>
+        <p lang="fr">Cette version corrige les bugs suivants :</p>
+        <p lang="eo">Ĉi tiu versio korektas la jenajn cimojn:</p>
+        <p lang="en_GB">This release fixes the following bugs:</p>
+        <ul>
+          <li>Fix saving of already saved session</li>
+          <li lang="uk">Виправлено збереження вже збереженого сеансу</li>
+          <li lang="tr">Önceden kaydedilmiş oturumun kaydedilmesini düzelt</li>
+          <li lang="pt_PT">Corrige salvamento de sessão já salva</li>
+          <li lang="pt_BR">Corrige salvamento de sessão já salva</li>
+          <li lang="nl">Opgeslagen sessies worden voortaan ook echt opgeslagen</li>
+          <li lang="id">Perbaiki sesi yang sudah disimpan</li>
+          <li lang="he">תוקנה שמירה של הפעלה שכבר נשמרה</li>
+          <li lang="fr">Correction de l’enregistrement d’une session déjà sauvegardée</li>
+          <li lang="eo">Korekti konservadon de jam konservita seanco</li>
+          <li lang="en_GB">Fix saving of already saved session</li>
+          <li>Add shortcut to "Unselect all"</li>
+          <li lang="uk">Додано скорочення для "Зняти всі виділення"</li>
+          <li lang="tr">"Tümünün seçimini kaldır" kısayolu ekle</li>
+          <li lang="ru">Добавить иконку "Отменить выделение всего фрагмента"</li>
+          <li lang="pt_PT">Adiciona atalho para "Desselecionar tudo"</li>
+          <li lang="pt_BR">Adiciona atalho para "Desselecionar tudo"</li>
+          <li lang="nl">Sneltoets toegevoegd voor 'Niets selecteren'</li>
+          <li lang="he">נוסף קיצור דרך ל„ביטול הבחירה”</li>
+          <li lang="fr">Ajoute un raccourci pour « Tout déselectioner »</li>
+          <li lang="eo">Aldoni fulmoklavon por "Malelekti ĉion"</li>
+          <li lang="en_GB">Add shortcut to "Unselect all"</li>
+          <li>Many Meson buildsystem fixes</li>
+          <li lang="uk">Багато виправлень системи збирання Meson</li>
+          <li lang="tr">Birçok Meson derleme sistemi düzeltmesi</li>
+          <li lang="ru">Множество исправлений сборочный системы Meson</li>
+          <li lang="pt_PT">Muitas correções do sistema de compilação do Meson</li>
+          <li lang="pt_BR">Muitas correções do sistema de compilação do Meson</li>
+          <li lang="nl">Veel fouten omtrent het Meson-compilatiesysteem opgelost</li>
+          <li lang="he">תיקונים רבים במערכת הבנייה Meson</li>
+          <li lang="fr">Beaucoup de corrections sur le système de compilation Meson</li>
+          <li lang="eo">Multaj korektoj pri la tradukadministrilo Meson</li>
+          <li lang="en_GB">Many Meson buildsystem fixes</li>
+          <li>Avoid missing the previous command exit code when encoding URLs</li>
+          <li lang="uk">Уникнення пропускання попереднього коду виведеного командою під час кодування URL-адрес</li>
+          <li lang="tr">URL'leri kodlarken önceki komutun çıkış kodunu atlamaktan kaçın</li>
+          <li lang="pt_PT">Evite perder o código de saída do comando anterior ao codificar URLs</li>
+          <li lang="pt_BR">Evite perder o código de saída do comando anterior ao codificar URLs</li>
+          <li lang="nl">De vorige opdracht-afsluitcode werd soms overgeslagen bij het ontcijferen van url's</li>
+          <li lang="he">הימנעות מפספס קוד היציאה של הפקודה הקודמת בעת קידוד כתובות</li>
+          <li lang="fr">Lors de l’encodage des URLs, n’ignore plus le code de sortie de la commande précédente</li>
+          <li lang="eo">Eviti ignoradon de la elirkodo de la antaŭa komando dum enkodigo de URL-oj</li>
+          <li lang="en_GB">Avoid missing the previous command exit code when encoding URLs</li>
+          <li>Resolve some D deprecation messages</li>
+          <li lang="uk">Усунення повідомлень про припинення використання D</li>
+          <li lang="tr">Bazı D kullanımdan kaldırma mesajlarını çöz</li>
+          <li lang="pt_PT">Resolve algumas mensagens de descontinuação do D</li>
+          <li lang="pt_BR">Resolve algumas mensagens de descontinuação do D</li>
+          <li lang="nl">Enkele D-verouderingsmeldingen opgelost</li>
+          <li lang="he">נפתרו חלק מהודעות ההוצאה משימוש של D</li>
+          <li lang="fr">Résolution de certains messages de dépréciation de D</li>
+          <li lang="eo">Solvi kelkajn mesaĝojn de D pri evitindeco</li>
+          <li lang="en_GB">Resolve some D deprecation messages</li>
+          <li>Mention powerline/fonts in README</li>
+          <li lang="uk">Згадування ліній/шрифтів у README</li>
+          <li lang="tr">README dosyasında powerline/yazı tiplerinden bahset</li>
+          <li lang="ru">Упоминание Powerline-шрифтов в файле README</li>
+          <li lang="pt_PT">Menciona powerline/fontes no README</li>
+          <li lang="pt_BR">Menciona powerline/fontes no README</li>
+          <li lang="nl">powerline/fonts benoemd in README-bestand</li>
+          <li lang="he">אזכור powerline/גופנים ב־README</li>
+          <li lang="fr">Mentions powerline/polices dans le README</li>
+          <li lang="eo">Mencii tiparojn por Powerline en la dosiero README</li>
+          <li lang="en_GB">Mention powerline/fonts in README</li>
+          <li>Avoid calling `values()` on a shared object</li>
+          <li lang="uk">Уникнення виклику `values()` спільного об’єкта</li>
+          <li lang="tr">Paylaşılan bir nesnede `values()` çağırmaktan kaçın</li>
+          <li lang="pt_PT">Evita chamar `values ()` num objeto compartilhado</li>
+          <li lang="pt_BR">Evita chamar `values ()` em um objeto compartilhado</li>
+          <li lang="nl">`values()` wordt niet meer aangeroepen bij gedeelde objecten</li>
+          <li lang="he">הימנעות מקריאה ל־`values()‎` על פריט משותף</li>
+          <li lang="fr">Évitez d’appeler `values()` sur un objet partagé</li>
+          <li lang="eo">Eviti alvokon de la metodo `values()` de komuna objekto</li>
+          <li lang="en_GB">Avoid calling `values()` on a shared object</li>
+          <li>Update metainfo data</li>
+          <li lang="uk">Оновлення даних metainfo</li>
+          <li lang="tr">Üst bilgi verilerini güncelle</li>
+          <li lang="ru">Обновление метаданных</li>
+          <li lang="pt_PT">Atualiza dados do metainfo</li>
+          <li lang="pt_BR">Atualiza dados do metainfo</li>
+          <li lang="nl">Meta-informatie bijgewerkt</li>
+          <li lang="he">עדכון נתוני על</li>
+          <li lang="fr">Mise à jour des informations metainfo</li>
+          <li lang="eo">Ĝisdatigi metainformajn datenojn</li>
+          <li lang="en_GB">Update metainfo data</li>
+          <li>Drop compat code for older D frontend versions</li>
+          <li lang="uk">Видалено сумісний зі старими версіями інтерфейсу D код</li>
+          <li lang="tr">Eski D ön uç sürümleri için uyumluluk kodunu kaldır</li>
+          <li lang="ru">Удаление кода совместимости для более старых версий D</li>
+          <li lang="pt_PT">Elimina o código compat para versões de front-end D mais antigas</li>
+          <li lang="pt_BR">Elimina o código compat para versões de front-end D mais antigas</li>
+          <li lang="nl">Compatibiliteitscode voor oudere D-versies is verwijderd</li>
+          <li lang="he">מצב התאימות הושמט לגרסאות ישנות יותר של מנשקי משתמש של D</li>
+          <li lang="fr">Suppression du code de compatibilité pour les anciennes versions du frontend D</li>
+          <li lang="eo">Forigi kodon por malnovaj versioj de D</li>
+          <li lang="en_GB">Drop compat code for older D frontend versions</li>
+          <li>Bump minimum VTE version to 0.46</li>
+          <li lang="uk">Підвищено мінімальну версію VTE до 0.46</li>
+          <li lang="tr">En düşük VTE sürümünü 0.46'ya yükselt</li>
+          <li lang="ru">Повышение минимальной версии VTE до 0.46</li>
+          <li lang="pt_PT">Bump versão mínima VTE a 0.46</li>
+          <li lang="nl">De minimale VTE-versie is voortaan 0.46</li>
+          <li lang="he">הקפצת גרסת ה־VTE הנמוכה ביותר ל־0.46</li>
+          <li lang="fr">Passage à la version minimale 0.46 pour VTE</li>
+          <li lang="eo">Postuli minimuman version 0.46 de VTE</li>
+          <li lang="en_GB">Bump minimum VTE version to 0.46</li>
+          <li>Remove deprecated Autotools support</li>
+          <li lang="uk">Вилучено застарілу підтримку Autotools</li>
+          <li lang="tr">Kullanımdan kaldırılan Autotools desteğini kaldır</li>
+          <li lang="pt_PT">Remove suporte obsoleto de Autotools</li>
+          <li lang="pt_BR">Remove suporte obsoleto de Autotools</li>
+          <li lang="nl">Verouderde Autotools-ondersteuning verwijderd</li>
+          <li lang="he">הסרת תמיכה ב־Autotools שאינה בשימוש עוד</li>
+          <li lang="fr">Suppression du support déprécié des Autotools</li>
+          <li lang="eo">Forigi evitindan subtenon de Autotools</li>
+          <li lang="en_GB">Remove deprecated Autotools support</li>
+          <li>Add release notes, NEWS file, automatic metainfo update</li>
+          <li lang="uk">Додано примітки до випуску, файл NEWS, автоматичне оновлення metainfo</li>
+          <li lang="tr">Sürüm notları, NEWS dosyası, otomatik üst bilgi güncellemesi ekle</li>
+          <li lang="ru">Добавление заметок о выпуске, файла NEWS, автоматическое обновление метаданных</li>
+          <li lang="pt_PT">Adiciona notas de lançamento, ficheiro NEWS, atualização automática do metainfo</li>
+          <li lang="pt_BR">Adiciona notas de lançamento, arquivo NEWS, atualização automática do metainfo</li>
+          <li lang="nl">Wijzigingslog, NEWS-bestand en automatische bijwerking van metagegevens toegevoegd</li>
+          <li lang="he">הוספת הערות הפצה, קובץ חדשות (NEWS), עדכון אוטומטי של נתוני על</li>
+          <li lang="fr">Ajout des notes de version, fichier NEWS, mise-à-jour automatique de metainfo</li>
+          <li lang="eo">Aldoni notojn pri versioj kaj la dosieron NEWS, kaj aŭtomate ĝisdatigi metainformojn</li>
+          <li lang="en_GB">Add release notes, NEWS file, automatic metainfo update</li>
+          <li>Update to GtkD 3.9.0</li>
+          <li lang="uk">Оновлення до GtkD 3.9.0</li>
+          <li lang="tr">GtkD 3.9.0'a güncelle</li>
+          <li lang="ru">Обновление GtkD до 3.9.0</li>
+          <li lang="pt_PT">Atualiza para GtkD 3.9.0</li>
+          <li lang="pt_BR">Atualiza para GtkD 3.9.0</li>
+          <li lang="nl">GtkD is bijgewerkt naar 3.9.0</li>
+          <li lang="he">עדכון ל־GtkD 3.9.0</li>
+          <li lang="fr">Mise à jour vers GtkD 3.9.0</li>
+          <li lang="eo">Ĝisdatigi GtkD al versio 3.9.0</li>
+          <li lang="en_GB">Update to GtkD 3.9.0</li>
+        </ul>
+        <p>This release updates translations.</p>
+        <p lang="uk">У цьому випуску оновлено переклади.</p>
+        <p lang="tr">Bu sürüm çevirileri günceller.</p>
+        <p lang="ru">В этом релизе обновлены переводы</p>
+        <p lang="pt_PT">Esta versão atualiza as traduções.</p>
+        <p lang="pt_BR">Esta versão atualiza as traduções.</p>
+        <p lang="nl">Deze uitgave bevat bijgewerkte vertalingen.</p>
+        <p lang="he">מהדורה זו מעדכנת את התרגומים.</p>
+        <p lang="fr">Cette version met à jour des traductions.</p>
+        <p lang="eo">Ĉi tiu versio ĝisdatigas tradukojn.</p>
+        <p lang="en_GB">This release updates translations.</p>
+      </description>
+    </release>
+    <release version="1.9.3" date="2019-05-04T00:00:00Z" type="stable">
+      <description>
+        <p>This release fixes the following bug:</p>
+        <p lang="uk">У цьому випуску виправлено такі вади:</p>
+        <p lang="tr">Bu sürüm aşağıdaki hatayı düzeltir:</p>
+        <p lang="ru">В этом выпуске исправлены следующие баги:</p>
+        <p lang="pt_PT">Esta versão corrige o seguinte bug:</p>
+        <p lang="pt_BR">Esta versão corrige o seguinte bug:</p>
+        <p lang="nl">Deze uitgave lost de volgende bug op:</p>
+        <p lang="he">מהדורה זו מתקנת את התקלה הבאה:</p>
+        <p lang="fr">Cette version corriges les bugs suivants :</p>
+        <p lang="eo">Ĉi tiu versio korektas la jenan cimon:</p>
+        <p lang="en_GB">This release fixes the following bug:</p>
+        <ul>
+          <li>Fixes a problem with the session sidebar getting out of sync after having deleted a session. See issues #1680, #1637 and #1699.</li>
+          <li lang="uk">Виправлено проблему з не синхронізацією бічної панелі сеансу після видалення сеансу. Див. запит #1680, #1637 та #1699.</li>
+          <li lang="tr">Bir oturumu sildikten sonra oturum kenar çubuğunun eşzamanlanmamasıyla ilgili bir sorunu giderir. #1680, #1637 ve #1699 numaralı sorunlara bakın.</li>
+          <li lang="pt_PT">Corrige um problema de perda de sincronia da barra lateral da sessão após a exclusão de uma sessão. Veja os issues #1680, #1637 e #1699.</li>
+          <li lang="pt_BR">Corrige um problema de perda de sincronia da barra lateral da sessão após a exclusão de uma sessão. Veja os issues #1680, #1637 e #1699.</li>
+          <li lang="nl">Probleem opgelost omtrent de zijbalk: deze liep soms niet synchroon na het wissen van een sessie. Zie 'issues' #1680, #1637 en #1699.</li>
+          <li lang="he">מתקן תקלה בסרגל הצד של החיבורים שיוצר מסנכרון לאחר מחיקת חיבור. בהתאם לתקלות #1680, #1637 ו־#1699.</li>
+          <li lang="fr">Corrige un problème de désynchronisation de la session de la barre latérale après avoir supprimé une session. Voir #1680, #1637 et #1699.</li>
+          <li lang="eo">Ripari problemon pri la nesinkroniĝo de la seanca flankpanelo post forigo de seanco. Vidu la cimojn 1680, 1637 kaj 1699.</li>
+          <li lang="en_GB">Fixes a problem with the session sidebar getting out of sync after having deleted a session. See issues #1680, #1637 and #1699.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.9.1" date="2019-03-17T00:00:00Z" type="stable">
+      <description>
+        <p>This release fixes the following bugs:</p>
+        <p lang="uk">У цьому випуску виправлено такі помилки:</p>
+        <p lang="tr">Bu sürüm aşağıdaki hataları düzeltir:</p>
+        <p lang="ru">В этой версии исправлены следующие ошибки:</p>
+        <p lang="pt_PT">Esta versão corrige os seguintes bugs:</p>
+        <p lang="pt_BR">Esta versão corrige os seguintes bugs:</p>
+        <p lang="nl">Deze uitgave lost de volgende bugs op:</p>
+        <p lang="id">Rilis ini memperbaiki bug berikut:</p>
+        <p lang="he">מהדורה זו מתקנת את התקלות הבאות:</p>
+        <p lang="fr">Cette version corrige les bugs suivants :</p>
+        <p lang="eo">Ĉi tiu versio korektas la jenajn cimojn:</p>
+        <p lang="en_GB">This release fixes the following bugs:</p>
+        <ul>
+          <li>Remove app menu for gnome 3.32</li>
+          <li lang="uk">Вилучено меню програми для gnome 3.32</li>
+          <li lang="tr">Gnome 3.32 için uygulama menüsünü kaldır</li>
+          <li lang="pt_PT">Remove o menu de app para o gnome 3.32</li>
+          <li lang="pt_BR">Remove o menu de aplicativo para o gnome 3.32</li>
+          <li lang="nl">Toepassingsmenu verwijderd op gnome 3.32</li>
+          <li lang="he">הסרת תפריט היישום ל־gnome 3.32</li>
+          <li lang="fr">Suppression du menu d’applications pour gnome 3.32</li>
+          <li lang="eo">Forigi programmenuon por GNOME 3.32</li>
+          <li lang="en_GB">Remove app menu for Gnome 3.32</li>
+          <li>Update icon</li>
+          <li lang="uk">Оновлено піктограму</li>
+          <li lang="tr">Simgeyi güncelle</li>
+          <li lang="ru">Обновить иконки приложения</li>
+          <li lang="pt_PT">Atualiza ícone</li>
+          <li lang="pt_BR">Atualiza ícone</li>
+          <li lang="nl">Pictogram bijgewerkt</li>
+          <li lang="id">Perbarui ikon</li>
+          <li lang="he">הסמל עודכן</li>
+          <li lang="fr">Mise-à-jour de l’icône</li>
+          <li lang="eo">Ĝisdatigi ikonon</li>
+          <li lang="en_GB">UpdateTitle</li>
+          <li>Minor fixes</li>
+          <li lang="uk">Незначні виправлення</li>
+          <li lang="tr">Küçük düzeltmeler</li>
+          <li lang="ru">Небольшие исправления</li>
+          <li lang="pt_PT">Pequenas correções</li>
+          <li lang="pt_BR">Pequenas correções</li>
+          <li lang="nl">Kleine foutoplossingen</li>
+          <li lang="he">תיקונים קטנים</li>
+          <li lang="fr">Corrections mineures</li>
+          <li lang="eo">Etaj korektoj</li>
+          <li lang="en_GB">Minor fixes</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.8.9" date="2019-01-06T00:00:00Z" type="stable">
+      <description>
+        <p>This release fixes the following bugs:</p>
+        <p lang="uk">У цьому випуску виправлено такі помилки:</p>
+        <p lang="tr">Bu sürüm aşağıdaki hataları düzeltir:</p>
+        <p lang="ru">В этой версии исправлены следующие ошибки:</p>
+        <p lang="pt_PT">Esta versão corrige os seguintes bugs:</p>
+        <p lang="pt_BR">Esta versão corrige os seguintes bugs:</p>
+        <p lang="nl">Deze uitgave lost de volgende bugs op:</p>
+        <p lang="id">Rilis ini memperbaiki bug berikut:</p>
+        <p lang="he">מהדורה זו מתקנת את התקלות הבאות:</p>
+        <p lang="fr">Cette version corrige les bugs suivants :</p>
+        <p lang="eo">Ĉi tiu versio korektas la jenajn cimojn:</p>
+        <p lang="en_GB">This release fixes the following bugs:</p>
+        <ul>
+          <li>Small release to update localizations</li>
+          <li lang="uk">Невеликий випуск для оновлення локалізацій</li>
+          <li lang="tr">Yerelleştirmeleri güncellemek için küçük bir sürüm</li>
+          <li lang="ru">Небольшой релиз для обновления локализаций</li>
+          <li lang="pt_PT">Versão pequena para atualizar localizações</li>
+          <li lang="pt_BR">Versão pequena para atualizar localizações</li>
+          <li lang="nl">Kleine uitgave die de vertalingen bijwerkt</li>
+          <li lang="he">מהדורה קטנה לעדכון התרגומים</li>
+          <li lang="fr">Petite version pour la mise-à-jour des traductions</li>
+          <li lang="eo">Eta versio por ĝisdatigi tradukojn</li>
+          <li lang="en_GB">Small release to update localisations</li>
+          <li>Update to GtkD 3.8.5 to fix library name in GtkD.</li>
+          <li lang="uk">Оновлення до GtkD 3.8.5, щоб виправити назву бібліотеки в GtkD.</li>
+          <li lang="tr">GtkD'deki kütüphane adını düzeltmek için GtkD 3.8.5'e güncelle.</li>
+          <li lang="pt_PT">Atualiza para GtkD 3.8.5 para corrigir o nome da biblioteca no GtkD.</li>
+          <li lang="pt_BR">Atualiza para GtkD 3.8.5 para corrigir o nome da biblioteca no GtkD.</li>
+          <li lang="nl">Update naar GtkD 3.8.5 om een bibliotheeknaam te repareren.</li>
+          <li lang="he">עדכון ל־GtkD 3.8.5 כדי לתקן שם ספרייה ב־GtkD.</li>
+          <li lang="eo">Ĝisdatigi GtkD al versio 3.8.5 por korekti nomon de biblioteko en GtkD.</li>
+          <li lang="en_GB">Update to GtkD 3.8.5 to fix library name in GtkD.</li>
+        </ul>
+      </description>
+    </release>
+    <release type="stable" date="2019-01-03T00:00:00Z" version="1.8.7">
+      <description>
+        <p>Some new features and bug fixes.</p>
+        <p lang="uk">Деякі нові функції та виправлення помилок.</p>
+        <p lang="tr">Bazı yeni özellikler ve hata düzeltmeleri.</p>
+        <p lang="ru">Некоторые новые функции и исправления ошибок.</p>
+        <p lang="pt_PT">Alguns novos recursos e correções de bugs.</p>
+        <p lang="pt_BR">Alguns novos recursos e correções de bugs.</p>
+        <p lang="nl">Enkele nieuwe functies en foutoplossingen.</p>
+        <p lang="he">תכונות ותיקונים קטנים חדשים.</p>
+        <p lang="fr">Quelques nouvelles fonctionnalités et corrections mineures.</p>
+        <p lang="eo">Kelke da novaj funkcioj kaj korektoj de cimoj.</p>
+        <p lang="en_GB">Some new features and bug fixes.</p>
+      </description>
+    </release>
+  </releases>
+</component>

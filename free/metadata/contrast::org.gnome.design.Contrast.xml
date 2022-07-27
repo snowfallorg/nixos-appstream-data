@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>contrast</pkgname>
+  <icon type="cached" height="64" width="64">org.gnome.design.Contrast.png</icon>
+  <icon height="128" width="128" type="cached">org.gnome.design.Contrast.png</icon>
+  <id>org.gnome.design.Contrast</id>
+  <metadata_license>CC0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <name>Contrast</name>
+  <name lang="zh_CN">对比度</name>
+  <name lang="uk">Контраст</name>
+  <name lang="tr">Kontrast</name>
+  <name lang="sv">Kontrast</name>
+  <name lang="sr">Контрастко</name>
+  <name lang="sl">Kontrast</name>
+  <name lang="ro">Contrast</name>
+  <name lang="pt_BR">Contraste</name>
+  <name lang="pl">Kontrast</name>
+  <name lang="oc">Contraste</name>
+  <name lang="nl">Contrast</name>
+  <name lang="ko">보색</name>
+  <name lang="it">Contrasto</name>
+  <name lang="id">Kontras</name>
+  <name lang="hu">Kontraszt</name>
+  <name lang="hr">Kontrast</name>
+  <name lang="gl">Contraste</name>
+  <name lang="fur">Contrast</name>
+  <name lang="fr">Contraste</name>
+  <name lang="fi">Kontrasti</name>
+  <name lang="fa">سایه‌روشن</name>
+  <name lang="eu">Kontrastea</name>
+  <name lang="es">Contraste</name>
+  <name lang="en_GB">Contrast</name>
+  <name lang="el">Αντίθεση</name>
+  <name lang="de">Kontrast</name>
+  <name lang="da">Kontrast</name>
+  <name lang="cs">Kontrast</name>
+  <name lang="ca">Contrast</name>
+  <summary>Check contrast between two colors</summary>
+  <summary lang="zh_CN">检查两种颜色之间的对比度</summary>
+  <summary lang="uk">Перевірка контрастності двох кольорів</summary>
+  <summary lang="tr">İki renk arasındaki karşıtlığı gözden geçir</summary>
+  <summary lang="sv">Kontrollera kontrast mellan två färger</summary>
+  <summary lang="sr">Проверите контраст између две боје</summary>
+  <summary lang="sl">Preveri kontrast med dvema barvama</summary>
+  <summary lang="ro">Verifică contrastul între două culori</summary>
+  <summary lang="pt_BR">Verifique o contraste entre duas cores</summary>
+  <summary lang="pl">Sprawdzanie kontrastu między dwoma kolorami</summary>
+  <summary lang="oc">Verificar lo contraste entre doas colors</summary>
+  <summary lang="nl">Ga het contrast tussen twee kleuren na</summary>
+  <summary lang="ko">두 색상의 보색 여부를 확인합니다</summary>
+  <summary lang="it">Controlla il contrasto tra due colori</summary>
+  <summary lang="id">Periksa kontras antara dua warna</summary>
+  <summary lang="hu">Kontraszt ellenőrzése két szín között</summary>
+  <summary lang="hr">Provjerite kontrast između dvije boje</summary>
+  <summary lang="gl">Comprobe o contraste entre dous cores</summary>
+  <summary lang="fur">Controle il contrast tra doi colôrs</summary>
+  <summary lang="fr">Vérifier le contraste entre deux couleurs</summary>
+  <summary lang="fi">Tarkista kahden värin välinen kontrasti</summary>
+  <summary lang="fa">بررسی سایه‌روشن بین دو رنگ</summary>
+  <summary lang="eu">Aztertu bi koloreren arteko kontrastea</summary>
+  <summary lang="es">Comprobar el contraste entre dos colores</summary>
+  <summary lang="en_GB">Check contrast between two colours</summary>
+  <summary lang="el">Ελέγξτε την αντίθεση μεταξύ δύο χρωμάτων</summary>
+  <summary lang="de">Kontrast zwischen zwei Farben vergleichen</summary>
+  <summary lang="da">Undersøg kontrasten mellem to farver</summary>
+  <summary lang="cs">Zkontrolujte kontrast mezi dvěma barvami</summary>
+  <summary lang="ca">Comprova el contrast entre dos colors</summary>
+  <description>
+    <p>Contrast checks whether the contrast between two colors meet the WCAG requirements.</p>
+  </description>
+  <description lang="ca">
+    <p>Contrast comprova si el contrast entre dos colors compleix els requisits de les WCAG.</p>
+  </description>
+  <description lang="cs">
+    <p>Kontroluje kontrast mezi dvěma zadanými barvami, jestli vyhovuje požadavkům pravidel pro bezbariérové weby (WCAG).</p>
+  </description>
+  <description lang="da">
+    <p>Kontrast undersøger, om kontrasten mellem to farver overholder WCAG-kravene.</p>
+  </description>
+  <description lang="de">
+    <p>Kontrast prüft, ob der Kontrast zwischen zwei Farben den Richtlinien für barrierefreie Webinhalte (WCAG) entspricht.</p>
+  </description>
+  <description lang="el">
+    <p>Η εφαρμογή Αντίθεση ελέγχει εάν η αντίθεση μεταξύ δύο χρωμάτων πληροί τις απαιτήσεις του WCAG.</p>
+  </description>
+  <description lang="es">
+    <p>Contraste comprueba la diferencia de contraste entre dos colores que cumplen los requisitos WCAG.</p>
+  </description>
+  <description lang="eu">
+    <p>Kontrastea aplikazioak bi koloreren arteko kontrasteak WCAG eskakizunak betetzen dituen ala ez egiaztatzen du.</p>
+  </description>
+  <description lang="fa">
+    <p>سایه‌روشن چگونگی تطابق سایه‌روشن بین دو رنگ با الزامات WCAG را بررسی می‌کند.</p>
+  </description>
+  <description lang="fi">
+    <p>Kontrasti tarkistaa kahden värin välisen kontrastin ja vertaa sitä WCAG-vaatimuksiin.</p>
+  </description>
+  <description lang="fr">
+    <p>Contraste vérifie si le contraste entre deux couleurs répond aux exigences WCAG.</p>
+  </description>
+  <description lang="fur">
+    <p>Contrast al controle se il contrast tra doi colôrs al sodisfe i recuisîts WCAG.</p>
+  </description>
+  <description lang="gl">
+    <p>Contraste comproba o contraste entre dous cores segundo os requerimentos da WCAG.</p>
+  </description>
+  <description lang="hr">
+    <p>Kontrast provjerava zadovoljava li kontrast između dvije boje WCAG zahtjeve.</p>
+  </description>
+  <description lang="hu">
+    <p>A Kontraszt azt ellenőrzi, hogy a két szín közti kontraszt megfelel-e a WCAG követelményeinek.</p>
+  </description>
+  <description lang="id">
+    <p>Kontras memeriksa apakah kontras antara dua warna memenuhi persyaratan WCAG.</p>
+  </description>
+  <description lang="it">
+    <p>Contrasto controlla se il contrasto tra due colori rispetta i requisiti WCAG.</p>
+  </description>
+  <description lang="ko">
+    <p>보색에서는 두 색상이 WCAG 요구사항을 준수하는지 여부를 확인합니다.</p>
+  </description>
+  <description lang="nl">
+    <p>Contrast gaat na of het contrast tussen twee kleuren voldoet aan de WCAG-vereisten.</p>
+  </description>
+  <description lang="oc">
+    <p>Contraste verifica se lo contraste entre doas colors respecèta los prerequesits del WCAG.</p>
+  </description>
+  <description lang="pl">
+    <p>Sprawdzanie, czy kontrast między dwoma kolorami spełnia wymagania WCAG.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Contraste verifica se o contraste entre duas cores atende os requisitos WCAG.</p>
+  </description>
+  <description lang="ro">
+    <p>Contrast verifică dacă contrastul între două culori îndeplinește cerințele WCAG.</p>
+  </description>
+  <description lang="sl">
+    <p>Program preveri, ali je kontrast med dvema barvama skladen z zahtevami WCAG.</p>
+  </description>
+  <description lang="sr">
+    <p>Контраско проверава да ли контраст између две боје задовољава „WCAG“ захтеве.</p>
+  </description>
+  <description lang="sv">
+    <p>Kontrast kontrollerar om kontrasten mellan två färger uppfyller WCAG-kraven.</p>
+  </description>
+  <description lang="tr">
+    <p>Contrast, iki renk arasındaki karşıtlığın WCAG gereksinimlerini karşılayıp karşılamadığını gözden geçirir.</p>
+  </description>
+  <description lang="uk">
+    <p>Перевірка того, чи контрастність двох кольорів відповідає умовам WCAG.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>对比度可以检查两种颜色之间的对比度是否符合 WCAG 的要求。</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://gitlab.gnome.org/World/design/contrast/raw/master/data/resources/screenshots/screenshot1.png</image>
+      <caption>Main Window</caption>
+      <caption lang="zh_CN">主窗口</caption>
+      <caption lang="uk">Головне вікно</caption>
+      <caption lang="tr">Ana Pencere</caption>
+      <caption lang="sv">Huvudfönster</caption>
+      <caption lang="sr">Главни прозор</caption>
+      <caption lang="sl">Glavno okno</caption>
+      <caption lang="ro">Fereastra principală</caption>
+      <caption lang="pt_BR">Janela principal</caption>
+      <caption lang="pl">Główne okno</caption>
+      <caption lang="oc">Fenèstra principala</caption>
+      <caption lang="nl">Hoofdvenster</caption>
+      <caption lang="ko">메인 창</caption>
+      <caption lang="it">Finestra principale</caption>
+      <caption lang="id">Jendela Utama</caption>
+      <caption lang="hu">Főablak</caption>
+      <caption lang="hr">Glavni prozor</caption>
+      <caption lang="gl">Xanela principal</caption>
+      <caption lang="fur">Barcon principâl</caption>
+      <caption lang="fr">Fenêtre principale</caption>
+      <caption lang="fi">Pääikkuna</caption>
+      <caption lang="fa">پنجرهٔ اصلی</caption>
+      <caption lang="eu">Leiho nagusia</caption>
+      <caption lang="es">Ventana principal</caption>
+      <caption lang="en_GB">Main Window</caption>
+      <caption lang="el">Κυρίως παράθυρο</caption>
+      <caption lang="de">Hauptfenster</caption>
+      <caption lang="da">Hovedvindue</caption>
+      <caption lang="cs">Hlavní okno</caption>
+      <caption lang="ca">Finestra principal</caption>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://gitlab.gnome.org/World/design/contrast</url>
+  <url type="bugtracker">https://gitlab.gnome.org/World/design/contrast/issues</url>
+  <url type="donation">https://liberapay.com/bielmoussaoui</url>
+  <url type="translate">https://l10n.gnome.org/module/contrast/</url>
+  <content_rating type="oars-1.0" />
+  <releases>
+    <release version="0.0.5" date="2022-01-16">
+      <description>
+        <p>Bugfix release</p>
+      </description>
+    </release>
+    <release version="0.0.4" date="2021-10-15">
+      <description>
+        <p>Port to GTK 4</p>
+      </description>
+    </release>
+    <release version="0.0.3" date="2020-02-22">
+      <description>
+        <p>Stylesheet fixes</p>
+        <p>Translations updates</p>
+      </description>
+    </release>
+    <release version="0.0.2" date="2019-08-25">
+      <description>
+        <p>Translations updates</p>
+      </description>
+    </release>
+    <release date="2019-08-07" version="0.0.1">
+      <description>
+        <p>First release of Contrast</p>
+      </description>
+    </release>
+  </releases>
+  <kudos>
+    <!--
+    GNOME Software kudos:
+    https://gitlab.gnome.org/GNOME/gnome-software/blob/master/doc/kudos.md
+    -->
+    <kudo>ModernToolkit</kudo>
+    <kudo>HiDpiIcon</kudo>
+  </kudos>
+  <developer_name>Bilal Elmoussaoui</developer_name>
+  <developer_name lang="zh_CN">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="uk">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="tr">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="sv">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="sr">Билал Елмусауи</developer_name>
+  <developer_name lang="sl">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="ro">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="pt_BR">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="pl">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="oc">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="nl">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="ko">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="it">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="id">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="hu">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="hr">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="gl">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="fur">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="fr">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="fi">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="fa">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="eu">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="es">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="en_GB">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="el">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="de">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="da">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="cs">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="ca">Bilal Elmoussaoui</developer_name>
+  <update_contact>bilal.elmoussaoui@gnome.org</update_contact>
+  <translation type="gettext">contrast</translation>
+  <launchable type="desktop-id">org.gnome.design.Contrast.desktop</launchable>
+</component>

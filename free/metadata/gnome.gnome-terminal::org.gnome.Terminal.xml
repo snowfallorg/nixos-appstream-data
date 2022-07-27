@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="https://specifications.freedesktop.org/metainfo/1.0" xmlns:its="http://www.w3.org/2005/11/its" xmlns:xi="http://www.w3.org/2001/XInclude" type="desktop-application">
+  <pkgname>gnome.gnome-terminal</pkgname>
+  <launchable type="desktop-id">org.gnome.Terminal.desktop</launchable>
+  <icon width="64" height="64" type="cached">org.gnome.Terminal.png</icon>
+  <icon height="128" width="128" type="cached">org.gnome.Terminal.png</icon>
+  <id>org.gnome.Terminal.desktop</id>
+  <id lang="zh_TW">org.gnome.Terminal.desktop</id>
+  <id lang="zh_CN">org.gnome.Terminal.desktop</id>
+  <id lang="vi">org.gnome.Terminal.desktop</id>
+  <id lang="uk">org.gnome.Terminal.desktop</id>
+  <id lang="tr">org.gnome.Terminal.desktop</id>
+  <id lang="sv">org.gnome.Terminal.desktop</id>
+  <id lang="sr">org.gnome.Terminal.desktop</id>
+  <id lang="sl">org.gnome.Terminal.desktop</id>
+  <id lang="sk">org.gnome.Terminal.desktop</id>
+  <id lang="ru">org.gnome.Terminal.desktop</id>
+  <id lang="ro">org.gnome.Terminal.desktop</id>
+  <id lang="pt_BR">org.gnome.Terminal.desktop</id>
+  <id lang="pt">org.gnome.Terminal.desktop</id>
+  <id lang="pl">org.gnome.Terminal.desktop</id>
+  <id lang="oc">org.gnome.Terminal.desktop</id>
+  <id lang="nl">org.gnome.Terminal.desktop</id>
+  <id lang="ne">org.gnome.Terminal.desktop</id>
+  <id lang="nb">org.gnome.Terminal.desktop</id>
+  <id lang="mjw">org.gnome.Terminal.desktop</id>
+  <id lang="lv">org.gnome.Terminal.desktop</id>
+  <id lang="lt">org.gnome.Terminal.desktop</id>
+  <id lang="ko">org.gnome.Terminal.desktop</id>
+  <id lang="kk">org.gnome.Terminal.desktop</id>
+  <id lang="kab">org.gnome.Terminal.desktop</id>
+  <id lang="ja">org.gnome.Terminal.desktop</id>
+  <id lang="it">org.gnome.Terminal.desktop</id>
+  <id lang="id">org.gnome.Terminal.desktop</id>
+  <id lang="hu">org.gnome.Terminal.desktop</id>
+  <id lang="hr">org.gnome.Terminal.desktop</id>
+  <id lang="he">org.gnome.Terminal.desktop</id>
+  <id lang="gl">org.gnome.Terminal.desktop</id>
+  <id lang="fur">org.gnome.Terminal.desktop</id>
+  <id lang="fr">org.gnome.Terminal.desktop</id>
+  <id lang="fi">org.gnome.Terminal.desktop</id>
+  <id lang="fa">org.gnome.Terminal.desktop</id>
+  <id lang="eu">org.gnome.Terminal.desktop</id>
+  <id lang="es">org.gnome.Terminal.desktopc</id>
+  <id lang="eo">org.gnome.Terminal.desktop</id>
+  <id lang="en_GB">org.gnome.Terminal.desktop</id>
+  <id lang="el">org.gnome.Terminal.desktop</id>
+  <id lang="de">org.gnome.Terminal.desktop</id>
+  <id lang="da">org.gnome.Terminal.desktop</id>
+  <id lang="ca">org.gnome.Terminal.desktop</id>
+  <id lang="bn_IN">org.gnome.Terminal.desktop</id>
+  <id lang="bg">org.gnome.Terminal.desktop</id>
+  <metadata_license>GPL-3.0+ or GFDL-1.3-only</metadata_license>
+  <metadata_license lang="zh_TW">GPL-3.0+ 或 GFDL-1.3-only</metadata_license>
+  <metadata_license lang="zh_CN">GPL-3.0+ or GFDL-1.3-only</metadata_license>
+  <metadata_license lang="vi">GPL-3.0+ hoặc chỉ-GFDL-1.3</metadata_license>
+  <metadata_license lang="uk">GPL-3.0+ або GFDL-1.3-only</metadata_license>
+  <metadata_license lang="tr">GPL-3.0+ veya GFDL-1.3-only</metadata_license>
+  <metadata_license lang="sv">GPL-3.0+ or GFDL-1.3-only</metadata_license>
+  <metadata_license lang="sr">само ОЈЛ-3.0+ или само GFDL-1.3</metadata_license>
+  <metadata_license lang="sl">GPL-3.0+ ali GFDL-1.3</metadata_license>
+  <metadata_license lang="sk">GPL-3.0+ alebo GFDL-1.3-only</metadata_license>
+  <metadata_license lang="ru">GPL-3.0+ или только GFDL-1.3</metadata_license>
+  <metadata_license lang="ro">GPL-3.0+ sau numai GFDL-1.3</metadata_license>
+  <metadata_license lang="pt_BR">GPL-3.0+ ou GFDL-1.3-only</metadata_license>
+  <metadata_license lang="pt">GPL-3.0+ or GFDL-1.3-apenas</metadata_license>
+  <metadata_license lang="pl">GPL-3.0+ or GFDL-1.3-only</metadata_license>
+  <metadata_license lang="oc">GPL-3.0+ o sonlament GFDL-1.3</metadata_license>
+  <metadata_license lang="nl">GPL-3.0+ of enkel GFDL-1.3</metadata_license>
+  <metadata_license lang="ne">GPL-3.0+ or GFDL-1.3-मात्र</metadata_license>
+  <metadata_license lang="nb">GPL-3.0+ eller GFDL-1.3-only</metadata_license>
+  <metadata_license lang="mjw">GPL-3.0+ or GFDL-1.3-only</metadata_license>
+  <metadata_license lang="lv">GPL-3.0+ vai tikai GFDL-1.3</metadata_license>
+  <metadata_license lang="lt">GPL-3.0+ arba GFDL-1.3-only</metadata_license>
+  <metadata_license lang="ko">GPL-3.0+ 또는 GFDL-1.3-only</metadata_license>
+  <metadata_license lang="kk">GPL-3.0+ немесе тек GFDL-1.3</metadata_license>
+  <metadata_license lang="kab">GPL-3.0+ neɣ GFDL-1.3-kan</metadata_license>
+  <metadata_license lang="ja">GPL-3.0+ または GFDL-1.3-only</metadata_license>
+  <metadata_license lang="it">GPL-3.0+ o GFDL-1.3-only</metadata_license>
+  <metadata_license lang="id">GPL-3.0+ atau GFDL-1.3-only</metadata_license>
+  <metadata_license lang="hu">GPL-3.0+ vagy csak GFDL-1.3</metadata_license>
+  <metadata_license lang="hr">GPL-3.0+ ili GFDL-1.3-samo</metadata_license>
+  <metadata_license lang="he">‫GPL-3.0+‎ או GFDL-1.3-בלבד</metadata_license>
+  <metadata_license lang="gl">GPL-3.0+ ou so GFDL-1.3</metadata_license>
+  <metadata_license lang="fur">GPL-3.0+ o GFDL-1.3-only</metadata_license>
+  <metadata_license lang="fr">GPL-3.0+ ou GFDL-1.3-only</metadata_license>
+  <metadata_license lang="fi">GPL-3.0+ tai GFDL-1.3-only</metadata_license>
+  <metadata_license lang="fa">GPL-3.0+ یا GFDL-1.3-only</metadata_license>
+  <metadata_license lang="eu">GPL-3.0+ edo GFDL-1.3 soilik</metadata_license>
+  <metadata_license lang="es">GPL-3.0+ o GFDL-1.3-only</metadata_license>
+  <metadata_license lang="eo">GPL-3.0+ aŭ GFDL-1.3-sole</metadata_license>
+  <metadata_license lang="en_GB">GPL-3.0+ or GFDL-1.3-only</metadata_license>
+  <metadata_license lang="el">GPL-3.0+ ή GFDL-1.3-μόνο</metadata_license>
+  <metadata_license lang="de">Nur GPL-3.0+ oder GFDL-1.3</metadata_license>
+  <metadata_license lang="da">Kun GPL-3.0+ eller GFDL-1.3</metadata_license>
+  <metadata_license lang="cs">GPL-3.0+ nebo GFDL-1.3 výhradně</metadata_license>
+  <metadata_license lang="ca">GPL-3.0+ o només GFDL-1.3</metadata_license>
+  <metadata_license lang="bn_IN">GPL-3.0 + বা GFDL-1.3-শুধুমাত্র</metadata_license>
+  <metadata_license lang="bg">GPL-3.0+ или GFDL-1.3-only</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <project_license lang="zh_TW">GPL-3.0+</project_license>
+  <project_license lang="zh_CN">GPL-3.0+</project_license>
+  <project_license lang="vi">GPL-3.0+</project_license>
+  <project_license lang="uk">GPL-3.0+</project_license>
+  <project_license lang="tr">GPL-3.0+</project_license>
+  <project_license lang="sv">GPL-3.0+</project_license>
+  <project_license lang="sr">ОЈЛ-3.0+</project_license>
+  <project_license lang="sl">GPL-3.0+</project_license>
+  <project_license lang="sk">GPL-3.0+</project_license>
+  <project_license lang="ru">GPL-3.0+</project_license>
+  <project_license lang="ro">GPL-3.0+</project_license>
+  <project_license lang="pt_BR">GPL-3.0+</project_license>
+  <project_license lang="pt">GPL-3.0+</project_license>
+  <project_license lang="pl">GPL-3.0+</project_license>
+  <project_license lang="oc">GPL-3.0+</project_license>
+  <project_license lang="nl">GPL-3.0+</project_license>
+  <project_license lang="ne">GPL-3.0+</project_license>
+  <project_license lang="nb">GPL-3.0+</project_license>
+  <project_license lang="mjw">GPL-3.0+</project_license>
+  <project_license lang="lv">GPL-3.0+</project_license>
+  <project_license lang="lt">GPL-3.0+</project_license>
+  <project_license lang="ko">GPL-3.0+</project_license>
+  <project_license lang="kk">GPL-3.0+</project_license>
+  <project_license lang="kab">GPL-3.0+</project_license>
+  <project_license lang="ja">GPL-3.0+</project_license>
+  <project_license lang="it">GPL-3.0+</project_license>
+  <project_license lang="id">GPL-3.0+</project_license>
+  <project_license lang="hu">GPL-3.0+</project_license>
+  <project_license lang="hr">GPL-3.0+</project_license>
+  <project_license lang="he">‫GPL-3.0+‎</project_license>
+  <project_license lang="gl">GPL-3.0+</project_license>
+  <project_license lang="fur">GPL-3.0+</project_license>
+  <project_license lang="fr">GPL-3.0+</project_license>
+  <project_license lang="fi">GPL-3.0+</project_license>
+  <project_license lang="fa">GPL-3.0+</project_license>
+  <project_license lang="eu">GPL 3.0</project_license>
+  <project_license lang="es">GPL-3.0+</project_license>
+  <project_license lang="eo">GPL-3.0+</project_license>
+  <project_license lang="en_GB">GPL-3.0+</project_license>
+  <project_license lang="el">GPL-3.0+</project_license>
+  <project_license lang="de">GPL-3.0+</project_license>
+  <project_license lang="da">GPL-3.0+</project_license>
+  <project_license lang="cs">GPL-3.0+</project_license>
+  <project_license lang="ca">GPL-3.0+</project_license>
+  <project_license lang="bn_IN">GPL-3.0+</project_license>
+  <project_license lang="bg">GPL-3.0+</project_license>
+  <name>Terminal</name>
+  <name lang="zh_TW">終端機</name>
+  <name lang="zh_HK">終端機</name>
+  <name lang="zh_CN">终端</name>
+  <name lang="xh">i-Terminal</name>
+  <name lang="wa">Terminå</name>
+  <name lang="vi">Thiết bị cuối</name>
+  <name lang="uk">Термінал</name>
+  <name lang="ug">تېرمىنال</name>
+  <name lang="tr">Uçbirim</name>
+  <name lang="th">เทอร์มินัล</name>
+  <name lang="tg">Терминал</name>
+  <name lang="te">టెర్మినల్</name>
+  <name lang="ta">முனையம்</name>
+  <name lang="sv">Terminal</name>
+  <name lang="sr@latin">Terminal</name>
+  <name lang="sr">Терминал</name>
+  <name lang="sq">Terminali</name>
+  <name lang="sl">Terminal</name>
+  <name lang="sk">Terminál</name>
+  <name lang="si">අග්‍රය</name>
+  <name lang="ru">Терминал</name>
+  <name lang="ro">Terminal</name>
+  <name lang="pt_BR">Terminal</name>
+  <name lang="pt">Terminal</name>
+  <name lang="ps">پايالی</name>
+  <name lang="pl">Terminal</name>
+  <name lang="pa">ਟਰਮੀਨਲ</name>
+  <name lang="or">ଟର୍ମିନାଲ</name>
+  <name lang="oc">Terminal</name>
+  <name lang="nn">Terminal</name>
+  <name lang="nl">Terminalvenster</name>
+  <name lang="ne">टर्मिनल</name>
+  <name lang="nds">Terminal</name>
+  <name lang="nb">Terminal</name>
+  <name lang="ms">Terminal</name>
+  <name lang="mr">टर्मिनल</name>
+  <name lang="mn">Терминал</name>
+  <name lang="ml">ടെര്‍മിനല്‍</name>
+  <name lang="mk">Терминал</name>
+  <name lang="mjw">Terminal</name>
+  <name lang="mg">Terminal</name>
+  <name lang="mai">टर्मिनल</name>
+  <name lang="lv">Terminālis</name>
+  <name lang="lt">Terminalas</name>
+  <name lang="ku">Termînal</name>
+  <name lang="ko">터미널</name>
+  <name lang="kn">ಟರ್ಮಿನಲ್‌</name>
+  <name lang="km">ស្ថានីយ</name>
+  <name lang="kk">Терминал</name>
+  <name lang="kab">Anemdu</name>
+  <name lang="ka">ტერმინალი</name>
+  <name lang="ja">端末</name>
+  <name lang="it">Terminale</name>
+  <name lang="is">Skjáhermir (Terminal)</name>
+  <name lang="id">Terminal</name>
+  <name lang="hy">Տերմինալ</name>
+  <name lang="hu">Terminál</name>
+  <name lang="hr">Terminal</name>
+  <name lang="hi">टर्मिनल</name>
+  <name lang="he">מסוף</name>
+  <name lang="gu">ટર્મિનલ</name>
+  <name lang="gl">Terminal</name>
+  <name lang="gd">Tèirmineal</name>
+  <name lang="ga">Teirminéal</name>
+  <name lang="fur">Terminâl</name>
+  <name lang="fr">Terminal</name>
+  <name lang="fi">Pääte</name>
+  <name lang="fa">پایانه</name>
+  <name lang="eu">Terminala</name>
+  <name lang="et">Terminal</name>
+  <name lang="es">Terminal</name>
+  <name lang="eo">Terminalo</name>
+  <name lang="en@shaw">𐑑𐑻𐑥𐑦𐑯𐑩𐑤</name>
+  <name lang="en_GB">Terminal</name>
+  <name lang="en_CA">Terminal</name>
+  <name lang="el">Τερματικό</name>
+  <name lang="dz">ཊར་མི་ནཱལ་།</name>
+  <name lang="de">Terminal</name>
+  <name lang="da">Terminal</name>
+  <name lang="cy">Terfynell</name>
+  <name lang="cs">Terminál</name>
+  <name lang="ca@valencia">Terminal</name>
+  <name lang="ca">Terminal</name>
+  <name lang="bs">Terminal</name>
+  <name lang="br">Termenell</name>
+  <name lang="bn_IN">টার্মিন্যাল</name>
+  <name lang="bn">টার্মিনাল</name>
+  <name lang="bg">Терминал</name>
+  <name lang="be@latin">Terminał</name>
+  <name lang="be">Тэрмінал</name>
+  <name lang="az">Terminal</name>
+  <name lang="ast">Terminal</name>
+  <name lang="as">টাৰ্মিনেল</name>
+  <name lang="ar">الطرفية</name>
+  <name lang="an">Terminal</name>
+  <name lang="am">ተርሚናል</name>
+  <summary>Use the command line</summary>
+  <summary lang="zh_TW">使用命令列</summary>
+  <summary lang="zh_HK">使用命令列</summary>
+  <summary lang="zh_CN">使用命令行</summary>
+  <summary lang="wa">Eployî l' roye di comande</summary>
+  <summary lang="vi">Dùng dòng lệnh</summary>
+  <summary lang="uk">Командний рядок</summary>
+  <summary lang="ug">بۇيرۇق قۇرىنى ئىشلەت</summary>
+  <summary lang="tr">Komut satırını kullan</summary>
+  <summary lang="th">สั่งการด้วยบรรทัดคำสั่ง</summary>
+  <summary lang="tg">Истифодаи хати фармон</summary>
+  <summary lang="te">ఆదేశ లైనును ఉపయోగించండి</summary>
+  <summary lang="ta">கட்டளை வரியை பயன்படுத்து</summary>
+  <summary lang="sv">Använd kommandoraden</summary>
+  <summary lang="sr@latin">Koristite liniju naredbi</summary>
+  <summary lang="sr">Користите линију наредби</summary>
+  <summary lang="sq">Përdor rreshtin e komandës</summary>
+  <summary lang="sl">Uporabi ukazno vrstico</summary>
+  <summary lang="sk">Umožňuje používať príkazový riadok</summary>
+  <summary lang="ru">Использовать командную строку</summary>
+  <summary lang="ro">Folosește linia de comandă</summary>
+  <summary lang="pt_BR">Use a linha de comando</summary>
+  <summary lang="pt">Utilizar a linha de comando</summary>
+  <summary lang="ps">بولۍ ليکه کارول</summary>
+  <summary lang="pl">Wiersz poleceń</summary>
+  <summary lang="pa">ਕਮਾਂਡ ਲਾਇਨ ਵਰਤੋਂ</summary>
+  <summary lang="or">ନିର୍ଦ୍ଦେଶ ଧାରାକୁ ବ୍ୟବହାର କରନ୍ତୁ</summary>
+  <summary lang="oc">Utilizar la linha de comanda</summary>
+  <summary lang="nn">Bruk kommandolinja</summary>
+  <summary lang="nl">Gebruik de opdrachtregel</summary>
+  <summary lang="ne">आदेश रेखा प्रयोग गर्नुहोस्</summary>
+  <summary lang="nds">De Orderreeg bruken</summary>
+  <summary lang="nb">Bruk kommandolinjen</summary>
+  <summary lang="ms">Guna baris perintah</summary>
+  <summary lang="mr">आदेश पंक्ती वापरा</summary>
+  <summary lang="mn">Тушаалын мөр хэрэглэ</summary>
+  <summary lang="ml">കമാന്‍ഡ് ലൈന്‍ ഉപയോഗിക്കുക</summary>
+  <summary lang="mk">Користи ја командната линија</summary>
+  <summary lang="mjw">Command line kirim</summary>
+  <summary lang="mg">Hampiasa ny lazam-baiko</summary>
+  <summary lang="mai">कमांड लाइन क' प्रयोग करू</summary>
+  <summary lang="lv">Izmantot komandrindu</summary>
+  <summary lang="lt">Naudoti komandų eilutę</summary>
+  <summary lang="ku">Rêzika fermanan bikar bîne</summary>
+  <summary lang="ko">명령 행을 사용합니다</summary>
+  <summary lang="kn">ಆಜ್ಞಾ ಸಾಲನ್ನು ಬಳಸು</summary>
+  <summary lang="km">ប្រើបន្ទាត់ពាក្យបញ្ជា</summary>
+  <summary lang="kk">Командалық жолды қолдану</summary>
+  <summary lang="ka">ბრზანების ხაზის გამოყენება</summary>
+  <summary lang="ja">コマンドライン端末です</summary>
+  <summary lang="it">Usa la riga di comando</summary>
+  <summary lang="is">Nota skipanalínu</summary>
+  <summary lang="id">Menggunakan baris perintah</summary>
+  <summary lang="hu">Parancssor használata</summary>
+  <summary lang="hr">Koristite naredbeni redak</summary>
+  <summary lang="hi">कमांड लाइन का प्रयोग करें</summary>
+  <summary lang="he">שימוש בשורת הפקודה</summary>
+  <summary lang="gu">આદેશ વાક્ય વાપરો</summary>
+  <summary lang="gl">Usar a liña de ordes</summary>
+  <summary lang="gd">Cleachd an loidhne-àithne</summary>
+  <summary lang="ga">Bain úsáid as líne na n-orduithe</summary>
+  <summary lang="fur">Dopre la rie di comant</summary>
+  <summary lang="fr">Utiliser la ligne de commande</summary>
+  <summary lang="fi">Käytä komentoriviä</summary>
+  <summary lang="fa">استفاده از خط فرمان</summary>
+  <summary lang="eu">Erabili komando-lerroa</summary>
+  <summary lang="et">Käsurea kasutamine</summary>
+  <summary lang="es">Use la línea de comandos</summary>
+  <summary lang="eo">Uzi la komandolinion</summary>
+  <summary lang="en@shaw">𐑿𐑕 𐑞 𐑒𐑩𐑥𐑭𐑯𐑛 𐑤𐑲𐑯</summary>
+  <summary lang="en_GB">Use the command line</summary>
+  <summary lang="en_CA">Use the command line</summary>
+  <summary lang="el">Χρησιμοποιήστε τη γραμμή εντολών</summary>
+  <summary lang="dz">བཀོད་ལམ་ལག་ལེན་འཐབ།</summary>
+  <summary lang="de">Befehlszeile verwenden</summary>
+  <summary lang="da">Brug kommandolinjen</summary>
+  <summary lang="cy">Defnyddio'r llinell orchymyn</summary>
+  <summary lang="cs">Používejte příkazový řádek</summary>
+  <summary lang="ca@valencia">Obriu la línia d'ordes</summary>
+  <summary lang="ca">Obriu la línia d'ordres</summary>
+  <summary lang="bs">Koristi komandnu liniju</summary>
+  <summary lang="br">Arverañ al linenn arc'had</summary>
+  <summary lang="bn_IN">কমান্ড লাইন ব্যবহার করুন</summary>
+  <summary lang="bn">কমান্ড লাইন ব্যবহার করুন</summary>
+  <summary lang="bg">Използване на команден ред</summary>
+  <summary lang="be@latin">Užyj zahadny radok</summary>
+  <summary lang="be">Загадны радок</summary>
+  <summary lang="ast">Usar llinia de comandos</summary>
+  <summary lang="as">কমান্ড শাৰী ব্যৱহাৰ কৰক</summary>
+  <summary lang="ar">استعمل سطر الأوامر</summary>
+  <summary lang="an">Emplega la linia de comandos</summary>
+  <description>
+    <p>GNOME Terminal is a terminal emulator application for accessing a UNIX shell environment which can be used to run programs available on your system.</p>
+    <p>It supports several profiles, multiple tabs and implements several keyboard shortcuts.</p>
+  </description>
+  <description lang="an">
+    <p>GNOME Terminal ye una aplicación d'emulación d'a terminal ta accedir a l'entorno de shell d'UNIX, que se puede usar ta executar programas disponibles en o suyo equipo.</p>
+    <p>Suporta quantos perfils, quantas pestanyas y implementa quantos alcorces de teclau.</p>
+  </description>
+  <description lang="ar">
+    <p>طرفية جنوم هو محاكي طرفية للوصول إلى بيئة صدفة يونكس و التي يمكن استخدامها لتشغيل البرامج الموجودة على نظامك.</p>
+    <p>يدعم تشكيلات مختلفة، و الألسنة و العديد من اختصارات لوحة المفاتيح.</p>
+  </description>
+  <description lang="as">
+    <p>GNOME টাৰ্মিনেল এটা UNIX শ্বেল পৰিৱেশ অভিগম কৰিবলে এটা টাৰ্মিনেল ইমুলেটৰ এপ্লিকেচন যাক আপোনাৰ চিস্টেমত উপলব্ধ প্ৰগ্ৰামসমূহ চলাবলে ব্যৱহাৰ কৰিব পাৰি।</p>
+    <p>ই কেইবাটাও আলেখ্য, একাধিক টেবসমূহ সমৰ্থন কৰে আৰু কেইবাটাও কি'বৰ্ড চৰ্টকাট প্ৰণয়ন কৰে।</p>
+  </description>
+  <description lang="be">
+    <p>Тэрмінал GNOME з'яўляецца праграмай для доступу да абалонкі UNIX, прыдатнай для запуску праграм, усталяваных у вашай сістэме.</p>
+    <p>Ён падтрымлівае розныя профілі, тэрміналы ў картках і разнастайныя клавіятурныя скароты.</p>
+  </description>
+  <description lang="bg">
+    <p>Терминалът на GNOME е емулатор на традиционен терминал и дава достъп до обвивките на UNIX, от които могат да се стартират програмите на вашия компютър.</p>
+    <p>Програмата поддържа профили, множество подпрозорци и клавишни комбинации.</p>
+  </description>
+  <description lang="bn_IN">
+    <p>GNOME টার্মিন্যাল হল একটি UNIX সেল এনভায়রনমেন্ট অ্যাক্সেস করার একটি টার্মিন্যাল ইমিউলেটর অ্যাপ্লিকেশন যা আপনার সিস্টেমে উপলব্ধ প্রোগ্রামগুলি চালাতে ব্যবহার করা যেতে পারে।</p>
+    <p>এটি একাধিক প্রোফাইল, একাধিক ট্যাব সমর্থন করে, এবং একাধিক কীবোর্ড শর্টকাট বাস্তবায়িত করে।</p>
+  </description>
+  <description lang="bs">
+    <p>GNOME Terminal je imitator terminalne aplikacije za pristup UNIX shell oktuženje koje mogu biti korištene za pokretanje programa dostupne na sistemu.</p>
+    <p>Podržava nekoliko profila, više kartica i implementira nekoliko tipkovnih prečica.</p>
+  </description>
+  <description lang="ca">
+    <p>El Terminal del GNOME és una aplicació d'emulació de terminal per a accedir a un intèrpret d'ordres UNIX que es pot utilitzar per a executar programes del sistema.</p>
+    <p>Permet l'ús de diferents perfils, múltiples pestanyes i a més implementa diferents dreceres de teclat.</p>
+  </description>
+  <description lang="ca@valencia">
+    <p>El Terminal del GNOME és una aplicació d'emulació de terminal per accedir a un intèrpret d'ordes UNIX que es pot utilitzar per executar programes del sistema.</p>
+    <p>Permet l'ús de diferents perfils, múltiples pestanyes i a més implementa diferents dreceres de teclat.</p>
+  </description>
+  <description lang="cs">
+    <p>Terminál GNOME je aplikace emulující terminál pro přístup k prostředí UNIXového shellu a v něm umožňuje spouštět programy dostupné ve vašem systému.</p>
+    <p>Podporuje více profilů, více terminálů v kartách a řadu klávesových zkratek.</p>
+  </description>
+  <description lang="da">
+    <p>GNOME Terminal er et terminalemulatorprogram som giver adgang til et UNIX-skalmiljø, som kan bruges til at køre programmer som findes på dit system.</p>
+    <p>Det understøtter flere profiler, flere faneblade og implementerer adskillige tastaturgenveje.</p>
+  </description>
+  <description lang="de">
+    <p>GNOME Terminal ist ein Terminal-Emulator für den Zugang zu einer UNIX Shell-Umgebung, die u.a. dazu verwendet werden kann, um auf Ihrem System verfügbare Programme zu starten.</p>
+    <p>Es unterstützt mehrere Profile, verschiedene Reiter und bietet einige Tastenkombinationen.</p>
+  </description>
+  <description lang="el">
+    <p>Το Τερματικό του GNOME είναι μια εφαρμογή εξομοιωτή τερματικού για την πρόσβαση σε ένα περιβάλλον κελύφους UNIX που μπορεί να χρησιμοποιηθεί για την εκτέλεση των διαθέσιμων προγραμμάτων στο σύστημά σας.</p>
+    <p>Υποστηρίζει διάφορα προφίλ, πολλαπλές καρτέλες και υλοποιεί διάφορες συντομεύσεις πληκτρολογίου.</p>
+  </description>
+  <description lang="en_GB">
+    <p>GNOME Terminal is a terminal emulator application for accessing a UNIX shell environment which can be used to run programs available on your system.</p>
+    <p>It supports several profiles, multiple tabs and implements several keyboard shortcuts.</p>
+  </description>
+  <description lang="eo">
+    <p>GNOME Terminalo estas terminalimitilo por aliri Uniks-ŝela medio, kiun oni povas uzi por ruli programojn disponeblajn por via sistemo.</p>
+    <p>Ĝi subtenas plurajn profilojn, multajn langetojn kaj povas uzi kelkajn klavkombinojn.</p>
+  </description>
+  <description lang="es">
+    <p>GNOME Terminal es una aplicación de emulación de la terminal para acceder al entorno de shell de UNIX, que se puede usar para ejecutar programas disponibles en su equipo.</p>
+    <p>Soporta varios perfiles, varias pestañas e implementa varios atajos de teclado.</p>
+  </description>
+  <description lang="eu">
+    <p>GNOMEren Terminala terminal bat emulatzen duen aplikazio bat da UNIXeko shell-aren ingurunea atzitzeko. Sistemako aplikazioak exekutatzeko erabil daiteke.</p>
+    <p>Hainbat profil eta fitxa onartzen ditu, horrez gain hainbat laster-tekla ditu.</p>
+  </description>
+  <description lang="fa">
+    <p>پایانهٔ گنوم یک برنامهٔ شبیه‌ساز پایانه برای دسترسی به یک محیط پوستهٔ یونیکس بوده که می‌تواند برای اجرای برنامه‌های موجود روی سامانه‌تان استفاده شود.</p>
+    <p>از نمایه‌ها، زبانه‌های چندگانه و میان‌برهای صفحه کلید مختلف پشتیبانی می‌کند.</p>
+  </description>
+  <description lang="fi">
+    <p>Gnomen pääte on pääte-emulointisovellus UNIX shell -ympäristöön, jonka avulla on mahdollista suorittaa järjestelmän eri ohjelmia.</p>
+    <p>Se tukee useita profiileja, lukuisia välilehtiä ja sisältää paljon eri pikanäppäimiä.</p>
+  </description>
+  <description lang="fr">
+    <p>L’application Terminal de GNOME est un émulateur de terminal pour accéder à l’environnement du shell d’UNIX et qui permet d’exécuter des programmes présents dans votre système.</p>
+    <p>Elle prend en charge plusieurs profils, de nombreux onglets et met en place plusieurs raccourcis clavier.</p>
+  </description>
+  <description lang="fur">
+    <p>Il terminâl di GNOME al è un emuladôr di terminâl par acedi al ambient shell UNIX. Tu puedis doprâlu par eseguî programs disponibii tal propri sisteme.</p>
+    <p>Al supuarte plui profîi, schedis multiplis e al implemente une vore di scurtis vie tastiere.</p>
+  </description>
+  <description lang="gd">
+    <p>’S e aplacaid aithrisiche tèirmineil a th’ ann an Tèirmineal GNOME gus àrainneachd slige UNIX inntrigeadh a ghabhas cleachdadh gus prògraman a ruith a tha ri am faighinn air an t-siostam agad.</p>
+    <p>Cuiridh e taic ri iomadh pròifil, taba ’s ath-ghoiridean meur-chlàir.</p>
+  </description>
+  <description lang="gl">
+    <p>Terminal de GNOME é unha aplicación de emulación de terminal para acceder a ambientes de consola UNIX que pode usar para executar as aplicacións dispoñíbeis no seu sistema.</p>
+    <p>Permite usar varios perfiles, varias lapelas e implementa varios atallos de teclado.</p>
+  </description>
+  <description lang="gu">
+    <p>તે ઘણી રૂપરેખા, ઘણાં ટૅબને આધાર આપે છે અને ઘણાં કિબોર્ડ ટૂંકાણોનું અમલીકરણ કરે છે.</p>
+  </description>
+  <description lang="he">
+    <p>מסוף GNOME הוא יישום הדמיית מסוף עבור גישת מעטפת סביבת UNIX אשר יכול לשמש להרצת תכניות הזמינות במערכת שלך.</p>
+    <p>הוא תומך במספר פרופילים, ריבוי לשוניות ומיישם כמה קיצורי מקשים.</p>
+  </description>
+  <description lang="hr">
+    <p>GNOME Terminal je aplikacija terminalnog emulatora za pristup okruženju UNIX ljuske koja se može koristiti za pokretanje programa dostupnim na vašem sustavu.</p>
+    <p>Podržava nekoliko profila, višestruke kartice i implementira nekoliko prečaca tipkovnice.</p>
+  </description>
+  <description lang="hu">
+    <p>A GNOME Terminál egy terminál emulációs alkalmazás, mely hozzáférést nyújt az UNIX shell környezethez. A shell környezetben futtathatja az Ön rendszerén elérhető programokat.</p>
+    <p>A GNOME Terminál támogatja több profil és több lap használatát, és számos billentyűkombinációt tartalmaz.</p>
+  </description>
+  <description lang="id">
+    <p>GNOME Terminal adalah aplikasi emulator terminal untuk mengakses lingkungan shell UNIX yang dapat dipakai untuk menjalankan program yang tersedia pada sistem Anda.</p>
+    <p>Ini mendukung beberapa profil, tab berganda, dan mengimplementasi beberapa pintasan papan tik.</p>
+  </description>
+  <description lang="is">
+    <p>GNOME-Skjáhermir (Terminal) er útstöðvarhermir sem gefur aðgang að UNIX-skeljarumhverfi, þar sem hægt er að keyra þau forrit sem tiltæk eru á kerfinu.</p>
+  </description>
+  <description lang="it">
+    <p>Il terminale di GNOME è un emulatore di terminale per accedere all'ambiente shell UNIX che può essere usato per eseguire programmi disponibili nel proprio sistema .</p>
+    <p>Supporta molteplici profili, schede multiple e implementa molte scorciatoie da tastiera.</p>
+  </description>
+  <description lang="ja">
+    <p>GNOME 端末は UNIX シェル環境にアクセスするための端末エミュレーターです。お使いのシステムで利用可能なプログラムを実行することができます。</p>
+    <p>複数プロファイルやマルチタブ表示をサポートし、さらに各種キーボードショートカットが利用できます。</p>
+  </description>
+  <description lang="kk">
+    <p>GNOME терминалы - бұл UNIX қоршамы ортасына қатынауға арналған терминал эмуляторы қолданбасы, оның көмегімен жүйеңізде қолжетерлік бағдарламаларды жөнелтуге болады.</p>
+    <p>Ол бірнеше профильді, бетті және пернетақта жарлықтарын қолдайды.</p>
+  </description>
+  <description lang="km">
+    <p>ស្ថានីយ GNOME គឺជាស្ថានីយកម្មវិធីនិម្មិតសម្រាប់ចូលដំណើរការបរិស្ថាន UNIX សែល ដែលអាចត្រូវបានប្រើដើម្បីដំណើរការកម្មវិធីដែលមាននៅលើប្រព័ន្ធរបស់អ្នក។</p>
+    <p>វាគាំទ្រទម្រង់ច្រើន ផ្ទាំងច្រើន និងអនុវត្តគ្រាប់ចុចផ្លូវកាត់ជាច្រើនផងដែរ។</p>
+  </description>
+  <description lang="kn">
+    <p>GNOME ಟರ್ಮಿನಲ್‌ ಎನ್ನುವುದು ಒಂದು UNIX ಶೆಲ್‌ ಪರಿಸರವನ್ನು ನಿಲುಕಿಸಿಕೊಳ್ಳಲು ಬಳಸಲಾಗುವ ಒಂದು ಎಮ್ಯುಲೇಟರ್ ಅನ್ವಯವಾಗಿದ್ದು, ಇದನ್ನು ನಿಮ್ಮ ವ್ಯವಸ್ಥೆಯಲ್ಲಿ ಲಭ್ಯವಿರುವ ಪ್ರೊಗ್ರಾಮ್‌ಗಳನ್ನು ಚಲಾಯಿಸಲು ಬಳಸಲಾಗುತ್ತದೆ.</p>
+    <p>ಇದು ಹಲವಾರು ಪ್ರೊಫೈಲ್‌ಗಳನ್ನು, ಅನೇಕ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಬೆಂಬಲಿಸುತ್ತದೆ ಮತ್ತು ಹಲವಾರು ಕೀಲಿಮಣೆ ಸಮೀಪಮಾರ್ಗಗಳನ್ನು ಅಳವಡಿಸುತ್ತದೆ.</p>
+  </description>
+  <description lang="ko">
+    <p>그놈 터미널은 터미널 에뮬레이터 프로그램입니다. 터미널 에뮬레이터는 유닉스 셸 환경을 사용해 컴퓨터의 프로그램을 실행하는데 사용합니다.</p>
+    <p>여러가지 프로파일, 탭 모드를 지원하고, 여러가지 키보드 바로 가기가 있습니다.</p>
+  </description>
+  <description lang="lt">
+    <p>GNOME terminas yra terminalo emuliatorius UNIX apvalkalo aplinkai pasiekti, kurį galima naudoti jūsų sistemos programų vykdymui.</p>
+    <p>Jis palaiko kelis profilius, daug kortelių ir turi daug klaviatūros trumpinių.</p>
+  </description>
+  <description lang="lv">
+    <p>GNOME terminālis ir termināļa emulācijas lietotne, lai piekļūtu UNIX čaulas videi, ko var izmantot, lai palaist sistēmā pieejamās programmas.</p>
+    <p>Tas atbalsta vairākus profilus, cilnes un dažas tastatūras saīsnes.</p>
+  </description>
+  <description lang="ml">
+    <p>ഗ്നോം ടെര്‍മിനല്‍ എന്നത് സിസ്റ്റത്തില്‍ ലഭ്യമായ പ്രോഗ്രാമുകള്‍ പ്രവര്‍ത്തിപ്പിക്കാനായി യുണിക്സ് ഷെല്‍ പരിസ്ഥിതി ലഭ്യമാക്കാന്‍ കഴിയുന്ന ഒരു ടെര്‍മിനല്‍ എമുലേറ്റര്‍ ആപ്ലിക്കേഷനാണ്.</p>
+    <p>ഇത് വിവിധ പ്രൊഫൈലുകളെ പിന്‍തുണയ്ക്കുന്നു, ഒന്നിലധികം ടാബുകള്‍, അനേകം കീബോര്‍ഡ് കുറുക്കുവഴികള്‍ ലഭ്യമാക്കുന്നു.</p>
+  </description>
+  <description lang="mr">
+    <p>GNOME टर्मिनल हे UNIX शेल वातावरणच्या प्रवेशकरिता एक टर्मिनल एम्युलेटर ॲप्लिकेशन आहे ज्याचा वापर प्रणालीवरील प्रोग्राम्स चालवण्याकरिता होतो.</p>
+    <p>ते विविध प्रोफाइल्स, बहु टॅब्जकरिता समर्थन पुरवते आणि अनेक कळफलक शॉर्टकट्स लागू करते.</p>
+  </description>
+  <description lang="ms">
+    <p>GNOME Terminal adalah aplikasi pelagak terminal untuk mencapai persekitaran shell UNIX yang boleh digunakan untuk menjalankan program yang tersedia dalam sistem Anda.</p>
+    <p>Ia menyokong beberapa profil, tab berbilang, dan melaksanakan beberapa pintasan papan kekunci.</p>
+  </description>
+  <description lang="nb">
+    <p>GNOME terminal er en terminalemulator. Den gir tilgang til UNIX-skallmiljøer, som kan brukes til å kjøre programmer på systemet.</p>
+    <p>Den støtter flere profiler, flere faner og tilbyr mange tastatursnarveier.</p>
+  </description>
+  <description lang="ne">
+    <p>जिनोम टर्मिनल युनिक्स शेल परिवेशमा पहुँच प्राप्त गर्नका लागि टर्मिनल इमुलेटर अनुप्रयोग हो जुन तपाईँको प्रणालीमा उपलब्ध कार्यक्रम चलाउन प्रयोग गर्न सकिन्छ ।.</p>
+    <p>यसले धेरै प्रोफाइल, बहुविध ट्याबहरू समर्थन गर्दछ र धेरै कुञ्जीपाटी सर्टकटहरू कार्यान्वयन गर्दछ ।</p>
+  </description>
+  <description lang="nl">
+    <p>Gnome Terminal is een terminal-emulator die toegang geeft tot een Unix-shellomgeving waarin programma’s uitgevoerd kunnen worden die op uw systeem beschikbaar zijn.</p>
+    <p>Het ondersteunt verschillende profielen, meerdere tabbladen en tal van sneltoetsen.</p>
+  </description>
+  <description lang="oc">
+    <p>L'aplicacion Terminal de GNOME es un emulator de terminal per accedir a l'environament del shell d'UNIX e que permet d'executar de programas presents dins vòstre sistèma.</p>
+    <p>Pren en carga mantun perfil, d'onglets nombroses e met en plaça mantun acorchi de clavièr.</p>
+  </description>
+  <description lang="pa">
+    <p>ਗਨੋਮ ਟਰਮੀਨਲ ਇੱਕ ਟਰਮੀਨਲ ਸਮਰੂਪ ਐਪਲੀਕੇਸ਼ਨ ਹੈ, ਜੋ ਕਿ ਯੂਨੈਕਸ ਸੈੱਲ ਇੰਵਾਇਰਨਮੈਂਟ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ
+ਹੈ, ਜਿਸ ਨੂੰ ਤੁਹਾਡੇ ਸਿਸਟਮ ਉੱਤੇ ਉਪਲੱਬਧ ਪ੍ਰੋਗਰਾਮ ਨੂੰ ਚਲਾਉਣ ਲਈ ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ।</p>
+    <p>ਇਹ ਕਈ ਪ੍ਰੋਫਾਇਲਾਂ, ਕਈ ਟੈਬਾਂ ਲਈ ਸਹਾਇਕ ਹੈ ਅਤੇ ਕਈ ਕੀਬੋਰਡ ਸ਼ਾਰਟਕੱਟ ਰੱਖਦਾ ਹੈ।</p>
+  </description>
+  <description lang="pl">
+    <p>Terminal środowiska GNOME to emulator terminala dający dostęp do powłoki systemu UNIX, umożliwiając wykonywanie programów zainstalowanych na komputerze.</p>
+    <p>Obsługuje on profile, karty i wiele skrótów klawiszowych.</p>
+  </description>
+  <description lang="pt">
+    <p>Terminal GNOME é uma aplicação emuladora de terminal para aceder ao ambiente de linha de comandos UNIX que pode ser utilizado para executar aplicações disponíveis no seu sistema.</p>
+    <p>Suporta vários perfis, múltiplos separadores e implementa várias teclas de atalho.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>O GNOME Terminal é um aplicativo emulador de terminal usado para acessar um ambiente de shell de UNIX e que pode ser usado para executar programas disponíveis no seu sistema.</p>
+    <p>Possui suporte a vários perfis, abas múltiplas e implementa vários atalhos de teclado.</p>
+  </description>
+  <description lang="ro">
+    <p>Terminal GNOME este o aplicație emulator de terminal pentru a accesa mediul UNIX shell care poate fi folosit pentru a rula programe disponibile pe sistemul dumneavoastră.</p>
+    <p>Suportă diferite profile, taburi multiple și implementează diferite scurtături de tastatură.</p>
+  </description>
+  <description lang="ru">
+    <p>Терминал GNOME — это эмулятор терминала для работы со средой оболочки UNIX. Терминал можно использовать для запуска программ, доступных в вашей системе.</p>
+    <p>Терминал GNOME поддерживает работу с профилями, создание вкладок вкладок, комбинации клавиш.</p>
+  </description>
+  <description lang="sk">
+    <p>Terminál prostredia GNOME je emulátor terminálovej aplikácie na prístup k UNIXovému prostrediu shellu, ktorý môže byť použitý na spúšťanie programov dostupných v systéme.</p>
+    <p>Podporuje používanie profilov, otváranie kariet a implementuje niekoľko klávesových skratiek.</p>
+  </description>
+  <description lang="sl">
+    <p>Program Terminal GNOME je program, ki omogoča dostop do okolja lupine UNIX in omogoča zaganjanje programov, dostopnih preko sistema.</p>
+    <p>Podpira uporabo več profilov, več zavihkov in različnih tipkovnih bližnjic.</p>
+  </description>
+  <description lang="sr">
+    <p>Гномов терминал је опонашавач терминала за приступ конзолном окружењу ЈУНИКСА који може бити коришћен за покретање програма који су доступнни на вашем систему.</p>
+    <p>Подржава неколико профила, отварање више језичака и примену неколико пречица тастатуре.</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Gnomov terminal je oponašavač terminala za pristup konzolnom okruženju JUNIKSA koji može biti korišćen za pokretanje programa koji su dostupnni na vašem sistemu.</p>
+    <p>Podržava nekoliko profila, otvaranje više jezičaka i primenu nekoliko prečica tastature.</p>
+  </description>
+  <description lang="sv">
+    <p>GNOME Terminal är en terminalemulator som gör det möjligt att använda en UNIX-skalmiljö vilken kan användas för att köra program tillgängliga på ditt system.</p>
+    <p>Den stödjer multipla profiler, flera flikar och implementerar flertalet tangentbordsgenvägar.</p>
+  </description>
+  <description lang="ta">
+    <p>GNOME முனையம் என்பது உங்கள் கணினியில் இருக்கும் நிரல்களை இயக்கப் பயன்படுகின்ற UNIX ஷெல் ஒன்றை அணுகுவதற்கான முனைய உருவாக்கப் பயன்பாடு.</p>
+    <p>இது பல தனியமைப்புகளையும் பல கீற்றுகளையும் ஆதரிக்கிறது. பல விசைப்பலகைக் குறுக்குவழிகளும் உள்ளது.</p>
+  </description>
+  <description lang="te">
+    <p>గ్నోమ్ టెర్మినల్ అనునది టెర్మినల్ ఎమ్యులేటర్ ఇది ఉపయోగించి యునిక్స్ షెల్ ఎన్విరాన్మెంట్ ఏక్సెస్ చేయవద్దు అది మీ వ్యవస్థ నందలి ప్రోగ్రామ్లను నడుపుటకు ఉపయోగించవచ్చు.</p>
+    <p>ఇది చాలా ప్రొఫైళ్ళతు తోడ్పాటునిచ్చును, పలు టాబ్లు మరియు చాలా కీబోర్డ్ లఘువులను ఇంప్లిమెంట్ చేయును.</p>
+  </description>
+  <description lang="tg">
+    <p>Терминали GNOME- ин барномаи тақлидгари терминал барои кушодани муҳити восити UNIX мебошад ва метавонад барои иҷро кардани барномаҳои системаи шумо истифода шавад.</p>
+    <p>Он якчанд профил ва якчанд варақаҳоро дастгирӣ мекунад, ва баъзе миёнбурҳои клавиатураро истифода мебарад.</p>
+  </description>
+  <description lang="th">
+    <p>เทอร์มินัล GNOME เป็นโปรแกรมจำลองเทอร์มินัลสำหรับเข้าใช้สภาพแวดล้อมเชลล์ยูนิกซ์ ซึ่งสามารถใช้เรียกทำงานโปรแกรมต่างๆ ที่มีอยู่ในระบบของคุณได้</p>
+    <p>รองรับโพรไฟล์หลายชนิด การใช้หลายแท็บ และมีปุ่มลัดแป้นพิมพ์ให้ใช้มากมาย</p>
+  </description>
+  <description lang="tr">
+    <p>GNOME Uçbirimi, sisteminizde bulunan programları çalıştırmakta kullanabileceğiniz UNIX kabuğu ortamına erişmek için bir uçbirim öykünücüsü uygulamasıdır.</p>
+    <p>Birçok profili, çoklu sekmeyi destekler ve türlü klavye kısayolları kullanmayı sağlar.</p>
+  </description>
+  <description lang="uk">
+    <p>GNOME Terminal — програма для емулювання термінала, щоб доступитись до оболонки UNIX, яку можна використати для запускання програм, що доступні на вашій системі.</p>
+    <p>Підтримуються кілька профілів, кілька вкладок і різні клавіатурні скорочення.</p>
+  </description>
+  <description lang="vi">
+    <p>Thiết bị cuối GNOME là ứng dụng mô phỏng thiết bị cuối để truy cập môi trường hệ vỏ UNIX cái mà có thể dùng để chạy các chương trình sẵn có trên hệ thống của bạn.</p>
+    <p>Nó hỗ trợ nhiều hồ sơ, đa thẻ và thực hiện nhiều phím tắt.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>GNOME 终端 是一个访问 UNIX shell 环境的终端模拟器应用，可用来运行您系统上的程序。</p>
+    <p>它支持多个配置文件，多标签页，支持多个键盘快捷键。</p>
+  </description>
+  <description lang="zh_HK">
+    <p>GNOME Terminal 是用來存取 UNIX shell 環境的終端機模擬程式，可以用來執行你系統上可用的程式。</p>
+    <p>它支援多種設定組合、多重分頁與實作許多快捷鍵。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>GNOME 終端機是用來存取 UNIX 外表殼 (shell) 環境的終端機模擬程式，可以用來執行您系統上可用的程式。</p>
+    <p>它支援多種設定檔、多重分頁與實作許多快捷鍵。</p>
+  </description>
+  <recommends>
+    <control>console</control>
+    <control lang="zh_CN">控制台</control>
+    <control lang="uk">консоль</control>
+    <control lang="tr">konsol</control>
+    <control lang="sv">console</control>
+    <control lang="sr">конзола</control>
+    <control lang="sl">konzola</control>
+    <control lang="ru">консоль</control>
+    <control lang="ro">consolă</control>
+    <control lang="pt_BR">console</control>
+    <control lang="pt">consola</control>
+    <control lang="pl">console</control>
+    <control lang="oc">consòla</control>
+    <control lang="nl">console</control>
+    <control lang="ne">कन्सोल</control>
+    <control lang="nb">konsoll</control>
+    <control lang="lv">konsole</control>
+    <control lang="lt">konsolė</control>
+    <control lang="ko">console</control>
+    <control lang="kk">консоль</control>
+    <control lang="id">konsol</control>
+    <control lang="hu">konzol</control>
+    <control lang="hr">konzola</control>
+    <control lang="he">מסוף</control>
+    <control lang="gl">consola</control>
+    <control lang="fur">console</control>
+    <control lang="fr">console</control>
+    <control lang="fi">konsoli</control>
+    <control lang="fa">پیشانه</control>
+    <control lang="eu">kontsola</control>
+    <control lang="es">consola</control>
+    <control lang="en_GB">console</control>
+    <control lang="el">κονσόλα</control>
+    <control lang="de">Konsole</control>
+    <control lang="da">konsol</control>
+    <control lang="ca">consola</control>
+    <control lang="bg">конзола</control>
+    <control>keyboard</control>
+    <control lang="zh_CN">键盘</control>
+    <control lang="uk">клавіатура</control>
+    <control lang="tr">klavye</control>
+    <control lang="sv">keyboard</control>
+    <control lang="sr">тастатура</control>
+    <control lang="sl">tipkovnica</control>
+    <control lang="ru">клавиатура</control>
+    <control lang="ro">tastatură</control>
+    <control lang="pt_BR">teclado</control>
+    <control lang="pt">teclado</control>
+    <control lang="pl">keyboard</control>
+    <control lang="oc">clavièr</control>
+    <control lang="nl">toetsenbord</control>
+    <control lang="ne">कुञ्जीपाटी</control>
+    <control lang="nb">tastatur</control>
+    <control lang="lv">tastatūra</control>
+    <control lang="lt">klaviatūra</control>
+    <control lang="ko">keyboard</control>
+    <control lang="kk">пернетақта</control>
+    <control lang="id">papan tik</control>
+    <control lang="hu">billentyűzet</control>
+    <control lang="hr">tipkovnica</control>
+    <control lang="he">מקלדת</control>
+    <control lang="gl">teclado</control>
+    <control lang="fur">tastiere</control>
+    <control lang="fr">clavier</control>
+    <control lang="fi">näppäimistö</control>
+    <control lang="fa">صفحه‌کلید</control>
+    <control lang="eu">teklatua</control>
+    <control lang="es">teclado</control>
+    <control lang="en_GB">keyboard</control>
+    <control lang="el">πληκτρολόγιο</control>
+    <control lang="de">Tastatur</control>
+    <control lang="da">tastatur</control>
+    <control lang="ca">teclat</control>
+    <control lang="bg">клавиатура</control>
+    <control>pointing</control>
+    <control lang="zh_CN">指针设备</control>
+    <control lang="uk">зазначення</control>
+    <control lang="tr">imleme</control>
+    <control lang="sv">pointing</control>
+    <control lang="sr">показивање</control>
+    <control lang="sl">kazalnik</control>
+    <control lang="ru">указатель</control>
+    <control lang="ro">cursor</control>
+    <control lang="pt_BR">apontamento</control>
+    <control lang="pt">apontando</control>
+    <control lang="pl">pointing</control>
+    <control lang="oc">menant a</control>
+    <control lang="nl">aanwijzen</control>
+    <control lang="ne">सङ्केत गर्दै</control>
+    <control lang="nb">peker</control>
+    <control lang="lv">norāda</control>
+    <control lang="lt">rodymas</control>
+    <control lang="ko">pointing</control>
+    <control lang="kk">сілтеу</control>
+    <control lang="id">menunjuk</control>
+    <control lang="hu">mutatás</control>
+    <control lang="hr">usmjeravanje</control>
+    <control lang="he">הצבעה</control>
+    <control lang="gl">apuntado</control>
+    <control lang="fur">pontadôr</control>
+    <control lang="fr">pointage</control>
+    <control lang="fi">osoittaminen</control>
+    <control lang="fa">اشاره کردن</control>
+    <control lang="eu">hona zuzentzen du</control>
+    <control lang="es">puntero</control>
+    <control lang="en_GB">pointing</control>
+    <control lang="el">κατεύθυνση</control>
+    <control lang="de">pointing</control>
+    <control lang="da">pegemarkør</control>
+    <control lang="ca">apuntador</control>
+    <control lang="bg">мишка</control>
+  </recommends>
+  <screenshots>
+    <screenshot type="default">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="zh_TW">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="zh_CN">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="vi">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="uk">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="tr">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="sv">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="sr">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="sl">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="sk">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="ru">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="ro">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="pt_BR">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="pt">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="pl">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="oc">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="nl">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="ne">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="nb">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="lv">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="lt">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="ko">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="kk">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="ja">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="it">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="id">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="hu">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="hr">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="he">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="gl">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="fur">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="fr">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png.fr</screenshot>
+    <screenshot lang="fi">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="fa">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="eu">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="es">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="eo">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="en_GB">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="el">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="de">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="da">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="cs">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="ca">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="bn_IN">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+    <screenshot lang="bg">https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png</screenshot>
+  </screenshots>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo lang="zh_TW">高解析圖示</kudo>
+    <kudo lang="zh_CN">HiDpiIcon</kudo>
+    <kudo lang="vi">HiDpiIcon</kudo>
+    <kudo lang="uk">HiDpiIcon</kudo>
+    <kudo lang="tr">HiDpiIcon</kudo>
+    <kudo lang="sv">HiDpiIcon</kudo>
+    <kudo lang="sr">HiDpiIcon</kudo>
+    <kudo lang="sl">HiDpiIcon</kudo>
+    <kudo lang="sk">HiDpiIcon</kudo>
+    <kudo lang="ru">HiDpiIcon</kudo>
+    <kudo lang="ro">HiDpiIcon</kudo>
+    <kudo lang="pt_BR">HiDpiIcon</kudo>
+    <kudo lang="pt">ÍconeHiDpi</kudo>
+    <kudo lang="pl">HiDpiIcon</kudo>
+    <kudo lang="oc">HiDpiIcon</kudo>
+    <kudo lang="nl">HiDpiIcon</kudo>
+    <kudo lang="ne">HiDpiIcon</kudo>
+    <kudo lang="nb">HiDpiIcon</kudo>
+    <kudo lang="mjw">HiDpiIcon</kudo>
+    <kudo lang="lv">HiDpiIcon</kudo>
+    <kudo lang="lt">HiDpiIcon</kudo>
+    <kudo lang="ko">HiDpiIcon</kudo>
+    <kudo lang="kk">HiDpiIcon</kudo>
+    <kudo lang="kab">HiDpiIcon</kudo>
+    <kudo lang="ja">HiDpiIcon</kudo>
+    <kudo lang="it">HiDpiIcon</kudo>
+    <kudo lang="id">HiDpiIcon</kudo>
+    <kudo lang="hu">HiDpiIcon</kudo>
+    <kudo lang="hr">Ikone visoke dpi razlučivosti</kudo>
+    <kudo lang="he">HiDpiIcon</kudo>
+    <kudo lang="gl">HiDpiIcon</kudo>
+    <kudo lang="fur">HiDpiIcon</kudo>
+    <kudo lang="fr">HiDpiIcon</kudo>
+    <kudo lang="fi">HiDpiIcon</kudo>
+    <kudo lang="fa">HiDpiIcon</kudo>
+    <kudo lang="eu">HiDpiIcon</kudo>
+    <kudo lang="es">HiDpiIcon</kudo>
+    <kudo lang="en_GB">HiDpiIcon</kudo>
+    <kudo lang="el">Εικονίδιο HiDpi</kudo>
+    <kudo lang="de">HiDpiIcon</kudo>
+    <kudo lang="da">HiDpiIkon</kudo>
+    <kudo lang="ca">HiDpiIcon</kudo>
+    <kudo lang="bn_IN">HiDpiIcon</kudo>
+    <kudo lang="bg">HiDpiIcon</kudo>
+    <kudo>HighContrast</kudo>
+    <kudo lang="zh_TW">高對比</kudo>
+    <kudo lang="zh_CN">HighContrast</kudo>
+    <kudo lang="vi">HighContrast</kudo>
+    <kudo lang="uk">HighContrast</kudo>
+    <kudo lang="tr">HighContrast</kudo>
+    <kudo lang="sv">HighContrast</kudo>
+    <kudo lang="sr">HighContrast</kudo>
+    <kudo lang="sl">Visok kontrast</kudo>
+    <kudo lang="sk">HighContrast</kudo>
+    <kudo lang="ru">HighContrast</kudo>
+    <kudo lang="ro">Contrast ridicat</kudo>
+    <kudo lang="pt_BR">HighContrast</kudo>
+    <kudo lang="pt">AltoContraste</kudo>
+    <kudo lang="pl">HighContrast</kudo>
+    <kudo lang="oc">HighContrast</kudo>
+    <kudo lang="nl">HighContrast</kudo>
+    <kudo lang="ne">उच्च व्यतिरेक</kudo>
+    <kudo lang="nb">HighContrast</kudo>
+    <kudo lang="mjw">HighContrast</kudo>
+    <kudo lang="lv">HighContrast</kudo>
+    <kudo lang="lt">HighContrast</kudo>
+    <kudo lang="ko">HighContrast</kudo>
+    <kudo lang="kk">HighContrast</kudo>
+    <kudo lang="ja">HighContrast</kudo>
+    <kudo lang="it">HighContrast</kudo>
+    <kudo lang="id">HighContrast</kudo>
+    <kudo lang="hu">HighContrast</kudo>
+    <kudo lang="hr">Visok kontrast</kudo>
+    <kudo lang="he">HighContrast</kudo>
+    <kudo lang="gl">HighContrast</kudo>
+    <kudo lang="fur">HighContrast</kudo>
+    <kudo lang="fr">HighContrast</kudo>
+    <kudo lang="fi">HighContrast</kudo>
+    <kudo lang="fa">HighContrast</kudo>
+    <kudo lang="eu">HighContrast</kudo>
+    <kudo lang="es">HighContrast</kudo>
+    <kudo lang="eo">Altkontrasto</kudo>
+    <kudo lang="en_GB">HighContrast</kudo>
+    <kudo lang="el">Υψηλή αντίθεση</kudo>
+    <kudo lang="de">HighContrast</kudo>
+    <kudo lang="da">StorKontrast</kudo>
+    <kudo lang="ca">HighContrast</kudo>
+    <kudo lang="bn_IN">HighContrast</kudo>
+    <kudo lang="bg">HighContrast</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo lang="zh_TW">現代工具箱</kudo>
+    <kudo lang="zh_CN">ModernToolkit</kudo>
+    <kudo lang="vi">ModernToolkit</kudo>
+    <kudo lang="uk">ModernToolkit</kudo>
+    <kudo lang="tr">ModernToolkit</kudo>
+    <kudo lang="sv">ModernToolkit</kudo>
+    <kudo lang="sr">ModernToolkit</kudo>
+    <kudo lang="sl">Orodja Modern</kudo>
+    <kudo lang="sk">ModernToolkit</kudo>
+    <kudo lang="ru">ModernToolkit</kudo>
+    <kudo lang="ro">ModernToolkit</kudo>
+    <kudo lang="pt_BR">ModernToolkit</kudo>
+    <kudo lang="pt">ToolkitModerno</kudo>
+    <kudo lang="pl">ModernToolkit</kudo>
+    <kudo lang="oc">ModernToolkit</kudo>
+    <kudo lang="nl">ModernToolkit</kudo>
+    <kudo lang="ne">आधुनिक टुलकिट</kudo>
+    <kudo lang="nb">ModernToolkit</kudo>
+    <kudo lang="mjw">ModernToolkit</kudo>
+    <kudo lang="lv">ModernToolkit</kudo>
+    <kudo lang="lt">ModernToolkit</kudo>
+    <kudo lang="ko">ModernToolkit</kudo>
+    <kudo lang="kk">ModernToolkit</kudo>
+    <kudo lang="ja">ModernToolkit</kudo>
+    <kudo lang="it">ModernToolkit</kudo>
+    <kudo lang="id">ModernToolkit</kudo>
+    <kudo lang="hu">ModernToolkit</kudo>
+    <kudo lang="hr">Moderan komplet alata</kudo>
+    <kudo lang="he">ModernToolkit</kudo>
+    <kudo lang="gl">ModernToolkit</kudo>
+    <kudo lang="fur">ModernToolkit</kudo>
+    <kudo lang="fr">ModernToolkit</kudo>
+    <kudo lang="fi">ModernToolkit</kudo>
+    <kudo lang="fa">ModernToolkit</kudo>
+    <kudo lang="eu">ModernToolkit</kudo>
+    <kudo lang="es">ModernToolkit</kudo>
+    <kudo lang="en_GB">ModernToolkit</kudo>
+    <kudo lang="el">Σύγχρονη εργαλειοθήκη</kudo>
+    <kudo lang="de">ModernToolkit</kudo>
+    <kudo lang="da">ModernToolkit</kudo>
+    <kudo lang="ca">ModernToolkit</kudo>
+    <kudo lang="bn_IN">ModernToolkit</kudo>
+    <kudo lang="bg">ModernToolkit</kudo>
+    <kudo>SearchProvider</kudo>
+    <kudo lang="zh_TW">搜尋提供者</kudo>
+    <kudo lang="zh_CN">SearchProvider</kudo>
+    <kudo lang="vi">SearchProvider</kudo>
+    <kudo lang="uk">SearchProvider</kudo>
+    <kudo lang="tr">SearchProvider</kudo>
+    <kudo lang="sv">SearchProvider</kudo>
+    <kudo lang="sr">SearchProvider</kudo>
+    <kudo lang="sl">Iskanje ponudnika</kudo>
+    <kudo lang="sk">SearchProvider</kudo>
+    <kudo lang="ru">SearchProvider</kudo>
+    <kudo lang="ro">Furnizor de căutări</kudo>
+    <kudo lang="pt_BR">SearchProvider</kudo>
+    <kudo lang="pt">FornecedorPesquisa</kudo>
+    <kudo lang="pl">SearchProvider</kudo>
+    <kudo lang="oc">SearchProvider</kudo>
+    <kudo lang="nl">SearchProvider</kudo>
+    <kudo lang="ne">खोजप्रदायक</kudo>
+    <kudo lang="nb">SearchProvider</kudo>
+    <kudo lang="lv">SearchProvider</kudo>
+    <kudo lang="lt">SearchProvider</kudo>
+    <kudo lang="ko">SearchProvider</kudo>
+    <kudo lang="kk">SearchProvider</kudo>
+    <kudo lang="ja">SearchProvider</kudo>
+    <kudo lang="it">SearchProvider</kudo>
+    <kudo lang="id">SearchProvider</kudo>
+    <kudo lang="hu">SearchProvider</kudo>
+    <kudo lang="hr">Pružatelj usluge pretrage</kudo>
+    <kudo lang="he">SearchProvider</kudo>
+    <kudo lang="gl">SearchProvider</kudo>
+    <kudo lang="fur">SearchProvider</kudo>
+    <kudo lang="fr">SearchProvider</kudo>
+    <kudo lang="fa">SearchProvider</kudo>
+    <kudo lang="eu">SearchProvider</kudo>
+    <kudo lang="es">SearchProvider</kudo>
+    <kudo lang="eo">Serĉprovizanto</kudo>
+    <kudo lang="en_GB">SearchProvider</kudo>
+    <kudo lang="el">Πάροχος αναζήτησης</kudo>
+    <kudo lang="de">SearchProvider</kudo>
+    <kudo lang="da">Søgeleverandør</kudo>
+    <kudo lang="ca">SearchProvider</kudo>
+    <kudo lang="bn_IN">অনুসন্ধানপ্রভাইডার</kudo>
+    <kudo lang="bg">SearchProvider</kudo>
+    <kudo>UserDocs</kudo>
+    <kudo lang="zh_TW">使用者文件</kudo>
+    <kudo lang="zh_CN">UserDocs</kudo>
+    <kudo lang="vi">UserDocs</kudo>
+    <kudo lang="uk">UserDocs</kudo>
+    <kudo lang="tr">UserDocs</kudo>
+    <kudo lang="sv">UserDocs</kudo>
+    <kudo lang="sr">UserDocs</kudo>
+    <kudo lang="sl">Uporabniška dokumentacija</kudo>
+    <kudo lang="sk">UserDocs</kudo>
+    <kudo lang="ru">UserDocs</kudo>
+    <kudo lang="ro">UserDocs</kudo>
+    <kudo lang="pt_BR">UserDocs</kudo>
+    <kudo lang="pt">DocumentosUtilizador</kudo>
+    <kudo lang="pl">UserDocs</kudo>
+    <kudo lang="oc">UserDocs</kudo>
+    <kudo lang="nl">UserDocs</kudo>
+    <kudo lang="ne">UserDocs</kudo>
+    <kudo lang="nb">UserDocs</kudo>
+    <kudo lang="mjw">UserDocs</kudo>
+    <kudo lang="lv">UserDocs</kudo>
+    <kudo lang="lt">UserDocs</kudo>
+    <kudo lang="ko">UserDocs</kudo>
+    <kudo lang="kk">UserDocs</kudo>
+    <kudo lang="ja">UserDocs</kudo>
+    <kudo lang="it">UserDocs</kudo>
+    <kudo lang="id">UserDocs</kudo>
+    <kudo lang="hu">UserDocs</kudo>
+    <kudo lang="hr">Korisnička dokumentacija</kudo>
+    <kudo lang="he">UserDocs</kudo>
+    <kudo lang="gl">UserDocs</kudo>
+    <kudo lang="fur">UserDocs</kudo>
+    <kudo lang="fr">UserDocs</kudo>
+    <kudo lang="fi">UserDocs</kudo>
+    <kudo lang="fa">UserDocs</kudo>
+    <kudo lang="eu">UserDocs</kudo>
+    <kudo lang="es">UserDocs</kudo>
+    <kudo lang="eo">Uzantodokumentaro</kudo>
+    <kudo lang="en_GB">UserDocs</kudo>
+    <kudo lang="el">Έγγραφα χρήστη</kudo>
+    <kudo lang="de">UserDocs</kudo>
+    <kudo lang="da">UserDocs</kudo>
+    <kudo lang="ca">UserDocs</kudo>
+    <kudo lang="bn_IN">UserDocs</kudo>
+    <kudo lang="bg">UserDocs</kudo>
+  </kudos>
+  <url type="homepage">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="zh_TW">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="zh_CN">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="vi">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="uk">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="tr">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="sv">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="sr">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="sl">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="sk">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="ru">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="ro">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="pt_BR">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="pt">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="pl">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="oc">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="nl">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="ne">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="nb">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="mjw">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="lv">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="lt">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="ko">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="kk">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="ja">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="it">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="id">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="hu">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="hr">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="he">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="gl">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="fur">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="fr">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="fi">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="fa">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="eu">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="es">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="eo">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="en_GB">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="el">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="de">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="da">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="cs">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="ca">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="bn_IN">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="bg">https://wiki.gnome.org/Apps/Terminal</url>
+  <project_group>GNOME</project_group>
+  <project_group lang="zh_TW">GNOME</project_group>
+  <project_group lang="zh_CN">GNOME</project_group>
+  <project_group lang="vi">GNOME</project_group>
+  <project_group lang="uk">GNOME</project_group>
+  <project_group lang="tr">GNOME</project_group>
+  <project_group lang="sv">GNOME</project_group>
+  <project_group lang="sr">Гном</project_group>
+  <project_group lang="sl">GNOME</project_group>
+  <project_group lang="sk">GNOME</project_group>
+  <project_group lang="ru">GNOME</project_group>
+  <project_group lang="ro">GNOME</project_group>
+  <project_group lang="pt_BR">GNOME</project_group>
+  <project_group lang="pt">GNOME</project_group>
+  <project_group lang="pl">GNOME</project_group>
+  <project_group lang="oc">GNOME</project_group>
+  <project_group lang="nl">Gnome</project_group>
+  <project_group lang="ne">जिनोम</project_group>
+  <project_group lang="nb">GNOME</project_group>
+  <project_group lang="mjw">GNOME</project_group>
+  <project_group lang="lv">GNOME</project_group>
+  <project_group lang="lt">GNOME</project_group>
+  <project_group lang="ko">GNOME</project_group>
+  <project_group lang="kk">GNOME</project_group>
+  <project_group lang="kab">GNOME</project_group>
+  <project_group lang="ja">GNOME</project_group>
+  <project_group lang="it">GNOME</project_group>
+  <project_group lang="id">GNOME</project_group>
+  <project_group lang="hu">GNOME</project_group>
+  <project_group lang="hr">GNOME</project_group>
+  <project_group lang="he">GNOME</project_group>
+  <project_group lang="gl">GNOME</project_group>
+  <project_group lang="fur">GNOME</project_group>
+  <project_group lang="fr">GNOME</project_group>
+  <project_group lang="fi">GNOME</project_group>
+  <project_group lang="fa">گنوم</project_group>
+  <project_group lang="eu">GNOME</project_group>
+  <project_group lang="es">GNOME</project_group>
+  <project_group lang="eo">GNOME</project_group>
+  <project_group lang="en_GB">GNOME</project_group>
+  <project_group lang="el">GNOME</project_group>
+  <project_group lang="de">GNOME</project_group>
+  <project_group lang="da">GNOME</project_group>
+  <project_group lang="cs">GNOME</project_group>
+  <project_group lang="ca">GNOME</project_group>
+  <project_group lang="bn_IN">GNOME</project_group>
+  <project_group lang="bg">GNOME</project_group>
+  <update_contact>https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="zh_TW">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="zh_CN">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="vi">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="uk">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="tr">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="sv">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="sr">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="sl">https://wiki.gnome.org/Apps/Aisleriot</update_contact>
+  <update_contact lang="sk">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="ru">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="ro">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="pt_BR">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="pt">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="pl">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="oc">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="nl">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="ne">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="nb">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="mjw">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="lv">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="lt">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="ko">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="kk">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="ja">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="it">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="id">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="hu">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="hr">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="he">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="gl">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="fur">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="fr">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="fi">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="fa">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="eu">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="es">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="eo">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="en_GB">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="el">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="de">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="da">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="cs">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="ca">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="bn_IN">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="bg">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+</component>

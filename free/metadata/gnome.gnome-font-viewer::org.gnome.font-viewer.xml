@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>gnome.gnome-font-viewer</pkgname>
+  <launchable type="desktop-id">org.gnome.font-viewer.desktop</launchable>
+  <icon height="64" width="64" type="cached">org.gnome.font-viewer.png</icon>
+  <icon type="cached" height="128" width="128">org.gnome.font-viewer.png</icon>
+  <id>org.gnome.font-viewer.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Fonts</name>
+  <name lang="zh_TW">字型</name>
+  <name lang="zh_CN">字体</name>
+  <name lang="vi">Xem phông chữ</name>
+  <name lang="uk">Шрифти</name>
+  <name lang="tr">Yazı Tipleri</name>
+  <name lang="sv">Typsnitt</name>
+  <name lang="sr@latin">Fontovi</name>
+  <name lang="sr">Фонтови</name>
+  <name lang="sl">Pisave</name>
+  <name lang="sk">Písma</name>
+  <name lang="ru">Шрифты</name>
+  <name lang="ro">Fonturi</name>
+  <name lang="pt_BR">Fontes</name>
+  <name lang="pt">Fontes</name>
+  <name lang="pl">Czcionki</name>
+  <name lang="pa">ਫ਼ੋਂਟ</name>
+  <name lang="oc">Poliças</name>
+  <name lang="nl">Lettertypen</name>
+  <name lang="ne">फन्टहरू</name>
+  <name lang="nb">Skrifter</name>
+  <name lang="ms">Fon</name>
+  <name lang="ml">അക്ഷരസഞ്ചയങ്ങൾ</name>
+  <name lang="lv">Fonti</name>
+  <name lang="lt">Šriftai</name>
+  <name lang="ko">글꼴</name>
+  <name lang="kk">Қаріптер</name>
+  <name lang="ja">フォント</name>
+  <name lang="it">Caratteri</name>
+  <name lang="is">Letur</name>
+  <name lang="id">Fonta</name>
+  <name lang="hu">Betűkészletek</name>
+  <name lang="hr">Slova</name>
+  <name lang="he">גופנים</name>
+  <name lang="gl">Tipos de letra</name>
+  <name lang="gd">Cruthan-clò</name>
+  <name lang="fur">Caratars</name>
+  <name lang="fr">Polices</name>
+  <name lang="fi">Fontit</name>
+  <name lang="fa">قلم‌ها</name>
+  <name lang="eu">Letra-tipoak</name>
+  <name lang="es">Tipografías</name>
+  <name lang="eo">Tiparoj</name>
+  <name lang="en_GB">Fonts</name>
+  <name lang="el">Γραμματοσειρές</name>
+  <name lang="de">Schriften</name>
+  <name lang="da">Skrifttyper</name>
+  <name lang="cs">Fonty</name>
+  <name lang="ckb">جۆرەپیت</name>
+  <name lang="ca@valencia">Tipus de lletra</name>
+  <name lang="ca">Tipus de lletra</name>
+  <name lang="bg">Шрифтове</name>
+  <name lang="be">Шрыфты</name>
+  <name lang="ar">الخطوط</name>
+  <summary>View fonts on your system</summary>
+  <summary lang="zh_TW">檢視您系統上的字型</summary>
+  <summary lang="zh_HK">檢視你系統上的字型</summary>
+  <summary lang="zh_CN">查看您系统中的字体</summary>
+  <summary lang="vi">Ứng dụng xem phông chữ trên hệ thống của bạn</summary>
+  <summary lang="uz@cyrillic">Системадаги шрифтларни кўриш</summary>
+  <summary lang="uk">Переглянути шрифти на вашій системі</summary>
+  <summary lang="ug">بۇ سىستېمىدىكى خەت نۇسخىلىرىنى كۆرۈش پروگراممىسىدۇر</summary>
+  <summary lang="tr">Sisteminizdeki yazı tiplerini görüntüleyin</summary>
+  <summary lang="th">ดูแบบอักษรต่างๆ ในระบบของคุณ</summary>
+  <summary lang="tg">Намоиш додани шрифтҳои системаи шумо</summary>
+  <summary lang="te">మీ వ్యవస్థలో ఉన్న ఖతులను చూడండి</summary>
+  <summary lang="ta">எழுத்துருக்களை கணினியில் பார்க்கவும்</summary>
+  <summary lang="sv">Visa typsnitt på ditt system</summary>
+  <summary lang="sr@latin">Pregledajte pisma na vašem sistemu</summary>
+  <summary lang="sr">Прегледајте писма на вашем систему</summary>
+  <summary lang="sl">Pregledovalnik sistemskih pisav</summary>
+  <summary lang="sk">Zobrazuje písma vo vašom systéme</summary>
+  <summary lang="ru">Просмотр шрифтов, доступных в системе</summary>
+  <summary lang="ro">Vizualizați fonturile instalate pe sistemul dumneavoastră</summary>
+  <summary lang="pt_BR">Veja fontes no seu sistema</summary>
+  <summary lang="pt">Ver as fontes existentes no sistema</summary>
+  <summary lang="pl">Wyświetlanie czcionek w systemie</summary>
+  <summary lang="pa">ਆਪਣੇ ਸਿਸਟਮ ਉੱਤੇ ਫੋਂਟ ਵੇਖੋ</summary>
+  <summary lang="or">ଆପଣଙ୍କ ତନ୍ତ୍ରରେ ଅକ୍ଷରରୂପଗୁଡ଼ିକୁ ଦେଖନ୍ତୁ</summary>
+  <summary lang="oc">Visualizar las poliças de vòstre sistèma</summary>
+  <summary lang="nl">Lettertypen op uw systeem bekijken</summary>
+  <summary lang="ne">प्रणालीको फन्ट हेर्नुहोस्</summary>
+  <summary lang="nb">Vis skrifter på systemet</summary>
+  <summary lang="ms">Lihat fon dalam sistem anda</summary>
+  <summary lang="mr">प्रणालीवरील फाँट्स्चे दृष्य</summary>
+  <summary lang="ml">നിങ്ങളുടെ സിസ്റ്റത്തില്‍ അക്ഷരസഞ്ചയങ്ങള്‍ കാണുക</summary>
+  <summary lang="lv">Pārlūkojiet un apskatiet savas sistēmas fontus</summary>
+  <summary lang="lt">Rodyti sistemos šriftus</summary>
+  <summary lang="ky">Системада орнотулган алиптерди кароо</summary>
+  <summary lang="ko">시스템에 설치된 글꼴을 봅니다</summary>
+  <summary lang="kn">ನಿಮ್ಮ ವ್ಯವಸ್ಥೆಯಲ್ಲಿನ ಅಕ್ಷರಶೈಲಿಗಳನ್ನು ನೋಡಿ</summary>
+  <summary lang="kk">Жүйеңіздегі қаріптерді қарау</summary>
+  <summary lang="ja">システム上のフォントを閲覧します</summary>
+  <summary lang="it">Visualizza i caratteri presenti nel sistema</summary>
+  <summary lang="is">Skoða letur á kerfinu þínu</summary>
+  <summary lang="id">Lihat fonta pada sistem Anda</summary>
+  <summary lang="hu">Telepített betűkészletek megjelenítése</summary>
+  <summary lang="hr">Pregledajte slova na vašem sustavu</summary>
+  <summary lang="hi">अपने तंत्र पर फ़ॉन्ट देखें</summary>
+  <summary lang="he">צפייה בגופנים במערכת שלך</summary>
+  <summary lang="gu">તમારી સિસ્ટમ પર ફોન્ટ જુઓ</summary>
+  <summary lang="gl">Ver os tipos de letra do seu sistema</summary>
+  <summary lang="gd">Seall na cruthan-clò air an t-siostam agad</summary>
+  <summary lang="ga">Amharc ar chlónna do chórais</summary>
+  <summary lang="fur">Viôt i caratars sul to sisteme</summary>
+  <summary lang="fr">Affiche les polices de votre système</summary>
+  <summary lang="fi">Katsele koneellasi olevia fontteja</summary>
+  <summary lang="fa">دیدن قلم‌های روی سامانه‌تان</summary>
+  <summary lang="eu">Ikusi sistemako letra-tipoak</summary>
+  <summary lang="et">Kuva selles arvutis olevaid kirjatüüpe</summary>
+  <summary lang="es">Ver las tipografías de su sistema</summary>
+  <summary lang="eo">Rigardi tiparojn en via sistemo</summary>
+  <summary lang="en_GB">View fonts on your system</summary>
+  <summary lang="el">Δείτε τις γραμματοσειρές του συστήματος σας</summary>
+  <summary lang="de">Schriftarten Ihres Systems betrachten</summary>
+  <summary lang="da">Vis skrifttyper på dit system</summary>
+  <summary lang="cs">Zobrazte si fonty ve svém systému</summary>
+  <summary lang="ckb">جۆرەپیتەکانی ناو سیستمەکەت پیشان بدە</summary>
+  <summary lang="ca@valencia">Visualitza tots els tipus de lletra del sistema</summary>
+  <summary lang="ca">Visualitzeu tots els tipus de lletra del sistema</summary>
+  <summary lang="bs">Pogledaj fontove na sistemu</summary>
+  <summary lang="br">Gwelout an nodrezhoù ho reizhiad</summary>
+  <summary lang="bn_IN">সিস্টেমের মধ্যে উপস্থিত ফন্ট দেখুন</summary>
+  <summary lang="bg">Преглед на шрифтовете</summary>
+  <summary lang="be">Прагляд шрыфтоў у вашай сістэме</summary>
+  <summary lang="as">আপোনাৰ চিস্টেমৰ ফন্টসমূহ দৰ্শন কৰক</summary>
+  <summary lang="ar">اعرض الخطوط على نظامك</summary>
+  <summary lang="an">Veyer as fuents d'o suyo sistema</summary>
+  <summary lang="af">Bekyk fonte op die stelsel</summary>
+  <description>
+    <p>
+      Fonts shows you the fonts installed on your computer for your use as
+      thumbnails.
+      Selecting any thumbnails shows the full view of how the font would look under
+      various sizes.
+    </p>
+    <p>
+      Fonts also supports installing new font files downloaded in the .ttf
+      and other formats.
+      Fonts may be installed only for your use or made available to all users on the computer.
+    </p>
+  </description>
+  <description lang="bg">
+    <p>Шрифтовете на GNOME показват инсталираните шрифтове като миниатюри. Когато ги изберете, ще видите шрифта представен при различни размери.</p>
+    <p>Шрифтовете на GNOME позволяват инсталирането на допълнителни шрифтове в множество формати. Инсталирането може да е за един или за всички потребители.</p>
+  </description>
+  <description lang="ca">
+    <p>El Tipus de lletra us mostra en miniatures les tipografies instal·lades a l'ordinador. En seleccionar una de les miniatures se us mostrarà la vista completa de com es veurà el tipus de lletra en diferents mides.</p>
+    <p>El Tipus de lletra també permet la instal·lació de fitxers de tipus de lletra en format .ttf i d'altres. Els tipus de lletra es poden instal·lar només per al vostre ús o fer-los accessibles per a tots els usuaris de l'ordinador.</p>
+  </description>
+  <description lang="cs">
+    <p>Aplikace Fonty vám zobrazí v podobě náhledů fonty nainstalovaná ve vašem počítači. Po vybrání náhledu uvidíte, jak font vypadá v různých velikostech.</p>
+    <p>Umí také nainstalovat nové fonty poskytnuté ve formátu .ttf a dalších formátech. Fonty je možné instalovat jen pro své použití nebo je zpřístupnit všem uživatelům počítače.</p>
+  </description>
+  <description lang="da">
+    <p>Skrifttyper viser dig de skrifttyper, som er installeret på din computer, som miniaturer. Hvis du vælger en miniature, vises en fuld repræsentation af skrifttypen med forskellige tekststørrelser.</p>
+    <p>Skrifttyper understøtter også installation af nye skrifttypefiler hentet i .ttf og andre formater. Skrifttyper kan installeres til brug for kun dig selv eller gøres tilgængelige for alle brugere af computeren.</p>
+  </description>
+  <description lang="de">
+    <p>Schriften zeigt Ihnen eine Vorschau der Schriftarten, die auf Ihrem Rechner installiert sind. Die Auswahl eines Vorschaubildes zeigt die vollständige Ansicht, wie die Schriftart in verschiedenen Größen aussieht.</p>
+    <p>Schriften unterstützt auch die Installation neuer Schriftartendateien als ».ttf« oder auch in anderen Formaten. Schriftarten können nur zu Ihrer eigenen Verwendung oder für alle Benutzer eines Rechners installiert werden.</p>
+  </description>
+  <description lang="es">
+    <p>Tipografías muestra las tipografías instaladas en el equipo como miniaturas. Al seleccionar cualquiera de ellas se muestra una vista completa de cómo queda la tipografía con varios tamaños.</p>
+    <p>Tipografías también soporta instalar nuevas tipografías descargadas como archivos .ttf u otros formatos. Las tipografías se puede instalar para su uso personal o para que estén disponibles para todos los usuarios del sistema.</p>
+  </description>
+  <description lang="eu">
+    <p>Letra-tipoak izeneko aplikazioak ordenagailuan instalatuta dauden letra-tipoak koadro txikietan erakusten ditu. Edozer koadro-txiki hautatuz letra-tipoa hainbat tamainatan nola ikusiko den bistaratzen du.</p>
+    <p>Letra-tipoak letra-tipoen fitxategi berriak (.ttf edo beste formatuan deskargatuta) instala ditzake. Letra-tipoa zure erabilpenerako soilik instala daiteke, edo ordenagailuko beste erabiltzaile guztientzako baita ere.</p>
+  </description>
+  <description lang="fa">
+    <p>قلم‌ها، قلم‌هایی که روی رایانه‌تان نصب شده را به صورت بندانگشتی نشان‌تان می‌دهد. گزینش هر بندانگشتی، نمای کامل چگونگی دیده شدن قلم در اندازه‌های مختلف را نشان می‌دهد.</p>
+    <p>قلم‌ها همچنین از نصب پرونده‌های قلم جدید بارگیری شده در قالب ttf و دیگر قالب‌ها پشتیبانی می‌کند. قلم‌ها می‌توانند فقط برای استفادهٔ شما نصب شده یا برای تمامی کاربران روی رایانه در دسترس باشند.</p>
+  </description>
+  <description lang="fi">
+    <p>Fontit näyttää järjestelmään asennetut fontit esikatselukuvina. Minkä tahansa esikatselukuvan valitseminen näyttää fontin eri kokoluokissa.</p>
+    <p>Fonttien avulla on myös mahdollista asentaa .ttf-muodossa ja muissa muodoissa olevia fonttitiedostoja. Fontit on mahdollista asentaa vain omaan käyttöön tai kaikkien järjestelmää käyttävien saataville.</p>
+  </description>
+  <description lang="fr">
+    <p>Polices affiche les polices de caractères installées sur votre ordinateur sous la forme de miniatures. En choisissant l’une de celles-ci, vous obtenez une vue complète de la police à différentes tailles.</p>
+    <p>Polices prend également en charge l’installation de nouveaux fichiers de police téléchargés (formats ttf et autres). Les polices peuvent être installées pour vous seul ou rendues disponibles à tous les utilisateurs de l’ordinateur.</p>
+  </description>
+  <description lang="fur">
+    <p>Caratars al mostre ducj i caratars instalâts sul to computer come miniaturis. Selezionant une miniature al ven mostrât cemût che si viôt il caratar tes variis dimensions.</p>
+    <p>Caratars al permet di instalâ gnûfs caratars dai files discjariâts tal formât .ttf e altris formâts. Al è pussibil instalâ i caratars pal ûs personâl o par ducj i utents dal computer.</p>
+  </description>
+  <description lang="gl">
+    <p>Tipos de letra de GNOME móstralle os tipos de letra instalados no seu computador listos para usar como miniaturas. Seleccionando calquera das miniaturas móstrase unha vista completa de como o tipo de letra debería verse con varios tamaños.</p>
+    <p>Tipos de letra de GNOME tamén admite a instalación de novos ficheiros de tipos de letra descargados en .ttf e outros formatos. Os tipos de letra poden instalarse só para o seu usuario ou facelo para todos os usuarios do computador.</p>
+  </description>
+  <description lang="hr">
+    <p>Slova vam prikazuju slova instalirana na vaše računalo, prikazana kao minijature. Odabir bilo koje minijature prikazuje cjelovit prikaz kako slova izgledaju u različitim veličinama.</p>
+    <p>Slova isto tako podržava instalaciju datoteka novih slova preuzetih u .ttf i ostalim formatima. Slova možete instalirati samo za vlastitu upotrebu ili ih možete učiniti dostupnim ostalim korisnicima na računalu.</p>
+  </description>
+  <description lang="hu">
+    <p>A Betűkészletek bélyegképként jeleníti meg a számítógépén telepített betűkészleteket. A bélyegképek kiválasztásakor megjelenik egy teljes nézet, hogy az adott betűkészlet hogyan néz ki különböző méretekben.</p>
+    <p>A Betűkészletek támogatja a .ttf és más formátumú letöltött, új betűkészletfájlok telepítését is. A betűkészletek telepíthetők csak személyes felhasználásra, vagy a számítógép minden felhasználója számára is.</p>
+  </description>
+  <description lang="id">
+    <p>Fonta menampilkan fonta yang terpasang dan dapat dipakai pada komputer Anda sebagai gambar mini. Memilih sebarang gambar mini akan menampilkan tilikan penuh tentang bagaimana fonta akan nampak pada berbagai ukuran.</p>
+    <p>Fonta juga mendukung pemasangan fonta baru yang diunduh dalam .ttf dan format lain. Fonta bisa dipasang hanya untuk Anda pakai atau dibuat tersedia bagi semua pengguna pada komputer.</p>
+  </description>
+  <description lang="is">
+    <p>Leturskoðarinn sýnir þér sem smámyndir það letur sem uppsett er á kerfinu þínu. Ef þú velur einhverja smámyndina geturðu séð hvernig letrið lítur út í mismunandi stærðum.</p>
+    <p>Leturskoðarinn styður einnig að setja inn nýjar leturskrár sem þú hefur náð í á .ttf og fleiri sniðum. Letrið má setja upp fyrir þig einan eða fyrir alla notendur á tölvunni.</p>
+  </description>
+  <description lang="it">
+    <p>Caratteri mostra tutti i caratteri installati sul proprio computer tramite delle miniature degli stessi: selezionando una miniatura vengono mostrate le varie dimensioni del carattere.</p>
+    <p>Caratteri consente di installare nuovi caratteri da file scaricati nel formato .ttf e anche altri formati. I caratteri possono essere installati per uso personale o per tutti gli utenti del computer.</p>
+  </description>
+  <description lang="ja">
+    <p>“フォント”を使用すると、インストール済みのフォントをサムネイルで一覧表示できます。サムネイルを選択して、様々なサイズでフォントがどのように表示されるかを確認することができます。</p>
+    <p>“フォント”は .ttf やその他の形式でダウンロードした新しいフォントファイルのインストールも可能です。フォントを自分専用にインストールすることも、コンピューター上のすべてのユーザーで利用可能にすることもできます。</p>
+  </description>
+  <description lang="kk">
+    <p>Қаріптер қолданбасы компьютеріңізде орнатылған қаріптерді кіші үлгілер ретінде ретінде көрсетеді. Үлгіні таңдау кезінде ол қаріптің толық көрінісі және әр түрлі өлшемдердегі түрі көрсетіледі.</p>
+    <p>Қаріптер қолданбасы сонымен қатар .ttf және басқа пішімдегі жаңа қаріптерді орнатуды қолдайды. Қаріптерді тек өзіңіз немесе компьютердің барлық пайдаланушылары үшін орнатуға болады.</p>
+  </description>
+  <description lang="ko">
+    <p>글꼴은 컴퓨터에 설치된 글꼴을 섬네일로 보여줍니다. 섬네일을 선택하면 크기에 따라 글꼴이 어떻게 보이는지 표시합니다.</p>
+    <p>글꼴은 .ttf나 기타 형식으로 다운로드한 글꼴 파일을 설치할 수도 있습니다. 사용자 본인만 쓸 수 있게 설치할 수도 있고 컴퓨터의 모든 사용자가 사용할 수 있게 설치할 수도 있습니다.</p>
+  </description>
+  <description lang="lt">
+    <p>Šriftai rodo jūsų kompiuteryje įdiegtus šriftus miniatiūrų pavidalu. Pasirinkus bet kurią miniatiūrą parodoma, kaip šriftas atrodytų įvairiais dydžiais.</p>
+    <p>Šriftai taip pat palaiko naujus šriftų failus, parsiųstus .ttf ir kitais formatais. Šriftai gali būti įdiegti jūsų naudojimui arba padaryti prieinamais visiems kompiuterio naudotojams.</p>
+  </description>
+  <description lang="oc">
+    <p>Poliças aficha las poliças de caractèrs installadas sus vòstre ordenador jos la forma de miniaturas. En causissent una d'aquelas, obtenètz una vista completa de la poliça de diferentas talhas.</p>
+    <p>Poliças pren tanben en carga l'installacion de novèls fichièrs de poliça telecargats (formats ttf e autres). Las poliças pòdon èsser installadas per vos sol o rendudas disponiblas a totes los utilizaires de l'ordenador.</p>
+  </description>
+  <description lang="pl">
+    <p>Przeglądarka czcionek wyświetla obecnie zainstalowane czcionki na komputerze w postaci miniatur. Aby zobaczyć, jak dana czcionka prezentuje się w różnych rozmiarach, wystarczy tylko zaznaczyć jej miniaturę.</p>
+    <p>Za pomocą Przeglądarki czcionek można również instalować nowe czcionki z plików w formacie .ttf i wielu innych. Można je zainstalować do własnego użytku lub udostępnić wszystkim użytkownikom komputera.</p>
+  </description>
+  <description lang="pt">
+    <p>O Fontes mostra, como miniaturas, as fontes instaladas para uso no computador. Selecionar qualquer uma das miniaturas mostra em vista completa a aparência da fonte em diversos tamanhos.
+As fontes mostram-lhe as fontes instaladas no seu computador para a sua utilização como miniaturas. A selecção de quaisquer miniaturas mostra a visão completa de como a fonte ficaria sob vários tamanhos.</p>
+    <p>O Fontes também suporta a instalação de novos ficheiros de fontes transferidos em .ttf ou noutros formatos. As fontes podem ser instaladas para seu uso apenas ou tornadas disponíveis para todos os utilizadores do computador.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Fontes mostra as fontes instaladas em seu computador para uso como miniaturas. A seleção de qualquer miniatura mostra a visão completa de como a fonte ficaria em vários tamanhos.</p>
+    <p>Fontes também oferece suporte à instalação de novos arquivos de fontes baixados em .ttf e outros formatos. As fontes podem ser instaladas apenas para seu uso ou disponibilizadas para todos os usuários do computador.</p>
+  </description>
+  <description lang="ru">
+    <p>Приложение «Шрифты» показывает установленные на вашем компьютере шрифты в виде миниатюр. Выбор миниатюры открывает подробный режим просмотра шрифта, как будет выглядеть шрифт при различных размерах.</p>
+    <p>Приложение «Шрифты» также поддерживает установку новых шрифтов из файлов формата .ttf и прочих форматов. Шрифты можно установить для текущего пользователя или для всех пользователей компьютера.</p>
+  </description>
+  <description lang="sk">
+    <p>Písma v podobe miniatúr zobrazujú písma nainštalované v počítači, ktoré je možné použiť. Po vybratí niektorej miniatúry sa zobrazí celistvý náhľad vzhľadu písma v rôznych veľkostiach.</p>
+    <p>Písma tiež podporujú inštalovanie nových písiem z prevzatých súborov vo formáte .ttf a v iných formátoch. Písma môžu byť nainštalované iba pre jedného používateľa alebo všetkých používateľov na počítači.</p>
+  </description>
+  <description lang="sl">
+    <p>Program omogoča prikaz pisav, nameščenih v sistem kot sličice. Z izborom posamezne sličice se pokaže poln prikaz pisave pri različnih velikostih.</p>
+    <p>Program omogoča tudi nameščanje datotek pisav .ttf in drugih zapisov. Namestiti jih je mogoče le za posameznega uporabnika, ali za vse uporabnike naprave.</p>
+  </description>
+  <description lang="sr">
+    <p>Фонтови вам приказују фонтове инсталиране на вашем рачунару за вашу употребу као минијатуре. Бирање неке минијатуре приказује потпун преглед како би фонт требао да изгледау разним величинама.</p>
+    <p>Фонтови такође подржавају инсталирање датотека нових фонтова преузетих у „.ttf“ и другим записима. Фонтови могу бити инсталирани само за вашу употребу или могу бити доступни свим корисницима на рачунару.</p>
+  </description>
+  <description lang="sv">
+    <p>Typsnitt visar dig de för dig tillgängliga installerade typsnitten på din dator som miniatyrbilder. Att välja en miniatyrbild visar en full överblick över hur typsnittet skulle se ut i olika storlekar.</p>
+    <p>Typsnitt stöder också installation av nya typsnittsfiler hämtade i formatet .ttf och andra format. Typsnitt kan installeras endast för dig eller göras tillgängliga för alla användare på datorn.</p>
+  </description>
+  <description lang="tr">
+    <p>Yazı Tipleri, kullanımınız için bilgisayarınızda kurulu yazı tiplerini küçük resim olarak gösterir. Herhangi bir küçük resmi seçmek, yazı tipinin türlü boyutlarda nasıl görüneceğini gösterir.</p>
+    <p>Yazı Tipleri ayrıca .ttf ve diğer biçimlerde indirilen yeni yazı tipi dosyalarının kurulumunu da sağlar. Yazı tipleri yalnızca kendi kullanımınız için kurulabilir ya da bilgisayardaki tüm kullanıcıların kullanımına sunulabilir.</p>
+  </description>
+  <description lang="uk">
+    <p>Програма «Шрифти» показує встановлені шрифти у мініатюрі. Вибирання мініатюр показує, як шрифт виглядає в різних розмірах.</p>
+    <p>У «Шрифтах» також передбачено підтримку встановлення файлів нових шрифтів, які звантажено в «.ttf» або інших форматах. Шрифти можна встановити тільки для себе або для всіх користувачів системи.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>GNOME 字体 以缩略图的形式显示安装在您系统中的字体。选择任意一个缩略图可以完整查看该字体在不同字号下的显示效果。</p>
+    <p>GNOME 字体 还支持安装 .ttf 或其他格式下载的新字体文件。字体可以只为您一人安装使用，亦可为使用此计算机的所有用户安装。</p>
+  </description>
+  <developer_name>The GNOME Project</developer_name>
+  <developer_name lang="zh_TW">GNOME 專案</developer_name>
+  <developer_name lang="zh_CN">GNOME 项目</developer_name>
+  <developer_name lang="uk">Проєкт GNOME</developer_name>
+  <developer_name lang="tr">GNOME Projesi</developer_name>
+  <developer_name lang="sv">GNOME-projektet</developer_name>
+  <developer_name lang="sr">Гномов пројекат</developer_name>
+  <developer_name lang="sl">Projekt GNOME</developer_name>
+  <developer_name lang="sk">Projekt GNOME</developer_name>
+  <developer_name lang="ru">Проект GNOME</developer_name>
+  <developer_name lang="ro">Proiectul GNOME</developer_name>
+  <developer_name lang="pt_BR">O Projeto GNOME</developer_name>
+  <developer_name lang="pt">O Projeto GNOME</developer_name>
+  <developer_name lang="pl">Projekt GNOME</developer_name>
+  <developer_name lang="pa">ਗਨੋਮ ਪਰੋਜੈਕਟ</developer_name>
+  <developer_name lang="oc">Lo projècte GNOME</developer_name>
+  <developer_name lang="nl">Het Gnome-project</developer_name>
+  <developer_name lang="ms">Projek GNOME</developer_name>
+  <developer_name lang="lv">GNOME projekts</developer_name>
+  <developer_name lang="lt">GNOME projektas</developer_name>
+  <developer_name lang="ko">그놈 프로젝트</developer_name>
+  <developer_name lang="kk">GNOME жобасы</developer_name>
+  <developer_name lang="ja">The GNOME Project</developer_name>
+  <developer_name lang="it">Il progetto GNOME</developer_name>
+  <developer_name lang="is">GNOME verkefnið</developer_name>
+  <developer_name lang="id">Proyek GNOME</developer_name>
+  <developer_name lang="hu">A GNOME projekt</developer_name>
+  <developer_name lang="hr">GNOME projekt</developer_name>
+  <developer_name lang="he">מיזם GNOME</developer_name>
+  <developer_name lang="gl">O Proxecto GNOME</developer_name>
+  <developer_name lang="fur">Il progjet GNOME</developer_name>
+  <developer_name lang="fr">Le projet GNOME</developer_name>
+  <developer_name lang="fi">Gnome-projekti</developer_name>
+  <developer_name lang="fa">پروژهٔ گنوم</developer_name>
+  <developer_name lang="eu">GNOME proiektua</developer_name>
+  <developer_name lang="es">El Proyecto GNOME</developer_name>
+  <developer_name lang="en_GB">The GNOME Project</developer_name>
+  <developer_name lang="de">Das GNOME-Projekt</developer_name>
+  <developer_name lang="da">GNOME-projektet</developer_name>
+  <developer_name lang="cs">Projekt GNOME</developer_name>
+  <developer_name lang="ca">El projecte GNOME</developer_name>
+  <developer_name lang="bg">Проектът GNOME</developer_name>
+  <url type="homepage">https://www.gnome.org/</url>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/gnome-font-viewer/issues</url>
+  <url type="donation">https://www.gnome.org/donate/</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://gitlab.gnome.org/GNOME/gnome-font-viewer/raw/HEAD/data/screenshots/fonts-1.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.gnome.org/GNOME/gnome-font-viewer/raw/HEAD/data/screenshots/fonts-2.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>GNOME</project_group>
+  <kudos>
+    <kudo>AppMenu</kudo>
+    <kudo>ModernToolkit</kudo>
+  </kudos>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release version="42.0" date="2022-03-20">
+      <description>
+        <p>Fonts 42.0 comes with a port to GTK4 and the following translation updates:</p>
+        <ul>
+          <li>Basque</li>
+          <li>Bulgarian</li>
+          <li>Catalan</li>
+          <li>Chinese (China)</li>
+          <li>Croatian</li>
+          <li>Czech</li>
+          <li>Finnish</li>
+          <li>French</li>
+          <li>Friulian</li>
+          <li>Galician</li>
+          <li>Icelandic</li>
+          <li>Indonesian</li>
+          <li>Korean</li>
+          <li>Lithuanian</li>
+          <li>Occitan (post 1500)</li>
+          <li>Persian</li>
+          <li>Polish</li>
+          <li>Portuguese</li>
+          <li>Portuguese (Brazil)</li>
+          <li>Russian</li>
+          <li>Slovak</li>
+          <li>Slovenian</li>
+          <li>Spanish</li>
+          <li>Swedish</li>
+          <li>Turkish</li>
+          <li>Ukrainian</li>
+        </ul>
+      </description>
+    </release>
+    <release version="41.0" date="2021-09-21">
+      <description>
+        <p>Fonts 41 comes with the following translation updates:</p>
+        <ul>
+          <li>Catalan</li>
+          <li>Chinese (China)</li>
+          <li>Friulian</li>
+          <li>Hebrew</li>
+          <li>Occitan</li>
+          <li>Russian</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-03-20" version="40.0">
+      <description>
+        <p>Fonts 40 comes with a slight visual refresh, sporting rounded bottom window corners. In addition there have been general bug fixes and improvements.</p>
+        <ul>
+          <li>The About dialog now provides a link to the repository (jridehalgh)</li>
+          <li>Startup should be faster now that we use font-config's APIs directly (Evan Welsh)</li>
+        </ul>
+        <p>Fonts 40 also comes with the following translation updates:</p>
+        <ul>
+          <li>Basque</li>
+          <li>Catalan</li>
+          <li>Chinese (China)</li>
+          <li>Chinese (Taiwan)</li>
+          <li>Danish</li>
+          <li>Dutch</li>
+          <li>Friulian</li>
+          <li>Galician</li>
+          <li>Greek, Modern (1453-)</li>
+          <li>Japanese</li>
+          <li>Kazakh</li>
+          <li>Kurdish, Central</li>
+          <li>Malay</li>
+          <li>Panjabi</li>
+          <li>Persian</li>
+          <li>Portuguese</li>
+          <li>Portuguese (Brazil)</li>
+          <li>Slovak</li>
+          <li>Ukrainian</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.34.0" date="2019-09-14">
+      <description>
+        <ul>
+          <li>Improve compatibility for fonts with non-unicode charmaps</li>
+          <li>Display an error dialog when installation fails</li>
+          <li>Fix font installation when filenames would collide</li>
+          <li>Fix thumbnailing for font collection files</li>
+          <li>Translation updates</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.32.0" date="2019-03-15">
+      <description>
+        <ul>
+          <li>Update the application icon</li>
+          <li>Improve usability of the Install button</li>
+          <li>Translation updates</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.30.0" date="2018-08-30">
+      <description>
+        <ul>
+          <li>Show more OpenType features</li>
+          <li>Translation updates</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.28.0" date="2018-03-13">
+      <description>
+        <ul>
+          <li>Translation updates</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <translation type="gettext">gnome-font-viewer</translation>
+</component>

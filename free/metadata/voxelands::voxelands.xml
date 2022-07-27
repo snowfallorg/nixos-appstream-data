@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>voxelands</pkgname>
+  <launchable type="desktop-id">voxelands.desktop</launchable>
+  <icon height="64" type="cached" width="64">voxelands.png</icon>
+  <icon width="128" height="128" type="cached">voxelands.png</icon>
+  <id>voxelands.desktop</id>
+  <name>Voxelands</name>
+  <summary>The Fun-Focused Free Software Voxel World Game</summary>
+  <developer_name>Lisa "darkrose" Milne</developer_name>
+  <description>
+    <p>
+        Voxelands is a sandbox construction game based on Minetest, which 
+        was inspired by earlier "voxel world" games such as Infiniminer.
+    </p>
+    <p>
+        Gameplay puts players in a fully destructible 3D game world where 
+        they can place and dig numerous types of blocks, items and creatures 
+        using a variety of tools. Inside the game world players can build 
+        structures, artworks and anything else their creativity can think of
+        on multiplayer servers and singleplayer worlds across multiple game
+        modes.
+    </p>
+  </description>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0 and CC-BY-SA-3.0 and MIT</project_license>
+  <url type="bugtracker">http://forum.voxelands.com/viewforum.php?id=7</url>
+  <url type="donation">https://www.patreon.com/voxelands</url>
+  <url type="faq">http://forum.voxelands.com/viewforum.php?id=6</url>
+  <url type="help">http://forum.voxelands.com/viewforum.php?id=8</url>
+  <url type="homepage">http://www.voxelands.com/</url>
+  <project_group>none</project_group>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Voxelands Character Creator</caption>
+      <image height="891" width="1584">http://www.voxelands.com/images/screenshot1.jpg</image>
+    </screenshot>
+    <screenshot>
+      <image height="891" width="1584">http://www.voxelands.com/images/screenshot2.jpg</image>
+    </screenshot>
+  </screenshots>
+  <updatecontact>darkrose_at_voxelands.com</updatecontact>
+</component>

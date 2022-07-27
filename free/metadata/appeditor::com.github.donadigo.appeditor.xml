@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>
+      Edit application entries shown in application menu and their properties.
+    </p>
+    <p>Features include:</p>
+    <ul>
+      <li>Hide and show applications from the application menu</li>
+      <li>Create new application entries</li>
+      <li>Change application's display name, icon and more</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>Modifiqueu les entrades mostrades al menú d’aplicacions i les seves propietats.</p>
+    <p>Funcionalitats distintives:</p>
+    <ul>
+      <li>Amagueu i mostreu entrades al menú d’aplicacions</li>
+      <li>Creeu-ne de noves</li>
+      <li>Canvieu el nom visible, la icona i molt més per cada aplicació</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>Edite las entradas del menú de aplicaciones y sus propiedades.</p>
+    <p>Algunas de las funcionalidades son:</p>
+    <ul>
+      <li>Ocultar y mostrar entradas del menú de aplicaciones</li>
+      <li>Crear entradas de aplicación nuevas</li>
+      <li>Cambiar el nombre mostrado de una aplicación, su icono y más</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>Modifiez les raccourcis et leurs propriétés dans le menu des applications.</p>
+    <p>Fonctionnalités incluses:</p>
+    <ul>
+      <li>Changer le nom d'une application, son icône, etc</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>Modifica le voci dell'applicazione visualizzate nel menu le relative proprietà.</p>
+    <p>Funzionalità incluse:</p>
+    <ul>
+      <li>Mostra e nascondi le applicazioni nel Menù Applicazioni</li>
+      <li>Crea nuova voce applicazione</li>
+      <li>Cambia il nome visualizzato dell'applicazione, la sua icona ed altro</li>
+    </ul>
+  </description>
+  <description lang="ja">
+    <p>アプリケーションメニューに表示されるアプリケーションのエントリーとプロパティを編集します。</p>
+    <p>含まれる機能:</p>
+    <ul>
+      <li>アプリケーションをアプリケーションメニューから隠したり表示したりします</li>
+      <li>新しいアプリケーションのエントリーを作成します</li>
+      <li>アプリケーションの表示名やアイコンなどを変更します</li>
+    </ul>
+  </description>
+  <description lang="nl_NL">
+    <p>Bewerk menu-items uit het toepassingenmenu, inclusief hun eigenschappen.</p>
+    <p>Het bevat de volgende mogelijkheden:</p>
+    <ul>
+      <li>Toon en verberg items uit het toepassingenmenu</li>
+      <li>Maak nieuwe menu-items</li>
+      <li>Pas de weergavenaam, het pictogram en meer aan</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>Editar entradas de aplicações mostradas no menu das aplicações e as suas propriedades.</p>
+    <p>Características incluídas:</p>
+    <ul>
+      <li>Esconde e mostra aplicações do menu de aplicações</li>
+      <li>Criar novas entradas de aplicações</li>
+      <li>Alterar o nome de exibição da aplicação, ícone e mais</li>
+    </ul>
+  </description>
+  <description lang="ru">
+    <p>Редактирование описания и свойств программ в меню приложений.</p>
+    <p>Доступные возможности:</p>
+    <ul>
+      <li>Скрытие и отображение программ в меню приложений</li>
+      <li>Создание новых записей о приложениях</li>
+      <li>Изменение отображаемого имени приложение, значка и многого другого</li>
+    </ul>
+  </description>
+  <description lang="tr">
+    <p>Uygulama menüsünde gösterilen uygulama girişlerini ve özelliklerini düzenleyin.</p>
+    <p>Özellikler şunlardır:</p>
+    <ul>
+      <li>Uygulama menüsünden uygulamaları gizleme ve gösterme</li>
+      <li>Yeni uygulama girişleri oluşturma</li>
+      <li>Uygulamanın görünen adını, simgesini ve daha fazlasını değiştirin</li>
+    </ul>
+  </description>
+  <pkgname>appeditor</pkgname>
+  <launchable type="desktop-id">com.github.donadigo.appeditor.desktop</launchable>
+  <icon type="cached" height="64" width="64">com.github.donadigo.appeditor.png</icon>
+  <icon width="128" height="128" type="cached">com.github.donadigo.appeditor.png</icon>
+  <id>com.github.donadigo.appeditor.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>AppEditor</name>
+  <name lang="it">AppEditor</name>
+  <name lang="lt">AppEditor</name>
+  <name lang="tr">Menü Düzenleyici</name>
+  <name lang="ru">AppEditor</name>
+  <name lang="pt_BR">AppEditor</name>
+  <name lang="pt">AppEditor</name>
+  <name lang="nl_NL">Toepassingsbewerker</name>
+  <name lang="ja">AppEditor</name>
+  <name lang="fr">AppEditor</name>
+  <name lang="es">AppEditor</name>
+  <name lang="ca">AppEditor</name>
+  <summary>Edit application menu</summary>
+  <summary lang="it">Modifica Menù Applicazione</summary>
+  <summary lang="tr">Uygulama menülerini düzenle</summary>
+  <summary lang="ru">Изменяйте меню приложений</summary>
+  <summary lang="pt">Editar menu da aplicações</summary>
+  <summary lang="nl_NL">Toepassingenmenu bewerken</summary>
+  <summary lang="ja">アプリケーションメニューを編集します</summary>
+  <summary lang="es">Editar el menú de aplicaciones</summary>
+  <summary lang="ca">Modifiqueu el menú d’aplicacions</summary>
+  <provides>
+    <binary>com.github.donadigo.appeditor</binary>
+  </provides>
+  <developer_name>Adam Bieńkowski</developer_name>
+  <developer_name lang="it">Adam Bieńkowski</developer_name>
+  <developer_name lang="tr">Adam Bieńkowski</developer_name>
+  <developer_name lang="ru">Adam Bieńkowski</developer_name>
+  <developer_name lang="pt">Adam Bieńkowski</developer_name>
+  <developer_name lang="nl_NL">Adam Bieńkowski</developer_name>
+  <developer_name lang="ja">Adam Bieńkowski</developer_name>
+  <developer_name lang="fr">Adam Bieńkowski</developer_name>
+  <developer_name lang="es">Adam Bieńkowski</developer_name>
+  <developer_name lang="ca">Adam Bieńkowski</developer_name>
+  <url type="homepage">https://github.com/donadigo/appeditor</url>
+  <url type="bugtracker">https://github.com/donadigo/appeditor/issues</url>
+  <url type="help">https://github.com/donadigo/appeditor</url>
+  <update_contact>donadigos159@gmail.com</update_contact>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/donadigo/appeditor/master/Screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release date="2021-12-18" version="1.1.3">
+      <description>
+        <p>This release updates AppEditor for elementary OS 6.1.</p>
+      </description>
+    </release>
+    <release version="1.1.2" date="2021-12-18">
+      <description>
+        <p>This release makes AppEditor available on elementary OS 6.0.</p>
+        <p>New translations:</p>
+        <ul>
+          <li>Portuguese-Portugal (rottenpants466)</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-04-17" version="1.1.1">
+      <description>
+        <p>This release includes translation updates:</p>
+        <ul>
+          <li>Dutch translation (Heimen Stoffels)</li>
+          <li>Spanish, Catalan translation (Adolfo Jayme-Barrientos)</li>
+          <li>Japanese translation (Ryo Nakano)</li>
+          <li>French translation (Nathan Bonnemains, dabou)</li>
+          <li>Turkish translation (Serdar Sağlam)</li>
+          <li>Russian translation (Camellan)</li>
+          <li>Lithuanian translation (welaq)</li>
+          <li>Italian translation</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.1.0" date="2018-08-11">
+      <description>
+        <p>This release includes added support for elementary OS Juno, miscellaneous improvements and new translations:</p>
+        <ul>
+          <li>German translation (ChristianPauly)</li>
+          <li>Japanese translation (Ryo Nakano)</li>
+          <li>Brazilian Portuguese translation (Filipe de Almeida Garrett)</li>
+        </ul>
+        <p>New features:</p>
+        <ul>
+          <li>It is now possible to create a menu entry directly from the file manager: right click on an executable file and choose "Create a Menu Entry"</li>
+          <li>New shortcuts added:</li>
+          <li>Ctrl+N: Create a new menu entry</li>
+          <li>Ctrl+F: Focus the search entry</li>
+          <li>Ctrl+D: Duplicate selected entry</li>
+        </ul>
+        <p>Fixed:</p>
+        <ul>
+          <li>Some strings are not displayed in translated languages (Ryo Nakano)</li>
+          <li>Improper escaping of special characters in display name and description</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2018-01-15" version="1.0.0">
+      <description>
+        <p>This release contains many new features and bug fixes as well as added support for translations:</p>
+        <ul>
+          <li>French translation (dabou)</li>
+          <li>Russian translation (Cammelan)</li>
+          <li>Spanish translation (Juan Gómez Carrillo)</li>
+        </ul>
+        <p>New features:</p>
+        <ul>
+          <li>Added a button to duplicate a specific application entry</li>
+          <li>New "Advanced" section: add a new "Uses Notitifications" key</li>
+        </ul>
+        <p>Fixed:</p>
+        <ul>
+          <li>Fixed crashes when saving an entry with an equal sign in its command line property</li>
+          <li>Sometimes deleting a local entry would cause it to stay in the sidebar until the next launch</li>
+          <li>Sometimes creating a new entry caused a crash</li>
+          <li>The page would not update after saving the entry</li>
+        </ul>
+        <p>Miscellaneous:</p>
+        <ul>
+          <li>Save unsaved entries when quitting the application</li>
+          <li>Clear the search entry when creating a new application entry</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.9.3" date="2017-08-20">
+      <description>
+        <p>New features:</p>
+        <ul>
+          <li>Added a button to open the entry in a text editor</li>
+          <li>Added a switch to show hidden entries (disabled by default)</li>
+        </ul>
+        <p>Miscellaneous:</p>
+        <ul>
+          <li>Fixed some applications like Inkscape not saving their name properly</li>
+          <li>The main window can be now maximized</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2017-08-15" version="0.9.2">
+      <description>
+        <p>Add meson dependency to debian packaging</p>
+      </description>
+    </release>
+    <release version="0.9.1" date="2017-08-15">
+      <description>
+        <p>Fix debian packaging</p>
+      </description>
+    </release>
+    <release date="2017-08-15" version="0.9.0">
+      <description>
+        <p>Initial release</p>
+      </description>
+    </release>
+  </releases>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="violence-desecration">none</content_attribute>
+    <content_attribute id="violence-slavery">none</content_attribute>
+    <content_attribute id="violence-worship">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="sex-homosexuality">none</content_attribute>
+    <content_attribute id="sex-prostitution">none</content_attribute>
+    <content_attribute id="sex-adultery">none</content_attribute>
+    <content_attribute id="sex-appearance">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+  <custom>
+    <value key="x-appcenter-stripe">pk_live_a5CWlfLgKcxATZoB4vRa50UP006vX7CjBc</value>
+    <value key="x-appcenter-color-primary">#32e3ca</value>
+    <value key="x-appcenter-color-primary-text">#0A332D</value>
+    <value key="x-appcenter-suggested-price">5</value>
+  </custom>
+</component>

@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <description>
+    <p>Capture your screen in a intuitive and straightforward way without distractions.</p>
+    <p>Kooha is a simple screen recorder with a minimalist interface. You can just click the record button without having to configure a bunch of settings.</p>
+    <p>The main features of Kooha include the following:</p>
+    <ul>
+      <li>🎥 Capture your screen without any hassle.</li>
+      <li>🎙️ Record your microphone, computer sounds, or both at the same time.</li>
+      <li>📼 Support for WebM, MP4, GIF, and MKV formats.</li>
+      <li>🗔 Multiple sources selection.</li>
+      <li>🚀 Optional hardware accelerated encoding</li>
+      <li>🖥️ Select a monitor or window to record.</li>
+      <li>🖼️ Create a selection to capture certain area from your screen.</li>
+      <li>⏲️ Set delay to prepare before you start recording.</li>
+      <li>🖱️ Hide or show mouse pointer.</li>
+      <li>💾 Choose a saving location for your recording.</li>
+      <li>⌨️ Utilize helpful keyboard shortcuts.</li>
+    </ul>
+  </description>
+  <description lang="ar">
+    <p>Kooha هو مسجل شاشة بسيط بواجهة بسيطة. يمكنك فقط النقر فوق زر التسجيل دون الحاجة إلى ضبط العديد من الإعدادات.</p>
+    <p>تشمل الميزات الرئيسية ل Kooha ما يلي:</p>
+    <ul>
+      <li>🎥 التقط شاشتك دون أي متاعب.</li>
+      <li>سجل المايكروفون، أصوات الحاسوب، أو كليهما في نفس الوقت.</li>
+      <li>الصيغ المدعومة GIF، MP4، WebM، و MKV.</li>
+      <li>اختيار عدة مصادر.</li>
+      <li>🚀 ترميز مسرَّع بالعتاد اختياريًا</li>
+      <li>🖥️ اختر شاشة أو نافذة لتسجيلها.</li>
+      <li>🖼️ حدد منطقة معيَّنة في شاشتك لتسجيلها.</li>
+      <li>ضبط مهلة زمنية قبل بدء التسجيل.</li>
+      <li>🖱️ إخفاء أو إظهار مؤشر الفأرة.</li>
+      <li>💾 اختر مكان حفظ التسجيل.</li>
+      <li>⌨️ استخدم اختصارات مفيدة في لوحة المفاتيح.</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>Hooha je jednoduchý nahrávač obrazovky s minimalistickým rozhraním. Můžeš ihned začít bez potřeby cokoliv nastavovat.</p>
+    <p>Hlavní funkcionality Hoohy jsou:</p>
+    <ul>
+      <li>🎥 Zaznamenej bez problémů svou obrazovku.</li>
+      <li>🎙️ Nahrávej zvuk z mikrofonu, z pořítače nebo z obojího zároveň.</li>
+      <li>📼 Podpora pro formáty WebM, MP4, GIF a MKV.</li>
+      <li>🚀 Volitelné hardwarově akcelerované kódování</li>
+      <li>🖥️ Vyberte k nahrávání monitor nebo okno.</li>
+      <li>🖼️ Vytvořte výběr, který zachytí určitou oblast z vaší obrazovky.</li>
+      <li>⏲️ Nastav zpoždění aby jsi se připravil před nahráváním.</li>
+      <li>🖱️ Zobraz nebo skryj svou myš.</li>
+      <li>💾 Zvol lokaci pro ukládání nahrávek.</li>
+      <li>⌨️ Využij užitečné klávesové zkratky.</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>Nehmen Sie Ihren Bildschirm auf intuitive und unkomplizierte Weise ohne Ablenkungen auf.</p>
+    <p>Kooha ist ein einfacher Bildschirmrekorder mit einer minimalistischen Oberfläche. Sie können einfach auf die Aufnahmetaste klicken, ohne einen Haufen von Einstellungen konfigurieren zu müssen.</p>
+    <p>Zu den Hauptmerkmalen von Kooha gehören:</p>
+    <ul>
+      <li>🎥 Erfassen Sie Ihren Bildschirm mühelos.</li>
+      <li>🎙️ Nehmen Sie Ihr Mikrofon, Computertöne oder beides gleichzeitig auf.</li>
+      <li>📼 Unterstützung für die Formate WebM, MP4, GIF und MKV.</li>
+      <li>🗔 Auswahl mehrerer Quellen.</li>
+      <li>🚀 Optionale hardwarebeschleunigte Kodierung</li>
+      <li>🖥️ Wähle einen Monitor oder ein Fenster zum Aufzeichnen.</li>
+      <li>🖼️ Erstelle eine Auswahl, um einen bestimmten Bereich auf Ihrem Bildschirm aufzuzeichnen.</li>
+      <li>⏲️ Stellen Sie eine Verzögerung ein, um die Aufnahme vorzubereiten.</li>
+      <li>🖱️ Mauszeiger ein- oder ausblenden.</li>
+      <li>💾 Wählen Sie einen Speicherort für Ihre Aufnahme.</li>
+      <li>⌨️ Nutzen Sie hilfreiche Tastaturkürzel.</li>
+    </ul>
+  </description>
+  <description lang="eo">
+    <p>Kooha estas simpla ekranregistrilo kun minimumista interfaco. Vi povas nur alklaki la registran butonon sen devi agordi multajn reguligojn.</p>
+    <p>La precipaj ebloj de Kooha inkludas la sekvantan:</p>
+    <ul>
+      <li>🎥 Enkaptu vian ekranon sen iu malfacilaĵo.</li>
+      <li>🎙️ Registru vian mikrofonon, komputerajn sonojn, aŭ ambaŭ sinkrone.</li>
+      <li>⏲️ Agordu prokraston por pretigi antaŭ vi ekregistrus.</li>
+      <li>🖱️ Kaŝi aŭ elmontri musan montrilon.</li>
+      <li>💾 Elektu surdiskigan lokon por via registro.</li>
+      <li>⌨️ Uzu helpa klavara kurtvojo.</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>Capture su pantalla de forma intuitiva y directa, sin distracciones.</p>
+    <p>Kooha es un grabador de pantalla simple con una interfaz minimalista. Pulse en el botón grabar sin tener que configurar un centenar de ajustes.</p>
+    <p>Las características principales de Kooha incluyen lo siguiente:</p>
+    <ul>
+      <li>🎥 Grabar su pantalla sin ninguna molestia.</li>
+      <li>🎙️ Grabar su micrófono, los sonidos del sistema, o ambos al mismo tiempo.</li>
+      <li>📼 Soporte para formatos WebM, MP4, GIF, y MKV.</li>
+      <li>🗔 Selección de múltiples fuentes.</li>
+      <li>🚀 Codificación acelerada por hardware opcional</li>
+      <li>🖥️ Seleccionar un monitor o ventana para grabar.</li>
+      <li>🖼️ Crear una selección para capturar una área específica de su pantalla.</li>
+      <li>⏲️ Seleccionar un retardo antes de empezar a grabar.</li>
+      <li>🖱️ Ocultar o mostrar el puntero.</li>
+      <li>💾 Seleccionar una ubicación para su grabación.</li>
+      <li>⌨️ Usar los útiles atajos del teclado.</li>
+    </ul>
+  </description>
+  <description lang="eu">
+    <p>Grabatu zure pantaila modu intuitiboan eta zuzenean distrakziorik gabe.</p>
+    <p>Kooha interfaze minimalista duen pantaila-grabagailu sinple bat da. Nahikoa da grabatzeko botoian klik egitea, doikuntza pila bat konfiguratu behar izan gabe.</p>
+    <p>Kooharen ezaugarri nagusiak hauek dira:</p>
+    <ul>
+      <li>🎥 Kapturatu pantaila arazorik gabe.</li>
+      <li>🎙️ Grabatu zure mikrofonoa, ordenagailuko soinuak edo biak batera.</li>
+      <li>📼 WebM, MP4, GIF eta MKV formatuetarako euskarria.</li>
+      <li>🗔 Hainbat iturrien hautaketa.</li>
+      <li>🚀 Hardware bidezko kodetze azeleratua, aukerakoa</li>
+      <li>🖥️ Grabatzeko monitore edo leiho bat hautatu.</li>
+      <li>🖼️ Jarri aukera bat zure pantailako eremu jakin bat hartzeko.</li>
+      <li>⏲️ Grabatzen hasi aurretik prestatzeko atzerapena ezarri.</li>
+      <li>🖱️ Saguaren erakuslea ezkutatu edo erakutsi.</li>
+      <li>💾 Aukeratu grabazioa gordetzeko kokaleku bat.</li>
+      <li>⌨️ Teklatu-lasterbideak erabili.</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>Kooha on yksinkertainen sovellus, jonka avulla voit nauhoittaa näytölläsi tapahtuvat asiat. Napsauta vain nauhoituspainiketta ja vältä lukuisten asetusten kanssa säätäminen.</p>
+    <p>Koohan keskeisimmät ominaisuudet:</p>
+    <ul>
+      <li>🎥 Nauhoita näyttösi sisältö vaivatta.</li>
+      <li>🎙️ Nauhoita tietokoneen äänet, mikrofonin äänet tai molemmat samanaikaisesti.</li>
+      <li>📼 Tuki WebM-, MP4-, GIF- ja MKV-tiedostomuodoille.</li>
+      <li>🗔 Usein lähteiden valinta.</li>
+      <li>🚀 Valinnainen laitteistokiihdytys videon koodausta varten</li>
+      <li>🖥️ Valitse näyttö tai ikkuna nauhoitettavaksi.</li>
+      <li>🖼️ Valitse haluamasi alue näytöltä nauhoitettavaksi.</li>
+      <li>⏲️ Aseta viive ennen nauhoituksen alkua.</li>
+      <li>🖱️ Piilota tai näytä hiiren osoitin.</li>
+      <li>💾 Valitse tallennussijainti nauhoitukselle.</li>
+      <li>⌨️ Hyödynnä käteviä pikanäppäimiä.</li>
+    </ul>
+  </description>
+  <description lang="fil">
+    <p>Ang Kooha ay isang simpleng pangrekord ng screen na may minimalist na interface. Pindutin lamang ang record button nang hindi gumagalaw ng mga settings.</p>
+    <p>Ang mga pangunahing tampok ng Kooha ay ang mga sumusunod:</p>
+    <ul>
+      <li>🎥 I-record ang iyong screen nang walang sagabal.</li>
+      <li>🎙️ I-rekord ang iyong mikropono, tunog ng kompyuter, o kaya naman pareho.</li>
+      <li>📼 Mayroong support para sa mga format na WebM, MP4, GIF at MKV.</li>
+      <li>🗔 Maraiming selection ng mga source.</li>
+      <li>🚀 Puwedeng buksan ang hardware accelerated na pag-encode</li>
+      <li>🖥️ Pumili ng monitor o window na maaaring i-record.</li>
+      <li>🖼️ Maaaring gumawa ng selection upang maka-capture ng area sa iyong screen.</li>
+      <li>⏲️ Maglagay ng delay bago magsumali ang pag-record.</li>
+      <li>🖱️ Ipakita o itago ang pointer.</li>
+      <li>💾 Pumili ng paglalagyan ng mga recording.</li>
+      <li>⌨️ Gamitin ang mga malaking-tulong na mga keyboard shortcuts.</li>
+    </ul>
+  </description>
+  <description lang="fr_FR">
+    <p>Kooha est un enregistreur d'écran simple avec une interface minimaliste. Vous pouvez simplement cliquer sur le bouton d'enregistrement sans avoir à configurer un tas de paramètres.</p>
+    <p>Les principales caractéristiques de Kooha sont les suivantes :</p>
+    <ul>
+      <li>🎥 Capturez votre écran en toute simplicité.</li>
+      <li>🎙️ Enregistrez votre micro, les sons de l'ordinateur ou les deux en même temps.</li>
+      <li>⏲️ Définissez le délai de préparation avant de commencer l'enregistrement.</li>
+      <li>🖱️ Masquer ou afficher le pointeur de la souris.</li>
+      <li>💾 Choisissez un emplacement de sauvegarde pour votre enregistrement.</li>
+      <li>⌨️ Utilisez des raccourcis clavier utiles.</li>
+    </ul>
+  </description>
+  <description lang="gl">
+    <p>Kooha é un gravador de pantalla simple con unha interface minimalista. Só faga clic no botón gravar sen ter que configurar un centar de axustes.</p>
+    <p>As características principais de Kooha inclúen o seguinte:</p>
+    <ul>
+      <li>🎥 Grava a súa pantalla sen ningunha molestia.</li>
+      <li>🎙️ Grava o seu micrófono, os sons do sistema, ou ambos ao mesmo tempo.</li>
+      <li>📼 Compatibilidade para formatos WebM, MP4, GIF, e MKV.</li>
+      <li>🗔 Selección de múltiples fontes.</li>
+      <li>🚀 Codificación acelerada por hardware opcional</li>
+      <li>🖥️ Selecciona un monitor ou xanela para gravar.</li>
+      <li>🖼️ Crea unha selección para capturar un área específica da súa pantalla.</li>
+      <li>⏲️ Selecciona un atraso antes de empezar a gravar.</li>
+      <li>🖱️ Oculta ou mostra o cursor.</li>
+      <li>💾 Selecciona unha localización para a súa gravación.</li>
+      <li>⌨️ Usa os útiles atallos de teclado.</li>
+    </ul>
+  </description>
+  <description lang="hi">
+    <p>‌‌Kooha एक साधारण स्क्रीन रिकॉर्डर है जिसमें न्यूनतम इंटरफ़ेस है। आप सेटिंग्स के एक समूह को कॉन्फ़िगर किए बिना रिकॉर्ड बटन पर क्लिक कर सकते हैं।</p>
+    <p>Kooha की मुख्य विशेषताओं निम्नलिखित हैं:</p>
+    <ul>
+      <li>🎥 बिना किसी परेशानी के अपनी स्क्रीन कैप्चर करें।</li>
+      <li>️ 🎙️अपने माइक्रोफ़ोन, कंप्यूटर की आवाज़ या दोनों को एक ही समय पर रिकॉर्ड करें।</li>
+      <li>WebM, MP4, GIF और MKV प्रारूपों में रिकार्ड करने में समर्थ।</li>
+      <li>🗔 एकाधिक स्रोत चयन।</li>
+      <li>🚀 वैकल्पिक हार्डवेयर त्वरित एन्कोडिंग</li>
+      <li>🖥️ ️रिकॉर्ड करने के लिए मॉनिटर या विंडो चुनें।</li>
+      <li>🖼️ अपनी स्क्रीन से निश्चित क्षेत्र को कैप्चर करने के लिए एक चयन बनाएँ।</li>
+      <li>️ ⏲️रिकॉर्डिंग शुरू करने से पहले तैयारी के लिए विलंब समय सेट करें।</li>
+      <li>🖱️ ️माउस पॉइंटर छुपाएँ या दिखाएँ।</li>
+      <li>अपनी रिकॉर्डिंग को सहेजने का स्थान चुनें।</li>
+      <li>⌨️ उपयोगी कीबोर्ड शॉर्टकट का उपयोग करें।</li>
+    </ul>
+  </description>
+  <description lang="hr">
+    <p>Snimi ekran na intuitivan i jednostavan način.</p>
+    <p>Kooha je jednostavan program za snimanje ekrana s minimalističkim sučeljem. Jednostavno pritisni gumb za snimanje bez potrebe za konfiguriranjem hrpe postavki.</p>
+    <p>Glavne karakteristike Koohe uključuju:</p>
+    <ul>
+      <li>🎥 Snimi ekran bez poteškoća.</li>
+      <li>🎙️ Snimi mikrofon, zvukove računala ili oboje istovremeno.</li>
+      <li>📼 Podrška za formate WebM, MP4, GIF i MKV.</li>
+      <li>🗔 Biranje više izvora.</li>
+      <li>🚀 Opcionalno hardverski ubrzano kodiranje</li>
+      <li>🖥️ Odaberi monitor ili prozor za snimanje.</li>
+      <li>🖼️ Stvori odabir za snimanje određenog područja na ekranu.</li>
+      <li>⏲️ Postavi odgađanje početka snimanja.</li>
+      <li>🖱️ Sakrij ili pokaži pokazivač miša.</li>
+      <li>💾 Odaberi mjesto za spremanje snimke.</li>
+      <li>⌨️ Koristi korisne tipkovne prečace.</li>
+    </ul>
+  </description>
+  <description lang="hu">
+    <p>Vegye fel a képernyőjét intuitív és egyszerű módon, zavaró tényezők nélkül.</p>
+    <p>A Kooha egy egyszerű képernyőfelvevő minimalista felülettel. Csak a felvétel gombra kell kattintania, anélkül hogy egy csomó beállítást be kellene állítania.</p>
+    <p>A Kooha fő funkciói a következők:</p>
+    <ul>
+      <li>🎥 A képernyő felvétele mindenféle gond nélkül.</li>
+      <li>🎙️ A mikrofon, a számítógép hangjai vagy mindkettő egyidejű felvétele.</li>
+      <li>📼 WebM, MP4, GIF és MKV formátumok támogatása.</li>
+      <li>🗔 Több forrás kiválasztása.</li>
+      <li>🚀 Választható hardveresen gyorsított kódolás.</li>
+      <li>🖥️ Egy monitor vagy egy ablak kiválasztása a felvételhez.</li>
+      <li>🖼️ Kijelölés létrehozása a képernyő egy bizonyos területének felvételéhez.</li>
+      <li>⏲️ Késleltetés beállítása az előkészítéshez, mielőtt elindítja a felvételt.</li>
+      <li>🖱️ Az egérmutató elrejtése vagy megjelenítése.</li>
+      <li>💾 A felvétel mentési helyének kiválasztása.</li>
+      <li>⌨️ Hasznos gyorsbillentyűk használata.</li>
+    </ul>
+  </description>
+  <description lang="id">
+    <p>Konoha adalah perekam layar yang sederhana dengan antarmuka minimalis. Anda hanya perlu mengklik tombol rekam tanpa harus mengkonfigurasi beberapa pengaturan.</p>
+    <p>Fitur-fitur utama Kooha termasuk yang berikut ini:</p>
+    <ul>
+      <li>🎥 Rekam layar Anda tanpa repot-repot.</li>
+      <li>🎙️ Rekam mikrofon Anda, suara komputer, atau keduanya di waktu yang sama.</li>
+      <li>📼 Mendukung format WebM, MP4, GIF, dan MKV.</li>
+      <li>🗔 Pilihan berbagai sumber.</li>
+      <li>🚀 Opsi pengkodean dengan percepatan perangkat keras</li>
+      <li>🖥️ Pilih monitor atau jendela yang ingin direkam.</li>
+      <li>🖼️ Buat seleksi untuk menangkap area tertentu dari layar anda.</li>
+      <li>⏲️ Pasang penundaan untuk bersiap-siap sebelum mulai merekam.</li>
+      <li>🖱️ Sembunyikan atau tampilkan penunjuk tetikus.</li>
+      <li>💾 Pilih lokasi penyimpanan untuk rekaman Anda.</li>
+      <li>⌨️ Manfaatkan pintasan keyboard yang berguna.</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>Cattura il tuo schermo in modo intuitivo e diretto senza distrazioni.</p>
+    <p>Kooha è un registratore di schermo semplice con un'interfaccia minimalista. Si può semplicemente fare clic sul pulsante di registrazione senza dover configurare un sacco di impostazioni.</p>
+    <p>Le caratteristiche principali di Kooha sono le seguenti:</p>
+    <ul>
+      <li>🎥 Cattura il tuo schermo senza problemi.</li>
+      <li>🎙️ Registra il tuo microfono, i suoni del computer o entrambi allo stesso tempo.</li>
+      <li>📼 Supporta i formati WebM, MP4, GIF, e MKV.</li>
+      <li>🗔 Selezione di più fonti.</li>
+      <li>🚀 Codifica con accelerazione hardware opzionale</li>
+      <li>🖥️ Seleziona un monitor o una finestra da registrare.</li>
+      <li>🖼️ Crea una selezione per catturare un'area specifica dal tuo schermo.</li>
+      <li>⏲️ Imposta il ritardo da preparare prima di iniziare la registrazione.</li>
+      <li>🖱️ Nascondi o mostra il puntatore del mouse.</li>
+      <li>💾 Scegli una posizione di salvataggio per la tua registrazione.</li>
+      <li>⌨️ Utilizza utili scorciatoie da tastiera.</li>
+    </ul>
+  </description>
+  <description lang="ko">
+    <p>쿠하는 최소주의를 지향하는 인터페이스를 갖춘 간단한 화면 녹화기입니다. 번거로운 설정을 하지 않고 그냥 녹화 단추만 눌러 녹화할 수 있습니다.</p>
+    <p>쿠하의 주요 기능은 다음과 같습니다:</p>
+    <ul>
+      <li>🎥 어떤 번거로움 없이 화면을 찍습니다.</li>
+      <li>🎙️ 마이크로폰, 컴퓨터 소리 또는 둘 다 동시에 녹음합니다.</li>
+      <li>📼 WebM, MP4, GIF, MKV 형식을 지원합니다.</li>
+      <li>🗔 여러 원본을 선택합니다.</li>
+      <li>🚀 추가 하드웨어 가속 인코딩</li>
+      <li>🖥️ 녹화할 모니터 또는 창을 선택합니다.</li>
+      <li>🖼️ 화면에서 녹화할 영역을 선택합니다.</li>
+      <li>⏲️ 녹화 시작 전 준비 지연 시간을 설정합니다.</li>
+      <li>🖱️ 마우스 포인터를 숨기거나 나타낼 수 있습니다.</li>
+      <li>💾 녹화 저장 위치를 선택합니다.</li>
+      <li>⌨️ 쓸만한 키보드 바로 가기 키를 활용합니다.</li>
+    </ul>
+  </description>
+  <description lang="nb_NO">
+    <p>Kooha er en enkel skjermopptaker med et minimalistisk grensesnitt. Du kan bare klikke opptaksknappen uten å måtte sette opp en masse innstillinger.</p>
+    <p>Kooha har blandt annet disse hovedfunksjonene:</p>
+    <ul>
+      <li>🎥 Ta opp skjermen uten stress.</li>
+      <li>🎙️ Spill inn mikrofon, skrivebordslyd, eller begge på en gang.</li>
+      <li>📼 Støtte for WebM-, MP4-, GIF-, og MKV-formater.</li>
+      <li>🚀 Valgfri maskinvareakselerert koding</li>
+      <li>🖥️ Velg en skjerm eller et vindu å ta opp.</li>
+      <li>🖼️ Opprett et utvalg for å fange et gitt område på skjermen din.</li>
+      <li>⏲️ Angi en forsinkelse for å forberede deg før opptaket.</li>
+      <li>🖱️ Skjul eller vis musepekeren.</li>
+      <li>💾 Velg et sted der opptakene skal lagres.</li>
+      <li>⌨️ Ta i bruk nyttige tastatursnarveier.</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>Maak op eenvoudige wijze opnames van je scherm, zonder enige vorm van afleiding.</p>
+    <p>Kooha is een eenvoudige schermopnametoepassing met een minimalistische vormgeving. Klik gewoon op de opnameknop zonder allerlei instellingen te moeten doorlopen.</p>
+    <p>Enkele kenmerken:</p>
+    <ul>
+      <li>🎥 Maak eenvoudig opnames van je scherm.</li>
+      <li>🎙️ Neem op van je microfoon, computergeluiden of beide tegelijk.</li>
+      <li>📼 Ondersteuning voor webm-, mp4-, gif- en mkv-formaten.</li>
+      <li>🗔 Keuze uit meerdere bronnen.</li>
+      <li>🚀 Hardware-versnelde encodering (optioneel)</li>
+      <li>🖥️ Kies het beeldscherm dat je wilt vastleggen.</li>
+      <li>🖼️ Selecteer een gebied op je scherm dat je wilt vastleggen.</li>
+      <li>⏲️ Stel een wachttijd in zodat de opname iets later start.</li>
+      <li>🖱️ Toon of verberg de cursor.</li>
+      <li>💾 Kies zelf waar de opname moet worden opgeslagen.</li>
+      <li>⌨️ Maak gebruik van handige sneltoetsen.</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <p>Główne funkcjonalności Kooha to:</p>
+    <ul>
+      <li>Nagrywanie wejścia z mikrofonu, dźwięku komputera lub obu jednocześnie.</li>
+      <li>Wsparcie dla formatów WebM, MP4 i MKV.</li>
+      <li>Wybór wielu źródeł.</li>
+      <li>Opcjonalne wykorzystanie przyspieszenia sprzętowego</li>
+      <li>Możliwość wyboru monitora lub okna do nagrania.</li>
+      <li>🖼️ Możliwość utworzenia zaznaczenia określonej części ekranu.</li>
+      <li>⏲️ Możliwość ustawienia opóźnienia, aby przygotować się przed rozpoczęciem nagrywania.</li>
+      <li>Pokazuje lub ukrywa wskaźnik myszy.</li>
+      <li>Wybór miejsca docelowego dla nagrania.</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>Kooha é um gravador de ecrã simples com uma interface minimalista. Basta clicar no botão de gravação sem ter de configurar um monte de definições.</p>
+    <p>As principais características da Kooha incluem as seguintes:</p>
+    <ul>
+      <li>🎥 Capture o seu ecrã sem qualquer problema.</li>
+      <li>🎙️ Grave o seu microfone, sons do computador ou ambos ao mesmo tempo.</li>
+      <li>⏲️ Defina o atraso para se preparar antes de iniciar a gravação.</li>
+      <li>🖱️ Oculte ou exiba o ponteiro do mouse.</li>
+      <li>💾 Escolha um local para gravar a gravação.</li>
+      <li>⌨️ Utilize atalhos de teclado úteis.</li>
+    </ul>
+  </description>
+  <description lang="pt_BR">
+    <p>Kooha é um gravador de tela simples e com uma interface minimalista. Você apenas clica no botão de gravação e não precisa fazer mais nada.</p>
+    <p>Os principais recursos do Kooha incluem o seguinte:</p>
+    <ul>
+      <li>🎥 Capture sua tela sem complicações.</li>
+      <li>🎙️ Grave seu microfone, sons do computador ou ambos ao mesmo tempo.</li>
+      <li>⏲️ Defina o atraso para se preparar antes de iniciar a gravação.</li>
+      <li>🖱️Esconda ou mostre o ponteiro do mouse.</li>
+      <li>💾 Escolha um local para salvar a gravação.</li>
+      <li>⌨️ Utilize atalhos de teclado úteis.</li>
+    </ul>
+  </description>
+  <description lang="ru">
+    <p>Kooha — простая программа для записи экрана с минималистичным интерфейсом. Вы можете нажать кнопку записи без необходимости дополнительной настройки.</p>
+    <p>Главные возможности Kooha следующие:</p>
+    <ul>
+      <li>🎥 Запись экрана без неудобностей.</li>
+      <li>🎙️ Запись звука с микрофона, рабочего стола компьютера, или всё вместе одновременно.</li>
+      <li>⏲️ Задержка перед началом записи.</li>
+      <li>🖱️ Возможность спрятать или показать курсор мыши.</li>
+      <li>💾 Выбор места сохранения записи.</li>
+      <li>⌨️ Поддержка полезных клавиатурных сокращений.</li>
+    </ul>
+  </description>
+  <description lang="sk">
+    <p>Zachytávajte vašu obrazovku intuitívnym a zreteľným spôsobom bez rozptyľovania.</p>
+    <p>Aplikácia Kooha je jednoduchým záznamníkom obrazovky s minimalistickým rozhraním. Stačí len kliknúť na zaznamenávacie tlačidlo bez zložitého nastavovania.</p>
+    <p>Hlavnými funkciami aplikácie Kooha sú:</p>
+    <ul>
+      <li>🎥 Zachytenie vašej obrazovky bez problémov.</li>
+      <li>🎙️ Záznam vášho mikrofónu, počítačových zvukov alebo oboch súčasne.</li>
+      <li>📼 Podpora formátov WebM, MP4, GIF a MKV.</li>
+      <li>🗔 Výber viacerých zdrojov.</li>
+      <li>🚀 Voliteľné dekódovanie akcelerované pomocou hardvéru.</li>
+      <li>🖥️ Výber monitora alebo okna na zaznamenanie.</li>
+      <li>🖼️ Vytvorenie výberu na zachytenie určitej oblasti vašej obrazovky.</li>
+      <li>⏲️ Nastavenie oneskorenia na prípravu pred zahájením zaznamenávania.</li>
+      <li>🖱️ Skrytie alebo zobrazenie ukazovateľa myši.</li>
+      <li>💾 Voľba miesta pre uloženie vášho záznamu.</li>
+      <li>⌨️ Využitie užitočných klávesových skratiek.</li>
+    </ul>
+  </description>
+  <description lang="sr">
+    <p>Сними екран на интуитиван и једноставан начин беж сметњи.</p>
+    <p>Kooha је једноставан сниматељ екрана са минималним интерфејсом. Можеш само притиснути дугме за снимање без постављања икаквих подешавања.</p>
+    <p>Главне функционалности у Kooha су:</p>
+    <ul>
+      <li>🎥 Сними екран без муке.</li>
+      <li>🎙️ Сними микрофон, звук са рачунара или оба у исто време.</li>
+      <li>📼 Подршка за WebM, MP4, GIF, и MKV формате.</li>
+      <li>🗔 Избор више извора.</li>
+      <li>🚀 Опционо хардверски убрзано кодирање</li>
+      <li>🖥️ Одабери монитор или прозор који би да снимаш.</li>
+      <li>🖼️ Изаберите простор за снимање одређеног подручја екрана.</li>
+      <li>🖱️ Прикажи или сакриј курсор.</li>
+      <li>💾 Одабери место за чување снимка.</li>
+      <li>⌨️ Користите пречице на тастатури.</li>
+    </ul>
+  </description>
+  <description lang="sr@latin">
+    <p>Snimi ekran na intuitivan i jednostavan način bež smetnji.</p>
+    <p>Kooha je jednostavan snimatelj ekrana sa minimalnim interfejsom. Možeš samo pritisnuti dugme za snimanje bez postavljanja ikakvih podešavanja.</p>
+    <p>Glavne funkcionalnosti u Kooha su:</p>
+    <ul>
+      <li>🎥 Snimi ekran bez muke.</li>
+      <li>🎙️ Snimi mikrofon, zvuk sa računara ili oba u isto vreme.</li>
+      <li>📼 Podrška za WebM, MP4, GIF, i MKV formate.</li>
+      <li>🗔 Izbor više izvora.</li>
+      <li>🚀 Opciono hardverski ubrzano kodiranje</li>
+      <li>🖥️ Odaberi monitor ili prozor koji bi da snimaš.</li>
+      <li>🖼️ Izaberite prostor za snimanje određenog područja ekrana.</li>
+      <li>🖱️ Prikaži ili sakrij kursor.</li>
+      <li>💾 Odaberi mesto za čuvanje snimka.</li>
+      <li>⌨️ Koristite prečice na tastaturi.</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <p>Fånga din skärm på ett intuitivt och rakt på sak-sätt utan distraktioner.</p>
+    <p>Kooha är en enkel skärminspelare med ett minimalistiskt gränssnitt. Du kan klicka på inspelningsknappen utan att behöva konfigurera en massa inställningar.</p>
+    <p>De viktigaste funktionerna i Kooha är följande:</p>
+    <ul>
+      <li>🎥 Spela in skärmen utan krångel.</li>
+      <li>🎙️ Spela in din mikrofon, datorljud eller båda samtidigt.</li>
+      <li>📼 Stöd för formaten WebM, MP4, GIF och MKV.</li>
+      <li>Hårdvaruaccelererad kodning som tillval</li>
+      <li>Välj en skärm eller ett fönster att spela in.</li>
+      <li>Skapa en markering för att spela in ett bestämt område på skärmen.</li>
+      <li>⏲️ Ställ in en fördröjning för att förbereda dig innan du börjar spela in.</li>
+      <li>🖱️ Dölj eller visa muspekaren.</li>
+      <li>💾 Välj en lagringsplats för inspelningen.</li>
+      <li>⌨️ Använd användbara tangentbordsgenvägar.</li>
+    </ul>
+  </description>
+  <description lang="tr">
+    <p>Dikkatiniz dağılmadan ekranınızı sezgisel ve basit bir şekilde kaydedin.</p>
+    <p>Kooha, sade bir arayüze sahip basit bir ekran kaydedicidir. Bir dizi ayarı yapılandırmanıza gerek kalmadan sadece kayıt düğmesine tıklayabilirsiniz.</p>
+    <p>Kooha'nın temel özellikleri şunlardır:</p>
+    <ul>
+      <li>🎥 Herhangi bir güçlük çekmeden ekranınızı kaydedin.</li>
+      <li>🎙️ Mikrofonunuzu, bilgisayar seslerini veya her ikisini aynı anda kaydedin.</li>
+      <li>📼 WebM, MP4, GIF ve MKV biçimleri desteği.</li>
+      <li>🗔 Çoklu kaynak seçimi.</li>
+      <li>🚀 İsteğe bağlı donanım hızlandırmalı kodlama</li>
+      <li>🖥️ Kaydetmek için bir ekran veya pencere seçin.</li>
+      <li>🖼️ Ekranınızdan belirli bir alanı yakalamak için bir seçim oluşturun.</li>
+      <li>⏲️ Kayda başlamadan önce hazırlanmak için bir gecikme ayarlayın.</li>
+      <li>🖱️ Fare işaretçisini gizleyin veya gösterin.</li>
+      <li>💾 Kaydınız için bir kaydetme konumu seçin.</li>
+      <li>⌨️ Kullanışlı klavye kısayollarını kullanın.</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>Вибирайте ділянку інтуїтивно зрозумілим і простим способом без зайвих чинників.</p>
+    <p>Kooha — це простий записувач екрана з мінімалістичним інтерфейсом. Ви можете просто натиснути кнопку запису без витрачання часу на налаштування.</p>
+    <p>Основні можливості Kooha:</p>
+    <ul>
+      <li>🎥 Записування екрана без зайвих рухів.</li>
+      <li>🎙️ Запис звуків за допомогою мікрофона, звуків комп'ютера, або обох одночасно.</li>
+      <li>📼 Підтримка форматів WebM, MP4, GIF та MKV.</li>
+      <li>🗔 Вибір кількох джерел.</li>
+      <li>🚀 Додаткове апаратне прискорене кодування</li>
+      <li>🖥️ Вибір монітора або вікна для записування.</li>
+      <li>🖼️ Вибір ділянки екрана.</li>
+      <li>⏲️ Налаштування затримки початку запису.</li>
+      <li>🖱️ Показ або приховування вказівника миші.</li>
+      <li>💾 Вибір місця збереження записів.</li>
+      <li>⌨️ Можливість застосовувати комбінації клавіш.</li>
+    </ul>
+  </description>
+  <description lang="zh_Hans">
+    <p>Kooha 是一个界面极简的录屏软件。无需一系列的配置，只需轻点一下即可开始录制。</p>
+    <p>Kooha 的主要特性有：</p>
+    <ul>
+      <li>🎥 轻松录屏，省心省时。</li>
+      <li>🎙️ 录制麦克风或计算机声音，抑或两者同时录制。</li>
+      <li>📼 支持 WebM、MP4、GIF 和 MKV 格式。</li>
+      <li>🗔 多个画面来源选择。</li>
+      <li>🚀 可选硬件加速编码</li>
+      <li>🖥️ 选择显示器或窗口以录制。</li>
+      <li>🖼️ 在屏幕上选择特定区域来捕获画面。</li>
+      <li>⏲️ 在开始录制之前设置延迟来准备。</li>
+      <li>🖱️ 显示/隐藏鼠标指针。</li>
+      <li>💾 为您的录像选择一个保存位置。</li>
+      <li>⌨️ 键盘快捷键让你事半功倍。</li>
+    </ul>
+  </description>
+  <pkgname>kooha</pkgname>
+  <icon type="cached" height="64" width="64">io.github.seadve.Kooha.png</icon>
+  <icon type="cached" width="128" height="128">io.github.seadve.Kooha.png</icon>
+  <id>io.github.seadve.Kooha</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <name>Kooha</name>
+  <name lang="hu">Kooha</name>
+  <name lang="hr">Kooha</name>
+  <name lang="oc">Kooha</name>
+  <name lang="gl">Kooha</name>
+  <name lang="hi">Kooha</name>
+  <name lang="zh_Hans">Kooha</name>
+  <name lang="uk">Kooha</name>
+  <name lang="tr">Kooha</name>
+  <name lang="sv">Kooha</name>
+  <name lang="sr@latin">Kooha</name>
+  <name lang="sr">Kooha</name>
+  <name lang="sk">Kooha</name>
+  <name lang="ru">Kooha</name>
+  <name lang="pt_BR">Kooha</name>
+  <name lang="pt">Kooha</name>
+  <name lang="pl">Kooha</name>
+  <name lang="nl">Kooha</name>
+  <name lang="nb_NO">Kooha</name>
+  <name lang="ko">쿠하</name>
+  <name lang="ja">Kooha</name>
+  <name lang="it">Kooha</name>
+  <name lang="id">Kooha</name>
+  <name lang="he">Kooha</name>
+  <name lang="fr_FR">Kooha</name>
+  <name lang="fil">Kooha</name>
+  <name lang="fi">Kooha</name>
+  <name lang="fa">کوها</name>
+  <name lang="eu">Kooha</name>
+  <name lang="eo">Kooha</name>
+  <name lang="es">Kooha</name>
+  <name lang="de">Kooha</name>
+  <name lang="cs">Kooha</name>
+  <name lang="ar">Kooha</name>
+  <summary>Elegantly record your screen</summary>
+  <summary lang="hu">Vegye fel a képernyőjét elegánsan</summary>
+  <summary lang="hr">Snimi ekran na elegantan način</summary>
+  <summary lang="oc">Enregistrar elegantament vòstre ecran</summary>
+  <summary lang="gl">Grave a súa pantalla elegantemente</summary>
+  <summary lang="hi">अपनी स्क्रीन को अच्छे ढंग से रिकॉर्ड करें</summary>
+  <summary lang="zh_Hans">优雅地录制屏幕</summary>
+  <summary lang="uk">Елегантно записуйте ваш екран</summary>
+  <summary lang="tr">Ekranınızı zarif bir şekilde kaydedin</summary>
+  <summary lang="sv">Spela in din skärm på ett elegant sätt</summary>
+  <summary lang="sr@latin">Snimi ekran na elegantan način</summary>
+  <summary lang="sr">Сними екран на елегантан начин</summary>
+  <summary lang="sk">Elegantne zaznamenáva vašu obrazovku</summary>
+  <summary lang="ru">Записывайте экран элегантно</summary>
+  <summary lang="pt_BR">Grave sua tela elegantemente</summary>
+  <summary lang="pt">Grave o seu ecrã com estilo</summary>
+  <summary lang="pl">Elegancko nagrywa twój ekran</summary>
+  <summary lang="nl">Maak elegante schermopnames</summary>
+  <summary lang="nb_NO">Ta opp skjermen din på elegant vis</summary>
+  <summary lang="ko">화면을 우아하게 녹화해보세요</summary>
+  <summary lang="ja">エレガントに画面を記録</summary>
+  <summary lang="it">Registra il tuo schermo elegantemente</summary>
+  <summary lang="id">Rekam layar Anda dengan elegan</summary>
+  <summary lang="he">הקלט את המסך בעדינות</summary>
+  <summary lang="fr_FR">Enregistrez élégamment votre écran</summary>
+  <summary lang="fil">Eleganteng i-record ang iyong screen</summary>
+  <summary lang="fi">Tallenna näyttösi tapahtumat</summary>
+  <summary lang="fa">صفحه‌ی خود را با ظرافت ضبط کنید</summary>
+  <summary lang="eu">Grabatu zure pantaila dotoretasunez</summary>
+  <summary lang="eo">Elegante registri vian ekranon</summary>
+  <summary lang="es">Grabe su pantalla elegantemente</summary>
+  <summary lang="de">Ihren Bildschirm elegant aufnehmen</summary>
+  <summary lang="cs">Elegantně zaznamenej svou obrazovku</summary>
+  <summary lang="ar">سجل شاشتك بأناقة</summary>
+  <url type="homepage">https://github.com/SeaDve/Kooha</url>
+  <url type="bugtracker">https://github.com/SeaDve/Kooha/issues</url>
+  <url type="translate">https://hosted.weblate.org/projects/kooha/pot-file/</url>
+  <url type="donation">https://liberapay.com/SeaDve/</url>
+  <developer_name>Dave Patrick</developer_name>
+  <developer_name lang="hu">Dave Patrick</developer_name>
+  <developer_name lang="hr">Dave Patrick</developer_name>
+  <developer_name lang="oc">Dave Patrick</developer_name>
+  <developer_name lang="gl">Dave Patrick</developer_name>
+  <developer_name lang="hi">Dave Patrick</developer_name>
+  <developer_name lang="zh_Hans">Dave Patrick</developer_name>
+  <developer_name lang="uk">Дейв Патрік</developer_name>
+  <developer_name lang="tr">Dave Patrick</developer_name>
+  <developer_name lang="sv">Dave Patrick</developer_name>
+  <developer_name lang="sr@latin">Dave Patrick</developer_name>
+  <developer_name lang="sr">Dave Patrick</developer_name>
+  <developer_name lang="sk">Dave Patrick</developer_name>
+  <developer_name lang="ru">Дэйв Патрик</developer_name>
+  <developer_name lang="pt_BR">Dave Patrick</developer_name>
+  <developer_name lang="pt">Dave Patrick</developer_name>
+  <developer_name lang="pl">Dave Patrick</developer_name>
+  <developer_name lang="nl">Dave Patrick</developer_name>
+  <developer_name lang="nb_NO">Dave Patrick</developer_name>
+  <developer_name lang="ko">Dave Patrick</developer_name>
+  <developer_name lang="ja">Dave Patrick</developer_name>
+  <developer_name lang="it">Dave Patrick</developer_name>
+  <developer_name lang="id">Dave Patrick</developer_name>
+  <developer_name lang="fr_FR">Dave Patrick</developer_name>
+  <developer_name lang="fil">Dave Patrick</developer_name>
+  <developer_name lang="fi">Dave Patrick</developer_name>
+  <developer_name lang="eu">Dave Patrick</developer_name>
+  <developer_name lang="eo">Dave Patrick</developer_name>
+  <developer_name lang="es">Dave Patrick</developer_name>
+  <developer_name lang="de">Dave Patrick</developer_name>
+  <developer_name lang="cs">Dave Patrick</developer_name>
+  <developer_name lang="ar">Dave Patrick</developer_name>
+  <update_contact>davecruz48@gmail.com</update_contact>
+  <content_rating type="oars-1.1" />
+  <translation type="gettext">kooha</translation>
+  <launchable type="desktop-id">io.github.seadve.Kooha.desktop</launchable>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/SeaDve/Kooha/main/data/screenshots/screenshot.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/SeaDve/Kooha/main/data/screenshots/screenshot2.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/SeaDve/Kooha/main/data/screenshots/screenshot3.png</image>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release version="2.0.1" date="2021-10-20">
+      <description>
+        <p>This is a minor release:</p>
+        <ul>
+          <li>GIF recordings now loops infinitely</li>
+          <li>Minor codebase improvements</li>
+          <li>Added Serbian Cyrillic translations</li>
+          <li>Added Serbian Latin translations</li>
+          <li>Updated Croatian translations</li>
+          <li>Updated Ukrainian translations</li>
+          <li>Updated Basque translations</li>
+          <li>Updated Dutch translations</li>
+          <li>Updated Turkish translations</li>
+          <li>Updated Italian translations</li>
+          <li>Updated Spanish translations</li>
+          <li>Updated Hungarian translations</li>
+          <li>Updated German translations</li>
+          <li>Updated Slovak translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.0.0" date="2021-09-23">
+      <description>
+        <p>This is a big release containing a lot of fixes and new features!</p>
+        <ul>
+          <li>Added MP4 and GIF formats</li>
+          <li>Added feature to record a single window or monitor</li>
+          <li>Added optional-in hardware accelerated encoding</li>
+          <li>Added multiple video sources recording</li>
+          <li>Added much improved error handling</li>
+          <li>Fixed broken UI on non-default close button placement</li>
+          <li>Fixed major bug in GNOME 41</li>
+          <li>Fixed off selection region on integer scaling</li>
+          <li>Fixed saving the recording to a hidden directory</li>
+          <li>Improved performance</li>
+          <li>Now working for certain desktop environments and window managers</li>
+          <li>Full rewrite to Rust</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-05-23" version="1.2.1">
+      <description>
+        <p>This release contains small fixes and improvements:</p>
+        <ul>
+          <li>Focus start record button on startup</li>
+          <li>Improved UI and UX</li>
+          <li>Fixed bug when tmp folder doesn't exist</li>
+          <li>Updated Swedish translations</li>
+          <li>Updated Spanish translations</li>
+          <li>Updated Turkish translations</li>
+          <li>Updated Italian translations</li>
+          <li>Updated Dutch translations</li>
+          <li>Updated French translations</li>
+          <li>Updated Portuguese (Brazil) translations</li>
+          <li>Updated Norwegian Bokmål translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-05-17" version="1.2.0">
+      <description>
+        <p>This release brings the new GTK4 and an important fix for GNOME 40.</p>
+        <ul>
+          <li>Recording performance improvements</li>
+          <li>Major UI improvements</li>
+          <li>Dynamically change the multiplexer</li>
+          <li>Fix GNOME 40 crashes</li>
+          <li>Fix crashes in non-supported environment</li>
+          <li>Updated Spanish translations</li>
+          <li>Updated Portuguese translations</li>
+          <li>Updated Turkish translations</li>
+          <li>Updated Norwegian Bokmål translations</li>
+          <li>Updated Italian translations</li>
+          <li>Updated Indonesian translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.1.3" date="2021-05-04">
+      <description>
+        <p>New fixes and translations update coming this release:</p>
+        <ul>
+          <li>More responsive shortcuts</li>
+          <li>Fix crashing when no desktop environment is set up</li>
+          <li>Updated Slovak Translations</li>
+          <li>Updated Portuguese (Brazil) translations</li>
+          <li>Updated Russian translations</li>
+          <li>Updated Indonesian translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-04-25" version="1.1.2">
+      <description>
+        <p>This is a minor release composing of fixes and improvements:</p>
+        <ul>
+          <li>Minor performance optimizations</li>
+          <li>Updated Dutch translations</li>
+          <li>Updated Turkish translations</li>
+          <li>Updated Spanish translations</li>
+          <li>Updated Indonesian translations</li>
+          <li>Updated Filipino translations</li>
+          <li>Updated Italian translations</li>
+          <li>Updated French translations</li>
+          <li>Updated German translations</li>
+          <li>Updated Norwegian Bokmål translations</li>
+          <li>Updated Chinese(simplified) translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.1.1" date="2021-04-09">
+      <description>
+        <p>This release is composing of minor changes:</p>
+        <ul>
+          <li>Minor UI improvements</li>
+          <li>Code cleaning and minor performance improvements</li>
+          <li>Fixed a bug when trying to save in an inaccessible location</li>
+          <li>Added Persian translations</li>
+          <li>Added Chinese(simplified) translations</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.1.0" date="2021-03-25">
+      <description>
+        <p>This update brings new features and few bug fixes:</p>
+        <ul>
+          <li>Added a processing view to avoid recording corruption</li>
+          <li>Added a notification after recording to show saving location</li>
+          <li>Added option to change framerate through Kooha's keyfile</li>
+          <li>Minor improvements</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.0.5" date="2021-03-24">
+      <description>
+        <p>This is a small update composing of bug fixes:</p>
+        <ul>
+          <li>Fix audio recording in other locales</li>
+          <li>Fix when using keyboard shortcuts unexpectedly</li>
+          <li>Minor improvements</li>
+          <li>Update translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-03-23" version="1.0.4">
+      <description>
+        <p>This release brings a couple of improvements:</p>
+        <ul>
+          <li>New! Ability to select audio devices through GNOME Settings</li>
+          <li>Removed the annoying tong sound</li>
+          <li>Fixed when the selection is not divisible by 2</li>
+          <li>Minor UI tweaks and other bug fixes</li>
+          <li>Performance improvements</li>
+          <li>Added new translations</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.0.3" date="2021-03-17">
+      <description>
+        <p>A couple of bug fixes here and improvements there:</p>
+        <ul>
+          <li>Minor performance improvements</li>
+          <li>Bug fixes</li>
+          <li>Added Swedish translations</li>
+          <li>Added Indonesian translations</li>
+          <li>Update Filipino translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.0.2" date="2021-03-15">
+      <description>
+        <p>This release brings a couple of small changes:</p>
+        <ul>
+          <li>set WebM as default format</li>
+          <li>Minor fixes</li>
+          <li>Add Filipino translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-03-14" version="1.0.1">
+      <description>
+        <p>Version 1.0.1 brings fixes to a couple of bugs:</p>
+        <ul>
+          <li>Catch the error when the path of the directory no longer exists</li>
+          <li>Fix the bug when the path contains spaces</li>
+          <li>Fix missing argument argv</li>
+          <li>Possible fix for GioDBus: The name is not activatable</li>
+          <li>Make desktop environment check less strict</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-03-13" version="1.0.0">
+      <description>
+        <p>This is the 1.0 release of Kooha. The features of this release include the following:</p>
+        <ul>
+          <li>Record your screen and also audio from your microphone or desktop</li>
+          <li>Option to show or hide the pointer</li>
+          <li>Option to record only an area on your screen</li>
+          <li>Select the saving location of the record</li>
+          <li>Ability to add a delay before recording starts</li>
+          <li>Video format settings (MKV and WebM)</li>
+          <li>And of course, keyboard shortcuts!</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.1.0" date="2021-03-06">
+      <description>
+        <p>Initial release.</p>
+      </description>
+    </release>
+  </releases>
+  <kudos>
+    <kudo>ModernToolkit</kudo>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>Notifications</kudo>
+  </kudos>
+</component>

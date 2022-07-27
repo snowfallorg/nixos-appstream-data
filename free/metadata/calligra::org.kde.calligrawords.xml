@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>
+      Words is an intuitive word processor and desktop publisher application.
+      With it, you can create informative and attractive documents with pleasure and ease.
+    </p>
+    <p>Features:</p>
+    <ul>
+      <li>Frame-based editing</li>
+      <li>Allows embedding of Documents</li>
+      <li>Customization of user interface</li>
+      <li>Includes all features expected from a modern word processor</li>
+      <li>ODT (Open Document Text) support</li>
+    </ul>
+  </description>
+  <description lang="bs">
+    <p>Words je intuitivan program za obradu teksta i desktop aplikacija stonog izdavaštva. Uz to, možete kreirati informativne i atraktivne dokumente sa zadovoljstvom i lakoćom.</p>
+    <p>Svojstva:</p>
+    <ul>
+      <li>Uređivanje bazirano na okvirima</li>
+      <li>Dopušta ugradnju dokumenata</li>
+      <li>Prilagođenje korisničkog interfejsa</li>
+      <li>Uključuje sve osobine koje se očekuju od modernog programa za obradu teksta</li>
+      <li>ODT (Open Document Text) podrška</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>El Words és una aplicació intuïtiva de procés de textos i de publicació d'escriptori. Amb ella es poden crear documents informatius i atractius amb satisfacció i facilitat.</p>
+    <p>Característiques:</p>
+    <ul>
+      <li>Edició basada en marcs</li>
+      <li>Permet incrustar documents</li>
+      <li>Personalització de la interfície d'usuari</li>
+      <li>Inclou totes les funcionalitats esperades d'un processador de textos modern</li>
+      <li>Admet ODT (Open Document Text)</li>
+    </ul>
+  </description>
+  <description lang="ca-valencia">
+    <p>El Words és una aplicació intuïtiva de procés de textos i de publicació d'escriptori. Amb ella es poden crear documents informatius i atractius amb satisfacció i facilitat.</p>
+    <p>Característiques:</p>
+    <ul>
+      <li>Edició basada en marcs</li>
+      <li>Permet incrustar documents</li>
+      <li>Personalització de la interfície d'usuari</li>
+      <li>Inclou totes les funcionalitats esperades d'un processador de textos modern</li>
+      <li>Admet ODT (Open Document Text)</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>Vlastnosti:</p>
+  </description>
+  <description lang="de">
+    <p>Words ist eine intuitives Programm zur Textverarbeitung und Veröffentlichung. Damit  können damit leicht informative und attraktive Dokumente erstellen.</p>
+    <p>Funktionen:</p>
+    <ul>
+      <li>Editor auf der Grundlage von Rahmen</li>
+      <li>Ermöglicht das Einbetten von Dokumenten</li>
+      <li>Anpassung der Benutzeroberfläche</li>
+      <li>Enthält alle Funktionen einer modernen Textverarbeitung</li>
+      <li>Unterstützung für ODT (Open Document Text)</li>
+    </ul>
+  </description>
+  <description lang="en-GB">
+    <p>Words is an intuitive word processor and desktop publisher application. With it, you can create informative and attractive documents with pleasure and ease.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Frame-based editing</li>
+      <li>Allows embedding of Documents</li>
+      <li>Customisation of user interface</li>
+      <li>Includes all features expected from a modern word processor</li>
+      <li>ODT (Open Document Text) support</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>Words es un procesador de texto intuitivo y un editor para el escritorio. Con él, podrá crear documentos informativos y atractivos con gusto y facilidad.</p>
+    <p>Características:</p>
+    <ul>
+      <li>Edición basada en marcos</li>
+      <li>Permite incrustar documentos</li>
+      <li>Personalización de la interfaz de usuario</li>
+      <li>Incluye todas las características que se esperan de un procesador de texto moderno</li>
+      <li>Admite el formato ODT («Open Document Text»)</li>
+    </ul>
+  </description>
+  <description lang="et">
+    <p>Words on intuitiivselt kasutatav tekstitöötlus- ja küljendusrakendus. Selle abil saab luua lusti ja rõõmuga teabeküllaseid ja silmailu pakkuvaid dokumente.</p>
+    <p>Omadused:</p>
+    <ul>
+      <li>Paneelipõhine redigeerimine</li>
+      <li>Dokumentide lõimimise toetamine</li>
+      <li>Kohandatav kasutajaliides</li>
+      <li>Kõigi tänapäeva tekstitöötlusrakendusele omaste võimaluste pakkumine</li>
+      <li>ODT (OpenDocument Text) toetamine</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>Words on intuitiivinen tekstinkäsittely- ja taitto-ohjelma. Sen avulla voit luoda informatiivisia ja vaikuttavia tekstitiedostoja mukavasti ja helposti.</p>
+    <p>Ominaisuuksia:</p>
+    <ul>
+      <li>Kehyksiin perustuva muokkaus</li>
+      <li>Tiedostojen upottamisen tuki</li>
+      <li>Käyttöliittymä mukautettavissa</li>
+      <li>Kaikki nykyaikaiselta tekstinkäsittelyohjelmalta odotetut ominaisuudet</li>
+      <li>ODT- eli OpenDocument-tekstitiedostojen tuki</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>Words est un traitement de texte intuitif et une application bureautique de publication. Avec lui, vous pouvez facilement créer des documents informatifs et attractifs.</p>
+    <p>Fonctionnalités :</p>
+    <ul>
+      <li>Édition à base de cadres</li>
+      <li>Permet les documents intégrés</li>
+      <li>Personnalisation de l'interface</li>
+      <li>Inclut toutes les fonctionnalités que l'on peut attendre d'un traitement de texte moderne</li>
+      <li>Prise en charge du format ODT (Open Document Text)</li>
+    </ul>
+  </description>
+  <description lang="gl">
+    <p>Words é unha aplicación intuitiva de procesamento de texto e publicación de escritorio. Con ela pode crear documentos informativos e atractivos plácida e facilmente.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Edición baseada en marcos.</li>
+      <li>Permite incrustar documentos.</li>
+      <li>Personalización da interface.</li>
+      <li>Inclúe todas as funcionalidades que pode esperar dun procesador de textos moderno.</li>
+      <li>Compatíbel co formato ODT (Open Document Text).</li>
+    </ul>
+  </description>
+  <description lang="ia">
+    <p>Characteristicas:</p>
+    <ul>
+      <li>Exitar basate sur Frame (Quadro)</li>
+      <li>Il permitte insertar documentos</li>
+      <li>Prsonalisation de le Interfacie de usator</li>
+      <li>Supporto de ODT (Open Document Text)</li>
+    </ul>
+  </description>
+  <description lang="id">
+    <p>Words adalah pengolah kata yang intuitif dan aplikasi penerbit desktop. Dengan itu, Anda dapat membuat dokumen yang informatif dan menarik dengan kesenangan dan kemudahan.</p>
+    <p>Fitur:</p>
+    <ul>
+      <li>Pengeditan berbasis frame</li>
+      <li>Memungkinkan penanaman Dokumen</li>
+      <li>Kustomisasi antarmuka pengguna</li>
+      <li>Menyertakan semua fitur yang diharapkan dari pengolah kata yang modern</li>
+      <li>Dukungan ODT (Open Document Text)</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>Words è un elaboratore di testi intuitivo e un'applicazione di pubblicazione per desktop. Con esso, puoi creare documenti informativi e accattivanti con soddisfazione e facilità.</p>
+    <p>Funzionalità:</p>
+    <ul>
+      <li>Modifica basata su riquadri</li>
+      <li>Consente l'integrazione di documenti</li>
+      <li>Personalizzazion e dell'interfaccia utente</li>
+      <li>Include tutte le funzionalità attese da un elaboratore di testi moderno</li>
+      <li>Supporto ODT (Open Document Text)</li>
+    </ul>
+  </description>
+  <description lang="ja">
+    <p>Words はワードプロセッサおよびデスクトップ出版のためのアプリケーションです。直感的な操作で有益かつ魅力的な文書が簡単に作成できます</p>
+    <p>機能:</p>
+    <ul>
+      <li>フレームベースの編集</li>
+      <li>文書への埋め込みを許可</li>
+      <li>ユーザインターフェースのカスタマイズ</li>
+      <li>現在のワードプロセッサに求められるすべての機能を含む</li>
+      <li>ODT (Open Document Text) サポート</li>
+    </ul>
+  </description>
+  <description lang="ko">
+    <p>Words는 직관적인 워드 프로세서 및 데스크톱 출판 프로그램입니다. 이를 통해 정보를 제공하고 매력적인 문서를 쉽고 재미있게 작성할 수 있습니다.</p>
+    <p>기능:</p>
+    <ul>
+      <li>프레임 기반 편집</li>
+      <li>문서 포함 허용</li>
+      <li>사용자 인터페이스 사용자 정의</li>
+      <li>최신 워드 프로세서에서 기대되는 모든 기능 포함</li>
+      <li>ODT(Open Document Text) 지원</li>
+    </ul>
+  </description>
+  <description lang="nb">
+    <p>Words er en intuitiv tekstbehandler, som kan brrukes til skrivebordspublisering. Du kan lett lage informative og attraktive dokumenter med glede.</p>
+    <p>Egenskaper:</p>
+    <ul>
+      <li>Ramme-basert redigering</li>
+      <li>Tillater innebygde dokumenter</li>
+      <li>Tilpassing av brukerflaten</li>
+      <li>Har alle egenskaper forventet av en moderne tekstbehandler</li>
+      <li>Støtte for ODT (Open Document Text)</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>Words is een intuïtieve toepassing voor tekstverwerken en weergeven op het bureaublad. Hiermee kunt u informatieve en attractieve documenten met plezier en gemak maken.</p>
+    <p>Mogelijkheden:</p>
+    <ul>
+      <li>Bewerken op basis van frames</li>
+      <li>Staat inbedden van documenten toe</li>
+      <li>Aanpassen naar behoefte van het gebruikersinterface</li>
+      <li>Bevat alle functies die verwacht worden van een moderne tekstverwerker</li>
+      <li>Ondersteuning van ODT (Open Document Text)</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <p>Słowa jest intuicyjnym edytorem tekstu i biurkowym programem do publikowania. Dzięki niemu można tworzyć informacyjne i atrakcyjne dokumenty z łatwością użycia.</p>
+    <p>Cechy:</p>
+    <ul>
+      <li>Edytowanie oparte na ramkach</li>
+      <li>Umożliwia osadzanie dokumentów</li>
+      <li>Dostosowywanie układu sterowania</li>
+      <li>Zawiera wszystkie cechy oczekiwane od nowoczesnego edytora tekstu</li>
+      <li>Obsługa ODT (Open Document Text)</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>O Words é um processador de texto intuitivo e uma aplicação de publicações no ecrã. Com ele, pode criar documentos informativos e atraentes com prazer e facilidade.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Edição baseada em molduras</li>
+      <li>Permite a incorporação de documentos</li>
+      <li>Personalização da interface do utilizador</li>
+      <li>Inclui todas as funcionalidades esperadas de um processador de texto moderno</li>
+      <li>Suporte para o ODT (Texto do Open Document)</li>
+    </ul>
+  </description>
+  <description lang="pt-BR">
+    <p>Words é um processador de texto intuitivo e um aplicativo de publicação no desktop. Com ele, você pode criar documentos informativos e atraentes com prazer e facilidade.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Edição baseada em molduras</li>
+      <li>Permite a incorporação de documentos</li>
+      <li>Personalização da interface do usuário</li>
+      <li>Inclui todas as funcionalidades esperadas de um processador de texto moderno</li>
+      <li>Suporte para ODT (Texto Open Document)</li>
+    </ul>
+  </description>
+  <description lang="ru">
+    <p>Возможности:</p>
+  </description>
+  <description lang="sk">
+    <p>Words je intuitívny textový procesor a aplikácia na desktopové publikovanie. Môžete pomocou neho vytvoriť informatívne a atraktívne dokumenty s radosťou a jednoduchosťou.</p>
+    <p>Funkcie:</p>
+    <ul>
+      <li>Rámcovo založené editovanie</li>
+      <li>Umožňuje vkladanie dokumentov</li>
+      <li>Úprava používateľského rozhrania</li>
+      <li>Obsahuje všetky funkcie očakávané od moderného textového procesora</li>
+      <li>Podpora ODT (Open Document Text)</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <p>Words är en intuitiv ordbehandlare och skrivbordspubliceringsprogram. Det gör att du kan skapa informativa och attraktiva dokument med nöje och enkelhet.</p>
+    <p>Funktioner:</p>
+    <ul>
+      <li>Rambaserad redigering</li>
+      <li>Tillåter att dokument inbäddas</li>
+      <li>Anpassning av användargränssnitt</li>
+      <li>Innehåller alla funktioner som förväntas av en modern ordbehandlare</li>
+      <li>Stöd för ODT (Open Document Text)</li>
+    </ul>
+  </description>
+  <description lang="tr">
+    <p>Kelime İşlemci, sezgisel bir kelime işlemci ve masaüstü yayın uygulamasıdır. Bununla birlikte, zevkli ve kolaylıkla bilgilendirici ve çekici belgeler oluşturabilirsiniz.</p>
+    <p>Özellikler:</p>
+    <ul>
+      <li>Çerçeve tabanlı düzenleme</li>
+      <li>Belgelerin gömülmesine izin verir</li>
+      <li>Kullanıcı arayüzü özelleştirmesi</li>
+      <li>Modern bir kelime işlemciden beklenen tüm özellikleri sağlar</li>
+      <li>ODT (Açık Belge Metni) desteği</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>Words — інтуїтивно зрозуміла у користування програма для редагування текстів та приготування матеріалів для друку. За її допомогою ви можете створювати інформативні та візуально красиві документи із задоволенням та без напруження.</p>
+    <p>Можливості:</p>
+    <ul>
+      <li>Редагування на основі блоків.</li>
+      <li>Вбудовування об’єктів до документів.</li>
+      <li>Налаштовуваність інтерфейсу користувача.</li>
+      <li>Повний спектр можливостей сучасної програми для редагування тексту.</li>
+      <li>Підтримка стандартів ODT (Open Document Text).</li>
+    </ul>
+  </description>
+  <description lang="x-test">
+    <p>xxWords is an intuitive word processor and desktop publisher application. With it, you can create informative and attractive documents with pleasure and ease.xx</p>
+    <p>xxFeatures:xx</p>
+    <ul>
+      <li>xxFrame-based editingxx</li>
+      <li>xxAllows embedding of Documentsxx</li>
+      <li>xxCustomization of user interfacexx</li>
+      <li>xxIncludes all features expected from a modern word processorxx</li>
+      <li>xxODT (Open Document Text) supportxx</li>
+    </ul>
+  </description>
+  <description lang="zh-CN">
+    <p>功能：</p>
+  </description>
+  <pkgname>calligra</pkgname>
+  <launchable type="desktop-id">org.kde.calligrawords.desktop</launchable>
+  <icon width="64" height="64" type="cached">calligrawords.png</icon>
+  <icon type="cached" height="128" width="128">calligrawords.png</icon>
+  <id>org.kde.calligrawords.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Calligra Words</name>
+  <name lang="ca">Words del Calligra</name>
+  <name lang="ca-valencia">Words del Calligra</name>
+  <name lang="cs">Calligra Words</name>
+  <name lang="de">Calligra Words</name>
+  <name lang="en-GB">Calligra Words</name>
+  <name lang="es">Calligra Words</name>
+  <name lang="et">Calligra Words</name>
+  <name lang="fi">Calligra Words</name>
+  <name lang="fr">Calligra Words</name>
+  <name lang="gl">Calligra Words</name>
+  <name lang="ia">Calligra Words</name>
+  <name lang="id">Calligra Words</name>
+  <name lang="it">Calligra Words</name>
+  <name lang="ko">Calligra Words</name>
+  <name lang="nl">Calligra Words</name>
+  <name lang="pl">Słowa Calligra</name>
+  <name lang="pt">Calligra Words</name>
+  <name lang="pt-BR">Calligra Words</name>
+  <name lang="ru">Calligra Words</name>
+  <name lang="sk">Calligra Words</name>
+  <name lang="sv">Calligra Words</name>
+  <name lang="tr">Calligra Kelime İşlemci</name>
+  <name lang="uk">Calligra Words</name>
+  <name lang="x-test">xxCalligra Wordsxx</name>
+  <name lang="zh-CN">Calligra Words</name>
+  <summary>Word Processor</summary>
+  <summary lang="bs">Program za obradu teksta</summary>
+  <summary lang="ca">Processador de textos</summary>
+  <summary lang="ca-valencia">Processador de textos</summary>
+  <summary lang="cs">Textový procesor</summary>
+  <summary lang="de">Textverarbeitung</summary>
+  <summary lang="en-GB">Word Processor</summary>
+  <summary lang="es">Procesador de texto</summary>
+  <summary lang="et">Tekstitöötlus</summary>
+  <summary lang="fi">Tekstinkäsittely</summary>
+  <summary lang="fr">Traitement de texte</summary>
+  <summary lang="gl">Procesador de texto</summary>
+  <summary lang="ia">Processator de parolas</summary>
+  <summary lang="id">Pengolah Kata</summary>
+  <summary lang="it">Elaboratore di testi</summary>
+  <summary lang="ja">ワードプロセッサ</summary>
+  <summary lang="ko">워드 프로세서</summary>
+  <summary lang="nb">Tekstbehandler</summary>
+  <summary lang="nl">Tekstverwerker</summary>
+  <summary lang="pl">Edytor tekstu</summary>
+  <summary lang="pt">Processador de Texto</summary>
+  <summary lang="pt-BR">Processador de Texto</summary>
+  <summary lang="ru">Текстовый процессор</summary>
+  <summary lang="sk">Textový procesor</summary>
+  <summary lang="sv">Ordbehandlare</summary>
+  <summary lang="tr">Kelime İşlemci</summary>
+  <summary lang="uk">Текстовий процесор</summary>
+  <summary lang="x-test">xxWord Processorxx</summary>
+  <summary lang="zh-CN">文字处理器</summary>
+  <url type="homepage">https://www.calligra.org/words/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=calligrawords</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://cdn.kde.org/screenshots/words/words.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>calligrawords</binary>
+  </provides>
+</component>

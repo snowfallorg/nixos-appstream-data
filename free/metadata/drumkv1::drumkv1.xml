@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>features:<ul>
+        <li>pure stand-alone JACK client with JACK-session, NSM and both JACK MIDI
+    and ALSA MIDI input support;</li>
+        <li>LV2 instrument plugin.
+    URI: http\://drumkv1.sourceforge.net/lv2</li>
+      </ul>
+    </p>
+    <p>
+      <ul>
+        <li>pure stand-alone JACK client with JACK-session, NSM and both JACK MIDI
+    and ALSA MIDI input support;</li>
+        <li>LV2 instrument plugin.
+    URI: http\://drumkv1.sourceforge.net/lv2</li>
+      </ul>
+    </p>
+  </description>
+  <pkgname>drumkv1</pkgname>
+  <icon height="64" width="64" type="cached">drumkv1.png</icon>
+  <icon width="128" height="128" type="cached">drumkv1.png</icon>
+  <id>org.rncbc.drumkv1</id>
+  <metadata_license>FSFAP</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>drumkv1</name>
+  <summary>an old-school drumk-kit sampler</summary>
+  <launchable type="desktop-id">drumkv1.desktop</launchable>
+  <provides>
+    <binary>drumkv1_jack</binary>
+  </provides>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://drumkv1.sourceforge.io/image/drumkv1-screenshot9.png</image>
+      <caption>The main window showing the application in action</caption>
+    </screenshot>
+  </screenshots>
+  <keywords>
+    <keyword>Audio</keyword>
+    <keyword>MIDI</keyword>
+    <keyword>ALSA</keyword>
+    <keyword>JACK</keyword>
+    <keyword>Synthesizer</keyword>
+    <keyword>Sampler</keyword>
+    <keyword>LV2</keyword>
+    <keyword>Qt</keyword>
+  </keywords>
+  <url type="homepage">https://drumkv1.sourceforge.io</url>
+  <project_group>rncbc.org</project_group>
+  <developer_name>rncbc aka. Rui Nuno Capela</developer_name>
+  <update_contact>rncbc@rncbc.org</update_contact>
+</component>

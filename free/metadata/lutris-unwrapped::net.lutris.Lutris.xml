@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>lutris-unwrapped</pkgname>
+  <icon height="64" type="cached" width="64">lutris.png</icon>
+  <icon type="cached" height="128" width="128">lutris.png</icon>
+  <id>net.lutris.Lutris</id>
+  <project_license>GPL-3.0-or-later</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+  <translation type="gettext">lutris</translation>
+  <developer_name translatable="no">Lutris Team</developer_name>
+  <update_contact>strider@strycore.com</update_contact>
+  <name translatable="no">Lutris</name>
+  <summary>Video game preservation platform</summary>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Main window</caption>
+      <image>https://lutris.net/static/images/lutris-window.png</image>
+    </screenshot>
+  </screenshots>
+  <description>
+    <p>Lutris helps you install and play video games from all eras and from most gaming systems. By leveraging and combining existing emulators, engine re-implementations and compatibility layers, it gives you a central interface to launch all your games.</p>
+  </description>
+  <url type="homepage">https://lutris.net</url>
+  <url type="donation">https://lutris.net/donate</url>
+  <url type="help">https://forums.lutris.net</url>
+  <url type="faq">https://lutris.net/faq</url>
+  <url type="translate">https://github.com/lutris/lutris/tree/master/po</url>
+  <url type="bugtracker">https://github.com/lutris/lutris/issues</url>
+  <launchable type="desktop-id">net.lutris.Lutris.desktop</launchable>
+  <releases>
+    <release version="0.5.10.1" date="2022-18-04" />
+  </releases>
+  <content_rating type="oars-1.1" />
+</component>

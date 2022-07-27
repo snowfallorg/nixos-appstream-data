@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <description>
+    <p>
+      Do you need to clean up your music library? Picard is an open-source
+      cross-platform music tagger by MusicBrainz. It has the ability to
+      identify audio files even without any existing metadata.
+    </p>
+    <p>
+      Picard helps you organize your music collection by renaming your music
+      files and sorting them into a folder structure exactly the way you want
+      it. A variety of plugins are available and you can even write your own.
+      Picard supports a wide range of audio formats and can also lookup an
+      entire CD for you.
+    </p>
+    <p>
+      Tagging audio files has never been easier.
+    </p>
+    <p>Features:</p>
+    <ul>
+      <li>
+        Multiple formats: Picard supports all popular music formats,
+        including MP3, FLAC, OGG, M4A, WMA, WAV, and more.
+      </li>
+      <li>
+        AcoustID: Picard uses AcoustID audio fingerprints, allowing files
+        to be identified by the actual music, even if they have no metadata.
+      </li>
+      <li>
+        Comprehensive database: Picard uses the open and
+        community-maintained MusicBrainz database to provide accurate
+        information about millions of music releases.
+      </li>
+      <li>
+        CD lookups: Picard can lookup entire music CDs with a click.
+      </li>
+      <li>
+        Plugin support: If you need a particular feature, you can choose
+        from a selection of available plugins or write your own.
+      </li>
+      <li>
+        Scripting: A flexible but easy to learn scripting language allows
+        you to exactly specify how your music files will be named and how the
+        tags will look like.
+      </li>
+      <li>
+        Open Source: Picard is licensed under the GNU General Public License 2.0
+        or later, and is hosted on GitHub where it is actively
+        developed by some awesome developers.
+      </li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>Musst du deine Musik-Sammlung aufräumen? Picard ist ein plattformübergreifender Open Source Musik-Tagger von MusicBrainz. Er kann Audio-Dateien selbst ohne vorhandene Metadaten identifizieren.</p>
+    <p>Picard hilft dir, deine Musik-Sammlung zu organisieren, indem es deine Musikdateien genauso wie du es möchtest umbenennt und in Ordner einsortiert. Es steht eine Vielzahl an Plugins zur Verfügung und du kannst sogar deine eigenen schreiben. Picard unterstützt viele Audio-Formate und kann auch die gesamten Daten einer CD abfragen.</p>
+    <p>Audio-Dateien zu taggen war nie zuvor einfacher.</p>
+    <p>Funktionen:</p>
+    <ul>
+      <li>Viele Formate: Picard unterstützt alle populären Musikformate, einschließlich MP3, FLAC, OGG, M4A, WMA, WAV und mehr.</li>
+      <li>AcoustID: Picard verwendet AcoustID Audio-Fingerabdrücke, um Dateien anhand der Musik zu identifizieren, ganz ohne vorhandene Metadaten.</li>
+      <li>Umfassende Datenbank: Picard verwendet die offene und von der Community betriebene MusicBrainz-Datenbank, um akkurate Informationen zu Millionen von Musik-Veröffentlichungen zu bieten.</li>
+      <li>CD-Abfrage: Picard kann mit nur einem Klick die gesamten Daten einer Musik-CD abfragen.</li>
+      <li>Plugin-Unterstützung: Wenn du ein bestimmtes Feature benötigst, kannst du aus einer Vielzahl verfügbarer Plugins wählen oder dein eigenes schreiben.</li>
+      <li>Scripting: Eine flexible aber einfach zu erlernende Scriptsprache erlaubt dir genau festzulegen, wie deine Musikdateien benannt und wie die Tags aussehen werden.</li>
+      <li>Open Source: Picard ist unter der GNU General Public License 2.0 (oder höher) lizenziert und wird auf GitHub von großartigen Entwicklern weiterentwickelt.</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>¿Necesitas ordenar tu biblioteca de música? 
+Picard es un etiquetador de música multiplataforma open source de MusicBrainz. Tiene la capacidad de identificar archivos de audio incluso sin metadatos disponibles.</p>
+    <p>Picard lo ayuda a organizar su colección de música cambiando el nombre de sus archivos de música y ordenándolos en una estructura de carpetas exactamente como lo desea. Hay una variedad de complementos disponibles e incluso puedes escribir los tuyos. Picard admite una amplia gama de formatos de audio y también puede buscar un CD completo por ti.</p>
+    <p>Etiquetar archivos de música nunca ha sido tan fácil.</p>
+    <p>Características:</p>
+    <ul>
+      <li>Múltiples formatos: 
+Picard es compatible con todos los formatos de música populares como  MP3, FLAC, OGG, M4A, WMA, WAV y más.</li>
+      <li>AcoustID: 
+Picard utiliza las huellas digitales de audio de AcoustID que permiten identificar los archivos de audio incluso si no tienen metadatos.</li>
+      <li>Amplia base de datos: Picard utiliza la base de datos abierta y mantenida por la comunidad MusicBrainz para proporcionar información precisa sobre millones de lanzamientos musicales.</li>
+      <li>Búsqueda de CD: 
+Picard puede buscar un CD de música completo con solo un clic.</li>
+      <li>Compatible con complementos:
+Elije entre todos los  complementos disponibles. O crea uno propio.</li>
+      <li>Secuencias de órdenes: 
+Un lenguaje de secuencias de órdenes flexible pero fácil de aprender: permite especificar exactamente cómo se llamarán sus archivos de música y cómo se verán las etiquetas.</li>
+      <li>Open Source: Picard está licenciado bajo la Licencia Pública General GNU 2.0 o posterior, y está alojado en GitHub, donde lo desarrollan activamente muchos magníficos desarrolladores.</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>Haluaisitko järjestää musiikkikirjastosi? Picard on avoimen lähdekoodin alustariippumaton musiikkitunnisteiden hallintaohjelma MusicBrainzilta. Se pystyy tunnistaamaan äänitiedostoja jopa ilman niiden sisältämää metatietoa.</p>
+    <p>Picard auttaa sinua järjestelemään musiikkikirjastosi nimeämällä musiikkitiedostosi ja lajittelemalla ne hakemistorakenteeseen juuri niin kuin itse haluat. Useita liitännäisiä on myös saatavilla, ja voit kirjoittaa omiakin. Picard tukee monia äänitiedostomuotoja ja pystyy etsimään koko CD-levyn tiedotkin.</p>
+    <p>Äänitiedostojen tunnisteiden hallitseminen ei ole ollut koskaan näin helppoa.</p>
+    <p>Ominaisuudet:</p>
+    <ul>
+      <li>Useita tiedostomuotoja: Picard tukee kaikkia suosittuja musiikkitiedostomuotoja, mukaan lukien MP3, FLAC, OGG, M4A, WMA, WAV ja monet muut.</li>
+      <li>AcoustID: Picard käyttää AcoustID-äänitunnisteita, joilla voidaan tunnistaa tiedosto sen sisältämän musiikin perusteella, vaikka tiedostossa ei olisi metatietoja.</li>
+      <li>Kattava tietokanta: Picard hyödyntää avointa ja yhteisön ylläpitämää MusicBrainz-tietokantaa, josta saa tietoa miljoonista musiikkijulkaisuista.</li>
+      <li>CD-haku: Picard voi etsiä koko musiikki-CD:n yhdellä napinpainalluksella.</li>
+      <li>Liitännäiset: Tarvitessasi tiettyä ominaisuutta, voit valita jonkun valmiista liitännäisistä, tai tehdä omasi.</li>
+      <li>Komentojonot: Taipuisa mutta helposti omaksuttava komentojonokieli auttaa määrittämään tarkasti miten haluat musiikkitiedostosi nimettävän ja miltä niiden tiedot näyttävät.</li>
+      <li>Avoin lähdekoodi: Picard on lisensoitu GNU General Public License 2.0 tai uudempi lisenssillä, ja se on saatavilla GitHubista, jossa sitä aktiivisesti kehitetään.</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>Avez-vous besoin de nettoyer votre collection de musique ? Picard est un baliseur de fichiers musicaux libre et multi-plateformes par MusicBrainz. Il est capable d'identifier les fichiers audio même sans aucune métadonnée existante.</p>
+    <p>Picard vous aide à organiser votre collection musicale en renommant vos fichiers audio et en les triant dans une structure de répertoires exactement comme vous le souhaitez. Différents greffons sont disponibles et vous pouvez même créer le vôtre. Picard supporte une grande variété de formats audio et peut aussi rechercher un CD entier pour vous.</p>
+    <p>Baliser des fichiers audio n'a jamais été aussi facile.</p>
+    <p>Fonctionnalités :</p>
+    <ul>
+      <li>Formats multiples : Picard supporte la plupart des formats de fichiers audio courants, entre autres,  MP3, FLAC, OGG, M4A, WMA, WAV.</li>
+      <li>AcoustID: Picard utilise les empreintes audio-acoustiques AcoustID, permettant l'identification des fichiers audio par la musique qu'ils contiennent, même s'ils n'ont aucune métadonnée.</li>
+      <li>Base de données riche : Picard utilise la base de données ouverte et maintenue par une communauté de MusicBrainz, pour fournir des informations précises à propos de millions de parutions musicales.</li>
+      <li>Recherche de CD : Picard peut rechercher un CD musical en un clic.</li>
+      <li>Support de greffons : si vous avez besoin d'une fonctionnalité particulière, vous pouvez choisir parmi une sélection de greffons disponibles ou écrire le vôtre.</li>
+      <li>Langage de script : Un langage de script, souple et simple à apprendre, vous permet de spécifier exactement comment vous voulez que vos fichiers soient nommés et à quoi les balises doivent ressembler.</li>
+      <li>Open Source : Picard est sous licence GNU General Public License 2.0 (ou plus), et est hébergé sur GitHub où il est activement maintenu par de formidables développeurs.</li>
+    </ul>
+  </description>
+  <description lang="he">
+    <p>רוצים לארגן את ספריית המוזיקה שלכם? פיקארד הוא מתייג מוזיקה, שנכתב בקוד פתוח, חוצה מסדות, מאת מיוזיקבריינז. בעל יכולת זיהוי קבצי שמע גם ללא נתוני־על קיימים.</p>
+    <p>פיקארד מסייע בארגון אוסף המוזיקה על־ידי שינוי שם קבצי המוזיקה ומיון הקבצים למבנה תיקיות בדיוק לצרכים האישיים. מגוון של מִתְקָעים זמינים, ניתן גם לכתוב מתקעים לבד. פיקארד תומך במגוון רחב של תבניות שמע ויודע לחפש תקליטור שלם.</p>
+    <p>תיוג קובצי שמע מעולם לא היה קל יותר.</p>
+    <p>תכונות:</p>
+    <ul>
+      <li>תבניות מרובות: פיקארד תומך בכל התבניות המוזיקה המקובלות לרבות MP3, FLAC, OGG, M4A, WMA, WAV, ועוד.</li>
+      <li>AcoustID: פיקארד עושה שימוש טביעת אצבע אודיו AcoustID כדי לזהות את הקבצים על־ידי המוזיקה עצמה, גם אם אין להם מטא-נתונים.</li>
+      <li>מסד נתונים מקיף: פיקארד משתמש במסד הנתונים הפתוח המתוחזק על־ידי קהילת מיוזיקבריינז על מנת לספק מידע מדויק על מיליוני הוצאות מוזיקה.</li>
+      <li>חיפוש תקליטורים: פיקארד יכול לחפש תקליטורי מוזיקה שלמים בלחיצת כפתור.</li>
+      <li>תמיכה מִתְקָעים: אם אתם צריכים תכונה מסוימת, תוכלו לבחור מתוך מבחר של מִתְקָעים זמין או לכתוב מִתְקָעים משלכם.</li>
+      <li>תסרוט: שפת תסרוט גמישה אך קלה ללימוד מאפשרת להגדיר  כיצד בדיוק קובצי המוזיקה יכונו וכיצד התגים יראו.</li>
+      <li>קוד פתוח: פיקארד מרושה תחת הרישיון הציבורי הכללי של GNU 2.0 ואילך, ומתארח ב־ GitHub, שם הוא מפותח באופן פעיל על־ידי כמה מפתחים מדהימים.</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>Vuoi riordinare la tua libreria musicale? Picard è un tagger musicale open-source e multipiattaforma di MusicBrainz. È in grado di identificare file audio anche in assenza di metadati.</p>
+    <p>Picard ti aiuta a organizzare la tua collezione musicale rinominando i file e ordinandoli in cartelle secondo la struttura che desideri. Diversi plugin sono già disponibili e puoi persino crearne di nuovi. Picard supporta una vasta gamma di formati audio e può anche cercare un intero CD per te.</p>
+    <p>Taggare file audio non è mai stato così facile.</p>
+    <p>Funzionalità:</p>
+    <ul>
+      <li>Formati diversi: Picard supporta tutti i formati di musica più popolari, tra cui MP3, FLAC, OGG, M4A, WMA, WAV e altri.</li>
+      <li>AcoustID: Picard usa le impronte digitali audio AcoustID, che permettono di identificare i file a partire dalla musica, anche in assenza di metadati.</li>
+      <li>Database esauriente: Picard usa il database aperto e mantenuto dalla comunità di MusicBrainz per fornire informazioni accurate su milioni di pubblicazioni musicali.</li>
+      <li>Ricerche CD: Picard può cercare interi CD musicali con un click.</li>
+      <li>Supporto plugin: Se hai bisogno di una funzionalità specifica, puoi scegliere da un elenco di plugin disponibili o creare il tuo.</li>
+      <li>Script: Un linguaggio di script flessibile ma facile da imparare ti permette di specificare con esattezza come rinominare i tuoi file musicali e come far apparire i tuoi tag.</li>
+      <li>Open source: Picard è rilasciato sotto la licenza GNU General Public License 2.0 o successive ed è ospitato su GitHub, dove è sviluppato attivamente da alcuni fantastici sviluppatori.</li>
+    </ul>
+  </description>
+  <description lang="ms_MY">
+    <p>Pustaka muzik anda agak bersepah? Picard ialah sebuah penanda muzik sumber terbuka yang rentas pelantar oleh MusicBrainz. Picard mampu mengenal pasti fail audio biarpun tanpa mana-mana data meta yang sedia ada.</p>
+    <p>Picard mampu menyusun atur kumpulan muzik anda melalui penamaan semula dan pengisihan fail muzik ke dalam struktur pelipat yang dikehendaki. Anda boleh memilih antara pemalam yang tersedia ataupun menulis pemalam sendiri. Picard menyokong pelbagai jenis format audio. Di samping itu, Picard juga mampu mencari CD lengkap untuk anda.</p>
+    <p>Begitu mudah menanda fail-fail audio.</p>
+    <p>Ciri-ciri:</p>
+    <ul>
+      <li>Beraneka format: Picard menyokong seluruh format muzik tenar. Antaranya termasuklah MP3, FLAC, OGG, M4A, WMA, WAV dan banyak lagi.</li>
+      <li>AcoustID: Picard menggunakan sidikan bunyi AcoustID untuk membolehkan fail-fail dikenal pasti oleh kandungan muziknya biarpun tanpa data meta.</li>
+      <li>Pangkalan data yang tuntas: Picard menggunakan pangkalan data MusicBrainz untuk membekalkan maklumat yang tepat berkenaan jutaan keluaran muzik. MusicBrainz ialah sebuah pangkalan data terbuka yang ditanggung oleh kelompok masyarakat.</li>
+      <li>Carian CD: Picard boleh mencari CD muzik lengkap dengan hanya satu ketikan.</li>
+      <li>Sokongan pemalam: Anda boleh membuat pilihan antara pemalam yang tersedia ataupun tulis sendiri pemalam sekiranya terdapat ciri yang anda ingini.</li>
+      <li>Penskripan: Bahasa penskripan yang digunakan adalah anjal serta mudah dipelajari. Hal ini membolehkan anda menentukan penamaan fail muzik anda serta rupa tandanya.</li>
+      <li>Sumber Terbuka: Picard dilesenkan di bawah Lesen Awam Am GNU 2.0 atau yang terkemudian. Picard juga dihoskan di GitHub serta sedang giat dibangunkan oleh pembangun-pembangun yang hebat.</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>Wil je je muziekbibliotheek opschonen? Picard is een openbrontagger voor meerdere platformen van MusicBrainz. Het kan je audiobestanden zelfs zonder bestaande tags identificeren.</p>
+    <p>Met Picard kan je je muziekverzameling beheren door je muziekbestanden naar je eigen voorkeuren te hernoemen en op te slaan in een mapstructuur. Er zijn veel plug-ins beschikbaar en je kan ook zelf plug-ins schrijven. Picard ondersteunt een breed scala audioformaten en kan ook een hele cd voor je opzoeken.</p>
+    <p>Audiobestanden taggen was nog nooit zo makkelijk.</p>
+    <p>Functies:</p>
+    <ul>
+      <li>Veel bestandsformaten: Picard ondersteunt alle populaire muziekformaten, waaronder mp3, FLAC, OGG, M4A, WMA, WAV en nog veel meer.</li>
+      <li>AcoustID: Picard gebruikt AcoustID-vingerafdrukken om bestanden aan de hand van het geluid te identificeren, zelfs als ze geen tags hebben.</li>
+      <li>Uitgebreide database: dankzij de open en door de gemeenschap onderhouden MusicBrainz-database geeft Picard je precieze informatie over miljoenen uitgaven.</li>
+      <li>Cd’s opzoeken: Picard kan hele muziek-cd’s met een klik opzoeken.</li>
+      <li>Plug-inondersteuning: als je een bepaalde functie nodig hebt, kan je kiezen uit een brede selectie beschikbare plug-ins of er zelf een schrijven.</li>
+      <li>Scripts: een flexibele maar eenvoudig te leren scripttaal geeft je de mogelijkheid om de bestandsnamen en tags van je muziekbestanden aan je eigen wensen aan te passen.</li>
+      <li>Open bron: Picard heeft een GNU General Public License 2.0-licentie of hoger en wordt gehost op GitHub, waar het door geweldige ontwikkelaars wordt ontwikkeld.</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>Precisa de limpar a sua biblioteca de música? O Picard é um etiquetador de música multiplataforma de código aberto do MusicBrainz. Tem a capacidade de identificar ficheiros de áudio mesmo sem metadados existentes.</p>
+    <p>Picard te ajuda a organizar sua coleção de músicas ao renomear seus arquivos e organizá-los em uma pasta estruturada do jeito que você preferir. Um variedade de plugins estão disponíveis e você até pode criar o seu. Picard suporta uma grande gama de formatos de áudio e pode também procurar um CD inteiro para você.</p>
+    <p>Etiquetar ficheiros de áudio nunca foi tão fácil.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Vários formatos: o Picard suporta vários formatos comuns, incluindo MP3, FLAC, OGG, M4A, WMA, WAV entre outros.</li>
+      <li>AcoustID: o Picard usar as impressões digitais de áudio AcoustID, permitindo que os ficheiros sejam identificados exatamente pela música, mesmo que não contenha metadados.</li>
+      <li>Base de dados abrangente: o Picard usa a base de dados mantida pela comunidade para fornecer informação rigorosa sobre milhões de lançamentos de músicas.</li>
+      <li>Procuras de CD: o Picard pode pesquisar CDs inteiros só com um clique.</li>
+      <li>Suporte a plug-ins: se precisar de uma funcionalidade em particular, pode escolher de uma variada seleção de plug-ins disponíveis ou criar o seu.</li>
+      <li>Scripts: tem disponível uma linguagem de scripts, fácil de aprender, que lhe permite especificar com exatidão como é que serão os nomes dos seus ficheiros de música e como as etiquetas irão aparecer.</li>
+      <li>Código-fonte aberto: o Picard é disponibilizado segundo a Licença Pública Geral GNU 2.0 ou posterior, sendo alojado no GitHub onde é desenvolvido ativamente por alguns programadores fantásticos.</li>
+    </ul>
+  </description>
+  <description lang="pt_BR">
+    <p>Você precisa limpar sua biblioteca de música? Picard é um marcador de música multiplataforma de código aberto da MusicBrainz. Ele tem a capacidade de identificar arquivos de áudio, mesmo sem qualquer metadado existente.</p>
+    <p>Picard te ajuda a organizar sua coleção de músicas ao renomear seus arquivos e organizá-los em uma pasta estruturada do jeito que você preferir. Um variedade de plugins estão disponíveis e você até pode criar o seu. Picard suporta uma grande gama de formatos de áudio e pode também procurar um CD inteiro para você.</p>
+    <p>Marcar arquivos de áudio nunca foi tão fácil.</p>
+    <p>Características:</p>
+    <ul>
+      <li>Vários formatos: O Picard suporta todos os formatos de música populares, incluindo MP3, FLAC, OGG, M4A, WMA, WAV e muito mais.</li>
+      <li>AcoustID: O Picard usa impressões digitais de áudio AcoustID, permitindo que os arquivos sejam identificados pela música real, mesmo que eles não tenham metadados.</li>
+      <li>Banco de dados abrangente: o Picard usa o banco de dados aberto e mantido pela comunidade do MusicBrainz para fornecer informações precisas sobre milhões de lançamentos musicais.</li>
+      <li>Pesquisas de CD: Picard pode procurar CDs de música inteiros com um clique.</li>
+      <li>Suporte a plug-ins: se você precisar de um recurso específico, poderá escolher entre uma seleção de plug-ins disponíveis ou escrever seus próprios.</li>
+      <li>Scripting: Uma linguagem de script flexível, mas fácil de aprender, permite que você especifique exatamente como seus arquivos de música serão nomeados e como serão as etiquetas.</li>
+      <li>Open Source: O Picard é licenciado sob a GNU General Public License 2.0 ou posterior, e é hospedado no GitHub, onde é desenvolvido ativamente por alguns desenvolvedores incríveis.</li>
+    </ul>
+  </description>
+  <description lang="sq">
+    <p>Keni nevojë të pastroni librarinë tuaj muzikore? Picard është një etiketues muzike, me burim të hapur, ndërplatformësh, nga MusicBrainz. Ka aftësinë të identifikojë kartela audio edhe pa ndonjë tejtëdhënë ekzistuese.</p>
+    <p>Picard-i ju ndihmon të sistemoni koleksionin tuaj të muzikës duke riemërtuar kartelat tuaja muzikore dhe duke i renditur në një strukturë dosjeje saktësisht në mënyrën që doni. Ka një larmi shtojcash të gatshme dhe madje mund të shkruani tuajën. Picard-i mbulon një gamë të gjerë formatesh audio dhe mund të kërkojë për ju një CD të tërë.</p>
+    <p>Etiketimi i kartelave audio s’ka qenë kurrë më i lehtë se sot.</p>
+    <p>Veçori:</p>
+    <ul>
+      <li>Formate të shumtë: Picard-i mbulon krejt formatet popullorë të muzikës, përfshi MP3, FLAC, OGG, M4A, WMA, WAV, etj.</li>
+      <li>AcoustID: Picard-i përdor shenja gishtash audio AcoustID, duke lejuar që kartelat të identifikohen nga muzika faktike, madje edhe kur nuk kanë tejtëdhëna.</li>
+      <li>Bazë e plotë të dhënash: për të furnizuar informacion të saktë rreth miliona hedhjesh muzikore në qarkullim, Picard-i përdor bazën e të dhënave MusicBrainz, të hapur dhe të mirëmbajtur nga bashkësia.</li>
+      <li>Kërkim CD-je: Picard-i mund të kërkojë me një klikim për CD të tëra muzikore.</li>
+      <li>Mbulim shtojcash: Nëse ju duhet një veçori, mund të zgjidhni prej një përzgjedhje të shtojcave të gatshme ose të hartoni tuajën.</li>
+      <li>Skriptim: Një gjuhë e zhdërvjellët, por e lehtë për t’u mësuar, ju lejon të specifikoni saktësisht se si do të emërtohen kartelat tuaja muzikore dhe se si do të duken etiketat.</li>
+      <li>Me Burim të Hapur: Picard-i qarkullon sipas licencës GNU General Public License 2.0 ose të mëvonshme, dhe strehohet në GitHub, ku zhvillohet në mënyrë aktive nga disa programues të mrekullueshëm.</li>
+    </ul>
+  </description>
+  <description lang="zh">
+    <p>您的音乐库需要清理吗? Picard 是一款开源、跨平台的音乐标签软件，由 MusicBrainz 出品。它甚至能够在没有任何元数据的情况下鉴别音频文件。</p>
+    <p>Picard通过重命名音乐文件并将其完全按照所需的方式分类到文件夹结构中，从而帮助您组织音乐集。 它提供了各种插件，您甚至可以编写自己的插件。 Picard支持多种音频格式，还可以为您查找整个CD。</p>
+    <p>为音频文件添加标签从未如此简单。</p>
+    <p>功能:</p>
+    <ul>
+      <li>多格式: Picard 支持所有主流音乐格式，包括 MP3, FLAC, OGG, M4A, WMA, WAV 等。</li>
+      <li>AcoustID: Picard 采用 AcoustID 音频指纹算法，可根据音频中实际存在的音乐来鉴别文件，即使文件无元数据信息也能做到。</li>
+      <li>数据库全面: Picard 采用开放的、由社区共同维护的 MusicBrainz 数据库提供数百万张专辑的精确信息。</li>
+      <li>CD 查询: Picard 可一键查询整张音乐 CD。</li>
+      <li>插件支持: 如果您需要特定的功能，可以从现有的插件库中挑选，也可以编写自己的插件。</li>
+      <li>脚本功能: 灵活简便的脚本功能允许您明确地指定音乐文件的命名方式，以及标签的显示方式。</li>
+      <li>开源: Picard 按照 GNU 通用公共许可证 (GPL) 2.0 或更高版本授权，托管于 GitHub，由许多超赞的开发者共同打造。</li>
+    </ul>
+  </description>
+  <description lang="zh-Hans">
+    <p>您的音乐库需要清理吗? Picard 是一款开源、跨平台的音乐标签软件，由 MusicBrainz 出品。它甚至能够在没有任何元数据的情况下鉴别音频文件。</p>
+    <p>Picard通过重命名音乐文件并将其完全按照所需的方式分类到文件夹结构中，从而帮助您组织音乐集。 它提供了各种插件，您甚至可以编写自己的插件。 Picard支持多种音频格式，还可以为您查找整个CD。</p>
+    <p>为音频文件添加标签从未如此简单。</p>
+    <p>功能:</p>
+    <ul>
+      <li>多格式: Picard 支持所有主流音乐格式，包括 MP3, FLAC, OGG, M4A, WMA, WAV 等。</li>
+      <li>AcoustID: Picard 采用 AcoustID 音频指纹算法，可根据音频中实际存在的音乐来鉴别文件，即使文件无元数据信息也能做到。</li>
+      <li>数据库全面: Picard 采用开放的、由社区共同维护的 MusicBrainz 数据库提供数百万张专辑的精确信息。</li>
+      <li>CD 查询: Picard 可一键查询整张音乐 CD。</li>
+      <li>插件支持: 如果您需要特定的功能，可以从现有的插件库中挑选，也可以编写自己的插件。</li>
+      <li>脚本功能: 灵活简便的脚本功能允许您明确地指定音乐文件的命名方式，以及标签的显示方式。</li>
+      <li>开源: Picard 按照 GNU 通用公共许可证 (GPL) 2.0 或更高版本授权，托管于 GitHub，由许多超赞的开发者共同打造。</li>
+    </ul>
+  </description>
+  <description lang="zh_CN">
+    <p>您的音乐库需要清理吗? Picard 是一款开源、跨平台的音乐标签软件，由 MusicBrainz 出品。它甚至能够在没有任何元数据的情况下鉴别音频文件。</p>
+    <p>Picard通过重命名音乐文件并将其完全按照所需的方式分类到文件夹结构中，从而帮助您组织音乐集。 它提供了各种插件，您甚至可以编写自己的插件。 Picard支持多种音频格式，还可以为您查找整个CD。</p>
+    <p>为音频文件添加标签从未如此简单。</p>
+    <p>功能:</p>
+    <ul>
+      <li>多格式: Picard 支持所有主流音乐格式，包括 MP3, FLAC, OGG, M4A, WMA, WAV 等。</li>
+      <li>AcoustID: Picard 采用 AcoustID 音频指纹算法，可根据音频中实际存在的音乐来鉴别文件，即使文件无元数据信息也能做到。</li>
+      <li>数据库全面: Picard 采用开放的、由社区共同维护的 MusicBrainz 数据库提供数百万张专辑的精确信息。</li>
+      <li>CD 查询: Picard 可一键查询整张音乐 CD。</li>
+      <li>插件支持: 如果您需要特定的功能，可以从现有的插件库中挑选，也可以编写自己的插件。</li>
+      <li>脚本功能: 灵活简便的脚本功能允许您明确地指定音乐文件的命名方式，以及标签的显示方式。</li>
+      <li>开源: Picard 按照 GNU 通用公共许可证 (GPL) 2.0 或更高版本授权，托管于 GitHub，由许多超赞的开发者共同打造。</li>
+    </ul>
+  </description>
+  <description lang="zh_TW">
+    <p>您需要整理您的音樂收藏庫？Picard 是開放源代碼且跨平臺的音樂標籤管理程式，由 MusicBrainz 製作。就算沒有後設資料參考，它也有能力辨識音訊檔案。</p>
+    <p>Picard 依照您指定的方式來重新命名音樂檔案，並整理進資料夾，藉此幫助您整理您的音樂收藏。Picard 有多種插件可使用，您甚至可以撰寫自己的插件。Picard 支援多種音樂格式，也可以為您查找整張 CD。</p>
+    <p>管理音訊檔案的標籤從來沒有這麼簡單。</p>
+    <p>功能:</p>
+    <ul>
+      <li>多種格式: Picard 支援所有流行的音樂格式，包含 MP3、FLAC、OGG、M4A、WMA、WAV，與其他。</li>
+      <li>AcoustID: Picard 使用 AcoustID 音訊特徵碼，來實際辨認音樂本體，即使它們缺少後設資料。</li>
+      <li>綜合資料庫: Picard 使用開放且由社群維護的 MusicBrainz 資料庫來提供上百萬筆音樂發行品的準確資訊。</li>
+      <li>CD 查找: Picard 可以按一下就查找整張音樂 CD。</li>
+      <li>套件支援: 如果您需要特別功能，您可以從預先提供的套件中選擇，或是製作您自己的套件。</li>
+      <li>腳本: 彈性但易學的腳本語言，讓您可以準確指定您的音樂檔案如何命名，與如何上標籤。</li>
+      <li>開放源代碼: Picard 基於 GNU 通用公共授權條款 2.0 或其之後的版本，且在有優秀開發者所開發的 GitHub 上託管。</li>
+    </ul>
+  </description>
+  <pkgname>picard</pkgname>
+  <icon width="64" height="64" type="cached">org.musicbrainz.Picard.png</icon>
+  <icon type="cached" width="128" height="128">org.musicbrainz.Picard.png</icon>
+  <id>org.musicbrainz.Picard</id>
+  <project_license>GPL-2.0-or-later</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>MusicBrainz Picard</name>
+  <name lang="zh-Hans">MusicBrainz Picard</name>
+  <name lang="zh_TW">MusicBrainz Picard</name>
+  <name lang="zh_CN">MusicBrainz Picard</name>
+  <name lang="zh">MusicBrainz Picard</name>
+  <name lang="sq">MusicBrainz Picard</name>
+  <name lang="pt_BR">MusicBrainz Picard</name>
+  <name lang="pt">MusicBrainz Picard</name>
+  <name lang="nl">MusicBrainz Picard</name>
+  <name lang="ms_MY">Picard MusicBrainz</name>
+  <name lang="it">MusicBrainz Picard</name>
+  <name lang="he">מוזיקבריינז פיקארד</name>
+  <name lang="fr">MusicBrainz Picard</name>
+  <name lang="fi">MusicBrainz Picard</name>
+  <name lang="es">MusicBrainz Picard</name>
+  <name lang="de">MusicBrainz Picard</name>
+  <summary>MusicBrainz's music tagger</summary>
+  <summary lang="zh-Hans">MusicBrainz 出品的音乐标签软件</summary>
+  <summary lang="zh_TW">MusicBrainz 的音樂標籤管理程式</summary>
+  <summary lang="zh_CN">MusicBrainz 出品的音乐标签软件</summary>
+  <summary lang="zh">MusicBrainz 出品的音乐标签软件</summary>
+  <summary lang="sq">Etiketues muzike nga MusicBrainz</summary>
+  <summary lang="pt_BR">Marcador de música do MusicBrainz</summary>
+  <summary lang="pt">Etiquetador de música do MusicBrainz</summary>
+  <summary lang="nl">MusicBrainz’ muziektagger</summary>
+  <summary lang="ms_MY">Penanda muzik MusicBrainz</summary>
+  <summary lang="it">Il tagger musicale di MusicBrainz</summary>
+  <summary lang="he">מתייג מוזיקה של מיוזיקבריינז</summary>
+  <summary lang="fr">Le baliseur de fichiers audio de MusicBrainz</summary>
+  <summary lang="fi">MusicBrainzin musiikkitunnisteiden hallintaohjelma</summary>
+  <summary lang="es">Etiquetador de música MusicBrainz</summary>
+  <summary lang="de">MusicBrainz Musik-Tagger</summary>
+  <categories>
+    <category>AudioVideo</category>
+    <category>Audio</category>
+    <category>AudioVideoEditing</category>
+  </categories>
+  <launchable type="desktop-id">org.musicbrainz.Picard.desktop</launchable>
+  <provides>
+    <binary>picard</binary>
+  </provides>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://picard.musicbrainz.org/static/img/screenshots/picard-main-windows.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://picard.musicbrainz.org/static/img/screenshots/picard-options-about.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://picard.musicbrainz.org/static/img/screenshots/picard-options-plugins.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://picard.musicbrainz.org/static/img/screenshots/picard-options-lookup.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://picard.musicbrainz.org/static/img/screenshots/picard-cover-art.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://picard.musicbrainz.org/</url>
+  <url type="bugtracker">https://tickets.metabrainz.org/projects/PICARD/issues/</url>
+  <url type="faq">https://picard-docs.musicbrainz.org/en/faq/faq.html</url>
+  <url type="help">https://picard-docs.musicbrainz.org/</url>
+  <url type="donation">https://metabrainz.org/donate</url>
+  <url type="translate">https://www.transifex.com/musicbrainz/musicbrainz/picard/</url>
+  <translation type="gettext">picard</translation>
+  <developer_name>MetaBrainz Foundation</developer_name>
+  <developer_name lang="zh-Hans">MetaBrainz 基金会</developer_name>
+  <developer_name lang="zh_TW">MetaBrainz 基金會</developer_name>
+  <developer_name lang="zh_CN">MetaBrainz 基金会</developer_name>
+  <developer_name lang="zh">MetaBrainz 基金会</developer_name>
+  <developer_name lang="sq">MetaBrainz Foundation</developer_name>
+  <developer_name lang="pt_BR">MetaBrainz Foundation</developer_name>
+  <developer_name lang="pt">MetaBrainz Foundation</developer_name>
+  <developer_name lang="nl">MetaBrainz Foundation</developer_name>
+  <developer_name lang="ms_MY">Yayasan MetaBrainz</developer_name>
+  <developer_name lang="it">MetaBrainz Foundation</developer_name>
+  <developer_name lang="he">קרן מטהבריינז</developer_name>
+  <developer_name lang="fr">Fondation MetaBrainz</developer_name>
+  <developer_name lang="fi">MetaBrainz-säätiö</developer_name>
+  <developer_name lang="es">Fundación MetaBrainz</developer_name>
+  <developer_name lang="de">MetaBrainz Foundation</developer_name>
+  <content_rating type="oars-1.1">
+    <content_attribute id="money-purchasing">mild</content_attribute>
+  </content_rating>
+  <releases>
+    <release date="2022-06-07" version="2.8.1" />
+    <release version="2.8" date="2022-05-24" />
+    <release version="2.7.3" date="2022-01-13" />
+    <release date="2022-01-11" version="2.7.2" />
+    <release date="2021-12-21" version="2.7.1" />
+    <release version="2.7" date="2021-12-16" />
+    <release date="2021-10-06" version="2.6.4" />
+    <release date="2021-06-07" version="2.6.3" />
+    <release version="2.6.2" date="2021-04-27" />
+    <release date="2021-04-15" version="2.6.1" />
+    <release date="2021-03-30" version="2.6" />
+    <release date="2021-01-05" version="2.5.6" />
+    <release date="2020-12-17" version="2.5.5" />
+    <release date="2020-12-15" version="2.5.4" />
+    <release date="2020-12-15" version="2.5.3" />
+    <release version="2.5.2" date="2020-11-15" />
+    <release date="2020-10-28" version="2.5.1" />
+    <release version="2.5" date="2020-10-22" />
+    <release version="2.4.4" date="2020-09-04" />
+    <release date="2020-09-04" version="2.4.3" />
+    <release date="2020-08-18" version="2.4.2" />
+    <release date="2020-08-11" version="2.4.1" />
+    <release version="2.4" date="2020-08-10" />
+    <release date="2020-05-06" version="2.3.2" />
+    <release version="2.3.1" date="2020-02-27" />
+    <release version="2.3" date="2020-02-17" />
+    <release date="2019-11-06" version="2.2.3" />
+    <release version="2.2.2" date="2019-10-08" />
+    <release date="2019-09-20" version="2.2.1" />
+    <release version="2.2" date="2019-09-14" />
+    <release date="2019-03-03" version="2.1.3" />
+    <release date="2019-01-29" version="2.1.2" />
+    <release version="2.1.1" date="2019-01-29" />
+    <release date="2018-12-20" version="2.1.0" />
+    <release date="2018-09-05" version="2.0.4" />
+    <release version="2.0.3" date="2018-08-10" />
+    <release date="2018-07-30" version="2.0.2" />
+    <release date="2018-07-21" version="2.0.1" />
+    <release date="2018-07-18" version="2.0" />
+    <release version="1.4.2" date="2017-05-08" />
+    <release version="1.4.1" date="2017-04-01" />
+    <release date="2017-02-14" version="1.4" />
+    <release version="1.3.2" date="2015-01-07" />
+    <release date="2014-12-20" version="1.3.1" />
+    <release date="2014-10-20" version="1.3" />
+    <release date="2013-03-30" version="1.2" />
+    <release date="2012-09-03" version="1.1" />
+    <release version="1.0" date="2012-06-02" />
+    <release version="0.16" date="2011-10-23" />
+    <release date="2011-07-31" version="0.15.1" />
+    <release version="0.15" date="2011-07-17" />
+    <release version="0.14" date="2011-05-15" />
+    <release date="2011-03-06" version="0.13" />
+    <release date="2009-11-01" version="0.12.1" />
+    <release version="0.12" date="2009-10-25" />
+    <release date="2008-12-02" version="0.11" />
+    <release date="2008-07-27" version="0.10" />
+    <release version="0.9.0" date="2007-12-16" />
+  </releases>
+</component>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>The intuitive writing app for everyone, from students to developers!</p>
+    <p>With powerful features like:</p>
+    <ul>
+      <li>Easy-to-use markdown editor.</li>
+      <li>Notebooks and tags, quickly find and organize your notes</li>
+      <li>Your work is saved automatically as you write, you will never loose your work!</li>
+      <li>Plugins: such as embedding YouTube videos and setting text color</li>
+      <li>Export as PDF and Markdown files</li>
+      <li>Cross-Note Links to quickly reference other notes</li>
+      <li>3 Beautiful app themes to help you create the best writing environment,</li>
+      <li>And much more!</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>L'application d'écriture intuitive pour tout le monde, des étudiants aux développeurs !</p>
+    <p>Avec des fonctionnalités puissantes comme :</p>
+    <ul>
+      <li>Un éditeur Markdown facile d'utilisation.</li>
+      <li>Des carnets de note et des étiquettes, trouvez et organisez vos notes rapidement</li>
+      <li>Votre travail est enregistré automatiquement au fur et à mesure que vous écrivez, vous ne perdrez jamais votre travail !</li>
+      <li>Extensions : Par exemple l'intégration de vidéos YouTube et la possibilité de changer la couleur du texte</li>
+      <li>Exportez en fichier PDF ou Markdown</li>
+      <li>Effectuez des liens entre les notes avec des références</li>
+      <li>3 magnifiques thèmes pour vous aider à recréer le meilleur environnement d'écriture.</li>
+      <li>Et plus encore !</li>
+    </ul>
+  </description>
+  <pkgname>notes-up</pkgname>
+  <launchable type="desktop-id">com.github.philip_scott.notes-up.desktop</launchable>
+  <icon width="64" type="cached" height="64">com.github.philip_scott.notes-up.png</icon>
+  <id>com.github.philip_scott.notes-up</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>Notes-Up</name>
+  <name lang="fr">Notes-Up</name>
+  <summary>Your New Notebook</summary>
+  <summary lang="fr">Votre nouveau carnet de notes</summary>
+  <provides>
+    <binary>com.github.philip_scott.notes-up</binary>
+  </provides>
+  <releases>
+    <release date="2021-11-29" version="2.0.6">
+      <description>
+        <p>Now on elementary 6.0</p>
+        <ul>
+          <li>Updated and packed Notes-Up for elementary 6.0</li>
+          <li>Add side-by-side mode</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-05-05" version="2.0.2">
+      <description>
+        <p>The Future of Notes-Up, now with fixes!</p>
+        <ul>
+          <li>Searching now highlights text in the viewer and editor</li>
+          <li>Fixed: App theme overwrote the editor theme</li>
+          <li>Russian translation added by Tim77. Thank you and all the other translators for your work!</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-03-25" version="2.0.0">
+      <description>
+        <p>The Future of Notes-Up!</p>
+        <ul>
+          <li>Tags! Tags is the new and hot way to organize your notes! Add them from the new Page Info toolbar! </li>
+          <li>When you add a new tag to a note, Notes-Up will add them to the Sidebar to quickly filter all notes using the tag!</li>
+          <li>Talking about the Sidebar, it has a fresh new look, and a new All Notes button to show all your notes in the pages list!</li>
+          <li>Your note information now appears in the new Page Info Toolbar. It shows where is it and when it was created and updated</li>
+          <li>You can now edit the title of the note without making it the first line of the file from the Page Info Toolbar!</li>
+          <li>Move pages to another notebook with a simple button from the Page Info Toolbar</li>
+          <li>You can now link to other pages from within the viewer!</li>
+          <li>Write in a paper-like theme as well as a new dark mode.</li>
+          <li>Exporting Markdown files is now possible form within Notes-Up!</li>
+          <li>And a lot of work went into making Notes-Up better on the inside! This will speed up the development of future versions!</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.6.3" date="2018-12-21">
+      <description>
+        <p>Quick Bug Fix</p>
+        <ul>
+          <li>Fixed problem where the notes folder would not be re-created if it was deleted, preventing the app from opening again...</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2018-12-04" version="1.6.2">
+      <description>
+        <p>Juno Papercuts</p>
+        <ul>
+          <li>Tooltips with shortcuts now use the new style</li>
+          <li>Fixed a problem where Notes-Up would forget the sidebar size.</li>
+          <li>The styles on the HelpBox have been updated for Juno</li>
+          <li>If you delete the empty page created when you make a notebook, it will not re-appear</li>
+          <li>And other small bug fixes</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.6.1" date="2018-09-23">
+      <description>
+        <p>A Very Juno Update</p>
+        <ul>
+          <li>Notes-Up is now available in elementary OS Juno!</li>
+          <li>Icon updated to use the new elementary color palette</li>
+          <li>Trashed pages show up in the pages list grayed out</li>
+          <li>Added translations for Italian and Japanese</li>
+          <li>Code cleanups and more!</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2017-12-25" version="1.5.0">
+      <description>
+        <p>The Community Update</p>
+        <ul>
+          <li>Pages are better summarized when they have markdown symbols</li>
+          <li>When applying styles to the text, it will automatically wrap around it properly</li>
+          <li>You can now move Notebooks</li>
+          <li>Fixed some errors from exporting, and some other bugs</li>
+          <li>Notes-Up is now translated to Lithuanian, French, Portuguese and Czech!</li>
+          <li>A huge thanks to the translators, and the new contributors! You guys rock!</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.4.6" date="2017-08-16">
+      <description>
+        <p>Spell Checking</p>
+        <ul>
+          <li>Notes-up now checks your spelling while you type! No more excuses for misspelled words in your homework ;)</li>
+          <li>The title of the app now displays your current note and notebook</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.4.3" date="2017-06-06">
+      <description>
+        <p>Quick fix</p>
+        <ul>
+          <li>Prevent crash when closing the preferences dialog</li>
+          <li>Make sure to load all plugins</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/Philip-Scott/Notes-up/master/Screenshot1.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/Philip-Scott/Notes-up/master/Screenshot2.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/Philip-Scott/Notes-up/master/Screenshot3.png</image>
+    </screenshot>
+  </screenshots>
+  <developer_name>Felipe Escoto</developer_name>
+  <developer_name lang="fr">Felipe Escoto</developer_name>
+  <url type="homepage">https://github.com/Philip-Scott/Notes-up</url>
+  <url type="bugtracker">https://github.com/Philip-Scott/Notes-up/issues</url>
+  <url type="help">https://github.com/Philip-Scott/Notes-up/issues</url>
+  <update_contact>felescoto95@hotmail.com</update_contact>
+  <custom>
+    <value key="x-appcenter-color-primary">#BEDAFF</value>
+    <value key="x-appcenter-color-primary-text">#274771</value>
+    <value key="x-appcenter-suggested-price">12</value>
+  </custom>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="violence-desecration">none</content_attribute>
+    <content_attribute id="violence-slavery">none</content_attribute>
+    <content_attribute id="violence-worship">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="sex-homosexuality">none</content_attribute>
+    <content_attribute id="sex-prostitution">none</content_attribute>
+    <content_attribute id="sex-adultery">none</content_attribute>
+    <content_attribute id="sex-appearance">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+</component>

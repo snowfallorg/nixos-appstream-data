@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>pantheon.switchboard-with-plugs</pkgname>
+  <id>io.elementary.switchboard.bluetooth</id>
+  <extends>io.elementary.switchboard</extends>
+  <name>Bluetooth Settings</name>
+  <name lang="zh_CN">蓝牙设置</name>
+  <name lang="uk">Налаштування Bluetooth</name>
+  <name lang="tr">Bluetooth Ayarları</name>
+  <name lang="sr">Поставке Блутута</name>
+  <name lang="ru">Параметры Bluetooth</name>
+  <name lang="pt_BR">Configurações de Bluetooth</name>
+  <name lang="pt">Definições de Bluetooth</name>
+  <name lang="nl">Bluetooth instellingen</name>
+  <name lang="nb">Blåtannsinnstillinger</name>
+  <name lang="mr">ब्लूटूथ सेटिंग्ज</name>
+  <name lang="ja">Bluetooth の設定</name>
+  <name lang="it">Impostazioni del Bluetooth</name>
+  <name lang="he">הגדרות בלוטות׳</name>
+  <name lang="fr">Paramètres Bluetooth</name>
+  <name lang="es">Configuración de Bluetooth</name>
+  <name lang="en_GB">Bluetooth Settings</name>
+  <name lang="cs">Nastavení Bluetooth</name>
+  <name lang="ca">Paràmetres del Bluetooth</name>
+  <summary>Configure Bluetooth Settings</summary>
+  <summary lang="zh_TW">藍芽設定</summary>
+  <summary lang="zh_CN">配置蓝牙设置</summary>
+  <summary lang="uk">Налаштування конфігурацій Bluetooth</summary>
+  <summary lang="tr">Bluetooth Ayarlarını Yapılandırın</summary>
+  <summary lang="sv">Konfigurera Bluetooth-inställningar</summary>
+  <summary lang="sr">Подесите поставке Блутута</summary>
+  <summary lang="sl">Nastavitve za Bluetooth</summary>
+  <summary lang="ru">Настроить параметры Bluetooth</summary>
+  <summary lang="ro">Configurează setările Bluetooth</summary>
+  <summary lang="pt_BR">Configurações de Bluetooth</summary>
+  <summary lang="pt">Configurar definições de bluetooth</summary>
+  <summary lang="pl">Skonfiguruj ustawienia Bluetooth</summary>
+  <summary lang="nn">Konfigurer Bluetooth-innstillingar</summary>
+  <summary lang="nl">Configureer bluetooth instellingen</summary>
+  <summary lang="nb">Behandle Blåtannsinnstillinger</summary>
+  <summary lang="mr">ब्लूटूथ सेटिंग्ज कॉन्फिगर करा</summary>
+  <summary lang="mo">Configurați setările Bluetooth</summary>
+  <summary lang="lt">Konfigūruoti Bluetooth nustatymus</summary>
+  <summary lang="ko">블루투스 설정 관리</summary>
+  <summary lang="ja">Bluetooth の設定をします</summary>
+  <summary lang="it">Configura le impostazioni del Bluetooth</summary>
+  <summary lang="id">Pengaturan Bluetooth</summary>
+  <summary lang="hu">Bluetooth eszközök beállítása</summary>
+  <summary lang="hr">Prilagodite Bluetooth postavke</summary>
+  <summary lang="he">הגדרת תצורת בלוטות׳</summary>
+  <summary lang="gl">Configurar axustes de Bluetooth</summary>
+  <summary lang="fr_CA">Configurer les paramètres Bluetooth</summary>
+  <summary lang="fr">Configurer les paramètres Bluetooth</summary>
+  <summary lang="fi">Määritä Bluetooth-asetukset</summary>
+  <summary lang="es">Configurar ajustes de Bluetooth</summary>
+  <summary lang="eo">Agordi bludenton</summary>
+  <summary lang="en_GB">Configure Bluetooth Settings</summary>
+  <summary lang="en_CA">Configure Bluetooth Settings</summary>
+  <summary lang="en_AU">Configure Bluetooth Settings</summary>
+  <summary lang="el">Διαμόρφωση ρυθμίσεων Bluetooth</summary>
+  <summary lang="de">Bluetooth-Einstellungen bearbeiten</summary>
+  <summary lang="da">Konfigurer Bluetooth-indstillinger</summary>
+  <summary lang="cs">Upravit nastavení Bluetooth</summary>
+  <summary lang="ca">Configureu els paràmetres del Bluetooth</summary>
+  <summary lang="bs">Prilagodite podešavanja Bluetootha</summary>
+  <summary lang="bg">Настройване на Bluetooth</summary>
+  <summary lang="ar">تخصيص إعدادات البلوتوث</summary>
+  <summary lang="ak">Yɛ Wo Bluetooth Ho Nhyehyɛe</summary>
+  <icon type="stock">bluetooth</icon>
+  <translation type="gettext">bluetooth-plug</translation>
+  <releases>
+    <release urgency="medium" version="2.3.6" date="2021-07-13">
+      <description>
+        <p>Minor updates</p>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-03-09" urgency="critical" version="2.3.5">
+      <description>
+        <p>Security update</p>
+        <ul>
+          <li>Fix a vulnerability that would allow a device to be paired without explicit user authorization (CVE-2021-21367)</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" version="2.3.4" date="2020-12-23">
+      <description>
+        <p>Minor updates</p>
+        <ul>
+          <li>Fallback to device type when name is not available</li>
+          <li>Show "Discovering" indicator in an overlay bar</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-10-08" urgency="medium" version="2.3.3">
+      <description>
+        <p>Fixes</p>
+        <ul>
+          <li>Fix crash on devices without Bluetooth</li>
+        </ul>
+        <p>Minor updates</p>
+        <ul>
+          <li>Move "forget device" button to each device row</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-05-28" version="2.3.2" urgency="medium">
+      <description>
+        <p>Updated translations</p>
+      </description>
+    </release>
+    <release date="2020-02-25" version="2.3.1" urgency="medium">
+      <description>
+        <p>Updated translations</p>
+      </description>
+    </release>
+    <release urgency="medium" version="2.3.0" date="2019-10-31">
+      <description>
+        <p>Pair with devices that require a password, key code, or confirmation</p>
+        <p>Updated translations</p>
+      </description>
+    </release>
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/elementary/switchboard-plug-bluetooth/master/data/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://elementary.io</url>
+  <url type="bugtracker">https://github.com/elementary/switchboard-plug-bluetooth/issues</url>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+</component>

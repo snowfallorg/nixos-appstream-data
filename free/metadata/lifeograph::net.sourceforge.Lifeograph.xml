@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <description>
+    <p>
+            Lifeograph is a powerful note-taking application that can be used to keep an encrypted diary,
+            to plan a journey, to manage todos and long term goals, to write down
+            ideas in an organized way, to track regular activities and many more. Lifeograph
+            strives to deliver an abundance of advanced features in a clean and streamlined user interface.
+        </p>
+    <p>
+            Main features of Lifeograph:
+        </p>
+    <ul>
+      <li>Encrypted (with AES256) and unencrypted diaries</li>
+      <li>Powerful and intuitive tagging system</li>
+      <li>Todo management system</li>
+      <li>Automatically formats entry titles and subheadings</li>
+      <li>Wiki-like rich text formatting (*bold*, _italic_, =strikeout=, etc…)</li>
+      <li>Automatically logs out when not used for some time (to protect your diary when you forget to log out)</li>
+      <li>Searching and replacing of text</li>
+      <li>Advanced filtering of entries</li>
+      <li>Integrated map for travel notes and planning</li>
+      <li>Extraction of data from diary into tables which in turn can be pasted into spread-sheet programs</li>
+      <li>Themes in text editor, including background images</li>
+      <li>Favorite entries</li>
+      <li>Spell checking</li>
+      <li>Links between entries and to URIs</li>
+      <li>Multiple automatic backups to prevent data loss</li>
+      <li>Printing individual entries or whole diaries</li>
+      <li>Statistical charts that can also be embedded into entries</li>
+      <li>Image thumbnails and charts in entries</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>Hauptmerkmale von Lifeograph</p>
+    <ul>
+      <li>Rechtschreibprüfung</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>Lifeograph est une application puissante de prise de notes et peut être utilisée pour tenir un journal/agenda chiffré, pour planifier un voyage, pour gérer des listes de choses à faire et des projets à long terme, pour écrire des idées de façon structurée, pour garder trace d'activités régulières et bien plus.. Lifeograph vise à fournir une foule de fonctionnalités avancées dans une interface propre et ergonomique.</p>
+    <p>Fonctionnalités principales de Lifeograph :</p>
+    <ul>
+      <li>Journaux chiffrés (avec AES256) et non chiffrés</li>
+      <li>Système d'étiquettes puissant et intuitif</li>
+      <li>Système de gestion de listes « à faire »</li>
+      <li>Formate automatiquement les titres et les sous-titres des entrées</li>
+      <li>Formatage du texte riche, à la mode Wiki (*gras*, _italique_, =barré=, etc…)</li>
+      <li>Déconnexion automatique quand il n'est pas utilisé depuis longtemps (protection de l'agenda quand on oublie de se déconnecter)</li>
+      <li>Recherche et remplacement de texte</li>
+      <li>Filtrage avancé des entrées</li>
+      <li>Carte intégrée pour les notes de voyage et la planification</li>
+      <li>Extraction des données de l'agenda sous forme de tableaux qu'on peut recoller dans des tableurs</li>
+      <li>Thèmes dans l'éditeur de texte, y compris des images de fond</li>
+      <li>Entrées favorites</li>
+      <li>Vérification orthographique</li>
+      <li>Liens entre les entrées et vers les URI</li>
+      <li>Sauvegardes automatiques multiples pour éviter la perte de données</li>
+      <li>Impression de données individuelles ou d'agenda complet</li>
+      <li>Graphiques statistiques qu'on peut aussi placer dans des entrées</li>
+      <li>Miniatures des images et des graphiques dans les entrées</li>
+    </ul>
+  </description>
+  <description lang="tr">
+    <p>Lifeograph, günlük tutmak, seyahat planlamak, yapılacakları ve uzun vadeli hedefleri takip etmek, fikirleri organize bir şekilde yazıya geçirmek, düzenli faaliyetleri kaydetmek ve daha birçok amaçla kullanılabilecek güçlü bir not alma programıdır. Lifeograph bu çok sayıdaki gelişmiş özelliği sade ve kullanışlı bir arayüzde sunmaya gayret etmektedir.</p>
+    <p>Lifeograph'ın temel özellikleri:</p>
+    <ul>
+      <li>Şifrelenmiş (AES256 ile) veya şifrlenememiş günlükler</li>
+      <li>Güçlü ve sezilebilir yaftalama sistemi</li>
+      <li>Yapılacaklar listesi tutma</li>
+      <li>Giriş başlık ve altbaşlıklarını otomatik biçimlendirme</li>
+      <li>Wiki tarzı zengin metin biçimlendirme (*kalın*, _yatık_, =üstü-çizili=, vs…)</li>
+      <li>Belli bir müddet kullanılmadığında kendiliğinden kapanma (mahremiyeti kormak için)</li>
+      <li>Metin arama ve değiştirme</li>
+      <li>Metin düzenleyici temaları ve arka plan resimleri</li>
+      <li>Sevilen girişler</li>
+      <li>Yazım denetimi</li>
+      <li>Girşler arasında ve URI'lere linkler</li>
+      <li>Teker teker girişleri veya bütün günlüğü yazdırma</li>
+      <li>Girişlere de eklenebilen istatistiki grafikler</li>
+      <li>Girişlerin içinde küçük resimler ve grafikler</li>
+    </ul>
+  </description>
+  <pkgname>lifeograph</pkgname>
+  <launchable type="desktop-id">net.sourceforge.Lifeograph.desktop</launchable>
+  <icon height="64" type="cached" width="64">net.sourceforge.Lifeograph.png</icon>
+  <icon type="cached" width="128" height="128">net.sourceforge.Lifeograph.png</icon>
+  <id>net.sourceforge.Lifeograph</id>
+  <metadata_license>FSFAP</metadata_license>
+  <project_license>GPL-3.0</project_license>
+  <name>Lifeograph</name>
+  <name lang="uk">Lifeograph</name>
+  <name lang="tr">Lifeograph</name>
+  <name lang="sv">Lifeograph</name>
+  <name lang="sr">Lifeograph</name>
+  <name lang="si">Lifeoraph</name>
+  <name lang="ru">Lifeograph</name>
+  <name lang="ro">Lifeograph</name>
+  <name lang="pt_BR">Lifeograph</name>
+  <name lang="pl">Lifeograph</name>
+  <name lang="hu">Lifeograph</name>
+  <name lang="he">Lifeograph</name>
+  <name lang="gl">Lifeograph</name>
+  <name lang="fr">Lifeograph</name>
+  <name lang="eu">Lifeograph</name>
+  <name lang="es">Lifeograph</name>
+  <name lang="de">Lifeograph</name>
+  <name lang="cs">Lifeograph</name>
+  <name lang="ar">Lifeograph</name>
+  <summary>Digital diary and note taking</summary>
+  <summary lang="tr">Dijital günlük ve not defteri</summary>
+  <summary lang="fr">Journal numérique et prise de notes</summary>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Editing screen</caption>
+      <caption lang="tr">Düzenleme ekranı</caption>
+      <caption lang="fr">Écran d'édition</caption>
+      <image>http://lifeograph.sourceforge.net/w/images/b/b7/Lifeograph-2.0.0-edit.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Integrated map</caption>
+      <caption lang="fr">Carte intégrée</caption>
+      <image>http://lifeograph.sourceforge.net/w/images/a/a9/Lifeograph-edit-2.0.0-map.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Tag charts</caption>
+      <caption lang="fr">Étiqueter les graphiques</caption>
+      <image>http://lifeograph.sourceforge.net/w/images/b/b4/Lifeograph-1.6.0-tag.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">http://lifeograph.sourceforge.net</url>
+  <content_rating type="oars-1.0" />
+  <releases>
+    <release version="2.0.3" date="2022-04-24">
+      <description>
+        <p>Bug fixes</p>
+        <p>Added Danish translation</p>
+        <p>Updated Simplified Chinese, Dutch, French, and Italian translations</p>
+      </description>
+    </release>
+    <release version="2.0.2" date="2021-06-29">
+      <description>
+        <p>Bug fixes</p>
+        <p>Updated Italian translation</p>
+      </description>
+    </release>
+    <release version="2.0.1" date="2021-04-09">
+      <description>
+        <p>Bug fixes</p>
+      </description>
+    </release>
+    <release date="2020-12-06" version="2.0.0">
+      <description>
+        <p>Unified different elements such as chapters and tags into entry</p>
+        <p>New inline tags that are assigned to the paragraphs as well as entries</p>
+        <p>New integrated map to assign locations and travel paths to entries</p>
+        <p>New custom calendar widget that integrates with the program more nicely</p>
+        <p>New table view for very basic spreadsheet like functionality</p>
+        <p>Completion percentages for entries</p>
+        <p>Support for background images in the entry editor</p>
+        <p>a new toolbar-like right-click popover that replaced the toolbar</p>
+        <p>Vastly more capable text search and entry list filtering</p>
+        <p>Printing system improvements</p>
+        <p>Both functionally and visually improved charts</p>
+        <p>Many many more</p>
+      </description>
+    </release>
+  </releases>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+  </kudos>
+</component>

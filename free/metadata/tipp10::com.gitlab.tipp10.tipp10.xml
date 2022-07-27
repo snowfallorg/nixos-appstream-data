@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>tipp10</pkgname>
+  <icon height="64" width="64" type="cached">com.gitlab.tipp10.tipp10.png</icon>
+  <icon height="128" type="cached" width="128">com.gitlab.tipp10.tipp10.png</icon>
+  <id>com.gitlab.tipp10.tipp10</id>
+  <metadata_license>CC-BY-SA-3.0</metadata_license>
+  <project_license>GPL-2.0</project_license>
+  <name>Tipp10</name>
+  <summary>Touch Typing Tutor</summary>
+  <description>
+    <p>Tipp10 is a free touch typing tutor.
+    The ingenious thing about the software is its intelligence feature.
+    Characters that are mistyped are repeated more frequently.
+    Touch typing has never been so easy to learn.</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://gitlab.com/tipp10/tipp10/-/raw/master/release/screenshots/main_window.png</image>
+      <caption>Main window</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.com/tipp10/tipp10/-/raw/master/release/screenshots/training.png</image>
+      <caption>Training page</caption>
+    </screenshot>
+  </screenshots>
+  <launchable type="desktop-id">com.gitlab.tipp10.tipp10.desktop</launchable>
+  <translation type="qt">tipp10</translation>
+  <url type="homepage">https://gitlab.com/tipp10/tipp10/</url>
+  <url type="bugtracker">https://gitlab.com/tipp10/tipp10/issues</url>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release date="2020-09-01" version="3.2.1" />
+    <release date="2020-05-30" version="3.2.0" />
+    <release version="3.1.0" date="2019-10-23" />
+    <release version="3.0.0" date="2019-02-02" />
+  </releases>
+</component>

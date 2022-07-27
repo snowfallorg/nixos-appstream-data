@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>darktable</pkgname>
+  <launchable type="desktop-id">darktable.desktop</launchable>
+  <icon type="cached" height="64" width="64">darktable.png</icon>
+  <icon type="cached" width="128" height="128">darktable.png</icon>
+  <id>darktable.desktop</id>
+  <name>darktable</name>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <summary>Organize and develop images from digital cameras</summary>
+  <summary lang="cs">Uspořádejte a vytvářejte snímky z digitálních fotoaparátů</summary>
+  <summary lang="de">Organisiere und entwickle Bilder von Digitalkameras</summary>
+  <summary lang="eo">Organizi kaj disvolvi bildojn de ciferecaj fotiloj</summary>
+  <summary lang="es">Organice y revele fotografías de cámaras digitales</summary>
+  <summary lang="fi">Hallinnoi ja kehitä digitaalikameroilla otettuja valokuvia.</summary>
+  <summary lang="fr">Organiser et développer les images d'un boîtier numérique</summary>
+  <summary lang="he">ארגן ופתח תמונות ממצלמות דיגיטליות</summary>
+  <summary lang="hu">Digitális fényképező képeinek rendezése, kidolgozása</summary>
+  <summary lang="it">Organizza e sviluppa le immagini della tua fotocamera digitale</summary>
+  <summary lang="ja">デジタルカメラで撮影した画像を整理し現像します</summary>
+  <summary lang="nl">Organiseer en ontwikkel afbeeldingen van digitale camera's</summary>
+  <summary lang="pt_BR">Organize e trate imagens de câmeras digitais</summary>
+  <summary lang="ru">Организация и обработка цифровых фотографий</summary>
+  <summary lang="sl">Organizira in razvija slike digitalnih kamer</summary>
+  <summary lang="tr">Dijital kameralardan görüntüleri düzenleyin ve geliştirin</summary>
+  <summary lang="zh_CN">组织并冲印来自数码相机的图片</summary>
+  <translation type="gettext">darktable</translation>
+  <description>
+    <p>darktable manages your digital negatives in a database and lets you view them through a lighttable. It also enables you to develop raw images and enhance them in a darkroom.</p>
+    <p>Other modes besides lighttable and darkroom are a map for geotagging, tethering, print and a slideshow.</p>
+    <p>darktable supports most modern cameras' raw formats, and does all of its processing at very high precision.</p>
+  </description>
+  <description lang="cs">
+    <p>darktable spravuje vaše digitální negativy v databázi a umožňuje vám je prohlížet přes katalog. Umožňuje také vyvolat nezpracované obrázky a vylepšit je v editoru.</p>
+    <p>Další režimy kromě katalogu a editoru jsou mapa pro geotagging, tethering, tisk a slideshow.</p>
+    <p>darktable podporuje raw formáty většiny moderních fotoaparátů a veškeré zpracování provádí s velmi vysokou přesností.</p>
+  </description>
+  <description lang="de">
+    <p>darktable verwaltet digitale Negative in einer Datenbank und erlaubt es, diese auf einem Leuchttisch zu betrachten. Außerdem können Raw-Bilder in einer Dunkelkammer entwickelt und verbessert werden.</p>
+    <p>Weitere Modi neben Leuchttisch und Dunkelkammer sind eine Karte für Geotagging, Tethering, Druck und eine Diashow.</p>
+    <p>darktable unterstützt das Raw-Format der meisten modernen Kameras und führt seine Berechnungen mit sehr hoher Präzision durch.</p>
+  </description>
+  <description lang="eo">
+    <p>darktable administras viajn ciferecajn negativojn en datumbazo kaj permesas al vi vidi ilin per lumtablo. Ĝi ankaŭ ebligas al vi disvolvi krudajn bildojn kaj plibonigi ilin en senluma ĉambro.</p>
+    <p>Aliaj modoj krom lumtablo kaj senluma ĉambro estas mapo por geoetikedo, kunligado, presado kaj bildoprezento.</p>
+    <p>darktable subtenas la krudajn formatojn de plej multaj modernaj fotiloj, kaj faras sian tutan prilaboradon tre tre precize.</p>
+  </description>
+  <description lang="es">
+    <p>darktable gestiona los negativos digitales mediante una base de datos y permite visualizarlos en la mesa de luz. También posee herramientas para revelar y mejorar las imágenes en bruto a través del cuarto oscuro.</p>
+    <p>Además de las vistas de mesa de luz y del cuarto oscuro están los modos captura, diapositivas, imprimir, y mapa para geolocalización.</p>
+    <p>darktable tiene soporte para la mayoría de los formatos en bruto (RAW) de las cámaras modernas. Además, ofrece una gran precisión en el proceso de revelado.</p>
+  </description>
+  <description lang="fi">
+    <p>Darktable hallitsee digitaalisia negatiivejasi tietokannan avulla ja esittää ne sinulle valopöydällä. Se myös kehittää raakakuvasi ja muokkaa ne pimiötilassa.</p>
+    <p>Valopöydän ja pimiön lisäksi ohjelmassa on karttatila paikkatietojen lisäämiseksi, liitetyn kuvauksen tila, tulostustila ja kuvien esitys kuvasarjana.</p>
+    <p>Darktable tukee lähes kaikkia nykyaikaisia kameroiden raakakuvamuotoja ja prosessoi ne erittäin tarkasti.</p>
+  </description>
+  <description lang="fr">
+    <p>darktable gère vos négatifs numériques dans une base de données et vous permet de les voir depuis la table lumineuse. Il permet aussi de développer et d'améliorer les images numériques dans la chambre noire.</p>
+    <p>A part la table lumineuse les autres modules sont la carte pour la géolocalisation, la capture, l'impression et le diaporama.</p>
+    <p>darktable supporte la plupart des formats raw récents, et fait tous ces calculs avec une très haute précision.</p>
+  </description>
+  <description lang="he">
+    <p>התכנה darktable מנהלת את תשלילים הדיגיטליים שלך במסד נתונים ומאפשרת לך לצפות בהם מאמצעות שולחן אור. היא גם מאפשרת לך לפתח קבצי raw ולשפר אותם בחדר חושך.</p>
+    <p>מצבי עבודה נוספים מעבר לשולחן אור וחדר חושך כוללים מפה לצורך תיוג גאוגרפי, קשירה, הדפסה, והקרנת שקופיות.</p>
+    <p>התוכנה darktable תומכת ברב פורמטי ה raw של המצלמות המודרניות, ומבצעת את כל העיבוד בדיוק גבוהה מאד.</p>
+  </description>
+  <description lang="hu">
+    <p>A darktable adatbázisba rendezi a digitális negatívjait és lehetővé teszi a nézegetésüket egy átvilágító asztalon. Lehetőséget nyújt a nyers képek kidolgozására és feljavítására a sötétkamrában.</p>
+    <p>Az átvilágító és sötétkamra módokon túl térképes geokódolást, tetheringet, nyomtatást és diavetítést tesz lehetővé.</p>
+    <p>a darktable támogatja a legtöbb modern kamera-raw formátumát, a feldolgozásukat pedig nagy pontossággal végzi.</p>
+  </description>
+  <description lang="it">
+    <p>Darktable gestisce i tuoi negativi digitali in un database e ti permette di vederli attraverso un Tavolo Luminoso. Ti permette inoltre di sviluppare le immagini RAW e di migliorarle in una Camera Oscura.</p>
+    <p>Altre modalità oltre al Tavolo Luminoso e la Camera Oscura sono le Mappe per il geotagging, il Tethering (scatto remoto), la Stampa e la Presentazione.</p>
+    <p>Darktable supporta i formati RAW delle più moderne fotocamere, e ne esegue le elaborazioni con un'altissima precisione.</p>
+  </description>
+  <description lang="ja">
+    <p>darktableはデータベースでデジタルネガを管理し、ライトテーブルモードでそれらを閲覧することが出来ます。またダークルームモードでRAW画像を現像し、より良い画像にすることが出来ます</p>
+    <p>ライトテーブルとダークルーム以外には、ジオタグを利用するためのマップモード、テザリングモード、印刷モード、そしてスライドショーモードがあります</p>
+    <p>darktableは近年作られたほとんど全てのカメラのRAWフォーマットをサポートしており、全ての処理を非常に高い精度で行います</p>
+  </description>
+  <description lang="nl">
+    <p>darktable bewaart uw digitale negatieven in een database en toont ze in een bibliotheek, je kunt RAW-afbeeldingen ontwikkelen en verbeteren in de ontwikkelmodule.</p>
+    <p>Overige modules naast de bibliotheek en ontwikkelen zijn een kaart voor geotaggen, tethering, afdrukken en presentatie.</p>
+    <p>darktable ondersteunt van veel moderne camera's de raw-formaten en verwerkt ze met een zeer hoge precisie.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>o darktable gerencia seus negativos digitais em um bando de dados e permite que você os visualize a partir da mesa de luz. Também permite que você revele suas imagens raw e os trate na sala escura.</p>
+    <p>Outros modos além da mesa de luz e sala escura são um mapa para geoetiquetamento, aceso remoto, impressão e slideshow.</p>
+    <p>o darktable suporta o formato raw da maioria das câmeras modernas, e faz todo o processamento com muito alta precisão.</p>
+  </description>
+  <description lang="ru">
+    <p>darktable управляет цифровыми фотографиями в формате Raw, позволяя просматривать их, каталогизировать и редактировать.</p>
+    <p>Помимо этого darktable поддерживает геотеггинг, режим дистанционной съёмки, печать и слайдшоу.</p>
+    <p>darktable поддерживает большой спектр современных камер и выполняет обработку снимков с очень высокой точностью.</p>
+  </description>
+  <description lang="sl">
+    <p>darktable upravlja z vašimi digitalnimi negativi v podatkovni bazi in vam jih kaže na osvetljeni podlagi. Omogoča tudi razvijanje in izboljševanje surovih fotografij v temnici.</p>
+    <p>Ostali načini uporabe programa razen osvetljene podlage in temnice so še dodajanje geografskih oznak, odd. upravljanje, tisk slik in časovno prikazovanje slik.</p>
+    <p>darktable podpira večino surovih formatov sodobnih kamer in nudi obdelavo z visoko natančnostjo.</p>
+  </description>
+  <description lang="tr">
+    <p>darktable, dijital negatiflerinizi bir veritabanında yönetir ve bunları bir ışık masası aracılığıyla görüntülemenizi sağlar. Ayrıca, ham görüntüler geliştirmenize ve bunları karanlık bir odada geliştirmenize olanak tanır.</p>
+    <p>Aydınlık masa ve karanlık oda dışındaki diğer modlar, coğrafi etiketleme, bağlama, yazdırma ve slayt gösterisi için bir haritadır.</p>
+    <p>darktable, çoğu modern kameranın raw formatını destekler ve tüm işlemlerini çok yüksek hassasiyette yapar.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>使用 darktable 管理您的电子底片，在光台中浏览照片，在暗室中处理 RAW 图像。</p>
+    <p>除了光台和暗房模式，您可以使用地图为照片添加地理位置标签、使用有线模式连接相机、打印照片及放映幻灯片。</p>
+    <p>darktable 支持绝大多数现代相机的 RAW 文件格式，并以极高精确度处理图像。</p>
+  </description>
+  <screenshots>
+    <screenshot width="1920" height="1080">
+      <image>https://www.darktable.org/images/darktable-appdata-lighttable.jpg</image>
+      <caption>Virtual light table, showing a collection</caption>
+      <caption lang="cs">Virtuální katalog zobrazující kolekci</caption>
+      <caption lang="de">Der Leuchttisch zeigt eine Sammlung an</caption>
+      <caption lang="eo">Virtuala lumtablo, montranta kolekton</caption>
+      <caption lang="es">Mesa de Luz virtual mostrando una colección</caption>
+      <caption lang="fi">Virtuaalinen valopöytä, näyttää kuvakokoelman.</caption>
+      <caption lang="fr">Table Lumineuse, avec une collection affichée</caption>
+      <caption lang="he">שולחן אור ווירטואלי, מראה אוסף</caption>
+      <caption lang="hu">Virtuális átvilágító, egy gyűjtemény megjelenítése</caption>
+      <caption lang="it">Tavolo luminoso virtuale, visualizza una raccolta</caption>
+      <caption lang="ja">コレクションを表示するバーチャルライトテーブル</caption>
+      <caption lang="nl">Virtuele bibliotheek, toont een collectie</caption>
+      <caption lang="pt_BR">Mesa de Luz, mostrando uma coleção</caption>
+      <caption lang="ru">Виртуальный световой стол и коллекция снимков</caption>
+      <caption lang="sl">Virtualna svetlobna podlaga prikazuje zbirko</caption>
+      <caption lang="tr">Bir koleksiyonu gösteren sanal ışık tablosu</caption>
+      <caption lang="zh_CN">虚拟光台，用于展示照片集</caption>
+    </screenshot>
+    <screenshot width="1920" type="default" height="1080">
+      <image>https://www.darktable.org/images/darktable-appdata-darkroom1.jpg</image>
+      <caption>Virtual dark room with an opened image</caption>
+      <caption lang="cs">Virtuální editor s otevřeným obrázkem</caption>
+      <caption lang="de">Die Dunkelkammer mit einem geöffneten Bild</caption>
+      <caption lang="eo">Virtuala senluma ĉambro kun malfermita bildo</caption>
+      <caption lang="es">Cuarto Oscuro virtual con una imagen abierta</caption>
+      <caption lang="fi">Virtuaalinen pimiö näyttää avatun valokuvan.</caption>
+      <caption lang="fr">Chambre noire avec une image ouverte</caption>
+      <caption lang="he">חדר חושך ווירטואלי עם תמונה פתוחה</caption>
+      <caption lang="hu">Virtuális sötétkamra egy megnyitott képpel</caption>
+      <caption lang="it">Camera oscura virtuale con un'immagine aperta</caption>
+      <caption lang="ja">画像を開いて表示すバーチャルダークルーム</caption>
+      <caption lang="nl">Virtuele ontwikkelkamer met een geopende afbeelding</caption>
+      <caption lang="pt_BR">Sala Escura com uma imagem aberta</caption>
+      <caption lang="ru">Фоторедактор с открытым снимком</caption>
+      <caption lang="sl">Virtualna temnica z odprto sliko</caption>
+      <caption lang="tr">Açılmış bir görüntü ile sanal karanlık oda</caption>
+      <caption lang="zh_CN">虚拟暗房，打开单张图像</caption>
+    </screenshot>
+    <screenshot height="1080" width="1920">
+      <image>https://www.darktable.org/images/darktable-appdata-darkroom2.jpg</image>
+      <caption>Virtual dark room, sharpening an image</caption>
+      <caption lang="cs">Virtuální editor, zaostření obrázku</caption>
+      <caption lang="de">Schärfen eines Bildes in der Dunkelkammer</caption>
+      <caption lang="eo">Virtuala senluma ĉambro, akrigante bildon</caption>
+      <caption lang="es">Cuarto Oscuro virtual enfocando una imagen</caption>
+      <caption lang="fi">Virtuaalinen pimiö, valokuvan terävöitykseen.</caption>
+      <caption lang="fr">Chambre noire, augmenter la netteté d'une image</caption>
+      <caption lang="he">חדר חושך ווירטואלי, חידוד תמונה</caption>
+      <caption lang="hu">Virtuális sötétkamra, egy kép élesítése</caption>
+      <caption lang="it">Camera oscura virtuale, rendere nitida un'immagine</caption>
+      <caption lang="ja">画像をシャープにするバーチャルダークルーム</caption>
+      <caption lang="nl">Virtuele ontwikkelkamer, die een afbeelding scherper maakt</caption>
+      <caption lang="pt_BR">Sala Escura, melhorando a nitidez de uma imagem</caption>
+      <caption lang="ru">Фоторедактор, повышение резкости снимка</caption>
+      <caption lang="sl">Virtualna temnica ostri sliko</caption>
+      <caption lang="tr">Sanal karanlık oda, bir görüntüyü keskinleştirme</caption>
+      <caption lang="zh_CN">虚拟暗房，对图像进行锐化</caption>
+    </screenshot>
+    <screenshot width="1920" height="1080">
+      <image>https://www.darktable.org/images/darktable-appdata-map.jpg</image>
+      <caption>Show images on a map</caption>
+      <caption lang="cs">Zobrazit obrázky na mapě</caption>
+      <caption lang="de">Zeige Bilder auf der Karte an</caption>
+      <caption lang="eo">Montru bildojn sur mapo</caption>
+      <caption lang="es">Modo Mapa con algunas imágenes</caption>
+      <caption lang="fi">Näytä valokuvat kartalla.</caption>
+      <caption lang="fr">Montre des images sur la carte</caption>
+      <caption lang="he">הצג תמונות על מפה</caption>
+      <caption lang="hu">Képek megjelenítése a térképen</caption>
+      <caption lang="it">Mostra immagini su una mappa</caption>
+      <caption lang="ja">地図上に画像を表示</caption>
+      <caption lang="nl">Toon afbeeldingen op een kaart</caption>
+      <caption lang="pt_BR">Mostrar imagens em um mapa</caption>
+      <caption lang="ru">Показ снимков на карте</caption>
+      <caption lang="sl">Prikaži slike na karti</caption>
+      <caption lang="tr">Görüntüleri haritada göster</caption>
+      <caption lang="zh_CN">在地图上显示图像</caption>
+    </screenshot>
+    <screenshot width="1920" height="1080">
+      <image>https://www.darktable.org/images/darktable-appdata-print.jpg</image>
+      <caption>Print your images</caption>
+      <caption lang="cs">Tisk vašich obrázků</caption>
+      <caption lang="de">Drucke deine Bilder</caption>
+      <caption lang="eo">Presi viajn bildojn</caption>
+      <caption lang="es">Imprimir las imágenes</caption>
+      <caption lang="fi">Tulosta valokuvasi.</caption>
+      <caption lang="fr">Imprimer vos images</caption>
+      <caption lang="he">הדפס תמונותיך</caption>
+      <caption lang="hu">Képek nyomtatása</caption>
+      <caption lang="it">Stampa le tue immagini</caption>
+      <caption lang="ja">画像を印刷</caption>
+      <caption lang="nl">Print je afbeeldingen</caption>
+      <caption lang="pt_BR">Imprimir suas imagens</caption>
+      <caption lang="ru">Печать снимков</caption>
+      <caption lang="sl">Natisni svoje slike</caption>
+      <caption lang="tr">Görüntüleri yazdırın</caption>
+      <caption lang="zh_CN">打印图像</caption>
+    </screenshot>
+  </screenshots>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release version="3.8.1" date="2022-02-11" />
+    <release version="3.8.0" date="2021-12-24" />
+    <release version="3.6.1" date="2021-09-15" />
+    <release version="3.6.0" date="2021-07-03" />
+    <release date="2021-02-06" version="3.4.1" />
+    <release date="2020-12-24" version="3.4.0" />
+    <release version="3.2.1" date="2020-08-10" />
+    <release date="2020-04-18" version="3.0.2" />
+    <release version="3.0.1" date="2020-03-09" />
+    <release version="3.0.0" date="2019-12-24" />
+    <release version="2.6.3" date="2019-10-20" />
+    <release version="2.6.2" date="2019-03-21" />
+    <release version="2.6.1" date="2019-03-07" />
+    <release version="2.6.0" date="2018-12-24" />
+  </releases>
+  <url type="homepage">https://www.darktable.org/</url>
+  <url type="bugtracker">https://github.com/darktable-org/darktable/issues</url>
+  <url type="help">https://www.darktable.org/resources/</url>
+  <update_contact>darktable-dev@lists.darktable.org</update_contact>
+</component>

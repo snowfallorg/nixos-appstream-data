@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>gnome-connections</pkgname>
+  <icon width="64" type="cached" height="64">org.gnome.Connections.png</icon>
+  <icon type="cached" height="128" width="128">org.gnome.Connections.png</icon>
+  <id>org.gnome.Connections.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <name>Connections</name>
+  <name lang="zh_TW">連線</name>
+  <name lang="zh_CN">连接</name>
+  <name lang="vi">Kết nối</name>
+  <name lang="uk">З'єднання</name>
+  <name lang="tr">Bağlantılar</name>
+  <name lang="sv">Anslutningar</name>
+  <name lang="sr">Везе</name>
+  <name lang="sl">Povezovalnik</name>
+  <name lang="sk">Pripojenia</name>
+  <name lang="ru">Подключения</name>
+  <name lang="ro">Conexiuni</name>
+  <name lang="pt_BR">Conexões</name>
+  <name lang="pt">Ligações</name>
+  <name lang="pl">Połączenia</name>
+  <name lang="pa">ਕਨੈਕਸ਼ਨ</name>
+  <name lang="oc">Connexions</name>
+  <name lang="nl">Verbindingen</name>
+  <name lang="ne">जडानहरू</name>
+  <name lang="nb">Tilkoblinger</name>
+  <name lang="lt">Ryšiai</name>
+  <name lang="ko">연결</name>
+  <name lang="kk">Байланыстар</name>
+  <name lang="ja">接続</name>
+  <name lang="it">Connessioni</name>
+  <name lang="is">Tengingar</name>
+  <name lang="id">Sambungan</name>
+  <name lang="hu">Kapcsolatok</name>
+  <name lang="hr">Povezivanja</name>
+  <name lang="he">חיבורים</name>
+  <name lang="gl">Conexións</name>
+  <name lang="fur">Conessions</name>
+  <name lang="fr">Connexions</name>
+  <name lang="fi">Yhteydet</name>
+  <name lang="fa">دوردست‌ها</name>
+  <name lang="eu">Konexioak</name>
+  <name lang="es">Conexiones</name>
+  <name lang="eo">Konektoj</name>
+  <name lang="en_GB">Connections</name>
+  <name lang="el">Συνδέσεις</name>
+  <name lang="de">Verbindungen</name>
+  <name lang="da">Forbindelser</name>
+  <name lang="cs">Připojení</name>
+  <name lang="ca">Connexions</name>
+  <name lang="bg">Свързване</name>
+  <summary>View and use other desktops</summary>
+  <summary lang="zh_CN">查看并使用其他桌面</summary>
+  <summary lang="vi">Xem và sử dụng màn hình làm việc từ máy khác</summary>
+  <summary lang="uk">Перегляд і користування іншими стільницями</summary>
+  <summary lang="tr">Diğer masaüstlerini görüntüle ve kullan</summary>
+  <summary lang="sv">Visa och använd andra skrivbord</summary>
+  <summary lang="sr">Гледајте и користите друге радне површине</summary>
+  <summary lang="sl">Pregled in upravljanje oddaljenih namizij</summary>
+  <summary lang="sk">Zobrazuje a používa iné pracovné plochy</summary>
+  <summary lang="ru">Просмотр и использование других рабочих столов</summary>
+  <summary lang="ro">Vizualizați și utilizați alte desktop-uri</summary>
+  <summary lang="pt_BR">Veja e use suas áreas de trabalho</summary>
+  <summary lang="pt">Visualize e use outras áreas de trabalho</summary>
+  <summary lang="pl">Wyświetlaj i używaj innych komputerów</summary>
+  <summary lang="pa">ਹੋਰ ਡੈਸਕਟਾਪ ਵੇਖੋ ਅਤੇ ਵਰਤੋ</summary>
+  <summary lang="oc">Visualizar e utilizar d’autres burèus</summary>
+  <summary lang="nl">Bekijk en gebruik andere bureaubladen</summary>
+  <summary lang="lt">Rodyti ir naudoti kitus darbalaukius</summary>
+  <summary lang="ko">다른 데스크톱을 보거나 사용합니다</summary>
+  <summary lang="kk">Басқа жұмыс үстелдерін қарау және пайдалану</summary>
+  <summary lang="ja">他のデスクトップを表示して使用します</summary>
+  <summary lang="it">Visualizza e usa altri computer</summary>
+  <summary lang="is">Skoða og nota önnur skjáborð</summary>
+  <summary lang="id">Tampilkan dan gunakan destop lain</summary>
+  <summary lang="hu">Más asztalok megtekintése és használata</summary>
+  <summary lang="hr">Pogledajte i koristite druge radne površine</summary>
+  <summary lang="he">הצגה ושימוש בשולחנות עבודה אחרים</summary>
+  <summary lang="gl">Ver e usar outros escritorios</summary>
+  <summary lang="fur">Visualize e dopre i altris scritoris</summary>
+  <summary lang="fr">Visualisez et utilisez d’autres bureaux</summary>
+  <summary lang="fi">Katsele ja käytä muita työpöytiä</summary>
+  <summary lang="fa">دیدن و استفاده از میزکارهای دیگر</summary>
+  <summary lang="eu">Ikusi eta erabili beste mahaigain batzuk</summary>
+  <summary lang="es">Ver y usar otros escritorios</summary>
+  <summary lang="en_GB">View and use other desktops</summary>
+  <summary lang="el">Προβολή και χρήση άλλων υπολογιστών</summary>
+  <summary lang="de">Andere entfernte Bildschirme ansehen und nutzen</summary>
+  <summary lang="da">Vis og brug andre skriveborde</summary>
+  <summary lang="cs">Zobrazte si a používejte vzdálené plochy</summary>
+  <summary lang="ca">Visualitza i utilitza altres escriptoris</summary>
+  <summary lang="bg">Достъп и ползване на отдалечени работни среди</summary>
+  <description>
+    <p>
+    Connections allows you to connect to and use other desktops. This can be a great way to access content or software on a different desktop operating system. It can also be used as a way to provide support to users who might need help.
+    </p>
+    <p>
+    A range of different operating systems can be connected to, including Linux and Windows desktops. You can also connect to virtual machines.
+    </p>
+    <p>
+    Connections uses the widely supported VNC and RDP protocols, and one of these must be enabled on the desktop that you want to connect to.
+    </p>
+  </description>
+  <description lang="bg">
+    <p>Чрез „Свързване“ може да установявате връзки към графични среди. Това е чудесен начин да ползвате различни операционни системи или да помагате на други потребители.</p>
+    <p>Може да се свързвате към много видове операционни системи, включително графичните среди на Linux и Windows. Може да се свързвате и към виртуални машини.</p>
+    <p>Програмата ползва широко разпространените протоколи VNC и RDP за свързване. Поне един от тях трябва да е наличен на отдалечената машина.</p>
+  </description>
+  <description lang="ca">
+    <p>El Connexions us permet connectar i utilitzar altres escriptoris. Aquesta pot ser una bona manera d'accedir al contingut o programari en un sistema operatiu d'escriptori diferent. També es pot utilitzar com a manera de donar suport als usuaris que puguin necessitar ajuda.</p>
+    <p>Es pot connectar a una sèrie de diferents sistemes operatius, incloent-hi escriptoris Linux i Windows. També podeu connectar a màquines virtuals.</p>
+    <p>El Connexions utilitza els protocols VNC i RDP àmpliament admesos, i un d'aquests ha d'estar habilitat a l'escriptori al qual voleu connectar.</p>
+  </description>
+  <description lang="cs">
+    <p>Aplikace Připojení vám umožní si připojit a používat vzdálené pracovní plochy. To je skvělý způsob, jak se dostat k obsahu a softwaru na jiných počítačích s jinými operačními systémy. Touto cestou také můžete poskytovat podporu uživatelům, kteří potřebují pomoc.</p>
+    <p>Dá se připojit k řadě různých operačních systémů, včetně Linuxu a Windows. Připojit se můžete i k virtuálním strojům.</p>
+    <p>Přípojení používají široce podporované protokoly VNC a RDP, takže některý z nich musí být zapnutý i v systému, ke kterému se chcete připojit.</p>
+  </description>
+  <description lang="da">
+    <p>Forbindelser lader dig forbinde til og bruge andre skriveborde. Dette kan være en god måde at tilgå data eller programmer på et andet skrivebordsoperativsystem. Programmet kan også bruges til at hjælpe andre brugere.</p>
+    <p>Det er muligt at forbinde til en række forskellige operativsystemer inklusive Linux- og Windowsskriveborde. Du kan også forbinde til virtuelle maskiner.</p>
+    <p>Forbindelser bruger de bredt understøttede protokoller VNC og RDP. En af disse skal være slået til på det skrivebord, du vil forbinde til.</p>
+  </description>
+  <description lang="de">
+    <p>Verbindungen erlaubt Ihnen, zu anderen Rechnern Verbindungen aufzubauen und diese zu nutzen. Das bietet eine großartige Möglichkeit, Inhalte oder Software auf einem anderen Rechner zu nutzen. Es bietet auch die Möglichkeit, Benutzer zu unterstützen, die Hilfe benötigen.</p>
+    <p>Es kann zu einer Vielzahl an Betriebssystemen eine Verbindung aufgebaut werden, inklusive Windows- und Linux-Umgebungen. Auch zu virtuellen Maschinen kann eine Verbindung aufgebaut werden.</p>
+    <p>Verbindungen nutzt die weit verbreiteten Protokolle VNC und RDP. Eines der beiden muss auf dem Zielrechner aktiviert sein.</p>
+  </description>
+  <description lang="el">
+    <p>Οι Συνδέσεις σας επιτρέπουν να συνδέεστε και να χρησιμοποιείτε άλλους επιτραπέζιους υπολογιστές. Αυτός μπορεί να είναι ένας πολύ καλός τρόπος πρόσβασης σε περιεχόμενο ή λογισμικό σε διαφορετικό λειτουργικό σύστημα επιφάνειας εργασίας. Μπορεί επίσης να χρησιμοποιηθεί ως τρόπος παροχής υποστήριξης σε χρήστες που μπορεί να χρειαστούν βοήθεια.</p>
+    <p>Μπορεί να συνδεθεί μια σειρά διαφορετικών λειτουργικών συστημάτων, συμπεριλαμβανομένων των επιτραπέζιων υπολογιστών Linux και Windows. Μπορείτε επίσης να συνδεθείτε σε εικονικές μηχανές.</p>
+    <p>Οι συνδέσεις χρησιμοποιούν τα ευρέως υποστηριζόμενα πρωτόκολλα VNC και RDP και ένα από αυτά πρέπει να είναι ενεργοποιημένο στον υπολογιστή στον οποία θέλετε να συνδεθείτε.</p>
+  </description>
+  <description lang="en_GB">
+    <p>Connections allows you to connect to and use other desktops. This can be a great way to access content or software on a different desktop operating system. It can also be used as a way to provide support to users who might need help.</p>
+    <p>A range of different operating systems can be connected to, including Linux and Windows desktops. You can also connect to virtual machines.</p>
+    <p>Connections uses the widely supported VNC and RDP protocols, and one of these must be enabled on the desktop that you want to connect to.</p>
+  </description>
+  <description lang="es">
+    <p>Conexiones le permite conectarse y usar otros escritorios. Esto puede ser una buen amanera de acceder a contenido o software en un escritorio de un sistema operativo diferente. También se puede utilizar para ofrecer soporte a usuarios que necesitan ayuda.</p>
+    <p>Se puede conectar a distintos sistemas operativos, incluyendo Linux y Windows. También puede conectarse a máquinas virtuales.</p>
+    <p>Conexiones usa los protocolos VNC y RDP, ampliamente soportados, y al menos uno de ellos debe estar activado en el escritorio al que quiera conectarse.</p>
+  </description>
+  <description lang="eu">
+    <p>Konexioak aplikazioari esker, beste mahaigain batzuekin konektatu eta haiek erabili ahal izango dituzu. Beste sistema eragile bateko edukia edo softwarea atzitzeko modu bikaina da. Laguntza behar duten beste erabiltzaile batzuei euskarria eskaintzeko modua ere izan daiteke.</p>
+    <p>Mota askotako sistema eragileak konektatu daitezke, Linux eta Windows mahaigainak barne. Makina birtualekin ere konektatu zaitezke.</p>
+    <p>Konexioak aplikazioak euskarri zabala duten VNC eta RDP protokoloak erabiltzen ditu. Horietako batek gaituta egon behar du konektatuko den mahaigainean.</p>
+  </description>
+  <description lang="fa">
+    <p>دوردست‌ها می‌گذار میزکارهای دیگر را دیده و از آن‌ها استفاده کنید. این برنامه می‌تواند راهی عالی برای دسترسی به محتوا یا نرم‌افزارها روی سیستم‌عامل‌های میزکار مختلف باشد. هم‌چنین می‌تواند به عنوان راهی برای فراهم کردن پشتیبانی به کاربرانی که نیاز به کمک دارند، استفاده شود.</p>
+    <p>می‌توان به بازه‌ای از سیستم‌عامل‌های مختلف، شامل میزکارهای گنو/لینوکس و ویندوز وصل شد. هم‌چنین می‌توان به دستگاه‌های مجازی وصل شوید.</p>
+    <p>دوردست‌ها از قراردادهای VNC و RDP پشتیبانی می‌کند و باید یکی از این‌ها روی میزکاری که می‌خواهید به آن وصل شوید، به کار افتاده باشد.</p>
+  </description>
+  <description lang="fi">
+    <p>Yhteydet mahdollistaa etäyhteyksien luomisen muihin tietokoneisiin. Tällä tavalla voit käyttää eri käyttöjärjestelmien sisältöä ja ohjelmistoja. Etäyhteys mahdollistaa myös etätuen antamisen muille.</p>
+    <p>Joukkoon erilaisia käyttöjärjestelmiä on mahdollista yhdistää, mukaan lukien Linux- ja Windows-työpöydät. Voit myös yhdistää virtuaalikoneisiin.</p>
+    <p>Yhteydet käyttää laajalti tuettuja VNC- ja RDP-protokollia. Tällaisen protokollan tulee olla käytössä myös työpöydällä johon haluat yhdistää.</p>
+  </description>
+  <description lang="fr">
+    <p>Connexions vous permet de vous connecter à d’autres bureaux et de les utiliser. Il peut s’agir d’un bon moyen d’accéder à du contenu ou des logiciels sur un système d’exploitation différent. Vous pouvez également l’utiliser pour prendre en charge les utilisateurs ayant besoin d’aide.</p>
+    <p>Vous pouvez vous connecter à tout un éventail de systèmes d’exploitation, y compris les bureaux Linux et Windows. Vous pouvez également vous connecter à des machines virtuelles.</p>
+    <p>Connexions utilise les protocoles largement répandus VNC et RDP. L’un d’entre eux doit être activé sur le bureau auquel vous voulez vous connecter.</p>
+  </description>
+  <description lang="fur">
+    <p>Conessions ti permet di conetiti e doprâ altris scritoris. Cheste e je une maraveose maniere par acedi e doprâ contignûts o programs su diviers sistemis operatîfs par scrivanie. Al è pussibil doprâlu ancje come mût par da supuart a utents che a àn bisugne di jutori.</p>
+    <p>Al è pussibil conetisi a une rie di diviers sistemis operatîfs, includûts i scritoris Linux e Windows. Tu puedis ancje conetiti a machinis virtuâls.</p>
+    <p>Conessions al dopre i protocoi VNC e RDP, che a son supuartâts in misure bondante. Si à di abilitâ un di chescj sul scritori dulà che si vûl conetisi.</p>
+  </description>
+  <description lang="gl">
+    <p>Conexións permítelle conectarse e usar outros escritorios. Isto pode ser unha forma incríbel para acceder a contidos ou software de distintos sistemas operativos. Tamén pode usarse como unha forma de fornecer soporte técnico a quen precise axuda.</p>
+    <p>Pode conectarse a distintos sistemas operativos, incluíndo escritorios Linux e Windows. Tamén pode conectarse a máquinas virtuais.</p>
+    <p>Conexións usa os protocolos VNC e RDP, usados en moitos sitios, debe ter un destes activados no escritorio ao que quere conectarse.</p>
+  </description>
+  <description lang="he">
+    <p>תכנית החיבורים מאפשרת לך להתחבר ולהשתמש בשולחנות עבודה אחרים. זו יכולה להיות דרך מצוינת לגשת לתוכן או לתכניות בשולחן עבודה במערכת הפעלה אחרת. ניתן גם להשתמש בזה כדרך לספק תמיכה למשתמשים שאולי זקוקים לעזרה.</p>
+    <p>ניתן להתחבר למגוון רחב של מערכות הפעלה לרבות שולחנות עבודה של לינוקס ושל Windows. ניתן גם להתחבר למכונות וירטואליות.</p>
+    <p>תכנית החיבורים משתמשת בפרוטוקולים הנפוצים VNC ו־RDP ועל אחד מאלה להיות פעילים בשולחן העבודה אליו ברצונך להתחבר.</p>
+  </description>
+  <description lang="hr">
+    <p>Povezivanja vam omogućuje povezivanje i korištenje drugih radnih površina. To može biti sjajan način za pristup sadržaju ili softveru na radnoj površini drugog operativnog sustava. Još se može koristiti kao način podrške korisniku kojem je potrebna pomoć.</p>
+    <p>Raspon različitih operativnih sustava se može povezati, ukljućujući Linux i Windows radna okruženja. Možete se povezati i na virtualne strojeve.</p>
+    <p>Povezivanja koriste široko podržane VNC i RDP protokole, jedan od tih protokola mora biti omogućen na radnoj površini s kojom se povezujete.</p>
+  </description>
+  <description lang="hu">
+    <p>A Kapcsolatok segítségével más asztalokhoz kapcsolódhat, és használhatja azokat. Nagy segítség lehet egy más asztali operációs rendszeren lévő tartalom vagy szoftver eléréséhez. Arra is használhatja, hogy támogatást nyújtson a segítségre szoruló felhasználóknak.</p>
+    <p>Különböző operációs rendszerekhez kapcsolódhat, köztük linuxos és windowsos asztali rendszerekhez. Virtuális gépekhez is kapcsolódhat.</p>
+    <p>A Kapcsolatok a széles körben támogatott VNC és RDP protokollokat használja, és legalább az egyiknek elérhetőnek kell lennie azon a gépen, amelyhez kapcsolódni szeretne.</p>
+  </description>
+  <description lang="id">
+    <p>Sambungan memungkinkan Anda menyambungkan dan menggunakan destop lain. Ini bisa menjadi cara yang bagus untuk mengakses konten atau perangkat lunak pada sistem operasi destop yang berbeda. Ini juga dapat digunakan sebagai cara untuk memberikan dukungan kepada pengguna yang mungkin membutuhkan bantuan.</p>
+    <p>Berbagai sistem operasi yang berbeda dapat dihubungkan, termasuk destop Linux dan Windows. Anda juga dapat terhubung ke mesin virtual.</p>
+    <p>Sambungan menggunakan protokol VNC dan RDP yang didukung secara luas, dan salah satu dari ini harus diaktifkan pada destop yang ingin Anda sambungkan.</p>
+  </description>
+  <description lang="is">
+    <p>Tengingar gera þér kleift að tengjast við og nota önnur skjáborð. Þetta er hentug leið til að hafa aðgang að efni eða hugbúnaði af öðrum ólíkum stýrikerfum. Þetta nýtist líka vel til aðstoðar öðrum notendum úr fjarlægð.</p>
+    <p>Hægt er að tengjast við fjölmörg önnur stýrikerfi, meðal annarra Linux og Windows skjáborð. Einnig er hægt að tengjast við sýndarvélar.</p>
+    <p>Tengingar nota hina útbreiddu VNC og RDP samskiptamáta, þarf annar hvor þeirra að vera virkur á því kerfi sem þú ætlar að tengjast.</p>
+  </description>
+  <description lang="it">
+    <p>Connessioni permette di connettersi e usare altri computer e usarli. Può essere un buon modo per accedere a contenuti e software su computer con altri sistemi operativi. Lo si può usare anche per prestare supporto a utenti che hanno bisogno d'aiuto.</p>
+    <p>È possibile connettersi a un'ampia gamma di diversi sistemi operativi, come inclusi Linux e Windows, ed è possibile connettersi anche a macchine virtuali.</p>
+    <p>Connessioni usa i protocolli ampiamente supportati VNC e RDP, e uno di essi deve essere abilitato sul computer a cui connettersi.</p>
+  </description>
+  <description lang="ja">
+    <p>“接続”は他のデスクトップに接続して、そのデスクトップを使用することができます。異なる OS 上のソフトウェアやコンテンツにアクセスするのに便利です。また、支援が必要なユーザーを遠隔サポートするのにも使用できます。</p>
+    <p>Linux や Windows を含めた多様な OS に接続することができます。また、仮想マシンに接続することもできます。</p>
+    <p>“接続”は広くサポートされている VNC と RDP を使用します。接続される側のデスクトップはいずれかを有効にする必要があります。</p>
+  </description>
+  <description lang="kk">
+    <p>Байланыстар қолданбасы басқа жұмыс үстелдеріне қосылуға және оларды пайдалануға мүмкіндік береді. Бұл басқа жұмыс үстелі операциялық жүйесінің мазмұны немесе бағдарламалық қамтамаға қол жеткізудің тамаша жолы болуы мүмкін. Сондай-ақ, оны көмекке мұқтаж пайдаланушыларға қолдау көрсету тәсілі ретінде пайдалануға болады.</p>
+    <p>Linux және Windows жұмыс үстелдерін қоса алғанда, әр түрлі операциялық жүйелердің ауқымына байланысуға болады. Виртуалды машиналарға да қосылуға болады.</p>
+    <p>Байланыстар қолданбасы көбіне қолдауы бар VNC және RDP хаттамаларын пайдаланады және қосылғыңыз келетін жұмыс үстелінде олардың бірі іске қосылуы тиіс.</p>
+  </description>
+  <description lang="ko">
+    <p>연결 프로그램을 이용해 다른 데스크톱에 연결해서 사용할 수 있습니다. 다른 종류의 데스크톱 운영 체제에 있는 컨텐트나 소프트웨어를 사용할 때 훌륭한 방식입니다. 도움이 필요한 다른 사용자를 지원할 때에도 사용할 수 있습니다.</p>
+    <p>리눅스와 윈도우 데스크톱 포함, 여러가지 종류의 운영 체제에 연결할 수 있습니다. 또 가상 머신에 연결할 수도 있습니다.</p>
+    <p>연결 프로그램은 널리 지원되는 VNC 및 RDP 프로토콜을 사용하고, 연결하려는 데스크톱에서 이 중의 하나를 켜야 합니다.</p>
+  </description>
+  <description lang="lt">
+    <p>Ryšiai leidžia prisijungti ir naudotis kitais darbalaukiais. Tai yra puikus būdas pasiekti turinį ar programinę įrangą kitoje operacinėje sistemoje. Taip pat galima naudoti teikiant pagalbą naudotojams.</p>
+    <p>Galima prisijungti prie įvairių operacinių sistemų, tokių kaip Linux ar Windows darbalaukiai. Taip pat galima prisijungti prie virtualių mašinų.</p>
+    <p>Ryšiai naudoja plačiai palaikomus VNC ir RDP protokolos, vienas iš jų turi būti įjungtas darbalaukyje, prie kurio norima prisijungti.</p>
+  </description>
+  <description lang="nl">
+    <p>Verbindingen laat u verbinding maken met andere bureaubladen en ze gebruiken. Dit kan een uitstekende manier zijn om inhoud of software op een ander besturingssysteem te benaderen. Verbindingen kan ook gebruikt worden om gebruikers die hulp nodig hebben te ondersteunen.</p>
+    <p>Er worden heel wat verschillende besturingssystemen ondersteund, waaronder Linux- en Windows-bureaubladen. U kunt ook verbinding maken met virtuele machines.</p>
+    <p>Verbindingen maakt gebruik van de goed ondersteunde VNC- en RDP-protocollen. Eén van deze protocollen moet ingeschakeld zijn op het bureaublad waarmee u verbinding wilt maken.</p>
+  </description>
+  <description lang="oc">
+    <p>Connexions vos permet de vos connectar e d’utilizar d’autres burèus. Aquò pòt èsser un bon biais d’accedir al contengut o als logicials sus un sistèma operatiu diferent. Pòt tanben servir a provesir una assisténcia als utilizaires que ne fan mestièr.</p>
+    <p>Una plaja de diferents sistèmas operatius s’i pòdon connectar, inlutz los burèus Linux e Windows. Podètz tanben vos connectar a las maquinas virtualas.</p>
+    <p>Connexions utiliza los protocòls grandament preses en carga VNC e RDP, e un d’aquestes deu èsser activat sul burèu que volètz contactar.</p>
+  </description>
+  <description lang="pa">
+    <p>ਕਨੈਕਸ਼ਨਜ਼ ਤੁਹਾਨੂੰ ਹੋਰ ਡੈਸਕਟਾਪ ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਤੇ ਵਰਤਣ ਦੀ ਮਦਦਗਾਰ ਕਰਦਾ ਹੈ। ਇਹ ਵੱਖੋ-ਵੱਖਰੇ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਉੱਤੇ ਸਮੱਗਰੀ ਜਾਂ ਸਾਫਟਵੇਅਰ ਵਰਤਣ ਲਈ ਵਧੀਆ ਢੰਗ ਹੈ। ਇਸ ਨੂੰ ਮਦਦ ਦੇ ਚਾਹਵਾਨ ਵਰਤੋਂਕਾਰਾਂ ਵਾਸਤੇ ਵਧੀਆ ਢੰਗ ਵੀ ਹੋ ਸਕਦਾ ਹੈ।</p>
+  </description>
+  <description lang="pl">
+    <p>Menedżer połączeń umożliwia łączenie się i używanie innych komputerów. To świetny sposób na korzystanie z treści lub oprogramowania na innym systemie operacyjnym. Może też być używany do udzielania pomocy innym użytkownikom.</p>
+    <p>Można łączyć się z wieloma różnymi systemami operacyjnymi, w tym systemami Linux i Windows. Można także łączyć się z maszynami wirtualnymi.</p>
+    <p>Menedżer połączeń używa szeroko obsługiwanych protokołów VNC i RDP, i jeden z nich musi być włączony na pulpicie, z którym nastąpi połączenie.</p>
+  </description>
+  <description lang="pt">
+    <p>O Ligações permitem que se ligue e use outras áreas de trabalho. Esta pode ser uma ótima maneira de aceder a conteúdo ou software num sistema operativo de ambiente de trabalho diferente. Também pode ser usado como uma maneira de fornecer suporte aos utilizadores que podem precisar de ajuda.</p>
+    <p>Uma gama de diferentes sistemas operativos podem ser ligados, incluindo áreas de trabalho Linux e Windows. Também se pode ligar a máquinas virtuais.</p>
+    <p>O Ligações usa os protocolos VNC e RDP amplamente suportados, e um deles deve ser ativado na área de trabalho a que se pretende ligar.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>O Conexões permite que você se conecte e use outras áreas de trabalho. Essa pode ser uma ótima maneira de acessar conteúdo ou software em um sistema operacional de um sistema diferente. Ele também pode ser usado como uma forma de fornecer suporte a usuários que possam precisar de ajuda.</p>
+    <p>Uma variedade de sistemas operacionais diferentes podem ser conectados, incluindo computadores com Linux e Windows. Você também pode se conectar a máquinas virtuais.</p>
+    <p>O Conexões usa os protocolos amplamente suportados VNC e RDP, e um deles deve estar habilitado na área de trabalho ao qual você deseja se conectar.</p>
+  </description>
+  <description lang="ro">
+    <p>Conexiuni vă permite să vă conectați și să utilizați alte desktop-uri. Aceasta poate fi o modalitate excelentă de a accesa conținut sau software de pe un sistem de operare desktop diferit. Poate fi utilizat și ca o modalitate de a oferi asistență utilizatorilor care ar putea avea nevoie de ajutor.</p>
+    <p>Se poate conecta la o gamă largă de sisteme de operare diferite, inclusiv desktop-uri Linux și Windows. Puteți, de asemenea, să conectați mașini virtuale.</p>
+    <p>Conexiuni utilizează protocoalele VNC și RDP sprijinite pe scară largă, și unul dintre acestea trebuie să fie activat pe desktop-ul la care vreți să vă conectați.</p>
+  </description>
+  <description lang="ru">
+    <p>Подключения позволяют подключаться к другим рабочим столам и использовать их. Это может быть отличным способом доступа к содержимому или программному обеспечению на другой операционной системе рабочего стола. Это также может быть использовано как способ оказания поддержки пользователям, которым может понадобиться помощь.</p>
+    <p>Можно подключаться к различным операционным системам, включая настольные компьютеры Linux и Windows. Можно также подключаться к виртуальным машинам.</p>
+    <p>Подключения использует широко поддерживаемые протоколы VNC и RDP, и один из них должен быть включен на рабочем столе, к которому вы хотите подключиться.</p>
+  </description>
+  <description lang="sk">
+    <p>Aplikácia Pripojenia vám umožňuje pripojiť sa a používať iné pracovné plochy. To môže byť skvelý spôsob ako pristupovať k obsahu alebo softvéru na pracovných plochách rôznych operačných systémov. Môže byť tiež použitá na poskytnutie podpory používateľom, ktorí potrebujú pomoc.</p>
+    <p>Môže byť pripojených veľa rôznych operačných systémov, vrátane pracovných plôch systémov Linux a Windows. Môžete sa tiež pripojiť k virtuálnym počítačom.</p>
+    <p>Aplikácia Pripojenia využíva všeobecne podporované protokoly VNC a RDP. Jeden z týchto protokolov musí byť povolený na pracovnej ploche, ku ktorej sa chcete pripojiť.</p>
+  </description>
+  <description lang="sl">
+    <p>Program Povezovalnik omogoča povezovanje in upravljanje namizij na daljavo. Na ta način je mogoč enostaven dostop do vsebine in programske opreme na drugih operacijskih sistemih. Program je mogoče uporabiti tudi za podporo uporabnikom, ki potrebujejo pomoč.</p>
+    <p>Podprto je povezovanje z različnimi operacijskimi sistemi, na primer namizja Linux in Windows, mogoče je tudi povezovanje na navidezne naprave.</p>
+    <p>Program podpira protokole VNC in RDP, katerikoli pa mora biti omogočen tudi na namizju, s katerim poteka povezovanje.</p>
+  </description>
+  <description lang="sr">
+    <p>Везе вам омогућавају да се повежете на и користите друге радне површине. Ово може бити одличан начин за приступ садржају и програмима на другим оперативним системима. Такође се може користити за пружање подршке корисницима којима треба помоћ.</p>
+    <p>Можете се повезати на широк опсег оперативних система, укључујући Линукс и Виндоус. Такође се можете повезати на виртуелне машине.</p>
+    <p>Везе користе опште подржане ВНЦ и РДП протоколе и један од њих мора бити омогућен на машини на коју се повезујете.</p>
+  </description>
+  <description lang="sv">
+    <p>Anslutningar låter dig ansluta till och använda andra skrivbord. Detta kan vara ett utmärkt sätt att komma åt innehåll eller programvara på ett annat skrivbordsoperativsystem. Det kan också användas som ett sätt att erbjuda stöd åt användare som kan behöva hjälp.</p>
+    <p>En stor mängd olika operativsystem kan anslutas till, inkluderande Linux- och Windows-skrivbord. Du kan också ansluta till virtuella maskiner.</p>
+    <p>Anslutningar använder VNC- och RDP-protokollen som många har stöd för, och ett av dessa måste vara aktiverade på skrivbordet som du vill ansluta till.</p>
+  </description>
+  <description lang="tr">
+    <p>Bağlantılar, diğer masaüstlerine bağlanmanızı ve kullanmanızı sağlar. Bu, başka masaüstü işletim sistemindeki içeriğe veya yazılama erişmenin harika yoludur. Yardım isteyen kullanıcılara destek vermek için de kullanılabilir.</p>
+    <p>Linux ve Windows masaüstüleri gibi birçok başka işletim sistemine bağlanabilirsiniz. Sanal makinelere de bağlanabilirsiniz.</p>
+    <p>Bağlantılar; geniş çapta desteklenen VNC ve RDP iletişim kurallarını kullanır, bu iletişim kurallarından biri bağlanmak istediğiniz bilgisayarda etkinleştirilmelidir.</p>
+  </description>
+  <description lang="uk">
+    <p>«З'єднання» надають вам змогу з'єднуватися із іншими стільницями і користуватися ними. Це чудовий спосіб доступу до даних або програмного забезпечення у іншій стільничній операційній системі. Крім того, цією можливістю можна скористатися для надання підтримки користувачам, які потребують допомоги.</p>
+    <p>З'єднуватися можна із широким діапазоном інших операційних систем, зокрема стільничними середовищами Linux і Windows. Ви також зможете встановлювати з'єднання із віртуальними машинами.</p>
+    <p>У «З'єднаннях» використано широко підтримувані протоколи VNC і RDP. Один з цих протоколів має бути увімкнено на комп'ютері, з яким ви хочете встановити з'єднання.</p>
+  </description>
+  <description lang="vi">
+    <p>Kết nối cho phép bạn kết nối và sử dụng các máy tính để bàn khác. Đây có thể là một cách tuyệt vời để truy cập nội dung hoặc phần mềm trên một hệ điều hành máy tính để bàn khác. Nó cũng có thể được sử dụng như một cách để cung cấp hỗ trợ cho những người dùng có thể cần giúp đỡ.</p>
+    <p>Một loạt các hệ điều hành khác nhau có thể được kết nối, bao gồm cả máy tính để bàn Linux và Windows. Bạn cũng có thể kết nối với các máy ảo.</p>
+    <p>Kết nối sử dụng các giao thức VNC và RDP được hỗ trợ rộng rãi và một trong số này phải được bật trên máy tính để bàn mà bạn muốn kết nối.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>“连接”应用程序能够帮助您连接并使用其他桌面，从而方便地访问另一个桌面操作系统上的内容和软件。它也能作为向需要帮助的用户提供协助的方式。</p>
+    <p>程序可连接到不同的操作系统，包括 Linux 和 Windows 桌面。您也可以连接至虚拟机。</p>
+    <p>“连接”应用程序使用广泛支持的 VNC 和 RDP 协议，您想要连接的计算机必须预先启用其中的某个协议。</p>
+  </description>
+  <screenshots>
+    <screenshot>
+      <image>https://gitlab.gnome.org/GNOME/connections/-/raw/master/data/screenshots/42/01-create-connection.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.gnome.org/GNOME/connections/-/raw/master/data/screenshots/42/02-connection-display.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.gnome.org/GNOME/connections/-/raw/master/data/screenshots/42/03-connection-preferences.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.gnome.org/GNOME/connections/-/raw/master/data/screenshots/42/04-windows.png</image>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release date="2022-04-05" version="42.1">
+      <description>
+        <p>GNOME Connections 42.1 culminates six months of feature development, bugfixes, and performance improvements.</p>
+      </description>
+    </release>
+  </releases>
+  <launchable type="desktop-id">org.gnome.Connections.desktop</launchable>
+  <project_group>GNOME</project_group>
+  <developer_name>The GNOME Project</developer_name>
+  <developer_name lang="zh_TW">GNOME 專案</developer_name>
+  <developer_name lang="zh_CN">GNOME 项目</developer_name>
+  <developer_name lang="vi">Dự án GNOME</developer_name>
+  <developer_name lang="uk">Проєкт GNOME</developer_name>
+  <developer_name lang="tr">GNOME Projesi</developer_name>
+  <developer_name lang="sv">GNOME-projektet</developer_name>
+  <developer_name lang="sr">Гном пројекат</developer_name>
+  <developer_name lang="sl">Projekt GNOME</developer_name>
+  <developer_name lang="sk">Projekt GNOME</developer_name>
+  <developer_name lang="ru">Проект GNOME</developer_name>
+  <developer_name lang="ro">Proiectul GNOME</developer_name>
+  <developer_name lang="pt_BR">O Projeto GNOME</developer_name>
+  <developer_name lang="pt">O Projeto GNOME</developer_name>
+  <developer_name lang="pl">Projekt GNOME</developer_name>
+  <developer_name lang="pa">ਗਨੋਮ ਪਰੋਜੈਕਟ</developer_name>
+  <developer_name lang="oc">Lo projècte GNOME</developer_name>
+  <developer_name lang="nl">Het Gnome-project</developer_name>
+  <developer_name lang="ne">जिनोम परियोजना</developer_name>
+  <developer_name lang="nb">GNOME prosjektet</developer_name>
+  <developer_name lang="lt">GNOME projektas</developer_name>
+  <developer_name lang="ko">그놈 프로젝트</developer_name>
+  <developer_name lang="kk">GNOME жобасы</developer_name>
+  <developer_name lang="ja">The GNOME Project</developer_name>
+  <developer_name lang="it">Il progetto GNOME</developer_name>
+  <developer_name lang="is">GNOME verkefnið</developer_name>
+  <developer_name lang="id">Proyek GNOME</developer_name>
+  <developer_name lang="hu">A GNOME projekt</developer_name>
+  <developer_name lang="hr">GNOME projekt</developer_name>
+  <developer_name lang="he">מיזם GNOME</developer_name>
+  <developer_name lang="gl">O Proxecto de GNOME</developer_name>
+  <developer_name lang="fur">Il progjet GNOME</developer_name>
+  <developer_name lang="fr">Le projet GNOME</developer_name>
+  <developer_name lang="fi">Gnome-projekti</developer_name>
+  <developer_name lang="fa">پروژهٔ گنوم</developer_name>
+  <developer_name lang="eu">GNOME proiektua</developer_name>
+  <developer_name lang="es">El Proyecto GNOME</developer_name>
+  <developer_name lang="eo">La projekto GNOME</developer_name>
+  <developer_name lang="en_GB">The GNOME Project</developer_name>
+  <developer_name lang="el">Το έργο GNOME</developer_name>
+  <developer_name lang="de">Das GNOME-Projekt</developer_name>
+  <developer_name lang="da">GNOME-projektet</developer_name>
+  <developer_name lang="cs">Projekt GNOME</developer_name>
+  <developer_name lang="ca">El projecte GNOME</developer_name>
+  <developer_name lang="bg">Проектът GNOME</developer_name>
+  <update_contact>felipeborges_at_gnome.org</update_contact>
+  <url type="homepage">https://gitlab.gnome.org/GNOME/connections</url>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/connections/issues</url>
+  <url type="donation">http://www.gnome.org/friends/</url>
+  <translation type="gettext">gnome-connections</translation>
+  <content_rating type="oars-1.1" />
+</component>

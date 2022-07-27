@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>soundconverter</pkgname>
+  <launchable type="desktop-id">soundconverter.desktop</launchable>
+  <icon type="cached" height="64" width="64">soundconverter.png</icon>
+  <icon width="128" type="cached" height="128">soundconverter.png</icon>
+  <id>soundconverter.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>SoundConverter</name>
+  <summary>Convert audio files</summary>
+  <description>
+    <p>
+SoundConverter is the leading audio file converter for the GNOME Desktop.
+</p>
+    <p>
+SoundConverter is a simple to use, and very fast audio converter. It can convert multiples files at same the time to speed up the conversion. It can also extract the audio from videos. 
+</p>
+  </description>
+  <url type="homepage">http://soundconverter.org/</url>
+  <screenshots>
+    <screenshot height="534" type="default" width="502">
+      <image>https://soundconverter.org/screenshot-soundconverter.png</image>
+      <caption>SoundConverter Screenshot</caption>
+    </screenshot>
+  </screenshots>
+  <update_contact>gautier@soundconverter.org</update_contact>
+  <project_license>GPL-3.0</project_license>
+  <developer_name>Gautier Portet</developer_name>
+  <!-- <url type="bugtracker">https://bugs.launchpad.net/soundconverter</url> -->
+  <url type="translate">https://translations.launchpad.net/soundconverter</url>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release date="2020-10-28" version="4.0.0" />
+  </releases>
+</component>

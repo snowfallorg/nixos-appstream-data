@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>pantheon.elementary-onboarding</pkgname>
+  <launchable type="desktop-id">io.elementary.onboarding.desktop</launchable>
+  <icon width="64" type="cached" height="64">io.elementary.onboarding.png</icon>
+  <icon height="128" type="cached" width="128">io.elementary.onboarding.png</icon>
+  <id>io.elementary.onboarding</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>Welcome</name>
+  <name lang="zh_CN">欢迎</name>
+  <name lang="uz">Assalomu alaykum</name>
+  <name lang="uk">Вітаємо</name>
+  <name lang="tr">Hoş Geldiniz</name>
+  <name lang="sr">Добродошли</name>
+  <name lang="sl">Dobrodošli</name>
+  <name lang="sk">Vitajte</name>
+  <name lang="ru">Добро пожаловать</name>
+  <name lang="pt_BR">Bem-Vindo</name>
+  <name lang="pt">Bem-vindo(a)</name>
+  <name lang="pl">Witaj</name>
+  <name lang="nl">Welkom</name>
+  <name lang="nb">Velkommen</name>
+  <name lang="mr">स्वागत आहे</name>
+  <name lang="lt">Sveiki</name>
+  <name lang="ko">환영합니다</name>
+  <name lang="ja">ようこそ</name>
+  <name lang="it">Benvenuto</name>
+  <name lang="id">Selamat Datang</name>
+  <name lang="hu">Üdvözöljük</name>
+  <name lang="he">ברוך בואך</name>
+  <name lang="gl">Benvido</name>
+  <name lang="fr">Bienvenue</name>
+  <name lang="fi">Tervetuloa</name>
+  <name lang="fa">خوش آمدید</name>
+  <name lang="es">Le damos la bienvenida</name>
+  <name lang="eo">Bonvenon</name>
+  <name lang="en_GB">Welcome</name>
+  <name lang="de">Willkommen</name>
+  <name lang="da">Velkommen</name>
+  <name lang="cs">Vítejte</name>
+  <name lang="ca">Us donem la benvinguda.</name>
+  <name lang="ar">مرحباً</name>
+  <summary>Change common settings on first-run</summary>
+  <summary lang="zh_CN">在首次运行时配置常用设置</summary>
+  <summary lang="uz">Birinchi ishga tushirishda umumiy parametrlarni belgilang</summary>
+  <summary lang="uk">Налаштуйте загальні налаштування під час першого запуску</summary>
+  <summary lang="tr">İlk çalıştırmada genel ayarları değiştirin</summary>
+  <summary lang="sr">Измените опште поставке приликом првог покретања</summary>
+  <summary lang="sl">Spremenite pogoste nastavitve ob prvem zagonu</summary>
+  <summary lang="sk">Zmeňte bežné nastavenia pri prvom spustení</summary>
+  <summary lang="ru">Настройте общие параметры при первом запуске</summary>
+  <summary lang="pt_BR">Mudar as configurações comuns na primeira execução</summary>
+  <summary lang="pt">Alterar definições mais comuns na primeira execução</summary>
+  <summary lang="pl">Zmień popularne ustawienia przy pierwszym uruchomieniu</summary>
+  <summary lang="nl">Wijzig algemene instellingen bij het eerste gebruik</summary>
+  <summary lang="nb">Endre grunnleggende innstillinger ved første oppstart</summary>
+  <summary lang="mr">प्रथम रनवर सामान्य सेटिंग्ज बदला</summary>
+  <summary lang="lt">Keisti bendrus nustatymus pirmojo paleidimo metu</summary>
+  <summary lang="ko">처음 실행에 쓰이는 공통 설정을 바꾸시면 됩니다</summary>
+  <summary lang="ja">初回起動時に一般的な設定を変更します</summary>
+  <summary lang="it">Cambia le impostazioni comuni al primo avvio</summary>
+  <summary lang="id">Ubah pengaturan umum saat pertama kali dijalankan</summary>
+  <summary lang="hu">Általános beállítások megváltoztatása első indításkor</summary>
+  <summary lang="he">עריכת הגדרות נפוצות בהפעלה הראשונה</summary>
+  <summary lang="gl">Cambiar a configuración común na primeira execución</summary>
+  <summary lang="fr">Personnaliser les paramètres lors de la première utilisation</summary>
+  <summary lang="fi">Muuta yleisiä asetuksia ensimmäisellä käyttökerralla</summary>
+  <summary lang="es">Cambiar configuraciones habituales en la primera ejecución</summary>
+  <summary lang="eo">Ŝanĝi komunajn agordojn ĉe unua lanĉo</summary>
+  <summary lang="en_GB">Change common settings on first-run</summary>
+  <summary lang="de">Beim ersten Start übliche Einstellungen vornehmen</summary>
+  <summary lang="da">Skift almindeligt brugte indstillinger under første kørsel</summary>
+  <summary lang="cs">Změna běžných nastavení při prvním spuštění</summary>
+  <summary lang="ca">Canvieu paràmetres usuals a la primera execució.</summary>
+  <summary lang="ar">تغيير الإعدادات الشائعة عند التشغيل لأول مرة</summary>
+  <description>
+    <p />
+  </description>
+  <releases>
+    <release date="2022-05-12" urgency="medium" version="7.0.0">
+      <description>
+        <ul>
+          <li>Add Automatic Updates view</li>
+          <li>Add Sunset to Sunrise to Style View</li>
+          <li>Update for OS 7 and Gtk 4</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" version="6.1.0" date="2020-11-22">
+      <description>
+        <ul>
+          <li>Redesign Housekeeping and add Downloads option</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-07-14" version="6.0.0" urgency="medium">
+      <description>
+        <ul>
+          <li>Add style view</li>
+          <li>Add Online Accounts view</li>
+          <li>Remove location services view</li>
+          <li>Mention Sideload and Flathub</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.2.1" date="2020-05-28" urgency="medium">
+      <description>
+        <ul>
+          <li>Fix blurry icon in AppCenter</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.2.0" urgency="medium" date="2020-04-01">
+      <description>
+        <ul>
+          <li>New app icon</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-11-15" urgency="medium" version="1.1.0">
+      <description>
+        <ul>
+          <li>Navigate with (multi-)touch gestures</li>
+          <li>Use new blog URL</li>
+          <li>Fix errors when pressing the Skip button</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <provides>
+    <binary>io.elementary.onboarding</binary>
+  </provides>
+  <content_rating type="oars-1.1" />
+  <translation type="gettext">io.elementary.onboarding</translation>
+  <compulsory_for_desktop>Pantheon</compulsory_for_desktop>
+  <developer_name>elementary, Inc.</developer_name>
+  <developer_name lang="zh_CN">elementary, Inc.</developer_name>
+  <developer_name lang="uz">elementary, Inc.</developer_name>
+  <developer_name lang="uk">elementary, Inc.</developer_name>
+  <developer_name lang="tr">elementary, Inc.</developer_name>
+  <developer_name lang="sr">elementary, Inc.</developer_name>
+  <developer_name lang="sl">elementary, Inc.</developer_name>
+  <developer_name lang="sk">elementary, Inc.</developer_name>
+  <developer_name lang="ru">elementary, Inc.</developer_name>
+  <developer_name lang="pt_BR">elementary, Inc.</developer_name>
+  <developer_name lang="pt">elementary, Inc.</developer_name>
+  <developer_name lang="pl">elementary, Inc.</developer_name>
+  <developer_name lang="nn">elementary, Inc.</developer_name>
+  <developer_name lang="nl">elementary, Inc.</developer_name>
+  <developer_name lang="nb">elementary, Inc</developer_name>
+  <developer_name lang="mr">elementary, Inc.</developer_name>
+  <developer_name lang="lt">elementary, Inc.</developer_name>
+  <developer_name lang="ko">elementary, Inc.</developer_name>
+  <developer_name lang="ja">elementary, Inc.</developer_name>
+  <developer_name lang="it">elementary, Inc.</developer_name>
+  <developer_name lang="hu">elementary, Inc.</developer_name>
+  <developer_name lang="he">elementary בע״מ</developer_name>
+  <developer_name lang="gl">elementary, Inc.</developer_name>
+  <developer_name lang="fr">elementary, Inc.</developer_name>
+  <developer_name lang="fi">elementary, Inc.</developer_name>
+  <developer_name lang="es">elementary, Inc.</developer_name>
+  <developer_name lang="eo">elementary, Inc.</developer_name>
+  <developer_name lang="en_GB">elementary, Inc.</developer_name>
+  <developer_name lang="de">elementary, Inc.</developer_name>
+  <developer_name lang="da">elementary, Inc.</developer_name>
+  <developer_name lang="cs">elementary, Inc.</developer_name>
+  <developer_name lang="ca">elementary, Inc.</developer_name>
+  <developer_name lang="ar">elementary, Inc.</developer_name>
+  <url type="homepage">https://elementary.io</url>
+  <url type="bugtracker">https://github.com/elementary/onboarding/issues</url>
+</component>

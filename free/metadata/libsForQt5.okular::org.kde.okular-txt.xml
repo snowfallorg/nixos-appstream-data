@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>libsForQt5.okular</pkgname>
+  <id>org.kde.okular-txt</id>
+  <extends>org.kde.okular.desktop</extends>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+ and GFDL-1.3</project_license>
+  <name>Text</name>
+  <name lang="ar">نص صرف</name>
+  <name lang="az">Text</name>
+  <name lang="bg">Текст</name>
+  <name lang="ca">Text</name>
+  <name lang="ca-valencia">Text</name>
+  <name lang="cs">Text</name>
+  <name lang="de">Text</name>
+  <name lang="el">Text</name>
+  <name lang="en-GB">Text</name>
+  <name lang="es">Texto</name>
+  <name lang="et">Tekst</name>
+  <name lang="eu">Testua</name>
+  <name lang="fi">Teksti</name>
+  <name lang="fr">Texte</name>
+  <name lang="gl">Texto</name>
+  <name lang="hi">पाठ</name>
+  <name lang="hu">Szöveg</name>
+  <name lang="ia">Texto</name>
+  <name lang="it">Testo</name>
+  <name lang="ko">텍스트</name>
+  <name lang="lt">Tekstas</name>
+  <name lang="ml">വാചകം</name>
+  <name lang="nl">Tekst</name>
+  <name lang="nn">Tekst</name>
+  <name lang="pl">Tekst</name>
+  <name lang="pt">Texto</name>
+  <name lang="pt-BR">Texto</name>
+  <name lang="ro">Text</name>
+  <name lang="ru">Текст</name>
+  <name lang="sk">Text</name>
+  <name lang="sl">Besedilo</name>
+  <name lang="sr">Текст</name>
+  <name lang="sr-Latn">Tekst</name>
+  <name lang="sr-ijekavian">Текст</name>
+  <name lang="sr-ijekavianlatin">Tekst</name>
+  <name lang="sv">Text</name>
+  <name lang="ta">உரைக்கோப்பு</name>
+  <name lang="tr">Metin</name>
+  <name lang="uk">Текст</name>
+  <name lang="vi">Văn bản</name>
+  <name lang="x-test">xxTextxx</name>
+  <name lang="zh-CN">文本</name>
+  <name lang="zh-TW">文字</name>
+  <summary>Adds support for reading plain text documents</summary>
+  <summary lang="ar">يضيف دعم لقراءة مستندات النصية الصرفة</summary>
+  <summary lang="az">Adi mətn sənədlərini oxumaq üçün dəstək əlavə edir</summary>
+  <summary lang="bg">Добавя поддръжка за четене на текстови документи</summary>
+  <summary lang="ca">Afegeix la implementació per a llegir documents de text net</summary>
+  <summary lang="ca-valencia">Afig la implementació per a llegir documents de text net</summary>
+  <summary lang="cs">Přidává podporu pro čtení dokumentů v čistém textu</summary>
+  <summary lang="de">Bietet Unterstützung zum Lesen von Text-Dokumenten</summary>
+  <summary lang="el">Προσθέτει υποστήριξη για την ανάνγωση εγγράφων απλού κειμένου</summary>
+  <summary lang="en-GB">Adds support for reading plain text documents</summary>
+  <summary lang="es">Permite la lectura de documentos de texto sin formato</summary>
+  <summary lang="et">Lihttekstidokumentide lugemise toetus</summary>
+  <summary lang="eu">Testu arrunteko dokumentuak irakurtzeko euskarria gehitzen du </summary>
+  <summary lang="fi">Lisää paljaiden tekstitiedostojen lukutuen</summary>
+  <summary lang="fr">Permet la lecture des fichiers texte</summary>
+  <summary lang="gl">Engade a posibilidade de ler documentos de texto simple</summary>
+  <summary lang="hi">सादा पाठ दस्तावेज़ पढ़ने के लिए समर्थन जोड़ता है</summary>
+  <summary lang="hu">Támogatás egyszerű szöveges dokumentumok olvasásához</summary>
+  <summary lang="ia">Adde supporto per leger documentos plan</summary>
+  <summary lang="it">Aggiunge il supporto per la lettura di documenti in testo semplice</summary>
+  <summary lang="ko">일반 텍스트 문서 읽기 지원 추가</summary>
+  <summary lang="lt">Prideda palaikymą grynų tekstinių dokumentų skaitymui</summary>
+  <summary lang="nl">Voegt ondersteuning voor lezen van gewone tekstdocumenten toe</summary>
+  <summary lang="nn">Legg til støtte for å lesa reintekstdokument</summary>
+  <summary lang="pl">Dodaje obsługę zwykłych plików tekstowych</summary>
+  <summary lang="pt">Adiciona o suporte para ler documentos em texto simples</summary>
+  <summary lang="pt-BR">Adiciona o suporte para leitura de documentos em texto simples</summary>
+  <summary lang="ro">Adaugă suport pentru citirea documentelor cu text simplu</summary>
+  <summary lang="ru">Поддержка чтения простых текстовых документов</summary>
+  <summary lang="sk">Pridá podporu pre čítanie čistých textových dokumentov</summary>
+  <summary lang="sl">Doda podporo za branje besedilnih dokumentov</summary>
+  <summary lang="sr">Подршка за читање докумената у обичном тексту</summary>
+  <summary lang="sr-Latn">Podrška za čitanje dokumenata u običnom tekstu</summary>
+  <summary lang="sr-ijekavian">Подршка за читање докумената у обичном тексту</summary>
+  <summary lang="sr-ijekavianlatin">Podrška za čitanje dokumenata u običnom tekstu</summary>
+  <summary lang="sv">Lägger till stöd för att läsa enkla textdokument</summary>
+  <summary lang="ta">சாதாரண உரைக்கோப்புகளைப் படிப்பதற்கான ஆதரவை சேர்க்கும்</summary>
+  <summary lang="tr">Düz metin belgelerini okuma desteği ekler</summary>
+  <summary lang="uk">Додає підтримку читання звичайних текстових документів</summary>
+  <summary lang="vi">Thêm hỗ trợ đọc tài liệu văn bản thuần</summary>
+  <summary lang="x-test">xxAdds support for reading plain text documentsxx</summary>
+  <summary lang="zh-CN">增加对纯文本文档的支持</summary>
+  <summary lang="zh-TW">加入讀取純文字文件的支援</summary>
+  <provides>
+    <mediatype>text/plain</mediatype>
+  </provides>
+  <url type="homepage">https://okular.kde.org</url>
+  <releases>
+    <release version="22.04.3" date="2022-07-07" />
+    <release date="2022-06-09" version="22.04.2" />
+    <release version="22.04.1" date="2022-05-12" />
+    <release date="2022-04-21" version="22.04.0" />
+  </releases>
+</component>

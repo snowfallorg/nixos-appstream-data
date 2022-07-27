@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>GNU PSPP is a program for the statistical analysis of sampled data. It is a Free replacement for the proprietary program SPSS, and appears very similar to it with a few exceptions. The most important of these exceptions are, that there are no “time bombs”; your copy of PSPP will not “expire” or deliberately stop working in the future. Neither are there any artificial limits on the number of cases or variables which you can use. There are no additional packages to purchase in order to get “advanced” functions; all functionality that PSPP currently supports is in the core package.</p>
+    <p>PSPP is a stable and reliable application. It can perform descriptive statistics, T-tests, anova, linear and logistic regression, measures of association, cluster analysis, reliability and factor analysis, non-parametric tests and more. Its backend is designed to perform its analyses as fast as possible, regardless of the size of the input data. You can use PSPP with its graphical interface or the more traditional syntax commands.</p>
+    <p>A brief list of some of the PSPP's features.</p>
+    <ul>
+      <li>Support for over 1 billion cases</li>
+      <li>Support for over 1 billion variables</li>
+      <li>Syntax and data files which are compatible with those of SPSS</li>
+      <li>A choice of terminal or graphical user interface</li>
+      <li>A choice of text, postscript, pdf, opendocument or html output formats</li>
+      <li>Inter-operability with: LibreOffice, Apache OpenOffice, Gnumeric and other free software</li>
+      <li>Easy data import from spreadsheets, text files and database sources</li>
+      <li>The capability to open, analyse and edit two or more datasets concurrently</li>
+      <li>A user interface supporting all common character sets</li>
+      <li>A user interface has been translated to multiple languages</li>
+      <li>Very fast statistical procedures, even on very large data sets</li>
+      <li>No license fees and no expiration period</li>
+      <li>No unethical “end user license agreements”</li>
+      <li>A fully indexed user manual</li>
+      <li>Freedom ensured; It is licensed under the GPLv3 or later</li>
+      <li>Portability; Runs on many different computers and many different operating systems</li>
+    </ul>
+    <p>PSPP is particularly aimed at statisticians, social scientists and students requiring fast convenient analysis of sampled data.</p>
+  </description>
+  <description lang="de">
+    <p>GNU PSPP ist ein Programm zur statistischen Analyse von Stichproben. Es ist ein freier Ersatz für das proprietäre Programm SPSS. Es verhält sich abgesehen von einigen Ausnahmen sehr ähnlich. Die wichtigste Ausnahme ist: Es enthält keine „Zeitbomben“. Diese Kopie von PSPP wird nicht „auslaufen“ oder irgendwann in der Zukunft aufhören zu funktionieren. Weiterhin gibt es keine künstlichen Grenzen bei der Anzahl der Fälle oder der Variablen. Es gibt keine zusätzlichen Pakete, die man zunächst erwerben muss um „fortgeschrittene“ Funktionen benutzen zu können. Die gesamte Funktionalität, die PSPP derzeit unterstützt, ist hier enthalten.</p>
+    <p>PSPP ist eine stabile und zuverlässige Applikation. Man kann deskriptive Statistiken, T-Tests, ANOVA, lineare und logistische Regression, Zusammenhangsfaktoren, Clusteranalysen, Verlässlichkeits- und Faktoranalysen, nicht-parametrische Tests und vieles mehr berechnen. Das backend wurde für eine hohe Rechengeschwindigkeit auch bei großen zu verarbeitenden Datenmengen ausgelegt. Sie können PSPP mit der graphischen Oberfläche oder traditionell mit Kommandos verwenden.</p>
+    <p>Eine kurze Featureliste von PSPP.</p>
+    <ul>
+      <li>Verarbeitung von mehr als einer Milliarde Fällen</li>
+      <li>Verarbeitung von mehr als einer Milliarde Variablen</li>
+      <li>Syntax- und Datendateien sind kompatibel mit SPSS</li>
+      <li>Auswahl zwischen Terminal oder grafischer Benutzeroberfläche</li>
+      <li>Text, Postscript, pdf, opendocument oder html als Ausgabeformate</li>
+      <li>Interoperabel mit Libreoffice, Apache OpenOffice, Gnumeric und anderer freier Software</li>
+      <li>Einfacher Datenimport aus Tabellen, Textdateien und Datenbankquellen</li>
+      <li>Möglichkeit zwei oder mehr Datensätze gleichzeitig zu öffnen und zu bearbeiten</li>
+      <li>Eine Benutzeroberfläche, die alle üblichen Zeichensätze unterstützt</li>
+      <li>Übersetzt in mehrere Sprachen</li>
+      <li>Schnelle statistische Berechnung auch bei sehr großen Datensätzen</li>
+      <li>Keine Lizenzgebühren oder zeitliche Befristung</li>
+      <li>Keine unethischen Lizenzvereinbarungen</li>
+      <li>Ein voll indiziertes englisches Benutzerhandbuch</li>
+      <li>Freiheit auch zukünftig gesichert. Lizensiert mit GPLv3 oder später</li>
+      <li>Portabilität. Läuft auf vielen verschiedenen Computern und Betriebssystemen</li>
+    </ul>
+    <p>PSPP richtet sich insbesondere an Statistiker, Sozialforscher und Studenten, die eine schnelle und einfache Analyse von Stichprobendaten benötigen</p>
+  </description>
+  <pkgname>pspp</pkgname>
+  <launchable type="desktop-id">org.fsf.pspp.desktop</launchable>
+  <icon height="64" type="cached" width="64">pspp.png</icon>
+  <icon height="128" type="cached" width="128">pspp.png</icon>
+  <id>org.fsf.pspp</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>GNU PSPP</name>
+  <name lang="uk">GNU PSPP</name>
+  <name lang="nl">GNU PSPP</name>
+  <name lang="lt">GNU PSPP</name>
+  <name lang="el">GNU PSPP</name>
+  <name lang="de">GNU PSPP</name>
+  <summary>GNU PSPP is a program for statistical analysis of sampled data</summary>
+  <summary lang="de">GNU PSPP ist ein Programm zur statistischen Analyse von Stichproben</summary>
+  <categories>
+    <category>Science</category>
+    <category>Math</category>
+    <category>NumericalAnalysis</category>
+    <category>GTK</category>
+  </categories>
+  <screenshots>
+    <screenshot type="default">
+      <caption>GNU PSPP Variable View</caption>
+      <caption lang="de">GNU PSPP Variablenansicht</caption>
+      <image>https://www.gnu.org/software/pspp/images/variable-sheet.png</image>
+    </screenshot>
+  </screenshots>
+  <translation type="gettext">pspp</translation>
+  <url type="homepage">https://www.gnu.org/software/pspp/</url>
+  <url type="translate">https://translationproject.org/domain/pspp.html</url>
+  <url type="donation">https://my.fsf.org/donate</url>
+  <keywords>
+    <keyword>statistics</keyword>
+  </keywords>
+  <content_rating type="oars-1.0" />
+  <update_contact>pspp-dev@gnu.org</update_contact>
+  <developer_name>Free Software Foundation</developer_name>
+  <url type="bugtracker">https://savannah.gnu.org/bugs/?func=additem&amp;group=pspp</url>
+  <url type="help">https://www.gnu.org/software/pspp/manual/html_node/index.html</url>
+  <provides>
+    <binary>pspp</binary>
+    <binary>psppire</binary>
+  </provides>
+  <releases>
+    <release version="1.3.0">
+      <url>http://git.savannah.gnu.org/cgit/pspp.git/commit/NEWS?h=v1.3.0</url>
+    </release>
+    <release date="2018-11-06" version="1.2.0">
+      <url>http://git.savannah.gnu.org/cgit/pspp.git/commit/NEWS?h=v1.2.0</url>
+    </release>
+  </releases>
+</component>

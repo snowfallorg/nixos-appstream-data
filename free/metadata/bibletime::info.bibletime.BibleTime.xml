@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>bibletime</pkgname>
+  <launchable type="desktop-id">info.bibletime.BibleTime.desktop</launchable>
+  <icon height="64" width="64" type="cached">info.bibletime.BibleTime.png</icon>
+  <icon width="128" height="128" type="cached">info.bibletime.BibleTime.png</icon>
+  <id>info.bibletime.BibleTime.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>BibleTime</name>
+  <summary>Bible Study Program</summary>
+  <description>
+    <p>
+    BibleTime is a completely free Bible study program, built for Linux, Windows, FreeBSD and Mac OS X. BibleTime contains over 400 free Bible texts, commentaries, dictionaries and books, provided by the Crosswire Bible Society.
+  </p>
+  </description>
+  <content_rating type="oars-1.1" />
+  <url type="homepage">https://bibletime.info/</url>
+  <update_contact>bt-devel@crosswire.org</update_contact>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://bibletime.info/screenshots/BibleTime-Main-Screen.png</image>
+      <caption>Main window</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://bibletime.info/screenshots/BibleTime-Search-Screen.png</image>
+      <caption>Search window</caption>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release version="3.0.3">
+      <description>
+        <p>See the website https://bibletime.info for more information.</p>
+      </description>
+    </release>
+  </releases>
+</component>

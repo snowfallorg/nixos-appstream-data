@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+  <pkgname>pragha</pkgname>
+  <icon type="cached" height="64" width="64">pragha.png</icon>
+  <icon height="128" type="cached" width="128">pragha.png</icon>
+  <id>io.github.pragha_music_player</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>Pragha Music Player</name>
+  <name lang="ar">Pragha Music Player</name>
+  <name lang="bg">Музикален плеър Pragha</name>
+  <name lang="ca_ES">Reproductor de música Pragha</name>
+  <name lang="cs">Pragha hudební přehrávač</name>
+  <name lang="da">Pragha-musikafspiller</name>
+  <name lang="de">Pragha Musikspieler</name>
+  <name lang="es">Reproductor de música Pragha</name>
+  <name lang="fr">Lecteur audio Pragha</name>
+  <name lang="hu">Pragha zenelejátszó</name>
+  <name lang="id">Pragha Pemutar Musik</name>
+  <name lang="it">Lettore Musicale Pragha</name>
+  <name lang="ko_KR">Pragha 음악 플레이어</name>
+  <name lang="lt">Pragha muzikos grotuvas</name>
+  <name lang="nl">Pragha-muziekspeler</name>
+  <name lang="pl">Odtwarzacz muzyki Pragha</name>
+  <name lang="pt">Pragha - Reprodutor de músicas</name>
+  <name lang="pt_BR">Reprodutor de música Pragha</name>
+  <name lang="ru">Музыкальный проигрыватель Pragha</name>
+  <name lang="sk">Hudobný prehrávač Pragha</name>
+  <name lang="tr">Pragha Müzik Çalar</name>
+  <name lang="uk">Музичний програвач Pragha</name>
+  <name lang="zh_CN">Pragha音乐播放器</name>
+  <summary>Manage and listen your music</summary>
+  <summary lang="es">Administra y escucha tu música</summary>
+  <description>
+    <p> Pragha is a Lightweight Music Player for GNU/Linux, based on GTK3, SQLite, and completely written in C, constructed to be fast, light, and simultaneously tries to be complete without obstructing the daily work. Although it was especifically designed for the Xfce desktop, it integrates very well in other desktop environments. </p>
+    <p>Features:</p>
+    <ul>
+      <li>Full integration with GTK3 support, but always completely independent of gnome or xfce</li>
+      <li>Two panel desing inspired on Amarok 1.4. Library and current playlist</li>
+      <li>Library with multiple views, according tags or folder structure</li>
+      <li>Search, filtering and queue songs on current playlist</li>
+      <li>Playing and edit tag of mp3, m4a, ogg, flac, asf, wma, and ape files. Of course you need codecs</li>
+      <li>Playlist management. Exporting M3U and read M3U, PLS, XSPF and WAX playlists</li>
+      <li>Play audio CDs and identifies this with CDDB</li>
+      <li>Playback control with command line and MPRIS2</li>
+      <li>Native desktop notifications with libnotify</li>
+    </ul>
+  </description>
+  <launchable type="desktop-id">pragha.desktop</launchable>
+  <categories>
+    <category>AudioVideo</category>
+    <category>Audio</category>
+  </categories>
+  <keywords>
+    <keyword>audio</keyword>
+    <keyword>multimedia</keyword>
+    <keyword>player</keyword>
+    <keyword lang="es">reproductor</keyword>
+  </keywords>
+  <url type="bugtracker">https://github.com/pragha-music-player/pragha/issues</url>
+  <url type="donation">https://www.bountysource.com/teams/pragha-music-player</url>
+  <url type="faq">https://github.com/pragha-music-player/pragha/wiki/FAQ</url>
+  <url type="homepage">http://pragha-music-player.github.io</url>
+  <url type="translate">https://www.transifex.com/projects/p/Pragha/</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>http://pragha-music-player.github.io/images/Pragha-Xfce-HIG.png</image>
+    </screenshot>
+    <screenshot>
+      <image>http://pragha-music-player.github.io/images/Pragha-Gnome3-HIG.png</image>
+    </screenshot>
+    <screenshot>
+      <image>http://pragha-music-player.github.io/images/Pragha-W7.jpg</image>
+    </screenshot>
+  </screenshots>
+  <translation type="gettext">pragha</translation>
+  <update_contact>mati86dl_at_gmail.com</update_contact>
+  <developer_name>Matias De lellis</developer_name>
+</component>

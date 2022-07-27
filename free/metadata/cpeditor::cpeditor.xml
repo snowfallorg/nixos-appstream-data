@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>cpeditor</pkgname>
+  <launchable type="desktop-id">cpeditor.desktop</launchable>
+  <icon type="cached" height="64" width="64">cpeditor.png</icon>
+  <icon type="cached" height="128" width="128">cpeditor.png</icon>
+  <id>cpeditor.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <!-- This is not cpeditor's license, but for this file only. cpeditor is licensed under GPL -->
+  <name>CP Editor</name>
+  <summary>Code editor for competitive programming</summary>
+  <summary lang="ru">Редактор кода для спортивного программирования</summary>
+  <summary lang="zh_CN">算法竞赛代码编辑器</summary>
+  <summary lang="zh_TW">競程程式碼編輯器</summary>
+  <description>CP Editor is a Qt-based, lightweight and cross-platform code editor specially designed for competitive programming. </description>
+  <description lang="ru">CP Editor - это легкий кросс-платформенный редактор кода на базе Qt, специально разработанный для спортивного программирования.</description>
+  <description lang="zh_CN">CP Editor 是一个基于 Qt 的轻量级跨平台代码编辑器，专为算法竞赛设计。</description>
+  <description lang="zh_TW">CP Editor 是一款採用 Qt 的輕巧型跨平台程式碼編輯器，專為競程使用設計。</description>
+  <url type="homepage">https://cpeditor.org</url>
+  <url type="bugtracker">https://github.com/cpeditor/cpeditor/issues</url>
+  <url type="help">https://github.com/cpeditor/cpeditor/discussions</url>
+  <url type="donation">https://github.com/cpeditor/cpeditor/blob/master/DONATE.md</url>
+  <update_contact>officialcpeditor@gmail.com</update_contact>
+  <project_group>CP Editor</project_group>
+  <project_license>GPL-3.0+</project_license>
+  <developer_name>Ashar Khan</developer_name>
+  <translation type="gettext">cpeditor</translation>
+  <provides>
+    <id>cpeditor.desktop</id>
+  </provides>
+  <screenshots>
+    <screenshot type="default">https://cpeditor.org/img/banner/home-center-2.jpg</screenshot>
+  </screenshots>
+  <releases>
+    <release version="6.10.1.0" date="1980-01-01" />
+  </releases>
+</component>

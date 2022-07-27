@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>recapp</pkgname>
+  <launchable type="desktop-id">com.github.amikha1lov.RecApp.desktop</launchable>
+  <icon height="64" width="64" type="cached">com.github.amikha1lov.RecApp.png</icon>
+  <icon height="128" width="128" type="cached">com.github.amikha1lov.RecApp.png</icon>
+  <id>com.github.amikha1lov.RecApp.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <name>RecApp</name>
+  <name lang="tr">RecApp</name>
+  <name lang="ru">RecApp</name>
+  <name lang="nl">RecApp</name>
+  <name lang="it">RecApp</name>
+  <name lang="de">RecApp</name>
+  <summary>User friendly Open Source screencaster for Linux written in GTK</summary>
+  <summary lang="tr">Linux için GTK ile oluşturulan kullanıcı dostu, açık kaynaklı bir ekran kayıt uygulaması</summary>
+  <summary lang="ru">Удобный в использовании скринкастер с открытым исходным кодом для Linux,написанный на  GTK</summary>
+  <summary lang="nl">Een gebruiksvriendelijke, open source schermopnametoepassing voor Linux, gemaakt met GTK</summary>
+  <summary lang="it">Screencaster Open Source user friendly per Linux scritto in GTK</summary>
+  <summary lang="es">Programa de screencast, Open Source para Linux y escrito en GTK</summary>
+  <summary lang="de">Benutzerfreundliches Programm für Linux zur Aufnahme eines Bildschirmvideos, geschrieben in GTK</summary>
+  <description>
+    <p>
+        User friendly Open Source screencaster for Linux written in GTK. Using
+        free GStreamer modules and not depend on FFmpeg.
+        </p>
+  </description>
+  <description lang="de">
+    <p>Benutzerfreundliches Programm für Linux zur Aufnahme eines Bildschirmvideos, geschrieben in GTK. Es nutzt die freien GStreamer-Module und hängt nicht von FFmpeg ab.</p>
+  </description>
+  <description lang="es">
+    <p>Programa de screencast, Open Source para Linux y escrito en GTK. Usa GStreamer y no depende de FFmpeg.</p>
+  </description>
+  <description lang="it">
+    <p>Screencaster Open Source user friendly per Linux scritto in GTK. Utilizza moduli GStreamer gratuiti e non dipende da FFmpeg.</p>
+  </description>
+  <description lang="nl">
+    <p>Een gebruiksvriendelijke, open source schermopnametoepassing voor Linux, gemaakt met GTK en GStreamer-modules i.p.v. FFmpeg.</p>
+  </description>
+  <description lang="ru">
+    <p>Удобный в использовании скринкастер с открытым исходным кодом для Linux,написанный на  GTK. Использующий свободные модули GStreamer и не зависит от FFmpeg.</p>
+  </description>
+  <description lang="tr">
+    <p>GTK ve GStreamer modülleri ile yapılan Linux için kullanıcı dostu, açık kaynaklı bir ekran kayıt uygulaması. i.p.v. FFmpeg.</p>
+  </description>
+  <provides>
+    <binary>recapp</binary>
+  </provides>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/amikha1lov/RecApp/master/RecApp-screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <content_rating type="oars-1.0" />
+  <releases>
+    <release version="1.1.1" date="2021-03-17" />
+    <release date="2020-06-09" version="1.1.0" />
+    <release date="2020-05-28" version="1.0.4" />
+    <release date="2020-05-28" version="1.0.3" />
+    <release version="1.0.2" date="2020-05-15" />
+    <release date="2020-05-13" version="1.0.1" />
+    <release date="2020-05-11" version="1.0.0" />
+    <release date="2020-05-04" version="0.1.0" />
+  </releases>
+  <developer_name>Alexey Mikhailov</developer_name>
+  <developer_name lang="tr">Alexey Mikhailov</developer_name>
+  <developer_name lang="ru">Алексей Михайлов</developer_name>
+  <developer_name lang="nl">Alexey Mikhailov</developer_name>
+  <developer_name lang="it">Alexey Mikhailov</developer_name>
+  <developer_name lang="de">Alexey Mikhailov</developer_name>
+  <url type="homepage">https://github.com/amikha1lov/RecApp</url>
+  <url type="bugtracker">https://github.com/amikha1lov/RecApp/issues</url>
+  <url type="translate">https://github.com/amikha1lov/RecApp/tree/master/po</url>
+</component>

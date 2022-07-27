@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>giara</pkgname>
+  <icon type="cached" width="64" height="64">org.gabmus.giara.png</icon>
+  <icon width="128" type="cached" height="128">org.gabmus.giara.png</icon>
+  <id>org.gabmus.giara</id>
+  <name>Giara</name>
+  <name lang="uk">Giara</name>
+  <name lang="sv">Giara</name>
+  <name lang="sr">Ђара</name>
+  <name lang="ru">Giara</name>
+  <name lang="sl">Giara</name>
+  <name lang="pt_BR">Giara</name>
+  <name lang="pl">Giara</name>
+  <name lang="nl">Giara</name>
+  <name lang="id">Giara</name>
+  <name lang="hr">Giara</name>
+  <name lang="fr">Giara</name>
+  <name lang="fi">Giara</name>
+  <name lang="eu">Giara</name>
+  <name lang="es">Giara</name>
+  <name lang="el">Giara</name>
+  <name lang="de">Giara</name>
+  <name lang="da">Giara</name>
+  <name lang="cs">Giara</name>
+  <developer_name>Gabriele Musco</developer_name>
+  <developer_name lang="uk">Gabriele Musco</developer_name>
+  <developer_name lang="sv">Gabriele Musco</developer_name>
+  <developer_name lang="sr">Габриеле Муско</developer_name>
+  <developer_name lang="sl">Gabriele Musco</developer_name>
+  <developer_name lang="pt_BR">Gabriele Musco</developer_name>
+  <developer_name lang="pl">Gabriele Musco</developer_name>
+  <developer_name lang="nl">Gabriele Musco</developer_name>
+  <developer_name lang="id">Gabriele Musco</developer_name>
+  <developer_name lang="hr">Gabriele Musco</developer_name>
+  <developer_name lang="fr">Gabriele Musco</developer_name>
+  <developer_name lang="fi">Gabriele Musco</developer_name>
+  <developer_name lang="eu">Gabriele Musco</developer_name>
+  <developer_name lang="es">Gabriele Musco</developer_name>
+  <developer_name lang="el">Gabriele Musco</developer_name>
+  <developer_name lang="de">Gabriele Musco</developer_name>
+  <developer_name lang="da">Gabriele Musco</developer_name>
+  <developer_name lang="cs">Gabriele Musco</developer_name>
+  <summary>An app for Reddit</summary>
+  <summary lang="uk">Програма для Reddit</summary>
+  <summary lang="sv">Ett program för Reddit</summary>
+  <summary lang="sr">Програм за Редит</summary>
+  <summary lang="ru">Приложение для Reddit</summary>
+  <summary lang="pt_BR">Um aplicativo para o Reddit</summary>
+  <summary lang="pl">Program do przeglądania serwisu Reddit</summary>
+  <summary lang="nl">Een toepassing voor Reddit</summary>
+  <summary lang="it">Un'app per Reddit</summary>
+  <summary lang="id">Aplikasi GTK untuk Reddit</summary>
+  <summary lang="fr">Une application pour Reddit</summary>
+  <summary lang="fi">Reddit-sovellus</summary>
+  <summary lang="eu">Reddit sarerako aplikazioa</summary>
+  <summary lang="es">Una aplicación para Reddit</summary>
+  <summary lang="el">Μια εφαρμογή για το Reddit</summary>
+  <summary lang="de">Eine Anwendung für Reddit</summary>
+  <summary lang="da">Et program til Reddit</summary>
+  <summary lang="cs">Aplikace pro Reddit</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <!-- recommends>
+        <control>pointing</control>
+        <control>keyboard</control>
+        <control>touch</control>
+    </recommends -->
+  <description>
+    <p>An app for Reddit.</p>
+    <p>Browse Reddit from your Linux desktop or smartphone.</p>
+  </description>
+  <description lang="cs">
+    <p>Aplikace pro Reddit.</p>
+    <p>Procházejte si Reddit ze svého linuxového počítače nebo telefonu.</p>
+  </description>
+  <description lang="da">
+    <p>Et program til Reddit.</p>
+    <p>Gennemse Reddit fra dit Linux-skrivebord eller -smartphone.</p>
+  </description>
+  <description lang="de">
+    <p>Eine Anwendung für Reddit.</p>
+    <p>Browse Reddit auf deinem Linux-Computer oder Smartphone.</p>
+  </description>
+  <description lang="el">
+    <p>Μια εφαρμογή για το Reddit.</p>
+  </description>
+  <description lang="es">
+    <p>Una aplicación para Reddit.</p>
+    <p>Explore Reddit desde su escritorio Linux o teléfono inteligente.</p>
+  </description>
+  <description lang="eu">
+    <p>Reddit sarerako aplikazioa.</p>
+    <p>Arakatu Reddit zure Linux mahaigainetik edo telefonotik.</p>
+  </description>
+  <description lang="fi">
+    <p>Sovellus Redditin käyttöä varten.</p>
+    <p>Selaa Redditiä Linux-työpöydältä tai -älypuhelimesta.</p>
+  </description>
+  <description lang="fr">
+    <p>Une application pour Reddit.</p>
+    <p>Naviguez sur Reddit depuis votre ordinateur ou téléphone Linux.</p>
+  </description>
+  <description lang="id">
+    <p>Aplikasi GTK untuk Reddit.</p>
+    <p>Telusuri Reddit dari destop atau ponsel cerdas Linux Anda.</p>
+  </description>
+  <description lang="it">
+    <p>Un'app per Reddit.</p>
+    <p>Naviga Reddit dal tuo desktop o smartphone Linux.</p>
+  </description>
+  <description lang="nl">
+    <p>Een toepassing voor Reddit.</p>
+    <p>Surf op Reddit vanaf uw Linux-computer of -smartphone.</p>
+  </description>
+  <description lang="pl">
+    <p>Program do przeglądania serwisu Reddit.</p>
+    <p>Przeglądanie serwisu Reddit z komputera lub telefonu z systemem Linux.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Um aplicativo para o Reddit.</p>
+    <p>Navegue pelo Reddit a partir da sua área de trabalho Linux ou smartphone.</p>
+  </description>
+  <description lang="ru">
+    <p>Приложение для Reddit</p>
+    <p>Просматривайте Reddit с Linux десктопа или смартфона</p>
+  </description>
+  <description lang="sr">
+    <p>Програм за Редит.</p>
+    <p>Разгледајте Редит са радне површи Линукса или паметног телефона.</p>
+  </description>
+  <description lang="sv">
+    <p>Ett program för Reddit.</p>
+    <p>Surfa på Reddit från ditt Linuxskrivbord eller din smartmobil.</p>
+  </description>
+  <description lang="uk">
+    <p>Програма для Reddit.</p>
+    <p>Навігація Reddit з вашого робочого комп'ютера із Linux або смартфона.</p>
+  </description>
+  <launchable type="desktop-id">org.gabmus.giara.desktop</launchable>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://gitlab.gnome.org/World/giara/raw/website/static/screenshots/mainwindow.png</image>
+      <image>https://gitlab.gnome.org/World/giara/raw/website/static/screenshots/scrot01.png</image>
+      <image>https://gitlab.gnome.org/World/giara/raw/website/static/screenshots/scrot02.png</image>
+      <image>https://gitlab.gnome.org/World/giara/raw/website/static/screenshots/scrot03.png</image>
+      <image>https://gitlab.gnome.org/World/giara/raw/website/static/screenshots/scrot04.png</image>
+      <image>https://gitlab.gnome.org/World/giara/raw/website/static/screenshots/scrot05.png</image>
+      <image>https://gitlab.gnome.org/World/giara/raw/website/static/screenshots/scrot06.png</image>
+      <image>https://gitlab.gnome.org/World/giara/raw/website/static/screenshots/scrot07.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://giara.gabmus.org</url>
+  <url type="bugtracker">https://gitlab.gnome.org/World/giara/-/issues</url>
+  <url type="translate">https://gitlab.gnome.org/World/giara/-/tree/master/po</url>
+  <url type="donation">https://liberapay.com/gabmus/donate</url>
+  <update_contact>gabmus@disroot.org</update_contact>
+  <releases>
+    <release version="1.0" timestamp="1630313800">
+      <description>
+        <ul>
+          <li>New version 1.0 based on GTK4 and libadwaita!</li>
+          <li>Optimized post lists based on ListView</li>
+          <li>New and improved picture view with built-in image viewer</li>
+          <li>Added support for picture galleries</li>
+          <li>NSFW images are now blurred</li>
+          <li>Added support for custom emojis in post flairs</li>
+          <li>Many improvements and bug fixes</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.3" timestamp="1605683256">
+      <description>
+        <ul>
+          <li>Opening a post from a comment jumps to that comment</li>
+          <li lang="it">Aprire un post da un commento salta direttamente a quel commento</li>
+          <li lang="de">Einen Beitrag von den Kommentaren öffnen, lässt dich zu diesem Kommentar springen</li>
+          <li>Post creation and editing are now asynchronous</li>
+          <li lang="it">La creazione e la modifica dei post è ora asincrona</li>
+          <li lang="de">Beitragserstellung und -bearbeitung sind jetzt asyn­chron</li>
+          <li>Replaced quit button in welcome view with a more standard close button</li>
+          <li lang="it">Sostituito il bottone esci nella vista di benvenuto con un tasto chiudi più standard</li>
+          <li lang="de">Beenden-Schaltfläche in Willkommensansicht durch standardgemäßere Schließen-Schaltfläche ersetzt</li>
+          <li>Fixed icon rendering problems in KDE</li>
+          <li lang="it">Corretti problemi di rendering delle icone in KDE</li>
+          <li lang="de">Probleme beim Rendern von Icons in KDE behoben</li>
+          <li>Comment replies can now be collapsed</li>
+          <li lang="it">Le risposte dei commenti possono ora essere collassate</li>
+          <li lang="de">Antworten auf Kommentare können jetzt eingeklappt werden</li>
+          <li>Comments don't always load in full, hidden comments can be loaded if the user wants them</li>
+          <li lang="it">I commenti non caricano sempre interamente, i commenti nascosti possono essere caricati se l'utente li richiede</li>
+          <li lang="de">Kommentare laden nicht immer vollständig, versteckte Kommentare können geladen werden, wenn der Nutzer es möchte</li>
+          <li>You can now open Twitter links in Nitter and YouTube links in Invidious</li>
+          <li lang="it">Puoi ora aprire i link di Twitter su Nitter e quelli di YouTube su Invidious</li>
+          <li lang="de">Du kannst jetzt Twitter-Links mit Nitter und YouTube-Links mit Invidious öffnen</li>
+          <li>Limited picture preview size</li>
+          <li lang="it">Limitata la dimensione delle anteprime delle immagini</li>
+          <li lang="de">Größe der Bildvorschau eingeschränkt</li>
+          <li>Added all available post sorting options</li>
+          <li lang="it">Aggiunte tutte le opzioni di ordinamento disponibili</li>
+          <li lang="de">Alle verfügbaren Sortierungsoptionen für Beiträge hinzugefügt</li>
+          <li>New UI for choosing post sorting</li>
+          <li lang="it">Nuova UI per scegliere l'ordinamento dei post</li>
+          <li lang="de">Neue Benutzeroberfläche für die Wahl der Beitragssortierung</li>
+          <li>Implemented blockquote rendering</li>
+          <li lang="it">Implementato il rendering dei blocchi citazione</li>
+          <li lang="de">Rendern von Blockquotes implementiert</li>
+          <li>Implemented superscript rendering</li>
+          <li lang="it">Implementato il rendering del testo ad apice</li>
+          <li lang="de">Rendern von Superscript implementiert</li>
+          <li>Improved Markdown rendering</li>
+          <li lang="it">Migliorato il rendering del Markdown</li>
+          <li lang="de">Rendern von Markdown verbessert</li>
+          <li>Improved Inbox view</li>
+          <li lang="it">Migliorata la vista Inbox</li>
+          <li lang="de">Ansicht des Postfachs verbessert</li>
+          <li>Added A LOT of new languages! Thanks a lot to the community for the contributions!</li>
+          <li lang="it">Aggiunte TANTISSIME nuove lingue! Grazie mille alla comunità per il contributo!</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.2" timestamp="1603273834">
+      <description>
+        <ul>
+          <li>Improved markdown rendering</li>
+          <li lang="it">Migliorato il rendering markdown</li>
+          <li lang="de">Rendern von Markdown verbessert</li>
+          <li>Dark mode implemented</li>
+          <li lang="it">Implementata la modalità scura</li>
+          <li lang="de">Dunkler Modus implementiert</li>
+          <li>Added option to disable images in post previews</li>
+          <li lang="it">Aggiunta opzione per disabilitare le immagini nelle anteprime dei post</li>
+          <li lang="de">Option hinzugefügt, Bilder in der Beitragsvorschau zu deaktivieren</li>
+          <li>Added option to set a maximum size for images</li>
+          <li lang="it">Aggiunta opzione per impostare la dimensione massima per le immagini</li>
+          <li lang="de">Option hinzugefügt, eine Maximalgröße von Bildern festlegen zu können</li>
+          <li>Added option to clear cache</li>
+          <li lang="it">Aggiunta opzione per pulire la cache</li>
+          <li lang="de">Option hinzugefügt, den Cache zu bereinigen</li>
+          <li>Added Brazilian Portuguese translation</li>
+          <li lang="it">Aggiunta traduzione in portoghese brasiliano</li>
+          <li lang="de">Übersetzung für brasilianisches Portugiesisch hinzugefügt</li>
+          <li>New post or comment window now remembers its size</li>
+          <li lang="it">La finestra per i nuovi post o commenti ora ricorda la sua dimensioe</li>
+          <li lang="de">Neues Beitrags- oder Kommentarfenster merkt sich jetzt seine Größe</li>
+          <li>Subreddits can now be searched when creating new posts</li>
+          <li lang="it">I subreddit possono ora essere cercati quando vengono creati nuovi post</li>
+          <li lang="de">Subreddits können jetzt durchsucht werden, wenn ein neuer Beitrag erstellt wird</li>
+          <li>Initial support for multireddits</li>
+          <li lang="it">Supporto iniziale per i multireddit</li>
+          <li lang="de">Grundlegende Unterstützung für Multireddits</li>
+          <li>Added Croatian translation</li>
+          <li lang="it">Aggiunta traduzione in croato</li>
+          <li lang="de">Kroatische Übersetzung hinzugefügt</li>
+          <li>Added notifications for unread inbox items</li>
+          <li lang="it">Aggiunte notifiche per gli elementi dell'inbox non letti</li>
+          <li lang="de">Benachrichtigungen für ungelesene Eingänge im Postfach hinzugefügt</li>
+          <li>Made comment border lines colorful</li>
+          <li lang="it">Le linee di contorno dei commenti sono state rese colorate</li>
+          <li lang="de">Linien am Kommentarrand eingefärbt</li>
+          <li>Authentication is now handled by your default browser</li>
+          <li lang="it">L'autenticazione è ora gestita dal browser predefinito</li>
+          <li lang="de">Authentifizierung wird jetzt von deinem Standardbrowser übernommen</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.1.1" timestamp="1602403522">
+      <description>
+        <ul>
+          <li>Improvements for flatpak packaging</li>
+          <li lang="it">Miglioramenti per il pacchetto flatpak</li>
+          <li lang="hr">Poboljšanja za flatpak paketiranje</li>
+          <li lang="de">Verbesserung der Flatpak-Pa­ke­tie­rung</li>
+        </ul>
+      </description>
+    </release>
+    <release timestamp="1589880777" version="0.1">
+      <description>
+        <ul>
+          <li>First release</li>
+          <li lang="it">Primo rilascio</li>
+          <li lang="hr">Prvo izdanje</li>
+          <li lang="de">Erste Veröffentlichung</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <content_rating type="oars-1.1">
+    <content_attribute id="social-chat">moderate</content_attribute>
+  </content_rating>
+  <custom>
+    <value key="Purism::form_factor">workstation</value>
+    <value key="Purism::form_factor">mobile</value>
+  </custom>
+</component>

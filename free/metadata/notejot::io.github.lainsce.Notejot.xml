@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>A stupidly-simple notes application for any type of short term notes or ideas.</p>
+    <ul>
+      <li>🟡 Color your notes in 8 different colors</li>
+      <li>📓 Classify them in notebooks</li>
+      <li>🔤 Format text to your liking</li>
+      <li>📌 Pin your most important ones</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>Velice jednoduchá poznámková aplikace pro každý typ poznámek nebo nápadů.</p>
+    <ul>
+      <li>🟡Obarvěte si své poznámky až 8 různými barvami</li>
+      <li>📓Roztřiďte si je do zápisníků</li>
+      <li>🔤Naformátujte si text podle sebe</li>
+      <li>📌Připni si ty nejdůležitější</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>Eine total einfache Notizen-Anwendung für so ziemlich jede Art von kleinen Notizen oder Ideen.</p>
+  </description>
+  <description lang="es">
+    <p>Una aplicación de notas estúpidamente simple para cualquier tipo de notas o ideas a corto plazo.</p>
+    <ul>
+      <li>🟡 Coloree sus notas en 8 colores diferentes</li>
+      <li>📓 Clasifíquelas en cuadernos</li>
+      <li>🔤 Formatee a su gusto</li>
+      <li>📌 Fije sus notas más importantes</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>Une application de notes très simple pour tout type de notes ou d'idées à court terme.</p>
+    <ul>
+      <li>Colorez vos notes avec 8 coleurs différentes</li>
+      <li>Rangez les dans des carnets de notes</li>
+      <li>Formatez le texte comme vous le préferez</li>
+      <li>Épinglez vos notes les plus importantes</li>
+    </ul>
+  </description>
+  <description lang="hr">
+    <p>Jednostavan program za zapisivanje bilježaka bilo koje vrste ili ideja.</p>
+    <ul>
+      <li>🟡 Oboji bilješke u osam raznih boja</li>
+      <li>📓 Klasificiraj ih u bilježnicama</li>
+      <li>🔤 Formatiraj tekst po volji</li>
+      <li>📌 Prikvači svoje najvažnije bilješke</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>Un'applicazione di note stupidamente semplice per qualsiasi tipo di note a breve termine o idee.</p>
+    <ul>
+      <li>🟡 Colora le tue note in 8 colori diversi</li>
+      <li>📓 Classificali nei taccuini</li>
+      <li>🔤 Formatta il testo a tuo piacimento</li>
+      <li>Appunta i tuoi più importanti</li>
+    </ul>
+  </description>
+  <description lang="ja">
+    <p>超シンプルなメモアプリです。</p>
+  </description>
+  <description lang="nl">
+    <p>Een doodeenvoudige notitietoepassing voor het opschrijven van korte notities of ideeën.</p>
+    <ul>
+      <li>🟡 Voorzie je notities van een kleur (8 verschillende om uit te kiezen)</li>
+      <li>📓 Deel ze op in notitieboeken</li>
+      <li>🔤 Gebruik alle tekstopmaak die je maar wilt</li>
+      <li>📌 Zet de belangrijkste bovenaan</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <p>Głupio prosta aplikacja do notowania różnych krótkoterminowych notatek lub pomysłów.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Um aplicativo estupidamente simples para qualquer tipo de notas curtas ou idéias.</p>
+    <ul>
+      <li>🟡 Pinte suas notas com 8 cores diferentes</li>
+      <li>📓 Classifique-as em cadernos</li>
+      <li>🔤 Formate o texto como quiser</li>
+      <li>📌 Fixe as mais importantes</li>
+    </ul>
+  </description>
+  <description lang="ru">
+    <p>Невероятно простое приложение для любого типа быстрых заметок или идей.</p>
+    <ul>
+      <li>🟡 Разукрасьте свои заметки в 8 разных цветов</li>
+      <li>📓 Классифицируйте их в блокнотах</li>
+      <li>🔤 Отформатируйте текст по своему вкусу</li>
+      <li>📌 Закрепите самые важные из них</li>
+    </ul>
+  </description>
+  <pkgname>notejot</pkgname>
+  <launchable type="desktop-id">io.github.lainsce.Notejot.desktop</launchable>
+  <icon width="64" height="64" type="cached">io.github.lainsce.Notejot.png</icon>
+  <icon width="128" type="cached" height="128">io.github.lainsce.Notejot.png</icon>
+  <id>io.github.lainsce.Notejot</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name translatable="no">Notejot</name>
+  <name lang="sv">Notejot</name>
+  <name lang="ru">Notejot</name>
+  <name lang="pt_BR">Notejot</name>
+  <name lang="pl">Notejot</name>
+  <name lang="nl">Notejot</name>
+  <name lang="ja">Notejot</name>
+  <name lang="it">Notejot</name>
+  <name lang="hr">Notejot</name>
+  <name lang="fr">Notejot</name>
+  <name lang="es">Notejot</name>
+  <name lang="de">Notejot</name>
+  <name lang="cs">Notejot</name>
+  <summary>Jot your ideas</summary>
+  <summary lang="sv">Skriv ner dina idéer</summary>
+  <summary lang="ru">Запишите ваши идеи</summary>
+  <summary lang="pt">Anote as suas ideias</summary>
+  <summary lang="pt_BR">Anote suas ideias</summary>
+  <summary lang="pl">Notuj swoje pomysły</summary>
+  <summary lang="nl">Noteer je ideeën</summary>
+  <summary lang="lt">Greitai užsirašykite savo idėjas</summary>
+  <summary lang="ja">アイデアを書き留めよう！</summary>
+  <summary lang="it">Annota le tue idee</summary>
+  <summary lang="hr">Zapiši svoje ideje</summary>
+  <summary lang="gl">Apunte as súas ideas</summary>
+  <summary lang="fr">Notez vos idées</summary>
+  <summary lang="es">Anote sus ideas</summary>
+  <summary lang="de">Notieren Sie Ihre Ideen</summary>
+  <summary lang="da">Notér dine ideer</summary>
+  <summary lang="cs">Zapiš si své nápady</summary>
+  <provides>
+    <binary>io.github.lainsce.Notejot</binary>
+  </provides>
+  <kudos>
+    <kudo>ModernToolkit</kudo>
+    <kudo>HiDpiIcon</kudo>
+  </kudos>
+  <developer_name translatable="no">Lains</developer_name>
+  <url type="homepage">https://github.com/lainsce/notejot/</url>
+  <url type="bugtracker">https://github.com/lainsce/notejot/issues</url>
+  <url type="donation">https://www.ko-fi.com/lainsce/</url>
+  <url type="translate">https://github.com/lainsce/notejot/blob/main/po/README.md</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/lainsce/notejot/main/data/shot.png</image>
+    </screenshot>
+  </screenshots>
+  <content_rating type="oars-1.1" />
+  <recommends>
+    <control>keyboard</control>
+    <control>pointing</control>
+    <control>touch</control>
+  </recommends>
+  <requires>
+    <display_length compare="ge">360</display_length>
+  </requires>
+  <custom>
+    <value key="GnomeSoftware::key-colors">[(246, 211, 45)]</value>
+  </custom>
+  <translation type="gettext">io.github.lainsce.Notejot</translation>
+  <releases>
+    <release version="3.5.1" date="2022-04-20">
+      <description>
+        <p>Release: Silver</p>
+        <ul>
+          <li>Changed: UI now follows my own style that complements that of Adwaita, called Solo.</li>
+          <li>Changed: The syntax follows Markdown conventions where possible.</li>
+          <li>Fixed: The mobile UI has been fixed, back buttons should show up without issue.</li>
+        </ul>
+        <p>Note: Your notes and notebooks are always saved in ~/.var/app/io.github.lainsce.Notejot when using the Flatpak. Happy notetaking!</p>
+      </description>
+    </release>
+    <release version="3.5.0" date="2022-03-29">
+      <description>
+        <p>Release: Beautiful Superstar</p>
+        <ul>
+          <li>Added: New Notes Grid view, access your notes in a grid.</li>
+          <li>Changed: UI colors were changed, and some UI parts now look more intuitive.</li>
+          <li>Fixed: Unordered list formatting.</li>
+          <li>Fixed: Some UI bugs.</li>
+        </ul>
+        <p>Note: Your notes and notebooks are always saved in ~/.var/app/io.github.lainsce.Notejot when using the Flatpak. Happy notetaking!</p>
+      </description>
+    </release>
+    <release date="2021-11-28" version="3.4.9">
+      <description>
+        <p>Release: The Top 100 (3.3.3)</p>
+        <ul>
+          <li>Changed: UI now looks better layoutted, is an experiment.</li>
+          <li>Changed: Backend was changed to be more stable than the old one.</li>
+        </ul>
+        <p>Note: Your notes and notebooks are always saved in ~/.var/app/io.github.lainsce.Notejot when using the Flatpak. Happy notetaking!</p>
+      </description>
+    </release>
+    <release date="2021-11-28" version="3.3.3">
+      <description>
+        <p>Release: The Top 100</p>
+        <ul>
+          <li>Changed: UI now looks better layoutted, is an experiment.</li>
+          <li>Changed: Backend was changed to be more stable than the old one.</li>
+        </ul>
+        <p>Note: Your notes and notebooks are always saved in ~/.var/app/io.github.lainsce.Notejot when using the Flatpak. Happy notetaking!</p>
+      </description>
+    </release>
+    <release date="2021-10-13" version="3.2.0">
+      <description>
+        <p>Release: Pinned Notes</p>
+        <ul>
+          <li>Added: Notes can now be pinned and are shown separately from others.</li>
+          <li>Added: Note title styling from older versions is back.</li>
+          <li>Added: Note searchbar is now always visible.</li>
+        </ul>
+        <p>Note: Your notes and notebooks are always saved in ~/.var/app/io.github.lainsce.Notejot when using the Flatpak. Happy notetaking!</p>
+      </description>
+    </release>
+    <release date="2021-09-07" version="3.1.3">
+      <description>
+        <p>Release: Usability Independence</p>
+        <ul>
+          <li>Fixed: many UI bugs were fixed, last but not least the notebook switcher and trash and also removing singluar notes from a notebook.</li>
+        </ul>
+        <p>Note: Your notes and notebooks are always saved in ~/.var/app/io.github.lainsce.Notejot when using the Flatpak. Happy notetaking!</p>
+      </description>
+    </release>
+    <release version="3.1.2" date="2021-08-22">
+      <description>
+        <p>Release: Format But Don't Fail</p>
+        <ul>
+          <li>Fixed: formatting functions are the best they can be, plus minor fixes all around.</li>
+        </ul>
+        <p>Note: Your notes and notebooks are always saved in ~/.var/app/io.github.lainsce.Notejot when using the Flatpak. Happy notetaking!</p>
+      </description>
+    </release>
+    <release version="3.1.0" date="2021-08-13">
+      <description>
+        <p>Release: Ready, Set, Go!</p>
+        <ul>
+          <li>Some UI design fixes, such as the notebook switcher being on the bottom instead of in the top.</li>
+        </ul>
+        <p>Note: Your notes and notebooks are always saved in ~/.var/app/io.github.lainsce.Notejot when using the Flatpak. Happy notetaking!</p>
+      </description>
+    </release>
+    <release date="2021-04-25" version="3.0.0">
+      <description>
+        <p>Release: GTK4 and Ready!</p>
+        <ul>
+          <li>New UI</li>
+          <li>Using another widget to display note contents</li>
+          <li>Keyboard shortcuts for formatting</li>
+        </ul>
+        <p>Note: Your notes and notebooks are always saved in ~/.var/app/io.github.lainsce.Notejot when using the Flatpak. Happy notetaking!</p>
+      </description>
+    </release>
+  </releases>
+</component>

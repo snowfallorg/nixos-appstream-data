@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>KAddressBook stores all the personal details of your family, friends and other contacts. It supports large variety of services, including NextCloud, Kolab, Google Contacts, Microsoft Exchange (EWS) or any standard CalDAV server.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Powerful search - KAddressBook has configurable filters and powerful search capabilities.</li>
+      <li>Duplicate detection and merging - KAddressBook can find duplicated contacts from multiple sources and can merge them into a single contact.</li>
+      <li>Good standard support - KAddressBook can import and export from and to nearly every address book standard.</li>
+      <li>LDAP integration - Can connect to multiple LDAP servers, which can then be used for contact autocompletion when composing emails in KMail.</li>
+      <li>Integration - Integrates with other Kontact components, e.g. exporting birthday reminders to KOrganizer</li>
+      <li>QR codes - KAddressBook can display a QR code for each contact to quickly scan it into your phone or send to someone.</li>
+    </ul>
+  </description>
+  <description lang="ar">
+    <p>يقوم دفتر عناوينك بتخزين جميع التفاصيل الشخصية لعائلتك وأصدقائك وجهات الاتصال الأخرى. وهو يدعم مجموعة كبيرة ومتنوعة من الخدمات ، بما في ذلك NextCloud و Kolab و Google Contacts و Microsoft Exchange (EWS) أو أي خادم CalDAV قياسي.</p>
+    <p>الميزات:</p>
+    <ul>
+      <li>بحث قوي- يملك دفتر عناوينك مرشّحات يمكن ضبطها وإمكانات بحث قويّة</li>
+      <li>الكشف عن التكرارات والدمج - يمكن لدفتر عناوينك العثور على جهات اتصال المكررة من مصادر متعددة ويمكنه دمجها في جهة اتصال واحدة.</li>
+      <li>دعم جيد للمعايير - يستطيع دفتر عناوينك الاستيراد والتّصدير إلى ما يقارب كلّ معيار لدفاتر العناوين</li>
+      <li>تكامل LDAP - يمكن الاتصال بخوادم LDAP متعددة، والتي يمكن استخدامها بعد ذلك للإكمال التلقائي لجهات الاتصال عند إنشاء رسائل بريد إلكتروني في «بريدك».</li>
+      <li>التّكامل -يتكامل مع مكوّنات «متراسلك» الأخرى، كتصدير تذكير تواريخ الميلاد إلى «منظّمك»</li>
+      <li>رموز كيو أر - يمكن لدفتر عناوينك عرض رمز كيو أر لكل جهة اتصال لمسحها ضوئيًا بسرعة في هاتفك أو إرسالها إلى شخص ما.</li>
+    </ul>
+  </description>
+  <description lang="az">
+    <p>KAddressBook ailənizin, dostlarınızın və digər bütün şəxslərin məlumatlarını saxlayır. NextCloud, Kolab, Google Kontaktlar, Microsoft Exchange (EWS) və ya hər hansı bir standart CalDAV serveri də daxil olmaqla çoxsaylı xidmətləri dəstəkləyir.</p>
+    <p>İmkanlar:</p>
+    <ul>
+      <li>Güclü axtarış - KAddressBook ayarlana bilən çeşidlər və güclü axtarış imkanlarına malikdir.</li>
+      <li>Dublikat aşkarlama və onları birləşdirmə - KAddressBook birdən çox mənbədən təkrarlanan kontaktları tapa bilər və onları tək bir kontaktda birləşdirə bilər.</li>
+      <li>Yaxşı standart dəstək - KAddressBook istənilən standart ünvan kitabçalarından idaxl və ixrac edə bilər.</li>
+      <li>LDAP inteqrasiyası - Sonradan KMail məktubları yaradarkən kontaktların avtomatik əlavə olunması üçün istifadə edilə bilən çoxsaylı LDAP serverinə qoşula bilər.</li>
+      <li>İnteqrasiya - Başqa Kontakt tərkib hissələrini inteqrasiya edir, məs., KOrganizer'də ad günü xatırlatmalarının ixrac edilməsi</li>
+      <li>QR kodları - KAddressBook, telefonda saxlamaq və ya başqasına göndərmək üçün  hər kontakt üçün QR kodunu göstərə bilir.</li>
+    </ul>
+  </description>
+  <description lang="bs">
+    <p>Svojstva:</p>
+  </description>
+  <description lang="ca">
+    <p>El KAddressBook emmagatzema totes les dades personals de la vostra família, amics i altres contactes. Admet una gran varietat de serveis, incloent-hi el NextCloud, Kolab, Google Contacts, Microsoft Exchange (EWS) o qualsevol servidor CalDAV estàndard.</p>
+    <p>Característiques:</p>
+    <ul>
+      <li>Cerca potent: el KAddressBook té filtres configurables i potents capacitats de cerca.</li>
+      <li>Detecció i fusió de duplicats: el KAddressBook pot trobar els contactes duplicats des de múltiples fonts i fusionar-los en un únic contacte.</li>
+      <li>Un bon suport de l'estàndard: el KAddressBook pot importar i exportar a gairebé tots els estàndards de llibreta d'adreces.</li>
+      <li>Integració amb LDAP: pot connectar-se amb múltiples servidors LDAP, els quals després es poden usar per a la compleció automàtica del contacte quan s'editen correus electrònics al KMail.</li>
+      <li>Integració: s'integra amb els altres components del Kontact, p. ex., l'exportació dels recordatoris d'aniversari al KOrganizer</li>
+      <li>Codis QR: el KAddressBook pot mostrar un codi QR per a cada contacte per a escanejar ràpidament amb el vostre telèfon o enviar-lo a algú.</li>
+    </ul>
+  </description>
+  <description lang="ca-valencia">
+    <p>KAddressBook emmagatzema totes les dades personals de la vostra família, amics i altres contactes. Admet una gran varietat de serveis, incloent-hi el NextCloud, Kolab, Google Contacts, Microsoft Exchange (EWS) o qualsevol servidor CalDAV estàndard.</p>
+    <p>Característiques:</p>
+    <ul>
+      <li>Busca potent: KAddressBook té filtres configurables i potents capacitats de busca.</li>
+      <li>Detecció i fusió de duplicats: KAddressBook pot trobar els contactes duplicats des de múltiples fonts i fusionar-los en un únic contacte.</li>
+      <li>Un bon suport de l'estàndard: KAddressBook pot importar i exportar a quasi tots els estàndards de llibreta d'adreces.</li>
+      <li>Integració amb LDAP: pot connectar-se amb múltiples servidors LDAP, els quals després es poden utilitzar per a la compleció automàtica del contacte quan s'editen correus electrònics a KMail.</li>
+      <li>Integració: s'integra amb els altres components de Kontact, p. ex., l'exportació dels recordatoris d'aniversari a KOrganizer</li>
+      <li>Codis QR: KAddressBook pot mostrar un codi QR per a cada contacte per a escanejar ràpidament amb el vostre telèfon o enviar-lo a algú.</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>Vlastnosti:</p>
+  </description>
+  <description lang="da">
+    <p>KAddressBook gemmer alle personlige detaljer for familie, venner og andre kontakter. Den understøtter en masse tjenester herunder NextCloud, Kolab, Google Contacts, Microsoft Exchange (EWS) eller enhver standard CalDAV-server.</p>
+    <p>Funktioner:</p>
+    <ul>
+      <li>Kraftfuld søgning - KAddressBook har konfigurerbare filtre og kraftfulde søgemuligheder.</li>
+      <li>Detektion og fletning af dubletter - KAddressBook kan finde dubletter blandt dine kontakter fra flere kilder og kan flette dem sammen til en enkelt kontakt.</li>
+      <li>God standardunderstøttelse - KAddressBook kan importere og eksportere fra og til  næsten enhver adressebogsstandard.</li>
+      <li>LDAP-integration - Kan forbinde til flere LDAP-servere, som så kan bruges til at autokomplettering af kontakter, når der skrives e-mails i KMail.</li>
+      <li>Integration - Integrerer med andre Kontact-komponenter, f.eks. eksport af fødselsdagspåmindelser til KOrganizer</li>
+      <li>QR-koder - KAddressBook kan vise en QR-kode for hver kontakt for hurtigt at scanne den til din telefon eller sende til andre.</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>KAddressBook speichert alle persönlichen Daten Ihrer Familie, Freunde und von anderen Kontakten. Es unterstützt eine große Zahl verschiedener Dienste wie NextCloud, Kolab, Google Contacts, Microsoft Exchange (EWS) oder jeden CalDAV-Standardserver.</p>
+    <p>Funktionen:</p>
+    <ul>
+      <li>Leistungsfähige Suche - KAddressBook hat einstellbare Filter und leistungsfähige Suchfunktionen</li>
+      <li>Erkennen und Zusammenführen von doppelten Kontakten - KAddressBook findet doppelte Kontakte aus mehreren Quellen und kann Sie in einen einzelnen Kontakt zusammenführen.</li>
+      <li>Gute Unterstützung von Standards - Import und Export fast aller Adressbuch-Standards.</li>
+      <li>LDAP-Integration - Eine Verbindung mit mehreren LDAP-Servern ist möglich, die dann für die automatische Vervollständigung von Kontaktadressen beim Schreiben von E-Mails in KMail verwendet werden.</li>
+      <li>Integration mit anderen Komponenten von Kontact wie zum Beispiel der Export von Erinnerungen an Geburtstage zu KOrganizer</li>
+      <li>QR-Codes - KAddressBook kann den QR-Code eines Kontakts anzeigen, um den Code einfach und schnell in Ihr Mobiltelefon zu scannen und an Andere zu senden.</li>
+    </ul>
+  </description>
+  <description lang="el">
+    <p>Το KAddressBook αποθηκεύει όλες τις προσωπικές λεπτομέρειες της οικογένειας, των φίλων και άλλων επαφών. Υποστηρίζει μια μεγάλη ποικιλία υπηρεσιών συμπεριλαμβανομένων των NextCloud, Kolab, Google Contacts, Microsoft Exchange (EWS) ή οποιουδήποτε εξυπηρετητή με πρότυπο CalDAV.</p>
+    <p>Χαρακτηριστικά:</p>
+    <ul>
+      <li>Πανίσχυρη αναζήτηση - Το KAddressBook περιέχει διαμορφώσιμα φίλτρα και πανίσχυρες δυνατότητες αναζήτησης.</li>
+      <li>Εντοπισμός αντιγράφων και συγχώνευση - Το KAddressBook βρίσκει αντίγραφα επαφών από διάφορες πηγές και τα συγχωνεύει σε μία επαφή.</li>
+      <li>Καλή υποστήριξη προτύπων - Το KAddressBook υποστηρίζει σχεδόν κάθε πρότυπο βιβλίου διευθύνσεων για εισαγωγή και εξαγωγή.</li>
+      <li>Ενσωμάτωση LDAP - Συνδέεται με διάφορους εξυπηρετητές LDAP, οι οποίοι χρησιμεύουν στην αυτόματη συμπλήρωση επαφών κατά τη δημιουργία μηνυμάτων στο KMail.</li>
+      <li>Ενσωμάτωση - Ενσωματώνεται με άλλα συστατικά του Kontact, π.χ. εξάγει υπενθυμίσεις γενεθλίων στο KOrganizer</li>
+      <li>QR κώδικες - Το KAddressBook εμφανίζει έναν κώδικα QR για κάθε επαφή για γρήγορη σάρωση στο τηλέφωνό σας ή για αποστολή σε κάποιον.</li>
+    </ul>
+  </description>
+  <description lang="en-GB">
+    <p>KAddressBook stores all the personal details of your family, friends and other contacts. It supports large variety of services, including NextCloud, Kolab, Google Contacts, Microsoft Exchange (EWS) or any standard CalDAV server.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Powerful search - KAddressBook has configurable filters and powerful search capabilities.</li>
+      <li>Duplicate detection and merging - KAddressBook can find duplicated contacts from multiple sources and can merge them into a single contact.</li>
+      <li>Good standard support - KAddressBook can import and export from and to nearly every address book standard.</li>
+      <li>LDAP integration - Can connect to multiple LDAP servers, which can then be used for contact autocompletion when composing emails in KMail.</li>
+      <li>Integration - Integrates with other Kontact components, e.g. exporting birthday reminders to KOrganizer</li>
+      <li>QR codes - KAddressBook can display a QR code for each contact to quickly scan it into your phone or send to someone.</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>KAddressBook almacena todos los datos personales de su familia, amigos y otros contactos. Admite una gran variedad de servicios, incluyendo NextCloud, Kolab, Google Contacts, Microsoft Exchange (EWS) o cualquier servidor estándar CalDAV.</p>
+    <p>Características:</p>
+    <ul>
+      <li>Búsqueda avanzada:  KAddressBook dispone de filtros configurables y capacidades avanzadas de búsqueda.</li>
+      <li>Detección de duplicados y mezcla - KAddressBookpuede buscar contactos duplicados desde varias fuentes y puede mezclarlos en un único contacto.</li>
+      <li>Buena implementación de estándares -  KAddressBook puede Importar y exportar a casi todas las libretas de direcciones estándar.</li>
+      <li>Integración con LDAP - Puede conectarse a varios servidores LDAP, los cuales pueden usarse para autocompletado de contactos cuando se editan correos con KMail.</li>
+      <li>Integración. Se integra con otros componentes de Kontact, p. ej., exportación de recordatorios de cumpleaños a KOrganizer</li>
+      <li>Códigos QR - KAddressBook puede mostrar un código QR para cada contacto para explorarlo rápidamente en el móvil o enviarlo a alguien.</li>
+    </ul>
+  </description>
+  <description lang="et">
+    <p>KAddressBook salvestab kõik isiklikud andmed sinu pere, sõprade ja teiste kontaktide kohta. See toetab paljusid teenusi, sealhulgas NextCloud, Kolab, Google Kontaktid, Microsoft Exchange (EWS) ning kõiki standardseid CalDAV-servereid.</p>
+    <p>Omadused:</p>
+    <ul>
+      <li>Võimas otsing - KAddressBookil on seadistatavad filtrid ja võimsad otsinguvõimalused.</li>
+      <li>Topeltkirjete leidmine ja ühendamine - KAddressBook võib leida mitmest allikast kattuvaid kontakte ja need ühe kontakti alla koondada.</li>
+      <li>Tubli standardite toetus - KAddressBook on võimeline peaaegu kõigi aadressiraamatu standardite importimiseks ja eksportimiseks</li>
+      <li>Lõimimine LDAP-iga - KAddressBook võib ühenduda paljude LDAP-serveritega, mida omakorda saab kasutada automaatse lõpetamise huvides KMailis kirju koostades.</li>
+      <li>Lõimimine - teiste Kontacti komponentidega, näiteks sünnipäeva-meeldetuletuste eksportimiseks KOrganizerisse</li>
+      <li>QR-kood - KAddressBook suudab näidata kõigi kontaktide QR-koodi, mis lubab seda kiiresti telefoni skannida või kellelegi edasi saata.</li>
+    </ul>
+  </description>
+  <description lang="eu">
+    <p>KAddressBook zure familiaren, lagunen eta beste kontaktu batzuen xehetasunak pertsonal guztiak biltegiratzen ditu. Zerbitzu aniztasun handia onartzen du, NextCloud, Kolab, Google Contacts, Microsoft Exchange (EWS) edo edozein CalDAV estandar.</p>
+    <p>Ezaugarriak:</p>
+    <ul>
+      <li>Bilaketa ahaltsua - KAddressBook-ek konfigura daitezkeen iragazkiak eta bilaketa gaitasun ahaltsuak ditu.</li>
+      <li>Bikoiztuak antzematea eta bateratzea - KAddressBook sorburu ezberdinetan bikoiztuta dauden kontaktuak aurkitu eta kontaktu bakarrean bateratu ditzake.</li>
+      <li>Estandarren euskarri ona - KAddressBook-ek ia-ia helbide-liburu estandar guztietatik eta guztietara inportatu eta esportatu dezake.</li>
+      <li>LDAP integrazioa - LDAP zerbitzari anizkoitzetara konektatu daiteke, ondoren KMail-en e-postak idaztean kontaktuak automatikoki osatzeko erabil daitezkeelarik.</li>
+      <li>Integrazioa - Kontact-en beste osagai batzuekin integratzen da, adib. KOrganizer-rera urtebetetze oroigarriak esportatuz</li>
+      <li>QR kodeak - KAddressBook-ek kontaktu bakoitzaren QR kode bat azaldu dezake hura zure telefonoarekin azkar eskaneatzeko edo norbaiti bidaltzeko.</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>KAddressBook tallentaa perheesi, ystäviesi ja muiden tuttujesi yhteystiedot. Se tukee laajalti eri palveluja kuten NextCloudia, Kolabia, Google Contactsia, Microsoft Exchangea (EWS) ja standardinmukaisia CalDav-palvelimia.</p>
+    <p>Ominaisuudet:</p>
+    <ul>
+      <li>Tehokas haku: KAddressBookin suodattimet ovat muokattavissa ja hakuominaisuudet tehokkaat.</li>
+      <li>Toistuvien tietueiden tunnistaminen ja yhdistäminen: KAddressBook havaitsee eri lähteissä toistuvat tiedot ja yhdistää ne yhdeksi yhteystiedoksi.</li>
+      <li>Hyvä standardien tuki: KAddressBook voi tuoda ja viedä tietoja lähes kaikkien osoitekirjastandardien välillä.</li>
+      <li>LDAP-integrointi: osaa yhdistää useampaan LDAP-palvelimeen, joita kaikkia voi käyttää automaattitäydennykseen kirjoitettaessa viestiä KMailissa.</li>
+      <li>Integrointi: Integroituu muihin Kontact-osiin – voit esimerkiksi viedä syntymäpäivämuistutukset KOrganizeriin</li>
+      <li>QR-koodit: KAddressBook voi näyttää kullekin yhteystiedolle QR-koodin, jonka voi lukea puhelimeen tai lähettää eteenpäin.</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>KAddressBook stocke toutes les informations personnelles sur votre famille, vos amis et autres contacts. Il prend en charge une grande variété de services, dont NextCloud, Kolab, les contacts Google, Microsoft Exchange (EWS) ou tout serveur respectant le standard CalDAV.</p>
+    <p>Fonctionnalités :</p>
+    <ul>
+      <li>Recherche avancée - KAddressBook offre des filtres personnalisables et fonctions de recherche poussées</li>
+      <li>Détection et fusion des contacts dupliqués - KAddressBook peut identifier les contacts dupliqués entre de multiples sources et les fusionner comme un seul contact.</li>
+      <li>Bonne prise en charge des standards - KAddressBook peut importer depuis et export vers presque tous les formats standards de carnet d'adresse.</li>
+      <li>Intégration LDAP - Possibilité de connexion à plusieurs serveurs LDAP, qui peuvent alors être utilisés pour compléter automatiquement les contacts lors de l'écriture de courriels dans KMail.</li>
+      <li>Intégration - Intégré avec les autres composants de la suite Kontact, par exemple pour exporter un rappel d'anniversaire vers KOrganizer.</li>
+      <li>« QR codes » - KAddressBook peut afficher un « QR code » pour chaque contact, pour le scanner rapidement avec votre téléphone ou l'envoyer à quelqu'un.</li>
+    </ul>
+  </description>
+  <description lang="gl">
+    <p>KAddressBook almacena todos os detalles persoais da súa familia, amigos e outros contactos. É compatíbel cunha gran variedade de servizos, como NextCloud,  Kolab, Google Contacts, Microsoft Exchange (EWS) ou calquera servidor estándar de CalDAV.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Busca potente — KAddressBook ten filtros configurábeis e goza de potentes funcionalidades de busca.</li>
+      <li>Detección de duplicados e fusión — KAddressBook pode atopar contactos duplicados de varias fontes e pode fusionalos nun único contacto.</li>
+      <li>Boa compatibilidade cos estándares — KAddressBook pode importar e exportar a practicamente todos os estándares de caderno de enderezos.</li>
+      <li>Integración con LDAP — Pode conectar a varios servidores LDAP, que poden usarse para completar automaticamente contactos ao escribir mensaxes de correo electrónico en KMail.</li>
+      <li>Integración — Intégrase con outros compoñentes de Kontact. Por exemplo, exporta as lembranzas de aniversarios a KOrganizer.</li>
+      <li>Códigos QR — KAddressBook pode mostrar un código QR para cada contacto para escanealo facilmente desde o teléfono ou enviarllo a alguén.</li>
+    </ul>
+  </description>
+  <description lang="hu">
+    <p>A KAddressBook tárolja a családja, barátai és más névjegyei minden személyes adatát. Számos szolgáltatást támogat, köztük a Nextcloudot, Kolabot, Google Névjegyeket, Microsoft Exchange-t (EWS) vagy bármely standard CalDAV kiszolgálót.</p>
+    <p>Szolgáltatások:</p>
+    <ul>
+      <li>Hatékony keresés - Konfigurálható szűrők és hatékony keresési képességek.</li>
+      <li>Duplikációkeresés és összefűzés - A KAdressBook képes megtalálni a duplikált névjegyeket több, és összefűzni őket egybe.</li>
+      <li>Kiváló szabványkövetés - Importálás és exportálás közel minden címjegyzékformátumba.</li>
+      <li>LDAP-integráció - Képes csatlakozni több LDAP-kiszolgálóhoz, amik segítségével automatikusan ki tudja egészíteni a névjegyeket KMailben e-mailek írásakor.</li>
+      <li>Integráció - Integráció más Kontact komponensekkel, például születésnapi emlékeztetők exportálása a KOrganizerbe</li>
+      <li>QR-kódok - a KAddressBook képes megjeleníteni QR-kódokat minden névjegyhet, amiket gyorsan és egyszerűen beolvashat telefonjával, vagy elküldhet másoknak.</li>
+    </ul>
+  </description>
+  <description lang="ia">
+    <p>KaddressBook immagazina omne detalios personal de tu familia, amicos e altere contactos. Illo supporta un grande varietate de servicios, includente NextCloud,Kolab, Google Contacts, Microsoft Exchange (EWS) o altre servitor standard CalDAV.</p>
+    <p>Characteristicas:</p>
+    <ul>
+      <li>Cerca potente . KAddressBook ha filtros configurabile e capacitates de potente cerca.</li>
+      <li>Discoperta de duplicate e fusion - KAddressBook pote trovar contactos duplicate ex multiple fontes e pote fusionar los in un singule cotacto.</li>
+      <li>Bon supporto de standard - KAddressBook pote importar e exportar ex e a quasi omne standard de addressario.</li>
+      <li>Integration de LDAP - Pote connecter a multiple sevitores LDAP que postea pote esser usate per autocompletion de contacto quando on compone e-posta in KMail. </li>
+      <li>Integration - Illo integra se con altere compnentes de Kontact, p.ex. exportar souvenirs de anniversarios in KOrganizer </li>
+      <li>Codici QR - KAddressBook pote monstrar un codice QR per cata contacto pro scander lo rapidemente in tu telephono o inviar lo a alcun.</li>
+    </ul>
+  </description>
+  <description lang="id">
+    <p>KAddressBook menyimpan semua peincian pribadi keluarga, teman, dan kontak lainnya. Ini mendukung berbagai layanan, termasuk NextCloud, Kolab, Google Contacts, Microsoft Exchange (EWS) atau server CalDAV standar.</p>
+    <p>Fitur:</p>
+    <ul>
+      <li>Pencarian yang hebat - KAddressBook memiliki filter dan pencarian yang hebat yang dapat dikonfigurasi</li>
+      <li>Penggabungan dan deteksi duplikat - KAddressBook bisa menemukan kontak yang terduplikat dari berbagai sumber dan bisa menggabungkannya menjadi satu kontak.</li>
+      <li>Dukungan standar yang bagus - KAddressBook bisa mengimpor dan mengekspor dari dan ke yang hampir setiap standar buku alamat.</li>
+      <li>Integrasi LDAP - Bisa koneksi ke server multi LDAP, yang bisa digunakan untuk auto-penyelesaian kontak ketika menyusun email di KMail.</li>
+      <li>Integrasi - Mengintegrasikan dengan komponen Kontact yang lain, misal pengeksporan peringatan ulang tahun untuk KOrganizer</li>
+      <li>Kode QR - KAddressBook bisa mendisplaikan sebuah kode QR untuk setiap kontak untuk memindainya secara cepat ke dalam telfonmu atau mengirimnya ke seseorang.</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>KAddressBook memorizza tutti i dettagli personali della tua famiglia, degli amici e di altri contatti. Supporta vari servizi, inclusi NextCloud, Kolab, Google Contacts, Microsoft Exchange (EWS) e qualsiasi server CalDAV standard.</p>
+    <p>Caratteristiche:</p>
+    <ul>
+      <li>Potenti mezzi di ricerca - KAddressBook dispone di filtri configurabili e potenti funzionalità di ricerca.</li>
+      <li>Rilevamento e fusione dei duplicati - KAddressBook può trovare contatti duplicati da varie fonti e fonderli in un unico contatto.</li>
+      <li>Buon livello di supporto per gli standard - KAddressBook può importare da ed esportare verso quasi ogni formato standard di rubrica.</li>
+      <li>Integrazione con LDAP - si può connettere a diversi server LDAP, i quali possono essere usati per l'auto-completamento dei contatti durante la composizione di messaggi di posta in KMail.</li>
+      <li>Integrazione - Si integra con altri componenti di Kontact, ad esempio con l'esportazione dei promemoria dei compleanni in KOrganizer</li>
+      <li>Codice QR - KAddressBook può mostrare un codice QR per ogni contatto perché possa essere facilmente scansionato nel tuo telefono e inviato a qualcuno.</li>
+    </ul>
+  </description>
+  <description lang="ko">
+    <p>KAddressBook은 가족, 친구, 직장 등 연락처 정보를 저장하고 관리합니다. Nextcloud, Kolab, Google 연락처, Microsoft Exchange(EWS) 및 표준 CalDAV 서버와 연동할 수 있습니다.</p>
+    <p>기능:</p>
+    <ul>
+      <li>강력한 검색 기능 - KAddressBook에는 설정 가능한 필터와 강력한 검색 기능이 있습니다.</li>
+      <li>중복 확인 및 합치기 - KAddressBook에서는 여러 곳에서 중복되는 연락처를 하나로 합칠 수 있습니다.</li>
+      <li>표준 지원 - KAddressBook에서는 거의 모든 주소록 표준 형식으로 연락처를 가져오고 내보낼 수 있습니다.</li>
+      <li>LDAP 통합 - 여러 LDAP 서버에 연결할 수 있으며 KMail에서 메일을 작성할 때 주소 자동 완성에 사용할 수 있습니다.</li>
+      <li>통합 - KOragnizer에 생일 알림을 추가하는 것과 같은 다른 Kontact 구성 요소와 통합할 수 있습니다.</li>
+      <li>QR 코드 - KAddressBook은 휴대폰에서 빠르게 스캔하거나 다른 사람에게 연락처 정보를 보낼 때 QR 코드를 표시할 수 있습니다.</li>
+    </ul>
+  </description>
+  <description lang="lt">
+    <p>Ypatybės:</p>
+  </description>
+  <description lang="nb">
+    <p>Egenskaper:</p>
+  </description>
+  <description lang="nds">
+    <p>Markmalen:</p>
+  </description>
+  <description lang="nl">
+    <p>KAddressBook slaat alle persoonlijke details van uw familie, vrienden en andere contactpersonen. Het ondersteunt een grote variëteit van services, inclusief NextCloud, Kolab, Google Contacts, Microsoft Exchange (EWS) of elke standaard CalDAV-server.</p>
+    <p>Mogelijkheden:</p>
+    <ul>
+      <li>Krachtig zoeken - KAddressBook heeft te configureren filters en krachtige eigenschappen voor zoeken.</li>
+      <li>Detectie van duplicaten en samenvoegen - KAddressBook kan gedupliceerde contacten vinden uit meerdere bronnen en kan ze samenvoegen in een enkel contact.</li>
+      <li>Goede ondersteuning van standaarden - KAddressBook kan met bijna elke adresboekstandaard importeren uit en exporteren naar</li>
+      <li>LDAP-integratie - kan verbinden naar meerdere LDAP-servers, die dan gebruikt kunnen worden voor automatisch voltooien van contactpersonen bij opstellen van e-mails in KMail.</li>
+      <li>Integratie - integreert met andere componenten van Kontact, bijv. exporteren van herinneringen van verjaardagen naar KOrganizer</li>
+      <li>QR-codes - KAddressBook kan een QR-code tonen voor elk contactpersoon om het snel in te scannen met uw telefoon of naar iemand te verzenden.</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <p>KAddressBook przechowuje wszystkie osobiste dane o twojej rodzinie, znajomych i innych kontaktach. Obsługuje wiele usług, wliczając w to NextCloud, Kolab, Kontakty Google, Microsoft Exchange (EWS), a także dowolny standardowy serwer CalDAV.</p>
+    <p>Możliwości:</p>
+    <ul>
+      <li>Rozbudowane wyszukiwanie - KAddressBook ma ustawialne filtry i zaawansowane możliwości wyszukiwania</li>
+      <li>Wykrywanie powieleń i scalanie - KAddressBook ma możliwość znajdywania powielonych kontaktów z wielu źródeł i może je scalić w pojedynczy kontakt.</li>
+      <li>Dobra obsługa standardów - KAddressBook może importować i eksportować z niemal każdego standardu książki adresowej</li>
+      <li>Integracja LDAP - Może łączyć się do wielu serwerów LDAP, które mogą być później używane do uzupełniania kontaktów przy tworzeniu wiadomości w KMail.</li>
+      <li>Integracja - Integracja z innymi składnikami Kontact, np. eksportowanie przypomnień o urodzinach do KOrgranizera</li>
+      <li>Kody QR - KAddressBook może wyświetlać kod QR dla każdego kontaktów, aby móc szybko go zeskanować na swoim telefonie lub przesłać go do kogoś.</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>O KAddressBook guarda todos os detalhes pessoais da sua família, amigos e outros contactos. Suporta uma grande variedade de serviços, incluindo o NextCloud, o Kolab, o Google Contacts, o Microsoft Exchange (EWS) ou outro servidor-padrão de CalDAV.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Pesquisa poderosa - o KAddressBook possui filtros configuráveis e funcionalidades de pesquisa poderosas.</li>
+      <li>Detecção e junção de duplicados - o KAddressBook consegue encontrar contactos duplicados em várias fontes e consegue juntá-los num único contacto.</li>
+      <li>Bom suporte das normas - o KAddressBook consegue importar e exportar para praticamente todos os formatos de livros de endereços.</li>
+      <li>Integração com o LDAP - Consegue-se ligar a vários servidores de LDAP, o que pode então ser usado para a completação automática de contactos ao compor e-mails no KMail.</li>
+      <li>Integração - Integra-se com os outros componentes do Kontact, p.ex. exportar chamadas de atenção de aniversários para o KOrganizer</li>
+      <li>Códigos QR - o KAddressBook consegue mostrar um código QR para cada contacto para o digitalizar rapidamente para o seu telemóvel ou para o enviar para outra pessoa.</li>
+    </ul>
+  </description>
+  <description lang="pt-BR">
+    <p>O KAddressbook pode armazenar todos os dados pessoais sobre os seus familiares, amigos e outros contatos. Ele tem suporte a uma ampla variedade de serviços, incluindo o NextCloud, Kolab, Contatos do Google, Microsoft Exchange (EWS) ou qualquer outro servidor CalDAV.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Capacidade de configuração de filtros e pesquisa poderosa</li>
+      <li>Encontra contatos de fontes diferentes e pode mesclá-los em um único contato.</li>
+      <li>Importa e exporta para praticamente todos os formatos de listas de contatos.</li>
+      <li>Pode se conectar a vários servidores LDAP que podem ser usados para auto-completar o nome dos seus contatos ao criar novos e-mails no KMail.</li>
+      <li>Integra-se com os outros componentes do Kontact, como por exemplo exportar lembretes de aniversário para o KOrganizer.</li>
+      <li>Um código QR pode ser exibido para cada contato de modo que você possa facilmente escanear com seu celular ou compartilhar com alguém.</li>
+    </ul>
+  </description>
+  <description lang="ro">
+    <p>Caracteristici:</p>
+  </description>
+  <description lang="ru">
+    <p>Приложение KAddressBook служит управления контактной информацией с поддержкой широкого набора служб, таких как NextCloud, Kolab, контакты Google, службы Microsoft Exchange (EWS) а также любых других серверов, поддерживающих стандарт CalDAV.</p>
+    <p>Возможности:</p>
+    <ul>
+      <li>Эффективный поиск: настраиваемые фильтры и эффективная функция поиска;</li>
+      <li>Нахождение и объединение повторяющихся контактов: приложение может находить и объединять повторяющиеся контакты из различных источников;</li>
+      <li>Поддержка стандартов: импорт и экспорт в практически любой формат адресной книги;</li>
+      <li>Интеграция со службами каталогов LDAP: поддержка одновременной работы с несколькими серверами LDAP с для автоматического дополнения данных получателей при написании электронных писем в приложении KMail;</li>
+      <li>Интеграция: интеграция с другими компонентами Kontact, например в KOrganizer можно добавить напоминания о днях рождения людей;</li>
+      <li>Коды QR: показ QR кодов контактов для быстрого добавления в телефон или передачи.</li>
+    </ul>
+  </description>
+  <description lang="sk">
+    <p>KAddressBook ukladá všetky osobné údaje vašej rodiny, priateľov a ďalších kontaktov. Podporuje širokú škálu služieb, vrátane služieb NextCloud, Kolab, Google Contacts, Microsoft Exchange (EWS) alebo akéhokoľvek štandardného servera CalDAV.</p>
+    <p>Funkcie:</p>
+    <ul>
+      <li>Výkonné vyhľadávanie - KAddressBook má konfigurovateľné filtre a výkonné možnosti vyhľadávania.</li>
+      <li>Detekcia a zlúčenie duplikátov - KAddressBook dokáže nájsť duplicitné kontakty z viacerých zdrojov a môže ich zlúčiť do jedného kontaktu.</li>
+      <li>Dobrá štandardná podpora - KAddressBook dokáže importovať a exportovať z takmer každého štandardu adresára.</li>
+      <li>Integrácia LDAP - Môže sa pripojiť k viacerým serverom LDAP, ktoré sa potom môžu použiť na automatické dopĺňanie kontaktov pri písaní e-mailov v službe KMail.</li>
+      <li>Integrácia - integruje sa s ostatnými komponentami Kontact, napr. exportovanie pripomenutia narodenín do KOrganizer</li>
+      <li>QR kódy - KAddressBook môže zobraziť QR kód pre každý kontakt a rýchlo ho naskenovať do vášho telefónu alebo poslať niekomu.</li>
+    </ul>
+  </description>
+  <description lang="sl">
+    <p>KAddressBook hrani vse osebne podatke vaše družine, prijateljev in drugih stikov. Podpira veliko različnih storitev, vključno z NextCloudom, Kolab, Google Contacts, Microsoft Exchange (EWS) ali kateri koli standardni strežnik CalDAV.</p>
+    <p>Zmožnosti:</p>
+    <ul>
+      <li>Zmogljivo iskanje - KAddressBook ima nastavljive filtre in velike zmogljivosti iskanja.</li>
+      <li>Zaznavanje in združitev dvojnikov - KAddressBook lahko najde podvojene stike iz več virov in jih lahko združi v en sam stik.</li>
+      <li>Dobra standardna podpora - KAddressBook lahko uvaža iz in izvaža v skoraj vsak standard adresarjev.</li>
+      <li>Integracija LDAP - se lahko poveže z več strežniki LDAP, kar lahko uporabi za samodejno dokončanje stikov pri sestavljanju e-poštnih sporočil v KMail.</li>
+      <li>Integracija - integrira se z drugimi komponentami Kontact-a, npr. izvozi opomnike za rojstni dan za KOrganizer</li>
+      <li>QR kode - KAddressBook lahko hitro prikaže QR kodo za vsak stik, da ga skenirajte v telefon ali pošljite nekomu.</li>
+    </ul>
+  </description>
+  <description lang="sr">
+    <p>Могућности:</p>
+  </description>
+  <description lang="sr-Latn">
+    <p>Mogućnosti:</p>
+  </description>
+  <description lang="sr-ijekavian">
+    <p>Могућности:</p>
+  </description>
+  <description lang="sr-ijekavianlatin">
+    <p>Mogućnosti:</p>
+  </description>
+  <description lang="sv">
+    <p>Adressboken lagrar all personlig information om din familj, dina vänner och andra kontakter. Den stöder ett stort antal tjänster, inklusive NextCloud, Kolab, Google kontakter, Microsoft Exchange (EWS) eller vilken CalDAV standardserver som helst.</p>
+    <p>Funktioner:</p>
+    <ul>
+      <li>Kraftfull sökning: Adressboken har inställningsbara filter och kraftfulla sökmöjligheter.</li>
+      <li>Detektering av dubbletter och sammanfogning: Adressboken kan hitta duplicerade kontakter från flera källor och kan sammanfoga dem till en enda kontakt.</li>
+      <li>Bra stöd för standarder: Adressboken kan importera och exportera till nästan alla adressboksstandarder.</li>
+      <li>Integrering med LDAP: Kan ansluta till flera LDAP-servrar, som sedan kan användas för automatisk komplettering av kontakter när brev skrivs i Kmail.</li>
+      <li>Integrering: Integrerar med andra komponenter i Kontact, t.ex. med export av påminnelser om födelsedagar till Korganizer</li>
+      <li>QR-koder: Adressboken kan visa en QR-kod för varje kontakt för att snabbt läsa in den i din telefon eller skicka den till någon.</li>
+    </ul>
+  </description>
+  <description lang="tr">
+    <p>K Adres Defteri, ailenizin, arkadaşlarınızın ve diğer tanıdıklarınızın tüm kişisel ayrıntılarını depolar. Nexcloud, Kolab, Google Kişiler, Microsoft Exchange ve herhangi bir standart CalDAV sunucusu da dahil olmak üzere geniş bir hizmet çeşidini destekler.</p>
+    <p>Özellikler:</p>
+    <ul>
+      <li>Güçlü arama - K Adres Defteri yapılandırılabilir süzgeçlere ve güçlü arama yeteneklerine sahiptir.</li>
+      <li>K Adres Defteri, birden çok kaynaktan yinelenmiş kişileri bulabilir ve onları tek bir kişiye birleştirir.</li>
+      <li>İyi standartlar desteği - K Adres Defteri, neredeyse her adres defteri standartından kişileri içe/dışa aktarabilir.</li>
+      <li>LDAP tümleştirmesi - Birden çok LDAP sunucusuna bağlanabilir ve bunlar örneğin KMail'de otomatik tamamlama için kullanılabilir.</li>
+      <li>Tümleştirme - Diğer Kontact bileşenleriyle bütünleşir; örneğin KOrganizer'a doğum günlerini dışa aktarabilirsiniz.</li>
+      <li>Kare kodlar - K Adres Defteri, telefonunuza kolaylıkla taramanız veya başkasına gönderebilmeniz için her kişiye bir kare kod atar ve görüntüler.</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>KAddressBook може зберігати усі особисті дані щодо членів вашої сім'я, друзів та інших контактів. У програмі передбачено роботу із широким діапазоном служб, зокрема NextCloud, Kolab, Контактами Google, Microsoft Exchange (EWS) та усіма стандартними серверами CalDAV.</p>
+    <p>Можливості:</p>
+    <ul>
+      <li>Потужні можливості з пошуку — у KAddressBook передбачено зручні фільтри та потужні можливості з пошуку;</li>
+      <li>Виявлення та об'єднання дублікатів записів — KAddressBook може виявляти дублікати записів, які походять із декількох джерел, і об'єднувати їх до одного запису контакту.</li>
+      <li>Добра підтримка стандартів — програма KAddressBook здатна імпортувати та експортувати дані у майже довільних стандартах зберігання даних адресних книг;</li>
+      <li>Інтеграція із LDAP — програма може з'єднуватися із декількома серверам LDAP, дані яких згодом використовуватимуться для автоматичного доповнення записів контактів та створення повідомлень у KMail.</li>
+      <li>Інтеграція — інтеграція з іншими компонентами Kontact, зокрема експортування нагадувань щодо днів народження до KOrganizer;</li>
+      <li>Коди QR — KAddressBook здатна показувати код QR для усіх записів контактів. Такий код можна легко сканувати за допомогою телефону або надіслати комусь.</li>
+    </ul>
+  </description>
+  <description lang="x-test">
+    <p>xxKAddressBook stores all the personal details of your family, friends and other contacts. It supports large variety of services, including NextCloud, Kolab, Google Contacts, Microsoft Exchange (EWS) or any standard CalDAV server.xx</p>
+    <p>xxFeatures:xx</p>
+    <ul>
+      <li>xxPowerful search - KAddressBook has configurable filters and powerful search capabilities.xx</li>
+      <li>xxDuplicate detection and merging - KAddressBook can find duplicated contacts from multiple sources and can merge them into a single contact.xx</li>
+      <li>xxGood standard support - KAddressBook can import and export from and to nearly every address book standard.xx</li>
+      <li>xxLDAP integration - Can connect to multiple LDAP servers, which can then be used for contact autocompletion when composing emails in KMail.xx</li>
+      <li>xxIntegration - Integrates with other Kontact components, e.g. exporting birthday reminders to KOrganizerxx</li>
+      <li>xxQR codes - KAddressBook can display a QR code for each contact to quickly scan it into your phone or send to someone.xx</li>
+    </ul>
+  </description>
+  <description lang="zh-CN">
+    <p>KAddressBook 用于存储您的家人、朋友或其他人的联系信息。它支持多种在线服务，包括 NextCloud、Kolab、Google Contacts、Microsoft Exchange (EWS) 或各种标准 CalDAV 服务器。</p>
+    <p>程序功能：</p>
+    <ul>
+      <li>强大的搜索功能 - KAddressBook 具备可配置的筛选器和强大的搜索功能。</li>
+      <li>查重和合并 - KAddressBook 可以从多个信息源查找重复联系人并将它们合并为单个联系人。</li>
+      <li>良好的标准支持 - KAddressBook 支持几乎任意一种通讯录标准格式的导入导出。</li>
+      <li>LDAP 集成 - KAdressBook 可以连接到多个 LDAP 服务器，在使用 KMail 撰写电子邮件时可以使用它们自动补全联系人。</li>
+      <li>集成 - KAddressBook 可以与其他 Kontact 组建进行集成，例如导出生日提醒到 KOrganizer。</li>
+      <li>二维码 - KAddressBook 可以为每个联系人显示一个二维码以便手机快速扫描或分享。</li>
+    </ul>
+  </description>
+  <description lang="zh-TW">
+    <p>功能：</p>
+  </description>
+  <pkgname>libsForQt5.kaddressbook</pkgname>
+  <launchable type="desktop-id">org.kde.kaddressbook.desktop</launchable>
+  <icon height="64" type="cached" width="64">kaddressbook.png</icon>
+  <icon type="cached" height="128" width="128">kaddressbook.png</icon>
+  <id>org.kde.kaddressbook.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <developer_name>The KDE Community</developer_name>
+  <developer_name lang="ar">مجتمع كدي</developer_name>
+  <developer_name lang="az">KDE Cəmiyyəti</developer_name>
+  <developer_name lang="ca">La comunitat KDE</developer_name>
+  <developer_name lang="ca-valencia">La comunitat KDE</developer_name>
+  <developer_name lang="cs">Komunita KDE</developer_name>
+  <developer_name lang="da">KDE-fællesskabet</developer_name>
+  <developer_name lang="de">Die KDE-Gemeinschaft</developer_name>
+  <developer_name lang="el">Η Κοινότητα του KDE</developer_name>
+  <developer_name lang="en-GB">The KDE Community</developer_name>
+  <developer_name lang="es">La comunidad de KDE</developer_name>
+  <developer_name lang="et">KDE kogukond</developer_name>
+  <developer_name lang="eu">KDE komunitatea</developer_name>
+  <developer_name lang="fi">KDE-yhteisö</developer_name>
+  <developer_name lang="fr">La communauté KDE</developer_name>
+  <developer_name lang="gl">A comunidade de KDE</developer_name>
+  <developer_name lang="hu">A KDE Közösség</developer_name>
+  <developer_name lang="ia">Le communitate de KDE</developer_name>
+  <developer_name lang="id">Komunitas KDE</developer_name>
+  <developer_name lang="it">La comunità KDE</developer_name>
+  <developer_name lang="ko">KDE 커뮤니티</developer_name>
+  <developer_name lang="nl">De KDE gemeenschap</developer_name>
+  <developer_name lang="pl">Społeczność KDE</developer_name>
+  <developer_name lang="pt">A Comunidade do KDE</developer_name>
+  <developer_name lang="pt-BR">A comunidade KDE</developer_name>
+  <developer_name lang="ru">Сообщество KDE</developer_name>
+  <developer_name lang="sk">KDE Komunita</developer_name>
+  <developer_name lang="sl">Skupnost KDE</developer_name>
+  <developer_name lang="sv">KDE-gemenskapen</developer_name>
+  <developer_name lang="tr">KDE Topluluğu</developer_name>
+  <developer_name lang="uk">Спільнота KDE</developer_name>
+  <developer_name lang="x-test">xxThe KDE Communityxx</developer_name>
+  <developer_name lang="zh-CN">KDE 社区</developer_name>
+  <name>KAddressBook</name>
+  <name lang="ar">دفتر عناوينك</name>
+  <name lang="az">KAddressBook</name>
+  <name lang="bs">KAddressBook</name>
+  <name lang="ca">KAddressBook</name>
+  <name lang="ca-valencia">KAddressBook</name>
+  <name lang="cs">KAddressBook</name>
+  <name lang="da">KAddressBook</name>
+  <name lang="de">KAddressBook</name>
+  <name lang="el">KAddressBook</name>
+  <name lang="en-GB">KAddressBook</name>
+  <name lang="es">KAddressBook</name>
+  <name lang="et">KDE aadressiraamat</name>
+  <name lang="eu">KAddressBook</name>
+  <name lang="fi">KAddressBook</name>
+  <name lang="fr">KAddressBook</name>
+  <name lang="gl">KAddressBook</name>
+  <name lang="hu">KAddressBook</name>
+  <name lang="ia">KAddressBook</name>
+  <name lang="id">KAddressBook</name>
+  <name lang="it">KAddressBook</name>
+  <name lang="ko">KAddressBook</name>
+  <name lang="lt">KAddressBook</name>
+  <name lang="nb">KAddressBook</name>
+  <name lang="nds">KAdressbook</name>
+  <name lang="nl">KAddressBook</name>
+  <name lang="pl">Książka adresowa</name>
+  <name lang="pt">KAddressBook</name>
+  <name lang="pt-BR">KAddressBook</name>
+  <name lang="ro">KAddressBook</name>
+  <name lang="ru">KAddressBook</name>
+  <name lang="sk">KAddressBook</name>
+  <name lang="sl">KAddressBook</name>
+  <name lang="sr">К‑адресар</name>
+  <name lang="sr-Latn">K‑adresar</name>
+  <name lang="sr-ijekavian">К‑адресар</name>
+  <name lang="sr-ijekavianlatin">K‑adresar</name>
+  <name lang="sv">Adressbok</name>
+  <name lang="tr">K Adres Defteri</name>
+  <name lang="uk">KAddressBook</name>
+  <name lang="x-test">xxKAddressBookxx</name>
+  <name lang="zh-CN">KAddressBook</name>
+  <name lang="zh-TW">KDE 通訊錄</name>
+  <summary>An address book manager</summary>
+  <summary lang="ar">مدير دفتر العناوين</summary>
+  <summary lang="az">Ünvan kitabçası meneceri</summary>
+  <summary lang="ca">Un gestor de la llibreta d'adreces</summary>
+  <summary lang="ca-valencia">Un gestor de la llibreta d'adreces</summary>
+  <summary lang="cs">Správce knihy adres</summary>
+  <summary lang="da">Håndtering af adressebog</summary>
+  <summary lang="de">Eine Adressbuchverwaltung</summary>
+  <summary lang="el">Ένα πρόγραμμα διαχείρισης του βιβλίου διευθύνσεων</summary>
+  <summary lang="en-GB">An address book manager</summary>
+  <summary lang="es">Un gestor de libreta de direcciones</summary>
+  <summary lang="et">Aadressiraamatu haldur</summary>
+  <summary lang="eu">Helbide-liburuaren kudeatzaile bat</summary>
+  <summary lang="fi">Osoitekirjahallinta</summary>
+  <summary lang="fr">Un gestionnaire de carnet d'adresses</summary>
+  <summary lang="gl">Un xestor de libros de enderezos</summary>
+  <summary lang="hu">Címjegyzék-kezelő</summary>
+  <summary lang="ia">Un gestor de adressario</summary>
+  <summary lang="id">Sebuah pengelola buku alamat</summary>
+  <summary lang="it">Un gestore della rubrica degli indirizzi</summary>
+  <summary lang="ko">주소록 관리자</summary>
+  <summary lang="nl">Een beheerder van het adresboek</summary>
+  <summary lang="pl">Zarządzanie książką adresów</summary>
+  <summary lang="pt">Um gestor de livros de endereços</summary>
+  <summary lang="pt-BR">Um gerenciador de listas de contatos</summary>
+  <summary lang="ru">Управление контактами</summary>
+  <summary lang="sk">Správca adresára</summary>
+  <summary lang="sl">Upravljalnik adresarjev</summary>
+  <summary lang="sr">Менаџер адресара</summary>
+  <summary lang="sr-Latn">Menadžer adresara</summary>
+  <summary lang="sr-ijekavian">Менаџер адресара</summary>
+  <summary lang="sr-ijekavianlatin">Menadžer adresara</summary>
+  <summary lang="sv">En adressbokshanterare</summary>
+  <summary lang="tr">Adres defteri yöneticisi</summary>
+  <summary lang="uk">Засіб для керування адресною книгою</summary>
+  <summary lang="x-test">xxAn address book managerxx</summary>
+  <summary lang="zh-CN">通讯录管理工具</summary>
+  <url type="homepage">https://kontact.kde.org/components/kaddressbook/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kaddressbook</url>
+  <screenshots>
+    <screenshot type="default">
+      <caption>KAddressBook embedded into Kontact</caption>
+      <caption lang="ar">دفتر عناوينك مضمن في متراسلك</caption>
+      <caption lang="az">KAddressBook Kontakt daxilinə quraşdırılıb</caption>
+      <caption lang="ca">El KAddressBook incrustat al Kontact</caption>
+      <caption lang="ca-valencia">KAddressBook incrustat a Kontact</caption>
+      <caption lang="cs">KAddressBook vložená do aplikace Kontact</caption>
+      <caption lang="da">KAddressBook indlejret i Kontact</caption>
+      <caption lang="de">KAddressBook in Kontact eingebettet</caption>
+      <caption lang="el">Το KAddressBook ενσωματώνεται στο Kontact</caption>
+      <caption lang="en-GB">KAddressBook embedded into Kontact</caption>
+      <caption lang="es">KAddressBook incrustado en Kontact</caption>
+      <caption lang="et">KAddressBook Kontacti põimituna</caption>
+      <caption lang="eu">KAddressBook Kontact-en txertatuta</caption>
+      <caption lang="fi">Kontactiin upotettu KAddressBook</caption>
+      <caption lang="fr">KAddressBook intégré au sein de Kontact</caption>
+      <caption lang="gl">KAddressBook incrustado en Kontact</caption>
+      <caption lang="hu">A Kontactba beágyazott KAddressBook</caption>
+      <caption lang="ia">KAddressBook integrate in Kontact</caption>
+      <caption lang="id">KAddressBook dibenamkan ke dalam Kontact</caption>
+      <caption lang="it">KAddressBook integrato in Kontact</caption>
+      <caption lang="ko">Kontact에 임베드된 KAddressbook</caption>
+      <caption lang="nl">KAddressBook ingebed in Kontact</caption>
+      <caption lang="pl">Książka adresowa osadzona w Kontact</caption>
+      <caption lang="pt">O KAddressBook incorporado no Kontact</caption>
+      <caption lang="pt-BR">KAddressBook incluso no Kontact</caption>
+      <caption lang="ru">Приложение KAddressBook открыто внутри электронного секретаря Kontact</caption>
+      <caption lang="sk">KAddressBook zabudovaný do Kontactu</caption>
+      <caption lang="sl">KAddressBook je vgrajen v Kontact</caption>
+      <caption lang="sv">Adressboken inbäddad i Kontact</caption>
+      <caption lang="tr">Kontact içine gömülü K Adres Defteri</caption>
+      <caption lang="uk">Вбудована до Kontact KAddressBook</caption>
+      <caption lang="x-test">xxKAddressBook embedded into Kontactxx</caption>
+      <caption lang="zh-CN">KAddressBook 嵌入 Kontact</caption>
+      <image height="737" type="source" width="1200">https://kontact.kde.org/assets/img/kontact-kaddressbook.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kaddressbook</binary>
+  </provides>
+  <releases>
+    <release version="5.20.3" date="2022-07-07" />
+    <release version="5.20.2" date="2022-06-09" />
+    <release date="2022-05-12" version="5.20.1" />
+    <release date="2022-04-21" version="5.20.0" />
+  </releases>
+</component>

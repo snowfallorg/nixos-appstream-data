@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>gnome.gnome-dictionary</pkgname>
+  <icon type="cached" width="64" height="64">org.gnome.Dictionary.png</icon>
+  <icon width="128" height="128" type="cached">org.gnome.Dictionary.png</icon>
+  <id>org.gnome.Dictionary</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+ AND LGPL-2.0+ AND GFDL-1.3</project_license>
+  <name>GNOME Dictionary</name>
+  <name lang="zh_TW">GNOME 字典</name>
+  <name lang="zh_CN">GNOME 词典</name>
+  <name lang="vi">Từ điển GNOME</name>
+  <name lang="uk">Словник GNOME</name>
+  <name lang="tr">GNOME Sözlük</name>
+  <name lang="sv">GNOME Ordbok</name>
+  <name lang="sr@latin">Gnomov rečnik</name>
+  <name lang="sr">Гномов речник</name>
+  <name lang="sl">Slovar Gnome</name>
+  <name lang="sk">Slovník prostredia GNOME</name>
+  <name lang="ru">Словарь GNOME</name>
+  <name lang="ro">Dicționar GNOME</name>
+  <name lang="pt_BR">Dicionário do GNOME</name>
+  <name lang="pt">Dicionário do GNOME</name>
+  <name lang="pl">Słownik GNOME</name>
+  <name lang="pa">ਗਨੋਮ ਡਿਕਸ਼ਨਰੀ</name>
+  <name lang="oc">Diccionari GNOME</name>
+  <name lang="nl">Woordenboek</name>
+  <name lang="nb">GNOME ordbok</name>
+  <name lang="ms">Kamus GNOME</name>
+  <name lang="ml">ഗ്നോം നിഘണ്ടു</name>
+  <name lang="mjw">GNOME Lammarjong</name>
+  <name lang="lv">GNOME vārdnīca</name>
+  <name lang="lt">GNOME žodynas</name>
+  <name lang="ko">그놈 사전</name>
+  <name lang="kk">GNOME сөздігі</name>
+  <name lang="ja">GNOME 辞書</name>
+  <name lang="it">Dizionario GNOME</name>
+  <name lang="is">Orðasafn GNOME</name>
+  <name lang="id">GNOME Kamus</name>
+  <name lang="hu">GNOME Szótár</name>
+  <name lang="hr">GNOME rječnik</name>
+  <name lang="he">מילון GNOME</name>
+  <name lang="gl">Dicionario de GNOME</name>
+  <name lang="gd">Faclair GNOME</name>
+  <name lang="fur">Dizionari di GNOME</name>
+  <name lang="fr">Dictionnaire de GNOME</name>
+  <name lang="fi">Gnomen sanakirja</name>
+  <name lang="fa">واژه‌نامهٔ گنوم</name>
+  <name lang="eu">GNOME Hiztegia</name>
+  <name lang="es">Diccionario de GNOME</name>
+  <name lang="eo">GNOME Vortaro</name>
+  <name lang="en_GB">GNOME Dictionary</name>
+  <name lang="el">Λεξικό GNOME</name>
+  <name lang="de">GNOME Wörterbuch</name>
+  <name lang="da">GNOME Ordbog</name>
+  <name lang="cs">Slovník GNOME</name>
+  <name lang="ca@valencia">Diccionari GNOME</name>
+  <name lang="ca">Diccionari GNOME</name>
+  <name lang="bg">Речник</name>
+  <name lang="be">Слоўнік GNOME</name>
+  <summary>Check word definitions and spellings in an online dictionary</summary>
+  <summary lang="zh_TW">在線上字典中查詢字詞的解譯及拼法</summary>
+  <summary lang="zh_HK">在網上字典中查詢字詞的解譯及拼法</summary>
+  <summary lang="zh_CN">在在线词典中查阅单词定义和拼写</summary>
+  <summary lang="vi">Tìm từ trong từ điển trực tuyến để kiểm tra chính tả và sự định nghĩa</summary>
+  <summary lang="uk">Пошук слів та їх написання у інтерактивному словнику</summary>
+  <summary lang="ug">توردىكى لۇغەتتىن سۆز ئېنىقلىمىسى ۋە ئىملاسىنى تەكشۈر</summary>
+  <summary lang="tr">Sözcük tanımlarını ve yazımlarını çevrim içi sözlükte gözden geçir</summary>
+  <summary lang="th">หาความหมายและการสะกดของคำในพจนานุกรมออนไลน์</summary>
+  <summary lang="tg">Санҷиши таърифҳо ва талаффузҳои калимаҳо дар луғати онлайн</summary>
+  <summary lang="te">ఆన్‌లైన్ నిఘంటువులో పదము నిర్వచనములను మరియు వర్ణక్రమములను తనిఖీచేయుము</summary>
+  <summary lang="ta">ஒரு இணைய அகராதியில் சொற்களை தேடவும்</summary>
+  <summary lang="sv">Kontrollera definitioner av ord och stavningar i en nätordbok</summary>
+  <summary lang="sr@latin">Proverite značenja reči i sricanja u rečniku na internetu</summary>
+  <summary lang="sr">Проверите значења речи и срицања у речнику на интернету</summary>
+  <summary lang="sl">Preverite razlago in črkovanje besede v mrežnem slovarju.</summary>
+  <summary lang="sk">Slúži na kontrolu vysvetlenia alebo pravopisu slov v internetovom slovníku</summary>
+  <summary lang="si">වදන් අර්ථදැක්වීම් සහ අක්ෂරවින්‍යාසය සබැදි ශබ්දකෝෂයෙන් පරීක්ෂා කරන්න</summary>
+  <summary lang="ru">Проверить определение и правописание слова в онлайн-словаре</summary>
+  <summary lang="ro">Verifică definițiile și ortografia unui cuvânt într-un dicționar online</summary>
+  <summary lang="pt_BR">Verifique definições e ortografia das palavras em um dicionário on-line</summary>
+  <summary lang="pt">Procurar a definição e ortografia de palavras num dicionário online</summary>
+  <summary lang="pl">Wyświetlanie definicji i pisowni słów w słowniku internetowym</summary>
+  <summary lang="pa">ਆਨਲਾਈਨ ਡਿਕਸ਼ਨਰੀ ਵਿੱਚ ਸ਼ਬਦ ਪ੍ਰੀਭਾਸ਼ਾ ਅਤੇ ਸ਼ਬਦ-ਜੋੜ ਵੇਖੋ</summary>
+  <summary lang="or">ଗୋଟିଏ ଅନ-ଲାଇନ ଅଭିଧାନରେ ଶବ୍ଦର ସୁନିର୍ଦ୍ଦିଷ୍ଟ ଅର୍ଥ ଏବଂ ବନାନକୁ ଦେଖନ୍ତୁ</summary>
+  <summary lang="oc">Verificar la definicion e l'ortografia dels mots dins un diccionari en linha</summary>
+  <summary lang="nn">Sjekk orddefinisjonar og staving i ei ordbok på nettet</summary>
+  <summary lang="nl">Definities en spelling van woorden opzoeken in een online woordenboek</summary>
+  <summary lang="ne">अनलाइन शब्दकोशमा शब्द परिभाषा र हिज्जे जाँच गर्नुहोस्</summary>
+  <summary lang="nb">Sjekk orddefinisjoner og staving i en ordbok på nett</summary>
+  <summary lang="ms">Periksa takrifan dan ejaan perkataan dengan kamus dalam talian</summary>
+  <summary lang="mr">ऑनलाईन शब्दकोशात शब्द व्याख्या व शब्दलेखन करीता तपासा</summary>
+  <summary lang="ml">ഓണ്‍ലൈന്‍ നിഘണ്ടുവില്‍ വാക്കുകളുടെ അക്ഷരങ്ങളും നിര്‍വചനങ്ങളും പരിശോധിയ്ക്കക</summary>
+  <summary lang="mk">Пребарувај зборови во онлајн речник</summary>
+  <summary lang="mai">ऑन लाइन शब्दकोशमे परिभाषा आ वर्तनी देखू</summary>
+  <summary lang="lv">Pārbauda vārdu skaidrojumus un rakstību interneta vārdnīcā</summary>
+  <summary lang="lt">Pasitikrinkite žodžių apibrėžimus ir rašybą internetiniame žodyne</summary>
+  <summary lang="ko">온라인 사전에서 단어의 뜻과 철자를 찾아 봅니다</summary>
+  <summary lang="kn">ಒಂದು ಆನ್‌ಲೈನ್‌ ಶಬ್ಧಕೋಶದಲ್ಲಿ ಪದದ ವಿವರಣೆಗಳನ್ನು ಹಾಗು ಕಾಗುಣಿತಗಳನ್ನು ನೋಡು</summary>
+  <summary lang="km">ពិនិត្យមើលនិយមន័យ និងអក្ខរាវិរុទ្ធពាក្យនៅក្នុងវចនានុក្រមលើបណ្ដាញ</summary>
+  <summary lang="kk">Сөз анықтамасын және емлесін желідегі сөздікте тексеру</summary>
+  <summary lang="ja">オンライン辞書を使って単語の意味や綴りを調べます</summary>
+  <summary lang="it">Controlla definizioni e ortografia di parole su un dizionario in linea</summary>
+  <summary lang="is">Fletta upp orðum og stafsetningu í orðasöfnum á netinu</summary>
+  <summary lang="id">Cari penjelasan dan pengejaan kata di dalam kamus daring</summary>
+  <summary lang="hu">Szavak meghatározásainak és helyesírásának keresése online szótárakban</summary>
+  <summary lang="hr">Provjerite značenja i pravopis pomoću internetskog rječnika</summary>
+  <summary lang="hi">ऑन लाइन शब्दकोश में परिभाषा व वर्तनी देखें</summary>
+  <summary lang="he">חיפוש הגדרה ואיות של מילים במילון מקוון</summary>
+  <summary lang="gu">ઓનલાઈન શબ્દકોશમાં વ્યાખ્યાઓ અને જોડણીઓ માટે શબ્દ ચકાસો</summary>
+  <summary lang="gl">Verificar definicións de palabras e ortografía nun dicionario en liña</summary>
+  <summary lang="gd">Thoir sùil air mìneachaidhean fhaclan is an litreachadh ann am faclair air loidhne</summary>
+  <summary lang="ga">Lorg shainmhíniú agus litriú focal i bhfoclóir ar líne</summary>
+  <summary lang="fur">Controle definizions e ortografie di peraulis suntun dizionari in rêt</summary>
+  <summary lang="fr">Vérifier la définition et l’orthographe des mots dans un dictionnaire en ligne</summary>
+  <summary lang="fi">Etsi sanojen määrittelyjä ja kirjoitusasuja verkkosanakirjoista</summary>
+  <summary lang="fa">بررسی تعریف‌ها و املای واژگان در یک واژه‌نامهٔ برخط</summary>
+  <summary lang="eu">Bilatu hitzen definizioak eta ortografiak lineako hiztegi batean</summary>
+  <summary lang="et">Sõnade definitsioonide ja kirjaviiside otsimine onlain-sõnaraamatust</summary>
+  <summary lang="es">Busque definiciones de palabras y ortografía en un diccionario en línea</summary>
+  <summary lang="eo">Kontroli vortdifinojn kaj literumojn en surlinia vortaro</summary>
+  <summary lang="en@shaw">𐑗𐑧𐑒 𐑢𐑻𐑛 𐑛𐑧𐑓𐑩𐑯𐑦𐑖𐑩𐑯𐑟 𐑯 𐑕𐑐𐑧𐑤𐑦𐑙𐑟 𐑦𐑯 𐑩𐑯 𐑪𐑯𐑤𐑲𐑯 𐑛𐑦𐑒𐑖𐑩𐑯𐑼𐑦</summary>
+  <summary lang="en_GB">Check word definitions and spellings in an online dictionary</summary>
+  <summary lang="el">Έλεγχος ορισμών λέξεων και ορθογραφίας σε ένα διαδικτυακό λεξικό</summary>
+  <summary lang="dz">གློག་ཐོག་ཚིག་མཛོད་ཅིག་ནང་ མིང་ཚིག་གི་ངེས་ཚིག་དང་ སྡེབ་སྦྱོར་ཚུ་ཞིབ་དཔྱད་རྐྱབས།</summary>
+  <summary lang="de">Definitionen und Schreibweisen im Online-Wörterbuch nachschlagen</summary>
+  <summary lang="da">Slå orddefinitioner og stavning op i en ordbog på internettet</summary>
+  <summary lang="cy">Chwilio am ddiffiniadau geiriau a'u sillafiad mewn geiriadur ar-lein</summary>
+  <summary lang="cs">Kontrolujte si definice a výslovnost slov ve slovníku on-line</summary>
+  <summary lang="crh">Sözcük tanımlarını ve yazımlarını çevrimiçi bir sözlükte denetle</summary>
+  <summary lang="ca@valencia">Comprova les definicions de paraules i l'ortografia en un diccionari en línia</summary>
+  <summary lang="ca">Comprova les definicions de paraules i l'ortografia en un diccionari en línia</summary>
+  <summary lang="bs">Provjerite značenje riječi i spelovanje u rječniku na internetu</summary>
+  <summary lang="br">Gwiriañ termenadurioù ha skritur gerioù dre ur geriadur enlinenn</summary>
+  <summary lang="bn_IN">অনলাইন অভিধানে শব্দের সংজ্ঞা ও বানান পরীক্ষা করুন</summary>
+  <summary lang="bn">অনলাইন অভিধানে শব্দের সংজ্ঞা ও বানান পরীক্ষা করুন</summary>
+  <summary lang="bg">Търсене на определения и правописа на думи в речник в Интернет</summary>
+  <summary lang="be@latin">Hladzi aznačeńni j pravapis słova ŭ sieciŭnym słoŭniku</summary>
+  <summary lang="be">Пошук азначэнняў слоў і іх правапісу ў сеціўным слоўніку</summary>
+  <summary lang="ast">Guetar definiciones de pallabres y ortografía nun diccionariu en llinia</summary>
+  <summary lang="as">অনলাইন অভিধানত শব্দৰ বিৱৰণ আৰু বানান পৰীক্ষা কৰক</summary>
+  <summary lang="ar">ابحث عن تعريف وإملاء الكلمات في قاموس علخط</summary>
+  <summary lang="af">Soek definisies en spelling in 'n aanlynwoordeboek</summary>
+  <description>
+    <p>
+      GNOME Dictionary is a simple dictionary application that looks up
+      definitions of words online.
+      Though it looks up English definitions by default, you can easily switch to
+      Spanish or add other online dictionaries using the DICT protocol to suit your
+      needs.
+    </p>
+  </description>
+  <description lang="as">
+    <p>GNOME অভিধান এটা সাধাৰণ অভিধান যি শব্দবোৰৰ অৰ্থ অনলাইন সন্ধান কৰে। যদিও ই অবিকল্পভাৱে ইংৰাজী বিৱৰণসমূহ সন্ধান কৰে, আপুনি আপোনাৰ প্ৰয়োজন সাপেক্ষে DICT প্ৰটোকল ব্যৱহাৰ কৰি স্পেনিচ অথবা অন্য অনলাইন অভিধান সহজতে যোগ কৰিব পাৰিব।</p>
+  </description>
+  <description lang="be">
+    <p>Слоўнік GNOME дазваляе шукаць азначэнні слоў у сеціве. Прадвызначана праграма шукае англійскія азначэнні, але вы можаце пераключыцца на іспанскую мову або дадаць іншыя сеціўныя слоўнікі, якія працуюць праз пратакол DICT.</p>
+  </description>
+  <description lang="bg">
+    <p>Речникът е програма, с която може да проверявате дефинициите на думи по Интернет. Стандартно се дава английското значение, но можете лесно да превключите към произволен друг речник предоставящ достъп по протокола DICT.</p>
+  </description>
+  <description lang="bn_IN">
+    <p>GNOME অভিধান হল একটি সহজ অভিধান অ্যাপ্লিকেশন যা শব্দের অর্থ অনলাইনে খোঁজে। এটি ডিফল্ট ভাবে ইংরাজি সংজ্ঞা খুঁজলেও, অাপনি সহজেই স্পেনীয়তে পাল্টে নিতে পারবেন বা অাপনার প্রয়োজন মতো DICT প্রোটোকল ব্যবহার করে অন্য অনলাইন অভিধান ব্যবহার করতে পারবেন।</p>
+  </description>
+  <description lang="bs">
+    <p>GNOME rječnik je jednostavni program rječnik koji gleda definicije riječi na mreži. Iako traži engleske definicije podrazumevano, možete lako prebaciti na španski ili dodati druge online rječnike koristeći DICT protokol u skladu sa vašim potrebama.</p>
+  </description>
+  <description lang="ca">
+    <p>El Diccionari del GNOME és una aplicació de diccionari senzilla que cerca definicions de paraules en línia. Tot i que per defecte cerca les definicions en anglès, podeu canviar fàcilment al castellà o altres diccionaris en línia fent servir el protocol DICT per a adaptar-se a les vostres necessitats.</p>
+  </description>
+  <description lang="ca@valencia">
+    <p>El Diccionari del GNOME és una aplicació de diccionari senzilla que busca definicions de paraules en línia. Tot i que per defecte busca les definicions en anglés, podeu canviar fàcilment al castellà o altres diccionaris en línia fent servir el protocol DICT per adaptar-se a les vostres necessitats.</p>
+  </description>
+  <description lang="cs">
+    <p>Slovník GNOME je jednoduchá slovníková aplikace, která vyhledává on-line definice slov. Ačkoliv ve výchozím stavu vyhledává definice v angličtině, můžete si ji snadno přepnout na španělštinu nebo přidat podle svých potřeb jiný slovník on-line používající protocol DICT.</p>
+  </description>
+  <description lang="da">
+    <p>GNOME Ordbog er et simpelt ordbogsprogram, som slår definitioner for ord op på nettet. Selv om det som standard er sat op til at slå ord op på engelsk, er det nemt at skifte til spansk eller tilføje andre ordbøger på nettet, vha. DICT-protokollen, for at dække dine behov.</p>
+  </description>
+  <description lang="de">
+    <p>GNOME Wörterbuch ist eine einfache Wörterbuch-Anwendung, die Wörter im Netz nachschlägt. Standardmäßig werden englische Wörter nachgeschlagen, wobei Sie einfach auf Spanisch umschalten oder weitere Wörterbücher unter Verwendung des DICT-Protokolls hinzufügen können, um Ihren Bedarf zu decken.</p>
+  </description>
+  <description lang="el">
+    <p>Το Λεξικό GNOME είναι μια απλή εφαρμογή λογισμικού που κάνει αναζήτηση για ορισμούς των λέξεων διαδικτυακά. Αν και ψάχνει από προεπιλογή ορισμούς στα Αγγλικά, μπορείτε εύκολα να το αλλάξετε στα Ισπανικά ή να προσθέσετε άλλα διαδικτυακά λεξικά χρησιμοποιώντας το πρωτόκολλο DICT για να ταιριάξει με τις ανάγκες σας.</p>
+  </description>
+  <description lang="en_GB">
+    <p>GNOME Dictionary is a simple dictionary application that looks up definitions of words online. Though it looks up English definitions by default, you can easily switch to Spanish or add other online dictionaries using the DICT protocol to suit your needs.</p>
+  </description>
+  <description lang="eo">
+    <p>GNOME Vortaro estas simpla vortar-aplikaĵo kiu elserĉas difinojn de vortoj rete. Kvankam ĝi implicite retserĉas anglajn difinojn, vi povas facile ŝalti al la hispana aŭ alia reta vortaro uzante la DICT-protokolon kio konvenas al via bezonoj.</p>
+  </description>
+  <description lang="es">
+    <p>Diccionario de GNOME es una sencilla aplicación de diccionario que busca definiciones de palabras en línea. Aunque de manera predeterminada busca definiciones en inglés, puede cambiar fácilmente a español o añadir otros diccionarios en línea que se ajusten a sus necesidades y que usen el protocolo DICT.</p>
+  </description>
+  <description lang="et">
+    <p>GNOME sõnaraamat on lihtne rakendus, mis otsib sõnade tähendusi internetist. Kuigi see otsib vaikimisi ingliskeelseid sõnaseletusi, on seda lihtne vahetada hispaania või teiste veebisõnaraamatute vastu, mis kasutavad DICT protokolli.</p>
+  </description>
+  <description lang="eu">
+    <p>GNOMEren Hiztegia hitzen definizioak linean bilatzeko aplikazio bat da. Lehenetsi gisa Ingeleseko definizioak bilatzen dituen arren, erraz alda dezakezu Gaztelerara, edo DICT protokoloa darabilten lineako beste hiztegiak gehitu zure beharretara egokitzeko.</p>
+  </description>
+  <description lang="fa">
+    <p>واژه‌نامهٔ گنوم یک برنامهٔ سادهٔ واژه‌نامه است که به صورت برخط به دنبال معنی‌های واژگان می‌گردد. با این که به صورت پیش‌گزیده تنها به دنبال تعریف‌های انگلیسی می‌گردد، به سادگی می‌توانید با استفاده از قرارداد DICT به فارسی یا دیگر واژه‌نامه‌های برخط دیگر تعویض کنید تا پاسخ‌گوی نیازهایتان باشد.</p>
+  </description>
+  <description lang="fi">
+    <p>Gnomen sanakirjan avulla on mahdollista etsiä sanojen merkityksiä verkosta. Vaikka se oletuksena käyttää englanninkielistä sanastoa, on sanakirjalähde mahdollista vaihtaa muuhun DICT-protokollaa tukevaan sanakirjalähteeseen.</p>
+  </description>
+  <description lang="fr">
+    <p>Le Dictionnaire GNOME est une simple application de dictionnaire permettant de consulter des définitions de mots en ligne. Même si par défaut, ce sont les définitions anglaises qui sont recherchées, il est très facile de choisir une autre langue ou d’ajouter d’autres dictionnaires en ligne se conformant au protocole DICT afin de répondre à vos propres besoins.</p>
+  </description>
+  <description lang="fur">
+    <p>Dizionari GNOME e je une semplice aplicazion di dizionari che e cîr in rêt lis definizions di peraulis. Ancje se, come impostazion predefinide, al fâs ricercjis in inglês, al è pussibil passâ al spagnûl o zontâ altris dizionaris in rêt che a fasin ûs dal protocol DICT.</p>
+  </description>
+  <description lang="gd">
+    <p>’S e aplacaid faclair shimplidh a tha san Fhaclair GNOME Dictionary a lorgas mìneachaidhean air faclan air loidhne. Ged a shireas e mìneachaidhean sa Bheurla a ghnàth, ’s urrainn dhut leum a ghearradh gu Spàinntis no faclair air loidhne sam bith leis a’ phròtacal DICT gus na ach am faigh thu na dh’fheumas tu fhèin.</p>
+  </description>
+  <description lang="gl">
+    <p>Dicionario de GNOME é unha aplicación simple de dicionarios que lle permite buscar definicións de palabras en liña. Aínda que por omisión busca por definicións en Inglés, pode cambialo a Español e engadir outros dicionarios usando o protocolo DICT que se axeiten ás súas necesidades.</p>
+  </description>
+  <description lang="gu">
+    <p>GNOME શબ્દકોષ એ એક સાદો શબ્દકોષ છે કે જે ઓનલાઇન શબ્દોની રૂપરેખાને જુએ છે. છતાં તે મૂળભૂત રીતે અંગ્રેજી રૂપરેખાને જુએ છે, તમે સરળતાથી સ્પેનિશમાં બદલી શકો છો અથવા તમારી જરૂરિયાતોને બંધબેસવા DICT પ્રોટોકોલની મદદથી બીજા ઓનલાઇન શબ્દકોષોને ઉમેરો.</p>
+  </description>
+  <description lang="he">
+    <p>מילון GNOME הוא יישום מילון פשוט המחפש הגדרות של מילים באופן מקוון. למרות שהוא מחפש הגדרות באנגלית כבררת מחדל, ניתן בקלות להחליף לספרדית או להוסיף מילונים מקוונים נוספים באמצעות פרוטוקול DICT כדי להתאים לצרכים שלך.</p>
+  </description>
+  <description lang="hi">
+    <p> GNOME Dictionary is a simple dictionary application that looks up definitions of words online. Though it looks up English definitions by default, you can easily switch to Spanish or add other online dictionaries using the DICT protocol to suit your needs.</p>
+  </description>
+  <description lang="hr">
+    <p>GNOME rječnik je jednostavna aplikacija rječnika koja pretražuje značenja i riječi na internetu. Iako pretražuje engleske definicije po zadanome, lako možete prebaciti na hrvatski ili dodati neki drugi mrežni rječnik pomoću DICT protokola kako bi odgovarao vašim potrebama.</p>
+  </description>
+  <description lang="hu">
+    <p>A GNOME Szótár egy egyszerű szótáralkalmazás, amely szavak definícióit keresi ki online. Noha alapesetben angol definíciókat keres, egyszerűen át lehet váltani spanyolra, vagy más online szótárak is felvehetők a DICT protokoll használatával.</p>
+  </description>
+  <description lang="id">
+    <p>GNOME Kamus adalah aplikasi kamus sederhana yang mencari definisi dari suatu kata secara daring. Walaupun ini mencari definisi bahasa Inggris secara baku, Anda dapat dengan mudah berpindah ke bahasa Spanyol atau menambah kamus daring lain memakai protokol DICT untuk memenuhi keperluan Anda.</p>
+  </description>
+  <description lang="it">
+    <p>Dizionario GNOME è una semplice applicazione di dizionario che cerca online le definizioni di parole. Benché, come impostazione predefinita, esegua ricerche in inglese, è possibile passare allo spagnolo o aggiungere altri online dizionari che facciano uso del protocollo DICT.</p>
+  </description>
+  <description lang="ja">
+    <p>GNOME 辞書は、言葉の意味をオンラインで調べられるシンプルな辞書アプリケーションです。デフォルトでは英語の辞書を引きますが、簡単にスペイン語の辞書に切り替えられます。また、DICT プロトコルに対応する他のオンライン辞書をあなたのニーズに合わせて追加することもできます。</p>
+  </description>
+  <description lang="kk">
+    <p>GNOME сөздігі - бұл сөздер анықтамаларын желідегі сөздіктен іздейтін қарапайым қолданба. Ол бастапқыда ағылшын тілінде іздеседе, сіз оңай түрде испан тіліне ауысып, немесе керек болса DICT хаттамасын қолданатын басқа да желідегі сөздіктерді қоса аласыз.</p>
+  </description>
+  <description lang="km">
+    <p>វចនានុក្រម GNOME ជាកម្មវិធីវចនានុក្រមសាមញ្ញមួយដែលស្វែងរកនិយមន័យពាក្យនៅលើបណ្ដាញ។ តាមរយៈវាស្វែងរកនិយមន័យជាភាសាអង់គ្លេសតាមលំនាំដើម, អ្នកអាចប្ដូរទៅភាសាអេស្ប៉ា ឬបន្ថែមវចនានុក្រមនៅលើបណ្ដាញផ្សេងដោយប្រើពិធីការ DICT តាមតម្រូវការរបស់អ្នក។</p>
+  </description>
+  <description lang="kn">
+    <p>GNOME ಡಿಕ್ಶನರಿ ಎನ್ನುವುದು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಪದಗಳ ವಿವರಣೆಗಳಿಗಾಗಿ ಹುಡುಕುವ ಒಂದು ಸರಳವಾದ ಶಬ್ಧಕೋಶ ಅನ್ವಯವಾಗಿದೆ. ಇದು ಪೂರ್ವನಿಯೋಜಿತವಾಗಿ ಇಂಗ್ಲೀಷ್‌ ವಿವರಣೆಯನ್ನು ಹುಡುಕಿದರೂ ಸಹ, ನೀವು ಬೇಕಿದ್ದಲ್ಲಿ ಸ್ಪಾನಿಶ್‌ ಭಾಷೆಗೆ ಬದಲಾಯಿಸಬಹುದು ಅಥವ DICT ಪ್ರೊಟೊಕಾಲ್ ಅನ್ನು ಬಳಸಿಕೊಂಡು ನಿಮ್ಮ ಅಗತ್ಯಕ್ಕೆ ತಕ್ಕಂತೆ ಇತರೆ ಆನ್‌ಲೈನ್ ಶಬ್ಧಕೋಶಗಳನ್ನೂ ಸಹ ಸೇರಿಸಬಹುದು.</p>
+  </description>
+  <description lang="ko">
+    <p>그놈 사전은 온라인에서 단어의 뜻을 찾아보는 간단한 사전 프로그램입니다. 기본적으로 영어 단어의 뜻을 찾아보지만, 필요에 따라 스페인어로 전환하거나 DICT 프로토콜을 이용한 다른 온라인 사전을 추가할 수 있습니다.</p>
+  </description>
+  <description lang="lt">
+    <p>GNOME žodynas yra paprasta žodyno programa, kurie ieško internete žodžių apibrėžimų. Nors numatytai ji ieško angliškų apibrėžimų, galite lengvai pakeisti į ispanų ar kitus internetinius žodynus, naudojančius DICT protokolą, ir taip pritaikyti savo reikmėms.</p>
+  </description>
+  <description lang="lv">
+    <p>GNOME vārdnīca ir vienkārša vārdnīcas lietotne, kas tiešsaistē uzmeklē vārdus. Pēc noklusējuma tā meklē angļu valodas definīcijas, bet jūs varat viegli pārslēgties uz spāņu vai citām tiešsaistes vārdnīcām, izmantojot DICT protokolu.</p>
+  </description>
+  <description lang="ml">
+    <p>പദങ്ങളുടെ നിർവചനങ്ങൾ ഓൺലൈൻ ആയി കണ്ടെത്തുന്ന ഒരു ലളിതമായ നിഘണ്ടു പ്രയോഗമാണ് ഗ്നോം നിഘണ്ടു. സ്വതവേ ഇത് ഇംഗ്ലീഷ് നിർവചനങ്ങളാണ് കാണിക്കുന്നതെങ്കിലും, നിങ്ങളുടെ ആവശ്യാനുസരണം നിങ്ങൾക്ക് സ്പാനിഷ് നിഘണ്ടുവിലേക്ക് മാറുകയോ DICT പ്രോട്ടോകോൾ ഉപയോഗിച്ച് മറ്റേതെങ്കിലും ഓൺലൈന് നിഘണ്ടു ചേർക്കുകയോ ചെയ്യാം.</p>
+  </description>
+  <description lang="mr">
+    <p>GNOME शब्दकोश एक सोपे शब्दकोश ॲप्लिकेशन आहे जे ऑनलाइन शब्दांचे वर्णन पाहते. जरी पूर्वनिर्धारितपणे ते इंग्रजीचे वर्णन पाहत असतील तरी, तुम्ही स्पॅनिश किंवा DICT प्रोटोकॉलचा वापर करून इतर ऑनलाइन शब्दकोश समाविष्ट करू शकता.</p>
+  </description>
+  <description lang="ms">
+    <p>Kamus GNOME merupakan sebuah aplikasi kamus ringkas yang mencari takrifan perkataan secara dalam talian. Walaupun secara lalai ia mencari takrifan bahasa Inggeris, anda juga boleh mengubah ke bahasa Sepanyol atau tambah lain-lain kamus dalam talian melalui protokol DICT untuk memenuhi keperluan anda.</p>
+  </description>
+  <description lang="nb">
+    <p>GNOME ordbok er et enkelt ordbokprogram som slår opp orddefinisjoner på nett. Selv om engelske definisjoner er standard, kan du enkelt tilpasse programmet til eget behov ved å bytte til spansk eller hente andre ordbøker på nett via DICT-protokollen.</p>
+  </description>
+  <description lang="nl">
+    <p>Gnome Woordenboek is een eenvoudige woordenboektoepassing die woorddefinities online opzoekt. Hoewel het standaard Engelstalige definities zoekt, kunt u eenvoudig omschakelen naar andere online woordenboeken door gebruik te maken van het DICT-protocol.</p>
+  </description>
+  <description lang="oc">
+    <p>Lo Diccionari GNOME es una simpla aplicacion de diccionari que permet de consultar de definicions de mots en linha. Quitament se per defaut, son las definicions anglesas que son recercadas, es fòrça aisit de causir una autra lenga o d'apondre d'autres diccionaris en linha que se confòrman al protocòl DICT per fin de respondre a vòstres pròpris besonhs.</p>
+  </description>
+  <description lang="or">
+    <p>GNOME ଅବିଧାନଟି ହେଉଛି ଏକ ସରଳ ଅବିଧାନ ପ୍ରୟୋଗ ଯାହାକି ଅନଲାଇନରେ ଶବ୍ଦଗୁଡ଼ିକର ସଂଜ୍ଞା ଦେଖିଥାଏ।ଯଦିଚ ଏହା ଇଂରାଜୀ ସଂଜ୍ଞାଗୁଡ଼ିକୁ ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଭାବରେ ଦର୍ଶାଇଥାଏ, ତଥାପି ଆପଣ ତାହାକୁ DICT ପ୍ରଟୋକଲ ବ୍ୟବହାର କରି ଆବଶ୍ୟକତା ଅନୁସାରେ ସ୍ପେନିସ୍‌ କିମ୍ବା ଅନ୍ୟାନ୍ୟ ଅନଲାଇନ ଅବିଧାନକୁ ପରିବର୍ତ୍ତନ କରିପାରିବେ।</p>
+  </description>
+  <description lang="pa">
+    <p>ਗਨੋਮ ਡਿਕਸ਼ਨਰੀ ਸਧਾਰਨ ਡਿਕਸ਼ਨਰੀ ਐਪਲੀਕੇਸ਼ਨ ਹੈ, ਜੋ ਕਿ ਸ਼ਬਦਾਂ ਦੀ ਪਰਿਭਾਸ਼ਾ ਆਨਲਾਈਨ ਲੱਭਦੀ ਹੈ। ਹਾਲਾਂਕਿ ਇਹ ਅੰਗਰੇਜ਼ੀ ਪਰਿਭਾਸ਼ਾ ਮੂਲ ਰੂਪ ਵਿੱਚ ਲੱਭਦੀ ਹੈ, ਪਰ ਤੁਸੀਂ ਸੌਖੀ ਤਰ੍ਹਾਂ ਸਪੇਨੀ ਲਈ ਬਦਲ ਸਕਦੇ ਹੋ ਜਾਂ ਆਪਣੀਆਂ ਲੋੜਾਂ ਨੂੰ ਪੂਰਾ ਕਰਦੀਆਂ ਹੋਰ ਆਨਲਾਈਨ ਡਿਕਸ਼ਨਰੀਆਂ ਨੂੰ DICT ਪ੍ਰੋਟੋਕਾਲ ਦੀ ਵਰਤੋਂ ਜੋੜ ਵੀ ਸਕਦੇ ਹੋ।</p>
+  </description>
+  <description lang="pl">
+    <p>Słownik GNOME w prosty sposób umożliwia wyszukiwanie definicji słów w Internecie. Program domyślnie wyszukuje angielskie definicje, ale z łatwością można zmienić język na hiszpański lub dodać inne słowniki internetowe za pomocą protokołu DICT, aby dopasować go do swoich potrzeb.</p>
+  </description>
+  <description lang="pt">
+    <p>O Dicionário GNOME é uma aplicação de dicionário simples que procura definições de palavras num dicionário online. Apesar de predefinido para procurar palavras em inglês, pode facilmente alterar para espanhol ou adicionar outro dicionário online utilizando o protocolo DICT, para que se adeque às suas necessidades.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>O dicionário do GNOME é uma aplicativo simples de dicionário que procura definições de palavras online. Apesar de procurar definições em inglês por padrão, você pode facilmente trocar para espanhol ou adicionar outros dicionários online usando o protocolo DICT para ajustar às suas necessidades.</p>
+  </description>
+  <description lang="ro">
+    <p>Dicționar GNOME este o aplicație dicționar simplă care caută definițiile cuvintelor pe internet. Deși caută implicit definiții în engleză, puteți să comutați ușor la spaniolă sau să adăugați alte dicționare de pe internet utilizând protocolul DICT pentru a vă oferi soluția necesară.</p>
+  </description>
+  <description lang="ru">
+    <p>Словарь GNOME — это простое приложение, которое ищет определения слов в сети. Хотя по умолчанию ищутся английские определения, вы легко можете переключиться на русский язык или добавить другие онлайн-словари, используя протокол DICT.</p>
+  </description>
+  <description lang="sk">
+    <p>Slovník prostredia GNOME je jednoduchá aplikácia na prácu so slovníkmi, ktorá vyhľadá definície slov prostredníctvom internetu. I keď predvoleným jazykom vyhľadávaných definícií je angličtina, môžete jednoducho podľa vašich potrieb prepnúť na španielčinu, alebo pridať iné internetové slovníky použitím protokolu DICT.</p>
+  </description>
+  <description lang="sl">
+    <p>Slovar GNOME je enostaven program, ki poišče definicijo navedenih besed v spletnih virih. Čeprav so privzeto določene angleške definicije, so podprti tudi drugi jeziki, ki uporabljajo protokoli DICT.</p>
+  </description>
+  <description lang="sr">
+    <p>Гномов речник је једноставан програмски речник који тражи одреднице речи на мрежи. Иако претражује енглеске одреднице по основи, можете лако да се пребаците на српски језик или да додате друге речнике на мрежи користећи „DICT“ протокол како бисте задовољили ваше потребе.</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Gnomov rečnik je jednostavan programski rečnik koji traži odrednice reči na mreži. Iako pretražuje engleske odrednice po osnovi, možete lako da se prebacite na srpski jezik ili da dodate druge rečnike na mreži koristeći „DICT“ protokol kako biste zadovoljili vaše potrebe.</p>
+  </description>
+  <description lang="sv">
+    <p>GNOME Ordbok är ett enkelt ordboksprogram som slår upp definitioner av ord på nätet. Även om den slår upp engelska definitioner som standard, kan du enkelt byta till spanska eller lägga till andra nätordböcker för att passa dina behov genom att använda DICT-protokollet.</p>
+  </description>
+  <description lang="ta">
+    <p>GNOME Dictionary என்பது இணையத்தில் சொற்களின் பொருள் தேட உதவும் எளிய அகராதி பயன்பாடாகும். முன்னிருப்பாக இது ஆங்கில வரையறைகளையே தேடிக் காண்பிக்கும் என்றாலும், எளிதாக நீங்கள் இசுபானியத்திற்கு மாறலாம் அல்லது DICT நெறிமுறையைப் பயன்படுத்தி உங்களுக்குத் தேவைப்படும் இணைய அகராதிகளைச் சேர்த்துக்கொள்ளலாம்.</p>
+  </description>
+  <description lang="te">
+    <p>గ్నోమ్ నిఘంటువు అనునది సాధారణ నిఘంటు అనువర్తనము అది పద నిర్వచనాల కొరకు ఆన్‌లైన్ నందు వెతుకును. అప్రమేయంగా అది ఆంగ్ల నిర్వచనాలను వెతుకునప్పటికీ, మీరు సులువుగా స్పానిష్‌కు లేదా ఇతర ఆన్‌లైన్ నిఘంటువులను DICT ప్రొటోకాల్‌తో జతచేయవచ్చు.</p>
+  </description>
+  <description lang="tg">
+    <p>Луғати GNOME - ин барномаи оддиест, ки таърифҳои калимаҳоро дар онлайн ҷустуҷӯ мекунад. Ин барнома ба сурати пешфарз таърифҳои калимаҳои англисиро ҷустуҷӯ мекунад, вале шумо метавонед забони англисиро ба забони испанӣ ба осонӣ иваз кунед ё луғати онлайни наверо тавассути протоколи DICT илова кунед.</p>
+  </description>
+  <description lang="tr">
+    <p>GNOME Sözlük, sözcüklerin anlamlarını çevrim içi arayan basit sözlük uygulamasıdır. Öntanımlı olarak İngilizce anlamları aramasına rağmen kolayca İspanyolcaya geçebilir ya da gereksiniminize göre DICT iletişim kuralını kullanan diğer çevrim içi sözlükleri ekleyebilirsiniz.</p>
+  </description>
+  <description lang="uk">
+    <p>Словник — проста програма, яка дозволяє шукати значення слів через мережу. Хоча типово вона шукає англійські значення, ви можете перемкнутись на іспанську або додати інші мережеві словники, які використовують протокол DICT.</p>
+  </description>
+  <description lang="vi">
+    <p>Từ điển GNOME là một ứng dụng từ điển đơn giản dùng để tìm kiếm các định nghĩa về các từ trực tuyến. Cho dù là nó tìm các định nghĩa bằng tiếng Anh theo mặc định, thì bạn vẫn có thể chuyển sang từ điển trực tuyến bằng tiếng Tây Ban Nha các ngôn ngữ khác, mà nó phù hợp mong muốn của bạn nhưng phải dùng giao thức DICT.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>GNOME 词典是一款简单的在线查询单词解释的词典应用程序。虽然默认是英语释义，但您可以根据需要，使用 DICT 协议轻松切换到西班牙语或添加其他语种的在线词典。</p>
+  </description>
+  <description lang="zh_HK">
+    <p>GNOME 字典是一個簡單的字典應用程式，可以網上查詢字的定義。雖然它預設查詢英文定義，你可以簡單的切換為西班牙文或加入其他使用 DICT 協定的網上字典以符合你的需求。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>GNOME 字典是一個簡單的字典應用程式，可以線上查詢字的定義。雖然它預設查詢英文定義，您可以簡單的切換為西班牙文或加入其他使用 DICT 協定的線上字典以符合您的需求。</p>
+  </description>
+  <url type="homepage">https://wiki.gnome.org/Apps/Dictionary</url>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/gnome-dictionary/issues</url>
+  <url type="donation">http://www.gnome.org/friends/</url>
+  <url type="help">https://help.gnome.org/users/gnome-dictionary/stable/</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://gitlab.gnome.org/GNOME/gnome-dictionary/-/raw/master/data/gnome-dictionary-main.png</image>
+      <image>https://gitlab.gnome.org/GNOME/gnome-dictionary/-/raw/master/data/gnome-dictionary-dictionaries.png</image>
+    </screenshot>
+  </screenshots>
+  <update_contact>juanrgar@gmail.com</update_contact>
+  <kudos>
+    <kudo>AppMenu</kudo>
+    <kudo>ModernToolkit</kudo>
+  </kudos>
+  <launchable type="desktop-id">org.gnome.Dictionary.desktop</launchable>
+  <project_group>GNOME</project_group>
+  <developer_name>The GNOME Project</developer_name>
+  <developer_name lang="uk">Проєкт GNOME</developer_name>
+  <developer_name lang="tr">GNOME Projesi</developer_name>
+  <developer_name lang="sv">GNOME-projektet</developer_name>
+  <developer_name lang="sr">Гномов пројекат</developer_name>
+  <developer_name lang="sl">Projekt GNOME</developer_name>
+  <developer_name lang="ro">Proiectul GNOME</developer_name>
+  <developer_name lang="pt_BR">O Projeto GNOME</developer_name>
+  <developer_name lang="pt">O Projeto GNOME</developer_name>
+  <developer_name lang="pl">Projekt GNOME</developer_name>
+  <developer_name lang="pa">ਗਨੋਮ ਪਰੋਜੈਕਟ</developer_name>
+  <developer_name lang="lt">GNOME projektas</developer_name>
+  <developer_name lang="kk">GNOME жобасы</developer_name>
+  <developer_name lang="it">Il progetto GNOME</developer_name>
+  <developer_name lang="id">Projek GNOME</developer_name>
+  <developer_name lang="hu">A GNOME projekt</developer_name>
+  <developer_name lang="he">מיזם GNOME</developer_name>
+  <developer_name lang="gl">O Proxecto GNOME</developer_name>
+  <developer_name lang="fur">Il progjet GNOME</developer_name>
+  <developer_name lang="fr">Le projet GNOME</developer_name>
+  <developer_name lang="fi">Gnome-projekti</developer_name>
+  <developer_name lang="fa">پروژهٔ گنوم</developer_name>
+  <developer_name lang="eu">GNOME proiektua</developer_name>
+  <developer_name lang="es">El Proyecto GNOME</developer_name>
+  <developer_name lang="en_GB">The GNOME Project</developer_name>
+  <developer_name lang="el">Το έργο GNOME</developer_name>
+  <developer_name lang="de">Das GNOME-Projekt</developer_name>
+  <developer_name lang="da">GNOME-projektet</developer_name>
+  <developer_name lang="cs">Projekt GNOME</developer_name>
+  <developer_name lang="ca">El projecte GNOME</developer_name>
+  <translation type="gettext">gnome-dictionary</translation>
+  <releases>
+    <release date="2021-03-20" version="40.0">
+      <description>
+        <p>A new stable release of the Dictionary for GNOME. Mostly bug fixes
+        and small user interface improvements.</p>
+      </description>
+    </release>
+    <release date="2017-09-12" version="3.26.0">
+      <description>
+        <p>A new stable release of the venerable Dictionary for GNOME. This
+        time it's mostly build fixes to ensure a reliable experience for the
+        fine folks building applications for users; we also have documentation
+        fixes, and better localisation in many languages.</p>
+      </description>
+    </release>
+  </releases>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="violence-desecration">none</content_attribute>
+    <content_attribute id="violence-slavery">none</content_attribute>
+    <content_attribute id="violence-worship">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="sex-homosexuality">none</content_attribute>
+    <content_attribute id="sex-prostitution">none</content_attribute>
+    <content_attribute id="sex-adultery">none</content_attribute>
+    <content_attribute id="sex-appearance">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+</component>

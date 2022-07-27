@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>gnome-firmware</pkgname>
+  <launchable type="desktop-id">org.gnome.Firmware.desktop</launchable>
+  <icon type="cached" height="64" width="64">org.gnome.Firmware.png</icon>
+  <icon height="128" width="128" type="cached">org.gnome.Firmware.png</icon>
+  <id>org.gnome.Firmware.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <!-- TRANSLATORS: the application name -->
+  <name>Firmware</name>
+  <name lang="uk">Мікропрограма</name>
+  <name lang="sv">Firmware</name>
+  <name lang="sl">Strojna programska oprema</name>
+  <name lang="pt_BR">Firmware</name>
+  <name lang="pl">Oprogramowanie sprzętowe</name>
+  <name lang="pa">ਫਿਰਮਵੇਅਰ</name>
+  <name lang="nl">Firmware</name>
+  <name lang="ka">მიკროკოდი</name>
+  <name lang="id">Perangkat Tegar</name>
+  <name lang="fr_FR">Micrologiciel</name>
+  <name lang="fi">Laiteohjelmisto</name>
+  <name lang="eu">Firmwarea</name>
+  <name lang="es">Firmware</name>
+  <name lang="de">Firmware</name>
+  <name lang="da">Firmware</name>
+  <name lang="ca">Microprogramari</name>
+  <!-- TRANSLATORS: one-line description for the app -->
+  <summary>Install firmware on devices</summary>
+  <summary lang="uk">Встановлення мікропрограм на пристрої</summary>
+  <summary lang="tr">Ürün yazılımını aygıtlara kur</summary>
+  <summary lang="sv">Installera fast programvara på enheter</summary>
+  <summary lang="sl">Namestitev strojne programske opreme na naprave</summary>
+  <summary lang="pt_BR">Instale firmware em dispositivos</summary>
+  <summary lang="pl">Instalacja oprogramowania sprzętowego na urządzeniach</summary>
+  <summary lang="pa">ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਫਿਰਮਵੇਅਰ ਇੰਸਟਾਲ ਕਰੋ</summary>
+  <summary lang="nl">Firmware op apparaten installeren</summary>
+  <summary lang="ka">მოწყობილობებზე მიკროკოდის დაყენება</summary>
+  <summary lang="it">Installa firmware su dispositivi</summary>
+  <summary lang="id">Pasang perangkat tegar pada perangkat</summary>
+  <summary lang="hr">Instalirajte firmvere na uređajima</summary>
+  <summary lang="fr_FR">Installer un micrologiciel sur des appareils</summary>
+  <summary lang="fi">Asenna firmware-laiteohjelmistoja laitteille</summary>
+  <summary lang="eu">Instalatu firmwarea gailuetan</summary>
+  <summary lang="cs">Instalace firmware na zařízení</summary>
+  <summary lang="de">Firmware auf Geräten installieren</summary>
+  <summary lang="da">Installér firmware på enheder</summary>
+  <summary lang="ca">Instal·la microprogramari als dispositius</summary>
+  <description>
+    <p>
+      Update, reinstall and downgrade firmware on devices supported by fwupd.
+    </p>
+  </description>
+  <description lang="ca">
+    <p>Actualitza, reinstal·la i desactualitza el microprogramari de dispositius compatibles amb fwupd.</p>
+  </description>
+  <description lang="da">
+    <p>Opdatér, geninstallér og nedgradér firmware på enheder, som understøttes af fwupd.</p>
+  </description>
+  <description lang="de">
+    <p>Firmware auf von »fwupd« unterstützten Geräten aktualisieren, neu installieren oder herabstufen.</p>
+  </description>
+  <description lang="eu">
+    <p>Eguneratu, berrinstalatu eta bertsio zaharragora itzuli firmwarea, fwupd aplikazioak onartzen dituen gailuetan.</p>
+  </description>
+  <description lang="fi">
+    <p>Päivitä, asenna uudelleen tai asenna aiempia versioita laiteohjelmistoista fwupd:n tukemille laitteille.</p>
+  </description>
+  <description lang="fr_FR">
+    <p>Mettre à jour, réinstaller et mettre à niveau un micrologiciel sur les appareils pris en charge par fwupd.</p>
+  </description>
+  <description lang="id">
+    <p>Mutakhirkan, pasang ulang, dan turunkan perangkat tegar pada perangkat yang didukung oleh fwupd.</p>
+  </description>
+  <description lang="ka">
+    <p>Fwupd-ის მიერ მხარდაჭერილ მოწყობილობებზე მიკროკოდის განახლება, გადაყენება და და ვერსიის დაწევა.</p>
+  </description>
+  <description lang="nl">
+    <p>Firmware bijwerken, herinstalleren of downgraden op door fwupd ondersteunde toestellen.</p>
+  </description>
+  <description lang="pa">
+    <p>ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਫਿਰਮਵੇਅਰ ਨੂੰ ਅੱਪਡੇਟ, ਮੁੜ-ਇੰਸਟਾਲ ਅਤੇ ਡਾਊਨਗਰੇਡ ਕਰਨਾ fwupd ਰਾਹੀਂ ਸਹਾਇਕ ਹੈ।</p>
+  </description>
+  <description lang="pl">
+    <p>Aktualizacja, ponowna instalacja i instalacja poprzedniej wersji oprogramowania sprzętowego na urządzeniach obsługiwanych przez usługę fwupd.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Atualize, reinstale ou desatualize o firmware de dispositivos com suporte pelo fwupd.</p>
+  </description>
+  <description lang="sl">
+    <p>Posodobljanje, ponovna namestitev in posodobitev strojne programske opremo na napravah, s podporo fwupd.</p>
+  </description>
+  <description lang="sv">
+    <p>Uppdatera, installera om och nedgradera fast programvara på enheter som stöds av fwupd.</p>
+  </description>
+  <description lang="uk">
+    <p>Оновлення, повторне встановлення та встановлення старих версій на пристрої, підтримку яких передбачено у fwupd.</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://gitlab.gnome.org/hughsie/gnome-firmware-updater/raw/master/data/appdata/ss-devices.png</image>
+      <caption>Devices panel</caption>
+      <caption lang="uk">Панель «Пристрої»</caption>
+      <caption lang="sv">Enhetspanel</caption>
+      <caption lang="pt_BR">Painel de dispositivos</caption>
+      <caption lang="pl">Panel urządzeń</caption>
+      <caption lang="pa">ਡਿਵਾਈਸ ਪੈਨਲ</caption>
+      <caption lang="nl">Toestellen-paneel</caption>
+      <caption lang="ka">მოწყობილობების პანელი</caption>
+      <caption lang="id">Panel perangkat</caption>
+      <caption lang="fr_FR">Panneau des appareils</caption>
+      <caption lang="fi">Laitteet-paneeli</caption>
+      <caption lang="eu">Gailuen panela</caption>
+      <caption lang="de">Geräte</caption>
+      <caption lang="da">Panelet enheder</caption>
+      <caption lang="ca">Tauler de dispositius</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.gnome.org/hughsie/gnome-firmware-updater/raw/master/data/appdata/ss-releases.png</image>
+      <caption>Releases panel</caption>
+      <caption lang="uk">Панель «Випуски»</caption>
+      <caption lang="sv">Utgåvepanel</caption>
+      <caption lang="pt_BR">Painel de versões</caption>
+      <caption lang="pl">Panel wydań</caption>
+      <caption lang="pa">ਰੀਲਿਜ਼ ਪੈਨਲ</caption>
+      <caption lang="nl">Vrijgaven-paneel</caption>
+      <caption lang="ka">რელიზების პანელი</caption>
+      <caption lang="id">Panel rilis</caption>
+      <caption lang="fr_FR">Panneau des versions</caption>
+      <caption lang="fi">Julkaisut-paneeli</caption>
+      <caption lang="eu">Argitalpenen panela</caption>
+      <caption lang="de">Veröffentlichungen</caption>
+      <caption lang="da">Panelet udgivelser</caption>
+      <caption lang="ca">Tauler de versions</caption>
+    </screenshot>
+  </screenshots>
+  <project_group>GNOME</project_group>
+  <developer_name>Richard Hughes</developer_name>
+  <developer_name lang="uk">Richard Hughes</developer_name>
+  <developer_name lang="sv">Richard Hughes</developer_name>
+  <developer_name lang="sl">Richard Hughes</developer_name>
+  <developer_name lang="pt_BR">Richard Hughes</developer_name>
+  <developer_name lang="pl">Richard Hughes</developer_name>
+  <developer_name lang="pa">ਰਿਚਰਡ ਹਿਗ੍ਹਸ</developer_name>
+  <developer_name lang="nl">Richard Hughes</developer_name>
+  <developer_name lang="ka">Richard Hughes</developer_name>
+  <developer_name lang="id">Richard Hughes</developer_name>
+  <developer_name lang="fr_FR">Richard Hughes</developer_name>
+  <developer_name lang="fi">Richard Hughes</developer_name>
+  <developer_name lang="eu">Richard Hughes</developer_name>
+  <developer_name lang="de">Richard Hughes</developer_name>
+  <developer_name lang="da">Richard Hughes</developer_name>
+  <developer_name lang="ca">Richard Hughes</developer_name>
+  <update_contact>richard_at_hughsie.com</update_contact>
+  <translation type="gettext">gnome-firmware</translation>
+  <releases>
+    <release date="2022-05-11" version="42.2">
+      <description>
+        <p>Fixes the following issues:</p>
+        <ul>
+          <li>Do not show the estimated time to completion</li>
+          <li>Provide generic device fallbacks</li>
+          <li>Show the about dialog in the menu</li>
+          <li>Show translated device problems</li>
+        </ul>
+        <p>This release also adds new translations.</p>
+      </description>
+    </release>
+    <release version="42.1" date="2022-04-12">
+      <description>
+        <p>Fixes the following issues:</p>
+        <ul>
+          <li>Do not create duplicate request events</li>
+          <li>Mark the application as adaptive for mobile</li>
+          <li>Do not show crazy remaining time values</li>
+          <li>Show how GUIDs are constructed in the UI</li>
+          <li>Show the 'No Releases Available' in more cases</li>
+          <li>Update the progressbar text for every percentage changed event</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2022-03-31" version="42.0">
+      <description>
+        <p>This is the first release for GNOME 42.</p>
+        <ul>
+          <li>Port to GTK4</li>
+          <li>Add the device branch to the device page</li>
+          <li>Allow installing firmware with the AFFECTS_FDE flag</li>
+        </ul>
+      </description>
+    </release>
+    <release version="42~beta" date="2022-02-17">
+      <description>
+        <p>Fixes the following issues</p>
+        <ul>
+          <li>Correctly print release flags</li>
+          <li>Enable releases leaflet gestures to be more adaptable</li>
+          <li>Hide the back button when folded</li>
+        </ul>
+      </description>
+    </release>
+    <release version="41.0" date="2021-12-20" type="stable">
+      <description>
+        <p>This is the first release for GNOME 41.</p>
+        <ul>
+          <li>Add support for showing the update message</li>
+          <li>Add support for switching branch</li>
+          <li>Send the client features at startup</li>
+          <li>Show a FDE warning when required</li>
+          <li>Show composite devices clearly</li>
+          <li>Use libhandy to make UI responsive</li>
+          <li>Use the new API from fwupd to avoid blocking the main  thread</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-07-03" version="3.36.0">
+      <description>
+        <p>
+          This is the first stable release in the 3.36 series:
+        </p>
+        <ul>
+          <li>Dynamically show verify and releases buttons</li>
+          <li>Show device and progress when doing updates</li>
+          <li>Show the release issues if supplied in the metadata</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-09-13" version="3.34.0">
+      <description>
+        <p>
+          This is the first stable release:
+        </p>
+        <ul>
+          <li>Show all device metadata supported by fwupd</li>
+          <li>Add ability to install, downgrade and reinstall firmware</li>
+          <li>Add ability to unlock hardware such as TPMs</li>
+          <li>Add ability to automatically enable the LVFS and refresh the metadata</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <url type="homepage">https://gitlab.gnome.org/hughsie/gnome-firmware-updater</url>
+  <url type="bugtracker">https://gitlab.gnome.org/hughsie/gnome-firmware-updater/issues</url>
+  <url type="donation">http://www.gnome.org/friends/</url>
+  <update_contact>richard_at_hughsie.com</update_contact>
+  <content_rating type="oars-1.1">
+    <content_attribute id="social-info">moderate</content_attribute>
+  </content_rating>
+</component>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>pantheon.switchboard-with-plugs</pkgname>
+  <id>io.elementary.switchboard.wacom</id>
+  <extends>io.elementary.switchboard</extends>
+  <name>Wacom Settings</name>
+  <name lang="zh_TW">Wacom 設定</name>
+  <name lang="zh_CN">Wacom 数位板设置</name>
+  <name lang="uk">Налаштування Wacom</name>
+  <name lang="tr">Wacom Ayarları</name>
+  <name lang="sr">Подешавања Вакома</name>
+  <name lang="sk">Nastavenia Wacom</name>
+  <name lang="ru">Настройки Wacom</name>
+  <name lang="pt_BR">Configurações Wacom</name>
+  <name lang="pt">Definições do Wacom</name>
+  <name lang="pl">Ustawienia Wacom</name>
+  <name lang="nl">Wacom instellingen</name>
+  <name lang="nb">Wacom-innstillinger</name>
+  <name lang="mr">वॅकॉम सेटिंग्ज</name>
+  <name lang="lt">Wacom nustatymai</name>
+  <name lang="ja">ワコムの設定</name>
+  <name lang="it">Impostazioni Wacom</name>
+  <name lang="id">Pengaturan Wacom</name>
+  <name lang="hu">Wacom-beállítások</name>
+  <name lang="he">הגדרות לוח ציור</name>
+  <name lang="fr">Paramètres Wacom</name>
+  <name lang="fi">Wacom-asetukset</name>
+  <name lang="es">Configuración de Wacom</name>
+  <name lang="eo">Wacom-agordoj</name>
+  <name lang="en_GB">Wacom Settings</name>
+  <name lang="en_CA">Wacom Settings</name>
+  <name lang="en_AU">Wacom Settings</name>
+  <name lang="de">Wacom-Einstellungen</name>
+  <name lang="da">Wacom Indstillinger</name>
+  <name lang="cs">Nastavení pro Wacom</name>
+  <name lang="ca">Paràmetres de Wacom</name>
+  <summary>Configure Wacom tablets</summary>
+  <summary lang="zh_TW">調整 Wacom 繪圖板</summary>
+  <summary lang="zh_CN">配置 Wacom 数位板</summary>
+  <summary lang="uk">Налаштування планшетів Wacom</summary>
+  <summary lang="tr">Wacom tabletlerini yapılandırın</summary>
+  <summary lang="sr">Подесите Ваком таблицу</summary>
+  <summary lang="sk">Nastavujte tablety Wacom</summary>
+  <summary lang="ru">Настройка планшетов Wacom</summary>
+  <summary lang="pt_BR">Configurar tablets Wacom</summary>
+  <summary lang="pt">Configurar tablets Wacom</summary>
+  <summary lang="pl">Konfiguruj tablety Wacom</summary>
+  <summary lang="nl">Configureer uw Wacom tablets</summary>
+  <summary lang="nb">Sett opp Wacom-tegneplater</summary>
+  <summary lang="mr">वॅकॉम टॅब्लेट कॉन्फिगर करा</summary>
+  <summary lang="lt">Konfigūruoti Wacom planšetes</summary>
+  <summary lang="ja">ワコム社製のタブレットを設定します</summary>
+  <summary lang="it">Configura tavolette Wacom</summary>
+  <summary lang="id">Konfigurasi tablet Wacom</summary>
+  <summary lang="hu">Wacom tabletekkel kapcsolatos beállítások</summary>
+  <summary lang="he">הגדרת לוחות ציור</summary>
+  <summary lang="fr">Configurez des tablettes Wacom</summary>
+  <summary lang="fi">Määritä Wacom-piirtopöydät</summary>
+  <summary lang="es">Configure tabletas Wacom</summary>
+  <summary lang="eo">Agordi Wacom-agordojn</summary>
+  <summary lang="en_GB">Configure Wacom tablets</summary>
+  <summary lang="en_CA">Configure Wacom tablets</summary>
+  <summary lang="en_AU">Configure Wacom tablets</summary>
+  <summary lang="de">Wacom-Grafiktabletts einrichten</summary>
+  <summary lang="da">Konfigurer Wacom Tabletter</summary>
+  <summary lang="cs">Nastavit tablety Wacom</summary>
+  <summary lang="ca">Configureu tauletes de Wacom</summary>
+  <icon type="stock">input-tablet</icon>
+  <translation type="gettext">wacom</translation>
+  <releases>
+    <release urgency="medium" date="2022-07-03" version="1.0.1">
+      <description>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-07-27" urgency="medium" version="1.0.0">
+      <description>
+        <p>Initial Release!</p>
+      </description>
+    </release>
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/elementary/switchboard-plug-wacom/master/data/screenshot-general.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://elementary.io</url>
+  <url type="bugtracker">https://github.com/elementary/switchboard-plug-wacom/issues</url>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+</component>

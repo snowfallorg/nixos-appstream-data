@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>soundtracker</pkgname>
+  <launchable type="desktop-id">soundtracker.desktop</launchable>
+  <id type="desktop">soundtracker.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>SoundTracker</name>
+  <name lang="ru">SoundTracker</name>
+  <summary>Play and edit XM and MOD musical modules</summary>
+  <summary lang="ru">Проигрыватель и редактор музыки в формате трэкерных модулей XM и MOD</summary>
+  <description>
+    <p>
+      SoundTracker is a program for playing and editing musical files in the so-called
+      tracker formats XM and MOD. It offers most of the functions of the famous
+      Amiga/PC(MSDOS) program FastTracker II and includes a number of new features.
+    </p>
+  </description>
+  <description lang="ru">
+    <p>
+      SoundTracker - программа для прослушивания и редактирования музыкальных файлов
+      в так называемых трэкерных форматах (поддерживаются MOD и XM). SoundTracker
+      поддерживает большинство возможностей популярной программы FastTracker II для
+      компьютеров Amiga и PC(MSDOS), и помимо них, обладает рядом новых функций.
+    </p>
+  </description>
+  <url type="homepage">http://soundtracker.org</url>
+</component>

@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <description>
+    <p>Mail is designed to let you manage your email quickly and effortlessly. Its interface is based on conversations, so you can read an entire discussion without having to click from message to message.</p>
+    <ul>
+      <li>Lightweight mail client with full IMAP support</li>
+      <li>Mail grouped into conversations, not a tree of threads</li>
+      <li>As-you-type searching</li>
+      <li>Multiple account support</li>
+      <li>Inline HTML composer that saves drafts to the server</li>
+      <li>Works with Gmail, Yahoo! Mail, and other popular IMAP servers</li>
+    </ul>
+  </description>
+  <description lang="ar">
+    <p>تم تصميم Mail لتتيح لك إدارة بريدك الإلكتروني بسرعة ودون عناء. تعتمد الواجهة على المحادثات ، بحيث يمكنك قراءة مناقشة كاملة دون الحاجة إلى النقر من رسالة إلى رسالة.</p>
+    <ul>
+      <li>دعم الحسابات المتعددة</li>
+      <li>مؤلف HTML مضمّن يحفظ المسودات على الخادم</li>
+    </ul>
+  </description>
+  <description lang="bg">
+    <p>Програмата е предназначена за лесно управление на електронна поща. Писмата са групирани като разговори, така че можете да прочетете цяла беседа без да щракате на всяко съобщение.</p>
+    <ul>
+      <li>Поддръжка на няколко сметки</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>El Correu està dissenyat per permetre-us administrar el correu electrònic de manera ràpida i eficient. La interfície d'usuari està basada en converses, així podeu llegir converses completes sense haver d'anar clicant a cada missatge.</p>
+    <ul>
+      <li>Client de correu amb suport IMAP complet</li>
+      <li>Correu agrupat en converses, no en un arbre de fils</li>
+      <li>Cerca durant l'escriptura</li>
+      <li>Suport per a comptes diversos</li>
+      <li>Compositor incorporat d'HTML que desa els esborranys al servidor</li>
+      <li>Funciona amb Gmail, Yahoo! i altres servidors d'IMAP populars.</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>Pošta je navržena tak, aby vám pomohla spravovat vaše emaily rychle a bez námahy. Její prostředí je založené na konverzacích, můžete si tedy přečíst celou diskuzi bez toho, abyste překlikávali mezi jednotlivými zprávami.</p>
+    <ul>
+      <li>Jednoduchý e-mailový klient s plnou podporou IMAP</li>
+      <li>Zprávy seskupené do konverzací, ne do stromů a vláken</li>
+      <li>Okamžité vyhledávání</li>
+      <li>Podpora více účtů</li>
+      <li>Inline HTML editor, který ukládá rozepsané zprávy na server</li>
+      <li>Funguje s Gmail, Yahoo! Mail a dalšími oblíbenými IMAP servery</li>
+    </ul>
+  </description>
+  <description lang="da">
+    <p>Mail er designet til at lade dit håndtere din e-mail hurtigt og uden besvær. Dets brugerflade er baseret på samtaler, så du kan læse en hel diskussion uden at skulle klikke fra meddelelse til meddelelse.</p>
+    <ul>
+      <li>Letvægts mailklient med fuld IMAP-understøttelse</li>
+      <li>Post grupperet i samtaler, ikke et træ af tråde</li>
+      <li>Søgning efterhånden som du skriver</li>
+      <li>Understøttelse af flere konti</li>
+      <li>Inline HTML-skriver der gemmer kladder til serveren</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>Mail wurde entwickelt, damit Sie Ihre E-Mails schnell und einfach verwalten können. Seine Benutzeroberfläche stellt Nachrichten in der Konversationsansicht dar, sodass Sie eine ganze Diskussion lesen können, ohne von einer Nachricht zur nächsten wechseln zu müssen.</p>
+    <ul>
+      <li>Schlanke E-Mail-Anwendung mit kompletter IMAP-Unterstützung</li>
+      <li>E-Mails gruppiert in Konversationen, nicht in einer Reihe vieler einzelner Nachrichten</li>
+      <li>Suche während der Eingabe</li>
+      <li>Unterstützung mehrerer Konten</li>
+      <li>Inline-HTML-Editor, der Entwürfe auf dem Server speichert</li>
+      <li>Funktioniert mit Gmail, Yahoo! Mail, und anderen IMAP-Servern</li>
+    </ul>
+  </description>
+  <description lang="el">
+    <ul>
+      <li>Υποστήριξη πολλαπλών λογαριασμών</li>
+    </ul>
+  </description>
+  <description lang="en_GB">
+    <p>Mail is designed to let you manage your email quickly and effortlessly. Its interface is based on conversations, so you can read an entire discussion without having to click from message to message.</p>
+    <ul>
+      <li>Lightweight mail client with full IMAP support</li>
+      <li>Mail grouped into conversations, not a tree of threads</li>
+      <li>As-you-type searching</li>
+      <li>Multiple account support</li>
+      <li>Inline HTML composer that saves drafts to the server</li>
+      <li>Works with Gmail, Yahoo! Mail, and other popular IMAP servers</li>
+    </ul>
+  </description>
+  <description lang="eo">
+    <p>Retmesaĝo estas fasonita por ebligi mastrumadon rapida kaj senpena de retmesaĝoj. La interfaco bazita sur konversaciado ebligas legi tutan diskuton sen devi klaki de unu mesaĝo al alia.</p>
+    <ul>
+      <li>Malpeza retmesaĝa kliento, entute subtenanta IMAP-protokolon</li>
+      <li>Retmesaĝoj kiel konversacioj, kune ne dise</li>
+      <li>Dumtajpa serĉado</li>
+      <li>Plurkonta subteno</li>
+      <li>Enteksta HTML-redaktilo kiu savkopias malnetojn en servilo</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>Correo se ha diseñado para permitirle gestionar su buzón rápida y eficientemente. Su interfaz se organiza en conversaciones, de modo que puede seguir un debate entero sin tener que desplazarse de mensaje en mensaje.</p>
+    <ul>
+      <li>Cliente de correo ligero con compatibilidad completa con IMAP</li>
+      <li>Mensajes agrupados en conversaciones, no un árbol de hilos</li>
+      <li>Búsqueda en tiempo real</li>
+      <li>Permite gestionar varias cuentas</li>
+      <li>Editor HTML que guarda sus borradores en el servidor</li>
+      <li>Funciona con Gmail, Yahoo! Mail y otros servidores IMAP populares</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>Mail on suunniteltu helpottamaan sähköpostin hallintaa. Sen käyttöliittymä perustuu keskusteluihin, joten voit lukea koko keskustelun napsauttamatta eri viestien välillä.</p>
+    <ul>
+      <li>Kevyt sähköpostisovellus täydellä IMAP-tuella</li>
+      <li>Viestit ryhmiteltynä keskusteluiksi, ei ketjuiksi</li>
+      <li>Välitön hakutoiminto</li>
+      <li>Tuki useille tileille</li>
+      <li>HTML-viestinmuodostaja, joka tallentaa luonnokset palvelimelle</li>
+      <li>Toimii Gmailin, Yahoo! Mailin ja muiden suosittujen IMAP-palvelimien kanssa</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>Messagerie vous permet de gérer rapidement et efficacement vos e-mails. L'interface est configurée en mode conversation vous laissant ainsi la possibilité de suivre une discussion entière sans action particulière de votre part.</p>
+    <ul>
+      <li>Client de messagerie léger avec prise en charge complète du protocole IMAP</li>
+      <li>E-mails groupés en conversations, et non en une arborescence de fils de discussion</li>
+      <li>Recherche instantanée</li>
+      <li>Support de comptes multiples</li>
+      <li>Éditeur en-ligne HTML permettant l'enregistrement des brouillons directement sur le serveur</li>
+      <li>Fonctionne avec Gmail, Yahoo! Mail ainsi que d'autres serveurs IMAP populaires</li>
+    </ul>
+  </description>
+  <description lang="gl">
+    <p>Correo deseñouse para permitirlle xestionar a súa caixa de correos rápida e eficientemente. A súa interface organízase en conversacións, de modo que pode seguir un debate enteiro sen ter que desprazarse de mensaxe en mensaxe.</p>
+    <ul>
+      <li>Cliente de correo lixeiro con compatibilidade completa con IMAP</li>
+      <li>Mensaxes agrupadas en conversacións, non unha árbore de fíos</li>
+      <li>Procura en tempo real</li>
+      <li>Permite xestionar varias contas</li>
+      <li>Editor HTML que garda os seus borradores no servidor</li>
+    </ul>
+  </description>
+  <description lang="he">
+    <p>תכנית דוא״ל זאת מאפשרת לך לנהל את הדוא״ל שלך בצורה מהירה וקלה. המנשק שלה מבוסס דיונים, כלומר שניתן לקרוא את כל השרשור בבת אחת, מבלי לעבור על כל הודעה בנפרד.</p>
+    <ul>
+      <li>לקוח דוא״ל קליל עם תמיכה מלאה ב־IMAP</li>
+      <li>הודעות מאוגדות לתוך דיונים ולא כעץ של שרשורים</li>
+      <li>חיפוש עם הצעות</li>
+      <li>תמיכה בריבוי חשבונות</li>
+      <li>הודעות שטרם הושלמו נשמרות אוטומטית בשרת</li>
+      <li>עובד עם Gmail,‏ Yahoo! Mail ושרתי IMAP נפוצים נוספים</li>
+    </ul>
+  </description>
+  <description lang="hr">
+    <p>Pošta je dizajnirana kako bi vam omogućila brzo i lagano upravljanje e-poštom. Njeno sučelje je temeljeno na razgovorima, stoga možete čitati cjelokupnuu diskusiju bez klikanja s poruke na poruku.</p>
+    <ul>
+      <li>Jednostavan klijent pošte s potpunom IMAP podrškom</li>
+      <li>Pošta grupirana u razgovore, a ne u prikaz stabla</li>
+      <li>Kako-napišete pretragu</li>
+      <li>Podrška za više računa</li>
+      <li>Unutarnji HTML sastavitelj poruka koji sprema skice na poslužitelj</li>
+    </ul>
+  </description>
+  <description lang="hu">
+    <p>Az E-mail alkalmazás úgy lett kialakítva, hogy gyorsan és egyszerűen tudja a levelezéseit kezelni. A kezelőfelület párbeszédekre épül, úgyhogy kattintás nélkül végig tudja olvasni a teljes történetet.</p>
+    <ul>
+      <li>Pehelykönnyű e-mail-kliens teljes IMAP-támogatottsággal</li>
+      <li>E-mailek beszélgetésekké csoportosítva, nem szálakra van bontva</li>
+      <li>Írás közbeni keresés</li>
+      <li>Több fiók támogatása</li>
+    </ul>
+  </description>
+  <description lang="id">
+    <p>Mail dirancang memungkinkan Anda mengelola surel dengan cepat dan mudah. Antarmuka yang berdasarkan percakapan, agar Anda dapat membaca keseluruhan diskusi tanpa harus klik dari satu pesan ke pesan lainnya.</p>
+    <ul>
+      <li>Klien surel yang ringan dengan dukungan penuh pada IMAP</li>
+      <li>Mail dikelompokkan kedalam percakapan, bukan seperti pohon lembaran</li>
+      <li>Penelusuran saat Anda mengetik</li>
+      <li>Dukungan banyak akun</li>
+      <li>Penyusun HTML dalam baris yang menyimpan draft ke server</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>Posta è progettato per permetterti di gestire la posta elettronica in modo rapido e senza sforzi. La sua interfaccia è basata su una vista a conversazioni in modo da poter leggere un'intera discussione senza dover fare clic da un messaggio all'altro.</p>
+    <ul>
+      <li>Un client di posta elettronica leggero e con completo supporto IMAP</li>
+      <li>Mail raggruppate in conversazioni</li>
+      <li>Ricerca in tempo reale</li>
+      <li>Supporto per account multipli</li>
+      <li>Compositore HTML in linea che salva le bozze sul server</li>
+    </ul>
+  </description>
+  <description lang="ja">
+    <p>“メール”はメールを素早く、楽々と管理できるようにデザインされています。スレッドに基づいたインターフェースなので、メールのやりとりをメッセージからメッセージへとクリックせずに読むことができます。</p>
+    <ul>
+      <li>IMAP に完全対応する軽量メールクライアント</li>
+      <li>メールはスレッドの階層表示ではなく、会話ごとの分類で表示されます</li>
+      <li>自動検索候補</li>
+      <li>複数アカウントに対応</li>
+      <li>サーバーへ下書きを保存するインライン HTML コンポーザー</li>
+      <li>Gmail と Yahoo! メール、そしてそのほかのよく利用される IMAP サーバーで動作します</li>
+    </ul>
+  </description>
+  <description lang="ko">
+    <p>메일은 여러분의 이메일을 빠르고 쉽게 관리할 수 있도록 디자인되었습니다. 대화를 중심으로 디자인되어서, 여러분이 대화를 읽으실 때 메시지마다 클릭하지 않으셔도 됩니다.</p>
+    <ul>
+      <li>IMAP을 완벽히 지원하는 가벼운 이메일 프로그램</li>
+      <li>메일은 대화를 그룹화합니다, 트리구조 목록 형식이 아닙니다</li>
+      <li>찾는 대로 검색합니다</li>
+      <li>다중 계정 지원</li>
+      <li>보관함을 서버에 저장하는 내장형 HTML 구성</li>
+    </ul>
+  </description>
+  <description lang="lt">
+    <p>Paštas yra sukurtas tam, kad leistų jums greitai ir be pastangų tvarkyti savo el. paštą. Jo sąsaja yra pagrįsta pokalbių principu, taigi, galite skaityti visą diskusiją, be būtinybės spaudinėti per laiškus.</p>
+    <ul>
+      <li>Supaprastintas pašto klientas su pilnu IMAP palaikymu</li>
+      <li>Paštas yra grupuojamas į pokalbius, o ne gijų medį</li>
+      <li>Paieška renkant tekstą</li>
+      <li>Kelių paskyrų palaikymas</li>
+      <li>Įterpta HTML rašyklė, kuri įrašo juodraščius į serverį</li>
+    </ul>
+  </description>
+  <description lang="mr">
+    <p>मेल आपल्याला आपला ईमेल द्रुतगतीने आणि सहजतेने व्यवस्थापित करण्यास मदत करण्यासाठी डिझाइन केलेले आहे. त्याचे इंटरफेस संभाषणांवर आधारित आहे, जेणेकरुन आपण संदेशावरून संदेश क्लिक केल्याशिवाय संपूर्ण चर्चा वाचू शकता.</p>
+    <ul>
+      <li>पूर्ण IMAP समर्थनासह लाइटवेट मेल क्लायंट</li>
+      <li>संभाषणांमध्ये गटबद्ध मेल, एकत्र बांधलेले थ्रेडस नाहीत</li>
+      <li>जसे-आपण-टाईप कराल शोध</li>
+      <li>एकाधिक खाते समर्थन</li>
+      <li>इनलाइन HTML संपादक जो सर्व्हरवर मसुदे जतन करतो</li>
+    </ul>
+  </description>
+  <description lang="nb">
+    <p>Mail er laget for å la deg håndtere e-post raskt og enkelt. Grensesnittet er samtaleorientert, og lar deg lese hele emnetråder uten å måtte trykke deg fram og tilbake mellom enkeltmeldinger.</p>
+    <ul>
+      <li>Lettdreven e-postklient med fullstendig IMAP-støtte</li>
+      <li>E-post grupperes som samtaler, ikke som et tre av tråder</li>
+      <li>Sanntidssøk</li>
+      <li>Støtter flere kontoer</li>
+      <li>HTML-bakgrunnsskriver som lagrer utkast på tjener</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>Mail is ontworpen om uw e-mail snel en gemakkelijk te beheren. De indeling is gebaseerd op conversaties, zodat u een hele discussie kunt lezen, zonder telkens van bericht naar bericht te moeten klikken.</p>
+    <ul>
+      <li>Lichtgewicht e-mail programma met volledige ondersteuning voor IMAP</li>
+      <li>E-mail gegroepeerd in conversaties, niet in een boom van draden</li>
+      <li>Zoeken terwijl je typt</li>
+      <li>Ondersteuning voor meerdere accounts</li>
+      <li>HTML tekstverwerker waarbij concepten automatisch op de server worden opgeslagen</li>
+      <li>Werkt met Gmail, Yahoo! Mail, en andere populaire IMAP servers</li>
+    </ul>
+  </description>
+  <description lang="nn">
+    <p>Mail er laga for å la deg handsame e-post raskt og enkelt. Grensesnittet er samtaleorientert, og lèt deg lese heile emnetrådar utan å måtte trykke deg fram og tilbake mellom enkeltmeldingar.</p>
+    <ul>
+      <li>Lettdriven e-postklient med full IMAP-støtte</li>
+      <li>E-post vert gruppert som samtalar, ikkje som eit tre av trådar</li>
+      <li>Sanntidssøk</li>
+      <li>Støttar fleire kontoar</li>
+      <li>Inline HTML-assistent som lagrar utkasta hos tenaren</li>
+      <li>Fungerar med Gmail, Yahoo! Mail og andre populære IMAP-tenarar</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <p>Program Poczta został zaprojektowany, aby umożliwić szybkie i łatwe zarządzanie e-mailami. Jego interfejs oparty jest na konwersacjach, więc można przeczytać całą dyskusję bez konieczności przechodzenia z wiadomości do wiadomości.</p>
+    <ul>
+      <li>Lekki klient poczty z pełną obsługą IMAP</li>
+      <li>Poczta pogrupowana jest jako rozmowa, nie jako drzewo wątków</li>
+      <li>Wyszukiwanie w trakcie pisania</li>
+      <li>Obsługa wielu kont</li>
+      <li>Liniowy kompozytor HTML, który zapisuje wersje robocze na serwer</li>
+      <li>Współpracuje z Gmailem, Pocztą Yahoo! oraz innymi popularnymi serwerami IMAP</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>O Correio foi desenvolvido para o ajudar a gerir o seu e-mail de forma eficiente e sem esforço. A sua interface é baseada em conversação, para que possa ler uma discussão sem ter de clicar de mensagem em mensagem.</p>
+    <ul>
+      <li>Cliente de correio eletrónico com total suporte a IMAP</li>
+      <li>O Correio agrupa-se por conversas, não por um esquema de mensagens</li>
+      <li>Procura enquanto escreve</li>
+      <li>Suporte a várias contas</li>
+      <li>Compositor na linha de HTML que guarda os rascunhos no servidor</li>
+      <li>Funciona com Gmail, Yahoo! Mail e outros servidores IMAP populares</li>
+    </ul>
+  </description>
+  <description lang="pt_BR">
+    <p>O Correio é projetado para que você gerencie seus e-mails rapidamente e sem nenhum esforço. Sua interface é baseada em conversas, então você pode ler todas as respostas sem precisar clicar em cada mensagem.</p>
+    <ul>
+      <li>Gerenciador de e-mails leve com suporte total ao protocolo IMAP</li>
+      <li>E-mails agrupados em conversas, não em uma árvore de assuntos</li>
+      <li>Busca dinâmica</li>
+      <li>Suporte a contas múltiplas</li>
+      <li>Compositor HTML em linha que salva rascunhos no servidor</li>
+    </ul>
+  </description>
+  <description lang="ro">
+    <p>Mesagerie este proiectat pentru aţi administra mesajele uşor şi fără efort. Interfaţa sa este bazată pe conversaţii, deci poţi citi o intreagă discuţie fără să fii nevoit să apeşi din mesaj in mesaj.</p>
+    <ul>
+      <li>Lightweight client mesagerie cu suport IMAP în întregime</li>
+      <li>Mesaje grupate in conversaţii, nu in arbore</li>
+      <li>Căutare cum-tasezi</li>
+      <li>Suportă multiple conturi</li>
+      <li>Compozitor HTML in-linie care salvează schiţele pe server</li>
+    </ul>
+  </description>
+  <description lang="ru">
+    <p>Клиент «Почта» спроектирован для того, чтобы позволить вам удобно управлять своим почтовым ящиком без лишних усилий. Его интерфейс основан на диалогах, что позволяет читать полную цепочку сообщений без необходимости потстоянного перехода от сообщения к сообщению.</p>
+    <ul>
+      <li>Легковесный почтовый клиент с полной поддежкой протокола IMAP</li>
+      <li>Группировка писем по диалогам</li>
+      <li>Поиск на лету</li>
+      <li>Поддержка нескольких аккаунтов</li>
+      <li>Встроенный HTML-редактор, сохраняющий черновики на сервер</li>
+      <li>Работа с Gmail, Yahoo! Mail, и другими популярными серверами IMAP</li>
+    </ul>
+  </description>
+  <description lang="sk">
+    <p>Pošta je navrhnutá tak, aby vám pomohla spravovať vaše e-maily rýchlo a bez námahy. Jej prostredie je založené na konverzáciách, takže si môžete prečítať celú diskusiu bez toho, aby ste sa preklikávali medzi jednotlivými správami.</p>
+    <ul>
+      <li>Jednoduchý e-mailový klient s plnou podporou IMAP</li>
+      <li>Pošta zoskupená do konverzácií, nie do stromu vlákien</li>
+      <li>Bleskové vyhľadávanie</li>
+      <li>Podpora viacerých účtov</li>
+      <li>Integrovaný HTML editor, ktorý ukladá koncepty na server</li>
+      <li>Funguje s Gmail, Yahoo! Mail a s inými populárnymi IMAP servermi</li>
+    </ul>
+  </description>
+  <description lang="sl">
+    <p>Pošta je zasnovana za hitro in preprosto delo z elektronsko pošto. Vmesnik temelji na pogovorih in posledično omogoča preprosto branje pošte.</p>
+    <ul>
+      <li>Lahek odjemalec za elektronsko pošto s podporo za IMAP</li>
+      <li>Elektronska pošta je združena v pogovore in ne ločena drevesa</li>
+      <li>Iskanje med tipkanjem</li>
+      <li>Podpora za več računov</li>
+      <li>Podpora za HTML pošto s shranjevanjem osnutkov na strežniku</li>
+    </ul>
+  </description>
+  <description lang="sr">
+    <p>Пошта је осмишљена како би вам омогућила да управљате својом е-поштом брзо и без напора. Њено сучеље је засновано на разговорима, тако да можете прочитати целу расправу а да не морате кликати са поруке на поруку.</p>
+    <ul>
+      <li>Лаган програм за пошту са пуном ИМАП подршком</li>
+      <li>Поруке су груписане по разговорима, а не по стаблу теме</li>
+      <li>Претрага у реалном времену</li>
+      <li>Подршка за више налога</li>
+      <li>Уграђени ХТМЛ састављач који чува нацрте на серверу</li>
+    </ul>
+  </description>
+  <description lang="szl">
+    <p>Poczta je stworzōno, żeby szło wartko i prosto używać emaili. Interfejs je ôparty na dyskusyjach, żeby szło czytać cołko godka bez klikanio ôd wiadōmości do wiadōmości.</p>
+    <ul>
+      <li>Leki klijynt poczty ze połnym sparciym IMAP</li>
+      <li>Poczta pogrupowano we dyskusyje, a niy strōm tymatōw</li>
+      <li>Wyszukowanie przi pisaniu</li>
+      <li>Sparcie wielu kōnt</li>
+      <li>Kōmpozytōr HTML, co spamiyntuje cechōnki na serwerze</li>
+    </ul>
+  </description>
+  <description lang="tr">
+    <p>Posta uygulaması, e-postalarınız hızlı ve efor harcamadan yönetebilmeniz için dizayn edildi. Arayüzü konuşmalar baz alınarak hazırlandı bu sayede mesajdan mesaja tıklamak zorunda kalmadan tüm konuşmayı okuyabilirsiniz.</p>
+    <ul>
+      <li>Tam IMAP destekli hafif bir posta istemcisi</li>
+      <li>Posta uygulaması, bir konu ağacı değil, sohbetler halinde gruplandırır</li>
+      <li>Yazarken arama</li>
+      <li>Çoklu hesap desteği</li>
+      <li>Taslakları sunucuya kaydeden satır içi HTML oluşturucu</li>
+      <li>Gmail, Yahoo! Mail ve diğer popüler IMAP sunucuları ile çalışır</li>
+    </ul>
+  </description>
+  <description lang="ug">
+    <p>بۇ تېرمىنال سىزنى ئېلخەتلىرىڭىزنى تېز ۋە ئۈنۈملۈك باشقۇرۇش ئىمكانىيىتىگە ئىگە قىلىش ئۈچۈن لايىھەلەنگەن. كۆرۈنمە يۈزى دىئالوگنى ئاساس قىلغان،شۇڭلاشقا سىز ئېلخەتمۇ-ئېلخەت چەكمىسىڭىزمۇ پۈتۈن دىئالوگنى ئوقۇپ چىقالايسىز.</p>
+    <ul>
+      <li>IMAP  نى تولۇق قوللايدىغان يىنىك تېپلىق ئېلخەت تېرمىنالى</li>
+      <li>ئېلخەتنى دەرەخ شەكلىدە ئەمەس بەلكى دىئالوگ شەكلىدە كۆرسىتىدۇ</li>
+      <li>خالىغانچە ئىزدەش</li>
+      <li>كۆپ ھىساۋاتنى قوللايدۇ</li>
+      <li>ئورىگىنالنى مۇلازىمېتىرغا ساقلايدىغان قۇرئىچى HTML تەھرىرلىگۈچىسى</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>Пошта призначена для швидкого та легкого керування електронною поштою. Її інтерфейс засновано на розмовах, тому ви можете прочитати цілу дискусію, не натискаючи повідомлення за повідомленням.</p>
+    <ul>
+      <li>Легкий поштовий клієнт, що повністю підтримує IMAP</li>
+      <li>Пошту згруповано в розмови, а не дерево ланцюжків</li>
+      <li>Пошук під час введення</li>
+      <li>Підтримка кількох облікових записів</li>
+      <li>Вбудований редактор HTML, що зберігає чернетки на сервері</li>
+      <li>Працює з Gmail, Yahoo! Mail та іншими популярними серверами IMAP</li>
+    </ul>
+  </description>
+  <description lang="zh_CN">
+    <p>使用 邮件 快速有效地管理您的电子邮件。对话形式的用户界面能使您不用来回点击切换就能阅读全部相关话题。</p>
+    <ul>
+      <li>完全支持 IMAP 的轻量级邮件客户端</li>
+      <li>将邮件归纳为对话形式，而非树状图</li>
+      <li>任意搜索</li>
+      <li>多账户支持</li>
+      <li>能保存草稿至服务器的联机 HTML 撰写器</li>
+      <li>支持 Gmail、Yahoo! Mail 和其他主流 IMAP 服务</li>
+    </ul>
+  </description>
+  <description lang="zh_TW">
+    <p>《郵件》的設計是要讓您以迅雷不及掩耳之速且不費吹灰之力地管理郵件。其介面依據對話分門別類，所以您可以一次閱讀整串前後討論內容而不必一封一封訊息點按。</p>
+    <ul>
+      <li>輕量級郵件客戶端具備完整 IMAP 支援</li>
+      <li>郵件會依照對話分門別類，而不是樹狀條目</li>
+      <li>隨打即搜</li>
+      <li>多帳號支援</li>
+      <li>行內 HTML 編寫器，可將草稿存至伺服器</li>
+    </ul>
+  </description>
+  <pkgname>pantheon.elementary-mail</pkgname>
+  <launchable type="desktop-id">io.elementary.mail.desktop</launchable>
+  <icon height="64" type="cached" width="64">io.elementary.mail.png</icon>
+  <icon width="128" type="cached" height="128">io.elementary.mail.png</icon>
+  <id>io.elementary.mail</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_group>elementary</project_group>
+  <project_license>GPL-3.0</project_license>
+  <name>Mail</name>
+  <name lang="zh_TW">郵件</name>
+  <name lang="zh_CN">邮件</name>
+  <name lang="uk">Пошта</name>
+  <name lang="ug">ئېلخەت</name>
+  <name lang="tr">Posta</name>
+  <name lang="szl">Poczta</name>
+  <name lang="sv">E-post</name>
+  <name lang="sr">Пошта</name>
+  <name lang="sq">Posta</name>
+  <name lang="sl">Elektronska pošta</name>
+  <name lang="sk">Pošta</name>
+  <name lang="ru">Почта</name>
+  <name lang="ro">Poştă electronică</name>
+  <name lang="pt_BR">Correio</name>
+  <name lang="pt">Correio</name>
+  <name lang="pl">Poczta</name>
+  <name lang="pa">ਡਾਕ</name>
+  <name lang="nn">E-post</name>
+  <name lang="nl">Mail</name>
+  <name lang="nb">E-post</name>
+  <name lang="ms">Mel</name>
+  <name lang="mr">मेल</name>
+  <name lang="lt">Paštas</name>
+  <name lang="ku">E-Peyam</name>
+  <name lang="ko">메일</name>
+  <name lang="ja">メール</name>
+  <name lang="it">Posta</name>
+  <name lang="id">Mail</name>
+  <name lang="hu">E-mail</name>
+  <name lang="hr">Pošta</name>
+  <name lang="he">דוא״ל</name>
+  <name lang="gl">Correo</name>
+  <name lang="fr">Messagerie</name>
+  <name lang="fi">Sähköposti</name>
+  <name lang="et">E-post</name>
+  <name lang="es">Correo</name>
+  <name lang="eo">Retmesaĝo</name>
+  <name lang="en_GB">Mail</name>
+  <name lang="de">Mail</name>
+  <name lang="da">Mail</name>
+  <name lang="cs">Mail</name>
+  <name lang="ca">Correu</name>
+  <name lang="bg">Поща</name>
+  <name lang="ar">البريد</name>
+  <summary>Send and receive mail</summary>
+  <summary lang="zh_CN">发送和接收邮件</summary>
+  <summary lang="uk">Надсилайте та отримуйте пошту</summary>
+  <summary lang="tr">Posta gönder ve al</summary>
+  <summary lang="szl">Wysyłanie i ôdbiyranie maili</summary>
+  <summary lang="sr">Шаљите и примајте пошту</summary>
+  <summary lang="sl">Pošljite in prejmite pošto</summary>
+  <summary lang="sk">Odosielajte a prijímajte poštu</summary>
+  <summary lang="ru">Отправляйте и получайте почту</summary>
+  <summary lang="pt_BR">Envie e receba emails</summary>
+  <summary lang="pt">Enviar e receber correio</summary>
+  <summary lang="pl">Wysyłaj i odbieraj e-maile</summary>
+  <summary lang="nn">Send og motta e-post</summary>
+  <summary lang="nl">Verstuur en ontvang e-mail</summary>
+  <summary lang="nb">Send og motta e-post</summary>
+  <summary lang="mr">मेल पाठवा आणि प्राप्त करा</summary>
+  <summary lang="lt">Siųsti ir gauti paštą</summary>
+  <summary lang="ko">메일을 주고 받습니다</summary>
+  <summary lang="ja">メールを送信し受信します</summary>
+  <summary lang="it">Invia e ricevi email</summary>
+  <summary lang="id">Kirim dan terima surel</summary>
+  <summary lang="hu">Levelek küldése és fogadása</summary>
+  <summary lang="hr">Šaljite i primajte e-poštu</summary>
+  <summary lang="he">שליחה וקבלה של דוא״ל</summary>
+  <summary lang="gl">Enviar e recibir correos</summary>
+  <summary lang="fr">Envoyer et recevoir des e-mails</summary>
+  <summary lang="fi">Lähetä ja vastaanota sähköpostia</summary>
+  <summary lang="es">Enviar y recibir correos</summary>
+  <summary lang="eo">Sendi kaj ricevi retmesaĝojn</summary>
+  <summary lang="en_GB">Send and receive mail</summary>
+  <summary lang="de">Senden und Empfangen von Nachrichten</summary>
+  <summary lang="da">Send og modtag post</summary>
+  <summary lang="cs">Přijímat a posílat emaily</summary>
+  <summary lang="ca">Envia i rep correu</summary>
+  <summary lang="ar">أرسل و استقبل الرسائل</summary>
+  <provides>
+    <binary>io.elementary.mail</binary>
+  </provides>
+  <releases>
+    <release version="7.0.0" date="2022-05-23" urgency="medium">
+      <description>
+        <p>Fixes:</p>
+        <ul>
+          <li>Fixed an error which caused mail accounts to be loaded multiple times</li>
+          <li>Fixed a bug which caused Mail to crash occasionally</li>
+          <li>Display recipient in Sent folder instead of sender</li>
+        </ul>
+        <p>Improvements:</p>
+        <ul>
+          <li>Updated app icon</li>
+          <li>New design</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="6.4.0" urgency="medium" date="2022-01-22">
+      <description>
+        <p>New features:</p>
+        <ul>
+          <li>Use message subject for composer window title</li>
+          <li>Added support for Unified Inbox for Microsoft 365 accounts</li>
+        </ul>
+        <p>Fixes:</p>
+        <ul>
+          <li>Fixed an error which caused the inbox monitoring in the background to crash</li>
+          <li>Removed duplicate sender addresses when composing a message</li>
+          <li>Fix a freeze when archiving the last message in a folder</li>
+        </ul>
+        <p>Improvements:</p>
+        <ul>
+          <li>Renamed Office 365 to Microsoft 365 to follow suite on Microsoft's rebranding</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-12-13" version="6.3.1" urgency="medium">
+      <description>
+        <p>Fixes:</p>
+        <ul>
+          <li>Fix a potential crash while loading messages</li>
+        </ul>
+        <p>Improvements:</p>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" date="2021-10-27" version="6.3.0">
+      <description>
+        <p>New features:</p>
+        <ul>
+          <li>Secondary-click menu on the conversations list</li>
+        </ul>
+        <p>Fixes:</p>
+        <ul>
+          <li>Ensure conversations are re-sorted by date when new messages appear</li>
+          <li>Fixed sender combobox after opening a mailto link</li>
+          <li>Mark sent messages as read</li>
+          <li>Fix a hang when deleting the last message in a mailbox</li>
+          <li>Fix an issue where some mail fails to be deleted</li>
+        </ul>
+        <p>Improvements:</p>
+        <ul>
+          <li>Use accent color for unread message titles</li>
+          <li>Autoselect the next message after archiving</li>
+          <li>Use local time in message headers</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="6.2.0" date="2021-09-27" urgency="medium">
+      <description>
+        <p>New features:</p>
+        <ul>
+          <li>Send a notification when new messages arrive</li>
+          <li>Add a button to manually fetch new messages</li>
+          <li>Automatically select the next message after deleting</li>
+          <li>Filter unread or starred conversations</li>
+        </ul>
+        <p>Fixes:</p>
+        <ul>
+          <li>Make sure we don't save sent messages twice for outlook.com accounts</li>
+          <li>Fix a potential crash when changing folders</li>
+        </ul>
+        <p>Improvements:</p>
+        <ul>
+          <li>Improve search performance</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="6.1.1" urgency="medium" date="2021-08-30">
+      <description>
+        <p>Fixes:</p>
+        <ul>
+          <li>Fix an issue that prevented some messaging from rendering at all</li>
+          <li>Set the correct "From" address when replying and multiple accounts are set up</li>
+          <li>Fix a crash on startup for some conversations</li>
+        </ul>
+        <p>Improvements:</p>
+        <ul>
+          <li>Only save drafts when there are new changes</li>
+          <li>Move Undo notification to the message view</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="6.1.0" date="2021-07-28" urgency="medium">
+      <description>
+        <p>Improvements:</p>
+        <ul>
+          <li>Preserve conversation subjects when replying or forwarding</li>
+          <li>Disable the composer while messages are being sent</li>
+          <li>Edit saved draft messages</li>
+          <li>Make sure we don't save sent messages twice for some account types</li>
+          <li>Stability improvements</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="6.0.0" date="2021-07-16" urgency="medium">
+      <description>
+        <p>Complete rewrite from scratch</p>
+      </description>
+    </release>
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/elementary/mail/master/data/screenshot.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/elementary/mail/master/data/screenshot-compose.png</image>
+    </screenshot>
+  </screenshots>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="violence-desecration">none</content_attribute>
+    <content_attribute id="violence-slavery">none</content_attribute>
+    <content_attribute id="violence-worship">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="sex-homosexuality">none</content_attribute>
+    <content_attribute id="sex-prostitution">none</content_attribute>
+    <content_attribute id="sex-adultery">none</content_attribute>
+    <content_attribute id="sex-appearance">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">intense</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">intense</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+  <developer_name>elementary, Inc.</developer_name>
+  <developer_name lang="zh_CN">elementary, Inc.</developer_name>
+  <developer_name lang="uk">elementary, Inc.</developer_name>
+  <developer_name lang="tr">elementary, Inc.</developer_name>
+  <developer_name lang="szl">elementary, Inc.</developer_name>
+  <developer_name lang="sr">elementary, Inc.</developer_name>
+  <developer_name lang="sl">elementary, Inc.</developer_name>
+  <developer_name lang="sk">elementary, Inc.</developer_name>
+  <developer_name lang="ru">elementary, Inc.</developer_name>
+  <developer_name lang="pt_BR">elementary, Inc.</developer_name>
+  <developer_name lang="pt">elementary, Inc.</developer_name>
+  <developer_name lang="pl">elementary, Inc.</developer_name>
+  <developer_name lang="nn">elementary, Inc.</developer_name>
+  <developer_name lang="nl">elementary, Inc.</developer_name>
+  <developer_name lang="nb">elementary LLC. (selskap med begrenset ansvar)</developer_name>
+  <developer_name lang="mr">एलिमेंटरी, Inc.</developer_name>
+  <developer_name lang="lt">elementary, Inc.</developer_name>
+  <developer_name lang="ko">elementary, Inc.</developer_name>
+  <developer_name lang="ja">elementary, Inc.</developer_name>
+  <developer_name lang="it">elementary, Inc.</developer_name>
+  <developer_name lang="id">elementary, PT.</developer_name>
+  <developer_name lang="hr">elementary, Inc.</developer_name>
+  <developer_name lang="he">elementary בע״מ</developer_name>
+  <developer_name lang="gl">elementary, Inc.</developer_name>
+  <developer_name lang="fr">elementary, Inc.</developer_name>
+  <developer_name lang="fi">elementary, Inc.</developer_name>
+  <developer_name lang="es">elementary, Inc.</developer_name>
+  <developer_name lang="eo">elementary, Inc.</developer_name>
+  <developer_name lang="en_GB">elementary, Inc.</developer_name>
+  <developer_name lang="de">elementary, Inc.</developer_name>
+  <developer_name lang="da">elementary, Inc.</developer_name>
+  <developer_name lang="cs">elementary, Inc.</developer_name>
+  <developer_name lang="ca">elementary, Inc.</developer_name>
+  <developer_name lang="ar">elementary, Inc.</developer_name>
+  <url type="homepage">https://elementary.io/</url>
+  <url type="bugtracker">https://github.com/elementary/mail/issues</url>
+  <url type="donation">https://elementary.io/get-involved#funding</url>
+  <url type="help">https://github.com/elementary/mail/discussions/categories/q-a</url>
+  <update_contact>contact_at_elementary.io</update_contact>
+  <custom>
+    <value key="x-appcenter-color-primary">#ffe16b</value>
+    <value key="x-appcenter-color-primary-text">#000</value>
+  </custom>
+</component>

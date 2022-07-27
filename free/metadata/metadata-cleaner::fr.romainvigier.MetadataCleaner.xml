@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns:its="http://www.w3.org/2005/11/its" type="desktop-application">
+  <pkgname>metadata-cleaner</pkgname>
+  <icon type="cached" width="64" height="64">fr.romainvigier.MetadataCleaner.png</icon>
+  <icon type="cached" height="128" width="128">fr.romainvigier.MetadataCleaner.png</icon>
+  <id>fr.romainvigier.MetadataCleaner</id>
+  <name>Metadata Cleaner</name>
+  <name lang="uk">Очищувач метаданих</name>
+  <name lang="bn">মেটাডেটা ক্লিনার</name>
+  <name lang="pt">Limpador de metadados</name>
+  <name lang="pl">Czyściciel Metadanych</name>
+  <name lang="gl">Limpador de metadatos</name>
+  <name lang="cs">Čistič metadat</name>
+  <name lang="ro">Curățător de Metadate</name>
+  <name lang="zh_CN">属性信息删除器</name>
+  <name lang="eu">Metadatuen garbitzailea</name>
+  <name lang="ja">メタデータクリーナー</name>
+  <name lang="hu">Metaadattörlő</name>
+  <name lang="ru">Очистка Метаданных</name>
+  <name lang="oc">Netejador de metadonadas</name>
+  <name lang="nn">Metadatareingjøraren</name>
+  <name lang="nl">Metagegevensopruiming</name>
+  <name lang="it">Pulitore di Metadati</name>
+  <name lang="lt">Metaduomenų valytojas</name>
+  <name lang="id">Pembersih Metadata</name>
+  <name lang="fi">Metatietojen puhdistus</name>
+  <name lang="nb_NO">Metadatarenser</name>
+  <name lang="pt_BR">Limpador de metadados</name>
+  <name lang="hr">Brisač metapodataka</name>
+  <name lang="tr">Üst Veri Temizleyici</name>
+  <name lang="sv">Metadata Cleaner</name>
+  <name lang="es">Limpiador de metadatos</name>
+  <name lang="de">Metadaten-Reiniger</name>
+  <name lang="fr">Nettoyeur de métadonnées</name>
+  <summary>View and clean metadata in files</summary>
+  <summary lang="uk">Переглянути й очистити метадані у файлах</summary>
+  <summary lang="bn">ফাইলের মেটাডেটা দেখুন এবং সরিয়ে ফেলুন</summary>
+  <summary lang="pt">Ver e limpar os metadados dos ficheiros</summary>
+  <summary lang="pl">Wyświetl i wyczyść metadane w plikach</summary>
+  <summary lang="gl">Ver e limpar os metadatos dos ficheiro</summary>
+  <summary lang="cs">Zobrazit a vyčistit metadata v souborech</summary>
+  <summary lang="ro">Vizualizează și curăță metadatele din fișiere</summary>
+  <summary lang="zh_CN">查看、删除文件里的元数据</summary>
+  <summary lang="eu">Metadatuak artxiboetan ikusi eta garbitu</summary>
+  <summary lang="ja">ファイルに含まれるメタデータの確認と除去が行えます</summary>
+  <summary lang="hu">Metaadatok megtekintése és tisztítása a fájlokból</summary>
+  <summary lang="ru">Показать и очистить метаданные в файлах</summary>
+  <summary lang="oc">Visualizar e netejar las metadonadas dels fichièrs</summary>
+  <summary lang="nn">Vis og reingjør metadata i filar</summary>
+  <summary lang="da">Vis og rens metadata i filer</summary>
+  <summary lang="nl">Bekijk metagegevens in bestanden en verwijder ze</summary>
+  <summary lang="it">Visualizza e pulisci i metadati nei file</summary>
+  <summary lang="lt">Peržiūrėti ir išvalyti failų metaduomenis</summary>
+  <summary lang="id">Lihat dan bersihkan metadata pada berkas</summary>
+  <summary lang="fi">Näe ja siivoa metatiedot tiedostoistasi</summary>
+  <summary lang="nb_NO">Vis og rens metadata i filer</summary>
+  <summary lang="pt_BR">Veja e limpe os metadados em arquivos</summary>
+  <summary lang="hr">Prikaži i izbriši metapodatke u datotekama</summary>
+  <summary lang="tr">Dosyalardaki üst verileri görüntüle ve temizle</summary>
+  <summary lang="sv">Visa och rensa bort metadata i filer</summary>
+  <summary lang="es">Ver y limpiar los metadatos en los archivos</summary>
+  <summary lang="de">Metadaten in Dateien anzeigen und bereinigen</summary>
+  <summary lang="fr">Affiche et nettoie les métadonnées des fichiers</summary>
+  <categories>
+    <category>Utility</category>
+  </categories>
+  <metadata_license>CC-BY-SA-4.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <developer_name translate="no">Romain Vigier</developer_name>
+  <url type="homepage">https://metadatacleaner.romainvigier.fr</url>
+  <url type="bugtracker">https://gitlab.com/rmnvgr/metadata-cleaner/-/issues</url>
+  <url type="contact">https://matrix.to/#/#metadata-cleaner:gnome.org</url>
+  <url type="donation">https://liberapay.com/rmnvgr/donate</url>
+  <url type="translate">https://hosted.weblate.org/engage/metadata-cleaner/</url>
+  <description>
+    <p>Metadata within a file can tell a lot about you. Cameras record data about when and where a picture was taken and which camera was used. Office applications automatically add author and company information to documents and spreadsheets. This is sensitive information and you may not want to disclose it.</p>
+    <p>This tool allows you to view metadata in your files and to get rid of it, as much as possible.</p>
+  </description>
+  <description lang="bn">
+    <p>ফাইলের মধ্যে মেটাডেটা আপনার সম্পর্কে অনেক কিছু বলে দিতে পারে. ক্যামেরার রেকর্ড তথ্য অর্থাৎ কখন এবং কোথায় ছবিটি তোলা হয়েছে এবং কোন ক্যামেরা ব্যবহৃত হয়েছিল. অফিস আ্যপলিকেশনগুলো স্বয়ংক্রিয়ভাবে লেখক এবং কোম্পানির তথ্য ডকুমেন্ট ও স্প্রেডশিটে যুক্ত করে দেয়. এগুলো খুবই সূক্ষ্ম এবং গুরুত্বপূর্ণ তথ্য এবং আপনি হয়তো এগুলো প্রকাশ করতে চান না.</p>
+    <p>এই টুলটি যথাসম্ভব আপনাকে আপনার ফাইলের মেটাডেটা দেখতে এবং অপসারণ করতে সাহায্য করবে.</p>
+  </description>
+  <description lang="cs">
+    <p>Metadata v souboru o vás mohou hodně prozradit. Kamery zaznamenávají data o tom, kdy a kde byl snímek pořízen a jaký fotoaparát byl použit. Kancelářské aplikace automaticky přidávají do dokumentů a tabulek informace o autorovi a společnosti. Jedná se o citlivé informace a možná je nebudete chtít prozradit.</p>
+    <p>Tento nástroj vám umožňuje prohlížet metadata ve vašich souborech a v maximální možné míře se jich zbavit.</p>
+  </description>
+  <description lang="de">
+    <p>Metadaten, die in einer Datei enthalten sind, können viel über Sie preisgeben. Kameras speichern Informationen darüber, wann und wo ein Foto aufgenommen worden ist und welche Kamera dabei benutzt wurde. Office-Anwendungen fügen Dokumenten und Tabellen automatisch Informationen über Autor und Unternehmen hinzu. Das sind alles sensible Daten, die Sie eventuell nicht freigeben wollen.</p>
+    <p>Diese Anwendung erlaubt die Metadaten in deinen Dateien anzuzeigen und so weit wie möglich zu entfernen.</p>
+  </description>
+  <description lang="es">
+    <p>Los metadatos de un archivo pueden decir mucho sobre una persona. Las cámaras registran datos sobre cuándo y dónde se tomó una foto y qué cámara se usó. Las aplicaciones ofimáticas añaden automáticamente información sobre el autor y la empresa a los documentos y hojas de cálculo. Se trata de información delicada y es posible que no quiera revelarla.</p>
+    <p>Esta herramienta le permite ver los metadatos en sus archivos y deshacerse de ellos en la medida de lo posible.</p>
+  </description>
+  <description lang="eu">
+    <p>Fitxategi bateko metadatuek asko esan dezakete pertsona bati buruz. Kamerek argazki bat noiz eta non atera zen eta zein kamera erabili zen adierazten dute. Aplikazio ofimatikoek egileari eta enpresari buruzko informazioa gehitzen diete automatikoki dokumentuei eta kalkulu-orriei. Informazio delikatua da, eta baliteke jakinarazi nahi ez izatea.</p>
+    <p>Tresna honi esker, metadatuak artxiboetan ikus ditzakezu, eta ahal den neurrian kendu.</p>
+  </description>
+  <description lang="fi">
+    <p>Tiedoston metatiedot voivat kertoa paljon sinusta. Kamerat tallentavat tietoa, esimerkiksi milloin ja missä kuva otettiin ja minkälaista kameraa kuvan ottamiseen käytettiin. Tuottavuusohjelmistot lisäävät automaattisesti tekijän ja organisaation tiedot tekstiasiakirjoihin ja taulukkoihin. Saatat haluta rajoittaa tai estää näiden tietojen päätymisen muille.</p>
+    <p>Tämä työkalu mahdollistaa tiedostojen metatietojen katselun. Lisäksi voit yrittää siivota metatiedot mahdollisimman kattavasti.</p>
+  </description>
+  <description lang="fr">
+    <p>Les métadonnées dans un fichier peuvent en dire beaucoup à votre sujet. Les appareils photo enregistrent quand et où une photographie a été prise et quel appareil a été utilisé. Les applications bureautiques ajoutent automatiquement des informations sur l’auteur et l’entreprise aux documents et aux tableaux. Ce sont des informations sensibles et vous ne voulez peut-être pas les dévoiler.</p>
+    <p>Cet outil vous permet d’afficher les métadonnées dans vos fichiers et de vous en débarrasser, dans la mesure du possible.</p>
+  </description>
+  <description lang="gl">
+    <p>Os metadatos dun ficheiro poden decirme moito sobre unha persona. As cámaras rexistran datos sobre cando e onde se tomou unha foto e qué cámara se usou. As aplicacións ofimáticas engaden automaticamente información sobre o autor e a empresa aos documentos e follas de cálculo. Trátase de información delicada e é posíbel que non queira revelala.</p>
+    <p>Esta ferramenta permítelle ver os metadatos nos seus ficheiros e desfacerse deles na medida do posíbel.</p>
+  </description>
+  <description lang="hr">
+    <p>Metapodaci u datoteci mogu otkriti razne informacije o tebi. Kamere bilježe podatke o tome kada i gdje je slika snimljena te koja je kamera korištena. Uredski programi automatski dodaju podatke o autoru i tvrtki u dokumente i proračunske tablice. Možda ne želiš da te informacije budu dostupne drugima.</p>
+    <p>Ovaj program omogućuje prikaz i brisanje (po mogućnosti svih) metapodataka u datotekama.</p>
+  </description>
+  <description lang="hu">
+    <p>Egy fájlon belüli metaadatok sokat elárulhatnak Önről. A fényképezőgépek adatokat rögzítenek arról, hogy mikor és hol készült a fénykép, illetve milyen fényképezőgépet használtak. Az irodai alkalmazások automatikusan hozzáadják a dokumentumokhoz és táblázatokhoz a szerző és a vállalat adatait. Ezek érzékeny információk, és nem biztos, hogy szeretné nyilvánosságra hozni azokat.</p>
+    <p>Ez az eszköz lehetővé teszi, hogy megtekinthesse a fájlokban lévő metaadatokat, és a lehető legnagyobb mértékben megszabaduljon tőlük.</p>
+  </description>
+  <description lang="id">
+    <p>Metadata dalam file dapat memberi tahu banyak informasi tentang Anda. Kamera merekam data tentang kapan dan di mana gambar diambil dan kamera mana yang digunakan. Aplikasi Office secara otomatis menambahkan informasi penulis dan perusahaan ke dokumen dan spreadsheet. Ini adalah informasi sensitif dan Anda mungkin tidak ingin mengungkapkannya.</p>
+    <p>Alat ini memungkinkan untuk melihat metadata file yang kamu miliki dan menyingkirkannya sebanyak mungkin.</p>
+  </description>
+  <description lang="it">
+    <p>I metadati all'interno di un file possono dire molto su di te. Le fotocamere registrano dati su quando e dove è stata scattata una foto e quale fotocamera è stata utilizzata. Le applicazioni di Office aggiungono automaticamente informazioni sull'autore e sull'azienda a documenti e fogli di calcolo. Si tratta di informazioni sensibili che non vorresti divulgare.</p>
+    <p>Questo strumento ti consente di visualizzare i metadati nei tuoi file e di liberartene, per quanto possibile.</p>
+  </description>
+  <description lang="ja">
+    <p>ファイル内のメタデータは、あなたのことをよく表しています。カメラは、いつ、どこで、どの機種で撮影したかを画像ファイルに記録します。オフィスアプリケーションは、作成者や会社の情報を文書ファイルや表計算ファイルに自動的に追加します。これらの情報は機密情報であり、公開したくない場合もあります。</p>
+    <p>このツールではファイル内のメタデータを確認し、可能な範囲で除去できます。</p>
+  </description>
+  <description lang="lt">
+    <p>Failo metaduomenys gali daug ką pasakyti apie jus. Kameros įrašo duomenis apie tai, kada ir kur buvo padaryta nuotrauka ir kokia kamera buvo naudojama. „Office“ programos automatiškai prideda autoriaus ir įmonės informaciją prie dokumentų ir skaičiuoklių. Tai neskelbtina informacija ir galbūt nenorėsite jos atskleisti.</p>
+    <p>Šis įrankis leidžia peržiūrėti failų metaduomenis ir jų kiek įmanoma atsikratyti.</p>
+  </description>
+  <description lang="nl">
+    <p>Metagegevens in een bestand kunnen herleidbaar zijn tot jou. Zo slaan camera's informatie op over waar en wanneer een foto is genomen, welke camera je hebt gebruikt, enz. En kantoorpakketten (zoals tekstverwerkers) voegen automatisch auteurs- en bedrijfsinformatie toe. Misschien wil je dat soort gevoelige informatie niet prijgeven.</p>
+    <p>Met deze toepassing kun je die metagegevens bekijken en ze zo goed als mogelijk verwijderen.</p>
+  </description>
+  <description lang="oc">
+    <p>Las metadonadas dins un fichièr pòdon en dire fòrça a vòstre subjècte. Los aparelhs fòto enregistran quand e ont una fotografia foguèt presa e qual aparelh foguèt utilizat. Las aplicacions de burèu ajustan automaticament d'informacions sus l'autor e l'entrepresa als documents e als tablèus. Son d’informacions sensiblas e volètz benlèu pas las desvelar.</p>
+    <p>Aquesta aisina vos permet d’afichar las metadonadas dins vòstres fichièrs e vos’n desfar, tan que possible.</p>
+  </description>
+  <description lang="pl">
+    <p>To narzędzie umożliwia przeglądanie metadanych w plikach i pozbycie się ich w jak największym stopniu.</p>
+  </description>
+  <description lang="pt">
+    <p>Os metadados dum ficheiro podem dizer muito sobre alguém. As câmaras registam dados sobre quando e onde se tomou uma foto e que câmara se usou. As aplicações de escritório registam automaticamente informação acerca do autor e da empresa nos documentos e folhas de cálculo. Trata-se de informação delicada e é possível que não a queira revelar.</p>
+    <p>Esta ferramenta permite-lhe ver os metadados nos seus ficheiros e desfazer-se deles na medida do possível.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Os metadados em um arquivo podem dizer muito sobre você. As câmeras registram dados sobre quando e onde uma foto foi tirada e qual câmera foi usada. Os aplicativos de escritório adicionam automaticamente informações do autor e da empresa a documentos e planilhas. Estas são informações confidenciais e você pode não querer divulgá-las.</p>
+    <p>Esta ferramenta permite que você visualize metadados em seus arquivos e se livre deles, o tanto quanto possível.</p>
+  </description>
+  <description lang="ro">
+    <p>Metadatele dintr-un fișier pot spune multe despre tine. Aparatele foto înregistrează date despre momentul și locul în care a fost făcută o fotografie și despre aparatul foto utilizat. Aplicațiile Office adaugă automat informații despre autor și companie în documente și foi de calcul. Acestea sunt informații sensibile și este posibil să nu dorești să le dezvălui.</p>
+    <p>Acest instrument îți permite să vizualizați metadatele din fișierele tale și să scapi de ele, pe cât posibil.</p>
+  </description>
+  <description lang="ru">
+    <p>Метаданные файла могут раскрыть много данных о вас. Камеры записывают когда и где была заснята фотография и какой камерой. Офисные пакеты автоматически пишут автора и компанию в документы и презентации. Это личная информация и вы можете не хотеть её раскрывать.</p>
+    <p>Эта утилита позволяет просматривать метаданные и избавляться от них там, где это возможно.</p>
+  </description>
+  <description lang="sv">
+    <p>Metadata i en fil kan berätta mycket om dig. Kameror registrerar data om var och när en bild togs och vilken kamera som användes. Kontorsprogramvara lägger automatiskt till information om författare och företag i dokument och kalkylblad. Detta är känslig information som du kanske inte vill avslöja.</p>
+    <p>Med det här verktyget kan du visa metadata i dina filer och bli av med så mycket som möjligt.</p>
+  </description>
+  <description lang="tr">
+    <p>Bir dosyadaki üst veriler sizin hakkınızda çok şey söyleyebilir. Kameralar, bir resmin ne zaman ve nerede çekildiği ve hangi kameranın kullanıldığı ile ilgili verileri kaydeder. Ofis uygulamaları, belgelere ve elektronik tablolara otomatik olarak yazar ve şirket bilgilerini ekler. Bunlar hassas bilgilerdir ve açıklamak istemeyebilirsiniz.</p>
+    <p>Bu araç, dosyalarınızdaki üst verileri görüntülemenizi ve mümkün olduğunca onlardan kurtulmanızı sağlar.</p>
+  </description>
+  <description lang="uk">
+    <p>Метадані у файлі можуть багато розповісти про вас. Камери записують дані про те, коли та де було зроблено знімок і яка камера була використана. Застосунки Office автоматично додають дані про автора та компанію в документи та електронні таблиці. Це конфіденційна інформація, і ви, можливо, не захочете її розголошувати.</p>
+    <p>Цей засіб дає змогу переглядати метадані у ваших файлах і максимально позбутися від них.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>文件的元数据暗藏着许多重要的隐私信息。照相机会在元数据中记录拍照的时间地点，还会记录照片是由哪台照相机拍的；办公软件会自动把文档作者和公司信息添加到文档和电子表格文件中。这些信息可能很敏感，人们可能不想披露这些信息。</p>
+    <p>此工具可以用来尽可能地查看或删除文件里的元数据。</p>
+  </description>
+  <launchable type="desktop-id">fr.romainvigier.MetadataCleaner.desktop</launchable>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://metadatacleaner.romainvigier.fr/screenshots/1.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://metadatacleaner.romainvigier.fr/screenshots/2.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://metadatacleaner.romainvigier.fr/screenshots/3.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://metadatacleaner.romainvigier.fr/screenshots/4.png</image>
+    </screenshot>
+  </screenshots>
+  <provides>
+    <binary>metadata-cleaner</binary>
+  </provides>
+  <translation type="gettext">fr.romainvigier.MetadataCleaner</translation>
+  <content_rating type="oars-1.1" />
+  <recommends>
+    <control>pointing</control>
+    <control>keyboard</control>
+    <control>touch</control>
+  </recommends>
+  <requires>
+    <display_length compare="ge">360</display_length>
+  </requires>
+  <releases locNote="Release notes">
+    <release date="2022-06-02" version="2.2.3">
+      <description>
+        <ul>
+          <li>Updated translations</li>
+          <li lang="uk">Оновлені переклади</li>
+          <li lang="bn">হালনাগাদকৃত অনুবাদ</li>
+          <li lang="cs">Aktualizované překlady</li>
+          <li lang="zh_CN">更新了翻译</li>
+          <li lang="eu">Itzulpen eguneratuak</li>
+          <li lang="hu">Javított fordítások</li>
+          <li lang="oc">Traduccions actualizadas</li>
+          <li lang="nl">Bijgewerkte vertalingen</li>
+          <li lang="it">Traduzioni aggiornate</li>
+          <li lang="id">Terjemahan terbaru</li>
+          <li lang="fi">Päivitetyt kielikäännökset</li>
+          <li lang="hr">Aktualizirani prijevodi</li>
+          <li lang="tr">Güncellenen çeviriler</li>
+          <li lang="sv">Uppdaterade översättningar</li>
+          <li lang="es">Traducciones actualizadas</li>
+          <li lang="de">Aktualisierte Übersetzung</li>
+          <li lang="fr">Traductions mises à jour</li>
+        </ul>
+      </description>
+      <url>https://gitlab.com/rmnvgr/metadata-cleaner/-/releases/v2.2.3</url>
+    </release>
+    <release date="2022-04-20" version="2.2.2">
+      <description>
+        <ul>
+          <li>Updated translations</li>
+          <li lang="uk">Оновлені переклади</li>
+          <li lang="bn">হালনাগাদকৃত অনুবাদ</li>
+          <li lang="cs">Aktualizované překlady</li>
+          <li lang="zh_CN">更新了翻译</li>
+          <li lang="eu">Itzulpen eguneratuak</li>
+          <li lang="hu">Javított fordítások</li>
+          <li lang="oc">Traduccions actualizadas</li>
+          <li lang="nl">Bijgewerkte vertalingen</li>
+          <li lang="it">Traduzioni aggiornate</li>
+          <li lang="id">Terjemahan terbaru</li>
+          <li lang="fi">Päivitetyt kielikäännökset</li>
+          <li lang="hr">Aktualizirani prijevodi</li>
+          <li lang="tr">Güncellenen çeviriler</li>
+          <li lang="sv">Uppdaterade översättningar</li>
+          <li lang="es">Traducciones actualizadas</li>
+          <li lang="de">Aktualisierte Übersetzung</li>
+          <li lang="fr">Traductions mises à jour</li>
+        </ul>
+      </description>
+      <url>https://gitlab.com/rmnvgr/metadata-cleaner/-/releases/v2.2.2</url>
+    </release>
+    <release date="2022-03-28" version="2.2.1">
+      <description>
+        <ul>
+          <li>Updated translations</li>
+          <li lang="uk">Оновлені переклади</li>
+          <li lang="bn">হালনাগাদকৃত অনুবাদ</li>
+          <li lang="cs">Aktualizované překlady</li>
+          <li lang="zh_CN">更新了翻译</li>
+          <li lang="eu">Itzulpen eguneratuak</li>
+          <li lang="hu">Javított fordítások</li>
+          <li lang="oc">Traduccions actualizadas</li>
+          <li lang="nl">Bijgewerkte vertalingen</li>
+          <li lang="it">Traduzioni aggiornate</li>
+          <li lang="id">Terjemahan terbaru</li>
+          <li lang="fi">Päivitetyt kielikäännökset</li>
+          <li lang="hr">Aktualizirani prijevodi</li>
+          <li lang="tr">Güncellenen çeviriler</li>
+          <li lang="sv">Uppdaterade översättningar</li>
+          <li lang="es">Traducciones actualizadas</li>
+          <li lang="de">Aktualisierte Übersetzung</li>
+          <li lang="fr">Traductions mises à jour</li>
+        </ul>
+      </description>
+      <url>https://gitlab.com/rmnvgr/metadata-cleaner/-/releases/v2.2.1</url>
+    </release>
+    <release date="2022-03-23" version="2.2.0">
+      <description>
+        <ul>
+          <li>Improved user interface</li>
+          <li lang="uk">Покращений інтерфейс користувача</li>
+          <li lang="bn">উন্নত ইউজার ইন্টারফেস</li>
+          <li lang="cs">Vylepšené uživatelské rozhraní</li>
+          <li lang="zh_CN">改进了用户界面</li>
+          <li lang="eu">Erabiltzaile-interfaze hobetua</li>
+          <li lang="hu">Továbbfejlesztett felhasználói felület</li>
+          <li lang="oc">Interfàcia utilizaire amelhorada</li>
+          <li lang="nl">De vormgeving is verbeterd</li>
+          <li lang="it">Interfaccia utente migliorata</li>
+          <li lang="id">Tampilan yang ditingkatkan</li>
+          <li lang="fi">Paranneltu käyttöliittymä</li>
+          <li lang="hr">Poboljšano korisničko sučelje</li>
+          <li lang="tr">İyileştirilmiş kullanıcı arayüzü</li>
+          <li lang="sv">Förbättrat användargränssnitt</li>
+          <li lang="es">Mejora de la interfaz de usuario</li>
+          <li lang="de">Verbesserte Benutzeroberfläche</li>
+          <li lang="fr">Interface utilisateur améliorée</li>
+          <li>Updated translations</li>
+          <li lang="uk">Оновлені переклади</li>
+          <li lang="bn">হালনাগাদকৃত অনুবাদ</li>
+          <li lang="cs">Aktualizované překlady</li>
+          <li lang="zh_CN">更新了翻译</li>
+          <li lang="eu">Itzulpen eguneratuak</li>
+          <li lang="hu">Javított fordítások</li>
+          <li lang="oc">Traduccions actualizadas</li>
+          <li lang="nl">Bijgewerkte vertalingen</li>
+          <li lang="it">Traduzioni aggiornate</li>
+          <li lang="id">Terjemahan terbaru</li>
+          <li lang="fi">Päivitetyt kielikäännökset</li>
+          <li lang="hr">Aktualizirani prijevodi</li>
+          <li lang="tr">Güncellenen çeviriler</li>
+          <li lang="sv">Uppdaterade översättningar</li>
+          <li lang="es">Traducciones actualizadas</li>
+          <li lang="de">Aktualisierte Übersetzung</li>
+          <li lang="fr">Traductions mises à jour</li>
+        </ul>
+      </description>
+      <url>https://gitlab.com/rmnvgr/metadata-cleaner/-/releases/v2.2.0</url>
+    </release>
+    <release date="2022-02-15" version="2.1.5">
+      <description>
+        <ul>
+          <li>New translations</li>
+          <li lang="uk">Нові переклади</li>
+          <li lang="bn">নতুন অনুবাদ</li>
+          <li lang="pt">Novas traduções</li>
+          <li lang="pl">Nowe tłumaczenia</li>
+          <li lang="gl">Traducións novas</li>
+          <li lang="cs">Nové překlady</li>
+          <li lang="ro">Traduceri noi</li>
+          <li lang="zh_CN">新增翻译</li>
+          <li lang="eu">Itzulpen berriak</li>
+          <li lang="ja">新しい翻訳</li>
+          <li lang="hu">Új fordítások</li>
+          <li lang="ru">Новые переводы</li>
+          <li lang="oc">Traduccions novèlas</li>
+          <li lang="nn">Nye omsettingar</li>
+          <li lang="nl">Nieuwe vertalingen</li>
+          <li lang="si">නව පරිවර්තන</li>
+          <li lang="it">Nuove traduzioni</li>
+          <li lang="lt">Nauji vertimai</li>
+          <li lang="id">Terjemahan baru</li>
+          <li lang="fi">Uudet käännökset</li>
+          <li lang="nb_NO">Nye oversettelser</li>
+          <li lang="pt_BR">Novas traduções</li>
+          <li lang="hr">Novi prijevodi</li>
+          <li lang="tr">Yeni çeviriler</li>
+          <li lang="sv">Nya översättningar</li>
+          <li lang="es">Traducciones nuevas</li>
+          <li lang="de">Neue Übersetzungen</li>
+          <li lang="fr">Nouvelles traductions</li>
+        </ul>
+      </description>
+      <url>https://gitlab.com/rmnvgr/metadata-cleaner/-/releases/v2.1.5</url>
+    </release>
+    <release date="2022-01-07" version="2.1.4">
+      <description>
+        <ul>
+          <li>New translations</li>
+          <li lang="uk">Нові переклади</li>
+          <li lang="bn">নতুন অনুবাদ</li>
+          <li lang="pt">Novas traduções</li>
+          <li lang="pl">Nowe tłumaczenia</li>
+          <li lang="gl">Traducións novas</li>
+          <li lang="cs">Nové překlady</li>
+          <li lang="ro">Traduceri noi</li>
+          <li lang="zh_CN">新增翻译</li>
+          <li lang="eu">Itzulpen berriak</li>
+          <li lang="ja">新しい翻訳</li>
+          <li lang="hu">Új fordítások</li>
+          <li lang="ru">Новые переводы</li>
+          <li lang="oc">Traduccions novèlas</li>
+          <li lang="nn">Nye omsettingar</li>
+          <li lang="nl">Nieuwe vertalingen</li>
+          <li lang="si">නව පරිවර්තන</li>
+          <li lang="it">Nuove traduzioni</li>
+          <li lang="lt">Nauji vertimai</li>
+          <li lang="id">Terjemahan baru</li>
+          <li lang="fi">Uudet käännökset</li>
+          <li lang="nb_NO">Nye oversettelser</li>
+          <li lang="pt_BR">Novas traduções</li>
+          <li lang="hr">Novi prijevodi</li>
+          <li lang="tr">Yeni çeviriler</li>
+          <li lang="sv">Nya översättningar</li>
+          <li lang="es">Traducciones nuevas</li>
+          <li lang="de">Neue Übersetzungen</li>
+          <li lang="fr">Nouvelles traductions</li>
+        </ul>
+      </description>
+      <url>https://gitlab.com/rmnvgr/metadata-cleaner/-/releases/v2.1.4</url>
+    </release>
+    <release version="2.1.3" date="2021-12-03">
+      <description>
+        <ul>
+          <li>New translations</li>
+          <li lang="uk">Нові переклади</li>
+          <li lang="bn">নতুন অনুবাদ</li>
+          <li lang="pt">Novas traduções</li>
+          <li lang="pl">Nowe tłumaczenia</li>
+          <li lang="gl">Traducións novas</li>
+          <li lang="cs">Nové překlady</li>
+          <li lang="ro">Traduceri noi</li>
+          <li lang="zh_CN">新增翻译</li>
+          <li lang="eu">Itzulpen berriak</li>
+          <li lang="ja">新しい翻訳</li>
+          <li lang="hu">Új fordítások</li>
+          <li lang="ru">Новые переводы</li>
+          <li lang="oc">Traduccions novèlas</li>
+          <li lang="nn">Nye omsettingar</li>
+          <li lang="nl">Nieuwe vertalingen</li>
+          <li lang="si">නව පරිවර්තන</li>
+          <li lang="it">Nuove traduzioni</li>
+          <li lang="lt">Nauji vertimai</li>
+          <li lang="id">Terjemahan baru</li>
+          <li lang="fi">Uudet käännökset</li>
+          <li lang="nb_NO">Nye oversettelser</li>
+          <li lang="pt_BR">Novas traduções</li>
+          <li lang="hr">Novi prijevodi</li>
+          <li lang="tr">Yeni çeviriler</li>
+          <li lang="sv">Nya översättningar</li>
+          <li lang="es">Traducciones nuevas</li>
+          <li lang="de">Neue Übersetzungen</li>
+          <li lang="fr">Nouvelles traductions</li>
+        </ul>
+      </description>
+      <url>https://gitlab.com/rmnvgr/metadata-cleaner/-/releases/v2.1.3</url>
+    </release>
+    <release date="2021-11-16" version="2.1.2">
+      <description>
+        <ul>
+          <li>New translations</li>
+          <li lang="uk">Нові переклади</li>
+          <li lang="bn">নতুন অনুবাদ</li>
+          <li lang="pt">Novas traduções</li>
+          <li lang="pl">Nowe tłumaczenia</li>
+          <li lang="gl">Traducións novas</li>
+          <li lang="cs">Nové překlady</li>
+          <li lang="ro">Traduceri noi</li>
+          <li lang="zh_CN">新增翻译</li>
+          <li lang="eu">Itzulpen berriak</li>
+          <li lang="ja">新しい翻訳</li>
+          <li lang="hu">Új fordítások</li>
+          <li lang="ru">Новые переводы</li>
+          <li lang="oc">Traduccions novèlas</li>
+          <li lang="nn">Nye omsettingar</li>
+          <li lang="nl">Nieuwe vertalingen</li>
+          <li lang="si">නව පරිවර්තන</li>
+          <li lang="it">Nuove traduzioni</li>
+          <li lang="lt">Nauji vertimai</li>
+          <li lang="id">Terjemahan baru</li>
+          <li lang="fi">Uudet käännökset</li>
+          <li lang="nb_NO">Nye oversettelser</li>
+          <li lang="pt_BR">Novas traduções</li>
+          <li lang="hr">Novi prijevodi</li>
+          <li lang="tr">Yeni çeviriler</li>
+          <li lang="sv">Nya översättningar</li>
+          <li lang="es">Traducciones nuevas</li>
+          <li lang="de">Neue Übersetzungen</li>
+          <li lang="fr">Nouvelles traductions</li>
+        </ul>
+      </description>
+      <url>https://gitlab.com/rmnvgr/metadata-cleaner/-/releases/v2.1.2</url>
+    </release>
+    <release date="2021-11-11" version="2.1.1">
+      <description>
+        <ul>
+          <li>Bug fixes</li>
+          <li lang="uk">Виправлення помилок</li>
+          <li lang="bn">বাগ সংশোধন</li>
+          <li lang="pt">Correção de erros</li>
+          <li lang="pl">Poprawki błędów</li>
+          <li lang="gl">Correción de erros</li>
+          <li lang="cs">Opravy chyb</li>
+          <li lang="zh_CN">修正软件错误</li>
+          <li lang="eu">Erroreen zuzenketa</li>
+          <li lang="ja">バグ修正</li>
+          <li lang="hu">Hibajavítások</li>
+          <li lang="ru">Исправление багов</li>
+          <li lang="oc">Correccions d’anomalia</li>
+          <li lang="nl">Fouten opgelost</li>
+          <li lang="it">Correzioni di bug</li>
+          <li lang="lt">Klaidų pataisymai</li>
+          <li lang="id">Perbaikan bug</li>
+          <li lang="fi">Korjatut viat</li>
+          <li lang="pt_BR">Correções de bugs</li>
+          <li lang="hr">Ispravci grešaka</li>
+          <li lang="tr">Hata düzeltmeleri</li>
+          <li lang="sv">Felkorrigeringar</li>
+          <li lang="es">Corrección de errores</li>
+          <li lang="de">Fehlerbehebungen</li>
+          <li lang="fr">Corrections de bugs</li>
+          <li>New translations</li>
+          <li lang="uk">Нові переклади</li>
+          <li lang="bn">নতুন অনুবাদ</li>
+          <li lang="pt">Novas traduções</li>
+          <li lang="pl">Nowe tłumaczenia</li>
+          <li lang="gl">Traducións novas</li>
+          <li lang="cs">Nové překlady</li>
+          <li lang="ro">Traduceri noi</li>
+          <li lang="zh_CN">新增翻译</li>
+          <li lang="eu">Itzulpen berriak</li>
+          <li lang="ja">新しい翻訳</li>
+          <li lang="hu">Új fordítások</li>
+          <li lang="ru">Новые переводы</li>
+          <li lang="oc">Traduccions novèlas</li>
+          <li lang="nn">Nye omsettingar</li>
+          <li lang="nl">Nieuwe vertalingen</li>
+          <li lang="si">නව පරිවර්තන</li>
+          <li lang="it">Nuove traduzioni</li>
+          <li lang="lt">Nauji vertimai</li>
+          <li lang="id">Terjemahan baru</li>
+          <li lang="fi">Uudet käännökset</li>
+          <li lang="nb_NO">Nye oversettelser</li>
+          <li lang="pt_BR">Novas traduções</li>
+          <li lang="hr">Novi prijevodi</li>
+          <li lang="tr">Yeni çeviriler</li>
+          <li lang="sv">Nya översättningar</li>
+          <li lang="es">Traducciones nuevas</li>
+          <li lang="de">Neue Übersetzungen</li>
+          <li lang="fr">Nouvelles traductions</li>
+        </ul>
+      </description>
+      <url>https://gitlab.com/rmnvgr/metadata-cleaner/-/releases/v2.1.1</url>
+    </release>
+    <release version="2.1.0" date="2021-11-04">
+      <description>
+        <ul>
+          <li>New button to add folders</li>
+          <li lang="uk">Нова кнопка для додавання тек</li>
+          <li lang="bn">ফোল্ডার যোগ করতে নতুন বাটন</li>
+          <li lang="pt">Novo botão para adicionar pastas</li>
+          <li lang="pl">Nowy przycisk do dodawania folderów</li>
+          <li lang="gl">Novo botón para engadir carpetas</li>
+          <li lang="cs">Nové tlačítko pro přidání složek</li>
+          <li lang="ro">Buton nou pentru adăugarea de dosare</li>
+          <li lang="zh_CN">新增用来添加文件夹的按钮</li>
+          <li lang="eu">Karpetak gehitzeko botoi berria</li>
+          <li lang="ja">新しいフォルダ追加ボタン</li>
+          <li lang="hu">Új gomb mappák hozzáadásához</li>
+          <li lang="ru">Новая кнопка для добавления папок</li>
+          <li lang="oc">Boton novèl per ajustar de dossièrs</li>
+          <li lang="nl">Nieuwe knop om mappen toe te voegen</li>
+          <li lang="it">Nuovo pulsante per aggiungere cartelle</li>
+          <li lang="lt">Naujas aplankų pridėjimo mygtukas</li>
+          <li lang="id">Tombol baru untuk menambahkan folder</li>
+          <li lang="fi">Uusi painike kansioiden lisäämiseksi</li>
+          <li lang="nb_NO">Ny knapp for å legge til mapper</li>
+          <li lang="pt_BR">Novo botão para adicionar pastas</li>
+          <li lang="hr">Novi gumb za dodavanje mapa</li>
+          <li lang="tr">Klasör eklemek için yeni düğme</li>
+          <li lang="sv">Ny knapp för att lägga till mappar</li>
+          <li lang="es">Botón para añadir carpetas nuevo</li>
+          <li lang="de">Neue Option zum Hinzufügen von Ordnern</li>
+          <li lang="fr">Nouveau bouton pour ajouter des dossiers</li>
+          <li>New translations</li>
+          <li lang="uk">Нові переклади</li>
+          <li lang="bn">নতুন অনুবাদ</li>
+          <li lang="pt">Novas traduções</li>
+          <li lang="pl">Nowe tłumaczenia</li>
+          <li lang="gl">Traducións novas</li>
+          <li lang="cs">Nové překlady</li>
+          <li lang="ro">Traduceri noi</li>
+          <li lang="zh_CN">新增翻译</li>
+          <li lang="eu">Itzulpen berriak</li>
+          <li lang="ja">新しい翻訳</li>
+          <li lang="hu">Új fordítások</li>
+          <li lang="ru">Новые переводы</li>
+          <li lang="oc">Traduccions novèlas</li>
+          <li lang="nn">Nye omsettingar</li>
+          <li lang="nl">Nieuwe vertalingen</li>
+          <li lang="si">නව පරිවර්තන</li>
+          <li lang="it">Nuove traduzioni</li>
+          <li lang="lt">Nauji vertimai</li>
+          <li lang="id">Terjemahan baru</li>
+          <li lang="fi">Uudet käännökset</li>
+          <li lang="nb_NO">Nye oversettelser</li>
+          <li lang="pt_BR">Novas traduções</li>
+          <li lang="hr">Novi prijevodi</li>
+          <li lang="tr">Yeni çeviriler</li>
+          <li lang="sv">Nya översättningar</li>
+          <li lang="es">Traducciones nuevas</li>
+          <li lang="de">Neue Übersetzungen</li>
+          <li lang="fr">Nouvelles traductions</li>
+        </ul>
+      </description>
+      <url>https://gitlab.com/rmnvgr/metadata-cleaner/-/releases/v2.1.0</url>
+    </release>
+    <release date="2021-09-28" version="2.0.1">
+      <description>
+        <ul>
+          <li>New translations</li>
+          <li lang="uk">Нові переклади</li>
+          <li lang="bn">নতুন অনুবাদ</li>
+          <li lang="pt">Novas traduções</li>
+          <li lang="pl">Nowe tłumaczenia</li>
+          <li lang="gl">Traducións novas</li>
+          <li lang="cs">Nové překlady</li>
+          <li lang="ro">Traduceri noi</li>
+          <li lang="zh_CN">新增翻译</li>
+          <li lang="eu">Itzulpen berriak</li>
+          <li lang="ja">新しい翻訳</li>
+          <li lang="hu">Új fordítások</li>
+          <li lang="ru">Новые переводы</li>
+          <li lang="oc">Traduccions novèlas</li>
+          <li lang="nn">Nye omsettingar</li>
+          <li lang="nl">Nieuwe vertalingen</li>
+          <li lang="si">නව පරිවර්තන</li>
+          <li lang="it">Nuove traduzioni</li>
+          <li lang="lt">Nauji vertimai</li>
+          <li lang="id">Terjemahan baru</li>
+          <li lang="fi">Uudet käännökset</li>
+          <li lang="nb_NO">Nye oversettelser</li>
+          <li lang="pt_BR">Novas traduções</li>
+          <li lang="hr">Novi prijevodi</li>
+          <li lang="tr">Yeni çeviriler</li>
+          <li lang="sv">Nya översättningar</li>
+          <li lang="es">Traducciones nuevas</li>
+          <li lang="de">Neue Übersetzungen</li>
+          <li lang="fr">Nouvelles traductions</li>
+        </ul>
+      </description>
+      <url>https://gitlab.com/rmnvgr/metadata-cleaner/-/releases/v2.0.1</url>
+    </release>
+    <release version="2.0.0" date="2021-09-22">
+      <description>
+        <ul>
+          <li>Improved adaptive user interface</li>
+          <li lang="uk">Покращений адаптивний інтерфейс користувача</li>
+          <li lang="pt">Interface de utilizador adaptável aprimorada</li>
+          <li lang="pl">Ulepszony adaptacyjny interfejs użytkownika</li>
+          <li lang="gl">Interface de usuario adaptativa mellorada</li>
+          <li lang="cs">Vylepšené adaptivní uživatelské rozhraní</li>
+          <li lang="ro">Interfață de utilizator adaptabilă îmbunătățită</li>
+          <li lang="zh_CN">改进了自适应用户界面</li>
+          <li lang="eu">Erabiltzaile-interfaze egokigarri hobetua</li>
+          <li lang="ja">Adaptive User Interface の改善</li>
+          <li lang="hu">Továbbfejlesztett alkalmazkodó felhasználói felület</li>
+          <li lang="ru">Улучшена адаптивность</li>
+          <li lang="oc">Interfàcia utilizaire adaptativa amelhorada</li>
+          <li lang="nn">Betre tilpassingsdyktig brukargrensesnitt</li>
+          <li lang="nl">De automatisch aanpasbare vormgeving is verbeterd</li>
+          <li lang="it">Interfaccia utente adattiva migliorata</li>
+          <li lang="lt">Patobulinta adaptyvi vartotojo sąsaja</li>
+          <li lang="id">Tampilan antarmuka adaptif yang ditingkatkan</li>
+          <li lang="fi">Paranneltu mukautuva käyttöliittymä</li>
+          <li lang="nb_NO">Forbedret tillpassbart brukergrensesnitt</li>
+          <li lang="pt_BR">Interface de usuário adaptável aprimorada</li>
+          <li lang="hr">Poboljšano prilagodljivo korisničko sučelje</li>
+          <li lang="tr">İyileştirilmiş uyarlanabilir kullanıcı arayüzü</li>
+          <li lang="sv">Förbättrat anpassningsbart användargränssnitt</li>
+          <li lang="es">Interfaz de usuario adaptable mejorada</li>
+          <li lang="de">Verbesserte anpassungsfähige Benutzeroberfläche</li>
+          <li lang="fr">Interface utilisateur améliorée et adaptive</li>
+          <li>New help pages</li>
+          <li lang="uk">Нові сторінки довідки</li>
+          <li lang="bn">নতুন সাহায্য পৃষ্ঠা</li>
+          <li lang="pt">Novas páginas de ajuda</li>
+          <li lang="pl">Nowe strony pomocy</li>
+          <li lang="gl">Novas páxinas de axuda</li>
+          <li lang="cs">Nové stránky s nápovědou</li>
+          <li lang="ro">Noi pagini de ajutor</li>
+          <li lang="zh_CN">新增了帮助页面</li>
+          <li lang="eu">Laguntza-orri berriak</li>
+          <li lang="ja">新しいヘルプページ</li>
+          <li lang="hu">Új súgóoldalak</li>
+          <li lang="ru">Новые страницы помощи</li>
+          <li lang="oc">Paginas novèlas d’ajuda</li>
+          <li lang="nn">Nye hjelpesider</li>
+          <li lang="da">Nye hjælpesider</li>
+          <li lang="nl">Nieuwe hulppagina's</li>
+          <li lang="it">Nuove pagine di aiuto</li>
+          <li lang="lt">Nauji pagalbos puslapiai</li>
+          <li lang="id">Halaman bantuan baru</li>
+          <li lang="fi">Uudet ohjesivut</li>
+          <li lang="nb_NO">Nye hjelpesider</li>
+          <li lang="pt_BR">Novas páginas de ajuda</li>
+          <li lang="hr">Nove stranice pomoći</li>
+          <li lang="tr">Yeni yardım sayfaları</li>
+          <li lang="sv">Nya hjälpsidor</li>
+          <li lang="es">Páginas de ayuda nuevas</li>
+          <li lang="de">Neue Hilfe-Seiten</li>
+          <li lang="fr">Nouvelles pages d’aide</li>
+          <li>One-click cleaning, no need to save after cleaning</li>
+          <li lang="uk">Очищення одним натисканням та без необхідності зберігати після очищення</li>
+          <li lang="bn">এক-ক্লিকের অপসারণ, অপসারণের পর সংরক্ষণের প্রয়োজন নেই</li>
+          <li lang="pt">Limpar com um clique, não há necessidade de gravar após a limpeza</li>
+          <li lang="pl">Czyszczenie jednym kliknięciem, brak potrzeby zapisywania po czyszczeniu</li>
+          <li lang="gl">Limpeza con un só clic, sen necesidade de gardar despois da limpeza</li>
+          <li lang="cs">Čištění jedním kliknutím, po vyčištění není třeba ukládat</li>
+          <li lang="ro">Curățare cu un singur clic, nu este nevoie să salvezi după curățare</li>
+          <li lang="zh_CN">一键删除元数据，删完后无需保存</li>
+          <li lang="eu">Garbitu klik bakarrarekin, garbitu ondoren gorde beharrik gabe</li>
+          <li lang="ja">ワンクリック除去、除去後の保存は不要</li>
+          <li lang="hu">Egykattintásos tisztítás, nincs szükség mentésre a tisztítás után</li>
+          <li lang="ru">Очистка в один клик, не надо сохранять после операции</li>
+          <li lang="oc">Netejatge en un clic, cal pas mai enregistrar aprèp netejatge</li>
+          <li lang="nl">Opschonen met één klik: u hoeft niet op te schonen en dan nog op te slaan</li>
+          <li lang="it">Pulizia con un clic, non è necessario salvare dopo la pulizia</li>
+          <li lang="lt">Valymas vienu paspaudimu, išsaugoti po to nebereikia</li>
+          <li lang="id">Pembersihan sekali klik, tidak perlu menyimpan setelah dibersihkan</li>
+          <li lang="fi">Siivousta kertanapsautuksella, ei tarvetta tallentaa siivouksen jälkeen</li>
+          <li lang="pt_BR">Limpar com um clique, não há necessidade de salvar após a limpeza</li>
+          <li lang="hr">Jednostavno čišćenje, bez potrebe za spremanjem nakon čišćenja</li>
+          <li lang="tr">Tek tıkla temizleme, temizledikten sonra kaydetmeye gerek yok</li>
+          <li lang="sv">Rensning med ett klick. Inget behov av att spara efter rensning.</li>
+          <li lang="es">Limpieza con un solo clic, sin necesidad de guardar después de la limpieza</li>
+          <li lang="de">Mit einem Klick reinigen, nachträgliches Speichern nicht erforderlich</li>
+          <li lang="fr">Nettoyage en un clic, plus besoin d’enregistrer après avoir nettoyé</li>
+          <li>Persistent lightweight cleaning option</li>
+          <li lang="uk">Надійна проста опція очищення</li>
+          <li lang="pt">Opção de limpeza ligeira persistente</li>
+          <li lang="pl">Opcja trwałego lekkiego czyszczenia</li>
+          <li lang="gl">Opción de limpeza lixeira persistente</li>
+          <li lang="cs">Trvalá předvolba pro opatrné čištění</li>
+          <li lang="ro">Opțiune de curățare ușoară persistentă</li>
+          <li lang="zh_CN">可以记住浅层删除选项的选中状态了</li>
+          <li lang="eu">Garbiketa arin iraunkorra egiteko aukera</li>
+          <li lang="ja">永続的な簡易除去オプション</li>
+          <li lang="hu">Állandó egyszerűsített tisztítási lehetőség</li>
+          <li lang="oc">Opcion persistenta de netejatge leugièr</li>
+          <li lang="nl">Permanente eenvoudige modus-optie</li>
+          <li lang="it">Opzione di pulizia leggera persistente</li>
+          <li lang="lt">Nuolatinė lengvojo valymo pasirinktis</li>
+          <li lang="id">Opsi pembersihan ringan yang persisten</li>
+          <li lang="fi">Pienimuotoisen siivouksen tila</li>
+          <li lang="pt_BR">Opção de limpeza leve e persistente</li>
+          <li lang="hr">Opcija za jednostavno čišćenje</li>
+          <li lang="tr">Kalıcı hafif temizleme seçeneği</li>
+          <li lang="sv">Beständigt lätt rengöringsalternativ</li>
+          <li lang="es">Opción de limpieza ligera persistente</li>
+          <li lang="de">Option für oberflächliche Bereinigung</li>
+          <li lang="fr">L’option de nettoyage léger est désormais mémorisée</li>
+        </ul>
+      </description>
+      <url>https://gitlab.com/rmnvgr/metadata-cleaner/-/releases/v2.0.0</url>
+    </release>
+    <release date="2021-08-10" version="1.0.8">
+      <description>
+        <ul>
+          <li>New translations</li>
+          <li lang="uk">Нові переклади</li>
+          <li lang="bn">নতুন অনুবাদ</li>
+          <li lang="pt">Novas traduções</li>
+          <li lang="pl">Nowe tłumaczenia</li>
+          <li lang="gl">Traducións novas</li>
+          <li lang="cs">Nové překlady</li>
+          <li lang="ro">Traduceri noi</li>
+          <li lang="zh_CN">新增翻译</li>
+          <li lang="eu">Itzulpen berriak</li>
+          <li lang="ja">新しい翻訳</li>
+          <li lang="hu">Új fordítások</li>
+          <li lang="ru">Новые переводы</li>
+          <li lang="oc">Traduccions novèlas</li>
+          <li lang="nn">Nye omsettingar</li>
+          <li lang="nl">Nieuwe vertalingen</li>
+          <li lang="si">නව පරිවර්තන</li>
+          <li lang="it">Nuove traduzioni</li>
+          <li lang="lt">Nauji vertimai</li>
+          <li lang="id">Terjemahan baru</li>
+          <li lang="fi">Uudet käännökset</li>
+          <li lang="nb_NO">Nye oversettelser</li>
+          <li lang="pt_BR">Novas traduções</li>
+          <li lang="hr">Novi prijevodi</li>
+          <li lang="tr">Yeni çeviriler</li>
+          <li lang="sv">Nya översättningar</li>
+          <li lang="es">Traducciones nuevas</li>
+          <li lang="de">Neue Übersetzungen</li>
+          <li lang="fr">Nouvelles traductions</li>
+        </ul>
+      </description>
+      <url>https://gitlab.com/rmnvgr/metadata-cleaner/-/releases/v1.0.8</url>
+    </release>
+    <release version="1.0.7" date="2021-07-01">
+      <description>
+        <ul>
+          <li>New translations</li>
+          <li lang="uk">Нові переклади</li>
+          <li lang="bn">নতুন অনুবাদ</li>
+          <li lang="pt">Novas traduções</li>
+          <li lang="pl">Nowe tłumaczenia</li>
+          <li lang="gl">Traducións novas</li>
+          <li lang="cs">Nové překlady</li>
+          <li lang="ro">Traduceri noi</li>
+          <li lang="zh_CN">新增翻译</li>
+          <li lang="eu">Itzulpen berriak</li>
+          <li lang="ja">新しい翻訳</li>
+          <li lang="hu">Új fordítások</li>
+          <li lang="ru">Новые переводы</li>
+          <li lang="oc">Traduccions novèlas</li>
+          <li lang="nn">Nye omsettingar</li>
+          <li lang="nl">Nieuwe vertalingen</li>
+          <li lang="si">නව පරිවර්තන</li>
+          <li lang="it">Nuove traduzioni</li>
+          <li lang="lt">Nauji vertimai</li>
+          <li lang="id">Terjemahan baru</li>
+          <li lang="fi">Uudet käännökset</li>
+          <li lang="nb_NO">Nye oversettelser</li>
+          <li lang="pt_BR">Novas traduções</li>
+          <li lang="hr">Novi prijevodi</li>
+          <li lang="tr">Yeni çeviriler</li>
+          <li lang="sv">Nya översättningar</li>
+          <li lang="es">Traducciones nuevas</li>
+          <li lang="de">Neue Übersetzungen</li>
+          <li lang="fr">Nouvelles traductions</li>
+        </ul>
+      </description>
+      <url>https://gitlab.com/rmnvgr/metadata-cleaner/-/releases/v1.0.7</url>
+    </release>
+    <release version="1.0.6" date="2021-04-27">
+      <description>
+        <ul>
+          <li>New translations</li>
+          <li lang="uk">Нові переклади</li>
+          <li lang="bn">নতুন অনুবাদ</li>
+          <li lang="pt">Novas traduções</li>
+          <li lang="pl">Nowe tłumaczenia</li>
+          <li lang="gl">Traducións novas</li>
+          <li lang="cs">Nové překlady</li>
+          <li lang="ro">Traduceri noi</li>
+          <li lang="zh_CN">新增翻译</li>
+          <li lang="eu">Itzulpen berriak</li>
+          <li lang="ja">新しい翻訳</li>
+          <li lang="hu">Új fordítások</li>
+          <li lang="ru">Новые переводы</li>
+          <li lang="oc">Traduccions novèlas</li>
+          <li lang="nn">Nye omsettingar</li>
+          <li lang="nl">Nieuwe vertalingen</li>
+          <li lang="si">නව පරිවර්තන</li>
+          <li lang="it">Nuove traduzioni</li>
+          <li lang="lt">Nauji vertimai</li>
+          <li lang="id">Terjemahan baru</li>
+          <li lang="fi">Uudet käännökset</li>
+          <li lang="nb_NO">Nye oversettelser</li>
+          <li lang="pt_BR">Novas traduções</li>
+          <li lang="hr">Novi prijevodi</li>
+          <li lang="tr">Yeni çeviriler</li>
+          <li lang="sv">Nya översättningar</li>
+          <li lang="es">Traducciones nuevas</li>
+          <li lang="de">Neue Übersetzungen</li>
+          <li lang="fr">Nouvelles traductions</li>
+        </ul>
+      </description>
+      <url>https://gitlab.com/rmnvgr/metadata-cleaner/-/releases/v1.0.6</url>
+    </release>
+    <release version="1.0.5" date="2021-04-13">
+      <url>https://gitlab.com/rmnvgr/metadata-cleaner/-/releases/v1.0.5</url>
+    </release>
+    <release version="1.0.4" date="2021-04-02">
+      <description>
+        <ul>
+          <li>New translations</li>
+          <li lang="uk">Нові переклади</li>
+          <li lang="bn">নতুন অনুবাদ</li>
+          <li lang="pt">Novas traduções</li>
+          <li lang="pl">Nowe tłumaczenia</li>
+          <li lang="gl">Traducións novas</li>
+          <li lang="cs">Nové překlady</li>
+          <li lang="ro">Traduceri noi</li>
+          <li lang="zh_CN">新增翻译</li>
+          <li lang="eu">Itzulpen berriak</li>
+          <li lang="ja">新しい翻訳</li>
+          <li lang="hu">Új fordítások</li>
+          <li lang="ru">Новые переводы</li>
+          <li lang="oc">Traduccions novèlas</li>
+          <li lang="nn">Nye omsettingar</li>
+          <li lang="nl">Nieuwe vertalingen</li>
+          <li lang="si">නව පරිවර්තන</li>
+          <li lang="it">Nuove traduzioni</li>
+          <li lang="lt">Nauji vertimai</li>
+          <li lang="id">Terjemahan baru</li>
+          <li lang="fi">Uudet käännökset</li>
+          <li lang="nb_NO">Nye oversettelser</li>
+          <li lang="pt_BR">Novas traduções</li>
+          <li lang="hr">Novi prijevodi</li>
+          <li lang="tr">Yeni çeviriler</li>
+          <li lang="sv">Nya översättningar</li>
+          <li lang="es">Traducciones nuevas</li>
+          <li lang="de">Neue Übersetzungen</li>
+          <li lang="fr">Nouvelles traductions</li>
+        </ul>
+      </description>
+      <url>https://gitlab.com/rmnvgr/metadata-cleaner/-/releases/v1.0.4</url>
+    </release>
+    <release date="2021-02-17" version="1.0.3">
+      <url>https://gitlab.com/rmnvgr/metadata-cleaner/-/releases/v1.0.3</url>
+    </release>
+    <release version="1.0.2" date="2021-01-14">
+      <description>
+        <ul>
+          <li>New translations</li>
+          <li lang="uk">Нові переклади</li>
+          <li lang="bn">নতুন অনুবাদ</li>
+          <li lang="pt">Novas traduções</li>
+          <li lang="pl">Nowe tłumaczenia</li>
+          <li lang="gl">Traducións novas</li>
+          <li lang="cs">Nové překlady</li>
+          <li lang="ro">Traduceri noi</li>
+          <li lang="zh_CN">新增翻译</li>
+          <li lang="eu">Itzulpen berriak</li>
+          <li lang="ja">新しい翻訳</li>
+          <li lang="hu">Új fordítások</li>
+          <li lang="ru">Новые переводы</li>
+          <li lang="oc">Traduccions novèlas</li>
+          <li lang="nn">Nye omsettingar</li>
+          <li lang="nl">Nieuwe vertalingen</li>
+          <li lang="si">නව පරිවර්තන</li>
+          <li lang="it">Nuove traduzioni</li>
+          <li lang="lt">Nauji vertimai</li>
+          <li lang="id">Terjemahan baru</li>
+          <li lang="fi">Uudet käännökset</li>
+          <li lang="nb_NO">Nye oversettelser</li>
+          <li lang="pt_BR">Novas traduções</li>
+          <li lang="hr">Novi prijevodi</li>
+          <li lang="tr">Yeni çeviriler</li>
+          <li lang="sv">Nya översättningar</li>
+          <li lang="es">Traducciones nuevas</li>
+          <li lang="de">Neue Übersetzungen</li>
+          <li lang="fr">Nouvelles traductions</li>
+          <li>Files with uppercase extension can now be added</li>
+          <li lang="uk">Відтепер можна додавати файли з розширенням великими буквами</li>
+          <li lang="bn">বড় হাতের অক্ষরের এক্সটেনশন যুক্ত ফাইল এখন যুক্ত করা যাবে</li>
+          <li lang="pt">Agora pode-se adicionar ficheiros com extensão em maiúsculas</li>
+          <li lang="pl">Można teraz dodawać pliki z rozszerzeniem zawierającym wielkie litery</li>
+          <li lang="gl">Agora pódense engadir ficheiros con extensión en maiúsculas</li>
+          <li lang="cs">Nyní lze přidávat soubory s příponou s velkými písmeny</li>
+          <li lang="ro">Fișierele cu extensie cu majuscule pot fi adăugate acum</li>
+          <li lang="zh_CN">现在扩展名大写的文件也可以添加了</li>
+          <li lang="eu">Orain, letra larriz luzatutako fitxategiak gehitu daitezke</li>
+          <li lang="ja">拡張子が大文字のファイルを追加できるようになりました</li>
+          <li lang="hu">Mostantól hozzáadhatók a nagybetűs kiterjesztéssel rendelkező fájlok</li>
+          <li lang="ru">Теперь файлы с заглавным именем расширения могут быть импортированы</li>
+          <li lang="oc">Los fichièrs amb una extension en majuscula pòdon ara èsser aponduts</li>
+          <li lang="nn">Filar med storbokstavar i filendinga kan no varte nytta</li>
+          <li lang="nl">Bestanden met een extensie in hoofdletters kunnen voortaan worden toegevoegd</li>
+          <li lang="it">È ora possibile aggiungere file con estensione maiuscola</li>
+          <li lang="lt">Dabar galima pridėti failus su plėtiniais didžiosiomis raidėmis</li>
+          <li lang="id">Berkas dengan ekstensi huruf besar kini bisa ditambahkan</li>
+          <li lang="fi">Tiedostoja, joiden tiedostopääte on isoin kirjaimin, voi nyt lisätä</li>
+          <li lang="nb_NO">Filer med filendelser som bruker store bokstaver kan nå legges til</li>
+          <li lang="pt_BR">Arquivos com extensão em maiúsculas agora podem ser adicionados</li>
+          <li lang="hr">Sada je moguće dodati datoteke s datotečnim nastavkom pisan velikim slovima</li>
+          <li lang="tr">Büyük harfli uzantıya sahip dosyalar artık eklenebilir</li>
+          <li lang="sv">Filer med filändelsen i versaler kan nu läggas till</li>
+          <li lang="es">Ahora se pueden añadir archivos con extensión en mayúsculas</li>
+          <li lang="de">Dateien mit Großbuchstaben in der Dateiendung können jetzt hinzugefügt werden</li>
+          <li lang="fr">Les fichiers avec une extension en majuscule peuvent maintenant être ajoutés</li>
+        </ul>
+      </description>
+      <url>https://gitlab.com/rmnvgr/metadata-cleaner/-/releases/v1.0.2</url>
+    </release>
+    <release date="2020-12-24" version="1.0.1">
+      <description>
+        <ul>
+          <li>New translations</li>
+          <li lang="uk">Нові переклади</li>
+          <li lang="bn">নতুন অনুবাদ</li>
+          <li lang="pt">Novas traduções</li>
+          <li lang="pl">Nowe tłumaczenia</li>
+          <li lang="gl">Traducións novas</li>
+          <li lang="cs">Nové překlady</li>
+          <li lang="ro">Traduceri noi</li>
+          <li lang="zh_CN">新增翻译</li>
+          <li lang="eu">Itzulpen berriak</li>
+          <li lang="ja">新しい翻訳</li>
+          <li lang="hu">Új fordítások</li>
+          <li lang="ru">Новые переводы</li>
+          <li lang="oc">Traduccions novèlas</li>
+          <li lang="nn">Nye omsettingar</li>
+          <li lang="nl">Nieuwe vertalingen</li>
+          <li lang="si">නව පරිවර්තන</li>
+          <li lang="it">Nuove traduzioni</li>
+          <li lang="lt">Nauji vertimai</li>
+          <li lang="id">Terjemahan baru</li>
+          <li lang="fi">Uudet käännökset</li>
+          <li lang="nb_NO">Nye oversettelser</li>
+          <li lang="pt_BR">Novas traduções</li>
+          <li lang="hr">Novi prijevodi</li>
+          <li lang="tr">Yeni çeviriler</li>
+          <li lang="sv">Nya översättningar</li>
+          <li lang="es">Traducciones nuevas</li>
+          <li lang="de">Neue Übersetzungen</li>
+          <li lang="fr">Nouvelles traductions</li>
+        </ul>
+      </description>
+      <url>https://gitlab.com/rmnvgr/metadata-cleaner/-/releases/v1.0.1</url>
+    </release>
+    <release date="2020-12-10" version="1.0.0">
+      <url>https://gitlab.com/rmnvgr/metadata-cleaner/-/releases/v1.0.0</url>
+    </release>
+    <release type="development" date="2020-12-06" version="0.9.9" />
+    <release type="development" date="2020-12-03" version="0.9.0" />
+  </releases>
+</component>

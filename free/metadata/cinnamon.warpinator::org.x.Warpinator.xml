@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>cinnamon.warpinator</pkgname>
+  <icon type="cached" width="64" height="64">org.x.Warpinator.png</icon>
+  <icon type="cached" width="128" height="128">org.x.Warpinator.png</icon>
+  <id>org.x.Warpinator</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <!-- DO NOT TRANSLATE Warpinator -->
+  <name>Warpinator</name>
+  <name lang="uk">Warpinator</name>
+  <name lang="tr">Warpinator</name>
+  <name lang="sv">Warpinator</name>
+  <name lang="sr@latin">Warpinator</name>
+  <name lang="sr">Warpinator</name>
+  <name lang="sk">Warpinator</name>
+  <name lang="ru">Warpinator</name>
+  <name lang="ro">Warpinator</name>
+  <name lang="pt_BR">Warpinator</name>
+  <name lang="pt">Warpinator</name>
+  <name lang="nl">Warpinator</name>
+  <name lang="lt">Warpinator</name>
+  <name lang="la">Warpinator</name>
+  <name lang="kn">ವಾರ್ಪಿನೇಟರ್</name>
+  <name lang="kab">Warpinator</name>
+  <name lang="ja">Warpinator</name>
+  <name lang="it">Warpinator</name>
+  <name lang="is">Warpinator</name>
+  <name lang="id">Warpinator</name>
+  <name lang="ie">Warpinator</name>
+  <name lang="ia">Warpinator</name>
+  <name lang="hu">Warpinator</name>
+  <name lang="hr">Warpinator</name>
+  <name lang="hi">Warpinator</name>
+  <name lang="he">Warpinator</name>
+  <name lang="fy">Warpinator</name>
+  <name lang="fr_CA">Warpinator</name>
+  <name lang="fr">Warpinator</name>
+  <name lang="fi">Warpinator</name>
+  <name lang="eu">Warpinator</name>
+  <name lang="et">Warpinator</name>
+  <name lang="es">Warpinator</name>
+  <name lang="eo">Warpinator</name>
+  <name lang="el">Warpinator</name>
+  <name lang="en_GB">Warpinator</name>
+  <name lang="de">Warpinator</name>
+  <name lang="da">Warpinator</name>
+  <name lang="cy">Warpinator</name>
+  <name lang="cs">Warpinator</name>
+  <name lang="ca">Warpinator</name>
+  <name lang="be">Warpinator</name>
+  <summary>Send and Receive Files across the Network</summary>
+  <summary lang="zh_HK">通過網絡發送和接收文件</summary>
+  <summary lang="uk">Відправка й отримання файлів мережею</summary>
+  <summary lang="tr">Ağ Üzerinden Dosya Gönderin ve Alın</summary>
+  <summary lang="sv">Skicka och ta emot filer via nätverket</summary>
+  <summary lang="sr@latin">Šaljite i primajte datoteke preko mreže</summary>
+  <summary lang="sr">Шаљите и примајте датотеке путем мреже</summary>
+  <summary lang="sk">Odosiela a prijíma súbory prostredníctvom siete</summary>
+  <summary lang="ru">Отправка и получение файлов по сети</summary>
+  <summary lang="ro">Trimite și Primește Fișiere peste Rețea</summary>
+  <summary lang="pt_BR">Envie e Receba Arquivos através da Rede</summary>
+  <summary lang="pt">Enviar e receber ficheiros através da rede</summary>
+  <summary lang="pl">Wysyłaj i odbieraj pliki w swojej sieci</summary>
+  <summary lang="nl">Bestanden verzenden en ontvangen via het netwerk</summary>
+  <summary lang="lt">Siųsti ir gauti failus per tinklą</summary>
+  <summary lang="la">Plicas per Rete Mitte atque Recipe</summary>
+  <summary lang="ko">네트워크를 통해 파일 보내기 및 받기</summary>
+  <summary lang="kn">ಜಾಲಬಂಧದಾದ್ಯಂತ ಕಡತಗಳನ್ನು ಕಳುಹಿಸಿ ಮತ್ತು ಸ್ವೀಕರಿಸಿ</summary>
+  <summary lang="kab">Azen rnu ṭṭef-d ifuylas uzeṭṭa</summary>
+  <summary lang="ja">ネットワーク経由でファイルを送受信します</summary>
+  <summary lang="it">Invia e Ricevi Files sulla Rete</summary>
+  <summary lang="is">Senda og taka við skrám um netið</summary>
+  <summary lang="id">Kirim dan Terima berkas melalui Jaringan</summary>
+  <summary lang="ie">Inviar e reciver files tra li rete</summary>
+  <summary lang="ia">Invia e recipe files inter le rete</summary>
+  <summary lang="hu">Fájlok küldése és fogadása a hálózaton</summary>
+  <summary lang="hr">Šaljite i primajte datoteke putem mreže</summary>
+  <summary lang="hi">नेटवर्क द्वारा फाइलों का आदान-प्रदान करें</summary>
+  <summary lang="he">שליחת וקבלת קבצים על פני הרשת</summary>
+  <summary lang="fy">Triemen oer it netwurk ferstjoere en oannime</summary>
+  <summary lang="fr_CA">Envoyer et recevoir des fichiers sur le réseau</summary>
+  <summary lang="fr">Envoyer et recevoir des fichiers sur le réseau</summary>
+  <summary lang="fi">Lähetä ja vastaanota tiedostoja verkossa</summary>
+  <summary lang="eu">Bidali eta jaso fitxategiak sarean zehar</summary>
+  <summary lang="et">Failid saatmine ja vastuvõtmine võrgu kaudu</summary>
+  <summary lang="es">Enviar y recibir archivos a través de la red</summary>
+  <summary lang="eo">Sendi kaj ricevi dosierojn tra la reto</summary>
+  <summary lang="el">Στείλτε και λάβετε αρχεία στο δίκτυό σας</summary>
+  <summary lang="en_GB">Send and Receive Files across the Network</summary>
+  <summary lang="de">Dateien über das Netzwerk senden und empfangen</summary>
+  <summary lang="da">Send og modtag filer over netværket</summary>
+  <summary lang="cy">Anfon a Derbyn Ffeiliau ar draws y Rhwydwaith</summary>
+  <summary lang="cs">Posílání a přijímání souborů po síti</summary>
+  <summary lang="ca">Envia i rep arxius a través de la xarxa</summary>
+  <summary lang="bn">নেটওয়ার্ক  দিয়ে ফাইলগুলি প্রেরণ এবং গ্রহণ করুন</summary>
+  <summary lang="be">Пасылайце і атрымілвайце файлы па сетцы</summary>
+  <summary lang="ar">إرسال واستقبال الملفات عبر الشبكة</summary>
+  <description>
+    <p>
+      Warpinator allows you to easily connect multiple computers on a local area network and share files quickly and securely.
+    </p>
+  </description>
+  <description lang="be">
+    <p>Warpinator дазваляе вам лёгка злучаць некалькі камп'ютараў у лакальнай сетцы і дзяліцца файламі хутка і бяспечна.</p>
+  </description>
+  <description lang="ca">
+    <p>Warpinator us permet connectar fàcilment amb múltiples equips, en una xarxa d'àrea local i compartir arxius de manera ràpida i segura.</p>
+  </description>
+  <description lang="cs">
+    <p>Warpinator vám umožňuje snadno propojit vícero počítačů na místní síti a rychle a bezpečně sdílet soubory.</p>
+  </description>
+  <description lang="cy">
+    <p>Mae Warpinator yn caniatáu i chi gysylltu cyfrifiaduron lluosog yn hawdd ar rwydwaith ardal leol a rhannu ffeiliau'n sydyn a diogel.</p>
+  </description>
+  <description lang="da">
+    <p>Med Warpinator kan du nemt forbinde flere computere på et lokalt netværk og dele filer hurtigt og sikkert.</p>
+  </description>
+  <description lang="de">
+    <p>Mit Warpinator können Sie problemlos mehrere Rechner in einem lokalen Netzwerk verbinden und Dateien schnell und sicher gemeinsam nutzen.</p>
+  </description>
+  <description lang="el">
+    <p>Το Warpinator σας επιτρέπει να συνδεθείτε εύκολα με πολλαπλούς υπολογιστές σε ένα τοπικό δίκτυο και να κοινοποιήσετε αρχεία γρήγορα και με ασφάλεια.</p>
+  </description>
+  <description lang="en_GB">
+    <p>Warpinator allows you to easily connect multiple computers on a local area network and share files quickly and securely.</p>
+  </description>
+  <description lang="eo">
+    <p>Warpinator permesas al vi facile konekti plurajn komputilojn en loka reto kaj komunigi dosierojn rapide kaj sekure.</p>
+  </description>
+  <description lang="es">
+    <p>Warpinator le permite conectar fácilmente con varios equipos en una red de área local y compartir archivos de forma rápida y segura.</p>
+  </description>
+  <description lang="et">
+    <p>Warpinator võimaldab lihtsalt luua ühenduse mitme arvuti vahel samas kohtvõrgus ning jagada faile kiiresti ja turvaliselt.</p>
+  </description>
+  <description lang="eu">
+    <p>Warpinatorrek aukera ematen dizu hainbat ordenagailu sare lokal batean modu errazean konektatu eta fitxategiak azkar eta seguru partekatzeko.</p>
+  </description>
+  <description lang="fi">
+    <p>Warpinatorilla voi helposti yhdistää lähiverkon tietokoneisiin ja jakaa tiedostoja nopeasti ja turvallisesti.</p>
+  </description>
+  <description lang="fr">
+    <p>Warpinator vous permet de connecter facilement plusieurs ordinateurs sur un réseau local et de partager des fichiers rapidement, en toute sécurité.</p>
+  </description>
+  <description lang="fr_CA">
+    <p>Warpinator vous permet de connecter facilement plusieurs ordinateurs sur un réseau local et de partager des fichiers rapidement, en toute sécurité.</p>
+  </description>
+  <description lang="fy">
+    <p>Warpinator lit jo maklik ferskiedene kompûters mei inoar ferbine op in lokaal netwurk en flug en feilich triemen stjoere.</p>
+  </description>
+  <description lang="he">
+    <p>Warpinator מאפשר  לחבר בקלות מספר מחשבים ברשת מקומית ולשתף קבצים במהירות ובאופן מאובטח.</p>
+  </description>
+  <description lang="hi">
+    <p>Warpinator द्वारा लोकल एरिया नेटवर्क पर एकाधिक कंप्यूटर कनेक्ट कर त्वरित व सुरक्षित रूप से फाइल अंतरण करें।</p>
+  </description>
+  <description lang="hr">
+    <p>Warpinator vam omogućuje jednostavno povezivanje s više računala na lokalnoj mreži u svrhu brzog i sigurnog dijeljenja datoteka.</p>
+  </description>
+  <description lang="hu">
+    <p>A Warpinator segítségével könnyedén kapcsolhat össze számítógépeket a helyi hálózaton és oszthat meg gyorsan és biztonságosan fájlokat.</p>
+  </description>
+  <description lang="ia">
+    <p>Warpinator te permitte facilemente connecter multiple computers su un rete de area local e de facilemente e securmente  compartir files.</p>
+  </description>
+  <description lang="id">
+    <p>Warpinator memungkinkan Anda untuk dengan mudah menghubungkan banyak komputer di jaringan area lokal dan berbagi berkas dengan cepat dan aman.</p>
+  </description>
+  <description lang="ie">
+    <p>Warpinator permisse vos facilmen conexer multiplic computatores in local rete e partir files rapidmen e securimen.</p>
+  </description>
+  <description lang="is">
+    <p>Warpinator gerir kleift að tengja auðveldlega margar tölvur á staðarneti og deila þannig skrám á einfaldan og öruggan máta.</p>
+  </description>
+  <description lang="it">
+    <p>Warpinator ti permette di connettere insieme più computer della rete locale e di condividere files in maniera semplice, veloce e sicura.</p>
+  </description>
+  <description lang="ja">
+    <p>Warpinator でローカルエリアネットワーク上の複数のコンピューターに簡単に接続し、ファイルをすばやく安全に共有できます。</p>
+  </description>
+  <description lang="kab">
+    <p>Warpinator ad k-yeǧǧ ad teqqneḍ s sshala aṭas n yiselkimen deg uzeḍḍaadigan yerna ad tebḍuḍ ifuyla s tɣawla, tɣellist.</p>
+  </description>
+  <description lang="kn">
+    <p>ಸ್ಥಳೀಯ ಪ್ರದೇಶದ ಜಾಲಬಂಧದಲ್ಲಿ ಅನೇಕ ಗಣಕಗಳನ್ನು ಸುಲಭವಾಗಿ ಸಂಪರ್ಕಿಸಲು ಮತ್ತು ಕಡತಗಳನ್ನು ತ್ವರಿತವಾಗಿ ಮತ್ತು ಸುರಕ್ಷಿತವಾಗಿ ಹಂಚಿಕೊಳ್ಳಲು ವಾರ್ಪಿನೇಟರ್ ನಿಮಗೆ ಅನುಮತಿಸುತ್ತದೆ.</p>
+  </description>
+  <description lang="la">
+    <p>Warpinator tibi permittit ut facile plura computatra in rete locale conectas et plicas celeriter tuteque communices.</p>
+  </description>
+  <description lang="lt">
+    <p>Warpinator leidžia jums lengvai sujungti kelis kompiuterius vietiniame tinkle ir greitai bei saugiai bendrinti failus.</p>
+  </description>
+  <description lang="nl">
+    <p>Met Warpinator kunt u makkelijk meerdere computers met elkaar verbinden op uw eigen netwerk en bestanden snel en veilig delen.</p>
+  </description>
+  <description lang="pl">
+    <p>Warpinator umożliwia łatwe połączenie wielu komputerów w sieci lokalnej i szybkie, bezpieczne przesyłanie plików.</p>
+  </description>
+  <description lang="pt">
+    <p>O Warpinator permite-lhe ligar facilmente vários computadores numa rede local e partilhar ficheiros de forma rápida e segura.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Warpinator permite a você facilmente conectar a múltiplos computadores em uma rede de área local e compartilhar arquivos rapidamente e com segurança.</p>
+  </description>
+  <description lang="ro">
+    <p>Warpinator vă permite să conectați cu ușurință mai multe computere într-o rețea locală și să partajați fișiere rapid și sigur.</p>
+  </description>
+  <description lang="ru">
+    <p>Warpinator позволяет легко соединять несколько компьютеров в локальной сети и быстро и безопасно обмениваться файлами.</p>
+  </description>
+  <description lang="sk">
+    <p>Aplikácia Warpinator vám umožňuje jednoducho spojiť viacero počítačov v miestnej sieti a sprístupniť súbory rýchlo a bezpečne.</p>
+  </description>
+  <description lang="sr">
+    <p>„Warpinator“ вам омогућава да лако повежете више рачунара на мрежу месне области и да делите датотеке брзо и безбедно.</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Warpinator Vam omogućava da se lako povežete sa više računara u lokalnoj mreži i delite datoteke brzo i sigurno.</p>
+  </description>
+  <description lang="sv">
+    <p>Warpinator gör det möjligt att enkelt ansluta flera datorer till varandra i ett lokalt nätverk och dela filer snabbt och säkert.</p>
+  </description>
+  <description lang="tr">
+    <p>Warpinator, yerel bir ağdaki birden çok bilgisayara kolayca bağlanarak, dosyaları hızlı ve güvenli bir şekilde paylaşmanızı sağlar.</p>
+  </description>
+  <description lang="uk">
+    <p>Warpinator дозволяє легко з'єднувати декілька комп'ютерів у локальній мережі й швидко та безпечно здійснювати обмін  файлами.</p>
+  </description>
+  <categories>
+    <category>Network</category>
+    <category>Utility</category>
+  </categories>
+  <url type="bugtracker">https://github.com/linuxmint/warpinator/issues</url>
+  <url type="donation">https://www.linuxmint.com/donors.php</url>
+  <url type="homepage">https://github.com/linuxmint/warpinator</url>
+  <url type="translate">https://translations.launchpad.net/linuxmint/latest/+pots/warpinator</url>
+  <launchable type="desktop-id">org.x.Warpinator.desktop</launchable>
+  <releases>
+    <release date="2022-07-24" version="1.2.5" />
+  </releases>
+  <project_license>GPL-3.0+</project_license>
+  <!-- DO NOT TRANSLATE Linux Mint -->
+  <developer_name>Linux Mint</developer_name>
+  <developer_name lang="uk">Linux Mint</developer_name>
+  <developer_name lang="tr">Linux Mint</developer_name>
+  <developer_name lang="sv">Linux Mint</developer_name>
+  <developer_name lang="sr@latin">Linux Mint</developer_name>
+  <developer_name lang="sr">Линукс Минт</developer_name>
+  <developer_name lang="sk">Linux Mint</developer_name>
+  <developer_name lang="ru">Linux Mint</developer_name>
+  <developer_name lang="ro">Linux Mint</developer_name>
+  <developer_name lang="pt_BR">Linux Mint</developer_name>
+  <developer_name lang="pt">Linux Mint</developer_name>
+  <developer_name lang="nl">Linux Mint</developer_name>
+  <developer_name lang="lt">Linux Mint</developer_name>
+  <developer_name lang="la">Linux Mint</developer_name>
+  <developer_name lang="kn">ಲಿನಕ್ಸ್ ಮಿಂಟ್</developer_name>
+  <developer_name lang="kab">Linux Mint</developer_name>
+  <developer_name lang="ja">Linux Mint</developer_name>
+  <developer_name lang="it">Linux Mint</developer_name>
+  <developer_name lang="is">Linux Mint</developer_name>
+  <developer_name lang="id">Linux Mint</developer_name>
+  <developer_name lang="ie">Linux Mint</developer_name>
+  <developer_name lang="ia">Linux Mint</developer_name>
+  <developer_name lang="hu">Linux Mint</developer_name>
+  <developer_name lang="hr">Linux Mint</developer_name>
+  <developer_name lang="hi">Linux Mint</developer_name>
+  <developer_name lang="he">Linux Mint</developer_name>
+  <developer_name lang="fy">Linux Mint</developer_name>
+  <developer_name lang="fr_CA">Linux Mint</developer_name>
+  <developer_name lang="fr">Linux Mint</developer_name>
+  <developer_name lang="fi">Linux Mint</developer_name>
+  <developer_name lang="eu">Linux Mint</developer_name>
+  <developer_name lang="et">Linux Mint</developer_name>
+  <developer_name lang="es">Linux Mint</developer_name>
+  <developer_name lang="eo">Linux Mint</developer_name>
+  <developer_name lang="el">Linux Mint</developer_name>
+  <developer_name lang="en_GB">Linux Mint</developer_name>
+  <developer_name lang="de">Linux Mint</developer_name>
+  <developer_name lang="da">Linux Mint</developer_name>
+  <developer_name lang="cy">Linux Mint</developer_name>
+  <developer_name lang="cs">Linux Mint</developer_name>
+  <developer_name lang="ca">Linux Mint</developer_name>
+  <developer_name lang="be">Linux Mint</developer_name>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://github.com/linuxmint/warpinator/raw/a0d19c656068e84860c1e9b31a0ed20d6aeb266e/data/appdata/screenshot-1.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://github.com/linuxmint/warpinator/raw/a0d19c656068e84860c1e9b31a0ed20d6aeb266e/data/appdata/screenshot-2.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://github.com/linuxmint/warpinator/raw/a0d19c656068e84860c1e9b31a0ed20d6aeb266e/data/appdata/screenshot-3.png</image>
+    </screenshot>
+  </screenshots>
+  <update_contact>root@linuxmint.com</update_contact>
+  <translation type="gettext">warpinator</translation>
+  <content_rating type="oars-1.0" />
+</component>

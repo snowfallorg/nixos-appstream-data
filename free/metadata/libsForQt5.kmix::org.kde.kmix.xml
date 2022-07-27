@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>libsForQt5.kmix</pkgname>
+  <launchable type="desktop-id">org.kde.kmix.desktop</launchable>
+  <id>org.kde.kmix.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KMix</name>
+  <name lang="bg">KMix</name>
+  <name lang="ca">KMix</name>
+  <name lang="ca-valencia">KMix</name>
+  <name lang="cs">KMix</name>
+  <name lang="da">KMix</name>
+  <name lang="de">KMix</name>
+  <name lang="el">KMix</name>
+  <name lang="en-GB">KMix</name>
+  <name lang="es">KMix</name>
+  <name lang="et">KMix</name>
+  <name lang="eu">KMix</name>
+  <name lang="fi">KMix</name>
+  <name lang="fr">KMix</name>
+  <name lang="gl">KMix</name>
+  <name lang="hu">KMix</name>
+  <name lang="ia">KMix</name>
+  <name lang="id">KMix</name>
+  <name lang="it">KMix</name>
+  <name lang="ko">KMix</name>
+  <name lang="nl">KMix</name>
+  <name lang="nn">KMix</name>
+  <name lang="pl">KMix</name>
+  <name lang="pt">KMix</name>
+  <name lang="pt-BR">KMix</name>
+  <name lang="ro">KMix</name>
+  <name lang="ru">KMix</name>
+  <name lang="sk">KMix</name>
+  <name lang="sl">KMix</name>
+  <name lang="sr">К‑миксета</name>
+  <name lang="sr-Latn">K‑mikseta</name>
+  <name lang="sr-ijekavian">К‑миксета</name>
+  <name lang="sr-ijekavianlatin">K‑mikseta</name>
+  <name lang="sv">Kmix</name>
+  <name lang="uk">KMix</name>
+  <name lang="x-test">xxKMixxx</name>
+  <name lang="zh-CN">KMix</name>
+  <name lang="zh-TW">KMix</name>
+  <summary>Sound Mixer</summary>
+  <summary lang="bg">Аудио миксер</summary>
+  <summary lang="ca">Mesclador de so</summary>
+  <summary lang="ca-valencia">Mesclador de so</summary>
+  <summary lang="cs">Zvukový směšovač</summary>
+  <summary lang="da">Lydmixer</summary>
+  <summary lang="de">Lautstärkeregler</summary>
+  <summary lang="el">Μίκτης ήχου</summary>
+  <summary lang="en-GB">Sound Mixer</summary>
+  <summary lang="es">Mezclador de sonido</summary>
+  <summary lang="et">Helimikser</summary>
+  <summary lang="eu">Soinu nahaslea</summary>
+  <summary lang="fi">Äänimikseri</summary>
+  <summary lang="fr">Mixeur de son</summary>
+  <summary lang="gl">Mesturador de son</summary>
+  <summary lang="hu">Hangkeverő</summary>
+  <summary lang="ia">Miscitor de sono</summary>
+  <summary lang="id">Sound Mixer</summary>
+  <summary lang="it">Mixer audio</summary>
+  <summary lang="ko">소리 믹서</summary>
+  <summary lang="nl">Geluidsmixer</summary>
+  <summary lang="nn">Lydmiksar</summary>
+  <summary lang="pl">Mikser dźwięku</summary>
+  <summary lang="pt">Mesa de Mistura</summary>
+  <summary lang="pt-BR">Mixer de som</summary>
+  <summary lang="ro">Mixer de sunet</summary>
+  <summary lang="ru">Звуковой микшер</summary>
+  <summary lang="sk">Zvukový mixér</summary>
+  <summary lang="sl">Mešalnik zvoka</summary>
+  <summary lang="sr">Звучна миксета</summary>
+  <summary lang="sr-Latn">Zvučna mikseta</summary>
+  <summary lang="sr-ijekavian">Звучна миксета</summary>
+  <summary lang="sr-ijekavianlatin">Zvučna mikseta</summary>
+  <summary lang="sv">Ljudmixer</summary>
+  <summary lang="uk">Звуковий мікшер</summary>
+  <summary lang="x-test">xxSound Mixerxx</summary>
+  <summary lang="zh-CN">混音器</summary>
+  <summary lang="zh-TW">聲音混音器</summary>
+  <description>
+    <p>KMix is a sound channel mixer and volume control.</p>
+  </description>
+  <description lang="bg">
+    <p>KMix е програма за смесване на звукови канали и контрол на силата на звука.</p>
+  </description>
+  <description lang="ca">
+    <p>El KMix és un mesclador de canals de so amb control del volum.</p>
+  </description>
+  <description lang="ca-valencia">
+    <p>KMix és un mesclador de canals de so amb control del volum.</p>
+  </description>
+  <description lang="cs">
+    <p>KMix je zvukový směšovač a ovladač hlasitosti.</p>
+  </description>
+  <description lang="da">
+    <p>KMix er en lydkanalmixer og lydstyrkestyring.</p>
+  </description>
+  <description lang="de">
+    <p>KMix ist ein Mixer für Sound-Kanäle und ein Lautstärkeregler</p>
+  </description>
+  <description lang="el">
+    <p>Το KMix είναι ένας μίκτης καναλιών ήχου και για έλεγχο της έντασης.</p>
+  </description>
+  <description lang="en-GB">
+    <p>KMix is a sound channel mixer and volume control.</p>
+  </description>
+  <description lang="es">
+    <p>KMix es un mezclador de canales de sonido y un controlador de volumen.</p>
+  </description>
+  <description lang="et">
+    <p>KMix on helikanalite mikser ja helitugevuse juhtimise tööriist.</p>
+  </description>
+  <description lang="eu">
+    <p>KMix soinu kanal nahasle eta bolumen aginte bat da.</p>
+  </description>
+  <description lang="fi">
+    <p>KMix on äänikavanamikseri ja äänenvoimakkuuden säädin.</p>
+  </description>
+  <description lang="fr">
+    <p>KMix est un outil de mixage des canaux sonores et de contrôle du volume.</p>
+  </description>
+  <description lang="gl">
+    <p>KMix é un mesturador de canles de son e un controlador de volume.</p>
+  </description>
+  <description lang="hu">
+    <p>A KMix egy hangcsatorna-keverő és hangerő-szabályozó alkalmazás.</p>
+  </description>
+  <description lang="ia">
+    <p>KMix es un miscitor de canal de sono e controlo de volumine.</p>
+  </description>
+  <description lang="id">
+    <p>KMix adalah mixer channel suara dan kendali volume.</p>
+  </description>
+  <description lang="it">
+    <p>Kmix è un mixer per i canali audio ed un regolatore del volume.</p>
+  </description>
+  <description lang="ko">
+    <p>KMix는 오디오 채널 믹서와 음량 조절 도구입니다.</p>
+  </description>
+  <description lang="nl">
+    <p>KMix is een mixer voor geluidskanalen en volumebesturing.</p>
+  </description>
+  <description lang="nn">
+    <p>KMix er eit program for justering av lydkanalar og lydstyrke.</p>
+  </description>
+  <description lang="pl">
+    <p>KMix jest mikserem kanałów dźwięku oraz sterowaniem głośnością.</p>
+  </description>
+  <description lang="pt">
+    <p>O KMix é uma mesa de mistura e um controlo do volume dos canais de som.</p>
+  </description>
+  <description lang="pt-BR">
+    <p>O KMix é um mixer de canais e som e controle de volume.</p>
+  </description>
+  <description lang="ro">
+    <p>KMix amestecă canale de sunet și controlează volume.</p>
+  </description>
+  <description lang="ru">
+    <p>KMIX — приложения для управлению громкостью каналов воспроизведения и записи звука.</p>
+  </description>
+  <description lang="sk">
+    <p>KMix je mixér zvukových kanálov a ovládač hlasitosti.</p>
+  </description>
+  <description lang="sl">
+    <p>KMix je mešalnik zvočnih kanalov in nadzornik glasnosti.</p>
+  </description>
+  <description lang="sr">
+    <p>К‑миксета је миксета звучних канала и управљач јачином звука.</p>
+  </description>
+  <description lang="sr-Latn">
+    <p>K‑mikseta je mikseta zvučnih kanala i upravljač jačinom zvuka.</p>
+  </description>
+  <description lang="sr-ijekavian">
+    <p>К‑миксета је миксета звучних канала и управљач јачином звука.</p>
+  </description>
+  <description lang="sr-ijekavianlatin">
+    <p>K‑mikseta je mikseta zvučnih kanala i upravljač jačinom zvuka.</p>
+  </description>
+  <description lang="sv">
+    <p>Kmix är en ljudkanalmixer och volymkontroll.</p>
+  </description>
+  <description lang="uk">
+    <p>KMix — мікшер звукових каналів та програма для керування гучністю відтворення.</p>
+  </description>
+  <description lang="x-test">
+    <p>xxKMix is a sound channel mixer and volume control.xx</p>
+  </description>
+  <description lang="zh-CN">
+    <p>KMix 是一款音频通道混合器和音量控制器。</p>
+  </description>
+  <description lang="zh-TW">
+    <p>KMix 是款音訊混音器，也是個音量控制器。</p>
+  </description>
+  <url type="homepage">https://www.kde.org/applications/multimedia/kmix/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?product=kmix</url>
+  <url type="help">https://docs.kde.org/?application=kmix</url>
+  <url type="donation">https://www.kde.org/community/donations/?app=kmix&amp;source=appdata</url>
+  <screenshots>
+    <screenshot>
+      <image>https://cdn.kde.org/screenshots/kmix/kmix.png</image>
+    </screenshot>
+  </screenshots>
+  <provides>
+    <binary>kmix</binary>
+  </provides>
+  <project_group>KDE</project_group>
+  <releases>
+    <release version="22.04.3" date="2022-07-07" />
+    <release date="2022-06-09" version="22.04.2" />
+    <release version="22.04.1" date="2022-05-12" />
+    <release version="22.04.0" date="2022-04-21" />
+  </releases>
+</component>

@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <description>
+    <p>
+      KTorrent is a BitTorrent application by KDE which allows you to download files using
+      the BitTorrent protocol. It enables you to run multiple torrents at the same time and
+      comes with extended features to make it a full-featured client for BitTorrent.
+    </p>
+    <p>Features:</p>
+    <ul>
+      <li>Queuing of torrents</li>
+      <li>Global and per torrent speed limits</li>
+      <li>Previewing of certain file types, build in (video and audio)</li>
+      <li>Importing of partially or fully downloaded files</li>
+      <li>File prioritization for multi-file torrents</li>
+      <li>Selective downloading for multi-file torrents</li>
+      <li>Kick/ban peers with an additional IP Filter dialog for list/edit purposes</li>
+      <li>UDP tracker support</li>
+      <li>Support for private trackers and torrents</li>
+      <li>Support for µTorrent's peer exchange</li>
+      <li>Support for protocol encryption (compatible with Azureus)</li>
+      <li>Support for creating trackerless torrents</li>
+      <li>Support for distributed hash tables (DHT, the Mainline version)</li>
+      <li>Support for UPnP to automatically forward ports on a LAN with dynamic assigned hosts</li>
+      <li>Support for webseeds</li>
+      <li>System tray integration</li>
+      <li>Tracker authentication support</li>
+      <li>Connection through a proxy</li>
+    </ul>
+    <p>In addition to the built-in functionalities, there are some plugins available for KTorrent.</p>
+  </description>
+  <description lang="ar">
+    <p>يتيح لك «سيولك» (وهو تطبيق ”بِت‌تورنت“ من «كدي») تنزيل الملفات مستخدما ميفاق ”بِت‌تورنت“. يسمح لك التطبيق بتشغيل عدد من السيول في الوقت نفسه وهو يأتي مع مزايا عدّة تجعله عميلًا كامل المواصفات لميفاق ”بِت‌تورنت“.</p>
+    <p>المزايا</p>
+    <ul>
+      <li>وضع السيول في طوابير</li>
+      <li>حدود سرعة عمومية وخاصة لكل سيل</li>
+      <li>معاينة مضمّنة لبعض أنواع الملفات (المرئية والمسموعة)</li>
+      <li>استيراد الملفات المنزّلة جزئيا أو كليا</li>
+      <li>تحديد أولويات الملفات للسيول التي فيها عدة ملفات</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>El KTorrent és una aplicació de BitTorrent creada per la comunitat KDE que us permetrà descarregar fitxers utilitzant el protocol BitTorrent. Permet executar múltiples torrents alhora i ve amb característiques esteses per a fer-lo un client complet per a BitTorrent.</p>
+    <p>Característiques:</p>
+    <ul>
+      <li>Cua dels torrents</li>
+      <li>Límits de la velocitat global i per torrent</li>
+      <li>Vista prèvia de certs tipus de fitxer, integrada en construir (vídeo i àudio)</li>
+      <li>Importació de fitxers descarregats parcialment o del tot</li>
+      <li>Priorització de fitxers per als torrents amb múltiples fitxers</li>
+      <li>Descàrrega selectiva per als torrents amb múltiples fitxers</li>
+      <li>Expulsa/veta els parells amb un diàleg de filtre d'IP addicional per a finalitats de llista/edició</li>
+      <li>Suport del seguidor UDP</li>
+      <li>Suport per als seguidors i torrents privats</li>
+      <li>Suport per a l'intercanvi entre parells de µTorrent</li>
+      <li>Suport per a l'encriptatge del protocol (compatible amb Azureus)</li>
+      <li>Suport per a la creació de torrents sense seguidors</li>
+      <li>Suport per a taules de resum distribuïdes (DHT, la versió de la línia principal)</li>
+      <li>Suport per a UPnP per a desviar automàticament els ports de la LAN amb assignació dinàmica de màquines</li>
+      <li>Suport per a sembradors web</li>
+      <li>Integració amb la safata del sistema</li>
+      <li>Suport d'autenticació del seguidor</li>
+      <li>Connexió a través d'un servidor intermediari</li>
+    </ul>
+    <p>Addicionalment a les funcionalitats integrades en construir, hi ha alguns connectors disponibles per al KTorrent.</p>
+  </description>
+  <description lang="ca-valencia">
+    <p>KTorrent és una aplicació de BitTorrent creada per la comunitat KDE que us permetrà descarregar fitxers utilitzant el protocol BitTorrent. Permet executar múltiples torrent alhora i ve amb característiques esteses per a fer-lo un client complet per a BitTorrent.</p>
+    <p>Característiques:</p>
+    <ul>
+      <li>Cua dels torrent</li>
+      <li>Límits de la velocitat global i per torrent</li>
+      <li>Vista prèvia de certs tipus de fitxer, integrada en construir (vídeo i àudio)</li>
+      <li>Importació de fitxers descarregats parcialment o del tot</li>
+      <li>Priorització de fitxers per als torrent amb múltiples fitxers</li>
+      <li>Descàrrega selectiva per als torrent amb múltiples fitxers</li>
+      <li>Expulsa/veta els parells amb un diàleg de filtre d'IP addicional per a finalitats de llista/edició</li>
+      <li>Suport del seguidor UDP</li>
+      <li>Suport per als seguidors i torrent privats</li>
+      <li>Suport per a l'intercanvi entre parells de µTorrent</li>
+      <li>Suport per a l'encriptació del protocol (compatible amb Azureus)</li>
+      <li>Suport per a la creació de torrent sense seguidors</li>
+      <li>Suport per a taules de resum distribuïdes (DHT, la versió de la línia principal)</li>
+      <li>Suport per a UPnP per a desviar automàticament els ports de la LAN amb assignació dinàmica de màquines</li>
+      <li>Suport per a sembradors web</li>
+      <li>Integració amb la safata del sistema</li>
+      <li>Suport d'autenticació del seguidor</li>
+      <li>Connexió a través d'un servidor intermediari</li>
+    </ul>
+    <p>De manera addicional a les funcionalitats integrades en construir, hi ha alguns connectors disponibles per a KTorrent.</p>
+  </description>
+  <description lang="cs">
+    <p>Vlastnosti:</p>
+    <ul>
+      <li>Řazení torrentů do fronty</li>
+      <li>Podpora trackerů UDP</li>
+      <li>Podpora pro soukromé trackery a torrenty</li>
+      <li>Podpora výměny protějšků µTorrent</li>
+      <li>Podpora pro šifrování protokolu (kompatibilní s Azureus)</li>
+      <li>Podpora pro vytvoření torrentů bez trackerů</li>
+      <li>Podpora pro distribuované tabulky hash (DHT, hlavní verze)</li>
+      <li>Podpora automatické přeposílání portů na LAN s dynamicky přidělovanými hostiteli v UPnP</li>
+      <li>Podpora pro webové sdílení</li>
+      <li>Integrace do systémové části panelu</li>
+      <li>Připojení skrze proxy</li>
+    </ul>
+  </description>
+  <description lang="da">
+    <p>KTorrent er et BitTorrent-program fra KDE, som lader dig downloade filer med BitTorrent-protokollen. Den lader dig køre flere torrents på samme tid og har udvidet funktionalitet som gør det til en komplet BitTorrent-klient.</p>
+    <p>Funktioner:</p>
+    <ul>
+      <li>Sæt torrents i kø</li>
+      <li>Hastighedsgrænser globalt og pr. torrent</li>
+      <li>Forhåndsvisning af visse filtyper indbygget (video og lyd)</li>
+      <li>Import af delvist eller helt downloadede filer</li>
+      <li>Filprioritering for torrents med flere filer</li>
+      <li>Selektiv download ved torrents med flere filer</li>
+      <li>Afbryd/bandlys peers med en yderligere IP-filterdialog til liste- og redigeringsformål</li>
+      <li>Understøttelse af UDP-tracker</li>
+      <li>Understøtter private trackere og torrents</li>
+      <li>Understøttelse af µTorrent's peer-udveksling</li>
+      <li>Understøttelse af protokolkryptering (kompatibel med Azureus)</li>
+      <li>Understøttelse af oprettelse af trackerløse torrents</li>
+      <li>Understøttelse af distribuerede hast-tabeller (DHT, mainline-versionen)</li>
+      <li>Understøttelse af UPnP til automatisk at åbne porte på et LAN med dynamisk tildelte værter</li>
+      <li>Understøttelse af webseeds</li>
+      <li>Integration med statusområde</li>
+      <li>Understøttelse af tracker-autentificering</li>
+      <li>Forbindelse via proxy</li>
+    </ul>
+    <p>Udover den indbyggede funktionalitet er der nogle plugins tilgængelige til KTorrent.</p>
+  </description>
+  <description lang="de">
+    <p>KTorrent ist ein BitTorrent-Programm von KDE. Sie können damit Dateien über das BitTorrent-Protokoll herunterladen. Mehrere Torrents lassen sich gleichzeitig ausführen. KTorrent hat zusätzliche Fähigkeiten und ist damit ein mit allen Funktionen ausgestattetes Dienstprogramm für BitTorrent.</p>
+    <p>Funktionen:</p>
+    <ul>
+      <li>Verwaltung von Warteschlangen für Torrents</li>
+      <li>Geschwindigkeitsbegrenzungen global und für den einzelnen Torrent</li>
+      <li>Eingebaute Vorschau für bestimmte Dateitypen (Video und Audio)</li>
+      <li>Teilweise oder vollständig heruntergeladene Dateien werden importiert</li>
+      <li>Dateipriorisierung für Torrents mit mehreren Dateien</li>
+      <li>In Torrents mit mehreren Dateien können einzelne Dateien zum Herunterladen ausgewählt werden.</li>
+      <li>Gegenstellen zwangsweise trennen oder verbannen mit Hilfe eines zusätzlichen IP-Filterdialogs. Die IP-Einträge können in diesem Dialog angezeigt und bearbeitet werden.</li>
+      <li>Unterstützung für UDP-Tracker</li>
+      <li>Unterstützung für private Tracker und Torrents</li>
+      <li>Unterstützung für Austausch von Gegenstellen bei µTorrents</li>
+      <li>Unterstützung für Protokollverschlüsselung (kompatibel mit Azureus)</li>
+      <li>Unterstützung für das Erstellen von Torrents ohne Tracker</li>
+      <li>Unterstützung für Verteilte Hashtabellen (Distributed Hash Table, DHT in der Mainline-Version)</li>
+      <li>Unterstützung für UPnP zur automatischen Port-Weiterleitung in Netzwerken mit dynamisch zugewiesenen Rechnern</li>
+      <li>Unterstützung für Webseeds</li>
+      <li>Integration in den Systemabschnitt der Kontrollleiste</li>
+      <li>Unterstützung für Tracker-Authentifizierung</li>
+      <li>Verbindung über Proxys</li>
+    </ul>
+    <p>Zusätzlich zu den eingebauten Funktionen gibt es weitere Module für KTorrent.</p>
+  </description>
+  <description lang="el">
+    <p>Το KTorrent είναι μια εφαρμογή BitTorrent από το KDE την οποία σας επιτρέπει να κάνετε λήψεις αρχείων με χρήσητ του πρωτοκόλλου BitTorrent. Σας δίνει τη δυνατότητα να εκετελείτε πολλά torrents ταυτόχρονα και συνοδεύεται με εκτεταμένες λειτουργίες για μια πλήρη χαρακτηριστικών εφαρμογή BitTorrent.</p>
+    <p>Χαρακτηριστικά:</p>
+    <ul>
+      <li>Ουρές από torrents</li>
+      <li>Καθολικά και ανά torrent όρια ταχύτητας</li>
+      <li>Προεπισκόπηση συγκεκριμένων τύπων αρχείων, ενσωματωμένη (με βίντεο και ήχο)</li>
+      <li>Εισαγωγή αποσπασματικώς ή πλήρως ληφθέντων αρχείων</li>
+      <li>Παραχώρηση προτεραιότητας σε αρχείο σε torrent με πολλά αρχεία</li>
+      <li>Επιλεκτική λήψη για torrent με πολλά αρχεία</li>
+      <li>Αποκλεισμός κόμβων με επιπλέον διάλογο IP φίλτρου για σκοπούς λίστας/επεξεργασίας</li>
+      <li>Υποστήριξη ανιχνευτή UDP</li>
+      <li>Υποστήριξη για ιδιωτικούς ανιχνευτές και torrent</li>
+      <li>Υποστήριξη για ανταλλαγή µTorrent κόμβων</li>
+      <li>Υποστήριξη για κρυπτογράφηση πρωτοκόλλου (συμβατό με Azureus)</li>
+      <li>Υποστήριξη για δημιουργία torrent χωρίς ανιχνευτές</li>
+      <li>Υποστήιριξη για κατανεμημένους πίνακες κατακερματισμού (DHT, η κύρια έκδοση)</li>
+      <li>Υποστήριξη UPnP για αυτόματη προώθηση θυρών σε τοπικό δίκτυο με δυναμική αντιστοίχιση υπολογιστών</li>
+      <li>Υποστήριξη για πηγές ιστού</li>
+      <li>Ενσωμάτωση στο πλαίσιο συστήματος</li>
+      <li>Υποστήριξη ταυτοποίησης ανιχνευτή</li>
+      <li>Σύνδεση μέσω διαμεσολαβητή</li>
+    </ul>
+    <p>Επιπλέον των ενσωματωμένων λειτουργιών, υπάρχουν κάποια πρόσθετα διαθέσιμα για το KTorrent.</p>
+  </description>
+  <description lang="en-GB">
+    <p>KTorrent is a BitTorrent application by KDE which allows you to download files using the BitTorrent protocol. It enables you to run multiple torrents at the same time and comes with extended features to make it a full-featured client for BitTorrent.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Queuing of torrents</li>
+      <li>Global and per torrent speed limits</li>
+      <li>Previewing of certain file types, build in (video and audio)</li>
+      <li>Importing of partially or fully downloaded files</li>
+      <li>File prioritisation for multi-file torrents</li>
+      <li>Selective downloading for multi-file torrents</li>
+      <li>Kick/ban peers with an additional IP Filter dialogue for list/edit purposes</li>
+      <li>UDP tracker support</li>
+      <li>Support for private trackers and torrents</li>
+      <li>Support for µTorrent's peer exchange</li>
+      <li>Support for protocol encryption (compatible with Azureus)</li>
+      <li>Support for creating trackerless torrents</li>
+      <li>Support for distributed hash tables (DHT, the Mainline version)</li>
+      <li>Support for UPnP to automatically forward ports on a LAN with dynamic assigned hosts</li>
+      <li>Support for webseeds</li>
+      <li>System tray integration</li>
+      <li>Tracker authentication support</li>
+      <li>Connection through a proxy</li>
+    </ul>
+    <p>In addition to the built-in functionalities, there are some plugins available for KTorrent.</p>
+  </description>
+  <description lang="es">
+    <p>KTorrent  es una aplicación BitTorrent de KDE que le permite descargar archivos usando el protocolo BitTorrent. Permite ejecutar varios torrents al mismo tiempo e incluye características extendidas para convertirlo en un cliente completo para BitTorrent.</p>
+    <p>Características:</p>
+    <ul>
+      <li>Encolado de torrents</li>
+      <li>Límites de velocidad globales e individuales</li>
+      <li>Vista previa de ciertos tipos de archivo, vídeo y audio incorporados</li>
+      <li>Importación de archivos descargados parcial o totalmente</li>
+      <li>Priorización de archivos para torrents multiarchivo</li>
+      <li>Descarga selectiva de torrents multiarchivo</li>
+      <li>Expulsión/bloqueo de pares con diálogo de filtro IP adicional para propósitos de listar/editar</li>
+      <li>Uso de rastreador UDP</li>
+      <li>Implementación de rastreadores y torrents privados</li>
+      <li>Implementación de intercambio de pares de µTorrent</li>
+      <li>Implementación de cifrado de protocolo (compatible con Azureus)</li>
+      <li>Admite la creación de torrents sin rastreadores</li>
+      <li>Implementación de tablas de resumen distribuidas (DHT, la versión principal)</li>
+      <li>Implementación de UPnP para redireccionar puertos automáticamente en una red local con servidores asignados dinámicamente</li>
+      <li>Implementación de semillas web</li>
+      <li>Integración con la bandeja del sistema</li>
+      <li>Implementa autenticación del rastreador</li>
+      <li>Conexión a través de un proxy</li>
+    </ul>
+    <p>Además de las funcionalidades incluidas, hay varios complementos disponibles para KTorrent.</p>
+  </description>
+  <description lang="et">
+    <p>KTorrent on KDE BitTorrenti rakendus, mis võimaldab faile alla laadida BitTorrenti protokolli kasutades. Korraga saab käitada mitut torrentit ning rakendus pakub ohtralt võimalusi, olles niisiis igati täiuslik BitTorrenti klient.</p>
+    <p>Omadused:</p>
+    <ul>
+      <li>Torrentide seadmine järjekorda</li>
+      <li>Kiiruse üldine ja torrentipõhine piiramine</li>
+      <li>Teatavate failitüüpide eelvaatlus (video ja audio)</li>
+      <li>Osaliselt või täielikult alla laaditud failide import</li>
+      <li>Paljude failidega torrentide failide seadmine tähtsuse järjekorda</li>
+      <li>Paljude failidega torrentide valikuline allalaadimine</li>
+      <li>Masinate pagendamine/keelamine täiendavas IP filtrite dialoogis</li>
+      <li>UDP tracker'i toetus</li>
+      <li>Privaatsete tracker'ite ja torrentide toetus</li>
+      <li>µTorrentiga ühilduva masinate suhtlemise toetus</li>
+      <li>Protokolli krüptimise toetus (ühilduv Azureusega)</li>
+      <li>Tracker'ivabade torrentide loomise toetus</li>
+      <li>Jagatavate räsitabelite toetus (DHT, Mainline versioon)</li>
+      <li>UPnP toetus portide automaatseks edastamiseks dünaamiliselt omistatud masinatega kohtvõrgus</li>
+      <li>Veebilevituse toetus</li>
+      <li>Lõimimine süsteemisalve</li>
+      <li>Trakcer'ite autentimise toetus</li>
+      <li>Ühendus läbi puhverserveri</li>
+    </ul>
+    <p>Lisaks on KTorrentil ka mitmeid pluginaid.</p>
+  </description>
+  <description lang="fi">
+    <p>KTorrent on KDE:n BitTorrent-sovellus, jolla voit ladata tiedostoja BitTorrent-yhteyskäytännöllä. Sovelluksella voit suorittaa useita torrentteja samanaikaisesti, ja siinä on erityisominaisuuksia, jotka tekevät siitä täydellisen BitTorrent-asiakkaan.</p>
+    <p>Ominaisuuksia:</p>
+    <ul>
+      <li>Torrenttien jonotus</li>
+      <li>Yleinen tai torrenttikohtainen nopeusrajoitus</li>
+      <li>Joidenkin (ääni- ja video-) tiedostotyyppien sisään rakennettu esikatselu</li>
+      <li>Osittain tai täysin ladattujen tiedostojen tuonti</li>
+      <li>Useampitiedostoisten torrenttien eri tiedostojen ensisijaistus</li>
+      <li>Useampitiedostoisten torrenttien valikoiva lataus</li>
+      <li>Torju/estä käyttäjiä IP-lisäsuodatinikkunassa (luettelu- tai muokkaustarkoituksiin)</li>
+      <li>UDP-seurantapalvelintuki</li>
+      <li>Yksityisten seurantapalvelinten ja torrenttien tuki</li>
+      <li>µTorrentin käyttäjävaihdon tuki</li>
+      <li>Yhteyskäytännön salaustuki (Azureuksen kanssa yhteensopiva)</li>
+      <li>Seurantapalvelimettomien torrenttien luontituki</li>
+      <li>Hajautettujen tiivistetaulukoiden tuki (DHT, Mainline-versio)</li>
+      <li>UPnP-tuki LAN-porttien automaattiohjaukseen dynaamisesti verkkoon yhdistetyillä koneilla</li>
+      <li>Webseed-tuki</li>
+      <li>Ilmoitusalueintegrointi</li>
+      <li>Seurantapalvelimen todennustuki</li>
+      <li>Välityspalvelinyhteysmahdollisuus</li>
+    </ul>
+    <p>Sisään rakennettujen toimintojen lisäksi KTorrentiin saa myös liitännäisiä.</p>
+  </description>
+  <description lang="fr">
+    <p>KTorrent est une application BitTorrent par KDE qui vous permet de télécharger des fichiers en utilisant le protocole BitTorrent. Il peut gérer plusieurs torrents en même temps et possède des fonctionnalités étendues qui en font un client complet pour BitTorrent.</p>
+    <p>Fonctionnalités :</p>
+    <ul>
+      <li>Mise en file d'attente des torrents</li>
+      <li>Limites de vitesse globales et par torrent</li>
+      <li>Aperçu en interne de certains types de fichiers (vidéo et audio)</li>
+      <li>Import de fichiers partiellement ou totalement téléchargés</li>
+      <li>Ordre de priorité des fichiers et pour les torrents multi-fichiers</li>
+      <li>Téléchargement sélectif pour les torrents multi-fichiers</li>
+      <li>Exclusion/bannissement de pairs avec une fenêtre additionnelle pour lister/modifier les filtres d'IP</li>
+      <li>Gestion des traqueurs « UDP »</li>
+      <li>Gestion des torrents et traqueurs privés</li>
+      <li>Gestion de l'échange de pairs de µTorrent.</li>
+      <li>Gestion du chiffrement du protocole (compatible avec Azureus)</li>
+      <li>Gestion de la création de torrents sans traqueur</li>
+      <li>Gestion des tables de hachage distribuées (DHT, la version principale)</li>
+      <li>Gestion du protocole UPnP pour rediriger automatiquement des ports sur un réseau dont les hôtes sont gérés dynamiquement</li>
+      <li>Gestion des sources web</li>
+      <li>Intégration dans la barre de notifications du système</li>
+      <li>Gestion de l'authentification des traqueurs</li>
+      <li>Connexion à travers un serveur mandataire</li>
+    </ul>
+    <p>En plus de ces fonctionnalités internes, des extensions sont disponibles pour KTorrent.</p>
+  </description>
+  <description lang="gl">
+    <p>KTorrent é unha aplicación de BitTorrent por KDE que permítelle descargar ficheiros usando o protocolo BitTorrent. Permítelle executar varios torrents ao mesmo tempo e inclúe funcionalidades adicionais que o converten nun cliente de BitTorrent completo.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Consulta de torrents.</li>
+      <li>Límites de velocidade globais e por torrent.</li>
+      <li>Previsualización de certos tipos de ficheiros, incluída (vídeo e son).</li>
+      <li>Importación de ficheiros descargados total ou parcialmente.</li>
+      <li>Priorización de ficheiros para os torrents con varios ficheiros.</li>
+      <li>Descarga selectiva para torrents con varios ficheiros.</li>
+      <li>Expulsar e prohibir parceiros cun diálogo adicional de filtraxe por IP para listar e editar.</li>
+      <li>Compatibilidade con localizadores UDP.</li>
+      <li>Compatibilidade con localizadores e torrents privados.</li>
+      <li>Compatibilidade co intercambio de parceiros de µTorrent.</li>
+      <li>Funcionalidade de cifrado do protocolo (compatíbel con Azureus).</li>
+      <li>Funcionalidade de creación de torrents sen localizadores.</li>
+      <li>Compatibilidade con táboas de sumas distribuídas (DHT, a versión principal).</li>
+      <li>Compatibilidade con UPnP para redirixir automaticamente portos na rede local con servidores asignados dinamicamente.</li>
+      <li>Compatibilidade con sementes web.</li>
+      <li>Integración coa área de notificación.</li>
+      <li>Funcionalidade de autenticación de localizadores.</li>
+      <li>Conexión mediante proxy.</li>
+    </ul>
+    <p>Ademais das funcionalidades incluídas, compatibilidade con complementos instalábeis desde KTorrent.</p>
+  </description>
+  <description lang="hu">
+    <p>A KTorrent egy BitTorrent alkalmazás a KDE-től, amely lehetővé teszi fájlok letöltését a BitTorrent protokoll használatával. Egyszerre több torrentet is futtathat, és számos szolgáltatás teszi teljes értékűvé a programot.</p>
+    <p>Szolgáltatások:</p>
+    <ul>
+      <li>Torrentek sorba állítása</li>
+      <li>Globális és torrentenkénti sebességkorlátok</li>
+      <li>Beépített előnézet egyes fájltípusokhoz (videó és hang)</li>
+      <li>Részben vagy teljesen letöltött fájlok importálása</li>
+      <li>Fájlok priorizálása több fájlból álló torrenteknél</li>
+      <li>Szelektív letöltés több fájlból álló torrenteknél</li>
+      <li>Partnerek kirúgása/letiltása egy további IP-szűrő párbeszédablakkal listázáshoz és szerkesztéshez</li>
+      <li>UDP követők támogatása</li>
+      <li>Privát követők és torrentek támogatása</li>
+      <li>A µTorrent partnercseréjének támogatása</li>
+      <li>Protokolltitkosítás támogatása (kompatibilis az Azureusszal)</li>
+      <li>Követő nélküli torrentek létrehozásának támogatása</li>
+      <li>Elosztott hash táblák támogatása (DHT)</li>
+      <li>UPnP támogatása a portok automatikus átirányításához</li>
+      <li>Webes partnerek (webseed) támogatása</li>
+      <li>Paneltálca integráció</li>
+      <li>Követőazonosítás támogatása</li>
+      <li>Kapcsolódás proxyn keresztül</li>
+    </ul>
+    <p>A beépített funkciók mellett bővítményekkel is fejlesztheti a KTorrent tudását.</p>
+  </description>
+  <description lang="ia">
+    <p>Characteristicas:</p>
+    <ul>
+      <li>Supporto de traciator UDP</li>
+      <li>Supporto per webseeds</li>
+      <li>Integration de tabuliero de systema</li>
+      <li>Supporto de authentication de traciator</li>
+      <li>Connexion per un proxy</li>
+    </ul>
+  </description>
+  <description lang="id">
+    <p>KTorrent adalah sebuah aplikasi BitTorrent oleh KDE yang mana memungkinkan kamu untuk mengunduh file menggunakan protokol BitTorrent. Yang sanggup saat kamu menjalankan torrent secara multiple di waktu yang bersamaan dan hadir dengan fitur yang diperluas untuk membuat sebuah klien yang berfitur penuh buat BitTorrent.</p>
+    <p>Fitur:</p>
+    <ul>
+      <li>Pengatrean torrent</li>
+      <li>Batas kecepatan per torrent dan global</li>
+      <li>Mempratinjau tipe-tipe file tertentu, yang dibawakannya ( video dan audio)</li>
+      <li>Mengimpor file yang diunduh secara penuh atau secara parsial</li>
+      <li>Pemprioritasan file untuk torrent multi file</li>
+      <li>Pengunduhan selektif untuk torrent-torrent multi file</li>
+      <li>Tendang/cegah rekan (peer) dengan sebuah dialog Filter IP tambahan untuk tujuan daftar/edit</li>
+      <li>Mendukung UDP tracker</li>
+      <li>Dukungan untuk torrent dan tracker privat</li>
+      <li>Dukungan untuk pertukaran para rekan  µTorrent</li>
+      <li>Dukungan untuk enkripsi protokol (kompatibel dengan Azureus)</li>
+      <li>Dukungan untuk menciptakan ke-tracker-an torrent</li>
+      <li>Dukungan untuk tabel-tabel hash yang distribusikan (DHT, versi Mainline)</li>
+      <li>Dukungan buat UPnP untuk memportkan maju secara otomatis pada sebuah LAN dengan host tertandatangani yang dinamis</li>
+      <li>Dukungan untuk webseeds</li>
+      <li>Integrasi system tray</li>
+      <li>Dukungan autentikasi tracker</li>
+      <li>Koneksi melalui sebuah proxy</li>
+    </ul>
+    <p>Selain fungsionalitas bawaannya, ada beberapa plugin yang tersedia.</p>
+  </description>
+  <description lang="it">
+    <p>KTorrent è un'applicazione BitTorrent della comunità KDE, che ti permette di scaricare i file usando il protocollo BitTorrent. Ti consente di avviare contemporaneamente torrent multipli, e ti arriva con funzionalità estese, che lo rendono un client di BitTorrent ricco di funzionalità.</p>
+    <p>Funzionalità:</p>
+    <ul>
+      <li>Accodamento dei torrent</li>
+      <li>Limiti di velocità globali e per torrent</li>
+      <li>Anteprima integrata per alcuni tipi di file (video e audio)</li>
+      <li>Importazione di file parzialmente o totalmente scaricati</li>
+      <li>Priorità dei file per i torrent multi-file</li>
+      <li>Scaricamento selettivo per i torrent multi-file</li>
+      <li>Caccia/metti al bando i nodi con un'ulteriore finestra di dialogo di filtro IP per elencarli e modificarli</li>
+      <li>Supporto ai server traccia UDP</li>
+      <li>Supporto per server traccia e torrent privati</li>
+      <li>Supporto per lo scambio di nodi con µTorrent</li>
+      <li>Supporto per la cifratura del protocollo (compatibile con Azureus)</li>
+      <li>Supporto per la creazione di torrent senza server traccia</li>
+      <li>Supporto per le tabelle di hash distribuite (DHT, la versione principale)</li>
+      <li>Supporto UPnP per mappare automaticamente le porte sulla LAN con host dinamici assegnati</li>
+      <li>Supporto per distribuzione web</li>
+      <li>Integrazione nel vassoio di sistema</li>
+      <li>Supporto per l'autenticazione sul server traccia</li>
+      <li>Connessione attraverso un proxy</li>
+    </ul>
+    <p>In aggiunta alle funzionalità integrate, ci sono alcune estensioni disponibili per KTorrent.</p>
+  </description>
+  <description lang="ko">
+    <p>KTorrent는 KDE의 비트토렌트 클라이언트입니다. 비트토렌트 프로토콜을 사용하여 파일을 다운로드할 수 있습니다. 토렌트 여러 개를 동시에 다운로드할 수 있으며 다양한 추가 기능을 제공합니다.</p>
+    <p>기능:</p>
+    <ul>
+      <li>토렌트 대기열</li>
+      <li>전역 및 토렌트별 속도 제한</li>
+      <li>비디오 및 오디오 등 일부 파일 형식 미리 보기</li>
+      <li>일부분 및 완전히 다운로드된 파일 가져오기</li>
+      <li>파일이 여러 개 있는 토렌트 내부 우선 순위 부여</li>
+      <li>파일이 여러 개 있는 토렌트의 일부만 다운로드</li>
+      <li>IP 필터 대화 상자에서 피어 목록 관리/차단</li>
+      <li>UDP 트래커 지원</li>
+      <li>비밀 트래커 및 토렌트 지원</li>
+      <li>µTorrent 피어 교환 지원</li>
+      <li>프로토콜 암호화 지원(Azureus 호환)</li>
+      <li>트래커 없는 토렌트 생성 지원</li>
+      <li>분산 해시 테이블(DHT, 메인라인 버전) 지원</li>
+      <li>UPnP를 통한 자동 포트 포워딩 지원</li>
+      <li>웹 시드 지원</li>
+      <li>시스템 트레이 통합</li>
+      <li>트래커 인증 지원</li>
+      <li>프록시를 통한 연결</li>
+    </ul>
+    <p>내장 기능 외에도 KTorrent 플러그인을 사용할 수 있습니다.</p>
+  </description>
+  <description lang="nl">
+    <p>KTorrent is een BitTorrent-toepassing door KDE die u in staat stelt bestanden te downloaden met het BitTorrent-protocol. U kunt meerdere torrents tegelijk doen en het komt met uitgebreide functies om het een client voor BitTorrent te laten zijn met alle mogelijkheden.</p>
+    <p>Mogelijkheden:</p>
+    <ul>
+      <li>Torrents in de wachtrij zetten</li>
+      <li>Globale en per torrent snelheidslimieten</li>
+      <li>Voorbeelden van bepaalde bestandstypen bekijken, ingebouwd (video en geluid)</li>
+      <li>Gedeeltelijk of volledig gedownloade bestanden importeren</li>
+      <li>Bestandsprioriteit instellen multi-bestand-torrents</li>
+      <li>Selectief downloaden van multi-bestand-torrents</li>
+      <li>Start/stop peers met een extra dialoog voor IP-filteren voor weergeven/bewerken</li>
+      <li>Ondersteuning van UDP-tracker</li>
+      <li>Ondersteuning voor privé-trackers en -torrents</li>
+      <li>Ondersteuning voor uitwisseling van peers van µTorrent</li>
+      <li>Ondersteuning voor protocolversleuteling (compatibel met Azureus)</li>
+      <li>Ondersteuning voor aanmaken van torrents zonder tracker</li>
+      <li>Ondersteuning voor gedistribueerde hash-tabellen (DHT, het hoofdversie)</li>
+      <li>Ondersteuning voor UPnP om automatisch poorten te 'forwarden' op een LAN met dynamisch toegekende hosts</li>
+      <li>Ondersteuning voor webseeds</li>
+      <li>Integratie in het systeemvak</li>
+      <li>Authenticatieondersteuning voor tracker</li>
+      <li>Verbinding via een proxy</li>
+    </ul>
+    <p>Naast de ingebouwde functionaliteiten zijn er enige plug-ins beschikbaar voor KTorrent.</p>
+  </description>
+  <description lang="nn">
+    <p>Funksjonar:</p>
+  </description>
+  <description lang="pl">
+    <p>KTorrent jest aplikacją BitTorrent stworzoną w ramach KDE, która umożliwia ci pobieranie przy użyciu protokołu BitTorrent. Umożliwia ci uruchamianie wielu torrentów w tym samym czasie i jest wyposażona w dodatkowe możliwości tworzące z niej pełnego klienta dla BitTorrent.</p>
+    <p>Możliwości:</p>
+    <ul>
+      <li>Kolejkowanie torrentów</li>
+      <li>Ograniczenie prędkości globalne i na torrenta</li>
+      <li>Podgląd pewnych rodzajów plików, wbudowany odtwarzacz filmów i dźwięku</li>
+      <li>Impot częściowo lub w pełni pobranych plików</li>
+      <li>Priorytety dla wieloplikowych torrentów</li>
+      <li>Wybiórcze pobieranie dla wieloplikowych torrentów</li>
+      <li>Wykopywanie/banowanie uczestników  z dodatkowym filtrem IP do celów edycji i wyświetlania</li>
+      <li>Obsługa serwera śledzącego UDP</li>
+      <li>Obsługa prywatnych serwerów śledzących i torrentów</li>
+      <li>Obsługa wymiany uczestników µTorrenta </li>
+      <li>Obsługa szyfrowania protokołu (zgodna z Azureus)</li>
+      <li>Obsługa tworzenia torrentów bez serwera śledzącego</li>
+      <li>Obsługa rozproszonych tablic haszów (DHT, wersja głównoliniowa)</li>
+      <li>Obsługa UPnP do przekierowywania portów w LANie z dynamicznie przypisanymi gospodarzami</li>
+      <li>Obsługa rozsiewania w sieci</li>
+      <li>Integracja z tacką systemową</li>
+      <li>Obsluga uwierzytelniania na serwerze śledzącym</li>
+      <li>Połączenia przez serwer pośredniczący</li>
+    </ul>
+    <p>Dodatkowo do wbudowanych możliwości, dostępne są także wtyczki dla KTorrenta.</p>
+  </description>
+  <description lang="pt">
+    <p>O KTorrent é uma aplicação de BitTorrent do KDE que lhe permite obter ficheiros pelo protocolo BitTorrent. Ele permite-lhe executar várias torrentes ao mesmo tempo e vem com funcionalidades alargadas que o tornam um cliente pleno de funcionalidades para o BitTorrent.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Fila de espera de torrentes</li>
+      <li>Limites de velocidades globais e por torrentes</li>
+      <li>Antevisão incorporada de alguns tipos de ficheiros (vídeo e áudio)</li>
+      <li>Importação de ficheiros transferidos parcialmente ou por completo</li>
+      <li>Prioritização de torrentes multi-ficheiros</li>
+      <li>Transferência selectiva para torrentes multi-ficheiros</li>
+      <li>Banir/expulsar as máquinas com uma janela adicional de filtros de IP's para fins de listagem/edição</li>
+      <li>Suporte a localizadores por UDP</li>
+      <li>Suporte para localizadores e torrentes privadas</li>
+      <li>Suporte para a troca de máquinas do µTorrent</li>
+      <li>Suporte para a encriptação do protocolo (compatível com o Azureus)</li>
+      <li>Suporte para a criação de torrentes sem localizador</li>
+      <li>Suporte para tabelas de dispersão distribuídas (DHT)</li>
+      <li>Suporte de UPnP para encaminhar automaticamente os portos numa LAN para as máquinas atribuídas de forma dinâmica</li>
+      <li>Suporte para fontes Web</li>
+      <li>Integração na bandeja do sistema</li>
+      <li>Suporte para localizadores autenticados</li>
+      <li>Ligação através de um 'proxy'</li>
+    </ul>
+    <p>Para além das funcionalidades incorporadas, existem alguns 'plugins' disponíveis para o KTorrent.</p>
+  </description>
+  <description lang="pt-BR">
+    <p>O KTorrent é um aplicativo BitTorrent do KDE que permite a você baixar arquivos usando o protocolo BitTorrent. Ele permite baixar múltiplos torrents ao mesmo tempo e vem com recursos estendidos para torná-lo cliente com recursos completos para o BitTorrent.</p>
+    <p>Recursos:</p>
+    <ul>
+      <li>Enfileiramento de torrents</li>
+      <li>Limites de velocidade global e por torrent</li>
+      <li>Pré-visualização embutida de certos tipos de arquivos (áudio e vídeo)</li>
+      <li>Importação de arquivos baixados completamente ou parcialmente</li>
+      <li>Priorização de arquivos para torrents multi-arquivos</li>
+      <li>Download seletivo para torrents multi-arquivo</li>
+      <li>Banir/expulsar as máquinas com uma janela adicional de filtros de IPs para fins de listagem/edição</li>
+      <li>Suporte a rastreadores UDP</li>
+      <li>Suporte para rastreadores e torrents privados</li>
+      <li>Suporte a troca de pares do µTorrent</li>
+      <li>Suporte para criptografia de protocolo (compatível com Azureus)</li>
+      <li>Suporte a criação de torrents sem rastreadores</li>
+      <li>Suporte para tabelas de dispersão distribuídas (DHT)</li>
+      <li>Suporte ao UPnP para encaminhar automaticamente portas em uma LAN com host atribuídos dinamicamente</li>
+      <li>Suporte para fontes Web</li>
+      <li>Integração na área de notificação</li>
+      <li>Suporte a autenticação de rastreadores</li>
+      <li>Conexão através de proxy</li>
+    </ul>
+    <p>Adicionalmente as funcionalidades embutidas, existem alguns plugins disponíveis para o KTorrent.</p>
+  </description>
+  <description lang="ru">
+    <p>KTorrent — это приложение BitTorrent, разработанное KDE, которое предназначено для загрузки файлов с использованием протокола BitTorrent. Оно позволяет запускать несколько торрентов одновременно и оснащено расширенными функциями, что делает его полнофункциональным клиентом для BitTorrent.</p>
+    <p>Возможности:</p>
+    <ul>
+      <li>Загрузка торрентов по очереди</li>
+      <li>Общие и отдельные для каждого торрента ограничения скорости</li>
+      <li>Предварительный просмотр файлов некоторых типов (видео, звук)</li>
+      <li>Импорт частично или полностью загруженных файлов</li>
+      <li>Приоритеты файлов для торрентов с несколькими файлами</li>
+      <li>Выборочная загрузка файлов из торрентов с несколькими файлами</li>
+      <li>Возможность отключения или блокирования пиров. Список заблокированных пиров можно редактировать в диалоге IP-фильтра.</li>
+      <li>Поддержка трекеров UDP</li>
+      <li>Поддержка частных трекеров и торрентов</li>
+      <li>Поддержка протокола обмена списками пиров, используемого µTorrent</li>
+      <li>Поддержка шифрования на уровне протокола (совместимо с Azureus)</li>
+      <li>Поддержка создания торрентов, не привязанных к торрент-трекеру</li>
+      <li>Поддержка распределённых хеш-таблиц (DHT)</li>
+      <li>Поддержка UPnP для автоматического перенаправления портов в локальной сети с динамическим выделением IP-адресов</li>
+      <li>Поддержка веб-сидов</li>
+      <li>Значок в системном лотке</li>
+      <li>Поддержка аутентификации на трекере</li>
+      <li>Подключение через прокси-сервер</li>
+    </ul>
+    <p>В дополнение к встроенным функциям доступны также некоторые модули.</p>
+  </description>
+  <description lang="sk">
+    <p>KTorrent je BitTorrentová aplikácia od KDE, ktorá vám umožní stiahnuť súbory pomocou protokolu BitTorrent. Umožní vám spustiť viac torrentov súčasne a obsahuje rôzne funkcie, čo z nej robí plnohodnotného klienta pre BitTorrent.</p>
+    <p>Funkcie:</p>
+    <ul>
+      <li>Zaraďovanie torrentov</li>
+      <li>Globálne a torrentové rýchlostné limity</li>
+      <li>Náhľady určitých typov súborov (video a audio)</li>
+      <li>Importovanie čiastočne alebo plne stiahnutých súborov</li>
+      <li>Prioritizácia súborov cez viacsúborové torrenty</li>
+      <li>Selektívne sťahovanie pre viacsúborové torrenty</li>
+      <li>Vykopnutie/ban klientov s dodatočným dialógom IP filtra pre dôvody zoznamu/úpravy</li>
+      <li>Podpora trackerov UDP</li>
+      <li>Podpora pre súkromné trackery a torrenty</li>
+      <li>Podpora pre výmenu peerov µTorrent</li>
+      <li>Podpora pre šifrovanie protokolu (kompatibilné s Azureus)</li>
+      <li>Podpora pre vytváranie beztracerových torrentov</li>
+      <li>Podpora pre distribuované hašovacie tabuľky (DHT, mainline verzia)</li>
+      <li>Podpora pre UPnP na automatické presmerovanie portov na LAN s dynaicky priradenými hostami</li>
+      <li>Podpora pre webové seedy</li>
+      <li>Integrácia do systémovej lišty</li>
+      <li>Podpora autentifikácie trackerov</li>
+      <li>Pripojenie cez proxy</li>
+    </ul>
+    <p>Okrem zabudovaných funkcií sú k dispozícii aj niektoré pluginy pre KTorrent.</p>
+  </description>
+  <description lang="sl">
+    <p>KTorrent je program za BitTorrent v KDE, ki omogoča prenos datoteke s protokolom BitTorrent. Omogoča vam zagon več sočasnih tokovhkrati pa ima razširjene funkcije, da postane popoln odjemalec za BitTorrent.</p>
+    <p>Lastnosti:</p>
+    <ul>
+      <li>Čakalne vrste podatkovnih tokov</li>
+      <li>Omejitve hitrosti prenosa za celoto in po posameznem toku</li>
+      <li>Vgrajen predogled določenih zvrsti datotek (video in avdio)</li>
+      <li>Uvoz delno ali v celoti prenesenih datotek</li>
+      <li>Upravljanje s prednostmi za tokove več datotek</li>
+      <li>Selektivni prenos za tokove več datotek</li>
+      <li>Preklop/prepoved vrstnikov z dodatnim pogovornim oknom filtra IP za namene urejanja/seznama</li>
+      <li>Podpora za sledilnik UDP</li>
+      <li>Podpora zasebnim sledilcem in tokovom</li>
+      <li>Podpora za medsebojno izmenjavo µTorrent</li>
+      <li>Podpora za protokol šifriranja (združljivo z Azureusom)</li>
+      <li>Podpora za ustvarjanje tokov brez sledi</li>
+      <li>Podpora za porazdeljene razpršene tabele (DHT, verzija glavne linije)</li>
+      <li>Podpora za UPnP za samodejno posredovanje vrat v omrežju LAN z dinamično dodeljenimi gostitelji</li>
+      <li>Podpora za spletne brste</li>
+      <li>Integracija sistemskega pulta</li>
+      <li>Podpora za preverjanje pristnosti sledilcev</li>
+      <li>Povezava prek posrednika</li>
+    </ul>
+    <p>Poleg vgrajenih funkcionalnosti je nekaj vtičnikov na voljo za KTorrent.</p>
+  </description>
+  <description lang="sr">
+    <p>К‑торент је програм из КДЕ‑а којим можете да преузимате фајлове преко протокола битторент. Омогућава покретање више торената истовремено и пружа разноврсне проширене могућности, што га чини га свеобухватним битторент клијентом.</p>
+    <p>Могућности:</p>
+    <ul>
+      <li>Стављање торената у ред.</li>
+      <li>Ограничења брзине, глобална и по торенту.</li>
+      <li>Преглед појединих типова фајлова, уграђено (видео и аудио).</li>
+      <li>Увоз делимично или потпуно преузетих фајлова.</li>
+      <li>Задавање приоритета по фајлу у торентима са више фајлова.</li>
+      <li>Селективно преузимање у торентима са више фајлова.</li>
+      <li>Избацивање/забрањивање вршњака преко дијалога за филтрирање ИП‑ова (листање и уређивање).</li>
+      <li>Подршка за УДП пратиоце.</li>
+      <li>Подршка за приватне пратиоце и торенте.</li>
+      <li>Подршка за Микроторентову размену вршњака.</li>
+      <li>Подршка за шифровање протокола (сагласна са Азуреусом).</li>
+      <li>Подршка за стварање торената без пратилаца.</li>
+      <li>Подршка за дистрибуиране дисперзионе табеле (мејнлајн ДХТ).</li>
+      <li>Подршка за аутоматско прослеђивање портова кроз УПнП у ЛАН‑у са динамички додељиваним домаћинима.</li>
+      <li>Подршка за веб сејања.</li>
+      <li>Уклапање у системску касету.</li>
+      <li>Подршка за аутентификацију пратилаца.</li>
+      <li>Повезивање кроз прокси.</li>
+    </ul>
+    <p>Поред уграђених функција, доступни су и разни прикључци за К‑торент.</p>
+  </description>
+  <description lang="sr-Latn">
+    <p>KTorrent je program iz KDE‑a kojim možete da preuzimate fajlove preko protokola Bittorrent. Omogućava pokretanje više torenata istovremeno i pruža raznovrsne proširene mogućnosti, što ga čini ga sveobuhvatnim bittorrent klijentom.</p>
+    <p>Mogućnosti:</p>
+    <ul>
+      <li>Stavljanje torenata u red.</li>
+      <li>Ograničenja brzine, globalna i po torentu.</li>
+      <li>Pregled pojedinih tipova fajlova, ugrađeno (video i audio).</li>
+      <li>Uvoz delimično ili potpuno preuzetih fajlova.</li>
+      <li>Zadavanje prioriteta po fajlu u torentima sa više fajlova.</li>
+      <li>Selektivno preuzimanje u torentima sa više fajlova.</li>
+      <li>Izbacivanje/zabranjivanje vršnjaka preko dijaloga za filtriranje IP‑ova (listanje i uređivanje).</li>
+      <li>Podrška za UDP pratioce.</li>
+      <li>Podrška za privatne pratioce i torente.</li>
+      <li>Podrška za µTorrentovu razmenu vršnjaka.</li>
+      <li>Podrška za šifrovanje protokola (saglasna sa Azureusom).</li>
+      <li>Podrška za stvaranje torenata bez pratilaca.</li>
+      <li>Podrška za distribuirane disperzione tabele (Mainline DHT).</li>
+      <li>Podrška za automatsko prosleđivanje portova kroz UPnP u LAN‑u sa dinamički dodeljivanim domaćinima.</li>
+      <li>Podrška za veb sejanja.</li>
+      <li>Uklapanje u sistemsku kasetu.</li>
+      <li>Podrška za autentifikaciju pratilaca.</li>
+      <li>Povezivanje kroz proksi.</li>
+    </ul>
+    <p>Pored ugrađenih funkcija, dostupni su i razni priključci za KTorrent.</p>
+  </description>
+  <description lang="sr-ijekavian">
+    <p>К‑торент је програм из КДЕ‑а којим можете да преузимате фајлове преко протокола битторент. Омогућава покретање више торената истовремено и пружа разноврсне проширене могућности, што га чини га свеобухватним битторент клијентом.</p>
+    <p>Могућности:</p>
+    <ul>
+      <li>Стављање торената у ред.</li>
+      <li>Ограничења брзине, глобална и по торенту.</li>
+      <li>Преглед појединих типова фајлова, уграђено (видео и аудио).</li>
+      <li>Увоз делимично или потпуно преузетих фајлова.</li>
+      <li>Задавање приоритета по фајлу у торентима са више фајлова.</li>
+      <li>Селективно преузимање у торентима са више фајлова.</li>
+      <li>Избацивање/забрањивање вршњака преко дијалога за филтрирање ИП‑ова (листање и уређивање).</li>
+      <li>Подршка за УДП пратиоце.</li>
+      <li>Подршка за приватне пратиоце и торенте.</li>
+      <li>Подршка за Микроторентову размену вршњака.</li>
+      <li>Подршка за шифровање протокола (сагласна са Азуреусом).</li>
+      <li>Подршка за стварање торената без пратилаца.</li>
+      <li>Подршка за дистрибуиране дисперзионе табеле (мејнлајн ДХТ).</li>
+      <li>Подршка за аутоматско прослеђивање портова кроз УПнП у ЛАН‑у са динамички додељиваним домаћинима.</li>
+      <li>Подршка за веб сејања.</li>
+      <li>Уклапање у системску касету.</li>
+      <li>Подршка за аутентификацију пратилаца.</li>
+      <li>Повезивање кроз прокси.</li>
+    </ul>
+    <p>Поред уграђених функција, доступни су и разни прикључци за К‑торент.</p>
+  </description>
+  <description lang="sr-ijekavianlatin">
+    <p>KTorrent je program iz KDE‑a kojim možete da preuzimate fajlove preko protokola Bittorrent. Omogućava pokretanje više torenata istovremeno i pruža raznovrsne proširene mogućnosti, što ga čini ga sveobuhvatnim bittorrent klijentom.</p>
+    <p>Mogućnosti:</p>
+    <ul>
+      <li>Stavljanje torenata u red.</li>
+      <li>Ograničenja brzine, globalna i po torentu.</li>
+      <li>Pregled pojedinih tipova fajlova, ugrađeno (video i audio).</li>
+      <li>Uvoz delimično ili potpuno preuzetih fajlova.</li>
+      <li>Zadavanje prioriteta po fajlu u torentima sa više fajlova.</li>
+      <li>Selektivno preuzimanje u torentima sa više fajlova.</li>
+      <li>Izbacivanje/zabranjivanje vršnjaka preko dijaloga za filtriranje IP‑ova (listanje i uređivanje).</li>
+      <li>Podrška za UDP pratioce.</li>
+      <li>Podrška za privatne pratioce i torente.</li>
+      <li>Podrška za µTorrentovu razmenu vršnjaka.</li>
+      <li>Podrška za šifrovanje protokola (saglasna sa Azureusom).</li>
+      <li>Podrška za stvaranje torenata bez pratilaca.</li>
+      <li>Podrška za distribuirane disperzione tabele (Mainline DHT).</li>
+      <li>Podrška za automatsko prosleđivanje portova kroz UPnP u LAN‑u sa dinamički dodeljivanim domaćinima.</li>
+      <li>Podrška za veb sejanja.</li>
+      <li>Uklapanje u sistemsku kasetu.</li>
+      <li>Podrška za autentifikaciju pratilaca.</li>
+      <li>Povezivanje kroz proksi.</li>
+    </ul>
+    <p>Pored ugrađenih funkcija, dostupni su i razni priključci za KTorrent.</p>
+  </description>
+  <description lang="sv">
+    <p>Ktorrent är ett dataflödesprogram av KDE som låter dig ladda ner filer med protokollet BitTorrent. Det möjliggör att hantera flera dataflöden samtidigt och levereras med utökade funktioner som gör det till en fullfjädrad klient för BitTorrent.</p>
+    <p>Funktioner:</p>
+    <ul>
+      <li>Köa dataflöden</li>
+      <li>Hastighetsbegränsningar, allmänna och per dataflöde</li>
+      <li>Förhandsgranskning av vissa filtyper inbyggd (video och ljud)</li>
+      <li>Import av partiellt eller fullständigt nerladdade filer</li>
+      <li>Filprioritering för dataflöden med flera filer</li>
+      <li>Selektiv nerladdning för dataflöden med flera filer</li>
+      <li>Sparka ut eller förbjud deltagare med en ytterligare IP-filtreringsdialogruta i listnings- och redigeringssyfte</li>
+      <li>Stöd för UDP-spårare</li>
+      <li>Stöd för privata spårare och dataflöden</li>
+      <li>Stöd för µTorrents utbyte mellan deltagare</li>
+      <li>Stöd för protokollkryptering (kompatibel med Azureus)</li>
+      <li>Stöd för att skapa dataflöden utan spårare</li>
+      <li>Stöd för distribuerade kondensattabeller (DHT, huvudversionen)</li>
+      <li>Stöd för UPnP för att automatiskt vidarebefordra portar på ett lokalt nätverk med dynamiskt tilldelade värddatorer</li>
+      <li>Stöd för webberbjudanden</li>
+      <li>Integrering med systembricka</li>
+      <li>Stöd för behörighetskontroll av spårare</li>
+      <li>Anslutning via en proxy</li>
+    </ul>
+    <p>Förutom inbyggd funktionalitet, finns några insticksprogram tillgängliga för Ktorrent.</p>
+  </description>
+  <description lang="tr">
+    <p>KTorrent, KDE tarafından geliştirilen, BitTorrent protokolünü kullanarak dosyaları indirmenize izin veren bir BitTorrent uygulamasıdır. Aynı anda birden fazla torrent çalıştırabilmenizi ve BitTorrent için tam özellikli bir istemci yapabilmeniz için genişletilmiş özellikler ile birlikte geliştirilmiştir.</p>
+    <p>Özellikler:</p>
+    <ul>
+      <li>Torrent kuyruğu</li>
+      <li>Global ve torrent'e özel hız sınırı</li>
+      <li>Belli dosya tipleri için önizleme, gömülü (video ve ses)</li>
+      <li>Kısmi veya tam indirilmiş dosyaları içe aktarma</li>
+      <li>Birden çok dosya barındıran torrentler için dosya önceliklendirme</li>
+      <li>Birden çok dosya barındıran torrentler için seçimli indirme</li>
+      <li>Listeleme/Düzenleme amaçları için ilave bir IP Süzgeci penceresin ile eşleri atma/engelleme</li>
+      <li>UDP izleme desteği</li>
+      <li>Özel izleyici ve torrent desteği</li>
+      <li>µTorrent eş değişimi desteği</li>
+      <li>Protok şifreleme desteği (Azureus ile uyumlu)</li>
+      <li>İzleyicisiz torrentler için destek</li>
+      <li>Dağıtık özet tabloları için destek (DHT, Ana sürümü)</li>
+      <li>Dinamik olarak atanmış makineler ile LAN üzerinde otomatik port yönlendirme için UPnP desteği</li>
+      <li>Web beslemeleri için destek</li>
+      <li>Sistem çekmecesi tümleştirmesi</li>
+      <li>İzleyici kimlik doğrulama desteği</li>
+      <li>Vekil sunucu üzerinden bağlantı</li>
+    </ul>
+    <p>Yerleşik işlevlere ek olarak, KTorrent için kullanılabilen bazı eklentiler de bulunmaktadır.</p>
+  </description>
+  <description lang="uk">
+    <p>KTorrent — програма для обміну даними торентів, створена розробниками KDE, за допомогою якої ви можете отримувати і розповсюджувати дані на основі протоколу BitTorrent. Ця програма надає вам змогу одночасно обмінюватися даними декількох торентів. Також передбачено додаткові можливості, які роблять програму повноцінною клієнтською частиною для обміну даними BitTorrent.</p>
+    <p>Можливості:</p>
+    <ul>
+      <li>Черга торентів</li>
+      <li>Обмеження на швидкість на загальному рівні і для окремих торентів</li>
+      <li>Перегляд даних файлів деяких типів, вбудований (відео і звукові дані)</li>
+      <li>Імпортування частково або повністю звантажених файлів</li>
+      <li>Визначення пріоритетів файлів у торентах, які складаються з декількох файлів</li>
+      <li>Вибіркове отримання даних торентів, які складаються з декількох файлів</li>
+      <li>Викидання/Блокування вузлів за допомогою додаткового діалогового вікна фільтрування за IP (список і редагування записів)</li>
+      <li>Підтримка координування UDP</li>
+      <li>Підтримка приватних координаторів та торентів</li>
+      <li>Підтримка обміну вузлами у форматі µTorrent</li>
+      <li>Підтримка шифрування даних протоколів (сумісна з Azureus)</li>
+      <li>Підтримка створення торентів без координації</li>
+      <li>Підтримка розподілених таблиць хешів (distributed hash tables або DHT, основної версії)</li>
+      <li>Підтримка UPnP з метою автоматичного переспрямування портів у локальній мережі з динамічним призначенням назв вузлів</li>
+      <li>Підтримка вебпоширення</li>
+      <li>Можливість роботи у системному лотку</li>
+      <li>Підтримка розпізнавання для координації</li>
+      <li>Встановлення з’єднання крізь проксі-сервер</li>
+    </ul>
+    <p>Окрім вбудованих функціональних можливостей, у KTorrent передбачено розширення можливостей за допомогою додатків.</p>
+  </description>
+  <description lang="x-test">
+    <p>xxKTorrent is a BitTorrent application by KDE which allows you to download files using the BitTorrent protocol. It enables you to run multiple torrents at the same time and comes with extended features to make it a full-featured client for BitTorrent.xx</p>
+    <p>xxFeatures:xx</p>
+    <ul>
+      <li>xxQueuing of torrentsxx</li>
+      <li>xxGlobal and per torrent speed limitsxx</li>
+      <li>xxPreviewing of certain file types, build in (video and audio)xx</li>
+      <li>xxImporting of partially or fully downloaded filesxx</li>
+      <li>xxFile prioritization for multi-file torrentsxx</li>
+      <li>xxSelective downloading for multi-file torrentsxx</li>
+      <li>xxKick/ban peers with an additional IP Filter dialog for list/edit purposesxx</li>
+      <li>xxUDP tracker supportxx</li>
+      <li>xxSupport for private trackers and torrentsxx</li>
+      <li>xxSupport for µTorrent's peer exchangexx</li>
+      <li>xxSupport for protocol encryption (compatible with Azureus)xx</li>
+      <li>xxSupport for creating trackerless torrentsxx</li>
+      <li>xxSupport for distributed hash tables (DHT, the Mainline version)xx</li>
+      <li>xxSupport for UPnP to automatically forward ports on a LAN with dynamic assigned hostsxx</li>
+      <li>xxSupport for webseedsxx</li>
+      <li>xxSystem tray integrationxx</li>
+      <li>xxTracker authentication supportxx</li>
+      <li>xxConnection through a proxyxx</li>
+    </ul>
+    <p>xxIn addition to the built-in functionalities, there are some plugins available for KTorrent.xx</p>
+  </description>
+  <description lang="zh-CN">
+    <p>KTorrent 是 KDE 提供的 BT 下载应用。支持同时运行多个种子，并具有多种扩展特性，是一个全功能的 BT 客户端。</p>
+    <p>功能：</p>
+    <ul>
+      <li>队列种子</li>
+      <li>全局限速和单个种子限速</li>
+      <li>内置的文件预览功能 (视频和音频)</li>
+      <li>导入部分或完全下载的文件</li>
+      <li>多文件种子设定文件优先级</li>
+      <li>多文件种子可选下载指定文件</li>
+      <li>踢掉/屏蔽对等点，并可以用 IP 过滤器查看和编辑列表</li>
+      <li>支持 UDP tracker</li>
+      <li>支持私有 tracker 和种子</li>
+      <li>支持 µTorrent 对等点交换</li>
+      <li>支持协议加密 (兼容 Azureus)</li>
+      <li>支持创建无 tracker 种子</li>
+      <li>支持分布式哈希表 (DHT，主线版本)</li>
+      <li>支持 UPnP 局域网自动转发端口的动态主机名</li>
+      <li>支持 Webseed</li>
+      <li>系统托盘整合</li>
+      <li>支持 tracker 认证</li>
+      <li>通过代理连接</li>
+    </ul>
+    <p>除了一些内置的功能，KTorrent 还有一些插件可用。</p>
+  </description>
+  <description lang="zh-TW">
+    <p>功能：</p>
+    <ul>
+      <li>支援 UDP tracker</li>
+      <li>支援私密 tracker 和種子檔</li>
+    </ul>
+  </description>
+  <pkgname>libsForQt5.ktorrent</pkgname>
+  <launchable type="desktop-id">org.kde.ktorrent.desktop</launchable>
+  <icon type="cached" width="64" height="64">ktorrent.png</icon>
+  <icon width="128" type="cached" height="128">ktorrent.png</icon>
+  <id>org.kde.ktorrent.desktop</id>
+  <metadata_license>FSFAP</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KTorrent</name>
+  <name lang="ar">سيولك</name>
+  <name lang="ca">KTorrent</name>
+  <name lang="ca-valencia">KTorrent</name>
+  <name lang="cs">KTorrent</name>
+  <name lang="da">KTorrent</name>
+  <name lang="de">KTorrent</name>
+  <name lang="el">KTorrent</name>
+  <name lang="en-GB">KTorrent</name>
+  <name lang="es">KTorrent</name>
+  <name lang="et">KTorrent</name>
+  <name lang="fi">KTorrent</name>
+  <name lang="fr">KTorrent</name>
+  <name lang="gl">KTorrent</name>
+  <name lang="hu">KTorrent</name>
+  <name lang="ia">KTorrent</name>
+  <name lang="id">KTorrent</name>
+  <name lang="it">KTorrent</name>
+  <name lang="ko">KTorrent</name>
+  <name lang="nl">KTorrent</name>
+  <name lang="nn">KTorrent</name>
+  <name lang="pl">KTorrent</name>
+  <name lang="pt">KTorrent</name>
+  <name lang="pt-BR">KTorrent</name>
+  <name lang="ru">KTorrent</name>
+  <name lang="sk">KTorrent</name>
+  <name lang="sl">KTorrent</name>
+  <name lang="sr">К‑торент</name>
+  <name lang="sr-Latn">KTorrent</name>
+  <name lang="sr-ijekavian">К‑торент</name>
+  <name lang="sr-ijekavianlatin">KTorrent</name>
+  <name lang="sv">Ktorrent</name>
+  <name lang="tr">KTorrent</name>
+  <name lang="uk">KTorrent</name>
+  <name lang="x-test">xxKTorrentxx</name>
+  <name lang="zh-CN">KTorrent</name>
+  <name lang="zh-TW">KTorrent</name>
+  <summary>BitTorrent Client</summary>
+  <summary lang="ar">عميل بِت‌تورنت</summary>
+  <summary lang="ca">Client de BitTorrent</summary>
+  <summary lang="ca-valencia">Client de BitTorrent</summary>
+  <summary lang="cs">Klient pro BitTorrent</summary>
+  <summary lang="da">BitTorrent-klient</summary>
+  <summary lang="de">BitTorrent-Programm</summary>
+  <summary lang="el">Εφαρμογή BitTorrent</summary>
+  <summary lang="en-GB">BitTorrent Client</summary>
+  <summary lang="es">Cliente de BitTorrent</summary>
+  <summary lang="et">BitTorrenti klient</summary>
+  <summary lang="fi">BitTorrent-asiakas</summary>
+  <summary lang="fr">Client BitTorrent</summary>
+  <summary lang="gl">Cliente de BitTorrent</summary>
+  <summary lang="hu">Bittorrent kliens</summary>
+  <summary lang="ia">Cliente de BitTorrent</summary>
+  <summary lang="id">BitTorrent Client</summary>
+  <summary lang="it">Client BitTorrent</summary>
+  <summary lang="ko">비트토렌트 클라이언트</summary>
+  <summary lang="nl">BitTorrent-cliënt</summary>
+  <summary lang="nn">Bittorrent-klient</summary>
+  <summary lang="pl">Klient BitTorrent</summary>
+  <summary lang="pt">Cliente de BitTorrent</summary>
+  <summary lang="pt-BR">Cliente BitTorrent</summary>
+  <summary lang="ru">Клиент BitTorrent</summary>
+  <summary lang="sk">BitTorrent Klient</summary>
+  <summary lang="sl">Odjemalec BitTorrent</summary>
+  <summary lang="sr">Битторент клијент</summary>
+  <summary lang="sr-Latn">Bittorrent klijent</summary>
+  <summary lang="sr-ijekavian">Битторент клијент</summary>
+  <summary lang="sr-ijekavianlatin">Bittorrent klijent</summary>
+  <summary lang="sv">Dataflödesprogram</summary>
+  <summary lang="tr">BitTorrent İstemcisi</summary>
+  <summary lang="uk">Клієнт BitTorrent</summary>
+  <summary lang="x-test">xxBitTorrent Clientxx</summary>
+  <summary lang="zh-CN">BitTorrent 客户端</summary>
+  <summary lang="zh-TW">BitTorrent 用戶端</summary>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=ktorrent</url>
+  <url type="help">https://docs.kde.org/?application=ktorrent</url>
+  <url type="homepage">https://kde.org/applications/internet/ktorrent/</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://cdn.kde.org/screenshots/ktorrent/ktorrent.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>ktorrent</binary>
+  </provides>
+  <releases>
+    <release date="2022-07-07" version="22.04.3" />
+    <release version="22.04.2" date="2022-06-09" />
+    <release version="22.04.1" date="2022-05-12" />
+    <release date="2022-04-21" version="22.04.0" />
+  </releases>
+  <content_rating type="oars-1.1" />
+</component>

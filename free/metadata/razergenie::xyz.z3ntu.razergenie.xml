@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>razergenie</pkgname>
+  <icon type="cached" height="64" width="64">xyz.z3ntu.razergenie.png</icon>
+  <icon width="128" height="128" type="cached">xyz.z3ntu.razergenie.png</icon>
+  <id>xyz.z3ntu.razergenie</id>
+  <launchable type="desktop-id">xyz.z3ntu.razergenie.desktop</launchable>
+  <translation type="qt">razergenie</translation>
+  <name>RazerGenie</name>
+  <summary>Manage your Razer devices</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <developer_name>Luca Weiss</developer_name>
+  <description>
+    <p>Qt application for configuring your Razer devices under GNU/Linux.</p>
+    <p>RazerGenie is using OpenRazer for providing control over Razer peripherals.</p>
+    <p>Requires OpenRazer to be installed outside of flatpak via a distribution package.</p>
+  </description>
+  <url type="homepage">https://github.com/z3ntu/RazerGenie</url>
+  <url type="bugtracker">https://github.com/z3ntu/RazerGenie/issues</url>
+  <url type="translate">https://github.com/z3ntu/RazerGenie/wiki/Translations</url>
+  <releases>
+    <release version="0.9.0" date="2020-09-15">
+      <description>
+        <ul>
+          <li>Several additions to the matrix layout (razerdefault22): Nordic, French &amp; Portuguese layout</li>
+          <li>Support DeathAdder 3.5G</li>
+          <li>Add French translations</li>
+          <li>Preferences window is now modal</li>
+          <li>Fix UI bug in device list with Qt 5.15</li>
+          <li>Fix setScrollBreathDual method</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.8.1" date="2018-10-21">
+      <description>
+        <p>libopenrazer:</p>
+        <ul>
+          <li>Make qdoc dependency optional (used for docs)</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2018-10-21" version="0.8">
+      <description>
+        <p>RazerGenie:</p>
+        <ul>
+          <li>Implement backlight effects for Razer Naga Epic Chroma</li>
+          <li>Fix missing options on Razer Nostromo</li>
+          <li>Implement preferences to control downloading of device images</li>
+          <li>Fix alt-key mapping in razerblade25</li>
+          <li>Add en_US layout for Razer Blade Stealth (Late 2017)</li>
+          <li>Add fr_FR layout for Razer Blade Stealth (Late 2017)</li>
+          <li>razerdefault22: Add en_US keymap</li>
+          <li>razerdefault22: fill empty spots on numpad</li>
+          <li>Fix memory leaks</li>
+        </ul>
+        <p>libopenrazer:</p>
+        <ul>
+          <li>Finish rename of namespace to libopenrazer</li>
+          <li>Implement backlight methods used by Razer Naga Epic Chroma</li>
+          <li>QColor where possible, rebrand LightingLocation</li>
+          <li>Document libopenrazer, can be built with qdoc</li>
+          <li>Fix memory leaks</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.7" date="2018-04-02">
+      <description>
+        <p>RazerGenie:</p>
+        <ul>
+          <li>Use the physical keyboard layout from the daemon for the custom editor (new feature in OpenRazer v2.3.0)</li>
+          <li>Add warning when keyboard layout is unknown</li>
+          <li>Prepare for flatpak packages (rename logo and desktop file with flatpak application ID, add appstream metadata) - see flathub/flathub#320</li>
+          <li>Add the matrix discovery feature (helps with figuring out which LEDs are on what matrix position) - has to be enabled explicitely</li>
+        </ul>
+        <p>libopenrazer:</p>
+        <ul>
+          <li>Improve daemon status detection</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.6" date="2017-12-23">
+      <description>
+        <p>RazerGenie:</p>
+        <ul>
+          <li>Add a "--version" argument to RazerGenie.</li>
+          <li>Support for the Razer Orbweaver was fixed (#5).</li>
+          <li>Support the custom editor on the Razer Blade Stealth (Late 2017) (#6).</li>
+        </ul>
+        <p>libopenrazer:</p>
+        <ul>
+          <li>Separate out the libopenrazerdemo code.</li>
+          <li>Add more methods for the Razer Orbweaver.</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2017-11-18" version="0.5">
+      <description>
+        <p>RazerGenie:</p>
+        <ul>
+          <li>Add "custom editor" which allows you to set colors on eg. your keys manually (currently not available for mice).</li>
+          <li>Add translations (please help me to translate RazerGenie into other languages! Visit the wiki for more details)</li>
+        </ul>
+        <p>libopenrazer:</p>
+        <ul>
+          <li>Rename from librazer to libopenrazer (mostly). Namespaces are still unchanged.</li>
+          <li>Improve documentation</li>
+          <li>Fix wrong interface for getSupportedDevices()</li>
+        </ul>
+        <p>Both:</p>
+        <ul>
+          <li>Add support for the meson build system (CMake is deprecated now and will be removed in the future)</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.4" date="2017-09-30">
+      <description>
+        <p>RazerGenie:</p>
+        <ul>
+          <li>Handle different errors with buttons to the troubleshooting page and others</li>
+          <li>No need to restart the application after different D-Bus situations.</li>
+        </ul>
+        <p>librazer:</p>
+        <ul>
+          <li>Add various methods to get the systemd status</li>
+          <li>Update capabilities from the pylib</li>
+          <li>Add starlight and supportedDevices calls</li>
+          <li>More documentation</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.3" date="2017-07-05">
+      <description>
+        <p>RazerGenie:</p>
+        <ul>
+          <li>Replace elements from the KDE Framework with Qt elements => remove the dependency to KF5.</li>
+          <li>Because of that, the sidebar is now bigger and better than ever.</li>
+          <li>Improve the handling of device pictures by applying them instantly after they are downloaded (instead of the next application start).</li>
+          <li>The application now detects when a device is plugged in or out and updates the UI accordingly.</li>
+        </ul>
+        <p>librazer:</p>
+        <ul>
+          <li>"QString serial();" to retrieve the serial from an existing "librazer::Device" object.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.2" date="2017-05-21">
+      <description>
+        <p>RazerGenie:</p>
+        <ul>
+          <li>Add 'Scroll Active' checkbox, disable custom editor unless explicitely enabled</li>
+          <li>Add polling rate support</li>
+        </ul>
+        <p>librazer:</p>
+        <ul>
+          <li>Add mug and backlight support</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.1" date="2017-04-17">
+      <description>
+        <p>First release.</p>
+      </description>
+    </release>
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://z3ntu.github.io/RazerGenie/screenshots/mainwindow.png</image>
+      <caption>Main Window</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://z3ntu.github.io/RazerGenie/screenshots/customeditor.png</image>
+      <caption>Custom Editor</caption>
+    </screenshot>
+  </screenshots>
+  <categories>
+    <category>Settings</category>
+    <category>HardwareSettings</category>
+  </categories>
+  <update_contact>luca (at) z3ntu (dot) xyz</update_contact>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="violence-desecration">none</content_attribute>
+    <content_attribute id="violence-slavery">none</content_attribute>
+    <content_attribute id="violence-worship">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="sex-homosexuality">none</content_attribute>
+    <content_attribute id="sex-prostitution">none</content_attribute>
+    <content_attribute id="sex-adultery">none</content_attribute>
+    <content_attribute id="sex-appearance">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+</component>

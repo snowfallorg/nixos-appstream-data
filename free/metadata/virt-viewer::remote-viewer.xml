@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>virt-viewer</pkgname>
+  <launchable type="desktop-id">remote-viewer.desktop</launchable>
+  <icon width="64" type="cached" height="64">virt-viewer.png</icon>
+  <icon height="128" type="cached" width="128">virt-viewer.png</icon>
+  <id>remote-viewer</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Remote Viewer</name>
+  <name lang="fi">Etäkatselu</name>
+  <name lang="zh_TW">遠端檢視器</name>
+  <name lang="zh_CN">远程查看程序</name>
+  <name lang="uk">Віддалений переглядач</name>
+  <name lang="tr">Remote Viewer</name>
+  <name lang="te">దూరస్థ దర్శని</name>
+  <name lang="ta">தொலைநிலை காட்டி</name>
+  <name lang="sv">Fjärrvisare</name>
+  <name lang="ru">Удалённый рабочий стол</name>
+  <name lang="pt">Visualizador Remoto </name>
+  <name lang="pt_BR">Visualizador remoto</name>
+  <name lang="pl">Zdalne przeglądanie</name>
+  <name lang="pa">ਰਿਮੋਟ ਦਰਸ਼ਕ</name>
+  <name lang="or">ସୁଦୂର ପ୍ରଦର୍ଶିକା</name>
+  <name lang="nl">Viewer op afstand</name>
+  <name lang="mr">रिमोट व्युअर</name>
+  <name lang="ml">റിമോട്ട് വ്യൂവര്‍</name>
+  <name lang="ko">원격 뷰어</name>
+  <name lang="kn">ದೂರಸ್ಥ ವೀಕ್ಷಕ</name>
+  <name lang="ja">リモートビューアー</name>
+  <name lang="it">Visualizzatore remoto</name>
+  <name lang="hu">Távoli megjelenítő</name>
+  <name lang="hi">दूरस्थ दर्शक</name>
+  <name lang="gu">દૂરસ્થ દર્શક</name>
+  <name lang="fr">Afficheur distant</name>
+  <name lang="es">Visor remoto</name>
+  <name lang="de">Remote-Viewer</name>
+  <name lang="cs">Prohlížeč vzdálených</name>
+  <name lang="ca">Visualitzador remot</name>
+  <name lang="bn_IN">দূরবর্তী প্রদর্শন</name>
+  <name lang="bg">Remote Viewer</name>
+  <name lang="as">দূৰৱৰ্তী দৰ্শক</name>
+  <summary>Remotely access virtual machines</summary>
+  <summary lang="fi">Etäyhteys virtuaalikoneisiin</summary>
+  <summary lang="zh_CN">远程访问虚拟系统</summary>
+  <summary lang="uk">Віддалений досуп до віртуальних машин</summary>
+  <summary lang="tr">Sanal makinelere uzaktan erişin</summary>
+  <summary lang="sv">Fjärråtkomst av virtuella maskiner</summary>
+  <summary lang="ru">Удалённый доступ к виртуальным машинам</summary>
+  <summary lang="pt_BR">Acessar remotamente máquinas virtuais</summary>
+  <summary lang="pl">Zdalny dostęp do maszyn wirtualnych</summary>
+  <summary lang="nl">Krijg op afstand toegang tot virtuele machines</summary>
+  <summary lang="ko">원격 접근 가상 머신</summary>
+  <summary lang="ja">仮想マシンへリモートアクセス</summary>
+  <summary lang="it">Accede a macchine virtuali da remoto</summary>
+  <summary lang="hu">Virtuális gépek távoli elérése</summary>
+  <summary lang="fr">Accéder à distance aux machines virtuelles</summary>
+  <summary lang="es">Acceder remotamente a maquinas virtuales</summary>
+  <summary lang="de">Greifen Sie auf entfernte Virtuelle Maschinen zu</summary>
+  <summary lang="cs">Přístup k virtuálním strojům na dálku</summary>
+  <summary lang="ca">Accedeix de manera remota a màquines virtuals</summary>
+  <description>
+    <p>
+    Remote Viewer provides a graphical viewer for the guest OS
+    display. At this time it supports guest OS using the VNC
+    or SPICE protocols. Further protocols may be supported in
+    the future as user demand dictates. The viewer can connect
+    directly to both local and remotely hosted guest OS, optionally
+    using SSL/TLS encryption.
+  </p>
+  </description>
+  <description lang="ca">
+    <p>El visualitzador remot proporciona una aplicació gràfica per a la visualització del monitor del SO del convidat. En aquest moment és compatible amb el SO convidat utilitzant els protocols VNC o SPICE. Altres protocols podrien estar suportats en el futur en funció de la demanda dels usuaris. El visualitzador pot connectar directament al SO del convidat local o amb allotjament remot, de manera opcional mitjançant el xifrat SSL/TLS.</p>
+  </description>
+  <description lang="cs">
+    <p>Prohlížeč vzdálených poskytuje grafický prohlížeč pro zobrazení operačního systému hosta. V současnosti podporuje operační systémy hosta s použitím protokolů VNC nebo SPICE. Další protokoly mohou být podporovány v budoucnu – podle požadavků uživatelů. Prohlížeč se může připojovat k operačnímu systému hosta provozovanému jak místně, tak na vzdáleném serveru a volitelně šifrovaně pomocí SSL/TLS.</p>
+  </description>
+  <description lang="es">
+    <p>Visor remoto ofrece una aplicación gráfica para la visualización del monitor de SO huéspedes. Por el momento es compatible con los protocolos VNC y SPICE, aunque podrían añadirse otros en función de la demanda. El visor se puede conectar directamente a sistemas locales o remotos, usando cifrado SSL/TLS si es necesario.</p>
+  </description>
+  <description lang="fi">
+    <p>Remote Viewer tarjoaa graafisen katseluohjelman vieras-käyttöjärjestelmän näytölle. Tällä hetkellä se tukee vieras-käyttöjärjestelmää VNC- tai SPICE-protokollien avulla. Muita protokollia voidaan tukea tulevaisuudessa käyttäjien vaatimusten mukaan. Katsoja voi muodostaa yhteyden sekä paikallisiin että etäisännöityihin vieras käyttöjärjestelmiin, valinnaisesti myös käyttämällä SSL/TLS-salausta.</p>
+  </description>
+  <description lang="fr">
+    <p>L'afficheur distant fourni un afficheur graphique pour l’affichage du système d'exploitation hôte. Pour l'instant, il prend en charge les systèmes hôtes utilisant les protocoles VNC ou SPICE. Plus de protocoles pourraient être pris en charge dans le future selon des demandes des utilisateurs. L'afficheur peu se connecter directement tant aux hôtes locaux ou distants, en utilisant en option le chiffrement SSL/TLS.</p>
+  </description>
+  <description lang="hu">
+    <p>A Remote Viewer egy grafikus megjelenítőt biztosít a vendég OS-hez. Jelenleg a vendés OS-t VNC vagy SPICE protokollokon keresztül támogatja. További protokollok is támogatottak lehetnek a jövőben, ha megköveteli a felhasználói igény. A megjelenítő közvetlenül tud csatlakozni helyi és távolit vendég OS-ekhez, választható módon akár SSL/TLS titkosítással.</p>
+  </description>
+  <description lang="it">
+    <p>Remote Viewer fornisce un visualizzatore grafico per display del sistema operativo del guest. Per adesso supporta guest che usano i protocolli VNC o SPICE. Maggiori protocolli potrebbero essere supportati in base alle esigenze utente. Il visualizzatore può connettersi direttamente sia a guest locali che remoti, potendo usare la crittografia SSL/TLS.</p>
+  </description>
+  <description lang="ja">
+    <p>リモートビューアーはゲストOSのディスプレイに対するグラフィカルなビュアーを提供します。ゲストOSがVNCおよびSPICEプロトコルを利用しているをサポートしています。ユーザーの要求に応じて、今後、さらなるプロトコルが追加でサポートされる可能性があります。リモート ビューアーは、オプションでSSL/TLSの暗号化を用いて、ローカルもしくはリモートでホストされたゲストOSの両方に直接接続する事ができます。</p>
+  </description>
+  <description lang="ko">
+    <p>원격 뷰어는 게스트 운영체제 표시를 위해 그래픽 뷰어를 제공합니다. 이 때에 이는 VNC 또는 SPICE 통신규약을 사용하여 게스트 운영체제를 지원합니다. 앞으로 통신규약은 사용자 요구에 따라 지원 할 것입니다. 뷰어는 선택적으로 SSL/TLS 암호화를 사용하여, 로컬과 원격에 초대되어진 가상 운영체제를 직접 연결 할 수 있습니다.</p>
+  </description>
+  <description lang="nl">
+    <p>Remote Viewer biedt een grafische viewer voor het gastbesturingsscherm. Op dit moment ondersteunt het gast-besturingssystemen met behulp van de VNC- of SPICE-protocollen. Mogelijk worden in de toekomst meer protocollen ondersteund, afhankelijk van de vraag van de gebruiker. De viewer kan rechtstreeks verbinding maken met zowel lokaal als op afstand gehoste gastbesturingssystemen, optioneel met behulp van SSL/TLS-codering.</p>
+  </description>
+  <description lang="pl">
+    <p>Graficzna przeglądarka gości. Obecnie obsługuje protokoły VNC i Spice. W przyszłości może zostać dodana obsługa innych protokołów, jeśli będzie na nie zapotrzebowanie. Przeglądarka może łączyć się bezpośrednio z lokalnymi i zdalnymi gośćmi za pomocą szyfrowania SSL/TLS.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Visualizador remoto fornece um visualizador gráfico para a exibição sistema operacional convidado. Neste momento ele suporta sistema operacional convidado utilizando os protocolos de VNC ou especiarias. Mais protocolos podem ser suportados no futuro conforme a demanda do usuário. O espectador pode se conectar diretamente ao local e remotamente hospedado sistema operacional convidado, opcionalmente usando criptografia SSL / TLS.</p>
+  </description>
+  <description lang="ru">
+    <p>Удалённый рабочий стол предоставляет графическую оболочку для отображения гостевой ОС. На текущий момент поддерживается подключение по протоколам VNC и SPICE. По мере появления пользовательских запросов в дальнейшем может быть добавлена поддержка и других протоколов. Программа просмотра может подключаться напрямую как к локальной, так и к удалённой гостевой ОС, при необходимости используя шифрование SSL/TLS.</p>
+  </description>
+  <description lang="sv">
+    <p>Fjärrvisaren tillhandahåller en grafisk visare för gäst-OS-displayen. För närvarande stödjer den gäst-OS som använder protokollen VNC eller SPICE. Ytterligare protokoll kan komma att stödjas i framtiden beroende på vad användares behov avgör. Visaren kan ansluta direkt både till lokala och fjärrgäst-OS, med SSL/TLS-kryptering om så önskas.</p>
+  </description>
+  <description lang="tr">
+    <p>Remote Viewer, konuk işletim sistemi ekranı için bir grafik görüntüleyici sağlar. Şu anda VNC veya SPICE protokollerini kullanan konuk işletim sistemlerini desteklemektedir. Kullanıcı talebine göre gelecekte daha fazla protokol desteklenebilir. Görüntüleyici, isteğe bağlı olarak SSL/TLS şifrelemesi kullanarak doğrudan hem yerel hem de uzaktan barındırılan konuk işletim sistemine bağlanabilir.</p>
+  </description>
+  <description lang="uk">
+    <p>Віддалений переглядач є графічним засобом перегляду гостьових систем. У поточній версії передбачено підтримку гостьових операційних систем, які використовують протоколи VNC і SPICE. На вимогу користувачів у майбутньому може бути реалізовано підтримку інших протоколів. Засіб перегляду може встановлювати безпосередні з’єднання із гостьовими системами на локальному вузлі або віддалених вузлах. Якщо потрібно, може бути використано шифрування обміну даними на основі SSL/TLS.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>远程查看器 (Remote Viewer) 为客户机操作系统显示提供了图形查看器。目前支持使用 VNC 或 SPICE 协议的客户机操作系统。根据用户需求，未来可能会支持更多协议。查看器可以直接连接到本地和远程托管的客户机操作系统，可以选用 SSL/TLS 加密。</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://virt-manager.org/appdata/en_US/virt-viewer/general.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://virt-manager.org/appdata/en_US/virt-viewer/connection.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://virt-manager.org/appdata/en_US/virt-viewer/usbredir.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://virt-manager.org/appdata/en_US/virt-viewer/shared_folder.png</image>
+    </screenshot>
+  </screenshots>
+  <provides>
+    <binary>remote-viewer</binary>
+  </provides>
+  <url type="homepage">https://gitlab.com/virt-viewer/virt-viewer/</url>
+  <url type="bugtracker">https://gitlab.com/virt-viewer/virt-viewer/-/issues</url>
+  <url type="translate">https://translate.fedoraproject.org/projects/virt-viewer/virt-viewer/</url>
+</component>

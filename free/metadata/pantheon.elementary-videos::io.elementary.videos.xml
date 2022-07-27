@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>
+      A modern video player that focuses on displaying video content instead of
+      player controls. It remembers your last played video and playback position
+      so you can pick up from where you left off.
+    </p>
+    <p>
+      Additional features include:
+    </p>
+    <ul>
+      <li>Subtitle support</li>
+      <li>Play queue</li>
+      <li>Thumbnail previews on the seek bar</li>
+    </ul>
+  </description>
+  <description lang="ar">
+    <p>تشمل الميزات الإضافية:</p>
+    <ul>
+      <li>يدعم الترجمة</li>
+      <li>شغل القائمة</li>
+      <li>معاينة الصور المصغرة في شريط البحث</li>
+    </ul>
+  </description>
+  <description lang="bg">
+    <p>Съвременен възпроизвеждач на видеоклипове, който показва съдържанието вместо копчетата за управление. Запомнят се името и времето на последния файл, за да можете да продължите да гледате без проблеми.</p>
+    <ul>
+      <li>Поддръжка на субтитри</li>
+    </ul>
+  </description>
+  <description lang="bs">
+    <p>Moderan videoplejer s fokusom na prikazivanje videosadržaja umjesto na kontrole reprodukcije. Pamti koji ste zadnji video gledali i na kojem ste mjestu prestali tako da možete nastaviti tačno tamo gdje ste stali.</p>
+    <p>Dodatne funkcionalnosti uključuju:</p>
+    <ul>
+      <li>Podrška za titlove</li>
+      <li>Lista reprodukcije</li>
+      <li>Minijaturni pretpregledi na traci premotavanja</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>Un reproductor de vídeo modern que se centra en la visualització de contingut de vídeo en lloc dels controls del reproductor. Recorda l'última posició de reproducció de vídeo i perquè pugueu reprendre el fil on el vau deixar.</p>
+    <p>Les característiques addicionals inclouen el següent:</p>
+    <ul>
+      <li>Suport de subtítiols</li>
+      <li>Cua de reproducció</li>
+      <li>Previsualització de miniatures a la barra de cerca</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>Moderní přehrávač videí, který se zaměřuje zejména na obsah místo na tlačítka a ovládání. Pamatuje si poslední přehrávané video a pozici přehrávání, takže se můžete kdykoliv vrátit tam, kde jste skončili.</p>
+    <p>Mezi další funkce patří:</p>
+    <ul>
+      <li>Podpora titulků</li>
+      <li>Fronta přehrávání</li>
+      <li>Náhledy videa na vyhledávací liště</li>
+    </ul>
+  </description>
+  <description lang="da">
+    <p>En moderne videoafspiller med fokus på at vise video i stedet for afspillerens kontroller. Den husker din sidst afspillede video og afspilningsposition, så du kan fortsætte hvor du slap sidst.</p>
+    <p>Yderligere faciliteter inkluderer:</p>
+    <ul>
+      <li>Understøttelse af undertekster</li>
+      <li>Afspil kø</li>
+      <li>Miniatureforhåndsvisning på søgebjælken</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>Ein moderne Anwendung zur Wiedergabe von Videos, die den Fokus auf die Wiedergabe des eigentlichen Videoinhalts legt und nicht auf die Darstellung von Steuerelementen. Videos merkt sich, welcher Film zuletzt wiedergegeben wurde sowie die letzte Wiedergabeposition, so dass Sie umstandslos ab dort weitersehen können, wo Sie die Wiedergabe unterbrochen hatten.</p>
+    <p>Weitere Funktionen:</p>
+    <ul>
+      <li>Unterstützung von Untertiteln</li>
+      <li>Wiedergabeliste</li>
+      <li>Vorschau in der Suchleiste</li>
+    </ul>
+  </description>
+  <description lang="el">
+    <ul>
+      <li>Υποστήριξη υποτίτλων</li>
+    </ul>
+  </description>
+  <description lang="en_AU">
+    <p>A modern video player that focuses on displaying video content instead of player controls. It remembers your last played video and playback position so you can pick up from where you left off.</p>
+    <p>Additional features include:</p>
+    <ul>
+      <li>Subtitle support</li>
+      <li>Play queue</li>
+      <li>Thumbnail previews on the seek bar</li>
+    </ul>
+  </description>
+  <description lang="en_CA">
+    <p>A modern video player that focuses on displaying video content instead of player controls. It remembers your last played video and playback position so you can pick up from where you left off.</p>
+    <p>Additional features include:</p>
+    <ul>
+      <li>Subtitle support</li>
+      <li>Play queue</li>
+      <li>Thumbnail previews on the seek bar</li>
+    </ul>
+  </description>
+  <description lang="en_GB">
+    <p>A modern video player that focuses on displaying video content instead of player controls. It remembers your last played video and playback position so you can pick up from where you left off.</p>
+    <p>Additional features include:</p>
+    <ul>
+      <li>Subtitle support</li>
+      <li>Play queue</li>
+      <li>Thumbnail previews on the seek bar</li>
+    </ul>
+  </description>
+  <description lang="eo">
+    <p>Moderna videoludilo kiu fokusiĝas je afiŝo de videaj enhavoj anstataŭ de ludaj regiloj. Ĝi memoras la laste luditan videon kaj la lastan pozicion de kie vi rekomencos spektadi.</p>
+    <p>Pliaj funkcioj inkluzivas:</p>
+    <ul>
+      <li>Subteksta subteno</li>
+      <li>Ludi la atendovicon</li>
+      <li>Miniaturoj ĉe naviga breto</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>Un reproductor de vídeos moderno centrado en el contenido y no en los controles de reproducción. Recuerda el último vídeo y momento reproducido para que pueda retomar la reproducción donde la dejó.</p>
+    <p>Se incluyen, entre otras funcionalidades:</p>
+    <ul>
+      <li>Admite subtítulos</li>
+      <li>Cola de reproducción</li>
+      <li>Previsualizaciones en miniatura sobre la barra de posición</li>
+    </ul>
+  </description>
+  <description lang="et">
+    <p>Kaasaegne videoesitaja, millel on rõhk pandud video esitamisele, mitte kontrollnuppude kuvamisele. Meelde jäetakse viimati esitatud video ning koht, kus video pooleli jäi, et sul hiljem võimalikult mugav vaatamist jätkata oleks.</p>
+    <p>Lisafunktsioonid sisaldavad:</p>
+    <ul>
+      <li>Subtiitrite tugi</li>
+      <li>Esitamise järjekord</li>
+      <li>Video eelvaade ajateljel</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>Nykyaikainen videosoitin, jonka keskipisteenä ovat videot, ei soittimen painikkeet. Sovellus muistaa puolestasi, mihin kohtaan jäit viimeksi videota katsellessa, joten voit jatkaa toistoa vaivatta.</p>
+    <p>Lisäominaisuudet:</p>
+    <ul>
+      <li>Tuki tekstityksille</li>
+      <li>Toistojono</li>
+      <li>Esikatselukuvat kelatessa</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>Un lecteur vidéo moderne qui se focalise sur l'affichage du contenu vidéo au lieu des contrôles. Il se souvient de la dernière vidéo lue ainsi que de la position, ainsi vous pouvez reprendre où vous en étiez la fois précédente.</p>
+    <p>Les dispositifs additionnels incluent :</p>
+    <ul>
+      <li>Support des sous-titres</li>
+      <li>Liste de lecture</li>
+      <li>Miniatures sur la barre de navigation</li>
+    </ul>
+  </description>
+  <description lang="he">
+    <p>נגן וידאו מודרני שמתמקד על הצגת תוכן וידאו במקום פקדי נגינה. הנגן זוכר את הסרטון האחרון ואת המיקום בו היית בנגינה האחרונה כדי לאפשר לך לחזור למקום בו עצרת.</p>
+    <p>תכונות נוספות לרבות:</p>
+    <ul>
+      <li>תמיכה בכתוביות</li>
+      <li>תור נגינה</li>
+      <li>תצוגה מקדימה בפס הנגינה</li>
+    </ul>
+  </description>
+  <description lang="hi">
+    <p>एक आधुनिक वीडियो प्लेयर जो खिलाड़ी नियंत्रण के बजाय वीडियो सामग्री प्रदर्शित करने पर केंद्रित है। यह आपके पिछले खेले गए वीडियो और प्लेबैक पोजीशन को याद रखता है ताकि आप उस जगह से उठा सकें जहां आपने छोड़ा था।</p>
+    <p>अतिरिक्त सुविधाओं में शामिल हैं:</p>
+    <ul>
+      <li>उपशीर्षक समर्थन करते हैं</li>
+      <li>लाइन में चलाएं</li>
+      <li>खोज बार पर थंबनेल का पूर्वावलोकन करें</li>
+    </ul>
+  </description>
+  <description lang="hr">
+    <p>Moderan reproduktor video snimaka koji je usredotočen na prikaz video sadržaja umjesto na upravljanje video sadržajem. Pamti vašu posljednju reproduciranu video snimku i posljednji položaj reprodukcije tako da možete nastaviti gledanje gdje ste stali.</p>
+    <p>Dodatne uključene značajke:</p>
+    <ul>
+      <li>Podrška za podnaslove</li>
+      <li>Red reprodukcije</li>
+      <li>Pregled minijatura u traci premotavanja</li>
+    </ul>
+  </description>
+  <description lang="hu">
+    <p>Egy modern videólejátszó ami a videó megjelenítésére fókuszál a lejátszó vezérlése helyett. Emlékszik a legutóbb lejátszott videóra és a megállított pozícióra, így ott folytathatja, ahol abbahagyta.</p>
+    <p>További jellemzők közé tartozik:</p>
+    <ul>
+      <li>Feliratok támogatása</li>
+      <li>Lejátszási sor</li>
+      <li>Indexkép-előnézetek a sávon</li>
+    </ul>
+  </description>
+  <description lang="ie">
+    <p>Un modern reproductor de video con un foco sur presentation del video-contenete in vice de controles de reproduction. It memora vor ultim video e li position de reproduction, dunc vos pote continuar de u vos departet.</p>
+    <p>Additional caracteristicas include:</p>
+    <ul>
+      <li>Supporte de subtitules</li>
+      <li>Linea de reproduction</li>
+      <li>Miniaturas in li barre de navigation</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>Un riproduttore video moderno che si concentra sulla visualizzazione dei contenuti video invece che sui controlli del lettore in sé. Si ricorda l'ultimo video riprodotto e la posizione di riproduzione in modo da poter riprendere da dove ti eri interrotto.</p>
+    <p>Tra le caratteristiche aggiuntive vi sono:</p>
+    <ul>
+      <li>Supporto ai sottotitoli</li>
+      <li>Coda di riproduzione</li>
+      <li>Miniature di anteprima sulla barra di riproduzione</li>
+    </ul>
+  </description>
+  <description lang="ja">
+    <p>プレイヤーコントロールではなく動画内容の表示に重点を置いた、モダンなビデオプレイヤーです。最後に再生した動画と再生位置を記憶するので、前回中断したところから再生を再開できます。</p>
+    <p>そのほかの機能:</p>
+    <ul>
+      <li>字幕に対応</li>
+      <li>再生キュー</li>
+      <li>シークバー上のサムネイルプレビュー</li>
+    </ul>
+  </description>
+  <description lang="ko">
+    <p>비디오 조정이 아닌 비디오 내용에 초점을 맞춘 현대적인 감각의 비디오 플레이어. 여러분이 감상하신 마지막 비디오와 재생 위치를 기억해서 자리를 떠난 바로 그곳에서 다시 시작해 볼 수 있도록 해줍니다.</p>
+    <p>추가 기능 포함:</p>
+    <ul>
+      <li>자막 지원</li>
+      <li>재생 대기열</li>
+      <li>찾아보기에서 썸네일 미리보기</li>
+    </ul>
+  </description>
+  <description lang="lt">
+    <p>Šiuolaikinis vaizdo grotuvas, kuris susitelkia ties vaizdo įrašų rodymu, o ne grotuvo valdikliais. Jis prisimena jūsų paskutinį žiūrėtą vaizdo įrašą ir atkūrimo poziciją, taigi, galite tęsti nuo tos vietos, kur užbaigėte.</p>
+    <p>Į papildomas ypatybės įeina:</p>
+    <ul>
+      <li>Subtitrų palaikymas</li>
+      <li>Atkūrimo eilė</li>
+      <li>Miniatiūrų peržiūra takelio juostoje</li>
+    </ul>
+  </description>
+  <description lang="mr">
+    <p>एक आधुनिक व्हिडिओ प्लेयर जो प्लेअर नियंत्रणाऐवजी व्हिडिओ सामग्री प्रदर्शित करण्यावर लक्ष केंद्रित करतो. आपल्या शेवटच्या प्ले केलेल्या व्हिडिओ आणि प्लेबॅकची स्थिती लक्षात ठेवते जेणेकरून आपण जिथे सोडले होते तिथून पुन्हा सुरु करू शकता.</p>
+    <p>समाविष्ट असलेली अतिरिक्त वैशिष्ट्ये :</p>
+    <ul>
+      <li>उपशीर्षक समर्थन</li>
+      <li>ओळीने चालवा</li>
+      <li>शोध बारवर लघुप्रतिमा पूर्वावलोकने</li>
+    </ul>
+  </description>
+  <description lang="nb">
+    <p>En moderne videospiller som fokuserer på visning av videoinnhold istedenfor avspillerkontroller. Den husker din siste spilte video og avspillingsposisjon, slik at du kan fortsette der du slapp.</p>
+    <p>Ytterligere funksjoner inkluderer:</p>
+    <ul>
+      <li>Undertekststøtte</li>
+      <li>Avspillingskø</li>
+      <li>Miniatyrbildevisning i søkefelt</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>Een moderne videospeler met de nadruk op de inhoud van een video en niet op de besturing. De speler onthoud uw laatst afgespeelde video en positie zodat u door kunt kijken waar u eerder gestopt was.</p>
+    <p>Aanvullende functies zijn onder andere:</p>
+    <ul>
+      <li>Ondersteuning voor ondertiteling</li>
+      <li>Een afspeelwachtrij</li>
+      <li>Miniatuurweergave tijdens het zoeken</li>
+    </ul>
+  </description>
+  <description lang="nn">
+    <p>Ein moderne videoavspelar som fokuserer på vising av videoinnhald i staden for avspelarkontrollar. Den hugsar den siste spelte videoen din og avspelingsposisjonen, slik at du kan halde fram der du slapp.</p>
+    <p>Ytterlegare funksjonar inkluderer:</p>
+    <ul>
+      <li>Undertekststøtte</li>
+      <li>Avspelingskø</li>
+      <li>Miniatyrbiletevising i søkefeltet</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <p>Nowoczesny odtwarzacz wideo, który skupia się na wyświetlaniu treści wideo zamiast na sterowaniu odtwarzaczem. Zapamiętuje ostatnio odtwarzany plik wideo oraz pozycję odtwarzania, dzięki czemu można go oglądać od miejsca, w którym został przerwany.</p>
+    <p>Dodatkowe funkcje obejmują:</p>
+    <ul>
+      <li>Obsługa napisów</li>
+      <li>Kolejka odtwarzania</li>
+      <li>Miniaturowy podgląd na pasku przewijania</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>Um reprodutor de vídeos que se foca no essencial. Memoriza os vídeos reproduzidos e a posição de reprodução para que possa continuar a ver os seus filmes facilmente.</p>
+    <p>Mais funcionalidades:</p>
+    <ul>
+      <li>Suporte a legendas</li>
+      <li>Fila de reprodução</li>
+      <li>Miniaturas na barra de pesquisa</li>
+    </ul>
+  </description>
+  <description lang="pt_BR">
+    <p>Um reprodutor de vídeo moderno que foca em mostrar o conteúdo do vídeo ao invés de controles de reprodução. Ele lembra o seu último vídeo reproduzido e a posição de playback para que você retorne de onde parou.</p>
+    <p>Funcionalidades adicionais incluídas:</p>
+    <ul>
+      <li>Suporte à legendas</li>
+      <li>Fila de reprodução</li>
+      <li>Prévia de miniaturas na barra de reprodução</li>
+    </ul>
+  </description>
+  <description lang="ro">
+    <p>Un player video care se axează în a arăta conținutul video în locul controalelor. Memorează ultimul video și poziția redării ca să poți continua de unde ai rămas.</p>
+    <p>Caracteristicile suplimentare includ:</p>
+    <ul>
+      <li>Suport pentru subtitrare</li>
+      <li>Coada de redare</li>
+      <li>Previzualizări in miniatură pe bara de căutare</li>
+    </ul>
+  </description>
+  <description lang="ru">
+    <p>Современный видеоплеер, сфокусированный на просмотре видео, а не на усправлении им. Запоминает последние видео и позицию воспроизведения, так что вы всегда сможете вернуться к моменту, на котором остановились.</p>
+    <p>Дополнительные возможности включают:</p>
+    <ul>
+      <li>Поддержку субтитров</li>
+      <li>Очереди воспроизведения</li>
+      <li>Вывод превью на панели навигации</li>
+    </ul>
+  </description>
+  <description lang="si">
+    <p>අඩංගු අමතර විශේෂාංග:</p>
+    <ul>
+      <li>උපරැසි සහාය</li>
+    </ul>
+  </description>
+  <description lang="sk">
+    <p>Moderný prehrávač videa, ktorý sa zameriava hlavne na zobrazovanie obsahu namiesto ovládania prehrávača. Pamätá si naposledy prehrávané video a pozíciu prehrávania, takže môžete pokračovať tam, kde ste prestali.</p>
+    <p>Medzi ďalšie funkcie patria:</p>
+    <ul>
+      <li>Podporu titulkov</li>
+      <li>Frontu prehrávania</li>
+      <li>Náhľadové obrázky na posuvníku prehrávania</li>
+    </ul>
+  </description>
+  <description lang="sl">
+    <p>Moderni predvajalnik videov s fokusom na vsebino. Zapomni si vaš nazadnje predvajajan video.</p>
+    <p>Dodatne zmožnosti vključujejo:</p>
+    <ul>
+      <li>Podpora za podnapise</li>
+      <li>Čakalna vrsta videov</li>
+      <li>Predogled ob previjanju</li>
+    </ul>
+  </description>
+  <description lang="sq">
+    <p>Veçoritë shtesë përfshijnë:</p>
+  </description>
+  <description lang="sr">
+    <p>Савремени програм за пуштање снимака који се фокусира на приказивање видео садржаја уместо на контроле програма. Подсећа вас на последњи пуштени снимак и на положај пуштања тако да можете да наставите тамо где сте стали.</p>
+    <p>У додатне функције спадају:</p>
+    <ul>
+      <li>Подршка титлова</li>
+      <li>Ред пуштања</li>
+      <li>Претпрегледи на траци премотавања</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <p>En modern videospelare som fokuserar på visning av videoinnehåll istället för spelarkontroller. Den kommer ihåg din senast spelade video och uppspelningsposition, så att du kan fortsätta titta precis där du slutade.</p>
+    <p>Ytterligare funktioner inkluderar:</p>
+    <ul>
+      <li>Undertextstöd</li>
+      <li>Uppspelningskö</li>
+      <li>Miniatyrbild i sökfältet</li>
+    </ul>
+  </description>
+  <description lang="szl">
+    <p>Moderny ôdgrowocz filmōw, co sie skupio na pokazowaniu treści wideo zamiast na kōntrolkami. Pamiynto niydowno ôdtworzany zbiōr wideo jak tyż pozycyjo ôdtworzanio, dziynki czymu idzie na niego patrzeć ôd miyjsca, kaj bōł zastawiōny.</p>
+    <p>Ekstra funkcyje ôbyjmujōm:</p>
+    <ul>
+      <li>Sparcie nopisōw</li>
+      <li>Raja ôdgrowanio</li>
+      <li>Miniaturowy podglōnd na posku przewijanio</li>
+    </ul>
+  </description>
+  <description lang="tl">
+    <p>Isang makabagong video player na binibigyang kahalagahan ang pagpapakita ng nilalaman na video sa halip na mga kontrol ng player. Naaalala nito ang iyong huling binuksang video at playback position upang makabalik ka kung saan ka huling huminto.</p>
+    <p>Kasama sa mga karagdagang features:</p>
+    <ul>
+      <li>Suporta sa subtitle</li>
+      <li>Play queue</li>
+      <li>Mga thumbnail preview sa seek bar</li>
+    </ul>
+  </description>
+  <description lang="tr">
+    <p>Video kontrol tuşları yerine videoyu göstermeye odaklanmış modern bir video oynatıcı. En son kaldığınız yeri hatırlar ve kaldığınız yerden izlemenize olanak sağlar.</p>
+    <p>Ek özellikler şunları içerir:</p>
+    <ul>
+      <li>Altyazı desteği</li>
+      <li>Sırayla oynatma</li>
+      <li>Arama çubuğunda önizlemeler</li>
+    </ul>
+  </description>
+  <description lang="ug">
+    <p>سىن قويغۇنىڭ كونتررولىغا ئەمەس بەلكى ۋىدىئو مەزمۇنىنى قويۇشقا ئاساسلىق كۆڭۈل بۆلگەن زامانىۋى سىن قويغۇ. بۇ سىن قويغۇ سىزنىڭ ئالدىنقى قىتىم قويغان ۋېدىئويىڭىزنى ۋە كۆرەپ توختىغان ئورنىڭىزنى ئىسىدە تۇتىدۇ، ۋە بۇ ئارقىلىق سىز ۋېدىئويىڭىزنى كەلگەن يەردىن داۋاملاشتۇرۇپ كۆرەلەيسىز.</p>
+    <p>باشقا ئالاھىدىلىكلىرى تۆۋەندىكىچە:</p>
+    <ul>
+      <li>خەتنى قوللاش</li>
+      <li>قويۇش سىپى</li>
+      <li>سۈرئەت كۆرسەتكۈچنى كۆرۈش</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>Сучасний відеопрогравач, зосереджений на показі відеовмісту замість елементів керування програвачем. Він запам'ятовує ваше останнє відтворене відео та час відтворення, щоб ви могли продовжувати з того місця, де зупинилися.</p>
+    <p>Додаткові функції:</p>
+    <ul>
+      <li>Підтримка субтитрів</li>
+      <li>Черга відтворення</li>
+      <li>Попередній перегляд мініатюр на панелі прокрутки</li>
+    </ul>
+  </description>
+  <description lang="ur">
+    <p>اضافی خصوصیات میں ہے:</p>
+    <ul>
+      <li>سب ٹائٹل کی معاونت</li>
+      <li>چلنے والو کی قطار</li>
+      <li>سیک بار پر تھمب نیل پیش منظر</li>
+    </ul>
+  </description>
+  <description lang="zh_CN">
+    <p>一款专注于播放内容而非繁琐控制的播放器，记忆播放功能让你不再丢失播放进度。</p>
+    <p>特色功能：</p>
+    <ul>
+      <li>字幕支持</li>
+      <li>播放队列</li>
+      <li>进度条快速预览</li>
+    </ul>
+  </description>
+  <description lang="zh_TW">
+    <p>專注在影片內容本身，而非播放器控制項目的現代化影片播放器。它能記住您上次觀賞的影片和時間點，所以您可以接續上次離開的地方開始觀賞。</p>
+    <p>其他功能還包括：</p>
+    <ul>
+      <li>字幕支援</li>
+      <li>播放佇列</li>
+      <li>時間查找軸會有縮圖預覽</li>
+    </ul>
+  </description>
+  <pkgname>pantheon.elementary-videos</pkgname>
+  <icon height="64" type="cached" width="64">io.elementary.videos.png</icon>
+  <icon height="128" type="cached" width="128">io.elementary.videos.png</icon>
+  <id>io.elementary.videos</id>
+  <launchable type="desktop-id">io.elementary.videos.desktop</launchable>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_group>elementary</project_group>
+  <project_license>GPL-3.0+</project_license>
+  <name>Videos</name>
+  <name lang="zh_TW">影片</name>
+  <name lang="zh_CN">视频</name>
+  <name lang="ur">ویڈیوز</name>
+  <name lang="uk">Відео</name>
+  <name lang="ug">ۋىدىئولار</name>
+  <name lang="tr">Videolar</name>
+  <name lang="tl">Mga Video</name>
+  <name lang="szl">Filmy</name>
+  <name lang="sv">Videor</name>
+  <name lang="sr">Видео снимци</name>
+  <name lang="sq">Video</name>
+  <name lang="sl">Video predvajalnik</name>
+  <name lang="sk">Videá</name>
+  <name lang="si">දෘශ්‍යක</name>
+  <name lang="ru">Видео</name>
+  <name lang="ro">Fișiere video</name>
+  <name lang="pt_BR">Vídeos</name>
+  <name lang="pt">Vídeos</name>
+  <name lang="pl">Filmy</name>
+  <name lang="pa">ਵਿਡਿਓਜ਼</name>
+  <name lang="oc">Vidèos</name>
+  <name lang="nn">Videoar</name>
+  <name lang="nl">Video's</name>
+  <name lang="nb">Videoer</name>
+  <name lang="mr">व्हिडीओ</name>
+  <name lang="lt">Vaizdo įrašai</name>
+  <name lang="ku">Vîdyo</name>
+  <name lang="ko">비디오</name>
+  <name lang="ja">ビデオ</name>
+  <name lang="it">Video</name>
+  <name lang="ie">Videos</name>
+  <name lang="hu">Videók</name>
+  <name lang="hr">Snimke</name>
+  <name lang="hi">वीडियो</name>
+  <name lang="he">סרטונים</name>
+  <name lang="gl">Vídeos</name>
+  <name lang="fr">Vidéos</name>
+  <name lang="fi">Videot</name>
+  <name lang="et">Videod</name>
+  <name lang="es">Vídeos</name>
+  <name lang="eo">Videoj</name>
+  <name lang="en_GB">Videos</name>
+  <name lang="en_CA">Videos</name>
+  <name lang="en_AU">Videos</name>
+  <name lang="el">Βίντεο</name>
+  <name lang="de">Videos</name>
+  <name lang="da">Videoer</name>
+  <name lang="cs">Videa</name>
+  <name lang="ca">Vídeos</name>
+  <name lang="bs">Video</name>
+  <name lang="bg">Видеоклипове</name>
+  <name lang="ar">فيديوهات</name>
+  <summary>Watch videos and movies</summary>
+  <summary lang="zh_TW">觀賞影片和電影</summary>
+  <summary lang="zh_CN">观看影片和视频</summary>
+  <summary lang="ur">ویڈیو اور فلمیں دیکھیں</summary>
+  <summary lang="uk">Переглядайте відео та фільми</summary>
+  <summary lang="ug">ۋىدىئو ۋە كىنولارنى كۆرۈش</summary>
+  <summary lang="tr">Video ve Film izle</summary>
+  <summary lang="tl">Manuod ng mga video at pelikula</summary>
+  <summary lang="szl">Ôglōndej zbiory wideo jak tyż filmy</summary>
+  <summary lang="sv">Titta på videor och filmer</summary>
+  <summary lang="sr">Гледајте снимке и филмове</summary>
+  <summary lang="sq">Shiko video dhe filma</summary>
+  <summary lang="sl">Glej filme in ostale posnetke</summary>
+  <summary lang="sk">Sledujte videá a filmy</summary>
+  <summary lang="si">දෘශ්‍යක සහ චිත්‍රපට නරඹන්න</summary>
+  <summary lang="ru">Просматривайте видео и фильмы</summary>
+  <summary lang="ro">Vizualizează videoclipuri și filme</summary>
+  <summary lang="pt_BR">Assista a vídeos e filmes</summary>
+  <summary lang="pt">Veja vídeos e filmes</summary>
+  <summary lang="pl">Oglądaj filmy i inne pliki wideo</summary>
+  <summary lang="nn">Sjå videoar og filmar</summary>
+  <summary lang="nl">Kijk video’s en films</summary>
+  <summary lang="nb">Se videoer og filmer</summary>
+  <summary lang="mr">व्हिडिओ आणि चित्रपट पहा</summary>
+  <summary lang="lt">Žiūrėti vaizdo įrašus ir filmus</summary>
+  <summary lang="ko">비디오 및 영화 감상</summary>
+  <summary lang="ja">動画や映画を見ます</summary>
+  <summary lang="it">Guarda video e film</summary>
+  <summary lang="ie">Specta videos e filmes</summary>
+  <summary lang="hu">Videók és filmek megtekintése</summary>
+  <summary lang="hr">Gledajte video snimke i filmove</summary>
+  <summary lang="hi">वीडियो और फिल्में देखें</summary>
+  <summary lang="he">צפייה בסרטונים ובסרטים</summary>
+  <summary lang="fr">Regarder des vidéos et des films</summary>
+  <summary lang="fi">Katsele videoita ja elokuvia</summary>
+  <summary lang="et">Videode ja filmide vaatamine</summary>
+  <summary lang="es">Ver videos y películas</summary>
+  <summary lang="eo">Spekti videojn kaj filmojn</summary>
+  <summary lang="en_GB">Watch videos and films</summary>
+  <summary lang="en_CA">Watch videos and movies</summary>
+  <summary lang="en_AU">Watch videos and movies</summary>
+  <summary lang="el">Παρακολουθήστε βίντεο και ταινίες</summary>
+  <summary lang="de">Videos und Filme ansehen</summary>
+  <summary lang="da">Se videoer og film</summary>
+  <summary lang="cs">Sledujte videa a filmy</summary>
+  <summary lang="ca">Vegeu videos i pel·lícules</summary>
+  <summary lang="bs">Gledajte videozapise i filmove</summary>
+  <summary lang="bg">Гледане на видеоклипове и филми</summary>
+  <summary lang="ar">شاهد مقاطع الفيديو و الأفلام</summary>
+  <provides>
+    <binary>io.elementary.videos</binary>
+  </provides>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/elementary/videos/master/data/screenshot.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/elementary/videos/master/data/screenshot-library.png</image>
+    </screenshot>
+  </screenshots>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release version="2.8.4" urgency="medium" date="2022-06-03">
+      <description>
+        <p>Other updates:</p>
+        <ul>
+          <li>Update to Flatpak Platform 7</li>
+          <li>Translation updates</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2022-01-10" version="2.8.3" urgency="medium">
+      <description>
+        <p>Fixes:</p>
+        <ul>
+          <li>Fix a crash with certain video codecs</li>
+        </ul>
+        <p>Other updates:</p>
+        <ul>
+          <li>Update to 6.1 Flatpak runtime</li>
+          <li>Translation updates</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-12-17" urgency="medium" version="2.8.2">
+      <description>
+        <p>Other updates:</p>
+        <ul>
+          <li>Added support for the org.freedesktop.Platfrom.ffmpeg-full extension</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" date="2021-12-17" version="2.8.1">
+      <description>
+        <p>Other updates:</p>
+        <ul>
+          <li>Fix an issue with removing videos from library</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-10-28" urgency="medium" version="2.8.0">
+      <description>
+        <p>New features:</p>
+        <ul>
+          <li>Two-finger swipe to go back</li>
+        </ul>
+        <p>Other updates:</p>
+        <ul>
+          <li>Translation updates</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-07-14" version="2.7.3" urgency="medium">
+      <description>
+        <p>Other updates:</p>
+        <ul>
+          <li>Fix an issue with accessing library view</li>
+          <li>Fix an issue with returning to the welcome page while playing multiple videos</li>
+          <li>Prevent sleep while playing a video</li>
+          <li>Translation updates</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" date="2020-06-30" version="2.7.2">
+      <description>
+        <p>Improvements:</p>
+        <ul>
+          <li>Start up faster with large libraries</li>
+        </ul>
+        <p>Other updates:</p>
+        <ul>
+          <li>Fix cases where subtitles refused to load</li>
+          <li>Handle if library folder is deleted or moved</li>
+          <li>Translation updates</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" date="2020-04-14" version="2.7.1">
+      <description>
+        <p>New features:</p>
+        <ul>
+          <li>Load external subtitles</li>
+        </ul>
+        <p>Other updates:</p>
+        <ul>
+          <li>Reliably update the replay button description and file</li>
+          <li>More consistently remember the last playing video and its play position</li>
+          <li>Fix missing icon in episode view</li>
+          <li>Translation updates</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" date="2019-11-25" version="2.7.0">
+      <description>
+        <p>New features:</p>
+        <ul>
+          <li>Option to automatically play next videos</li>
+          <li>Navigate the playlist with the keyboard</li>
+          <li>Add a button to clear the playlist</li>
+          <li>Show audio track language in settings</li>
+          <li>Show playlist item titles in their tooltips</li>
+        </ul>
+        <p>Other updates:</p>
+        <ul>
+          <li>Show an error for unsupported files</li>
+          <li>Fix disappearing cursor on headerbar</li>
+          <li>Hide seekbar preview when switching windows with Alt + Tab</li>
+          <li>Translation updates</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-01-08" version="2.6.3" urgency="medium">
+      <description>
+        <ul>
+          <li>Build fixes</li>
+          <li>Translation updates</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.6.2" date="2018-10-01" urgency="medium">
+      <description>
+        <ul>
+          <li>Build fixes</li>
+          <li>Translation updates</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2018-07-31" urgency="medium" version="2.6.1">
+      <description>
+        <ul>
+          <li>Translation updates</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2018-06-20" version="0.2.6" urgency="medium">
+      <description>
+        <ul>
+          <li>Window behavior improvements</li>
+          <li>Fix disappearing subtitle tracks</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.2.5" date="2018-01-08" urgency="medium">
+      <description>
+        <ul>
+          <li>Disallow setting playback before start</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2017-08-11" urgency="medium" version="0.2.4">
+      <description>
+        <ul>
+          <li>Limit consecutive spacebar pauses</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2017-08-02" urgency="medium" version="0.2.3">
+      <description>
+        <ul>
+          <li>Crash fixes</li>
+          <li>Remove About dialog</li>
+          <li>Minor bug fixes</li>
+          <li>Translation updates</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.2.2" date="2017-04-13" urgency="medium">
+      <description>
+        <ul>
+          <li>Preview popover now closely follows cursor position</li>
+          <li>Translation updates</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" date="2017-01-19" version="0.2.1.2">
+      <description>
+        <ul>
+          <li>Translation updates</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.2.1.1" urgency="medium" date="2016-10-31">
+      <description>
+        <ul>
+          <li>Fix appstream date format</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" version="0.2.1" date="2016-10-31">
+      <description>
+        <ul>
+          <li>Added a library view with search</li>
+          <li>Fixed a bug that prevents keyboard navigation</li>
+          <li>Translation updates</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" date="2016-05-05" version="0.2.0.2">
+      <description>
+        <ul>
+          <li>Minor bug fixes</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <developer_name>elementary, Inc.</developer_name>
+  <developer_name lang="zh_CN">elementary, Inc.</developer_name>
+  <developer_name lang="uk">elementary, Inc.</developer_name>
+  <developer_name lang="tr">elementary, Inc.</developer_name>
+  <developer_name lang="szl">elementary, Inc.</developer_name>
+  <developer_name lang="sr">elementary, Inc.</developer_name>
+  <developer_name lang="sk">elementary, Inc.</developer_name>
+  <developer_name lang="ru">elementary, Inc.</developer_name>
+  <developer_name lang="pt_BR">elementary, Inc.</developer_name>
+  <developer_name lang="pt">elementary, Inc.</developer_name>
+  <developer_name lang="pl">elementary, Inc.</developer_name>
+  <developer_name lang="nl">elementary, Inc.</developer_name>
+  <developer_name lang="nb">elementary, Inc.</developer_name>
+  <developer_name lang="mr">एलिमेंटरी, Inc.</developer_name>
+  <developer_name lang="ja">elementary, Inc.</developer_name>
+  <developer_name lang="hu">elementary, Inc.</developer_name>
+  <developer_name lang="he">elementary בע״מ.</developer_name>
+  <developer_name lang="fr">elementary, Inc.</developer_name>
+  <developer_name lang="es">elementary, Inc.</developer_name>
+  <developer_name lang="en_GB">elementary, Inc.</developer_name>
+  <developer_name lang="de">elementary, Inc.</developer_name>
+  <developer_name lang="cs">elementary, Inc.</developer_name>
+  <developer_name lang="ca">elementary, Inc.</developer_name>
+  <url type="homepage">https://elementary.io/</url>
+  <url type="bugtracker">https://github.com/elementary/videos/issues</url>
+  <url type="donation">https://elementary.io/get-involved#funding</url>
+  <url type="help">https://elementaryos.stackexchange.com/questions/tagged/videos</url>
+  <url type="translate">https://l10n.elementary.io/projects/videos</url>
+  <update_contact>contact_AT_elementary.io</update_contact>
+  <x-appcenter-color-primary>#2b63a0</x-appcenter-color-primary>
+</component>

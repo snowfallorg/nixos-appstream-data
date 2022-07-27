@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>gnome.gnome-disk-utility</pkgname>
+  <launchable type="desktop-id">org.gnome.DiskUtility.desktop</launchable>
+  <icon width="64" height="64" type="cached">org.gnome.DiskUtility.png</icon>
+  <icon width="128" type="cached" height="128">org.gnome.DiskUtility.png</icon>
+  <id>org.gnome.DiskUtility.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Disks</name>
+  <name lang="zh_TW">磁碟</name>
+  <name lang="zh_HK">磁碟</name>
+  <name lang="zh_CN">磁盘</name>
+  <name lang="vi">Đĩa</name>
+  <name lang="uk">Диски</name>
+  <name lang="ug">دىسكىلار</name>
+  <name lang="tr">Diskler</name>
+  <name lang="th">ดิสก์</name>
+  <name lang="tg">Дискҳо</name>
+  <name lang="te">డిస్కులు </name>
+  <name lang="ta">வட்டுகள்</name>
+  <name lang="sv">Diskar</name>
+  <name lang="sr@latin">Diskovi</name>
+  <name lang="sr">Дискови</name>
+  <name lang="sl">Diski</name>
+  <name lang="sk">Disky</name>
+  <name lang="ru">Диски</name>
+  <name lang="ro">Discuri</name>
+  <name lang="pt_BR">Discos</name>
+  <name lang="pt">Discos</name>
+  <name lang="pl">Dyski</name>
+  <name lang="pa">ਡਿਸਕਾਂ</name>
+  <name lang="or">ଡିସ୍କଗୁଡ଼ିକ</name>
+  <name lang="oc">Disques</name>
+  <name lang="nl">Schijven</name>
+  <name lang="ne">डिस्क</name>
+  <name lang="nb">Disker</name>
+  <name lang="ms">Cakera</name>
+  <name lang="mr">डिस्कस्</name>
+  <name lang="ml">ഡിസ്കുകള്‍</name>
+  <name lang="mjw">Disks</name>
+  <name lang="lv">Diski</name>
+  <name lang="lt">Diskai</name>
+  <name lang="ko">디스크</name>
+  <name lang="kn">ಡಿಸ್ಕುಗಳು</name>
+  <name lang="km">ដ្រាយ</name>
+  <name lang="kk">Дисктер</name>
+  <name lang="ja">ディスク</name>
+  <name lang="it">Dischi</name>
+  <name lang="is">Diskar</name>
+  <name lang="id">Diska</name>
+  <name lang="hu">Lemezek</name>
+  <name lang="hr">Diskovi</name>
+  <name lang="hi">डिस्क</name>
+  <name lang="he">כוננים</name>
+  <name lang="gu">ડિસ્ક</name>
+  <name lang="gl">Discos</name>
+  <name lang="gd">Diosgan</name>
+  <name lang="ga">Dioscaí</name>
+  <name lang="fur">Discs</name>
+  <name lang="fr">Disques</name>
+  <name lang="fi">Levyt</name>
+  <name lang="fa">دیسک‌ها</name>
+  <name lang="eu">Diskoak</name>
+  <name lang="et">Kettad</name>
+  <name lang="es">Discos</name>
+  <name lang="eo">Diskoj</name>
+  <name lang="en_GB">Disks</name>
+  <name lang="el">Δίσκοι</name>
+  <name lang="de">Laufwerke</name>
+  <name lang="da">Diske</name>
+  <name lang="cs">Disky</name>
+  <name lang="ca@valencia">Discs</name>
+  <name lang="ca">Discs</name>
+  <name lang="bs">Diskovi</name>
+  <name lang="bn_IN">ডিস্ক</name>
+  <name lang="bg">Дискове</name>
+  <name lang="be">Дыскі</name>
+  <name lang="as">ডিস্ক</name>
+  <name lang="ar">الأقراص</name>
+  <summary>Disk management utility for GNOME</summary>
+  <summary lang="zh_TW">GNOME 的磁碟管理程式</summary>
+  <summary lang="zh_CN">GNOME 磁盘管理工具</summary>
+  <summary lang="vi">Tiện ích quản lý đĩa dành cho GNOME</summary>
+  <summary lang="uk">Засіб керування дисками для GNOME</summary>
+  <summary lang="tr">GNOME için disk yönetim hizmeti</summary>
+  <summary lang="th">เครื่องมือจัดการดิสก์สำหรับ GNOME</summary>
+  <summary lang="tg">Барномаи идоракунии диск барои GNOME</summary>
+  <summary lang="sv">Diskhanteringsverktyg för GNOME</summary>
+  <summary lang="sr@latin">Gnom alatka za upravljanje diskovima</summary>
+  <summary lang="sr">Гном алатка за управљање дисковима</summary>
+  <summary lang="sl">Pripomoček za upravljanje z diskovjem</summary>
+  <summary lang="sk">Nástroj na správu diskov pre prostredie GNOME</summary>
+  <summary lang="ru">Приложение управления дисками для GNOME</summary>
+  <summary lang="ro">Utilitar de administrarea discului pentru GNOME</summary>
+  <summary lang="pt_BR">Utilitário de gerenciamento de disco para o GNOME</summary>
+  <summary lang="pt">Utilitário de gestão de discos para o GNOME</summary>
+  <summary lang="pl">Narzędzie do zarządzania dyskami dla środowiska GNOME</summary>
+  <summary lang="pa">ਗਨੋਮ ਲਈ ਡਿਸਕ ਪ੍ਰਬੰਧ ਸਹੂਲਤ</summary>
+  <summary lang="oc">Utilitari de gestion dels disques per GNOME</summary>
+  <summary lang="nl">Hulpprogramma voor schijfbeheer voor Gnome</summary>
+  <summary lang="nb">Diskhåndteringsverktøy for GNOME</summary>
+  <summary lang="ms">Utiliti pengurusan cakera untuk GNOME</summary>
+  <summary lang="lv">GNOME disku pārvaldīšanas utilītprogramma</summary>
+  <summary lang="lt">Diskų tvarkymo įrankis GNOME aplinkai</summary>
+  <summary lang="ko">그놈 데스크톱의 디스크 관리 유틸리티</summary>
+  <summary lang="kk">GNOME үшін дисктерді басқару қолданбасы</summary>
+  <summary lang="ja">GNOME のディスク管理ユーティリティ</summary>
+  <summary lang="it">Strumento di gestione dischi per GNOME</summary>
+  <summary lang="is">Diskaumsýsla fyrir GNOME</summary>
+  <summary lang="id">Utilitas manajemen diska untuk GNOME</summary>
+  <summary lang="hu">Lemezkezelő segédprogram a GNOME-hoz</summary>
+  <summary lang="hr">Alat upravljanja diskovima za GNOME</summary>
+  <summary lang="he">כלי עזר לניהול כוננים עבור GNOME</summary>
+  <summary lang="gu">GNOME ની ડિસ્ક સંચાલન ઉપયોગીતા</summary>
+  <summary lang="gl">Utilidade de xestión de discos de GNOME</summary>
+  <summary lang="gd">Goireas stiùireadh dhiosgan airson GNOME</summary>
+  <summary lang="fur">Utilitât di gjestion dai discs par GNOME</summary>
+  <summary lang="fr">Utilitaire de gestion des disques pour GNOME</summary>
+  <summary lang="fi">Levyjen hallintaan tarkoitettu työkalu Gnome-työpöydälle</summary>
+  <summary lang="fa">ابزار مدیریت دیسک برای گنوم</summary>
+  <summary lang="eu">Diskoak kudeatzeko GNOMEko tresna</summary>
+  <summary lang="es">Utilidad de gestión de discos de GNOME</summary>
+  <summary lang="eo">Diska mastrumilo por GNOME</summary>
+  <summary lang="en_GB">Disk management utility for GNOME</summary>
+  <summary lang="el">Εργαλείο διαχείρισης δίσκων για το GNOME</summary>
+  <summary lang="de">Festplattenverwaltungswerkzeug für GNOME</summary>
+  <summary lang="da">Diskhåndteringsværktøj til GNOME</summary>
+  <summary lang="cs">Nástroj pro správu disků v GNOME</summary>
+  <summary lang="ca@valencia">Utilitat de gestió de disc pel GNOME</summary>
+  <summary lang="ca">Utilitat de gestió de disc pel GNOME</summary>
+  <summary lang="bg">Програма за управление на дискове за GNOME</summary>
+  <summary lang="be">Праграма кіравання дыскамі для працоўнага асяроддзя GNOME</summary>
+  <summary lang="ar">أداة جنوم لإدارة الأقراص</summary>
+  <description>
+    <p>
+      Disks provides an easy way to inspect, format, partition, and configure disks
+      and block devices.
+    </p>
+    <p>
+      Using Disks, you can view SMART data, manage devices, benchmark physical
+      disks, and image USB sticks.
+    </p>
+  </description>
+  <description lang="be">
+    <p>Праграма "Дыскі" - гэта зручны спосаб праглядаць, падзяляць на раздзелы і наладжваць дыскі і састаўныя прылады.</p>
+    <p>З дапамогай праграмы "Дыскі" вы можаце праглядаць даныя SMART, кіраваць прыладамі, тэставаць фізічныя дыскі, ствараць вобразы USB дыскаў.</p>
+  </description>
+  <description lang="bg">
+    <p>Програмата „Дискове на GNOME“ дава възможност лесно да проверявате, форматирате, поделяте и настройвате дискове и други блокови устройства.</p>
+    <p>Чрез „Дискове на GNOME“ може да преглеждате данните от самодиагностиката (SMART), да управлявате и да тествате производителността на устройства, както и да записвате изображение върху USB памет.</p>
+  </description>
+  <description lang="ca">
+    <p>El Discs ofereix una forma senzilla d'inspeccionar, formatar, crear particions, i configurar discs i dispositius de blocs.</p>
+    <p>Amb el Discs, podeu veure les dades SMART, gestionar dispositius, test de referència dels discs i imatges en llapis USB.</p>
+  </description>
+  <description lang="ca@valencia">
+    <p>El Discs ofereix una forma senzilla d'inspeccionar, formatar, crear particions, i configurar discs i dispositius de blocs.</p>
+    <p>Amb el Discs, podeu veure les dades SMART, gestionar dispositius, proves de rendiment dels discs i imatges en llapis USB. </p>
+  </description>
+  <description lang="cs">
+    <p>Aplikace Disky poskytuje snadný způsob, jak kontrolovat, formátovat, rozdělovat a nastavovat disky a bloková zařízení.</p>
+    <p>Pomocí Disků si můžete prohlížet data SMART, spravovat zařízení, provádět srovnávací testy disků a zobrazovat flashdisky USB.</p>
+  </description>
+  <description lang="da">
+    <p>Diske gør det let at inspicere, formatere, partitionere og konfigurere diske og blokenheder.</p>
+    <p>Med Diske kan du se SMART-data, håndtere enheder, samt benchmarke fysiske diske og aftryk på USB-nøgler.</p>
+  </description>
+  <description lang="de">
+    <p>Laufwerke bietet eine einfache Möglichkeit zum Inspizieren, Formatieren, Partitionieren und Konfigurieren von Festplatten und Blockgeräten.</p>
+    <p>Durch die Verwendung von Laufwerke können Sie SMART-Daten ansehen, RAID-Geräte verwalten, die Leistung von Festplatten testen und USB-Datenträger bespielen.</p>
+  </description>
+  <description lang="el">
+    <p>Οι Δίσκοι παρέχουν έναν εύκολο τρόπο επιθεώρησης, διαμόρφωσης, κατάτμησης και ρύθμισης συσκευών δίσκων και ομάδων.</p>
+    <p>Χρησιμοποιώντας το Δίσκοι, μπορείτε να προβάλετε δεδομένα SMART, να διαχειριστείτε συσκευές, να μετρήσετε τις επιδόσεις των φυσικών δίσκων και εικόνων USB sticks.</p>
+  </description>
+  <description lang="en_GB">
+    <p>Disks provides an easy way to inspect, format, partition, and configure disks and block devices.</p>
+    <p>Using Disks, you can view SMART data, manage devices, benchmark physical disks, and image USB sticks.</p>
+  </description>
+  <description lang="eo">
+    <p>Diskoj donas al vi facilan manieron ekzameni, strukturi, subdiskigi, kaj agordi diskojn kaj blokajn aparatojn.</p>
+    <p>Uzante Diskojn, vi povas vidi SMART-datumojn, mastrumi aparatojn, taksotesti diskojn, kaj ekzakte kopii al poŝmemoriloj.</p>
+  </description>
+  <description lang="es">
+    <p>Discos proporciona una manera sencilla de inspeccionar, formatear, particionar y configurar discos y dispositivos de bloques.</p>
+    <p>Usando Discos puede ver los datos SMART, gestionar dispositivos, realizar pruebas de rendimiento a los discos y crear imágenes de dispositivos USB.</p>
+  </description>
+  <description lang="eu">
+    <p>'Diskoak' tresnak disko eta blokeko gailuak aztertzeko, formatu emateko, partizioak egiteko eta konfiguratzeko modu erraza eskaintzen du.</p>
+    <p>'Diskoak' erabiliz SMART datuak ikus dezakezu, gailuak kudeatu, disko fisikoen errendimendua aztertu edo eta USB gailuen irudiak sortu.</p>
+  </description>
+  <description lang="fa">
+    <p>دیسک‌ها راهی آسان برای بازبینی، قالب‌بندی، افراز و پیکربندی دیسک‌ها و افزاره‌های بلوکی فراهم می‌کند.</p>
+    <p>با استفاده از دیسک‌ها می‌توانید داده‌های SMART را ببینید، دیسک‌های فیزیکی را محک زده و از حافظه‌های USB تصویر بگیرید.</p>
+  </description>
+  <description lang="fi">
+    <p>Levyt tarjoaa helpon tavatan tutkia, alustaa, osioida ja määrittää levyjen sekä lohkolaitteiden asetuksia.</p>
+    <p>Levysovelluksella voit tarkkailla SMART-tietoja, hallita laitteita, mitata suorituskykytestejä ja luoda esimerkiksi USB-muistitikkuja levykuvista.</p>
+  </description>
+  <description lang="fr">
+    <p>Disques propose une façon simple d’inspecter, de formater, partitionner et configurer les disques et périphériques en mode bloc.</p>
+    <p>Disques permet de consulter les données SMART, gérer des périphériques, tester des disques physiques et créer des images sur des clés USB.</p>
+  </description>
+  <description lang="fur">
+    <p>Discs al furnìs une maniere semplice par ispezionâ, formatâ, partizionâ e configurâ discs e dispositîfs a blocs.</p>
+    <p>Doprant Discs, tu puedis viodi dâts SMART, ministrâ dispositîfs RAID, misurâ lis prestazions dai discs fisics e fâ imagjins di penis USB.</p>
+  </description>
+  <description lang="gd">
+    <p>Bheir Diosgan dòigh furasta dhut gus diosgan is uidheaman bloca a sgrùdadh, fhòrmatadh, a phàirteachadh ’s a rèiteachadh.</p>
+    <p>Le Diosgan, ’s urrainn dhut dàta SMART a shealltainn, uidheaman a stiùireadh, tomhas-measaidh air diosgan fiosaigeach a dhèanamh is ìomhaighean de USB sticks a chruthachadh.</p>
+  </description>
+  <description lang="gl">
+    <p>Discos fornece unha forma doada de inspeccionar, formatar, partición e configurar discos e dispositivos de bloque.</p>
+    <p>Usando Discos, pode ver datos SMART, xestionar dispositivos RAID, facer probas de rendemento en discos fixos e chaves USB.</p>
+  </description>
+  <description lang="gu">
+    <p>ડિસ્ક એ નિરીક્ષણ, બંધારણ, પાર્ટીશન, તથા ડિસ્ક અને બ્લોક ઉપકરણોને રૂપરેખાંકિત કરવા માટે એક સરળ માર્ગ પૂરો પાડે છે.</p>
+  </description>
+  <description lang="he">
+    <p>כוננים מספק דרך קלה לבדוק, לפרמט, לחלק ולהגדיר כוננים והתקנים.</p>
+    <p>בשימוש בכוננים, נתן לצפות בנתוני SMART, לנהל התקנים, לבצע בדיקת נתונים פיזית לכוננים, ויצירת דמויות כונן ל־USB.</p>
+  </description>
+  <description lang="hr">
+    <p>Diskovi pružaju jednostavan način za provjeru, formatiranje, particioniranje, i podešavanje diskova i blokova uređaja.</p>
+    <p>Upotrebom Diskova, možete vidjeti SMART podatke, upravljati uređajima, testirati fizičke diskove i stvarati slike USB uređaja.</p>
+  </description>
+  <description lang="hu">
+    <p>A Lemezek egyszerű módon biztosítja a lemezek és blokkeszközök vizsgálatát, formázását, particionálását és beállítását.</p>
+    <p>A Lemezek használatával megtekintheti a SMART adatokat, kezelheti az eszközöket, teljesítménytesztet hajthat végre fizikai lemezeken, valamint lemezképet készíthet USB-meghajtókról.</p>
+  </description>
+  <description lang="id">
+    <p>Diska memberikan cara yang mudah untuk memeriksa, format, partisi dan mengatur diska dan blok perangkat.</p>
+    <p>Dengan Diska, Anda bisa melihat data SMART, mengelola perangkat, menguji fisik diska, dan stik USB.</p>
+  </description>
+  <description lang="is">
+    <p>Diskar er einföld leið til að skoða, forsníða, sneiða og setja upp diska og blokkartæki.</p>
+    <p>Með því að nota Diskar-forritið geturðu skoðað SMART-gögn, sýslað með tæki, afkastaprófað raundiska og skrifað diskmyndir á USB-minnislykla.</p>
+  </description>
+  <description lang="it">
+    <p>Dischi fornisce uno strumento semplice per ispezionare, formattare, partizionare e configurare dischi e dispositivi a blocchi.</p>
+    <p>Utilizzando Dischi è possibile visualizzare i dati SMART, gestire dispositivi RAID, eseguire benchmark su dischi fisici e scrivere immagini su dispositivi USB.</p>
+  </description>
+  <description lang="ja">
+    <p>GNOME Disks はディスクやブロックデバイスの検査、フォーマット、パーティショニング、設定を簡単にできるようにするユーティリティです。</p>
+    <p>GNOME Disks を使用すると、SMART データの確認、デバイスの管理、物理ディスクのベンチマーク、USB メモリへのディスクイメージ書き込みができます。</p>
+  </description>
+  <description lang="kk">
+    <p>Дисктер қолданбасы көмегімен дисктер мен блоктық құрылғыларды икемді түрде зерттеу, пішімдеу, бөлімдеу және баптауға болады.</p>
+    <p>Дисктер қолданбасымен SMART деректерін қарау, құрылғыларды басқару, физикалық дисктерді сынау және USB тасушыларына бейнелерді жазуға болады.</p>
+  </description>
+  <description lang="ko">
+    <p>디스크를 사용해 디스크 및 블록 장치를 살펴보고, 포맷하고, 파티션을 나누고, 설정하는 일을 쉽게 할 수 있습니다.</p>
+    <p>디스크를 사용해 스마트(SMART) 데이터를 보고, RAID 장치를 관리하고, 물리적 디스크를 벤치마크하고, USB 메모리 이미지를 만들 수 있습니다. 사용자가 프로그램을 닫더라도 필요한 작업을 백그라운드에서 실행합니다.</p>
+  </description>
+  <description lang="lt">
+    <p>Diskai suteikia paprastą būdą tikrinti, formatuoti, skaidyti skaidiniai bei konfigūruoti diskus bei blokinius įrenginius.</p>
+    <p>Naudodami diskus galite matyti SMART duomenis, tvarkyti RAID įrenginius, matuoti fizinius diskus bei kurti USB laikmenų atvaizdžius.</p>
+  </description>
+  <description lang="lv">
+    <p>Diski piedāvā vienkāršu veidu, kā izpētīt, formatēt, sadalīt un konfigurēt diskus un bloka ierīces.</p>
+    <p>Izmantojot “Diskus”, jūs varat skatīt SMART datus, pārvaldīt ierīces, pārbaudīt veiktspēju un veidot USB atmiņas attēlus.</p>
+  </description>
+  <description lang="ms">
+    <p>Cakera menyediakan cara termudah untuk memeriksa, memformat, membuat sekatan, dan mengkonfigur cakera dan peranti blok.</p>
+    <p>Dengan menggunakan Cakera, anda boleh lihat data SMART, urus peranti, tanda aras cakera fizikal, dan imejkan pemacu pena USB.</p>
+  </description>
+  <description lang="nb">
+    <p>Disker gir deg en enkel måte å se på, formatere, partisjonere og konfigurere disker og andre blokkenheter.</p>
+    <p>Med Disker kan du vise SMART-data, håndtere RAID-enheter, sjekke ytelse på fysiske disker og lage bilder av USB-minnepinner.</p>
+  </description>
+  <description lang="nl">
+    <p>Met Schijven kunt u op een eenvoudige manier schijven en blokapparaten inspecteren, formatteren, partitioneren en configureren.</p>
+    <p>Met Schijven kunt u SMART-gegevens bekijken, apparaten beheren, fysieke schijven benchmarken en schijfkopieën maken van USB-sticks.</p>
+  </description>
+  <description lang="oc">
+    <p>Disques prepausa un biais simple d'inspectar, de formatar, particionar e configurar los disques e periferics en mòde blòt.</p>
+  </description>
+  <description lang="pa">
+    <p>ਡਿਸਕ ਅਤੇ ਬਲਾਕ ਡਿਵਾਈਸਾਂ ਦੀ ਜਾਂਚ, ਫਾਰਮੈਟ ਕਰਨ, ਪਾਰਟੀਸ਼ਨ ਬਣਾਉਣ ਅਤੇ ਸੰਰਚਨਾ ਕਰਨ ਵਾਸਤੇ ਡਿਸਕਾਂ।</p>
+    <p>ਡਿਸਕਾਂ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਤੁਸੀਂ SMART ਡਾਟਾ ਵੇਖ, ਡਿਵਾਈਸਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰ, ਭੌਤਿਕ ਡਿਸਕਾਂ ਲਈ ਬੈਂਚਮਾਰਕ ਲਾ ਅਤੇ USB ਸਟਿੱਕਾਂ ਲਈ ਈਮੇਜ਼ ਬਣਾ ਸਕਦੇ ਹੋ।</p>
+  </description>
+  <description lang="pl">
+    <p>Program Dyski dostarcza łatwy sposób na badanie, formatowanie, partycjonowanie i konfigurowanie dysków oraz urządzeń blokowych.</p>
+    <p>Za pomocą programu Dyski można wyświetlać dane SMART, zarządzać urządzeniami, testować wydajność fizycznych dysków i nagrywać obrazy na dyski USB.</p>
+  </description>
+  <description lang="pt">
+    <p>O Discos propicia uma forma fácil de inspecionar, formatar, criar partições e configurar discos e dispositivos de blocos.</p>
+    <p>Ao usar o Discos, pode ver dados SMART, gerir dispositivos, analisar discos físicos e efetuar imagens de unidades USB.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>O aplicativo Discos oferece uma forma fácil de inspecionar, formatar, particionar e configurar discos e dispositivos de bloco.</p>
+    <p>Ao usar o aplicativo Discos, você pode ver dados de SMART, gerenciar dispositivos, fazer avaliações de performance de discos físicos, e criar imagens de dispositivos USB.</p>
+  </description>
+  <description lang="ro">
+    <p>Discuri furnizează o metodă facilă de a inspecta, formata, partiționa, și configura discuri și dispozitive de bloc.</p>
+    <p>Utilizând Discuri, puteți vizualiza date SMART, administra dispozitive, efectua teste de performanță pe discuri fizice, și instala imagini pe stickuri USB.</p>
+  </description>
+  <description lang="ru">
+    <p>Приложение Диски предоставляет простой способ проверки, форматирования, разметки и настройки дисков и блочных устройств.</p>
+    <p>Используя приложение Диски, можно просматривать данне SMART, управлять устройствами, оценивать производительность физических дисков, и записывать образы на USB носители.</p>
+  </description>
+  <description lang="sk">
+    <p>Aplikácia Disky poskytuje jednoduchý spôsob ako kontrolovať, formátovať, deliť a konfigurovať disky a blokové zariadenia.</p>
+    <p>Vďaka aplikácii Disky môžete prezerať údaje SMART, spravovať zariadenia, odskúšať výkon fyzických diskov a vytvárať obrazy USB kľúčov.</p>
+  </description>
+  <description lang="sl">
+    <p>Program omogoča enostaven nadzor in upravljanje z diski, formatiranje, razdeljevanje in nastavljanje vseh bločnih naprav.</p>
+    <p>Uporaba programa Disks omogoča pregled podatkov SMART, upravljanje naprav, izvajanje testiranj diskov in ključkov USB.</p>
+  </description>
+  <description lang="sr">
+    <p>Дискови вам пружају лак начин за проверу, форматирање, партиционисање и подешавање дискова и блок уређаја.</p>
+    <p>Коришћењем Дискова можете видети СМАРТ податке, управљати уређајима, мерити одлике физичких дискова и правити одразе УСБ штапића.</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Diskovi vam pružaju lak način za proveru, formatiranje, particionisanje i podešavanje diskova i blok uređaja.</p>
+    <p>Korišćenjem Diskova možete videti SMART podatke, upravljati uređajima, meriti odlike fizičkih diskova i praviti odraze USB štapića.</p>
+  </description>
+  <description lang="sv">
+    <p>Diskar erbjuder ett enkelt sätt att inspektera, formatera, partitionera samt konfigurera diskar och blockenheter.</p>
+    <p>Med Diskar kan du se SMART-data, hantera enheter, prestandatesta fysiska diskar och avbilds-USB-stickor.</p>
+  </description>
+  <description lang="tg">
+    <p>Барномаи "Дискҳо" назорат, формат, қисмбандӣ, танзимкунӣ ва манъкунии дастгоҳҳоро осон мекунад.</p>
+  </description>
+  <description lang="th">
+    <p>"ดิสก์" จัดเตรียมวิธีที่ง่ายในการตรวจสอบ, ฟอร์แมต, จัดพาร์ทิชัน และตั้งค่าดิสก์และอุปกรณ์เก็บข้อมูลแบบบล็อคต่างๆ</p>
+  </description>
+  <description lang="tr">
+    <p>Diskler; diskleri ve blok aygıtları denetlemek, biçimlendirmek, bölümlendirmek ve yapılandırmak için kolay bir yol sağlar.</p>
+    <p>Diskler’i kullanarak; SMART verisini görebilir, aygıtları yönetebilir, fiziksel diskleri değerlendirebilir, USB bellekleri kopyalayabilirsiniz.</p>
+  </description>
+  <description lang="uk">
+    <p>Диски надають простий спосіб досліджувати, форматувати, розділяти, налаштовувати диски і пристрої.</p>
+    <p>За допомогою «Дисків» ви зможете переглядати дані SMART, керувати пристроями, випробовувати фізичні диски і записувати образи на флешки USB.</p>
+  </description>
+  <description lang="vi">
+    <p>Đĩa giúp bạn dễ dàng kiểm tra, định dạng, phân vùng và cấu hình đĩa và thiết bị khối.</p>
+    <p>Dùng Đĩa, bạn có thể xem dữ liệu SMART, quản lý các thiết bị, đo kiểm tốc độ đĩa vật lý, và ảnh đĩa USB.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>磁盘提供了一种简单的方法来检查、格式化、分区并配置磁盘和块设备。</p>
+    <p>使用磁盘，您可以查看 SMART 数据，管理 RAID 设备，对物理磁盘进行性能测试及获取 U 盘镜像。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>《磁碟》提供簡便的方法來檢查、 格式化、 分割，和設定磁碟和區塊裝置。</p>
+    <p>使用《磁碟》，您可以檢視 SMART 資料、管理 RAID 裝置、物理磁碟的評測，以及製作 USB 隨身碟映像檔。工作會在背景執行，即使使用者關閉程式也一樣。</p>
+  </description>
+  <screenshots>
+    <screenshot>
+      <image>https://gitlab.gnome.org/GNOME/gnome-disk-utility/raw/HEAD/data/screenshots/disks-additional-partition-options.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.gnome.org/GNOME/gnome-disk-utility/raw/HEAD/data/screenshots/disks-application-menu.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.gnome.org/GNOME/gnome-disk-utility/raw/HEAD/data/screenshots/disks-delete-selected-partition.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.gnome.org/GNOME/gnome-disk-utility/raw/HEAD/data/screenshots/disks-drive-options.png</image>
+    </screenshot>
+    <screenshot type="default">
+      <image>https://gitlab.gnome.org/GNOME/gnome-disk-utility/raw/HEAD/data/screenshots/disks-main.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://wiki.gnome.org/Apps/Disks</url>
+  <update_contact>kailueke@riseup.net</update_contact>
+  <project_group>GNOME</project_group>
+  <kudos>
+    <kudo>AppMenu</kudo>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+  </kudos>
+  <translation type="gettext">gnome-disk-utility</translation>
+  <developer_name>The GNOME Project</developer_name>
+  <developer_name lang="zh_TW">GNOME 專案</developer_name>
+  <developer_name lang="zh_CN">GNOME 项目</developer_name>
+  <developer_name lang="vi">Dự án GNOME</developer_name>
+  <developer_name lang="uk">Проект GNOME</developer_name>
+  <developer_name lang="tr">GNOME Projesi</developer_name>
+  <developer_name lang="th">โครงการ GNOME</developer_name>
+  <developer_name lang="tg">Лоиҳаи «GNOME»</developer_name>
+  <developer_name lang="sv">GNOME-projektet</developer_name>
+  <developer_name lang="sr@latin">Gnomov projekat</developer_name>
+  <developer_name lang="sr">Гномов пројекат</developer_name>
+  <developer_name lang="sl">Projekt GNOME</developer_name>
+  <developer_name lang="sk">Projekt GNOME</developer_name>
+  <developer_name lang="ru">Проект GNOME</developer_name>
+  <developer_name lang="ro">Proiectul GNOME</developer_name>
+  <developer_name lang="pt_BR">O Projeto GNOME</developer_name>
+  <developer_name lang="pt">O Projeto GNOME</developer_name>
+  <developer_name lang="pl">Projekt GNOME</developer_name>
+  <developer_name lang="pa">ਗਨੋਮ ਪਰੋਜੈਕਟ</developer_name>
+  <developer_name lang="oc">Lo projècte GNOME</developer_name>
+  <developer_name lang="nl">Het Gnome-project</developer_name>
+  <developer_name lang="nb">GNOME prosjektet</developer_name>
+  <developer_name lang="ms">Projek GNOME</developer_name>
+  <developer_name lang="mjw">GNOME Project</developer_name>
+  <developer_name lang="lv">GNOME projekts</developer_name>
+  <developer_name lang="lt">GNOME projektas</developer_name>
+  <developer_name lang="ko">그놈 프로젝트</developer_name>
+  <developer_name lang="kk">GNOME жобасы</developer_name>
+  <developer_name lang="ja">The GNOME Project</developer_name>
+  <developer_name lang="it">Il progetto GNOME</developer_name>
+  <developer_name lang="is">GNOME-verkefnið</developer_name>
+  <developer_name lang="id">Projek GNOME</developer_name>
+  <developer_name lang="hu">A GNOME projekt</developer_name>
+  <developer_name lang="hr">GNOME projekt</developer_name>
+  <developer_name lang="he">מיזם GNOME</developer_name>
+  <developer_name lang="gl">O Proxecto GNOME</developer_name>
+  <developer_name lang="gd">Pròiseact GNOME</developer_name>
+  <developer_name lang="fur">Il progjet GNOME</developer_name>
+  <developer_name lang="fr">Le projet GNOME</developer_name>
+  <developer_name lang="fi">Gnome-projekti</developer_name>
+  <developer_name lang="fa">پروژهٔ گنوم</developer_name>
+  <developer_name lang="eu">GNOME proiektua</developer_name>
+  <developer_name lang="es">El proyecto GNOME</developer_name>
+  <developer_name lang="eo">La GNOME-projekto</developer_name>
+  <developer_name lang="en_GB">The GNOME Project</developer_name>
+  <developer_name lang="el">Το έργο GNOME</developer_name>
+  <developer_name lang="de">Das GNOME-Projekt</developer_name>
+  <developer_name lang="da">GNOME-projektet</developer_name>
+  <developer_name lang="cs">Projekt GNOME</developer_name>
+  <developer_name lang="ca@valencia">El projecte GNOME</developer_name>
+  <developer_name lang="ca">El projecte GNOME</developer_name>
+  <developer_name lang="bg">Проектът GNOME</developer_name>
+  <developer_name lang="be">Праект GNOME</developer_name>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/gnome-disk-utility/issues</url>
+  <url type="donation">https://www.gnome.org/friends/</url>
+  <url type="help">https://help.gnome.org/users/gnome-help/stable/disk.html</url>
+  <url type="translate">https://wiki.gnome.org/TranslationProject</url>
+  <recommends>
+    <control>touch</control>
+    <control>keyboard</control>
+    <control>pointing</control>
+  </recommends>
+  <requires>
+    <display_length compare="ge">360</display_length>
+  </requires>
+</component>

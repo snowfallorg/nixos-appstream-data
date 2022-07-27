@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>KCalc has everything you would expect from a scientific calculator, plus:</p>
+    <ul>
+      <li>Trigonometric functions, logic operations and statistical calculations</li>
+      <li>A results stack which enables convenient recall of previous calculation results</li>
+      <li>Precision is user-definable</li>
+      <li>The display allows cut and paste of numbers</li>
+      <li>The display colors and font are configurable, aiding usability</li>
+      <li>The use of key-bindings make it easy to use without a pointing device</li>
+    </ul>
+  </description>
+  <description lang="ar">
+    <p>تحوي حاسبة ك على ما تتوقعه من حاسبة عملية بالإضافة إلى:</p>
+    <ul>
+      <li>الدوال المثلثية والعمليات المنطقية والحسابات الإحصائية</li>
+      <li>ذاكرة نتائج تتيح استدعاء نتائج الحساب السابقة بشكل ملائم</li>
+      <li>دقة يمكن أن يحددها المستخدم</li>
+      <li>شاشة عرض تسمح قص ولص الأرقام</li>
+      <li>تحسين الاستخدامية عن طريق تغيير ضبط ألوان العرض ونوع الخط</li>
+      <li>يمكن استخدام اختصارات لوحة المفاتيح بدون الحاجة لاستخدام الفأرة مما يسهل الاستخدام</li>
+    </ul>
+  </description>
+  <description lang="az">
+    <p>KCalc-da elmi hesablayıcıdan gözlənilən hər şey var, həmçinin:</p>
+    <ul>
+      <li>Tirqonometrik funksiyalar, məntiqi əməliyyatlar və statistik hesablamalar</li>
+      <li>Əvvəlki hesablama nəticələrinin rahat geri çağırılmasına imkan verən nəticələr yığını</li>
+      <li>İstifadəçinin təyin edə biləcəyi dəqiqlik</li>
+      <li>Rəqəmlərin kəsilməsi və yerləşdirilməsi</li>
+      <li>Şriftlərin və rənglərin ayarlanması mümkünlüyü</li>
+      <li>Siçan olmadan rahat işləmək üçün klaviatura qısayolları</li>
+    </ul>
+  </description>
+  <description lang="bg">
+    <p>KCalc има всичко, което бихте очаквали от научен калкулатор, плюс:</p>
+    <ul>
+      <li>Тригонометрични функции, логически операции и статистически изчисления</li>
+      <li>Масив от резултати, който позволява удобно повторно извикване на предишни резултати от изчисления</li>
+      <li>Зададена от потребителя прецизност</li>
+      <li>Екранът позволя изрязване и поставяне на числа в клипборда</li>
+      <li>Цветът на екрана и шрифта могат да се настройват за по-добра използваемост</li>
+      <li>Използването на клавишни свързвания прави възможно по-лесната му употреба без посочващо устройство</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>El KCalc té tot allò que espereu d'una calculadora científica, més:</p>
+    <ul>
+      <li>Funcions trigonomètriques, operacions lògiques i càlculs estadístics</li>
+      <li>Una pila de resultats que permet la invocació adequada dels resultats de càlculs anteriors</li>
+      <li>La precisió és definible per l'usuari</li>
+      <li>El visor permet retallar i enganxar nombres</li>
+      <li>Els colors del visor i el tipus de lletra són configurables, ajudant a la usabilitat</li>
+      <li>L'ús dels lligams de tecla facilita l'ús sense un dispositiu apuntador</li>
+    </ul>
+  </description>
+  <description lang="ca-valencia">
+    <p>KCalc té tot allò que espereu d'una calculadora científica, més:</p>
+    <ul>
+      <li>Funcions trigonomètriques, operacions lògiques i càlculs estadístics</li>
+      <li>Una pila de resultats que permet la invocació adequada dels resultats de càlculs anteriors</li>
+      <li>La precisió és definible per l'usuari</li>
+      <li>El visor permet retallar i apegar nombres</li>
+      <li>Els colors del visor i el tipus de lletra són configurables, ajudant a la usabilitat</li>
+      <li>L'ús dels lligams de tecla facilita l'ús sense un dispositiu apuntador</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <ul>
+      <li>Volitelná přesnost</li>
+    </ul>
+  </description>
+  <description lang="da">
+    <p>KCalc har alt hvad du forventer fra en videnskabelig lommeregner, plus:</p>
+  </description>
+  <description lang="de">
+    <p>KCalc bietet alles, was Sie von einem wissenschaftlichen Taschenrechner erwarten, plus:</p>
+    <ul>
+      <li>Trigonometrische Funktionen, logische Operationen und statistische Berechnungen</li>
+      <li>Ein Ergebnis-Stack, mit dem Sie bequem frühere Resultate abrufen können</li>
+      <li>Benutzerdefinierbare Genauigkeit</li>
+      <li>In der Anzeige können Zahlen kopiert und eingefügt werden</li>
+      <li>Farbe und Zeichensatz der Anzeige können angepasst werden und verbessern damit die Lesbarkeit</li>
+      <li>Tastenbelegungen ermöglichen das Arbeiten ohne Zeigergerät</li>
+    </ul>
+  </description>
+  <description lang="el">
+    <p>Το KCalc έχει όλα όσα αναμένετε να βρείτε σε μία επιστημονική αριθμομηχανή, και ακόμη:</p>
+    <ul>
+      <li>Τριγωνομετρικές συναρτήσεις, λογικές πράξεις και στατιστικούς υπολογισμούς</li>
+      <li>Μια στοίβα αποτελεσμάτων η οποία επιτρέπει τη βολική επαναφορά προηγούμενων αποτελεσμάτων υπολογισμών</li>
+      <li>Η ακρίβεια μπορεί να ορισθεί από το χρήστη</li>
+      <li>Η οθόνη επιτρέπει αποκοπή και επικόλληση αριθμών</li>
+      <li>Τα χρώματα και η γραμματοσειρά της οθόνης είναι διαμορφώσιμα, βοηθητικά της χρηστικότητας</li>
+      <li>Η χρήση συνδυασμών πλήκτρων διευκολύνει τη χρήση αν δεν υπάρχει συσκευή δεικτοδότησης</li>
+    </ul>
+  </description>
+  <description lang="en-GB">
+    <p>KCalc has everything you would expect from a scientific calculator, plus:</p>
+    <ul>
+      <li>Trigonometric functions, logic operations and statistical calculations</li>
+      <li>A results stack which enables convenient recall of previous calculation results</li>
+      <li>Precision is user-definable</li>
+      <li>The display allows cut and paste of numbers</li>
+      <li>The display colours and font are configurable, aiding usability</li>
+      <li>The use of key-bindings make it easy to use without a pointing device</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>KCalc tiene todo lo que cabría esperar de una calculadora científica, además de:</p>
+    <ul>
+      <li>Funciones trigonométricas, operaciones lógicas y cálculos estadísticos</li>
+      <li>Una pila de resultados que permite reutilizar los resultados de cálculos anteriores</li>
+      <li>El usuario puede definir la precisión</li>
+      <li>La pantalla permite cortar y pegar números</li>
+      <li>Puede configurar el color de la pantalla y el tipo de letra, lo que ayuda a la usabilidad</li>
+      <li>El uso de asignaciones de teclas facilita su uso sin un dispositivo apuntador</li>
+    </ul>
+  </description>
+  <description lang="et">
+    <p>KCalc pakub kõike, mida oskad soovida ühelt teaduslikult kalkulaatorilt ja sellele lisaks veel:</p>
+    <ul>
+      <li>Trigonomeetrilised funktsioonid, loogikatehted ja statistilised arvutused</li>
+      <li>Tulemuste pinu, mis lubab mugavalt kätte saada varasemaid arvutustulemusi</li>
+      <li>Täpsuse saab määrata kasutaja</li>
+      <li>Rakendus võimaldab arve lõigata ja asetada</li>
+      <li>Vaate värve ja fonte saab ise määrata</li>
+      <li>Kiirklahvid võimaldavad rakendust kasutada isegi ilma osutusseadmeta</li>
+    </ul>
+  </description>
+  <description lang="eu">
+    <p>KCalc-ek kalkulagailu zientifiko batean aurkituko zenukeen guztia dauka, gehi:</p>
+    <ul>
+      <li>Funtzio trigonometrikoak, eragiketa logikoak eta kalkulu estatistikoak</li>
+      <li>Emaitza-meta bat, egoki denerako, aurreko kalkulu-emaitzen itzularaztea gaitzen duena</li>
+      <li>Doitasuna erabiltzaileak zehaztu dezake</li>
+      <li>Bistaratzaileak zenbakiak ebakitzea eta itsastea onartzen du</li>
+      <li>Bistaratzailearen koloreak eta letra-tipoak konfiguragarriak dira, erabilerraztasuna hobetuz</li>
+      <li>Tekla-konbinazioen erabilerak errazten du erakusle-gailurik gabe erabiltzea</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>KCalcissä on kaikki, mitä odotat tieteelliseltä laskimelta, ja lisäksi:</p>
+    <ul>
+      <li>Trigonometriset funktiot, loogiset operaatiot ja tilastolaskenta</li>
+      <li>Tulospino, jonka ansiosta aiemmat laskentatulokset on helppo palauttaa</li>
+      <li>Tarkkuus käyttäjän määritettävissä</li>
+      <li>Näyttö sallii lukujen leikkaamisen ja liittämisen</li>
+      <li>Näyttövärit ja -fontti ovat mukautettavissa, mikä parantaa käytettävyyttä</li>
+      <li>Näppäinsidosten avulla osoitinlaitteetonkin käyttö on helppoa</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>KCalc dispose de tout ce que vous attendez d'une calculatrice scientifique, plus :</p>
+    <ul>
+      <li>Fonctions trigonométriques, opérations logiques et calculs statistiques</li>
+      <li>Une pile de résultats permettant un rappel aisé des résultats des calculs précédents</li>
+      <li>Précision définie par l'utilisateur</li>
+      <li>L'affichage permet de couper et coller des nombres</li>
+      <li>Les couleurs et la police d'affichage sont configurables pour une plus grande utilisabilité</li>
+      <li>L'utilisation de raccourcis claviers rend facile l'utilisation sans dispositif de pointage</li>
+    </ul>
+  </description>
+  <description lang="gl">
+    <p>KCalc ten todo o que esperaría dunha calculadora científica, e ademais:</p>
+    <ul>
+      <li>Funcións trigonométricas, operacións lóxicas e cálculos estatísticos</li>
+      <li>Unha rima de resultados que permite recuperar comodamente os resultados de cálculos anteriores</li>
+      <li>A precisión pode personalizarse</li>
+      <li>A pantalla permite cortar e pegar números</li>
+      <li>Poden configurarse as cores e as fontes, para maior facilidade de uso</li>
+      <li>O uso de atallos de teclado facilita o uso sen un dispositivo de apuntar</li>
+    </ul>
+  </description>
+  <description lang="hu">
+    <p>A KCalc tud mindent, amit egy tudományos számológéptől elvárhat, továbbá:</p>
+    <ul>
+      <li>Trigonometriai függvények, logikai műveletek és statisztikai számítások</li>
+      <li>Eredménytároló, amely lehetővé teszi a korábbi számítási eredmények kényelmes előhívását</li>
+      <li>Felhasználó által definiálható precizitás</li>
+      <li>Számok kivághatósága és beilleszthetősége</li>
+      <li>A színek és betűkészletek testre szabhatóak, megkönnyítve a használatóságot</li>
+      <li>Gyorsbillentyűk támogatása a mutatóeszköz nélküli használat megkönnyítéséhez</li>
+    </ul>
+  </description>
+  <description lang="ia">
+    <p>KCalc ha toto que tu expectara ab un calculator scientific, plus:</p>
+    <ul>
+      <li>Functiones trigonometric, operationes logic e calculos statistic</li>
+      <li>Un pila de resultatos que habilita conveniente momoration de previe  resultatos</li>
+      <li>Precision es definibile per le usator</li>
+      <li>Le monstrator permitte taliar e collar de numeros</li>
+      <li>Le colores e font de monstrator es configurbile, adjutante usabilitate</li>
+      <li>Le uso de ligaturas de clave face facile su uso sin dispositivo punctator </li>
+    </ul>
+  </description>
+  <description lang="id">
+    <p>KCalc memiliki semua yang kamu harapkan dari kalkulator ilmiah, plus:</p>
+    <ul>
+      <li>Fungsi trigonometri, operasi logika dan perhitungan statistik</li>
+      <li>Tumpukan hasil yang memungkinkan pemanggilan ulang yang mudah dari hasil perhitungan sebelumnya</li>
+      <li>Presisi dapat ditentukan pengguna</li>
+      <li>Displai memungkinkan pemotongan dan penempelan angka</li>
+      <li>Warna displai dan font dapat dikonfigurasi, membantu kegunaan</li>
+      <li>Penggunaan tuts pengikat membuatnya mudah digunakan tanpa alat penunjuk</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>KCalc ha tutto quello che ci si aspetta da una calcolatrice scientifica.</p>
+    <ul>
+      <li>Funzioni trigonometriche, operazioni logiche e calcoli statistici</li>
+      <li>Una pila di risultati che permette di richiamare opportunamente i risultati dei calcoli precedenti</li>
+      <li>La precisione è definibile dall'utente</li>
+      <li>Il display permette di copiare e incollare i numeri</li>
+      <li>I colori e i caratteri del display possono essere configurati, supportando l'usabilità</li>
+      <li>L'uso di combinazioni di tastiera ne rende semplice l'uso senza un dispositivo di puntamento</li>
+    </ul>
+  </description>
+  <description lang="ja">
+    <p>KCalc には、科学電卓に含まれているすべての機能以外にも、</p>
+    <ul>
+      <li>三角関数、論理演算、統計計算</li>
+      <li>以前の計算結果の便利な呼び出しを可能にする結果一覧</li>
+      <li>精度はユーザ定義可能</li>
+      <li>ディスプレイで数字の切り取りと貼り付けが可能です</li>
+      <li>表示色とフォントは変更可能で、使いやすさが向上します</li>
+      <li>キーバインディングを使用すると、ポインティングデバイスがなくても簡単に使用できます</li>
+    </ul>
+  </description>
+  <description lang="ko">
+    <p>KCalc는 공학용 계산기에서 찾을 수 있는 기능 외에도 다음을 더 지원합니다:</p>
+    <ul>
+      <li>삼각함수, 논리 연산 및 통계 계산입니다</li>
+      <li>이전 계산 결과를 편리하게 호출할 수 있는 결과 스택입니다</li>
+      <li>정밀도는 사용자가 정의할 수 있습니다</li>
+      <li>디스플레이는 숫자의 잘라내기 및 붙여넣기를 할 수 있습니다</li>
+      <li>디스플레이 색상과 글꼴을 구성할 수 있어 사용 편의성을 지원합니다</li>
+      <li>키 바인딩을 사용하면 포인팅 장치 없이도 쉽게 사용할 수 있습니다</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>KCalc heeft alles wat u verwacht van een wetenschappelijke rekenmachine, plus:</p>
+    <ul>
+      <li>Goniometrische functies, logische bewerkingen en statistische berekeningen</li>
+      <li>Een stapelgeheugen voor uitkomsten dat u de mogelijkheid geeft om vorige uitkomsten van berekeningen terug te halen</li>
+      <li>Precisie is door de gebruiker te definiëren</li>
+      <li>Het scherm biedt knippen en plakken van getallen</li>
+      <li>De kleuren en het lettertype in het scherm is aan te passen, helpt bruikbaarheid</li>
+      <li>Het gebruik van sneltoetsen maakt het gemakkelijk om het te gebruiken zonder muis</li>
+    </ul>
+  </description>
+  <description lang="nn">
+    <p>KCalc har alt du forventar av ein vitskapleg kalkulator, pluss:</p>
+    <ul>
+      <li>Trigonometriske funksjonar, logiske operatorar og statistiske utrekningar</li>
+      <li>Resultata av alle utrekningar vert teken vare på, for seinare uthenting</li>
+      <li>Talpresisjon kan veljast av brukaren</li>
+      <li>Kan kopiera og lim inn tal</li>
+      <li>Skrifter og fargar kan tilpassast brukarens ønskjer</li>
+      <li>Snøggtastar gjer kalkulatoren lett å bruka frå tastaturet</li>
+    </ul>
+  </description>
+  <description lang="pa">
+    <p>ਕੇ-ਕੈਲਸ ਹਰ ਚੀਜ਼ ਕਰਦਾ ਹੈ, ਜੋ ਕਿ ਤੁਸੀਂ ਵਿਗਿਆਨਕ ਕੈਲਕੂਲੇਟਰ ਤੋਂ ਉਮੀਦ ਕਰਦੇ ਹੋ, ਇਸ ਤੋਂ ਇਲਾਵਾ:</p>
+  </description>
+  <description lang="pl">
+    <p>KCalc ma wszystko czego można by oczekiwać od kalkulatora naukowego, plus:</p>
+    <ul>
+      <li>Funkcje trygonometryczne, działania logiczne i obliczenia statystyczne</li>
+      <li>Stos wyników, który umożliwia wygodne przywoływanie wyników poprzednich obliczeń</li>
+      <li>Precyzja jest określana przez użytkownika</li>
+      <li>Wyświetlacz umożliwia wycinanie i wklejanie liczb</li>
+      <li>Kolory i czcionka wyświetlacza jest do ustawienia, co polepsza użyteczność</li>
+      <li>Wykorzystanie skrótów klawiszowych czyni aplikację użyteczną bez urządzenia wskazującego</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>O KCalc tem tudo o que poderá esperar de uma calculadora científica, e ainda mais:</p>
+    <ul>
+      <li>Funções trigonométricas, operações lógicas e cálculos estatísticos</li>
+      <li>Uma pilha de resultados que permite a reposição adequada dos resultados de cálculos anteriores</li>
+      <li>A precisão pode ser definida pelo utilizador</li>
+      <li>O ecrã permite cortar e colar números</li>
+      <li>As cores e tipo de letra do ecrã são configuráveis, o que ajuda à usabilidade</li>
+      <li>O uso de combinações de teclas permite não usar um rato</li>
+    </ul>
+  </description>
+  <description lang="pt-BR">
+    <p>O KCalc tem tudo o necessário para uma calculadora científica e adicionalmente:</p>
+    <ul>
+      <li>Funções trigonométricas, operações de lógica e cálculos estatísticos</li>
+      <li>Uma pilha de resultados que permite a recuperação conveniente de resultados de cálculos anteriores</li>
+      <li>A precisão é definida pelo usuário</li>
+      <li>O visor permite copiar e colar números</li>
+      <li>As cores e fonte do visor são configuráveis, ajudando na usabilidade</li>
+      <li>O uso de combinação de teclas facilita o uso sem um dispositivo apontador</li>
+    </ul>
+  </description>
+  <description lang="ro">
+    <ul>
+      <li>Precizia e definită de utilizator</li>
+      <li>Afișajul permite tăierea și lipirea numerelor</li>
+    </ul>
+  </description>
+  <description lang="ru">
+    <p>В калькуляторе KCalc есть всё, что только можно ожидать от научного калькулятора, а также:</p>
+    <ul>
+      <li>Тригонометрические функции, логические операции и статистические расчёты;</li>
+      <li>Стек результатов, который позволяет легко получать доступ к предыдущим результатам;</li>
+      <li>Задаваемая пользователем точность вычислений;</li>
+      <li>Копирование и вставка чисел;</li>
+      <li>Настраиваемые цвета и шрифты;</li>
+      <li>Поддержка сочетаний клавиш для облечения работы без использования мыши.</li>
+    </ul>
+  </description>
+  <description lang="sk">
+    <p>KCalc má všetko, čo by ste očakávali od vedeckej kalkulačky, plus:</p>
+    <ul>
+      <li>Trigonometrické funkcie, logické operácie a štatistické výpočty</li>
+      <li>Zásobník výsledkov, ktorý umožní ľahké zavolanie predošlých výsledkov výpočtov</li>
+      <li>Presnosť je definovaná používateľom</li>
+      <li>Displej umožní vystrihnúť a vložiť čísla</li>
+      <li>Farby a písma displeja sú nastaviteľné, čo napomáha použiteľnosti</li>
+      <li>Použitie klávesových väzieb uľahčuje použitie bez ukazovacieho zariadenia</li>
+    </ul>
+  </description>
+  <description lang="sl">
+    <p>KCalc poleg zmožnosti znanstvenega računala ponuja še naslednje zmožnosti:</p>
+    <ul>
+      <li>Trigonometrične funkcije, logične operacije in statistične izračune</li>
+      <li>Sklad rezultatov, ki omogoča priročen priklic prejšnjega rezultata izračuna</li>
+      <li>Natančnost lahko določi uporabnik</li>
+      <li>Prikaz omogoča rezanje in lepljenje števil</li>
+      <li>Barve in pisava prikaza so nastavljivi, kar izboljšuje uporabnost</li>
+      <li>Uporaba bližnjic s tipkami olajša uporabo kalkulatorja brez kazalne naprave</li>
+    </ul>
+  </description>
+  <description lang="sq">
+    <p>Makinë llogaritëse që ofron shumë funksione matematikore si  dhe</p>
+    <ul>
+      <li>funksione trigonometrike, operacione logjike dhe lloritje statistikore</li>
+      <li>Një shirit i rezultateve që mundëson kthimin e vlerave llogaritjeve të mëparshme</li>
+      <li>Saktësi është e definuar nga përdoruesi</li>
+      <li>Pamja lejon kapjen dhe ngjitjen e numrave</li>
+      <li>Fontet the ngjyrat e pamjes mund të ndryshon, gjë që rritë përdorshmërinë</li>
+      <li>Shkurtoret ju lehtësojnë përdorimin pa maus</li>
+    </ul>
+  </description>
+  <description lang="sr">
+    <p>К‑калк има све што бисте очекивали код једног научног калкулатора, плус:</p>
+  </description>
+  <description lang="sr-Latn">
+    <p>KCalc ima sve što biste očekivali kod jednog naučnog kalkulatora, plus:</p>
+  </description>
+  <description lang="sr-ijekavian">
+    <p>К‑калк има све што бисте очекивали код једног научног калкулатора, плус:</p>
+  </description>
+  <description lang="sr-ijekavianlatin">
+    <p>KCalc ima sve što biste očekivali kod jednog naučnog kalkulatora, plus:</p>
+  </description>
+  <description lang="sv">
+    <p>Miniräknaren har allt som man kan förvänta sig av en vetenskaplig räknare, samt:</p>
+    <ul>
+      <li>Trigonometriska funktioner, logiska operationer och statistiska beräkningar</li>
+      <li>En resultatstack som gör det möjligt att bekvämt hämta tidigare beräkningsresultat</li>
+      <li>Precisionen är användardefinierbar</li>
+      <li>Displayen tillåter att tal klipps ut och klistras in</li>
+      <li>Displayens färger och teckensnitt kan ställas in, för förbättrat handikappstöd</li>
+      <li>Användning av tangentbindningar gör det lätt att använda den utan en pekenhet</li>
+    </ul>
+  </description>
+  <description lang="tr">
+    <p>KCalc, bilimsel bir hesap makinesinden bekleyebileceğiniz her şeye sahiptir. Ayrıca:</p>
+    <ul>
+      <li>Trigonometrik işlevler, mantık işlemleri ve istatistiksel hesaplamalar</li>
+      <li>Bir önceki hesaplama sonuçlarını size anımsatan kullanıcı dostu bir sonuçlar rafı</li>
+      <li>Kesinlik, kullanıcı tarafından tanımlanabilir</li>
+      <li>Ekran, sayıların kesimine ve yapıştırmasına izin verir</li>
+      <li>Ekran renkleri ve yazıtipleri yapılandırılabilir, böylelikle kullanılabilirliğe katkıda bulunur</li>
+      <li>Düğme bağıntılarının kullanımı, bir işaret aygıtı olmadan rahatça kullanıma olanak verir</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>KCalc вміє усе, що ви могли б очікувати від інженерного калькулятора, а крім того, вміє таке:</p>
+    <ul>
+      <li>Обчислювати тригонометричні функції, виконувати операції логіки та статистичні обчислення.</li>
+      <li>Має стек результатів, за допомогою якого зручно викликати результати попередніх обчислень.</li>
+      <li>Точність обчислень може бути визначена користувачем.</li>
+      <li>Передбачено можливість вирізання чисел з дисплея калькулятора та вставляння чисел з буфера обміну даними.</li>
+      <li>Можна налаштувати кольори та шрифт дисплея.</li>
+      <li>Використання у калькуляторі клавіатурних скорочень надає змогу користуватися ним без координатного або сенсорного пристрою.</li>
+    </ul>
+  </description>
+  <description lang="x-test">
+    <p>xxKCalc has everything you would expect from a scientific calculator, plus:xx</p>
+    <ul>
+      <li>xxTrigonometric functions, logic operations and statistical calculationsxx</li>
+      <li>xxA results stack which enables convenient recall of previous calculation resultsxx</li>
+      <li>xxPrecision is user-definablexx</li>
+      <li>xxThe display allows cut and paste of numbersxx</li>
+      <li>xxThe display colors and font are configurable, aiding usabilityxx</li>
+      <li>xxThe use of key-bindings make it easy to use without a pointing devicexx</li>
+    </ul>
+  </description>
+  <description lang="zh-CN">
+    <p>KCalc 能提供一款科学计算器具备的全部功能，并且还有以下功能：</p>
+    <ul>
+      <li>三角函数、逻辑运算和统计计算</li>
+      <li>结果堆栈，可以方便地召回以前的计算结果</li>
+      <li>精度是用户可定义的</li>
+      <li>显示屏允许剪切和粘贴数字</li>
+      <li>显示颜色和字体是可配置的，有助于可用性</li>
+      <li>键绑定的运用可以在没有指点设备的情况下轻松使用</li>
+    </ul>
+  </description>
+  <description lang="zh-TW">
+    <p>KDE 計算機有所有您預期科學計算機會有的功能，再加上：</p>
+    <ul>
+      <li>三角函數，邏輯運算和統計計算</li>
+      <li>有個能幫助以方便重新取得前次計算結果的結果記錄堆疊</li>
+      <li>使用者能定義精確度</li>
+      <li>顯示畫面允許剪下數字並貼上</li>
+      <li>能變更顯示的顏色和字型，有助於實用性</li>
+      <li>使用按鍵綁定來讓 KDE 計算機不必指標裝置就能簡單操作</li>
+    </ul>
+  </description>
+  <pkgname>libsForQt5.kcalc</pkgname>
+  <launchable type="desktop-id">org.kde.kcalc.desktop</launchable>
+  <id>org.kde.kcalc.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KCalc</name>
+  <name lang="ar">حاسبة ك</name>
+  <name lang="az">KCalc</name>
+  <name lang="bg">KCalc</name>
+  <name lang="ca">KCalc</name>
+  <name lang="ca-valencia">KCalc</name>
+  <name lang="cs">KCalc</name>
+  <name lang="da">KCalc</name>
+  <name lang="de">KCalc</name>
+  <name lang="el">KCalc</name>
+  <name lang="en-GB">KCalc</name>
+  <name lang="es">KCalc</name>
+  <name lang="et">KCalc</name>
+  <name lang="eu">KCalc</name>
+  <name lang="fi">KCalc</name>
+  <name lang="fr">KCalc</name>
+  <name lang="gl">KCalc</name>
+  <name lang="hu">KCalc</name>
+  <name lang="ia">KCalc</name>
+  <name lang="id">KCalc</name>
+  <name lang="it">KCalc</name>
+  <name lang="ja">KCalc</name>
+  <name lang="ko">KCalc</name>
+  <name lang="nl">KCalc</name>
+  <name lang="nn">KCalc</name>
+  <name lang="pa">ਕੇ-ਕੈਲਕ</name>
+  <name lang="pl">KCalc</name>
+  <name lang="pt">KCalc</name>
+  <name lang="pt-BR">KCalc</name>
+  <name lang="ro">KCalc</name>
+  <name lang="ru">KCalc</name>
+  <name lang="sk">KCalc</name>
+  <name lang="sl">KCalc</name>
+  <name lang="sq">KCalc</name>
+  <name lang="sr">К‑калк</name>
+  <name lang="sr-Latn">KCalc</name>
+  <name lang="sr-ijekavian">К‑калк</name>
+  <name lang="sr-ijekavianlatin">KCalc</name>
+  <name lang="sv">Kcalc</name>
+  <name lang="tr">KCalc</name>
+  <name lang="uk">KCalc</name>
+  <name lang="x-test">xxKCalcxx</name>
+  <name lang="zh-CN">KCalc 计算器</name>
+  <name lang="zh-TW">KDE 計算機</name>
+  <summary>Scientific Calculator</summary>
+  <summary lang="ar">حاسبة علمية</summary>
+  <summary lang="az">Elmi hesablayıcı</summary>
+  <summary lang="bg">Научен калкулатор</summary>
+  <summary lang="ca">Calculadora científica</summary>
+  <summary lang="ca-valencia">Calculadora científica</summary>
+  <summary lang="cs">Vědecká kalkulačka</summary>
+  <summary lang="da">Videnskabelig lommeregner</summary>
+  <summary lang="de">Wissenschaftlicher Taschenrechner</summary>
+  <summary lang="el">Επιστημονική αριθμομηχανή</summary>
+  <summary lang="en-GB">Scientific Calculator</summary>
+  <summary lang="es">Calculadora científica</summary>
+  <summary lang="et">Teaduslik kalkulaator</summary>
+  <summary lang="eu">Kalkulagailu zientifikoa</summary>
+  <summary lang="fi">Tieteellinen laskin</summary>
+  <summary lang="fr">Calculatrice scientifique</summary>
+  <summary lang="gl">Unha calculadora científica</summary>
+  <summary lang="hu">Tudományos számológép</summary>
+  <summary lang="ia">Calculator scientific</summary>
+  <summary lang="id">Kalkulator Ilmiah</summary>
+  <summary lang="it">Calcolatrice scientifica</summary>
+  <summary lang="ja">科学電卓</summary>
+  <summary lang="ko">공학용 계산기</summary>
+  <summary lang="nl">Wetenschappelijke rekenmachine</summary>
+  <summary lang="nn">Vitskapleg kalkulator</summary>
+  <summary lang="pa">ਵਿਗਿਆਨਕ ਕੈਲਕੂਲੇਟਰ</summary>
+  <summary lang="pl">Kalkulator naukowy</summary>
+  <summary lang="pt">Calculadora Científica</summary>
+  <summary lang="pt-BR">Calculadora científica</summary>
+  <summary lang="ro">Calculator științific</summary>
+  <summary lang="ru">Калькулятор</summary>
+  <summary lang="sk">Vedecká kalkulačka</summary>
+  <summary lang="sl">Znanstveno računalo</summary>
+  <summary lang="sq">Makina Llogaritëse Shkencore</summary>
+  <summary lang="sr">Научни калкулатор</summary>
+  <summary lang="sr-Latn">Naučni kalkulator</summary>
+  <summary lang="sr-ijekavian">Научни калкулатор</summary>
+  <summary lang="sr-ijekavianlatin">Naučni kalkulator</summary>
+  <summary lang="sv">Vetenskaplig miniräknare</summary>
+  <summary lang="tr">Bilimsel Hesap Makinesi</summary>
+  <summary lang="uk">Інженерний калькулятор</summary>
+  <summary lang="x-test">xxScientific Calculatorxx</summary>
+  <summary lang="zh-CN">科学计算器</summary>
+  <summary lang="zh-TW">科學計算機</summary>
+  <url type="homepage">https://utils.kde.org/projects/kcalc/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?product=kcalc</url>
+  <url type="help">https://docs.kde.org/?application=kcalc</url>
+  <url type="donation">https://www.kde.org/community/donations/?app=kcalc&amp;source=appdata</url>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Main window of KCalc</caption>
+      <caption lang="ar">النافذة الرئيسة لحاسبة ك</caption>
+      <caption lang="az">KCalc-ın əsas pəncərəsi</caption>
+      <caption lang="bg">Основен прозорец на KCalc</caption>
+      <caption lang="ca">Finestra principal del KCalc</caption>
+      <caption lang="ca-valencia">Finestra principal de KCalc</caption>
+      <caption lang="de">Hauptfenster von KCalc</caption>
+      <caption lang="el">Κύριο παράθυρο του KCalc</caption>
+      <caption lang="en-GB">Main window of KCalc</caption>
+      <caption lang="es">Ventana principal de KCalc</caption>
+      <caption lang="et">KCalci peaaken</caption>
+      <caption lang="eu">KCalc leiho nagusia</caption>
+      <caption lang="fi">KCalcin pääikkuna</caption>
+      <caption lang="fr">Fenêtre principale de KCalc</caption>
+      <caption lang="gl">Xanela principal de KCalc</caption>
+      <caption lang="hu">A KCalc főablaka</caption>
+      <caption lang="ia">Fenestra principal de KCalc</caption>
+      <caption lang="id">Window utama KCalc</caption>
+      <caption lang="it">Finestra principale di KCalc</caption>
+      <caption lang="ja">KCalc のメインウィンドウ</caption>
+      <caption lang="ko">KCalc 주 창</caption>
+      <caption lang="nl">Hoofdvenster van KCalc</caption>
+      <caption lang="nn">Hovudvindaugeet i KCalc</caption>
+      <caption lang="pl">Główne okno KCalc</caption>
+      <caption lang="pt">Janela principal do KCalc</caption>
+      <caption lang="pt-BR">Janela principal do KCalc</caption>
+      <caption lang="ro">Fereastra principală KCalc</caption>
+      <caption lang="ru">Основное окно приложения KCalc</caption>
+      <caption lang="sk">Hlavné okno KCalc</caption>
+      <caption lang="sl">Glavno okno KCalc</caption>
+      <caption lang="sq">Dritarja Kryesore  e KCalc</caption>
+      <caption lang="sv">Huvudfönstret i miniräknaren</caption>
+      <caption lang="tr">KCalc ana penceresi</caption>
+      <caption lang="uk">Головне вікно KCalc</caption>
+      <caption lang="x-test">xxMain window of KCalcxx</caption>
+      <caption lang="zh-CN">KCalc 主窗口</caption>
+      <caption lang="zh-TW">KDE 計算機的主視窗</caption>
+      <image>https://cdn.kde.org/screenshots/kcalc/kcalc-standard.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>KCalc window in numeral system mode</caption>
+      <caption lang="ar">نافذة حاسبة ك في الوضع الرقمي</caption>
+      <caption lang="az">KCalc pəncərəsi hesablama sistemi rejimində</caption>
+      <caption lang="bg">Прозорец на KCalc в системен цифров режим</caption>
+      <caption lang="ca">Finestra del KCalc en mode de sistema numèric</caption>
+      <caption lang="ca-valencia">Finestra de KCalc en mode de sistema numèric</caption>
+      <caption lang="de">KCalc-Fenster im Logik-Modus</caption>
+      <caption lang="el">Παράθυρο KCalc σε λειτουργία αριθμητικού συστήματος</caption>
+      <caption lang="en-GB">KCalc window in numeral system mode</caption>
+      <caption lang="es">Ventana de KCalc en el modo de sistema de numeración</caption>
+      <caption lang="et">KCalci aken arvusüsteemi režiimis</caption>
+      <caption lang="eu">Kcalc leihoa zenbaki-sistema moduan</caption>
+      <caption lang="fi">KCalc-ikkuna numerojärjestelmätilassa</caption>
+      <caption lang="fr">Fenêtre de KCalc en mode « Système numérique »</caption>
+      <caption lang="hu">A KCalc számrendszer módjának ablaka</caption>
+      <caption lang="ia">Fenestra de KCalc in modo de systema numeral</caption>
+      <caption lang="id">Window KCalc dalam mode sistem numerik</caption>
+      <caption lang="it">Finestra di KCalc in modalità base di numerazione</caption>
+      <caption lang="ja">KCalc の数値システムモードウィンドウ</caption>
+      <caption lang="ko">진수 모드 KCalc 창</caption>
+      <caption lang="nl">Venster van KCalc in systeemmodus numeriek</caption>
+      <caption lang="nn">KCalc-vindauge i numerisk modus</caption>
+      <caption lang="pl">Okno KCalc w trybie systemu numerycznego</caption>
+      <caption lang="pt">A janela do KCalc no modo do sistema numeral</caption>
+      <caption lang="pt-BR">Janela do KCalc no modo de sistema numérico</caption>
+      <caption lang="ru">Окно KCalc в режиме систем счисления</caption>
+      <caption lang="sk">Okno KCalc v číselnom režime</caption>
+      <caption lang="sl">Okno KCalc v številskem načinu</caption>
+      <caption lang="sq">Dritarja e KCalc në gjendje të sistemit të numrave</caption>
+      <caption lang="sv">Kcalc-fönster i nummersystemläge</caption>
+      <caption lang="tr">Sayısal sistem kipinde KCalc penceresi</caption>
+      <caption lang="uk">Вікно KCalc у режимі системи числення</caption>
+      <caption lang="x-test">xxKCalc window in numeral system modexx</caption>
+      <caption lang="zh-CN">数字系统模式下的 KCalc 窗口</caption>
+      <caption lang="zh-TW">KCalc 視窗目前為數值系統模式</caption>
+      <image>https://cdn.kde.org/screenshots/kcalc/kcalc-numeral.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Kcalc window in scientific mode</caption>
+      <caption lang="ar">نافذة حاسبة ك في الوضع العلمي</caption>
+      <caption lang="az">KCalc pəncərəsi elmi rejimdə</caption>
+      <caption lang="bg">Прозорец на KCalc в режим на научен калкулатор</caption>
+      <caption lang="ca">Finestra del KCalc en mode de sistema científic</caption>
+      <caption lang="ca-valencia">Finestra de KCalc en mode de sistema científic</caption>
+      <caption lang="de">KCalc-Fenster im Wissenschafts-Modus</caption>
+      <caption lang="el">Παράθυρο KCalc σε επιστημονική λειτουργία</caption>
+      <caption lang="en-GB">Kcalc window in scientific mode</caption>
+      <caption lang="es">Ventana de KCalc en el modo científico</caption>
+      <caption lang="et">KCalci aken teadusrežiimis</caption>
+      <caption lang="eu">Kcalc leihoa zientzia moduan</caption>
+      <caption lang="fi">KCalc-ikkuna tiedelaskentatilassa</caption>
+      <caption lang="fr">Fenêtre de KCalc en mode « Scientifique »</caption>
+      <caption lang="hu">A KCalc tudományos módjának ablaka</caption>
+      <caption lang="ia">Fenestra de KCalc in modo scientific</caption>
+      <caption lang="id">Window KCalc dalam mode ilmiah</caption>
+      <caption lang="it">Finestra di KCalc in modalità scientifica</caption>
+      <caption lang="ja">Kcalc の科学モードウィンドウ</caption>
+      <caption lang="ko">과학 모드 KCalc 창</caption>
+      <caption lang="nl">Venster van Kcalc in wetenschappelijke modus</caption>
+      <caption lang="nn">KCalc-vindauge i vitskapleg modus</caption>
+      <caption lang="pl">Okno KCalc w trybie naukowym</caption>
+      <caption lang="pt">A janela do KCalc no modo científico</caption>
+      <caption lang="pt-BR">Janela do KCalc no modo científico</caption>
+      <caption lang="ro">Fereastra KCalc în regim științific</caption>
+      <caption lang="ru">Окно KCalc в инженерном режиме</caption>
+      <caption lang="sk">Okno KCalc vo vedeckom režime</caption>
+      <caption lang="sl">Okno KCalc v znanstvenem načinu</caption>
+      <caption lang="sq">Dritarja e KCalc në gjendje shkencore </caption>
+      <caption lang="sv">Kcalc-fönster i vetenskapligt läge</caption>
+      <caption lang="tr">Bilimsel kipte KCalc penceresi</caption>
+      <caption lang="uk">Вікно KCalc в інженерному режимі</caption>
+      <caption lang="x-test">xxKcalc window in scientific modexx</caption>
+      <caption lang="zh-CN">科学模式下的 Kcalc 窗口</caption>
+      <caption lang="zh-TW">Kcalc 視窗目前為科學模式</caption>
+      <image>https://cdn.kde.org/screenshots/kcalc/kcalc-science.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Kcalc window in statistics mode</caption>
+      <caption lang="ar">نافذة حاسبة ك في الوضع الإحصائي</caption>
+      <caption lang="az">KCalc pəncərəsi statistika rejimində</caption>
+      <caption lang="bg">Прозорец на KCalc в статистически режим</caption>
+      <caption lang="ca">Finestra del KCalc en mode de sistema estadístic</caption>
+      <caption lang="ca-valencia">Finestra de KCalc en mode de sistema estadístic</caption>
+      <caption lang="de">KCalc-Fenster im Statistik-Modus</caption>
+      <caption lang="el">Παράθυρο KCalc σε στατιστική λειτουργία</caption>
+      <caption lang="en-GB">Kcalc window in statistics mode</caption>
+      <caption lang="es">Ventana de KCalc en el modo estadístico</caption>
+      <caption lang="et">KCalci aken statistikarežiimis</caption>
+      <caption lang="eu">Kcalc leihoa estatistika moduan</caption>
+      <caption lang="fi">KCalc-ikkuna tilastolaskentatilassa</caption>
+      <caption lang="fr">Fenêtre de KCalc en mode « Statistiques »</caption>
+      <caption lang="hu">A KCalc statisztikai módjának ablaka</caption>
+      <caption lang="ia">Fenestra de KCalc in modo statistic</caption>
+      <caption lang="id">Window KCalc dalam mode statistik</caption>
+      <caption lang="it">Finestra di KCalc in modalità statistica</caption>
+      <caption lang="ja">Kcalc の統計モードウィンドウ</caption>
+      <caption lang="ko">통계 모드 KCalc 창</caption>
+      <caption lang="nl">Venster van Kcalc in statistische modus</caption>
+      <caption lang="nn">KCalc-vindauge i statistikkmodus</caption>
+      <caption lang="pl">Okno KCalc w trybie statystycznym</caption>
+      <caption lang="pt">A janela do KCalc no modo estatístico</caption>
+      <caption lang="pt-BR">Janela do KCalc no modo estatístico</caption>
+      <caption lang="ro">Fereastra KCalc în regim statistic</caption>
+      <caption lang="ru">Окно KCalc в статистическом режиме</caption>
+      <caption lang="sk">Okno KCalc v štatistickom režime</caption>
+      <caption lang="sl">Okno KCalc v statističnem načinu</caption>
+      <caption lang="sq">Dritarja e KCalc në gjendje statistikore </caption>
+      <caption lang="sv">Kcalc-fönster i statistikläge</caption>
+      <caption lang="tr">İstatistik kipinde KCalc penceresi</caption>
+      <caption lang="uk">Вікно KCalc у статистичному режимі</caption>
+      <caption lang="x-test">xxKcalc window in statistics modexx</caption>
+      <caption lang="zh-CN">统计模式下的 Kcalc 窗口</caption>
+      <caption lang="zh-TW">Kcalc 視窗目前為統計模式</caption>
+      <image>https://cdn.kde.org/screenshots/kcalc/kcalc-statistics.png</image>
+    </screenshot>
+  </screenshots>
+  <provides>
+    <binary>kcalc</binary>
+  </provides>
+  <project_group>KDE</project_group>
+  <releases>
+    <release version="22.04.3" date="2022-07-07" />
+    <release version="22.04.2" date="2022-06-09" />
+    <release date="2022-05-12" version="22.04.1" />
+    <release version="22.04.0" date="2022-04-21" />
+  </releases>
+  <content_rating type="oars-1.1" />
+</component>

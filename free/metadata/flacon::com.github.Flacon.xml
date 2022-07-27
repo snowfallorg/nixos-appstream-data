@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>flacon</pkgname>
+  <icon type="cached" width="64" height="64">flacon.png</icon>
+  <icon width="128" type="cached" height="128">flacon.png</icon>
+  <id>com.github.Flacon</id>
+  <name>Flacon</name>
+  <summary>Flacon extracts individual tracks from one big audio file containing the entire album of music and saves them as separate audio files</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>LGPL-3.0</project_license>
+  <developer_name>Flacon team</developer_name>
+  <update_contact>sokoloff.a@gmail.com</update_contact>
+  <url type="homepage">https://flacon.github.io/</url>
+  <url type="bugtracker">https://github.com/flacon/flacon</url>
+  <url type="help">https://github.com/flacon/flacon/wiki</url>
+  <url type="donation">https://flacon.github.io/donate/</url>
+  <categories>
+    <category>AudioVideo</category>
+    <category>Audio</category>
+    <category>AudioVideoEditing</category>
+  </categories>
+  <launchable type="desktop-id">com.github.Flacon.desktop</launchable>
+  <description>
+    <p>Flacon extracts individual tracks from one big audio file containing the entire album of music and saves them as separate audio files. To do this, it uses information from the appropriate CUE file. Besides, Flacon makes it possible to conveniently revise or specify tags both for all tracks at once or for each tag separately.
+    </p>
+    <ul>
+      <li>Supported input formats: WAV, FLAC, APE, WavPack, True Audio (TTA)</li>
+      <li>Supported output formats: FLAC, WAV, WavPack, AAC, OGG or MP3</li>
+      <li>Support of profiles, you can have different encoding options for different cases, such as maximum quality for your computer, and CD quality for your phone</li>
+      <li>Replay Gain analysis (album-gain and track-gain modes)</li>
+      <li>Multi-threaded conversion process</li>
+      <li>Automatic character set detection for CUE files</li>
+      <li>Generation of the pertrack CUE file in the output dir</li>
+    </ul>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/flacon/flacon.github.io/b76825f411f8de0ad4e4de6d46fd912a13a6e980/images/flacon-main.png</image>
+      <caption>Main view</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/flacon/flacon.github.io/b76825f411f8de0ad4e4de6d46fd912a13a6e980/images/flacon-convert.png</image>
+      <caption>Conversion process</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/flacon/flacon.github.io/b76825f411f8de0ad4e4de6d46fd912a13a6e980/images/flacon-cover.png</image>
+      <caption>Disk cover dialog</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/flacon/flacon.github.io/b76825f411f8de0ad4e4de6d46fd912a13a6e980/images/flacon-config.png</image>
+      <caption>Preferences dialog</caption>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release date="2022-06-20" version="9.1.0">
+      <description>
+        <p>Latest version of Flacon on Flathub.</p>
+      </description>
+    </release>
+    <release version="9.0.0" date="2022-04-29" />
+    <release date="2021-01-31" version="8.3.0" />
+    <release date="2021-12-21" version="8.2.0" />
+    <release date="2021-11-25" version="8.1.0" />
+    <release date="2021-11-14" version="8.0.0" />
+    <release date="2021-04-25" version="7.0.1" />
+    <release date="2020-06-26" version="6.1.0" />
+    <release date="2020-05-30" version="6.0.0" />
+    <release date="2019-09-28" version="5.5.0" />
+    <release version="5.4.0" date="2019-09-26" />
+  </releases>
+  <content_rating type="oars-1.1" />
+</component>

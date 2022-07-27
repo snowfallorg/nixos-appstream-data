@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>glom</pkgname>
+  <launchable type="desktop-id">glom.desktop</launchable>
+  <icon type="cached" height="64" width="64">glom.png</icon>
+  <icon height="128" width="128" type="cached">glom.png</icon>
+  <id type="desktop">glom.desktop</id>
+  <name>Glom</name>
+  <name lang="bs">Glom</name>
+  <name lang="ca">Glom</name>
+  <name lang="ca@valencia">Glom</name>
+  <name lang="cs">Glom</name>
+  <name lang="da">Glom</name>
+  <name lang="de">Glom</name>
+  <name lang="dz">གུལུམ་</name>
+  <name lang="el">Glom</name>
+  <name lang="en_CA">Glom</name>
+  <name lang="en_GB">Glom</name>
+  <name lang="eo">Glomo</name>
+  <name lang="es">Glom</name>
+  <name lang="eu">Glom</name>
+  <name lang="fi">Glom</name>
+  <name lang="fr">Glom</name>
+  <name lang="gl">Glom</name>
+  <name lang="gu">ગ્લુમ</name>
+  <name lang="hu">Glom</name>
+  <name lang="id">Glom</name>
+  <name lang="nb">Glom</name>
+  <name lang="ne">ग्लोम</name>
+  <name lang="nl">Glom</name>
+  <name lang="oc">Glom</name>
+  <name lang="pa">ਗਲੋਮ</name>
+  <name lang="pl">Glom</name>
+  <name lang="pt">Glom</name>
+  <name lang="pt_BR">Glom</name>
+  <name lang="ru">Glom</name>
+  <name lang="sl">Glom</name>
+  <name lang="sq">Glom</name>
+  <name lang="sr">Глом</name>
+  <name lang="sr@latin">Glom</name>
+  <name lang="sv">Glom</name>
+  <name lang="tr">Glom</name>
+  <name lang="vi">Glom</name>
+  <name lang="zh_CN">Glom</name>
+  <summary>Database user interface</summary>
+  <summary lang="cs">Uživatelské rozhraní k databázi</summary>
+  <summary lang="da">Brugerflade for databasen</summary>
+  <summary lang="de">Datenbank-Benutzerschnittstelle</summary>
+  <summary lang="el">Διεπαφή χρήστη για βάσεις δεδομένων</summary>
+  <summary lang="es">Interfaz de la base de datos</summary>
+  <summary lang="eu">Datu-basearen erabiltzaile-interfazea</summary>
+  <summary lang="hu">Adatbázis felhasználói felület</summary>
+  <summary lang="id">Antar muka pengguna basis data</summary>
+  <summary lang="pl">Interfejs użytkownika baz danych</summary>
+  <summary lang="pt">Ambiente de utilizador da base de dados</summary>
+  <summary lang="pt_BR">Interface de usuário do banco de dados</summary>
+  <summary lang="sr">Корисничко сучеље базе података</summary>
+  <summary lang="sr@latin">Korisničko sučelje baze podataka</summary>
+  <summary lang="sv">Användargränssnitt för databaser</summary>
+  <summary lang="tr">Veritabanı kullanıcı arayüzü</summary>
+  <metadata_license>CC0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <description>
+    <p>With Glom you can design database systems - the database and the user interface.</p>
+    <p>Glom has high-level features such as relationships, lookups, related fields, related records, calculated fields, drop-down choices, searching, reports, users and groups. It has simple Numeric, Text, Date, Time, Boolean, and Image field types.</p>
+  </description>
+  <description lang="cs">
+    <p>Pomocí aplikace Glom můžete navrhovat databázové systémy – databáze a k nim uživatelské rozhraní.</p>
+    <p>Glom má vysokoúrovňové funkce, jako jsou vztahy mezi tabulkami, vyhledávací tabulky, související pole, související záznamy, vypočítávaná pole, rozbalovací volby, vyhledávání, výstupní sestavy, uživatele a skupiny. Umí jednoduché typy polí typu číslo, text, datum, čas, pravdivostní hodnota a obrázek.</p>
+  </description>
+  <description lang="da">
+    <p>Med Glom kan du designe databasesystemer – databasen og brugerfladen.</p>
+    <p>Glom har funktioner på højt niveau såsom relationer, opslag, relaterede felter, relaterede poster, beregnede felter, valg via rullegardiner, søgning, rapporter, brugere og grupper. Programmet har felttyper som tal, tekst, dato, tid, boolesk og billede.</p>
+  </description>
+  <description lang="de">
+    <p>Mit Glom können Sie Datenbanksysteme erstellen - die Datenbank und die Benutzerschnittstelle.</p>
+    <p>Glom verfügt über fortschrittliche Funktionsmerkmale wie Bezüge, Nachschlagen, Feldbezüge, Datensatzbezüge, berechnete Felder, Auswahllisten, Suchen, Berichte, Benutzer und Gruppen. Feldtypen sind numerisch, Text, Datum, Zeit, boolesch und Bild.</p>
+  </description>
+  <description lang="el">
+    <p>Με το Glom μπορείτε να σχεδιάσετε συστήματα βάσεων δεδομένων - την ίδια τη βάση καθώς και τη διεπαφή χρήστη.</p>
+  </description>
+  <description lang="es">
+    <p>Con Glom puede diseñar sistemas de bases de datos: tanto la base de datos como la interfaz de usuario.</p>
+    <p>Glom tiene características de alto nivel tales como relaciones, búsquedas, campos y registros relacionados, campos calculados, desplegables, informes, usuarios y grupos. Tiene tipos de campos numéricos, de texto, de fecha, de hora, booleanos y de imagen.</p>
+  </description>
+  <description lang="eu">
+    <p>Glom-ekin datu-baseen sistemak diseina ditzakezu - datu-baseak eta erabiltzailearen interfazeak.</p>
+    <p>Glom-ek maila altuko eginbideak ditu, hala nola erlazioak, bilaketak, erlazionatutako eremuak, erlazionatutako erregistroak, kalkulatutako eremuak, goiti-beherako aukerak, txostenak, erabiltzaileak eta taldeak. Zenbakia, Testua, Data, Ordua, Boolearra eta Irudia eremu mota xumeak ditu.</p>
+  </description>
+  <description lang="hu">
+    <p>A Glom segítségével adatbázis-rendszereket tervezhet - az adatbázist és a felhasználói felületet.</p>
+    <p>A Glom magas szintű szolgáltatásokkal rendelkezik, mint például kapcsolatok, lekérdezések, kapcsolt mezők, kapcsolt rekordok, számított mezők, legördülő választások, keresés, jelentések, felhasználók és csoportok. Egyszerű szám, szöveg, dátum, idő, logikai és kép mezőtípusai vannak.</p>
+  </description>
+  <description lang="id">
+    <p>Dengan Glom Anda dapat merancang sistem basis data - basis data dan antar muka pengguna.</p>
+    <p>Glom memiliki fitur tingkat tinggi seperti relasi, lookup, ruas terkait, rekaman terkait, ruas terhitung, pilihan drop-down, pencarian, laporan, pengguna, dan kelompok. Ini punya tipe ruas Numerik, Teks, Tanggal, Waktu, Bool, dan Citra.</p>
+  </description>
+  <description lang="pl">
+    <p>Za pomocą programu Glom można projektować systemy baz danych — bazę danych i interfejs użytkownika.</p>
+    <p>Program Glom zawiera wysokopoziomowe funkcje, takie jak związki, wyszukiwanie, powiązane pola i wpisy, obliczone wpisy, pola wyboru, raporty, użytkownicy i grupy. Ma proste typy pól numerycznych, tekstowych, dat, czasu, zmiennych logicznych i obrazów.</p>
+  </description>
+  <description lang="pt">
+    <p>Com o glom pode desenhar sistemas de base de dados - a base de dados e o ambiente de utilizador.</p>
+    <p>O Glom tem funcionalidades de alto nível, tais como relações, procuras, registos relacionados, campos calculados, listas pendentes, procura, relatórios, utilizadores e grupos. Dispõe de campos dos tipos Numérico, Texto, Data, Booliano e Imagem.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Com Glom você pode projetar sistemas de banco de dados - o banco de dados e a interface do usuário.</p>
+    <p>Glom tem características de alto nível tais como relacionamentos, pesquisas, áreas afins, registros relacionados, campos calculados, escolhas por menu suspenso, pesquisa, relatórios, usuários e grupos. Tem tipos de campo numérico, texto, data, hora, Boolean e imagem simples.</p>
+  </description>
+  <description lang="sr">
+    <p>Са Гломом можете да осмислите системе база података — базу података и корисничко сучеље.</p>
+    <p>Глом садржи функције високог нивоа као што су међуодноси, тражења, односна поља, односни записи, израчуната поља, падајући избори, претраге, извештаји, корисници и групе. Поседује и једноставне врсте следећих поља: „Број, текст, датум, време, логика и слика“.</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Sa Glomom možete da osmislite sisteme baza podataka — bazu podataka i korisničko sučelje.</p>
+    <p>Glom sadrži funkcije visokog nivoa kao što su međuodnosi, traženja, odnosna polja, odnosni zapisi, izračunata polja, padajući izbori, pretrage, izveštaji, korisnici i grupe. Poseduje i jednostavne vrste sledećih polja: „Broj, tekst, datum, vreme, logika i slika“.</p>
+  </description>
+  <description lang="sv">
+    <p>Med Glom kan du designa databassystem - databasen och användargränssnittet.</p>
+    <p>Glom har högnivåfunktioner som relationer, uppslagning, relaterade fält, relaterade poster, beräknade fält, rullgardinsval, sökning, rapporter, användare och grupper. Det har enkla fälttyper för siffror, text, datum, tid, booleaner och bilder.</p>
+  </description>
+  <description lang="tr">
+    <p>Glom ile veritabanı sistemleri tasarlayabilirsiniz - veritabanı ve kullanıcı arayüzü.</p>
+    <p>Glom; ilişkiler, aramalar, ilgili alanlar, ilgili kayıtlar, hesaplanan alanlar, açılır seçimler, arama, raporlar, kullanıcılar ve gruplar gibi üst düzey özelliklere sahiptir. Basit Sayısal, Metin, Tarih, Saat, Mantıksal ve Görüntü alan türlerine sahiptir.</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>http://www.glom.org/screenshots/glom_data_details.png</image>
+      <caption>The details view showing the whole record</caption>
+      <caption lang="cs">Podrobné zobrazení ukazující celý záznam</caption>
+      <caption lang="da">Detaljevisningen viser hele posten</caption>
+      <caption lang="de">Die Detailansicht, die den gesamten Datensatz zeigt</caption>
+      <caption lang="el">Η προβολή λεπτομερειών εμφανίζει όλες τις εγγραφές</caption>
+      <caption lang="es">La vista de detalles mostrando el registro completo</caption>
+      <caption lang="eu">Xehetasunen ikuspegia erregistro osoa erakutsiz</caption>
+      <caption lang="hu">A részletes nézet a teljes rekordot megjeleníti</caption>
+      <caption lang="id">Tilikan rinci menampilkan seluruh rekaman</caption>
+      <caption lang="pl">Widok szczegółów wyświetlający cały wpis</caption>
+      <caption lang="pt">A vista Detalhes, mostrando o registo completo</caption>
+      <caption lang="pt_BR">A visão de detalhes mostrando todo o registro</caption>
+      <caption lang="sr">Опширан преглед који приказује читав запис</caption>
+      <caption lang="sr@latin">Opširan pregled koji prikazuje čitav zapis</caption>
+      <caption lang="sv">Detaljvyn visar hela posten</caption>
+      <caption lang="tr">Kaydın tamamını gösteren ayrıntı görünümü</caption>
+    </screenshot>
+    <screenshot>
+      <image>http://www.glom.org/screenshots/glom_data_list.png</image>
+      <caption>The list view showing all records in the table</caption>
+      <caption lang="cs">Seznamové zobrazení ukazující všechny záznamy v tabulce</caption>
+      <caption lang="da">Listevisningen viser alle poster i tabellen</caption>
+      <caption lang="de">Die Listenansicht, die alle Datensätze in einer Tabelle zeigt</caption>
+      <caption lang="el">Η προβολή λίστας εμφανίζει όλες τις εγγραφές του πίνακα</caption>
+      <caption lang="es">La vista de lista mostrando todos los registros de la tabla</caption>
+      <caption lang="eu">Zerrendaren ikuspegia taularen erregistro guztiak erakutsiz</caption>
+      <caption lang="hu">A listanézet az összes rekordot megjeleníti a táblában</caption>
+      <caption lang="id">Tilikan daftar menampilkan semua rekaman dalam tabel</caption>
+      <caption lang="pl">Widok listy wyświetlający wszystkie wpisy w tablicy</caption>
+      <caption lang="pt">A vista Lista, mostrando todos os registos na tabela</caption>
+      <caption lang="pt_BR">A visão de lista mostrando todos os registros da tabela</caption>
+      <caption lang="sr">Преглед списком који приказује све записе у табели</caption>
+      <caption lang="sr@latin">Pregled spiskom koji prikazuje sve zapise u tabeli</caption>
+      <caption lang="sv">Listvyn visar alla poster i tabellen</caption>
+      <caption lang="tr">Tablodaki tüm kayıtları gösteren liste görünümü</caption>
+    </screenshot>
+    <screenshot>
+      <image>http://www.glom.org/screenshots/glom_data_details_related.png</image>
+      <caption>The details view showing records from a related table</caption>
+      <caption lang="cs">Podrobné zobrazení ukazující záznamy ze související tabulky</caption>
+      <caption lang="da">Detaljevisningen viser poster fra en relateret tabel</caption>
+      <caption lang="de">Die Detailansicht, die Datensätze einer Bezugstabelle anzeigt</caption>
+      <caption lang="el">Η προβολή λεπτομερειών εμφανίζει όλες τις εγγραφές του σχετικού πίνακα</caption>
+      <caption lang="es">La vista de detalles mostrando registros de la tabla relacionada</caption>
+      <caption lang="eu">Xehetasunen ikuspegia erlazionatutako taula bateko erregistroak erakutsiz</caption>
+      <caption lang="hu">A részletes nézet rekordokat jelenít meg egy kapcsolt táblából</caption>
+      <caption lang="id">Tilikan rinci menampilkan rekaman dari suatu tabel terkait</caption>
+      <caption lang="pl">Widok szczegółów wyświetlający wpisy z powiązanej tablicy</caption>
+      <caption lang="pt">A vista Detalhes, mostrando registos de uma tabela relacionada</caption>
+      <caption lang="pt_BR">A visão de detalhes mostrando registros de uma tabela relacionada</caption>
+      <caption lang="sr">Опширан преглед који приказује записе из одговарајуће табеле</caption>
+      <caption lang="sr@latin">Opširan pregled koji prikazuje zapise iz odgovarajuće tabele</caption>
+      <caption lang="sv">Detaljvyn visar poster från en relaterad tabell</caption>
+      <caption lang="tr">İlgili tablodaki kayıtları gösteren ayrıntı görünümü</caption>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">http://www.glom.org/</url>
+  <updatecontact>murrayc_at_murrayc.com</updatecontact>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>UserDocs</kudo>
+  </kudos>
+  <project_group>GNOME</project_group>
+  <translation type="gettext">glom</translation>
+</component>

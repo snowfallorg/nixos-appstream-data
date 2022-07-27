@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>gnome.gnome-taquin</pkgname>
+  <icon type="cached" height="64" width="64">org.gnome.Taquin.png</icon>
+  <icon type="cached" height="128" width="128">org.gnome.Taquin.png</icon>
+  <id>org.gnome.Taquin</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>GNOME Taquin</name>
+  <name lang="zh_TW">GNOME Taquin</name>
+  <name lang="zh_HK">GNOME Taquin</name>
+  <name lang="zh_CN">GNOME 推盘</name>
+  <name lang="vi">Xếp hình GNOME</name>
+  <name lang="uk">Дратун GNOME</name>
+  <name lang="tr">GNOME Taquin</name>
+  <name lang="sv">GNOME Taquin</name>
+  <name lang="sr@latin">Gnomovo Peckalo</name>
+  <name lang="sr">Гномово Пецкало</name>
+  <name lang="sl">GNOME Taquin</name>
+  <name lang="sk">Taquin prostredia GNOME</name>
+  <name lang="ru">GNOME Taquin</name>
+  <name lang="ro">Taquin GNOME</name>
+  <name lang="pt_BR">GNOME Taquin</name>
+  <name lang="pt">GNOME Taquin</name>
+  <name lang="pl">GNOME Taquin</name>
+  <name lang="pa">ਗਨੋਮ ਤਾਕਿਉਨ</name>
+  <name lang="oc">GNOME Taquin</name>
+  <name lang="nl">Gnome Taquin</name>
+  <name lang="ne">जिनोम टाक्विन</name>
+  <name lang="nb">GNOME Taquin</name>
+  <name lang="ms">Taquin GNOME</name>
+  <name lang="ml">ഗ്നോം തക്വിൻ</name>
+  <name lang="lv">GNOME Taquin</name>
+  <name lang="lt">GNOME Taquin</name>
+  <name lang="ko">그놈 타킨</name>
+  <name lang="kk">GNOME Taquin ойыны</name>
+  <name lang="it">Taquin GNOME</name>
+  <name lang="id">GNOME Taquin</name>
+  <name lang="hu">GNOME Taquin</name>
+  <name lang="hr">GNOME Taquin</name>
+  <name lang="he">GNOME Taquin</name>
+  <name lang="gl">GNOME Taquin</name>
+  <name lang="fur">GNOME Taquin</name>
+  <name lang="fr">Taquin de GNOME</name>
+  <name lang="fi">Gnomen Taquin</name>
+  <name lang="fa">تاکین گنوم</name>
+  <name lang="eu">GNOME Taquin</name>
+  <name lang="es">GNOME Taquin</name>
+  <name lang="eo">GNOME Takvino</name>
+  <name lang="en_GB">GNOME Taquin</name>
+  <name lang="el">GNOME Taquin</name>
+  <name lang="de">GNOME Taquin</name>
+  <name lang="da">GNOME Taquin</name>
+  <name lang="cs">Taquin GNOME</name>
+  <name lang="ca@valencia">GNOME Taquin</name>
+  <name lang="ca">GNOME Taquin</name>
+  <name lang="bs">Gnomovo Peckalo</name>
+  <name lang="bg">Пет6найсе</name>
+  <name lang="an">GNOME Taquin</name>
+  <summary>Slide tiles to their correct places</summary>
+  <summary lang="zh_TW">將棋子滑到他們正確的位置上</summary>
+  <summary lang="zh_HK">將棋子滑到他們正確的位置上</summary>
+  <summary lang="zh_CN">将方块滑动到正确位置</summary>
+  <summary lang="vi">Di chuyển các miếng ghép vào đúng chỗ dành cho nó</summary>
+  <summary lang="uk">Перетягніть плиточки на їхні місця</summary>
+  <summary lang="tr">Karoları doğru yerlerine kaydır</summary>
+  <summary lang="sv">Dra brickor till deras rätta platser</summary>
+  <summary lang="sr@latin">Dogurajte pločice na njihova odgovarajuća mesta.</summary>
+  <summary lang="sr">Догурајте плочице на њихова одговарајућа места</summary>
+  <summary lang="sl">Premakni ploščice slike na ustrezna mesta</summary>
+  <summary lang="sk">Posúvajte diely na ich správne miesto</summary>
+  <summary lang="ru">Передвиньте фишки на правильные места</summary>
+  <summary lang="ro">Glisați dalele la locurile lor corecte</summary>
+  <summary lang="pt_BR">Deslize peças para seu devido lugar</summary>
+  <summary lang="pt">Deslize peças para os seus lugares</summary>
+  <summary lang="pl">Przesuwanie elementów na właściwe miejsca</summary>
+  <summary lang="oc">Lisar las pèças fins a lor posicion corrècta</summary>
+  <summary lang="nl">Schuif tegels naar hun juiste plaatsen</summary>
+  <summary lang="ne">सहि स्थानमा टायलहरू स्लाइड गर्नुहोस्</summary>
+  <summary lang="nb">Flytt fliser til rett plass</summary>
+  <summary lang="ms">Leret jubin-jubin ke tempatnya</summary>
+  <summary lang="ml">ടൈലുകൾ ശരിയായ സ്ഥലങ്ങളിലേക്ക് നീക്കിവെയ്കുക</summary>
+  <summary lang="lv">Slidiniet kauliņus uz tiem paredzētajām vietām</summary>
+  <summary lang="lt">Tempkite koklius į jų teisingas vietas</summary>
+  <summary lang="ko">타일을 밀어서 올바른 위치에 놓습니다</summary>
+  <summary lang="kk">Плиткаларды олардың дұрыс орындарына жылжытыңыз</summary>
+  <summary lang="it">Fai scorrere le tessere nella loro corretta posizione</summary>
+  <summary lang="id">Geser ubin-ubin ke tempat yang tepat</summary>
+  <summary lang="hu">Csúsztassa a csempéket a megfelelő helyükre</summary>
+  <summary lang="hr">Pomičite pločice na njihova odgovarajuća mjesta</summary>
+  <summary lang="he">להחליק אריחים למקום הנכון שלהם</summary>
+  <summary lang="gl">Desprace teselas ao seu lugar correcto</summary>
+  <summary lang="fur">Fâs cori lis tessaris te lôr juste posizion</summary>
+  <summary lang="fr">Glisser les pièces jusqu’à leur position correcte</summary>
+  <summary lang="fi">Liu'uta laatat oikeille kohdilleen</summary>
+  <summary lang="fa">مهره‌ها را به جای صحیح خود جابه‌جا کنید</summary>
+  <summary lang="eu">Lerratu lauzak dagokien lekuetara</summary>
+  <summary lang="es">Deslice las fichas a los lugares correctos</summary>
+  <summary lang="eo">Glitu kahelojn al ĝustaj lokoj</summary>
+  <summary lang="en_GB">Slide tiles to their correct places</summary>
+  <summary lang="el">Μετακινήστε τα πλακίδια στις σωστές τους θέσεις</summary>
+  <summary lang="de">Verschieben Sie Kacheln an ihren richtigen Ort</summary>
+  <summary lang="da">Flyt brikker til deres rigtige pladser</summary>
+  <summary lang="cs">Presuňte díly na jejich správné místo</summary>
+  <summary lang="ca@valencia">Llisca les fitxes als llocs correctes</summary>
+  <summary lang="ca">Llisca les fitxes als llocs correctes</summary>
+  <summary lang="bs">Dogurajte pločice na njihova odgovarajuća mjesta.</summary>
+  <summary lang="bg">Поставете плочките на правилните места чрез плъзгане</summary>
+  <summary lang="an">Eslice as fichas a os puestos correctos</summary>
+  <description>
+    <p>
+      Taquin is a computer version of the 15-puzzle and other sliding puzzles.
+    </p>
+    <p>
+      The object of Taquin is to move tiles so that they reach their places,
+      either indicated with numbers, or with parts of a great image.
+    </p>
+  </description>
+  <description lang="an">
+    <p>Taquin ye una versión d'ordinador de puzle-15 y atros puzles d'eslizar.</p>
+    <p>L'obchectivo de Taquin ye mover as fichas a os suyos puestos correspondients, indicaus por numeros u por partes d'una bonica imachen.</p>
+  </description>
+  <description lang="bg">
+    <p>„Пет6найсе“ е версия на популярната игра с 15 плъзгащи се блокчета</p>
+    <p>Целта е да подредите плочките като ги плъзгате и те да се подредят последователно или като част от картинка.</p>
+  </description>
+  <description lang="bs">
+    <p>Peckalo je računarsko izdanje 15-slagalica i drugih kliznih slagalica.</p>
+    <p>Predmet Peckala je premještanje pločica tako da stignu do svojih mjesta, bilo naznačenih brojevima, ili dijelovima velike slike.</p>
+  </description>
+  <description lang="ca">
+    <p>El Taquin és una versió d'ordinador del joc trencaclosques de 15 fitxes i altres trencaclosques lliscants.</p>
+    <p>L'objectiu del Taquin és moure les fitxes perquè arribin als seus llocs, indicat per nombres o bé per ser parts d'una imatge més gran.</p>
+  </description>
+  <description lang="ca@valencia">
+    <p>El Taquin és una versió d'ordinador del joc trencaclosques de 15 fitxes i altres trencaclosques lliscants.</p>
+    <p>L'objectiu del Taquin és moure les fitxes perquè arriben als seus llocs, indicat per nombres o bé per ser parts d'una imatge més gran.</p>
+  </description>
+  <description lang="cs">
+    <p>Taquin je počítačová verze posuvného hlavolamu s 15 nebo i jiným počtem dílů.</p>
+    <p>Cílem hlavolamu Taquin je přesunout díly na jejich správná místa, která jsou daná buď číslem nebo částmi velkého obrázku.</p>
+  </description>
+  <description lang="da">
+    <p>Taquin er en computerudgave af 15-spillet og andre brikflyttespil.</p>
+    <p>Målet med Taquin er at flytte brikker, så de når deres pladser angivet enten ved tal eller dele af et stort billede.</p>
+  </description>
+  <description lang="de">
+    <p>Taquin ist eine Version für Rechner des 15-teiligen Puzzles und anderer Schiebepuzzle.</p>
+    <p>Das Ziel von Taquin ist es, Kacheln so zu verschieben, dass sie ihren Zielort erreichen. Der Zielort ist entweder über Zahlen oder mit Ausschnitten eines großen Bildes markiert.</p>
+  </description>
+  <description lang="el">
+    <p>Το Taquin (ο κατεργάρης) είναι μια έκδοση για υπολογιστή του γρίφου-15 και άλλων συρόμενων γρίφων.</p>
+    <p>Ο σκοπός του Taquin είναι να μετακινηθούν τα πλακίδια έτσι ώστε να φτάσουν στις θέσεις τους, που δείχνονται είτε με αριθμούς, ή με τμήματα μιας μεγάλης εικόνας.</p>
+  </description>
+  <description lang="en_GB">
+    <p>Taquin is a computer version of the 15-puzzle and other sliding puzzles.</p>
+    <p>The object of Taquin is to move tiles so that they reach their places, either indicated with numbers, or with parts of a great image.</p>
+  </description>
+  <description lang="eo">
+    <p>La celo de Takvino estas movi kahelojn, por ke ili alveni al siaj ĝustaj lokoj, kiuj estas aŭ nombre indikitaj, aŭ kun partoj de granda bildo.</p>
+  </description>
+  <description lang="es">
+    <p>Taquin es una versión de ordenador de puzle-15 y otros puzles de deslizar.</p>
+    <p>El objetivo de Taquin es mover las fichas a sus lugares correspondientes, indicados por números o por partes de una bonita imagen.</p>
+  </description>
+  <description lang="eu">
+    <p>Taquin 15-puzzlearen eta lerratzeko beste puzzle batzuen bertsio digital bat da.</p>
+    <p>Taquin-en helburua lauzak lekuz aldatzea da bakoitza dagokion lekura eramanez, irudi handi baten zati gisa edo zenbaki gisa adierazita.</p>
+  </description>
+  <description lang="fa">
+    <p>«تاکین» یک نسخه رایانه‌ای از ۱۵-پازل و سایر بازی‌های پازل اسلایدی است.</p>
+    <p>هدف در «تاکین» این است که مهره را برای رسیدن به جایگاه خود جابه‌جا کنید، یا از طریق اعداد، یا با قسمتی از یک عکس.</p>
+  </description>
+  <description lang="fi">
+    <p>Taquin on tietokoneversio 15-pelistä ja muista liu'utuksella ratkaistavista pulmapeleistä.</p>
+    <p>Tavoite Taquinissa on siirtää laatat oikeille kohdilleen siten, että ne muodostavat numerojatkumon tai kuvan.</p>
+  </description>
+  <description lang="fr">
+    <p>Taquin est une version informatisée du taquin et d’autres casse-têtes du genre.</p>
+    <p>L’objectif de Taquin est de déplacer les pièces pour qu’elles atteignent leur position correcte, devinable soit par un nombre, soit par les morceaux d’une chouette image.</p>
+  </description>
+  <description lang="fur">
+    <p>Taquin al è la version par computer dal classic zûc dal 15 e di altris puzzle simii.</p>
+    <p>L'obietîf di Taquin al è chel di spostâ lis tessaris in mût che si placin te lôr juste posizion, indicade da numars o di parts di une figure.</p>
+  </description>
+  <description lang="gl">
+    <p>Taquin é unha versión de computador do quebracabezas 15 e outros quebracabezas de desprazamento.</p>
+    <p>O obxectivo de Taquin é mover teselas para que alcancen os seus lugares, ou indicados por números ou con partes dunha imaxe máis grande.</p>
+  </description>
+  <description lang="he">
+    <p>‏Taquin זו גרסה ממוחשבת של חידת ה־15 ותצרפי הזזה נוספים.</p>
+    <p>הרעיון של Taquin הוא להזיז אריחים כך שהם יגיעו למקומם, המצוינים במספרים, או כחלק של תמונה גדולה.</p>
+  </description>
+  <description lang="hr">
+    <p>Taquin je računalna inačica 15-slagalica i ostalih pomičnih slagalica.</p>
+    <p>Cilj Taquina je pomicanje pločica tako da se poslože, prema bojevima ili dijelovima velike slike.</p>
+  </description>
+  <description lang="hu">
+    <p>A Taquin a 15-ös kirakós és egyéb tilitoli kirakós játékok számítógépes változata.</p>
+    <p>A Taquin lényege a csempék mozgatása, hogy azok elérjenek saját helyükre, amelyek vagy számokkal vannak jelölve, vagy egy nagy kép részleteivel.</p>
+  </description>
+  <description lang="id">
+    <p>Taquin adalah versi komputer dari puzzle geser 15-potongan dan lainnya.</p>
+    <p>Tujuan Taquin adalah menggeser ubin-ubin sehingga menempati tempat yang tepat, apakah itu angka-angka atau bagian-bagian dari sebuah gambar.</p>
+  </description>
+  <description lang="it">
+    <p>Taquin è la versione per computer del classico gioco del 15 e di altri puzzle simili.</p>
+    <p>L'obiettivo di Taquin è quello di spostare le tessere in modo tale che raggiungano la loro designata posizione, indicata da numeri o da parti di un'immagine.</p>
+  </description>
+  <description lang="kk">
+    <p>Taquin — 15-ойжұмбақ пен басқа да жылжымалы ойжұмбақтардың компьютерлік нұсқасы.</p>
+    <p>Taquin ойынының мақсаты — плиткаларды сандармен немесе үлкен суреттің бөліктерімен көрсетілген орындарына жететіндей етіп жылжыту.</p>
+  </description>
+  <description lang="ko">
+    <p>타킨은 컴퓨터 버전의 15-퍼즐 및 기타 타일 밀기 퍼즐입니다.</p>
+    <p>타킨의 목표는 타일을 움직여서 자기 위치에 놓는 것입니다. 숫자로 표시된 위치에 놓거나, 전체 그림을 맞추는 방식으로 놓습니다.</p>
+  </description>
+  <description lang="lt">
+    <p>Taquin yra 15-galvosūkio ir kitų tempimo galvosūkių kompiuterinė versija.</p>
+    <p>Taquin tikslas yra perkelti koklius taip, kad kiekvienas atsidurtų savo vietoje, nurodytoje skaičiais arba didesnio paveikslėlio dalimis.</p>
+  </description>
+  <description lang="lv">
+    <p>Taquin ir datora variants 15-mīklai un citām slidināšanas spēlēm.</p>
+    <p>Taquin mērķis ir pārvietot kauliņus, lai tie sasniegtu savu vietu, vai nu tie ir numuri, vai daļa no lielāka attēla.</p>
+  </description>
+  <description lang="ml">
+    <p>15-പസിൽ, മറ്റ് സ്ലൈഡിങ് പസിലുകൾ എന്നിവയുടെ കമ്പ്യൂട്ടർ പതിപ്പാണ് താക്വിൻ.</p>
+  </description>
+  <description lang="ms">
+    <p>Taquin ialah versi komputer bagi teka-teki-15 dan lain-lain teka-teki sejenisnya.</p>
+    <p>Objektif Taquin ialah menggerakkan jubin-jubin supaya ia berada pada tempat sepatutnya, sama ada mengikut nombor kedudukan, atau sebahagian dari satu imej.</p>
+  </description>
+  <description lang="nb">
+    <p>Taquin er datamaskinversjonen av 15-puslespill og andre skyvepuslespill.</p>
+    <p>Målet i Taquin er å skyve flisene slik at de når sine plasser som er indikert med tall eller deler av et større bilde.</p>
+  </description>
+  <description lang="ne">
+    <p>टाक्विन १५-पजल र अन्य स्लाइडिङ्ग खेल को  कम्प्युटर संस्करण हो।</p>
+    <p>टाक्विनको उदेश्य टायल सहि स्थानमा सार्नु हो , टायल संख्या वा छवि को भागहरू मा सङ्केत हुन्छ</p>
+  </description>
+  <description lang="nl">
+    <p>Taquin is een computerversie van de 15-puzzel en andere schuifpuzzels.</p>
+    <p>Het doel van Taquin is tegels te verplaatsen zodat ze hun plaats bereiken, aangeduid met ofwel nummers ofwel delen van een grotere afbeelding.</p>
+  </description>
+  <description lang="oc">
+    <p>Taquin es una version informatizada del taquin e d’autres copacaps del genre.</p>
+    <p>L’objectiu de Taquin es de desplaçar las pèças per qu’atenhan lor posicion corrècta, endevinabla siá per un nombre, siá pels tròces d’un polit imatge.</p>
+  </description>
+  <description lang="pl">
+    <p>Taquin to komputerowa wersja 15-częściowych przesuwanych puzzli.</p>
+    <p>Taquin polega na przesuwaniu poszczególnych elementów tak, aby każdy z nich znalazł się na właściwym miejscu, według numeru lub obrazka.</p>
+  </description>
+  <description lang="pt">
+    <p>O Taquin é uma versão para computador de vários jogos de deslizar peças.</p>
+    <p>O objetivo do Taquin é mover as peças para que cheguem aos seus lugares, sejam eles indicados por números ou como partes de uma grande imagem.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Taquin é uma versão de computador do quebra-cabeça de 15 peças e outros quebra-cabeças deslizantes.</p>
+    <p>O objetivo do Taquin é mover as peças de forma que elas alcancem seus devidos lugares, indicados com números ou com partes de uma imagem legal.</p>
+  </description>
+  <description lang="ro">
+    <p>Taquin este o versiune pe calculator a puzzle-15 și a altor puzzle-uri de glisare.</p>
+    <p>Scopul jocului de Taquin este să mutați dalele astfel încât să ajungă la locul lor, indicat fie prin numere, fie prin părțile unei imagini mari.</p>
+  </description>
+  <description lang="ru">
+    <p>Taquin — компьютерная версия игры в пятнашки и других механических головоломок.</p>
+    <p>Цель игры — передвинуть фишки так, чтобы они заняли свои места, сложив последовательность чисел или целое изображение.</p>
+  </description>
+  <description lang="sk">
+    <p>Hra Taquin je počítačovou verziou hlavolamu s 15 dielmi a inými posuvnými hlavolamami.</p>
+    <p>Cieľom hry Taquin je presunúť diely tak, aby bol každý na správnom mieste. Diely sú označené buď číslami, alebo ich tvoria časti obrázku.</p>
+  </description>
+  <description lang="sl">
+    <p>Igra Taquin je računalniška različica igre »Petnajst« in drugih podobnih premičnic.</p>
+    <p>Cilj igre Taquin, znane tudi kot igre Petnajst, je premakniti ploščice na ustrezna mesta. Ploščice so lahko označene s številkami, lahko pa skupajsestavljajo sliko.</p>
+  </description>
+  <description lang="sr">
+    <p>Пецкало је рачунарско издање 15-слагалица и других клизних слагалица.</p>
+    <p>Предмет Пецкала је премештање плочица тако да стигну до својих места, било назначених бројевима, или деловима велике слике.</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Peckalo je računarsko izdanje 15-slagalica i drugih kliznih slagalica.</p>
+    <p>Predmet Peckala je premeštanje pločica tako da stignu do svojih mesta, bilo naznačenih brojevima, ili delovima velike slike.</p>
+  </description>
+  <description lang="sv">
+    <p>Taquin är en datorversion av 15-pusslet och andra glidpussel.</p>
+    <p>Målet i Taquin är att flytta brickor så att de når sina platser, vilka antingen markeras med siffror eller med delar av en stor bild.</p>
+  </description>
+  <description lang="tr">
+    <p>Taquin 15-bulmaca ve diğer sürgülü bulmacaların bilgisayar sürümüdür.</p>
+    <p>Taquin’in amacı, numaralarla veya büyük bir resmin parçalarından herhangi biriyle gösterilen karoların kendi yerlerine ulaşması için hareket ettirmektir.</p>
+  </description>
+  <description lang="uk">
+    <p>Дратун — комп'ютерна версія ігор з перетягування плиточок.</p>
+    <p>Ціль Дратуна — розставити мозаїки на свої місця, вони позначені числами або частинами великого малюнка.</p>
+  </description>
+  <description lang="vi">
+    <p>Taquin là phiên bản chạy trên máy tính của trò chơi ghép hình 15-puzzle và các kiểu di chuyển miếng ghép khác.</p>
+    <p>Các đối tượng của Taquin là di chuyển các miếng ghép sao cho chúng nằm ở đúng chỗ, hoặc là được chỉ thị bằng số, hoặc là các phần nhỏ của một bức ảnh lớn.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>Taquin 是 15 数字推盘和其他滑动数字推盘的计算机版本。</p>
+    <p>Taquin 的目标是移动方块，让它们到达其位置，方块上显示数字或图像的部分。</p>
+  </description>
+  <description lang="zh_HK">
+    <p>Taquin 是電腦版的 15 塊或其他數目棋子的滑動益智遊戲。</p>
+    <p>Taquin 的目標是將棋子移動以讓它們到達自己的位置，可能是數字的順序，或是組成一幅大型影像。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>Taquin 是電腦版的 15 塊或其他數目棋子的滑動益智遊戲。</p>
+    <p>Taquin 的目標是將棋子移動以讓它們到達自己的位置，可能是數字的順序，或是組成一幅大型影像。</p>
+  </description>
+  <screenshots>
+    <screenshot width="700" height="455" type="default">
+      <image>https://gitlab.gnome.org/GNOME/gnome-taquin/raw/master/data/appdata-screenshot.png</image>
+      <caption>A GNOME taquin game preview</caption>
+      <caption lang="zh_TW">GNOME taquin 遊戲預覽</caption>
+      <caption lang="zh_CN">GNOME 推盘游戏预览</caption>
+      <caption lang="uk">Перегляд гри Дратун</caption>
+      <caption lang="tr">Bir GNOME taquin oyunu önizlemesi</caption>
+      <caption lang="sv">En förhandsvisning av GNOME taquin</caption>
+      <caption lang="sr@latin">Pregled igre Gnomovog peckala</caption>
+      <caption lang="sr">Преглед игре Гномовог пецкала</caption>
+      <caption lang="sl">Predogled igre GNOME Taquin</caption>
+      <caption lang="sk">Náhľad hry taquin prostredia GNOME</caption>
+      <caption lang="ru">Предварительный просмотр игры Taquin GNOME</caption>
+      <caption lang="ro">O previzualizare de joc taquin GNOME</caption>
+      <caption lang="pt_BR">Uma prévia do GNOME para o jogo taquin</caption>
+      <caption lang="pt">Uma previsão do jogo GNOME Taquin</caption>
+      <caption lang="pl">Podgląd gry GNOME Taquin</caption>
+      <caption lang="oc">Un apercebut d’una partida de Taquin de GNOME</caption>
+      <caption lang="nl">Een Gnome Taquin-spelvoorbeeld</caption>
+      <caption lang="ne">जिनोम टाक्विन खेल पुर्वावलोकन</caption>
+      <caption lang="nb">Et taquin spill for GNOME</caption>
+      <caption lang="ms">Pratonton permainan taquin GNOME</caption>
+      <caption lang="ml">ഒരു ഗ്നോം തക്വിൻ ഗെയിം തിരനോട്ടം</caption>
+      <caption lang="lv">GNOME taquin spēles priekšskatījums</caption>
+      <caption lang="lt">GNOME taquin žaidimo peržiūra</caption>
+      <caption lang="ko">그놈 타킨 게임 미리보기</caption>
+      <caption lang="kk">GNOME taquin ойынын алдын ала қарау</caption>
+      <caption lang="it">Un'anteprima del gioco GNOME taquin</caption>
+      <caption lang="id">Pratinjau Permainan GNOME Taquin</caption>
+      <caption lang="hu">Egy GNOME taquin játékelőnézet</caption>
+      <caption lang="hr">GNOME taquin pregled igre</caption>
+      <caption lang="he">תצוגה מקדימה של GNOME Taquin</caption>
+      <caption lang="gl">Unha vista previa do xogo GNOME taquin</caption>
+      <caption lang="fur">Une anteprime dal zûc taquin di GNOME</caption>
+      <caption lang="fr">Un aperçu d’une partie de Taquin de GNOME</caption>
+      <caption lang="fi">Gnome Taquin -pelin esikatselu</caption>
+      <caption lang="fa">پیش‌نمایش بازی گنوم تاکین</caption>
+      <caption lang="eu">GNOME Taquin jokoaren aurrebista</caption>
+      <caption lang="es">Una vista previa del juego Taquin de GNOME</caption>
+      <caption lang="en_GB">A GNOME taquin game preview</caption>
+      <caption lang="el">Προεπισκόπηση του παιχνιδιού GNOME Taquin</caption>
+      <caption lang="de">Eine Vorschau auf GNOME Taquin</caption>
+      <caption lang="da">Smugkig på et spil GNOME taquin</caption>
+      <caption lang="cs">Ukázková verze hry Taquin GNOME</caption>
+      <caption lang="ca@valencia">Una vista prèvia del joc GNOME Taquin</caption>
+      <caption lang="ca">Una vista prèvia del joc GNOME Taquin</caption>
+      <caption lang="bg">Преглед на игра „Пет6найсе“ от GNOME</caption>
+    </screenshot>
+  </screenshots>
+  <launchable type="desktop-id">org.gnome.Taquin.desktop</launchable>
+  <url type="homepage">https://wiki.gnome.org/Apps/Taquin</url>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/gnome-taquin/issues/</url>
+  <url type="donation">https://www.gnome.org/friends/</url>
+  <url type="translate">https://wiki.gnome.org/TranslationProject</url>
+  <update_contact>arnaud.bonatti_at_gmail.com</update_contact>
+  <project_group>GNOME</project_group>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>UserDocs</kudo>
+  </kudos>
+  <translation type="gettext">gnome-taquin</translation>
+  <developer_name>The GNOME Project</developer_name>
+  <developer_name lang="zh_TW">GNOME 計畫</developer_name>
+  <developer_name lang="zh_CN">GNOME 项目</developer_name>
+  <developer_name lang="uk">Проект GNOME</developer_name>
+  <developer_name lang="tr">GNOME Projesi</developer_name>
+  <developer_name lang="sv">GNOME-projektet</developer_name>
+  <developer_name lang="sr@latin">Gnomov projekat</developer_name>
+  <developer_name lang="sr">Гномов пројекат</developer_name>
+  <developer_name lang="sl">Projekt GNOME</developer_name>
+  <developer_name lang="sk">Projekt GNOME</developer_name>
+  <developer_name lang="ru">Проект GNOME</developer_name>
+  <developer_name lang="ro">Proiectul GNOME</developer_name>
+  <developer_name lang="pt_BR">O projeto GNOME</developer_name>
+  <developer_name lang="pt">Projeto GNOME</developer_name>
+  <developer_name lang="pl">Projekt GNOME</developer_name>
+  <developer_name lang="oc">Lo projècte GNOME</developer_name>
+  <developer_name lang="nl">Het Gnome-project</developer_name>
+  <developer_name lang="ne">जिनोम परियोजना</developer_name>
+  <developer_name lang="nb">GNOME prosjektet</developer_name>
+  <developer_name lang="ms">Projek GNOME</developer_name>
+  <developer_name lang="ml">ഗ്നോം പ്രോജക്ട്</developer_name>
+  <developer_name lang="lv">GNOME projekts</developer_name>
+  <developer_name lang="lt">GNOME projektas</developer_name>
+  <developer_name lang="ko">그놈 프로젝트</developer_name>
+  <developer_name lang="kk">GNOME жобасы</developer_name>
+  <developer_name lang="it">Il progetto GNOME</developer_name>
+  <developer_name lang="id">Proyek GNOME</developer_name>
+  <developer_name lang="hu">A GNOME projekt</developer_name>
+  <developer_name lang="hr">GNOME projekt</developer_name>
+  <developer_name lang="he">מיזם GNOME</developer_name>
+  <developer_name lang="gl">O Proxecto GNOME</developer_name>
+  <developer_name lang="fur">Il progjet GNOME</developer_name>
+  <developer_name lang="fr">Le projet GNOME</developer_name>
+  <developer_name lang="fi">Gnome-projekti</developer_name>
+  <developer_name lang="fa">پروژهٔ گنوم</developer_name>
+  <developer_name lang="eu">GNOME proiektua</developer_name>
+  <developer_name lang="es">El proyecto GNOME</developer_name>
+  <developer_name lang="en_GB">The GNOME Project</developer_name>
+  <developer_name lang="el">Έργο GNOME</developer_name>
+  <developer_name lang="de">Das GNOME-Projekt</developer_name>
+  <developer_name lang="da">GNOME-projektet</developer_name>
+  <developer_name lang="cs">Projekt GNOME</developer_name>
+  <developer_name lang="ca@valencia">El projecte GNOME</developer_name>
+  <developer_name lang="ca">El projecte GNOME</developer_name>
+  <developer_name lang="bg">Проектът GNOME</developer_name>
+  <content_rating type="oars-1.0">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+
+  <releases>
+    <!-- should be kept in versioning inverted order -->
+    <release urgency="medium" date="2020-10-03" version="3.38.1" type="stable" />
+    <release version="3.37.91" date="2020-08-28" urgency="low" type="development" />
+  </releases>
+</component>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>portfolio-filemanager</pkgname>
+  <launchable type="desktop-id">dev.tchx84.Portfolio.desktop</launchable>
+  <icon height="64" type="cached" width="64">dev.tchx84.Portfolio.png</icon>
+  <icon width="128" height="128" type="cached">dev.tchx84.Portfolio.png</icon>
+  <id>dev.tchx84.Portfolio.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release date="2022-03-19" version="0.9.14" />
+  </releases>
+  <!-- TRANSLATORS: Don't translate this text -->
+  <name>Portfolio</name>
+  <name lang="de">Portfolio</name>
+  <name lang="sv">Portfolio</name>
+  <name lang="pt_BR">Portfólio</name>
+  <name lang="nl">Portfolio</name>
+  <name lang="id">Portfolio</name>
+  <summary>Manage files on the go</summary>
+  <summary lang="de">Verwalte Dateien von unterwegs</summary>
+  <summary lang="sv">Hantera filer på språng</summary>
+  <summary lang="pt_BR">Gerencie arquivos em qualquer lugar</summary>
+  <summary lang="nl">Beheer onderweg je bestanden</summary>
+  <summary lang="id">Kelola berkas di mana saja</summary>
+  <summary lang="es">Gestiona archivos en móviles</summary>
+  <summary lang="cs">Spravujte soubory na cestách</summary>
+  <description>
+    <p>
+      A minimalist file manager for those who want to use Linux mobile devices.
+    </p>
+  </description>
+  <description lang="cs">
+    <p>Minimalistický správce souborů pro ty, kteří chtějí používat linuxová mobilní zařízení.</p>
+  </description>
+  <description lang="de">
+    <p>Ein minimale Dateiverwaltung für die Nutzung auf mobilen Geräten.</p>
+  </description>
+  <description lang="es">
+    <p>Un gestor de archivos minimalista para dispositivos móviles Linux.</p>
+  </description>
+  <description lang="id">
+    <p>Pengelola berkas minimalis bagi mereka yang ingin menggunakan perangkat seluler Linux.</p>
+  </description>
+  <description lang="nl">
+    <p>Een minimalistische bestandsbeheerder voor zij die Linux op mobiele apparaten gebruiken.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Um gerenciador de arquivos minimalista para quem deseja usar dispositivos móveis Linux.</p>
+  </description>
+  <description lang="sv">
+    <p>En minimalistisk filhanterare för de som vill använda mobila enheter med Linux.</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/tchx84/Portfolio/master/screenshots/en/1.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/tchx84/Portfolio/master/screenshots/en/2.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/tchx84/Portfolio/master/screenshots/en/3.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/tchx84/Portfolio/master/screenshots/en/4.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/tchx84/Portfolio/master/screenshots/en/5.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/tchx84/Portfolio/master/screenshots/en/6.png</image>
+    </screenshot>
+  </screenshots>
+  <!-- TRANSLATORS: Don't translate this text -->
+  <developer_name>Martin Abente Lahaye</developer_name>
+  <developer_name lang="de">Martin Abente Lahaye</developer_name>
+  <developer_name lang="sv">Martin Abente Lahaye</developer_name>
+  <developer_name lang="pt_BR">Martin Abente Lahaye</developer_name>
+  <developer_name lang="nl">Martin Abente Lahaye</developer_name>
+  <developer_name lang="id">Martin Abente Lahaye</developer_name>
+  <update_contact>martin.abente.lahaye@gmail.com</update_contact>
+  <url type="homepage">https://github.com/tchx84/Portfolio</url>
+  <url type="bugtracker">https://github.com/tchx84/Portfolio/issues</url>
+  <custom>
+    <value key="Purism::form_factor">mobile</value>
+  </custom>
+</component>

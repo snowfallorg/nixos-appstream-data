@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>Krusader is an advanced twin panel (commander style) file manager </p>
+    <p>Features:</p>
+    <ul>
+      <li>Extensive archive handling</li>
+      <li>Mounted filesystem support</li>
+      <li>FTP support</li>
+      <li>Advanced search module</li>
+      <li>Internal viewer/editor</li>
+      <li>Folder synchronisation</li>
+      <li>File content comparisons</li>
+      <li>Powerful batch renaming</li>
+      <li>Support for a wide variety of archive formats and can handle other KIO slaves such as smb or fish.</li>
+      <li>Completely customizable and very user friendly</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>El Krusader és un gestor avançat de fitxers de plafons bessons (estil del «commander»)</p>
+    <p>Característiques:</p>
+    <ul>
+      <li>Gestió general d'arxius</li>
+      <li>Permet sistemes de fitxers muntats</li>
+      <li>Compatibilitat amb FTP</li>
+      <li>Mòdul de cerca avançada</li>
+      <li>Visor/editor intern</li>
+      <li>Sincronització de carpetes</li>
+      <li>Comparació del contingut de fitxers</li>
+      <li>Procés potent de reanomenament per lots</li>
+      <li>Admet una gran varietat de formats d'arxiu i pot gestionar altres esclaus KIO com el «smb» o el «fish».</li>
+      <li>Es pot personalitzar completament i és fàcil d'utilitzar</li>
+    </ul>
+  </description>
+  <description lang="ca-valencia">
+    <p>El Krusader és un gestor avançat de fitxers de plafons bessons (estil del «commander»)</p>
+    <p>Característiques:</p>
+    <ul>
+      <li>Gestió general d'arxius</li>
+      <li>Permet sistemes de fitxers muntats</li>
+      <li>Compatibilitat amb FTP</li>
+      <li>Mòdul de cerca avançada</li>
+      <li>Visor/editor intern</li>
+      <li>Sincronització de carpetes</li>
+      <li>Comparació del contingut de fitxers</li>
+      <li>Procés potent de reanomenament per lots</li>
+      <li>Admet una gran varietat de formats d'arxiu i pot gestionar altres esclaus KIO com el «smb» o el «fish».</li>
+      <li>Es pot personalitzar completament i és fàcil d'utilitzar</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>Vlastnosti:</p>
+    <ul>
+      <li>Synchronizace složek</li>
+    </ul>
+  </description>
+  <description lang="da">
+    <p>Krusader er en avanceret filhåndtering med tvillingepanel (i stil med commander)</p>
+    <p>Funktioner:</p>
+    <ul>
+      <li>Omfattende arkivhåndtering</li>
+      <li>Understøttelse af monteret filsystem</li>
+      <li>Understøttelse af FTP</li>
+      <li>Avanceret søgemodul</li>
+      <li>Intern fremviser/editor</li>
+      <li>Synkronisering af mapper</li>
+      <li>Sammenligning af filindhold</li>
+      <li>Kraftfuld batchomdøbning</li>
+      <li>Understøttelse et bredt udvalg af arkivformater og kan håndtere andre KIO-slaver såsom smb eller fish.</li>
+      <li>Kan tilpasses fuldt ud og er meget brugervenlig</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>Krusader ist ein fortgeschrittenes Dateiverwaltungsprogramm mit einer zweispaltigen Ansicht</p>
+    <p>Funktionen:</p>
+    <ul>
+      <li>Umfangreiche Archiv-Verwaltung</li>
+      <li>Unterstützung für eingebundene Dateisysteme</li>
+      <li>Unterstützung für FTP</li>
+      <li>Erweitertes Suchmodul</li>
+      <li>Interner Betrachter und Editor</li>
+      <li>Abgleich von Ordnern</li>
+      <li>Vergleich von Dateiinhalten</li>
+      <li>Leistungsfähige Stapelverarbeitungsfunktion zum Umbenennen</li>
+      <li>Unterstützung für eine Vielzahl von Archivformaten und Verarbeitung anderer Ein-/Ausgabemodule wie smb oder fish.</li>
+      <li>Krusader kann in großem Umfang angepasst werden und ist sehr benutzerfreundlich</li>
+    </ul>
+  </description>
+  <description lang="el">
+    <p>Ο Krusader είναι ένας προηγμένος διαχειριστής αρχείων με δίδυμο πάνελ (σε στιλ commander) </p>
+    <p>Χαρακτηριστικά:</p>
+    <ul>
+      <li>Εκτεταμένος χειρισμός αρχειοθήκης</li>
+      <li>Υποστήριξη προσαρτημένων συστημάτων αρχείων</li>
+      <li>υποστήριξη FTP</li>
+      <li>Άρθρωμα προηγμένης αναζήτησης</li>
+      <li>Εσωτερικό εργαλείο προβολής/επεξεργασίας</li>
+      <li>Συγχρονισμός φακέλων</li>
+      <li>Συγκρίσεις περιεχομένου αρχείων</li>
+      <li>Πανίσχυρη ακολουθιακή μετονομασία</li>
+      <li>Υποστήριξη για μαι ευρεία ποικιλία τύπων αρχειοθέτησης και δυνατότητα χειρισμού άλλων KIO slaves όπως smb ή fish.</li>
+      <li>Πλήρως προσαρμόσιμο και πολύ φιλικό στη χρήση</li>
+    </ul>
+  </description>
+  <description lang="en-GB">
+    <p>Krusader is an advanced twin panel (commander style) file manager</p>
+    <p>Features:</p>
+    <ul>
+      <li>Extensive archive handling</li>
+      <li>Mounted filesystem support</li>
+      <li>FTP support</li>
+      <li>Advanced search module</li>
+      <li>Internal viewer/editor</li>
+      <li>Folder synchronisation</li>
+      <li>File content comparisons</li>
+      <li>Powerful batch renaming</li>
+      <li>Support for a wide variety of archive formats and can handle other KIO slaves such as smb or fish.</li>
+      <li>Completely customisable and very user friendly</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>Krusader es un gestor de archivos avanzado con paneles gemelos (al estilo de commander)</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Extensa gestión de archivos comprimidos</li>
+      <li>Uso de sistemas de archivos montados</li>
+      <li>Uso de FTP</li>
+      <li>Módulo de búsqueda avanzada</li>
+      <li>Visor y editor internos</li>
+      <li>Sincronización de carpetas</li>
+      <li>Comparación de archivos por su contenido</li>
+      <li>Potente herramienta de cambio de nombre por lotes</li>
+      <li>Uso de una gran variedad de formatos de archivos comprimidos y manejo de otros esclavos de entrada y salida de KDE, como smb o fish.</li>
+      <li>Se puede personalizar completamente y su uso es muy amigable</li>
+    </ul>
+  </description>
+  <description lang="eu">
+    <p>Krusader panel bikiko (commander tankerako) fitxategi-kudeatzaile aurreratu bat da</p>
+    <p>Eginbideak:</p>
+    <ul>
+      <li>Artxiboen kudeaketa zabala</li>
+      <li>Muntatutako fitxategi-sistemen euskarria</li>
+      <li>FTP euskarria</li>
+      <li>Bilaketa aurreraturako modulua</li>
+      <li>Barneko erakuslea/editorea</li>
+      <li>Karpetak sinkronizatzea</li>
+      <li>Fitxategi edukia parekatzea</li>
+      <li>Izenak sortaka aldatzeko tresna ahaltsua</li>
+      <li>Artxibo formatuen aniztasun zabalerako euskarria du eta beste KIO morroi batzuk maneiatu ditzake smb eta fish esaterako.</li>
+      <li>Erabat norbere erara ipin daiteke eta erabileran oso lagunkoia da</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>Krusader on kehittynyt kaksipaneelinen (commander-tyylinen) tiedostonhallinta</p>
+    <p>Ominaisuuksia:</p>
+    <ul>
+      <li>Monipuolinen arkistojen käsittely</li>
+      <li>Liitettyjen tiedostojärjestelmien tuki</li>
+      <li>FTP-tuki</li>
+      <li>Kehittynyt hakutoiminnallisuus</li>
+      <li>Sisäinen katselin ja muokkain</li>
+      <li>Kansioiden synkronointi</li>
+      <li>Tiedostojen sisältöjen vertailu</li>
+      <li>Tehokas työkalu useiden tiedostojen nimien muuttamiseen</li>
+      <li>Tuki useille arkistomuodoille ja KIO-palveluille, kuten smb tai fish</li>
+      <li>Täysin muokattavissa ja erittäin käyttäjäystävällinen</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>Krusader est un gestionnaire de fichiers avancé à deux panneaux (dans le style de commander)</p>
+    <p>Fonctionnalités :</p>
+    <ul>
+      <li>Gestion avancée des archives</li>
+      <li>Prise en charge des systèmes de fichiers montés</li>
+      <li>Prise en charge de FTP</li>
+      <li>Module de recherche avancée</li>
+      <li>Afficheur / Éditeur interne</li>
+      <li>Synchronisation des dossiers</li>
+      <li>Comparaisons des contenus de fichiers</li>
+      <li>Fonctionnalité puissante de renommage par lots</li>
+      <li>Prise en charge de nombreux formats d'archives et d'autres modules d'entrée / sortie comme smb ou fish.</li>
+      <li>Entièrement personnalisable et très ergonomique</li>
+    </ul>
+  </description>
+  <description lang="gl">
+    <p>Krusader é un xestor de ficheiros avanzado de paneis xemelgos (como o Commander).</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Gran xestión de arquivos.</li>
+      <li>Compatibilidade con sistemas de ficheiros montados.</li>
+      <li>Compatibilidade con FTP.</li>
+      <li>Módulo avanzado de busca.</li>
+      <li>Visor e editor internos.</li>
+      <li>Sincronización de cartafoles</li>
+      <li>Comparación do contido de ficheiros.</li>
+      <li>Potente sistema de renomeamento por lotes.</li>
+      <li>Compatibilidade cunha gran variedade de formatos de arquivo, e capaz de usar esclavos KIO como «smb» ou «fish».</li>
+      <li>Pode personalizarse completamente e é moi doado de usar.</li>
+    </ul>
+  </description>
+  <description lang="id">
+    <p>Krusader adalah pengelola file panel kembar (gaya komandan)</p>
+    <p>Fitur:</p>
+    <ul>
+      <li>Menangani arsip secara leluasa</li>
+      <li>Dukungan filesystem yang dikaitkan</li>
+      <li>Dukungan FTP</li>
+      <li>Modul pencarian yang terkemuka</li>
+      <li>Pengedit/penampil internal</li>
+      <li>Sinkronisasi folder</li>
+      <li>Perbandingan konten file</li>
+      <li>Pengubahan nama seabrek yang unggul</li>
+      <li>Dukungan untuk berbagai macam format arsip dan dapat menangani KIO slave lainnya</li>
+      <li>Sangat ramah pengguna dan dapat dikustomisasi secara lengkap</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>Krusader è un gestore di file avanzato a due pannelli (in stile commander)</p>
+    <p>Caratteristiche:</p>
+    <ul>
+      <li>Gestione estesa degli archivi</li>
+      <li>Supporto ai file system montati</li>
+      <li>Supporto FTP</li>
+      <li>Modulo per la ricerca avanzata</li>
+      <li>Visualizzatore/editor interno</li>
+      <li>Sincronizzazione cartelle</li>
+      <li>Confronto del contenuto dei file</li>
+      <li>Potente strumento di rinomina in serie</li>
+      <li>Supporto a un'ampia varietà di formati di archivi e possibilità di gestione di altri slave KIO come smb o fish.</li>
+      <li>Totalmente personalizzabile e molto facile da usare</li>
+    </ul>
+  </description>
+  <description lang="ko">
+    <p>Krusader는 커맨더 형식의 다기능 두 패널 파일 관리자입니다</p>
+    <p>기능:</p>
+    <ul>
+      <li>고급 압축 파일 처리</li>
+      <li>마운트한 파일 시스템 지원</li>
+      <li>FTP 지원</li>
+      <li>고급 검색 모듈</li>
+      <li>내장 뷰어 및 편집기</li>
+      <li>폴더 동기화</li>
+      <li>파일 내용 비교</li>
+      <li>강력한 일괄 이름 바꾸기</li>
+      <li>다양한 압축 파일과 smb, fish 등 KIO 슬레이브 지원</li>
+      <li>사용자 친화성 및 설정 가능성</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>Krusader is een geavanceerde, twee-paneel (commander-stijl) bestandsbeheerder</p>
+    <p>Mogelijkheden:</p>
+    <ul>
+      <li>Extensief beheren van archieven</li>
+      <li>Ondersteuning voor aangekoppelde bestandssystemen</li>
+      <li>FTP-ondersteuning</li>
+      <li>Module voor geavanceerd zoeken</li>
+      <li>Interne viewer/bewerker</li>
+      <li>Synchronisatie van mappen</li>
+      <li>Bestandsinhoud vergelijken</li>
+      <li>Krachtig hernoemen in bulk</li>
+      <li>Ondersteuning voor een brede variëteit van archiefformaten en kan andere KIO-slaves zoals smb of fish behandelen.</li>
+      <li>Volledig aan te passen en erg gebruikersvriendelijk</li>
+    </ul>
+  </description>
+  <description lang="nn">
+    <p>Krusader er ein avansert filhandsamar med topanelsutforming</p>
+    <p>Funksjonar:</p>
+    <ul>
+      <li>Omfattande støtte for filarkiv</li>
+      <li>Støtte for monterte filsystem</li>
+      <li>FTP-støtte</li>
+      <li>Modul for avansert søk</li>
+      <li>Intern filvising/-redigering</li>
+      <li>Mappesynkronisering</li>
+      <li>Samanlikning av filinnhald</li>
+      <li>Kraftig støtte for automatisk endring av filnamn</li>
+      <li>Støtte for mange ulike arkivformat og andre KIO-slovar, som «smb» og «fish»</li>
+      <li>Kan skreddarsyast og er veldig brukarvennleg</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <p>Krusader jest zaawansowanym programem (działającym na poleceniach) do zarządzania plikami z dwoma panelami</p>
+    <p>Możliwości:</p>
+    <ul>
+      <li>Rozszerzona obsługa archiwów</li>
+      <li>Obsługa zamontowanych systemów plików</li>
+      <li>Obsługa FTP</li>
+      <li>Zaawansowane moduł wyszukiwania</li>
+      <li>Wewnętrzna przeglądarka/edytor</li>
+      <li>Synchronizacja katalogów</li>
+      <li>Porównywanie zawartości plików</li>
+      <li>Zaawansowana wsadowa zmiana nazwy</li>
+      <li>Obsługa wielu formatów archiwow i innych podległych KIO takich jak smb lub fish.</li>
+      <li>Całkowicie dostosowalny i bardzo przyjazny użytkownikowi</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>O Krusader é um gestor de ficheiros avançado de painéis duplos (do estilo do Commander)</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Tratamento de pacotes abrangente</li>
+      <li>Suporte para sistemas de ficheiros montados</li>
+      <li>Suporte para FTP</li>
+      <li>Módulo de pesquisa avançado</li>
+      <li>Visualizador/editor interno</li>
+      <li>Sincronização de pastas</li>
+      <li>Comparação do conteúdo dos ficheiros</li>
+      <li>Mudança de nome em bloco poderosa</li>
+      <li>Suporte para uma grande variedade de formatos de pacotes e poderá lidar com outros KIO slaves, como o SMB e o FISH.</li>
+      <li>Completamente personalizado e bastante amigável</li>
+    </ul>
+  </description>
+  <description lang="pt-BR">
+    <p>Krusader é um gerenciador de arquivos avançado com painéis duplos (estilo 'commander')</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Manipulação de pacotes extensiva</li>
+      <li>Suporte para sistemas de arquivos montados</li>
+      <li>Suporte a FTP</li>
+      <li>Módulo de pesquisa avançado</li>
+      <li>Editor/visualizador interno</li>
+      <li>Sincronização de pastas</li>
+      <li>Comparação do conteúdo de arquivos</li>
+      <li>Poderosa ferramenta para renomeação em lote</li>
+      <li>Suporte para uma ampla variedade de formatos de arquivamento e manipulação de outros 'KIO slaves', como smb ou fish.</li>
+      <li>Totalmente personalizável e muito fácil de usar</li>
+    </ul>
+  </description>
+  <description lang="ru">
+    <p>Возможности:</p>
+  </description>
+  <description lang="sk">
+    <p>Krusader je pokročilý dvojpanelový správca súborov</p>
+    <p>Funkcie:</p>
+    <ul>
+      <li>Rozsiahle spracovanie archívov</li>
+      <li>Podpora pripojených súborových systémov</li>
+      <li>Podpora FTP</li>
+      <li>Pokročilý modul hľadania</li>
+      <li>Vnútorný prehliadač/editor</li>
+      <li>Synchronizácia adresárov</li>
+      <li>Porovnanie obsahu súborov</li>
+      <li>Silné dávkové premenovanie</li>
+      <li>Podpora širokej škály archívnych formátov a spracovanie iných KIO slaves ako smb a fish.</li>
+      <li>Úplne prispôsobiteľný a veľmi používateľsky priateľský</li>
+    </ul>
+  </description>
+  <description lang="sl">
+    <p>Krusader je napredni upravljalnik datotek z dvema pultoma (v slogu Total Commanderja)</p>
+    <p>Zmožnosti:</p>
+    <ul>
+      <li>Obsežne možnosti za arhive</li>
+      <li>Podpora priklopljenim datotečnim sistemom</li>
+      <li>Podpora FTP</li>
+      <li>Napredni iskalni modul</li>
+      <li>Vgrajeni pregledovalnik/urejevalnik</li>
+      <li>Usklajevanje map</li>
+      <li>Primerjava vsebine datotek</li>
+      <li>Zmogljivo paketno preimenovanje</li>
+      <li>Podpora številnim vrstam arhivom in protokolom SMB ali FISH preko KIO.</li>
+      <li>Prilagodljivost in prijaznost uporabniku</li>
+    </ul>
+  </description>
+  <description lang="sr">
+    <p>Крусејдер је напредни двопанелски менаџер фајлова</p>
+    <p>Могућности:</p>
+    <ul>
+      <li>опсежно руковање архивама</li>
+      <li>подршка за монтиране фајл системе</li>
+      <li>подршка за ФТП</li>
+      <li>напредни модул претраге</li>
+      <li>унутрашњи приказивач/уређивач</li>
+      <li>синхронизација фасцикли</li>
+      <li>поређење садржаја фајлова</li>
+      <li>моћно пакетно преименовање</li>
+      <li>подршка за многобројне формате архива, као и друге У/И захвате, попут СМБ‑а и ФИСХ‑а</li>
+      <li>потпуна прилагодљивост и велика предусретљивост</li>
+    </ul>
+  </description>
+  <description lang="sr-Latn">
+    <p>Krusader je napredni dvopanelski menadžer fajlova</p>
+    <p>Mogućnosti:</p>
+    <ul>
+      <li>opsežno rukovanje arhivama</li>
+      <li>podrška za montirane fajl sisteme</li>
+      <li>podrška za FTP</li>
+      <li>napredni modul pretrage</li>
+      <li>unutrašnji prikazivač/uređivač</li>
+      <li>sinhronizacija fascikli</li>
+      <li>poređenje sadržaja fajlova</li>
+      <li>moćno paketno preimenovanje</li>
+      <li>podrška za mnogobrojne formate arhiva, kao i druge U/I zahvate, poput SMB‑a i FISH‑a</li>
+      <li>potpuna prilagodljivost i velika predusretljivost</li>
+    </ul>
+  </description>
+  <description lang="sr-ijekavian">
+    <p>Крусејдер је напредни двопанелски менаџер фајлова</p>
+    <p>Могућности:</p>
+    <ul>
+      <li>опсежно руковање архивама</li>
+      <li>подршка за монтиране фајл системе</li>
+      <li>подршка за ФТП</li>
+      <li>напредни модул претраге</li>
+      <li>унутрашњи приказивач/уређивач</li>
+      <li>синхронизација фасцикли</li>
+      <li>поређење садржаја фајлова</li>
+      <li>моћно пакетно преименовање</li>
+      <li>подршка за многобројне формате архива, као и друге У/И захвате, попут СМБ‑а и ФИСХ‑а</li>
+      <li>потпуна прилагодљивост и велика предусретљивост</li>
+    </ul>
+  </description>
+  <description lang="sr-ijekavianlatin">
+    <p>Krusader je napredni dvopanelski menadžer fajlova</p>
+    <p>Mogućnosti:</p>
+    <ul>
+      <li>opsežno rukovanje arhivama</li>
+      <li>podrška za montirane fajl sisteme</li>
+      <li>podrška za FTP</li>
+      <li>napredni modul pretrage</li>
+      <li>unutrašnji prikazivač/uređivač</li>
+      <li>sinhronizacija fascikli</li>
+      <li>poređenje sadržaja fajlova</li>
+      <li>moćno paketno preimenovanje</li>
+      <li>podrška za mnogobrojne formate arhiva, kao i druge U/I zahvate, poput SMB‑a i FISH‑a</li>
+      <li>potpuna prilagodljivost i velika predusretljivost</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <p>Krusader är en avancerad filhanterare med två paneler (i stil med commander)</p>
+    <p>Funktioner:</p>
+    <ul>
+      <li>Omfattande arkivhantering</li>
+      <li>Stöd för monterade filsystem</li>
+      <li>Stöd för FTP</li>
+      <li>Avancerad sökmodul</li>
+      <li>Intern granskare och editor</li>
+      <li>Katalogsynkronisering</li>
+      <li>Jämförelser av filinnehåll</li>
+      <li>Kraftfullt namnbyte i bakgrunden</li>
+      <li>Stöd för ett stort antal arkivformat, och hantering av andra I/O-slavar som smb eller fish.</li>
+      <li>Fullständigt anpassningsbar och mycket användarvänlig</li>
+    </ul>
+  </description>
+  <description lang="tr">
+    <p>Krusader, gelişmiş bir ikiz panel (commander türünde) dosya yöneticisidir</p>
+    <p>Özellikler:</p>
+    <ul>
+      <li>Kapsamlı arşiv yönetimi</li>
+      <li>Bağlı dosya sistemi desteği</li>
+      <li>FTP desteği</li>
+      <li>Gelişmiş arama modülü</li>
+      <li>Dahili görüntüleyici/düzenleyici</li>
+      <li>Klasör eşleştirme</li>
+      <li>Dosya içeriği karşılaştırma</li>
+      <li>Güçlü toplu yeniden isimlendirme</li>
+      <li>Çok çeşitli arşiv biçimleri desteği ve smb veya fish gibi diğer KIO araçlarının yönetimi</li>
+      <li>Tamam kişiselleştirilebilir ve oldukça kullanıcı dostu</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>Krusader — двопанельна програма для керування файлами</p>
+    <p>Можливості:</p>
+    <ul>
+      <li>Широкі можливості для роботи з архівами</li>
+      <li>Підтримка монтування і демонтування файлових систем</li>
+      <li>Підтримка FTP</li>
+      <li>Модуль пошуку із широкими можливостями</li>
+      <li>Вбудований модуль для перегляду і редагування даних</li>
+      <li>Модуль синхронізації тек</li>
+      <li>Порівняння файлів за вмістом</li>
+      <li>Потужні можливості з пакетного перейменування</li>
+      <li>Підтримка широкого спектра архівів та роботи із допоміжними засобами введення-виведення, зокрема smb та fish</li>
+      <li>Широкі можливості із налаштовування та коригування відповідно до потреб користувача</li>
+    </ul>
+  </description>
+  <description lang="x-test">
+    <p>xxKrusader is an advanced twin panel (commander style) file managerxx</p>
+    <p>xxFeatures:xx</p>
+    <ul>
+      <li>xxExtensive archive handlingxx</li>
+      <li>xxMounted filesystem supportxx</li>
+      <li>xxFTP supportxx</li>
+      <li>xxAdvanced search modulexx</li>
+      <li>xxInternal viewer/editorxx</li>
+      <li>xxFolder synchronisationxx</li>
+      <li>xxFile content comparisonsxx</li>
+      <li>xxPowerful batch renamingxx</li>
+      <li>xxSupport for a wide variety of archive formats and can handle other KIO slaves such as smb or fish.xx</li>
+      <li>xxCompletely customizable and very user friendlyxx</li>
+    </ul>
+  </description>
+  <description lang="zh-CN">
+    <p>Krusader 是一个高级双面板（类似 commander 风格）的文件管理器</p>
+    <p>功能：</p>
+    <ul>
+      <li>多功能的档案处理</li>
+      <li>文件系统挂载支持</li>
+      <li>FTP 支持</li>
+      <li>高级搜索模块</li>
+      <li>内建查看器/编辑器</li>
+      <li>文件夹同步</li>
+      <li>文件内容比较</li>
+      <li>强大的批量重命名</li>
+      <li>支持大量文件档案格式，并可以处理其它 KIO slaves，如 smb 或 fish。</li>
+      <li>完全可定制，非常用户友好</li>
+    </ul>
+  </description>
+  <pkgname>krusader</pkgname>
+  <launchable type="desktop-id">org.kde.krusader.desktop</launchable>
+  <icon width="64" height="64" type="cached">krusader_user.png</icon>
+  <icon width="128" height="128" type="cached">krusader_user.png</icon>
+  <id>org.kde.krusader.desktop</id>
+  <metadata_license>GFDL-1.3</metadata_license>
+  <project_license>GPL-2.0 OR GPL-3.0</project_license>
+  <name>Krusader</name>
+  <name lang="ast">Krusader</name>
+  <name lang="ca">Krusader</name>
+  <name lang="ca-valencia">Krusader</name>
+  <name lang="cs">Krusader</name>
+  <name lang="da">Krusader</name>
+  <name lang="de">Krusader</name>
+  <name lang="el">Krusader</name>
+  <name lang="en-GB">Krusader</name>
+  <name lang="es">Krusader</name>
+  <name lang="eu">Krusader</name>
+  <name lang="fi">Krusader</name>
+  <name lang="fr">Krusader</name>
+  <name lang="gl">Krusader</name>
+  <name lang="id">Krusader</name>
+  <name lang="it">Krusader</name>
+  <name lang="ko">Krusader</name>
+  <name lang="nl">Krusader</name>
+  <name lang="nn">Krusader</name>
+  <name lang="pl">Krusader</name>
+  <name lang="pt">Krusader</name>
+  <name lang="pt-BR">Krusader</name>
+  <name lang="ru">Krusader</name>
+  <name lang="sk">Krusader</name>
+  <name lang="sl">Krusader</name>
+  <name lang="sr">Крусејдер</name>
+  <name lang="sr-Latn">Krusader</name>
+  <name lang="sr-ijekavian">Крусејдер</name>
+  <name lang="sr-ijekavianlatin">Krusader</name>
+  <name lang="sv">Krusader</name>
+  <name lang="tr">Krusader</name>
+  <name lang="uk">Krusader</name>
+  <name lang="x-test">xxKrusaderxx</name>
+  <name lang="zh-CN">Krusader</name>
+  <summary>File Manager</summary>
+  <summary lang="ca">Gestor de fitxers</summary>
+  <summary lang="ca-valencia">Gestor de fitxers</summary>
+  <summary lang="cs">Správce souborů</summary>
+  <summary lang="da">Filhåndtering</summary>
+  <summary lang="de">Dateiverwaltung</summary>
+  <summary lang="el">Διαχειριστής αρχείων</summary>
+  <summary lang="en-GB">File Manager</summary>
+  <summary lang="es">Gestor de archivos</summary>
+  <summary lang="eu">Fitxategi-kudeatzailea</summary>
+  <summary lang="fi">Tiedostonhallinta</summary>
+  <summary lang="fr">Gestionnaire de fichier</summary>
+  <summary lang="gl">Xestor de ficheiros</summary>
+  <summary lang="id">Pengelola File</summary>
+  <summary lang="it">Gestore di file</summary>
+  <summary lang="ko">파일 관리자</summary>
+  <summary lang="nl">Bestandsbeheerder</summary>
+  <summary lang="nn">Filhandsamar</summary>
+  <summary lang="pl">Zarządzanie plikami</summary>
+  <summary lang="pt">Gestor de Ficheiros</summary>
+  <summary lang="pt-BR">Gerenciador de Arquivos</summary>
+  <summary lang="ru">Диспетчер файлов</summary>
+  <summary lang="sk">Správca súborov</summary>
+  <summary lang="sl">Upravljalnik datotek</summary>
+  <summary lang="sr">Менаџер фајлова</summary>
+  <summary lang="sr-Latn">Menadžer fajlova</summary>
+  <summary lang="sr-ijekavian">Менаџер фајлова</summary>
+  <summary lang="sr-ijekavianlatin">Menadžer fajlova</summary>
+  <summary lang="sv">Filhanterare</summary>
+  <summary lang="tr">Dosya Yöneticisi</summary>
+  <summary lang="uk">Програма для керування файлами</summary>
+  <summary lang="x-test">xxFile Managerxx</summary>
+  <summary lang="zh-CN">文件管理器</summary>
+  <url type="homepage">http://www.krusader.org/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=krusader</url>
+  <url type="help">http://docs.kde.org/development/en/extragear-utils/krusader/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>http://kde.org/images/screenshots/krusader.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>krusader</binary>
+  </provides>
+  <releases>
+    <release version="2.7.2" date="2019-08-25" />
+    <release version="2.7.1" date="2018-08-12" />
+    <release date="2018-05-13" version="2.7.0" />
+  </releases>
+</component>

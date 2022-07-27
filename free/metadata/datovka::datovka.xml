@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>datovka</pkgname>
+  <icon height="64" width="64" type="cached">datovka.png</icon>
+  <icon width="128" height="128" type="cached">datovka.png</icon>
+  <id>datovka.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <content_rating type="oars-1.1">
+    <content_attribute id="social-chat">intense</content_attribute>
+    <content_attribute id="social-contacts">intense</content_attribute>
+  </content_rating>
+  <launchable type="desktop-id">datovka.desktop</launchable>
+  <name>Datovka</name>
+  <name lang="cs">Datovka</name>
+  <summary>A free graphical user interface for data boxes</summary>
+  <summary lang="cs">Svobodné uživatelské rozhraní pro datové schránky</summary>
+  <description>
+    <p>
+			Datovka is a multiplatform desktop application for accessing data boxes.
+			A data box is an electronic storage site in Czech Republic. It is intended
+			for delivery of official documents and for communication with public
+			authority bodies.
+		</p>
+    <p>
+			Datovka allows receiving, sending, and checking the integrity of data messages,
+			exporting proofs of delivery or full messages, exporting complete
+			correspondence for a defined period, etc.
+		</p>
+    <p>
+			The user interface resembles the interface of common e-mail clients.
+		</p>
+  </description>
+  <description lang="cs">
+    <p>
+			Datovka je multiplatformní desktopová aplikace pro přístup k datovým schránkám.
+			Datová schránka v České republice je elektronické úložiště, které je určeno
+			k doručování dokumentů a pro komunikaci s orgány veřejné moci.
+		</p>
+    <p>
+			Z Datovky je možné číst zprávy, odesílat zprávy, kontrolovat integritu datových zpráv,
+			exportovat doručenky i celé zprávy, exportovat přehled korespondence za určité
+			časové období, apod.
+		</p>
+    <p>
+			Uživatelské rozhraní aplikace se podobá rozhraní běžných poštovních klientů.
+		</p>
+  </description>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+  </kudos>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://www.datovka.cz/images/desktop-main.png</image>
+      <caption>Main window of the application</caption>
+      <caption lang="cs">Hlavní okno aplikace</caption>
+    </screenshot>
+  </screenshots>
+  <update_contact>datove-schranky@labs.nic.cz</update_contact>
+  <url type="homepage">https://www.datovka.cz</url>
+</component>

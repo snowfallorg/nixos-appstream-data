@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>xfce.xfburn</pkgname>
+  <launchable type="desktop-id">xfburn.desktop</launchable>
+  <id type="desktop">org.xfce.xfburn</id>
+  <metadata_license>CC-BY-3.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Xfburn</name>
+  <summary>A simple CD burning tool</summary>
+  <description>
+    <p>Xfburn is a simple CD/DVD burning tool based on libburnia libraries. It can blank CD/DVD(-RW)s, burn and create iso images, audio CDs, as well as burn personal compositions of data to either CD or DVD. It is stable and under ongoing development.</p>
+  </description>
+  <description lang="be">
+    <p>Xfburn – простая праграма для запісу CD/DVD-дыскаў на бібліятэках libburnia. Яна можа ачышчаць CD/DVD(-RW) дыскі, запісваць і ствараць вобразы iso, аўдыя-CD, запісваць іншыя даныя на CD альбо DVD. Яна стабільна працуе і распрацоўваецца.</p>
+  </description>
+  <description lang="bg">
+    <p>Xfburn е прост инструмент за запис на CD / DVD, който е базиран на libburnia библиотеките. Той може да изтрива CD / DVD  (-RW дискове),  да записва и създава ISO образи, аудио компактдискове, както и да записва персонални композиции с данни върху CD или DVD. Той е стабилен и продължава да се развива.</p>
+  </description>
+  <description lang="ca">
+    <p>Xfburn és una eina senzilla de gravació de CD/DVD basada en les biblioteques de libburnia. Pot buidar els CD/DVD(-RW), gravar i crear imatges iso, CD d'àudio, així com gravar composicions personals de dades en CD o DVD. És estable i està en desenvolupament constant.</p>
+  </description>
+  <description lang="cs">
+    <p>Xfburn je jednoduchý nástroj k vypalování disků založený na knihovnách libburnia. Dokáže vymazat média CD/DVD(-RW), vypalovat a vytvářet bitové kopie ISO, zvuková CD a také vypalovat vlastní kompozice dat na CD nebo DVD. Je stabilní a vývoj stále probíhá.</p>
+  </description>
+  <description lang="da">
+    <p>Xfburn er et simpelt cd-/dvd-brændingsværktøj baseret på libburnia-biblioteker. Det kan tømme cd'er/dvd(-rw)'er, brænde og oprette iso-aftryk, lyd-cd'er, såvel som brænde personlige samlinger af data til enten cd eller dvd. Den er stabil og under løbende udvikling.</p>
+  </description>
+  <description lang="de">
+    <p>Xfburn ist ein einfaches CD/DVD-Brennprogramm, das auf libburnia-Bibliotheken basiert. Es kann CD/DVD(-RW)s leeren, ISO-Images, Audio-CDs brennen und erstellen sowie persönliche Zusammenstellungen von Daten auf CD oder DVD brennen. Es ist stabil und wird ständig weiterentwickelt.</p>
+  </description>
+  <description lang="el">
+    <p>Το Xfburn είναι ένα απλό εργαλείο εγγραφής CD / DVD που βασίζεται στις βιβλιοθήκες libburnia. Μπορεί να εγγράψει κενά CD / DVD (-RW) s, να γράψει και να δημιουργήσει εικόνες iso, CD ήχου, καθώς και να εγγράψει προσωπικές συνθέσεις δεδομένων σε CD ή DVD. Είναι σταθερό και υπό συνεχή ανάπτυξη.</p>
+  </description>
+  <description lang="en_AU">
+    <p>Xfburn is a simple CD/DVD burning tool based on libburnia libraries. It can blank CD/DVD(-RW)s, burn and create iso images, audio CDs, as well as burn personal compositions of data to either CD or DVD. It is stable and under ongoing development.</p>
+  </description>
+  <description lang="en_GB">
+    <p>Xfburn is a simple CD/DVD burning tool based on libburnia libraries. It can blank CD/DVD(-RW)s, burn and create iso images, audio CDs, as well as burn personal compositions of data to either CD or DVD. It is stable and under ongoing development.</p>
+  </description>
+  <description lang="es">
+    <p>Xfburn es una sencilla herramienta de grabación de CD/DVD basada en la librería libburnia. Puede grabar CD/DVD (-RW) en blanco, grabar y crear imágenes iso, CD de audio, así como grabar composiciones personales de datos en CD o DVD. Es estable y en desarrollo continuo.</p>
+  </description>
+  <description lang="fi">
+    <p>Xfburn on yksinkertainen CD-/DVD-levyjen kirjoitussovellus, joka pohjautuu libburnia-kirjastoihin. Se voi tyhjentää CD-/DVD(-RW)-levyjä, kirjoittaa ISO-levykuvia, äänilevyjä, sekä kirjoittaa henkilökohtaisia tietokokoelmia joko CD- tai DVD-levylle. Se on vakaa ja sitä kehitetään jatkuvasti.</p>
+  </description>
+  <description lang="fr">
+    <p>Xfburn est un outil de gravure de CD / DVD simple basé sur les bibliothèques libburnia. Il peut effacer des CD / DVD(-RW), créer et graver des images ISO, des CD audio, ainsi que graver des compositions de données personnelles sur CD ou DVD. C’est un outil stable et en développement continu.</p>
+  </description>
+  <description lang="gl">
+    <p>Xfburn é unha ferramenta de gravación de CD/DVD baseada en bibliotecas libburnia. Pode gravar discos baleiros do tipo CD/DVD(-RW), gravar e crear imaxes iso, cedés de son, así como gravar composicións persoais de datos en cedé ou deuvedé. É estable e continúa en desenvolvemento.</p>
+  </description>
+  <description lang="he">
+    <p>Xfburn הוא כלי צריבת CD/DVD פשוט המבוסס על ספריות libburnia. הוא יכול למחוק CD/DVD(-RW), לצרוב וליצור תמונות איזו, דיסקי אודיו, וגם לצרוב אוספי מידע אישיים ל-CD או DVD. הוא יציב ותחת פיתוח מתמשך. </p>
+  </description>
+  <description lang="hr">
+    <p>Xfburn je jednostavan alat za zapisivanje podataka na CD/DVD(-RW) diskove zasnovan na libburnia programskim knjižnicama. Može isprazniti te zapisati ISO slike ili Audio CD-ove kao i osobne kompozicije podataka po diskovima. Xfburn je stabilan i u aktivnom razvoju.</p>
+  </description>
+  <description lang="hu">
+    <p>Az Xfburn egy egyszerű CD/DVD-író alkalmazás, a libburnia programkönyvtárak alapján. Képes a CD/DVD-(RW) lemezek törlésére, valamint ISO-lemezképek kiírására és készítésére, valamint egyéni adatgyűjtemények CD-re vagy DVD-re írására.</p>
+  </description>
+  <description lang="hy_AM">
+    <p>Xfburn – ը պարզ CD/DVD գրանցող սարք է, հիմնված՝ libburnia գրադարանների վրա։ Այն կարող է մաքրել CD/DVD(-RW)ներ, գրանցել և ստեղծել iso պատկերներ, ձայնայինCD֊ներ, ինչպէս նաև գրանցել անձնական տվյալների համադրություններ CD֊ում և DVD֊ում։Այն կայուն է և գտնվում է շարունակական մշակման մեջ։</p>
+  </description>
+  <description lang="it">
+    <p>Xfburn è un semplice strumento di masterizzazione di CD/DVD basato sulle librerie libburnia. Può pulire dischi CD/DVD(-RW)s, masterizzare e creare immagini ISO, CD audio, ed anche masterizzare composizioni di dati personali su CD o DVD. È stabile ed in attivo sviluppo.</p>
+  </description>
+  <description lang="ja">
+    <p>Xfburn は libburnia ライブラリをベースとしたシンプルな CD/DVD 書き込みツールです。CD/DVD(-RW)の初期化、ISO イメージやオーディオ CD の作成と書き込み、個人用データの CD や DVD への書き込みができます。動作は安定しており、開発中です。</p>
+  </description>
+  <description lang="kk">
+    <p>Xfburn - бұл libburnia библиотекасы негізіндегі CD/DVD жазуға арналған құрал. Ол көмегімен CD/DVD(-RW) тазарту, ISO бейнелері және audio CD жазу және жасауға, сонымен қатар, деректердің жеке таңдауларын CD немесе DVD-ге жазуға болады. Ол тұрақты, және үнемі әзірленіп жатыр.</p>
+  </description>
+  <description lang="ko">
+    <p>Xfburn은 libburnia 라이브러리를 기반으로 하는 간단한 CD/DVD 굽기 도구입니다. CD/DVD(-RW)를 비우거나, 구울 수 있으며 iso 이미지, 오디오 CD와 더불어서 개인이 만들어 둔 데이터를 CD나 DVD에 구울 수도 있습니다. 안정적이지만 개발이 진행 중 이기도 한 도구입니다.</p>
+  </description>
+  <description lang="lt">
+    <p>Xfburn yra paprastas CD/DVD įrašymo įrankis, pagrįstas libburnia bibliotekomis. Jis gali ištrinti CD/DVD(-RW) diskus, įrašyti ir sukurti iso atvaizdžius, garso CD diskus, o taip pat įrašyti asmenines duomenų kompozicijas į CD arba DVD. Jis yra stabilus ir aktyviai plėtojamas.</p>
+  </description>
+  <description lang="ms">
+    <p>Xfburn merupakan alat rakaman CD/DVD yang berasaskan pustaka libburnia. Ia boleh kosongkan CD/DVD(-RW), rakam dan cipta imej iso, CD audio, dan juga rakam gabungan data peribadi sama ada ke dalam CD atau DVD. Xfburn masih stabil dan dalam proses pembangunan yang berterusan.</p>
+  </description>
+  <description lang="nb">
+    <p>Xfburn er et enkelt CD/DVD-brenneverktøy basert på libburnia-bibliotekene. Det kan slette CD/DVD(-RW)-er, brenne og opprette ISO-avbildninger, lyd-CD-er, sågar også personlige samlinger med data til CD eller DVD. Det er stabilt og blir jobbet på.</p>
+  </description>
+  <description lang="nl">
+    <p>Xfburn is een eenvoudig brandgereedschapje voor CD's en DVD's, gebaseerd op de libburnia-bibliotheekbestanden. Het kan CD/DVD(-RW)'s wissen, iso-schijfkopieën branden en maken, audio-CD's vervaardigen en persoonlijke gegevensverzamelingen branden op CD of DVD. Het is stabiel en wordt actief ontwikkeld.</p>
+  </description>
+  <description lang="pl">
+    <p>Xfburn to proste narzędzie do nagrywania płyt CD/DVD oparte na bibliotekach libburnia. Może wymazywać płyty CD/DVD(-RW), nagrywać i tworzyć obrazy ISO, CD-Audio, a także nagrywać osobiste kompozycje danych na płytę CD lub DVD. Program jest stabilny i stale się rozwija.</p>
+  </description>
+  <description lang="pt">
+    <p>Xfburn é uma ferramenta de gravação de CD/DVD baseado nas bibliotecas libburnia. Pode apagar CD/DVD(-RW)s, gravar e criar imagens iso, CDs áudio, como gravar dados pessoais para CD ou DVD. É estável e em constante desenvolvimento.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>O Xfburn é uma ferramenta simples para gravação de CD/DVD(-RW)s baseada nas bibliotecas libburnia. Ela pode apagar discos regraváveis, gravar e criar imagens iso, CDs de áudio, assim como gravar composições de dados pessoais em CD ou DVD. É estável e continua em desenvolvimento.</p>
+  </description>
+  <description lang="ru">
+    <p>Xfburn – это простая утилита для записи CD/DVD дисков, основанная на библиотеках libburnia. Она может очищать CD/DVD(-RW) диски, записывать и создавать образы iso, звуковые CD, а также записывать другие данные на CD или DVD. Утилита стабильна и развивается.</p>
+  </description>
+  <description lang="sk">
+    <p>Xfburn je jednoduchý nástroj na napaľovanie diskov CD/DVD, ktorý je založený na knižniciach libburnia. Dokáže vyprázdňovať disky CD/DVD(-RW), napaľovať a vytvárať obrazy iso, zvukové CD a taktiež napaľovať osobné dátové kompozície buď na disky CD alebo DVD. Je stabilný a pod aktívnym vývojom.</p>
+  </description>
+  <description lang="sl">
+    <p>Xfburn je preprosto orodje za zapisovanje CD in DVD plošč, ki temelji na knjižnicah libburnia. Zna pobrisati CD/DVD(-RW)-je, zapisovati, ustvarjati ISO posnetke, zvočne CDje, kot tudi zapisovati osebne podatkovne zbirke na CD ali DVD. Je stabilen in se neprenehoma razvija.</p>
+  </description>
+  <description lang="sq">
+    <p>Xfburn është një mjet i thjeshtë për shkrim CD-sh/DVD-sh bazuar në libraritë libburnia. Mund të zbardhë CD/DVD(-RW)s, të pjekë dhe krijojë pamje ISO, CD audio, si dhe të pjekë hartime personale të dhënash ose në CD, ose në DVD. Është i qëndrueshëm dhe nën zhvillim të vazhdueshëm.</p>
+  </description>
+  <description lang="sr">
+    <p>Рецко је једноставан прибор за резање ЦД/ДВД-јева заснован на библиотеци либбурниа. Може брисати брисиве ЦД/ДВД-јеве, резати и стварати слике дискова, звучних ЦД-ја, као и резање сопствених скупина података, ЦД-ја и ДВД-јева. Стабилан је и развија се и даље.</p>
+  </description>
+  <description lang="sv">
+    <p>Xfburn är ett enkelt CD-/DVD-bränningsverktyg baserat på libburnia-biblioteken. Det kan rensa CD-/DVD(-RW), bränna och skapa iso-avbilder, ljud-CD, samt bränna egna datasamlingar till antingen CD eller DVD. Det är stabilt och under kontinuerlig utveckling.</p>
+  </description>
+  <description lang="th">
+    <p>Xfburn เป็นเครื่องมือเขียนแผ่นซีดี/ดีวีดีอย่างง่าย โดยอาศัยไลบรารี libburnia สามารถล้างแผ่น CD/DVD(-RW), สร้างและเขียนอิมเมจ iso, ซีดีเพลง, รวมทั้งเขียนข้อมูลใดๆ ที่เรียบเรียงไว้ลงในแผ่นซีดีหรือดีวีดีได้ โปรแกรมนี้ทำงานได้อย่างมีเสถียรภาพและมีการพัฒนาปรับปรุงอย่างสม่ำเสมอ</p>
+  </description>
+  <description lang="tr">
+    <p>Xfburn, libburnia kütüphanelerine dayanan basit bir CD/DVD yazma aracıdır. CD/DVD'yi (-RW) boşaltabilir, yakabilir ve ISO görüntüleri, ses CD'leri oluşturabilir, ayrıca kişisel bileşimleri CD ya da DVD'ye yazabilir. Karalı ve geliştirilmekte olan bir üründür.</p>
+  </description>
+  <description lang="uk">
+    <p>Xfburn є простим випалювачем дисків CD/DVD на основі бібліотек libburnia. Може витерти CD/DVD(-RW), випалити і створити образи iso, аудіо CD, а також власні композиції даних для CD або DVD. Стабільний і постійно розробляється.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>Xfburn是一个简易的基于libburnia库的CD/DVD刻录工具。它能够擦除CD/DVD(-RW)光盘、刻录和生成ISO镜像与音乐CD，也能将个人的创作数据刻录至CD或DVD中。它处于稳定而持续的发展中。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>Xfburn 是一個基於 libburnia 函式庫的簡單 CD/DVD 燒錄工具。它可以抹除 CD/DVD(-RW)，燒錄與建立 ISO 映像檔、音訊 CD，以及將個人資料集燒錄到 CD 或 DVD 中。其相當穩定，同時也正穩步開發中。</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://docs.xfce.org/_media/apps/xfburn-0.4.1.jpg</image>
+    </screenshot>
+  </screenshots>
+  <categories>
+    <category>Multimedia</category>
+  </categories>
+  <url type="homepage">https://docs.xfce.org/apps/xfburn</url>
+  <url type="bugtracker">https://bugzilla.xfce.org/describecomponents.cgi?product=Xfburn</url>
+  <updatecontact>xfce4-dev@xfce.org</updatecontact>
+  <provides>
+    <binary>xfburn</binary>
+  </provides>
+  <translation type="gettext">Xfburn</translation>
+</component>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>libsForQt5.discover</pkgname>
+  <id>org.kde.discover.flatpak</id>
+  <name>Flatpak backend</name>
+  <name lang="ar">سَند فلاتپاك</name>
+  <name lang="az">Flatpak geri izləri</name>
+  <name lang="bg">Бекенд на Flatpak</name>
+  <name lang="ca">Dorsal del Flatpak</name>
+  <name lang="ca-valencia">Dorsal de Flatpak</name>
+  <name lang="cs">Podpůrná vrstva Flatpak</name>
+  <name lang="da">Flatpak-motor</name>
+  <name lang="de">Flatpak-Backend</name>
+  <name lang="en-GB">Flatpak backend</name>
+  <name lang="es">Motor Flatpak</name>
+  <name lang="et">Flatpaki taustaprogramm</name>
+  <name lang="eu">Flatpak bizkarraldeakoa</name>
+  <name lang="fi">Flatpak-taustaosa</name>
+  <name lang="fr">Moteur « Flatpak »</name>
+  <name lang="gl">Infraestrutura de Flatpak</name>
+  <name lang="hi">फ्लॅटपैक पृष्ठभाग</name>
+  <name lang="hu">Flatpak backend</name>
+  <name lang="ia">Retro-Administration de Flatpak</name>
+  <name lang="id">Backend Flatpak</name>
+  <name lang="it">Motore Flatpak</name>
+  <name lang="ko">Flatpak 백엔드</name>
+  <name lang="lt">Flatpak vidinė pusė</name>
+  <name lang="ml">ഫ്ലാറ്റ്പ്പാക്ക് ബാക്കെൻഡ്</name>
+  <name lang="my">ဖလက်ပတ်ခ် အုတ်မြစ်ပရိုဂရမ်</name>
+  <name lang="nb">Flatpak-motor</name>
+  <name lang="nl">Flatpak-backend</name>
+  <name lang="nn">Flatpak-motor</name>
+  <name lang="pa">ਫਲੈਟਪੈਕ ਬੈਕਐਡ</name>
+  <name lang="pl">Silnik Flatpak</name>
+  <name lang="pt">Infra-estrutura do Flatpak</name>
+  <name lang="pt-BR">Infraestrutura Flatpak</name>
+  <name lang="ro">Platformă Flatpak</name>
+  <name lang="ru">Модуль для работы с форматом Flatpak</name>
+  <name lang="sk">Podporný program pre Flatpak</name>
+  <name lang="sl">Zaledje Flatpak</name>
+  <name lang="sv">Gränssnitt för Flatpak</name>
+  <name lang="tg">Коркардкунандаи Flatpak</name>
+  <name lang="tr">Flatpak arka ucu</name>
+  <name lang="uk">Модуль Flatpak</name>
+  <name lang="x-test">xxFlatpak backendxx</name>
+  <name lang="zh-CN">Flatpak 后端程序</name>
+  <name lang="zh-TW">Flatpak 後端</name>
+  <summary>Integrates Flatpak applications into Discover</summary>
+  <summary lang="ar">يُكامل تطبيقات ”فلاتپاك“ في «استكشف»</summary>
+  <summary lang="az">Flatpak tətbiqlərini Discoveriyə daxil edir</summary>
+  <summary lang="bg">Интегрира приложения на Flatpak в Discover</summary>
+  <summary lang="ca">Integra les aplicacions del Flatpak al Discover</summary>
+  <summary lang="ca-valencia">Integra les aplicacions de Flatpak a Discover</summary>
+  <summary lang="cs">Integruje aplikace Flatpaku do Discover</summary>
+  <summary lang="da">Integrerer Flatpak-programmer i Discover</summary>
+  <summary lang="de">Integriert Flatpak-Anwendungen in Discover</summary>
+  <summary lang="en-GB">Integrates Flatpak applications into Discover</summary>
+  <summary lang="es">Integra aplicaciones Flatpak en Discover</summary>
+  <summary lang="et">Flatpaki rakenduste lõimimine Discoverisse</summary>
+  <summary lang="eu">Flatpak aplikazioak Discover-ren integratzen ditu</summary>
+  <summary lang="fi">Yhdistää Flatpak-sovellukset Discoveriin</summary>
+  <summary lang="fr">Intègre les applications « Flatpak » au sein de Discover</summary>
+  <summary lang="gl">Integra aplicacións de Flatpak con Discover</summary>
+  <summary lang="hi">फ्लॅटपैक अनुप्रयोगों को डिस्कवर में एकीकृत करता है</summary>
+  <summary lang="hu">Flatpak alkalmazások integrálása a Discoverbe</summary>
+  <summary lang="ia">Integra pplicationes de Flatpak in Discover</summary>
+  <summary lang="id">Aplikasi Flatpak terintegrasi ke dalam Discover</summary>
+  <summary lang="it">Integra le applicazioni Flatpak in Discover</summary>
+  <summary lang="ko">Flatpak 프로그램을 Discover에 통합</summary>
+  <summary lang="lt">Integruoja Flatpak programas į Discover</summary>
+  <summary lang="ml">ഡിസ്കവറിൽ ഫ്ലാറ്റ്പ്പാക്ക് ആപ്ലിക്കേഷൻ സംയോജിപ്പിക്കുന്നു</summary>
+  <summary lang="my">ဖလက်ပတ်ခ် အပ္ပလီကေးရှင်းများကို ဒစ်(စ)ကာဗာနှင့် ပူးပေါင်းဆက်နွယ်ပေးသည်</summary>
+  <summary lang="nb">Integrerer Flatpak-programmer i Discover</summary>
+  <summary lang="nl">Integreert Flatpak-toepassingen in Ontdekken</summary>
+  <summary lang="nn">Integrerer Flatpak-program i Discover</summary>
+  <summary lang="pa">ਡਿਸਕਵਰ ਵਿੱਚ ਫਲੈਟਪੈਕ ਐਪਲੀਕੇਸ਼ਨਾਂ ਨੂੰ ਜੋੜਦਾ ਹੈ</summary>
+  <summary lang="pl">Integruje aplikacje Flatpak w Odkrywcy</summary>
+  <summary lang="pt">Integra as aplicações do Flatpak no Discover</summary>
+  <summary lang="pt-BR">Integra aplicativos Flatpak no Discover</summary>
+  <summary lang="ro">Integrează aplicații Flatpak în Discover</summary>
+  <summary lang="ru">Добавление поддержки формата Flatpak в центр программ Discover</summary>
+  <summary lang="sk">Integruje aplikácie Flatpad do aplikácie Discover</summary>
+  <summary lang="sl">V Discover vgradi programe Flatpack</summary>
+  <summary lang="sv">Integrerar Flatpak-program i Discover</summary>
+  <summary lang="tg">Барномаҳои Flatpak-ро ба барномаи Кашфиёт дарунсохт мекунад</summary>
+  <summary lang="tr">Flatpak uygulamalarını Keşfet ile bütünleştirir</summary>
+  <summary lang="uk">Інтеграція програм Flatpak з Discover</summary>
+  <summary lang="x-test">xxIntegrates Flatpak applications into Discoverxx</summary>
+  <summary lang="zh-CN">为 Discover 提供 Flatpak 应用程序的集成功能</summary>
+  <summary lang="zh-TW">將 Flatpak 應用程式整合進 Discover 商店</summary>
+  <extends>org.kde.discover.desktop</extends>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <developer_name>Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="ar">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="az">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="bg">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="ca">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="ca-valencia">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="cs">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="da">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="de">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="en-GB">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="es">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="et">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="eu">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="fi">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="fr">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="gl">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="hi">एलिक्स पॉल गोंज़ालेज़</developer_name>
+  <developer_name lang="hu">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="ia">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="id">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="it">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="ko">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="lt">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="ml">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="my">အဲလက်ပိုဂွန်ဇလက်</developer_name>
+  <developer_name lang="nb">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="nl">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="nn">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="pa">ਐਲਿਕਸ ਪੋਲ ਗੋਨਜ਼ਾਵੇਜ</developer_name>
+  <developer_name lang="pl">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="pt">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="pt-BR">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="ro">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="ru">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="sk">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="sl">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="sv">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="tg">Алейкс Пол Гонзалес (Aleix Pol Gonzalez)</developer_name>
+  <developer_name lang="tr">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="uk">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="x-test">xxAleix Pol Gonzalezxx</developer_name>
+  <developer_name lang="zh-CN">Aleix Pol Gonzalez</developer_name>
+  <developer_name lang="zh-TW">Aleix Pol Gonzalez</developer_name>
+  <icon type="stock">system-software-install</icon>
+  <releases>
+    <release version="5.25.3" date="2022-07-12" />
+    <release date="2022-06-28" version="5.25.2" />
+    <release version="5.25.1" date="2022-06-21" />
+    <release version="5.25.0" date="2022-06-14" />
+  </releases>
+</component>

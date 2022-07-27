@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>appgate-sdp</pkgname>
+  <icon type="cached" width="64" height="64">appgate-icon.png</icon>
+  <icon width="128" height="128" type="cached">appgate-icon.png</icon>
+  <id>appgate</id>
+  <metadata_license>MIT</metadata_license>
+  <project_license>LicenseRef-proprietary=https://www.appgate.com/legal/cryptzone-end-user-license-agreement-eula</project_license>
+  <name>Appgate SDP</name>
+  <summary>Appgate SDP Client</summary>
+  <description>
+    <p>
+      Appgate SDP is a network security system designed to help you easily and securely access network resources via certain access rules (which we call Entitlements) configured by your organization.
+    </p>
+  </description>
+  <launchable type="desktop-id">appgate.desktop</launchable>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Fully connected</caption>
+      <image>https://sdphelp.appgate.com/userguide/v5.3/_images/fully_connected.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://www.appgate.com/software-defined-perimeter</url>
+  <provides>
+    <binary>appgate</binary>
+  </provides>
+</component>

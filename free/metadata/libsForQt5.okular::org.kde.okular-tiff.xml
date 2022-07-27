@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>libsForQt5.okular</pkgname>
+  <id>org.kde.okular-tiff</id>
+  <extends>org.kde.okular.desktop</extends>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+ and GFDL-1.3</project_license>
+  <name>Tiff</name>
+  <name lang="ar">Tiff</name>
+  <name lang="az">Tiff</name>
+  <name lang="bg">Tiff</name>
+  <name lang="ca">TIFF</name>
+  <name lang="ca-valencia">TIFF</name>
+  <name lang="cs">Tiff</name>
+  <name lang="de">Tiff</name>
+  <name lang="el">Tiff</name>
+  <name lang="en-GB">Tiff</name>
+  <name lang="es">Tiff</name>
+  <name lang="et">TIFF</name>
+  <name lang="eu">Tiff</name>
+  <name lang="fi">TIFF</name>
+  <name lang="fr">Tiff</name>
+  <name lang="gl">Tiff</name>
+  <name lang="hi">टिफ़</name>
+  <name lang="hu">Tiff</name>
+  <name lang="ia">TIFF</name>
+  <name lang="it">Tiff</name>
+  <name lang="ko">TIFF</name>
+  <name lang="lt">Tiff</name>
+  <name lang="ml">ടിഫ്</name>
+  <name lang="nl">Tiff</name>
+  <name lang="nn">TIFF</name>
+  <name lang="pl">TIFF</name>
+  <name lang="pt">TIFF</name>
+  <name lang="pt-BR">TIFF</name>
+  <name lang="ro">Tiff</name>
+  <name lang="ru">TIFF</name>
+  <name lang="sk">Tiff</name>
+  <name lang="sl">Tiff</name>
+  <name lang="sr">ТИФФ</name>
+  <name lang="sr-Latn">TIFF</name>
+  <name lang="sr-ijekavian">ТИФФ</name>
+  <name lang="sr-ijekavianlatin">TIFF</name>
+  <name lang="sv">TIFF</name>
+  <name lang="ta">Tiff</name>
+  <name lang="tr">Tiff</name>
+  <name lang="uk">Tiff</name>
+  <name lang="vi">Tiff</name>
+  <name lang="x-test">xxTiffxx</name>
+  <name lang="zh-CN">TIFF</name>
+  <name lang="zh-TW">Tiff</name>
+  <summary>Adds support for reading Tiff documents</summary>
+  <summary lang="ar">يضيف دعم لقراءة مستندات Tiff</summary>
+  <summary lang="az">Tiff sənədlərini oxumaq üçün dəstək əlavə edir</summary>
+  <summary lang="bg">Добавя поддръжка за четене на Tiff документи</summary>
+  <summary lang="ca">Afegeix la implementació per a llegir documents TIFF</summary>
+  <summary lang="ca-valencia">Afig la implementació per a llegir documents TIFF</summary>
+  <summary lang="cs">Přidává podporu pro čtení dokumentů Tiff</summary>
+  <summary lang="de">Bietet Unterstützung zum Lesen von TIFF-Dokumenten</summary>
+  <summary lang="el">Προσθέτει υποστήριξη για την ανάγνωση εγγράφων Tiff</summary>
+  <summary lang="en-GB">Adds support for reading Tiff documents</summary>
+  <summary lang="es">Permite la lectura de documentos Tiff</summary>
+  <summary lang="et">TIFF-dokumentide lugemise toetus</summary>
+  <summary lang="eu">Tiff dokumentuak irakurtzeko euskarria gehitzen du</summary>
+  <summary lang="fi">Lisää TIFF-kuvatiedostojen lukutuen</summary>
+  <summary lang="fr">Permet la lecture des documents Tiff</summary>
+  <summary lang="gl">Engade a posibilidade de ler documentos Tiff</summary>
+  <summary lang="hi">टिफ़ दस्तावेज़ पढ़ने के लिए समर्थन जोड़ता है</summary>
+  <summary lang="hu">Támogatás Tiff-dokumentumok olvasásához</summary>
+  <summary lang="ia">Adde supporto per leger documentos Tiff</summary>
+  <summary lang="it">Aggiunge il supporto per la lettura di documenti Tiff</summary>
+  <summary lang="ko">TIFF 문서 읽기 지원 추가</summary>
+  <summary lang="lt">Prideda palaikymą Tiff dokumentų skaitymui</summary>
+  <summary lang="ml">ടിഫ് പ്രമാണങ്ങൾ വായിക്കാൻ പിന്തുണ ചേർക്കുന്നു</summary>
+  <summary lang="nl">Voegt ondersteuning voor lezen van Tiff-documenten toe</summary>
+  <summary lang="nn">Legg til støtte for å lesa TIFF-dokument</summary>
+  <summary lang="pl">Dodaje obsługę formatu TIFF</summary>
+  <summary lang="pt">Adiciona o suporte para ler documentos em TIFF</summary>
+  <summary lang="pt-BR">Adiciona o suporte para leitura de documentos em TIFF</summary>
+  <summary lang="ro">Adaugă suport pentru citirea documentelor Tiff</summary>
+  <summary lang="ru">Поддержка чтения документов TIFF</summary>
+  <summary lang="sk">Pridá podporu pre čítanie Tiff dokumentov</summary>
+  <summary lang="sl">Doda podporo za branje dokumentov Tiff</summary>
+  <summary lang="sr">Подршка за читање ТИФФ докумената</summary>
+  <summary lang="sr-Latn">Podrška za čitanje TIFF dokumenata</summary>
+  <summary lang="sr-ijekavian">Подршка за читање ТИФФ докумената</summary>
+  <summary lang="sr-ijekavianlatin">Podrška za čitanje TIFF dokumenata</summary>
+  <summary lang="sv">Lägger till stöd för att läsa TIFF-dokument</summary>
+  <summary lang="ta">Tiff ஆவணங்களைப் படிப்பதற்கான ஆதரவை சேர்க்கும்</summary>
+  <summary lang="tr">Tiff belgelerini okuma desteği ekler</summary>
+  <summary lang="uk">Додає підтримку читання документів TIFF</summary>
+  <summary lang="vi">Thêm hỗ trợ đọc tài liệu Tiff</summary>
+  <summary lang="x-test">xxAdds support for reading Tiff documentsxx</summary>
+  <summary lang="zh-CN">增加对 TIFF 文档的阅读支持</summary>
+  <summary lang="zh-TW">加入讀取 Tiff 文件的支援</summary>
+  <provides>
+    <mediatype>image/tiff</mediatype>
+  </provides>
+  <url type="homepage">https://okular.kde.org</url>
+  <releases>
+    <release version="22.04.3" date="2022-07-07" />
+    <release version="22.04.2" date="2022-06-09" />
+    <release version="22.04.1" date="2022-05-12" />
+    <release version="22.04.0" date="2022-04-21" />
+  </releases>
+</component>

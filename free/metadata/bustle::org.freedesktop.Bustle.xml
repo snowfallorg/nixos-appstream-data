@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>bustle</pkgname>
+  <icon type="cached" width="64" height="64">org.freedesktop.Bustle.png</icon>
+  <icon width="128" height="128" type="cached">org.freedesktop.Bustle.png</icon>
+  <id>org.freedesktop.Bustle</id>
+  <launchable type="desktop-id">org.freedesktop.Bustle.desktop</launchable>
+  <content_rating type="oars-1.1" />
+  <metadata_license>CC-BY-SA-3.0</metadata_license>
+  <name>Bustle</name>
+  <summary>Draw sequence diagrams of D-Bus activity</summary>
+  <description>
+    <p>Bustle draws sequence diagrams of D-Bus activity.
+        It shows signal emissions, method calls and their
+        corresponding returns, with time stamps for each individual
+        event and the duration of each method call. This can help
+        you check for unwanted D-Bus traffic, and pinpoint why your
+        D-Bus-based application is not performing as well as you
+        like. It also provides statistics like signal frequencies
+        and average method call times.</p>
+  </description>
+  <project_license>LGPL-2.1+</project_license>
+  <screenshots>
+    <screenshot height="848" width="1548" type="default">
+      <image>https://gitlab.freedesktop.org/bustle/bustle/raw/master/data/appdata/bustle-diagram.png</image>
+      <caption>Explore sequence diagrams of D-Bus activity</caption>
+    </screenshot>
+    <screenshot height="848" width="1548">
+      <image>https://gitlab.freedesktop.org/bustle/bustle/raw/master/data/appdata/bustle-statistics.png</image>
+      <caption>See statistics summarizing the log</caption>
+    </screenshot>
+    <screenshot width="1548" height="848">
+      <image>https://gitlab.freedesktop.org/bustle/bustle/raw/master/data/appdata/bustle-welcome.png</image>
+      <caption>Relax with this soothing greyscale welcome page</caption>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://gitlab.freedesktop.org/bustle/bustle#readme</url>
+  <update_contact>will_at_willthompson.co.uk</update_contact>
+  <translation type="gettext">bustle</translation>
+  <provides>
+    <id>bustle.desktop</id>
+  </provides>
+  <releases>
+    <release date="2020-07-31" version="0.8.0">
+      <description>
+        <p>Bustle has a new icon, kindly provided by Tobias Bernard.</p>
+        <p>Closing a window without saving a recorded log no longer prompts for confirmation. Anecdotally, most users just want to record and read logs, not save them.</p>
+        <p>Bustle now uses GLib's implementation of the D-Bus wire protocol throughout. The only user-facing consequence is that message bodies are now pretty-printed in the GVariant text format.</p>
+        <p>Since Bustle no longer depends on any GPL libraries, the project license has been simplified to plain LGPL 2.1 or later.</p>
+      </description>
+    </release>
+    <release date="2019-03-08" version="0.7.5">
+      <description>
+        <p>As well as being able to filter out messages involving certain services, you can now also filter messages to only show certain services.</p>
+      </description>
+    </release>
+    <release date="2018-12-07" version="0.7.4">
+      <description>
+        <p>In the details for an error reply, the error name is now shown, and the error message is formatted more legibly.</p>
+        <p>The default file extension for log files is now ‘.pcap’, reflecting what they actually are.</p>
+      </description>
+    </release>
+    <release version="0.7.3" date="2018-11-15">
+      <description>
+        <p>Bustle now handles the application/vnd.tcpdump.pcap MIME type, which in practice means that your file manager will offer to open pcap files with Bustle.</p>
+      </description>
+    </release>
+    <release date="2018-07-24" version="0.7.2">
+      <description>
+        <p>You can now explore messages while they're being recorded. Filtering, statistics and exporting are still only available once you stop recording.</p>
+        <p>The raw sender and destination for each message is now shown in the details pane.</p>
+        <p>Bytestrings with embedded NULs which are otherwise ASCII are now shown as ASCII strings.</p>
+      </description>
+    </release>
+    <release date="2018-06-15" version="0.7.1">
+      <description>
+        <p>It's now possible to monitor the system bus (from the user interface and with the bustle-pcap command-line tool), with no need to reconfigure the system bus. It's also possible to monitor an arbitrary bus by address.</p>
+        <p>Bustle now requires that dbus-monitor (≥ 1.9.10) and pkexec are installed on your system.</p>
+      </description>
+    </release>
+  </releases>
+</component>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p />
+    <p>Features:</p>
+    <ul>
+      <li>Comic Book Archive (cbz, cbr, cb7, cbt, cba)</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>Característiques:</p>
+    <ul>
+      <li>Arxiu de llibres de còmic (cbz, cbr, cb7, cbt, cba)</li>
+    </ul>
+  </description>
+  <description lang="ca-valencia">
+    <p>Característiques:</p>
+    <ul>
+      <li>Arxiu de llibres de còmic (cbz, cbr, cb7, cbt, cba)</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>Vlastnosti:</p>
+    <ul>
+      <li>Archiv Comic Book (cbz, cbr, cb7, cbt, cba)</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>Leistungsmerkmale:</p>
+    <ul>
+      <li>Comic-Buch-Archive (cbz, cbr, cb7, cbt, cba)</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>Características:</p>
+    <ul>
+      <li>Archivos de cómic (cbz, cbr, cb7, cbt, cba)</li>
+    </ul>
+  </description>
+  <description lang="et">
+    <p>Omadused:</p>
+    <ul>
+      <li>Koomiksiarhiiv (cbz, cbr, cb7, cbt, cba)</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>Ominaisuuksia:</p>
+    <ul>
+      <li>Sarjakuvakirja-arkisto (*.cbz, *.cbr, *.cb7, *.cbt, *.cba)</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>Fonctionnalités :</p>
+    <ul>
+      <li>Archives de bandes dessinées (cbz, cbr, cb7, cbt, cba)</li>
+    </ul>
+  </description>
+  <description lang="gl">
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Arquivo de libro de banda deseñada (cbz, cbr, cb7, cbt, cba)</li>
+    </ul>
+  </description>
+  <description lang="id">
+    <p>Fitur:</p>
+    <ul>
+      <li>Arsip Buku Komik (cbz, cbr, cb7, cbt, cba)</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>Funzionalità:</p>
+    <ul>
+      <li>Archivi di fumetti (cbz, cbr, cb7, cbt, cba)</li>
+    </ul>
+  </description>
+  <description lang="ko">
+    <p>기능:</p>
+    <ul>
+      <li>만화책 압축 파일(cbz, cbr, cb7, cbt, cba)</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>Mogelijkheden:</p>
+    <ul>
+      <li>Archief voor stripboeken (cbz, cbr, cb7, cbt, cba)</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <p>Możliwości:</p>
+    <ul>
+      <li>Zeszyty komiksów (cbz, cbr, cb7, cbt, cba)</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Pacote de Banda Desenhada (cbz, cbr, cb7, cbt, cba)</li>
+    </ul>
+  </description>
+  <description lang="ru">
+    <p>Возможности:</p>
+  </description>
+  <description lang="sk">
+    <p>Funkcie:</p>
+    <ul>
+      <li>Komiksový archív (cbz, cbr, cb7, cbt, cba)</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <p>Funktioner:</p>
+    <ul>
+      <li>Serietidningsarkiv (cbz, cbr, cb7, cbt, cba)</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>Можливості</p>
+    <ul>
+      <li>Робота із архівами коміксів (cbz, cbr, cb7, cbt, cba)</li>
+    </ul>
+  </description>
+  <description lang="x-test">
+    <p>xxFeatures:xx</p>
+    <ul>
+      <li>xxComic Book Archive (cbz, cbr, cb7, cbt, cba)xx</li>
+    </ul>
+  </description>
+  <description lang="zh-CN">
+    <p>功能：</p>
+  </description>
+  <description lang="zh-TW">
+    <p>功能：</p>
+    <ul>
+      <li>漫畫書封存檔 (cbz, cbr, cb7, cbt, cba)</li>
+    </ul>
+  </description>
+  <pkgname>peruse</pkgname>
+  <launchable type="desktop-id">org.kde.perusecreator.desktop</launchable>
+  <icon type="cached" width="64" height="64">peruse-creator.png</icon>
+  <icon width="128" height="128" type="cached">peruse-creator.png</icon>
+  <id>org.kde.perusecreator.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Peruse</name>
+  <name lang="ca">Peruse</name>
+  <name lang="ca-valencia">Peruse</name>
+  <name lang="cs">Peruse</name>
+  <name lang="de">Peruse</name>
+  <name lang="es">Peruse</name>
+  <name lang="et">Peruse</name>
+  <name lang="fi">Peruse</name>
+  <name lang="fr">Peruse</name>
+  <name lang="gl">Peruse</name>
+  <name lang="id">Peruse</name>
+  <name lang="it">Peruse</name>
+  <name lang="ko">Peruse</name>
+  <name lang="nl">Peruse</name>
+  <name lang="pl">Peruse</name>
+  <name lang="pt">Peruse</name>
+  <name lang="ru">Peruse</name>
+  <name lang="sk">Peruse</name>
+  <name lang="sv">Peruse</name>
+  <name lang="uk">Peruse</name>
+  <name lang="x-test">xxPerusexx</name>
+  <name lang="zh-TW">Peruse</name>
+  <summary>Comic Book Creation Tool</summary>
+  <summary lang="ca">Eina de creació de llibres de còmic</summary>
+  <summary lang="ca-valencia">Eina de creació de llibres de còmic</summary>
+  <summary lang="cs">Nástroj pro vytváření komixů</summary>
+  <summary lang="de">Werkzeug zum Erstellen von Comics</summary>
+  <summary lang="es">Herramienta de creación de cómics</summary>
+  <summary lang="et">Koomiksite valmistamise tööriist</summary>
+  <summary lang="fi">Sarjakuvakirjan luontityökalu</summary>
+  <summary lang="fr">Outil de création de bandes dessinées</summary>
+  <summary lang="gl">Ferramenta de creación de libros de banda deseñada</summary>
+  <summary lang="id">Alat Penciptaan Buku Komik</summary>
+  <summary lang="it">Strumento di creazione di fumetti</summary>
+  <summary lang="ko">만화책 생성 도구</summary>
+  <summary lang="nl">Hulpmiddel voor maken van stripboeken</summary>
+  <summary lang="pl">Narzędzie do tworzenia komiksów</summary>
+  <summary lang="pt">Ferramenta de Criação de Bandas Desenhadas</summary>
+  <summary lang="sk">Nástroj na vytváranie komiksov</summary>
+  <summary lang="sv">Serietidningsskapare</summary>
+  <summary lang="uk">Засіб для створення коміксів</summary>
+  <summary lang="x-test">xxComic Book Creation Toolxx</summary>
+  <summary lang="zh-TW">漫畫書製作工具</summary>
+  <screenshots>
+    <screenshot type="default">
+      <image width="1797" height="1155">https://peruse.kde.org/screenshots/peruse-welcome.jpg</image>
+    </screenshot>
+    <screenshot type="default">
+      <image height="1152" width="1886">https://peruse.kde.org/screenshots/peruse-reading-sidebar.jpg</image>
+    </screenshot>
+    <screenshot type="default">
+      <image height="1124" width="1839">https://peruse.kde.org/screenshots/peruse-book-details.jpg</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://peruse.kde.org/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=peruse</url>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>perusecreator</binary>
+  </provides>
+</component>

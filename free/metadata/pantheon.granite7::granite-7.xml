@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+  <pkgname>pantheon.granite7</pkgname>
+  <launchable type="desktop-id">io.elementary.granite-7.demo.desktop</launchable>
+  <id>io.elementary.granite-7</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>LGPL-3.0</project_license>
+  <name>Granite 7</name>
+  <name lang="uk">Granite 7</name>
+  <name lang="ru">Granite 7</name>
+  <name lang="pt">Granite 7</name>
+  <name lang="pl">Granite 7</name>
+  <name lang="ja">Granite 7</name>
+  <name lang="hu">Granite 7</name>
+  <name lang="he">Granite 7</name>
+  <name lang="fr">Granite 7</name>
+  <name lang="en_GB">Granite 7</name>
+  <name lang="cs">Granite 7</name>
+  <name lang="ckb">گرانتی ٧</name>
+  <name lang="ca">Granit 7</name>
+  <summary>Build consistent and usable apps more quickly and easily</summary>
+  <summary lang="zh_CN">更加快速、方便地创建稳定、可用的应用</summary>
+  <summary lang="uk">Створюйте узгоджені та придатні для користування застосунки швидше та легше</summary>
+  <summary lang="tr">Tutarlı ve kullanışlı uygulamaları daha hızlı ve kolay bir şekilde oluşturun</summary>
+  <summary lang="sr">Изградите доследне и употребљиве програме брже и лакше</summary>
+  <summary lang="sl">Oblikujte konsistentne in uporabne aplikacije hitreje in lažje</summary>
+  <summary lang="ru">Создавайте последовательные и удобные приложения быстрее и проще</summary>
+  <summary lang="pt_BR">Crie apps consistentes e utilizáveis com mais rapidez e facilidade</summary>
+  <summary lang="pt">Criar aplicações consistentes e utilizáveis com mais rapidez e facilidade</summary>
+  <summary lang="pl">Twórz spójne i użyteczne aplikacje szybciej i łatwiej</summary>
+  <summary lang="nl">Bouw sneller en gemakkelijker stabiele en bruikbare apps</summary>
+  <summary lang="nb">Bygg konsistente og nyttige programmer raskt og enkelt</summary>
+  <summary lang="mr">अधिक द्रुत आणि सहजतेने सुसंगत आणि वापरण्यायोग्य अॅप्स तयार करा</summary>
+  <summary lang="ja">一貫性のある実用的なアプリをより速く簡単に作成します</summary>
+  <summary lang="it">Realizza in modo più semplice e veloce applicazioni coerenti graficamente e facilmente utilizzabili</summary>
+  <summary lang="hu">Építsen egységes és használható alkalmazásokat még gyorsabban és könnyebben</summary>
+  <summary lang="he">בניית יישומים אחידים ושימושיים במהירות רבה יותר וביתר פשטות</summary>
+  <summary lang="fr">Construire des applications cohérentes et utilisables plus rapidement et facilement</summary>
+  <summary lang="es">Cree aplicaciones uniformes y utilizables de manera más rápida y fácil</summary>
+  <summary lang="eo">Konstrui koherajn kaj uzoplenajn aplikaĵojn rapide kaj facile</summary>
+  <summary lang="en_GB">Build consistent and usable apps more quickly and easily</summary>
+  <summary lang="en_CA">Build consistent and usable apps more quickly and easily</summary>
+  <summary lang="en_AU">Build consistent and usable apps more quickly and easily</summary>
+  <summary lang="de">Einheitliche und benutzerfreundliche Apps schneller und einfacher erstellen</summary>
+  <summary lang="da">Byg sammenhængende og brugbare apps hurtigere og lettere</summary>
+  <summary lang="cs">Vytvářejte jednotné a snadno použitelné aplikace rychleji a snáze</summary>
+  <summary lang="ckb">خێراتر و ئاسانتر ئەپی بەسوود و جێگیر دروست بکە</summary>
+  <summary lang="ca">Construcció consistent i aplicacions amb usabilitat més ràpida i fàcil</summary>
+  <summary lang="ar">ابن تطبيقات متناسقة وقابلة للاستخدام بشكل أسرع وأسهل</summary>
+  <description>
+    <p>A companion library for GTK and GLib that provides complex widgets and convenience methods designed for use in apps built for elementary OS.</p>
+  </description>
+  <description lang="ar">
+    <p>مكتبة رفيقة ل GTK وGLib تحمل أدوات وطرق تسهيل معقدة مصممة للاستخدام في التطبيقات المبنية ل elementary OS.</p>
+  </description>
+  <description lang="ca">
+    <p>Una biblioteca complementària per a GTK i GLib que ofereix ginys complexos i mètodes de conveniència dissenyats per usar-los en aplicacions creades per a l'elementary OS.</p>
+  </description>
+  <description lang="cs">
+    <p>Doprovodná knihovna pro GTK a GLib, která poskytuje komplexní metody pro ovládací prvky a pohodlí, navržené pro použití v aplikacích, vytvořených pro elementary OS.</p>
+  </description>
+  <description lang="da">
+    <p>Et ledsagerbibliotek til GTK og GLib, der leverer komplekse widgets og bekvemmelighedsmetoder designet til brug i apps bygget til elementary OS.</p>
+  </description>
+  <description lang="de">
+    <p>Eine Begleitbibliothek für GTK und GLib, die komplexe Widgets und benutzerfreundliche Methoden bereitstellt, und die zur Verwendung in Anwendungen für elementaryOS entwickelt wurde.</p>
+  </description>
+  <description lang="en_GB">
+    <p>A companion library for GTK and GLib that provides complex widgets and convenience methods designed for use in apps built for elementary OS.</p>
+  </description>
+  <description lang="eo">
+    <p>Kompania biblioteko por GTK kaj GLib, kiu provizas rafinitajn kromprogrametojn kaj oportunajn metodojn fasonitaj por uzo ĉe aplikaĵoj faritaj por elementary OS.</p>
+  </description>
+  <description lang="es">
+    <p>Una biblioteca complementaria para GTK y GLib que proporciona elementos gráficos complejos y métodos de practicidad diseñados para su uso en aplicaciones para elementary OS.</p>
+  </description>
+  <description lang="fr">
+    <p>Une bibliothèque accompagnant GTK et GLib qui fournit des widgets complexes et des méthodes pratiques conçu pour être utilisé dans les applications fabriquées pour elementary OS.</p>
+  </description>
+  <description lang="he">
+    <p>ספרייה מלווה ל־GTK ול־GLib שמספקת וידג׳טים מורכבים ושיטות נוחות שתוכננו לטובת שימוש ביישומים שנבנו עבור elementary OS.</p>
+  </description>
+  <description lang="hu">
+    <p>Egy társkönyvtár a GTK és a GLib számára, amely összetett widgeteket és kényelmes metódusokat tartalmaz az elementary OS-hez készült alkalmazásokban történő felhasználásra.</p>
+  </description>
+  <description lang="it">
+    <p>Una libreria complementare per GTK e GLib che fornisce widget complessi e metodi pratici progettati per l'uso in applicazioni create per elementary OS.</p>
+  </description>
+  <description lang="ja">
+    <p>elementary OS 向けのアプリでの利用のためにデザインされた複雑なウィジェットや便利なメソッドを提供する、GTK と GLib の共有ライブラリです。</p>
+  </description>
+  <description lang="mr">
+    <p>GTK आणि GLib साठी एक सहयोगी लायब्ररी जी प्राथमिक ओएससाठी तयार केलेल्या अ‍ॅप्समध्ये वापरण्यासाठी डिझाइन केलेले जटिल विजेट आणि सोयीच्या पद्धती प्रदान करते.</p>
+  </description>
+  <description lang="nl">
+    <p>Een bibliotheek voor GTK en GLib, die complexe widgets en gemakkelijke methodes biedt, ontworpen voor gebruik in apps voor elementary OS.</p>
+  </description>
+  <description lang="pl">
+    <p>Biblioteka towarzysząca dla GTK oraz GLib dostarczająca złożone widgety oraz wygodne metody zaprojektowane do użytku dla aplikacji zbudowanych dla elementary OS.</p>
+  </description>
+  <description lang="pt">
+    <p>Uma biblioteca parceira para GTK e GLib que fornece widgets complexos e métodos práticos projetados para uso em aplicações criadas para o elementary OS.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Uma biblioteca tudo-em-um para GTK e GLib que oferece widgets complexos e métodos convenientes projetados para uso em apps feitos para o Elementary OS.</p>
+  </description>
+  <description lang="ru">
+    <p>Сопутствующая библиотека для GTK и GLib, предоставляющая сложные виджеты и удобные методы, предназначенные для использования в приложениях, созданных для elementary OS.</p>
+  </description>
+  <description lang="sl">
+    <p>Spremljevalna knjižnica za GTK in GLib, ki nudi kompleksne gradnike in priročne metode, narejene za uporabo v aplikacijah za elementary OS.</p>
+  </description>
+  <description lang="sr">
+    <p>Пратећа библиотека за Гтк и Гбибл која пружа сложене елементе и методе погодности осмишљене за употребу у програмима изграђеним за елементари ОС.</p>
+  </description>
+  <description lang="tr">
+    <p>elementary OS sistemi için tasarlanan uygulamalarda kullanılmak üzere tasarlanmış, karmaşık widget'lar için kolaylık sağlayan yardımcı bir GTK ve GLib kitaplığı.</p>
+  </description>
+  <description lang="uk">
+    <p>Супутня бібліотека для GTK та GLib, яка надає складні віджети та зручні методи, призначені для використання в застосунках, побудованих для elementary OS.</p>
+  </description>
+  <releases>
+    <release version="7.0.0" date="2022-04-29" urgency="medium">
+      <description>
+        <p>New Features:</p>
+        <ul>
+          <li>Ported to GTK4! 🎉️</li>
+          <li>Granite.Placeholder: replaces AlertView and Welcome</li>
+          <li>SimpleSettingsPage: Allow markup in description</li>
+        </ul>
+        <p>Removals:</p>
+        <ul>
+          <li>Application: use Gtk.Application instead</li>
+          <li>Drawing: Use Gtk.CSS</li>
+          <li>DynamicNotebook: use Adw.TabBar instead</li>
+          <li>Logger: use GLib.log instead</li>
+          <li>ModeButton: Use Gtk.ToggleButton with the "group" property and "linked" style class instead</li>
+          <li>Paths: use GLib.Environment instead</li>
+          <li>Seekbar</li>
+          <li>Services.Settings: use GLib.Settings instead</li>
+          <li>SimpleCommand: use GLib.AppInfo.create_from_commandline instead</li>
+          <li>SourceList: use Gtk.ListBox with the "sidebar" style class instead</li>
+          <li>StorageBar</li>
+          <li>TextStyle: use style class constants instead</li>
+          <li>Several functions in System were replaced by GLib.AppInfo</li>
+        </ul>
+        <p>Improvements:</p>
+        <ul>
+          <li />
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" version="6.2.0" date="2021-11-23">
+      <description>
+        <p>New Features:</p>
+        <ul>
+          <li>min_length property for Granite.ValidatedEntry</li>
+          <li>Granite.HyperTextView for navigatable URLs in text views</li>
+        </ul>
+        <p>Improvements:</p>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+        <p>Fixes:</p>
+        <ul>
+          <li>Prevent crashing on environments without dark style preference support</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" date="2021-10-25" version="6.1.2">
+      <description>
+        <p>Fixes:</p>
+        <ul>
+          <li>Use values from the Settings Portal when possible</li>
+          <li>Disable horizontal scrolling by default in SettingsPage</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-08-25" urgency="medium" version="6.1.1">
+      <description>
+        <p>Fixes:</p>
+        <ul>
+          <li>Ensure accel_to_string works with multiple modifiers</li>
+          <li>Fix locale issues in Flatpaks</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-07-13" urgency="medium" version="6.1.0">
+      <description>
+        <p>Additions:</p>
+        <ul>
+          <li>TRANSITION_DURATION_IN_PLACE for consistent in-place widget transformations</li>
+        </ul>
+        <p>Other Changes:</p>
+        <ul>
+          <li>accel_to_string handles accel markup without modifiers or that are only modifiers</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" date="2021-03-22" version="6.0.0">
+      <description>
+        <p>Additions:</p>
+        <ul>
+          <li>Granite.Dialog replaces Gtk.Dialog for consistent styling</li>
+          <li>Granite.SwitchModelButton for use in Gtk.Popover menus</li>
+          <li>Granite.ValidatedEntry for client-side verification in forms</li>
+        </ul>
+        <p>New Constants:</p>
+        <ul>
+          <li>TOOLTIP_SECONDARY_TEXT_MARKUP for smaller second line text in Gtk.Tooltips</li>
+          <li>SMALL_LABEL for smaller Gtk.Labels without Pango</li>
+          <li>STYLE_CLASS_WARMTH and STYLE_CLASS_TEMPERATURE for scales</li>
+          <li>STYLE_CLASS_DEFAULT_DECORATION for slim headerbars</li>
+          <li>TRANSITION_DURATION_OPEN and TRANSITION_DURATION_CLOSE for consistent animations</li>
+        </ul>
+        <p>Removals:</p>
+        <ul>
+          <li>Granite.Widgets.AboutDialog. Provide AppStream metadata instead.</li>
+          <li>Granite.Widgets.AppMenu. Use Gtk.MenuButton instead.</li>
+        </ul>
+        <p>Deprecations:</p>
+        <ul>
+          <li>Granite.Widgets.Avatar. Use Hdy.Avatar instead</li>
+        </ul>
+        <p>Other Changes:</p>
+        <ul>
+          <li>Toasts now reset their timeout when sending a new notification and the timeout is stopped while hovering</li>
+          <li>Backslash, Right Control, and Left Control are now handled by accel_to_string</li>
+          <li>Make tab tooltips of DynamicNotebook settable</li>
+          <li>Timepicker correctly fires time_changed when AM and PM buttons are selected</li>
+          <li>Granite.MessageDialog now uses the messagedialog CSS name</li>
+          <li>Visible child name is now properly synced in Granite.SettingsSidebar</li>
+          <li>Status can be set in Granite.AbstractSettingsPage on construct</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" version="5.5.0" date="2020-06-30">
+      <description>
+        <p>New Style Constants:</p>
+        <ul>
+          <li>STYLE_CLASS_COLOR_BUTTON</li>
+          <li>STYLE_CLASS_ROUNDED</li>
+        </ul>
+        <p>Deprecations:</p>
+        <ul>
+          <li>Several theming utilities. Use Gtk.CssProvider and Gtk.StyleContext instead</li>
+          <li>Granite.Services.SimpleCommand. Use GLib.AppInfo.create_from_commandline instead</li>
+          <li>Old unused utilities like get_button_layout_schema, get_default_close_button_position, and Granite.Services.Paths</li>
+          <li>Old unused widgets like CollapsiblePaned and CompositedWindow</li>
+        </ul>
+        <p>Other Changes:</p>
+        <ul>
+          <li>Granite.SourceList now gets Gtk.STYLE_CLASS_SIDEBAR by default</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="5.4.0" date="2020-04-29" urgency="medium">
+      <description>
+        <p>New features:</p>
+        <ul>
+          <li>New Settings class to share Pantheon desktop settings with apps</li>
+          <li>Introduced Settings.prefers_color_scheme to get a user's color scheme preference, i.e. for a dark style</li>
+        </ul>
+        <p>Deprecations:</p>
+        <ul>
+          <li>It is now recommended to use GLib.Settings instead of Granite.Services.Settings</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-04-01" urgency="medium" version="5.3.1">
+      <description>
+        <p>Improvements:</p>
+        <ul>
+          <li>Better align labels in settings sidebars</li>
+          <li>Make AccelLabel.label settable</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="5.3.0" urgency="medium" date="2019-12-12">
+      <description>
+        <p>New features</p>
+        <ul>
+          <li>Add tooltips to source list items and their actions</li>
+          <li>New AccelLabel widget for use in menus and popovers</li>
+        </ul>
+        <p>Improvements:</p>
+        <ul>
+          <li>Delay tab resizing when closing tabs</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <compulsory_for_desktop>Pantheon</compulsory_for_desktop>
+  <developer_name>elementary, Inc.</developer_name>
+  <developer_name lang="zh_TW">elementary, Inc.</developer_name>
+  <developer_name lang="zh_CN">elementary, Inc.</developer_name>
+  <developer_name lang="uk">elementary, Inc.</developer_name>
+  <developer_name lang="tr">elementary, Inc.</developer_name>
+  <developer_name lang="sv">elementary, Inc.</developer_name>
+  <developer_name lang="sr">elementary, Inc.</developer_name>
+  <developer_name lang="sl">elementary, Inc.</developer_name>
+  <developer_name lang="ru">elementary, Inc.</developer_name>
+  <developer_name lang="pt_BR">elementary, Inc.</developer_name>
+  <developer_name lang="pt">elementary, Inc.</developer_name>
+  <developer_name lang="pl">elementary, Inc.</developer_name>
+  <developer_name lang="oc">elementary, Inc.</developer_name>
+  <developer_name lang="nn">elementary, Inc.</developer_name>
+  <developer_name lang="nl">elementary, Inc.</developer_name>
+  <developer_name lang="mr">एलिमेंटरी,Inc.</developer_name>
+  <developer_name lang="ml">elementary, Inc.</developer_name>
+  <developer_name lang="lt">elementary, Inc.</developer_name>
+  <developer_name lang="ko">elementary, Inc.</developer_name>
+  <developer_name lang="ja">elementary, Inc.</developer_name>
+  <developer_name lang="it">elementary, Inc.</developer_name>
+  <developer_name lang="hu">elementary, Inc.</developer_name>
+  <developer_name lang="he">elementary בע״מ.</developer_name>
+  <developer_name lang="gl">elementary, Inc.</developer_name>
+  <developer_name lang="fr">elementary, Inc.</developer_name>
+  <developer_name lang="fi">elementary, Inc.</developer_name>
+  <developer_name lang="es">elementary, Inc.</developer_name>
+  <developer_name lang="eo">elementary, Inc.</developer_name>
+  <developer_name lang="en_GB">elementary, Inc.</developer_name>
+  <developer_name lang="en_CA">elementary, Inc.</developer_name>
+  <developer_name lang="en_AU">elementary, Inc.</developer_name>
+  <developer_name lang="el">elementary, Inc.</developer_name>
+  <developer_name lang="de">elementary, Inc.</developer_name>
+  <developer_name lang="da">elementary, Incorporated.</developer_name>
+  <developer_name lang="cs">elementary, Inc.</developer_name>
+  <developer_name lang="ckb">کۆمپانیای ئێلەمێنتەری هاوپشک.</developer_name>
+  <developer_name lang="ca">elementary, Inc.</developer_name>
+  <developer_name lang="bs">elementary, Inc.</developer_name>
+  <developer_name lang="ar">elementary, Inc.</developer_name>
+  <developer_name lang="am">elementary, Inc.</developer_name>
+  <url type="homepage">https://elementary.io</url>
+  <url type="bugtracker">https://github.com/elementary/granite/issues</url>
+</component>

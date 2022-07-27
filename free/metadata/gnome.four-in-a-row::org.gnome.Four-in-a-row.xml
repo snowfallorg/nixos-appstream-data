@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>gnome.four-in-a-row</pkgname>
+  <icon width="64" height="64" type="cached">org.gnome.Four-in-a-row.png</icon>
+  <icon height="128" type="cached" width="128">org.gnome.Four-in-a-row.png</icon>
+  <id>org.gnome.Four-in-a-row</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>Four-in-a-row</name>
+  <name lang="zh_TW">四子連環棋</name>
+  <name lang="zh_HK">四子連環棋</name>
+  <name lang="zh_CN">四子连线</name>
+  <name lang="vi">Bốn-trong-một-hàng</name>
+  <name lang="uk">Чотири в ряд</name>
+  <name lang="ug">بىر قۇردا تۆت</name>
+  <name lang="tr">Bir-Sırada-Dört-Taş</name>
+  <name lang="th">แถวเรียงสี่</name>
+  <name lang="ta">ஒரு-வரியில்-நான்கு</name>
+  <name lang="sv">Fyra-i-rad</name>
+  <name lang="sr@latin">Četiri u nizu</name>
+  <name lang="sr">Четири у низу</name>
+  <name lang="sl">Štiri v vrsto</name>
+  <name lang="sk">Štyri v rade</name>
+  <name lang="ru">Четыре в ряд</name>
+  <name lang="ro">Patru-în-linie</name>
+  <name lang="pt_BR">Quatro em linha</name>
+  <name lang="pt">Quatro-em-linha</name>
+  <name lang="pl">Czwórki</name>
+  <name lang="pa">ਇੱਕ ਕਤਾਰ 'ਚ ਚਾਰ</name>
+  <name lang="oc">Quatre-en-seguida</name>
+  <name lang="nl">Vier-op-een-rij</name>
+  <name lang="nb">Fire på rad</name>
+  <name lang="ms">Empat-dalam-sebaris</name>
+  <name lang="ml">വരിയില്‍ നാല്</name>
+  <name lang="lv">Četri rindā</name>
+  <name lang="lt">Keturi eilėje</name>
+  <name lang="ko">사목</name>
+  <name lang="km">Four-in-a-row</name>
+  <name lang="kk">Four-in-a-row</name>
+  <name lang="ja">四目並べ</name>
+  <name lang="it">Forza 4</name>
+  <name lang="id">Four-in-a-row</name>
+  <name lang="hu">Négyet egy sorba</name>
+  <name lang="hr">Četiri u nizu</name>
+  <name lang="hi">एक-पंक्ति-में-चार</name>
+  <name lang="he">ארבע בשורה</name>
+  <name lang="gl">Catro en raia</name>
+  <name lang="fur">Fuarce 4</name>
+  <name lang="fr">Quatre-à-la-suite</name>
+  <name lang="fi">Neljä rivissä</name>
+  <name lang="fa">چهارتا در یک ردیف</name>
+  <name lang="eu">Lauko artzain-jokoa</name>
+  <name lang="et">Neli-tükki-reas</name>
+  <name lang="es">Cuatro en raya</name>
+  <name lang="eo">Kunligu Kvar</name>
+  <name lang="en_GB">Four-in-a-row</name>
+  <name lang="el">Τέσσερα στη σειρά</name>
+  <name lang="de">Vier gewinnt</name>
+  <name lang="da">Fire på stribe</name>
+  <name lang="cs">Čtyři-v-jedné-řadě</name>
+  <name lang="ca@valencia">Quatre en ratlla</name>
+  <name lang="ca">Quatre en ratlla</name>
+  <name lang="bs">Četiri-u-redu</name>
+  <name lang="bg">Четири в линия</name>
+  <name lang="be">Чатыры ў радок</name>
+  <name lang="ar">أربعة في صف</name>
+  <name lang="af">Vier-in-'n-Ry</name>
+  <summary>Make lines of the same color to win</summary>
+  <summary lang="zh_TW">將 4 粒棋子排成一直線</summary>
+  <summary lang="zh_HK">將 4 粒棋子排成一直線</summary>
+  <summary lang="zh_CN">将四粒棋子排成一线以取胜</summary>
+  <summary lang="vi">Đua để sắp dòng cùng màu để thắng</summary>
+  <summary lang="uk">Щоб виграти складайте лінії однакового кольору</summary>
+  <summary lang="ug">ئوخشاش رەڭدىكى قۇرلارنى ياسىسا ئۇتىدۇ</summary>
+  <summary lang="tr">Aynı renkten çizgiler yapmak için yarışın</summary>
+  <summary lang="th">เอาชนะด้วยการสร้างแถวสีเดียว</summary>
+  <summary lang="te">గెలుచుటకు వొకే రంగు గీతలను చేయుము</summary>
+  <summary lang="ta">ஒரே நிறத்திலான வரிகளை உருவாக்குவதற்்ுகாக போடிடு</summary>
+  <summary lang="sv">Skapa rader med samma färg för att vinna</summary>
+  <summary lang="sr@latin">Načinite nizove iste boje da pobedite</summary>
+  <summary lang="sr">Начините низове исте боје да победите</summary>
+  <summary lang="sl">Za zmago čim hitreje sestavite vrstice iste barve</summary>
+  <summary lang="sk">Vyhráte vytvorením radu kameňov rovnakej farby</summary>
+  <summary lang="ru">Для победы выстраивайте ряды шариков одинакового цвета</summary>
+  <summary lang="ro">Creați linii de aceeași culoare pentru a câștiga</summary>
+  <summary lang="pt_BR">Crie linhas da mesma cor para vencer</summary>
+  <summary lang="pt">Construa linhas da mesma cor para ganhar</summary>
+  <summary lang="pl">Utwórz linie tego samego koloru, aby wygrać</summary>
+  <summary lang="pa">ਜਿੱਤਣ ਲਈ ਉਸੇ ਰੰਗ ਦੀਆਂ ਲਾਇਨਾਂ ਬਣਾਓ</summary>
+  <summary lang="or">ଜିତିବା ପାଇଁ ସମାନ ରଙ୍ଗର ରେଖାଗୁଡିକୁ ତିଆରି କର</summary>
+  <summary lang="oc">Realizar de linhas de la meteissa color per ganhar</summary>
+  <summary lang="nn">Lag linjer med same farge for å vinne</summary>
+  <summary lang="nl">Probeer lijnen van dezelfde kleur te maken om te winnen</summary>
+  <summary lang="ne">विजयी हुनका लागि उस्तै रङको लाइन बनाउनुहोस्</summary>
+  <summary lang="nb">Lag linjer med samme farge for å vinne</summary>
+  <summary lang="ms">Buat satu barisan warna yang sama untuk menang</summary>
+  <summary lang="mr">जिंकण्याकरीता सारख्या रंगाच्या रांगा बनवा</summary>
+  <summary lang="ml">ജയിക്കാനായി ഒരേ നിറമുള്ളവരികള്‍ നിര്‍മിക്കുക.</summary>
+  <summary lang="mk">Правете линии во иста боја за да победите</summary>
+  <summary lang="mai">समान रँग क' पंक्ति बनाबै लेल प्रतिस्पर्धा करू</summary>
+  <summary lang="lv">Lai uzvarētu, veidojiet līnijas vienā krāsā</summary>
+  <summary lang="lt">Laimėkite sudėdami vienodos spalvos linijas</summary>
+  <summary lang="ko">같은 색을 한 줄로 놓아야 이기는 게임</summary>
+  <summary lang="kn">ಗೆಲ್ಲಲು ಒಂದೆ ಬಣ್ಣದ ಗೆರೆಗಳನ್ನು ರಚಿಸು</summary>
+  <summary lang="km">បង្កើតបន្ទាត់ដូចគ្នាត្រូវឈ្នះ</summary>
+  <summary lang="kk">Жеңу үшін бірдей түсті қатарлар жасаңыз</summary>
+  <summary lang="ja">同じ色のラインを作って競い合ってください</summary>
+  <summary lang="it">Crea delle linee dello stesso colore per vincere</summary>
+  <summary lang="id">Buat garis dengan warna yang sama untuk menang</summary>
+  <summary lang="hu">Alkosson azonos színű sorokat a győzelemhez</summary>
+  <summary lang="hr">Učinite redak od istih boja za pobjedu</summary>
+  <summary lang="hi">समान रंग की पंक्ति बनाने हेतु प्रतिस्पर्धा करें</summary>
+  <summary lang="he">יצירת שורות מאותו הצבע כדי לזכות</summary>
+  <summary lang="gu">જીતવા માટે એવા જ રંગની લીટીઓ બનાવો</summary>
+  <summary lang="gl">Faga liñas da mesma cor para gañar</summary>
+  <summary lang="fur">Cree des riis dal stes colôr par vinci</summary>
+  <summary lang="fr">Réaliser des lignes de la même couleur pour gagner</summary>
+  <summary lang="fi">Tee samanvärisiä rivejä ja voita</summary>
+  <summary lang="fa">برای بردن خطوطی از یک رنگ ایجاد کنید</summary>
+  <summary lang="eu">Irabazteko, osatu kolore bereko ilarak</summary>
+  <summary lang="et">Ühevärviliste ridade kombineerimise võistlus</summary>
+  <summary lang="es">Haga líneas del mismo color para ganar</summary>
+  <summary lang="eo">Liniigu samkoloraĵojn por gajni</summary>
+  <summary lang="en@shaw">𐑥𐑱𐑒 𐑤𐑲𐑯𐑟 𐑝 𐑞 𐑕𐑱𐑥 𐑒𐑳𐑤𐑼 𐑑 𐑢𐑦𐑯</summary>
+  <summary lang="en_GB">Make lines of the same colour to win</summary>
+  <summary lang="en_CA">Make lines of the same colour to win</summary>
+  <summary lang="el">Φτιάξτε γραμμές του ιδίου χρώματος για να κερδίσετε</summary>
+  <summary lang="dz">རྒྱལ་ཁ་ཐོབ་ནི་ལུ་ ཚོས་གཞི་ཅོག་གཅིག་པའི་གྱལ་རིམ་བཟོ།</summary>
+  <summary lang="de">Im Wettkampf Reihen gleicher Farben anordnen</summary>
+  <summary lang="da">Dan linjer af samme farve for at vinde</summary>
+  <summary lang="cy">Cystadlu i wneud llinellau o'r un lliw</summary>
+  <summary lang="cs">Soutěžte ve tvorbě úseček ze stejné barvy</summary>
+  <summary lang="ca@valencia">Per guanyar feu línies del mateix color</summary>
+  <summary lang="ca">Per guanyar feu línies del mateix color</summary>
+  <summary lang="bs">Napravite linije iste boje kako biste pobijedili</summary>
+  <summary lang="bn_IN">একই রঙের সারি তৈরির জন্য প্রতিযোগিতা করুন</summary>
+  <summary lang="bn">একই রঙের সারি তৈরির জন্য প্রতিযোগিতা করুন</summary>
+  <summary lang="bg">За да спечелите, подредете пулове от един цвят в линия</summary>
+  <summary lang="be">Каб выйграць, складай лініі з аднаго колеру</summary>
+  <summary lang="ast">Cria linies del mesmu collor pa ganar</summary>
+  <summary lang="as">খানি পংক্তিৰ জন্য সৰ্বমোট ৰং</summary>
+  <summary lang="ar">تنافس للقيام بسطور من نفس اللون</summary>
+  <summary lang="af">Maak rye van dieselfde kleur om te wen</summary>
+  <description>
+    <p>
+      A family classic, the objective of Four-in-a-row is to build a line of four
+      of your marbles while trying to stop your opponent (human or computer) from
+      building a line of his or her own. A line can be horizontal, vertical or
+      diagonal. The first player to connect four in a row is the winner!
+    </p>
+    <p>
+      Four-in-a-row features multiple difficulty levels. If you’re having trouble,
+      you can always ask for a hint.
+    </p>
+  </description>
+  <description lang="be">
+    <p>Класічная гульня, задача якой заключаецца ў тым, каб скласці лінію з чатырох каменьчыкаў, у той самы час стараючыся не дазволіць суперніку (чалавеку або камп'ютару) зрабіць гэта. Лінія можа быць гарызантальнай, вертыкальнай або дыяганальнай. Хто першы складзе чатыры каменьчыкі ў рад, той і выйграў!</p>
+  </description>
+  <description lang="bg">
+    <p>Класическа семейна игра, целта е първи да подредите 4 от вашите пулове в линия. Линията може да е хоризонтална, вертикална или диагонална. Можете да играете срещу човек или компютър.</p>
+  </description>
+  <description lang="bs">
+    <p>Klasičnoj porodici, četiri-u-redu je clj izgraditi linije za vaše četiri kuglice dok pokušava zaustaviti vašeg protivnika ( osoba ili kompjuter) od izgradnje svoje vlastite linije. Linija može biti horizontalna, vertikalna ili dijagonalna. Prvi igrač koji bude povezao četiri u red je pobjednik!</p>
+  </description>
+  <description lang="ca">
+    <p>Un clàssic familiar, l'objectiu del Quatre en ratlla és construir una línia de quatre boles mentre s'intenta evitar que l'oponent (ja sigui humà o l'ordinador) faci la seva pròpia línia. Una línia pot ser horitzontal, vertical o en diagonal. El primer jugador que aconsegueixi posar quatre boles en línia guanya!</p>
+    <p>El Quatre en ratlla té múltiples nivells de dificultat. Si no sabeu on tirar la bola, sempre podeu demanar una pista.</p>
+  </description>
+  <description lang="ca@valencia">
+    <p>Un clàssic familiar, l'objectiu del Quatre en ratlla és construir una línia de quatre boles mentre s'intenta evitar que l'oponent (ja siga humà o l'ordinador) faça la seua pròpia línia. Una línia pot ser horitzontal, vertical o en diagonal. El primer jugador que aconseguïsca posar quatre boles en línia guanya!</p>
+  </description>
+  <description lang="cs">
+    <p>Čtyři-v-jedné-řadě je klasická rodinná hra, jejímž cílem je uspořádat čtyři své kuličky do jedné řady, zatímco protivník (člověk nebo počítač) se vám v tom snaží zabránit a naopak vybudovat svoji vlastní řadu. Řada může být vodorovná, svislá nebo úhlopříčná. První hráč, který sestaví řadu ze čtyř kuliček, vyhrává.</p>
+    <p>Čtyři-v-jedné-řadě nabízí několik úrovní složitosti. A vždy, když se dostanete do úzkých, můžete požádat o radu.</p>
+  </description>
+  <description lang="da">
+    <p>En familieklassiker. Målet i Fire på stribe er at danne en linje med fire kugler, mens du forhindrer menneske- eller computermodstanderen i at gøre det samme. En linje kan være vandret, lodret eller diagonal. Første spiller, der forbinder fire på stribe, vinder!</p>
+    <p>Fire på stribe har flere sværhedsgrader. Hvis du er i problemer, kan du altid bede om et tip.</p>
+  </description>
+  <description lang="de">
+    <p>»Vier gewinnt« ist ein Familienklassiker, dessen Ziel es ist, vier Ihrer Murmeln in eine Reihe zu bringen und gleichzeitig den Gegner (Mensch oder Rechner) an der gleichen Aufgabe zu hindern. Eine Reihe kann horizontal, vertikal oder diagonal sein. Der erste Spieler, der vier in einer Reihe hat, gewinnt!</p>
+    <p>»Vier gewinnt« hat mehrere Schwierigkeitsstufen. Wenn Sie Schwierigkeiten haben, so können Sie immer nach einem Tipp fragen.</p>
+  </description>
+  <description lang="el">
+    <p>Ένα κλασικό οικογενειακό παιχνίδι, με σκοπό τη δημιουργία μιας γραμμής με τέσσερα δικά σας κομμάτια, ενώ προσπαθείτε να εμποδίσετε τον αντίπαλό σας (άνθρωπο ή υπολογιστή) να δημιουργήσει μια δικιά του γραμμή. Μια γραμμή μπορεί να είναι οριζόντια, κάθετη ή διαγώνια. Ο πρώτος παίκτης που βάζει τέσσερα κομμάτια μαζί στη γραμμή, είναι ο νικητής!</p>
+    <p>Το Τέσσερα στη σειρά διαθέτει πολλαπλά επίπεδα δυσκολίας. Αν έχετε πρόβλημα, μπορείτε πάντα να ζητήσετε μια υπόδειξη.</p>
+  </description>
+  <description lang="en_GB">
+    <p>A family classic, the objective of Four-in-a-row is to build a line of four of your marbles while trying to stop your opponent (human or computer) from building a line of his or her own. A line can be horizontal, vertical or diagonal. The first player to connect four in a row is the winner!</p>
+    <p>Four-in-a-row features multiple difficulty levels. If you’re having trouble, you can always ask for a hint.</p>
+  </description>
+  <description lang="eo">
+    <p>Familia klasiko. La celo de Kunligu Kvar estas konstruado de linio de kvar viaj rulglobetoj, klopodante ke via kontraŭludanto (homa aŭ komputila) konstruu sian propran linion. Linio povas esti horizontala, vertikala, aŭ diagonala. La unua ludanto, kiu kunligas kvar, gajnas!</p>
+    <p>Kunligu Kvar havas diversajn malfacilecajn nivelojn. Se vi luktas, vi ĉiam povas peti konsileton.</p>
+  </description>
+  <description lang="es">
+    <p>Un clásico familiar, el objetivo de Cuatro en raya es construir una línea con sus cuatro canicas mientras intenta evitar su oponente (que puede ser humano o el propio equipo) haga la suya. Una línea puede ser horizontal, vertical o diagonal. El primer jugador en conseguir las cuatro en raya gana.</p>
+    <p>Cuatro en raya tiene varios niveles de dificultad. Si tiene problemas, siempre puede pedir una pista.</p>
+  </description>
+  <description lang="eu">
+    <p>Lauko artzain-jokoaren helburua lerro batean zure lau puxtarri jartzea da zure aurkariak (gizakia edo ordenagailua) lerro bat osatu aurretik. Lerroa horizontala, bertikala edo zeharretakoa izan daiteke. Lerro batean lau puxtarri jartzea lortzen dituenak irabazten du.</p>
+    <p>Lauko artzain-jokoak zailtasun-maila desberdinak ditu. Arazoak edukiz gero, argibide bat eska dezakezu.</p>
+  </description>
+  <description lang="fa">
+    <p>یک بازی کلاسیک خانوادگی، هدف چهار-در-یک-ردیف این است که چهارتا از تیله‌های خود را در یک ردیف قرار دهید در حالی که سعی میکنید حریف خود را (انسان یا کامپیوتر) از ساختن ردیف خود متوقف کنید. یک خط می‌تواند عمودی، افقی یا قطری باشد. اولین بازیکنی که ردیف را بسازد برنده است!</p>
+    <p>چهارتا در یک ردیف شامل چند سطح دشواری است. اگر به مشکلی برخوردید، همیشه می‌توانید راهنمایی بگیرید.</p>
+  </description>
+  <description lang="fi">
+    <p>Neljä rivissä -pelin idea on rakentaa neljän marmoripallon rivi, mutta samalla estää vastustajaa rakentamasta omaa riviä. Rivi voi olla pysty- tai vaakasuorassa tai viistottain. Se pelaaja, joka pystyy ensin tehdä neljän rivin, voittaa!</p>
+    <p>Neljä rivissä sisältää useita eri vaikeustasoja. Jos olet pulassa, voit aina pyytää vihjettä.</p>
+  </description>
+  <description lang="fr">
+    <p>L’objectif de Quatre-à-la-suite est de construire une ligne de quatre billes tout en empêchant votre adversaire (humain ou électronique) de construire une telle ligne avec ses billes. Une ligne peut être horizontale, verticale ou diagonale. Le premier joueur qui connecte quatre billes à la suite gagne !</p>
+    <p>Quatre-à-la-suite propose différents niveaux de difficulté. Si vous avez du mal, vous pouvez toujours demander une astuce.</p>
+  </description>
+  <description lang="fur">
+    <p>Un classic zûc par fameis, l'obietîf di Fuarce 4 al è chel di creâ une rie di cuatri modons dal tô colôr intant che tu ciris di fermâ il to aversari (uman o calcoladôr). Une rie e pues jessi orizontâl, verticâl o diagonâl: cui che al rive par prin a metiju cuatri in linie al vinç!</p>
+    <p>Fuarce 4 al dispon di diviers nivei di dificoltât. Se tu sês in dificoltât tu puedis simpri domandâ un piçul aiût.</p>
+  </description>
+  <description lang="gl">
+    <p>Un clásico familiar, o obxectivo de Catro en raia é construír unha liña coas súas catro canicas mentres tenta evitar ao seu contrincante (que pode ser humano ou o propio computador) faga a súa. Unha liña pode ser horizontal, vertical ou diagonal. O primeiro xogador en conseguir as catro en raia gana!</p>
+    <p>Catro en raia conta con varios niveis de dificultade. Se ten problemas, sempre pode pedir un consello.</p>
+  </description>
+  <description lang="he">
+    <p>קלסיקה משפחתית, המטרה במשחק ארבע בשורה היא להרכיב שורה של ארבע גולות תוך ניסיון למנוע זאת מהיריב (מחשב או אנושי). שורה יכולה להיות אופקית, אנכית או אלכסונית. השחקן הראשון שמחבר ארבעה בשורה הוא המנצח!</p>
+    <p>ארבע בשורה כולל מספר רמות קושי. אם הסתבכת, תמיד ניתן לבקש רמז.</p>
+  </description>
+  <description lang="hr">
+    <p>Klasična obiteljska igra, cilj igre Četiri u nizu je načiniti redak od četiri kuglica dok pokušavate spriječiti svojeg protivnika (čovjeka ili računalo) da načini vlastiti redak. Redak može biti okomit, vodoravan ili dijagonalan. Prvi igrač koji poveže četiri kuglice u redku je pobjednik!</p>
+    <p>Četiri u nizu sadrži više razina težine. Ako imate poteškoća, uvijek možete pitati za sljedeći potez.</p>
+  </description>
+  <description lang="hu">
+    <p>Egy családi klasszikus, a Négyet egy sorba célja egy négy golyóból álló sor összeállítása, miközben megakadályozza ellenfelét (ember vagy számítógép) ugyanebben. A sor lehet vízszintes, függőleges vagy átlós. Aki elsőként összeköt négyet egy sorba, nyer!</p>
+    <p>A Négyet egy sorba több nehézségi szintet tartalmaz. Ha bajban van, bármikor kérhet tippet.</p>
+  </description>
+  <description lang="id">
+    <p>Permainan keluarga yang klasik, tujuan dari Four-in-a-row adalah untuk membangun suatu baris berisi empat kelereng Anda sambil mencoba menghentikan lawan Anda (orang atau komputer) membentuk suatu baris serupa. Baris bisa horisontal, vertikal, atau diagonal. Pemain pertama yang berhasil menghubungkan empat segaris adalah pemenangnya!</p>
+    <p>Four-in-a-row bisa diatur tingkat kesulitannya. Bila Anda mengalami masalah, Anda selalu bisa meminta petunjuk.</p>
+  </description>
+  <description lang="it">
+    <p>Un classico gioco per famiglie, l'obiettivo di Forza 4 è quello di creare una riga di quattro bilie dello stesso colore mentre tenti di fermare il tuo avversario (umano o computer). Una riga può essere orizzontale, verticale o diagonale: chi riesce per primo a metterne quattro in riga vince!</p>
+    <p>Forza 4 dispone di diversi livelli di difficoltà e se sei in difficoltà, puoi sempre chiedere un piccolo aiuto.</p>
+  </description>
+  <description lang="ja">
+    <p>四目並べは家族でも楽しめる古典的なゲームです。あなたと対戦相手 (人間またはコンピューター) で交互にビー玉を落とし、どちらが先に玉を四つ一列に並べるかを競います。並べる方向は縦、横、斜めのどれでもかまいません。相手を邪魔しながら先に四つ並べた方が勝ちです。</p>
+    <p>自分のレベルに合わせてコンピューターの強さを選択できます。次の一手に悩んだときは、ヒントをもらうこともできます。</p>
+  </description>
+  <description lang="kk">
+    <p>Отбасылық классикалық ойын, "Төртеуін қатарға" мақсаты — қарсыласына (адам немесе компьютер) өз қатарын салуға жол бермей тұра, өз шариктердің төртеуін бір қатарға салу. Қатар горизонталды, вертикалды немесе диагональді болуы мүмкін. Қатарынан төрт шарикті қосатын алғашқы ойыншы жеңімпаз болады!</p>
+    <p>"Төртеуін қатарға" ойынында бірнеше қиындық деңгейлері бар. Егер қиындық туындаса, әрдайым тұспал сұрауға болады.</p>
+  </description>
+  <description lang="ko">
+    <p>사목 게임의 목표는 구슬을 4개 연속으로 이으면서 상대방(사람 또는 컴퓨터)이 4개를 연속으로 잇지 못하게 만드는 것입니다. 가로 줄, 세로 줄, 대각선 줄 모두 가능합니다. 먼저 4개 연속으로 이으면 승리합니다!</p>
+    <p>사목은 여러가지 난이도가 있습니다. 풀기 어려우면 언제든지 힌트를 얻을 수 있습니다.</p>
+  </description>
+  <description lang="lt">
+    <p>Klasikinis žaidimas, keturių eilėje tikslas yra sudėti į tiesią liniją keturis savo kamuolius, tuo mat metu sutrukdant tą padaryti priešininkui (žmogui arba kompiuteriui). Linija gali būti horizontali, vertikali arba įstriža. Laimi pirmas, sudėjęs keturis kamuoliukus į liniją!</p>
+    <p>Keturi eilėje turi kelis sudėtingumo lygius. Jei sunkiai sekasi, visada galite prašyti patarimo.</p>
+  </description>
+  <description lang="lv">
+    <p>Klasiska ģimenes spēle, kurā mērķis ir salikt rindu ar četrām lodītēm, mēģinot traucēt to pašu izdarīt pretiniekam, vai tas būtu cilvēks vai dators. Rindas var būt horizontālas, vertikālas vai diagonālas. Pirmais, kas saliks četras secīgas lodītes, būs uzvarētājs!</p>
+    <p>Spēlē “Četri rindā” ir vairāki grūtības līmeņi. Ja ir kāda ķibele, vienmēr vari prasīt padomu.</p>
+  </description>
+  <description lang="ms">
+    <p>Sebuah permainan keluarga klasik, objektif empat-dalam-sebaris ialah membina satu baris empat guli dan pada masa yang sama cuba gagalkan pihak lawan anda (komputer atau orang lain) membina satu barisannya. Baris boleh menegak, mengufuk atau condong. Pemain yang berjaya membentuk empat guli dalam satu barisan adalah pemenangnya!</p>
+    <p>Empat-dalam-sebaris memfiturkan aras kesukaran berbilang. Jika anda hadapi masalah, anda boleh dapatkan satu pembayang.</p>
+  </description>
+  <description lang="nb">
+    <p>Klassisk familiespill. Målet i Fire på rad er å lage en linje med fire av dine kuler mens du stopper motstanderen (menneske eller datamaskin) fra å gjøre det samme. Linjen kan være horisontal, vertikal eller diagonal. Første spiller som klarer fire på rad vinner!</p>
+  </description>
+  <description lang="nl">
+    <p>Het doel van Vier-op-een-rij, de familieklassieker, is om een rij van vier van uw knikkers te bouwen, terwijl u probeert te verhinderen dat de tegenstander (mens of computer) ditzelfde bereikt. Een rij kan horizontaal, verticaal of diagonaal zijn. De eerste speler die vier op een rij heeft wint!</p>
+    <p>Vier-op-een-rij heeft meerdere moeilijkheidsgraden. Als u problemen heeft kunt u altijd een hint vragen.</p>
+  </description>
+  <description lang="oc">
+    <p>L'objectiu de Quatre-en-seguida es de construire una linha de quatre bilhas tot en empachant vòstre adversari (uman o electronic) de construire una tala linha amb sas bilhas. Una linha pòt èsser orizontala, verticala o diagonala. Lo primièr jogaire que connècta quatre bilhas en seguida ganha !</p>
+  </description>
+  <description lang="pa">
+    <p>ਪਰਿਵਾਰਿਕ ਟਕਸਾਲੀ ਖੇਡ, ਚਾਰ-ਵਿੱਚ-ਕਤਾਰ ਦਾ ਮਕਸਦ ਤੁਹਾਡੇ ਚਾਰ ਕੱਚ ਦੀਆਂ ਗੋਲੀਆਂ ਨੂੰ ਇੱਕ ਕਤਾਰ ਵਿੱਚ ਲਿਆਉਣਾ ਹੁੰਦਾ ਹੈ, ਜਦੋਂ ਕਿ ਤੁਹਾਡਾ ਵਿਰੋਧੀ (ਇਨਸਾਨ ਜਾਂ ਕੰਪਿਊਟਰ) ਆਪਣੀ ਕਤਾਰ ਬਣਾਉਣ ਲਈ ਰੋਕਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੇਗਾ। ਕਤਾਰ ਲੇਟਵੀਂ, ਖੜ੍ਹਵੀਂ ਜਾਂ ਟੇਡੀ ਹੋ ਸਕਦੀ ਹੈ। ਸਭ ਤੋਂ ਪਹਿਲਾਂ ਚਾਰਾਂ ਨੂੰ ਕਤਾਰ ਵਿੱਚ ਲਿਆਉਣ ਵਾਲਾ ਜੇਤੂ ਹੁੰਦਾ ਹੈ।</p>
+  </description>
+  <description lang="pl">
+    <p>Klasyczna gra rodzinna Czwórki. Celem jest zbudowanie linii czterech kulek, jednocześnie próbując uniemożliwić to samo przeciwnikowi (innemu graczowi lub komputerowi). Linia może być pionowa, pozioma lub po przekątnej. Pierwszy gracz, który połączy cztery kulki wygrywa!</p>
+    <p>Gra Czwórki zawiera kilka poziomów trudności. W razie problemów zawsze można skorzystać z podpowiedzi.</p>
+  </description>
+  <description lang="pt">
+    <p>Um clássico familiar, o objetivo do Quatro-em-linha é construir uma linha de quatro esferas e simultaneamente impedir o adversário (humano ou computador) de construir a sua própria linha. Uma linha pode ser horizontal, vertical ou diagonal. O primeiro jogador a ligar quatro em linha é o vencedor!</p>
+    <p>Quatro-em-linha dispõe de vários níveis de dificuldade. Se estiver em dificuldades, pode sempre pedir uma dica.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Um clássico de família, o objetivo do Quatro em linha é criar uma linha de quatro de suas peças enquanto tenta parar seu oponente (humano ou computador) na construção de uma linha dele ou dela. Uma linha pode ser horizontal, vertical ou diagonal. O primeiro jogador a conectar quatro em uma linha é o vencedor!</p>
+    <p>Quatro em linha possui múltiplos níveis de dificuldade. Se você está tendo dificuldade, você sempre pode solicitar uma dica.</p>
+  </description>
+  <description lang="ro">
+    <p>Un clasic de familie, obiectivul jocului Patru-în-linie este de a construi o linie cu patru din bilele la dispoziție în timp ce încercați să opriți oponentul (om sau calculator) din a construi o linie la rândul lui sau ei. O linie poate fi orizontală, verticală sau diagonală. Primul jucător care conectează patru în linie este câștigătorul!</p>
+    <p>Patru-în-linie deține niveluri multiple de dificultate. Dacă aveți probleme, puteți întotdeauna să solicitați un indiciu.</p>
+  </description>
+  <description lang="ru">
+    <p>Классическая семейная игра. Цель игры «Четыре в ряд» — построить линию из своих шариков раньше, чем это сделает соперник (человек или компьютер). Линия может быть горизонтальной, вертикальной или диагональной. Побеждает игрок, который первым соберёт четыре шарика в ряд.</p>
+  </description>
+  <description lang="sk">
+    <p>Klasická rodinná hra, ktorej cieľom je postaviť líniu zo štyroch guľôčok a zároveň zabrániť protihráčovi (človek alebo počítač) postaviť jeho vlastnú líniu. Línia môže byť vodorovná, zvislá alebo uhlopriečna. Víťazom je hráč, ktorý pospája štyri guľôčky za sebo ako prvý.</p>
+    <p>Hra Štyri v rade ponúka viaceré stupne obtiažnosti. Ak sa neviete pohnúť ďalej, môžete požiadať o radu.</p>
+  </description>
+  <description lang="sl">
+    <p>Klasična igra štirih v vrsto. Cilj igre je postaviti 4 kroglice v vrsto in hkrati preprečiti nasprotniku (drugemu igralcu ali računalniku), da stori enako. Vrsta je lahko navpična, vodoravna ali diagonalna. Zmaga tisti, ki prvi postavi štiri v vrsto.</p>
+    <p>Igra ima več zahtevnostnih ravni, omogoča pa tudi uporabo namigov v primeru težav.</p>
+  </description>
+  <description lang="sr">
+    <p>Класична породична, циљ игре Четири у низу је да повежете четири кликера у једном низу и да не дозволите вашем противнику (другару или рачунару) да дође до решења пре вас. Низ може бит положен, усправан или дијагоналан. Победник је онај ко први повеже четири у низу!</p>
+    <p>Четири у низу се одликује вишеструким нивоима тежине. Ако сте у неприлици, увек можете да затражите савет.</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Klasična porodična, cilj igre Četiri u nizu je da povežete četiri klikera u jednom nizu i da ne dozvolite vašem protivniku (drugaru ili računaru) da dođe do rešenja pre vas. Niz može bit položen, uspravan ili dijagonalan. Pobednik je onaj ko prvi poveže četiri u nizu.</p>
+  </description>
+  <description lang="sv">
+    <p>En familjeklassiker. Målet i Fyra-i-rad är att bygga en rad av fyra av dina kulor medan du försöker stoppa motståndaren (dator eller mänsklig) från att bygga en egen rad. En rad kan vara horisontell, vertikal eller diagonal. Den första spelaren som lägger fyra i rad är vinnaren!</p>
+    <p>Fyra-i-rad erbjuder flera svårighetsgrader. Om du har problem kan du alltid be om ett tips.</p>
+  </description>
+  <description lang="tr">
+    <p>Bir aile klasiği, Bir-Sırada-Dört-Taş’ın amacı rakibinizin (insan veya bilgisayar) kendine ait bir çizgi oluşturmasını engellemeye çalışırken pullarınızdan dördü ile bir çizgi oluşturmaktır. Bir çizgi yatay, dikey veya köşegen olabilir. Bir sırada dört taneyi bağlayan ilk oyuncu kazanır!</p>
+    <p>Bir-Sırada-Dört-Taşʼın birden çok zorluk düzeyi vardır. Eğer sorun yaşıyorsanız her zaman bir ipucu isteyebilirsiniz.</p>
+  </description>
+  <description lang="uk">
+    <p>Класична гра «Чотири в ряд», ціль якої — побудувати ряд з чотирьох кульок, і паралельно намагатись стримувати супротивника (людину або комп'ютера) зробити те саме. Рядок може бути горизонтальний, вертикальний або діагональний. Перший гравець, який з'єднає чотири у ряд, виграє!</p>
+    <p>«Чотири в ряд» має кілька рівнів складності. Якщо у вас проблеми, ви завжди можете попрохати про підказку.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>一个家庭经典游戏，四字连线的目的是将你自己的四个弹珠连成一线同时阻止你的对手(人或者计算机)连线成功。连线可以是横的，竖的或斜的。第一个将四个弹珠连成一条线的选手将获胜！</p>
+    <p>四子连线有多个难度级别。如果您玩不下去，也可以获取提示。</p>
+  </description>
+  <description lang="zh_HK">
+    <p>傳統遊戲家族之一，四子連環棋的目的是將你的彈珠四個連成一直線，同時要阻止你的對手 (人類或電腦) 完成他(她)自己的連線。連線可以是水平、垂直或斜線。第一個將四個彈珠連成一直線的玩家就是勝利者！</p>
+  </description>
+  <description lang="zh_TW">
+    <p>傳統遊戲家族之一，四子連環棋的目的是將您的彈珠四個連成一直線，同時要阻止您的對手 (人類或電腦) 完成他(她)自己的連線。連線可以是水平、垂直或斜線。第一個將四個彈珠連成一直線的玩家就是勝利者！</p>
+    <p>四子連環棋有多種難度等級。如果您遇到困難，可以隨時要求提示。</p>
+  </description>
+  <screenshots>
+    <screenshot height="447" width="700" type="default">
+      <image>https://people.gnome.org/~mcatanzaro/four-in-a-row.png</image>
+    </screenshot>
+  </screenshots>
+  <provides>
+    <id>four-in-a-row.desktop</id>
+  </provides>
+  <launchable type="desktop-id">org.gnome.Four-in-a-row.desktop</launchable>
+  <url type="homepage">https://wiki.gnome.org/Apps/Four-in-a-row</url>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/four-in-a-row/issues</url>
+  <url type="translate">https://wiki.gnome.org/TranslationProject</url>
+  <url type="donation">https://www.gnome.org/friends/</url>
+  <url type="help">https://help.gnome.org/users/four-in-a-row/stable/</url>
+  <update_contact>mcatanzaro_at_gnome.org</update_contact>
+  <project_group>GNOME</project_group>
+  <developer_name>The GNOME Project</developer_name>
+  <developer_name lang="zh_TW">GNOME 計畫</developer_name>
+  <developer_name lang="zh_CN">GNOME 项目</developer_name>
+  <developer_name lang="uk">Проект GNOME</developer_name>
+  <developer_name lang="tr">GNOME Projesi</developer_name>
+  <developer_name lang="sv">GNOME-projektet</developer_name>
+  <developer_name lang="sr@latin">Gnomov projekat</developer_name>
+  <developer_name lang="sr">Гномов пројекат</developer_name>
+  <developer_name lang="sl">Projekt GNOME</developer_name>
+  <developer_name lang="sk">Projekt GNOME</developer_name>
+  <developer_name lang="ru">Проект GNOME</developer_name>
+  <developer_name lang="ro">Proiectul GNOME</developer_name>
+  <developer_name lang="pt_BR">O Projeto GNOME</developer_name>
+  <developer_name lang="pt">Projeto GNOME</developer_name>
+  <developer_name lang="pl">Projekt GNOME</developer_name>
+  <developer_name lang="nl">Het Gnome-project</developer_name>
+  <developer_name lang="nb">GNOME prosjektet</developer_name>
+  <developer_name lang="ms">Projek GNOME</developer_name>
+  <developer_name lang="lv">GNOME projekts</developer_name>
+  <developer_name lang="lt">GNOME projektas</developer_name>
+  <developer_name lang="ko">그놈 프로젝트</developer_name>
+  <developer_name lang="kk">GNOME жобасы</developer_name>
+  <developer_name lang="ja">The GNOME Project</developer_name>
+  <developer_name lang="it">Il progetto GNOME</developer_name>
+  <developer_name lang="id">Projek GNOME</developer_name>
+  <developer_name lang="hu">A GNOME projekt</developer_name>
+  <developer_name lang="hr">GNOME projekt</developer_name>
+  <developer_name lang="he">מיזם GNOME</developer_name>
+  <developer_name lang="gl">O Proxecto GNOME</developer_name>
+  <developer_name lang="fur">Il progjet GNOME</developer_name>
+  <developer_name lang="fr">Le projet GNOME</developer_name>
+  <developer_name lang="fi">Gnome-projekti</developer_name>
+  <developer_name lang="fa">پروژهٔ گنوم</developer_name>
+  <developer_name lang="eu">GNOME proiektua</developer_name>
+  <developer_name lang="es">El proyecto GNOME</developer_name>
+  <developer_name lang="eo">La Projekto GNOME</developer_name>
+  <developer_name lang="en_GB">The GNOME Project</developer_name>
+  <developer_name lang="el">Το έργο GNOME</developer_name>
+  <developer_name lang="de">Das GNOME-Projekt</developer_name>
+  <developer_name lang="da">GNOME-projektet</developer_name>
+  <developer_name lang="cs">Projekt GNOME</developer_name>
+  <developer_name lang="ca@valencia">El projecte GNOME</developer_name>
+  <developer_name lang="ca">El projecte GNOME</developer_name>
+  <developer_name lang="bg">Проектът GNOME</developer_name>
+  <developer_name lang="be">Праект GNOME</developer_name>
+  <developer_name lang="af">Die GNOME-projek</developer_name>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>UserDocs</kudo>
+  </kudos>
+  <translation type="gettext">four-in-a-row</translation>
+  <content_rating type="oars-1.0">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+
+  <releases>
+    <!-- should be kept in versioning inverted order -->
+    <release version="3.38.1" date="2020-10-03" urgency="medium" type="stable" />
+    <release version="3.37.91" date="2020-08-28" type="development" urgency="low" />
+  </releases>
+</component>

@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>gnome.yelp</pkgname>
+  <launchable type="desktop-id">yelp.desktop</launchable>
+  <icon width="64" type="cached" height="64">org.gnome.Yelp.png</icon>
+  <icon type="cached" width="128" height="128">org.gnome.Yelp.png</icon>
+  <releases>
+    <release date="2021-09-25" version="41.1">
+      <description>
+        <p>Help 41.1 contains packaging fixes for distributors.</p>
+      </description>
+    </release>
+    <release date="2021-09-18" version="41.0">
+      <description>
+        <p>Help 41.0 contains the following improvements:</p>
+        <ul>
+          <li>Search results and 'All Help' now use current styling</li>
+          <li>Various internal changes to keep up with modern APIs</li>
+          <li>Fixed aliasing on the icon</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="40" date="2020-03-20" />
+  </releases>
+  <id>yelp.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Help</name>
+  <name lang="zu">Usizo</name>
+  <name lang="zh_TW">求助</name>
+  <name lang="zh_HK">求助</name>
+  <name lang="zh_CN">帮助</name>
+  <name lang="xh">Uncedo</name>
+  <name lang="wa">Aidance</name>
+  <name lang="vi">Trợ giúp</name>
+  <name lang="uz@cyrillic">Ёрдам</name>
+  <name lang="uz">Yordam</name>
+  <name lang="uk">Довідка</name>
+  <name lang="ug">ياردەم</name>
+  <name lang="tr">Yardım</name>
+  <name lang="th">วิธีใช้</name>
+  <name lang="tg">Кумак</name>
+  <name lang="te">సహాయం</name>
+  <name lang="ta">உதவி</name>
+  <name lang="sv">Hjälp</name>
+  <name lang="sr@latin">Pomoć</name>
+  <name lang="sr">Помоћ</name>
+  <name lang="sq">Ndihmë</name>
+  <name lang="sl">Pomoč</name>
+  <name lang="sk">Pomocník</name>
+  <name lang="si">උදව්</name>
+  <name lang="rw">Ifashayobora</name>
+  <name lang="ru">Справка</name>
+  <name lang="ro">Ajutor</name>
+  <name lang="pt_BR">Ajuda</name>
+  <name lang="pt">Ajuda</name>
+  <name lang="ps">مرسته</name>
+  <name lang="pl">Pomoc</name>
+  <name lang="pa">ਮਦਦ</name>
+  <name lang="or">ସହାୟତା</name>
+  <name lang="oc">Ajuda</name>
+  <name lang="nso">Thušo</name>
+  <name lang="nn">Hjelp</name>
+  <name lang="nl">Hulp</name>
+  <name lang="ne">मद्दत</name>
+  <name lang="nds">Hulp</name>
+  <name lang="nb">Hjelp</name>
+  <name lang="ms">Bantuan</name>
+  <name lang="mr">मदत</name>
+  <name lang="mn">Тусламж</name>
+  <name lang="ml">സഹായം</name>
+  <name lang="mk">Помош</name>
+  <name lang="mg">Toro-làlana</name>
+  <name lang="mai">मद्दति </name>
+  <name lang="lv">Palīdzība</name>
+  <name lang="lt">Žinynas</name>
+  <name lang="li">Hulp</name>
+  <name lang="la">Auxilium: Help Contents=Adiuvantes Res</name>
+  <name lang="ky">Жардам</name>
+  <name lang="ku">Alîkarî</name>
+  <name lang="ks">मदद</name>
+  <name lang="ko">도움말</name>
+  <name lang="kn">ಸಹಾಯ</name>
+  <name lang="km">ជំនួយ</name>
+  <name lang="kk">Көмек</name>
+  <name lang="ka">დახმარება</name>
+  <name lang="ja">ヘルプ</name>
+  <name lang="it">Aiuto</name>
+  <name lang="is">Hjálp</name>
+  <name lang="id">Bantuan</name>
+  <name lang="hu">Súgó</name>
+  <name lang="hr">Priručnik</name>
+  <name lang="hi">मदद</name>
+  <name lang="he">עזרה</name>
+  <name lang="gu">મદદ</name>
+  <name lang="gl">Axuda</name>
+  <name lang="gd">Cobhair</name>
+  <name lang="ga">Cabhair</name>
+  <name lang="fur">Jutori</name>
+  <name lang="fr">Aide</name>
+  <name lang="fi">Ohje</name>
+  <name lang="fa">راهنما</name>
+  <name lang="eu">Laguntza</name>
+  <name lang="et">Abi</name>
+  <name lang="es">Ayuda</name>
+  <name lang="eo">Helpo</name>
+  <name lang="en_GB">Help</name>
+  <name lang="en_CA">Help</name>
+  <name lang="el">Βοήθεια</name>
+  <name lang="dz">གྲོགས་རམ།</name>
+  <name lang="de">Hilfe</name>
+  <name lang="da">Hjælp</name>
+  <name lang="cy">Cymorth</name>
+  <name lang="cs">Nápověda</name>
+  <name lang="crh">Yardım</name>
+  <name lang="ckb">یارمەتی</name>
+  <name lang="ca@valencia">Ajuda</name>
+  <name lang="ca">Ajuda</name>
+  <name lang="bs">Pomoć</name>
+  <name lang="br">Skoazell</name>
+  <name lang="bn_IN">সাহায্য</name>
+  <name lang="bn">সহায়তা</name>
+  <name lang="bg">Потребителско ръководство</name>
+  <name lang="be@latin">Dapamoha</name>
+  <name lang="be">Даведка</name>
+  <name lang="az">Yardım</name>
+  <name lang="ast">Ayuda</name>
+  <name lang="as">সহায়</name>
+  <name lang="ar">مساعدة</name>
+  <name lang="an">Aduya</name>
+  <name lang="am">መረጃ</name>
+  <name lang="af">Hulp</name>
+  <summary>Help viewer for GNOME</summary>
+  <summary lang="zh_TW">GNOME 的求助說明檢視器</summary>
+  <summary lang="zh_CN">GNOME 帮助查看器</summary>
+  <summary lang="vi">Trình xem trợ giúp dành cho GNOME</summary>
+  <summary lang="uk">Програма для перегляду довідки у GNOME</summary>
+  <summary lang="tr">GNOME için yardım görüntüleyici</summary>
+  <summary lang="sv">Hjälpvisare för GNOME</summary>
+  <summary lang="sr">Прегледач докумената помоћи за Гном</summary>
+  <summary lang="sl">Pregledovalnik pomoči za GNOME</summary>
+  <summary lang="sk">Prehliadač pomocníkov pre GNOME</summary>
+  <summary lang="ru">Приложение для просмотра справки GNOME</summary>
+  <summary lang="ro">Vizualizator de documentație pentru GNOME</summary>
+  <summary lang="pt_BR">Visualizador de ajuda para o GNOME</summary>
+  <summary lang="pt">Visualizador de ajuda para o GNOME</summary>
+  <summary lang="pl">Przeglądarka pomocy dla GNOME</summary>
+  <summary lang="pa">ਗਨੋਮ ਲਈ ਮਦਦ ਝਲਕਾਰਾ</summary>
+  <summary lang="oc">Visionador d’ajuda de GNOME</summary>
+  <summary lang="nl">Hulpweergave voor Gnome</summary>
+  <summary lang="ne">जिनोमका लागि मद्दत दर्शक</summary>
+  <summary lang="nb">Hjelpviser for GNOME</summary>
+  <summary lang="ms">Pelihat bantuan untuk GNOME</summary>
+  <summary lang="ml">ഗ്നോമിനായുള്ള സഹായം പ്രദര്‍ശിനി</summary>
+  <summary lang="lv">Palīdzības skatītājs GNOME videi</summary>
+  <summary lang="lt">GNOME žinyno žiūryklė</summary>
+  <summary lang="ko">그놈 도움말 보기 프로그램</summary>
+  <summary lang="kk">GNOME анықтамасын қарау құралы</summary>
+  <summary lang="ja">GNOME 向けヘルプビューアー</summary>
+  <summary lang="it">Visualizzatore di documentazione per GNOME</summary>
+  <summary lang="is">Hjálparvafri fyrir GNOME</summary>
+  <summary lang="id">Penampil bantuan untuk GNOME</summary>
+  <summary lang="hu">A GNOME súgómegjelenítője</summary>
+  <summary lang="hr">GNOME priručnik pomoći</summary>
+  <summary lang="he">מציג עזרה עבור GNOME</summary>
+  <summary lang="gl">Visor de axuda de GNOME</summary>
+  <summary lang="fur">Visualizadôr di jutoris par GNOME</summary>
+  <summary lang="fr">Visionneur d’aide de GNOME</summary>
+  <summary lang="fi">Ohjekatselin Gnomelle</summary>
+  <summary lang="fa">نمایشگر راهنما برای گنوم</summary>
+  <summary lang="eu">GNOMEren laguntzaren ikusgailua</summary>
+  <summary lang="es">Visor de ayuda de GNOME</summary>
+  <summary lang="en_GB">Help viewer for GNOME</summary>
+  <summary lang="el">Εφαρμογή προβολής βοήθειας για το GNOME</summary>
+  <summary lang="de">Hilfebetrachter für GNOME</summary>
+  <summary lang="da">Hjælpefremviser til GNOME</summary>
+  <summary lang="cs">Prohlížeč nápovědy pro GNOME</summary>
+  <summary lang="ckb">پیشاندەری یارمەتی گنۆم</summary>
+  <summary lang="ca">Visualitzador d'ajuda del GNOME</summary>
+  <summary lang="bg">Преглед на помощта за GNOME</summary>
+  <summary lang="be">Сродак для прагляду даведкі па GNOME</summary>
+  <description>
+    <p>
+      Yelp is the GNOME help viewer. It is the default Mallard viewer, but it
+      can also display DocBook, info, man, and HTML documentation.
+    </p>
+    <p>
+      It makes it easy to find the documentation you need, with interactive
+      search and bookmarks.
+    </p>
+    <p>
+      It also has an editor mode, which shows editorial comments and revision
+      statuses when editing Mallard documents.
+    </p>
+  </description>
+  <description lang="be">
+    <p>Yelp - сродак для прагляду даведкі па GNOME. Асноўным фарматам для яго ёсць Mallard, але праграма таксама можа адлюстроўваць DocBook, info, man і HTML.</p>
+    <p>Інтэрактыўны пошук і закладкі спрашчаюць навігацыю па дакументацыі.</p>
+    <p>Таксама ў праграмы ёсць рэжым рэдактара, у якім паказваюцца каментары і стан рэвізіі для дакументаў Mallard.</p>
+  </description>
+  <description lang="bg">
+    <p>Yelp е визуализаторът за помощта на GNOME. Стандартно показва помощта във формат Mallard, но поддържа и DocBook, info, man и HTML.</p>
+    <p>Yelp помага да откриете необходимата документация с интерактивно търсене и запазване на отметки.</p>
+    <p>Има и режим на редактиране, който ви показва коментарите и ревизиите при промяната на документи във формат Mallard.</p>
+  </description>
+  <description lang="ca">
+    <p>Yelp és el visualitzador d'ajuda del GNOME. És el visualitzador Mallard predeterminat, però també pot mostrar documentació en DocBook, info, man, i HTML.</p>
+    <p>Fa senzill cercar la documentació que necessiteu, amb cerca interactiva i adreces d'interès.</p>
+    <p>També disposa d'un mode d'edició que mostra comentaris i l'estat de revisions quan editeu documents Mallard.</p>
+  </description>
+  <description lang="ckb">
+    <p>Yelp بریتیە لە یارمەتیدەری گنۆم. دەستکاریکەری بنەڕەتی پیشاندانی پەڕگە دەرەکییەکانە، بەڵام دەتوانی پەڕتووکی بەڵەگەیی، زانیاری، بەڵگەنامەی HTMLـیش پیشان بدات.</p>
+    <p>یارمەتیت دەدات بۆ دۆزینەوەی بەڵگەکانت کە پێویستن، لەگەڵ گەڕانی پێشکەوتوو و دڵخوازکردن</p>
+    <p>هەروەها دۆخی دەستکاریکردنی هەیە، کە لێدوانی دەستکاریکردن و دۆخی پێداچوونەوەکان پیشان دەدات کاتێکی بەڵگەنامیەکەی دەرەکی دەستکاری دەکەی.</p>
+  </description>
+  <description lang="cs">
+    <p>Yelp je prohlížeč nápovědy pro GNOME. Jedná se o výchozí prohlížeč formátu Mallard, ale umí zobrazit i dokumentaci ve formátu DocBook, info, man a HTML.</p>
+    <p>Díky interaktivnímu vyhledávání a záložkám snadno najdete dokumentaci, kterou potřebujete.</p>
+    <p>Má také redakční režim, který zobrazuje redakční komentáře a stav revizí při úpravách dokumentů Mallard.</p>
+  </description>
+  <description lang="da">
+    <p>Yelp er GNOMEs hjælpefremviser. Yelp er standardfremviseren for Mallard, men kan også fremvise DocBook, info, man samt HTML-dokumentation.</p>
+    <p>Programmet gør det nemt at finde den dokumentation, du har brug for, med interaktiv søgning og bogmærker.</p>
+    <p>Det har også en redigeringstilstand, som viser kommentarer og revisionsstatus ved redigering af Mallard-dokumenter.</p>
+  </description>
+  <description lang="de">
+    <p>Yelp ist der Hilfebetrachter für GNOME. Er ist der voreingestellte Betrachter für Mallard-Hilfetexte, kann aber auch mit DocBook-, Texinfo- und HTML-Dokumenten sowie Unix-Handbuchseiten (Manpages) umgehen.</p>
+    <p>Durch interaktive Suche und Lesezeichen wird die das Finden der benötigten Dokumentation erleichtert.</p>
+    <p>Er verfügt auch über einen Editor-Modus, in dem Kommentare der Bearbeiter und der Revisionsstatus beim Bearbeiten von Mallard-Dokumenten angezeigt wird.</p>
+  </description>
+  <description lang="el">
+    <p>Το Yelp είναι εφαρμογή προβολής βοήθειας του GNOME. Είναι η προεπιλεγμένη εφαρμογή προβολής του Mallard, αλλά μπορεί επίσης να εμφανίσει τεκμηρίωση DocBook, info, man και HTML.</p>
+    <p>Κάνει εύκολη την εύρεση της τεκμηρίωσης που χρειάζεστε, με διαδραστική αναζήτηση και σελιδοδείκτες.</p>
+    <p>Έχει επίσης μια λειτουργία επεξεργασίας, η οποία εμφανίζει σχόλια συντακτών και κατάστασης αναθεώρησης κατά την επεξεργασία εγγράφων Mallard.</p>
+  </description>
+  <description lang="en_GB">
+    <p>Yelp is the GNOME help viewer. It is the default Mallard viewer, but it can also display DocBook, info, man, and HTML documentation.</p>
+    <p>It makes it easy to find the documentation you need, with interactive search and bookmarks.</p>
+    <p>It also has an editor mode, which shows editorial comments and revision statuses when editing Mallard documents.</p>
+  </description>
+  <description lang="es">
+    <p>Yelp es el visor de ayuda de GNOME. Es el visor predeterminado de Mallard, pero también puede mostrar documentación en DocBook, info, man y HTML.</p>
+    <p>Hace que sea más sencillo encontrar la documentación que necesita con búsqueda interactiva y marcadores.</p>
+    <p>También un modo de edición que muestra los comentarios del editor y el estado de revisión al editar documentos en Mallard.</p>
+  </description>
+  <description lang="eu">
+    <p>Yelp GNOMEren laguntza ikusteko tresna da. Mallard ikusgailu lehenetsia da, baina DocBook, info, man eta HTML dokumentazioa ere erakutsi dezake.</p>
+    <p>Erraz bihurtzen du behar duzun dokumentazioa bilatzea, bilaketa interaktiboa eta laster-markak baititu.</p>
+    <p>Editatzeko modua ere badu, Mallard dokumentuak editatzean editoreen iruzkinak eta berrikuspen-egoerak erakusten dituena.</p>
+  </description>
+  <description lang="fa">
+    <p>سلپ نمایشگر راهنمای گنوم است. به صورت پیش‌فرض برای نمایش مستندات مالارد طرّاحی شده،‌ولی می‌تواند DocBook، info، man و HTML را نیز نشان دهد.</p>
+    <p>این برنامه یافتن مستندات موردنیازتان را به وسیلهٔ جست‌وجوی تعاملی و نشانک‌ها، راحت می‌کند.</p>
+    <p>هم‌چنین یک حالت ویرایشگر دارد که هنگام ویرایش مستندات مالارد، نظرات ویرایشی و وضعیت‌های اصلاح را نشان می‌دهد.</p>
+  </description>
+  <description lang="fi">
+    <p>Yelp on Gnomen ohjekatselin. Se on oletusarvoinen katselin Mallardille, mutta se kykenee näyttämään myös DocBook-, info-, man- ja HTML-dokumentaatiota.</p>
+    <p>Sen avulla tarvitsemasi ohjeen ja dokumentaation löytäminen on helppoa, sillä sovellus tarjoaa muun muassa vuorovaikutteisen haun ja kirjanmerkit.</p>
+    <p>Yelp sisältää myös muokkaintilan, joka näyttää toimituksellisia kommentteja ja tarkastustiloja Mallard-asiakirjoja muokatessa.</p>
+  </description>
+  <description lang="fr">
+    <p>Yelp est le visionneur d’aide de GNOME. C’est le visionneur Mallard par défaut, mais il peut également afficher la documentation DocBook, info, man, et HTML.</p>
+    <p>Il permet de trouver facilement la documentation dont vous avez besoin, avec une recherche interactive et des signets.</p>
+    <p>Il dispose également d’un mode édition, qui affiche les commentaires éditoriaux et les statuts de révision lors de l’édition de documents Mallard.</p>
+  </description>
+  <description lang="fur">
+    <p>Yelp al è il visualizadôr di jutoris di GNOME. Al è il visualizadôr Mallard predefinît, ma al pues ancje mostrâ DocBook, info, man e documentazion HTML.</p>
+    <p>Al rint facil cjatâ la documentazion che ti covente, cun la ricercje interative e segnelibris.</p>
+    <p>Al à ancje une modalitât editôr, che e mostre coments editoriâi e i stâts de revision cuant che si modifiche i documents Mallard.</p>
+  </description>
+  <description lang="gl">
+    <p>Yelp é o visor de axuda de GNOME. É o visor por omisión de Mallard, pero tamén pode mostrar documentación en formato DocBook, info, man e HTML.</p>
+    <p>Fai doado atopar a documentación que precisa, con busca interactiva e marcadores.</p>
+    <p>Tamén conta con un modo editor, que mostra os comentarios editoriais e estados de revisión ao editar documentos Mallard.</p>
+  </description>
+  <description lang="he">
+    <p>‏Yelp הוא מציג העזרה עבור GNOME. הוא מציג Mallard כברירת מחדל, אבל יכול גם להציג DocBook, מידע, man ומסמכי HTML.</p>
+    <p>הוא מקל על מציעת מסמכים נצרכים, באמצעות חיפוש הדדי וסימניות.</p>
+    <p>ניתן גם להיכנס למצב עריכה, המציג הערות העורכים מצב תיקונים בעת עריכת מסמכי Mallard.</p>
+  </description>
+  <description lang="hr">
+    <p>Yelp je GNOME priručnik pomoći. To je zadani Mallard preglednik, ali isto tako može prikazivati DocBook, info, man, i HTML dokumentaciju.</p>
+    <p>Jednostavan je za pronalazak potrebne dokumentacije, s interaktivnom pretragom i zabilješkama.</p>
+    <p>Sadrži još i način rada uređivanja, koji prikazuje komentare uređivanja i stanja ispravaka pri uređivanju Mallard dokumenata.</p>
+  </description>
+  <description lang="hu">
+    <p>A yelp a GNOME súgómegjelenítője. Ez az alapértelmezett Mallard megjelenítő, de DocBook, info, man és HTML dokumentáció megjelenítésére is képes.</p>
+    <p>Az interaktív keresővel és a könyvjelzőkkel könnyűvé teszi a keresett dokumentáció megtalálását.</p>
+    <p>Szerkesztő móddal is rendelkezik, amely szerkesztői megjegyzéseket és revízióállapotokat is megjelenít a Mallard dokumentumok szerkesztésekor.</p>
+  </description>
+  <description lang="id">
+    <p>Yelp adalah penampil bantuan GNOME. Ini adalah penampil Mallard baku, tapi juga dapat menampilkan dokumentasi DocBook, info, man, dan HTML.</p>
+    <p>Menjadi mudah menemukan dokumentasi yang Anda butuhkan, dengan pencarian interaktif dan markah.</p>
+    <p>Ini juga memiliki mode penyunting, yang menampilkan komentar-komentar editorial dan status-status revisi ketika menyunting dokumen-dokumen Mallard.</p>
+  </description>
+  <description lang="is">
+    <p>Yelp er hjálparvafri GNOME. Það er sjálfgefinn skoðari fyrir Mallard-skjöl, en getur líka birt DocBook, info, man og HTML-hjálparskjöl.</p>
+    <p>Þetta einfaldar mjög að finna hjálparskjölin sem þú þarfnast, með gagnvirkri leit og bókamerkjum.</p>
+    <p>Það er einnig með ritunarham, sem birtir athugasemdir höfunda og stöðu yfirferðar þegar unnið er í Mallard-skjölum.</p>
+  </description>
+  <description lang="it">
+    <p>Yelp è il visualizzatore di guide e documentazione di GNOME. È il visualizzatore predefinito per i file Mallard, ma è in grado di visualizzare anche DocBook, info, man e documentazione in HTML.</p>
+    <p>Attraverso una ricerca interattiva e il supporto ai segnalibri, cercare la documentazione necessario non è mai stato così facile.</p>
+    <p>Dispone inoltre di una modalità editore, che consente di visualizzare i commenti editoriali e gli stati di revisione durante la modifica di documenti Mallard.</p>
+  </description>
+  <description lang="ja">
+    <p>Yelp は GNOME のヘルプビューアーです。Mallard ビューアーではありますが、DocBook、info、man、HTML ドキュメントも表示できます。</p>
+    <p>インタラクティブ検索とブックマークで、必要なドキュメントを簡単に見つけられます。</p>
+    <p>また、Mallard ドキュメントを編集するときに編集コメントやリビジョンステータスを確認できるエディターモードも備えています。</p>
+  </description>
+  <description lang="kk">
+    <p>Yelp — GNOME анықтамасын қарау құралы. Бұл стандартты Mallard қарау құралы, бірақ ол DocBook, info, man және HTML құжаттамасын да көрсете алады.</p>
+    <p>Интерактивті іздеу және бетбелгілерді қолдану арқылы қажетті құжаттаманы оңай табуға мүмкіндік береді.</p>
+    <p>Сондай-ақ, оның Mallard құжаттарын өңдеу кезінде редакциялық түсініктемелер мен нұсқа күйлерін көрсететін редактор режимі бар.</p>
+  </description>
+  <description lang="ko">
+    <p>옐프는 그놈 도움말 보기 프로그램입니다. 맬러드를 기본으로 보여주는 프로그램이지만 닥북, info, man, HTML 문서도 볼 수 있습니다.</p>
+    <p>대화식 검색, 즐겨찾기 기능을 통해 필요한 문서를 쉽게 찾아볼 수 있습니다.</p>
+    <p>맬러드 문서를 편집할 때, 편집자 모드로 편집자 의견과 개정 상태를 볼 수 있습니다.</p>
+  </description>
+  <description lang="lt">
+    <p>Yelp yra GNOME žinyno žiūryklė. Ji yra numatytoji Mallard žiūryklė, tačiau taip pat gali rodyti DocBook, info, man, ir HTML dokumentaciją.</p>
+    <p>Interaktyvios paieškos ir žymelių dėka, ji leidžia lengvai rasti ieškomą dokumentaciją.</p>
+    <p>Joje taip pat yra redaktoriaus veiksena, kuri, redaguojant Mallard dokumentus, rodo redaktoriaus komentarus ir taisymų būsenas.</p>
+  </description>
+  <description lang="lv">
+    <p>Yelp ir GNOME palīdzības skatītājs. Tas ir noklusējuma Mallard skatītājs, bet tas var attēlot arī DocBook, info, man un HTML dokumentāciju.</p>
+    <p>Ar to var viegli atrast vajadzīgo dokumentāciju; tajā ir interaktīva meklēšana un grāmatzīmes.</p>
+    <p>Tam ir arī redaktora režīms, kas rāda redakcionālos komentārus un pārskatu statusus, kad rediģē Mallard dokumentus.</p>
+  </description>
+  <description lang="ml">
+    <p>ഗ്നോമിനായുള്ള സഹായ പ്രദര്‍ശിനിയാണ് യെല്‍പ്. ഇത് സ്വതേയുള്ല മല്ലാര്‍ഡ് പ്രദര്‍ശിനിയാണ് എന്നാല്‍ ഇതിന് ഡോക്ബുക്ക്, ഇന്‍ഫോ, മാന്‍, എച്ടിഎംഎല്‍ പ്രമാണങ്ങള്‍ എന്നിവ കാണിക്കാനും കഴിയും.</p>
+    <p>തിരയല്‍, അടയാളവാക്കുകള്‍ തുടങ്ങിയവ ഉപയോഗിച്ച് നിങ്ങള്‍ക്കാവശ്യമായ ഡോക്യുമെന്റേഷന്‍ കണ്ടെത്തുക എന്നത് ഇത് എളുപ്പമാക്കുന്നു.</p>
+    <p>ഇതില്‍ എഡിറ്റര്‍ മോഡും ഉണ്ട്, അത് മല്ലാഡ് പ്രമാണങ്ങള്‍ തിരുത്തുമ്പോള്‍ എഡിറ്റോറിയല്‍ കമന്റുകളും റിവിഷന്‍ അവസ്ഥകളും കാണിക്കുന്നു.</p>
+  </description>
+  <description lang="ms">
+    <p>Yelp ialah pelihat bantuan GNOME. Ia adalah pelihat Mallard lalai, tetapi ia juga dapat memaparkan DocBook, info, man, dan dokumentasi HTML.</p>
+    <p>Ia memudahkan pencarian dokumentasi yang anda perlukan, dengan penggelintaran interaktif dan tanda buku.</p>
+    <p>Ia juga mempunyai mod penyunting, yang dapat menunjukkan ulasan-ulasan editorial dan status-status revisi ketika penyuntingan dokumen Mallard.</p>
+  </description>
+  <description lang="nb">
+    <p>Yelp viser hjelpetekster for GNOME. Det er forvalgt visningsprogram for Mallard, men kan også vise DocBook, info, man og HTML-dokumentasjon.</p>
+    <p>Programmet gjør det lett å finne dokumentasjonen du trenger med interaktivt søk og bokmerker.</p>
+    <p>Det har også redigeringsmodus som viser kommentarer og revisjonsstatus ved redigering av Mallard-dokumenter.</p>
+  </description>
+  <description lang="ne">
+    <p>येल्प जिनोम मद्दत दर्शक हो । यो पूर्वनिर्धारित मलार्ड दर्शक हो, तर यसले डकबुक, सूचना, मानिस, र एचटीएमएल दस्तावेज पनि प्रदर्शन गर्न सक्छ।</p>
+    <p>यसले तपाईँलाई आवश्यक कागजात फेला पार्न सजिलो बनाउँछ, अन्तरक्रियात्मक खोज र पुस्तकचिनो सहित।</p>
+    <p>यसमा एउटा सम्पादक मोड पनि छ, जसले कागजातहरू सम्पादन गर्दा सम्पादकीय टिप्पणीहरू र संशोधन स्थितिहरू देखाउँछ।</p>
+  </description>
+  <description lang="nl">
+    <p>Yelp is de hulpweergave voor Gnome. Mallard-bestanden worden er standaard in weergegeven, maar het kan ook DocBook-, info-, man- en HTML-documentatie tonen.</p>
+    <p>Zoek eenvoudig de documentatie die u nodig heeft, met interactief zoeken en bladwijzers.</p>
+    <p>Het heeft ook een bewerkingsmodus, die notities van redacteurs en revisiestatussen toont bij het bewerken van Mallard-documenten.</p>
+  </description>
+  <description lang="oc">
+    <p>Yelp es lo visionador d'ajuda de GNOME. Es lo visionador Mallard per defaut, mas pòt tanben afichar la documentacion DocBook, info, man e HTML.</p>
+    <p>Rend facil la recèrca de documentacion que vos fa mestièr amb recèrca interactiva e marcapaginas.</p>
+    <p>Possedís tanben un mòde editor, que mòstra los comentaris editorials e los estatuts de revision pendent las modificacions de documents Mallards.</p>
+  </description>
+  <description lang="pa">
+    <p>ਯੈਲਪ ਗਨੋਮ ਲਈ ਮਦਦ ਝਲਕਾਰਾ ਹੈ। ਇਹ ਮੂਲ ਮਲਾਰਡ ਦਰਸ਼ਕ ਹੈ, ਪਰ ਇਹ DocBook, info, man, ਅਤੇ HTML ਦਸਤਾਵੇਜ਼ ਵੀ ਦਿਖਾ ਸਕਦਾ ਹੈ।</p>
+    <p>ਇਹ ਤੁਹਾਡੇ ਲਈ ਦਸਤਾਵੇਜ਼ ਲੱਭਣ ਨੂੰ ਸੌਖਾ ਬਣਾ ਦਿੰਦਾ ਹੈ, ਜਿਸ ਵਿੱਚ ਤਾਲਮੇਲ ਨਾਲ ਖੋਜ ਤੇ ਬੁੱਕਮਾਰਕ ਸ਼ਾਮਲ ਹਨ।</p>
+    <p>ਇਹ ਐਡੀਟਰ ਢੰਗ ਵਿੱਚ ਹੈ, ਜੋ ਕਿ ਵਧੀਕ ਸੰਪਾਦਕੀ ਟਿੱਪਣੀਆਂ ਅਤੇ ਰੀਵਿਜ਼ਨ ਸਥਿਤੀਆਂ ਦਿਖਾਉਂਦਾ ਹੈ, ਜਦੋਂ ਕਿ ਮਲਾਰਡ ਦਸਤਾਵੇਜ਼ ਸੋਧੇ ਜਾਂਦੇ ਹਣ।</p>
+  </description>
+  <description lang="pl">
+    <p>Yelp to przeglądarka pomocy GNOME. To domyślna przeglądarka formatu Mallard, ale może także wyświetlać dokumentację w formatach DocBook, info, man i HTML.</p>
+    <p>Ułatwia znajdowanie potrzebnej dokumentacji za pomocą interaktywnego wyszukiwania i zakładek.</p>
+    <p>Ma także tryb redaktora, który wyświetla komentarze redakcyjne i stany wersji podczas redagowania dokumentów w formacie Mallard.</p>
+  </description>
+  <description lang="pt">
+    <p>O Yelp é o visualizador de ajuda do GNOME. É o visualizador de Mallard predefinido, mas também pode mostrar documentos DocBook, info, man, e HTML.  </p>
+    <p>Torna fácil encontrar a documentação necessária, dispondo de procura interativa e marcadores.</p>
+    <p>Também tem um modo de edição, que mostra comentários de edição e estados de revisão na edição de documentos Mallard.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Yelp é o visualizador de ajuda do GNOME. É o visualizador padrão do Mallard, mas também pode exibir documentação em DocBook, info, man e HTML.</p>
+    <p>Isso facilita a localização da documentação de que você precisa, com pesquisa e marcadores interativos.</p>
+    <p>Ele também possui um modo de editor, que mostra comentários editoriais e status de revisão ao editar documentos do Mallard.</p>
+  </description>
+  <description lang="ro">
+    <p>Yelp este vizualizatorul de documentație pentru GNOME. Este vizualizatorul implicit Mallard, dar poate afișa și documentație în formatele DocBook, info, man și HTML.</p>
+    <p>Facilitează găsirea documentației de care aveți nevoie, cu marcaje și o căutare interactivă.</p>
+    <p>Are de asemenea și un mod de editare, care arată comentarii editoriale și stări de revizie când editați documente Mallard.</p>
+  </description>
+  <description lang="ru">
+    <p>Yelp — приложение для просмотра справки GNOME. Это приложение для просмотра Mallard по умолчанию, но оно также может отображать документацию DocBook, info, man и HTML.</p>
+    <p>Позволяет легко найти необходимую вам документацию с интерактивным поиском и закладками.</p>
+    <p>Также имеет режим редактора, который показывает редакционные комментарии и статусы ревизий при редактировании документов Mallard.</p>
+  </description>
+  <description lang="sk">
+    <p>Yelp je prehliadač pomocníkov pre prostredie GNOME. Je predvoleným prehliadačom dokumentov Mallard, no dokáže zobraziť aj dokumentáciu DocBook, info, man, a HTML.</p>
+    <p>Uľahčuje nájdenie potrebnej dokumentácie pomocou interaktívneho vyhľadávania a záložiek.</p>
+    <p>Má aj redakčný režim zobrazujúci redakčné komentáre a stavy revízií pri upravovaní dokumentov Mallard.</p>
+  </description>
+  <description lang="sl">
+    <p>Program Yelp je pregledovalnik pomoči za namizje GNOME. Je privzet pregledovalnik za dokumentacijo v zapisu Mallard, podpira pa tudi DocBook, info, man in HTML.</p>
+    <p>Z uporabo zaznamkov in odzivnega iskalnika je iskanje po dokumentaciji enostavno.</p>
+    <p>V programu je tudi poseben urejevalni način, ki pokaže komentarje in stanje obdelave za dokumentacijo Mallard.</p>
+  </description>
+  <description lang="sr">
+    <p>Јелп (Yelp) је прегледач докумената помоћи за Гном. Он је подразумевани прегледач за формат Малард (Mallard) али такође може приказати Док-Бук (DocBook), инфо, ман и ХТМЛ документацију.</p>
+    <p>Олакшава налажење потребне документације са интерактивном претрагом и обележивачима.</p>
+    <p>Такође поседује режим уређивача у којем су приказани коментари уредника и стања ревизије приликом уређивања Малард докумената.</p>
+  </description>
+  <description lang="sv">
+    <p>Yelp är hjälpvisaren för GNOME. Den är standardvisaren för Mallard, men den kan också visa DocBook-, info-, man- och HTML-dokumentation.</p>
+    <p>Den gör det enkelt att hitta dokumentationen du behöver, med interaktiv sökning och bokmärken.</p>
+    <p>Den har också ett redigeringsläge, vilket visar redaktionella kommentarer och ändringsstatusar vid redigering av Mallard-dokument.</p>
+  </description>
+  <description lang="tr">
+    <p>Yelp, GNOME yardım görüntüleyicisidir. Öntanımlı Mallard görüntüleyicidir ama DocBook, info, man ve HTML belgelendirmeler de gösterebilir.</p>
+    <p>Etkileşimli arama ve yer imleriyle gereksindiğiniz belgelendirmeyi bulmayı kolaylaştırır.</p>
+    <p>Mallard belgelerini düzenlerken düzenleme yorumlarını ve düzeltme durumlarını gösteren bir düzenleme kipine de sahiptir.</p>
+  </description>
+  <description lang="uk">
+    <p>Yelp — програма GNOME для перегляду довідки. Це типова програма для перегляду документації у форматі Mallard, але нею можна скористатися для перегляду документації у форматах DocBook, info, man та HTML.</p>
+    <p>Із цією програмою вам буде просто знайти потрібну документацію — передбачено інтерактивний пошук та закладки.</p>
+    <p>Також передбачено режим редактора, у якому буде показано редакційні коментарі та стани модифікацій при редагуванні документації у форматі Mallard.</p>
+  </description>
+  <description lang="vi">
+    <p>Yelp là ứng dụng xem trợ giúp dành cho GNOME. Nó là bộ xem Mallard mặc định, nhưng nó còn có thể hiển thị tài liệu dạngDocBook, info, man, và HTML.</p>
+    <p>Nó làm cho việc tìm tài liệu bạn muốn dễ dàng hơn, với các tìm kiếm tương tác và đánh dấu.</p>
+    <p>Nó còn có một chế độ soạn thảo, thứ mà hiển thị các ghi chú phiên bản và tình trạng xem xét khi sửa các tài liệu Mallard.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>Yelp 是 GNOME 的帮助查看器。该程序可用作默认的 Mallard 查看器，也可用于显示 DocBook、Info、Man 和 HTML 文档。</p>
+    <p>Yelp 可简化查找文档的过程，并带有交互式搜索及书签功能。</p>
+    <p>Yelp 还带有编辑模式，在该模式下编辑 Mallard 文档可显示编辑注解及修改状态。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>Yelp 是 GNOME 求助檢視器。它是 Mallard 的預設檢視器，也可以用來顯示 DocBook、info、man、HTML 文件等。</p>
+    <p>它具備互動式搜尋與書籤功能，讓您可以輕鬆找到所需文件。</p>
+    <p>它也有編輯器模式，在編輯 Mallard 文件時可以顯示編者評註與修訂狀態。</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">https://gitlab.gnome.org/GNOME/yelp/raw/HEAD/data/screenshot.png</screenshot>
+  </screenshots>
+  <content_rating type="oars-1.1" />
+  <url type="homepage">https://wiki.gnome.org/Apps/Yelp</url>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/yelp/issues</url>
+  <updatecontact>gnome-doc-devel-list@gnome.org</updatecontact>
+  <project_group>GNOME</project_group>
+  <compulsory_for_desktop>GNOME</compulsory_for_desktop>
+  <translation type="gettext">yelp</translation>
+  <developer_name>The GNOME Project</developer_name>
+  <developer_name lang="zh_TW">GNOME 專案</developer_name>
+  <developer_name lang="zh_CN">The GNOME Project</developer_name>
+  <developer_name lang="vi">Dự án GNOME</developer_name>
+  <developer_name lang="uk">Проєкт GNOME</developer_name>
+  <developer_name lang="tr">GNOME Projesi</developer_name>
+  <developer_name lang="sv">GNOME-projektet</developer_name>
+  <developer_name lang="sr">Гномов пројекат</developer_name>
+  <developer_name lang="sl">Projekt GNOME</developer_name>
+  <developer_name lang="sk">Projekt GNOME</developer_name>
+  <developer_name lang="ru">Проект GNOME</developer_name>
+  <developer_name lang="ro">Proiectul GNOME</developer_name>
+  <developer_name lang="pt_BR">O Projeto GNOME</developer_name>
+  <developer_name lang="pt">Projeto GNOME</developer_name>
+  <developer_name lang="pl">Projekt GNOME</developer_name>
+  <developer_name lang="pa">ਗਨੋਮ ਪਰੋਜੈਕਟ</developer_name>
+  <developer_name lang="oc">Lo projècte GNOME</developer_name>
+  <developer_name lang="nl">Het Gnome-project</developer_name>
+  <developer_name lang="ne">जिनोम परियोजना</developer_name>
+  <developer_name lang="nb">GNOME prosjektet</developer_name>
+  <developer_name lang="ms">Projek GNOME</developer_name>
+  <developer_name lang="ml">ഗ്നോം പദ്ധതി</developer_name>
+  <developer_name lang="lv">GNOME projekts</developer_name>
+  <developer_name lang="lt">GNOME projektas</developer_name>
+  <developer_name lang="ko">그놈 프로젝트</developer_name>
+  <developer_name lang="kk">GNOME жобасы</developer_name>
+  <developer_name lang="ja">The GNOME Project</developer_name>
+  <developer_name lang="it">Il progetto GNOME</developer_name>
+  <developer_name lang="is">GNOME verkefnið</developer_name>
+  <developer_name lang="id">Proyek GNOME</developer_name>
+  <developer_name lang="hu">A GNOME projekt</developer_name>
+  <developer_name lang="hr">GNOME projekt</developer_name>
+  <developer_name lang="he">מיזם GNOME</developer_name>
+  <developer_name lang="gl">O Proxecto GNOME</developer_name>
+  <developer_name lang="fur">Il progjet GNOME</developer_name>
+  <developer_name lang="fr">Le projet GNOME</developer_name>
+  <developer_name lang="fi">Gnome-projekti</developer_name>
+  <developer_name lang="fa">پروژهٔ گنوم</developer_name>
+  <developer_name lang="eu">GNOME proiektua</developer_name>
+  <developer_name lang="es">El Proyecto GNOME</developer_name>
+  <developer_name lang="en_GB">The GNOME Project</developer_name>
+  <developer_name lang="el">Το έργο GNOME</developer_name>
+  <developer_name lang="de">Das GNOME-Projekt</developer_name>
+  <developer_name lang="da">GNOME-projektet</developer_name>
+  <developer_name lang="cs">Projekt GNOME</developer_name>
+  <developer_name lang="ckb">پرۆژەی گنۆم</developer_name>
+  <developer_name lang="ca">El projecte GNOME</developer_name>
+  <developer_name lang="bg">Проектът GNOME</developer_name>
+  <developer_name lang="be">Праект GNOME</developer_name>
+</component>

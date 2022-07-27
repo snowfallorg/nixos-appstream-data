@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>gnome.gnome-packagekit</pkgname>
+  <launchable type="desktop-id">org.gnome.PackageUpdater.desktop</launchable>
+  <id>org.gnome.PackageUpdater.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>GNOME Package Updater</name>
+  <name lang="zh_TW">GNOME 軟體包更新程式</name>
+  <name lang="zh_HK">GNOME 軟件包更新程式</name>
+  <name lang="zh_CN">GNOME 软件包更新程序</name>
+  <name lang="uk">Оновлення пакунків GNOME</name>
+  <name lang="tr">GNOME Paket Güncelleyicisi</name>
+  <name lang="th">เครื่องมือปรับรุ่นแพกเกจของ GNOME</name>
+  <name lang="tg">Навсозикунандаи қуттиҳои GNOME</name>
+  <name lang="te">గ్నోమ్ ప్యాకేజీ నవీకరణి</name>
+  <name lang="ta">GNOME தொகுப்பு புதுப்பிப்புக் கருவி</name>
+  <name lang="sv">GNOME Paketuppdaterare</name>
+  <name lang="sr@latin">Gnomov osveživač paketa</name>
+  <name lang="sr">Гномов освеживач пакета</name>
+  <name lang="sl">Posodabljalnik paketov GNOME</name>
+  <name lang="sk">Aktualizátor balíkov prostredia GNOME</name>
+  <name lang="ru">Обновление пакетов GNOME</name>
+  <name lang="pt">Atualizador de pacotes GNOME</name>
+  <name lang="pt_BR">Atualizador de pacotes do GNOME</name>
+  <name lang="pl">Aktualizowanie pakietów GNOME</name>
+  <name lang="pa">ਗਨੋਮ ਪੈਕੇਜ ਅੱਪਡੇਟਰ</name>
+  <name lang="oc">Aisina de mesa a jorn de paquets GNOME</name>
+  <name lang="nl">Gnome-updateprogramma voor pakketten</name>
+  <name lang="ne">जिनोम प्याकेजा अपडेटर</name>
+  <name lang="nb">GNOME pakkeoppdatering</name>
+  <name lang="ms">Pengemaskini Pakej GNOME</name>
+  <name lang="mr">GNOME पॅकेज अपटेडर</name>
+  <name lang="lv">GNOME pakotņu jauninātājs</name>
+  <name lang="lt">GNOME paketų atnaujintojas</name>
+  <name lang="ko">그놈 패키지 업데이트</name>
+  <name lang="kn">Gnome ಪ್ಯಾಕೇಜ್‌ ಅಪ್‌ಡೇಟರ್</name>
+  <name lang="kk">GNOME дестелерін жаңартушы</name>
+  <name lang="ja">GNOME パッケージアップデーター</name>
+  <name lang="it">Aggiornamento pacchetti GNOME</name>
+  <name lang="id">GNOME Pemutakhir Paket</name>
+  <name lang="hu">GNOME Csomagfrissítő</name>
+  <name lang="hr">GNOME nadopunitelj paketa</name>
+  <name lang="hi">गनोम संकुल अपडेटर</name>
+  <name lang="gu">GNOME પેકેજ સુધારક</name>
+  <name lang="gl">Actualizador de paquetes de GNOME</name>
+  <name lang="fur">Inzornament pachets GNOME</name>
+  <name lang="fr">Outil de mise à jour de paquets GNOME</name>
+  <name lang="fi">Pakettien päivittäjä</name>
+  <name lang="fa">بروزرسان بسته‌های گنوم</name>
+  <name lang="eu">GNOMEren pakete-eguneratzailea</name>
+  <name lang="es">Actualizador de paquetes de GNOME</name>
+  <name lang="eo">GNOME-Pakaĵo-ĝisdatigilo</name>
+  <name lang="el">Πρόγραμμα ενημέρωσης πακέτων GNOME</name>
+  <name lang="de">GNOME-Paketaktualisierung</name>
+  <name lang="da">GNOME Pakkeopdatering</name>
+  <name lang="cs">Aktualizace balíčků GNOME</name>
+  <name lang="ca@valencia">Actualitzador de paquets del GNOME</name>
+  <name lang="ca">Actualitzador de paquets del GNOME</name>
+  <name lang="bs">Nadgradnja paketa GNOME</name>
+  <name lang="bn_IN">GNOME প্যাকেজ অাপডেটার</name>
+  <name lang="be">Кіраўнік праграмнага абнаўлення GNOME</name>
+  <name lang="as">GNOME পেকেইজ আপডেইটাৰ</name>
+  <name lang="an">Actualizador de paquetz de GNOME</name>
+  <summary>Update software installed on the system</summary>
+  <summary lang="zh_TW">更新系統中已安裝的軟體</summary>
+  <summary lang="zh_HK">更新系統中已安裝的軟件</summary>
+  <summary lang="zh_CN">更新本系统中安装的软件</summary>
+  <summary lang="vi">Cập nhật phần mềm đã cài đặt trên hệ thống</summary>
+  <summary lang="uk">Оновлення програм, встановлених у системі</summary>
+  <summary lang="ug">يېڭىلاش يۇمشاق دېتال بۇ سىستېمىغا ئورنىتىلدى</summary>
+  <summary lang="tr">Sisteminizde kurulu yazılımı güncelleyin</summary>
+  <summary lang="th">ปรับรุ่นซอฟต์แวร์ที่ติดตั้งอยู่ในระบบ</summary>
+  <summary lang="tg">Навсозии нармафзори насбшуда дар система</summary>
+  <summary lang="te">వ్యవస్థ నందు స్థాపించిన సాఫ్ట్‍వేర్‌ను నవీకరించు</summary>
+  <summary lang="ta">கணினியில் நிறுவப்பட்ட மென்பொருளை புதுப்பிக்கவும்</summary>
+  <summary lang="sv">Uppdatera programvara installerade på systemet</summary>
+  <summary lang="sr@latin">Ažurirajte programe instalirane na ovom sistemu</summary>
+  <summary lang="sr">Ажурирајте програме инсталиране на овом систему</summary>
+  <summary lang="sl">Posodobitev programske opreme nameščene na sistemu</summary>
+  <summary lang="sk">Aktualizuje softvér nainštalovaný v systéme</summary>
+  <summary lang="ru">Обновление программ, установленных в системе</summary>
+  <summary lang="ro">Actualizați programele instalate pe sistem</summary>
+  <summary lang="pt">Atualizar aplicações instaladas no sistema</summary>
+  <summary lang="pt_BR">Atualize os programas instalados no sistema</summary>
+  <summary lang="pl">Aktualizacja oprogramowania zainstalowanego w komputerze</summary>
+  <summary lang="pa">ਸਿਸਟਮ ਉੱਤੇ ਇੰਸਟਾਲ ਸਾਫਟਵੇਅਰ ਅੱਪਡੇਟ ਕਰੋ</summary>
+  <summary lang="or">ତନ୍ତ୍ରରେ ସ୍ଥାପନ କରାଯାଇଥିବା ସଫ୍ଟୱେରକୁ ଅଦ୍ୟତନ କରନ୍ତୁ</summary>
+  <summary lang="oc">Met a jorn los logicials installats sul sistèma</summary>
+  <summary lang="nn">Oppdater programvare installert på systemet</summary>
+  <summary lang="nl">De op uw systeem geïnstalleerde software bijwerken</summary>
+  <summary lang="nb">Oppdater programvare som er installert på systemet</summary>
+  <summary lang="mr">प्रणालीवर प्रतिष्ठापीत सॉफ्टवेअर अद्ययावत करा</summary>
+  <summary lang="ml">സിസ്റ്റമില്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്തിരിക്കുന്ന സോഫ്റ്റ്‌വെയറുകള്‍ പരിഷ്കരിക്കുക</summary>
+  <summary lang="mk">Ажурирај го софтверот инсталирај на системот</summary>
+  <summary lang="lv">Atjaunināt sistēmā instalēto programmatūru</summary>
+  <summary lang="lt">Atnaujinti sistemoje įdiegtą programinę įrangą</summary>
+  <summary lang="ko">시스템에 설치한 소프트웨어를 업데이트합니다</summary>
+  <summary lang="kn">ಗಣಕದಲ್ಲಿ ಅನುಸ್ಥಾಪಿತಗೊಂಡಿರುವ ತಂತ್ರಾಂಶವನ್ನು ಅಪ್ಡೇಟ್ ಮಾಡು</summary>
+  <summary lang="kk">Жүйеде орнатылған БҚ-ны жаңарту</summary>
+  <summary lang="ja">システムにインストールされたパッケージの更新</summary>
+  <summary lang="it">Aggiorna il software installato sul sistema</summary>
+  <summary lang="id">Mutakhirkan perangkat lunak yang terpasang pada sistem</summary>
+  <summary lang="hu">A rendszerre telepített szoftverek frissítése</summary>
+  <summary lang="hr">Nadopunite softver instaliran na sustavu</summary>
+  <summary lang="hi">सिस्टम पर संस्थापित सॉफ्टवेयर अद्यतन करें</summary>
+  <summary lang="he">עדכון תוכנות המותקנות על המערכת</summary>
+  <summary lang="gu">સિસ્ટમ પર સ્થાપિત થયેલ સોફ્ટવેરને સુધારો</summary>
+  <summary lang="gl">Actualizar o software instalado no sistema</summary>
+  <summary lang="ga">Nuashonraigh bogearraí atá suiteáilte ar an gcóras</summary>
+  <summary lang="fur">Inzorne il software instalât tal sisteme</summary>
+  <summary lang="fr">Met à jour les logiciels installés sur le système</summary>
+  <summary lang="fi">Päivitä järjestelmään asennettuja ohjelmistoja</summary>
+  <summary lang="fa">بروزرسانی نرم‌افزار نصب شده بر روی سیستم</summary>
+  <summary lang="eu">Eguneratu sisteman instalatutako softwarea</summary>
+  <summary lang="et">Süsteemi paigaldatud tarkvara uuendamine</summary>
+  <summary lang="es">Actualizar el software instalado en el sistema</summary>
+  <summary lang="eo">Ĝisdatigi instalitan programaron en via sistemo</summary>
+  <summary lang="en@shaw">𐑳𐑐𐑛𐑱𐑑 𐑕𐑪𐑓𐑑𐑢𐑺 𐑦𐑯𐑕𐑑𐑷𐑤𐑛 𐑪𐑯 𐑞 𐑕𐑦𐑕𐑑𐑩𐑥</summary>
+  <summary lang="en_GB">Update software installed on the system</summary>
+  <summary lang="el">Ενημέρωση εγκατεστημένου λογισμικού</summary>
+  <summary lang="de">Auf dem System installierte Software aktualisieren</summary>
+  <summary lang="da">Opdatér software installeret på systemet</summary>
+  <summary lang="cs">Aktualizujte software instalovaný v tomto systému</summary>
+  <summary lang="ca@valencia">Actualitza el programari instal·lat en el sistema</summary>
+  <summary lang="ca">Actualitza el programari instal·lat en el sistema</summary>
+  <summary lang="bs">Nadogradnja instaliranog softvera</summary>
+  <summary lang="bn_IN">সিস্টেমে ইনস্টল থাকা সফ্টওয়্যার আপডেট করুন</summary>
+  <summary lang="bn">সিস্টেমে ইনস্টলকৃত সফ্টওয়্যার হালনাগাদ</summary>
+  <summary lang="bg">Обновяване на софтуера инсталиран върху системата</summary>
+  <summary lang="be">Абнаўленне апраграмавання, усталяванага ў сістэме</summary>
+  <summary lang="ast">Anovar el software instaláu nel sistema</summary>
+  <summary lang="as">চিস্টেমত ইনস্টল্ড চফ্টৱেৰ আপডেইট কৰক</summary>
+  <summary lang="ar">حدّث الحزم المُثبّتة على النظام</summary>
+  <summary lang="an">Esviellar o software instalau en o sistema</summary>
+  <summary lang="af">Werk geïnstalleer sagteware op die stelsel by</summary>
+  <description>
+    <p>
+      Package Updater allows you to update packages on your system without
+      rebooting.
+      You can view details about each update and choose which updates to apply.
+    </p>
+    <p>
+      Package Updater uses PackageKit and can work on any distribution using
+      the native package management framework.
+    </p>
+  </description>
+  <description lang="an">
+    <p>L'actualizador de paquetz le permite actualizar os paquetz d'o suyo sistema sin reiniciar. Puede veyer detalles sobre cada actualización y trigar qué actualizacions aplicar.</p>
+    <p>L'actualizador de paquetz usa PackageKit y puede usar-se en qualsiquier distribución de conchunta con o chestor de paquetz nativo.</p>
+  </description>
+  <description lang="as">
+    <p>পেকেইজ আপডেইটাৰে আপোনাৰ চিস্টেমৰ পেকেইজসমূহক চিস্টেম পুনাৰম্ভ নকৰাকৈ আপডেইট কৰাৰ অনুমতি দিয়ে। আপুনি প্ৰতিটো আপডেইট বিৱৰণ দৰ্শন কৰিব পাৰিব আৰু কোনবোৰ আপডেইট প্ৰয়োগ কৰা হব নিৰ্বাচন কৰিব পাৰে।</p>
+    <p>পেকেইজ আপডেইটাৰে PackageKit ব্যৱহাৰ কৰে আৰু স্থানীয় পেকেইজ ব্যৱস্থাপনা ফ্ৰেইমৱাৰ্ক ব্যৱহাৰ কৰি যিকোনো বিতৰনত কাৰ্য্য কৰিব পাৰে।</p>
+  </description>
+  <description lang="be">
+    <p>Кіраўнік праграмнага абнаўлення дазваляе абнаўляць пакункі ў вашай сістэме без перазапуску камп'ютара. Для кожнай абноўкі можна паглядзець падрабязныя звесткі аб ёй, а таксама выбраць, ці трэба яе ўсталёўваць.</p>
+    <p>Кіраўнік праграмнага абнаўлення выкарыстоўвае бібліятэку PackageKit і працуе ў любым дыстрыбутыве праз адпаведную сістэму кіравання пакункамі.</p>
+  </description>
+  <description lang="bn_IN">
+    <p>প্যাকেজ অাপডেটার, রিবুট না করে অাপনাকে অাপনার সিস্টেমে প্যাকেজগুলি অাপডেট করতে দেয়। অাপনি প্রতিটি অাপডেট বিষয়ে বিস্তারিত দেখতে পারবেন এবং কোন অাপডেটগুলি প্রয়োগ করবেন তা বেছে নিতে পারবেন।</p>
+    <p>প্যাকেজ অাপডেটার PackageKit ব্যবহার করে এবং নেটিভ প্যাকেজ ব্যবস্থাপনা ফ্রেমওয়ার্ক ব্যবহার করে যেকোনো ডিস্ট্রিবিউশনে কাজ করতে পারে।</p>
+  </description>
+  <description lang="bs">
+    <p>Paket nadgradnje omogućava ažuriranje paketa na svoj sistem bez ponovnog podizanja sistema. Možete vidjeti pojedinosti o svakoj promjeni i odabrati koje ažuriranje primjenjivati.</p>
+    <p>Paket nadgradnje  koristi PackageKit i može raditi na bilo kojoj  distribuciji  pomoću materinjeg  upravljanja okruženjem.</p>
+  </description>
+  <description lang="ca">
+    <p>L'Actualitzador de paquets us permet actualitzar els paquets de la vostra distribució sense reiniciar. Podeu veure els detalls de cada actualització i triar quines actualitzacions s'han d'aplicar.</p>
+    <p>L'Actualitzador de paquets utilitza el PackageKit i pot treballar en qualsevol distribució utilitzant l'entorn de treball nadiu de gestió de paquets.</p>
+  </description>
+  <description lang="ca@valencia">
+    <p>L'Actualitzador de paquets vos permet actualitzar els paquets de la vostra distribució sense reiniciar. Podeu veure els detalls de cada actualització i triar quines actualitzacions s'han d'aplicar.</p>
+    <p>L'Actualitzador de paquets utilitza el PackageKit i pot treballar en qualsevol distribució utilitzant l'entorn de treball nadiu de gestió de paquets.</p>
+  </description>
+  <description lang="cs">
+    <p>Aplikace Aktualizace balíčků vám umožňuje aktualizovat balíčky ve vašem systému, aniž byste museli počítač restartovat. Můžete se podívat na podrobný popis každé z aktualizací a zvolit si, které z nich použít.</p>
+    <p>Aktualizace balíčků využívá PackageKit a dokáží pracovat v libovolné distribuci pomocí jejího původního jádra pro správu balíčků.</p>
+  </description>
+  <description lang="da">
+    <p>Pakkeopdatering ladre dig opdatere pakker på dit system uden at genstarte. Du kan se oplysninger om hver opdatering og vælge hvilke opdateringer, der skal udføres.</p>
+    <p>Pakkeopdatering bruger PackageKit og kan fungere på enhver distribution gennem det indbyggede pakkehåndteringsrammeværk.</p>
+  </description>
+  <description lang="de">
+    <p>Paketaktualisierung ermöglicht es Ihnen ohne Neustart Pakete auf Ihrem System zu aktualisieren. Sie können Details für jede Aktualisierung ansehen und auswählen welche Aktualisierungen angewendet werden sollen.</p>
+    <p>Paketaktualisierung verwendet »PackageKit« und funktioniert auf jeder Distribution basierend auf den nativen Paketverwaltungswerkzeugen.</p>
+  </description>
+  <description lang="el">
+    <p>Το πρόγραμμα ενημέρωσης πακέτων επιτρέπει την ενημέρωση πακέτων στο σύστημά σας χωρίς επανεκκίνηση. Μπορείτε να προβάλετε λεπτομέρειες για κάθε ενημέρωση και να επιλέξετε ποιες ενημερώσεις θα εφαρμόσετε.</p>
+    <p>Το πρόγραμμα ενημέρωσης πακέτων χρησιμοποιεί το PackageKit και μπορεί να δουλέψει σε οποιαδήποτε διανομή χρησιμοποιώντας το εγγενή πλαίσιο διαχείρισης πακέτων.</p>
+  </description>
+  <description lang="eo">
+    <p>Pakaĵo-ĝisdatigilo permesas al vi ĝisdatigi pakaĵojn en via sistemo, sen restartigo. Vi povas vidi detalojn pri ĉiu ĝisdatigo kaj elekti la aplikotajn ĝisdatigojn.</p>
+    <p>Pakaĵo-ĝisdatigilo uzas na Packagekit kaj povas funkcii en iu ajn distribuaĵo, uzante la indiĝenan framon de pakaĵo-administrado.</p>
+  </description>
+  <description lang="es">
+    <p>El actualizador de paquetes le permite actualizar los paquetes de su sistema sin reiniciar. Puede ver detalles sobre cada actualización y elegir qué actualizaciones aplicar.</p>
+    <p>El actualizador de paquetes usa PackageKit y puede usarse en cualquier distribución junto con el gestor de paquetes nativo.</p>
+  </description>
+  <description lang="eu">
+    <p>Pakete-eguneratzaileak sistemako paketeak eguneratzea baimentzen dizu sistema berrabiarazi gabe. Eguneraketa bakoitzari buruzko xehetasunak ikus ditzakezu, zer eguneratuko den aukeratzeko.</p>
+    <p>Pakete-eguneratzaileak PackageKit erabiltzen du, eta edozer banaketan funtzionatzen du, banaketak bereziki duen pakete-kudeatzailearen lanmarkoa erabiliz.</p>
+  </description>
+  <description lang="fa">
+    <p>بروزرسان «بسته‌ها» به شما اجازه می‌دهد تا بسته‌ها را بر روی سیستم بدون نیاز به راه‌اندازی مجدد بروزرسانی کنید. شما می‌توانید جزئیات مربوط به هر بروزرسانی رو ببینید و انتخاب کنید که کدام بروزرسانی‌ها اعمال شوند.</p>
+    <p>بروزرسان «بسته‌ها» از PackageKit استفاده می‌کند و می‌تواند بر روی هر توزیعی با استفاده از چهارچوب مدیریتی بسته‌های آن توزیع کار کند.</p>
+  </description>
+  <description lang="fi">
+    <p>Pakettien päivittäjä mahdollistaa pakettien päivittämisen ilman tarvetta käynnistää järjestelmää uudelleen. Jokaisesta päivityksestä näytetään tiedot, ja myös pelkästään yksittäisiä päivityksiä on mahdollista valita.</p>
+    <p>Pakettien päivittäjä käyttää PackageKitiä, ja voi toimia kaikilla jakeluilla käyttäen jakelun omaa paketinhallintajärjestelmää.</p>
+  </description>
+  <description lang="fr">
+    <p>L'outil de mise à jour de paquets vous permet de mettre à jour les paquets de votre système sans redémarrage. Vous pouvez consulter les informations de chacune des mises à jour et choisir celles à appliquer.</p>
+    <p>L'outil de mise à jour de paquets utilise PackageKit et peut fonctionner dans toutes les distributions en utilisant leur gestion native des paquets.</p>
+  </description>
+  <description lang="fur">
+    <p>Inzornament pachets al permet di inzornâ i pachets dal tô sisteme cence tornâ a inviâ. Tu puedis viodi i detais di ogni inzornament e sielzi cuâl inzornament aplicâ.</p>
+    <p>Inzornament pachets al dopre PackageKit e al pues lavorâ cun dutis lis distribuzions doprant la plateforme native di gjestion pachets.</p>
+  </description>
+  <description lang="gl">
+    <p>O actualizador de paquetes de software permítelle actualizar os paquetes no seu sistema sen reiniciar. Pode ver a información para cada actualización e escoller cales aplicar.</p>
+    <p>O Actualizador de paquetes usa PackageKit e pode funcionar en calquera distribución usando o marco de traballo de xestión de paquetes nativo.</p>
+  </description>
+  <description lang="gu">
+    <p>પેકેજ સુધાર રિબુટ વગર તમારી સિસ્ટમ પર પેકેજોને સુધારવા તમને પરવાનગી આપે છે. તમે દરેક સુધારા વિશે વિગતોને જોઇ શકો છો અને પસંદ કરો ક્યાં સુધારાને લાગુ કરી શકાય છે.</p>
+    <p>પેકેજ સુધારક PackageKit ને વાપરે છે અને મૂળ પેકેજ સંચાલન ફ્રેમવર્કની મદદથી કોઇપણ વિતરણ પર કામ કરી શકે છે.</p>
+  </description>
+  <description lang="hi">
+    <p>संकुल अद्यतनकर्ता आपको संकुल को अपने तंत्र पर अद्यतन करने देता है बिना रिबूट किए. आप हर अद्यतन के बारे में विवरण देख सकते हैं और चुन सकते हैं कि कौन सा अद्यतन लागू करने के लिए है.</p>
+    <p>संकुल अद्यतनकर्ता पैकेजकिट का उपयोग करता है और किसी वितरण पर काम कर सकता है नेटिव संकुल प्रबंधन फ्रेमवर्क के उपयोग.</p>
+  </description>
+  <description lang="hr">
+    <p>Nadopunitelj paketa omogućuje vam nadopunu paketa na vašem sustavu bez ponovnog pokretanja. Možete pogledati pojedinosti o svakoj nadopuni i odabrati koju nadopunu primijeniti.</p>
+    <p>Nadopunitelj paketa koristi PackageKit i može raditi na svakoj distribuciji koristeći izvorni radni okvir upravljanja paketima.</p>
+  </description>
+  <description lang="hu">
+    <p>A Csomagfrissítő lehetővé teszi a rendszeren lévő csomagok frissítését újraindítás nélkül. Megjelenítheti az egyes frissítések részleteit, és eldöntheti, mely frissítéseket alkalmazza.</p>
+    <p>A Csomagfrissítő a PackageKitet használja, és bármely disztribúción működhet a natív csomagkezelő keretrendszer használatával.</p>
+  </description>
+  <description lang="id">
+    <p>Pemutakhir Paket memungkinkan Anda memutakhirkan paket-paket pada sistem Anda tanpa harus reboot. Anda dapat melihat rincian tentang masing-masing pemutakhiran dan memilih pemutakhiran mana yang akan diterapkan.</p>
+    <p>Pemutakhir Paket memakai PackageKit dan bisa bekerja pada sebarang distribusi memakai kerangka kerja manajemen paket asli.</p>
+  </description>
+  <description lang="it">
+    <p>Aggiornamento pacchetti consente di aggiornare i pacchetti sul sistema senza riavviare. È possibile visualizzare i dettagli di ogni aggiornamento e scegliere quali aggiornamenti applicare.</p>
+    <p>Aggiornamento pacchetti usa PackageKit e può funzionare su qualsiasi distribuzione usando la piattaforma nativa di gestione dei pacchetti.</p>
+  </description>
+  <description lang="kn">
+    <p>ನಿಮ್ಮ ಗಣಕವನ್ನು ರಿಬೂಟ್‌ ಮಾಡದೆ ನಿಮ್ಮ ವ್ಯವಸ್ಥೆಯಲ್ಲಿನ ಪ್ಯಾಕೇಜುಗಳನ್ನು ಅಪ್‌ಡೇಟ್‌ ಮಾಡಲು ಪ್ಯಾಕೇಜ್ ಅಪ್‌ಡೇಟರ್‌ ನಿಮಗೆ ಅವಕಾಶ ನೀಡುತ್ತದೆ. ನೀವು ಪ್ರತಿಯೊಂದು ಅಪ್‌ಡೇಟ್‌ನ ವಿವರಗಳನ್ನು ನೋಡಲು ಮತ್ತು ಯಾವ ಅಪ್‌ಡೇಟ್ ಅನ್ನು ಅನ್ವಯಿಸಬೇಕು ಎನ್ನುವುದನ್ನು ಆರಿಸಬಹುದು.</p>
+    <p>ಪ್ಯಾಕೇಜ್ ಅಪ್‌ಡೇಟರ್ PackageKit ಅನ್ನು ಬಳಸುತ್ತದೆ ಮತ್ತು ಸ್ಥಳೀಯ ಪ್ಯಾಕೇಜ್ ವ್ಯವಸ್ಥಾಪನಾ ಫ್ರೇಮ್‌ವರ್ಕ್‌ ಅನ್ನು ಬಳಸಿಕೊಂಡು ಯಾವುದೆ ವಿತರಣೆಯಲ್ಲಿ ಕೆಲಸ ಮಾಡಬಲ್ಲದು.</p>
+  </description>
+  <description lang="ko">
+    <p>패키지 업데이트 프로그램에서는 컴퓨터를 다시 시작하지 않고도 컴퓨터의 패키지를 업데이트할 수 있습니다. 업데이트 내용을 확인하고 필요한 사항만 업데이트할 수 있습니다.</p>
+    <p>패키지 업데이트 프로그램은 패키지키트를 사용하므로 자체 패키지 관리 프레임워크를 사용하는 어떤 배포판에서도 동작합니다.</p>
+  </description>
+  <description lang="lt">
+    <p>Paketų atnaujintojas leidžia atnaujinti sistemos paketus nepaleidžiant iš naujo. Galite matyti kiekvieno atnaujinimo informaciją bei pasirinkti, kuriuos atnaujinimus pritaikyti.</p>
+    <p>Paketų atnaujintojas naudoja PackageKit ir gali veikti bet kurioje distribucijoje naudodamas įprastinę paketų tvarkymo sistemą.</p>
+  </description>
+  <description lang="lv">
+    <p>Pakotņu jauninātājs jums ļauj atjaunināt pakotnes bez pārstartēšanas. Jūs varat apskatīt informāciju par katru atjauninājumu un izvēlēties, kurs uzlikt.</p>
+    <p>Pakotņu jauninātājs izmanto PackageKit un var darboties uz visām distribūcijām, izmantojot to vietējos pakotņu pārvaldības ietvarus.</p>
+  </description>
+  <description lang="mr">
+    <p>पॅकेज अपडेटर तुम्हाला रिबूट विना प्रणालीवरील संकुल अद्यावत करण्यासाठी परवानगी देते. तुम्ही प्रत्येक अद्यावताचे तपशीलवार पाहू शकता आणि कोणते अद्यावत लागू करायचे, ते देखील पंसत करू शकता.</p>
+    <p>पॅकेज अपडेटर हे पॅकजेकिटचा वापर करून कोणत्याही डिस्ट्रिब्युशनवर मुळ संकुल व्यवस्थापक मांडणीचा वापर करून कार्य करू शकते.</p>
+  </description>
+  <description lang="nb">
+    <p>Pakkeoppdatering lar deg oppdatere pakker på ditt system uten å starte på nytt. Du kan vise detaljer om hver oppdatering og kan velge hvilke oppdateringer som skal brukes.</p>
+    <p>Pakkeoppdatering bruker PackageKit og kan fungere på alle distribusjoner ved bruk av det innebyggede pakkehåndteringsrammeverket.</p>
+  </description>
+  <description lang="nl">
+    <p>Het pakketupdateprogramma laat u pakketten op uw systeem updaten zonder herstart. U kunt de details over elke update bekijken en uitkiezen welke updates u wilt toepassen.</p>
+    <p>Het pakketupdateprogramma gebruikt PackageKit and werkt op elke distributie met gebruikmaking van het oorspronkelijke pakketbeheer-framework.</p>
+  </description>
+  <description lang="oc">
+    <p>L'aisina de mesa a jorn de paquets vos permet de metre a jorn los paquets de vòstre sistèma sens reaviada. Podètz consultar las informacions de caduna de las mesas a jorn e causir las que cal aplicar.</p>
+    <p>L'aisina de mesa a jorn de paquets utiliza PackageKit e pòt foncionar dins totas las distribucions en utilizant lor gestion nativa dels paquets.</p>
+  </description>
+  <description lang="pa">
+    <p>ਪੈਕੇਜ ਅੱਪਡੇਟਰ ਤੁਹਾਨੂੰ ਤੁਹਾਡੇ ਸਿਸਟਮ ਉੱਤੇ ਬਿਨਾਂ ਮੁੜ-ਚਾਲੂ ਕੀਤੇ ਪੈਕੇਜ ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਮੱਦਦ ਕਰਦਾ ਹੈ। ਤੁਸੀਂ ਹਰ ਅੱਪਡੇਟ ਲਈ ਵੇਰਵਾ ਵੇਖ ਸਕਦੇ ਹੋ ਅਤੇ ਲਾਗੂ ਕੀਤੇ ਜਾਣ ਵਾਲੇ ਅੱਪਡੇਟ ਦੀ ਚੋਣ ਵੀ ਕਰ ਸਕਦੇ ਹੋ।</p>
+    <p>ਪੈਕੇਜ ਅੱਪਡੇਟਰ ਪੈਕੇਜਕਿੱਟ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹੈ ਅਤੇ ਨੇਟਿਵ ਪੈਕੇਜ ਪ੍ਰਬੰਧ ਫਰੇਮਵਰਕ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਕਿਸੇ ਵੀ ਡਿਸਟਰੀਬਿਊਸ਼ਨ ਨਾਲ ਕੰਮ ਕਰ ਸਕਦਾ ਹੈ।</p>
+  </description>
+  <description lang="pl">
+    <p>Program do aktualizacji pakietów umożliwia aktualizowanie pakietów w komputerze bez ponownego uruchamiania. Można także wyświetlać szczegółowe informacje o każdej z aktualizacji i zastosować tylko wybrane.</p>
+    <p>Program do aktualizacji pakietów używa usługi PackageKit i może działać na każdej dystrybucji za pomocą natywnego mechanizmu zarządzania pakietami.</p>
+  </description>
+  <description lang="pt">
+    <p>O atualizador de pacotes permite-lhe atualizar pacotes no seu sistema sem ter de o reiniciar. Pode ver detalhes sobre cada atualização e selecionar quais aplicar.</p>
+    <p>O atualizador de pacotes utiliza o PackageKit e pode funcionar em qualquer distribuição utilizando a arquitetura nativa de gestão de pacotes.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Atualizador de pacotes permite que você atualize pacotes no seu sistema sem reiniciar. Você pode ver detalhes sobre cada atualização e escolher quais atualização quer aplicar.</p>
+    <p>Atualizador de pacotes usa PackageKit e pode funcionar em qualquer distribuição usando um framework de gerenciamento de pacotes.</p>
+  </description>
+  <description lang="ru">
+    <p>Программа обновления пакетов предназначена для обновления пакетов в системе без перезагрузки компьютера. Программа обновления пакетов позволяет выбирать устанавливаемые обновления, а также предоставляет подробную информацию о каждом обновлении.</p>
+    <p>Программа обновления использует PackageKit и может работать в любом дистрибутиве, используя систему управления пакетами дистрибутива.</p>
+  </description>
+  <description lang="sk">
+    <p>Program Aktualizátor balíkov umožňuje aktualizo balíky v systéme bez potreby reštartu systému  Umožňuje zobrazovať podrobnosti o každej aktualizácii a zvoliť, ktoré aktualizácie sa majú použiť.</p>
+    <p>Program Aktualizátor balíkov používa PackageKit a dokáže pracovať v akejkoľvek distribúcii používajúcej vlastný systém balíkov.</p>
+  </description>
+  <description lang="sl">
+    <p>Posodabljalnik paketov omogoča posodabljanje paketov brez ponovnega zagona. O paketu si je mogoče ogledati podrobnosti in ga namestiti oziroma posodobiti.</p>
+    <p>Posodabljalnik paketov uporablja program PackageKit in deluje na vseh distribucijah, ki imajo nastavljen privzet upravljalnik paketov.</p>
+  </description>
+  <description lang="sr">
+    <p>Освеживач пакета вам омогућава да освежите пакете на вашем систему без поновног учитавања система. Можете прегледати податке о сваком освежењу и да изаберете оне које ћете да примените.</p>
+    <p>Освеживач пакета користи Каталог пакета и може да ради на било којој дистрибуцији користећи изворни радни склоп управљања пакетима.</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Osveživač paketa vam omogućava da osvežite pakete na vašem sistemu bez ponovnog učitavanja sistema. Možete pregledati podatke o svakom osveženju i da izaberete one koje ćete da primenite.</p>
+    <p>Osveživač paketa koristi Katalog paketa i može da radi na bilo kojoj distribuciji koristeći izvorni radni sklop upravljanja paketima.</p>
+  </description>
+  <description lang="sv">
+    <p>Paketuppdateraren låter dig uppdatera paket på ditt system utan att starta om. Du kan visa detaljer om varje uppdatering och välja vilka uppdateringar du skall installera.</p>
+    <p>Paketuppdateraren använder PackageKit och fungerar på alla distributioner med det egna pakethanteringsramverket.</p>
+  </description>
+  <description lang="ta">
+    <p>தொகுப்பு புதுப்பிப்புக் கருவியானது கணினியை மறுதுவக்கம் செய்யாமல் தொகுப்புகளைப் புதுப்பிக்க உதவுகிறது. இதைக் கொண்டு நீங்கள் ஒவ்வொரு புதுப்பிப்பின் விவரங்களையும் காணலாம், அதன் படி எந்தப் புதுப்பிப்புகளை செயல்படுத்த வேண்டும் என்றும் தேர்வு செய்துகொள்ளலாம்.</p>
+    <p>தொகுப்பு புதுப்பிப்புக் கருவியானது PackageKit ஐப் பயன்படுத்துகிறது, பூர்வீக தொகுப்பு நிர்வாக சட்டமைப்பைப் பயன்படுத்தும் பதிப்பு விநியோகங்கள் எதிலும் இயங்கும்.</p>
+  </description>
+  <description lang="te">
+    <p>ప్యాకేజీ నవీకరణి ఉపయోగించి మీ వ్యవస్థను పునఃప్రారంభించకుండానే దానిపైని ప్యాకేజీలను నవీకరించవచ్చు. మీరు ప్రతి నవీకరణ వివరాలను చూసి మరియు ఏ నవీకరణ వర్తింపచేయాలో ఎంచుకోవచ్చు.</p>
+    <p>ప్యాకేజీ నవీకరణి ప్యాకేజీకిట్ ఉపయోగించును మరియు ఏ పంపిణీ పైనైనా నేటివ్ ప్యాకేజ్ మేనేజ్‌మెంట్ ఫ్రేమ్‌వర్క్ ఉపయోగించి పనిచేయగలదు.</p>
+  </description>
+  <description lang="tg">
+    <p>Навсозикунандаи қуттиҳо ба шумо имкон медиҳад, ки тавонед қуттиҳои системаи худро бе бозоғозӣ навсозӣ кунед. Шумо метавонед дар бораи ҳар як навсозӣ тафсилот гиред ва навсозии лозимиро интихоб карда татбиқ намоед.</p>
+    <p>Навсозикунандаи қуттиҳо маҷмӯи қуттиҳоро истифода мебарад ва метавонад дар ҳамаи дистрибутивҳо тавассути платформаи идоракунии қуттиҳои аслӣ кор кунад.</p>
+  </description>
+  <description lang="th">
+    <p>เครื่องมือปรับรุ่นช่วยคุณปรับรุ่นแพกเกจต่างๆ ในระบบของคุณโดยไม่ต้องเปิดเครื่องใหม่ คุณสามารถดูรายละเอียดของการปรับรุ่นแต่ละรายการและเลือกรายการจะใช้ได้</p>
+    <p>เครื่องมือปรับรุ่นแพกเกจใช้ PackageKit และสามารถทำงานกับชุดจัดแจกใดๆ ก็ได้ โดยใช้กรอบงานจัดการแพกเกจแบบ native ของชุดจัดแจก</p>
+  </description>
+  <description lang="tr">
+    <p>Paket Güncelleyicisi, sisteminizdeki paketleri bilgisayarı yeniden başlatmaksızın güncellemenize olanak tanır. Her bir paket hakkındaki ayrıntıları görüntüleyebilir ve hangi paketlerin uygulanacağına karar verebilirsiniz.</p>
+    <p>Paket Güncelleyicisi, PackageKit kullanmaktadır ve yerel paket yönetim sistemini kullanan tüm dağıtımlarda çalışır.</p>
+  </description>
+  <description lang="uk">
+    <p>Оновлення дозволяють оновлювати пакунки на вашій системі без перезавантаження. Можете переглянути подробиці про кожне оновлення та вибрати що застосувати.</p>
+    <p>Оновлення пакунків використовують PackageKit і може працювати з будь-яким дистрибутивом через рідний модуль керування пакунками.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>软件包更新程序允许您在不重启系统的情况下更新您系统上的软件包。您可以查看每个软件包的更新描述并选择应用哪些更新。</p>
+    <p>软件包更新程序使用 PackageKit ，它使用原生的软件包管理框架，可以在任何发行版上运行。</p>
+  </description>
+  <description lang="zh_HK">
+    <p>軟件包更新程式讓你可以不用重新開機就能更新系統上的軟件包。你可以檢視有關每次更新的詳細資訊，並選擇要套用的更新。</p>
+    <p>軟件包更新程式使用 Packagekit，因而得以運用各 Linux 散布版的原生軟件包管裏架構，所以能在任何散布版上運作。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>軟體包更新程式讓您可以不用重新開機就能更新系統上的軟體包。您可以檢視有關每次更新的詳細資訊，並選擇要套用的更新。</p>
+    <p>軟體包更新程式使用 Packagekit，因而得以運用各 Linux 散布版的原生軟體包管裡架構，所以能在任何散布版上運作。</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">https://git.gnome.org/browse/gnome-packagekit/plain/data/appdata/ss-updater.png</screenshot>
+  </screenshots>
+  <!--
+   Validate with `appstream-util validate *.appdata.xml`
+  -->
+  <releases>
+    <release date="2019-03-08" version="3.32.0">
+      <description>
+        <p>
+          This is the first stable release for GNOME 3.32 which updates several
+          translations and fixes some build issues.
+        </p>
+      </description>
+    </release>
+    <release version="3.30.0" date="2018-09-04">
+      <description>
+        <p>
+          This is the first stable release for GNOME 3.30 and updates several
+          translations.
+        </p>
+      </description>
+    </release>
+    <release version="3.28.0" date="2018-03-12">
+      <description>
+        <p>
+          This is the first stable release for GNOME 3.28 and updates several
+          translations.
+        </p>
+      </description>
+    </release>
+    <release version="3.26.0" date="2017-09-11">
+      <description>
+        <p>
+          This is the first stable release for GNOME 3.26 and updates several
+          translations.
+        </p>
+      </description>
+    </release>
+    <release version="3.25.90" date="2017-08-07">
+      <description>
+        <p>
+          This unstable release switches to the meson build-system and updates
+          several translations.
+        </p>
+      </description>
+    </release>
+    <release date="2017-03-20" version="3.24.0">
+      <description>
+        <p>This is the first stable release for GNOME 3.24.</p>
+      </description>
+    </release>
+    <release date="2017-03-11" version="3.23.92">
+      <description>
+        <p>This unstable release updates several translations.</p>
+      </description>
+    </release>
+    <release version="3.23.90" date="2017-02-13">
+      <description>
+        <p>This unstable release ports away from intltool and updates translations.</p>
+      </description>
+    </release>
+    <release date="2016-09-19" version="3.22.0">
+      <description>
+        <p>This is the first stable release for GNOME 3.22</p>
+      </description>
+    </release>
+    <release date="2016-09-13" version="3.21.92">
+      <description>
+        <p>This release only updates translations.</p>
+      </description>
+    </release>
+    <release date="2016-08-29" version="3.21.91">
+      <description>
+        <p>This release only updates translations.</p>
+      </description>
+    </release>
+    <release date="2016-08-15" version="3.21.90">
+      <description>
+        <p>This unstable release for GNOME 3.21 fixes the following bugs:</p>
+        <ul>
+          <li>Mark forgotten strings as translatable</li>
+          <li>Update the UI files to adhere to the GNOME 3 UI guidelines</li>
+        </ul>
+        <p>This release also updates translations.</p>
+      </description>
+    </release>
+    <release date="2016-07-18" version="3.21.4">
+      <description>
+        <p>This unstable release for GNOME 3.21 fixes the following bugs:</p>
+        <ul>
+          <li>Use new-style application IDs for flatpak</li>
+          <li>Remove the broken markdown parsing module</li>
+        </ul>
+        <p>This release also updates translations.</p>
+      </description>
+    </release>
+    <release version="3.20.0" date="2016-03-21">
+      <description>
+        <p>This release for GNOME 3.20 fixes the following bugs:</p>
+        <ul>
+          <li>Add a missing tag to the AppData file</li>
+        </ul>
+        <p>This release also updates translations.</p>
+      </description>
+    </release>
+    <release version="3.18.0" timestamp="1442827658">
+      <description>
+        <p>This is the first stable release for GNOME 3.18</p>
+      </description>
+    </release>
+    <release version="3.17.90" timestamp="1439989821">
+      <description>
+        <p>This release fixes the following bug:</p>
+        <ul>
+          <li>Consider available packages as updatable</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.16.0" timestamp="1427103917">
+      <description>
+        <p>This stable release marks the release of GNOME 3.16!</p>
+      </description>
+    </release>
+    <release timestamp="1426498834" version="3.15.92">
+      <description>
+        <p>This release only updates translations.</p>
+      </description>
+    </release>
+    <release version="3.15.91" timestamp="1425299116">
+      <description>
+        <p>This release only updates translations.</p>
+      </description>
+    </release>
+    <release timestamp="1424118207" version="3.15.90">
+      <description>
+        <p>This release moves the session D-Bus interface to GNOME Software.</p>
+      </description>
+    </release>
+    <release version="3.15.4" timestamp="1421625600">
+      <description>
+        <p>This release fixes the following bugs:</p>
+        <ul>
+          <li>Add suitable Keywords to the package updater desktop file</li>
+        </ul>
+      </description>
+    </release>
+    <release timestamp="1418774400" version="3.15.3">
+      <description>
+        <p>This release fixes the following bug:</p>
+        <ul>
+          <li>Avoid conflict with new GTK+ API</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <provides>
+    <id>gpk-update-viewer.desktop</id>
+  </provides>
+  <kudos>
+    <kudo>AppMenu</kudo>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+  </kudos>
+  <url type="homepage">http://www.packagekit.org/</url>
+  <update_contact>richard_at_hughsie.com</update_contact>
+</component>

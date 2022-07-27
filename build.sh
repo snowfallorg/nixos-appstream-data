@@ -15,7 +15,7 @@ touch "dest/nixos_${VERSION}_${ARCH}.xml"
 combine() {
     cp -r "$1/icons" "dest/"
     echo "<?xml version=\"1.0\" encoding=\"utf-8\"?>
-    <components version=\"0.14\" origin=\"nixos-${VERSION}\">" > "dest/nixos_${VERSION}_${ARCH}.xml"
+    <components version=\"0.14\" origin=\"nixos\">" > "dest/nixos_${VERSION}_${ARCH}.xml"
     find "$1/metadata" -type f -name "*.xml" | sort | while read file; do
         sed -e 's/<application>/<component type="desktop-application">/g' "$file" | sed -e 's/<\/application>/<\/component>/g' |
         sed -e 's/<component>/<component type="desktop-application">/g' | sed -n -e '/<component/,$p' |

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="inputmethod">
+  <pkgname>ibus-engines.anthy</pkgname>
+  <launchable type="desktop-id">ibus-setup-anthy.desktop</launchable>
+  <icon width="64" type="cached" height="64">ibus-anthy.png</icon>
+  <icon type="cached" width="128" height="128">ibus-anthy.png</icon>
+  <id>org.freedesktop.ibus.engine.anthy</id>
+  <metadata_license>GFDL-1.3</metadata_license>
+  <project_license>GPL-2.0</project_license>
+  <name translatable="no">Anthy</name>
+  <summary>Japanese input method</summary>
+  <summary lang="zh_CN">日文输入法</summary>
+  <summary lang="uk">Спосіб введення японської</summary>
+  <summary lang="tr">Japonca giriş yöntemi</summary>
+  <summary lang="pt_PT">Método de entrada japonês</summary>
+  <summary lang="pt_BR">Método de entrada japonês</summary>
+  <summary lang="ko">일본어 입력 방법</summary>
+  <summary lang="ja">日本語入力方式</summary>
+  <summary lang="hu">Japán beviteli mód</summary>
+  <summary lang="fr">Méthode de saisie du japonais</summary>
+  <summary lang="fi">Japanilainen syöttötapa</summary>
+  <summary lang="es">Método de entrada japonés</summary>
+  <summary lang="de">Japanische Inputmethode</summary>
+  <summary lang="ca">Mètode d'entrada japonès</summary>
+  <description>
+    <p>
+      The Anthy input method is designed for entering Japanese text.
+    </p>
+    <p>
+      Input methods are typing systems allowing users to input complex languages.
+      They are necessary because these contain too many characters to simply be laid
+      out on a traditional keyboard.
+    </p>
+  </description>
+  <description lang="ca">
+    <p>El mètode d'entrada Anthy està dissenyat per a l'entrada de text en japonès.</p>
+    <p>Els mètodes d'entrada són sistemes mecanogràfics que permeten als usuaris l'entrada d'idiomes complexos. Són necessaris perquè aquests idiomes contenen massa caràcters per col·locar-los simplement en un teclat tradicional.</p>
+  </description>
+  <description lang="de">
+    <p>Die Anthy Inputmethode ist designed um japanischen Text einzugeben.</p>
+    <p>Inputmethoden are Eingabesysteme die es erlauben komplexe Sprachen einzugeben. Sie sind notwendig weil diese Sprachen zu viele Zeichen haben, so dass sie nicht auf eine gewöhnliche Tastaturbelegung passen.</p>
+  </description>
+  <description lang="es">
+    <p>El método de entrada Anthy está diseñado para usarlo con texto japonés.</p>
+    <p>Los métodos de entrada son sistemas que facilitan el uso de idiomas complejos. Son necesarios porque estos idiomas tienen demasiados caracteres como para ponerlos de forma sencilla en un teclado tradicional.</p>
+  </description>
+  <description lang="fi">
+    <p>Anthy-syöttötapa on suunniteltu japaninkielisen tekstin kirjoittamiseen.</p>
+    <p>Syöttötavat ovat kirjoitusjärjestelmiä, joiden avulla käyttäjät voivat syöttää monimutkaisia kieliä. Ne ovat välttämättömiä, koska kielissä on liian monta merkkiä, jotta ne voidaan yksinkertaisesti sijoittaa perinteiseen näppäimistöön.</p>
+  </description>
+  <description lang="fr">
+    <p>La méthode de saisie Anthy est conçue pour saisir des textes en japonais.</p>
+    <p>Les méthodes de saisie sont des systèmes permettant aux utilisateurs de saisir des langues complexes. Elles sont nécessaires parce que les trop nombreux caractères de ces langues ne peuvent être disposés sur des claviers classiques.</p>
+  </description>
+  <description lang="hu">
+    <p>Az Anthy beviteli mód japán szöveg bevitelére lett tervezve.</p>
+    <p>A beviteli módok olyan gépelési rendszerek, amelyekkel a felhasználók összetett nyelveken írhatnak. Azért szükségesek, mert ezek túl sok karaktert tartalmaznak ahhoz, hogy hagyományos billentyűzettel vigyék be őket.</p>
+  </description>
+  <description lang="ja">
+    <p>Anthy 入力方式は日本語のテキストを入力するために設計されています。</p>
+    <p>入力方式はユーザーに複雑な言語入力を可能にさせる文字入力システムです。 入力方式は従来のキーボード上で簡単に割り当てられた多くの文字を含んでいるために必要とされています。</p>
+  </description>
+  <description lang="ko">
+    <p>Anthy 입력 방법은 일본어 문자 입력을 위해 설계되었습니다.</p>
+    <p>입력 방법은 복잡한 언어를 입력하는 사용자가 이용하는 입력시스템입니다. 너무 많은 문자로 인하여 전통적인 키보드에 배치하여 간결하게 만들 수 없기 때문에 입력 방법이 필요합니다.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>O método de entrada Anthy é projetado para digitar texto em japonês.</p>
+    <p>Os métodos de entrada são sistemas de digitação que permitem aos usuários insirirem idiomas complexos. Eles são necessários porque contêm muitos caracteres para serem simplesmente dispostos em um teclado tradicional.</p>
+  </description>
+  <description lang="tr">
+    <p>Anthy giriş yöntemi, Japonca metin girmek için tasarlanmıştır.</p>
+    <p>Giriş yöntemleri, kullanıcıların karmaşık dilleri girmesine izin veren yazım sistemleridir. Bu diller geleneksel bir klavyeye yerleştirilmek için çok fazla karakter içerdikleri için bunlar gereklidir.</p>
+  </description>
+  <description lang="uk">
+    <p>Спосіб введення Anthy розроблено для введення текстів японськими ієрогліфами.</p>
+    <p>Способи введення — це системи набирання тексту, за допомогою яких користувачі можуть вводити тексти складними системами писемності. Вони потрібні для мов, де запис здійснюється за допомогою великої кількості символів, які просто не могли б уміститися на клавіатурі.</p>
+  </description>
+  <url type="homepage">https://github.com/ibus/ibus/wiki</url>
+  <url type="bugtracker">https://github.com/ibus/ibus-anthy/issues</url>
+  <url type="help">https://github.com/ibus/ibus/wiki/FAQ</url>
+  <translation type="gettext">ibus-anthy</translation>
+  <update_contact>tfujiwar_AT_redhat.com</update_contact>
+</component>

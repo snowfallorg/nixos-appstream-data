@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>pantheon.switchboard-with-plugs</pkgname>
+  <id>io.elementary.switchboard.security-privacy</id>
+  <extends>io.elementary.switchboard</extends>
+  <name>Security &amp; Privacy Settings</name>
+  <name lang="zh_CN">安全 &amp;amp; 隐私设置</name>
+  <name lang="uk">Налаштування безпеки та приватності</name>
+  <name lang="tr">Güvenlik ve Gizlilik Ayarları</name>
+  <name lang="sr">Поставке безбедности и приватности</name>
+  <name lang="sk">Nastavenia súkromia a zabezpečenia</name>
+  <name lang="ru">Настройки защиты и приватности</name>
+  <name lang="pt_BR">Segurança &amp;amp; Configurações de Privacidade</name>
+  <name lang="pt">Definições de Segurança e Privacidade</name>
+  <name lang="pl">Ustawienia bezpieczeństwa i prywatności</name>
+  <name lang="nl">Beveiliging &amp;amp; Privacy instellingen</name>
+  <name lang="nb">Sikkerhet- og personvernsinnstillinger</name>
+  <name lang="mr">सुरक्षा &amp;amp; गोपनीयता सेटिंग्ज</name>
+  <name lang="ja">セキュリティーとプライバシーの設定</name>
+  <name lang="it">Impostazioni di sicurezza e privacy</name>
+  <name lang="hu">Biztonság és adatvédelem beállításai</name>
+  <name lang="he">הגדרות אבטחה ופרטיות</name>
+  <name lang="fr">Paramètres de sécurité et de confidentialité</name>
+  <name lang="fi">Turvallisuuden ja yksityisyyden asetukset</name>
+  <name lang="es">Configuración de seguridad y privacidad</name>
+  <name lang="en_GB">Security &amp;amp; Privacy Settings</name>
+  <name lang="de">Sicherheit- &amp;amp; Datenschutzeinstellungen</name>
+  <name lang="da">Sikkerhed &amp;amp; Privatlivs Indstillinger</name>
+  <name lang="cs">Nastavení soukromí a zabezpečení</name>
+  <name lang="ca">Paràmetres de seguretat i privadesa</name>
+  <summary>Configure firewall, screen lock, and activity information</summary>
+  <summary lang="zh_CN">配置防火墙、屏幕锁和活动记录</summary>
+  <summary lang="uk">Налаштування фаєрволу, блокування екрана та подробиць про діяльність</summary>
+  <summary lang="tr">Güvenlik duvarı, ekran kilidi ve aktivite bilgisini yapılandırın</summary>
+  <summary lang="sr">Подесите заштитни зид, закључавање екрана и податке о раду</summary>
+  <summary lang="sk">Nastavujte bránu Firewall, zámok obrazovky a informácie o aktivite</summary>
+  <summary lang="ru">Настройка фаервола, экрана блокировки и информации об активности</summary>
+  <summary lang="pt_BR">Configurar informações de firewall, bloqueio de tela e atividade</summary>
+  <summary lang="pt">Configurar a firewall, o bloqueio de ecrã e informações de atividade</summary>
+  <summary lang="pl">Konfiguruj zaporę sieciową, blokadę ekranu oraz informacje o aktywności</summary>
+  <summary lang="nl">Configureer firewall-, schermvergrendeling- en activiteitsinformatie</summary>
+  <summary lang="nb">Sett opp brannmur, skjermlås og aktivitetsinfo</summary>
+  <summary lang="mr">फायरवॉल, स्क्रीन लॉक आणि क्रियाकलाप माहिती कॉन्फिगर करा</summary>
+  <summary lang="lt">Konfigūruoti užkardą, ekrano užraktą ir veiklos informaciją</summary>
+  <summary lang="ko">방화벽, 화면 잠금, 활동 정보 등을 설정합니다</summary>
+  <summary lang="ja">ファイアウォール、スクリーンロックとアクティビティ情報を設定します</summary>
+  <summary lang="it">Configura il firewall, il blocco schermo e le informazioni sull'attività</summary>
+  <summary lang="hu">A tűzfal, a lezárási képernyő és az aktivitási információk beállítása</summary>
+  <summary lang="he">הגדרת חומת אש, נעילת מסך ופירוט על פעילות</summary>
+  <summary lang="gl">Configurar devasa, pantalla de bloqueo e información da actividade</summary>
+  <summary lang="fr">Configurer le pare-feu, le verrouillage de l'écran et les informations de l'activité de l'utilisateur</summary>
+  <summary lang="fi">Määritä palomuuri, näytönlukitus ja toiminteiden tiedot</summary>
+  <summary lang="es">Configure el cortafuegos, el bloqueo de pantalla y la información de actividad</summary>
+  <summary lang="eo">Agordi fajroŝirmilon, ekranan ŝloson, kaj aktivadajn informojn</summary>
+  <summary lang="en_GB">Configure firewall, screen lock, and activity information</summary>
+  <summary lang="de">Firewall, Bildschirmsperre und Aktivitätsinformationen einrichten</summary>
+  <summary lang="da">Konfigurer firewall, skærmlås og aktivitetsdata</summary>
+  <summary lang="cs">Nastavení brány firewall, zámku obrazovky a informace o aktivitě</summary>
+  <summary lang="ca">Configureu el tallafoc, el bloqueig de la pantalla i la informació d'activitat.</summary>
+  <summary lang="ar">قم بتعديل جدار الحماية, قفل الشاشة و المعلومات حول نشاطك</summary>
+  <icon type="stock">preferences-system-privacy</icon>
+  <translation type="gettext">security-privacy-plug</translation>
+  <releases>
+    <release version="2.4.0" date="2021-05-18" urgency="medium">
+      <description>
+        <p>New features:</p>
+        <ul>
+          <li>Option to forbid new USB devices while locked</li>
+        </ul>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Translation updates</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.3.0" date="2021-11-23" urgency="medium">
+      <description>
+        <p>New features:</p>
+        <ul>
+          <li>Add Downloads option to Housekeeping</li>
+        </ul>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Translation updates</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-07-14" urgency="medium" version="2.2.5">
+      <description>
+        <ul>
+          <li>Translation updates</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" date="2020-05-25" version="2.2.4">
+      <description>
+        <ul>
+          <li>Translation updates</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" version="2.2.3" date="2020-04-08">
+      <description>
+        <ul>
+          <li>Translation updates</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.2.2" urgency="medium" date="2019-10-29">
+      <description>
+        <ul>
+          <li>Redesigned "Housekeeping" page</li>
+          <li>Translation updates</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/elementary/switchboard-plug-security-privacy/master/data/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://elementary.io</url>
+  <url type="bugtracker">https://github.com/elementary/switchboard-plug-security-privacy/issues</url>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+</component>

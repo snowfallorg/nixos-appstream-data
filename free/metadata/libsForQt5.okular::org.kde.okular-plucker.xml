@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>libsForQt5.okular</pkgname>
+  <id>org.kde.okular-plucker</id>
+  <extends>org.kde.okular.desktop</extends>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+ and GFDL-1.3</project_license>
+  <name>Plucker</name>
+  <name lang="ar">Plucker</name>
+  <name lang="az">Plucker</name>
+  <name lang="bg">Plucker</name>
+  <name lang="ca">Plucker</name>
+  <name lang="ca-valencia">Plucker</name>
+  <name lang="cs">Plucker</name>
+  <name lang="de">Plucker</name>
+  <name lang="el">Plucker</name>
+  <name lang="en-GB">Plucker</name>
+  <name lang="es">Plucker</name>
+  <name lang="et">Plucker</name>
+  <name lang="eu">Plucker</name>
+  <name lang="fi">Plucker</name>
+  <name lang="fr">Plucker</name>
+  <name lang="gl">Plucker</name>
+  <name lang="hi">प्लकर</name>
+  <name lang="hu">Plucker</name>
+  <name lang="ia">Plucker</name>
+  <name lang="it">Plucker</name>
+  <name lang="ko">plucker</name>
+  <name lang="lt">Plucker</name>
+  <name lang="ml">പ്ലക്കർ</name>
+  <name lang="nl">Plucker</name>
+  <name lang="nn">Plucker</name>
+  <name lang="pl">Plucker</name>
+  <name lang="pt">Plucker</name>
+  <name lang="pt-BR">Plucker</name>
+  <name lang="ro">Plucker</name>
+  <name lang="ru">Plucker</name>
+  <name lang="sk">Plucker</name>
+  <name lang="sl">Plucker</name>
+  <name lang="sr">Плакер</name>
+  <name lang="sr-Latn">Plucker</name>
+  <name lang="sr-ijekavian">Плакер</name>
+  <name lang="sr-ijekavianlatin">Plucker</name>
+  <name lang="sv">Plucker</name>
+  <name lang="ta">Plucker</name>
+  <name lang="tr">Plucker</name>
+  <name lang="uk">Plucker</name>
+  <name lang="vi">Plucker</name>
+  <name lang="x-test">xxPluckerxx</name>
+  <name lang="zh-CN">Plucker</name>
+  <name lang="zh-TW">Plucker</name>
+  <summary>Adds support for reading Plucker documents</summary>
+  <summary lang="ar">يضيف دعم لقراءة مستندات Plucker</summary>
+  <summary lang="az">Plucker sənədlərini oxumaq üçün dəstək əlavə edir</summary>
+  <summary lang="bg">Добавя поддръжка за четене на Plucker документи</summary>
+  <summary lang="ca">Afegeix la implementació per a llegir documents Plucker</summary>
+  <summary lang="ca-valencia">Afig la implementació per a llegir documents Plucker</summary>
+  <summary lang="cs">Přidává podporu pro čtení dokumentů Plucker</summary>
+  <summary lang="de">Bietet Unterstützung zum Lesen von Plucker-Dokumenten</summary>
+  <summary lang="el">Προσθέτει υποστήριξη για την ανάγνωση εγγράφων Plucker</summary>
+  <summary lang="en-GB">Adds support for reading Plucker documents</summary>
+  <summary lang="es">Permite la lectura de documentos en formato Plucker</summary>
+  <summary lang="et">Pluckeri dokumentide lugemise toetus</summary>
+  <summary lang="eu">Plucker dokumentuak irakurtzeko euskarria gehitzen du</summary>
+  <summary lang="fi">Lisää Plucker-tiedostojen lukutuen</summary>
+  <summary lang="fr">Permet la lecture des documents Plucker</summary>
+  <summary lang="gl">Engade a posibilidade de ler documentos de Plucker</summary>
+  <summary lang="hi">प्लकर दस्तावेज़ पढ़ने के लिए समर्थन जोड़ता है</summary>
+  <summary lang="hu">Támogatás Plucker dokumentumok olvasásához</summary>
+  <summary lang="ia">Adde supporto per leger documentos Plucker</summary>
+  <summary lang="it">Aggiunge il supporto per la lettura di documenti Plucker</summary>
+  <summary lang="ko">Plucker 문서 읽기 지원 추가</summary>
+  <summary lang="lt">Prideda palaikymą Plucker dokumentų skaitymui</summary>
+  <summary lang="ml">പ്ലക്കർ പ്രമാണങ്ങൾ വായിക്കാൻ പിന്തുണ ചേർക്കുന്നു</summary>
+  <summary lang="nl">Voegt ondersteuning voor lezen van Plucker-documenten toe</summary>
+  <summary lang="nn">Legg til støtte for å lesa Plucker-dokument</summary>
+  <summary lang="pl">Dodaje obsługę dokumentów Plucker</summary>
+  <summary lang="pt">Adiciona o suporte para ler documentos do Plucker</summary>
+  <summary lang="pt-BR">Adiciona o suporte para leitura de documentos do Plucker</summary>
+  <summary lang="ro">Adaugă suport pentru citirea documentelor Plucker</summary>
+  <summary lang="ru">Поддержка чтения документов Plucker</summary>
+  <summary lang="sk">Pridá podporu pre čítanie dokumentov Plucker</summary>
+  <summary lang="sl">Doda podporo za branje dokumentov Plucker</summary>
+  <summary lang="sr">Подршка за читање плакер докумената</summary>
+  <summary lang="sr-Latn">Podrška za čitanje Plucker dokumenata</summary>
+  <summary lang="sr-ijekavian">Подршка за читање плакер докумената</summary>
+  <summary lang="sr-ijekavianlatin">Podrška za čitanje Plucker dokumenata</summary>
+  <summary lang="sv">Lägger till stöd för att läsa Plucker-dokument</summary>
+  <summary lang="ta">Plucker ஆவணங்களைப் படிப்பதற்கான ஆதரவை சேர்க்கும்</summary>
+  <summary lang="tr">Plucker belgelerini okuma desteği ekler</summary>
+  <summary lang="uk">Додає підтримку читання документів Plucker</summary>
+  <summary lang="vi">Thêm hỗ trợ đọc tài liệu Plucker</summary>
+  <summary lang="x-test">xxAdds support for reading Plucker documentsxx</summary>
+  <summary lang="zh-CN">增加对 Plucker 文档的阅读支持</summary>
+  <summary lang="zh-TW">加入讀取 Plucker 文件的支援</summary>
+  <provides>
+    <mediatype>application/prs.plucker</mediatype>
+  </provides>
+  <url type="homepage">https://okular.kde.org</url>
+  <releases>
+    <release version="22.04.3" date="2022-07-07" />
+    <release date="2022-06-09" version="22.04.2" />
+    <release date="2022-05-12" version="22.04.1" />
+    <release version="22.04.0" date="2022-04-21" />
+  </releases>
+</component>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>industrializer</pkgname>
+  <launchable type="desktop-id">psindustrializer.desktop</launchable>
+  <id type="desktop">psindustrializer.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>Power Station Industrializer</name>
+  <name lang="ru">Power Station Industrializer</name>
+  <summary>Synthesize sounds using physical modelling</summary>
+  <summary lang="ru">Синтез звуков методом физического моделирования</summary>
+  <description>
+    <p>
+      This program generates synthesized percussion sounds using physical modelling.
+      The range of sounds possible include but is not limited to cymbal sounds,
+      metallic noises, bubbly sounds, and chimes. After a sound is rendered, it
+      can be played and then saved to a .WAV file.
+    </p>
+  </description>
+  <description lang="ru">
+    <p>
+      Эта программа позволяет синтезировать звуки ударной природы методом моделирования
+      физических процессов. Программа может генерировать звуки, напоминающие тарелки,
+      металлические шумы, звуки пузырей и колоколов и многие другие. Сгенерированные
+      зкуви можно прослушать или сохранить в файлы типа WAV.
+    </p>
+  </description>
+  <url type="homepage">https://sourceforge.net/projects/industrializer</url>
+</component>

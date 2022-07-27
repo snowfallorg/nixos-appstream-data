@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>libsForQt5.granatier</pkgname>
+  <launchable type="desktop-id">org.kde.granatier.desktop</launchable>
+  <icon width="64" type="cached" height="64">granatier.png</icon>
+  <icon width="128" height="128" type="cached">granatier.png</icon>
+  <id>org.kde.granatier.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Granatier</name>
+  <name lang="ar">جرنتر</name>
+  <name lang="bs">Granatier</name>
+  <name lang="ca">Granatier</name>
+  <name lang="ca-valencia">Granatier</name>
+  <name lang="cs">Granatier</name>
+  <name lang="da">Granatier</name>
+  <name lang="de">Granatier</name>
+  <name lang="el">Χειροβομβιστής</name>
+  <name lang="en-GB">Granatier</name>
+  <name lang="es">Granatier</name>
+  <name lang="et">Granatier</name>
+  <name lang="eu">Granatier</name>
+  <name lang="fi">Granatier</name>
+  <name lang="fr">Granatier</name>
+  <name lang="gl">Granatier</name>
+  <name lang="hu">Granatier</name>
+  <name lang="id">Granatier</name>
+  <name lang="it">Granatier</name>
+  <name lang="ko">Granatier</name>
+  <name lang="nl">Granatier</name>
+  <name lang="nn">Granatier</name>
+  <name lang="pl">Granatier</name>
+  <name lang="pt">Granatier</name>
+  <name lang="pt-BR">Granatier</name>
+  <name lang="ru">Granatier</name>
+  <name lang="sk">Granatier</name>
+  <name lang="sl">Granatier</name>
+  <name lang="sr">Гренадир</name>
+  <name lang="sr-Latn">Grenadir</name>
+  <name lang="sr-ijekavian">Гренадир</name>
+  <name lang="sr-ijekavianlatin">Grenadir</name>
+  <name lang="sv">Granatier</name>
+  <name lang="tr">Granatier</name>
+  <name lang="uk">Granatier</name>
+  <name lang="x-test">xxGranatierxx</name>
+  <name lang="zh-CN">Granatier</name>
+  <name lang="zh-TW">Granatier</name>
+  <summary>Bomberman clone</summary>
+  <summary lang="ar">مستنسخة بومبرمان</summary>
+  <summary lang="bs">Klon igre Bomberman</summary>
+  <summary lang="ca">Un clon del Bomberman</summary>
+  <summary lang="ca-valencia">Un clon del Bomberman</summary>
+  <summary lang="cs">Klon Bombermana</summary>
+  <summary lang="da">Klon af Bomberman</summary>
+  <summary lang="de">Bomberman-Klon</summary>
+  <summary lang="el">Κλώνος του Bomberman</summary>
+  <summary lang="en-GB">Bomberman clone</summary>
+  <summary lang="es">Clon de Bomberman</summary>
+  <summary lang="et">Bombermani kloon</summary>
+  <summary lang="eu">Bomberman jokoaren klona</summary>
+  <summary lang="fi">Bomberman-klooni</summary>
+  <summary lang="fr">Un clone de Bomberman</summary>
+  <summary lang="gl">Clon do Bomberman</summary>
+  <summary lang="hu">Bomberman-klón</summary>
+  <summary lang="id">Klona Bomberman</summary>
+  <summary lang="it">Un clone di Bomberman</summary>
+  <summary lang="ko">Bomberman 클론</summary>
+  <summary lang="nl">Bomberman kloon</summary>
+  <summary lang="nn">Bomberman-klon</summary>
+  <summary lang="pl">Klon Bombermana</summary>
+  <summary lang="pt">Clone do Bomberman</summary>
+  <summary lang="pt-BR">Clone do Bomberman</summary>
+  <summary lang="ru">Клон игры Bomberman</summary>
+  <summary lang="sk">Klon Bombermana</summary>
+  <summary lang="sl">Dvojnik Bombermana</summary>
+  <summary lang="sr">Клон Бомбермана</summary>
+  <summary lang="sr-Latn">Klon Bombermana</summary>
+  <summary lang="sr-ijekavian">Клон Бомбермана</summary>
+  <summary lang="sr-ijekavianlatin">Klon Bombermana</summary>
+  <summary lang="sv">Klon av Bomberman</summary>
+  <summary lang="tr">Bomberman klonu</summary>
+  <summary lang="uk">Клон гри бомбермен (Bomberman)</summary>
+  <summary lang="x-test">xxBomberman clonexx</summary>
+  <summary lang="zh-CN">炸弹人游戏复刻</summary>
+  <summary lang="zh-TW">炸彈超人遊戲</summary>
+  <description>
+    <p>
+      Granatier is a clone of the classic Bomberman game, inspired by the work of the Clanbomber clone.
+    </p>
+  </description>
+  <description lang="ar">
+    <p>هي نسخة من لعبة بومبرمان الكلاسيكية ، مستوحاة من نسخة Clanbomber.</p>
+  </description>
+  <description lang="ca">
+    <p>El Granatier és un clon del joc Bomberman clàssic, inspirat en el treball del clon Clanbomber.</p>
+  </description>
+  <description lang="ca-valencia">
+    <p>Granatier és un clon del joc Bomberman clàssic, inspirat en el treball del clon Clanbomber.</p>
+  </description>
+  <description lang="da">
+    <p>Granatier er en klon af det klassiske spil Bomberman, inspireret af af arbejdet fra Clanbomber-klonen.</p>
+  </description>
+  <description lang="de">
+    <p>Granatier ist eine Kopie des klassischen Spiels Bomberman und ist von der Arbeit an dessen Clanbomber-Kopie inspiriert.</p>
+  </description>
+  <description lang="el">
+    <p>Ο Χειροβομβιστής είναι ένας κλώνος του κλασικού παιχνιδιού Bomberman, εμπνευσμένο από την εργασία του κλώνου του Clanbomber.</p>
+  </description>
+  <description lang="en-GB">
+    <p>Granatier is a clone of the classic Bomberman game, inspired by the work of the Clanbomber clone.</p>
+  </description>
+  <description lang="es">
+    <p>Granatier es un clon del juego clásico Bomberman, inspirado en el trabajo del clon de Clanbomber.</p>
+  </description>
+  <description lang="et">
+    <p>Granatier on klassikalise mängu Bomberman kloon, mis sai innustust teisest kloonist Clanbomber.</p>
+  </description>
+  <description lang="eu">
+    <p>Granatier Bomberman joko klasikoaren klon bat da, Clanbomber klonean egindako lanean inspiratua.</p>
+  </description>
+  <description lang="fi">
+    <p>Granatier on perinteisen Bomberman-pelin klooni, joka on saanut inspiraatiota Clanbomber-kloonista.</p>
+  </description>
+  <description lang="fr">
+    <p>Granatier est un clone du jeu classique Bomberman. Il est inspiré par le travail réalisé par le clone Clanbomber.</p>
+  </description>
+  <description lang="gl">
+    <p>Granatier é un clon do clásico xogo do Bomberman, inspirado no traballo do clon Clanbomber.</p>
+  </description>
+  <description lang="hu">
+    <p>A Granatier a klasszikus Bomberman játék klónja, a Clanbomber nevű klón által inspirálva.</p>
+  </description>
+  <description lang="id">
+    <p>Granatier adalah sebuah pengklonaan dari permainan Bomberman klasik, terinspirasi oleh bekerjanya klona Clanbomber.</p>
+  </description>
+  <description lang="it">
+    <p>Granatier è un clone del classico Bomberman, che si ispira al lavoro fatto per il clone Clanbomber.</p>
+  </description>
+  <description lang="ko">
+    <p>Granatier는 Clanbomber 클론에서 아이디어를 얻은 고전 Bomberman 게임 클론입니다.</p>
+  </description>
+  <description lang="nl">
+    <p>Granatier is een kloon van het klassieke spel Bomberman, geïnspireerd door het werk van de kloon Clanbomber.</p>
+  </description>
+  <description lang="nn">
+    <p>Granatier er ein klon av det klassiske Bomberman-spelet og inspirert av Clanbomber-klonen.</p>
+  </description>
+  <description lang="pl">
+    <p>Granatier jest klonem klasycznej gry Bomberman, zainspirowany pracą nad klonem Clanbomber.</p>
+  </description>
+  <description lang="pt">
+    <p>O Granatier é um clone do jogo clássico Bomberman, inspirado pelo trabalho do clone Clanbomber.</p>
+  </description>
+  <description lang="pt-BR">
+    <p>Granatier é um clone do jogo clássico Bomberman, inspirado no trabalho do jogo Clanbomber.</p>
+  </description>
+  <description lang="ru">
+    <p>Granatier — клон классической игры Bomberman, вобравший в себя некоторые особенности Clanbomber, другого клона той же игры.</p>
+  </description>
+  <description lang="sk">
+    <p>Granatier je klon klasickej hry Bomberman, inšpirovanej prácou klonu Clanmombera.</p>
+  </description>
+  <description lang="sl">
+    <p>Granatier je dvojnik klasične igre Bomberman, navdahnjen z delom na dvojniku imenovanem Clanbomber.</p>
+  </description>
+  <description lang="sr">
+    <p>Гренадир је клон класичне игре Бомберман, инспирисан радом клона Кланбомбер.</p>
+  </description>
+  <description lang="sr-Latn">
+    <p>Grenadir je klon klasične igre Bomberman, inspirisan radom klona ClanBomber.</p>
+  </description>
+  <description lang="sr-ijekavian">
+    <p>Гренадир је клон класичне игре Бомберман, инспирисан радом клона Кланбомбер.</p>
+  </description>
+  <description lang="sr-ijekavianlatin">
+    <p>Grenadir je klon klasične igre Bomberman, inspirisan radom klona ClanBomber.</p>
+  </description>
+  <description lang="sv">
+    <p>Granatier är en klon av det klassiska spelet Bomberman, inspirerat av arbetet med klonen Clanbomber.</p>
+  </description>
+  <description lang="tr">
+    <p>Granatie, klasik Bomberman oyununun bir klonudur, Clancomber klonun çalışmasından esinlenmiştir.</p>
+  </description>
+  <description lang="uk">
+    <p>Granatier — клон класичної гри «бомбермен», ідеї для якого запозичено з роботи над клоном гри Clanbomber.</p>
+  </description>
+  <description lang="x-test">
+    <p>xxGranatier is a clone of the classic Bomberman game, inspired by the work of the Clanbomber clone.xx</p>
+  </description>
+  <description lang="zh-CN">
+    <p>Granatier 是经典游戏 Bomberman (炸弹人) 的复刻，它从 Clanbomber 复刻工程中汲取了灵感。</p>
+  </description>
+  <description lang="zh-TW">
+    <p>Granatier 是從傳統的炸彈超人所承襲而來的遊戲，並且參考了 Clanbomber 的源碼。</p>
+  </description>
+  <url type="homepage">https://www.kde.org/applications/games/granatier/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=granatier</url>
+  <url type="help">https://docs.kde.org/?application=granatier</url>
+  <url type="donation">https://www.kde.org/community/donations/?app=granatier&amp;source=appdata</url>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Playing Granatier</caption>
+      <caption lang="ar">يعلب جرنتر</caption>
+      <caption lang="ca">Jugant al Granatier</caption>
+      <caption lang="ca-valencia">Jugant a Granatier</caption>
+      <caption lang="cs">Hraní Granatier</caption>
+      <caption lang="da">At spille Granatier</caption>
+      <caption lang="de">Granatier spielen</caption>
+      <caption lang="el">Παίζω χειροβομβιστή</caption>
+      <caption lang="en-GB">Playing Granatier</caption>
+      <caption lang="es">Jugando a Granatier</caption>
+      <caption lang="et">Granatieri mängimine</caption>
+      <caption lang="eu">Granatier-ren jokatzea</caption>
+      <caption lang="fi">Granatierin pelaaminen</caption>
+      <caption lang="fr">Partie de Granatier en cours</caption>
+      <caption lang="gl">Xogando a Granatier</caption>
+      <caption lang="hu">Granatier játék</caption>
+      <caption lang="id">Memainkan Granatier</caption>
+      <caption lang="it">Giocare con Granatier</caption>
+      <caption lang="ko">Granatier 플레이</caption>
+      <caption lang="nl">Granatier spelen</caption>
+      <caption lang="nn">Spelar Granatier</caption>
+      <caption lang="pl">Granie w Granatier</caption>
+      <caption lang="pt">A jogar ao Granatier</caption>
+      <caption lang="pt-BR">Jogando o Granatier</caption>
+      <caption lang="ru">Процесс игры</caption>
+      <caption lang="sk">Hranie Granatier</caption>
+      <caption lang="sl">Igra Granatier</caption>
+      <caption lang="sv">Spela Granatier</caption>
+      <caption lang="uk">Гра у Granatier</caption>
+      <caption lang="x-test">xxPlaying Granatierxx</caption>
+      <caption lang="zh-CN">开始格兰提尔游戏</caption>
+      <caption lang="zh-TW">Granatier 遊玩畫面</caption>
+      <image>https://cdn.kde.org/screenshots/granatier/granatier.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>granatier</binary>
+  </provides>
+  <releases>
+    <release date="2022-07-07" version="1.4.22043" />
+    <release version="1.4.22042" date="2022-06-09" />
+    <release date="2022-05-12" version="1.4.22041" />
+    <release version="1.4.22040" date="2022-04-21" />
+  </releases>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">mild</content_attribute>
+  </content_rating>
+</component>

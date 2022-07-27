@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <ul>
+      <li>RSS feed support with advanced download filters (incl. regex)</li>
+      <li>
+        Many Bittorrent extensions supported:
+        <ul>
+          <li>Magnet links</li>
+          <li>Distributed hash table (DHT), peer exchange protocol (PEX), local peer discovery (LSD)</li>
+          <li>Private torrents</li>
+          <li>Encrypted connections</li>
+          <li>and many more...</li>
+        </ul>
+      </li>
+      <li>
+        <ul>
+          <li>Magnet links</li>
+          <li>Distributed hash table (DHT), peer exchange protocol (PEX), local peer discovery (LSD)</li>
+          <li>Private torrents</li>
+          <li>Encrypted connections</li>
+          <li>and many more...</li>
+        </ul>
+      </li>
+      <li>Remote control through Web user interface, written with AJAX</li>
+      <li>Sequential downloading (Download in order)</li>
+      <li>
+        Advanced control over torrents, trackers and peers
+        <ul>
+          <li>Torrents queueing and prioritizing</li>
+          <li>Torrent content selection and prioritizing</li>
+        </ul>
+      </li>
+      <li>
+        <ul>
+          <li>Torrents queueing and prioritizing</li>
+          <li>Torrent content selection and prioritizing</li>
+        </ul>
+      </li>
+      <li>Bandwidth scheduler</li>
+      <li>Torrent creation tool</li>
+      <li>IP Filtering (eMule &amp; PeerGuardian format compatible)</li>
+      <li>IPv6 compliant</li>
+      <li>UPnP / NAT-PMP port forwarding support</li>
+      <li>Available on all platforms: Windows, Linux, macOS, FreeBSD, OS/2</li>
+      <li>Available in ~70 languages</li>
+    </ul>
+    <p>
+      The qBittorrent project aims to provide an open-source software alternative to µTorrent.
+      Additionally, qBittorrent runs and provides the same features on all major platforms (FreeBSD, Linux, macOS, OS/2, Windows).
+      qBittorrent is based on the Qt toolkit and libtorrent-rasterbar library.
+    </p>
+  </description>
+  <pkgname>qbittorrent</pkgname>
+  <icon type="cached" width="64" height="64">qbittorrent.png</icon>
+  <icon height="128" width="128" type="cached">qbittorrent.png</icon>
+  <id>org.qbittorrent.qBittorrent</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0 and OpenSSL</project_license>
+  <name>qBittorrent</name>
+  <summary>An open-source Bittorrent client</summary>
+  <launchable type="desktop-id">org.qbittorrent.qBittorrent.desktop</launchable>
+  <screenshots>
+    <screenshot type="default">
+      <image height="675" width="1200">https://alexpl.fedorapeople.org/AppData/qbittorrent/screens/qbittorrent_01.png</image>
+    </screenshot>
+    <screenshot>
+      <image height="675" width="1200">https://alexpl.fedorapeople.org/AppData/qbittorrent/screens/qbittorrent_02.png</image>
+    </screenshot>
+    <screenshot>
+      <image width="1200" height="675">https://alexpl.fedorapeople.org/AppData/qbittorrent/screens/qbittorrent_03.png</image>
+    </screenshot>
+    <screenshot>
+      <image height="675" width="1200">https://alexpl.fedorapeople.org/AppData/qbittorrent/screens/qbittorrent_04.png</image>
+    </screenshot>
+  </screenshots>
+  <update_contact>sledgehammer999@qbittorrent.org</update_contact>
+  <developer_name>The qBittorrent Project</developer_name>
+  <url type="homepage">https://www.qbittorrent.org/</url>
+  <url type="bugtracker">http://bugs.qbittorrent.org/</url>
+  <url type="donation">https://www.qbittorrent.org/donate</url>
+  <url type="help">http://forum.qbittorrent.org/</url>
+  <url type="translate">https://github.com/qbittorrent/qBittorrent/wiki/How-to-translate-qBittorrent</url>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release version="4.4.3" date="2022-05-22" />
+  </releases>
+</component>

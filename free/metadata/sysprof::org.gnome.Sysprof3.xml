@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>sysprof</pkgname>
+  <launchable type="desktop-id">org.gnome.Sysprof3.desktop</launchable>
+  <icon type="cached" width="64" height="64">org.gnome.Sysprof.png</icon>
+  <icon height="128" type="cached" width="128">org.gnome.Sysprof.png</icon>
+  <id>org.gnome.Sysprof3.desktop</id>
+  <translation type="gettext">sysprof</translation>
+  <name>Sysprof</name>
+  <name lang="zh_CN">Sysprof</name>
+  <name lang="uk">Sysprof</name>
+  <name lang="sv">Sysprof</name>
+  <name lang="sr">Профилатор система</name>
+  <name lang="sk">Sysprof</name>
+  <name lang="sl">Sysprof</name>
+  <name lang="ro">Sysprof</name>
+  <name lang="pt_BR">Sysprof</name>
+  <name lang="pl">Sysprof</name>
+  <name lang="nl">Sysprof</name>
+  <name lang="ko">시스프롭</name>
+  <name lang="it">Sysprof</name>
+  <name lang="id">Sysprof</name>
+  <name lang="hu">Sysprof</name>
+  <name lang="he">Sysprof</name>
+  <name lang="gl">Sysprof</name>
+  <name lang="fur">Sysprof</name>
+  <name lang="fr">Sysprof</name>
+  <name lang="fi">Sysprof</name>
+  <name lang="eu">Sysprof</name>
+  <name lang="es">Sysprof</name>
+  <name lang="el">Sysprof</name>
+  <name lang="de">Sysprof</name>
+  <name lang="da">Sysprof</name>
+  <name lang="cs">Sysprof</name>
+  <name lang="ca">Sysprof</name>
+  <summary>Profile an application or entire system</summary>
+  <summary lang="zh_CN">对应用程序或整个系统进行性能分析</summary>
+  <summary lang="uk">Профілювання програми або усієї системи</summary>
+  <summary lang="sv">Profilera ett program eller hela systemet</summary>
+  <summary lang="sr">Профилишите неки програм или читав систем</summary>
+  <summary lang="sk">Vytvára profil aplikácie alebo celého systému</summary>
+  <summary lang="ro">Profilați o aplicație sau un întreg sistem</summary>
+  <summary lang="pt_BR">Perfile um aplicativo ou todo o sistema</summary>
+  <summary lang="pl">Profilowanie programów lub całego systemu</summary>
+  <summary lang="ko">프로그램 또는 전체 시스템을 프로파일링합니다</summary>
+  <summary lang="id">Susun profil suatu aplikasi atau seluruh sistem</summary>
+  <summary lang="hu">Alkalmazás vagy egész rendszer profilozása</summary>
+  <summary lang="he">ניתוח יישום או מערכת שלמה</summary>
+  <summary lang="gl">Perfile unha aplicación ou o sistema enteiro</summary>
+  <summary lang="fur">Profile une aplicazion o dut il sisteme</summary>
+  <summary lang="fi">Profiloi sovellus tai koko järjestelmä</summary>
+  <summary lang="eu">Profilatu aplikazio bat edo sistema oso bat</summary>
+  <summary lang="es">Perfilar una aplicación o el sistema completo</summary>
+  <summary lang="de">Eine Anwendung oder ein gesamtes System analysieren</summary>
+  <summary lang="da">Profilér et program eller hele systemet</summary>
+  <summary lang="ca">Analitza el rendiment d'una aplicació o del sistema sencer</summary>
+  <project_license>GPL-3.0+</project_license>
+  <project_group>GNOME</project_group>
+  <developer_name>The GNOME Foundation</developer_name>
+  <developer_name lang="zh_CN">GNOME 基金会</developer_name>
+  <developer_name lang="uk">Фундація GNOME</developer_name>
+  <developer_name lang="sv">GNOME Foundation</developer_name>
+  <developer_name lang="sr">Гномова Фондација</developer_name>
+  <developer_name lang="sk">Nadácia GNOME</developer_name>
+  <developer_name lang="ro">Fundația GNOME</developer_name>
+  <developer_name lang="pt_BR">A Fundação GNOME</developer_name>
+  <developer_name lang="pl">Fundacja GNOME</developer_name>
+  <developer_name lang="nl">De Gnome Foundation</developer_name>
+  <developer_name lang="ko">그놈 재단</developer_name>
+  <developer_name lang="it">La fondazione GNOME</developer_name>
+  <developer_name lang="id">Yayasan GNOME</developer_name>
+  <developer_name lang="hu">A GNOME Alapítvány</developer_name>
+  <developer_name lang="he">קרן GNOME</developer_name>
+  <developer_name lang="gl">A Fundación GNOME</developer_name>
+  <developer_name lang="fur">La fondazion GNOME</developer_name>
+  <developer_name lang="fi">Gnome-säätiö</developer_name>
+  <developer_name lang="eu">GNOME fundazioa</developer_name>
+  <developer_name lang="es">La Fundación GNOME</developer_name>
+  <developer_name lang="el">Το ίδρυμα GNOME</developer_name>
+  <developer_name lang="de">Die GNOME Foundation</developer_name>
+  <developer_name lang="da">GNOME Foundation</developer_name>
+  <developer_name lang="cs">Nadace GNOME</developer_name>
+  <developer_name lang="ca">La Fundació GNOME</developer_name>
+  <description>
+    <p>Sysprof allows you to profile applications to aid in debugging and optimization.</p>
+  </description>
+  <description lang="ca">
+    <p>Sysprof us permet analitzar el rendiment d'aplicacions per a ajudar-vos en la seva depuració i l'optimització.</p>
+  </description>
+  <description lang="cs">
+    <p>Sysprof vám umožní profilovat aplikace za účelem ladění a optimalizace.</p>
+  </description>
+  <description lang="da">
+    <p>Sysprof giver dig mulighed for at profilere programmer for at hjælpe med fejlretning og optimering.</p>
+  </description>
+  <description lang="de">
+    <p>Sysprof ermöglicht Ihnen das Profiling von Anwendungen zwecks Fehlerdiagnose und Optimierung.</p>
+  </description>
+  <description lang="es">
+    <p>Sysprof le permite perfilar aplicaciones para ayudar en la depuración y la optimización.</p>
+  </description>
+  <description lang="eu">
+    <p>Aplikazioak profilatzea ahalbidetzen du arazketan eta optimizazioetan laguntzeko.</p>
+  </description>
+  <description lang="fi">
+    <p>Sysprof mahdollistaa sovellusten profiloinnin esimerkiksi vianetsinnän tai optimoinnin vuoksi.</p>
+  </description>
+  <description lang="fur">
+    <p>Sysprof ti permet di profilâ aplicazions par judâ intal debug e tal perfezionament.</p>
+  </description>
+  <description lang="he">
+    <p>‫Sysprof מאפשר לך לנתח יישומים כדי לסייע בניפוי שגיאות ובמיטוב.</p>
+  </description>
+  <description lang="hu">
+    <p>A Sysprof lehetővé teszi az alkalmazások profilozását a hibakeresés és az optimalizáció támogatáshoz.</p>
+  </description>
+  <description lang="id">
+    <p>Sysprof memungkinkan Anda memantau profil aplikasi untuk membantu pengawakutuan dan optimisasi.</p>
+  </description>
+  <description lang="it">
+    <p>Sysprof consente di profilare le applicazioni per facilitare il debug e l'ottimizzazione.</p>
+  </description>
+  <description lang="ko">
+    <p>시스프롭은 프로그램 디버깅 및 최적화 과정 프로파일을 도와줍니다.</p>
+  </description>
+  <description lang="nl">
+    <p>Sysprof biedt u de mogelijkheid om toepassingen te profileren, om u te helpen bij debuggen en optimalisatie.</p>
+  </description>
+  <description lang="pl">
+    <p>Sysprof umożliwia profilowanie programów, aby wspomóc debugowanie i optymalizację.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Sysprof permite que você crie perfis para aplicativos para auxiliar na depuração e otimização.</p>
+  </description>
+  <description lang="ro">
+    <p>Sysprof vă permite să profilați aplicații pentru a vă ajuta la depanare și optimizare.</p>
+  </description>
+  <description lang="sr">
+    <p>Профилатор система вам омогућава да профилишете програме за помоћ у прочишћавању и оптимизацији.</p>
+  </description>
+  <description lang="sv">
+    <p>Sysprof låter dig profilera program för att hjälpa till med felsökning och optimering.</p>
+  </description>
+  <description lang="uk">
+    <p>За допомогою Sysprof ви зможете профілювати програми з метою діагностики та оптимізації.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>Sysprof 允许您对应用程序进行性能分析，以便调试及优化。</p>
+  </description>
+  <url type="homepage">https://wiki.gnome.org/Apps/Sysprof</url>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/sysprof/issues</url>
+  <url type="donation">https://www.gnome.org/friends</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://git.gnome.org/browse/sysprof/plain/data/screenshots/sysprof-main-window.png</image>
+    </screenshot>
+  </screenshots>
+  <kudos>
+    <kudo>AppMenu</kudo>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>UserDocs</kudo>
+  </kudos>
+  <provides>
+    <binary>sysprof</binary>
+    <binary>sysprof-cli</binary>
+    <dbus type="system">org.gnome.Sysprof2</dbus>
+    <dbus type="system">org.gnome.Sysprof3</dbus>
+  </provides>
+  <releases>
+    <release date="2022-03-18" version="3.44.0" />
+    <release version="3.43.90" date="2022-03-07" />
+    <release date="2021-11-04" version="3.42.1" />
+    <release version="3.42.0" date="2021-09-21" />
+  </releases>
+  <metadata_license>CC0-1.0</metadata_license>
+  <update_contact>chergert_AT_redhat.com</update_contact>
+</component>

@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <description>
+    <p>Gajim aims to be an easy to use and fully-featured XMPP client.
+    Just chat with your friends or family, easily share pictures and 
+    thoughts or discuss the news with your groups.
+    </p>
+    <p>Chat securely with End-to-End encryption via OMEMO or OpenPGP.</p>
+    <p>Gajim integrates well with your other devices: simply continue conversations on your mobile device.
+    </p>
+    <p>Features:</p>
+    <ul>
+      <li>Never miss a message, keep all your chat clients synchronized</li>
+      <li>Invite friends to group chats or join one</li>
+      <li>Easily send pictures, videos or other files to friends and groups</li>
+      <li>Chat securely with End-to-End encryption via OMEMO or OpenPGP</li>
+      <li>Use your favorite emoticons, set your own profile picture</li>
+      <li>Keep and manage all your chat history</li>
+      <li>Organize your chats with workspaces</li>
+      <li>Automatic spell-checking for your messages</li>
+      <li>Connect to other Messengers via Transports (Facebook, IRC, ...)</li>
+      <li>Lookup things on Wikipedia, dictionaries or other search engines directly from the chat window</li>
+      <li>Set your activity or tune to show your friends how you are feeling</li>
+      <li>Support for multiple accounts</li>
+      <li>XML console to see what's happening on the protocol layer</li>
+      <li>Support for service discovery including nodes and search for users</li>
+      <li>Even more features via plugins</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>Gajim ist ein einfach zu benutzender und vollwertiger XMPP-Client. Chatte einfach mit deinen Freunden oder deiner Familie, teile Fotos und Gedanken oder diskutiere die neuesten Nachrichten mit deinen Gruppen.</p>
+    <p>Chatte sicher und verschlüsselt durch Ende-zu-Ende-Verschlüsselung per OMEMO oder OpenPGP.</p>
+    <p>Gajim vernetzt sich gut mit deinen übrigen Geräten: Einfach auf dem PC schreiben und auf dem Handy sehen, was geschrieben wurde.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Verpasse keine Nachrichten, halte alle deine Chat-Clients synchron</li>
+      <li>Lade Freunde zum Gruppenchat ein oder tritt selbst einem bei</li>
+      <li>Versende ganz einfach Fotos, Videos oder andere Dateien an Freunde und Gruppen</li>
+      <li>Chatte sicher und verschlüsselt durch Ende-zu-Ende-Verschlüsselung per OMEMO oder OpenPGP</li>
+      <li>Benutze deine liebsten Emojis, lade dein eigenes Profilbild hoch</li>
+      <li>Behalte und verwalte deinen Nachrichtenverlauf</li>
+      <li>Ordne deine Chats mit Arbeitsbereichen</li>
+      <li>Automatische Rechtschreibprüfung für deine Nachrichten</li>
+      <li>Verbinde dich mit anderen Messengern durch Transporte (Facebook, IRC, ...)</li>
+      <li>Schaue Dinge bei Wikipedia, in Wörterbüchern oder anderen Suchmaschinen nach - direkt aus dem Chatfenster</li>
+      <li>Wenn du magst, teile deine Aktivität und die Musik, die du gerade hörst, mit deinen Freunden</li>
+      <li>Unterstützung für mehrere Konten</li>
+      <li>XML-Konsole, um zu sehen, was auf Protokollebene passiert</li>
+      <li>Unterstützung für Service discovery inkl. Nodes, Benutzer-Suche</li>
+      <li>Erweiterbarer Funktionsumfang durch Plugins</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>Gajim quiere ser un cliente XMPP fácil de usar y con todas las funciones. Simplemente charla con tus amigos o familiares, comparte imágenes y pensamientos fácilmente o discute las noticias con tus grupos.</p>
+    <p>Chatea de forma segura con cifrado de extremo a extremo a través de OMEMO u OpenPGP.</p>
+    <p>Gajim se integra bien con tus otros dispositivos: solo continúa las conversaciones en tu dispositivo móvil.</p>
+    <p>Características:</p>
+    <ul>
+      <li>No te pierdas ni un mensaje, mantén todos tus clientes de chat sincronizados</li>
+      <li>Invita a amigos a grupos o únete a uno</li>
+      <li>Envía fácilmente fotos, videos u otros archivos a amigos y grupos</li>
+      <li>Chatea de forma segura con cifrado de extremo a extremo a través de OMEMO u OpenPGP</li>
+      <li>Usa tus emoticonos favoritos, configura tu propia foto de perfil</li>
+      <li>Mantén y gestiona todo su historial de chat</li>
+      <li>Organiza tus chats con espacios de trabajo</li>
+      <li>Corrección ortográfica automática de tus mensajes</li>
+      <li>Conéctate a otros mensajeros a través de transportes (Facebook, IRC, ...)</li>
+      <li>Busca cosas en Wikipedia, diccionarios u otros motores de búsqueda directamente desde la ventana de chat</li>
+      <li>Establece tu actividad o melodía para mostrar a tus amigos cómo te sientes</li>
+      <li>Soporte para múltiples cuentas</li>
+      <li>Consola XML para ver qué sucede en la capa de protocolo</li>
+      <li>Soporte para descubrimiento de servicios incluyendo nodos y búsqueda de usuarios</li>
+      <li>Incluso más funciones a través de extensiones</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>Gajim a pour vocation d'être un client XMPP complet et facile à utiliser. Discutez simplement avec vos amis ou votre famille, partagez facilement des photos et des idées, ou discutez des actualités avec votre entourage.</p>
+    <p>Discutez de manière sécurisée avec un chiffrement de bout en bout au moyen de OMEMO ou OpenPGP.</p>
+    <p>Gajim s'intègre bien avec vos autres appareils : continuez vos discussions sur votre appareil mobile en toute simplicité.</p>
+    <p>Fonctionnalités :</p>
+    <ul>
+      <li>Ne ratez jamais un message, gardez tous vous clients de messagerie synchronisés</li>
+      <li>Inviter des amis dans un salon de discussion ou en rejoindre un</li>
+      <li>Envoyez facilement des photos, vidéos ou autres fichiers à des amis et des groupes</li>
+      <li>Discutez de manière sécurisée avec un chiffrement de bout en bout au moyen de OMEMO ou OpenPGP</li>
+      <li>Utilisez vos émoticônes préférées, configurez votre photo de profil</li>
+      <li>Sauvegardez et gérez votre historique de conversation</li>
+      <li>Vérification orthographique automatique des messages composés</li>
+      <li>Connectez-vous à d'autres messageries avec des passerelles (Facebook, IRC, …)</li>
+      <li>Consultez Wikipédia, des dictionnaires ou utilisez des moteurs de recherche directement depuis la fenêtre de discussion</li>
+      <li>Support pour plusieurs comptes</li>
+      <li>Console XML pour voir ce qui se passe sur la couche protocole</li>
+      <li>Support pour la découverte des services incluant les nœuds et la recherche d'utilisateurs</li>
+      <li>Encore plus de fonctionnalités avec des greffons</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>Gajim mira a essere un client XMPP completo e facile da usare. Chiacchiera con amici e familiari, condividi facilmente immagini e pensieri oppure discuti delle ultime notizie all'interno dei gruppi.</p>
+    <p>Conversazioni sicure, cifrate End-to-End tramite OMEMO o OpenPGP.</p>
+    <p>Grazie all'integrazione, le conversazioni di Gajim saranno disponibili anche suoi tuoi dispositivi mobili.</p>
+    <p>Caratteristiche:</p>
+    <ul>
+      <li>Non perdere alcun messaggio, mantenendo sincronizzati tutti i tuoi client</li>
+      <li>Invita gli amici alle conversazioni di gruppo oppure unisciti ad una</li>
+      <li>Invia facilmente immagini, video o altri file ad amici e gruppi</li>
+      <li>Conversazioni sicure, cifrate End-to-End tramite OMEMO o OpenPGP</li>
+      <li>Usa le tue emoticon preferite e imposta la tua immagine di profilo</li>
+      <li>Archivia e gestisci la cronologia delle tue conversazioni</li>
+      <li>Supporto per il controllo ortografico dei messaggi</li>
+      <li>Connettiti ad altre piattaforme di messaggistica utilizzando i Transport (Facebook, IRC, …)</li>
+      <li>Cerca su Wikipedia, dizionario o altri motori di ricerca direttamente dalla finestra di conversazione</li>
+      <li>Supporto per account multipli</li>
+      <li>Console XML per controllare cosa succede a livello di protocollo</li>
+      <li>Supporto per la ricerca di nuovi servizi, inclusi nodi e ricerca degli utenti</li>
+      <li>Ulteriori funzionalità attraverso le estensioni</li>
+    </ul>
+  </description>
+  <description lang="ja">
+    <p>Gajimは、使いやすい機能満載の XMPP クライアントとなることを目指しています。友人や家族とチャットはもちろん、画像や考えをかんたんに共有したりグループでニュースについて議論したりもできます。</p>
+    <p>OMEMO または OpenPGP での端末間暗号化による安全なチャット。</p>
+    <p>Gajimは他のデバイスとよく連携します。モバイル端末でも会話を続けられます。</p>
+    <p>機能:</p>
+    <ul>
+      <li>他のクライアントと同期し、メッセージを取りこぼしません</li>
+      <li>談話室への招待と参加</li>
+      <li>友人やグループへの画像・動画やその他のファイルの簡単な送信</li>
+      <li>OMEMO または OpenPGP での端末間暗号化による安全なチャット</li>
+      <li>お好みの絵文字の利用、プロフィール画像の設定</li>
+      <li>すべての会話記録の保存と管理</li>
+      <li>入力メッセージの自動スペルチェック</li>
+      <li>中継による他のメッセンジャー(Facebook, IRC, ...)への接続</li>
+      <li>チャットウィンドウから直接 Wikipedia や辞書その他の検索エンジンの利用</li>
+      <li>複数アカウントに対応</li>
+      <li>プロトコル層で何が起こったか確認できる XML コンソール</li>
+      <li>ノードやユーザー検索などのサービス探索に対応</li>
+      <li>プラグインによる機能拡張</li>
+    </ul>
+  </description>
+  <description lang="nb_NO">
+    <p>Funksjonalitet:</p>
+  </description>
+  <description lang="nl">
+    <p>Functies:</p>
+    <ul>
+      <li>Mis nooit een bericht, en hou al je chatcliënten gesynchroniseerd</li>
+      <li>Nodig vrienden uit in groepsgesprekken, of neem eraan deel</li>
+      <li>Stuur foto’s, video’s of andere bestanden naar vrienden en groepen</li>
+      <li>Gebruik je favoriete emoticons, stel je eigen avatar in</li>
+      <li>Bewaar en beheer je gespreksgeschiedenis</li>
+      <li>Automatische spellingscontrole voor je berichten</li>
+      <li>Maak verbinding met andere Messengers via Transporten (Facebook, IRC, …)</li>
+      <li>Zoek dingen op op Wikipedia, in woordenboeken of met andere zoekmachines, rechtstreeks vanuit het gespreksvenster</li>
+      <li>Ondersteuning voor meerdere accounts</li>
+      <li>XML-console om na te kijken wat er gebeurt in de protocollaag</li>
+      <li>Ondersteuning voor dienstontdekking, inclusief knooppunten en zoeken naar gebruikers</li>
+      <li>Nog meer functies via plug-ins</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <p>Gajim stara się być łatwym w użyciu i w pełni funkcjonalnym klientem XMPP. Po prostu rozmawiaj ze swoimi przyjaciółmi i rodziną, łatwo udostępniaj obrazki, dziel się przemyśleniami lub dyskutuj o wiadomościach w swoich grupach.</p>
+    <p>Rozmawiaj bezpiecznie z szyfrowaniem od początku do końca używając OMEMO lub OpenPGP.</p>
+    <p>Gajim integruje się dobrze z Twoimi pozostałymi urządzeniami: po prostu kontynuuj rozmowę na telefonie.</p>
+    <p>Możliwości:</p>
+    <ul>
+      <li>Nigdy nie przegap wiadomości, utrzymaj wszystkie swoje komunikatory w synchronizacji</li>
+      <li>Zaproś znajomych do czatów grupowych lub dołącz do takich</li>
+      <li>Łatwo wysyłaj obrazki, filmy i inne pliki do znajomych i grup</li>
+      <li>Rozmawiaj bezpiecznie z szyfrowaniem od początku do końca używając OMEMO lub OpenPGP</li>
+      <li>Używaj swoich ulubionych emotikonek, ustaw sobie własny obrazek profilowy</li>
+      <li>Przechowuj i zarządzaj całą swoją historią rozmów</li>
+      <li>Automatyczne sprawdzanie pisowni w twoich wiadomościach</li>
+      <li>Połączenia z innymi komunikatorami przez tzw. transporty (Facebook, IRC itd.)</li>
+      <li>Wyszukuj hasła na Wikipedii, w słownikach i innych wyszukiwarkach bezpośrednio z okna rozmowy</li>
+      <li>Obsługa wielu kont</li>
+      <li>Konsola XML do sprawdzenia, co się dzieje w protokole</li>
+      <li>Obsługa odkrywania usług, w tym węzłów oraz wyszukiwania użytkowników</li>
+      <li>Jeszcze więcej funkcjonalności dzięki wtyczkom</li>
+    </ul>
+  </description>
+  <description lang="pt_BR">
+    <p>Características:</p>
+    <ul>
+      <li>Nunca perca uma mensagem, mantenha todos os seus clientes de bate-papo sincronizados</li>
+      <li>Convide amigos para conversar em grupo ou participe de um</li>
+      <li>Envie facilmente fotos, vídeos ou outros arquivos para amigos e grupos</li>
+      <li>Converse com segurança com criptografia de ponta a ponta via OMEMO ou OpenPGP</li>
+      <li>Use seus emoticons favoritos, defina sua própria foto de perfil</li>
+      <li>Mantenha e gerencie todo o seu histórico de bate-papo</li>
+      <li>Verificação ortográfica automática para suas mensagens</li>
+      <li>Conecte-se a outros Mensageiros via Transportes (Facebook, IRC, ...)</li>
+      <li>Pesquise coisas na Wikipédia, dicionários ou outros mecanismos de busca diretamente da janela de bate-papo</li>
+      <li>Suporte para várias contas</li>
+      <li>Console XML para ver o que está acontecendo na camada de protocolo</li>
+      <li>Ainda mais recursos através de plugins</li>
+    </ul>
+  </description>
+  <description lang="ro">
+    <p>Gajim își propune să fie un client XMPP ușor de utilizat și complet echipat. Pur și simplu discutați cu prietenii sau familia, împărtășiți cu ușurință imagini și gânduri sau discutați știrile cu grupurile dumneavoastră.</p>
+    <p>Discutați în siguranță cu criptare End-to-End prin OMEMO sau OpenPGP.</p>
+    <p>Gajim se integrează bine cu celelalte dispozitive: pur și simplu continuați conversațiile pe dispozitivul dumneavoastră mobil.</p>
+    <p>Funcții:</p>
+    <ul>
+      <li>Nu pierdeți niciodată un mesaj, păstrați toți clienții de chat sincronizați</li>
+      <li>Invitați-vă prietenii la discuții de grup sau alăturați-vă la una</li>
+      <li>Trimiteți cu ușurință imagini, clipuri video sau alte fișiere către prieteni și grupuri</li>
+      <li>Conversați în siguranță cu criptare End-to-End prin OMEMO sau OpenPGP</li>
+      <li>Folosește-ți emoticoanele preferate, setează-ți propria imagine de profil</li>
+      <li>Păstrați și gestionați tot istoricul de chat</li>
+      <li>Verificarea ortografică automată a mesajelor dumneavoastră</li>
+      <li>Conectați-vă la alți mesageri prin intermediul transporturilor (Facebook, IRC, ...)</li>
+      <li>Căutați lucruri pe Wikipedia, dicționare sau alte motoare de căutare direct din fereastra de chat</li>
+      <li>Suport pentru conturi multiple</li>
+      <li>Consola XML pentru a vedea ce se întâmplă la nivelul protocolului</li>
+      <li>Suport pentru descoperirea serviciilor, inclusiv a nodurilor și căutarea de utilizatori</li>
+      <li>Chiar mai multe caracteristici prin intermediul plugin-urilor</li>
+    </ul>
+  </description>
+  <description lang="ru">
+    <p>Безопасно общайтесь с помощью сквозного шифрования с помощью OMEMO или OpenPGP.</p>
+    <p>Gajim интегрируется с другими Вашими устройствами: просто продолжайте разговор на своем мобильном устройстве.</p>
+    <p>Возможности:</p>
+    <ul>
+      <li>Никогда не пропустите сообщение, синхронизируйте все свои чат-клиенты</li>
+      <li>Пригласите друзей в групповые чаты или присоединитесь к ним</li>
+      <li>Легко отправляйте изображения, видео и другие файлы друзьям и группам</li>
+      <li>Безопасный чат с помощью сквозного шифрования OMEMO или OpenPGP</li>
+      <li>Используйте свои любимые смайлы, установите собственное изображение профиля</li>
+      <li>Храните и управляйте всей своей историей чатов</li>
+      <li>Автоматическая проверка орфографии для Ваших сообщений</li>
+      <li>Подключайтесь к другим мессенджерам через транспорты (Facebook, IRC, ...)</li>
+      <li>Ищите информацию в Википедии, словарях или других поисковых системах прямо из окна чата</li>
+      <li>Поддержка нескольких учетных записей</li>
+      <li>XML-консоль, чтобы видеть, что происходит на уровне протокола</li>
+      <li>Поддержка обнаружения сервисов, включая узлы и поиск пользователей</li>
+      <li>Ещё больше возможностей с плагинами</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <ul>
+      <li>Підтримка пошуку служб включно з вузлами та пошуком користувачів</li>
+    </ul>
+  </description>
+  <description lang="zh_CN">
+    <p>Gajim 的目标是提供一个易于使用且功能完备的 XMPP 客户端。尽情的与您的朋友和家人聊天，轻松分享图片和想法，或者和您的群组讨论新闻。</p>
+    <p>通过 OMEMO 或 OpenGPG 端对端加密安全聊天。</p>
+    <p>Gajim 可与您的其他设备集成: 在您的移动设备上轻松继续对话。</p>
+    <p>功能:</p>
+    <ul>
+      <li>绝不错过任何消息，与您的所有的聊天客户端保持同步</li>
+      <li>邀请朋友加入群聊或者加入一个</li>
+      <li>轻松地发送图片、视频或其他文件给朋友或群组</li>
+      <li>通过 OMEMO 或者 OpenPGP 运用端到端加密技术保证聊天的安全</li>
+      <li>使用您最喜爱的表情图标，设置您专属的配置文件图片</li>
+      <li>保留并管理您所有的聊天记录</li>
+      <li>用工作区组织您的聊天</li>
+      <li>自动对消息执行拼写检查</li>
+      <li>通过枢纽连接其他通讯软件(Facebook, IRC 等)</li>
+      <li>从聊天窗口中直接查询 Wikipedia、词典或者其他搜索引擎</li>
+      <li>设置您的活动或曲调来向您的朋友展示您的感觉</li>
+      <li>支持多个账号</li>
+      <li>XML 控制台可用来查看协议层发生了什么</li>
+      <li>支持包括用户搜索和节点在内的服务发现功能</li>
+      <li>通过插件增加更多功能</li>
+    </ul>
+  </description>
+  <pkgname>gajim</pkgname>
+  <icon height="64" type="cached" width="64">org.gajim.Gajim.png</icon>
+  <icon type="cached" width="128" height="128">org.gajim.Gajim.png</icon>
+  <id>org.gajim.Gajim</id>
+  <metadata_license>CC-BY-SA-3.0</metadata_license>
+  <project_license>GPL-3.0-only</project_license>
+  <name>Gajim</name>
+  <name lang="ro">Gajim</name>
+  <name lang="zh_TW">Gajim</name>
+  <name lang="zh_CN">Gajim</name>
+  <name lang="uk">Gajim</name>
+  <name lang="tr">Gajim</name>
+  <name lang="sv">Gajim</name>
+  <name lang="sr@Latn">Gajim</name>
+  <name lang="sr">Гајим</name>
+  <name lang="sk">Gajim</name>
+  <name lang="ru">Gajim</name>
+  <name lang="pt_BR">Gajim</name>
+  <name lang="pt">Gajim</name>
+  <name lang="pl">Gajim</name>
+  <name lang="nl">Gajim</name>
+  <name lang="nb_NO">Gajim</name>
+  <name lang="lt">Gajim</name>
+  <name lang="kk">Gajim</name>
+  <name lang="ja">Gajim</name>
+  <name lang="it">Gajim</name>
+  <name lang="hu">Gajim</name>
+  <name lang="hr">Gajim</name>
+  <name lang="he">‫Gajim</name>
+  <name lang="gl">Gajim</name>
+  <name lang="fr">Gajim</name>
+  <name lang="eu">Gajim</name>
+  <name lang="es">Gajim</name>
+  <name lang="eo">Gajim</name>
+  <name lang="en_GB">Gajim</name>
+  <name lang="el">Gajim</name>
+  <name lang="de">Gajim</name>
+  <name lang="da">Gajim</name>
+  <name lang="cs">Gajim</name>
+  <name lang="ca">Gajim</name>
+  <name lang="br">Gajim</name>
+  <name lang="bg">Gajim</name>
+  <name lang="be@latin">Gajim</name>
+  <name lang="be">Gajim</name>
+  <summary>Fully-featured XMPP chat client</summary>
+  <summary lang="ro">Client de chat XMPP complet echipat cu funcții complete</summary>
+  <summary lang="zh_CN">功能齐备的 XMPP 聊天客户端</summary>
+  <summary lang="pl">W pełni funkcjonalny klient rozmów XMPP</summary>
+  <summary lang="ja">機能満載の XMPP チャットクライアント</summary>
+  <summary lang="fr">Un client de chat XMPP complet</summary>
+  <summary lang="es">Cliente de chat XMPP con todas las características</summary>
+  <summary lang="de">Ein vollwertiger XMPP-Chat-Client</summary>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://gajim.org/img/screenshots/single-window-mode.png</image>
+      <caption>Contact list</caption>
+      <caption lang="ro">Lista de contacte</caption>
+      <caption lang="zh_CN">联系人列表</caption>
+      <caption lang="ru">Список контактов</caption>
+      <caption lang="pt_BR">Lista de contatos</caption>
+      <caption lang="pl">Lista kontaktów</caption>
+      <caption lang="ja">相手先一覧</caption>
+      <caption lang="it">Lista contatti</caption>
+      <caption lang="fr">Liste de contacts</caption>
+      <caption lang="es">Lista de contactos</caption>
+      <caption lang="de">Kontaktliste</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://gajim.org/img/screenshots/tabbed-chat.png</image>
+      <caption>Tabbed chat window</caption>
+      <caption lang="ro">Fereastră de chat cu file</caption>
+      <caption lang="zh_CN">标签页式聊天窗口</caption>
+      <caption lang="ru">Окно чата с вкладками</caption>
+      <caption lang="pt_BR">Janela de bate-papo tabbed</caption>
+      <caption lang="pl">Okno rozmów w kartach</caption>
+      <caption lang="nl">Gespreksvenster met tabbladen</caption>
+      <caption lang="nb_NO">Fanebasert sludrevindu</caption>
+      <caption lang="ja">タブ化チャットウィンドウ</caption>
+      <caption lang="it">Finestra delle conversazioni dotata di schede</caption>
+      <caption lang="fr">Fenêtre de discussion avec onglets</caption>
+      <caption lang="es">Ventana de conversación con pestañas</caption>
+      <caption lang="de">Chatfenster mit Tabs</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://gajim.org/img/screenshots/groupchat-window.png</image>
+      <caption>Group chat support</caption>
+      <caption lang="ro">Suport pentru grupul de chat</caption>
+      <caption lang="zh_CN">群聊支持</caption>
+      <caption lang="ru">Поддержка группового чата</caption>
+      <caption lang="pt_BR">Suporte de chat em grupo</caption>
+      <caption lang="pl">Obsługa rozmów grupowych</caption>
+      <caption lang="nl">Ondersteuning voor groepsgesprekken</caption>
+      <caption lang="nb_NO">Gruppesludringsstøtte</caption>
+      <caption lang="ja">談話室に対応</caption>
+      <caption lang="it">Supporto per le conversazioni di gruppo</caption>
+      <caption lang="fr">Support des salons de discussion</caption>
+      <caption lang="es">Soporte para grupos de conversación</caption>
+      <caption lang="de">Unterstützung von Gruppenchats</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://gajim.org/img/screenshots/history-window.png</image>
+      <caption>Chat history</caption>
+      <caption lang="ro">Istoric chat</caption>
+      <caption lang="zh_CN">聊天记录</caption>
+      <caption lang="ru">История чата</caption>
+      <caption lang="pt_BR">Histórico</caption>
+      <caption lang="pl">Historia rozmów</caption>
+      <caption lang="nl">Gespreksgeschiedenis</caption>
+      <caption lang="nb_NO">Sludrehistorikk</caption>
+      <caption lang="ja">会話の履歴</caption>
+      <caption lang="it">Cronologia delle conversazioni</caption>
+      <caption lang="fr">Historique des discussions</caption>
+      <caption lang="es">Histórico de conversación</caption>
+      <caption lang="de">Nachrichtenverlauf</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://gajim.org/img/screenshots/plugins.png</image>
+      <caption>Plugin manager</caption>
+      <caption lang="ro">Manager de plugin-uri</caption>
+      <caption lang="zh_CN">插件管理器</caption>
+      <caption lang="ru">Менеджер плагинов</caption>
+      <caption lang="pt_BR">Gerenciador de Plugins</caption>
+      <caption lang="pl">Menedżer wtyczek</caption>
+      <caption lang="nl">Plug-inbeheer</caption>
+      <caption lang="nb_NO">Programtilleggsbehandler</caption>
+      <caption lang="ja">プラグイン管理</caption>
+      <caption lang="it">Gestione delle estensioni</caption>
+      <caption lang="fr">Gestionnaire d'extensions</caption>
+      <caption lang="es">Administrador de extensiones</caption>
+      <caption lang="de">Plugin-Verwaltung</caption>
+    </screenshot>
+  </screenshots>
+  <launchable type="desktop-id">org.gajim.Gajim.desktop</launchable>
+  <developer_name>Gajim Team</developer_name>
+  <update_contact>gajim-devel_AT_gajim.org</update_contact>
+  <url type="homepage">https://gajim.org/</url>
+  <url type="bugtracker">https://dev.gajim.org/gajim/gajim</url>
+  <url type="faq">https://dev.gajim.org/gajim/gajim/-/wikis/help/gajimfaq</url>
+  <url type="help">https://dev.gajim.org/gajim/gajim/-/wikis/help/Help</url>
+  <url type="donation">https://gajim.org/development/#donations</url>
+  <url type="translate">https://dev.gajim.org/gajim/gajim/-/wikis/development/devtranslate</url>
+  <translation type="gettext">gajim</translation>
+  <content_rating type="oars-1.1">
+    <content_attribute id="social-chat">intense</content_attribute>
+    <content_attribute id="social-audio">intense</content_attribute>
+  </content_rating>
+  <recommends>
+    <control>keyboard</control>
+    <control>pointing</control>
+  </recommends>
+  <releases>
+    <release version="1.4.6" date="2022-07-07" />
+    <release version="1.4.5" date="2022-06-21" />
+    <release date="2022-06-18" version="1.4.4" />
+    <release version="1.4.3" date="2022-06-01" />
+    <release version="1.4.2" date="2022-05-25" />
+    <release date="2022-05-21" version="1.4.1" />
+    <release date="2022-05-11" version="1.4.0" />
+    <release version="1.3.3" date="2021-10-10" />
+    <release date="2021-04-24" version="1.3.2" />
+    <release version="1.3.1" date="2021-03-01" />
+    <release date="2021-02-08" version="1.3.0" />
+    <release date="2020-08-15" version="1.2.2" />
+    <release date="2020-07-08" version="1.2.1" />
+    <release date="2020-06-21" version="1.2.0" />
+    <release version="1.1.3" date="2019-04-23" />
+    <release date="2019-01-15" version="1.1.2" />
+    <release date="2018-12-23" version="1.1.1" />
+    <release version="1.1.0" date="2018-11-06" />
+    <release date="2018-05-20" version="1.0.3" />
+    <release version="1.0.2" date="2018-04-30" />
+    <release version="1.0.1" date="2018-04-01" />
+    <release version="1.0.0" date="2018-03-17" />
+  </releases>
+</component>

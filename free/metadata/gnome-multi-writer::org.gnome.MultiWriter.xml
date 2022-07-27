@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>
+      GNOME MultiWriter can be used to write an ISO file to multiple USB devices
+      at once.
+      Supported drive sizes are between 1GB and 32GB.
+    </p>
+    <p>
+      MultiWriter may be useful for QA testing, to create a GNOME Live image
+      for a code sprint or to create hundreds of LiveUSB drives for a trade
+      show.
+    </p>
+    <p>
+      Writing a more than 10 devices simultaneously can easy saturate the USB
+      bus for most storage devices.
+      There are two ways to write more devices in parallel:
+    </p>
+    <ul>
+      <li>Use USB 3.0 hubs, even if the storage devices are USB 2.0</li>
+      <li>Install another USB 2.0 PCIe root hub</li>
+    </ul>
+    <p>
+      MultiWriter was originally written as part of the ColorHug project but
+      was split off as an independent application in 2015.
+    </p>
+  </description>
+  <description lang="bs">
+    <p>Gnomov Grupni pisač može da se koristi za zapisivanje ISO datoteke na nekoliko USB uređaja odjednom. Podržane veličine diskova su od 1GB do 32GB.</p>
+    <p>Grupni pisač može biti koristan za KuA isprobavanje, za stvaranje Gnomove žive slike za kodni sprint ili za stvaranje stotina Živih USB diskova za sajmove.</p>
+    <p>Zapisivanje na više od 10 uređaja istovremeno može lako da zasiti USB sabirnicu za većinu skladišnih uređaja. Postoje dva načina za zapisivanje više uređaja paralelno:</p>
+    <ul>
+      <li>Koristite USB 3.0 račve, čak i ako su skladištni uređaji USB 2.0</li>
+      <li>Instalirajte još jednu USB 2.0 PSIe korijenu račvu</li>
+    </ul>
+    <p>Grupni pisač je prvobitno napisan kao dio projekta „ColorHug“ ali je 2015. izdvojen kao nezavistan program.</p>
+  </description>
+  <description lang="ca">
+    <p>MultiWriter va ser escrit originalment com a part del projecte ColorHug però es va separar com una aplicació independent el 2015.</p>
+  </description>
+  <description lang="cs">
+    <p>GNOME MultiWriter můžete použít pro zápis souboru ISO na více zařízení USB najednou. Podporované velikosti disků jsou mezi 1 GB a 32 GB.</p>
+    <p>MultiWriter může být užitečný při testování kvůli zajištění kvality, na vytvoření obrazu živého CD prostředí GNOME, když je potřeba popohnat programátory při závěrečném vylepšování kódu, nebo na vytvoření stovek živých disků USB, které se využijí při představování.</p>
+    <p>Současný zápis na více než 10 zařízení může snadno zasytit sběrnici USB pro většinu úložných zařízení. Pro souběžný zápis na více zařízení jsou dva způsoby:</p>
+    <ul>
+      <li>Použít rozbočovače USB 3.0, i když ukládací zařízení jsou USB 2.0</li>
+      <li>Nainstalovat další kořenový rozbočovač USB 2.0 na sběrnici PCle</li>
+    </ul>
+    <p>MultiWriter byl původně napsán jako součást projektu ColorHug, ale odloučil se jako nezávislý program v roce 2015.</p>
+  </description>
+  <description lang="da">
+    <p>GNOME Multiskriver kan bruges til at skrive en ISO-fil til flere USB-enheder på samme tid. Drevstørrelser mellem 1 GB og 32 GB understøttes.</p>
+    <p>Multiskriver kan være nyttig til kvalitetstests, til at oprette et GNOME Live-aftryk til et kodesprint eller til at oprette hundredvis af LiveUSB-drev til en handelsmesse.</p>
+    <p>Når der skrives til flere end 10 enheder på samme tid, så kan det let fylde de fleste lagerenheders USB-bus op. Der findes to måder til at skrive til flere enheder parallelt:</p>
+    <ul>
+      <li>Brug USB 3.0-hubber, selv hvis lagerenheden er USB 2.0</li>
+      <li>Installer en anden USB 2.0 PCIe-rodhub</li>
+    </ul>
+    <p>Multiskriver blev oprindeligt skrevet som en del af ColorHug-projektet, men blev et selvstændigt program i 2015.</p>
+  </description>
+  <description lang="de">
+    <p>GNOME MultiWriter kann dazu genutzt werden, um eine ISO-Datei auf mehrere USB-Geräte auf einmal zu schreiben. Es werden Geräte mit einer Größe von 1GB bis 32GB unterstützt.</p>
+    <p>Multiwriter kann nützlich für QS-Tests sein, um ein GNOME-Live-Abbild für einen Code-Sprint zu erstellen, oder um Hunderte von Live-USB-Sticks für eine Messe anzufertigen.</p>
+    <p>Werden mehr als 10 USB-Geräte gleichzeitig beschrieben, kann dies leicht den USB-Bus für die meisten Speichergeräte auslasten. Abhilfe bringt in diesen Fällen einer der beiden Vorgehensweisen:</p>
+    <ul>
+      <li>Verwenden Sie USB 3.0 Verteiler, auch wenn die USB-Sticks nur USB 2.0 unterstützen</li>
+      <li>Installieren Sie einen weiteren USB 2.0 PCIe Root Verteiler</li>
+    </ul>
+    <p>MultiWriter wurde ursprünglich als Teil des ColorHug-Projektes geschrieben, aber 2015 als eigenständige Anwendung ausgegliedert.</p>
+  </description>
+  <description lang="el">
+    <p>Το GNOME MultiWriter μπορεί να χρησιμοποιηθεί για να γράψετε ένα αρχείο ISO σε πολλαπλές συσκευές  USB ταυτόχρονα. Υποστηριζόμενα μεγέθη δίσκού είναι μεταξύ 1GB και 32GB.</p>
+    <p>Το MultiWriter μπορεί να φανεί χρήσιμο σε δοκιμές λογισμικού, στη δημιουργία ζωντανών εικόνων ή LiveUSB του GNOME για ένα συνέδριο.</p>
+    <p>Γράφοντας περισσότερες από 10 συσκευές ταυτόχρονα μπορεί εύκολα να κορεστεί ο δίαυλος USB για τις περισσότερες συσκευές αποθήκευσης. Υπάρχουν δύο τρόποι για να γράψετε σε περισσότερες συσκευές παράλληλα:</p>
+    <ul>
+      <li>Χρησιμοποιήστε κόμβους USB 3.0, ακόμα και αν οι συσκευές αποθήκευσης είναι USB 2.0</li>
+      <li>Εγκαταστήστε άλλον ένα κόμβο USB 2.0 PCIe</li>
+    </ul>
+    <p>Το MultiWriter αναπτύχθηκε αρχικά ως μέρος του έργου ColorHug αλλά διαχωρίστηκε ως αυτόνομη εφαρμογή το 2015.</p>
+  </description>
+  <description lang="en_GB">
+    <p>GNOME MultiWriter can be used to write an ISO file to multiple USB devices at once. Supported drive sizes are between 1GB and 32GB.</p>
+    <p>MultiWriter may be useful for QA testing, to create a GNOME Live image for a code sprint or to create hundreds of LiveUSB drives for a trade show.</p>
+    <p>Writing a more than 10 devices simultaneously can easy saturate the USB bus for most storage devices. There are two ways to write more devices in parallel:</p>
+    <ul>
+      <li>Use USB 3.0 hubs, even if the storage devices are USB 2.0</li>
+      <li>Install another USB 2.0 PCIe root hub</li>
+    </ul>
+    <p>MultiWriter was originally written as part of the ColorHug project but was split off as an independent application in 2015.</p>
+  </description>
+  <description lang="es">
+    <p>GNOME MultiWriter se puede usar para escribir un archivo ISO en varios dispositivos USB a la vez. Los tamaños soportados van desde 1GB hasta 32GB.</p>
+    <p>MultiWriter peude ser útil para pruebas de calidad, para crear imágenes en vivo de GNOME para una maratón de código o para crear cientros de unidades USB en vivo para una presentación.</p>
+    <p>Escribir en más de 10 dispositivos simultáneamente puede fácilmente saturar el bus USB para la mayoría de los dispositivos de almacenamiento. Hay dos maneras de escribir en más dispositivos en paralelo:</p>
+    <ul>
+      <li>Usar concentradores USB 3.0, incluso si los dispositivos de almacenamiento son USB 2.0</li>
+      <li>Instalar otro concentrador raíz USB 2.0 PCIe</li>
+    </ul>
+    <p>MultiWriter fue escrito originalmente como parte del proyecto ColorHug pero se separó como una aplicación independiente al 2015.</p>
+  </description>
+  <description lang="eu">
+    <p>GNOME MultiWriter ISO fitxategi bat USB gailu anitzetara aldi berean idazteko erabil daiteke. Onartutako unitate-tamainak  1GB eta 32GB artekoak dira.</p>
+    <p>MultiWriter erabilgarria da kalitate-probak egiteko, GNOME Live irudiak sortzeko kode-lasterketetarako edo ehunka LiveUSB sortu eta erakustazoka batean banatzeko.</p>
+    <p>Aldi berean 10 gailu baino gehiagotan idazteak USB bus-a buxatu dezake biltegiratze-gailu gehienen kasuan. Gailu gehiagotan aldi berean idazteko bi modu daude:</p>
+    <ul>
+      <li>Erabili USB 3.0 kontzentragailuak, baita biltegiratze-gailuak USB 2.0 badira ere</li>
+      <li>Instalatu beste USB 2.0 PCIe erro-kontzentragailu bat</li>
+    </ul>
+    <p>MultiWriter jatorriz ColorHug proiektuaren atala izateko idatzi zen, baina aplikazio independente gisa garatzen hasi zen 2015ean.</p>
+  </description>
+  <description lang="fa">
+    <p>مولتی‌رایتر گنوم می‌تواند برای نوشتن یک پروندهٔ ISO روی چندین افزارهٔ USB به صورت هم‌زمان استفاده شود. اندازه‌های گردانندهٔ پشتیبانی‌شده بین ۱گ‌ب و ۳۲ گ‌ب هستند.</p>
+    <p>مولتی‌رایتر می‌تواند برای آزمون بررسی کیفیت، ایجاد یک تصویر زندهٔ گنوم برای code sprint یا ایجاد صدها دستگاه USB زنده برای یک نمایش تجاری استفاده شود.</p>
+    <p>نوشتن بیشتر از ۱۰ دستگاه در یک زمان میتواند به راحتا گذر USB را برای بیشتر دستگاه های حافظه اشباح کند. دو راه برای نوشتن دستگاه های بیشتر به طور همزمان و موازی وجود دارد:</p>
+    <ul>
+      <li>از درگاه USB 3.0 استفاده کنید، حتا اگر دسگاه حافظه USB 2.0 است</li>
+      <li>یک USB 2.0 root hub دیگر نصب کنید</li>
+    </ul>
+    <p>MultiWriter در ابتدا به عنوان قسمتی از پرو‍ژه ColorHug نوشته شد اما در سال ۲۰۱۵ به عنوان یک برنامه مستقل از آن جدا شد.</p>
+  </description>
+  <description lang="fi">
+    <p>Gnome MultiWriteria on mahdollista käyttää ISO-tiedoston kirjoittamiseen useisiin USB-laitteisiin samanaikaisesti. Tuettuna ovat asemat, joiden koko on yhden ja 32 gigatavun välillä.</p>
+    <p>MultiWriter saattaa olla hyödyllinen laadunvarmistukseen tai Live USB -asemien valmistukseen isoja tilaisuuksia varten.</p>
+    <p>Yli 10 laitteelle kirjoittaminen samanaikaisesti voi hidastaa USB-väylän toimintaa. On kaksi tapaa kirjoittaa useammalle kuin 10 laitteelle samanaikaisesti:</p>
+    <ul>
+      <li>Käytä USB 3.0 -keskittimiä, vaikka tiedontallennusvälineet ovat mallia USB 2.0</li>
+      <li>Asenna toinen USB 2.0 PCIe -juurikeskitin</li>
+    </ul>
+    <p>MultiWriter kirjoitettiin alkujaan osana ColorHug-projektia, mutta siitä luotiin oma itsenäinen sovellus vuonna 2015.</p>
+  </description>
+  <description lang="fr">
+    <p>GNOME MultiWriter peut être utilisé pour écrire une image ISO sur plusieurs supports en même temps. Les tailles de lecteur supportées vont de 1 Go à 32 Go.</p>
+    <p>MultiWriter peut être utile pour les tests d’assurance qualité, pour créer une image de GNOME pour un sprint de code ou créer des centaines de clés USB Live pour un salon ou un événement.</p>
+    <p>L’écriture simultanée sur plus de 10 périphériques peut facilement saturer le bus USB pour la plupart des périphériques de stockage. Il y a deux façons d’écrire plusieurs périphériques en parallèle :</p>
+    <ul>
+      <li>Utiliser un port USB 3.0 même si les périphériques de stockage sont USB 2.0</li>
+      <li>Installer une autre carte USB 2.0 PCIe</li>
+    </ul>
+    <p>MultiWriter a été écrit dans le cadre du projet ColorHug puis a été séparé en une application indépendante en 2015.</p>
+  </description>
+  <description lang="fur">
+    <p>GNOME MultiWriter al pues jessi doprât par scrivi un file ISO su plui dispositîfs USB intune volte. Lis dimensions des unitâts supuartadis a son tra 1GB e 32GB.</p>
+    <p>MultiWriter al pues jessi util pai test di cualitât, par creâ une imagjin Live di GNOME par un event o par creâ centenârs di unitâts LiveUSB pes fieris comerciâl.</p>
+    <p>Scrivint su di plui di 10 dispositîfs in contemporanie al pues facilmentri saturâ il bus USB pai plui dispositîfs di archiviazion. A son dôs manieris par scrivi su di plui dispositîfs in paralêl:</p>
+    <ul>
+      <li>Doprâ hub USB 3.0, ancje se il dispositîfs di archiviazion a son USB 2.0</li>
+      <li>Instalâ un altri hub lidrîs USB 2.0 PCIe</li>
+    </ul>
+    <p>MultiWriter al jere in origjin scrit come part dal progjet ColorHug ma al è stât separât come aplicazion indipendente tal 2015.</p>
+  </description>
+  <description lang="gl">
+    <p>MultiEscritor foi orixinalmente escrito como parte do proxecto ColorHug e despois separouse nun aplicativo independente en 2015.</p>
+  </description>
+  <description lang="he">
+    <p>‏GNOME רב‏־כותב ניתן לשימוש לכתיבת קובץ ISO להתקני USB רבים בו זמנית. גודל כוננים נתמכים הם בין 1 ג״ב ל־32 ג״ב.</p>
+    <p>רב־כתוב יכול להיות שימושי עבור בדיקות QA, ליצירת תמונה חיה של GNOME עבור מרוץ כתיבת קוד, או ליצירת מאות תמונות חיות להתקנים עבור תכני מסחרית.</p>
+  </description>
+  <description lang="hr">
+    <p>GNOME višestruki zapisivač može se koristiti za zapisivanje ISO datoteke na više USB uređaja odjednom. Podržane veličine USB uređaja su između 1GB i 32GB.</p>
+    <p>Višestruki zapisivač može biti koristan za testiranje kvalitete, za stvaranje GNOME LIVE slika za provjeru kôda ili za stvaranje stotine sajamskih LiveUSB uređaja. </p>
+    <p>Zapisivanje više od 10 uređaja istovremeno može lako zagušiti USB sabirnicu za većinu uređaja pohrane. Postoje dva načina za zapisivanje više uređaja paralelno:</p>
+    <ul>
+      <li>Koristite USB 3.0 priključak, čak iako su uređaji pohrane USB 2.0</li>
+      <li>Instalirajte dodatni USB 2.0 PCIe priključak</li>
+    </ul>
+    <p>Višestruki zapisivač je izvorno napisan kao dio ColorHug projekta ali je odvojen kao nezavisna aplikacija 2015 godine.</p>
+  </description>
+  <description lang="hu">
+    <p>A GNOME MultiWrite egy ISO fájl egyszerre több USB eszközre való kiírásához használható. Támogatott eszközméretek 1 GB és 32 GB között vannak.</p>
+    <p>A MultiWriter hasznos lehet minőségbiztosítási teszteléshez, GNOME Live lemezképek készítéséhez egy kódolási eseményre, vagy LiveUSB meghajtók százainak létrehozásához egy kiállításra.</p>
+    <p>A tíznél több eszközre történő egyidejű írás a legtöbb tárolóeszköznél könnyen telítheti az USB buszt. Két módszer létezik több eszköz párhuzamos írására:</p>
+    <ul>
+      <li>USB 3.0 központok használata akkor is, ha a tárolóeszközök USB 2.0 verziójúak</li>
+      <li>Egy másik USB 2.0 PCIe gyökérközpont telepítése</li>
+    </ul>
+    <p>A MultiWriter eredetileg a ColorHug projekt részeként készült, de 2015-ben levált mint önálló alkalmazás.</p>
+  </description>
+  <description lang="id">
+    <p>GNOME MultiWriter dapat dipakai untuk menulis sebuah berkas ISO ke banyak perangkat USB sekaligus. Ukuran drive yang didukung antara 1 GB dan 32 GB.</p>
+    <p>MultiWriter mungkin berguna untuk pengujian QA, untuk membuat image GNOME Live bagi sebuah code sprint atau membuat ratusan drive LiveUSB untuk sebuah pameran dagang.</p>
+    <p>Menulis lebih dari 10 perangkat secara simultan dapat dengan mudah mensaturasi bus USB bagi kebanyakan perangkat penyimpanan. Ada dua cara untuk menulis ke lebih banyak perangkat secara paralel:</p>
+    <ul>
+      <li>Gunakan hub USB 3.0, walaupun perangkat penyimpanan adalah USB 2.0</li>
+      <li>Pasang hub akar PCIe USB 2.0 lain</li>
+    </ul>
+    <p>MultiWriter aslinya ditulis sebagai bagian dari projek ColorHug tapi dipecah sebagai sebuah aplikasi independen pada tahun 2015.</p>
+  </description>
+  <description lang="it">
+    <p>GNOME MultiWriter può essere utilizzato per scrivere un file ISO su molteplici dispositivi USB contemporaneamente. Le dimensioni delle unità supportate sono tra 1 e 32 GB.</p>
+    <p>MultiWriter è utile per verifiche sulla qualità, per creare immagini di GNOME Live per un evento o per creare LiveUSB.</p>
+    <p>Scrivere su più di 10 dispositivi contemporaneamente può saturare facilmente il bus USB. Per scrivere su più dispositivi contemporaneamente, è possibile:</p>
+    <ul>
+      <li>Usare hub USB 3.0 anche se i dispositivi di archiviazione sono USB 2.0</li>
+      <li>Installa un altro hub USB 2.0 PCIe</li>
+    </ul>
+    <p>MultiWriter è stato originariamente sviluppato come parte del progetto ColorHug, ma è stato poi separato da esso nel 2015 diventando così un'applicazione indipendente.</p>
+  </description>
+  <description lang="nl">
+    <p>GNOME MultiWriter kan gebruikt worden om een ISO-bestand naar meerdere USB-apparaten tegelijk te schrijven. Schijfgroottes tussen 1GB en 32GB worden ondersteund.</p>
+    <p>MultiWriter kan nuttig zijn voor QA-tests, om een GNOME Live-beeldbestand te maken voor een codesprint of om honderden LiveUSB-schijven te maken voor een beurs.</p>
+    <p>Schrijven naar meer dan 10 apparaten tegelijk kan de USB-bus snel verzadigen voor de meeste opslagapparaten. Er zijn twee manieren om parallel naar meerdere apparaten te schrijven:</p>
+    <ul>
+      <li>USB 3.0-hubs gebruiken, zelfs als opslagapparaten USB 2.0 zijn</li>
+      <li>Een andere USB 2.0 PCIe-root-hub installeren</li>
+    </ul>
+    <p>MultiWriter was oorspronkelijk een deel van het ColorHug-project, maar is in 2015 als een onafhankelijke applicatie afgesplitst.</p>
+  </description>
+  <description lang="oc">
+    <p>GNOME MultiWriter pòt èsser utilizat per escriure un imatge ISO sus mantun supòrt en meteis temps. Las talhas de lector suportadas van de 1Go a 32Go.</p>
+    <p>MultiWriter pòt èsser utile pels tèsts d'assegurança qualitat, per crear un imatge de GNOME per un sprint de còde o crear de centenats de claus USB Live per un salon o un eveniment.</p>
+    <p>L’escritura simultanèa sus mai de 10 periferics pòt saturar aisidament lo bus USB per la màger part dels periferics d'emmagazinatge. I a dos biasses d'escriure mantun periferic en parallèl :</p>
+    <ul>
+      <li>Utilizar un pòrt USB 3.0 quitament se los periferics d'emmagazinatge son USB 2.0</li>
+      <li>Installar una autra carta USB 2.0 PCIe</li>
+    </ul>
+    <p>MultiWriter es estat escrich dins lo quadre del projècte ColorHug puèi es estat separat en una aplicacion independenta en 2015.</p>
+  </description>
+  <description lang="pl">
+    <p>GNOME MultiWriter może być używany do zapisywania pliku ISO na wiele urządzeń USB jednocześnie. Obsługiwane są rozmiary urządzeń od 1 GB do 32 GB.</p>
+    <p>MultiWriter może być przydatny do testowania, tworzenia obrazów Live z GNOME na sprint programistyczny albo setek urządzeń LiveUSB na targi.</p>
+    <p>Zapisywanie na więcej niż 10 urządzeń jednocześnie może łatwo wyczerpać pojemność magistrali USB w przypadku większości urządzeń. Istnieją dwa sposoby na zapisywanie na większą liczbę urządzeń równolegle:</p>
+    <ul>
+      <li>Użycie koncentratora USB 3.0, nawet dla urządzeń USB 2.0</li>
+      <li>Zainstalowanie dodatkowego głównego koncentratora USB 2.0 na magistrali PCIe</li>
+    </ul>
+    <p>MultiWriter został pierwotnie napisany jako część projektu ColorHug, ale został on wydzielony jako niezależny program w 2015 roku.</p>
+  </description>
+  <description lang="pt">
+    <p>O GNOME MultiWriter pode ser usado para escrever um ficheiro ISO em múltiplos dispositivos USB em simultâneo. Tamanhos suportados entre 1 GB e 32 GB.</p>
+    <p>O MultiWriter pode ser útil para QATesting, para criar uma imagem ao vivo do GNOME para um sprint de código ou para criar centenas de dispositivos LiveUSB pra uma mostra comercial.</p>
+    <p>Escrever em mais de 10 dispositivos simultaneamente pode facilmente saturar o bus USB da maioria dos dispositivos de armazenamento. Há duas maneiras de escrever em mais dispositivos em paralelo:</p>
+    <ul>
+      <li>Usar hubs USB 3.0, mesmo que os dispositivos sejam USB 2.0</li>
+      <li>Instalar outro hub raiz USB 2.0 PCIe</li>
+    </ul>
+    <p>O MultiWriter foi originalmente escrito como parte do projeto ColorHug mas foi separado como aplicação independente em 2015.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>GNOME MultiWriter pode ser usado para gravar um arquivo ISO para múltiplos dispositivos USB simultaneamente. Há suporte a tamanhos de unidades entre 1GB e 32GB.</p>
+    <p>MultiWriter pode ser útil em testes de QA, para criar uma imagem GNOME Live para um desenvolvimento ágil ou para criar centenas de unidades LiveUSB para uma feira.</p>
+    <p>Gravar mais de 10 dispositivos simultaneamente pode facilmente saturar o barramento USB para a maioria dos dispositivos. Há duas formas de gravar mais de um dispositivo em paralelo:</p>
+    <ul>
+      <li>Usar hub USB 3.0, ainda que os dispositivos de armazenamento sejam USB 2.0</li>
+      <li>Instalar outro hub raiz PCIe de USB 2.0</li>
+    </ul>
+    <p>O MultiWriter foi escrito originalmente como parte do projeto ColorHug, mas foi separado em um aplicativo independente em 2015.</p>
+  </description>
+  <description lang="ru">
+    <ul>
+      <li>Используйте хабы USB 3.0, даже если устройства USB 2.0</li>
+    </ul>
+    <p>MultiWriter был изначально написан в рамках проекта ColorHug, но в 2015 был выделен в отдельное приложение.</p>
+  </description>
+  <description lang="sk">
+    <p>Aplikácia MultiWriter pre GNOME môže byť použitá na zápis ISO súboru na viaceré zariadenia USB naraz. Podporované veľkosti jednotiek sú v rozpätí 1GB až 32GB.</p>
+    <p>Aplikácia MultiWriter môže byť užitočná pri testovaní kvality, na vytvorenie Live obrazu prostredia GNOME pre urýchlenie práce programátorov, alebo na vytvorenie stoviek jednotiek LiveUSB použitých na výstavách.</p>
+    <p>Zápis na viac ako 10 zariadení naraz môže mierne zasýtiť zbernicu USB pre väčšinu úložných zariadení. Sú dva spôsoby ako súbežne zapisovať na viacero zariadení:</p>
+    <ul>
+      <li>Použite rozbočovače typu USB 3.0, aj keď sú úložné zariadenia typu USB 2.0</li>
+      <li>Nainštalujte iný koreňový rozbočovač typu USB 2.0 na zbernicu PCIe</li>
+    </ul>
+    <p>Aplikácia MultiWriter bola pôvodne vytvorená ako súčasť projektu ColorHug, ale v roku 2015 sa odčlenila ako nezávislá aplikácia.</p>
+  </description>
+  <description lang="sr">
+    <p>Гномов Групни писач може да се користи за записивање ИСО датотеке на неколико УСБ уређаја одједном. Подржане величине дискова су од 1GB до 32GB.</p>
+    <p>Групни писач може бити користан за КуА испробавање, за стварање Гномове живе слике за кодни спринт или за стварање стотина Живих УСБ дискова за сајмове.</p>
+    <p>Записивање на више од 10 уређаја истовремено може лако да засити УСБ сабирницу за већину складишних уређаја. Постоје два начина за записивање више уређаја паралелно:</p>
+    <ul>
+      <li>Користите УСБ 3.0 рачве, чак и ако су складиштни уређаји УСБ 2.0</li>
+      <li>Инсталирајте још једну УСБ 2.0 ПСИе корену рачву</li>
+    </ul>
+    <p>Групни писач је првобитно написан као део пројекта „ColorHug“ али је 2015. издвојен као независтан програм.</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Gnomov Grupni pisač može da se koristi za zapisivanje ISO datoteke na nekoliko USB uređaja odjednom. Podržane veličine diskova su od 1GB do 32GB.</p>
+    <p>Grupni pisač može biti koristan za KuA isprobavanje, za stvaranje Gnomove žive slike za kodni sprint ili za stvaranje stotina Živih USB diskova za sajmove.</p>
+    <p>Zapisivanje na više od 10 uređaja istovremeno može lako da zasiti USB sabirnicu za većinu skladišnih uređaja. Postoje dva načina za zapisivanje više uređaja paralelno:</p>
+    <ul>
+      <li>Koristite USB 3.0 račve, čak i ako su skladištni uređaji USB 2.0</li>
+      <li>Instalirajte još jednu USB 2.0 PSIe korenu račvu</li>
+    </ul>
+    <p>Grupni pisač je prvobitno napisan kao deo projekta „ColorHug“ ali je 2015. izdvojen kao nezavistan program.</p>
+  </description>
+  <description lang="sv">
+    <p>GNOME MultiWriter kan användas för att skriva en ISO-fil till flera USB-enheter samtidigt. Enhetsstorlek som stöds är mellan 1GB och 32GB.</p>
+    <p>MultiWriter kan vara användbart vid QA-testning för att skapa en GNOME live-avbild för en kodsprint eller för att skapa hundratals LiveUSB-enheter inför en mässa.</p>
+    <p>Att skriva till fler än 10 enheter samtidigt kan överlasta USB-bussen för de flesta lagringsenheter. Det finns två sätt att skriva till flera enheter parallellt:</p>
+    <ul>
+      <li>Använd USB 3.0-hubbar, även om lagringsenheterna är USB 2.0</li>
+      <li>Installera en till USB 2.0 PCIe rothubb</li>
+    </ul>
+    <p>MultiWriter skrevs ursprungligen som en del av ColorHug-projektet men delades av som en separat applikation under 2015.</p>
+  </description>
+  <description lang="tr">
+    <p>GNOME MultiWriter bir ISO dosyasını tek seferde birden çok USB aygıtına yazmak için kullanılabilir. Desteklenen sürücü boyutları 1GB ile 32GB arasındadır.</p>
+    <p>MultiWriter; bir gösteri için yüzlerce LiveUSB sürücüsü oluşturmak, kod koşusu için GNOME Canlı kalıbı oluşturmak ya da kalite güvencesi sınaması için yararlı olabilir.</p>
+    <p>10 taneden çok aygıta eş zamanlı yazma işlemi bazı depolama aygıtları için USB yolunu kolayca doldurabilir. Daha çok aygıta paralel olarak yazmak için iki yol vardır:</p>
+    <ul>
+      <li>Depolama aygıtları USB 2.0 olsa bile USB 3.0 hub kullan</li>
+      <li>Başka bir USB 2.0 PCIe kök hub kur</li>
+    </ul>
+    <p>MultiWriter aslında ColorHug projesinin parçası olarak yazıldı ancak 2015 yılında bağımsız bir uygulama olarak ayrıldı.</p>
+  </description>
+  <description lang="uk">
+    <p>GNOME MultiWriter можна скористатися для запису файла ISO на декілька пристроїв USB одночасно. Підтримуються пристрої розміром від 1 ГБ до 32 ГБ.</p>
+    <p>MultiWriter може бути корисним для тестування, створення портативного образу системи з GNOME для програмістів або створення сотень носіїв LiveUSB для торгового показу.</p>
+    <p>Одночасний запис понад 10 носіїв може перевантажити концентратор USB  більшості носіїв даних. Є два способи виконання паралельного запису на більшу кількість пристроїв:</p>
+    <ul>
+      <li>Використання концентраторів USB 3.0, навіть якщо носії даних належать до типу USB 2.0.</li>
+      <li>Встановлення додаткового кореневого концентратора USB 2.0 на платі PCIe.</li>
+    </ul>
+    <p>Початкову версію MultiWriter було створено як частину проекту ColorHug, а потім відокремлено у 2015 році.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>GNOME MultiWriter 可以用于将 ISO 文件一次写入多个 USB 设备中。支持的驱动器大小介于 1GB 和 32GB 之间。</p>
+    <p>MultiWriter 对于 QA 测试很有用，为代码冲刺活动创建 GNOME Live 映像或者为展览会创建上百份的 LiveUSB 驱动器。</p>
+    <p>同时写入超过 10 个以上的设备，对于大多数的存储设备很容易使 USB 总线达到饱和。这里有两种方式以并行地写入更多设备：</p>
+    <ul>
+      <li>使用 USB 3.0 集线器，即使你的储存设备是 USB 2.0 的</li>
+      <li>加装 USB 2.0 PCIe 根集线器</li>
+    </ul>
+    <p>MultiWriter 原来是编写于 ColorHug 项目的一部分，但后来在 2015 年分离出来作为独立的应用程序。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>GNOME MultiWriter 可以用來將 ISO 檔一次寫入多項 USB 裝置中。支援的儲存裝置容量大小介於 1GB 到 32GB 之間。</p>
+    <p>MultiWriter 對於 QA 測試來說也很有用，也能為 GNOME 的程式碼衝刺活動分享 Live 映像檔，還能為展覽製作上百支 LiveUSB 儲存裝置。</p>
+    <p>同時寫入超過 10 個以上的裝置，對大多數的儲存裝置來說很容易就達到處理上限。有兩個方式可以平行寫入更多裝置：</p>
+    <ul>
+      <li>使用 USB 3.0 集線器 (Hub)，即便儲存裝置為 USB 2.0 也是如此</li>
+      <li>另外安裝 USB 2.0 PCIe 根基集線器 (Root Hub)</li>
+    </ul>
+    <p>MultiWriter 一開始是 ColorHug 專案的一部分，但後來在 2015 年時切分出來作為獨立的應用程式。</p>
+  </description>
+  <pkgname>gnome-multi-writer</pkgname>
+  <launchable type="desktop-id">org.gnome.MultiWriter.desktop</launchable>
+  <icon type="cached" width="64" height="64">org.gnome.MultiWriter.png</icon>
+  <icon width="128" height="128" type="cached">org.gnome.MultiWriter.png</icon>
+  <id>org.gnome.MultiWriter.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <!-- TRANSLATORS: the application name -->
+  <name>MultiWriter</name>
+  <name lang="zh_TW">MultiWriter</name>
+  <name lang="zh_CN">MultiWriter</name>
+  <name lang="uk">MultiWriter</name>
+  <name lang="tr">MultiWriter</name>
+  <name lang="sv">MultiWriter</name>
+  <name lang="sr">Групни писач</name>
+  <name lang="sr@latin">Grupni pisač</name>
+  <name lang="sk">MultiWriter</name>
+  <name lang="ru">MultiWriter</name>
+  <name lang="pt">MultiWriter</name>
+  <name lang="pt_BR">MultiWriter</name>
+  <name lang="pl">MultiWriter</name>
+  <name lang="oc">MultiWriter</name>
+  <name lang="nl">MultiWriter</name>
+  <name lang="nb">Multiskriver</name>
+  <name lang="ja">マルチライター</name>
+  <name lang="it">MultiWriter</name>
+  <name lang="id">MultiWriter</name>
+  <name lang="hu">MultiWriter</name>
+  <name lang="hr">Višestruki zapisivač</name>
+  <name lang="he">רב כותב</name>
+  <name lang="gl">MultiEscritor</name>
+  <name lang="fur">MultiWriter</name>
+  <name lang="fr">MultiWriter</name>
+  <name lang="fi">MultiWriter</name>
+  <name lang="fa">مولتی‌رایتر</name>
+  <name lang="eu">MultiWriter</name>
+  <name lang="es">MultiWriter</name>
+  <name lang="en_GB">MultiWriter</name>
+  <name lang="el">MultiWriter</name>
+  <name lang="de">MultiWriter</name>
+  <name lang="da">Multiskriver</name>
+  <name lang="cs">MultiWriter</name>
+  <name lang="ca">MultiWriter</name>
+  <name lang="bs">Grupni pisač</name>
+  <!-- TRANSLATORS: one-line description for the app -->
+  <summary>Write an ISO file to multiple USB devices at once</summary>
+  <summary lang="zh_TW">將 ISO 檔一次寫入多項 USB 裝置中</summary>
+  <summary lang="zh_CN">将 ISO 文件一次写入多个 USB 设备中</summary>
+  <summary lang="uk">Записує файл ISO на декілька пристроїв USB одночасно</summary>
+  <summary lang="tr">Bir ISO dosyasını birden çok USB aygıtına tek seferde yazın</summary>
+  <summary lang="sv">Skriv en ISO-fil till flera USB-enheter samtidigt</summary>
+  <summary lang="sr">Запишите ИСО датотеку на неколико УСБ уређаја одједном</summary>
+  <summary lang="sr@latin">Zapišite ISO datoteku na nekoliko USB uređaja odjednom</summary>
+  <summary lang="sk">Zapíšte súbor ISO naraz na viaceré USB zariadenia</summary>
+  <summary lang="ru">Записать файл ISO на несколько USB-устройств одновременно</summary>
+  <summary lang="pt">Escrever um ficheiro ISO em múltiplos dispositivos USB em simultâneo</summary>
+  <summary lang="pt_BR">Gravar um arquivo ISO em múltiplos dispositivos USB simultaneamente</summary>
+  <summary lang="pl">Zapisywanie pliku ISO na wielu urządzeniach USB jednocześnie</summary>
+  <summary lang="oc">Escriure un fichièr ISO sus mantun periferic USB a l'encòp</summary>
+  <summary lang="nl">Een ISO-bestand naar meerdere USB-apparaten tegelijk schrijven</summary>
+  <summary lang="nb">Skriv en ISO-fil til flere USB-enheter samtidig</summary>
+  <summary lang="ja">ISO ファイルを同時に複数の USB デバイスへ書き込みます</summary>
+  <summary lang="it">Scrivi file ISO su più dispositivi USB contemporaneamente</summary>
+  <summary lang="id">Menulis sebuah berkas ISO ke beberapa perangkat USB sekaligus</summary>
+  <summary lang="hu">Egy ISO fájl kiírása egyszerre több USB eszközre</summary>
+  <summary lang="hr">Zapišite ISO datoteku na više USB uređaja odjednom</summary>
+  <summary lang="he">כתיבת כובץ ISO להתקני USV רבים בו זמנית</summary>
+  <summary lang="gl">Escribe un ficheiro ISO en varios dispositivos USB á vez</summary>
+  <summary lang="fur">Scrîf un file ISO su multiplis dispositîfs USB intune volte</summary>
+  <summary lang="fr">Écrire un fichier ISO sur plusieurs périphériques USB à la fois</summary>
+  <summary lang="fi">Kirjoita ISO-tiedosto useille USB-laitteille samanaikaisesti</summary>
+  <summary lang="fa">نوشتن یک پروندهٔ ISO روی چندین افزارهٔ USB به صورت هم‌زمان</summary>
+  <summary lang="eu">Idatzi ISO fitxategi bat USB gailu anitzetara aldi berean</summary>
+  <summary lang="es">Escribir un archivo ISO en varios dispositivos USB de una vez</summary>
+  <summary lang="en_GB">Write an ISO file to multiple USB devices at once</summary>
+  <summary lang="el">Γράψτε ένα αρχείο ISO σε πολλαπλές συσκευές USB ταυτόχρονα</summary>
+  <summary lang="de">Eine ISO-Datei gleichzeitig auf mehrere USB-Geräte schreiben</summary>
+  <summary lang="da">Skriv en ISO-fil til flere USB-enheder på samme tid</summary>
+  <summary lang="cs">Zapisujte soubor ISO na více zařízení USB najednou</summary>
+  <summary lang="ca">Escriu un arxiu ISO a diversos dispositius USB a la vegada</summary>
+  <summary lang="bs">Zapišite ISO datoteku na nekoliko USB uređaja odjednom</summary>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://git.gnome.org/browse/gnome-multi-writer/plain/data/appdata/gmw-startup.png</image>
+      <!-- TRANSLATORS: the 1st screenshot caption -->
+      <caption>Initial screen for the application</caption>
+      <caption lang="zh_TW">應用程式的初始畫面</caption>
+      <caption lang="zh_CN">应用程序的初始画面</caption>
+      <caption lang="uk">Початкове вікно програми</caption>
+      <caption lang="tr">Uygulama için başlangıç ekranı</caption>
+      <caption lang="sv">Initial skärmbild för applikationen</caption>
+      <caption lang="sr">Почетни екран програма</caption>
+      <caption lang="sr@latin">Početni ekran programa</caption>
+      <caption lang="sk">Úvodná obrazovka aplikácie</caption>
+      <caption lang="ru">Основное окно приложения</caption>
+      <caption lang="pt">Ecrã inicial da aplicação</caption>
+      <caption lang="pt_BR">Janela inicial do aplicativo</caption>
+      <caption lang="pl">Początkowy ekran programu</caption>
+      <caption lang="oc">Ecran d'acuèlh de l'aplicacion</caption>
+      <caption lang="nl">Opstartscherm van de applicatie</caption>
+      <caption lang="it">Schermata iniziale dell'applicazione</caption>
+      <caption lang="id">Layar awal bagi aplikasi</caption>
+      <caption lang="hu">Az alkalmazás kezdeti képernyője</caption>
+      <caption lang="hr">Početni zaslon aplikacije</caption>
+      <caption lang="gl">Pantalla inicial do aplicativo</caption>
+      <caption lang="fur">Videade iniziâl pe aplicazion</caption>
+      <caption lang="fr">Écran d’accueil de l’application</caption>
+      <caption lang="fa">صفحهٔ نخستین برای برنامه</caption>
+      <caption lang="eu">Aplikazioaren hasierako pantaila</caption>
+      <caption lang="es">Pantalla inicial de la aplicación</caption>
+      <caption lang="en_GB">Initial screen for the application</caption>
+      <caption lang="el">Αρχική οθόνη της εφαρμογής</caption>
+      <caption lang="de">Anfängliche Ansicht der Anwendung</caption>
+      <caption lang="da">Programmets startskærm</caption>
+      <caption lang="cs">Počáteční obrazovka aplikace</caption>
+      <caption lang="ca">Pantalla inicial de l'aplicació</caption>
+      <caption lang="bs">Početni ekran programa</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://git.gnome.org/browse/gnome-multi-writer/plain/data/appdata/gmw-progress.png</image>
+      <!-- TRANSLATORS: the 2nd screenshot caption -->
+      <caption>Writing and verifying images</caption>
+      <caption lang="zh_TW">寫入並核驗映像檔</caption>
+      <caption lang="zh_CN">写入并校验映像</caption>
+      <caption lang="uk">Записування і перевіряння образів</caption>
+      <caption lang="tr">Kalıpları yazma ve doğrulama</caption>
+      <caption lang="sv">Skrivning och verifiering av avbildningar</caption>
+      <caption lang="sr">Записујем и проверавам слике</caption>
+      <caption lang="sr@latin">Zapisujem i proveravam slike</caption>
+      <caption lang="sk">Zapisovanie a overovanie obrazov</caption>
+      <caption lang="ru">Запись и проверка образов</caption>
+      <caption lang="pt">Escrever e verificar imagens</caption>
+      <caption lang="pt_BR">Gravando e verificando imagens</caption>
+      <caption lang="pl">Zapisywanie i sprawdzanie poprawności obrazów</caption>
+      <caption lang="oc">Escritura e verificacion dels imatges</caption>
+      <caption lang="nl">Bezig met bestanden schrijven en verifiëren</caption>
+      <caption lang="it">Scrittura e verifica delle immagini</caption>
+      <caption lang="id">Menulis dan memverifikasi citra</caption>
+      <caption lang="hu">Lemezképek kiírása és ellenőrzése</caption>
+      <caption lang="hr">Zapisiavanje i provjera slika</caption>
+      <caption lang="gl">Escribindo e verificando imaxes</caption>
+      <caption lang="fur">Scriture e verifiche imagjins</caption>
+      <caption lang="fr">Écriture et vérification des images</caption>
+      <caption lang="fi">Kirjoitetaan ja vahvistetaan levykuvia</caption>
+      <caption lang="fa">نوشتن و تأیید تصویرها</caption>
+      <caption lang="eu">Irudiak idazten eta egiaztatzen</caption>
+      <caption lang="es">Escritura y verificación de las imágenes</caption>
+      <caption lang="en_GB">Writing and verifying images</caption>
+      <caption lang="el">Εγγραφή και επαλήθευση εικόνων</caption>
+      <caption lang="de">Abbilddateien schreiben und überprüfen</caption>
+      <caption lang="da">Skriver og verificerer aftryk</caption>
+      <caption lang="cs">Zápis a ověřování obrazů</caption>
+      <caption lang="ca">Escriptura i verificació de les imatges</caption>
+      <caption lang="bs">Zapisujem i provjeravam slike</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://git.gnome.org/browse/gnome-multi-writer/plain/data/appdata/gmw-finished.png</image>
+      <!-- TRANSLATORS: the 3rd screenshot caption -->
+      <caption>All devices have been written</caption>
+      <caption lang="zh_TW">所有裝置皆已寫入</caption>
+      <caption lang="zh_CN">所有设备已被写入</caption>
+      <caption lang="uk">Записано на всі пристрої</caption>
+      <caption lang="tr">Tüm aygıtlar yazıldı</caption>
+      <caption lang="sv">Alla enheter har skrivits</caption>
+      <caption lang="sr">Сви уређаји су записани</caption>
+      <caption lang="sr@latin">Svi uređaji su zapisani</caption>
+      <caption lang="sk">Všetky zariadenia boli zapísané</caption>
+      <caption lang="ru">Запись на все устройства выполнена</caption>
+      <caption lang="pt">Foram escritos todos os dispositivos</caption>
+      <caption lang="pt_BR">Todos os dispositivos foram gravados</caption>
+      <caption lang="pl">Wszystkie urządzenia zostały zapisane</caption>
+      <caption lang="oc">Totes los periferics son estats escriches</caption>
+      <caption lang="nl">Alle apparaten zijn geschreven</caption>
+      <caption lang="nb">Alle enheter er skrevet ferdig</caption>
+      <caption lang="it">Tutti i dispositivi sono stati scritti</caption>
+      <caption lang="id">Semua perangkat telah ditulis</caption>
+      <caption lang="hu">Minden eszköz meg lett írva</caption>
+      <caption lang="hr">Svi uređaji su zapisani</caption>
+      <caption lang="gl">Todos os dispositivos foron escritos</caption>
+      <caption lang="fur">Ducj i dispositîfs a son stâts scrits</caption>
+      <caption lang="fr">Tous les périphériques ont été écrits</caption>
+      <caption lang="fi">Kaikki laitteet on kirjoitettu</caption>
+      <caption lang="fa">تمام افزاره‌ها نوشته شده‌اند</caption>
+      <caption lang="eu">Gailu guztiak idatzi dira</caption>
+      <caption lang="es">Todos los dispositivos han sido escrividos</caption>
+      <caption lang="en_GB">All devices have been written</caption>
+      <caption lang="el">Εγγράφηκαν όλες οι συσκευές</caption>
+      <caption lang="de">Alle Geräte wurden beschrieben</caption>
+      <caption lang="da">Alle enheder er blevet skrevet</caption>
+      <caption lang="cs">Zapsáno na všechna zařízení</caption>
+      <caption lang="ca">Tots els dispositius han estat escrits</caption>
+      <caption lang="bs">Svi uređaji su zapisani</caption>
+    </screenshot>
+  </screenshots>
+  <!--
+   Validate with `appstream-util validate *.appdata.xml`
+  -->
+  <releases>
+    <release date="2020-03-04" version="3.35.90">
+      <description>
+        <p>This unstable release fixes the following bug:</p>
+        <ul>
+          <li>Fix gmw-probe only testing the first 15% of the disks</li>
+        </ul>
+        <p>This release also updates several translations.</p>
+      </description>
+    </release>
+    <release date="2019-05-22" version="3.32.1">
+      <description>
+        <p>
+          This fixes a memory corruption issue causing the UI to crash and also
+          fixes some build issues.
+        </p>
+      </description>
+    </release>
+    <release version="3.32.0" date="2019-03-08">
+      <description>
+        <p>
+          This is the first stable release for GNOME 3.32 which updates several
+          translations and fixes some build issues.
+        </p>
+      </description>
+    </release>
+    <release date="2018-09-04" version="3.30.0">
+      <description>
+        <p>
+          This is the first stable release for GNOME 3.30 and updates several
+          translations.
+        </p>
+      </description>
+    </release>
+    <release date="2018-03-12" version="3.28.0">
+      <description>
+        <p>
+          This is the first stable release for GNOME 3.28 and updates several
+          translations.
+        </p>
+      </description>
+    </release>
+    <release version="3.26.0" date="2017-09-11">
+      <description>
+        <p>
+          This is the first stable release for GNOME 3.26 and updates several
+          translations.
+        </p>
+      </description>
+    </release>
+    <release date="2017-08-07" version="3.25.90">
+      <description>
+        <p>
+          This unstable release switched to the meson buildsystem and updated
+          several translations.
+        </p>
+      </description>
+    </release>
+    <release version="3.24.0" date="2017-03-20">
+      <description>
+        <p>This is the first stable release for GNOME 3.24.</p>
+      </description>
+    </release>
+    <release version="3.23.92" date="2017-03-11">
+      <description>
+        <p>This unstable release updates several translations.</p>
+      </description>
+    </release>
+    <release date="2016-10-12" version="3.22.1">
+      <description>
+        <p>This release fixes the following bugs:</p>
+        <ul>
+          <li>Allow writing to large expensive USB drives</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.22.0" date="2016-09-19">
+      <description>
+        <p>This is the first stable release for GNOME 3.22.</p>
+      </description>
+    </release>
+    <release version="3.21.92" date="2016-09-13">
+      <description>
+        <p>This unstable release fixes several build issues and also updates one translation.</p>
+      </description>
+    </release>
+    <release version="3.21.91" date="2016-08-29">
+      <description>
+        <p>This unstable release fixes the following bug:</p>
+        <ul>
+          <li>Check for authentication before copying starts</li>
+        </ul>
+        <p>This release also updates translations.</p>
+      </description>
+    </release>
+    <release date="2016-08-15" version="3.21.90">
+      <description>
+        <p>This release only updates translations.</p>
+      </description>
+    </release>
+    <release version="3.20.0" date="2016-03-21">
+      <description>
+        <p>This is the first stable release for GNOME 3.20</p>
+      </description>
+    </release>
+    <release version="3.19.90" date="2016-02-15">
+      <description>
+        <p>This unstable release fixes the following bug:</p>
+        <ul>
+          <li>Add proper text to the button during a copy operation</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.18.0" timestamp="1442827658">
+      <description>
+        <p>This is the first stable release for GNOME 3.18</p>
+      </description>
+    </release>
+    <release timestamp="1442312119" version="3.17.92" />
+    <release version="3.17.90" timestamp="1439990287">
+      <description>
+        <p>This release only updates translations.</p>
+      </description>
+    </release>
+    <release timestamp="1427103917" version="3.16.0">
+      <description>
+        <p>This stable release marks the release of GNOME 3.16!</p>
+      </description>
+    </release>
+    <release timestamp="1426498834" version="3.15.92">
+      <description>
+        <p>This release only updates translations.</p>
+      </description>
+    </release>
+    <release timestamp="1425299116" version="3.15.91">
+      <description>
+        <p>This release only updates translations.</p>
+      </description>
+    </release>
+    <release timestamp="1285974000" version="3.15.90">
+      <description>
+        <p>This unstable release fixes the following bugs:</p>
+        <ul>
+          <li>Add hub quirks for all Plugable USB devices</li>
+        </ul>
+        <p>This release also adds the following new features:</p>
+        <ul>
+          <li>Optionally check that USB drives are indeed their advertised size</li>
+          <li>Allow renaming hub labels from the UI</li>
+        </ul>
+      </description>
+    </release>
+    <release timestamp="1390089600" version="3.15.4">
+      <description>
+        <p>This unstable release fixes the following bugs:</p>
+        <ul>
+          <li>Add quirks for the 36 port MegaHub</li>
+          <li>Don't proceed to the copy phase if unmounting failed</li>
+          <li>Never use the USB platform ID for the hub label</li>
+          <li>Support root hubs with bus numbers greater than 8</li>
+          <li>Unmount all partitions when a device is inserted</li>
+        </ul>
+        <p>This release also adds the following new feature:</p>
+        <ul>
+          <li>Show the size next to the device name when the device is idle</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.15.2" timestamp="1389225600">
+      <description>
+        <p>This unstable release fixes the following bugs:</p>
+        <ul>
+          <li>Queue the device writes according to the connected root hub</li>
+          <li>Show ten devices per column to better use the space</li>
+          <li>Unmount filesystems before starting to copy</li>
+        </ul>
+        <p>This release also adds the following new feature:</p>
+        <ul>
+          <li>Reads and writes are now spread over root hubs to increase throughput</li>
+          <li>Completely wipe devices by default</li>
+          <li>Make the verification and wipe optional</li>
+          <li>Show a warning dialog before copying for the first time</li>
+          <li>Show some global read/write stats in the title bar</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.15.1" timestamp="1388880000">
+      <description>
+        <p>This initial release fixes the following bugs:</p>
+        <ul>
+          <li>Show the USB connection address in the UI</li>
+          <li>Use a progressbar and smaller icons in the main UI</li>
+        </ul>
+        <p>This release also adds the following new feature:</p>
+        <ul>
+          <li>Copy an ISO image to an unlimited number of devices</li>
+          <li>Inhibit suspend when copying data</li>
+          <li>Play a sound when all the images have been written</li>
+          <li>Show an image when there are no suitable drives plugged in</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <kudos>
+    <kudo>AppMenu</kudo>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+  </kudos>
+  <project_group>GNOME</project_group>
+  <url type="homepage">https://wiki.gnome.org/Apps/MultiWriter</url>
+  <url type="bugtracker">https://bugzilla.gnome.org/browse.cgi?product=gnome-multi-writer</url>
+  <update_contact>richard_at_hughsie.com</update_contact>
+  <translation type="gettext">gnome-multi-writer</translation>
+</component>

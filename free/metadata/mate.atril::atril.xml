@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>mate.atril</pkgname>
+  <launchable type="desktop-id">atril.desktop</launchable>
+  <icon width="64" height="64" type="cached">atril.png</icon>
+  <icon type="cached" width="128" height="128">atril.png</icon>
+  <id>atril.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Atril Document Viewer</name>
+  <name lang="zh_TW">Atril 文件檢視器</name>
+  <name lang="zh_CN">Atril 文档查看器</name>
+  <name lang="uz">Atril Hujjat Ko'ruvchisi</name>
+  <name lang="uk">Переглядач документів Atril</name>
+  <name lang="tr">Atril Belge Görüntüleyicisi</name>
+  <name lang="th">โปรแกรมดูเอกสาร Atril</name>
+  <name lang="sv">Atril Dokumentvisare</name>
+  <name lang="sr">Прегледач докумената Атрил</name>
+  <name lang="sl">Atril pregledovalnik dokumentov</name>
+  <name lang="sk">Prehliadač dokumentov Atril</name>
+  <name lang="sc">Atril - Bisore de Documentos</name>
+  <name lang="ru">Просмотрщик документов Atril</name>
+  <name lang="ro">Vizualizatorul de documente Atril</name>
+  <name lang="pt_BR">Visualizador de Documentos Atril</name>
+  <name lang="pt">Visualizador de Documentos Atril</name>
+  <name lang="pl">Przeglądarka dokumentów Atril</name>
+  <name lang="oc">Visualizaira de documents Atril</name>
+  <name lang="nl">Atril Documentweergave</name>
+  <name lang="ne">आएट्रिल कागजात दृश्यक</name>
+  <name lang="nb">Dokumentfremviseren Atril</name>
+  <name lang="ms">Pelihat Dokumen Atril</name>
+  <name lang="mr">Atril दस्तऐवज दर्शक</name>
+  <name lang="lt">Atril dokumentų žiūryklė</name>
+  <name lang="ko">Atril 문서 뷰어</name>
+  <name lang="kn">Atril ದಸ್ತಾವೇಜು ವೀಕ್ಷಕ</name>
+  <name lang="kk">Atril құжаттарды көрсетушісі</name>
+  <name lang="ja">Atril 文書ビューアー</name>
+  <name lang="it">Visualizzatore documenti Atril</name>
+  <name lang="ie">Visor de documentes Atril</name>
+  <name lang="id">Atril Penampil Dokumen</name>
+  <name lang="ia">Visualisator de Documentos Atril</name>
+  <name lang="hy">Atril Փաստաթղթի Դիտող</name>
+  <name lang="hu">Atril dokumentum-megjelenítő</name>
+  <name lang="hr">Atril preglednik dokumenata</name>
+  <name lang="he">מציג המסמכים Atril</name>
+  <name lang="gl">Visor de documentos Atril</name>
+  <name lang="fr">Visionneur de documents Atril</name>
+  <name lang="fi">Atril-asiakirjakatselin</name>
+  <name lang="eu">Atril dokumentu ikustailea</name>
+  <name lang="et">Dokumendinäitaja Atril</name>
+  <name lang="es_AR">Visor de Documentos Atril</name>
+  <name lang="es">Visor de documentos Atril</name>
+  <name lang="en_GB">Atril Document Viewer</name>
+  <name lang="en_AU">Atril Document Viewer</name>
+  <name lang="el">Εφαρμογή προβολής εγγράφων Atril</name>
+  <name lang="de">Atril-Dokumentenbetrachter</name>
+  <name lang="da">Atril - dokumentfremviser</name>
+  <name lang="cs">Prohlížeč dokumentů Atril</name>
+  <name lang="cmn">Atril 文件檢視器</name>
+  <name lang="ca@valencia">Visualitzador de documents Atril</name>
+  <name lang="ca">Visualitzador de documents Atril</name>
+  <name lang="bs">Atril Pregledač Dokumenata</name>
+  <name lang="bg">Atril преглед на документи</name>
+  <name lang="be">Прагляднік дакументаў Atril</name>
+  <name lang="ast">Visor de documentos Atril</name>
+  <name lang="ar">عارض الوثائق منضدة</name>
+  <name lang="am">Atril ሰነድ መመልከቻ </name>
+  <summary>A Document Viewer for the MATE desktop environment</summary>
+  <summary lang="zh_TW">適用於 MATE 桌面環境的文件檢視器</summary>
+  <summary lang="zh_CN">用于 MATE 桌面环境的文档查看器</summary>
+  <summary lang="vi">Một phần mềm hiển thị tài liệu của MATE </summary>
+  <summary lang="uz">MATE ish stoli muhiti uchun hujjat ko'ruvchi</summary>
+  <summary lang="uk">Переглядач документів стільничного середовища MATE</summary>
+  <summary lang="tr">MATE masaüstü ortamı için Belge Görüntüleyicisi</summary>
+  <summary lang="th">เครื่องมือดูเอกสารสำหรับสภาพแวดล้อมเดสก์ท็อป MATE</summary>
+  <summary lang="sv">En dokumentvisare för skrivbordsmiljön MATE</summary>
+  <summary lang="sr">Прегледач докумената за Мејтову радну површ</summary>
+  <summary lang="sl">Pregledovalnik dokumentov za namizno okolje MATE</summary>
+  <summary lang="sk">Prehliadač dokumentov pre prostredie MATE</summary>
+  <summary lang="sc">Unu Bisore de Documentos pro s'ambiente de iscriania MATE</summary>
+  <summary lang="ru">Просмотр документов рабочей среды MATE</summary>
+  <summary lang="ro">Un vizualizator de documente pentru mediul desktop MATE</summary>
+  <summary lang="pt_BR">Um Visualizador de Documentos para o Ambiente de Trabalho MATE</summary>
+  <summary lang="pt">Um visualizador de documentos para o ambiente de área de trabalho MATE</summary>
+  <summary lang="pl">Przeglądarka dokumentów dla środowiska MATE</summary>
+  <summary lang="oc">Visualizaira de documents de MATE</summary>
+  <summary lang="nl">Documentweergave voor de MATE-werkomgeving</summary>
+  <summary lang="nb">En dokumentfremviser for skrivebordsmiljøet MATE</summary>
+  <summary lang="ms">Pelihat Dokumen untuk persekitaran desktop MATE</summary>
+  <summary lang="mn">MATE дэлгэцийн орчний баримт үзэгч</summary>
+  <summary lang="lt">Dokumentų žiūryklė MATE darbalaukio aplinkai</summary>
+  <summary lang="ko">MATE 데스크톱 환경용 문서 보기 프로그램</summary>
+  <summary lang="kn">MATE ಗಣಕತೆರೆ ಪರಿಸರಕ್ಕೆ ಒಂದು ದಸ್ತಾವೇಜು ವೀಕ್ಷಕ</summary>
+  <summary lang="kk">MATE жұмыс үстел ортасы үшін құжаттар көрсетушісі</summary>
+  <summary lang="ja">MATE デスクトップ環境向けの文書ビューアー</summary>
+  <summary lang="it">Un visualizzatore di documenti per l'ambiente desktop MATE</summary>
+  <summary lang="ie">Un visor de documentes por li ambientie MATE</summary>
+  <summary lang="id">Penampil Dokumen untuk lingkungan desktop MATE.</summary>
+  <summary lang="ia">Un Visualisator de Documentos pro le ambiente de scriptorio MATE</summary>
+  <summary lang="hy">Փաստաթղթի դիտակ MATE սեղանադիր միջավայրի համար</summary>
+  <summary lang="hu">Dokumentum megjelenítő a MATE asztali környezethez</summary>
+  <summary lang="hr">Preglednik dokumenata za MATE radno okruženje</summary>
+  <summary lang="he">מציג מסמכים לסביבת שולחן העבודה Mate</summary>
+  <summary lang="gl">Un visor de documentos para o contorno de escritorio MATE</summary>
+  <summary lang="fr">Un lecteur de document pour l'environnement de bureau MATE</summary>
+  <summary lang="fi">Asiakirjakatselin MATE-työpöytäympäristölle.</summary>
+  <summary lang="eu">MATE mahaigain ingurunerako dokumentu ikustailea</summary>
+  <summary lang="et">Dokumendinäitaja MATE töölauakeskkonnale</summary>
+  <summary lang="es_AR">Un Visor de Documentos para el entorno de escritorio MATE</summary>
+  <summary lang="es">Un visor de documentos para el entorno de escritorio MATE</summary>
+  <summary lang="en_GB">A Document Viewer for the MATE desktop environment</summary>
+  <summary lang="en_AU">A Document Viewer for the MATE desktop environment</summary>
+  <summary lang="el">Πρόγραμμα προβολής εγγράφων για το γραφικό περιβάλλον εργασίας MATE</summary>
+  <summary lang="de">Ein Dokumentenbetrachter für die Mate-Arbeitsumgebung</summary>
+  <summary lang="da">En dokumentfremviser for skrivebordsmiljøet MATE</summary>
+  <summary lang="cs">Prohlížeč dokumentů pro prostředí MATE</summary>
+  <summary lang="ca@valencia">Un visualitzador de documents per a l'entorn d'escriptori MATE</summary>
+  <summary lang="ca">Un visualitzador de documents per a l'entorn d'escriptori MATE</summary>
+  <summary lang="bs">Pregledač dokumenata za MATE desktop</summary>
+  <summary lang="bg">Преглед на документи за работна среда МАТЕ</summary>
+  <summary lang="be">Прагляднік дакументаў асяроддзя MATE</summary>
+  <summary lang="ast">Un visor de documentos pal entornu d'escritoriu MATE</summary>
+  <summary lang="ar">عارض مستندات لبيئة سطح مكتب متّة</summary>
+  <summary lang="am">የ ሰነድ መመልከቻ ለ ሜት ዴስክቶፕ አካባቢ</summary>
+  <description>
+    <p>
+   Atril is a simple multi-page document viewer. It can display and
+   print PostScript (PS), Encapsulated PostScript (EPS), DJVU, DVI,
+   XPS and Portable Document Format (PDF) files, as well as comic book
+   archive files. When supported by the document, it also allows
+   searching for text, copying text to the clipboard, hypertext navigation
+   and table-of-contents bookmarks.
+  </p>
+    <p>
+   Atril is a fork of Evince and part of the MATE Desktop Environment.
+   If you would like to know more about MATE and Atril, please visit the
+   project's home page.
+  </p>
+  </description>
+  <description lang="bg">
+    <p>Atril е прост четец за многостранични документи. С него може да се разглеждат и отпечатват  PostScript (PS), Encapsulated PostScript (EPS), DJVU, DVI, XPS и Portable Document Format (PDF), както и архиви с комикси. Когато самият формат поддържа това, Atril може да търси в съдържанието да копира текст, да обхожда документите с помощта на хипертекст и „Съдържание“.</p>
+  </description>
+  <description lang="ca">
+    <p>Atril és un visualitzador simple de documents de diverses pàgines. Pot visualitzar i imprimir PS (PostScript), EPS (Encapsulated PostScript), DjVu, PDF (Portable Document Format) DVI, i XPS, així com els fitxers d'arxiu de llibres de còmics. Quan el document és compatible, també permet la cerca de text, la còpia de text al porta-retalls, la navegació d'hipertext i els marcadors de taula de continguts.</p>
+    <p>Atril és una bifurcació d'Evince, i part de l'entorn d'escriptori MATE. Si voleu saber més sobre MATE i Atril, si us plau, visiteu la pàgina principal del projecte.</p>
+  </description>
+  <description lang="cs">
+    <p>Atril je jednoduchý prohlížeč vícestránkových dokumentů. Může zobrazovat a tisknout soubory PostScript (PS), Encapsulated PostScript (EPS), DJVU, DVI, XPS a Portable Document Format (PDF), jakož i archivní soubory komiksu. Je-li to dokumentem podporováno, umožňuje také vyhledávání textu, kopírování textu do schránky, hypertextovou navigaci a záložky obsahu.</p>
+    <p>Atril je forkem Evince a je součást MATE. Pokud se chcete dozvědět více o MATE a Atril, navštivte domovskou stránku projektu.</p>
+  </description>
+  <description lang="da">
+    <p>Atril er en simpel dokumenfremviser. Programmet kan vise og udskrive filer i formaterne  PostScript (PS), Encapsulated PostScript (EPS), DJVU, DVI, XPS and Portable Document Format (PDF) sam arkivfiler for tegneserier. Når understøttet af dokumentet, kan det også søge efter tekst, kopiere tekst til udklipsholderen, navigere via hypertekst og indholdsfortegnelsesbogmærker.</p>
+    <p>Atril er en forgrening af Evince og en del af skrivebordsmiljøet MATE. Hvis du ønsker at vide mere om MATE og Atril, så besøg projektets hjemmeside.</p>
+  </description>
+  <description lang="es">
+    <p>Atril es un visor de documentos multipágina sencillo. Puede mostrar e imprimir archivos PS (PostScript), EPS (PostScript encapsulado), DJVU, DVI, XPS y PDF, así como archivadores de cómic. Cuando el documento lo admite, también permite buscar texto, copiar texto en el portapapeles, navegar con hipertexto y usar marcadores de índice. </p>
+    <p>Atril es una bifurcación de Evince y parte del entorno de escritorio MATE. Para saber más sobre MATE y Atril, visite el sitio web del proyecto. </p>
+  </description>
+  <description lang="fr">
+    <p>Atril est un lecteur simple de documents multipages. Il permet d'afficher et imprimer des fichiers au format PostScript (PS), Encapsulated PostScript (EPS), DJVU, DVI, XPS et Portable Document Format (PDF), ainsi que les fichiers d'archive comic book. Lorque le document le permet, il permet la recherche de texte, la copie de texte vers le presse-papier, la navigation hypertextuelle et des favoris en table-de-contenus.</p>
+    <p>Atril a divergé de Evince et fait partie de l'environnement de bureau MATE. Si vous désirez en savoir plus à propos de MATE et Atril, veuillez visiter la page du projet.</p>
+  </description>
+  <description lang="gl">
+    <p>Atril é un sinxelo visor de documentos multipáxina. Pode amosar e imprimir documentos  PostScript (PS), PostScript Encapsulado (EPS),  DJVU, DVI, XPS e Formato Portable de Documentos (PDF), así como tamén ficheiros de libro de comic. Cando o documento o permite, tamén permite buscar texto, copiar texto ao portapapeis, navegación en hipertextos e marcadores de táboas de contidos.</p>
+    <p>Atril é unha bifurcación de Evince e forma parte do contorno de escritorio MATE. Se quere saber máis sobre MATE e Atril, visite a páxina do proxecto.</p>
+  </description>
+  <description lang="hr">
+    <p>Atril je jednostavan preglednih dokumenata od više stranica. Može prikazati i ispisati sljedeće vrste datoteka: PostScript (PS), enkapsulirani PostScript (EPS), DJVU, DVI, XPS i prenosivi oblik dokumenata (PDF). Također podržava i arhivske datoteke stripova. Ako dokument to podržava, moguće je pretraživanje teksta, kopiranje teksta u spremnik, navigacija putem hiperteksta i knjižne oznake u sadržaju.</p>
+  </description>
+  <description lang="hu">
+    <p>Az Atril egy egyszerű több-oldalas dokumentum megjelenítő. Meg tud jeleníteni és ki tud nyomtatni PostScript (PS), Encapsulated PostScript (EPS), DJVU, DVI, XPS és Portable Document Format (PDF) fájlokat, valamint képregény archívum fájlokat. Ha a dokumentum támogatja, lehetőség van szöveg keresésére, vágólapra másolásra, hypertext navigációra és tartalomjegyzék könyvjelzőkre.</p>
+    <p>Az Atril az Evince forkja, és a MATE asztali környezet része. További információk a MATE-ról és az Atril-ról a projekt honlapján találhatóak.</p>
+  </description>
+  <description lang="id">
+    <p>Atril adalah penampil dokumen multi halaman sederhana. Atril dapat menampilkan dan mencetak berkas dengan tipe PostScript (PS), Encapsulated PostScript (EPS), DJVU, DVI, XPS, dan Portable Document Format (PDF), maupun berkas-berkas arsip buku komik. Ketika didukung oleh dokumen, Atril juga dapat mencari, menyalin teks ke papan klip, navigasi hypertext, dan markah daftar isi.</p>
+    <p>Atril adalah fork dari Evince dan bagian dari Lingkungan Desktop MATE. Bila Anda ingin tahu lebih jauh tentang MATE dan Atril, harap kunjungi laman proyek.</p>
+  </description>
+  <description lang="it">
+    <p>Atril è un semplice visualizzatore di documenti multi-pagina. Può mostrare e stampare file PostScript (PS), Encapsulated PostScript (EPS), DJVU, DVI, XPS and Portable Document Format (PDF), così come archivi di fumetti. Permette anche di ricercare testi, copiarli, navigare gli ipertesti e l'indice, se ciò è permesso dal documento.</p>
+    <p>Atril è un fork di Evince ed è parte dell'ambiente desktop MATE. Se vuoi conoscere di più su MATE e Atril, visita l'home page del progetto.</p>
+  </description>
+  <description lang="ja">
+    <p>Atril はシンプルなマルチページの文書ビューアーです。PostScript (PS)、Encapsulated PostScript (EPS)、DJVU、DVI、XPS と Portable Document Format (PDF) だけではなくコミックブックアーカイブファイルの表示と印刷が可能です。文書がサポートしている場合は、文書の検索やクリップボードへのコピー、ハイパーテキストのナビゲーションと目次のブックマークも可能です。</p>
+    <p>Atril は Evinceのフォークであり、MATE デスクトップ環境の一部です。MATE と Atril についてさらによく知りたい場合は、プロジェクトのホームページをご覧ください。</p>
+  </description>
+  <description lang="ko">
+    <p>Atril은 간단한 다중 페이지 문서 뷰어입니다. 포스트스크립트(PS), 캡슐화된 포스트스크립트(EPS), DJVU, DVI, XPS 및 휴대용 문서 형식(PDF) 파일뿐만 아니라 만화책 보관 파일도 표시하고 인쇄할 수 있습니다. 문서에서 지원되는 경우 텍스트 검색, 클립보드에 텍스트 복사, 하이퍼텍스트 탐색 및 목차 책갈피도 사용할 수 있습니다.</p>
+    <p>Atril은 Evince의 포크이며 MATE 데스크톱 환경의 일부입니다. MATE와 Atril에 대해 더 알고 싶다면 프로젝트의 홈페이지를 방문하십시오.</p>
+  </description>
+  <description lang="lt">
+    <p>Atril yra paprasta dokumentų žiūryklė. Ji gali rodyti ir spausdinti PostScript (PS), Uždarus PostScript (EPS), DJVU, DVI, XPS ir Portable Document Format (PDF) failus, o taip pat komiksų archyvų failus. Kuomet tai palaiko dokumentas, programa leidžia atlikti teksto paiešką, kopijuoti tekstą į iškarpinę ir palaiko hiperteksto naršymą bei turinio žymes. </p>
+    <p>Atril yra Evince atšaka ir MATE dabalaukio aplinkos dalis. Jei norite sužinoti daugiau apie MATE ir Atril, prašom apsilankyti projekto tinklalapyje. </p>
+  </description>
+  <description lang="ms">
+    <p>Atril merupakan pelihat dokumen berbilang-halaman yang ringkas. Ia dapat papar dan cetak fail PostScript (PS), PostScript Terkurung (EPS), DJVU, DVI, XPS dan Format Dokumen Mudah Alih (PDF), serta fail arkib buku komik. Bila disokong oleh dokumen, ia membolehkan penggelintaran teks, penyalinan teks ke papan keratan, navigasi hiper-teks dan tanda buku senarai-kandungan.</p>
+    <p>Atril merupakan cabang Evince dan sebahagian dari Persekitaran Atas Meja MATE. Jika anda mahu ketahui lebih lanjut mengenai MATE dan Atril, sila lawati laman sesawang projek.</p>
+  </description>
+  <description lang="nb">
+    <p>Atril er en enkel dokumentfremviser med støtte for flere sider. Den kan vise og skrive ut filer i PostScript (PS), innebygd PostScript (EPS), DJVU, DVI, XPS og bærbart dokumentformat (PDF); i tillegg til tegneseriearkiv. Når dokumentet støtter det kan den også søke etter tekst, kopiere til utklippstavlen, navigere etter hypertekst og lagre bokmerker i innholdsregisteret.</p>
+    <p> Atril er avledet fra Evince og del av skrivebordsmiljøet MATE. Hvis du vil vite mer om MATE og Atril kan du besøke hjemmesiden til prosjektet.</p>
+  </description>
+  <description lang="nl">
+    <p>Atril is een eenvoudige multipagina-documentkijker. Hij kan de volgende soorten bestanden tonen en afdrukken: PostScript (PS), Encapsulated PostScript (EPS), DJVU, DVI, XPS en Portable Document Format (PDF) alsook comic book-archiefbestanden. Indien ondersteund door het document, kan hij ook tekst zoeken, tekst naar het klembord kopiëren, hypertekstnavigatie doen en inhoudsopgave-bladwijzers volgen.</p>
+    <p>Atril is een vork van Evince en maakt deel uit van de werkomgeving MATE. Als u meer wilt weten over MATE en Atril, bezoek dan a.u.b. de thuispagina van het project.</p>
+  </description>
+  <description lang="oc">
+    <p>Atril es una visualizaira simpla de document multi-pagina. Pòt afichar e imprimir de fichièrs PostScript (PS), Encapsulated PostScript (EPS), DJVU, DVI, XPS e Portable Document Format (PDF), e tanben d’archius de bandas dessenhadas. Quand pres en carga, permet de cercar lo tèxt, lo copiar al pachaquièr, navigar pels ligams e utilizar los marcapaginas de l’ensenhador.</p>
+    <p>Atril es una derivacion d’Evince e fa part de l’environament de burèu MATE. Se volètz ne saber mai a prepaus de MATE e Atril, consultatz lo site del projècte.</p>
+  </description>
+  <description lang="pl">
+    <p>Atril jest prostą wielostronicową przeglądarką dokumentów. Może wyświetlać oraz drukować pliki PostScript (PS), Encapsulated PostScript (EPS), DJVU, DVI, XPS and Portable Document Format (PDF), jak również pliki archiwa komików. Gdy obsługiwany dokument na to pozwala, program umożliwia wyszukiwanie tekstu, kopiowanie do schowka, nawigację po hiperłączach, oraz nawigację po zakładkach.</p>
+    <p>Atril jest forkiem Evince'a i częścią środowiska MATE Desktop Environment. Jeśli chcesz dowiedzieć się więcej o MATE i Atril, odwiedź stronę główną projektu.</p>
+  </description>
+  <description lang="pt">
+    <p>Atril é um visualizador simples de documentos multi-página. Permite mostrar e imprimir ficheiros PostScript (PS), Encapsulated PostScript (EPS), DJVU, DVI, XPS e Portable Document Format (PDF), assim como arquivos de banda desenhada. Quando suportado pelo documento, permite ainda procurar texto, copiar texto para a área de transferência, navegação hipertexto e marcadores de índice.</p>
+    <p>Atril é um derivado do Evince e parte do Ambiente de Trabalho MATE. Se gostaria de saber mais sobre o MATE e o Atril, por favor visite a página oficial do projecto.</p>
+  </description>
+  <description lang="ru">
+    <p>Atril — простой многостраничный просмотрщик документов. Он может показывать и печатать файлы PostScript (PS), Encapsulated PostScript (EPS), DJVU, DVI, XPS и Portable Document Format (PDF), а также архивы комиксов. Он также позволяет искать текст, копировать его в буфер обмена, выполнять гипертекстовую навигацию и устанавливать закладки содержания, если это поддерживается документом.</p>
+    <p>Atril — ответвление (форк) Evince и часть рабочей среды MATE. Чтобы узнать больше о MATE и Atril, посетите домашнюю страницу проекта.</p>
+  </description>
+  <description lang="sl">
+    <p>Atril je preprost pregledovalnik več-stranskih dokumentov. Lahko prikaže in natisne datotee PostScript (PS), Encapsulated PostScript (EPS), DJVU, DVI, XPS in Portable Document Format (PDF), kot tudi datoteke z arhivi stripov. če dokument to podpira, omogoča tudi iskanje teksta, kopiranje teksta na odložišče, navigacijo preko hiperteksta in zaznamke v kazalu vsebine.</p>
+    <p>Atril je priredba programa Evince in je del MATE namiznega okolja. Če želite izvedeti več o MATE in Atrilu, obiščite domačo stran projekta.</p>
+  </description>
+  <description lang="sr">
+    <p>Атрил је једноставан вишестранични прегледач докумената. Може приказивати и штампати датотеке Постскрипта (PS), Угнежденог Постскрипта (EPS), DJVU-а, DVI-а, XPS-а и Формата преносивог документа (PDF), као и датотеке архивираних стрипова. Када документ то подржава, такође омогућава тражење текста, умножавање текста у оставу, навигацију хипертекста и обележиваче садржаја.</p>
+    <p>Атрил је исцепак Евинса и део окружења Мејтове радне површи. Ако желите да знате више о Мејту и Атрилу, посетите матичну страницу пројекта.</p>
+  </description>
+  <description lang="sv">
+    <p>Atril är en flersidig dokumentvisare. Den kan visa och skriva ut PostScript (PS), Encapsulated PostScript (EPS), DJVU, DVI, XPS och Portable Document Format (PDF) filer, samt arkivfiler av serietidningar. Om det stöds av dokumentet går det även att kopiera text till utklipp, använda länknavigering och bokmärken från innehållsförteckningen.</p>
+    <p>Atril är en avgrening av Evince och är en del av skrivbordsmiljön MATE. Om du vill veta mer om MATE och Atril, besök gärna projektets hemsida.</p>
+  </description>
+  <description lang="tr">
+    <p>Atril basit bir çok sayfalı belge görüntüleyicisidir. PostScript (PS), Encapsulated Postcript (EPS), DJVU, DVİ, XPS ve Taşınabilir Belge Biçimi (Portable Document Format, PDF) dosyaları ile çizgi roman arşiv dosyalarını görüntüleyebilir ve yazdırabilir. Belge tarafından desteklendiğinde metin aramaya, panoya metin kopyalamaya, bağlantı metni ile gezinmeye ve içindekiler favorilerini yönetmeye olanak sağlar.</p>
+    <p>Atril, bir Evince çatallamasıdır ve MATE masaüstü ortamının bir parçasıdır. MATE ve Atril hakkında daha fazla bilgi edinmek isterseniz, lütfen projenin ana sayfasını ziyaret ediniz.</p>
+  </description>
+  <description lang="uk">
+    <p>Atril — простий багатосторінковий переглядач документів. Він може показувати й друкувати файли PostScript (PS), Encapsulated PostScript (EPS), DJVU, DVI, XPS і Portable Document Format (PDF), а також архіви коміксів. Він також дозволяє шукати текст, копіювати його до буферу обміну, виконувати гіпертекстову навіґацію й встановлювати закладки вмісту, якщо це підтримується документом.</p>
+    <p>Atril - це відгалуження(форк) Evince та частина середовища MATE Desktop. Якщо ви волієте дізнатися більше про MATE та Atril, відвідайте домашню сторінку проєкту.</p>
+  </description>
+  <description lang="zh_CN">
+    <p> Atril 是一个简易的多页文档阅读器。它可以显示并打印 PostScript (PS), Encapsulated PostScript (EPS), DJVU, DVI, XPS 以及移动文档格式 (PDF) 文件，以及漫画归档文件。如果文档支持，它亦可以进行文本搜索，复制文本到剪贴板，超文本浏览以及基于内容目录的书签标记。</p>
+    <p>Atril 为 MATE 桌面环境的一部分，是 Evince 的复刻。想了解更多 MATE 及 Atril 的信息，请访问项目主页。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>Atril 是一個簡單的多頁面文件檢視器。它可以顯示並列印 PostScript (PS)、Encapsulated PostScript (EPS)、DJVU、DVI、XPS 及 Portable Document Format (PDF) 檔案，甚至是漫畫書的檔案格式都可以。如果文件支援的話，它就可以搜尋文字、複製文字到剪貼簿、超文字傳輸及目錄式的書籤。</p>
+    <p>Atril 是 Evince 的衍生產品，且為 MATE 桌面環境的一部份。如果您想要知道關於 MATE 及 Atril 的更多消息，請參觀專案的首頁。</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image width="960" height="540">
+    https://alexpl.fedorapeople.org/AppData/atril/screens/atril_01.png
+   </image>
+    </screenshot>
+    <screenshot>
+      <image height="540" width="960">
+    https://alexpl.fedorapeople.org/AppData/atril/screens/atril_02.png
+   </image>
+    </screenshot>
+    <screenshot>
+      <image width="960" height="540">
+    https://alexpl.fedorapeople.org/AppData/atril/screens/atril_03.png
+   </image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://mate-desktop.org</url>
+  <updatecontact>mate-dev@ml.mate-desktop.org</updatecontact>
+  <project_group>MATE</project_group>
+</component>

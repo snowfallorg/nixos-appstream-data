@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>ocrfeeder</pkgname>
+  <icon type="cached" width="64" height="64">org.gnome.OCRFeeder.png</icon>
+  <icon type="cached" width="128" height="128">org.gnome.OCRFeeder.png</icon>
+  <id>org.gnome.OCRFeeder</id>
+  <launchable type="desktop-id">org.gnome.OCRFeeder.desktop</launchable>
+  <name>OCRFeeder</name>
+  <name lang="bs">OCRFeeder</name>
+  <name lang="ca">OCRFeeder</name>
+  <name lang="ca@valencia">OCRFeeder</name>
+  <name lang="cs">OCRFeeder</name>
+  <name lang="da">OCRFeeder</name>
+  <name lang="de">OCRFeeder</name>
+  <name lang="el">OCRFeeder</name>
+  <name lang="en_GB">OCRFeeder</name>
+  <name lang="es">OCRFeeder</name>
+  <name lang="eu">OCRFeeder</name>
+  <name lang="fr">OCRFeeder</name>
+  <name lang="gl">OCRFeeder</name>
+  <name lang="he">OCRFeeder</name>
+  <name lang="hu">OCRFeeder</name>
+  <name lang="id">OCRFeeder</name>
+  <name lang="it">OCRFeeder</name>
+  <name lang="nb">OCRFeeder</name>
+  <name lang="pl">OCRFeeder</name>
+  <name lang="pt">OCRFeeder</name>
+  <name lang="pt_BR">OCRFeeder</name>
+  <name lang="ro">OCRFeeder</name>
+  <name lang="ru">OCRFeeder</name>
+  <name lang="sl">OCRFeeder</name>
+  <name lang="sr">ОПЗ доводник</name>
+  <name lang="sr@latin">OCR dovodnik</name>
+  <name lang="sv">OCRFeeder</name>
+  <name lang="tr">OCRFeeder</name>
+  <name lang="uk">OCRFeeder</name>
+  <name lang="zh_CN">OCRFeeder</name>
+  <name lang="zh_HK">OCRFeeder</name>
+  <name lang="zh_TW">OCRFeeder</name>
+  <summary>The complete OCR suite</summary>
+  <summary lang="bs">Kompletan OCR paket</summary>
+  <summary lang="ca">El paquet d'OCR complet</summary>
+  <summary lang="ca@valencia">El paquet OCR complet</summary>
+  <summary lang="cs">Kompletní aplikace pro OCR</summary>
+  <summary lang="da">Den komplette OCR-pakke</summary>
+  <summary lang="de">Die gesamte OCR-Suite</summary>
+  <summary lang="el">Η πλήρης σουΐτα του OCR</summary>
+  <summary lang="en_GB">The complete OCR suite</summary>
+  <summary lang="es">La aplicación completa de OCR</summary>
+  <summary lang="eu">Eginbidez beteriko OCR suitea</summary>
+  <summary lang="fr">La suite ROC complète</summary>
+  <summary lang="gl">A suite de OCR completa</summary>
+  <summary lang="he">החבילה המושלמת לזיהי OCR</summary>
+  <summary lang="hu">A teljes OCR készlet</summary>
+  <summary lang="id">Keluarga OCR lengkap</summary>
+  <summary lang="it">La suite OCR completa</summary>
+  <summary lang="nb">Komplett OCR-suite</summary>
+  <summary lang="pl">Pełny zestaw narzędzi do OCR</summary>
+  <summary lang="pt">A aplicação completa de ROC</summary>
+  <summary lang="pt_BR">Uma suíte de OCR completa</summary>
+  <summary lang="ro">Suită OCR completă</summary>
+  <summary lang="ru">Полнофункциональное приложение для оптического распознавания символов</summary>
+  <summary lang="sl">Celosten paket za optično prepoznavanje</summary>
+  <summary lang="sr">Потпун ОПЗ комплет</summary>
+  <summary lang="sr@latin">Potpun OCR komplet</summary>
+  <summary lang="sv">Den kompletta OCR-sviten</summary>
+  <summary lang="tr">Tam OCR takımı</summary>
+  <summary lang="uk">Повноцінний набір OCR</summary>
+  <summary lang="zh_CN">完整的 OCR 解决方案</summary>
+  <summary lang="zh_HK">完整的 OCR 套裝軟件</summary>
+  <summary lang="zh_TW">完整的 OCR 套裝軟體</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <developer_name>Joaquim Rocha</developer_name>
+  <description>
+    <p>OCRFeeder is a document layout analysis and optical character recognition system.</p>
+    <p>Given the images it will automatically outline its contents, distinguish between what's graphics and text and perform OCR over the latter. It generates multiple formats being its main one ODT.</p>
+    <p>It features a complete GTK graphical user interface that allows the users to correct any unrecognized characters, defined or correct bounding boxes, set paragraph styles, clean the input images, import PDFs, save and load the project, export everything to multiple formats, etc.</p>
+  </description>
+  <description lang="ca">
+    <p>L'OCRFeeder és un sistema d'anàlisi d'estructura de documents i de reconeixement òptic de caràcters.</p>
+    <p>Donades les imatges, automàticament analitzarà llurs continguts, distingirà quines parts són gràfics i quines són text i realitzarà una anàlisi OCR sobre aquestes darreres. Pot generar múltiples formats, essent l'ODT el principal.</p>
+    <p>Proporciona una interfície d'usuari GTK completa que permet als usuaris corregir qualsevol caràcter no reconegut, definir o corregir les àrees, establir els estils dels paràgrafs, netejar les imatges d'entrada, importar PDF, desar i carregar el projecte, exportar-lo a múltiples formats, etc.</p>
+  </description>
+  <description lang="cs">
+    <p>OCRFeeder je systém pro analýzu rozvržení dokumentu a optické rozpoznávání znaků.</p>
+    <p>Zadáte mu obrázek, a on vám automaticky ohraničí jednotlivé části obsahu. Při tom rozliší, co je grafika a co text, u kterého provede rozpoznání znaků. Z výsledku umí vygenerovat různé formáty, z nichž hlavní je ODT.</p>
+    <p>Vše je k dispozici v grafickém uživatelském rozhraní, založeném na GTK. Uživatel může opravovat nerozpoznané znaky, definovat nebo opravovat ohraničení oblastí, nastavovat styl odstavců, čistit vstupní obrázky, importovat PDF, ukládat a načítat projekty, vše exportovat do několika formátů atd.</p>
+  </description>
+  <description lang="da">
+    <p>OCRFeeder bruges til analysering af dokumentlayout og optisk genkendelse af tegn.</p>
+    <p>Programmet kan skelne mellem grafik og tekst i et billede og udføre optisk tegngenkendelse på teksten. Der genereres flere formater hvoraf den primære er ODT.</p>
+    <p>Den har en komplet grafisk GTK-brugerflade, som giver brugerne mulighed for at rette tegn, som ikke er blevet genkendt, definere eller rette afgrænsningsbokse, indstille afsnitsstilen, rense inputbilleder, importere PDF'er, gemme og indlæse projektet, eksportere alt til flere formater osv.</p>
+  </description>
+  <description lang="es">
+    <p>OCRFeeder es un analizador del diseño de un documento y un sistema de reconocimiento óptico de caracteres.</p>
+    <p>Dadas las imágenes se resumirá automáticamente su contenido, distinguirá entre los gráficos y el texto y realizará OCR sobre este último. Esto genera múltiples formatos, siendo ODT el principal.</p>
+    <p>Tiene una completa interfaz gráfica de usuario en GTK que permite a los usuarios corregir los caracteres no reconocidos, definir o corregir cajas delimitadoras, establecer estilos de párrafos, limpiar las imágenes de entrada, importar PDF, guardar y cargar el proyecto, exportar todo a varios formatos, etc.</p>
+  </description>
+  <description lang="hu">
+    <p>Az OCRFeeder egy dokumentumelrendezés-elemző és optikai karakterfelismerő rendszer.</p>
+    <p>A képek alapján automatikusan meghatározza a tartalmukat, különbséget tesz a grafika és a szöveg között, és optikai karakterfelismerést hajt végre a szövegen. Többféle formátumot állít elő, amelyből a legfontosabb az ODT.</p>
+    <p>Teljes GTK grafikus felhasználói felületet biztosít, ami lehetővé teszi a felhasználók számára az összes fel nem ismert karakter javítását, a határolódobozok meghatározását vagy javítását, a bekezdésstílusok beállítását, a bemeneti kép tisztítását, PDF-fájlok importálását, a projekt mentését és betöltését, bármi exportálását több formátumba, stb.</p>
+  </description>
+  <description lang="id">
+    <p>OCRFeeder adalah analisis tata letak dokumen dan sistem pengenalan karakter optik.</p>
+    <p>Dengan diberi gambar itu akan secara otomatis menguraikan isinya, membedakan antara apa yang grafis dan teks dan melakukan OCR atas yang terakhir. Ini menghasilkan beberapa format dengan ODT yang menjadi utamanya.</p>
+    <p>Ada fitur antarmuka pengguna grafis GTK lengkap yang memungkinkan pengguna untuk memperbaiki karakter yang tidak dikenal, menentukan atau memperbaiki kotak pembatas, mengatur gaya paragraf, membersihkan citra masukan, mengimpor PDF, menyimpan dan memuat proyek, mengekspor semuanya ke berbagai format, dll.</p>
+  </description>
+  <description lang="pl">
+    <p>OCRFeeder to system analizy układu dokumentów i optycznego rozpoznawania znaków.</p>
+    <p>Po podaniu obrazów automatycznie wyznaczy ich zawartość, rozpoznając między grafiką a tekstem i wykonując optyczne rozpoznawanie znaków w przypadku tekstu. Tworzy wyniki w wielu formatach, z których głównym jest format ODT.</p>
+    <p>Zawiera pełny graficzny interfejs napisany za pomocą biblioteki GTK umożliwiający poprawianie wszelkich nierozpoznanych znaków, określonych lub właściwych granic obszarów, ustawianie stylów akapitów, czyszczenie obrazów wejściowych, importowanie plików PDF, zapisywanie i wczytywanie projektu, eksportowanie wszystkiego do wielu formatów itp.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>O OCRFeeder é um sistema de análise de layout de documentos e reconhecimento óptico de caracteres (OCR).</p>
+    <p>Dadas as imagens, ele delineia automaticamente seu conteúdo, distingue entre o que é gráfico e texto e executa o OCR sobre o último. Ele gera vários formatos, sendo seu principal ODT.</p>
+    <p>Possui uma interface gráfica de usuário GTK completa que permite aos usuários corrigir caracteres não reconhecidos, caixas delimitadoras definidas ou corretas, definir estilos de parágrafos, limpar as imagens de entrada, importar PDFs, salvar e carregar o projeto, exportar tudo para vários formatos, etc.</p>
+  </description>
+  <description lang="ro">
+    <p>OCRFeeder este un sistem de analiză a aranjamentului unui document și de recunoaștere de caracter optică.</p>
+    <p>Date imaginile acesta va sublinia automat conținutul acestora, va distinge între ce este grafice și ce este text și va performa OCR peste cele din urmă. Acesta generează formate multiple, fiind cel principal ODT.</p>
+    <p>Prezintă o interfață grafică cu utilizatorul GTK completă care permite utilizatorilor să corecteze orice caractere nerecunoscute, să definească sau să corecteze cutiile de legătură, să stabilească stilurile paragrafului, să curețe imaginile de intrare, să salveze și să încarce proiectul, să exporte tot în formate multiple, etc.</p>
+  </description>
+  <description lang="ru">
+    <p>OCRFeeder — система анализа макета документа и оптического распознавания символов.</p>
+    <p>В предоставленном изображении приложение автоматически выделит контуры его содержимое, различит графику и текст и выполнит распознавание текста. Полученный результат можно сохранить в нескольких форматах, но основным является ODT.</p>
+    <p>Приложение имеет законченный графический пользовательский интерфейс GTK, который позволяет исправлять любые нераспознанные символы, определять или исправлять ограничивающие рамки, устанавливать стили абзацев, очищать входные изображения, импортировать PDF-файлы, сохранять и загружать проект, экспортировать всё в несколько форматов и т. д.</p>
+  </description>
+  <description lang="sr">
+    <p>ОПЗ доводник је анализа распореда документа и систем оптичког препознавања знака</p>
+    <p>За дату слику сам ће исцртати њен садржај, разликујући шта је графика а шта текст и обавиће ОПЗ над словима. Ствара више формата а главни јје ОДТ.</p>
+    <p>Одликује га потпуно Гтк графичко корисничко сучеље које омогућава корисницима да исправе све непрепознате знаке, дефинисане или да исправе оквирна поља, поставе стилове пасуса, очисте улазне слике, увезу ПДФ-ове, сачувају и учитају пројекат, извезу све у више формата, итд.</p>
+  </description>
+  <description lang="sv">
+    <p>OCRFeeder är ett system för dokumentlayoutanalys och optisk teckenigenkänning.</p>
+    <p>Programmet kommer automatiskt att beskriva bildens innehåll, skilja mellan vad som är grafik och text, och utföra OCR på texten. Det genererar flera olika format men dess huvudformat är ODT.</p>
+    <p>Det har ett fullständigt grafiskt GTK-användargränssnitt som låter användarna korrigera ej igenkända tecken, definiera eller korrigera begränsningsrutor, ställa in styckestilar, rensa indatabilderna, importera PDF-filer, spara och läsa in projekt, exportera allt till olika format o.s.v.</p>
+  </description>
+  <description lang="uk">
+    <p>OCRFeeder — система аналізу компонування документів та оптичного розпізнавання символів.</p>
+    <p>За наданими вами зображеннями програма автоматично визначити контури вмісту, вибере області графіки і тексту і виконає оптичне розпізнавання текстових областей. Розпізнані дані може бути записано на диск у одному декількох форматів; основним форматом є ODT.</p>
+    <p>У програмі передбачено повністю графічний інтерфейс на основі GTK, за допомогою якого користувач може виправити нерозпізнані програмою символи, визначити або виправити обмежувальні рамки ділянок, встановити стиль абзаців тексту, очистити вхідні зображення, імпортувати PDF, зберегти і завантажити проєкт, експортувати дані у одному з декількох форматів, тощо.</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Content Areas</caption>
+      <caption lang="bs">Polje sadržaja</caption>
+      <caption lang="ca">Àrees de contingut</caption>
+      <caption lang="cs">Oblasti s obsahem</caption>
+      <caption lang="da">Indholdsområder</caption>
+      <caption lang="de">Inhaltsbereiche</caption>
+      <caption lang="el">Περιοχές περιεχομένου</caption>
+      <caption lang="es">Áreas de contenido</caption>
+      <caption lang="eu">Eduki-areak</caption>
+      <caption lang="fr">Zone de contenu</caption>
+      <caption lang="gl">Áreas de contido</caption>
+      <caption lang="he">קטעי תוכן</caption>
+      <caption lang="hu">Tartalmi területek</caption>
+      <caption lang="id">Area Konten</caption>
+      <caption lang="it">Aree di contenuti</caption>
+      <caption lang="nb">Innholdsområder</caption>
+      <caption lang="pl">Obszary treści</caption>
+      <caption lang="pt">Áreas de conteúdo</caption>
+      <caption lang="pt_BR">Áreas de conteúdo</caption>
+      <caption lang="ro">Zone de conținut</caption>
+      <caption lang="ru">Области содержимого</caption>
+      <caption lang="sl">Vsebinska območja</caption>
+      <caption lang="sr">Области садржаја</caption>
+      <caption lang="sr@latin">Oblasti sadržaja</caption>
+      <caption lang="sv">Innehållsområden</caption>
+      <caption lang="tr">İçerik Alanları</caption>
+      <caption lang="uk">Ділянка вмісту</caption>
+      <caption lang="zh_CN">内容区</caption>
+      <image>https://wiki.gnome.org/Apps/OCRFeeder?action=AttachFile&amp;do=get&amp;target=ocrfeeder.jpeg</image>
+    </screenshot>
+    <screenshot>
+      <caption>Unpaper Image Processor</caption>
+      <caption lang="bs">Anti-papirni obrađivač slike</caption>
+      <caption lang="ca">Processador d'imatges Unpaper</caption>
+      <caption lang="ca@valencia">Processador d'imatges Unpaper</caption>
+      <caption lang="cs">Obrazový procesor Unpaper</caption>
+      <caption lang="da">Unpaper - billedbehandling</caption>
+      <caption lang="de">Unpaper Bild-Prozessor</caption>
+      <caption lang="el">Επεξεργαστής εικόνας Unpaper</caption>
+      <caption lang="en_GB">Unpaper Image Processor</caption>
+      <caption lang="es">Procesador de imágenes unpaper</caption>
+      <caption lang="eu">Unpaper irudi-prozesatzailea</caption>
+      <caption lang="fr">Processeur d'images Unpaper</caption>
+      <caption lang="gl">Procesador de imaxes Unpaper</caption>
+      <caption lang="he">מעבד תמונות unpaper</caption>
+      <caption lang="hu">Unpaper képfeldolgozó</caption>
+      <caption lang="it">Elaborazione acquisizione immagine</caption>
+      <caption lang="pl">Procesor obrazu Unpaper</caption>
+      <caption lang="pt">Processador de imagens Unpaper</caption>
+      <caption lang="pt_BR">Processador de imagens Unpaper</caption>
+      <caption lang="ro">Procesorul de imagini Unpaper</caption>
+      <caption lang="ru">Обработчик изображений Unpaper</caption>
+      <caption lang="sl">Razstranjanje slike</caption>
+      <caption lang="sr">Обрађивач слика Распапирко</caption>
+      <caption lang="sr@latin">Obrađivač slika Raspapirko</caption>
+      <caption lang="sv">Bildbehandlaren Unpaper</caption>
+      <caption lang="tr">Unpaper Görüntü İşleyici</caption>
+      <caption lang="uk">Оброблення зображень обчищенням</caption>
+      <caption lang="zh_CN">Unpaper 图像修整进程</caption>
+      <caption lang="zh_HK">Unpaper 圖片處理器</caption>
+      <caption lang="zh_TW">Unpaper 圖片處理器</caption>
+      <image>https://wiki.gnome.org/Apps/OCRFeeder?action=AttachFile&amp;do=get&amp;target=ocrfeeder_unpaper.jpeg</image>
+    </screenshot>
+    <screenshot>
+      <caption>Check spelling</caption>
+      <caption lang="bs">Provjeri ispravno pisanje</caption>
+      <caption lang="ca">Comprova l'ortografia</caption>
+      <caption lang="cs">Kontrola pravopisu</caption>
+      <caption lang="da">Kontroller stavning</caption>
+      <caption lang="de">Rechtschreibprüfung</caption>
+      <caption lang="el">Έλεγχος ορθογραφίας</caption>
+      <caption lang="eo">Kontroli literumadon</caption>
+      <caption lang="es">Comprobar ortografía</caption>
+      <caption lang="eu">Ortografia-egiaztapena</caption>
+      <caption lang="fr">Vérifier l'orthographe</caption>
+      <caption lang="gl">Verificación ortográfica</caption>
+      <caption lang="he">בודק איות</caption>
+      <caption lang="hu">Helyesírás-ellenőrzés</caption>
+      <caption lang="id">Periksa ejaan</caption>
+      <caption lang="it">Controllo ortografico</caption>
+      <caption lang="nb">Sjekk staving</caption>
+      <caption lang="pl">Sprawdzanie pisowni</caption>
+      <caption lang="pt">Verificar ortografia</caption>
+      <caption lang="pt_BR">Verificação ortográfica</caption>
+      <caption lang="ro">Verifică ortografia</caption>
+      <caption lang="ru">Проверить правописание</caption>
+      <caption lang="sl">Preveri črkovanje</caption>
+      <caption lang="sr">Провери писање</caption>
+      <caption lang="sr@latin">Proveri pisanje</caption>
+      <caption lang="sv">Kontrollera stavning</caption>
+      <caption lang="tr">Yazım denetimi</caption>
+      <caption lang="uk">Перевіряння орфографії</caption>
+      <caption lang="zh_CN">拼写检查</caption>
+      <image>https://wiki.gnome.org/Apps/OCRFeeder?action=AttachFile&amp;do=get&amp;target=ocrfeeder_spellchecker.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/ocrfeeder/issues</url>
+  <url type="homepage">https://wiki.gnome.org/Apps/OCRFeeder</url>
+  <update_contact>me@joaquimrocha.com</update_contact>
+  <translation type="gettext">ocrfeeder</translation>
+  <provides>
+    <binary>ocrfeeder</binary>
+  </provides>
+  <content_rating type="oars-1.0" />
+  <releases>
+    <release version="0.8.3" date="2020-03-08">
+      <description>
+        <p>Bug Fixes:</p>
+        <p lang="ca">Correcció d'errors:</p>
+        <p lang="cs">Opravy chyb:</p>
+        <p lang="da">Fejlrettelser:</p>
+        <p lang="es">Correcciones de errores:</p>
+        <p lang="hu">Hibajavítások:</p>
+        <p lang="id">Perbaikan Bug:</p>
+        <p lang="pt_BR">Correções de erros:</p>
+        <p lang="ro">Corectarea defecțiunilor:</p>
+        <p lang="ru">Исправления ошибок:</p>
+        <p lang="sr">Исправке грешака:</p>
+        <p lang="sv">Felfixar:</p>
+        <p lang="tr">Hata Düzeltmeler:</p>
+        <p lang="uk">Виправлення помилок:</p>
+        <ul>
+          <li>Fix PDF importation, which was broken after the Python 3 port (thanks to @scx)</li>
+          <li lang="ca">Corregida la importació de PDF, que era defectuosa d'ençà de l'adaptació a Python 3 (gràcies a @scx)</li>
+          <li lang="cs">Opraven import PDF, který byl rozbitý po portování na Python 3 (dík pro @scx)</li>
+          <li lang="da">Rettet import af PDF som ikke virkede efter porteringen til Python 3 (tak til @scx)</li>
+          <li lang="es">Importación de PDF corregida, que estaba rota después de la migración a Python 3 (gracias a @scx)</li>
+          <li lang="hu">A PDF-fájlok importálásának javítása, ami hibás lett a Python 3-ra átírás után (a javításért köszönet @scx-nek)</li>
+          <li lang="id">Memperbaiki impor PDF, yang rusak setelah port Python 3 (terima kasih kepada @scx)</li>
+          <li lang="pt_BR">Correção da importação de PDF, que estava quebrada após o porte para Python 3 (obrigado, @scx)</li>
+          <li lang="ro">Corectează importarea de PDF, care a fost întreruptă după portul Python 3 (mulțumiri lui @scx)</li>
+          <li lang="ru">Исправление импорта PDF, который был нарушен после переноса на Python 3 (спасибо @scx)</li>
+          <li lang="sr">Исправља ПДФ увоз, који је оштећен након порта Питона 3 (захваљујући „@scx“)</li>
+          <li lang="sv">Fixa PDF-import, vilken var trasig efter Python 3-porteringen (tack till @scx)</li>
+          <li lang="uk">Виправлення імпортування PDF, яке було ушкоджено під час портування на Python 3 (дякуємо @scx)</li>
+          <li>Allow to import PDF files whose paths have characters Ghostscript doesn't like</li>
+          <li lang="ca">Permesa la importació de documents PDF que tinguin camins amb caràcters que no agraden al Ghostscript</li>
+          <li lang="cs">Umožněn import souborů PDF, jejichž cesty mají znaky, které nemá rád Ghostscript</li>
+          <li lang="da">Import af PDF-filer, hvor stierne har tegn, som Ghostscript ikke kan lide, er nu mulig</li>
+          <li lang="es">Permitir importar archivos PDF cuyas rutas tengan caracteres que Ghostscript no admita</li>
+          <li lang="hu">Az olyan PDF-fájlok importálásának lehetővé tétele, amelyek elérési útjában a Ghostscript által nem szeretett karakterek vannak</li>
+          <li lang="id">Mengizinkan mengimpor berkas PDF yang pathnya memiliki karakter yang tidak disukai oleh Ghostscript</li>
+          <li lang="pt_BR">Permitida a importação de arquivos PDF cujos caminhos possuem caracateres que o Ghostscript não gosta</li>
+          <li lang="ro">Permite să se importe fișiere PDF ale căror căi au caractere de care nu-i place Ghostscript</li>
+          <li lang="ru">Возможно импортирование PDF-файлов, в путях которых есть символы, которые не может обработать Ghostscript</li>
+          <li lang="sr">Дозвољава увоз ПДФ датотека чије путање имају знаке које Гост скрипта не воли</li>
+          <li lang="sv">Tillåt import av PDF-filer vars sökvägar innehåller tecken som Ghostscript inte tycker om</li>
+          <li lang="uk">Уможливлено імпортування файлів PDF, шляхи до яких містять символи, які не здатен обробити Ghostscript</li>
+          <li>Ship the appdata.xml.in the tarball</li>
+          <li lang="ca">Inclòs el fitxer appdata.xml al tar</li>
+          <li lang="cs">S balíčkem je teď šířen soubor appdata.xml</li>
+          <li lang="da">Send til tarballen appdata.xml.in</li>
+          <li lang="es">Distribuido el archivo appdata.xml en el árbol</li>
+          <li lang="hu">Az appdata.xml.in fájl elhelyezése a tar-fájlban</li>
+          <li lang="pt_BR">Disponibiliza o appdata.xml.in the tarball</li>
+          <li lang="ro">Expediază appdata.xml în tarball</li>
+          <li lang="ru">Добавлен appdata.xml.in в тарбол</li>
+          <li lang="sr">Доставља „appdata.xml.in“ у запакованом стању</li>
+          <li lang="sv">Skicka med appdata.xml.in i tarbollen</li>
+          <li lang="uk">До архіву з кодом програми додано appdata.xml.in</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.8.2" date="2020-01-26">
+      <description>
+        <p>Improvements:</p>
+        <p lang="ca">Millores:</p>
+        <p lang="cs">Vylepšení</p>
+        <p lang="da">Forbedringer:</p>
+        <p lang="es">Mejoras:</p>
+        <p lang="hu">Továbbfejlesztések:</p>
+        <p lang="id">Perbaikan:</p>
+        <p lang="pt_BR">Melhorias:</p>
+        <p lang="ro">Îmbunătățiri:</p>
+        <p lang="ru">Улучшения:</p>
+        <p lang="sr">Побољњања:</p>
+        <p lang="sv">Förbättringar:</p>
+        <p lang="tr">İyileştirmeler:</p>
+        <p lang="uk">Удосконалення:</p>
+        <ul>
+          <li>Python 3 is now used, making the unicode issues go away for good</li>
+          <li lang="ca">Ara s'utilitza Python 3, solucionant així per sempre els problemes amb unicode</li>
+          <li lang="cs">Nyní je používán Python 3, díky čemuž odpadly problémy s unikódem</li>
+          <li lang="da">Nu bruges Python 3 hvorved problemerne med unicode forsvinder</li>
+          <li lang="es">Ahora se usa Python 3, lo que resuelve los problemas de Unicode</li>
+          <li lang="hu">Mostantól a Python 3 van használatban, hogy a Unicode kezeléssel kapcsolatos hibák végleg megszűnjenek</li>
+          <li lang="id">Python 3 sekarang digunakan, membuat masalah unicode hilang untuk selamanya</li>
+          <li lang="pt_BR">Agora, o Python 3 é usado, fazendo com que os problemas de unicode sejam resolvidos definitivamente</li>
+          <li lang="ro">Python 3 este acum utilizat, făcând problemele unicode să dispară pentru totdeauna</li>
+          <li lang="ru">Теперь используется Python 3, благодаря чему проблемы с юникодом исчезли навсегда</li>
+          <li lang="sr">Сада се користи Питон 3, чинећи да јуникод проблеми нестану заувек</li>
+          <li lang="sv">Python 3 används nu, vilket får Unicode-problemen att försvinna för gott</li>
+          <li lang="uk">У новій версії використано Python 3, що надало змогу назавжди позбутися проблем із Юнікодом</li>
+          <li>The main window is now bigger</li>
+          <li lang="ca">Ara la finestra principal és més gran</li>
+          <li lang="cs">Hlavní okno je nyní větší</li>
+          <li lang="da">Hovedvinduet er nu større</li>
+          <li lang="es">La ventana principal es más grande</li>
+          <li lang="hu">A főablak mostantól nagyobb</li>
+          <li lang="id">Jendela utama sekarang lebih besar</li>
+          <li lang="pt_BR">A janela principal agora é maior</li>
+          <li lang="ro">Fereastra principală este acum mai mare</li>
+          <li lang="ru">Главное окно стало больше</li>
+          <li lang="sr">Главни прозор је сада већи</li>
+          <li lang="sv">Huvudfönstret är nu större</li>
+          <li lang="tr">Ana pencere artık daha büyük</li>
+          <li lang="uk">У новій версії головне вікно програми стало більшим</li>
+          <li>The image clip is now expandible</li>
+          <li lang="ca">Ara el fragment d'imatge és expandible</li>
+          <li lang="cs">Ořezávání obrázku je nyní rozbalovatelné</li>
+          <li lang="da">Klipning af billede kan nu udvides</li>
+          <li lang="es">El recorte de la imagen se puede ampliar</li>
+          <li lang="hu">A képlevágás mostantól bővíthető</li>
+          <li lang="id">Klip gambar sekarang dapat diperluas</li>
+          <li lang="pt_BR">O clipe da imagem agora é expansível</li>
+          <li lang="ro">Clipul de imagine este acum expandabil</li>
+          <li lang="ru">Область обрезки изображения в новой версии можно расширять</li>
+          <li lang="sr">Одсечак слике је сада проширив</li>
+          <li lang="sv">Bildklippet är nu expanderbart</li>
+          <li lang="uk">Область обрізання зображення у новій версії можна розширювати</li>
+          <li>The manpages have been updated with the missing options</li>
+          <li lang="ca">S'han actualitzat les pàgines de manual amb les opcions que hi mancaven</li>
+          <li lang="cs">Do manuálových stránek byly doplněny chybějící volby</li>
+          <li lang="da">Manpages er blevet opdateret med de manglende tilvalg</li>
+          <li lang="es">Las páginas del manual se han actualizado con las opciones que faltaban</li>
+          <li lang="hu">A man oldalak frissítve lettek a hiányzó kapcsolókkal</li>
+          <li lang="id">Manpages telah diperbarui dengan pilihan yang hilang</li>
+          <li lang="pt_BR">As páginas man foram atualizadas com as opções ausentes</li>
+          <li lang="ro">Paginile man au fost actualizate cu opțiunile care lipsesc</li>
+          <li lang="ru">Страницы руководства были обновлены с добавлением недостающих параметров</li>
+          <li lang="sr">Странице упутства су ажуриране са опцијама које недостају</li>
+          <li lang="sv">Manualsidorna har uppdaterats med de saknade flaggorna</li>
+          <li lang="uk">Оновлено сторінки підручника (man), надано опис пропущених параметрів</li>
+        </ul>
+        <p>Bug Fixes:</p>
+        <p lang="ca">Correcció d'errors:</p>
+        <p lang="cs">Opravy chyb:</p>
+        <p lang="da">Fejlrettelser:</p>
+        <p lang="es">Correcciones de errores:</p>
+        <p lang="hu">Hibajavítások:</p>
+        <p lang="id">Perbaikan Bug:</p>
+        <p lang="pt_BR">Correções de erros:</p>
+        <p lang="ro">Corectarea defecțiunilor:</p>
+        <p lang="ru">Исправления ошибок:</p>
+        <p lang="sr">Исправке грешака:</p>
+        <p lang="sv">Felfixar:</p>
+        <p lang="tr">Hata Düzeltmeler:</p>
+        <p lang="uk">Виправлення помилок:</p>
+        <ul>
+          <li>Fix icons in the boxes' editor text align buttons</li>
+          <li lang="ca">S'han corregit les icones a les caixes dels botons d'alinear text a l'editor</li>
+          <li lang="cs">Opraveny ikony v tlačítkách pro zarovnání v editoru oblastí</li>
+          <li lang="da">Rettet ikoner i tekstjusteringsknapperne i boksenes editor</li>
+          <li lang="es">Corregidos los iconos en los botones de alineación de texto del editor de cajas</li>
+          <li lang="hu">A dobozok szerkesztőjének szövegigazító gombjain lévő ikonok javítása</li>
+          <li lang="id">Memperbaiki ikon di tombol perataan teks penyunting milik kotak</li>
+          <li lang="pt_BR">Corrige ícones nos botões de alinhamento do texto do editor das caixas</li>
+          <li lang="ro">Corectează iconițele în butoanele de aliniere a textului în editorul cutiilor</li>
+          <li lang="ru">Исправлены значки на кнопках выравнивания текста редактора блоков</li>
+          <li lang="sr">Поправља иконице у дугмадима поравнања текста уређивача кућица</li>
+          <li lang="sv">Fixa ikoner i områdesredigerarens textjusteringsknappar</li>
+          <li lang="uk">Виправлено піктограми на кнопках вирівнювання тексту у редакторі ділянок</li>
+          <li>Install the application icon in the right place</li>
+          <li lang="ca">S'instal·la la icona de l'aplicació al lloc correcte</li>
+          <li lang="cs">Instalace ikony aplikace na správné místo</li>
+          <li lang="da">Installer programikonet det rette sted</li>
+          <li lang="es">Instalar el icono de la aplicación en la ubicación correcta</li>
+          <li lang="hu">Az alkalmazásikon telepítése a megfelelő helyre</li>
+          <li lang="id">Memasang ikon aplikasi di tempat yang tepat</li>
+          <li lang="pt_BR">Instala o ícone do aplicativo no lugar certo</li>
+          <li lang="ro">Instalează iconița aplicației în locul potrivit</li>
+          <li lang="ru">Реализована установка значка устройства в надлежащее место</li>
+          <li lang="sr">Инсталира иконицу програма на одговарајуће место</li>
+          <li lang="sv">Installera programikonen på rätt plats</li>
+          <li lang="uk">Реалізовано встановлення піктограми пристрою до належного місця</li>
+          <li>Many issues in the scanner dialog have been fixed (scanner options, UI problems, etc.)</li>
+          <li lang="ca">S'han corregit molts problemes al diàleg de l'escàner (opcions de l'escàner, problemes d'IU, etc.)</li>
+          <li lang="cs">Opravena řada problémů v dialogovém okně skeneru (volby skeneru, problémy uživatelského rozhraní atd.)</li>
+          <li lang="da">Mange problemer med skannerdialogen er blevet rette (skannerindstillinger, problemer med brugerfladen osv.)</li>
+          <li lang="es">Se han corregido varios errores en el diálogo de escáneres (opciones del escáner, problemas de la IU, , etc.)</li>
+          <li lang="hu">Számos hiba javítva lett a szkennelés párbeszédablakban (szkennerbeállítások, felhasználói felülettel kapcsolatos problémák, stb.)</li>
+          <li lang="id">Banyak masalah dalam dialog pemindai telah diperbaiki (opsi pemindai, masalah UI, dll.)</li>
+          <li lang="pt_BR">Muitos problemas na caixa de diálogo do scanner foram corrigidos (opções do scanner, problemas de interface do usuário etc.)</li>
+          <li lang="ro">Au fost corectate multe probleme în dialogul scanerului (opțiuni scaner, probleme UI, etc.)</li>
+          <li lang="ru">Исправлены многие проблемы в диалоговом окне сканера (параметры сканера, проблемы с пользовательским интерфейсом и т.д.)</li>
+          <li lang="sr">Многи проблеми у прозорчету скенера су исправљени (опције скенера, КС проблеми, итд.)</li>
+          <li lang="sv">Många problem i inläsningsdialogen har fixats (inläsningsalternativ, användargränssnittsproblem o.s.v.)</li>
+          <li lang="uk">Виправлено багато вад у вікні роботи зі сканером (параметри сканування, проблеми із інтерфейсом тощо)</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2014-12-22" version="0.8.1">
+      <description>
+        <p>Improvements:</p>
+        <p lang="ca">Millores:</p>
+        <p lang="cs">Vylepšení</p>
+        <p lang="da">Forbedringer:</p>
+        <p lang="es">Mejoras:</p>
+        <p lang="hu">Továbbfejlesztések:</p>
+        <p lang="id">Perbaikan:</p>
+        <p lang="pt_BR">Melhorias:</p>
+        <p lang="ro">Îmbunătățiri:</p>
+        <p lang="ru">Улучшения:</p>
+        <p lang="sr">Побољњања:</p>
+        <p lang="sv">Förbättringar:</p>
+        <p lang="tr">İyileştirmeler:</p>
+        <p lang="uk">Удосконалення:</p>
+        <ul>
+          <li>The Preferences dialog is now smaller (the big contents are wrapped in a scrolled window)</li>
+          <li lang="ca">Ara el diàleg de preferències és més petit (els continguts s'han encabit dins d'una finestra amb desplaçament)</li>
+          <li lang="cs">Dialogové okno předvoleb je nyní menší (větší množství obsahu je řešeno posuvníky)</li>
+          <li lang="da">Indstillingsdialogen er nu mindre (indholdet ombrydes i et vindue med rullebjælker)</li>
+          <li lang="es">El diálogo de preferencias es más pequeño (los contenidos grandes se ajustan en una ventana desplazada)</li>
+          <li lang="hu">A beállítások ablak mostantól kisebb (a nagy tartalmak tördelve lesznek egy görgethető ablakban)</li>
+          <li lang="id">Dialog Preferensi sekarang lebih kecil (konten besar dibungkus dalam jendela yang digulir)</li>
+          <li lang="pt_BR">A caixa de diálogo Preferências agora é menor (o grande conteúdo é quebrado em uma janela rolada)</li>
+          <li lang="ro">Dialogul de preferințe este acum mai mic (conținutul mare este împachetat într-o fereastră derulată)</li>
+          <li lang="ru">Уменьшено окно настроек (содержимое свернуто в панели с возможностью пролистывания)</li>
+          <li lang="sr">Прозорче поставки је сада мање (велики садржаји су преломљени у прозору премицања)</li>
+          <li lang="sv">Inställningsdialogen är nu mindre (de stora innehållen radbryts i ett rullat fönster)</li>
+          <li lang="uk">Зменшено вікно налаштувань (вміст згорнуто до панелі із можливістю гортання)</li>
+          <li>All dialogs are now centered to the main window</li>
+          <li lang="ca">Ara tots els diàlegs estan centrats a la finestra principal</li>
+          <li lang="cs">Všechna dialogová okna jsou teď vystředěna vůči hlavnímu oknu</li>
+          <li lang="da">Alle dialoger er nu centreret i forhold til hovedvinduet.</li>
+          <li lang="es">Todos los diálogos se centran en la ventana principal</li>
+          <li lang="hu">Az összes párbeszédablak mostantól a főablak közepéhez van igazítva</li>
+          <li lang="id">Semua dialog sekarang berpusat pada jendela utama</li>
+          <li lang="pt_BR">Todas as caixas de diálogo estão agora centralizadas na janela principal</li>
+          <li lang="ro">Toate dialogurile sunt acum centrate pe fereastra principală</li>
+          <li lang="ru">Все диалоги теперь сосредоточены в главном окне</li>
+          <li lang="sr">Сви прозорчићи су сада усредиштени на главни прозор</li>
+          <li lang="sv">Alla dialogrutor centreras nu till huvudfönstret</li>
+          <li lang="uk">У головному вікні програми вміст усіх панелей тепер вирівняно за центром</li>
+          <li>Use XDG user's configuration directory instead of .ocrfeeder</li>
+          <li lang="ca">S'utilitza el directori de configuració de l'usuari XDG enlloc de .ocrfeeder</li>
+          <li lang="cs">Namísto .ocrfeeder se používá uživatelská složka nastavení podle standardu XDG</li>
+          <li lang="da">Brug XDG-brugerens konfigurationsmappe i stedet for .ocrfeeder</li>
+          <li lang="es">Usar la configuración de carpetas XDG del usuario en lugar de .ocrfeeder</li>
+          <li lang="hu">Az XDG felhasználó beállítási könyvtárának használata az .ocrfeeder helyett</li>
+          <li lang="id">Menggunakan direktori konfigurasi pengguna XDG alih-alih .ocrfeeder</li>
+          <li lang="pt_BR">Uso do diretório de configuração do usuário XDG em vez de .ocrfeeder</li>
+          <li lang="ro">Directorul de configurație al utilizatorului XDG în loc de .ocrfeeder</li>
+          <li lang="ru">Реализовано использование каталога настроек пользователя XDG вместо .ocrfeeder</li>
+          <li lang="sr">Користи директоријум ХДГ корисничкох подешавања уместо „.ocrfeeder“</li>
+          <li lang="sv">Använd användarens XDG-konfigurationskatalog istället för .ocrfeeder</li>
+          <li lang="uk">Реалізовано використання каталогу налаштувань користувача XDG замість .ocrfeeder</li>
+        </ul>
+        <p>Bug Fixes:</p>
+        <p lang="ca">Correcció d'errors:</p>
+        <p lang="cs">Opravy chyb:</p>
+        <p lang="da">Fejlrettelser:</p>
+        <p lang="es">Correcciones de errores:</p>
+        <p lang="hu">Hibajavítások:</p>
+        <p lang="id">Perbaikan Bug:</p>
+        <p lang="pt_BR">Correções de erros:</p>
+        <p lang="ro">Corectarea defecțiunilor:</p>
+        <p lang="ru">Исправления ошибок:</p>
+        <p lang="sr">Исправке грешака:</p>
+        <p lang="sv">Felfixar:</p>
+        <p lang="tr">Hata Düzeltmeler:</p>
+        <p lang="uk">Виправлення помилок:</p>
+        <ul>
+          <li>Fix Gtk thread related problems</li>
+          <li lang="ca">S'han corregit problemes de fils d'execució relacionats amb el GTK</li>
+          <li lang="cs">Opraven problém týkající se vlákna GTK</li>
+          <li lang="da">Rettet problemer i forbindelse med Gtk-tråd</li>
+          <li lang="es">Problemas relacionados con hilos de GTK corregidos</li>
+          <li lang="hu">A Gtk szálkezeléssel kapcsolatos problémáinak javítása</li>
+          <li lang="id">Memperbaiki masalah terkait utas Gtk</li>
+          <li lang="pt_BR">Correção de problemas relacionados a threads do GTK</li>
+          <li lang="ro">Corectează problemele legate de thread-ul Gtk</li>
+          <li lang="ru">Исправлены проблемы, связанные с потоками обработки данных Gtk</li>
+          <li lang="sr">Исправља проблеме у вези са Гтк нити</li>
+          <li lang="sv">Fixa Gtk-trådrelaterade problem</li>
+          <li lang="uk">Виправлено проблему, яку було пов'язано із потоками обробки даних у Gtk</li>
+          <li>Fix unicode issues when saving a project and exporting a document</li>
+          <li lang="ca">S'han corregit problemes d'unicode en desar un projecte i exportar un document</li>
+          <li lang="cs">Opraven problém s unikódem při ukládání projektu a exportu dokumentu</li>
+          <li lang="da">Rettet problemer med unicode når et projekt gemmes og et dokument eksporteres</li>
+          <li lang="es">Errores de unicode al guardar un proyecto y exportar un documento corregidos</li>
+          <li lang="hu">Egy projekt mentésekor vagy egy dokumentum exportálásakor fellépő Unicode problémák javítása</li>
+          <li lang="id">Memperbaiki masalah unicode saat menyimpan proyek dan mengekspor dokumen</li>
+          <li lang="pt_BR">Correção de problemas de Unicode ao salvar um projeto e exportar um documento</li>
+          <li lang="ro">Corectează problemele unicode când se salvează un proiect și când se exportă un document</li>
+          <li lang="ru">Исправлены проблемы с юникодом при сохранении проекта и экспорте документа</li>
+          <li lang="sr">Исправља проблеме јуникода приликом чувања пројекта и извоза документа</li>
+          <li lang="sv">Fixa Unicode-problem vid sparande av projekt och export av dokument</li>
+          <li lang="uk">Виправлено проблеми із Юнікодом при зберігання проєкту або експортуванні документа</li>
+          <li>Fix issue when exporting a picture in a document from a loaded project</li>
+          <li lang="ca">S'ha corregit un problema en exportar una imatge d'un projecte carregat a un document</li>
+          <li lang="cs">Opraven problém při exportu obrázku v dokumentu z načteného projektu</li>
+          <li lang="da">Rettet problem ved eksport af et billede i et dokument fra et indlæst projekt</li>
+          <li lang="es">Error al exportar una imagen en un documento desde un proyecto cargado corregido</li>
+          <li lang="hu">Egy betöltött projektből származó dokumentumban lévő kép exportálásakor fellépő hiba javítása</li>
+          <li lang="id">Memperbaiki masalah saat mengekspor gambar dalam dokumen dari proyek yang dimuat</li>
+          <li lang="pt_BR">Correção de problema ao exportar uma imagem em um documento de um projeto carregado</li>
+          <li lang="ro">Corectează problema când se exportă o pictură într-un document de la un proiect încărcat</li>
+          <li lang="ru">Исправлена проблема при экспорте изображения в документе из загруженного проекта</li>
+          <li lang="sr">Исправља проблем приликом извоза слике у документ из учитаног пројекта</li>
+          <li lang="sv">Fixa problem vid export av en bild i ett dokument från ett inläst projekt</li>
+          <li lang="uk">Виправлено проблему при експортування зображення у документі із завантаженого проєкту</li>
+          <li>Fix ODT exportation button's icon</li>
+          <li lang="ca">S'ha corregit la icona del botó d'exportació a ODT</li>
+          <li lang="cs">Opravena ikona na tlačítku pro export do ODT</li>
+          <li lang="da">Rettet ikonet på knappen til ODT-eksport</li>
+          <li lang="es">Icono del botón de exportación a ODT corregido</li>
+          <li lang="hu">Az ODT-exportálás gomb ikonjának javítása</li>
+          <li lang="id">Memperbaiki ikon tombol ekspor ODT</li>
+          <li lang="pt_BR">Correção do ícone do botão de exportação ODT</li>
+          <li lang="ro">Corectează iconița de buton de exportare ODT</li>
+          <li lang="ru">Исправлен значок кнопки экспорта в ODT</li>
+          <li lang="sr">Исправља иконицу дугмета ОДТ извоза</li>
+          <li lang="sv">Fixa ikon för ODT-exportknapp</li>
+          <li lang="uk">Виправлено піктограму на кнопці експортування ODT</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.8.0" date="2014-08-04">
+      <description>
+        <p>New Features:</p>
+        <p lang="ca">Funcionalitats noves:</p>
+        <p lang="cs">Nové funkce:</p>
+        <p lang="da">Nye funktioner:</p>
+        <p lang="es">Funcionalidades nuevas:</p>
+        <p lang="hu">Új funkciók:</p>
+        <p lang="id">Fitur-fitur Baru:</p>
+        <p lang="pt_BR">Novos recursos:</p>
+        <p lang="ro">Funcționalități noi:</p>
+        <p lang="ru">Новые функции:</p>
+        <p lang="sr">Нове функције:</p>
+        <p lang="sv">Nya funktioner:</p>
+        <p lang="tr">Yeni Özellikler:</p>
+        <p lang="uk">Нові можливості:</p>
+        <ul>
+          <li>Add support for multiple image TIFFs</li>
+          <li lang="ca">Afegit suport per a fitxers TIFF de múltiples imatges</li>
+          <li lang="cs">Přidána podpora pro vícestránkový TIFF</li>
+          <li lang="da">Tilføjet understøttelse af TIFF'er med flere billeder</li>
+          <li lang="es">Añadido soporte para varias imágenes TIFF</li>
+          <li lang="hu">Támogatás hozzáadása több kép TIFF-hez</li>
+          <li lang="id">Menambahkan dukungan untuk TIFF berisi beberapa gambar</li>
+          <li lang="pt_BR">Adição de suporte para TIFFs de várias imagens</li>
+          <li lang="ro">Adaugă suport pentru TIFF-uri de imagine multiple</li>
+          <li lang="ru">Добавлена поддержка многостаничных изображений TIFF</li>
+          <li lang="sr">Додаје подршку за више ТИФФ-ова слике</li>
+          <li lang="sv">Lägg till stöd för TIFF-filer med flera bilder</li>
+          <li lang="uk">Додано підтримку TIFF, у яких міститься багато зображень</li>
+        </ul>
+        <p>Improvements:</p>
+        <p lang="ca">Millores:</p>
+        <p lang="cs">Vylepšení</p>
+        <p lang="da">Forbedringer:</p>
+        <p lang="es">Mejoras:</p>
+        <p lang="hu">Továbbfejlesztések:</p>
+        <p lang="id">Perbaikan:</p>
+        <p lang="pt_BR">Melhorias:</p>
+        <p lang="ro">Îmbunătățiri:</p>
+        <p lang="ru">Улучшения:</p>
+        <p lang="sr">Побољњања:</p>
+        <p lang="sv">Förbättringar:</p>
+        <p lang="tr">İyileştirmeler:</p>
+        <p lang="uk">Удосконалення:</p>
+        <ul>
+          <li>Port the application to GObject Introspection</li>
+          <li lang="ca">Convertit l'aplicació a GObject Introspection</li>
+          <li lang="cs">Aplikace byla portována do GObject Introspection</li>
+          <li lang="da">Portér programmet til GObject Introspection</li>
+          <li lang="es">Soporte de introspección de GObject en la aplicación</li>
+          <li lang="hu">Az alkalmazás átírása a GObject Introspection használatára</li>
+          <li lang="id">Port aplikasi ke GObject Introspection</li>
+          <li lang="pt_BR">Port do aplicativo para GObject Introspection</li>
+          <li lang="ro">Portează aplicația la introspecția GObject</li>
+          <li lang="ru">Программа портирована на интроспекцию GObject</li>
+          <li lang="sr">Уводи програм у самоиспитивање Гобјекта</li>
+          <li lang="sv">Portera programmet till GObject Introspection</li>
+          <li lang="uk">Програму портовано на інтроспекцію GObject</li>
+          <li>Scan with 300 DPI and in color mode</li>
+          <li lang="ca">S'escaneja a 300DPI i en mode color</li>
+          <li lang="cs">Skenování při 300 DPI a v barevném režimu</li>
+          <li lang="da">Skan med 300 DPI og i farvetilstand</li>
+          <li lang="es">Escaneo con 300 PPP y en modo a color</li>
+          <li lang="hu">Szkennelés 300 DPI felbontással és színes módban</li>
+          <li lang="id">Pindai dengan 300 DPI dan dalam mode warna</li>
+          <li lang="pt_BR">Digitalização com 300 DPI e no modo colorido</li>
+          <li lang="ro">Scanează cu 300 DPI și în mod culoare</li>
+          <li lang="ru">Реализовано сканирование с разрешением 300 DPI и в цветном режиме</li>
+          <li lang="sr">Скенира са 300 тпи и у режиму боје</li>
+          <li lang="sv">Läs in med 300 DPI och i färgläge</li>
+          <li lang="uk">Реалізовано сканування із 300 точками на дюйм та у кольоровому режимі</li>
+          <li>Use the last visited directory when adding a new image</li>
+          <li lang="ca">S'utilitza el darrer directori visitat en afegir una nova imatge</li>
+          <li lang="cs">Při přidávání obrázků se používá naposledy navštívená složka</li>
+          <li lang="da">Brug den sidste besøgte mappe når der tilføjes et nyt billede</li>
+          <li lang="es">Usar la última carpeta visitada al añadir una imagen nueva</li>
+          <li lang="hu">Az utoljára megnyitott könyvtár használata új kép hozzáadásakor</li>
+          <li lang="id">Menggunakan direktori yang terakhir dikunjungi saat menambahkan gambar baru</li>
+          <li lang="pt_BR">Uso do último diretório visitado ao adicionar uma nova imagem</li>
+          <li lang="ro">Utilizează directorul vizitat ultima dată când se adaugă o imagine nouă</li>
+          <li lang="ru">Реализовано использование последнего посещённого каталога при добавлении нового изображения</li>
+          <li lang="sr">Користи последњи посећени документ када додаје нову слику</li>
+          <li lang="sv">Använd den senast besökta katalogen då en bild läggs till</li>
+          <li lang="uk">Реалізовано використання останнього відвіданого каталогу при додаванні нових зображень</li>
+          <li>Warn when no OCR engines are found on startup or when performing the recognition</li>
+          <li lang="ca">Avisa quan no es troben motors OCR en iniciar o en realitzar el reconeixement</li>
+          <li lang="cs">Varování, že nebyl nalezen výkonný program OCR, při spuštění nebo provádění rozpoznávání</li>
+          <li lang="da">Advar når der bliver fundet nogen OCR-motorer under opstart eller når genkendelsen udføres</li>
+          <li lang="es">Advertir cuando no se encuentren motores al inicio o al realizar el reconocimiento</li>
+          <li lang="hu">Figyelmeztetés, ha nem található optikai karakterfelismerő motor az indításkor vagy a felismerés végrehajtásakor</li>
+          <li lang="pt_BR">Aviso quando nenhum mecanismo de OCR for encontrado na inicialização ou ao realizar o reconhecimento</li>
+          <li lang="ro">Avertizează când nu s-au găsit motoare OCR la pornire sau când se performează recunoașterea</li>
+          <li lang="ru">Предупреждать, когда при запуске или выполнении распознавания не найдено ни одного OCR-движка</li>
+          <li lang="sr">Упозорава када се не нађу ОПЗ погони при покретању приликом извршавања самосталног препознавања</li>
+          <li lang="sv">Varna då inga OCR-motorer hittas vid uppstart eller under igenkänningen</li>
+          <li lang="uk">Попередження про те, що не було знайдено рушіїв розпізнавання тексту під час запуску або під час виконання розпізнавання</li>
+          <li>Update the box editor's OCR controls sensitiveness according to the existence of OCR engines</li>
+          <li lang="ca">Actualitzada la sensibilitat dels controls OCR de l'editor de caixes segons l'existència de motors OCR</li>
+          <li lang="cs">Aktualizována citlivost ovládacích prvků OCR v editoru oblastí tak, aby reflektovaly přítomnost výkonných programů OCR</li>
+          <li lang="da">Opdater følsomheden for bokseditorens OCR-styring i henhold til tilstedeværelse af OCR-motorer.</li>
+          <li lang="es">Actualizar la sensibilidad de los controles OCR del editor de cajas de acuerdo a la existencia de motores OCR</li>
+          <li lang="hu">A dobozszerkesztő OCR-vezérlői érzékenységének frissítése az OCR motorok megléte szerint</li>
+          <li lang="pt_BR">Atualização da sensibilidade dos controles do OCR do editor de caixas de acordo com a existência de mecanismos de OCR</li>
+          <li lang="ro">Actualizează sensibilitatea controalelor OCR ale editorului în conformitate cu existența motoarelor OCR</li>
+          <li lang="ru">Обновлена чувствительность элементов управления OCR редактора блоков в соответствии с наличием механизмов OCR</li>
+          <li lang="sr">Освежава осетљивост ОПЗ контрола уређивача кућице у складу постојања ОПЗ погона</li>
+          <li lang="sv">Uppdatera områdesredigerarens OCR-kontrollers känslighet enligt existensen av OCR-motorer</li>
+          <li lang="uk">Оновлено чутливість елементів керування розпізнаванням у редакторі ділянок відповідно до наявності рушіїв розпізнавання тексту</li>
+        </ul>
+        <p>Bug Fixes:</p>
+        <p lang="ca">Correcció d'errors:</p>
+        <p lang="cs">Opravy chyb:</p>
+        <p lang="da">Fejlrettelser:</p>
+        <p lang="es">Correcciones de errores:</p>
+        <p lang="hu">Hibajavítások:</p>
+        <p lang="id">Perbaikan Bug:</p>
+        <p lang="pt_BR">Correções de erros:</p>
+        <p lang="ro">Corectarea defecțiunilor:</p>
+        <p lang="ru">Исправления ошибок:</p>
+        <p lang="sr">Исправке грешака:</p>
+        <p lang="sv">Felfixar:</p>
+        <p lang="tr">Hata Düzeltmeler:</p>
+        <p lang="uk">Виправлення помилок:</p>
+        <ul>
+          <li>Fix PIL importation</li>
+          <li lang="ca">Corregida la importació de PIL</li>
+          <li lang="cs">Opraven import PIL</li>
+          <li lang="da">Rettet PIL-import</li>
+          <li lang="es">Importación PIL corregida</li>
+          <li lang="hu">A PIL-importálás javítása</li>
+          <li lang="id">Memperbaiki impor PIL</li>
+          <li lang="pt_BR">Correção da importação de PIL</li>
+          <li lang="ro">Corectează importarea PIL</li>
+          <li lang="ru">Исправлен импорт PIL</li>
+          <li lang="sr">Исправља ПИЛ увоз</li>
+          <li lang="sv">Fixa PIL-import</li>
+          <li lang="uk">Вправлено імпортування PIL</li>
+          <li>Fix error when exporting a PDF with empty text areas</li>
+          <li lang="ca">Corregit un error en exportar un PDF amb àrees de text buides</li>
+          <li lang="cs">Opravena chyba při exportu PDF s prázdnými textovými oblastmi</li>
+          <li lang="da">Rettet fejl ved eksport af en PDF med tomme tekstområder</li>
+          <li lang="es">Error al exportar un PDF con áreas de texto vacías corregido</li>
+          <li lang="hu">Egy üres szövegterületekkel rendelkező PDF-fájl exportálásakor fellépő hiba javítása</li>
+          <li lang="pt_BR">Correção de erro ao exportar um PDF com áreas de texto vazias</li>
+          <li lang="ro">Corectează eroare când se exportă un PDF cu zone de text goale</li>
+          <li lang="ru">Исправлена ошибка при экспорте в PDF с пустыми текстовыми областями</li>
+          <li lang="sr">Исправља грешку када извози ПДФ са празним областима текста</li>
+          <li lang="sv">Fixa fel vid export av en PDF med tomma textområden</li>
+          <li lang="uk">Виправлено помилку при експортуванні PDF із порожніми текстовими областями</li>
+          <li>Fix PDF output options in ocrfeeder-cli</li>
+          <li lang="ca">Corregides les opcions de sortida de PDF al ocrfeeder-cli</li>
+          <li lang="cs">Opraveny volby výstupu do PDF v ocrfeeder-cli</li>
+          <li lang="da">Rettet tilvalg for PDF-output i ocrfeeder-cli</li>
+          <li lang="es">Opciones de salida PDF en ocrfeeder-cli corregidas</li>
+          <li lang="hu">A PDF kimeneti kapcsolóinak javítása az ocrfeeder-cli parancssori alkalmazásban</li>
+          <li lang="pt_BR">Correção das opções de saída de PDF no ocrfeeder-cli</li>
+          <li lang="ro">Corectează opțiunile de ieșire PDF în ocrfeeder-cli</li>
+          <li lang="ru">Исправлены параметры вывода в PDF в ocrfeeder-cli</li>
+          <li lang="sr">Исправља опције ПДФ излаза у конзолном окружењу</li>
+          <li lang="sv">Fixa PDF-utmatningsalternativ i ocrfeeder-cli</li>
+          <li lang="uk">Виправлено параметри виведення до PDF в ocrfeeder-cli</li>
+          <li>Fix getting engine name in ocrfeeder-cli</li>
+          <li lang="ca">Corregida l'obtenció del nom del motor al ocrfeeder-cli</li>
+          <li lang="cs">Opraven problém při získávání názvu výkonného programu v ocrfeeder-cli</li>
+          <li lang="da">Rettet hentning af motornavn i ocrfeeder-cli</li>
+          <li lang="es">Obtener el nombre del motor en ocrfeeder-cli corregido</li>
+          <li lang="hu">A motornév lekérdezésének javítása az ocrfeeder-cli parancssori alkalmazásban</li>
+          <li lang="pt_BR">Correção da obtenção do nome do mecanismo no ocrfeeder-cli</li>
+          <li lang="ro">Corectează obținerea de nume de motor în ocrfeeder-cli</li>
+          <li lang="ru">Исправлено определение названия движка в ocrfeeder-cli</li>
+          <li lang="sr">Исправља добављање назива погона у конзолном окружењу</li>
+          <li lang="sv">Fixa erhållande av motorns namn i ocrfeeder-cli</li>
+          <li lang="uk">Виправлено визначення назви рушія у ocrfeeder-cli</li>
+          <li>Fix the use of newer versions of Unpaper</li>
+          <li lang="ca">Corregit l'ús de versions noves del Unpaper</li>
+          <li lang="cs">Opraveno používání nové verze programu Unpaper</li>
+          <li lang="da">Rettet brugen af nyere versioner af Unpaper</li>
+          <li lang="es">Uso de versiones nuevas de Unpaper corregido</li>
+          <li lang="hu">Az újabb verziójú Unpaper alkalmazások használatának javítása</li>
+          <li lang="pt_BR">Correção do uso de versões mais recentes do Unpaper</li>
+          <li lang="ro">Corectează utilizarea versiunilor mai noi de Unpaper</li>
+          <li lang="ru">Исправлено использование новых версий Unpaper</li>
+          <li lang="sr">Исправља коришћење нових издања Распапирка</li>
+          <li lang="sv">Fixa användning av nyare versioner av Unpaper</li>
+          <li lang="uk">Виправлено використання новіших версій засобу «Обчистити»</li>
+          <li>Fix text in the pages icon view</li>
+          <li lang="ca">Corregit el text a la vista d'icones de pàgines</li>
+          <li lang="cs">Opraven text na stránce ikonového zobrazení</li>
+          <li lang="da">Rettet teksten i sidernes ikonvisning</li>
+          <li lang="es">Texto en la vista de icono de páginas corregido</li>
+          <li lang="hu">A szöveg javítása az oldalak ikonnézetében</li>
+          <li lang="pt_BR">Correção do texto na exibição do ícone de páginas</li>
+          <li lang="ro">Corectează textul în vizualizarea iconiță a paginilor</li>
+          <li lang="ru">Исправлен текст на страницах в режиме просмотра миниатюр</li>
+          <li lang="sr">Исправља текст у прегледу иконице страница</li>
+          <li lang="sv">Fixa text i sidikonvyn</li>
+          <li lang="uk">Виправлено текст на сторінках у режимі перегляду мініатюр</li>
+          <li>Fix reordering pages in the icon view</li>
+          <li lang="ca">Corregida la reordenació de pàgines a la vista d'icones</li>
+          <li lang="cs">Opraveno přeuspořádání stránek v ikonovém zobrazení</li>
+          <li lang="da">Rettet omarrangering af siderne i ikonvisningen</li>
+          <li lang="es">Reordenar páginas en la vista de icono corregido</li>
+          <li lang="hu">Az oldalak átrendezésének javítása az ikonnézetben</li>
+          <li lang="pt_BR">Correção do reordenamento de páginas na exibição de ícones</li>
+          <li lang="ro">Corectează reordonarea paginilor în vizualizarea iconiță</li>
+          <li lang="ru">Исправлено изменение порядка страниц в режиме просмотра миниатюр</li>
+          <li lang="sr">Исправља прераспоређивање страница у прегледу иконицама</li>
+          <li lang="sv">Fixa ändring av ordning av sidor i ikonvyn</li>
+          <li lang="uk">Виправлено переупорядковування сторінок у режимі перегляду мініатюр</li>
+          <li>Fix issues when no locale is set</li>
+          <li lang="ca">Corregits errors quan no hi ha traducció</li>
+          <li lang="cs">Opraven problém, když není nastaveno národní prostředí</li>
+          <li lang="da">Rettet problemer når der ikke er indstillet nogen lokalitet</li>
+          <li lang="es">Problemas cuando no se ha establecido configuración regional corregidos</li>
+          <li lang="hu">Hibák javítása, ha nem volt területi beállítás megadva</li>
+          <li lang="id">Memperbaiki masalah saat tidak ada lokal yang ditetapkan</li>
+          <li lang="pt_BR">Correção de problemas quando nenhuma localidade estiver definida</li>
+          <li lang="ro">Corectează problemele când nu este stabilită nicio localizare</li>
+          <li lang="ru">Исправлена проблема, когда языковой стандарт не установлен</li>
+          <li lang="sr">Исправља проблеме када језик није постављен</li>
+          <li lang="sv">Fixa problem då ingen lokal ställts in</li>
+          <li lang="uk">Виправлено проблеми, які виникали, якщо не встановлено локалі</li>
+          <li>Fix loading project with more than one page</li>
+          <li lang="ca">Corregida la càrrega de projectes amb més d'una pàgina</li>
+          <li lang="cs">Opraveno načítání projektů s více než jednou stránkou</li>
+          <li lang="da">Rettet indlæsning af projekt med mere end én side</li>
+          <li lang="es">Carga de un proyecto con más de una página corregida</li>
+          <li lang="hu">Egynél több oldallal rendelkező projektek betöltésének javítása</li>
+          <li lang="id">Memperbaiki pemuatan proyek dengan lebih dari satu halaman</li>
+          <li lang="pt_BR">Correção do carregamento do projeto com mais de uma página</li>
+          <li lang="ro">Corectează încărcarea proiectului cu mai mult de o pagină</li>
+          <li lang="ru">Исправлена загрузка проекта с более чем одной страницей</li>
+          <li lang="sr">Исправља учитавање пројекта са више од једне странице</li>
+          <li lang="sv">Fixa inläsning av projekt med mer än en sida</li>
+          <li lang="uk">Виправлено завантаження проєктів, у яких декілька сторінок</li>
+          <li>Fix updating the OCR engines in the BoxEditor</li>
+          <li lang="ca">Corregida l'actualització de motors OCR a l'Editor de caixes</li>
+          <li lang="cs">Opravena aktualizace výkonného programu OCR v editoru oblastí</li>
+          <li lang="da">Rettet opdatering af OCR-motorerne i boksredigeringen</li>
+          <li lang="es">Actualizar los motores OCR en el editor de cajas corregido</li>
+          <li lang="hu">A dobozszerkesztőben lévő OCR-motorok frissítésének javítása</li>
+          <li lang="pt_BR">Correção da atualização dos mecanismos de OCR no BoxEditor</li>
+          <li lang="ro">Corectează actualizarea motoarelor OCR în BoxEditor</li>
+          <li lang="ru">Исправлено обновление OCR-движков в BoxEditor</li>
+          <li lang="sr">Исправља ажурирање ОПЗ погона у уређивачу кућица</li>
+          <li lang="sv">Fixa uppdatering av OCR-motorerna i BoxEditor</li>
+          <li lang="uk">Виправлено оновлення рушіїв розпізнавання у редакторі ділянок</li>
+        </ul>
+        <p>New and Updated Translations:</p>
+        <p lang="ca">Traduccions noves i actualitzades:</p>
+        <p lang="cs">Nové a aktualizované překlady:</p>
+        <p lang="da">Nye og opdaterede oversættelser:</p>
+        <p lang="es">Traducciones nuevas y actualizadas:</p>
+        <p lang="hu">Új és frissített fordítások:</p>
+        <p lang="id">Terjemahan Baru dan Diperbarui:</p>
+        <p lang="pt_BR">Traduções novas e atualizadas:</p>
+        <p lang="ro">Traduceri noi și actualizate:</p>
+        <p lang="ru">Новые и обновлённые переводы:</p>
+        <p lang="sr">Нови и освежени преводи:</p>
+        <p lang="sv">Nya och uppdaterade översättningar:</p>
+        <p lang="tr">Yeni ve Güncellenmiş Çeviriler:</p>
+        <p lang="uk">Нові і оновлені переклади:</p>
+        <ul>
+          <li>Marek Černocký [cz]</li>
+          <li lang="ca">Marek Černocký [cz]</li>
+          <li lang="cs">Marek Černocký [cz]</li>
+          <li lang="da">Marek Černocký [cz]</li>
+          <li lang="es">Marek Černocký [cz]</li>
+          <li lang="hu">Marek Černocký (cseh)</li>
+          <li lang="id">Marek Černocký [cz]</li>
+          <li lang="pt_BR">Marek Černocký [cz]</li>
+          <li lang="ro">Marek Černocký [cz]</li>
+          <li lang="ru">Marek Černocký [cz]</li>
+          <li lang="sr">Марек Черноцки [cz]</li>
+          <li lang="sv">Marek Černocký [cz]</li>
+          <li lang="tr">Marek Černocký [cz]</li>
+          <li lang="uk">Marek Černocký [cz]</li>
+          <li>Daniel Mustieles [es]</li>
+          <li lang="ca">Daniel Mustieles [es]</li>
+          <li lang="cs">Daniel Mustieles [es]</li>
+          <li lang="da">Daniel Mustieles [es]</li>
+          <li lang="es">Daniel Mustieles [es]</li>
+          <li lang="hu">Daniel Mustieles (spanyol)</li>
+          <li lang="id">Daniel Mustieles [es]</li>
+          <li lang="pt_BR">Daniel Mustieles [es]</li>
+          <li lang="ro">Daniel Mustieles [es]</li>
+          <li lang="ru">Daniel Mustieles [es]</li>
+          <li lang="sr">Даниел Мустиелес [es]</li>
+          <li lang="sv">Daniel Mustieles [es]</li>
+          <li lang="tr">Daniel Mustieles [es]</li>
+          <li lang="uk">Daniel Mustieles [es]</li>
+          <li>Fran Diéguez [gl]</li>
+          <li lang="ca">Fran Diéguez [gl]</li>
+          <li lang="cs">Fran Diéguez [gl]</li>
+          <li lang="da">Fran Diéguez [gl]</li>
+          <li lang="es">Fran Diéguez [gl]</li>
+          <li lang="hu">Fran Diéguez (galíciai)</li>
+          <li lang="id">Fran Diéguez [gl]</li>
+          <li lang="pt_BR">Fran Diéguez [gl]</li>
+          <li lang="ro">Fran Diéguez [gl]</li>
+          <li lang="ru">Fran Diéguez [gl]</li>
+          <li lang="sr">Фран Диегез [gl]</li>
+          <li lang="sv">Fran Diéguez [gl]</li>
+          <li lang="tr">Fran Diéguez [gl]</li>
+          <li lang="uk">Fran Diéguez [gl]</li>
+          <li>Dimitris Spingos [el]</li>
+          <li lang="ca">Dimitris Spingos [el]</li>
+          <li lang="cs">Dimitris Spingos [el]</li>
+          <li lang="da">Dimitris Spingos [el]</li>
+          <li lang="es">Dimitris Spingos [el]</li>
+          <li lang="hu">Dimitris Spingos (görög)</li>
+          <li lang="id">Dimitris Spingos [el]</li>
+          <li lang="pt_BR">Dimitris Spingos [el]</li>
+          <li lang="ro">Dimitris Spingos [el]</li>
+          <li lang="ru">Dimitris Spingos [el]</li>
+          <li lang="sr">Димитрис Спингос [el]</li>
+          <li lang="sv">Dimitris Spingos [el]</li>
+          <li lang="tr">Dimitris Spingos [el]</li>
+          <li lang="uk">Dimitris Spingos [el]</li>
+          <li>Aharon Don [he]</li>
+          <li lang="ca">Aharon Don [he]</li>
+          <li lang="cs">Aharon Don [he]</li>
+          <li lang="da">Aharon Don [he]</li>
+          <li lang="es">Aharon Don [he]</li>
+          <li lang="hu">Aharon Don (héber)</li>
+          <li lang="id">Aharon Don [he]</li>
+          <li lang="pt_BR">Aharon Don [he]</li>
+          <li lang="ro">Aharon Don [he]</li>
+          <li lang="ru">Aharon Don [he]</li>
+          <li lang="sr">Ахарон Дон [he]</li>
+          <li lang="sv">Aharon Don [he]</li>
+          <li lang="tr">Aharon Don [he]</li>
+          <li lang="uk">Aharon Don [he]</li>
+          <li>Attila Hammer, Gabor Kelemen [hu]</li>
+          <li lang="ca">Attila Hammer, Gabor Kelemen [hu]</li>
+          <li lang="cs">Attila Hammer, Gabor Kelemen [hu]</li>
+          <li lang="da">Attila Hammer, Gabor Kelemen [hu]</li>
+          <li lang="es">Attila Hammer, Gabor Kelemen [hu]</li>
+          <li lang="hu">Hammer Attila, Kelemen Gábor (magyar)</li>
+          <li lang="id">Attila Hammer, Gabor Kelemen [hu]</li>
+          <li lang="pt_BR">Attila Hammer, Gabor Kelemen [hu]</li>
+          <li lang="ro">Attila Hammer, Gabor Kelemen [hu]</li>
+          <li lang="ru">Attila Hammer, Gabor Kelemen [hu]</li>
+          <li lang="sr">Атила Хамер, Габор Келемен [hu]</li>
+          <li lang="sv">Attila Hammer, Gabor Kelemen [hu]</li>
+          <li lang="tr">Attila Hammer, Gabor Kelemen [hu]</li>
+          <li lang="uk">Attila Hammer, Gabor Kelemen [hu]</li>
+          <li>Rafael Ferreira [pt_BR]</li>
+          <li lang="ca">Rafael Ferreira [pt_BR]</li>
+          <li lang="cs">Rafael Ferreira [pt_BR]</li>
+          <li lang="da">Rafael Ferreira [pt_BR]</li>
+          <li lang="es">Rafael Ferreira [pt_BR]</li>
+          <li lang="hu">Rafael Ferreira (brazíliai portugál)</li>
+          <li lang="id">Rafael Ferreira [pt_BR]</li>
+          <li lang="pt_BR">Rafael Ferreira [pt_BR]</li>
+          <li lang="ro">Rafael Ferreira [pt_BR]</li>
+          <li lang="ru">Rafael Ferreira [pt_BR]</li>
+          <li lang="sr">Рафаел Фереира [pt_BR]</li>
+          <li lang="sv">Rafael Ferreira [pt_BR]</li>
+          <li lang="tr">Rafael Ferreira [pt_BR]</li>
+          <li lang="uk">Rafael Ferreira [pt_BR]</li>
+          <li>Martin Srebotnjak [sl]</li>
+          <li lang="ca">Martin Srebotnjak [sl]</li>
+          <li lang="cs">Martin Srebotnjak [sl]</li>
+          <li lang="da">Martin Srebotnjak [sl]</li>
+          <li lang="es">Martin Srebotnjak [sl]</li>
+          <li lang="hu">Martin Srebotnjak (szlovén)</li>
+          <li lang="id">Martin Srebotnjak [sl]</li>
+          <li lang="pt_BR">Martin Srebotnjak [sl]</li>
+          <li lang="ro">Martin Srebotnjak [sl]</li>
+          <li lang="ru">Martin Srebotnjak [sl]</li>
+          <li lang="sr">Мартин Среботњак [sl]</li>
+          <li lang="sv">Martin Srebotnjak [sl]</li>
+          <li lang="tr">Martin Srebotnjak [sl]</li>
+          <li lang="uk">Martin Srebotnjak [sl]</li>
+          <li>Мирослав Николић [sr]</li>
+          <li lang="ca">Мирослав Николић [sr]</li>
+          <li lang="cs">Мирослав Николић [sr]</li>
+          <li lang="da">Мирослав Николић [sr]</li>
+          <li lang="es">Мирослав Николић [sr]</li>
+          <li lang="hu">Мирослав Николић (szerb)</li>
+          <li lang="id">Мирослав Николић [sr]</li>
+          <li lang="pt_BR">Мирослав Николић [sr]</li>
+          <li lang="ro">Мирослав Николић [sr]</li>
+          <li lang="ru">Мирослав Николић [sr]</li>
+          <li lang="sr">Мирослав Николић [sr]</li>
+          <li lang="sv">Мирослав Николић [sr]</li>
+          <li lang="tr">Мирослав Николић [sr]</li>
+          <li lang="uk">Мирослав Николић [sr]</li>
+          <li>Piotr Drąg [uk]</li>
+          <li lang="ca">Piotr Drąg [uk]</li>
+          <li lang="cs">Piotr Drąg [uk]</li>
+          <li lang="da">Piotr Drąg [uk]</li>
+          <li lang="es">Piotr Drąg [uk]</li>
+          <li lang="hu">Piotr Drąg (ukrán)</li>
+          <li lang="id">Piotr Drąg [uk]</li>
+          <li lang="pt_BR">Piotr Drąg [uk]</li>
+          <li lang="ro">Piotr Drąg [uk]</li>
+          <li lang="ru">Piotr Drąg [uk]</li>
+          <li lang="sr">Пјотр Драг [uk]</li>
+          <li lang="sv">Piotr Drąg [uk]</li>
+          <li lang="tr">Piotr Drąg [uk]</li>
+          <li lang="uk">Piotr Drąg [uk]</li>
+          <li>Wylmer Wang [zh_CN]</li>
+          <li lang="ca">Wylmer Wang [zh_CN]</li>
+          <li lang="cs">Wylmer Wang [zh_CN]</li>
+          <li lang="da">Wylmer Wang [zh_CN]</li>
+          <li lang="es">Wylmer Wang [zh_CN]</li>
+          <li lang="hu">Wylmer Wang (hagyományos kínai)</li>
+          <li lang="id">Wylmer Wang [zh_CN]</li>
+          <li lang="pt_BR">Wylmer Wang [zh_CN]</li>
+          <li lang="ro">Wylmer Wang [zh_CN]</li>
+          <li lang="ru">Wylmer Wang [zh_CN]</li>
+          <li lang="sr">Вилмер Ванг [zh_CN]</li>
+          <li lang="sv">Wylmer Wang [zh_CN]</li>
+          <li lang="tr">Wylmer Wang [zh_CN]</li>
+          <li lang="uk">Wylmer Wang [zh_CN]</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+</component>

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>libsForQt5.kmag</pkgname>
+  <id>org.kde.kmag.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KMag</name>
+  <name lang="ar">العدسة</name>
+  <name lang="ast">KMag</name>
+  <name lang="bg">KMag</name>
+  <name lang="ca">KMag</name>
+  <name lang="ca-valencia">KMag</name>
+  <name lang="cs">KMag</name>
+  <name lang="da">KMag</name>
+  <name lang="de">KMag</name>
+  <name lang="el">KMag</name>
+  <name lang="en-GB">KMag</name>
+  <name lang="es">KMag</name>
+  <name lang="et">KMag</name>
+  <name lang="eu">KMag</name>
+  <name lang="fi">KMag</name>
+  <name lang="fr">KMag</name>
+  <name lang="gl">KMag</name>
+  <name lang="ia">KMag</name>
+  <name lang="id">KMag</name>
+  <name lang="is">KMag</name>
+  <name lang="it">KMag</name>
+  <name lang="ko">KMag</name>
+  <name lang="nl">KMag</name>
+  <name lang="nn">KMag</name>
+  <name lang="pl">KMag</name>
+  <name lang="pt">KMag</name>
+  <name lang="pt-BR">KMag</name>
+  <name lang="ro">KMag</name>
+  <name lang="ru">KMag</name>
+  <name lang="sk">KMag</name>
+  <name lang="sl">KMag</name>
+  <name lang="sv">Kmag</name>
+  <name lang="uk">KMag</name>
+  <name lang="vi">KMag</name>
+  <name lang="x-test">xxKMagxx</name>
+  <name lang="zh-CN">KMag</name>
+  <name lang="zh-TW">KMag</name>
+  <summary>Screen Magnifier</summary>
+  <summary lang="ar">مكبَر الشاشة</summary>
+  <summary lang="ast">Lente pa la pantalla</summary>
+  <summary lang="bg">Увеличител на екрана</summary>
+  <summary lang="ca">Lupa de la pantalla</summary>
+  <summary lang="ca-valencia">Lupa de la pantalla</summary>
+  <summary lang="cs">Lupa obrazovky</summary>
+  <summary lang="da">Skærmforstørrer</summary>
+  <summary lang="de">Bildschirmlupe</summary>
+  <summary lang="el">Μεγεθυντικός φακός οθόνης</summary>
+  <summary lang="en-GB">Screen Magnifier</summary>
+  <summary lang="es">Lupa de la pantalla</summary>
+  <summary lang="et">Ekraani suurendusklaas</summary>
+  <summary lang="eu">Pantailako lupa</summary>
+  <summary lang="fi">Suurennuslasi</summary>
+  <summary lang="fr">Loupe d'écran</summary>
+  <summary lang="gl">Lupa da pantalla</summary>
+  <summary lang="ia">Aggranditor de schermo</summary>
+  <summary lang="id">Memperbesar Layar</summary>
+  <summary lang="is">Skjástækkari</summary>
+  <summary lang="it">Lente d'ingrandimento</summary>
+  <summary lang="ko">화면 돋보기</summary>
+  <summary lang="nl">Schermvergroter</summary>
+  <summary lang="nn">Skjermforstørrar</summary>
+  <summary lang="pl">Lupa ekranowa</summary>
+  <summary lang="pt">Lupa do Ecrã</summary>
+  <summary lang="pt-BR">Lupa da tela</summary>
+  <summary lang="ro">Lupă de ecran</summary>
+  <summary lang="ru">Экранная лупа</summary>
+  <summary lang="sk">Lupa obrazovky</summary>
+  <summary lang="sl">Povečevalnik zaslona</summary>
+  <summary lang="sr">Увеличавач екрана</summary>
+  <summary lang="sr-Latn">Uveličavač ekrana</summary>
+  <summary lang="sr-ijekavian">Увеличавач екрана</summary>
+  <summary lang="sr-ijekavianlatin">Uveličavač ekrana</summary>
+  <summary lang="sv">Skärmförstoringsglas</summary>
+  <summary lang="uk">Збільшувач екрана</summary>
+  <summary lang="vi">Trình phóng đại màn hình</summary>
+  <summary lang="x-test">xxScreen Magnifierxx</summary>
+  <summary lang="zh-CN">屏幕放大镜</summary>
+  <summary lang="zh-TW">螢幕放大器</summary>
+  <description>
+    <p>KMag is a small utility for Linux to magnify a part of the screen. KMag is very useful for people with visual disabilities and for those working in the fields of image analysis, web development etc.</p>
+  </description>
+  <description lang="ar">
+    <p>تعد العدسة أداة مساعدة صغيرة لنظام لينكس لتكبير جزء من الشاشة. يعد برنامج العدسة مفيدًا جدًا للأشخاص ذوي الإعاقات البصرية ولأولئك الذين يعملون في مجالات تحليل الصور وتطوير الويب وما إلى ذلك.</p>
+  </description>
+  <description lang="ast">
+    <p>KMag ye una ferramienta p'aumentar parte de la pantalla. Ye perútil pa persones con discapacidá visual y pa les que trabayen nel campu del analís d'imáxenes, desendolcu web, etc.</p>
+  </description>
+  <description lang="bg">
+    <p>KMag е малка помощна програма за Linux за увеличаване на част от екрана. KMag е много полезна за хора със зрителни увреждания и за работещите в в областта на анализа на изображения, разработването на уеб сайтове и др.</p>
+  </description>
+  <description lang="ca">
+    <p>El KMag és una petita utilitat per al Linux per a ampliar una part de la pantalla. El KMag és molt útil per a persones amb discapacitats visuals i per a aquelles que treballen en els camps de l'anàlisi d'imatges, desenvolupament web, etc.</p>
+  </description>
+  <description lang="ca-valencia">
+    <p>KMag és una xicoteta utilitat per a Linux per a ampliar una part de la pantalla. KMag és molt útil per a persones amb discapacitats visuals i per a aquelles que treballen en els camps de l'anàlisi d'imatges, desenvolupament web, etc.</p>
+  </description>
+  <description lang="da">
+    <p>KMag er et lille redskab til Linux som forstørrer en del af skærmen. KMag er meget nyttig til personer med synshandikap og dem der arbejder med billedanalyse, webudvikling osv.</p>
+  </description>
+  <description lang="de">
+    <p>KMag ist ein kleines Dienstprogramm für Linux, um einen Teil des Bildschirms zu vergrößern. KMag ist sehr nützlich für Menschen mit Sehbehinderung und für Menschen, die in Bereichen der Bildanalyse, Webentwicklung usw. arbeiten.</p>
+  </description>
+  <description lang="el">
+    <p>Το KMag είναι μια μικρή εφαρμογή για Linux για να μεγεθύνει μέρος της οθόνης. Το KMag είναι πολύ χρήσιμο για ανθρώπους με δυσκολίες στην όραση και για εκείνους που ασχολούνται με τα πεδία της ανάλυσης εικόνας, ανάπτυξης εφαρμογών ιστού κλπ.</p>
+  </description>
+  <description lang="en-GB">
+    <p>KMag is a small utility for Linux to magnify a part of the screen. KMag is very useful for people with visual disabilities and for those working in the fields of image analysis, web development etc.</p>
+  </description>
+  <description lang="es">
+    <p>KMag es una pequeña utilidad para Linux que aumenta una parte de la pantalla. KMag resulta muy útil para personas con problemas visuales y para los que trabajan en campos de análisis de imágenes, desarrollo web, etc.</p>
+  </description>
+  <description lang="et">
+    <p>KMag on Linuxi väike abivahend ekraani osade suurendamiseks. KMag on suureks abiks nägemispuudega inimestele, samuti neile, kelle erialaks on pildianalüüs, veebiarendus jne.</p>
+  </description>
+  <description lang="eu">
+    <p>KMag pantailaren zati bat handitzeko Linux-erako baliagarritasun txiki bat da. KMag oso baliagarria da ikusmenean ezintasuna dutenentzako, baita irudi analisian, web diseinuan eta beste hainbat eremutan lan egiten dutenentzako ere.</p>
+  </description>
+  <description lang="fi">
+    <p>KMag on pieni Linux-työkalu näytön osan suurentamiseksi. KMagista on hyötyä heikkonäköisille, kuvia tarkoin tutkiville tai esimerkiksi verkkokehitystä tekeville.</p>
+  </description>
+  <description lang="fr">
+    <p>KMag est un petit utilitaire Linux qui permet de zoomer sur une partie de l'écran. KMag est très utile pour les personnes atteintes de déficiences visuelles ou travaillant dans les domaines de l'analyse d'images, du développement Web, etc.</p>
+  </description>
+  <description lang="gl">
+    <p>KMag é unha pequena utilidade para Linux para aumentar unha parte da pantalla. KMag é moi útil para a xente con discapacidades visuais e para traballadores dos campos de análise de imaxes, desenvolvemento web, etc.</p>
+  </description>
+  <description lang="ia">
+    <p>KMag es un parve utilitate per Linux per aggrandir un parte de schermo. KMag es multe utile per gente con dishabilitates visual e illos travaliante in le campos del analysis de image, disveloppamento web etc.</p>
+  </description>
+  <description lang="id">
+    <p>KMag adalah utilitas kecil buat Linux untuk memperbesar bagian layar. KMag sangat berguna bagi para penyandang cacat visual dan bagi mereka yang bekerja di bidang analisis gambar, pengembangan web, dll.</p>
+  </description>
+  <description lang="is">
+    <p>KMag er lítið nytjatól fyrir Linux til að stækka hluta af skjánum. KMag nýtist vel fólki sem á við einhverskonar sjónskerðingu að stríða, en ekki síður þeim sem vinna við myndgreiningar eða vefhönnun, svo eitthvað sé talið.</p>
+  </description>
+  <description lang="it">
+    <p>KMag è un piccolo programma per ingrandire una parte dello schermo. È molto utile alle persone con disabilità visive e per quelli che lavorano nel campo dell'analisi delle immagini, dello sviluppo web ecc.</p>
+  </description>
+  <description lang="ko">
+    <p>KMag은 리눅스용 화면 돋보기입니다. 시각 장애가 있는 사용자나 이미지 분석, 웹 개발 등에 유용합니다.</p>
+  </description>
+  <description lang="nl">
+    <p>KMag is een klein hulpprogramma voor Linux om een deel van het scherm te vergroten. KMag is erg nuttig voor mensen met een visuele beperking en voor hen die werken in het veld van analyse van afbeeldingen, webontwikkeling etc.</p>
+  </description>
+  <description lang="nn">
+    <p>KMag er eit lite verktøy for å forstørra delar av skjermen. Det er veldig nyttig for alle med nedsett syn og for dei som arbeider med for eksempel biletanalyse eller utvikling av nettsider.</p>
+  </description>
+  <description lang="pl">
+    <p>KMag jest małym narzędziem dla Linuksa do powiększania części ekranu. KMag jest bardzo użytecznym programem dla osób z niepełnosprawnością wzroku, a także dla tych, którzy pracują przy analizie obrazów i tworzeniu stron internetowych, itp.</p>
+  </description>
+  <description lang="pt">
+    <p>O KMag é um pequeno utilitário para o Linux aumentar uma parte do ecrã. O KMag é muito útil para as pessoas com incapacidades visuais e para aqueles que trabalham na área de análise de imagens, desenvolvimento na Web, etc.</p>
+  </description>
+  <description lang="pt-BR">
+    <p>O KMag é um pequeno utilitário para Linux para ampliar uma parte da tela. O  KMag é muito útil para pessoas com deficiências visuais e para aqueles trabalhando em campos de análise de imagens, desenvolvimento Web, etc.</p>
+  </description>
+  <description lang="ru">
+    <p>KMag — это небольшое приложение для Linux, позволяющее увеличивать часть экрана. Приложение KMag очень полезно для людей с нарушениями зрения и тех, кто работает в области анализа изображений, веб-разработки и схожих областях.</p>
+  </description>
+  <description lang="sk">
+    <p>KMag je malý nástroj pre Linux na zväčšenie časti obrazovky. KMag je veľmi užitočný pre ľudí so zrakovým postihnutím a pre tých čo pracujú v oblasti analýzy obrazu, vývoja webových aplikácií atď.</p>
+  </description>
+  <description lang="sl">
+    <p>KMag je majhen pripomoček za Linux za povečanje dela zaslona. KMag je zelo koristen za osebe z motnjami vida in za tiste, ki delajo na področjih analize slik, spletnega razvoja itd.</p>
+  </description>
+  <description lang="sv">
+    <p>Kmag är ett litet verktyg för Linux som förstorar en del av skärmen. Kmag är mycket användbart för personer med synfel och för de som arbetar inom fälten bildanalys, webbutveckling, etc.</p>
+  </description>
+  <description lang="uk">
+    <p>KMag — невеличка програма для Linux, призначенням якої є збільшення зображення частини екрана. KMag є дуже корисною програмою для людей із вадами зору та тих, хто працює у галузях аналізу зображень, веброзробки тощо.</p>
+  </description>
+  <description lang="vi">
+    <p>KMag là một tiện ích nhỏ cho Linux để phóng đại một phần của màn hình. KMag rất hữu ích cho người có khuyết tật thị giác và người làm việc trong các ngành như phân tích ảnh, phát triển web, v.v.</p>
+  </description>
+  <description lang="x-test">
+    <p>xxKMag is a small utility for Linux to magnify a part of the screen. KMag is very useful for people with visual disabilities and for those working in the fields of image analysis, web development etc.xx</p>
+  </description>
+  <description lang="zh-CN">
+    <p>KMag 是放大屏幕一部分的小工具。KMag 对视力障碍用户非常有帮助，也能辅助图像分析或网页开发等领域的专业人士。</p>
+  </description>
+  <description lang="zh-TW">
+    <p>KMag 是個給 Linux 用來放大螢幕區塊的小工具。KMag 是個對有視覺障礙、從事圖片分析或網頁開發…的使用者十分有用的工具。</p>
+  </description>
+  <url type="homepage">https://kde.org/applications/utilities/kmag/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kmag</url>
+  <url type="donation">https://www.kde.org/community/donations/?app=kmag&amp;source=appdata</url>
+  <screenshots>
+    <screenshot type="default">
+      <caption>KMag in action</caption>
+      <caption lang="ar">العدسة وهي تعمل</caption>
+      <caption lang="ast">KMag n'aición</caption>
+      <caption lang="bg">KMag в действие</caption>
+      <caption lang="ca">El KMag en acció</caption>
+      <caption lang="ca-valencia">KMag en acció</caption>
+      <caption lang="da">KMag i brug</caption>
+      <caption lang="de">KMag in Aktion</caption>
+      <caption lang="el">Το KMag σε δράση</caption>
+      <caption lang="en-GB">KMag in action</caption>
+      <caption lang="es">KMag en acción</caption>
+      <caption lang="et">KMag tegevuses</caption>
+      <caption lang="eu">KMag martxan</caption>
+      <caption lang="fi">KMag toiminnassa</caption>
+      <caption lang="fr">KMag en action</caption>
+      <caption lang="gl">KMag en acción</caption>
+      <caption lang="ia">KMag in action</caption>
+      <caption lang="id">KMag beraksi</caption>
+      <caption lang="is">KMag að verki</caption>
+      <caption lang="it">KMag in azione</caption>
+      <caption lang="ko">KMag 사용 모습</caption>
+      <caption lang="nl">KMag in actie</caption>
+      <caption lang="nn">KMag i praksis</caption>
+      <caption lang="pl">KMag w działaniu</caption>
+      <caption lang="pt">O KMag em acção</caption>
+      <caption lang="pt-BR">KMag em ação</caption>
+      <caption lang="ro">KMag în acțiune</caption>
+      <caption lang="ru">KMag в действии</caption>
+      <caption lang="sk">KMag v akcií</caption>
+      <caption lang="sl">KMag v akciji</caption>
+      <caption lang="sv">Kmag i aktion</caption>
+      <caption lang="uk">KMag у дії</caption>
+      <caption lang="vi">Sử dụng KMag</caption>
+      <caption lang="x-test">xxKMag in actionxx</caption>
+      <caption lang="zh-CN">KMag 使用过程中</caption>
+      <caption lang="zh-TW">KMag 正使用中</caption>
+      <image width="769" type="source" height="600">https://cdn.kde.org/screenshots/kmag.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kmag</binary>
+  </provides>
+  <launchable type="desktop-id">org.kde.kmag.desktop</launchable>
+  <releases>
+    <release version="22.04.3" date="2022-07-07" />
+    <release version="22.04.2" date="2022-06-09" />
+    <release version="22.04.1" date="2022-05-12" />
+    <release version="22.04.0" date="2022-04-21" />
+  </releases>
+</component>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>ardour</pkgname>
+  <launchable type="desktop-id">ardour6.desktop</launchable>
+  <icon width="64" type="cached" height="64">ardour6.png</icon>
+  <icon width="128" height="128" type="cached">ardour6.png</icon>
+  <id>ardour6.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Ardour</name>
+  <name lang="eu">Ardour</name>
+  <name lang="it">Ardour</name>
+  <name lang="ko">Ardour</name>
+  <name lang="ru">Ardour</name>
+  <releases>
+    <release date="" version="6.9.0" />
+  </releases>
+  <summary>Digital Audio Workstation</summary>
+  <summary lang="eu">Audio lan-estazio digitala</summary>
+  <summary lang="fr">Station de Travail Audio-Numérique</summary>
+  <summary lang="it">Workstation audio digitale</summary>
+  <summary lang="ja">デジタル・オーディオ・ワークステーション</summary>
+  <summary lang="ko">디지털 오디오 워크스테이션</summary>
+  <summary lang="ru">Цифровая звуковая рабочая станция</summary>
+  <summary lang="zh">数字音频工作站</summary>
+  <description>
+    <p>
+      Ardour is a multi-channel digital audio workstation, allowing you to
+      record, edit, mix and master audio and MIDI projects.
+    </p>
+    <p>
+      It is targeted at audio engineers, musicians, soundtrack editors and
+      composers.
+    </p>
+  </description>
+  <description lang="de">
+    <p>Ardour ist eine mehrkanalige Digital Audio Workstation (DAW), die es Ihnen erlaubt, Audio- und MIDI-Projekte aufzunehmen, zu bearbeiten, zu mischen und zu mastern.</p>
+    <p>Es ist für Toningenieure, Musiker, Bearbeiter von Soundtracks und Komponisten gedacht.</p>
+  </description>
+  <description lang="eu">
+    <p>Ardour audio eta MIDI proiektuak grabatzeko, editatzeko, nahasteko eta masterizatzeko aukera ematen dizun kanal anitzeko lan-estazioa da.</p>
+    <p>Audio-ingeniari, musikari, soinu-banda editore eta konpositoreei zuzenduta dago.</p>
+  </description>
+  <description lang="fr">
+    <p>Ardour, station de travail audionumérique multipiste : enregistrer, monter, mixer et masteriser des projets audio et MIDI.</p>
+    <p>Il est destiné aux ingénieurs du son, musiciens, monteurs son et compositeurs.</p>
+  </description>
+  <description lang="it">
+    <p>Ardour è una workstation audio digitale multicanale, che consente di registrare, modificare, missare e masterizzare progetti audio e MIDI.</p>
+    <p>È rivolto a ingegneri del suono, musicisti, montatori di colonne sonore e compositori.</p>
+  </description>
+  <description lang="ja">
+    <p>Ardour はマルチチャンネル・デジタル・オーディオ・ワークステーション (DAW) です。オーディオや MIDI のレコーディング、編集、ミックス、マスタリングができます。</p>
+    <p>オーディオエンジニア、ミュージシャン、サウンドトラック・エディター、作曲家を利用対象者としています。</p>
+  </description>
+  <description lang="ko">
+    <p>Ardor는 오디오 및 MIDI 프로젝트를 녹음, 편집, 믹싱 및 마스터할 수 있는 다중 채널 디지털 오디오 워크스테이션입니다.</p>
+    <p>오디오 엔지니어, 음악가, 사운드트랙 편집자 및 작곡가를 대상으로 합니다.</p>
+  </description>
+  <description lang="ru">
+    <p>Ardour — многоканальная цифровая звуковая рабочая станция, с помощью которой вы можете записывать, редактировать, микшировать и готовить к публикации аудиозаписи и MIDI-проекты.</p>
+    <p>Она предназначена для инженеров звука, музыкантов, редакторов саундтреков и композиторов.</p>
+  </description>
+  <description lang="zh">
+    <p>Ardour 是一个多声道数字音频工作站，允许您录制，编辑，混音并且主控音频和 MIDI 项目。</p>
+    <p>它的应用人群针对的是音频工程师、乐师、声音轨道编辑师和作曲家。</p>
+  </description>
+  <url type="homepage">http://ardour.org</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>http://community.ardour.org/files/images/ardour-editor-window-1600x900.png</image>
+      <caption>The Editor window where you can arrange audio and MIDI data along a timeline</caption>
+      <caption lang="de">Das Editorfenster, in dem Sie Audio- und Midi-Daten entlang einer Zeitachse anordnen können</caption>
+      <caption lang="eu">Edizio-leihoan audio eta MIDI datuak antolatu ditzakezu denbora-lerroan zehar</caption>
+      <caption lang="fr">L'Éditeur, qui permet d'arranger la chronologie des données audio et MIDI</caption>
+      <caption lang="it">La finestra Editor in cui è possibile disporre i dati audio e MIDI lungo una linea temporale</caption>
+      <caption lang="ja">エディターウインドウではオーディオや MIDI データをタイムラインに沿ってアレンジできます</caption>
+      <caption lang="ko">오디오 및 MIDI 데이터를 타임라인을 따라 정렬할 수 있는 편집기 창</caption>
+      <caption lang="ru">Окно редактора, в котором аудио- и MIDI-данные размещаются на шкале времени</caption>
+      <caption lang="zh">编辑器窗口是您可以沿着时间线排列音频和 MIDI 数据的地方</caption>
+    </screenshot>
+    <screenshot>
+      <image>http://community.ardour.org/files/images/ardour-mixer-window-1600x900.png</image>
+      <caption>The Mixer window which includes channel strips for each track and bus</caption>
+      <caption lang="de">Das Mixerfenster, das die Kanalzüge für alle Spuren und Busse enthält</caption>
+      <caption lang="eu">Nahasgailu leihoan pista eta bus bakoitzeko kanal-bandak daude</caption>
+      <caption lang="fr">La Console, qui comporte une tranche pour chaque piste et bus</caption>
+      <caption lang="it">La finestra Mixer che include channel strip per ogni traccia e bus</caption>
+      <caption lang="ja">ミキサーウインドウにはトラックやバスごとにチャンネルストリップが用意されています</caption>
+      <caption lang="ko">각 트랙 및 버스에 대한 채널 스트립이 포함된 믹서 창</caption>
+      <caption lang="ru">Окно микшера с каналами для каждой дорожки и шины</caption>
+      <caption lang="zh">混音器窗口包括有每个音轨和总线的声道工具栏</caption>
+    </screenshot>
+  </screenshots>
+</component>

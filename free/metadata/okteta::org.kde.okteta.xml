@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <description>
+    <p>Okteta is a simple editor for the raw data of files.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Values and characters shown either in two columns (the traditional display in hex editors) or in rows with the value on top of the character</li>
+      <li>Editing and navigating similar to a text editor</li>
+      <li>Customizable data views, with loadable and storable profiles</li>
+      <li>Tools dockable on all sides or floating</li>
+      <li>Numerical encodings: Hexadecimal, Decimal, Octal, Binary</li>
+      <li>Character encodings: All 8-bit encodings as supplied by Qt, EBCDIC</li>
+      <li>Fast data rendering on screen</li>
+      <li>Multiple open files</li>
+      <li>Undo/redo support</li>
+      <li>Structures tool for analyzing and editing based on user-creatable structure definitions</li>
+      <li>And more...</li>
+    </ul>
+  </description>
+  <description lang="bs">
+    <p>Svojstva:</p>
+    <ul>
+      <li>Podrška za poništavanje/ponavljanje akcija</li>
+      <li>i još %1</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>L'Okteta és un editor senzill per a les dades sense processar dels fitxers.</p>
+    <p>Característiques:</p>
+    <ul>
+      <li>Els valors i els caràcters es mostren en dues columnes (la vista tradicional en els editors hexadecimals) o en files amb el valor a sobre del caràcter</li>
+      <li>Edició i navegació semblant a un editor de text</li>
+      <li>Vistes de dades que es poden personalitzar, amb perfils que es poden carregar i emmagatzemar</li>
+      <li>Eines acoblables en totes les vores o flotants</li>
+      <li>Codificacions numèriques: Hexadecimal, Decimal, Octal, Binari</li>
+      <li>Codificacions de caràcters: Totes les codificacions de 8 bits proporcionades per les Qt, EBCDIC</li>
+      <li>Renderització ràpida de les dades a la pantalla</li>
+      <li>Múltiples fitxers oberts</li>
+      <li>Admet desfer/refer</li>
+      <li>Eina d'estructures per a analitzar i editar, basada en definicions de l'estructura que pot crear l'usuari</li>
+      <li>I més...</li>
+    </ul>
+  </description>
+  <description lang="ca-valencia">
+    <p>L'Okteta és un editor senzill per a les dades sense processar dels fitxers.</p>
+    <p>Característiques:</p>
+    <ul>
+      <li>Els valors i els caràcters es mostren en dues columnes (la vista tradicional en els editors hexadecimals) o en files amb el valor damunt del caràcter</li>
+      <li>Edició i navegació semblant a un editor de text</li>
+      <li>Vistes de dades que es poden personalitzar, amb perfils que es poden carregar i emmagatzemar</li>
+      <li>Eines acoblables en totes les vores o flotants</li>
+      <li>Codificacions numèriques: Hexadecimal, Decimal, Octal, Binari</li>
+      <li>Codificacions de caràcters: Totes les codificacions de 8 bits proporcionades per les Qt, EBCDIC</li>
+      <li>Renderització ràpida de les dades a la pantalla</li>
+      <li>Múltiples fitxers oberts</li>
+      <li>Admet desfer/refer</li>
+      <li>Eina d'estructures per a analitzar i editar, basada en definicions de l'estructura que pot crear l'usuari</li>
+      <li>I més...</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>Vlastnosti:</p>
+    <ul>
+      <li>Otevření více souborů</li>
+      <li>Podpora zpět/vpřed</li>
+      <li>A další...</li>
+    </ul>
+  </description>
+  <description lang="da">
+    <p>Funktioner:</p>
+  </description>
+  <description lang="de">
+    <p>Okteta ist ein einfacher Editor für die Rohdaten von Dateien.</p>
+    <p>Funktionen:</p>
+    <ul>
+      <li>Werte und Zeichen können in zwei Spalten (die traditionelle Anzeige von Hexeditoren) oder in Reihen mit der Anzeige der Werte über den Zeichen dargestellt werden</li>
+      <li>Bearbeiten und navigieren ähnlich wie in einem Texteditor</li>
+      <li>Benutzerdefinierte Datenansichten mit Profilen, die gespeichert und geladen werden können.</li>
+      <li>Werkzeuge können an allen Seiten verankert oder freischwebend benutzt werden</li>
+      <li>Zahlenkodierung: Hexadezimal, Dezimal, Oktal und Binär</li>
+      <li>Zeichenkodierungen: Alle Kodierungen, die von Qt und EBCDIC unterstützt werden</li>
+      <li>Schnelles Rendern der Daten auf dem Bildschirm</li>
+      <li>Mehrere geöffnete Dateien</li>
+      <li>Unterstützung für Zurücknehmen und Wiederherstellen</li>
+      <li>Strukturen-Werkzeug für die Untersuchung und Bearbeitung auf der Basis von benutzerdefinierten Strukturdefinitionen</li>
+      <li>Und noch mehr ...</li>
+    </ul>
+  </description>
+  <description lang="el">
+    <p>Το Okteta είναι ένας απλός επεξεργαστής για τα ακατέργαστα δεδομένα αρχείων.</p>
+    <p>Χαρακτηριστικά:</p>
+    <ul>
+      <li>Οιτιμές και οι χαρακτήρες εμφανίζονταιή σε δύο στήλες (η παραδοσιακή παρουσίαση στους επεξεργαστές δεκαεξαδικών) ή σε γραμμέςμε την τιμή στην κορυφή του χαρακτήρα</li>
+      <li>Επεξεργασία και πλοήγηση παρόμοια με επεξεργαστή κειμένου</li>
+      <li>Προσαρμόσιμες προβολές δεδομένων με φορτώσιμα και αποθηκεύσιμα προφίλ</li>
+      <li>Εργαλεία έτοιμα για διαχειριστές εργασιών σε όλες τις πλευρές ή αιωρούμενα</li>
+      <li>Αριθμητικές κωδικοποιήσεις: Δεκαεξαδική, δεκαδική, οκταδική, δυαδική</li>
+      <li>Κωδικοποίηση χαρακτήρων: όλες οι 8-bit κωδικοποιήσεις όπως έρχονται από Qt, EBCDIC</li>
+      <li>Γρήγορη αποτύπωση χαρακτήρων στην οθόνη</li>
+      <li>Άνοιγμα πολλαπλών αρχείων</li>
+      <li>Υποστήριξη αναίρεσης/επανάληψης</li>
+      <li>Εργαλείο δομών για ανάλυση και επεξεργασία με βάση ορισμούς δομών που δημιουργεί ο χρήστης</li>
+      <li>Και πολλά άλλα...</li>
+    </ul>
+  </description>
+  <description lang="en-GB">
+    <p>Okteta is a simple editor for the raw data of files.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Values and characters shown either in two columns (the traditional display in hex editors) or in rows with the value on top of the character</li>
+      <li>Editing and navigating similar to a text editor</li>
+      <li>Customisable data views, with loadable and storable profiles</li>
+      <li>Tools dockable on all sides or floating</li>
+      <li>Numerical encodings: Hexadecimal, Decimal, Octal, Binary</li>
+      <li>Character encodings: All 8-bit encodings as supplied by Qt, EBCDIC</li>
+      <li>Fast data rendering on screen</li>
+      <li>Multiple open files</li>
+      <li>Undo/redo support</li>
+      <li>Structures tool for analysing and editing based on user-creatable structure definitions</li>
+      <li>And more...</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>Okteta es un sencillo editor de archivos de datos en bruto.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Muestra valores y caracteres en dos columnas (la vista tradicional para editores hexadecimales) o en filas con los valores encima de los caracteres</li>
+      <li>Edición y navegación similar a la de los editores de texto</li>
+      <li>Vistas personalizadas de datos, con perfiles que se pueden guardar y cargar</li>
+      <li>Cajas de herramientas empotrables o flotantes</li>
+      <li>Codificaciones numéricas (hexadecimal, decimal, octal, binaria)</li>
+      <li>Codificaciones de caracteres (todas las codificaciones de 8 bits que proporciona Qt, EBCDIC)</li>
+      <li>Visualización rápida de datos en la pantalla</li>
+      <li>Permite abrir varios archivos a la vez</li>
+      <li>Permite deshacer y rehacer acciones</li>
+      <li>Herramientas de estructuras para analizar y editar basándose en definiciones de estructuras creadas por el usuario</li>
+      <li>Y más...</li>
+    </ul>
+  </description>
+  <description lang="et">
+    <p>Okteta on lihtne failide toorandmete redaktor.</p>
+    <p>Omadused:</p>
+    <ul>
+      <li>Väärtusi ja märke võib lasta näidata kahes veerus (niisuguste redaktorite tavapärane kuvamisviis) või ridades, kus väärtus on märgi peal</li>
+      <li>Redigeerimine ja liikumine nagu tavalises tekstiredaktoris</li>
+      <li>Kohandatavad andmevaated laaditavate ja salvestatavate profiilidega</li>
+      <li>Tööriistad, mida saab dokkida igale küljele või muuta hõljuvaks</li>
+      <li>Arvukodeeringud: kuueteistkümnend-, kümnend-, kaheksand- ja kahendsüsteemis</li>
+      <li>Märgikodeeringud: kõik 8-bitised kodeeringud, mida toetab Qt, EBCDIC</li>
+      <li>Andmete kiire renderdamine ekraanil</li>
+      <li>Paljude failide korraga avamise võimalus</li>
+      <li>Tagasivõtmiste ja uuestitegemiste toetus</li>
+      <li>Struktuuride tööriist analüüsimiseks ja muutmiseks vastavalt kasutaja loodud struktuuridefinitsioonidele</li>
+      <li>Ja veel palju muud...</li>
+    </ul>
+  </description>
+  <description lang="eu">
+    <p>Okteta fitxategietako datu gordinak editatzeko editore erraz bat da.</p>
+    <p>Ezaugarriak:</p>
+    <ul>
+      <li>Balioak eta karaktereak bi zutabetan (editore hamaseitarretan ohiko ikuspegia) edo errenkadatan balioa karaktere gainean duela</li>
+      <li>Testu-editore baten antzeko editatzea eta nabigatzea</li>
+      <li>Datuen ikuspegi moldagarriak, profilak zamatu eta gorde daitezke</li>
+      <li>Tresna flotagarriak edo alde guztietan aingura daitezkeenak</li>
+      <li>Zenbaki kodeketa: hamaseitarra, hamartarra, zortzitarra, bitarra</li>
+      <li>Karaktere kodeketa: Qt bidez hornitutako 8-biteko kodeketa guztiak, EBCDIC</li>
+      <li>Pantailan datuen errendatze azkarra</li>
+      <li>Irekitako fitxategi aniztuna</li>
+      <li>Desegin/berregin euskarria</li>
+      <li>Aztertzeko eta editatzeko egituren tresna, erabiltzaileak sor ditzakeen egitura definizioetan oinarritua</li>
+      <li>Eta gehiago...</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>Okteta on yksinkertainen editori tiedostojen raakadatalle.</p>
+    <p>Ominaisuudet:</p>
+    <ul>
+      <li>Arvot ja merkit näytetään joko kahdessa sarakkeessa (niin kuin perinteisesti heksaeditoreissa) tai riveittäin arvo merkin yläpuolella</li>
+      <li>Muokkaus ja siirtyminen kuin tekstieditorissa</li>
+      <li>Muokattavissa olevat datanäkymät; ladattavat ja tallennettavat profiilit</li>
+      <li>Työkalut, jotka voi telakoida mihin tahansa laitaan tai antaa kellua vapaasti</li>
+      <li>Lukujen koodaukset: heksa, desimaali, oktaali, binaari</li>
+      <li>Merkkikoodaukset: Kaikki Qt:n tarjoamat 8-bittiset koodaukset sekä EBCDIC</li>
+      <li>Datan nopea näyttäminen</li>
+      <li>Useat avoimet tiedostot</li>
+      <li>Tuki muutosten kumoamiselle ja tekemiselle uudelleen</li>
+      <li>Rakennetyökalu datan analysointiin ja muokkaamiseen; perustuu rakennemääritelmiin, joita käyttäjät voivat luoda</li>
+      <li>Ja muuta…</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>Okteta est un simple éditeur pour les données brutes des fichiers.</p>
+    <p>Fonctionnalités :</p>
+    <ul>
+      <li>Les valeurs et les caractères sont affichés soit en deux colonnes (affichage traditionnel des éditeurs hexadécimaux) soit en rangées avec la valeur au-dessus du caractère</li>
+      <li>Édition et navigation similaires à un éditeur de texte</li>
+      <li>Vues de données personnalisables ; il est possible de charger et d'enregistrer des profils</li>
+      <li>Les outils peuvent être disposés de chaque côté ou flottants</li>
+      <li>Codage des valeurs : hexadécimal, décimal, octal, binaire</li>
+      <li>Codage des caractères : tout les codages 8 bits fournis par Qt, EBCDIC</li>
+      <li>Rendu rapide des données à l'écran</li>
+      <li>Ouverture de fichiers multiples</li>
+      <li>Prise en charge de « annuler » et « refaire »</li>
+      <li>Outil de structures pour l'analyse et l'édition basé des définitions de structures créées par l'utilisateur</li>
+      <li>Et plus…</li>
+    </ul>
+  </description>
+  <description lang="gl">
+    <p>Okteta é un editor sinxelo para os datos en bruto de ficheiros.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Os valores e caracteres poden mostrarse tanto en dúas columnas (a vista tradicional de editores de bytes) como en filas cos valores sobre os caracteres.</li>
+      <li>Permite editar e examinar de maneira similar a un editor de texto simple.</li>
+      <li>As vistas de datos poden personalizarse, e poden cargarse e almacenarse perfís.</li>
+      <li>As ferramentas poden acoplarse por toda a interface ou quedar flotando sobre ela.</li>
+      <li>Pode mostrar os valores numéricos en notacións hexadecimal, decimal, octal e binaria.</li>
+      <li>Pode mostrar os caracteres en todas as codificacións baseadas en 8 bits que fornece Qt, así como en EBCDIC.</li>
+      <li>Os datos móstranse rapidamente na pantalla.</li>
+      <li>Poden abrirse varios ficheiros de maneira simultánea.</li>
+      <li>Permite desfacer e refacer operacións.</li>
+      <li>Ferramenta de estruturas para analizar e editar baseándose en definicións de estruturas creadas polo usuario.</li>
+      <li>E máis…</li>
+    </ul>
+  </description>
+  <description lang="hu">
+    <p>Az Oktate egy egyszerű program fájlok nyers adatainak szerkesztéséhez.</p>
+    <p>Szolgáltatások:</p>
+    <ul>
+      <li>Értékek és karakterek megjelenítése hagyományos (kétoszlopos) módon, vagy sorokban (az értékek a karakterek fölött helyezkednek el)</li>
+      <li>Szerkesztés és navigálás egy szövegszerkesztőhöz hasonlóan</li>
+      <li>Testre szabható adatnézetek, betölthető és menthető profilokkal</li>
+      <li>Bármely oldalon dokkolható vagy lebegő eszköztárak</li>
+      <li>Numerikus kódolások: hexadecimális, decimális, oktális, bináris</li>
+      <li>Karakterkódolások: minden, a Qt és EBCDIC által biztosított 8 bites kódolás</li>
+      <li>Gyors adatrenderelés a kijelzőn</li>
+      <li>Több fájl megnyitása egyszerre</li>
+      <li>Visszavonás/újra műveletek támogatása</li>
+      <li>Struktúra eszközök a felhasználó által létrehozott struktúradefiníciók elemzésére és szerkesztésére</li>
+      <li>És még sok minden más…</li>
+    </ul>
+  </description>
+  <description lang="ia">
+    <p>Okteta es un simple editor per le datos drude de files.</p>
+    <p>Characteristicas:</p>
+    <ul>
+      <li>Valores e characteres monstrate o in duo columnas (le monstrator traditional in redactores hexadecimal) o in rangos con le valor al culmine del character</li>
+      <li>Editar e navigar de modo simile a un editor de texto</li>
+      <li>Vistas de datos personalisabile, con profilos cargabile e immagazinabile</li>
+      <li>Instrumentos stivabile sur omne lateres o fluctuante</li>
+      <li>Codificationes Numeric: Hexadecimal, Decimal, Octal, Binari</li>
+      <li>Codificationes de character: Omne codificationes de 8bits como fornite per Qt, EBCDIC</li>
+      <li>Rendition rapide de datos sur schermo</li>
+      <li>Files multiple aperite</li>
+      <li>Supporto de annulla/reface</li>
+      <li>Instrumento de structuras per analysar e modificar basate sur definitiones de structure creabile de usator (user-creatable structure)</li>
+      <li>E altere ...</li>
+    </ul>
+  </description>
+  <description lang="id">
+    <p>Okteta adalah editor sederhana untuk file-file data mentah (raw)</p>
+    <p>Fitur:</p>
+    <ul>
+      <li>Nilai dan karakter ditampilkan antara dua kolom (displai tradisional dalam editor hex) atau dalam row dengan nilai di atas karakter</li>
+      <li>Pengeditan dan penavigasian mirip dengan editor teks</li>
+      <li>Tampilan data yang dapat dikustomisasi, dapat dimuat, dan profil yang dapat disimpan</li>
+      <li>Peralatan yang dapat di-dock pada semua sisi atau mengambang</li>
+      <li>Pengenkodean nomerik: Heksadesimal, Desimal, Oktal, Biner</li>
+      <li>Pengenkodean karakter: Semua pengenkodean 8-bit sebagai asupan oleh Qt, EBCDIC</li>
+      <li>Perenderan data yang cepat pada layar</li>
+      <li>Multi pembukaan file</li>
+      <li>Dukungan urungkan/lanjurkan</li>
+      <li>Alat struktur untuk menganalisis dan mengedit berdasarkan pada struktur pengguna yang dapat diciptakan</li>
+      <li>Dan selebihnya...</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>Okteta è un semplice editor dei dati grezzi di un file.</p>
+    <p>Funzionalità:</p>
+    <ul>
+      <li>I valori e i caratteri visualizzati in due colonne (la visualizzazione normale degli editor esadecimali) o in righe con il valore sopra il carattere</li>
+      <li>Modifica e navigazione simili ad un editor di testo</li>
+      <li>Viste dei dati configurabili, con profili caricabili e salvabili</li>
+      <li>Strumenti agganciabili su qualsiasi lato o liberi</li>
+      <li>Codifiche numeriche: esadecimale, decimale, ottale e binaria</li>
+      <li>Codifiche dei caratteri: tutte le codifiche a 8 bit fornite da Qt, EBCDIC</li>
+      <li>Resa veloce dei dati sullo schermo</li>
+      <li>Più file aperti</li>
+      <li>Supporto per annulla/rifai</li>
+      <li>Strumento per le strutture per analizzare e modificare in base a definizioni di strutture dell'utente</li>
+      <li>E altro ancora...</li>
+    </ul>
+  </description>
+  <description lang="ko">
+    <p>Okteta는 파일의 원시 데이터에 대한 간단한 편집기입니다.</p>
+    <p>기능:</p>
+    <ul>
+      <li>열 두 개(16진수 편집기의 기존 디스플레이) 또는 문자의 맨 위에 값이 있는 행에 표시되는 값 및 문자</li>
+      <li>텍스트 편집기와 유사한 편집 및 탐색</li>
+      <li>불러오기 및 저장이 가능한 프로필을 사용하여 사용자 정의 가능한 데이터 보기</li>
+      <li>모든 측면 또는 플로팅 시 도킹 가능</li>
+      <li>숫자 인코딩: 16진수, 10진수, 8진수, 2진수</li>
+      <li>문자 인코딩: Qt, EBCDIC에서 제공하는 모든 8비트 인코딩</li>
+      <li>화면에서의 빠른 데이터 렌더링</li>
+      <li>열린 파일 여러 개</li>
+      <li>실행 취소 / 다시 실행 지원</li>
+      <li>사용자가 만들 수 있는 구조 정의를 기반으로 분석 및 편집하는 구조 도구</li>
+      <li>그리고 더...</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>Okteta is een eenvoudige bewerker voor de ruwe gegevens van bestanden.</p>
+    <p>Mogelijkheden:</p>
+    <ul>
+      <li>Waarden en tekens worden getoond ofwel in twee kolommen (de traditionele weergave in hex-editors) of in rijen met de waarde boven het teken.</li>
+      <li>Bewerken en navigeren is gelijk aan die in een tekstbewerker</li>
+      <li>Aan te passen weergave met profielen die zijn te laden en op te slaan</li>
+      <li>Hulpmiddelen die aan alle kanten zijn te verankeren of zweven</li>
+      <li>Numerieke coderingen: hexadecimaal, decimaal, octaal, binair</li>
+      <li>Tekencoderingen: alle 8-bits coderingen zoals geleverd door Qt, EBCDIC</li>
+      <li>Snelle weergave van gegevens op het scherm</li>
+      <li>Meerdere geopende bestanden</li>
+      <li>Ondersteuning ongedaan maken/opnieuw</li>
+      <li>Het hulpmiddel Structuren voor analyseren en bewerking op door de gebruiker gemaakte structuurdefinities</li>
+      <li>En meer...</li>
+    </ul>
+  </description>
+  <description lang="nn">
+    <p>Okteta er eit veldig enkelt redigeringsprogram for rådata i filer.</p>
+    <p>Funksjonar:</p>
+    <ul>
+      <li>Verdiar og teikn kan visast i to kolonnar (kjend frå klassiske heks-redigeringsprogram) eller i rader, med verdiane viste over teikna</li>
+      <li>Redigering og navigering som eit vanleg skriveprogram</li>
+      <li>Kan skreddarsy datavisingar og lagra dei som eigne profilar</li>
+      <li>Verktøya kan dokkast på alle sidene, eller flyta fritt</li>
+      <li>Numeriske kodingar: heksadesimal, desimal, oktal, binær</li>
+      <li>Teiknkodingar: Alle 8-bits teiknkodingar tilgjengeleg i Qt, EBCDIC</li>
+      <li>Rask datavising på skjermen</li>
+      <li>Fleire opne filer samtidig</li>
+      <li>Støtte for angring/omgjering</li>
+      <li>Strukturverktøy for analyse og redigering basert på strukturar som du sjølv kan definera</li>
+      <li>Og mykje meir …</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <p>Okteta to prosty edytor do przeglądania nieprzetworzonych danych plików.</p>
+    <p>Możliwości:</p>
+    <ul>
+      <li>Wartości i znaki są pokazywane albo w dwóch kolumnach (tradycyjne wyświetlanie w edytorach szesnastkowych) lub w wierszach z wartością nad znakiem</li>
+      <li>Edytowanie i poruszanie się po programie podobnie jak w edytorach tekstowych</li>
+      <li>Własne widoki danych wraz z możliwością wczytywania i zachowywania profili</li>
+      <li>Narzędzia pływające lub z możliwością dokowania na wszystkich stronach</li>
+      <li>Kodowania numeryczne: szesnastkowe, dziesiętne, ósemkowe, dwójkowe</li>
+      <li>Kodowania znakowe: wszystkie 8-bitowe kodowania dostarczone przez Qt, EBCDIC</li>
+      <li>Szybkie wyświetlane danych na ekranie</li>
+      <li>Otwieranie wielu plików</li>
+      <li>Obsługa cofnij/ponów</li>
+      <li>Narzędzie struktur do analizowania i edytowania na podstawie definicji struktur tworzonych przez użytkownika</li>
+      <li>I więcej...</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>O Okteta é um editor simples para os dados em bruto dos ficheiros.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Valores e respectivos caracteres apresentados em duas colunas (a aparência tradicional dos editores hexadecimais) ou em linhas com o valor no topo dos caracteres.</li>
+      <li>Edição e navegação semelhantes a um editor de texto</li>
+      <li>Vistas de dados personalizadas, com perfis que podem ser carregados e gravados</li>
+      <li>Ferramentas acopláveis a todos os lados ou flutuantes</li>
+      <li>Codificações numéricas: Hexadecimal, Decimal, Octal, Binário</li>
+      <li>Codificações de caracteres: Todas as codificações de 8 bits suportadas pelo Qt, EBCDIC</li>
+      <li>Apresentação rápida dos dados no ecrã</li>
+      <li>Diversos ficheiros abertos</li>
+      <li>Suporte para desfazer/refazer</li>
+      <li>Ferramenta de estruturas para analisar e editar com base em definições de estruturas criadas pelo utilizador</li>
+      <li>E mais...</li>
+    </ul>
+  </description>
+  <description lang="pt-BR">
+    <p>Okteta é um editor simples para os dados brutos dos arquivos.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Valores e respectivos caracteres apresentados em duas colunas (a aparência tradicional dos editores hexadecimais) ou em linhas com o valor no topo dos caracteres</li>
+      <li>Edição e navegação semelhantes a um editor de texto</li>
+      <li>Modos de exibição de dados personalizados, com perfis que podem ser gravados e carregados</li>
+      <li>Ferramentas acopláveis em todos os lados ou flutuantes</li>
+      <li>Codificações numéricas: Hexadecimal, Decimal, Octal e Binário</li>
+      <li>Codificações de caracteres: Todas as codificações de 8 bits suportadas pelo Qt, EBCDIC</li>
+      <li>Apresentação rápida dos dados na tela</li>
+      <li>Diversos arquivos abertos</li>
+      <li>Suporte para desfazer/refazer</li>
+      <li>Ferramenta de estruturas para análise e edição com base em definições de estruturas criadas pelo usuário</li>
+      <li>E mais...</li>
+    </ul>
+  </description>
+  <description lang="ro">
+    <p>Caracteristici:</p>
+    <ul>
+      <li>Și altele...</li>
+    </ul>
+  </description>
+  <description lang="ru">
+    <p>Okteta — простой редактор двоичных файлов</p>
+    <p>Возможности:</p>
+    <ul>
+      <li>Расположение значений и символов либо в двух столбцах (как в большинстве шестнадцатеричных редакторов), либо в строках со значениями над символами</li>
+      <li>Редактирование и навигация приближена к интерфейсу текстового редактора</li>
+      <li>Настраиваемые панели просмотра данных с возможностью сохранения и загрузки профилей</li>
+      <li>Перемещаемые панели</li>
+      <li>Поддержка шестнадцатеричной, десятичной, восьмеричной и двоичной записи чисел</li>
+      <li>Поддерживаются все 8-битные кодировки символов, имеющиеся в Qt, а также EBCDIC</li>
+      <li>Быстрый показ данных на экране</li>
+      <li>Работа с несколькими файлами в одном окне</li>
+      <li>Отмена и возврат действий</li>
+      <li>Инструмент для работы со структурами данных, вы можете сами создавать определения для новых структур данных</li>
+      <li>И многое другое...</li>
+    </ul>
+  </description>
+  <description lang="sk">
+    <p>Okteta je jednoduchý editor na čisté údaje súborov.</p>
+    <p>Funkcie:</p>
+    <ul>
+      <li>Hodnoty a znaky zobrazené buď vo dvoch stĺpcoch (tradičné zobrazenie v hex editoroch) alebo v riadkoch s hodnotou nad znakom</li>
+      <li>Úprava a navigácia podobná ako v textovom editore</li>
+      <li>Prispôsobiteľné pohľady údajov s načítateľnými a uložiteľnými profilmi</li>
+      <li>Nástroje uchytiteľné na všetkých stranách alebo plávajúce</li>
+      <li>Numerické kódovania: hexadecimálne, decimálne, osmičkové a binárne</li>
+      <li>Kódovania znakov: všetky 8-bitové kódovania v Qt, EBCDIC</li>
+      <li>Rýchle zobrazovanie údajov na obrazovke</li>
+      <li>Otváranie viacerých súborov</li>
+      <li>Podpora Späť/Znova</li>
+      <li>Nástroj štruktúr na analýzu a úpravu založený na používateľom vytvoriteľných definíciách štruktúr</li>
+      <li>A viac...</li>
+    </ul>
+  </description>
+  <description lang="sl">
+    <p>Okteta je enostaven urejevalnik za surove podatke datotek.</p>
+    <p>Zmožnosti:</p>
+    <ul>
+      <li>Vrednosti in znaki, prikazani v enem od obeh stolpcev (v tradicionalnem prikazu v šestnajstiških urejevalnikih) ali v vrsticah z vrednostjo nad znakom</li>
+      <li>Urejanje in krmarjenje, podobno tistemu v urejevalniku besedil</li>
+      <li>Prilagodljivi pogledi podatkov, s profili za nalaganje in shranjevanje</li>
+      <li>Orodja, ki jih je mogoče sidrati na vse strani ali pustiti plavajoča</li>
+      <li>Številska kodiranja: šestnajstiško, desetiško, osmiško, dvojiško</li>
+      <li>Znakovna kodiranja: vsa 8-bitna kodiranja, ki jih zagotavlja Qt, EBCDIC</li>
+      <li>Hitro izrisovanje podatkov na zaslonu</li>
+      <li>Več odprtih datotek</li>
+      <li>Podpora razveljavitvam/uveljavitvam</li>
+      <li>Orodje struktur za preučevanje in urejanje, ki temelji na uporabniško ustvarjenih določilih struktur</li>
+      <li>In še več …</li>
+    </ul>
+  </description>
+  <description lang="sr">
+    <p>Октета је једноставан уређивач за сирове податке у фајловима.</p>
+    <p>Могућности:</p>
+    <ul>
+      <li>Приказ вредности и знакова или у две колоне (традиционално за хексадекадне уређиваче) или по врстама са вредношћу над знаком.</li>
+      <li>Уређивање и кретање слично уређивачу текста.</li>
+      <li>Прилагодљиви прикази података, уписивање и учитавање профила.</li>
+      <li>Алатке усидриве уз било коју страну, или плутајуће.</li>
+      <li>Бројевна кодирања: хексадекадно, декадно, октално, бинарно.</li>
+      <li>Знаковна кодирања: сва осмобитна кодирања подржана КуТ‑ом, и ЕБЦДИЦ.</li>
+      <li>Брзо рендеровање података на екрану.</li>
+      <li>Више отворених фајлова.</li>
+      <li>Опозивање и понављање.</li>
+      <li>Алатка структура за анализирање и уређивање на основу кориснички задатих дефиниција структура.</li>
+      <li>И више...</li>
+    </ul>
+  </description>
+  <description lang="sr-Latn">
+    <p>Okteta je jednostavan uređivač za sirove podatke u fajlovima.</p>
+    <p>Mogućnosti:</p>
+    <ul>
+      <li>Prikaz vrednosti i znakova ili u dve kolone (tradicionalno za heksadekadne uređivače) ili po vrstama sa vrednošću nad znakom.</li>
+      <li>Uređivanje i kretanje slično uređivaču teksta.</li>
+      <li>Prilagodljivi prikazi podataka, upisivanje i učitavanje profila.</li>
+      <li>Alatke usidrive uz bilo koju stranu, ili plutajuće.</li>
+      <li>Brojevna kodiranja: heksadekadno, dekadno, oktalno, binarno.</li>
+      <li>Znakovna kodiranja: sva osmobitna kodiranja podržana Qt‑om, i EBCDIC.</li>
+      <li>Brzo renderovanje podataka na ekranu.</li>
+      <li>Više otvorenih fajlova.</li>
+      <li>Opozivanje i ponavljanje.</li>
+      <li>Alatka struktura za analiziranje i uređivanje na osnovu korisnički zadatih definicija struktura.</li>
+      <li>I više...</li>
+    </ul>
+  </description>
+  <description lang="sr-ijekavian">
+    <p>Октета је једноставан уређивач за сирове податке у фајловима.</p>
+    <p>Могућности:</p>
+    <ul>
+      <li>Приказ вредности и знакова или у две колоне (традиционално за хексадекадне уређиваче) или по врстама са вредношћу над знаком.</li>
+      <li>Уређивање и кретање слично уређивачу текста.</li>
+      <li>Прилагодљиви прикази података, уписивање и учитавање профила.</li>
+      <li>Алатке усидриве уз било коју страну, или плутајуће.</li>
+      <li>Бројевна кодирања: хексадекадно, декадно, октално, бинарно.</li>
+      <li>Знаковна кодирања: сва осмобитна кодирања подржана КуТ‑ом, и ЕБЦДИЦ.</li>
+      <li>Брзо рендеровање података на екрану.</li>
+      <li>Више отворених фајлова.</li>
+      <li>Опозивање и понављање.</li>
+      <li>Алатка структура за анализирање и уређивање на основу кориснички задатих дефиниција структура.</li>
+      <li>И више...</li>
+    </ul>
+  </description>
+  <description lang="sr-ijekavianlatin">
+    <p>Okteta je jednostavan uređivač za sirove podatke u fajlovima.</p>
+    <p>Mogućnosti:</p>
+    <ul>
+      <li>Prikaz vrednosti i znakova ili u dve kolone (tradicionalno za heksadekadne uređivače) ili po vrstama sa vrednošću nad znakom.</li>
+      <li>Uređivanje i kretanje slično uređivaču teksta.</li>
+      <li>Prilagodljivi prikazi podataka, upisivanje i učitavanje profila.</li>
+      <li>Alatke usidrive uz bilo koju stranu, ili plutajuće.</li>
+      <li>Brojevna kodiranja: heksadekadno, dekadno, oktalno, binarno.</li>
+      <li>Znakovna kodiranja: sva osmobitna kodiranja podržana Qt‑om, i EBCDIC.</li>
+      <li>Brzo renderovanje podataka na ekranu.</li>
+      <li>Više otvorenih fajlova.</li>
+      <li>Opozivanje i ponavljanje.</li>
+      <li>Alatka struktura za analiziranje i uređivanje na osnovu korisnički zadatih definicija struktura.</li>
+      <li>I više...</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <p>Okteta är en enkel editor för rådata i filer.</p>
+    <p>Funktioner:</p>
+    <ul>
+      <li>Värden och tecken visas antingen i två kolumner (det traditionella sättet i hexadecimala editorer) eller i rader med värdet ovanför tecknet </li>
+      <li>Redigering och navigering liknar en texteditor</li>
+      <li>Anpassningsbar datavisning, med profiler som kan läsas in och sparas</li>
+      <li>Verktyg kan dockas på alla sidor eller vara fristående</li>
+      <li>Numeriska kodningar: Hexadecimal, decimal, oktal, binär</li>
+      <li>Teckenkodningar: Alla 8-bitars kodningar som tillhandahålls av Qt, EBCDIC</li>
+      <li>Snabb dataåtergivning på skärmen</li>
+      <li>Flera öppna filer</li>
+      <li>Stöd för ångra och gör om</li>
+      <li>Strukturverktyg för att undersökning och redigering baserat på användarskapade strukturdefinitioner</li>
+      <li>Med mera ...</li>
+    </ul>
+  </description>
+  <description lang="tr">
+    <p>Okteta ham veri dosyaları için basit bir düzenleyicidir.</p>
+    <p>Özellikleri:</p>
+    <ul>
+      <li>Değerler ve karakterler ya iki sütunda (hex düzenleyicilerin geleneksel görünümü) ya da değer karakterin üzerinde olacak şekilde iki satırda görüntülenir</li>
+      <li>Metin düzenleyicilere benzer düzenleme ve gezinme</li>
+      <li>Yüklenebilir ve saklanabilir profillerle özelleştirilebilir veri görünümleri</li>
+      <li>Kenarlara tutturulmuş veya kayan araçlar</li>
+      <li>Sayısal kodlama: On altılık, Onluk, Sekizlik, İkilik</li>
+      <li>Karakter kodlamaları: Qt tarafından verilen tüm 8-bit kodlamaları, EBCDIC</li>
+      <li>Ekranda hızlı veri gerçekleme</li>
+      <li>Çoklu dosya açılması</li>
+      <li>Geri al/yeniden yap desteği</li>
+      <li>Kullanıcının oluşturabildiği yapı tanımlamalarına dayalı analiz ve düzenleme yapmak için araçlar</li>
+      <li>Ve daha fazlası...</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>Okteta — простий редактор для безпосереднього редагування даних файлів.</p>
+    <p>Можливості:</p>
+    <ul>
+      <li>Значення та символи може бути показано або у два стовпчики (типовий формат перегляду у шістнадцяткових редакторах) або у форматі рядків, де значення буде показано над символом.</li>
+      <li>Панелі редагування і навігації, подібні на відповідні панелі текстового редактора.</li>
+      <li>Придатні до налаштовування панелі перегляду даних з можливістю завантаження та збереження профілів.</li>
+      <li>Можливість довільного розташування або повного від’єднання від вікна панелей інструментів.</li>
+      <li>Числові кодування: шістнадцяткове, десяткове, вісімкове, двійкове.</li>
+      <li>Кодування символів: підтримка усіх 8-бітових кодувань, які підтримуються у Qt, EBCDIC.</li>
+      <li>Швидкий показ даних на екрані.</li>
+      <li>Можливість одночасної роботи з декількома файлами.</li>
+      <li>Підтримка скасовування та повторення дій.</li>
+      <li>За допомогою інструменту «Структури» можна аналізувати та редагувати масиви байтів на основі створених користувачем визначень структур.</li>
+      <li>Та багато чого іншого…</li>
+    </ul>
+  </description>
+  <description lang="x-test">
+    <p>xxOkteta is a simple editor for the raw data of files.xx</p>
+    <p>xxFeatures:xx</p>
+    <ul>
+      <li>xxValues and characters shown either in two columns (the traditional display in hex editors) or in rows with the value on top of the characterxx</li>
+      <li>xxEditing and navigating similar to a text editorxx</li>
+      <li>xxCustomizable data views, with loadable and storable profilesxx</li>
+      <li>xxTools dockable on all sides or floatingxx</li>
+      <li>xxNumerical encodings: Hexadecimal, Decimal, Octal, Binaryxx</li>
+      <li>xxCharacter encodings: All 8-bit encodings as supplied by Qt, EBCDICxx</li>
+      <li>xxFast data rendering on screenxx</li>
+      <li>xxMultiple open filesxx</li>
+      <li>xxUndo/redo supportxx</li>
+      <li>xxStructures tool for analyzing and editing based on user-creatable structure definitionsxx</li>
+      <li>xxAnd more...xx</li>
+    </ul>
+  </description>
+  <description lang="zh-CN">
+    <p>Okteta 是款简单的文件原始数据编辑器。</p>
+    <p>功能：</p>
+    <ul>
+      <li>双列展示数据值和字符(传统十六进制编辑器视图)或单行字符上方显示数据</li>
+      <li>类似于文本编辑器的编辑和导航</li>
+      <li>可自定义数据视图，加载和保存视图配置</li>
+      <li>四周可停靠工具面板也可浮动</li>
+      <li>数字编码：十六进制，十进制，八进制，二进制</li>
+      <li>字符编码：Qt 提供的全部 8 位编码，EBCDIC</li>
+      <li>在屏幕上快速渲染数据</li>
+      <li>同时打开多个文件</li>
+      <li>支持撤销/重做</li>
+      <li>用于分析和编辑用户自建结构体定义的结构体工具</li>
+      <li>以及更多...</li>
+    </ul>
+  </description>
+  <description lang="zh-TW">
+    <p>Okteta 是一套編輯檔案原始資料的簡易編輯器。</p>
+    <p>功能：</p>
+    <ul>
+      <li>數值與字元可以用兩個欄位（傳統十六進制資料編輯的方式）顯示，或是在一列中將數值顯示在字元上方。</li>
+      <li>編輯與導覽類似一般文字編輯器</li>
+      <li>客製化的資料檢視，可載入並儲存設定檔</li>
+      <li>工具可以嵌在每一個側邊，或是浮出來</li>
+      <li>數值編碼：十六進制，十進制，八進制或二進制</li>
+      <li>字元編碼：所有 Qt 與 EBCDIC 5 支援的八位元編碼方式</li>
+      <li>快速螢幕資料繪制</li>
+      <li>可開啟多個檔案</li>
+      <li>復原/重做支援</li>
+      <li>基於使用者建立的結構定義做分析與編輯的工具</li>
+      <li>還有更多...</li>
+    </ul>
+  </description>
+  <pkgname>okteta</pkgname>
+  <icon type="cached" width="64" height="64">okteta.png</icon>
+  <icon width="128" type="cached" height="128">okteta.png</icon>
+  <id>org.kde.okteta.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0 OR GPL-3.0</project_license>
+  <name>Okteta</name>
+  <name lang="ast">Okteta</name>
+  <name lang="bs">Okteta</name>
+  <name lang="ca">Okteta</name>
+  <name lang="ca-valencia">Okteta</name>
+  <name lang="cs">Okteta</name>
+  <name lang="da">Okteta</name>
+  <name lang="de">Okteta</name>
+  <name lang="el">Okteta</name>
+  <name lang="en-GB">Okteta</name>
+  <name lang="es">Okteta</name>
+  <name lang="et">Okteta</name>
+  <name lang="eu">Okteta</name>
+  <name lang="fi">Okteta</name>
+  <name lang="fr">Okteta</name>
+  <name lang="gl">Okteta</name>
+  <name lang="hu">Okteta</name>
+  <name lang="ia">Okteta</name>
+  <name lang="id">Okteta</name>
+  <name lang="it">Okteta</name>
+  <name lang="ko">Okteta</name>
+  <name lang="nl">Okteta</name>
+  <name lang="nn">Okteta</name>
+  <name lang="pl">Okteta</name>
+  <name lang="pt">Okteta</name>
+  <name lang="pt-BR">Okteta</name>
+  <name lang="ro">Okteta</name>
+  <name lang="ru">Okteta</name>
+  <name lang="sk">Okteta</name>
+  <name lang="sl">Okteta</name>
+  <name lang="sr">Октета</name>
+  <name lang="sr-Latn">Okteta</name>
+  <name lang="sr-ijekavian">Октета</name>
+  <name lang="sr-ijekavianlatin">Okteta</name>
+  <name lang="sv">Okteta</name>
+  <name lang="tr">Okteta</name>
+  <name lang="uk">Okteta</name>
+  <name lang="x-test">xxOktetaxx</name>
+  <name lang="zh-CN">Okteta</name>
+  <name lang="zh-TW">Okteta</name>
+  <summary>Hex editor</summary>
+  <summary lang="bs">Heksadekadni editor</summary>
+  <summary lang="ca">Editor hexadecimal</summary>
+  <summary lang="ca-valencia">Editor hexadecimal</summary>
+  <summary lang="cs">Hexa editor</summary>
+  <summary lang="de">Hex-Editor</summary>
+  <summary lang="el">Επεξεργαστής δεκαεξαδικών</summary>
+  <summary lang="en-GB">Hex editor</summary>
+  <summary lang="es">Editor hexadecimal</summary>
+  <summary lang="et">Binaarfailide redaktor</summary>
+  <summary lang="eu">Editore hamaseitarra</summary>
+  <summary lang="fi">Heksaeditori</summary>
+  <summary lang="fr">Éditeur hexadécimal</summary>
+  <summary lang="gl">Editor de bytes</summary>
+  <summary lang="hu">Hexaszerkesztő</summary>
+  <summary lang="ia">Editor (Redactor) Hexadecimal</summary>
+  <summary lang="id">Editor Hex</summary>
+  <summary lang="it">Editor esadecimale</summary>
+  <summary lang="ko">16진수 편집기</summary>
+  <summary lang="nl">Hexbewerker</summary>
+  <summary lang="nn">Heksadesimal-redigering</summary>
+  <summary lang="pl">Edytor szesnastkowy</summary>
+  <summary lang="pt">Editor hexadecimal</summary>
+  <summary lang="pt-BR">Editor hexadecimal</summary>
+  <summary lang="ro">Redactor hexazecimal</summary>
+  <summary lang="ru">Шестнадцатеричный редактор</summary>
+  <summary lang="sk">Hex editor</summary>
+  <summary lang="sl">Šestnajstiški urejevalnik</summary>
+  <summary lang="sr">Хексадекадни уређивач</summary>
+  <summary lang="sr-Latn">Heksadekadni uređivač</summary>
+  <summary lang="sr-ijekavian">Хексадекадни уређивач</summary>
+  <summary lang="sr-ijekavianlatin">Heksadekadni uređivač</summary>
+  <summary lang="sv">Hexeditor</summary>
+  <summary lang="tr">Hex düzenleyici</summary>
+  <summary lang="uk">Шістнадцятковий редактор</summary>
+  <summary lang="x-test">xxHex editorxx</summary>
+  <summary lang="zh-CN">十六进制编辑器</summary>
+  <summary lang="zh-TW">十六進位資料編輯器</summary>
+  <url type="homepage">https://userbase.kde.org/Okteta/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=okteta</url>
+  <url type="help">https://docs.kde.org/?application=okteta</url>
+  <url type="donation">https://www.kde.org/community/donations/?app=okteta</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://kde.org/images/screenshots/okteta.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <categories>
+    <category>Utility</category>
+  </categories>
+  <provides>
+    <binary>okteta</binary>
+  </provides>
+  <launchable type="desktop-id">org.kde.okteta.desktop</launchable>
+  <releases>
+    <release version="0.26.7" date="2022-02-22" />
+    <release version="0.26.6" date="2021-03-29" />
+    <release date="2021-02-01" version="0.26.5" />
+    <release date="2020-07-28" version="0.26.4" />
+    <release version="0.26.3" date="2020-02-02" />
+  </releases>
+  <update_contact>kossebau_at_kde.org</update_contact>
+  <content_rating type="oars-1.1" />
+</component>

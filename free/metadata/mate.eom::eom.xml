@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>mate.eom</pkgname>
+  <launchable type="desktop-id">eom.desktop</launchable>
+  <icon width="64" height="64" type="cached">eom.png</icon>
+  <icon width="128" type="cached" height="128">eom.png</icon>
+  <id>eom.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>Eye of MATE</name>
+  <name lang="zu">Iso le MATE</name>
+  <name lang="zh_TW">Eye of MATE</name>
+  <name lang="zh_HK">Eye of MATE</name>
+  <name lang="zh_CN">MATE 之眼</name>
+  <name lang="xh">Iliso le-MATE</name>
+  <name lang="wa">Eye of Mate</name>
+  <name lang="vi">Mắt MATE</name>
+  <name lang="uz">MATE'ning koʻzi</name>
+  <name lang="uk">Око MATE</name>
+  <name lang="ug">Eye of MATE</name>
+  <name lang="tr">MATE'nin Gözü</name>
+  <name lang="th">Eye of MATE</name>
+  <name lang="te">Eye of MATE</name>
+  <name lang="ta">ஐ ஆப் க்னோம்</name>
+  <name lang="sv">Eye of MATE</name>
+  <name lang="sr@latin">Oči Gnoma</name>
+  <name lang="sr">Мејтово око</name>
+  <name lang="sq">Eye of MATE</name>
+  <name lang="sl">Eye of MATE</name>
+  <name lang="sk">Oko MATE</name>
+  <name lang="si">MATE ඇස</name>
+  <name lang="ru">Глаз MATE</name>
+  <name lang="ro">Eye of MATE</name>
+  <name lang="pt_BR">Visualizador de Imagens</name>
+  <name lang="pt">Eye of MATE</name>
+  <name lang="ps">د جنومي سترګه</name>
+  <name lang="pms">Eye of MATE</name>
+  <name lang="pl">Eye of MATE</name>
+  <name lang="pa">ਗਨੋਮ ਦੀ ਅੱਖ</name>
+  <name lang="or">ନୋମର ଆଖି</name>
+  <name lang="oc">Eye of MATE</name>
+  <name lang="nso">Leihlo la MATE</name>
+  <name lang="nn">Eye of MATE</name>
+  <name lang="nl">Oog van Mate (Eye of Mate)</name>
+  <name lang="ne">MATE को आँखा</name>
+  <name lang="nds">Eye of MATE</name>
+  <name lang="nb">Eye of MATE</name>
+  <name lang="ms">Eye of MATE</name>
+  <name lang="mr">Eye of MATE</name>
+  <name lang="ml">ഗ്നോം മിഴി</name>
+  <name lang="mk">Eye of MATE</name>
+  <name lang="mg">Eye of MATE</name>
+  <name lang="mai">गनोम क' आँखि</name>
+  <name lang="lv">Eye of MATE</name>
+  <name lang="lt">Eye of MATE</name>
+  <name lang="ky">MATE көзү</name>
+  <name lang="ku_IQ">چاوی MATE</name>
+  <name lang="ku">Çavê MATE'yê</name>
+  <name lang="ks">गनोमच अच्छ</name>
+  <name lang="ko">MATE의 눈</name>
+  <name lang="kn">ಐ ಆಫ್  MATE</name>
+  <name lang="kk">MATE көзі</name>
+  <name lang="kab">Tiṭ n MATE</name>
+  <name lang="ka">გნომის თვალი </name>
+  <name lang="ja">Eye of MATE</name>
+  <name lang="it">Eye of MATE</name>
+  <name lang="is">Eye of MATE myndasskoðun</name>
+  <name lang="ie">Li ocul de MATE</name>
+  <name lang="id">Eye of MATE</name>
+  <name lang="hy">Eye of MATE</name>
+  <name lang="hu">Eye of MATE</name>
+  <name lang="hr">Eye of MATE</name>
+  <name lang="hi">गनोम की आँख</name>
+  <name lang="he">העין של MATE</name>
+  <name lang="gu">Eye of MATE</name>
+  <name lang="gl">Ollo do MATE</name>
+  <name lang="ga">Eye of MATE</name>
+  <name lang="fur">Eye of MATE</name>
+  <name lang="fr">Eye of MATE</name>
+  <name lang="fi">MATEn silmä</name>
+  <name lang="fa">چشم گنوم</name>
+  <name lang="eu">MATEren begia</name>
+  <name lang="et">Eye of MATE (gnoomi silm)</name>
+  <name lang="es">Ojo de MATE</name>
+  <name lang="en_GB">Eye of MATE</name>
+  <name lang="en_CA">Eye of MATE</name>
+  <name lang="en_AU">Eye of MATE</name>
+  <name lang="el">Μάτι του MATE</name>
+  <name lang="dz">ཨའི་ཨོཕ་ཇི་ནོམ།</name>
+  <name lang="de">Eye of MATE</name>
+  <name lang="da">Mates øje</name>
+  <name lang="cy">EOM ('Eye of MATE)</name>
+  <name lang="cs">Eye of MATE</name>
+  <name lang="cmn">Eye of MATE</name>
+  <name lang="ca@valencia">Eye of MATE</name>
+  <name lang="ca">Eye of MATE</name>
+  <name lang="br">Eye of MATE</name>
+  <name lang="bn_IN">Eye of MATE</name>
+  <name lang="bn">জিনোমের চোখ</name>
+  <name lang="bg">Eye of MATE</name>
+  <name lang="be">Eye of MATE</name>
+  <name lang="ast">Eye of MATE</name>
+  <name lang="as">Eye of MATE</name>
+  <name lang="ar">عين متّة</name>
+  <name lang="am">የ ሜት አይን</name>
+  <name lang="af">MATE se Oog</name>
+  <summary>Simple image viewer</summary>
+  <summary lang="zh_TW">簡單的圖片檢視器</summary>
+  <summary lang="zh_CN">简单的图像查看器</summary>
+  <summary lang="vi">Trình xem ảnh ơn giản</summary>
+  <summary lang="uz">Sodda rasm ko'ruvchi</summary>
+  <summary lang="uk">Простий перелядач зображень</summary>
+  <summary lang="tr">Sade bir resim görüntüleyicisi</summary>
+  <summary lang="th">โปรแกรมแสดงรูปอย่างง่าย</summary>
+  <summary lang="sv">Enkel bildvisare</summary>
+  <summary lang="sr">Једноставан прегледач слика</summary>
+  <summary lang="sq">Shikues figurash i thjeshtë</summary>
+  <summary lang="sl">Preprost pregledovalnik slik</summary>
+  <summary lang="sk">Jednoduchý prehliadač obrázkov</summary>
+  <summary lang="ru">Простой просмотрщик изображений</summary>
+  <summary lang="ro">Vizualizator simplu de imagini</summary>
+  <summary lang="pt_BR">Visualizador de imagens simples</summary>
+  <summary lang="pt">Visualizador simples de imagens</summary>
+  <summary lang="pms">Sempi visualisator d’imagin</summary>
+  <summary lang="pl">Prosta przeglądarka obrazów</summary>
+  <summary lang="oc">Visualizaira d'imatges</summary>
+  <summary lang="nl">Simpele afbeeldingskijker</summary>
+  <summary lang="nb">Enkel bildeviser</summary>
+  <summary lang="ms">Pelihat imej ringkas</summary>
+  <summary lang="lt">Paprasta paveikslų žiūryklė</summary>
+  <summary lang="ko">단순한 이미지 뷰어</summary>
+  <summary lang="kk">Суреттерді қарапайым көрсетушісі</summary>
+  <summary lang="ja">簡易画像ビューア</summary>
+  <summary lang="it">Semplice visualizzatore di immagini</summary>
+  <summary lang="is">Einfaldur myndaskoðari</summary>
+  <summary lang="ie">Un simplic visor de images</summary>
+  <summary lang="id">Penampil citra sederhana</summary>
+  <summary lang="hy">Պարզ պատկեր դիտող</summary>
+  <summary lang="hu">Egyszerű képmegjelenítő</summary>
+  <summary lang="hr">Jednostavni preglednik slika</summary>
+  <summary lang="he">מציג תמונות פשוט</summary>
+  <summary lang="gl">Visor de imaxes sinxelo</summary>
+  <summary lang="fr">Simple visionneuse d'images</summary>
+  <summary lang="fi">Yksinkertainen kuvankatseluohjelma</summary>
+  <summary lang="eu">Irudi-ikusle sinplea</summary>
+  <summary lang="et">Lihtne pildinäitaja</summary>
+  <summary lang="es">Visor de imágenes simple</summary>
+  <summary lang="en_GB">Simple image viewer</summary>
+  <summary lang="en_AU">Simple image viewer</summary>
+  <summary lang="el">Απλό πρόγραμμα προβολής φωτογραφιών</summary>
+  <summary lang="de">Einfaches Bildbetrachtungsprogramm</summary>
+  <summary lang="da">Simpel billedfremviser</summary>
+  <summary lang="cs">Jednoduchý prohlížeč obrázků</summary>
+  <summary lang="ca@valencia">Visualitzador simple d'imatges</summary>
+  <summary lang="ca">Visualitzador simple d'imatges</summary>
+  <summary lang="br">Ur welerez skeudennoù eeun</summary>
+  <summary lang="bg">Опростен преглед на изображения</summary>
+  <summary lang="be">Просты прагляднік выяў</summary>
+  <summary lang="ar">عارض صور بسيط</summary>
+  <summary lang="am">ቀላል የ ምስል መመልከቻ</summary>
+  <description>
+    <p>
+      Eye of MATE is a simple viewer for browsing images on your computer.
+      Once an image is loaded, you can zoom and rotate the image, and also view
+      subsequent images in the directory the image was loaded from.
+    </p>
+  </description>
+  <description lang="ca">
+    <p>Eye of MATE és un visualitzador simple per navegar per les imatges a l'ordinador. Un cop que es carrega una imatge, podeu fer zoom a la imatge i rotar-la, i també veure les imatges posteriors al directori des d'on es va carregar la imatge.</p>
+  </description>
+  <description lang="cs">
+    <p>Eye of MATE je jednoduchý prohlížeč pro prohlížení obrázků ve vašem počítači. Po načtení obrázku můžete obrázek zvětšit a otočit a také zobrazit další obrázky v adresáři, ze kterého byl obrázek načten.</p>
+  </description>
+  <description lang="da">
+    <p>Mates øje (Eye of MATE) er en simpel fremviser til at gennemse billeder på din computer. Når er billede er indlæst, så kan du zoome og rotere billedet, og også se efterfølgende billeder i mappen billedet blev indlæst fra.</p>
+  </description>
+  <description lang="en_GB">
+    <p>Eye of MATE is a simple viewer for browsing images on your computer. Once an image is loaded, you can zoom and rotate the image, and also view subsequent images in the directory the image was loaded from.</p>
+  </description>
+  <description lang="es">
+    <p>Ojo de MATE es un sencillo visor para examinar las imágenes del equipo. Una vez cargada una imagen, puede ampliarla y girarla, y también puede ver el resto de imágenes de la carpeta desde la que se cargó la imagen.</p>
+  </description>
+  <description lang="fr">
+    <p>Eye of MATE est une visionneuse simple pour parcourir les images sur votre ordinateur. Une fois qu'une image est chargée, vous pouvez zoomer et faire pivoter l'image, et également afficher les images suivantes dans le répertoire à partir duquel l'image a été chargée.</p>
+  </description>
+  <description lang="gl">
+    <p>Ollo do MATE é un visor sinxelo para navegar polas imaxes no seu equipo. Unha vez cargada a imaxe, pode ampliala ou rotala, pode tamén ver as imaxes seguintes no directorio do que foi cargada a imaxe.</p>
+  </description>
+  <description lang="hu">
+    <p>Az Eye of MATE egy egyszerű képnézegető program. Ha a kép betöltődött, akkor az nagyítható és forgatható, valamint a képet tartalmazó könyvtár többi képei is megnézhetők.</p>
+  </description>
+  <description lang="id">
+    <p>Eye of MATE adalah penampil sederhana untuk menjelajahi citra pada komputer Anda. Setelah citra dimuat, Anda bisa men-zum dan memutar citra, dan juga menampilkan citra berikutnya pada direktori dimana citra tersebut berada.</p>
+  </description>
+  <description lang="it">
+    <p>Eye of MATE è un semplice visualizzatore per navigare nelle immagini sul computer. Una volta che l'immagine è stata caricata, è possibile ingrandirla, ruotarla e vedere le immagini seguenti nella cartella da cui era stata aperta.</p>
+  </description>
+  <description lang="ja">
+    <p>Eye of MATE は、コンピュータ上の画像を閲覧するためのシンプルなビューアです。画像が読み込まれると、その画像を拡大・回転させたり、同じ画像が読み込まれたディレクトリにある他の画像を表示したりすることができます。</p>
+  </description>
+  <description lang="ko">
+    <p>MATE의 눈은 컴퓨터의 그림을 찾다보는 간단한 그림 보기 프로그램입니다. 그림을 불러오면 그림을 확대, 축소, 회전할 수 있으며, 그림을 불러온 디렉터리의 각각의 여러 그림도 살펴볼 수 있습니다.</p>
+  </description>
+  <description lang="lt">
+    <p>Eye of MATE yra paprasta paveikslų žiūryklė, skirta naršyti po paveikslus jūsų kompiuteryje. Kai įkeliamas paveikslas, galite ji didinti/mažinti, pasukti, o taip pat žiūrėti kitus paveikslus esančius tame pačiame įkelto paveikslo kataloge.</p>
+  </description>
+  <description lang="ms">
+    <p>Eye of MATE merupakan pelihat ringkas untuk melayari imej dalam komputer anda. Bila imehj dimuatkan, anda boleh zum dan putar imej, dan juga dapat melihat imej berikutnya di dalam direktori imej yang dimuatkan.</p>
+  </description>
+  <description lang="nb">
+    <p>Eye of MATE er en enkel fremviser for å se igjennom bilder på din datamaskin. Når et bilde er lastet inn, kan du forstørre og rotere bildet, og også se påfølgende bilder i mappen bildet ble lastet inn fra. </p>
+  </description>
+  <description lang="nl">
+    <p>Oog van MATE (Eye of MATE) is een eenvoudige kijker voor het verkennen van afbeeldingen op uw computer. Zodra een afbeelding is geladen kunt u die vergroten en draaien, en ook andere afbeeldingen bekijken in de map waarin de afbeelding staat.</p>
+  </description>
+  <description lang="oc">
+    <p>Eye of MATE es una visualizaira d'imatges simpla per percórrer los imatges de vòstre ordenador. Un còp un imatge es cargat, podètz agrandir o far virar l’imatge, e tanben veire los imatges contenguts dins lo repertòri d’ont es cargat l’imatge.</p>
+  </description>
+  <description lang="pl">
+    <p>Eye of MATE to prosta przeglądarka zdjęć na komputerze. Po załadowaniu obrazu można go powiększać i obracać, a także przeglądać kolejne obrazy w katalogu, z którego obraz został załadowany.</p>
+  </description>
+  <description lang="pt">
+    <p>Eye of MATE é um visualizador simples para navegar imagens no seu computador. Quando uma imagem é carregada, pode ampliar e rodar a imagem, assim como ver imagens subsequentes no directório de onde a imagem foi carregada.</p>
+  </description>
+  <description lang="ru">
+    <p>Глаз MATE – это простой просмотрщик изображений на вашем компьютере. После загрузки изображения его можно увеличить или уменьшить, а также просматривать следующие изображения в каталоге, с которого изображение было загружено.</p>
+  </description>
+  <description lang="sk">
+    <p>Oko prostredia MATE je jednoduchý prehliadač obrázkov vo vašom počítači. Zobrazené obrázky si môžete priblížiť, otočiť, alebo prezrieť aj ďalšie obrázky z priečinka, z ktorého bol prvý obrázok načítaný.</p>
+  </description>
+  <description lang="sl">
+    <p>Eye of MATE je preprost pregledovalnik za brskanje slik na računalniku. Ko je slika naložena, jo lahko povečate in zavrtite. Ogledate si lahko tudi naslednje slike iz iste mape.</p>
+  </description>
+  <description lang="sr">
+    <p>Мејтово око је једноставан прегледач за разгледање слика на вашем рачунару. Након учитавања слике, можете да је увећате и окренете, а такође и да видите преостале слике у директоријуму из ког сте ту слику учитали.</p>
+  </description>
+  <description lang="sv">
+    <p>Eye of MATE är en enkel visare för bläddring av bilder på din dator. Efter att en bild har laddats kan du zooma, rotera och visa påföljande bilder i mappen bilden laddades från.</p>
+  </description>
+  <description lang="uk">
+    <p>Eye of MATE - це простий переглядач для перегляду зображень на комп'ютері. Після завантаження зображення ви можете збільшити масштаб і повернути зображення, а також переглянути наступні зображення в каталозі, з якого завантажено зображення.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>MATE之眼（EoM）为一款简易的图像查看器。 加载图像后，可以缩放或旋转图像，还可以继续查看后续图像。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>Eye of MATE 是一個可以讓您在您的電腦上瀏覽圖片的簡單檢視器。只要圖片一載入，您就可以縮放或旋轉圖片，也可以檢視圖片所在的資料夾中的其他圖片。</p>
+  </description>
+  <url type="homepage">https://mate-desktop.org</url>
+  <screenshots>
+    <screenshot type="default">https://mate-desktop.org/gallery/1.8/eom.png</screenshot>
+  </screenshots>
+</component>

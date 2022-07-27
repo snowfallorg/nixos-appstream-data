@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <description>
+    <p>
+      Geary is an email application built around conversations, for
+      the GNOME 3 desktop. It allows you to read, find and send email
+      with a straightforward, modern interface.
+    </p>
+    <p>
+      Conversations allow you to read a complete discussion without
+      having to find and click from message to message.
+    </p>
+    <p>Geary’s features include:</p>
+    <ul>
+      <li>Quick email account setup</li>
+      <li>Shows related messages together in conversations</li>
+      <li>Fast, full text and keyword search</li>
+      <li>Full-featured HTML and plain text message composer</li>
+      <li>Desktop notification of new mail</li>
+      <li>Compatible with GMail, Yahoo! Mail, Outlook.com and other IMAP servers</li>
+    </ul>
+  </description>
+  <description lang="be">
+    <p>Geary - праграма для працы з электроннай поштай для працоўнага асяроддзя GNOME 3. Яна прытрымліваецца прынцыпу гутарак і мае просты сучасны інтэрфейс.</p>
+    <p>Гутаркі дазваляюць пабачыць усю размову без неабходнасці пераключэння паміж лістамі.</p>
+    <p>Магчымасці Geary:</p>
+    <ul>
+      <li>Хуткая наладка акаўнта электроннай пошты</li>
+      <li>Паказвае звязаныя лісты разам у размовах</li>
+      <li>Хуткі пошук тэксту і пошук па ключавых словах</li>
+      <li>Паўнавартасны рэдактар HTML і простага тэксту</li>
+      <li>Апавяшчэнні аб новых лістах на працоўным стале</li>
+      <li>Працуе з GMail, Yahoo! Mail, Outlook.com і іншымі серверамі IMAP</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>Geary és una aplicació de correu electrònic al voltant de les converses, per a l'escriptori GNOME 3. Permet llegir, trobar i enviar correu electrònic amb una interfície senzilla i moderna.</p>
+    <p>Les converses li permeten llegir una conversa completa sense haver de buscar i fer clic de missatge en missatge.</p>
+    <p>Les característiques de Geary inclouen:</p>
+    <ul>
+      <li>Configuració de comptes de correu electrònic</li>
+      <li>Mostra missatges relacionats junts en converses</li>
+      <li>Ràpid, text complet i recerca per paraula clau</li>
+      <li>HTML amb totes les funcions i redacció de missatge de text</li>
+      <li>Notificació a l'escriptori quan arribi correu nou</li>
+      <li>Compatible amb GMail, Yahoo! Mail, Outlook.com i d'altres servidors IMAP</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>Geary je poštovní aplikace pro uživatelské prostředí GNOME 3, která se soustředí na konverzace jako celek. Umožňuje číst, vyhledávat a odesílat e-maily v přímočarém a moderním prostředí.</p>
+    <p>Díky zaměření na konverzace můžete číst ucelené diskuze bez nutnosti vyhledávat jednotlivé navazující zprávy a klikat na ně.</p>
+    <p>Mezi funkcemi aplikace Geary najdete:</p>
+    <ul>
+      <li>Rychlé nastavení poštovního účtu</li>
+      <li>Zobrazení souvisejících zprávy dohromady v podobě konverzace</li>
+      <li>Rychlé vyhledávání v celém textu a na základě klíčových slov</li>
+      <li>Plnohodnotný editor zpráv v HTML i prostém textu</li>
+      <li>Upozornění na nové zprávy přímo v uživatelském prostředí</li>
+      <li>Kompatibilitu s GMail, Yahoo! Mail, Outlook.com a dalšími servery IMAP</li>
+    </ul>
+  </description>
+  <description lang="da">
+    <p>Geary er et lille e-mailprogram til GNOME 3-skrivebordet som er bygget op omkring samtaler. Det lader dig læse, finde og sende e-mail via en enkel, moderne brugerflade.</p>
+    <p>Samtaler lader dig læse en hel samtale uden at skulle finde hver enkelt besked frem én ad gangen.</p>
+    <p>Geary tilbyder:</p>
+    <ul>
+      <li>Hurtig opsætning af e-mailkonto</li>
+      <li>Viser relaterede beskeder sammen i samtaler</li>
+      <li>Hurtig fuldtekst- og nøgleordssøgning</li>
+      <li>Mange funktioner til redigering af HTML-beskeder samt ren tekst</li>
+      <li>Skrivebordspåmindelser om ny e-mail</li>
+      <li>Kompatibel med GMail, Yahoo! Mail, Outlook.com og andre IMAP-servere</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>Geary ist ein E-Mail-Programm für GNOME 3 mit Fokus auf Konversationen. Es ermöglicht das einfache Lesen, Finden und Schreiben von E-Mails in einer übersichtlichen und modernen Benutzeroberfläche.</p>
+    <p>Konversationen ermöglichen das Lesen eines gesamten Diskussionsstrangs, ohne Nachrichten einzeln suchen zu müssen.</p>
+    <p>Funktionen von Geary umfassen:</p>
+    <ul>
+      <li>Schnelle Konto-Einrichtung</li>
+      <li>Verwandte Nachrichten gebündelt in Konversationen anzeigen</li>
+      <li>Schnelle Volltext- und Schlüsselwortsuche</li>
+      <li>Voll ausgestatteter HTML- und Klartext-Nachrichteneditor</li>
+      <li>Benachrichtigung bei neuer E-Mail</li>
+      <li>Kompatibel mit GMail, Yahoo! Mail, Outlook.com und weiteren IMAP-Servern</li>
+    </ul>
+  </description>
+  <description lang="el">
+    <p>Το Geary είναι μια εφαρμογή ηλεκτρονικού ταχυδρομείου που βασίζεται σε συνομιλίες για το GNOME 3. Σας επιτρέπει να διαβάζετε, να βρίσκετε και να στέλνετε μηνύματα ηλεκτρονικού ταχυδρομείου με μια απλή, σύγχρονη διεπαφή.</p>
+    <p>Οι συνομιλίες σάς επιτρέπουν να διαβάσετε μια πλήρη συζήτηση χωρίς να χρειαστεί να βρείτε και να κάνετε κλικ από μήνυμα σε μήνυμα.</p>
+    <p>Τα χαρακτηριστικά του Geary περιλαμβάνουν:</p>
+    <ul>
+      <li>Γρήγορη ρύθμιση λογαριασμού ηλεκτρονικού ταχυδρομείου</li>
+      <li>Εμφανίζει τα σχετικά μηνύματα μαζί σε συνομιλίες</li>
+      <li>Γρήγορη πλήρης αναζήτηση κειμένου και λέξεων-κλειδιών</li>
+      <li>Εμφάνιση ειδοποιήσεων για νέα μηνύματα</li>
+      <li>Συμβατό με το GMail, το Yahoo! Mail, Outlook.com και άλλους διακομιστές IMAP</li>
+    </ul>
+  </description>
+  <description lang="en_GB">
+    <p>Geary is an e-mail application built around conversations, for the GNOME 3 desktop. It allows you to read, find and send e-mail with a straightforward, modern interface.</p>
+    <p>Conversations allow you to read a complete discussion without having to find and click from message to message.</p>
+    <p>Geary’s features include:</p>
+    <ul>
+      <li>Quick e-mail account setup</li>
+      <li>Shows related messages together in conversations</li>
+      <li>Fast, full text and keyword search</li>
+      <li>Full-featured HTML and plain text message composer</li>
+      <li>Desktop notification of new mail</li>
+      <li>Compatible with GMail, Yahoo! Mail, Outlook.com and other IMAP servers</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>Geary es una aplicación de correo-e pensada para las conversaciones, para el escritorio GNOME 3. Le permite leer, buscar y enviar correos con una interfaz sencilla y moderna.</p>
+    <p>Las conversaciones le permiten leer un hilo completo si tener que buscar y pulsa cada mensaje individual.</p>
+    <p>Entre las características de Geary se incluyen:</p>
+    <ul>
+      <li>Configuración rápida de la cuenta de correo</li>
+      <li>Mostrar mensajes relacionados entre ellos en las conversaciones</li>
+      <li>Búsqueda de palabras clave rápida y por texto completo</li>
+      <li>Editor completo de HYML y texto plano</li>
+      <li>Notificaciones de escritorio cuando llegue correo nuevo</li>
+      <li>Compatible con GMail, Yahoo! Mail, Outlook.com y otros servidores IMAP</li>
+    </ul>
+  </description>
+  <description lang="eu">
+    <p>Geary posta elektronikoko aplikazio bat da, berriketen inguruan eraikitakoa eta GNOME 3 mahaigainean dabilena. Interfaze garbi eta modernoa du eta posta-mezuak irakurri, aurkitu eta bidaltzeko balio dizu.</p>
+    <p>Berriketak erabilita, eztabaida osoak irakur daitezke mezu batetik hurrengora jauzi egin behar izan gabe.</p>
+    <p>Geary-ren eginbide nagusiak honakoak dira:</p>
+    <ul>
+      <li>Posta-kontuen konfigurazio azkarra</li>
+      <li>Elkarri lotutako mezuak berriketa moduan erakusten ditu</li>
+      <li>Bilaketa azkarra, testu osoena zein gako-hitzena</li>
+      <li>HTML formatuko zein testu soileko mezuen konposatzailea</li>
+      <li>Mezu berrien jakinarazpena mahaigainean</li>
+      <li>GMail, Yahoo! Mail, Outlook.com eta beste IMAP zerbitzari batzuekin bateragarria</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>Geary on sähköpostisovellus Gnome-työpöydälle, joka keskittyy keskusteluihin. Sen avulla voit lukea, etsiä ja lähettää sähköpostia modernin käyttöliittymän kautta.</p>
+    <p>Keskusteluiden avulla voit lukea koko viestiketjun ilman, että joudut napsauttamaan viestistä toiseen itse.</p>
+    <p>Gearyn ominaisuuksiin kuuluu muun muassa:</p>
+    <ul>
+      <li>Nopea sähköpostitilin asetusten teko</li>
+      <li>Näyttää toisiinsa liittyvät viestit yhdessä keskustelumuodossa</li>
+      <li>Nopea haku koko tekstin ja avainsanojen tuella</li>
+      <li>Monipuolinen HTML- ja raakatekstilähetys</li>
+      <li>Työpöytäilmoitukset uusista viesteistä</li>
+      <li>Yhteensopiva GMailin, Yahoo! Mailin, Outlook.comin ja muiden IMAP-palvelinten kanssa</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>Geary est une application de messagerie construite autour de conversations, pour le bureau GNOME 3. Elle permet de lire, rechercher et envoyer des courriels de façon simple, avec une interface élégante.</p>
+    <p>Les conversations permettent de lire les échanges sans avoir à naviguer d’un message à un autre.</p>
+    <p>Geary intègre les fonctionnalités suivantes :</p>
+    <ul>
+      <li>Configuration rapide du compte de messagerie</li>
+      <li>Affichage des messages liés sous forme de conversation</li>
+      <li>Recherche rapide, par mot-clé ou par texte</li>
+      <li>Édition de courriel en texte simple ou enrichi en HTML</li>
+      <li>Notification de nouveaux messages</li>
+      <li>Compatible avec GMail, Yahoo! Mail, Outlook.com et autres serveurs IMAP</li>
+    </ul>
+  </description>
+  <description lang="fur">
+    <p>Geary e je une aplicazion par e-mail costruide tor ator des conversazions, pal scritori GNOME 3. E permet di lei, cjatâ e inviâ e-mail cuntune interface moderne e direte.</p>
+    <p>Lis conversazions ti permetin di lei une discussion complete cence vê di cjatâ e fâ clic di messaç in messaç.</p>
+    <p>Lis funzionalitâts di Geary a includin:</p>
+    <ul>
+      <li>Configurazion rapide dal account e-mail</li>
+      <li>Al mostre adun i messaçs colegâts in conversazions</li>
+      <li>Ricercje veloce di peraulis clâf e test complet</li>
+      <li>Redatôr complet di messaçs in HTML e test sempliç</li>
+      <li>Notifiche sul scritori de gnove pueste</li>
+      <li>Compatibil cun GMail, Yahoo! Mail, Outlook.com e altris servidôrs IMAP</li>
+    </ul>
+  </description>
+  <description lang="gl">
+    <p>Geary é unha aplicación de correo electrónico construído ao redor das conversas para o escritorio GNOME 3. Permítelle ler, buscar e enviar correos de forma rápida e nunha interface moderna.</p>
+    <p>As conversas permítenlle ler unha discusión completa sen ter que buscar e premer cada mensaxe.</p>
+    <p>Entre as características de Geary están:</p>
+    <ul>
+      <li>Configuración de contas de correo rápida</li>
+      <li>Mostrar mensaxes relacionadas conxuntamente en conversas</li>
+      <li>Busca rápida, de texto completo e por palabras chave</li>
+      <li>Compositor de mensaxes HTML completo ou de texto plano</li>
+      <li>Notificacións de escritorio para cada novo correo</li>
+      <li>Compatíbel con GMail, Yahoo! Mail, Outlook.com e outros servidores IMAP</li>
+    </ul>
+  </description>
+  <description lang="he">
+    <p>‏Geary הוא יישם דוא״ל הבנוי סביב תכתובות, עבור שולחן העבודה GNOME 3. הוא מאפשר לקרוא, למצוא ולשלוח דוא״ל עם ממשק חדיש ופשוט.</p>
+    <p>תכתובות מאפשר לך לקרוא דיון שלם ללא הצורך למצוא וללחוץ מהודעה להודעה.</p>
+    <p>תכונות Geary כוללות:</p>
+    <ul>
+      <li>הגדרה מהירה של חשבון דוא״ל</li>
+      <li>הצגת הודעות קשורות יחד בתכתובות</li>
+      <li>חיפוש מילים מהיר ובכל הטקסט</li>
+      <li>תמיכה מלאה ב־HTML וביצירת הודעות בטקסט פשוט</li>
+      <li>הצגת התרעות על קבלת דואר חדש</li>
+      <li>תואם עם Gmail, Yahoo! Mail, Outlook.com ושרתי IMAP אחרים</li>
+    </ul>
+  </description>
+  <description lang="hr">
+    <p>Geary je aplikacija e-pošte izgrađena oko razgovora, za GNOME 3 radno okruženje. Omogućuje vam čitanje, pronalazak i slanje e-pošte iz jednostavnog, modernog sučelja.</p>
+    <p>Razgovori vam omogućuju čitanje potpune rasprave bez potrebe za pronalaženjem i klikanjem iz poruke u poruku.</p>
+    <p>Gearyjeve značajke uključuju:</p>
+    <ul>
+      <li>Brzo podešavanje računa e-pošte</li>
+      <li>Prikazuje povezane poruke zajedno u razgovoru</li>
+      <li>Brza pretraga po potpunom tekstu i ključnoj riječi</li>
+      <li>Potpuno funkcionalan sastavljač poruke u HTML-u i običnom tekstu</li>
+      <li>Obavijest radnog okruženja o novoj pošti</li>
+      <li>Kompatibilno s GMailom, Yahoo! Mailom, Outlook.com i ostalim IMAP poslužiteljima</li>
+    </ul>
+  </description>
+  <description lang="hu">
+    <p>A Geary egy e-mail alkalmazás, amely a társalgások köré szerveződik, és a GNOME 3 asztalhoz készült. Segítségével e-maileket olvashat, kereshet és küldhet egy lényegre törő és modern felületen.</p>
+    <p>A társalgások segítségével teljes beszélgetéseket olvashat el anélkül, hogy egyesével végig kellene kattintania a leveleken.</p>
+    <p>A Geary néhány funkciója:</p>
+    <ul>
+      <li>Gyors e-mailfiók beállítás</li>
+      <li>A kapcsolódó leveleket együtt jeleníti meg a beszélgetésekben</li>
+      <li>Gyors, teljes szöveges és kulcsszavas keresés</li>
+      <li>Teljes funkcionalitású HTML és egyszerű szöveges levélszerkesztő</li>
+      <li>Asztali értesítések új levél érkezésekor</li>
+      <li>Kompatibilis a GMaillel, a Yahoo! Maillel, az Outlook.commal és más IMAP kiszolgálókkal</li>
+    </ul>
+  </description>
+  <description lang="id">
+    <p>Geary adalah aplikasi surel yang dibangun di sekitar percakapan, bagi desktop GNOME 3. Memungkinkan Anda membaca, mencari, dan mengirim surel dengan antar muka yang modern, mudah.</p>
+    <p>Percakapan memungkinkan Anda membaca diskusi lengkap tanpa perlu mencari dan mengklik dari pesan ke pesan.</p>
+    <p>Fitur Geary termasuk:</p>
+    <ul>
+      <li>Penyiapan akun surel cepat</li>
+      <li>Menampilkan pesan-pesan yang berhubungan bersama-sama dalam percakapan</li>
+      <li>Pencarian kata kunci dan teks penuh yang cepat</li>
+      <li>Penyusun pesan teks polos dan HTML berfitur lengkap</li>
+      <li>Pemberitahuan desktop atas surat baru</li>
+      <li>Kompatibel dengan GMail, Yahoo! Mail, Outlook.com, dan peladen IMAP lain</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>Geary è un'applicazione di posta elettronica basata sulle conversazioni, per l'ambiente desktop GNOME 3. Permette di leggere, trovare e inviare email con un'interfaccia semplice e moderna.</p>
+    <p>Le conversazioni permettono di leggere un'intera discussione senza dover cercare e fare clic su ogni messaggio.</p>
+    <p>Le funzionalità di Geary comprendono:</p>
+    <ul>
+      <li>Rapida configurazione dell'account di posta</li>
+      <li>Raggruppa i messaggi correlati in conversazioni</li>
+      <li>Ricerca rapida a testo intero ("full text") e per parole chiave</li>
+      <li>Compositore dei messaggi in HTML e testo semplice</li>
+      <li>Notifiche desktop di nuova posta</li>
+      <li>Compatibile con GMail, Yahoo! Mail, Outlook.com e altri server IMAP</li>
+    </ul>
+  </description>
+  <description lang="ja">
+    <p>Geary は会話に重きを置いて構築された、GNOME 3 デスクトップ用のメールアプリケーションです。明快かつモダンなインターフェースで、メールを読んだり、探したり、送ったりできます。</p>
+    <p>やり取りしたメッセージを一々探し出すことなく、抜けのないディスカッションを読むことが可能です。</p>
+    <p>Geary には以下の機能があります</p>
+    <ul>
+      <li>メールアカウントを素早くセットアップ</li>
+      <li>関連したメッセージをまとめてスレッドに表示</li>
+      <li>高速な全文検索とキーワード検索</li>
+      <li>十分なテキスト/HTML メール作成機能</li>
+      <li>新着メールのデスクトップ通知</li>
+      <li>Gmail、Yahoo! Mail (Yahoo.com)、Outlook.com、その他の IMAP 対応サービスとの互換</li>
+    </ul>
+  </description>
+  <description lang="kk">
+    <p>Geary - бұл сөйлесулер негізінде жасалған эл. пошта қолданбасы, GNOME 3 жұмыс үстелі үшін арналған. Оның көмегімен тура, замануи интерфейсін қолданып, эл. поштаны оқу, табу және жіберуге болады.</p>
+    <p>Сөйлесулер көмегімен сіз талқылауды толығымен оқи аласыз, бір хаттан екінші хатқа іздеп, шертуді орындамай-ақ.</p>
+    <p>Geary мүмкіндіктерінің ішінде:</p>
+    <ul>
+      <li>Эл. пошта тіркелгісін жылдам баптау</li>
+      <li>Өзара байланысқан хабарламаларды сөйлесуде бірге көрсетеді</li>
+      <li>Жылдам, толық мәтіндік және кілт сөздерін іздеу</li>
+      <li>Кең мүмкіндікті HTML және ашық мәтін хаттарын құрастыру түзеткіші</li>
+      <li>Жаңа хаттар үшін жұмыс үстел хабарламаларын көрсету</li>
+      <li>GMail, Yahoo! Mail, Outlook.com және басқа да IMAP серверлерімен үйлесімді</li>
+    </ul>
+  </description>
+  <description lang="lt">
+    <p>Geary yra el. pašto programa GNOME 3 darbalaukiui, sukurta pokalbių pagrindu. Ji leidžia skaityti, surasti bei išsiųsti el. laiškus naudojant paprastą bei šiuolaikišką sąsają.</p>
+    <p>Pokalbiai leidžia skaityti pilnas diskusijas be laiškų ieškojimo ir spaudinėjimo ant jų.</p>
+    <ul>
+      <li>Greitas el. pašto paskyros nustatymas</li>
+      <li>Rodo susijusius laiškus kartu pokalbiuose</li>
+      <li>Greita viso teksto be raktinių žodžių paieška</li>
+      <li>Pilno funkcionalumo HTML ir grynojo teksto laiko redaktorius</li>
+      <li>Darbalaukio pranešimai gavus naują laišką</li>
+      <li>Suderinama su GMail, Yahoo! Mail. Outlook.com ir kitais IMAP serveriais</li>
+    </ul>
+  </description>
+  <description lang="nb">
+    <p>Geary er et samtaleorientert e-postprogram for skrivebordsmiljøet GNOME 3. Det lar deg lese, finne og sende e-post med et enkelt og moderne grensesnitt.</p>
+    <p>Samtaler lar deg lese en hel diskusjon uten å måtte trykke deg videre fra melding til melding.</p>
+    <p>Her er noen av Gearys funksjoner:</p>
+    <ul>
+      <li>Raskt oppsett av e-postkonto</li>
+      <li>Viser relaterte meldinger som samtaler</li>
+      <li>Raskt søk på nøkkelord og innholdstekst</li>
+      <li>Meldingsbehandler med fullverdig støtte for HTML og ren tekst</li>
+      <li>Vis skrivebordsvarsel ved ny e-post</li>
+      <li>Fungerer med GMail, Yahoo! Mail, Outlook.com og andre IMAP-tjenere</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>Geary is een e-mailtoepassing die draait om gesprekken, voor de Gnome 3-desktop. Via de duidelijke, moderne interface kunt u e-mails lezen, zoeken en verzenden.</p>
+    <p>Met gesprekken kunt u een volledige discussie lezen zonder te hoeven zoeken of van bericht naar bericht te hoeven klikken.</p>
+    <p>Functies van Geary zijn:</p>
+    <ul>
+      <li>Snel instellen van e-mailaccount</li>
+      <li>Groepeert gerelateerde berichten in gesprekken</li>
+      <li>Snel zoeken in volledige tekst met zoekwoorden</li>
+      <li>Berichten opstellen in HTML en platte tekst met veel functies</li>
+      <li>Bureaubladmelding voor nieuwe e-mail</li>
+      <li>Werkt met Gmail, Yahoo! Mail, Outlook.com en andere IMAP-servers</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <p>Geary to nowoczesny klient poczty dla środowiska GNOME 3 zbudowany wokół wątków. Umożliwia czytanie, wyszukiwanie i wysyłanie wiadomości za pomocą prostego, nowoczesnego interfejsu.</p>
+    <p>Wątki umożliwiają czytanie pełnych dyskusji bez potrzeby wyszukiwania i klikania poszczególnych wiadomości.</p>
+    <p>Funkcje programu Geary:</p>
+    <ul>
+      <li>Szybkie ustawianie konta poczty</li>
+      <li>Wyświetlanie powiązanych wiadomości w jednym wątku</li>
+      <li>Szybkie wyszukiwanie w wiadomościach i słowach kluczowych</li>
+      <li>Wiele funkcji tworzenia wiadomości HTML i w zwykłym tekście</li>
+      <li>Powiadomienia o nowych wiadomościach na pulpicie</li>
+      <li>Zgodność z serwisami Gmail, Yahoo! Mail, Outlook.com i innymi serwerami IMAP</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>O Geary é uma aplicação de correio eletrónico para o ambiente GNOME 3 construída em torno do conceito de conversas. Permite-lhe ler, encontrar, e enviar correio com uma interface descomplicada e moderna.</p>
+    <p>As Conversas permitem-lhe ler uma discussão inteira sem ter de encontrar todas as mensagens e navegar entre elas.</p>
+    <p>As funcionalidades do Geary incluem:</p>
+    <ul>
+      <li>Configuração rápida de contas de correio eletrónico</li>
+      <li>Mostra mensagens relacionadas agregadas em conversas</li>
+      <li>Procura rápida, no corpo do texto e por palavras-chave</li>
+      <li>Editor completo para mensagens em HTML e em texto simples</li>
+      <li>Notificações de novo correio no ambiente de trabalho</li>
+      <li>Compatível com o Gmail, o Yahoo! Mail, o Outlook.com, e outros servidores IMAP</li>
+    </ul>
+  </description>
+  <description lang="pt_BR">
+    <p>Geary é um aplicativo de e-mail construído em conversas, para o ambiente do GNOME 3. Ele permite que você leia, localize e envie e-mail com uma interface simples e moderna.</p>
+    <p>As conversas permitem que você leia uma discussão completa sem ter que procurar e clicar de mensagem em mensagem.</p>
+    <p>Os recursos do Geary incluem:</p>
+    <ul>
+      <li>Configuração rápida de conta de e-mail</li>
+      <li>Mostrar mensagens relacionadas juntas, nas conversas</li>
+      <li>Pesquisa rápida, de texto completo e de palavra-chave</li>
+      <li>Compositor repleto de recursos para mensagens em HTML e texto simples</li>
+      <li>Notificação na área de trabalho de novo e-mail</li>
+      <li>Compatível com GMail, Yahoo! Mail, Outlook.com e outros servidores IMAP</li>
+    </ul>
+  </description>
+  <description lang="ro">
+    <p>Geary este o aplicație de email construită în jurul conversațiilor pentru desktopul GNOME 3. Vă permite să citiți, găsiți și trimite email-uri dintr-o interfață modernă și simplă.</p>
+    <p>Conversațiile vă permit să citiți o discuție completă fără a trebui să căutați și să navigați de la mesaj la mesaj.</p>
+    <p>Funcționalitățile lui Geary includ:</p>
+    <ul>
+      <li>Configurare rapidă a contului de email</li>
+      <li>Arată mesajele înrudite în conversații</li>
+      <li>Căutare rapidă după un termen în tot textul</li>
+      <li>Compunător de mesaje text și HTML cu multiple funcționalități</li>
+      <li>Notificări desktop pentru noile emailuri</li>
+      <li>Compatibil cu GMail, Yahoo! Mail, Outlook.com și alte servere IMAP</li>
+    </ul>
+  </description>
+  <description lang="ru">
+    <p>Geary — приложение электронной почты для рабочего стола GNOME 3, построенное по принципу обмена сообщениями — беседами. Позволяет читать, находить и отправлять электронную почту с простым, современным интерфейсом.</p>
+    <p>Беседы позволяют читать переписку целиком без необходимости искать и переходить от сообщения к сообщению.</p>
+    <p>К функциям Geary относятся:</p>
+    <ul>
+      <li>Быстрая настройка учётной записи электронной почты</li>
+      <li>Отображение связанных сообщений в режиме беседы</li>
+      <li>Быстрый полнотекстовый поиск и поиск по ключевым словам</li>
+      <li>Полнофункциональный режим составления писем в виде простого текста, а также с HTML разметкой</li>
+      <li>Уведомления о новых сообщениях</li>
+      <li>Совместим с GMail, Yahoo! Mail, Outlook.com и другими IMAP серверами</li>
+    </ul>
+  </description>
+  <description lang="sk">
+    <p>Geary je emailová aplikácia postavená na rozhovoroch pre prostredie GNOME 3. Umožňuje vám prečítať, hľadať a odosielať emaily s jasným a moderným rozhraním.</p>
+    <p>Rozhovory vám umožňujú prečítať kompletnú diskusiu bez nutnosti vyhľadania a klikania zo správy na správu.</p>
+    <p>Funkcie aplikácie Geary zahŕňajú:</p>
+    <ul>
+      <li>Rýchle nastavenie emailového účtu</li>
+      <li>Zobrazenie spolu súvisiacich správ v rozhovoroch</li>
+      <li>Rýchle, fulltextové vyhľadávanie a hľadanie podľa kľúčového slova</li>
+      <li>Plnohodnotný nástroj na tvorbu správ vo formáte HTML a v čistom texte</li>
+      <li>Upozornenie pracovného prostredia na novú poštu</li>
+      <li>Kompatibilita so servermi GMail, Yahoo! Mail, Outlook.com a inými servermi typu IMAP</li>
+    </ul>
+  </description>
+  <description lang="sl">
+    <p>Program Geary je odjemalec elektronske pošte za GNOME, ki temelji na logiki pogovorov. Omogoča branje, iskanje in pošiljanje sporočil prek preglednega modernega vmesnika.</p>
+    <p>Sistem pogovorov omogoča branje nizov sporočil brez nepotrebnega klikanja med sporočilo.</p>
+    <p>Program Geary omogoča:</p>
+    <ul>
+      <li>Hitro nastavitev računa elektronske pošte</li>
+      <li>Povezana sporočila so zbrana skupaj v obliki pogovora</li>
+      <li>Hitro iskanje po celotnem besedilu s ključnimi besedami</li>
+      <li>Zmogljiv sestavljalnik sporočil v besedilnem ali oblikovanem zapisu HTML</li>
+      <li>Obvestila o prispeli pošti</li>
+      <li>Podprti so sistemi spletne pošte, kot so Gmail, Yahoo!, Outlook.com in drugi strežniki IMAP</li>
+    </ul>
+  </description>
+  <description lang="sr">
+    <p>Гери је програм за е-пошту изграђен око преписке, за радну површ Гнома 3. Омогућује вам да читате, нађете и шаљете е-пошту са јасним, савременим сучељем.</p>
+    <p>Преписке вам омогућавају да прочитате читав разговор а да не морате да тражите и кликате од поруке до поруке.</p>
+    <p>У Геријеве функције спадају:</p>
+    <ul>
+      <li>Брзо подешавање налога е-поште</li>
+      <li>Заједнички приказ повезаних порука у преписци</li>
+      <li>Брза претрага по читавом тексту и кључној речи</li>
+      <li>Потпуно функционалан састављач поруке у ХТМЛ-у и обичном тексту</li>
+      <li>Обавештење о новој пошти на радној површи</li>
+      <li>Сагласан је са Г-поштом, Јаху! поштом, Аутлуком и другим ИМАП серверима</li>
+    </ul>
+  </description>
+  <description lang="sr@latin">
+    <p>Geri je program za e-poštu izgrađen oko razgovora, za radnu površ Gnoma 3. Omogućuje vam da čitate, nađete i šaljete e-poštu sa jasnim, savremenim sučeljem.</p>
+    <p>Razgovori vam omogućavaju da pročitate čitav razgovor a da ne morate da tražite i klikate od poruke do poruke.</p>
+    <p>U Gerijeve funkcije spadaju:</p>
+    <ul>
+      <li>Brzo podešavanje naloga e-pošte</li>
+      <li>Zajednički prikaz povezanih poruka u razgovoru</li>
+      <li>Brza pretraga po čitavom tekstu i ključnoj reči</li>
+      <li>Potpuno funkcionalan sastavljač poruke u HTML-u i običnom tekstu</li>
+      <li>Obaveštenje o novoj pošti na radnoj površi</li>
+      <li>Saglasan je sa G-poštom, Jahu! poštom, Autlukom i drugim IMAP serverima</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <p>Geary är ett e-postprogram byggt kring konversationer för GNOME 3-skrivbordet. Det låter dig läsa, söka och sända e-post med ett enkelt modernt gränssnitt.</p>
+    <p>Konversationer låter dig läsa en fullständig diskussion utan att behöva hitta och klicka från meddelande till meddelande.</p>
+    <p>Gearys egenskaper omfattar:</p>
+    <ul>
+      <li>Snabb inställning av e-postkonto</li>
+      <li>Visa relaterade meddelanden tillsammans i konversationer</li>
+      <li>Snabb heltext- och nyckelordssökning</li>
+      <li>Fullständig HTML- och textbehandlare</li>
+      <li>Skrivbordsaviseringar för ny e-post</li>
+      <li>Kompatibel med GMail, Yahoo! Mail, Outlook.com och andra IMAP-servrar</li>
+    </ul>
+  </description>
+  <description lang="tr">
+    <p>Geary, GNOME 3 masaüstü için konuşmalar etrafında inşa edilmiş bir e-posta uygulamasıdır. Dolambaçsız çağdaş bir arayüzle e-posta okumanızı, bulmanızı ve göndermenizi sağlar.</p>
+    <p>Konuşmalar, arayıp bulmanızı ve iletiden iletiye tıklamanızı gerektirmeden tüm tartışmayı okumanızı sağlar.</p>
+    <p>Geary’nin özellikleri şunlardır:</p>
+    <ul>
+      <li>Hızlı e-posta hesabı kurulumu</li>
+      <li>İlişkili iletileri konuşmalarda bir arada gösterir</li>
+      <li>Hızlı, tam metin ve anahtar sözcük arama</li>
+      <li>Tam donanımlı HTML ve düz metin ileti oluşturucu</li>
+      <li>Yeni postanın masaüstü bildirimi</li>
+      <li>GMail, Yahoo! Mail, Outlook.com ve diğer IMAP sunucularıyla uyumludur</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>Geary — програма для роботи з електронною поштою, базовою концепцією якої є «спілкування». Програму призначено для стільничного середовища GNOME 3. Вона надає вам змогу читати, шукати та надсилати електронну пошту. Інтерфейс програми є простим і сучасним.</p>
+    <p>За допомогою можливості «спілкування» ви можете читати усе обговорення певного питання без потреби у пересуванні між його окремими повідомленнями.</p>
+    <p>Серед можливостей Geary такі:</p>
+    <ul>
+      <li>Швидке налаштовування облікового запису електронної пошти</li>
+      <li>Показ пов'язаних між собою повідомлень у форматі спілкувань</li>
+      <li>Швидкий повнотекстовий пошук за ключовими словами</li>
+      <li>Редактор повідомлень із повноцінною підтримкою створення повідомлень у форматі HTML та звичайному текстовому форматі</li>
+      <li>Сповіщення про нову пошту на стільниці</li>
+      <li>Сумісність із GMail, Yahoo! Mail, Outlook.com та іншими серверами IMAP</li>
+    </ul>
+  </description>
+  <description lang="zh_CN">
+    <p>Geary 是个 GNOME 3 桌面下围绕会话构建的电子邮件应用。它允许您使用一个直观、现代的用户界面阅读、查找和发送电子邮件。</p>
+    <p>会话允许您阅读一个完整讨论而不用一条条消息的查找和点击。</p>
+    <p>Geary 的特性包括：</p>
+    <ul>
+      <li>快速设置电子邮件帐号</li>
+      <li>在会话中集中显示相关消息</li>
+      <li>快速的全文本和关键词搜索</li>
+      <li>全功能的 HTML 和纯文本消息编辑器</li>
+      <li>新邮件桌面通知</li>
+      <li>与 GMail、雅虎邮箱、Outlook.com 和其它 IMAP 服务器兼容</li>
+    </ul>
+  </description>
+  <description lang="zh_TW">
+    <p>Geary 是一款為 GNOME 3 桌面打造的以對話為核心的電子郵件應用程式。其現代化且符合直覺的介面讓您能夠輕鬆地閱讀、搜尋、寄送電子郵件等。</p>
+    <p>對話讓您能夠輕易地檢閱整場討論而無需在一條又一條的訊息中不停翻閱。</p>
+    <p>Geary 的特色包含：</p>
+    <ul>
+      <li>快速設定電子郵件帳號</li>
+      <li>以對話方式顯示相關訊息</li>
+      <li>快速的全文關鍵字搜尋</li>
+      <li>全功能的 HTML 格式及純文字訊息編撰器</li>
+      <li>有新郵件時顯示桌面通知</li>
+      <li>與 Gmail，Yahoo! Mail，Outlook.com 以及其它 IMAP 伺服器相容</li>
+    </ul>
+  </description>
+  <pkgname>gnome.geary</pkgname>
+  <icon height="64" width="64" type="cached">org.gnome.Geary.png</icon>
+  <icon height="128" width="128" type="cached">org.gnome.Geary.png</icon>
+  <id>org.gnome.Geary.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>LGPL-2.1+</project_license>
+  <!-- Translators: The application name -->
+  <name>Geary</name>
+  <name lang="zh_TW">Geary</name>
+  <name lang="zh_CN">Geary</name>
+  <name lang="uk">Geary</name>
+  <name lang="tr">Geary</name>
+  <name lang="sv">Geary</name>
+  <name lang="sr@latin">Geri</name>
+  <name lang="sr">Гери</name>
+  <name lang="sl">Geary</name>
+  <name lang="sk">Geary</name>
+  <name lang="ru">Geary</name>
+  <name lang="ro">Geary</name>
+  <name lang="pt_BR">Geary</name>
+  <name lang="pt">Geary</name>
+  <name lang="pl">Geary</name>
+  <name lang="oc">Geary</name>
+  <name lang="nl">Geary</name>
+  <name lang="nb">Geary</name>
+  <name lang="lt">Geary</name>
+  <name lang="kk">Geary</name>
+  <name lang="ja">Geary</name>
+  <name lang="it">Geary</name>
+  <name lang="id">Geary</name>
+  <name lang="hu">Geary</name>
+  <name lang="hr">Geary</name>
+  <name lang="he">Geary</name>
+  <name lang="gl">Geary</name>
+  <name lang="fur">Geary</name>
+  <name lang="fr">Geary</name>
+  <name lang="fi">Geary</name>
+  <name lang="eu">Geary</name>
+  <name lang="es">Geary</name>
+  <name lang="eo">Geary</name>
+  <name lang="en_GB">Geary</name>
+  <name lang="el">Geary</name>
+  <name lang="de">Geary</name>
+  <name lang="da">Geary</name>
+  <name lang="cs">Geary</name>
+  <name lang="ca">Geary</name>
+  <name lang="bs">Geary</name>
+  <name lang="be">Geary</name>
+  <!-- Translators: The development team's name -->
+  <developer_name>Geary Development Team</developer_name>
+  <developer_name lang="zh_TW">Geary 開發團隊</developer_name>
+  <developer_name lang="zh_CN">Geary 开发团队</developer_name>
+  <developer_name lang="uk">Команда з розробки Geary</developer_name>
+  <developer_name lang="tr">Geary Geliştirme Takımı</developer_name>
+  <developer_name lang="sv">Gearys utvecklingsgrupp</developer_name>
+  <developer_name lang="sr">Развојни тим Герија</developer_name>
+  <developer_name lang="sl">Razvojna skupina Geary</developer_name>
+  <developer_name lang="sk">Tím vývojárov aplikácie Geary</developer_name>
+  <developer_name lang="ru">Команда разработчиков Geary</developer_name>
+  <developer_name lang="ro">Echipa de dezvoltare Geary</developer_name>
+  <developer_name lang="pt_BR">Equipe de Desenvolvimento do Geary</developer_name>
+  <developer_name lang="pt">Equipa de Desenvolvimento do Geary</developer_name>
+  <developer_name lang="pl">Zespół programistów Geary</developer_name>
+  <developer_name lang="nl">Geary-ontwikkelingsteam</developer_name>
+  <developer_name lang="kk">Geary әзірлеушілер тобы</developer_name>
+  <developer_name lang="ja">Geary 開発チーム</developer_name>
+  <developer_name lang="it">Gruppo sviluppatori di Geary</developer_name>
+  <developer_name lang="id">Tim Pengembang Geary</developer_name>
+  <developer_name lang="hu">Geary fejlesztőcsapat</developer_name>
+  <developer_name lang="hr">Geary razvojni tim</developer_name>
+  <developer_name lang="he">צוות פיתוח Geary</developer_name>
+  <developer_name lang="gl">Equipo de desenvolvemento de geary</developer_name>
+  <developer_name lang="fur">Grup di svilup di Geary</developer_name>
+  <developer_name lang="fr">Équipe de développement de Geary</developer_name>
+  <developer_name lang="fi">Geary-kehitystiimi</developer_name>
+  <developer_name lang="eu">Geary aplikazioaren garatzaile-taldea</developer_name>
+  <developer_name lang="es">Equipo de desarrollo de Geary</developer_name>
+  <developer_name lang="en_GB">Geary Development Team</developer_name>
+  <developer_name lang="el">Ομάδα ανάπτυξης Geary</developer_name>
+  <developer_name lang="de">Geary-Entwicklerteam</developer_name>
+  <developer_name lang="da">Gearys udviklerhold</developer_name>
+  <developer_name lang="cs">Vývojářský tým aplikace Geary</developer_name>
+  <developer_name lang="ca">Equip de desenvolupament del Geary</developer_name>
+  <developer_name lang="be">Каманда распрацоўкі Geary</developer_name>
+  <!-- Translators: The application's summary / tagline -->
+  <summary>Send and receive email</summary>
+  <summary lang="zh_TW">寄送與收受郵件</summary>
+  <summary lang="zh_CN">发送并接收电子邮件</summary>
+  <summary lang="uk">Надіслати та одержати пошту</summary>
+  <summary lang="tr">E-posta gönder ve al</summary>
+  <summary lang="sv">Skicka och ta emot e-post</summary>
+  <summary lang="sr@latin">Šalje i prima e-poštu</summary>
+  <summary lang="sr">Шаље и прима е-пошту</summary>
+  <summary lang="sl">Pošlji in prejmi sporočila</summary>
+  <summary lang="sk">Odosiela a prijíma emaily</summary>
+  <summary lang="ru">Отправка и получение электронной почты</summary>
+  <summary lang="ro">Trimite și primește emailuri</summary>
+  <summary lang="pt_BR">Envie e receba e-mail</summary>
+  <summary lang="pt">Enviar e receber mensagens</summary>
+  <summary lang="pl">Wysyłanie i odbieranie poczty</summary>
+  <summary lang="oc">Mandar e recebre de corrièrs electronics</summary>
+  <summary lang="nl">E-mail verzenden en ontvangen</summary>
+  <summary lang="nb">Send og motta e-post</summary>
+  <summary lang="ms">Hantar dan terima emel</summary>
+  <summary lang="lt">Siųsti ir gauti paštą</summary>
+  <summary lang="km">ផ្ញើនិងទទួលអ៊ីមែល</summary>
+  <summary lang="kk">Эл. поштаны жіберу және қабылдау</summary>
+  <summary lang="ja">メールの送信と受信</summary>
+  <summary lang="it">Invia e riceve email</summary>
+  <summary lang="id">Kirim dan terima surel</summary>
+  <summary lang="hu">E-mailek küldése és fogadása</summary>
+  <summary lang="hr">Primi i pošalji e-poštu</summary>
+  <summary lang="he">שליחה וקבלה של דוא״ל</summary>
+  <summary lang="gl">Enviar e recibir correo</summary>
+  <summary lang="fur">Invie e ricêf e-mail</summary>
+  <summary lang="fr">Envoyer et recevoir des courriels</summary>
+  <summary lang="fi">Lähetä ja vastaanota sähköpostia</summary>
+  <summary lang="fa">ارسال و دریافت ایمیل‌ها</summary>
+  <summary lang="eu">Bidali eta jaso mezuak</summary>
+  <summary lang="et">Send and receive email</summary>
+  <summary lang="es">Envíe y reciba mensajes de correo electrónico</summary>
+  <summary lang="eo">Sendi kaj ricevi retpoŝton</summary>
+  <summary lang="en_GB">Send and receive e-mail</summary>
+  <summary lang="en_CA">Send and receive e-mail</summary>
+  <summary lang="el">Αποστολή και λήψη ηλεκτρονικού ταχυδρομείου</summary>
+  <summary lang="de">Senden und empfangen</summary>
+  <summary lang="da">Send og modtag e-mail</summary>
+  <summary lang="cs">Odesílejte a přijímejte e-maily</summary>
+  <summary lang="ca">Envieu i rebeu correus electrònics</summary>
+  <summary lang="bs">Šaljite i primajte e-poštu</summary>
+  <summary lang="be">Адпраўленне і атрыманне электроннай пошты</summary>
+  <summary lang="ar">ارسال و استقبال البريد الالكتروني</summary>
+  <url type="homepage">https://wiki.gnome.org/Apps/Geary</url>
+  <url type="help">https://wiki.gnome.org/Apps/Geary/Documentation</url>
+  <url type="faq">https://wiki.gnome.org/Apps/Geary/FAQ</url>
+  <url type="bugtracker">https://wiki.gnome.org/Apps/Geary/ReportingABug</url>
+  <url type="translate">https://wiki.gnome.org/Apps/Geary/Translating</url>
+  <url type="donation">https://wiki.gnome.org/Apps/Geary/Donate</url>
+  <screenshots>
+    <screenshot>
+      <!-- Translators: A screenshot description. -->
+      <caption>Geary displaying a conversation</caption>
+      <caption lang="zh_TW">Geary 在顯示對話</caption>
+      <caption lang="zh_CN">Geary 正在展示一个会话</caption>
+      <caption lang="uk">Спілкування у вікні Geary</caption>
+      <caption lang="tr">Geary bir konuşmayı gösteriyor</caption>
+      <caption lang="sv">Geary visande en konversation</caption>
+      <caption lang="sr">Гери приказује преписку</caption>
+      <caption lang="sl">Prikaz sporočil zbranih v pogovor</caption>
+      <caption lang="sk">Aplikácia Geary zobrazujúca rozhovor</caption>
+      <caption lang="ru">Интерфейс обмена сообщениями Geary</caption>
+      <caption lang="ro">Geary afișând o conversație</caption>
+      <caption lang="pt_BR">Geary exibindo uma conversa</caption>
+      <caption lang="pt">O Geary a mostrar uma conversa</caption>
+      <caption lang="pl">Widok wątku</caption>
+      <caption lang="nl">Weergave van een gesprek in Geary</caption>
+      <caption lang="kk">Geary сөйлесуді көрсетуде</caption>
+      <caption lang="ja">スレッド表示中の Geary</caption>
+      <caption lang="it">L'applicazione che mostra una conversazione</caption>
+      <caption lang="id">Geary menampilkan percakapan</caption>
+      <caption lang="hu">A Geary egy beszélgetést jelenít meg</caption>
+      <caption lang="hr">Geary prikazuje razgovor</caption>
+      <caption lang="he">‏Geary מציג תכתובת</caption>
+      <caption lang="gl">Geary mostrando unha conversa</caption>
+      <caption lang="fur">Geary che al mostre une conversazion</caption>
+      <caption lang="fr">Geary affichant une conversation</caption>
+      <caption lang="fi">Geary ja viestiketju</caption>
+      <caption lang="eu">Geary berriketa bat bistaratzen</caption>
+      <caption lang="es">Geary mostrando una conversación</caption>
+      <caption lang="en_GB">Geary displaying a conversation</caption>
+      <caption lang="de">Geary zeigt eine Konversationsvorschau an</caption>
+      <caption lang="da">Geary som en samtale ser ud</caption>
+      <caption lang="cs">Geary zobrazující konverzaci</caption>
+      <caption lang="ca">Geary mostrant una conversa</caption>
+      <caption lang="be">Geary адлюстроўвае гутарку</caption>
+      <image height="900" type="default" width="1600">https://wiki.gnome.org/Apps/Geary?action=AttachFile&amp;do=get&amp;target=geary-3-36-main-window.png</image>
+    </screenshot>
+    <screenshot>
+      <image width="642" height="361" type="source">https://wiki.gnome.org/Apps/Geary?action=AttachFile&amp;do=get&amp;target=geary-3-32-avatars.png</image>
+    </screenshot>
+    <screenshot>
+      <image width="875" height="492" type="source">https://wiki.gnome.org/Apps/Geary?action=AttachFile&amp;do=get&amp;target=geary-3-32-search.png</image>
+    </screenshot>
+    <screenshot>
+      <!-- Translators: A screenshot description. -->
+      <caption>Geary showing the rich text composer</caption>
+      <caption lang="zh_TW">Geary 的豐富文字編撰器</caption>
+      <caption lang="zh_CN">Geary 正在显示富文本编辑器</caption>
+      <caption lang="uk">Редактор форматованого тексту у Geary</caption>
+      <caption lang="tr">Geary zengin metin oluşturucusunu gösteriyor</caption>
+      <caption lang="sv">Geary visande rich text-redigeraren</caption>
+      <caption lang="sr">Гери приказује састављача богатог текста</caption>
+      <caption lang="sl">Geary z odprtim oknom sestavljalnika</caption>
+      <caption lang="sk">Aplikácia Geary zobrazujúca tvorcu správ s formátovaným textom</caption>
+      <caption lang="ru">Интерфейс редактирования текста Geary</caption>
+      <caption lang="ro">Geary afișând compunătorul de text bogat</caption>
+      <caption lang="pt_BR">Geary mostrando um compositor de texto rico</caption>
+      <caption lang="pt">O Geary a mostrar o editor de texto melhorado</caption>
+      <caption lang="pl">Okno tworzenia wiadomości z formatowaniem</caption>
+      <caption lang="nl">Tekstverwerker met opmaakmogelijkheden in Geary</caption>
+      <caption lang="kk">Geary мәтінді мүмкіндіктері кең түзеткішін көрсетуде</caption>
+      <caption lang="ja">HTML メール作成中の Geary</caption>
+      <caption lang="it">L'applicazione che mostra il compositore di testo formattato</caption>
+      <caption lang="id">Geary menunjukkan penyusun rich text</caption>
+      <caption lang="hu">A Geary gazdag szövegszerkesztője</caption>
+      <caption lang="hr">Geary prikazuje sastavljača obogaćenog tekstom</caption>
+      <caption lang="he">‏Geary מציג יצירת הודעה בטקסט עשיר</caption>
+      <caption lang="gl">Geary mostrando o compositor de texto enriquecido</caption>
+      <caption lang="fur">Geary che al mostre il redatôr di test formatât</caption>
+      <caption lang="fr">Geary montrant l’éditeur de texte enrichi</caption>
+      <caption lang="fi">Geary ja viestin kirjoitusikkuna</caption>
+      <caption lang="eu">Geary testu aberatseko konposatzailea erakusten</caption>
+      <caption lang="es">Geary mostrando el editor de texto enriquecido</caption>
+      <caption lang="en_GB">Geary showing the rich text composer</caption>
+      <caption lang="de">Geary zeigt den Editor für formatierten Text</caption>
+      <caption lang="da">Geary som redigering af formateret tekst ser ud</caption>
+      <caption lang="cs">Geary se zobrazeným editorem formátovaného textu</caption>
+      <caption lang="ca">Geary mostrant l'editor de text enriquit</caption>
+      <caption lang="be">Geary адлюстроўвае фарматаваны тэкст рэдактара</caption>
+      <image height="900" type="source" width="1108">https://wiki.gnome.org/Apps/Geary?action=AttachFile&amp;do=get&amp;target=geary-3-36-composer.png</image>
+    </screenshot>
+    <screenshot>
+      <image type="source" width="635" height="357">https://wiki.gnome.org/Apps/Geary?action=AttachFile&amp;do=get&amp;target=geary-3-32-add-account.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>GNOME</project_group>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>HighContrast</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>Notifications</kudo>
+    <kudo>UserDocs</kudo>
+  </kudos>
+  <provides>
+    <!--
+        See https://gitlab.gnome.org/GNOME/geary/merge_requests/203
+        for why the appstream id uses the desktop file name as an id
+        and the proper app id is listed here here, instead of the
+        other way around.
+    -->
+    <id>org.gnome.Geary</id>
+  </provides>
+  <launchable type="desktop-id">org.gnome.Geary.desktop</launchable>
+  <translation type="gettext">geary</translation>
+  <releases>
+    <release version="40.0" date="2021-04-23">
+      <description>
+        <p>Enhancements included in this release:</p>
+        <ul>
+          <li>Visual refresh including updated icon and interface</li>
+          <li>Add support for half-screen, portrait and small displays</li>
+          <li>Improved performance when displaying large conversations</li>
+          <li>Upgraded full-text search engine</li>
+          <li>Improved search for languages such as Thai and Chinese</li>
+          <li>Improved keyboard shortcuts</li>
+          <li>Improved server compatibility</li>
+          <li>Numerous user interface translation updates</li>
+          <li>Numerous bug fixes and user interface improvements</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.38" date="2020-09-13">
+      <description>
+        <p>Enhancements included in this release:</p>
+        <ul>
+          <li>Clean up email in database older than the storage preference</li>
+          <li>New Preferences window pane for managing plugins</li>
+          <li>New Email Templates plugin</li>
+          <li>New Mail Merge plugin</li>
+          <li>New Sent Sound plugin</li>
+          <li>New Unity Messaging Menu plugin</li>
+          <li>Reduced number of spurious problem report info bars</li>
+          <li>Improved ordering of folders in the folder list</li>
+          <li>Spam folder renamed to Junk</li>
+          <li>Composer formatting toolbar initially hidden for new installs</li>
+          <li>Desktop mail notifications now show contact photos</li>
+          <li>Improved server compatibility</li>
+          <li>Numerous bug fixes and user interface improvements</li>
+          <li>Numerous user interface translation updates</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-03-13" version="3.36">
+      <description>
+        <p>Enhancements included in this release:</p>
+        <ul>
+          <li>New and improved responsive composer interface</li>
+          <li>Drag and drop image files into rich text messages</li>
+          <li>Paste images from the clipboard into rich text messages</li>
+          <li>Improved composer missing attachment detection</li>
+          <li>Access emoji chooser in composer via shortcut or context menu</li>
+          <li>Extend undo for email actions such as archiving, marking</li>
+          <li>Undo sending, saving and discarding composed email</li>
+          <li>Undo editing in text fields, including in the composer</li>
+          <li>Open more than one main window</li>
+          <li>New and improved responsive preferences interface</li>
+          <li>Using single key shortcuts for email actions is now optional</li>
+          <li>Single key shortcuts have been brought up to date with Gmail</li>
+          <li>App-wide notification preferences now handled by desktop</li>
+          <li>Numerous bug fixes and user interface improvements</li>
+          <li>Numerous user interface translation updates</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.34" date="2019-09-21">
+      <description>
+        <p>Enhancements included in this release:</p>
+        <ul>
+          <li>Improved desktop contact integration</li>
+          <li>Added support for TNEF attachments</li>
+          <li>Added Inspector window for real-time debugging</li>
+          <li>Updated the user manual</li>
+          <li>Improved server compatibility</li>
+          <li>Numerous bug fixes and user interface improvements</li>
+          <li>Numerous user interface translation updates</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.32" date="2019-08-04">
+      <description>
+        <p>Enhancements included in this release:</p>
+        <ul>
+          <li>Application menu moved to the main window</li>
+          <li>Desktop contacts are used for sender images</li>
+          <li>Unknown contacts are given personalised initials and colour</li>
+          <li>Updated application icons</li>
+          <li>Improved server compatibility</li>
+          <li>Custom email CSS now applied to Composer view</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-02-17" version="0.13">
+      <description>
+        <p>Enhancements included in this release:</p>
+        <ul>
+          <li>Unread email count is now updated correctly</li>
+          <li>Conversations load faster, smoother with better feedback</li>
+          <li>Support for email accounts added via GNOME Online Accounts</li>
+          <li>Improved account creation and management user interface</li>
+          <li>Email flagged as deleted but not removed by other apps now hidden</li>
+          <li>Individual messages in a conversation can be deleted</li>
+          <li>Internal links in HTML email now work</li>
+          <li>Supported ordered and unordered lists in the composer</li>
+          <li>Rich text pasting improvements in the composer</li>
+          <li>Plain text versions of rich text mail includes formatting</li>
+          <li>Detached composers now remember their last used size</li>
+          <li>Better reporting when a login, security or other problem occurs</li>
+          <li>Reduced background synchronisation CPU use</li>
+          <li>Improved handling when going online and offline</li>
+          <li>Show an in-application notification when email has been sent</li>
+          <li>Flag possibly spoofed email addresses</li>
+          <li>Improve privacy when sending email using an alias</li>
+          <li>Subject, sender and date are being shown when printed again</li>
+          <li>Server compatibility improvements</li>
+          <li>Build, testing and other infrastructure improvements</li>
+          <li>Numerous bug fixes and minor user interface improvements</li>
+          <li>Numerous user interface translation updates</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.12" date="2017-10-02">
+      <description>
+        <p>Enhancements included in this release:</p>
+        <ul>
+          <li>Insert images inline when composing rich text messages</li>
+          <li>Improved interface for inserting links in rich text messages</li>
+          <li>Choose multiple spell-checker languages when composing messages</li>
+          <li>Support message archiving for Yahoo! Mail and Outlook.com</li>
+          <li>Improved interface when displaying conversations</li>
+          <li>Improved interface when moving and labelling conversations</li>
+          <li>Improved support for right-to-left languages</li>
+          <li>Automatically unfold starred messages in a conversation</li>
+          <li>Support saving remote inline images</li>
+          <li>Improved keyboard navigation for conversations</li>
+          <li>Added in-application keyboard shortcut help (Ctrl + ?)</li>
+          <li>Support for distribution via Flatpak</li>
+          <li>Improved security when displaying messages</li>
+          <li>Numerous bug fixes and minor user interface improvements</li>
+          <li>Numerous user interface translation updates</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="violence-desecration">none</content_attribute>
+    <content_attribute id="violence-slavery">none</content_attribute>
+    <content_attribute id="violence-worship">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="sex-homosexuality">none</content_attribute>
+    <content_attribute id="sex-prostitution">none</content_attribute>
+    <content_attribute id="sex-adultery">none</content_attribute>
+    <content_attribute id="sex-appearance">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">intense</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">intense</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+</component>

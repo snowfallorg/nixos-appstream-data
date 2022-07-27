@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>pantheon.switchboard-with-plugs</pkgname>
+  <id>io.elementary.switchboard.power</id>
+  <extends>io.elementary.switchboard</extends>
+  <name>Power Settings</name>
+  <name lang="zh_CN">电源设置</name>
+  <name lang="uk">Налаштування живлення</name>
+  <name lang="tr">Güç Ayarları</name>
+  <name lang="sr">Поставке напајања</name>
+  <name lang="sk">Nastavenia napájania</name>
+  <name lang="ru">Параметры питания</name>
+  <name lang="pt_BR">Configurações de Energia</name>
+  <name lang="pt">Definições de Energia</name>
+  <name lang="pl">Ustawienia zasialania</name>
+  <name lang="nl">Stroom instellingen</name>
+  <name lang="nb">Effektinnstillinger</name>
+  <name lang="mr">उर्जा सेटिंग्ज</name>
+  <name lang="ja">電源の設定</name>
+  <name lang="it">Impostazioni di alimentazione</name>
+  <name lang="hu">Energiagazdálkodási beállítások</name>
+  <name lang="he">הגדרות צריכת חשמל</name>
+  <name lang="fr">Paramètres d'alimentation</name>
+  <name lang="fi">Virranhallinnan asetukset</name>
+  <name lang="es">Configuración de energía</name>
+  <name lang="en_GB">Power Settings</name>
+  <name lang="de">Energieeinstellungen</name>
+  <name lang="cs">Nastavení správy napájení</name>
+  <name lang="ca">Paràmetres de l'energia</name>
+  <summary>Configure display brightness, power buttons, and suspend behavior</summary>
+  <summary lang="zh_TW">調整顯示器亮度、電源按鈕、暫停行為等設定</summary>
+  <summary lang="zh_CN">配置显示器亮度、电源按键和睡眠方式</summary>
+  <summary lang="uk">Налаштування яскравості екрана, кнопок живлення та поведінки переходу в режим сну</summary>
+  <summary lang="tr">Ekran parlaklığı, güç düğmeleri ve askıya alma davranışını yapılandırın</summary>
+  <summary lang="sr">Подесите осветљеност екрана, дугмад напајања и понашање обустављања</summary>
+  <summary lang="sk">Nastavujte jas obrazovky, tlačidlá napájania a správanie uspávania</summary>
+  <summary lang="ru">Настройка яркости экрана, кнопок питания и поведения перехода в спящий режим</summary>
+  <summary lang="pt_BR">Configurar o brilho da tela, os botões de energia e o comportamento de suspensão</summary>
+  <summary lang="pt">Configurar o brilho do ecrã, botões de energia e modo de suspensão</summary>
+  <summary lang="pl">Konfiguruj jasność ekranu, zachowanie przycisków zasilania i trybu usypiania</summary>
+  <summary lang="nl">Configureer schermhelderheid, stroomknoppen en slaapstand</summary>
+  <summary lang="nb">Sett opp skjermlysstyrke, på-knapper, og dvalgangsoppførsel</summary>
+  <summary lang="mr">डिस्प्ले ब्राइटनेस, पॉवर बटणे आणि निलंबन वर्तन कॉन्फिगर करा</summary>
+  <summary lang="lt">Konfigūruoti ekrano ryškumą, maitinimo mygtukų bei pristabdymo elgseną</summary>
+  <summary lang="ko">화면 밝기, 전원 버튼, 잠자기 동작을 설정합니다</summary>
+  <summary lang="ja">ディスプレイの明るさ、電源ボタン、サスペンドの挙動を設定します</summary>
+  <summary lang="it">Configura la luminosità dello schermo, i pulsanti di alimentazione e il comportamento durante la sospensione</summary>
+  <summary lang="hu">A kijelző fényerejének, a bekapcsológomb viselkedésének és a felfüggesztési opciók beállítása</summary>
+  <summary lang="he">הגדרת בהירות המסך, כפתורי הכיבוי והתנהגות מצב ההשהיה</summary>
+  <summary lang="gl">Configurar o brillo da pantalla, os botóns de acendido e o comportamento en suspensión</summary>
+  <summary lang="fr">Configurer la luminosité de l'écran, le comportement des boutons allumer et mise en veille</summary>
+  <summary lang="fi">Määritä näytön kirkkaus sekä virtapainikkeiden ja lepotilan toiminta</summary>
+  <summary lang="es">Configure el brillo de pantalla, los botones de encendido y el comportamiento al suspender</summary>
+  <summary lang="eo">Agordi ekranan brilecon, energiajn butonojn, kaj paŭzan konduton</summary>
+  <summary lang="en_GB">Configure display brightness, power buttons, and suspend behaviour</summary>
+  <summary lang="en_CA">Configure display brightness, power buttons, and suspend behavior</summary>
+  <summary lang="en_AU">Configure display brightness, power buttons, and suspend behavior</summary>
+  <summary lang="de">Bildschirmhelligkeit, Ein-/Ausschalter und Energiesparverhalten einrichten</summary>
+  <summary lang="da">Konfigurer skærmens lysstyrke, tænd / sluk-knapper og suspenderings opførsel</summary>
+  <summary lang="cs">Nastavuje jas obrazovky, tlačítka napájení a chování uspávání</summary>
+  <summary lang="ca">Configureu la brillantor de la pantalla, els botons d'engegar i el comportament de la suspensió.</summary>
+  <icon type="stock">preferences-system-power</icon>
+  <translation type="gettext">power-plug</translation>
+  <releases>
+    <release version="2.7.0" urgency="medium" date="2022-05-16">
+      <description>
+        <p>New features:</p>
+        <ul>
+          <li>Add power profile management</li>
+        </ul>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.6.0" date="2021-08-24" urgency="medium">
+      <description>
+        <p>New features:</p>
+        <ul>
+          <li>Add toggle for showing battery percentage in Panel</li>
+        </ul>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Fix a potential issue with resuming from sleep</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.5.0" date="2021-07-14" urgency="medium">
+      <description>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Change lid settings without restarting</li>
+          <li>Show in search results for "sleep" and "timeout"</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-05-16" version="2.4.2" urgency="medium">
+      <description>
+        <p>Fix potential freeze when changing settings from multiple panes</p>
+        <p>Updated translations</p>
+      </description>
+    </release>
+    <release urgency="medium" version="2.4.1" date="2020-04-01">
+      <description>
+        <p>Updated translations</p>
+      </description>
+    </release>
+    <release version="2.4.0" date="2019-11-15" urgency="medium">
+      <description>
+        <p>Remove broken hibernate option</p>
+        <p>Add prompt to shutdown to power button actions</p>
+        <p>Updated translations</p>
+      </description>
+    </release>
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/elementary/switchboard-plug-power/master/data/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://elementary.io</url>
+  <url type="bugtracker">https://github.com/elementary/switchboard-plug-power/issues</url>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+</component>

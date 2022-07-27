@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>pantheon.switchboard-with-plugs</pkgname>
+  <id>io.elementary.switchboard.datetime</id>
+  <extends>io.elementary.switchboard</extends>
+  <name>Date &amp; Time Settings</name>
+  <name lang="zh_CN">时间与日期设置</name>
+  <name lang="uk">Налаштування дати й часу</name>
+  <name lang="tr">Tarih ve Saat Ayarları</name>
+  <name lang="sr">Поставке датума и времена</name>
+  <name lang="ru">Параметры даты и времени</name>
+  <name lang="pt_BR">Definições Data &amp;amp; Hora</name>
+  <name lang="pt">Definições de Data e Hora</name>
+  <name lang="pl">Ustawienia daty i czasu</name>
+  <name lang="nl">Datum &amp;amp; tijd instellingen</name>
+  <name lang="nb">Dato og tidsinnstillinger</name>
+  <name lang="mr">तारीख &amp;amp; वेळ सेटिंग्ज</name>
+  <name lang="lt">Datos ir laiko nustatymai</name>
+  <name lang="ko">날짜 &amp;amp; 시간 설정</name>
+  <name lang="ja">日付と時刻の設定</name>
+  <name lang="it">Impostazioni data e ora</name>
+  <name lang="he">הגדרות תאריך ושעה</name>
+  <name lang="gl">Configuración de data e hora</name>
+  <name lang="fr">Paramètres de la date et de l'heure</name>
+  <name lang="fi">Päivän ja ajan asetukset</name>
+  <name lang="es">Configuración de fecha y hora</name>
+  <name lang="eo">Agordoj pri Dato &amp;amp; Horo</name>
+  <name lang="en_GB">Date &amp;amp; Time Settings</name>
+  <name lang="en_CA">Date &amp;amp; Time Settings</name>
+  <name lang="en_AU">Date &amp;amp; Time Settings</name>
+  <name lang="cs">Nastavení data a času</name>
+  <name lang="ca">Paràmetres de la data i l'hora</name>
+  <summary>Configure date, time, and select time zone</summary>
+  <summary lang="zh_CN">配置时间、日期和时区</summary>
+  <summary lang="uk">Налаштування дати, часу та вибір часового поясу</summary>
+  <summary lang="tr">Tarihi, saati yapılandırın ve saat dilimini seçin</summary>
+  <summary lang="sr">Подесите датум, време и изаберите временску зону</summary>
+  <summary lang="sl">Nastavite datum in uro ter izberite časovni pas</summary>
+  <summary lang="ru">Настройка даты, времени и выбор часового пояса</summary>
+  <summary lang="pt_BR">Configurar data, hora e selecionar fuso horário</summary>
+  <summary lang="pt">Configurar data, hora e selecionar o fuso horário</summary>
+  <summary lang="pl">Konfiguruj datę, czas oraz wybierz strefę czasową</summary>
+  <summary lang="nl">Stel datum, tijd en tijdzone in</summary>
+  <summary lang="nb">Sett opp dato, tid og velg tidssone</summary>
+  <summary lang="mr">तारीख, वेळ आणि वेळ क्षेत्र निवडा</summary>
+  <summary lang="lt">Konfigūruoti datą, laiką bei pasirinkti laiko juostą</summary>
+  <summary lang="ko">날짜, 시간, 그리고 시간대를 설정합니다</summary>
+  <summary lang="ja">日付と時刻を設定し、タイムゾーンを選択します</summary>
+  <summary lang="it">Configura la data, l'ora e seleziona il fuso orario</summary>
+  <summary lang="id">Konfigurasikan tanggal, waktu, dan pilih zona waktu</summary>
+  <summary lang="hr">Prilagodite datum, vrijeme i odaberite vremensku zonu</summary>
+  <summary lang="he">הגדרת התאריך, השעה ובחירה באזור זמן</summary>
+  <summary lang="gl">Configurar data, hora e seleccionar a zona horaria</summary>
+  <summary lang="fr">Configurer la date, l'heure et sélectionner le fuseau horaire</summary>
+  <summary lang="fi">Määritä päiväys ja aika sekä valitse aikavyöhyke</summary>
+  <summary lang="es">Configure la fecha y la hora y seleccione el huso horario</summary>
+  <summary lang="eo">Agordi daton, horon, kaj horzonon</summary>
+  <summary lang="en_GB">Configure date, time, and select time zone</summary>
+  <summary lang="en_CA">Configure date, time, and select time zone</summary>
+  <summary lang="en_AU">Configure date, time, and select time zone</summary>
+  <summary lang="de">Datum und Uhrzeit einstellen, Zeitzone auswählen</summary>
+  <summary lang="da">Konfigurér dato, klokkeslæt og vælg tidszone</summary>
+  <summary lang="cs">Nastavení data, času a výběr časového pásma</summary>
+  <summary lang="ca">Configureu la data, l'hora i seleccioneu la zona horària.</summary>
+  <icon type="stock">preferences-system-time</icon>
+  <translation type="gettext">datetime-plug</translation>
+  <releases>
+    <release date="2021-07-15" version="2.2.0" urgency="medium">
+      <description>
+        <p>Minor updates</p>
+        <ul>
+          <li>Move timezone popover contents to the main view</li>
+          <li>Add options to show or hide the date, weekday, and seconds in the clock</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.1.9" date="2020-05-28" urgency="medium">
+      <description>
+        <p>Updated translations</p>
+      </description>
+    </release>
+    <release version="2.1.8" urgency="medium" date="2020-05-18">
+      <description>
+        <p>Minor updates</p>
+        <ul>
+          <li>Fix potential freeze when changing settings from multiple panes</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.1.7" date="2020-04-01" urgency="medium">
+      <description>
+        <p>Updated translations</p>
+      </description>
+    </release>
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/elementary/switchboard-plug-datetime/master/data/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://elementary.io</url>
+  <url type="bugtracker">https://github.com/elementary/switchboard-plug-datetime/issues</url>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+</component>

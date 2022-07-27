@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>mpdevil</pkgname>
+  <icon type="cached" height="64" width="64">org.mpdevil.mpdevil.png</icon>
+  <icon width="128" type="cached" height="128">org.mpdevil.mpdevil.png</icon>
+  <id>org.mpdevil.mpdevil</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0</project_license>
+  <name>mpdevil</name>
+  <summary>A simple music browser for MPD</summary>
+  <description>
+    <p>Mpdevil is a simple music browser for the Music Player Daemon (MPD) which is focused on playing local music without the need of managing playlists. Instead of maintaining a client side database of your music library mpdevil loads all tags and covers on demand. So you'll never see any outdated information in the browser. Mpdevil strongly relies on tags.</p>
+    <ul>
+      <li>display large covers</li>
+      <li>play songs without doubleclick</li>
+      <li>fetch lyrics</li>
+      <li>MPRIS interface</li>
+      <li>notifications on title change</li>
+      <li>basic queue manipulation (move and delete single tracks)</li>
+      <li>search songs</li>
+      <li>filter by genre</li>
+      <li>media keys support</li>
+      <li>many shortcuts</li>
+      <li>manage multiple mpd servers</li>
+    </ul>
+  </description>
+  <releases>
+    <release date="2021-11-13" version="1.4.1" />
+  </releases>
+  <launchable type="desktop-id">org.mpdevil.mpdevil.desktop</launchable>
+  <screenshots>
+    <screenshot type="default">
+      <image width="1082" height="1049" type="source">https://raw.githubusercontent.com/SoongNoonien/mpdevil/v1.4.0/screenshots/mainwindow_1.4.0.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://github.com/SoongNoonien/mpdevil</url>
+  <url type="bugtracker">https://github.com/SoongNoonien/mpdevil/issues</url>
+  <content_rating type="oars-1.1" />
+  <provides>
+    <binary>mpdevil</binary>
+  </provides>
+  <update_contact>martin.wagner.dev@gmail.com</update_contact>
+</component>

@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>gnome.swell-foop</pkgname>
+  <launchable type="desktop-id">org.gnome.SwellFoop.desktop</launchable>
+  <icon height="64" type="cached" width="64">org.gnome.SwellFoop.png</icon>
+  <icon height="128" width="128" type="cached">org.gnome.SwellFoop.png</icon>
+  <id>org.gnome.SwellFoop.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>Swell Foop</name>
+  <name lang="zh_TW">Swell Foop</name>
+  <name lang="zh_HK">Swell Foop</name>
+  <name lang="zh_CN">消色块</name>
+  <name lang="uk">Той самий</name>
+  <name lang="ug">Swell Foop</name>
+  <name lang="tr">Swell Foop</name>
+  <name lang="th">Swell Foop</name>
+  <name lang="te">స్వ్ల్ ఫూప్</name>
+  <name lang="ta">ஸ்வெல் ஃபூப்</name>
+  <name lang="sv">Swell Foop</name>
+  <name lang="sr@latin">Lančana reakcija</name>
+  <name lang="sr">Ланчана реакција</name>
+  <name lang="sl">Pravi Pavliha</name>
+  <name lang="sk">Swell Foop</name>
+  <name lang="ru">Swell Foop</name>
+  <name lang="ro">Swell Foop</name>
+  <name lang="pt_BR">Swell Foop</name>
+  <name lang="pt">Swell Foop</name>
+  <name lang="pl">Swell Foop</name>
+  <name lang="pa">ਸਵਿੱਲ ਫੂਪ</name>
+  <name lang="oc">Swell Foop</name>
+  <name lang="nn">To fluger i ein smekk</name>
+  <name lang="nl">Swell Foop</name>
+  <name lang="ne">स्वेल फोप</name>
+  <name lang="nb">Swell Foop</name>
+  <name lang="ms">Swell Foop</name>
+  <name lang="ml">സ്വെല്‍ ഫൂപ്പ്</name>
+  <name lang="mk">Swell Foop</name>
+  <name lang="lv">Swell Foop</name>
+  <name lang="lt">Swell Foop</name>
+  <name lang="ko">스웰푸프</name>
+  <name lang="km">Swell Foop</name>
+  <name lang="kk">Swell Foop</name>
+  <name lang="ja">Swell Foop</name>
+  <name lang="it">Swell Foop</name>
+  <name lang="id">Swell Foop</name>
+  <name lang="hu">Swell Foop</name>
+  <name lang="hr">Jedan potez</name>
+  <name lang="he">פיצוץ בצבעים</name>
+  <name lang="gl">Swell Foop</name>
+  <name lang="fur">Swell Foop</name>
+  <name lang="fr">Swell Foop</name>
+  <name lang="fi">Swell Foop</name>
+  <name lang="fa">سوئل‌فوپ</name>
+  <name lang="eu">Swell Foop</name>
+  <name lang="et">Swell Foop</name>
+  <name lang="es">Swell Foop</name>
+  <name lang="eo">Manda Grovo</name>
+  <name lang="en_GB">Swell Foop</name>
+  <name lang="en_CA">Swell Foop</name>
+  <name lang="el">Swell Foop</name>
+  <name lang="de">Swell Foop</name>
+  <name lang="da">Swell Foop</name>
+  <name lang="cs">Swell Foop</name>
+  <name lang="ca@valencia">Atac salvatge</name>
+  <name lang="ca">Atac salvatge</name>
+  <name lang="bs">Lančana reakcija</name>
+  <name lang="bn">সোয়েল ফুপ</name>
+  <name lang="bg">Еднакви</name>
+  <name lang="be">Swell Foop</name>
+  <name lang="ast">Swell Foop</name>
+  <name lang="ar">سويل فووب</name>
+  <name lang="an">Swell Foop</name>
+  <name lang="ab">Swell Foop</name>
+  <summary>Clear the screen by removing groups of colored and shaped tiles</summary>
+  <summary lang="zh_TW">清除畫面上聚在一起的同樣顏色和形狀的拼圖</summary>
+  <summary lang="zh_HK">清除畫面上聚在一起的同樣顏色和形狀的拼圖</summary>
+  <summary lang="zh_CN">移除同样的色块以清空屏幕</summary>
+  <summary lang="uk">Очищати екран, вилучаючи групи кольорових кульок</summary>
+  <summary lang="ug">رەڭلىك ياكى شەكىللىك ئۇرۇقلارنى چىقىرىۋېتىش ئارىلىق ئېكراننى تازىلاش</summary>
+  <summary lang="tr">Renkli ve şekilli döşeme kümelerini kaldırarak ekranı temizle</summary>
+  <summary lang="th">หยิบเบี้ยสีและรูปร่างต่างๆ เป็นกลุ่มๆ ให้หมดจากกล่อง</summary>
+  <summary lang="te">ఆకారంలో పలకలను గ్రూపులను తొలగించడంద్వారా తెరను శుభ్రపర్చుము</summary>
+  <summary lang="ta">வண்ண மற்றும் உருவ ஓடுகளை குழுக்களாக நீக்கி திரையை காலி செய்</summary>
+  <summary lang="sv">Rensa skärmen genom att ta bort grupper av färgade och formade bollar</summary>
+  <summary lang="sr@latin">Očistite ekran uklanjanjem grupa obojenih pločica i istog oblika</summary>
+  <summary lang="sr">Очистите екран уклањањем група обојених плочица и истог облика</summary>
+  <summary lang="sl">Počisti zaslon z odstranjevanjem skupin barvnih ploščic</summary>
+  <summary lang="sk">Vyčistite obrazovku odstraňovaním skupín farebných a tvarovaných polí</summary>
+  <summary lang="ru">Очистите поле, удаляя группы цветных шаров</summary>
+  <summary lang="ro">Curățați ecranul eliminând grupuri de bile colorate și mozaicuri cu forme</summary>
+  <summary lang="pt_BR">Limpe a tela removendo grupos de pedras coloridas e com formas</summary>
+  <summary lang="pt">Limpe o ecrã removendo grupos de peças coloridas e de várias formas</summary>
+  <summary lang="pl">Wyczyść planszę przez usuwanie grup płytek jednego koloru i kształtu</summary>
+  <summary lang="pa">ਰੰਗਦਾਰ ਅਤੇ ਸੇਪ ਟਾਈਲਾਂ ਦੇ ਗਰੁੱਪ ਹਟਾ ਕੇ ਸਕਰੀਨ ਸਾਫ਼ ਕਰੋ</summary>
+  <summary lang="oc">Voidar l'ecran en suprimissent de gropes d'objèctes colorats en forma de teulas</summary>
+  <summary lang="nn">Tøm skjermen ved å fjerna grupper med farga og forma fliser</summary>
+  <summary lang="nl">Maak het scherm leeg door groepen gekleurde en gevormde tegels te verwijderen</summary>
+  <summary lang="ne">आकार र रङ्गिएको टायलको समूह हटाएर पर्दा खाली गर्नुहोस्</summary>
+  <summary lang="nb">Tøm skjermen ved å fjerne grupper med fargede fliser med forskjellig form</summary>
+  <summary lang="ms">Kosongkan skrin dengan membuang sekumpulan jubin berwarna dan berbentuk</summary>
+  <summary lang="ml">നിറത്തോടും ആകൃതിയോടും കൂടിയ ടൈലുകളുടെ കൂട്ടം നീക്കം ചെയ്ത് സ്ക്രീന്‍ വെടിപ്പാക്കുക</summary>
+  <summary lang="mk">Исчисти го екранот преку отстранување на групи на обоени топчиња</summary>
+  <summary lang="lv">Attīri ekrānu, aizvācot krāsainu kauliņu grupas</summary>
+  <summary lang="lt">Išvalykite ekraną pašalindami spalvotų ir figūrinių koklių grupes</summary>
+  <summary lang="ko">같은 색이나 모양의 타일을 제거해 나가면서 화면을 청소합니다</summary>
+  <summary lang="km">សម្អាតអេក្រង់ដោយយកក្រុមក្រឡាក្បឿងដែលបានធ្វើទ្រង់ទ្រាយ និងដាក់ពណ៌ចេញ</summary>
+  <summary lang="kk">Түсті және кескінді плиткалар топтарын жою арқылы экранды тазалау</summary>
+  <summary lang="ja">隣接する同じ色や形のタイルをまとめて、画面から消していくゲームです</summary>
+  <summary lang="it">Pulisci lo schermo rimuovendo gruppi di tessere colorate e sagomate</summary>
+  <summary lang="id">Bersihkan layar dengan menghapus kotak berwarna dan berbentuk yang tergrup</summary>
+  <summary lang="hu">Tisztítsa meg a képernyőt az egyező színű és formájú csempecsoportok eltávolításával</summary>
+  <summary lang="hr">Očistite ploču uklanjanje grupa obojanih i oblikovanih pločica</summary>
+  <summary lang="he">פינוי המסך על ידי הסרת קבוצות של אריחים צבעוניים ובעלי צורה</summary>
+  <summary lang="gl">Limpe a pantalla retirando grupos de bólas coloreadas e con forma de tesela </summary>
+  <summary lang="fur">Nete il schermi gjavant grups di tessaris coloradis e sagomadis</summary>
+  <summary lang="fr">Vider l’écran en supprimant des groupes d’objets colorés en forme de tuiles</summary>
+  <summary lang="fi">Tyhjennä ruutu poistamalla värillisten ja eri muotoisten laattojen ryhmiä</summary>
+  <summary lang="fa">پاک سازی صفحه با برداشتن گروه‌هایی از کاشی‌های رنگی و طرح‌دار</summary>
+  <summary lang="eu">Garbitu pantaila koloretako eta formadun fitxak kenduta</summary>
+  <summary lang="et">Ekraani puhastamine värviliste pallide ja erikujuliste klotside grupeerimise teel</summary>
+  <summary lang="es">Limpie la pantalla eliminando grupos de fichas coloreadas y con formas</summary>
+  <summary lang="eo">Vakigu la ekranon per forigi kolorajn kaj formatajn kahelarojn</summary>
+  <summary lang="en@shaw">𐑒𐑤𐑽 𐑞 𐑕𐑒𐑮𐑰𐑯 𐑚𐑲 𐑮𐑦𐑥𐑵𐑝𐑦𐑙 𐑜𐑮𐑵𐑐𐑕 𐑝 𐑒𐑳𐑤𐑼𐑛 𐑯 𐑖𐑱𐑐𐑑 𐑑𐑲𐑤𐑟</summary>
+  <summary lang="en_GB">Clear the screen by removing groups of coloured and shaped tiles</summary>
+  <summary lang="en_CA">Clear the screen by removing groups of coloured and shaped tiles</summary>
+  <summary lang="el">Καθαρίστε την οθόνη απομακρύνοντας ομάδες από χρωματιστά πλακάκια</summary>
+  <summary lang="de">Den Bildschirm durch Entfernen von Gruppen farbiger und geformter Kacheln leeren</summary>
+  <summary lang="da">Ryd skærmen ved at fjerne grupper af ensfarvede og ens udformede brikker</summary>
+  <summary lang="cs">Vyčisti obrazovku pomocí odstraňování skupin kamenů různých barev a tvarů</summary>
+  <summary lang="ca@valencia">Netegeu la pantalla suprimint grups de fitxes de colors</summary>
+  <summary lang="ca">Netegeu la pantalla suprimint grups de fitxes de colors</summary>
+  <summary lang="bs">Počistite ekran odstranjivanjem skupina obojenih i oblikovanih pločica</summary>
+  <summary lang="bn">রঙীন এবং সুন্দর আকৃতির গ্রুপ সরিয়ে পর্দা খালি করুন</summary>
+  <summary lang="bg">Изчистване на екрана чрез махане на групи от цветни плочки с характерна форма</summary>
+  <summary lang="be">Ачысціце экран, выдаляючы групы каляровых квадратаў розных формаў</summary>
+  <summary lang="ast">Llimpiar la pantalla desaniciando grupos de colores y mosaicu de formes</summary>
+  <summary lang="ar">نظّف الشاشة بإزالة مجموعات القراميد الملونة والمشكّلة</summary>
+  <summary lang="an">Escosque a pantalla eliminando grupos de fichas coloreadas y con formas</summary>
+  <summary lang="af">Maak die skerm skoon deur groepe van gekleurde en gevormde teëls te verwyder</summary>
+  <summary lang="ab">Ишәрыцқьа аҭыԥ, иԥштәылоу акәымпылқәа аныхуа</summary>
+  <description>
+    <p>
+      Remove as many squares as possible from the board. Click on a group of
+      squares of the same color to make them all disappear in one fell swoop,
+      causing other squares to fall into place. It is not possible to remove a
+      single square at a time. You get far more points for clearing a larger group
+      of squares, and also for clearing the entire board.
+    </p>
+    <p>
+      Swell Foop is always very quick to play, but you can make it somewhat longer
+      by changing the board size.
+    </p>
+  </description>
+  <description lang="ab">
+    <p>Аӷәы аҟынтәи излауо ала ирацәаны аквадратқәа ықәыжәга.Ԥштәык змоу аквадратқәа ргәыԥ шәықәыӷәӷәалааӷәы аҟынтә иқәыжәгарц азы.Иакны иҟоу аквадратқәа шәзаныхӡом.Ианышәхо аквадратқәа ргәыԥқәа шаҟа ирацәоу аҟара ирацәахоит шәкәаталақәагьы Насгьы акәаталақәа хыԥхьаӡалахоит аӷәы зегьы арыцқьара азы.</p>
+    <p>Swell Foop-ари иласу хәмарроуп, аха шәара ишәылшоит уи еиҵышәхырц ,аӷәы ашәагаа ԥсахуа. </p>
+  </description>
+  <description lang="an">
+    <p>Saque todas as fichas que pueda d'o tablero. Prete sobre un grupo de fichas d'a mesma color ta fer que desapareixcan d'un truco, fendo que caigan atros en o suyo puesto. No ye posible sacar una sola ficha a la vegada. Obtendrá mas puntos en eliminar un grupo gran de fichas, asinas como en limpiar o tablero completo.</p>
+    <p>Swell Foop siempre ye rapido de chugar, pero puede prolargar-lo un poquet cambiando a grandaria d'o tablero.</p>
+  </description>
+  <description lang="be">
+    <p>Выдаліце з дашкі як мага больш плітак. Пстрыкніце па групе плітак аднаго колеру, і яна знікне адным махам, а іншыя пліткі ўпадуць на вольнае месца. Выдаліць адзіночную плітку не атрымаецца. За ачыстку вялікай групы плітак і ўсёй дашкі даецца значна болей ачкоў.</p>
+    <p>Гульня Swell Foop вельмі хуткая, яле можна падоўжыць яе, павялічыўшы памер дашкі.</p>
+  </description>
+  <description lang="bg">
+    <p>Махнете максимален брой плочки от игралната дъска. Натиснете върху голяма група от едноцветни блокчета и ще ги премахнете, а останалите ще се преподредят. Не може да премахвате единични плочки. Повече точки се получават при изчистването на по-голяма група блокчета. Има допълнителен бонус при изчистване на цялата дъска.</p>
+    <p>„Еднакви“ се играе бързо. Можете да промените размера на игралното поле за по-продължителна игра.</p>
+  </description>
+  <description lang="bs">
+    <p>Uklonite što je moguće više kvadrata sa ploče. Klikne na grupu kvadrata iste boje kako bi nestali odjednom, uzrokuje druge kvadrate na svoje mjesto. Nije moguće ukloniti jedan kvadrat na vrijeme. Možete dobiti više poena za čišćenje veće grupe kvadrata, i takođe za čišćenje cijele ploče.</p>
+    <p>Swell Foop se uvijek igra brzo, ali vi to možete da igrate duže mijenjanjem veličine ploče.</p>
+  </description>
+  <description lang="ca">
+    <p>Elimineu tants quadrats del tauler com sigui possible. Feu clic en un grup de quadrats del mateix color per a fer-los desaparèixer d'una tirada, fent que altres quadrats caiguin al lloc buit. No es pot eliminar un sol quadrat en una tirada. Aconseguireu molts més punts si elimineu molts quadrats d'una tirada així com per a buidar tot el tauler.</p>
+    <p>L'Atac salvatge és sempre un joc ràpid, però podeu allargar-lo canviant la mida del tauler.</p>
+  </description>
+  <description lang="ca@valencia">
+    <p>Elimineu tants quadrats del tauler com siga possible. Feu clic en un grup de quadrats del mateix color per fer-los desaparèixer d'una tirada, fent que altres quadrats caiguin al lloc buit. No es pot eliminar un sol quadrat en una tirada. Aconseguireu molts més punts si elimineu molts quadrats d'una tirada així com per buidar tot el tauler.</p>
+    <p>L'Atac salvatge és sempre un joc ràpid, però podeu allargar-lo canviant la mida del tauler.</p>
+  </description>
+  <description lang="cs">
+    <p>Odstraňte z hrací desky co nejvíce kostek jde. Kliknutí na skupinu kostek stejné barvy způsobí, že kostky naráz zmizí a zbývající kostky popadají dolů. Takto ale nejdou odstranit osamocené kostky. Abyste získali co nejvíce bodů, odstraňujte co největší bloky kostek a také se snažte hrací desku vyčistit úplně.</p>
+    <p>Jednotlivé hry bývají obvykle odehrány rychle, ale můžete se ji prodloužit změnou velikosti hrací desky.</p>
+  </description>
+  <description lang="da">
+    <p>Fjern så mange firkanter som muligt fra brættet. Klik på en gruppe af firkanter af samme farve for at få dem alle til at forsvinde i én ordentlig omgang, eller “swell foop”, så andre firkanter falder ned på deres plads. Det er ikke muligt at fjerne en enkelt firkant ad gangen. Du får langt flere points for at rydde en større gruppe firkanter, og også for at rydde hele brættet.</p>
+    <p>Swell Foop er altid meget hurtigt at spille, men du kan få det til at vare lidt længere ved at ændre brætstørrelse.</p>
+  </description>
+  <description lang="de">
+    <p>Entfernen Sie so viele Kacheln wie möglich vom Spielbrett. Klicken Sie auf eine Ansammlung Kacheln derselben Farbe, damit diese alle auf einmal verschwinden. Daraufhin fallen andere Kacheln an diese Stellen. Es ist nicht möglich Kacheln einzeln zu entfernen. Sie erhalten deutlich mehr Punkte beim Entfernen von großen Kachelgruppen und auch für das vollständige Räumen des Spielbretts.</p>
+    <p>Swell Foop kann immer sehr schnell gespielt werden. Bei Bedarf können Sie die Spielzeit verlängern, in dem Sie die Spielbrettgröße anpassen.</p>
+  </description>
+  <description lang="el">
+    <p>Αφαιρέστε όσα τετράγωνα μπορείτε από τον πίνακα. Πατήστε σε μια ομάδα τετραγώνων του ίδιου χρώματος για να τα εξαφανίσετε μονομιάς, προκαλώντας τα άλλα τετράγωνα να πέσουν στη θέση. Δεν είναι δυνατό να αφαιρέσετε ένα μόνο τετράγωνο τη φορά. Παίρνετε πολύ περισσότερα σημεία για καθαρισμό μιας μεγαλύτερης ομάδας τετραγώνων και επίσης για καθαρισμό όλου του πίνακα.</p>
+    <p>Το Swell Foop είναι πάντα πολύ γρήγορο στο παίξιμο, αλλά μπορείτε να το κάνετε κάπως πιο μεγάλο αλλάζοντας το μέγεθος του πίνακα.</p>
+  </description>
+  <description lang="en_GB">
+    <p>Remove as many squares as possible from the board. Click on a group of squares of the same colour to make them all disappear in one fell swoop, causing other squares to fall into place. It is not possible to remove a single square at a time. You get far more points for clearing a larger group of squares, and also for clearing the entire board.</p>
+    <p>Swell Foop is always very quick to play, but you can make it somewhat longer by changing the board size.</p>
+  </description>
+  <description lang="es">
+    <p>Quite todas las fichas que pueda del tablero. Pulse sobre un grupo de fichas del mismo color para hacer que desaparezcan de un golpe, haciendo que caigan otros en su lugar. No es posible quitar una única ficha a la vez. Obtendrá más puntos al eliminar un grupo grande de fichas, así como al limpiar el tablero completo.</p>
+    <p>Swell Foop siempre es rápido de jugar, pero puede alargarlo un poco cambiando el tamaño del tablero.</p>
+  </description>
+  <description lang="eu">
+    <p>Kendu ahalik eta karratu gehienen mahaitik. Egin klik kolore berdineko karratu talde baten gainean guztiak kolpe batez desagertzeko, eta beste karratuak gainera erortzeko. Ezinezkoa da karratu bakar bat kentzea. Zenbat eta handiago izan kentzen den karratu taldea, are eta puntuazio hobeagoa izango duzu.</p>
+    <p>Swell Foop beti da oso azkarra jokatzeko, baina mahaiaren tamaina alda dezakezu nolabait geldotzeko.</p>
+  </description>
+  <description lang="fa">
+    <p>هر تعداد خانه از تخته را که می‌توانید خالی کنید.روی یک گروه از خانه‌های هم رنگ کلیک کنید و همه را با هم در یک حرکت پاک کنید، تا خانه‌های دیگر جای آنها را پر کنند. امکان اینکه یک خانه را خالی کنید وجود ندارد. شما برای خالی کردن گروه‌های بزرگتر، امتیاز بسیار بیشتری می‌گیرید، همچنین بابت خالی کردن کل تخته.</p>
+    <p>سوئل‌فلوپ همیشه بازی بسیار سریعی است، اما شما همیشه می‌توانید با تغییر اندازه تخته بازی، آن را طولانی‌تر کنید.</p>
+  </description>
+  <description lang="fi">
+    <p>Poista mahdollisimman monta neliötä laudalta. Napsauta samalla värillä merkittyä neliöryhmää hävittääksesi mahdollisiman monta neliötä kerralla, jolloin muut neliöt vaihtavat paikkaa. Yksittäistä neliötä ei ole mahdollista poistaa. Mitä enemmän poistat neliöitä kerralla, sitä enemmän saat pisteitä.</p>
+    <p>Peli Swell Foopia saattaa olla ohi nopeasti, mutta laudan kokoa muuttamalla peli saattaa kestää tavallista kauemmin.</p>
+  </description>
+  <description lang="fr">
+    <p>Supprimez autant de carrés que possible du plateau. Cliquez sur un groupe de carrés contigus et de la même couleur pour les faire disparaître d’un seul coup, faisant tomber les autres carrés à leur place. Il est impossible de supprimer un carré tout seul. Vous obtiendrez bien plus de points en faisant disparaître un gros groupe qu’un petit, ainsi qu’en nettoyant l’ensemble du plateau.</p>
+    <p>Une partie de Swell Foop est toujours très rapide, mais vous pouvez en augmenter la durée en changeant la taille du plateau.</p>
+  </description>
+  <description lang="fur">
+    <p>Gjave de taule di zûc ducj i cuadrâts che tu rivis: fâs clic suntun grup di cuadrâts dal stes colôr par fâju sparî ducj adun e fâ colâ altris. No tu puedis gjavâ un cuadrât ae volte: plui tu 'nd gjavis adun, plui ponts tu âs (e tu varâs ancjemò plui ponts se tu ju eliminis ducj).</p>
+    <p>Swell Foop al è un zûc veloç, ma si pues slungjâlu modificant la dimension de taule di zûc.</p>
+  </description>
+  <description lang="gl">
+    <p>Elimine tantos cadrados como poida do taboleiro. Prema nun grupo de cadrados da mesma cor para facelos desaparecer dun golpe, causando que outros cadrados caian no lugar. Non é posíbel quitar un único cadrado á vez. Obterá moitos máis puntos limpando grandes grupos de cadrados e tamén ao limpar o taboleiro completo.</p>
+    <p>Swell Foop é sempre moi rápido para xogar, pero pode facer que dure máis cambiando o tamaño do taboleiro.</p>
+  </description>
+  <description lang="he">
+    <p>יש למחוק מה שיותר ריבועים מהלוח. לחיצה על קבוצה של ריבועים מצבע זהה תעלים אתם בבת אחת, ותגרום לריבועים אחרים ליפול למקום. לא נתן להסיר ריבוע בודד בכל פעם. תקבל יותר נקודות עם ניקוי קבוצה גדולה של ריבועים, ואף ניקוי הלוח כולו.</p>
+    <p>פיצוץ בצבעים הוא תמיד משחק מהיר, אך נתן לעשות אתו ארוך יותר באמצעות שינוי גודל הלוח.</p>
+  </description>
+  <description lang="hr">
+    <p>Uklonite što je više moguće kvadrata iz ploče. Kliknite na grupu kvadrata iste boje kako bi ih uklonili u jednom potezu, uzrokujući da na oslobođena mjesta padaju drugi kvadrati. Nije moguće ukloniti jedan kvadrat. Dobivate više bodova uklanjanjem veće grupe kvadrata i za čišćenje cijele ploče.</p>
+    <p>Jedan potez se uvijek brzo odigra, ali to možete produljiti promjenom veličine ploče.</p>
+  </description>
+  <description lang="hu">
+    <p>Távolítson el a tábláról annyi négyzetet, amennyit csak lehetséges. Kattintson azonos színű négyzetek csoportjára annak eltüntetéséhez egy csapásra, amely után a többi négyzet a helyükre esik. Egyetlen négyzetet nem lehet eltávolítani. Nagyobb négyzetcsoport eltüntetéséért sokkal több pont jár, és a tábla teljes megtisztításáért szintén.</p>
+    <p>A Swell Foop mindig nagyon gyorsan végigjátszható, de a tábla méretének növelésével valamelyest meghosszabbítható.</p>
+  </description>
+  <description lang="id">
+    <p>Singkirkan sebanyak mungkin kotak dari papan. Klik pada sekelompok kotak dengan warna sama untuk membuat mereka semua hilang dalam satu sapuan, menyebabkan kotak lain jatuh menggantikannya. Tak mungkin membuang satu kotak pada suatu saat. Anda mendapat poin jauh lebih banyak ketika membersihkan kelompok kotak yang lebih besar, dan juga untuk membersihkan seluruh papan.</p>
+    <p>Swell Foop selalu cepat dimainkan, tapi Anda dapat membuatnya lebih lama dengan mengubah ukuran papan.</p>
+  </description>
+  <description lang="it">
+    <p>Rimuovi quanti più quadrati dal tavolo di gioco: fai clic su un gruppo di quadrati dello stesso colore per farli sparire tutti assieme e per farne cadere altri. Non puoi rimuovere un quadrato alla volta: più ne rimuovi assieme, più punti ottieni (e riceverai ancora più punti rimuovendoli tutti).</p>
+    <p>Swell Foop è un gioco veloce, ma è possibile allungarlo modificando la dimensione del tavolo di gioco.</p>
+  </description>
+  <description lang="kk">
+    <p>Тақтадан мүмкіндігінше көп шаршыны алып тастаңыз. Бір түсті шаршылар тобын басыңыз, олардың барлығы бірден жойылып, орнына басқа шаршылар түсіп келеді. Бір уақытта тек бір шаршыны алып тастауға болмайды. Шаршылардың үлкен тобын тазалау, немесе бүкіл тақтаны тазалау нәтижесінде әлдеқайда көп ұпай алуға болады.</p>
+    <p>Swell Foop әрдайым өте жылдам ойналады, бірақ сіз оны тақтаның өлшемін өзгерту арқылы біршама ұзарта аласыз.</p>
+  </description>
+  <description lang="ko">
+    <p>게임판에서 사각형을 가능한 많이 없애십시오. 하나로 연결된 같은 색의 사각형 그룹을 누르면 모두 사라집니다. 그러면 다른 사각형이 떨어져서 붙습니다. 한 번에 사각형 1개를 제거할 수는 없습니다. 더 큰 그룹을 제거하면 더 많은 점수를 얻고, 게임판을 완전히 치워도 추가 점수를 얻습니다.</p>
+    <p>스웰푸프는 항상 빠르게 플레이할 수 있지만, 게임판 크기를 바꾸면 오래 플레이할 수 있습니다.</p>
+  </description>
+  <description lang="lt">
+    <p>Pašalinkite kiek galima daugiau kvadratų iš lentos. Spauskite ant tos pačios kvadratų grupės jiems pašalinti bei priverčiant kitus kvadratus nukristi į jų vietą. Negalima pašalinti vieno kvadrato. Gaunate daugiau taškų, jei pašalinate didesnę kvadratų grupę, bei išvalę visą lentą.</p>
+    <p>Swell Foop visada yra trumpas žaidimas, bet galite jį kiek prailginti pakeisdami lentos dydį.</p>
+  </description>
+  <description lang="lv">
+    <p>Noņem pēc iespējas vairāk kvadrātu no galdiņa. Spied uz vienas krāsas kvadrātu kopas un tie pazudīs vienā rāvienā, liekot pārējiem kvadrātiem iekrist to vietā. Vienā gājienā nevar noņemt vienu kvadrātu. Tu saņemsi daudz lielāku punktu skaitu, ja attīrīsi lielāku kvadrātu kopu, kā arī pilnībā notīrot galdiņu.</p>
+    <p>Swell Foop ir vienmēr ātra spēle, bet to var padarīt garāku, mainot galdiņa izmēru.</p>
+  </description>
+  <description lang="ms">
+    <p>Buang sebanyak mungkin yang ada di dalam papan. Klik pada sekumpulan petak berwarna sama supaya mereka hilang dalam satu klik, menyebabkan petak-petak lain jatuh ke bawah. Berkemungkinan anda hanya dapat membuang satu petak pada satu masa. Anda akan mendapat lebih banyak mata sekiranya membuang sekumpulan besar petak, dan juga dapat mengosongkan keseluruhan papan.</p>
+    <p>Swell Foop dimainkan dengan sangat pantas, tetapi anda boleh lanjutkan permainan dengan mengubah saiz papan.</p>
+  </description>
+  <description lang="nb">
+    <p>Fjern så mange ruter som mulig fra brettet. Klikk på en gruppe av ruter med samme farge for å få dem alle til å forsvinne på et blunk, for så å la andre ruter falle på plass. Det er ikke mulig å fjerne en enkel rute for seg selv. Du får mange flere poeng ved å fjerne en større gruppe med ruter, og selvfølgelig også for å tømme hele brettet.</p>
+    <p>Swell Foop er alltid et veldig raskt spill, men du kan få det til å vare lenger ved å endre størrelse på brettet.</p>
+  </description>
+  <description lang="ne">
+    <p>बोर्डबाट सकेसम्म धेरै वर्ग हटाउनुहोस् । एउटै रङको वर्गको समूहमा क्लिक गर्नुहोस् जसले गर्दा तिनीहरू सबै एउटा ढलेको झड्कामा अदृश्य हुन्छन्, जसले गर्दा अन्य वर्गहरू ठाउँमा खस्छन्। एक पटकमा एकल वर्ग हटाउन सम्भव छैन । तपाईँले वर्गको ठूलो समूह खाली गर्नका लागि र पूरै बोर्ड खाली गर्नका लागि धेरै बिन्दुहरू प्राप्त गर्नुहुन्छ ।</p>
+    <p>स्वेल फोप खेल्न सधैं धेरै छिटो हुन्छ, तर तपाईँले बोर्डको साइज परिवर्तन गरेर यसलाई केही लामो बनाउन सक्नुहुन्छ ।</p>
+  </description>
+  <description lang="nl">
+    <p>Verwijder zo veel mogelijk vierkantjes van het bord. Klik op een groep vierkantjes van dezelfde kleur om ze allemaal tegelijk in een klap te doen verdwijnen, waardoor andere vierkantjes in hun plaats vallen. Het is niet mogelijk om een vierkantje per keer te verwijderen. U krijgt veel meer punten voor een grotere groep vierkantjes, en ook voor het hele bord te legen.</p>
+    <p>Swell Foop is altijd heel snel uitgespeeld, maar u kan het langer laten duren door de bordgrootte aan te passen.</p>
+  </description>
+  <description lang="oc">
+    <p>Suprimissètz autant de carrats coma possible del platèu. Clicatz sus un grop de carrats contigús e de la meteissa color per los far desaparéisser d'un sol còp, en fasent tombar los autres carrats a lor plaça. Es impossible de suprimir un carrat tot sol. Obtendretz plan mai de punts en fasent desaparéisser un gròs grop qu'un pichon, amai en netejant l'ensemble del platèu.</p>
+    <p>Una partida de Swell Foop es totjorn fòrça rapida, mas ne podètz aumentar la durada en cambiant la talha del platèu.</p>
+  </description>
+  <description lang="pl">
+    <p>Należy usunąć jak najwięcej płytek z planszy. Grupy płytek tego samego koloru znikają po kliknięciu, powodując spadnięcie innych płytek na ich miejsce. Nie można usuwać pojedynczych płytek. Można uzyskać więcej punktów czyszcząc większe grupy płytek, a także za wyczyszczenie całej planszy.</p>
+    <p>W Swell Foop gra się zawsze bardzo szybko, ale można ją nieco wydłużyć zmieniając rozmiar planszy.</p>
+  </description>
+  <description lang="pt">
+    <p>Remova tantos quadrados quantos possíveis do tabuleiro. Clique num grupo de quadrados da mesma cor para fazer com que todos desapareçam de uma vez, levando a que outros caiam no seu lugar. Não é possível remover um único quadrado isolado. Pontua mais se limpar um grupo grande de quadrados e também por limpar todo o tabuleiro.</p>
+    <p>Swell Foop é sempre muito rápido de jogar, mas pode torná-lo um pouco mais demorado alterando o tamanho do tabuleiro.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Remova o maior número possível de quadrados do tabuleiro. Clique em um grupo de quadrados da mesma cor para fazê-los desaparecer tudo de uma única vez, fazendo com que outros quadrados caiam no lugar. Não é possível remover um único quadrado por vez. Você ganha muito mais pontos para limpar um grupo maior de quadrados, e também para limpar todo o tabuleiro.</p>
+    <p>Swell Foop é sempre muito rápido para jogar, mas você pode torná-lo um pouco mais longo, alterando o tamanho do tabuleiro.</p>
+  </description>
+  <description lang="ro">
+    <p>Eliminați cât mai multe pătrate posibil. Apăsați clic pe un grup de pătrate de aceeași culoare pentru a le face să dispară într-o singură mișcare de cădere, cauzând alte pătrate să cadă în locul lor. Nu este posibil să eliminați un singur pătrat pe rând. Obțineți mult mai multe puncte pentru eliberarea unui grup mai mare de pătrate, de asemenea pentru eliberarea întregii table.</p>
+    <p>Swell Foop este întotdeauna foarte rapid de jucat, dar puteți face să dureze mai mult prin modificarea dimensiunii tablei.</p>
+  </description>
+  <description lang="ru">
+    <p>Уберите с доски как можно больше квадратов. Нажмите на группу квадратов одного цвета, чтобы убрать их с доски. Вы не можете убирать одиночные квадраты. Чем больше удаляемая группа квадратов, тем больше очков вы получаете. Очки также начисляются за полную очистку игровой доски.</p>
+    <p>Swell Foop — быстрая игра, но вы можете сделать её чуть длиннее, изменяя размер доски.</p>
+  </description>
+  <description lang="sk">
+    <p>Odstráňte jednou ranou čo najviac polí z hracej plochy. Kliknutie na skupinu polí rovnakej farby odstráni naraz všetky tieto polia a ostatné polia spadnú do voľného priestoru. Samostatné pole nie je možné odstrániť. Čím väčšiu skupinu polí odstránite, tým viac bodov dostanete, body získate aj pri vyčistení celej hracej plochy.</p>
+    <p>Swell Foop je veľmi rýchla hra, ale hranie si môžete predĺžiť zmenou veľkosti hracej plochy.</p>
+  </description>
+  <description lang="sl">
+    <p>Cilj igre je odstraniti čim več ploščic na igralni plošči. S klikom na skupino kvadratov enake barve, ti izginejo, preostali pa zapolnijo izpraznjena polja. Ni mogoče odstraniti le enega polja, z večanjem velikosti barvnega polja, pa se povečuje tudi število dodeljenih točk.</p>
+    <p>Pravi Pavliha je dinamična igra, ki jo določa velikost igralne površine.</p>
+  </description>
+  <description lang="sr">
+    <p>Уклоните што је више могуће квадрата са табле. Притисните на групу квадрата исте боје како би сви нестали у једној ланчаној реакцији, доводећи до премештања осталих квадрата на њихова места. Уклањање само једног квадрата није могуће. Добијате више поена када очистите већу групу квадрата, а такође и за чишћење читаве табле.</p>
+    <p>Ланчана реакција се брзо одигра у неколико потеза, али ви можете мало да одужите игру мењањем величине табле.</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Uklonite što je više moguće kvadrata sa table. Pritisnite na grupu kvadrata iste boje kako bi svi nestali u jednoj lančanoj reakciji, dovodeći do premeštanja ostalih kvadrata na njihova mesta. Uklanjanje samo jednog kvadrata nije moguće. Dobijate više poena kada očistite veću grupu kvadrata, a takođe i za čišćenje čitave table.</p>
+    <p>Lančana reakcija se brzo odigra u nekoliko poteza, ali vi možete malo da odužite igru menjanjem veličine table.</p>
+  </description>
+  <description lang="sv">
+    <p>Få bort så många kvadrater som möjligt från brädet. Klicka på en grupp kvadrater av samma färg för att få dem att alla försvinna samtidigt, vilket får övriga kvadrater att falla ned. Det är inte möjligt att ta bort en ensam kvadrat åt gången. Större grupper av kvadrater ger mycket mer poäng än små, och du får även poäng för att tömma hela brädet.</p>
+    <p>Swell Foop går alltid snabbt att spela, men du kan förlänga det något genom att ändra brädstorleken.</p>
+  </description>
+  <description lang="tr">
+    <p>Tahtadan olabildiğince çok sayıda kareyi kaldırın. Tek çırpıda ortadan kaldırmak için aynı renkteki kare kümesine tıklayın ve diğer karelerin yerlerine düşmesini sağlayın. Kareler tek tek kaldırılamaz. Daha büyük kare kümesini ya da tüm tahtayı temizleyerek daha çok puan alırsınız.</p>
+    <p>Sweel Foop her zaman çok hızlı oynanır ama tahta boyutunu değiştirerek oyunu biraz uzatabilirsiniz.</p>
+  </description>
+  <description lang="uk">
+    <p>Усуньте якнайбільше квадратиків з дошки. Натисніть на групу квадратиків однаково кольору, щоб їх знищити і скинути інші вниз. Неможливо усунути один квадратик за раз. Ви здобудете набагато більше балів за знищення великих груп квадратиків й очищення всієї дошки.</p>
+    <p>«Той самий» — дуже швидка гра, проте можна її розтягнути змінивши розмір дошки.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>从棋盘上消除尽可能多的色块。点击同样颜色的一组色块来一下子消除它们。消除后其他色块会掉下来。不能一次只消除一个色块。一次消除的色块越多，或清空棋盘，你的得分就越多。</p>
+    <p>Swell Foop (消色块)玩起来很快，您可以改变棋盘大小延长玩的时间。</p>
+  </description>
+  <description lang="zh_HK">
+    <p>儘可能將遊戲盤上的方塊移除。點選一羣同顏色的方塊能讓它們一次消失，但是會讓其他的方塊變色。如果一次清除比較大羣的方塊，你所獲得的分數也會大大提升，清除整個遊戲盤時也會有大量加分。</p>
+    <p>Swell Foop 永遠可以很快速的遊玩，但是你也可以改變遊戲盤的大小讓它可以玩得久一點。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>儘可能將遊戲盤上的方塊移除。點選一群同顏色的方塊能讓它們一次消失，但是會讓其他的方塊變色。如果一次清除比較大群的方塊，您所獲得的分數也會大大提升，清除整個遊戲盤時也會有大量加分。</p>
+    <p>Swell Foop 永遠可以很快速的遊玩，但是您也可以改變遊戲盤的大小讓它可以玩得久一點。</p>
+  </description>
+  <screenshots>
+    <screenshot height="547" width="750" type="default">
+      <image>https://gitlab.gnome.org/GNOME/swell-foop/-/raw/master/data/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://wiki.gnome.org/Apps/Swell%20Foop</url>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/swell-foop/issues</url>
+  <url type="donation">http://www.gnome.org/friends/</url>
+  <url type="help">https://help.gnome.org/users/swell-foop/stable/</url>
+  <url type="translate">https://wiki.gnome.org/TranslationProject</url>
+  <update_contact>mcatanzaro_at_gnome.org</update_contact>
+  <project_group>GNOME</project_group>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>HighContrast</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>UserDocs</kudo>
+  </kudos>
+  <releases>
+    <release type="stable" date="2022-04-12" version="41.1">
+      <description>
+        <p>Overview of changes in swell-foop 41.1</p>
+        <ul>
+          <li>Updated translations</li>
+          <li>Changed screenshots location (Michael Catanzaro)</li>
+          <li>Fixed flatpak build (Robert Roth)</li>
+        </ul>
+      </description>
+    </release>
+    <release version="41.0.1" type="stable" date="2021-09-18">
+      <description>
+        <p>Overview of changes in swell-foop 41.0.1</p>
+        <ul>
+          <li>Fixed versioning in appdata #25 (Robert Roth)</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-09-18" type="stable" version="41.0">
+      <description>
+        <p>Overview of changes in swell-foop 41.0</p>
+        <ul>
+          <li>Updated Translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="41~alpha" date="2021-07-10" type="development">
+      <description>
+        <p>Overview of changes in swell-foop 41.alpha</p>
+        <ul>
+          <li>Updated Translations</li>
+          <li>Updated icon !25 (Forever)</li>
+          <li>Fixed swell foop not starting from launcher #22 (Robert Roth)</li>
+          <li>Flatpak build updates (Robert Roth)</li>
+        </ul>
+      </description>
+    </release>
+    <release type="stable" version="40.1" date="2021-04-30" />
+  </releases>
+  <translation type="gettext">swell-foop</translation>
+  <developer_name>The GNOME Project</developer_name>
+  <developer_name lang="zh_TW">GNOME 專案</developer_name>
+  <developer_name lang="zh_CN">GNOME 项目</developer_name>
+  <developer_name lang="uk">Проект GNOME</developer_name>
+  <developer_name lang="tr">GNOME Projesi</developer_name>
+  <developer_name lang="sv">GNOME-projektet</developer_name>
+  <developer_name lang="sr@latin">Gnomov projekat</developer_name>
+  <developer_name lang="sr">Гномов пројекат</developer_name>
+  <developer_name lang="sl">Projekt GNOME</developer_name>
+  <developer_name lang="sk">Projekt GNOME</developer_name>
+  <developer_name lang="ru">Проект GNOME</developer_name>
+  <developer_name lang="ro">Proiectul GNOME</developer_name>
+  <developer_name lang="pt_BR">O Projeto GNOME</developer_name>
+  <developer_name lang="pt">Projeto GNOME</developer_name>
+  <developer_name lang="pl">Projekt GNOME</developer_name>
+  <developer_name lang="oc">Lo projècte GNOME</developer_name>
+  <developer_name lang="nl">Het Gnome-project</developer_name>
+  <developer_name lang="ne">जिनोम परियोजना</developer_name>
+  <developer_name lang="nb">GNOME prosjektet</developer_name>
+  <developer_name lang="ms">Projek GNOME</developer_name>
+  <developer_name lang="lv">GNOME projekts</developer_name>
+  <developer_name lang="lt">GNOME projektas</developer_name>
+  <developer_name lang="ko">그놈 프로젝트</developer_name>
+  <developer_name lang="kk">GNOME жобасы</developer_name>
+  <developer_name lang="ja">The GNOME Project</developer_name>
+  <developer_name lang="it">Il progetto GNOME</developer_name>
+  <developer_name lang="id">Proyek GNOME</developer_name>
+  <developer_name lang="hu">A GNOME projekt</developer_name>
+  <developer_name lang="hr">GNOME projekt</developer_name>
+  <developer_name lang="he">מיזם GNOME</developer_name>
+  <developer_name lang="gl">O Proxecto GNOME</developer_name>
+  <developer_name lang="fur">Il progjet GNOME</developer_name>
+  <developer_name lang="fr">Le projet GNOME</developer_name>
+  <developer_name lang="fi">Gnome-projekti</developer_name>
+  <developer_name lang="fa">پروژه گنوم</developer_name>
+  <developer_name lang="eu">GNOME proiektua</developer_name>
+  <developer_name lang="es">El proyecto GNOME</developer_name>
+  <developer_name lang="eo">La GNOME-projekto</developer_name>
+  <developer_name lang="en_GB">The GNOME Project</developer_name>
+  <developer_name lang="el">Το έργο GNOME</developer_name>
+  <developer_name lang="de">Das GNOME-Projekt</developer_name>
+  <developer_name lang="da">GNOME-projektet</developer_name>
+  <developer_name lang="cs">Projekt GNOME</developer_name>
+  <developer_name lang="ca@valencia">El projecte GNOME</developer_name>
+  <developer_name lang="ca">El projecte GNOME</developer_name>
+  <developer_name lang="bg">Проектът GNOME</developer_name>
+  <developer_name lang="be">Праект GNOME</developer_name>
+  <developer_name lang="ab">Апроект GNOME</developer_name>
+  <!-- Generated by  http://apps-xdgapp.rhcloud.com/oars -->
+  <content_rating type="oars-1.0">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+</component>

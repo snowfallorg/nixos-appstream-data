@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>libsForQt5.kwalletmanager</pkgname>
+  <icon width="64" type="cached" height="64">kwalletmanager.png</icon>
+  <icon width="128" height="128" type="cached">kwalletmanager.png</icon>
+  <id>org.kde.kwalletmanager5</id>
+  <metadata_license>FSFAP</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KWalletManager</name>
+  <name lang="ar">مدير محفظتك</name>
+  <name lang="az">KDE Cüzdanı İdarəetməsi</name>
+  <name lang="bg">KWalletManager</name>
+  <name lang="ca">KWalletManager</name>
+  <name lang="ca-valencia">KWalletManager</name>
+  <name lang="cs">KWalletManager</name>
+  <name lang="da">KWalletManager</name>
+  <name lang="de">KWalletManager</name>
+  <name lang="el">KWalletManager</name>
+  <name lang="en-GB">KWalletManager</name>
+  <name lang="es">KWalletManager</name>
+  <name lang="et">KWalletManager</name>
+  <name lang="eu">KWalletManager</name>
+  <name lang="fi">KWalletManager</name>
+  <name lang="fr">KWalletManager</name>
+  <name lang="gl">KWalletManager</name>
+  <name lang="hu">KWalletManager</name>
+  <name lang="ia">KWalletManager</name>
+  <name lang="id">KWalletManager</name>
+  <name lang="it">KWalletManager</name>
+  <name lang="ko">KWalletManager</name>
+  <name lang="lt">KWalletManager</name>
+  <name lang="nl">KWalletManager</name>
+  <name lang="nn">KWalletManager</name>
+  <name lang="pa">ਕੇਵਾਲਿਟ-ਮੈਨੇਜਰ</name>
+  <name lang="pl">Zarządzanie portfelem</name>
+  <name lang="pt">KWalletManager</name>
+  <name lang="pt-BR">KWalletManager</name>
+  <name lang="ro">KWalletManager</name>
+  <name lang="ru">KWalletManager</name>
+  <name lang="sk">KWalletManager</name>
+  <name lang="sl">KWalletManager</name>
+  <name lang="sv">Plånbokshanteraren</name>
+  <name lang="uk">KWalletManager</name>
+  <name lang="x-test">xxKWalletManagerxx</name>
+  <name lang="zh-CN">KWalletManager</name>
+  <name lang="zh-TW">KWalletManager</name>
+  <summary>Wallet Management Tool</summary>
+  <summary lang="ar">١</summary>
+  <summary lang="az">KDE Cüzdanı İdarəetmə Vasitəsi</summary>
+  <summary lang="bg">Инструмент за настройване на Портфейл</summary>
+  <summary lang="ca">Eina per a la gestió de carteres</summary>
+  <summary lang="ca-valencia">Eina per a la gestió de carteres</summary>
+  <summary lang="cs">Nástroj pro správu úschovny</summary>
+  <summary lang="da">Værktøj til håndtering af tegnebog</summary>
+  <summary lang="de">Dienstprogramm zur Passwortverwaltung</summary>
+  <summary lang="el">Εργαλείο διαχείρισης πορτοφολιού</summary>
+  <summary lang="en-GB">Wallet Management Tool</summary>
+  <summary lang="es">Herramienta de gestión de carteras</summary>
+  <summary lang="et">Turvalaegaste haldur</summary>
+  <summary lang="eu">Zorroa kudeatzeko tresna</summary>
+  <summary lang="fi">Lompakonhallintatyökalu</summary>
+  <summary lang="fr">Outil de gestion de portefeuilles</summary>
+  <summary lang="gl">Utilidade de xestión de carteiras</summary>
+  <summary lang="hu">Jelszókezelő eszköz</summary>
+  <summary lang="ia">Instrumento de gestion de portafolio</summary>
+  <summary lang="id">Alat Pengelolaan Dompet</summary>
+  <summary lang="it">Strumento per la gestione del portafogli</summary>
+  <summary lang="ko">지갑 관리 도구</summary>
+  <summary lang="lt">Slaptažodinių tvarkymo įrankis</summary>
+  <summary lang="nl">Hulpmiddel voor portefeuillebeheer</summary>
+  <summary lang="nn">Wallet-administrasjonsverktøy</summary>
+  <summary lang="pa">ਵਾਲਿਟ ਇੰਤਜ਼ਾਮ ਟੂਲ</summary>
+  <summary lang="pl">Zarządzania portfelem</summary>
+  <summary lang="pt">Ferramenta de Gestão da Carteira</summary>
+  <summary lang="pt-BR">Ferramenta para gerenciamento de carteiras</summary>
+  <summary lang="ro">Utilitar de gestionat portofele</summary>
+  <summary lang="ru">Управление бумажниками</summary>
+  <summary lang="sk">Nástroj pre správu KDE Wallet</summary>
+  <summary lang="sl">Upravitelj listnice</summary>
+  <summary lang="sv">Hanteringsverktyg för plånbok</summary>
+  <summary lang="uk">Засіб керування сховищем паролів</summary>
+  <summary lang="x-test">xxWallet Management Toolxx</summary>
+  <summary lang="zh-CN">密码库管理工具</summary>
+  <summary lang="zh-TW">密碼庫管理工具</summary>
+  <description>
+    <p>
+     KWalletManager is a tool to manage the passwords on your system. By using the Frameworks wallet subsystem it not only allows you to keep your own secrets but also to access and manage the passwords of every application that integrates with the wallet.
+    </p>
+  </description>
+  <description lang="ar">
+    <p>مدير محفظتك هي أداة لإدارة كلمات المرور على نظامك. باستخدام النظام الفرعي لمحفظة ، لا يسمح لك فقط بالحفاظ على أسرارك الخاصة ولكن أيضًا للوصول إلى كلمات مرور كل تطبيق يتكامل مع المحفظة وإدارتها.</p>
+  </description>
+  <description lang="az">
+    <p>KDE Cüzdanı İdarəetməsi sisteminizdəki şifrələri idarə etmək üçün bir vasitədir. Frameworks cüzdan alt sistemini istifadə edərək yalnız öz məxfi məlumatlarınızı qorumaqdan başqa, cüzdanla inteqrasiya olunan hər bir tətbiqin şifrələrinə giriş əldə etməyə və onları idarə etməyə imkan verir.</p>
+  </description>
+  <description lang="bg">
+    <p>KWalletManager е инструмент за управление на паролите на вашата система. Той ви позволява да съхранявате и управлявате паролите си във всички приложения, интегрирани с портфейла.</p>
+  </description>
+  <description lang="ca">
+    <p>El KWalletManager és una eina per a gestionar les contrasenyes al vostre sistema. Emprant el subsistema de carteres dels Frameworks, no només es permet mantenir els vostres propis secrets, sinó també accedir i gestionar les contrasenyes de cada aplicació que estigui integrada amb la cartera.</p>
+  </description>
+  <description lang="ca-valencia">
+    <p>KWalletManager és una eina per a gestionar les contrasenyes al vostre sistema. Emprant el subsistema de carteres de Frameworks, no només es permet mantindre els vostres propis secrets, sinó també accedir i gestionar les contrasenyes de cada aplicació que estiga integrada amb la cartera.</p>
+  </description>
+  <description lang="da">
+    <p>KWalletmanager er et værktøj til at håndtere adgangskoderne på dit system. Ved at bruge tegnebogdelsystemet fra Frameworks, lader den dig ikke bare holde dine egne hemmeligheder, men også tilgå og administrere adgangskoder for alle programmer der integrerer med tegnebogen.</p>
+  </description>
+  <description lang="de">
+    <p>KWalletManager ist ein Dienstprogramm zur Verwaltung der Passwörter auf Ihrem System. Durch die Verwendung des Frameworks-Subsystems Wallet können Sie nicht nur Ihre eigenen privaten Daten speichern, sondern auch auf die Passwörter jeder Anwendung, die in das KWallet benutzt, zugreifen und diese verwalten.</p>
+  </description>
+  <description lang="el">
+    <p>Το KWalletManager είναι ένα εργαλείο για τη διαχείριση των κωδικών πρόσβασης στο σύστημά σας. Με τη χρήση του υποσυστήματος πορτοφολιού του Frameworks μπορείτε όχι μόνο να διατηρείτε τα δικά σας μυστικά αλλά και να έχετε πρόσβαση και να διαχειρίζεστε τους κωδικούς κάθε εφαρμογής που ενσωματώνει το πορτοφόλι.</p>
+  </description>
+  <description lang="en-GB">
+    <p>KWalletManager is a tool to manage the passwords on your system. By using the Frameworks wallet subsystem it not only allows you to keep your own secrets but also to access and manage the passwords of every application that integrates with the wallet.</p>
+  </description>
+  <description lang="es">
+    <p>KWalletManager es una herramienta para gestionar las contraseñas de su sistema. Al usar el subsistema de carteras de Frameworks, no solo le permite guardar sus propios secretos, ya que además puede acceder y gestionar las contraseñas de cualquier aplicación que se integre con la cartera.</p>
+  </description>
+  <description lang="et">
+    <p>KWalletManager on tööriist oma süsteemi paroolide haldamiseks. Frameworksi turvalaegaste allsüsteem võimaldab sul lisaks oma salasõnade varjamisele pääseda ligi ja hallata kõigi rakenduste paroole, mis vaid turvalaekasüsteemiga seotud on.</p>
+  </description>
+  <description lang="eu">
+    <p>KWalletManager zure sistemako pasahitzak kudeatzeko tresna bat da. «Frameworks»eko zorroaren azpisistema erabiltzea, zure pasahitz sekretuak mantentzeaz gain zorroekin bateratzen diren aplikazio guztiak atzitu eta kudeatzen uzten dizu.</p>
+  </description>
+  <description lang="fi">
+    <p>KWalletManager on työkalu salasanojen hallitsemiseksi koneellasi. Frameworksin lompakkoalijärjestelmää käyttämällä voit niin säilyttää salaisuutesi kuin hallita jokaisen lompakkoa käyttävän sovelluksen salasanoja.</p>
+  </description>
+  <description lang="fr">
+    <p>KWalletManager est un outil qui vous permet de gérer les mots de passe sur votre système. En utilisant le sous-système de portefeuille de Frameworks, il vous permet non seulement de conserver vos propres mots de passe, mais également d'accéder aux mots de passe de toutes les applications qui s'intègrent au portefeuille et de les gérer.</p>
+  </description>
+  <description lang="gl">
+    <p>KWalletManager é unha ferramenta para xestionar os contrasinais do sistema. Usar o subsistema de carteiras das infraestruturas de KDE non só permite gardar os seus propios segredos, senón tamén xestionar os contrasinais de todas as aplicacións compatíbeis.</p>
+  </description>
+  <description lang="hu">
+    <p>A KWalletManager egy eszköz jelszavainak kezeléséhez. A Frameworks tároló alrendszerének használatával nem csak a jelszavai és titkos adatai tárolását teszi lehetővé, hanem a tárolót integráló más alkalmazások is hozzáférhetnek a jelszavakhoz, és kezelhetik azokat.</p>
+  </description>
+  <description lang="ia">
+    <p>KWalletManager es un instrumento pro gerer contrasignos sur tu systema. Pe usar le subsystema de portafolio de Frameworks illo non sol permitte te mantener tu proprie secretos pro acceder e gerer contrassignos per omne applicationes que onintegra con le portafolio.</p>
+  </description>
+  <description lang="id">
+    <p>KWalletManager adalah alat untuk mengelola kata sandi di sistem Anda. Dengan menggunakan subsistem Kerangka Kerja dompet tidak hanya memungkinkan Anda untuk menyimpan rahasia Anda sendiri tetapi juga untuk mengakses dan mengelola kata sandi setiap aplikasi yang terintegrasi dengan dompet.</p>
+  </description>
+  <description lang="it">
+    <p>KWalletManager è uno strumento per gestire le password nel tuo sistema. Usando il sottosistema del portafogli di Frameworks non solo potrai tenere i tuoi segreti, ma potrai anche accedere alle password e gestirle per qualsiasi applicazione che si integri col portafogli.</p>
+  </description>
+  <description lang="ko">
+    <p>KWalletManager는 시스템에 저장된 암호를 관리하는 도구입니다. KDE 프레임워크의 지갑 하위 시스템을 사용하면 사용자 비밀 데이터를 관리할 수 있으며, 지갑 시스템을 사용하는 프로그램에서 사용하는 암호를 안전하게 저장할 수 있습니다.</p>
+  </description>
+  <description lang="lt">
+    <p>KWalletManager yra įrankis, skirtas tvarkyti slaptažodžius jūsų sistemoje. Šis įrankis, naudodamas Frameworks slaptažodinių posistemį ne tik leidžia jums saugoti savo paslaptis, bet taip pat leidžia tvarkyti ir gauti prieigą prie slaptažodžių iš kiekvienos programos, kuri integruota su slaptažodine.</p>
+  </description>
+  <description lang="nl">
+    <p>KWalletManager is een hulpmiddel om de wachtwoorden op uw systeem te beheren. Door het portefeuille subsysteem van Frameworks te gebruiken stelt het u niet alleen in staat om uw eigen geheimen te bewaren maar ook om toegang tot en de wachtwoorden van elke toepassing die integreert met de portefeuille te beheren.</p>
+  </description>
+  <description lang="nn">
+    <p>KWalletManager er eit verktøy for å administera passord på systemet. Det brukar lommeboksystemet frå KDE Frameworks som, i tillegg til å lagra dine eigne passord, lèt deg lesa og handsama passorda til program som nyttar lommeboksystemet.</p>
+  </description>
+  <description lang="pl">
+    <p>Zarządzanie portfelem jest narzędziem do zarządzania hasłami w twoim systemie. Używając podsystemu portfela umożliwia ci nie tylko zachowanie poufności, lecz także dostęp i zarządzanie hasłami w każdej aplikacji, która integruje portfel.</p>
+  </description>
+  <description lang="pt">
+    <p>O KWalletManager é uma ferramenta para gerir as senhas e palavras-passe no seu sistema. Ao usar o sub-sistema da carteira nas Plataformas, não só é possível manter as suas próprias senhas, mas também aceder e gerir as senhas de todas as aplicações que integram com a carteira.</p>
+  </description>
+  <description lang="pt-BR">
+    <p>O KWalletManager é uma ferramenta para gerenciar as senhas no seu sistema. Ao usar o subsistema de carteiras do Frameworks, não só é possível manter as suas próprias senhas, mas também acessar e gerenciar as senhas de todos os aplicativos que possuem integração com a carteira.</p>
+  </description>
+  <description lang="ro">
+    <p>KWalletManager e o unealtă pentru gestiunea parolelor din sistem. Folosind subsistemul de portofele din KDE, acesta vă permite nu doar să păstrați propriile secrete dar și să accesați și gestionați parolele fiecărei aplicații ce se integrează cu portofelul.</p>
+  </description>
+  <description lang="ru">
+    <p>KWalletManager — приложение для управления паролями. KWalletManager основан на модуле Frameworks wallet и позволяет сохранять не только собственные пароли, но и управлять паролями приложений, использующих этот модуль.</p>
+  </description>
+  <description lang="sk">
+    <p>KWalletManager je nástroj na správu hesiel vo vašom systéme. Použitím subsystému peňaženky Frameworks vám umožn nielen uchovať vaše dáta, ale aj prístup a právu hesiel každej aplikácie, ktorá sa integruje s peňaženkou.</p>
+  </description>
+  <description lang="sl">
+    <p>KWalletManager je orodje za upravljanje gesel v vašem sistemu. Uporaba ogrodja listnice vam omogoča ne le, da ohranite svoje lastne skrivnosti, ampak tudi dostopate do gesel vsake aplikacije, ki se integrira z listnico, in upravljate z njimi.</p>
+  </description>
+  <description lang="sv">
+    <p>Plånbokshanteraren är ett verktyg för att hantera lösenorden på systemet. Genom att använda Ramverkens plånboksdelsystem låter det dig behålla egna hemligheter, men också komma åt och hantera lösenord för alla program som är integrerade med plånboken.</p>
+  </description>
+  <description lang="uk">
+    <p>KWalletManager — програма для керування даними паролів у вашій системі. На основі використання підсистеми сховища паролів Frameworks програма не лише надає вам змогу зберігати ваші реєстраційні дані, але і надає доступ і керує паролями у всіх програмах, у яких передбачено інтеграцію із таким сховищем.</p>
+  </description>
+  <description lang="x-test">
+    <p>xxKWalletManager is a tool to manage the passwords on your system. By using the Frameworks wallet subsystem it not only allows you to keep your own secrets but also to access and manage the passwords of every application that integrates with the wallet.xx</p>
+  </description>
+  <description lang="zh-CN">
+    <p>KWalletManager 是一款密码管理工具，它基于 KDE 程序框架中的密码库子系统，不仅可以管理您的密码库，还可以管理已接入密码库的所有程序中的密码。</p>
+  </description>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kwalletmanager</url>
+  <url type="donation">https://www.kde.org/community/donations/?app=kwalletmanager&amp;source=appdata</url>
+  <url type="help">https://docs.kde.org/?application=kwallet5</url>
+  <url type="homepage">https://utils.kde.org/projects/kwalletmanager/</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://www.kde.org/images/screenshots/kwalletmanager.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kwalletmanager5</binary>
+  </provides>
+  <launchable type="desktop-id">org.kde.kwalletmanager5.desktop</launchable>
+  <releases>
+    <release date="2022-07-07" version="22.04.3" />
+    <release version="22.04.2" date="2022-06-09" />
+    <release version="22.04.1" date="2022-05-12" />
+    <release version="22.04.0" date="2022-04-21" />
+  </releases>
+</component>

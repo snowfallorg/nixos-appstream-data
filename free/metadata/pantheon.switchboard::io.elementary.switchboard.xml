@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>pantheon.switchboard</pkgname>
+  <icon type="cached" width="64" height="64">io.elementary.switchboard.png</icon>
+  <icon type="cached" width="128" height="128">io.elementary.switchboard.png</icon>
+  <id>io.elementary.switchboard</id>
+  <launchable type="desktop-id">io.elementary.switchboard.desktop</launchable>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>System Settings</name>
+  <name lang="zh_TW">系統設定值</name>
+  <name lang="zh_CN">系统设置</name>
+  <name lang="ur">سسٹم کی ترتیبات</name>
+  <name lang="uk">Налаштування системи</name>
+  <name lang="ug">سىستېما تەڭشەكلىرى</name>
+  <name lang="tr">Sistem Ayarları</name>
+  <name lang="tl">Mga Settings ng System</name>
+  <name lang="sv">Systeminställningar</name>
+  <name lang="sr">Подешавања система</name>
+  <name lang="sl">Sistemske nastavitve</name>
+  <name lang="sk">Nastavenia systému</name>
+  <name lang="ru">Параметры системы</name>
+  <name lang="pt_BR">Configurações do Sistema</name>
+  <name lang="pt">Definições do Sistema</name>
+  <name lang="pl">Ustawienia systemowe</name>
+  <name lang="nn">Systeminnstillingar</name>
+  <name lang="nl">Systeeminstellingen</name>
+  <name lang="mr">सिस्टिम सेटिंग्ज</name>
+  <name lang="lt">Sistemos nustatymai</name>
+  <name lang="ku">Mîhengên pergalê</name>
+  <name lang="ko">시스템 설정</name>
+  <name lang="ja">システム設定</name>
+  <name lang="it">Impostazioni di sistema</name>
+  <name lang="id">Pengaturan Sistem</name>
+  <name lang="hu">Rendszerbeállítások</name>
+  <name lang="hr">Postavke sustava</name>
+  <name lang="hi">तंत्र विन्यास</name>
+  <name lang="he">הגדרות מערכת</name>
+  <name lang="gl">Axustes do sistema</name>
+  <name lang="fr">Paramètres du système</name>
+  <name lang="fi">Järjestelmäasetukset</name>
+  <name lang="et">Süsteemi seaded</name>
+  <name lang="es">Configuración del sistema</name>
+  <name lang="eo">Sistemaj agordoj</name>
+  <name lang="en_GB">System Settings</name>
+  <name lang="en_CA">System Settings</name>
+  <name lang="en_AU">System Settings</name>
+  <name lang="el">Ρυθμίσεις συστήματος</name>
+  <name lang="de">Systemeinstellungen</name>
+  <name lang="da">Systemindstillinger</name>
+  <name lang="cs">Nastavení systému</name>
+  <name lang="ca">Configuració del sistema</name>
+  <name lang="bs">Podešavanja sistema</name>
+  <name lang="bg">Настройки на системата</name>
+  <name lang="az">Sistem Tənzimləmələri</name>
+  <name lang="ar">إعدادات النظام</name>
+  <summary>Change system and user settings</summary>
+  <summary lang="zh_TW">更改系統與使用者設定值</summary>
+  <summary lang="zh_CN">更改系统和用户设置</summary>
+  <summary lang="ur">سسٹم اور صارف کی ترتیبات تبدیل کریں</summary>
+  <summary lang="uk">Зміна налаштувань системи та користувача</summary>
+  <summary lang="ug">سىستېما ۋە ئابونت تەڭشەكلىرىنى ئۆزگەرتىش</summary>
+  <summary lang="tr">Sistem ve kullanıcı ayarlarını değiştir</summary>
+  <summary lang="tl">Pangasiwaan ang sistema at ang tagagamit</summary>
+  <summary lang="sv">Ändra system- och användarinställningar</summary>
+  <summary lang="sr">Промените подешавања система и корисника</summary>
+  <summary lang="sl">Spremeni sistemske in uporabniške nastavitve</summary>
+  <summary lang="sk">Meňte systémové a používateľské nastavenia</summary>
+  <summary lang="ru">Изменить системные и пользовательские настройки</summary>
+  <summary lang="pt_BR">Alterar as configurações de sistema e de usuário</summary>
+  <summary lang="pt">Alterar definições do sistema e do utilizador</summary>
+  <summary lang="pl">Zmień ustawienia systemu i użytkownika</summary>
+  <summary lang="nn">Endre system- og brukarinnstillingar</summary>
+  <summary lang="nl">Wijzig systeem- en gebruikersinstellingen</summary>
+  <summary lang="nb">Endre system- og brukerinstillinger</summary>
+  <summary lang="mr">सिस्टिम आणि वापरकर्ता सेटिंग्ज बदला</summary>
+  <summary lang="lt">Keisti sistemos ir naudotojo nustatymus</summary>
+  <summary lang="ko">시스템과 사용자 설정 변경</summary>
+  <summary lang="ja">システムとユーザーの設定を変更します</summary>
+  <summary lang="it">Cambia le impostazioni dell'utente e del sistema</summary>
+  <summary lang="id">Ubah sistem dan Pengaturan Pengguna</summary>
+  <summary lang="hu">Rendszer és felhasználó beállításainak megváltoztatása</summary>
+  <summary lang="hr">Promijenite postavke sustava i korisnika</summary>
+  <summary lang="he">שינוי הגדרות המערכת והגדרות המשתמשים</summary>
+  <summary lang="gl">Cambiar axustes do sistema e do usuario</summary>
+  <summary lang="fr">Modifier les paramètres du système et de l'utilisateur</summary>
+  <summary lang="fi">Muuta järjestelmä- ja käyttäjäasetuksia</summary>
+  <summary lang="et">Süsteemi seadete muutmine</summary>
+  <summary lang="es">Cambie opciones del sistema y de usuario</summary>
+  <summary lang="eo">Ŝanĝi sistemajn kaj uzantajn agordojn</summary>
+  <summary lang="en_GB">Change system and user settings</summary>
+  <summary lang="en_CA">Change system and user settings</summary>
+  <summary lang="en_AU">Change system and user settings</summary>
+  <summary lang="el">Αλλαγή ρυθμίσεων συστήματος και χρηστών</summary>
+  <summary lang="de">System- und Benutzereinstellungen ändern</summary>
+  <summary lang="da">Skift system- og brugerindstillinger</summary>
+  <summary lang="cs">Měňte systémová a uživatelská nastavení</summary>
+  <summary lang="ca">Canvia els paràmetres del sistema i de l'usuari</summary>
+  <summary lang="bs">Izmijenite podešavanja sistema i korisnika</summary>
+  <summary lang="bg">Промяна на настройките на системата и потребителите</summary>
+  <summary lang="az">Sistem və istifadəçi ayarlarının dəyişdirilməsi</summary>
+  <summary lang="ar">تغيير إعدادات النظام والمستخدم</summary>
+  <description>
+    <p>A system settings application that focuses on modularity and simplicity.</p>
+  </description>
+  <description lang="ar">
+    <p>تطبيق إعدادات النظام الذي يركز على الوحدات النمطية والبساطة.</p>
+  </description>
+  <description lang="az">
+    <p>Modulluğa və sadəliyə diqqət verilmiş sistem tənzimləmələri tətbiqi.</p>
+  </description>
+  <description lang="bg">
+    <p>Лесно използваема програма за настройване на системата.</p>
+  </description>
+  <description lang="bs">
+    <p>Aplikacija sistemskih podešavanja s fokusom na modularnost i jednostavnost.</p>
+  </description>
+  <description lang="ca">
+    <p>Una aplicació de configuració de sistema focalitzada en la modularitat i la simplicitat.</p>
+  </description>
+  <description lang="cs">
+    <p>Aplikace pro systémová nastavení, která se zaměřuje na modularitu a jednoduchost.</p>
+  </description>
+  <description lang="da">
+    <p>En applikation til håndtering af systemindstillinger, med fokus på modularitet og enkelthed.</p>
+  </description>
+  <description lang="de">
+    <p>Eine unkomplizierte, modulare Anwendung für die Systemeinstellungen.</p>
+  </description>
+  <description lang="el">
+    <p>Μια εφαρμογή ρυθμίσεων συστήματος που επικεντρώνεται στη διαμορφωσιμότητα και στην απλότητα.</p>
+  </description>
+  <description lang="en_AU">
+    <p>A system settings application that focuses on modularity and simplicity.</p>
+  </description>
+  <description lang="en_CA">
+    <p>A system settings application that focuses on modularity and simplicity.</p>
+  </description>
+  <description lang="en_GB">
+    <p>A system settings application that focuses on modularity and simplicity.</p>
+  </description>
+  <description lang="eo">
+    <p>Sistem-agorda aplikaĵo fokusanta je moduligo kaj simpleco.</p>
+  </description>
+  <description lang="es">
+    <p>Una aplicación de configuración del sistema centrada en la modularidad y en la simplicidad.</p>
+  </description>
+  <description lang="et">
+    <p>Süsteemi seadete muutmise rakendus, mille fookus on moodulehitusel ning lihtsusel.</p>
+  </description>
+  <description lang="fi">
+    <p>Järjestelmän asetuksiin keskittyvä modulaarinen ja yksinkertainen sovellus.</p>
+  </description>
+  <description lang="fr">
+    <p>Une application pour les paramètres du système qui met l'accent sur la modularité et la simplicité.</p>
+  </description>
+  <description lang="gl">
+    <p>Unha aplicación de configuración do sistema centrada na modularidade e na simplicidade.</p>
+  </description>
+  <description lang="he">
+    <p>יישום הגדרות המערכת המתמקד במודולריות ופשטות.</p>
+  </description>
+  <description lang="hr">
+    <p>Aplikacija postavka sustava koja je usredotočena na prilagodljivost i jednostavnost.</p>
+  </description>
+  <description lang="hu">
+    <p>Rendszerbeállítási alkalmazás, amely a modularitásra és az egyszerűségre összpontosít.</p>
+  </description>
+  <description lang="id">
+    <p>Sebuah aplikasi pengaturan sistem yang berfokus pada modularitas dan kesederhanaan.</p>
+  </description>
+  <description lang="it">
+    <p>Un pannello di controllo che si focalizza su modularità e semplicità.</p>
+  </description>
+  <description lang="ja">
+    <p>モジュール性とシンプルさに重点を置いた、システム設定アプリケーションです。</p>
+  </description>
+  <description lang="ko">
+    <p>모듈화와 단순함에 초점을 맞춘 시스템 설정 애플리케이션.</p>
+  </description>
+  <description lang="lt">
+    <p>Sistemos nustatymų programa, kuri susitelkia ties moduliškumu ir paprastumu.</p>
+  </description>
+  <description lang="mr">
+    <p>एक सिस्टम सेटिंग्ज अप्लिकेशन जे मॉड्यूलरिटी आणि साधेपणावर केंद्रित करते.</p>
+  </description>
+  <description lang="nb">
+    <p>Systeminnstillingsprogram hvis fokus er modularitet og enkelhet.</p>
+  </description>
+  <description lang="nl">
+    <p>Een toepassing voor systeeminstellingen die de focus legt op modulariteit en eenvoud.</p>
+  </description>
+  <description lang="nn">
+    <p>Eit systeminnstillingsprogram der fokuset er modularitet og enkelheit.</p>
+  </description>
+  <description lang="pl">
+    <p>Program zmiany ustawień systemu, który skupia się na modułowości oraz prostocie.</p>
+  </description>
+  <description lang="pt">
+    <p>Um programa de definições do sistema que se foca na modularidade e simplicidade.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Um aplicativo de configurações do sistema que foca em modularidade e simplicidade.</p>
+  </description>
+  <description lang="ru">
+    <p>Приложение для параметров системы, сфокусированное на модульности и простоте.</p>
+  </description>
+  <description lang="sk">
+    <p>Aplikácia systémových nastavení, ktoré je zameraná na modularitu a jednoduchosť.</p>
+  </description>
+  <description lang="sl">
+    <p>Aplikacija ki združuje vse sistemske nastavitve na enem mestu.</p>
+  </description>
+  <description lang="sr">
+    <p>Програм подешавања система који се фокусира на модуларност и једноставност.</p>
+  </description>
+  <description lang="sv">
+    <p>En systeminställningsapplikation med fokus på modularitet och enkelhet.</p>
+  </description>
+  <description lang="tr">
+    <p>Modülerlik ve basitliğe odaklanan bir sistem ayarları uygulaması.</p>
+  </description>
+  <description lang="ug">
+    <p>ئاددىي ۋە مودۇللۇقنى ئالاھىدىلىك قىلغان سىستېما تەڭشەش ئەپى</p>
+  </description>
+  <description lang="uk">
+    <p>Застосунок налаштування системи зосереджено на модульності й простоті.</p>
+  </description>
+  <description lang="ur">
+    <p>سسٹم کی ترتیبات کی ایک ایپلی کیشن جو ماڈولیریٹی اور سادگی پے فوکس کرتی ہے۔</p>
+  </description>
+  <description lang="zh_CN">
+    <p>专注于模块性和简洁性的系统设置应用。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>注重模組化與簡潔性的系統設定應用程式。</p>
+  </description>
+  <compulsory_for_desktop>Pantheon</compulsory_for_desktop>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/elementary/switchboard/master/data/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <content_rating type="oars-1.1" />
+  <provides>
+    <binary>io.elementary.switchboard</binary>
+  </provides>
+  <url type="homepage">https://elementary.io/</url>
+  <url type="bugtracker">https://github.com/elementary/switchboard/issues</url>
+  <url type="donation">https://elementary.io/get-involved#funding</url>
+  <url type="help">https://github.com/elementary/switchboard/discussions/categories/q-a</url>
+  <url type="translate">https://l10n.elementary.io/projects/switchboard</url>
+  <developer_name>elementary, Inc.</developer_name>
+  <developer_name lang="zh_TW">elementary, Inc.</developer_name>
+  <developer_name lang="zh_CN">elementary, Inc.</developer_name>
+  <developer_name lang="uk">elementary, Inc.</developer_name>
+  <developer_name lang="tr">elementary, Inc.</developer_name>
+  <developer_name lang="sr">elementary, Inc.</developer_name>
+  <developer_name lang="sk">elementary, Inc.</developer_name>
+  <developer_name lang="ru">elementary, Inc.</developer_name>
+  <developer_name lang="pt_BR">elementary, Inc.</developer_name>
+  <developer_name lang="pt">elementary, Inc.</developer_name>
+  <developer_name lang="pl">elementary, Inc.</developer_name>
+  <developer_name lang="nl">elementary, Inc.</developer_name>
+  <developer_name lang="mr">एलिमेंटरी, Inc .</developer_name>
+  <developer_name lang="ja">elementary, Inc.</developer_name>
+  <developer_name lang="it">elementary, Inc.</developer_name>
+  <developer_name lang="hu">elementary, Inc.</developer_name>
+  <developer_name lang="he">elementary בע״מ.</developer_name>
+  <developer_name lang="fr">elementary, Inc.</developer_name>
+  <developer_name lang="fi">elementary, Inc.</developer_name>
+  <developer_name lang="es">elementary, Inc.</developer_name>
+  <developer_name lang="eo">elementary, Inc.</developer_name>
+  <developer_name lang="en_GB">elementary, Inc.</developer_name>
+  <developer_name lang="de">elementary, Inc.</developer_name>
+  <developer_name lang="cs">elementary, Inc.</developer_name>
+  <developer_name lang="ca">elementary, Inc.</developer_name>
+  <project_group>elementary</project_group>
+  <update_contact>contact_AT_elementary.io</update_contact>
+  <releases>
+    <release urgency="medium" date="2022-06-09" version="6.0.2">
+      <description>
+        <ul>
+          <li>Bundle app icon</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" date="2022-05-03" version="6.0.1">
+      <description>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" date="2021-07-13" version="6.0.0">
+      <description>
+        <ul>
+          <li>Add multitouch navigation gestures</li>
+          <li>Better support smaller displays</li>
+          <li>Remove old GNOME Control Center compatibility layer</li>
+          <li>Stability and performance improvements</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-04-30" urgency="medium" version="2.4.0">
+      <description>
+        <ul>
+          <li>Redesign search results view</li>
+          <li>Tab key moves focus out of search</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.3.9" date="2020-03-30" urgency="medium">
+      <description>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" version="2.3.8" date="2020-01-14">
+      <description>
+        <ul>
+          <li>Fix an issue that prevented tiling on small displays</li>
+          <li>Fix an issue with restoring the correct window size</li>
+          <li>Make the category grid fill the available space when maximized</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" date="2019-11-04" version="2.3.7">
+      <description>
+        <ul>
+          <li>Pressing the "Down" arrow key from the search box correctly focuses the first row</li>
+          <li>Drop dynamic items from the Dock secondary-click menu</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+</component>

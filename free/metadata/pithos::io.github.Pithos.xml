@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>pithos</pkgname>
+  <icon type="cached" height="64" width="64">io.github.Pithos.png</icon>
+  <icon type="cached" width="128" height="128">io.github.Pithos.png</icon>
+  <id>io.github.Pithos</id>
+  <launchable type="desktop-id">io.github.Pithos.desktop</launchable>
+  <translation type="gettext">pithos</translation>
+  <name>Pithos</name>
+  <developer_name>Pithos</developer_name>
+  <summary>Pandora radio client</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <description>
+    <p>Pithos is a easy to use native Pandora Radio client that is more lightweight than the pandora.com web client and integrates with the desktop.</p>
+    <p>It supports most functionality of pandora.com such as rating songs, creating/managing stations, quickmix, etc. On top of that it has features such as last.fm scrobbling, media keys, notifications, proxies, and mpris support.</p>
+  </description>
+  <url type="homepage">https://pithos.github.io</url>
+  <url type="bugtracker">https://github.com/pithos/pithos/issues</url>
+  <url type="translate">https://github.com/pithos/pithos/wiki/Contributing</url>
+  <url type="donation">https://goo.gl/StrKkg</url>
+  <url type="help">https://github.com/pithos/pithos/wiki</url>
+  <screenshots>
+    <screenshot height="351" type="default" width="624">
+      <image>http://i.imgur.com/2U2ce8v.png</image>
+      <caption>Main Window</caption>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release version="1.5.1" date="2020-10-26">
+      <description>
+        <p>This is yet another minor bug fix release.</p>
+        <ul>
+          <li>Add Quit to the app menu</li>
+          <li>Remove the limit of 95 stations</li>
+          <li>Handle Enter keypress in stations search</li>
+          <li>Fix app menu keybindings failing to work</li>
+          <li>Fix syntax error on Python 3.8</li>
+          <li>Fix an exception on newer versions of pygobject</li>
+          <li>Fix album art downloads in Flatpak</li>
+          <li>MPRIS: Fix media keys failing to bind on KDE</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.5.0" date="2019-10-06">
+      <description>
+        <p>This is a relatively small release fixing appmenu integration on modern versions of GNOME as well as using more sandbox (Flatpak) friendly APIs. Note that this move may introduce behavior changes on some platforms.</p>
+        <ul>
+          <li>Remove appmenu and move into a menu button in the toolbar</li>
+          <li>Fix preference dialog accidentally getting destroyed</li>
+          <li>Notify: Migrate to GNotification</li>
+          <li>MPRIS: Rename name to match app-id (org.mpris.MediaPlayer2.io.github.Pithos)</li>
+          <li>Screensaver Pause: Remove platform specific screensaver support and use GTK's built-in detection</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2017-11-26" version="1.4.1">
+      <description>
+        <p>This is a minor release fixing up some bugs:</p>
+        <ul>
+          <li>Change default quality to high (mp3)</li>
+          <li>Mark application as DBusActivatable</li>
+          <li>MPRIS: Fix potential unhandled exception</li>
+          <li>Mediakeys: Handle keyboards with a dedicated pause key</li>
+          <li>Mediakeys: Fix support on GNOME-Shell 3.26+ and MATE</li>
+          <li>Notify: Improve behavior on various notification servers</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2017-09-08" version="1.4.0">
+      <description>
+        <p>This is a major release with some useful new plugin additions:</p>
+        <ul>
+          <li>Add new plugin that inhibits screensaver/suspend during playback</li>
+          <li>Add new plugin adding a 10-band equalizer</li>
+          <li>Add new plugin that automatically normalizes volume between tracks</li>
+          <li>Add help entry (F1) that opens the wiki</li>
+          <li>Replace build system with Meson</li>
+          <li>Automatically detect if the user has Pandora One</li>
+          <li>Improve saving and restoring window position</li>
+          <li>Improve plugin loading performance and error reporting</li>
+          <li>Notification Icon: Improve detecting if a tray is available</li>
+          <li>Notification Icon: Add option to use symbolic icon</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2017-04-21" version="1.3.1">
+      <description>
+        <p>This is a minor release with some bug fixes and minor additions:</p>
+        <ul>
+          <li>Fix exception on Python 3.6+</li>
+          <li>Add ability to create stations based upon current song/artist</li>
+          <li>Show useful error on renaming Thumbprint Radio</li>
+          <li>Show useful error on creating already existing station</li>
+          <li>Minor buffering improvements</li>
+          <li>Lastfm: Improve preferences and offer to deauthorize account</li>
+          <li>Mpris: Add extension for ratings and remove legacy interface</li>
+          <li>Mediakeys: Fix on future versions of GNOME 3.24.2+</li>
+          <li>Mediakeys: Avoid using keybinder on Wayland (old keybinder would crash)</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.3.0" date="2017-04-06">
+      <description>
+        <p>This is a new major release with numerous improvements:</p>
+        <ul>
+          <li>Add support for MPRIS TrackList and PlayList interface</li>
+          <li>Add dynamic rating and cover icons based upon theme colors</li>
+          <li>Add plugin for logging to systemd journal</li>
+          <li>Add symbolic application icon</li>
+          <li>Add man page for pithos</li>
+          <li>Improve handling playlist expiration</li>
+          <li>Improve search in stations list</li>
+          <li>Improve accessibility of UI</li>
+          <li>Improve buffering behavior</li>
+          <li>Improve libsecret support</li>
+          <li>Remove dependency on libnotify</li>
+          <li>Fix disabling keybindings plugin when using keybinder</li>
+          <li>Fix notification icon trying to load on Wayland</li>
+          <li>Fix failure to reconnect on login expiration</li>
+          <li>Fix some plugins not being enabled by default</li>
+          <li>Fix handling error on MPRIS plugin failure</li>
+          <li>Fix migrating configs from &lt; 0.3.18</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.2.1" date="2016-07-31">
+      <description>
+        <p>This is a minor bug fix release just cleaning up a few issues:</p>
+        <ul>
+          <li>Show a useful error dialog if no secret service found</li>
+          <li>Improvements to handling login credential changes</li>
+          <li>Fix icon name for main window</li>
+          <li>In plugin notification_icon: Fix visible toggle with AppIndicator going out of sync</li>
+          <li>In plugin mpris: Fix GetCurrentSong() in legacy interface</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <kudos>
+    <kudo>AppMenu</kudo>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>Notifications</kudo>
+    <kudo>UserDocs</kudo>
+  </kudos>
+  <content_rating type="oars-1.1" />
+  <update_contact>tingping_at_fedoraproject.org</update_contact>
+</component>

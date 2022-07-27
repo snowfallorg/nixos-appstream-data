@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>vmware-workstation</pkgname>
+  <launchable type="desktop-id">vmware-player.desktop</launchable>
+  <icon type="cached" width="64" height="64">vmware-player.png</icon>
+  <icon type="cached" height="128" width="128">vmware-player.png</icon>
+  <id>vmware-player.desktop</id>
+  <metadata_license>MIT</metadata_license>
+  <name>VMware Player</name>
+  <summary>Run a virtual machine</summary>
+  <url type="homepage">http://www.vmware.com/products/player</url>
+  <releases>
+    <release timestamp="1408406400" version="7.0.0" />
+    <!-- 2014-08-19T00:00:00+00:00 -->
+  </releases>
+  <provides>
+    <binary>vmware-player</binary>
+  </provides>
+  <mimetypes>
+    <mimetype>application/x-vmware-vm</mimetype>
+    <mimetype>application/x-vmware-enc-vm</mimetype>
+  </mimetypes>
+  <updatecontact>os-alerts@vmware.com</updatecontact>
+</component>

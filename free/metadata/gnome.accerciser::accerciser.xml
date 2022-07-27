@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>gnome.accerciser</pkgname>
+  <launchable type="desktop-id">accerciser.desktop</launchable>
+  <icon height="64" width="64" type="cached">accerciser.png</icon>
+  <icon type="cached" width="128" height="128">accerciser.png</icon>
+  <id type="desktop">accerciser.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>Accerciser</name>
+  <name lang="zh_TW">Accerciser</name>
+  <name lang="zh_HK">Accerciser</name>
+  <name lang="zh_CN">Accerciser</name>
+  <name lang="uk">Accerciser</name>
+  <name lang="ug">Accerciser</name>
+  <name lang="th">Accerciser</name>
+  <name lang="te">ఎక్సర్‌సైజర్</name>
+  <name lang="tr">Accerciser</name>
+  <name lang="sv">Accerciser</name>
+  <name lang="sq">Accerciser</name>
+  <name lang="sr@latin">Aksersajzer</name>
+  <name lang="sr">Аксерсајзер</name>
+  <name lang="sl">Accerciser</name>
+  <name lang="sk">Accerciser</name>
+  <name lang="ru">Accerciser</name>
+  <name lang="ro">Accerciser</name>
+  <name lang="pt_BR">Accerciser</name>
+  <name lang="pt">Accerciser</name>
+  <name lang="pl">Accerciser</name>
+  <name lang="oc">Accerciser</name>
+  <name lang="nl">Accerciser</name>
+  <name lang="ne">एसस्रसाएइजर</name>
+  <name lang="nb">Accerciser</name>
+  <name lang="ms">Accerciser</name>
+  <name lang="ml">അക്സര്‍സൈസര്‍</name>
+  <name lang="lt">Accerciser</name>
+  <name lang="lv">Accerciser</name>
+  <name lang="km">Accerciser</name>
+  <name lang="ko">액서사이저</name>
+  <name lang="kk">Accerciser</name>
+  <name lang="ja">Accerciser</name>
+  <name lang="it">Accerciser</name>
+  <name lang="id">Accerciser</name>
+  <name lang="hy">Accerciser</name>
+  <name lang="hu">Accerciser</name>
+  <name lang="hi">एक्सेर्साइसर </name>
+  <name lang="he">Accerciser</name>
+  <name lang="gl">Accerciser</name>
+  <name lang="fur">Accerciser</name>
+  <name lang="fr">Accerciser</name>
+  <name lang="fi">Accerciser</name>
+  <name lang="eu">Accerciser</name>
+  <name lang="et">Hõlbustaja</name>
+  <name lang="es">Accerciser</name>
+  <name lang="en_GB">Accerciser</name>
+  <name lang="el">Accerciser</name>
+  <name lang="de">Accerciser</name>
+  <name lang="da">Accerciser</name>
+  <name lang="cs">Accerciser</name>
+  <name lang="ca@valencia">Accerciser</name>
+  <name lang="ca">Accerciser</name>
+  <name lang="bs">Accerciser</name>
+  <name lang="br">Accerciser</name>
+  <name lang="bn">Accerciser</name>
+  <name lang="bg">Accerciser</name>
+  <name lang="be">Accerciser</name>
+  <name lang="ast">Accerciser</name>
+  <name lang="as">Accerciser</name>
+  <name lang="ar">أكسرسايزر</name>
+  <summary>Accessibility explorer for the GNOME desktop</summary>
+  <summary lang="zh_TW">GNOME 桌面的無障礙功能瀏覽器</summary>
+  <summary lang="zh_CN">GNOME 桌面的辅助功能浏览器</summary>
+  <summary lang="uk">Навігатор доступності для стільниці GNOME</summary>
+  <summary lang="tr">GNOME masaüstü için erişilebilirlik gezgini</summary>
+  <summary lang="sv">Hjälpmedelsutforskare för GNOME-skrivbordet</summary>
+  <summary lang="sr@latin">Istraživač pristupačnosti za Gnomovu radnu površ</summary>
+  <summary lang="sr">Истраживач приступачности за Гномову радну површ</summary>
+  <summary lang="sl">Raziskovalec dostopnosti za namizje GNOME</summary>
+  <summary lang="sk">Prieskumník prístupnosti prostredia GNOME</summary>
+  <summary lang="ru">Обозреватель доступности для рабочего стола GNOME</summary>
+  <summary lang="ro">Explorator de accesibilitate pentru desktop-ul GNOME</summary>
+  <summary lang="pt_BR">Navegador de acessibilidade para o ambiente GNOME</summary>
+  <summary lang="pt">Explorador de acessibilidade para o ambiente de trabalho do GNOME</summary>
+  <summary lang="pl">Przeglądarka funkcji dostępności dla środowiska GNOME</summary>
+  <summary lang="oc">Explorador d'accessibilitat pel burèu GNOME</summary>
+  <summary lang="nl">Toegankelijkheidsverkenner voor het Gnome-bureaublad</summary>
+  <summary lang="nb">Utforsker for tilgjengelighet på skrivebordet GNOME</summary>
+  <summary lang="ms">Penjelajah kebolehcapaian untuk atas meja GNOME</summary>
+  <summary lang="lt">Prieigos tyrinėtojas GNOME darbalaukiui</summary>
+  <summary lang="lv">Pieejamības pārlūks GNOME darbvirsmai</summary>
+  <summary lang="ko">그놈 데스크톱용 접근성 탐색기</summary>
+  <summary lang="ja">GNOME デスクトップのためのアクセシビリティ・エクスプローラ</summary>
+  <summary lang="it">Esplora l'accessibilità dell'ambiente grafico GNOME</summary>
+  <summary lang="id">Pengeksplorasi aksesibilitas bagi desktop GNOME</summary>
+  <summary lang="hu">Akadálymentesítés-felderítő a GNOME asztalhoz</summary>
+  <summary lang="gl">Explorador de accesibilidade para o escritorio GNOME</summary>
+  <summary lang="fur">Esploradôr di acessibilitât pal ambient grafic GNOME</summary>
+  <summary lang="fr">Explorateur d’accessibilité pour le bureau GNOME</summary>
+  <summary lang="eu">GNOME mahaigainaren erabilgarritasunaren arakatzailea</summary>
+  <summary lang="et">GNOME töölaua ligipääsetavuse avastaja</summary>
+  <summary lang="es">Explorador de accesibilidad para el escritorio GNOME</summary>
+  <summary lang="en_GB">Accessibility explorer for the GNOME desktop</summary>
+  <summary lang="el">Περιηγητής προσιτότητας για την επιφάνεια εργασίας του GNOME</summary>
+  <summary lang="de">Erkundungswerkzeug für die barrierefreie GNOME-Arbeitsumgebung</summary>
+  <summary lang="da">Tilgængelighedsnavigatør til GNOME-skrivebordet</summary>
+  <summary lang="cs">Průzkumník přístupnosti pro pracovní prostředí GNOME</summary>
+  <summary lang="ca">Explorador d'accessibilitat per l'escriptori del GNOME</summary>
+  <summary lang="bs">Accerciser istraživač pristupačnosti</summary>
+  <summary lang="bg">Проверка на достъпността в графичната среда GNOME</summary>
+  <summary lang="be">Аглядчык сродкаў даступнасці для асяроддзя GNOME</summary>
+  <description>
+    <p>
+      Accerciser is an interactive Python accessibility explorer for the GNOME desktop.
+      It uses AT-SPI to inspect and control widgets, allowing you to check if an application
+      is providing correct information to assistive technologies and automated test frameworks.
+    </p>
+    <p>
+      Accerciser has a simple plugin framework which you can use to create custom views of
+      accessibility information.
+    </p>
+  </description>
+  <description lang="be">
+    <p>Accerciser - гэта інтэрактыўны аглядальнік даступнасці для асяроддзя GNOME, напісаны на Python. Ён выкарыстоўвае AT-SPI, для таго каб праглядаць і кіраваць віджэтамі. З яго дапамогай можна праверыць, ці праграма дае правільную інфармацыю сродкам даступнасці і фрэймворкам аўтаматычнага тэсціравання.</p>
+    <p>Accerciser мае простую сістэму дадаткаў, якія могуць дадаваць уласныя аглядальнікі інфармацыі аб даступнасці.</p>
+  </description>
+  <description lang="bg">
+    <p>Accerciser е интерактивен инструмент за Python за изследване на достъпността  за графичната среда GNOME. Използва интерфейса AT-SPI за разглеждане и контролиране на графични обекти, позволявайки ви да проверите дали програмата предоставя коректна информация на технологиите за достъпност и програмите за автоматична проверка.</p>
+    <p>Accerciser има проста система за приставки, която можете да използвате за създаването на потребителски изгледи с информация за достъпността.</p>
+  </description>
+  <description lang="bs">
+    <p>Accerciser je interaktivni istraživač dostupnosti napisan u jeziku Python za GNOME desktop. On koristi AT-SPI za inspekciju i provjeru grafičkih kontrola, omogućavajući vam da provjerite da li aplikacija pruža tačne podatke za pomoćne tehnologije i automatizirane testne okvire.</p>
+    <p>Accerciser ima jednostavan okvir dodataka koji možete koristiti za stvaranje prilagođenih pogleda na informacije o pristupačnosti.</p>
+  </description>
+  <description lang="ca">
+    <p>L'Accerciser és un explorador d'accessibilitat interactiu de Python per l'escriptori del GNOME. Utilitza AT-SPI per inspeccionar i controlar ginys, permetent-vos comprovar si una aplicació proveeix informació correcta a tecnologies assistides i espais de treball automatitzats de prova.</p>
+    <p>L'Accerciser té un espai de treball de connectors senzills que podeu utilitzar per crear vistes personalitzades d'informació d'accessibilitat.</p>
+  </description>
+  <description lang="cs">
+    <p>Accerciser je interaktivní průzkumník přístupnosti pro pracovní prostředí GNOME v jazyce Python. Používá AT-SPI k prohlížení a ovládání widgetů a umožní vám zkontrolovat, jestli aplikace poskytuje správné informace technologiím zpřístupnění a automatizovat test vývojového rámce.</p>
+    <p>Accerciser má jednoduchý systém zásuvných modulů, který můžete použít k vytváření vlastních zobrazení informací o přístupnosti.</p>
+  </description>
+  <description lang="da">
+    <p>Accerciser er en interaktiv tilgængelighedsnavigatør til GNOME-skrivebordet skrevet i Python. Programmet bruger AT-SPI til at inspicere og tjekke kontroller, hvilket lader dig se om et program giver korrekte oplysninger til hjælpeteknologier og automatiske testsystemer.</p>
+    <p>Accerciser har et simpelt udvidelsesmodulsystem, som lader dig oprette brugertilpassede oversigter over tilgængelighedsinformation.</p>
+  </description>
+  <description lang="de">
+    <p>Accerciser ist ein interaktives Erkundungswerkzeug für eine barrierefreie Gnome-Arbeitsumgebung. Es verwendet AT-SPI, um Widgets zu erkunden und zu steuern und dabei herauszufinden, ob die Anwendung die passenden Informationen für unterstützende Technologien und automatisierte Test-Frameworks bereitstellt.</p>
+    <p>Accerciser hat ein einfaches Erweiterungs-Framework, das für eigene Ansichten von Informationen über Barrierefreiheit genutzt werden kann.</p>
+  </description>
+  <description lang="el">
+    <p>Το Accerciser είναι ένας διαδραστικός περιηγητής προσιτότητας, γραμμένος σε Python, για την επιφάνεια εργασίας του GNOME. Χρησιμοποιεί το AT-SPI για να επιθεωρήσει και να ελέγξει τα γραφικά στοιχεία, επιτρέποντας σας να δείτε αν μια εφαρμογή παρέχει σωστές πληροφορίες σε υποστηρικτικές τεχνολογίες και αυτοματοποιημένα πλαίσια δοκιμών.</p>
+    <p>Το Accerciser έχει ένα απλό πλαίσιο υποστήριξης, το οποίο μπορείτε να χρησιμοποιήσετε για να δημιουργήσετε προσαρμοσμένες προβολές των πληροφοριών προσιτότητας.</p>
+  </description>
+  <description lang="en_GB">
+    <p>Accerciser is an interactive Python accessibility explorer for the GNOME desktop. It uses AT-SPI to inspect and control widgets, allowing you to check if an application is providing correct information to assistive technologies and automated test frameworks.</p>
+    <p>Accerciser has a simple plug-in framework which you can use to create custom views of accessibility information.</p>
+  </description>
+  <description lang="es">
+    <p>Accerciser es un explorador interactivo de accesibilidad escrito en Python para el escritorio GNOME. Usa AT_SPI para inspeccionar y controlar widgets, permitiéndole comprobar si un aplicación proporciona la información correcta a las tecnologías de asistencia y entornos de trabajo de pruebas automatizadas.</p>
+    <p>Accerciser tiene un entorno de trabajo complementos sencillo que puede usar para crear vistas personalizadas de la información de accesibilidad.</p>
+  </description>
+  <description lang="et">
+    <p>Accerciser on interaktiivne Pythoni ligipääsetavuse avastaja GNOME töölaual. See kasutab AT-SPI'd et vidinaid uurida ja juhtida, võimaldades kontrollida, kas rakendus pakub abistavate tehnikate ja automaatse testimise jaoks õiget infot.</p>
+    <p>Accerciser'il on lihtne pluginate raamistik, mida võib kasutada abistava info näitamiseks kohandatud viisil.</p>
+  </description>
+  <description lang="eu">
+    <p>Accerciser aplikazioa Python elkarreragilean garatutako GNOME mahaigainaren erabilgarritasunaren arakatzailea da. AT-SPI darabil trepetak aztertu eta kontrolatzeko aplikazio batek informazio zuzena eskaintzen duen ziurtatzea baimentzen dizu laguntzako teknologia eta probako lan-marko automatizatzeko.</p>
+    <p>Accerciser-ek osagaien lan-marko xume bat du, eta horrekin erabilgarritasunaren informazio pertsonalizatuak sor ditzakezu.</p>
+  </description>
+  <description lang="fr">
+    <p>Accerciser est un explorateur d’accessibilité interactif en Python pour le bureau GNOME. Il utilise AT-SPI pour inspecter et contrôler les composants, permettant de contrôler si une application fournit les informations suffisantes pour les aides techniques et les systèmes de tests automatisés.</p>
+    <p>Accerciser possède une infrastructure simple de greffon que vous pouvez exploiter pour créer des vues personnalisées des informations d’accessibilité.</p>
+  </description>
+  <description lang="fur">
+    <p>Accerciser al è un strument in Python bon di esplorâ in maniere dinamiche il grât di acessibilitât dal ambient grafic GNOME. Al dopre AT-SPI par ispezionâ e controlâ i widget, permetint cussì la verifiche des informazions furnidis di une aplicazion aes tecnologjiis di assistence e framework di provis automatichis.</p>
+    <p>Accerciser al è dotât di un sempliç framework par plugin che al permet di creâ viodudis personalizadis des informazions di acessibilitât.</p>
+  </description>
+  <description lang="gl">
+    <p>Accerciser é un explorador interactivo de accesibilidade en Python para o escritorio GNOME. Emprega AT-SPI para inspeccionar e controlar os widgets, o que lle permite comprobar se un aplicativo está fornecendo a información correcta ás tecnoloxías de asistencia e marcos de traballo de probas automatizados.</p>
+    <p>Accerciser ten un marco de traballo de engadidos doado o cal lle permite usalo para crear vistas personalizadas de información accesibilidade.</p>
+  </description>
+  <description lang="hu">
+    <p>Az Accerciser egy interaktív Python akadálymentesítés-felderítő a GNOME asztalhoz. A felületi elemek vizsgálatához és vezérléséhez AT-SPI-t használ, amely lehetővé teszi annak ellenőrzését, hogy egy alkalmazás helyes információkat szolgáltat-e a kisegítő technológiákhoz és az automatizált teszt keretrendszerekhez.</p>
+    <p>Az Accerciser egy egyszerű bővítmény keretrendszerrel rendelkezik, amelyet akadálymentesítési információk egyéni nézeteinek létrehozásához használhat.</p>
+  </description>
+  <description lang="id">
+    <p>Accerciser adalah suatu pengekplorasi aksesiblitas Python interaktif bagi desktop GNOME. Ini memakai AT-SPI untuk memeriksa dan mengendalikan widget, memungkinkan Anda memeriksa apakah suatu aplikasi menyediakan informasi yang benar bagi teknologi bantu dan kerangka kerja uji terotomasi.</p>
+    <p>Accerciser memiliki kerangka kerja plugin sederhana yang dapat Anda pakai untuk membuat tilikan tersuai atas informasi aksesibilitas.</p>
+  </description>
+  <description lang="it">
+    <p>Accerciser è uno strumento in Python in grado di esplorare dinamicamente il grado di accessibilità dell'ambiente grafico GNOME. Sfrutta AT-SPI per ispezionare e controllare i widget, consentendo così la verifica delle informazioni fornite da un'applicazione alle tecnologie assistive e ai framework di test automatici.</p>
+    <p>Accerciser è dotato di un semplice framework per plugin che consente di create viste personalizzare delle informazioni di accessibilità.</p>
+  </description>
+  <description lang="ko">
+    <p>액서사이저는 그놈 데스크톱용 대화식 파이썬 접근성 탐색기입니다. 위젯을 살펴보고 제어하는데 AT-SPI를 사용하며, 프로그램이 보조 기술과 자동화 테스트 프레임워크에 대한 올바른 정보를 제공하는지 확인할 수 있도록 해줍니다.</p>
+    <p>액서사이저는 접근 성 정보를 표시하는 사용자 정의 뷰를 만들 수 있도록 하는 간단한 플러그인 프레임워크입니다.</p>
+  </description>
+  <description lang="lt">
+    <p>Accerciser yra interaktyvus Python prieigos tyrinėtojas GNOME darbalaukiui. Jis naudoja AT-SPI valdiklių tyrinėjimui ir valdymui, leidžia jums patikrinti, ar programa pateikia teisingą informaciją pagalbinėms technologijoms ir automatinio testavimo karkasams.</p>
+    <p>Accerciser turi paprastą įskiepių karkasą, kurį galite naudoti pasirinktinių prieigos informacijos vaizdų sukūrimui.</p>
+  </description>
+  <description lang="lv">
+    <p>Accerciser ir interaktīvs pieejamības pārlūks GNOME darbvirsmai. Tas izmanto AT-SPI, lai izpētītu un kontrolētu logdaļas, kas ļauj pārbaudīt, vai lietotne sniedz pareizu informāciju pieejamības tehnoloģijām un automatizētajiem testēšanas ietvariem.</p>
+    <p>Accerciser ir pieejams vienkāršs spraudņu ietvars, ko varat izmantot pielāgotai pieejamības informācijas skatu veidošanai.</p>
+  </description>
+  <description lang="ms">
+    <p>Accerciser ialah satu penjelajah kebolehcapaian Python yang interaktif untuk atas meja GNOME. Ia menggunakan AT-SPI untuk memeriksa dan mengawal widget, membolehkan anda periksa jika ada aplikasi yang menyediakan maklumat yang betul untuk teknologi bantuan dan rangka kerja ujian berautomatik.</p>
+    <p>Accerciser mempunyai satu rangka kerja pemalam ringkas yang mana anda boleh guna untuk mencipta pandangan bagi maklumat kebolehcapaian.</p>
+  </description>
+  <description lang="nb">
+    <p>Accerciser er en interaktiv utforsker for tilgjengelighetsfunksjoner for GNOME skrivebordet. Det bruker AT-SPI for å inspisere og kontrollere komponenter, og lar deg sjekke om en applikasjon gir korrekt informasjon til hjelpeteknologier og automatiserte testrammeverk.</p>
+    <p>Accerciser har et enkelt rammeverk for tillegg som du kan bruke til å lage egendefinerte visninger av tilgjengelighetsinformasjon.</p>
+  </description>
+  <description lang="nl">
+    <p>Accerciser is een interactieve Python-toegankelijkheidsverkenner voor het Gnome-bureaublad. Het gebruikt AT-SPI voor het beheren en inspecteren van widgets, waarmee u kunt controleren of een toepassing de juiste informatie levert aan toegankelijkheidstechnologieën en automatische-testraamwerken.</p>
+    <p>Accerciser heeft een eenvoudig plugin-raamwerk waarmee u aangepaste weergaven van toegankelijkheidsinformatie kunt maken.</p>
+  </description>
+  <description lang="oc">
+    <p>Accerciser es un explorador d'accessibilitat interactiu en Python pel burèu GNOME. Utiliza AT-SPI per inspectar e contrarotlar los components, que permet de contrarotlar se una aplicacion provesís las informacions sufisentas per las ajudas tecnicas e los sistèmas de tèsts automatizats.</p>
+    <p>Accerciser possedís una infrastructura simpla d'empeutons que podètz espleitar per crear de vistas personalizadas d'informacions d'accessibilitat.</p>
+  </description>
+  <description lang="pl">
+    <p>Accerciser to interaktywna przeglądarka funkcji dostępności w języku Python dla środowiska GNOME. Używa AT-SPI do badania i kontrolowania widżetów, umożliwiając sprawdzanie, czy program dostarcza poprawne informacje technologiom ułatwień dostępu i zautomatyzowanych mechanizmów testowania.</p>
+    <p>Accerciser posiada prosty mechanizm wtyczek, którego można używać do tworzenia własnych widoków informacji o dostępności.</p>
+  </description>
+  <description lang="pt">
+    <p>O Accerciser é um explorador de acessibilidade interativo escrito em Python para o GNOME. Usa AT-SPI para inspecionar e controlar widgets, permitindo-lhe verificar se uma aplicação está a fornecer informação correta a tecnologias de assistência e estruturas de teste automatizadas.</p>
+    <p>O Accerciser tem uma estrutura de extensões simples, que pode ser usada para criar vistas personalizadas de informação de acessibilidade.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Accerciser é um navegador interativo de acessibilidade Python para o ambiente GNOME. Ele usa AT-SPI para inspecionar e controlar componentes, permitindo que você verifique se um aplicativo está fornecendo informação correta para tecnologias assistivas e frameworks de teste automatizado.</p>
+    <p>Accerciser possui um framework de plugins simples o qual você pode usar para criar visões personalizadas da informação de acessibilidade.</p>
+  </description>
+  <description lang="ro">
+    <p>Accerciser este un explorator de accesibilitate Python interactiv pentru desktopul GNOME. Utilizează AT-SPI pentru a inspecta și controla widget-uri, permițându-vă să verificați dacă o aplicație furnizează informații corecte tehnologiilor asistive și platforme de testare automate.</p>
+    <p>Accerciser are un o platformă de modul simple pe care o puteți utiliza pentru a crea vizualizări personalizate a informațiilor de accesibilitate.</p>
+  </description>
+  <description lang="ru">
+    <p>Accerciser — интерактивный обозреватель доступности на языке Python для рабочего стола GNOME. Accerciser использует AT-SPI для проверки и контроля виджетов, который позволяет проверить предоставляет ли приложение верную информацию вспомогательным технологиям и автоматизированной системе тестирования.</p>
+    <p>В Accerciser есть простой модуль фреймворка, который можно использовать для создания своих областей доступности информации.</p>
+  </description>
+  <description lang="sk">
+    <p>Accerciser je interaktívny prieskumník prístupnosti jazyka Python pre prostredie GNOME. Využíva AT-SPI na kontrolu a ovládanie miniaplikácií, umožňujúc vám skontrolovať, či aplikácia poskytuje správne informácie asistujúcim technológiám a automatizovaným skúšobným rozhraniam.</p>
+    <p>Accerciser obsahuje jednoduché rozhranie zásuvných modulov, ktoré môžete použiť na vytvorenie vlastných zobrazení informácií o prístupnosti.</p>
+  </description>
+  <description lang="sl">
+    <p>Acceriser je interavktivni raziskovalec dostopnosti za namizje GNOME, razvit v jeziku Python. Za delovanje in nadzor gradnikov uporablja paket AT_SPI, s čimer je omogočen ustrezen nadzor nad tehnologijami dostopnosti in samodejnimi okolji za preizkušanje.</p>
+    <p>Program Accerciser vključuje enostaven vstavek, ki omogoča prikazovanje podrobnosti o dostopnosti.</p>
+  </description>
+  <description lang="sr">
+    <p>Аксерсајзер је међудејствени Питонов истраживач приступачности за Гномову радну површ. Користи АТ-СПИ за прегледањеи управљање елементима, омогућавајући вам да проверите да ли неки програм доставља исправне податке технологијама испомоћи и осамостаљеним радним склоповима пробе.</p>
+    <p>Аксерсајзер има једноставан радни склоп прикључка који можете да користите да направите произвољне прегледе података приступачности.</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Aksersajzer je međudejstveni Pitonov istraživač pristupačnosti za Gnomovu radnu površ. Koristi AT-SPI za pregledanjei upravljanje elementima, omogućavajući vam da proverite da li neki program dostavlja ispravne podatke tehnologijama ispomoći i osamostaljenim radnim sklopovima probe.</p>
+    <p>Aksersajzer ima jednostavan radni sklop priključka koji možete da koristite da napravite proizvoljne preglede podataka pristupačnosti.</p>
+  </description>
+  <description lang="sv">
+    <p>Accerciser är en interaktiv Python-hjälpmedelsutforskare för GNOME-skrivbordet. Det använder AT-SPI för att inspektera och kontrollera gränssnittskomponenter, vilket låter dig se om ett program tillhandahåller riktig information till hjälpmedelstekniker och automatiserade testramverk.</p>
+    <p>Accerciser har ett enkelt ramverk för instick som du kan använda för att skapa anpassade vyer över hjälpmedelsinformation.</p>
+  </description>
+  <description lang="tr">
+    <p>Accerciser, GNOME masaüstü için etkileşimli bir Python erişilebilirlik gezginidir. Parçacıkları incelemek ve denetlemek için AT-SPI kullanır; bu da bir uygulamanın yardımcı teknolojilere ve kendiliğinden sınama çerçevelerine doğru bilgiler sağlayıp sağlamadığını denetlemenize izin verir.</p>
+    <p>Accerciser, erişilebilirlik bilgilerinin özel görünümlerini oluşturmak için kullanabileceğiniz basit bir eklenti çerçevesine sahiptir.</p>
+  </description>
+  <description lang="uk">
+    <p>Accerciser — інтерактивний навігатор доступності, який написано мовою Python для стільничного середовища GNOME. У програмі використано AT-SPI для ревізії та керування віджетами. Програма надає вам змогу перевірити, чи надає програма належну інформацію для роботи технологій доступності, та скористатися бібліотеками автоматизованої перевірки.</p>
+    <p>У Accerciser передбачено проста бібліотека для роботи з додатками, якою ви можете скористатися для створення нетипових панелей перегляду відомостей щодо доступності.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>Accerciser 是 GNOME 桌面交互性的 Python 辅助功能浏览器，其使用 AT-SPI 检查和控制构建，允许检查应用程序是否为辅助功能和自动测试框架提供正确的信息。</p>
+    <p>Accerciser 拥有简单的插件框架，由此可以创建辅助技术信息的自定义视图。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>Accerciser 是 GNOME 桌面的互動式 Python 無障礙功能瀏覽器。它使用 AT-SPI 檢查並控制元件，允許您檢查應用程式是否提供正確的資訊給輔助科技與自動化測試框架。</p>
+    <p>Accerciser 具有簡易外掛程式框架，讓您可以用來建立無障礙資計的自訂檢視。</p>
+  </description>
+  <url type="homepage">https://wiki.gnome.org/action/show/Apps/Accerciser</url>
+  <screenshots>
+    <screenshot type="default">https://gitlab.gnome.org/GNOME/accerciser/raw/master/help/C/figures/api_browser.png</screenshot>
+  </screenshots>
+  <updatecontact>daniel.mustieles@gmail.com</updatecontact>
+  <project_group>GNOME</project_group>
+  <translation type="gettext">accerciser</translation>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release version="3.38.0" date="2020-09-10" />
+    <release version="3.36.3" date="2020-08-06" />
+    <release date="2020-07-04" version="3.36.2" />
+    <release version="3.36.1" date="2020-04-24" />
+    <release version="3.36.0" date="2020-03-05" />
+    <release version="3.34.6" date="2020-07-04" />
+    <release date="2020-04-24" version="3.34.5" />
+    <release version="3.34.4" date="2020-02-11" />
+    <release date="2020-01-01" version="3.34.3" />
+    <release version="3.34.2" date="2019-11-21" />
+    <release date="2019-10-07" version="3.34.1" />
+  </releases>
+</component>

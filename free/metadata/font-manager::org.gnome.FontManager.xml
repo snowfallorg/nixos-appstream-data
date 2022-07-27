@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>font-manager</pkgname>
+  <icon width="64" type="cached" height="64">org.gnome.FontManager.png</icon>
+  <icon width="128" height="128" type="cached">org.gnome.FontManager.png</icon>
+  <id>org.gnome.FontManager</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <update_contact>JerryCasiano_AT_gmail.com</update_contact>
+  <name>Font Manager</name>
+  <name lang="eo">Tiparadministrilo</name>
+  <name lang="it">Font Manager</name>
+  <name lang="tr">Yazı Tipi Yöneticisi</name>
+  <name lang="id">Pengelola Font</name>
+  <name lang="uk">Розпорядник шрифтів</name>
+  <name lang="sl">Upravitelj pisav</name>
+  <name lang="ro">Manager de fonturi</name>
+  <name lang="oc">Gestionari de poliça</name>
+  <name lang="ja">フォントマネージャー</name>
+  <name lang="pt_BR">Font Manager</name>
+  <name lang="nb_NO">Skriftbehandler</name>
+  <name lang="fr">Gestionnaire de police</name>
+  <name lang="zh_TW">字型總管</name>
+  <name lang="zh_HK">字体管理器</name>
+  <name lang="zh_CN">字体管理器</name>
+  <name lang="sv">Font Manager</name>
+  <name lang="ru">Менеджер шрифтов</name>
+  <name lang="pl">Zarządzanie czcionkami</name>
+  <name lang="nl">Lettertypebeheer</name>
+  <name lang="hr">Font Manager</name>
+  <name lang="es">Gestor tipográfico</name>
+  <name lang="de">Font Manager</name>
+  <name lang="ca">Gestor tipogràfic</name>
+  <name lang="ar">مدير الخطوط</name>
+  <name lang="am">የ ፊደል አስተዳዳሪ</name>
+  <summary>A simple font management application for Gtk+ Desktop Environments</summary>
+  <summary lang="eo">Simpla tiparo-administra programo por GTK-bazaj fasadoj</summary>
+  <summary lang="it">Una semplice applicazione per la gestione dei tipi di carattere per ambienti desktop Gtk+</summary>
+  <summary lang="tr">Gtk+ Masaüstü Ortamları için basit bir yazı tipi yönetim uygulaması</summary>
+  <summary lang="id">Aplikasi pengelolaan font sederhana untuk Lingkungan Desktop Gtk+</summary>
+  <summary lang="uk">Проста програма управління шрифтами для середовищ Gtk + Desktop</summary>
+  <summary lang="sl">Preprost program za upravljanje pisav v namiznih okoljih Gtk+</summary>
+  <summary lang="ro">O aplicație simplă de gestionare a fonturilor pentru Mediile Desktop Gtk +</summary>
+  <summary lang="ja">Gtk+ デスクトップ環境用のシンプルなフォント管理アプリケーション</summary>
+  <summary lang="pt_BR">Um programa simples de gerenciamento de fontes para ambientes de desktop Gtk+</summary>
+  <summary lang="fr">Une application simple de gestion des polices pour les environnements de bureau Gtk+</summary>
+  <summary lang="zh_TW">一個支援 GTK+ 桌面環境的簡易字型管理軟體</summary>
+  <summary lang="zh_CN">一个简单的适用于 Gtk+ 桌面环境的字体管理应用程序</summary>
+  <summary lang="sv">En enkel teckensnittshanterare för GTK+ skrivbordsmiljöer</summary>
+  <summary lang="ru">Простой менеджер шрифтов для сред рабочего стола Gtk+</summary>
+  <summary lang="pl">Prosta aplikacja do zarządzania czcionkami dla środowisk graficznych opartych o Gtk+</summary>
+  <summary lang="nl">Een eenvoudige lettertypebeheertoepassing voor GTK+-werkomgevingen</summary>
+  <summary lang="hr">Jednostavan program za upravljanje fontovima u Gtk+ desktop okruženjima</summary>
+  <summary lang="es">Una aplicación simple para la gestión de tipos de letra en entornos de escritorio Gtk+</summary>
+  <summary lang="de">Eine einfache Anwendung zur Verwaltung von Schriftarten für Gtk+ Desktop-Umgebungen</summary>
+  <summary lang="ca">Una aplicació senzilla per a la gestió de lletres tipogràfiques als entorns d'escriptori GTK</summary>
+  <description>
+    <p>
+            Font Manager is intended to provide a way for average users to easily manage
+            desktop fonts, without having to resort to command line tools or editing
+            configuration files by hand.
+        </p>
+    <p>
+            While designed primarily with the Gnome Desktop Environment in mind,
+            it should work well with other Gtk+ desktop environments.
+        </p>
+    <p>
+            Font Manager is NOT a professional-grade font management solution.
+        </p>
+  </description>
+  <description lang="de">
+    <p>Font Manager ermöglicht durchschnittlichen Benutzern die einfache Verwaltung von Desktop-Schriftarten, ohne auf Befehlszeilentools zurückzugreifen oder Konfigurationsdateien manuell bearbeiten zu müssen.</p>
+    <p>Obwohl es hauptsächlich für die Gnome-Desktop-Umgebung entwickelt wurde, sollte es auch mit anderen Gtk+ Desktop-Umgebungen funktionieren.</p>
+    <p>Font Manager ist KEINE professionelle Lösung zur Verwaltung von Schriftarten.</p>
+  </description>
+  <description lang="eo">
+    <p>Tiparadministrilo celas ebligi ordinarajn uzantojn facile administri komputilajn tiparojn, sen deviga uzo de terminalaj ilprogramoj aŭ permana redaktado de agordaj dosieroj.</p>
+    <p>Kvankam ĝi estas dezajnita ĉefe por GNOME, ĝi funkcios bone kun aliaj GTK-bazaj fasadoj.</p>
+    <p>Tiparadministrilo NE estas tipara administra solvo taŭga por profesiistoj.</p>
+  </description>
+  <description lang="es">
+    <p>Gestor tipográfico se ha diseñado para proporcionar a los usuarios una manera de gestionar fácilmente los tipos de letra del escritorio, sin tener que recurrir a las herramientas de línea de órdenes o a editar los archivos de configuración manualmente.</p>
+    <p>Si bien se diseñó principalmente para el entorno de escritorio GNOME, debería funcionar bien con otros entornos de escritorio Gtk+.</p>
+    <p>Gestor tipográfico NO es una solución para la gestión profesional de tipos de letra.</p>
+  </description>
+  <description lang="fr">
+    <p>Gestionnaire de polices est destiné à fournir un manière pour les utilisateurs moyens de gérer facilement les polices de bureau, sans avoir à recourir à des outils de ligne de commande ou à modifier les fichiers de configuration à la main.</p>
+    <p>Bien que conçu principalement avec l’environnement de bureau Gnome à l’esprit, il devrait bien fonctionner avec d’autres environnements de bureau Gtk+.</p>
+    <p>Gestionnaire de polices n’est PAS une solution de gestion des polices de qualité professionnelle.</p>
+  </description>
+  <description lang="hr">
+    <p>Font Manager omogućuje jednostavno upravljanje fontovima bez upotrebe naredbenog retka ili ručnog uređivanja konfiguracijskih datoteka.</p>
+    <p>Izrađen je prvenstveno za Gnome desktop okruženja, no trebao bi dobro funkcionirati i s drugim Gtk+ desktop okruženjima.</p>
+    <p>Font Manager NIJE profesionalno rješenje za upravljanje fontovima.</p>
+  </description>
+  <description lang="it">
+    <p>Font Manager è pensato per permettere agli utenti comuni di gestire facilmente i tipi di carattere del sistema, senza dover ricorrere a strumenti da riga di comando o dover modificare manualmente file di configurazione.</p>
+    <p>Progettato principalmente per l'ambiente desktop Gnome, dovrebbe funzionare bene anche con altri ambienti desktop Gtk+.</p>
+    <p>Font Manager NON è una soluzione per la gestione dei tipi di carattere di tipo professionale.</p>
+  </description>
+  <description lang="ja">
+    <p>Font Manager は平均的なユーザーがコマンドラインツールを使用したり構成ファイルを手動で編集したりすることなく、デスクトップフォントを簡単に管理する方法を提供することを目的としています。</p>
+    <p>主に Gnome デスクトップ環境を念頭に置いて設計されていますが、他の Gtk+ デスクトップ環境でもうまく機能するはずです。</p>
+    <p>Font Manager はプロフェッショナルグレードのフォント管理ソリューションではありません。</p>
+  </description>
+  <description lang="nl">
+    <p>Lettertypebeheer biedt onervaren computergebruikers een manier om lettertypen te beheren, zonder opdrachtregelhulpmiddelen en configuratiebestanden.</p>
+    <p>De toepassing in ontworpen voor de GNOME-werkomgeving, maar werkt ook prima binnen andere GTK+-werkomgevingen.</p>
+    <p>Lettertypebeheer is GEEN professionele beheeroplossing.</p>
+  </description>
+  <description lang="pl">
+    <p>Font Manager ułatwia zwykłym użytkownikom dostęp do narzędzi do zarządzania czcionkami, bez użycia linii komend lub ręcznego edytowania plików konfiguracyjnych.</p>
+    <p>Choć aplikacja została stworzona z myślą o środowisku Gnome, powinna działać dobrze z innymi środowiskami graficznymi opartymi na Gtk+.</p>
+    <p>Font Manager NIE JEST profesjonalną aplikacją do zarządzania czcionkami.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>O Font Manager se destina a fornecer um modo de os usuários comuns gerenciarem facilmente as fontes de desktop, sem ter que recorrer a ferramentas de linha de comando ou editar arquivos de configuração manualmente.</p>
+    <p>Embora projetado principalmente para o ambiente de desktop Gnome, ele deve funcionar bem em outros ambientes de desktop Gtk+.</p>
+    <p>O Font Manager NÃO É uma solução de gerenciamento de fontes de nível profissional.</p>
+  </description>
+  <description lang="ro">
+    <p>Font Manager este destinat să ofere utilizatorilor normali o modalitate de a gestiona cu ușurință fonturile desktop, fără a fi nevoie să recurgă la instrumente de linie de comandă sau de a edita fișiere de configurare manual.</p>
+    <p>Deși este conceput în primul rând având în vedere mediul desktop Gnome, acesta ar trebui să funcționeze bine cu alte medii desktop Gtk +.</p>
+    <p>Font Manager NU este o soluție profesională de gestionare a fonturilor.</p>
+  </description>
+  <description lang="ru">
+    <p>Менеджер шрифтов предназначен для простого управления шрифтами рабочего стола обычными пользователями без необходимости использования командной строки или редактирования файлов конфигурации вручную.</p>
+    <p>Хотя и разрабатывался для среды рабочего стола Gnome, должен хорошо работать и с другими средами рабочего стола Gtk+.</p>
+    <p>Менеджер шрифтов — это НЕ профессиональное решение для управления шрифтами.</p>
+  </description>
+  <description lang="sl">
+    <p>Upravitelj pisav naj bi povprečnim uporabnikom omogočil enostavno upravljanje pisav na namizju, ne da bi se morali zatekati k orodjem ukazne vrstice ali ročno urejati nastavitvene datoteke.</p>
+    <p>Čeprav je zasnovan predvsem z namenom namiznega okolja Gnome, bi moral dobro delovati z drugimi namiznimi okolji Gtk+.</p>
+    <p>Upravitelj pisav NI profesionalna rešitev za upravljanje pisav.</p>
+  </description>
+  <description lang="sv">
+    <p>Font Manager är avsett att tillhandahålla ett sätt för den genomsnittlige användaren att hantera teckensnitt på skrivbordet, utan att behöva använda kommandoradsverktyg eller redigera konfigurationsfiler för hand.</p>
+    <p>Även om den är utformad främst med GNOME skrivbordsmiljö i åtanke, bör den fungera bra med andra GTK+ skrivbordsmiljöer.</p>
+    <p>Font Manager är INTE en lösning för professionell teckensnittshantering.</p>
+  </description>
+  <description lang="tr">
+    <p>Yazı Tipi Yöneticisi, ortalama kullanıcılara, komut satırı araçlarına başvurmaya veya yapılandırma dosyalarını elle düzenlemeye gerek kalmadan yazı tiplerini yönetmek için kolay bir yol olmayı amaçlamıştır.</p>
+    <p>Öncelikli olarak Gnome Masaütü Ortamı düşünülerek tasarlanmış olsa da diğer Gtk+ masaüstü ortamlarıyla da iyi çalışmalıdır.</p>
+    <p>Yazı Tipi Yöneticisi profesyonel düzeyde bir yazı tipi yönetim çözümü DEĞİLDİR.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>Font Manager旨在为普通用户提供一种轻松管理桌面字体的方法，而无需借助命令行工具或手工编辑配置文件。</p>
+    <p>虽然主要是考虑为 Gnome 桌面环境而设计，但它应该能很好地适用于其他 Gtk+ 桌面环境。</p>
+    <p>字体管理器 不是 专业级的字体管理解决方案。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>字型總管讓一般使用者能夠簡單的管理桌面字型，而不需要去使用指令列工具或是手動編輯設定檔。</p>
+    <p>雖然主要設計是用 GNOME 桌面環境，應該也能在其他 GTK+ 桌面環境運作。</p>
+    <p>字型總管不是一個專業級的字型管理解決方案。</p>
+  </description>
+  <kudos>
+    <kudo>ModernToolkit</kudo>
+    <kudo>SearchProvider</kudo>
+    <kudo>UserDocs</kudo>
+  </kudos>
+  <!--
+    XXX : Specification conflicts with validation ?
+    <icon type="stock">preferences-desktop-font</icon>
+    -->
+  <launchable type="desktop-id">org.gnome.FontManager.desktop</launchable>
+  <categories>
+    <category>Utility</category>
+    <category>Graphics</category>
+    <category>GTK</category>
+  </categories>
+  <provides>
+    <binary>font-manager</binary>
+    <dbus>org.gnome.FontManager</dbus>
+  </provides>
+  <screenshots>
+    <screenshot type="default">
+      <image type="source">
+                https://raw.githubusercontent.com/FontManager/resources/master/main_window.png
+            </image>
+    </screenshot>
+    <screenshot>
+      <image type="source">
+                https://raw.githubusercontent.com/FontManager/resources/master/character_map.png
+            </image>
+    </screenshot>
+    <screenshot>
+      <image type="source">
+                https://raw.githubusercontent.com/FontManager/resources/master/browse_mode.png
+            </image>
+    </screenshot>
+    <screenshot>
+      <image type="source">
+                https://raw.githubusercontent.com/FontManager/resources/master/compare_mode.png
+            </image>
+    </screenshot>
+    <screenshot>
+      <image type="source">
+                https://raw.githubusercontent.com/FontManager/resources/master/google_fonts_integration.png
+            </image>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release date="2021-07-26" version="0.8.8" />
+    <release date="2021-04-09" version="0.8.6" />
+    <release date="2021-03-22" version="0.8.5" />
+    <release version="0.8.4-1" date="2021-02-02" />
+    <release version="0.8.4" date="2021-01-31" />
+    <release version="0.8.3" date="2020-12-03" />
+    <release version="0.8.2" date="2020-12-02" />
+    <release date="2020-12-02" version="0.8.1" />
+    <release date="2020-11-25" version="0.8.0" />
+    <release version="0.7.9" date="2020-09-20" />
+    <release date="2020-07-10" version="0.7.8" />
+    <release date="2019-12-17" version="0.7.7" />
+    <release date="2019-12-15" version="0.7.6" />
+    <release date="2019-04-20" version="0.7.5" />
+    <release date="2019-03-12" version="0.7.4.3" />
+    <release version="0.7.4.2" date="2019-01-18" />
+    <release date="2019-01-10" version="0.7.4.1" />
+    <release version="0.7.4" date="2019-01-01" />
+    <release date="2018-08-29" version="0.7.3.1" />
+    <release version="0.7.3" date="2016-10-16" />
+    <release date="2015-06-03" version="0.7.2" />
+    <release version="0.7.1" date="2015-05-29" />
+  </releases>
+  <translation type="gettext">font-manager</translation>
+  <url type="homepage">http://fontmanager.github.io/</url>
+  <url type="bugtracker">https://github.com/FontManager/master/issues</url>
+  <url type="translate">https://hosted.weblate.org/engage/font-manager</url>
+  <content_rating type="oars-1.1" />
+</component>

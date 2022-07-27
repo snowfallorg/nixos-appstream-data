@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="https://specifications.freedesktop.org/metainfo/1.0" xmlns:its="http://www.w3.org/2005/11/its" xmlns:xi="http://www.w3.org/2001/XInclude" type="desktop-application">
+  <pkgname>gnome.gucharmap</pkgname>
+  <launchable type="desktop-id">gucharmap.desktop</launchable>
+  <id>gucharmap.desktop</id>
+  <id lang="uk">gucharmap.desktop</id>
+  <id lang="tr">gucharmap.desktop</id>
+  <id lang="sv">gucharmap.desktop</id>
+  <id lang="sr">gucharmap.desktop</id>
+  <id lang="sk">gucharmap.desktop</id>
+  <id lang="ru">gucharmap.desktop</id>
+  <id lang="ro">gucharmap.desktop</id>
+  <id lang="pt_BR">gucharmap.desktop</id>
+  <id lang="pl">gucharmap.desktop</id>
+  <id lang="nl">gucharmap.desktop</id>
+  <id lang="lt">gucharmap.desktop</id>
+  <id lang="ko">gucharmap.desktop</id>
+  <id lang="id">gucharmap.desktop</id>
+  <id lang="hu">gucharmap.desktop</id>
+  <id lang="hr">gucharmap.desktop</id>
+  <id lang="fi">gucharmap.desktop</id>
+  <id lang="eu">gucharmap.desktop</id>
+  <id lang="es">gucharmap.desktop</id>
+  <id lang="de">gucharmap.desktop</id>
+  <id lang="da">gucharmap.desktop</id>
+  <metadata_license>GPL-3.0+ or GFDL-1.3-only</metadata_license>
+  <metadata_license lang="uk">GPL-3.0+ або лише GFDL-1.3</metadata_license>
+  <metadata_license lang="tr">GPL-3.0+ veya GFDL-1.3-only</metadata_license>
+  <metadata_license lang="sv">GPL-3.0+ or GFDL-1.3-only</metadata_license>
+  <metadata_license lang="sr">GPL-3.0+ или GFDL-1.3-само</metadata_license>
+  <metadata_license lang="sk">GPL-3.0+ alebo iba GFDL-1.3</metadata_license>
+  <metadata_license lang="ru">GPL-3.0+ or GFDL-1.3-only</metadata_license>
+  <metadata_license lang="ro">Doar GPL-3.0+ sau GFDL-1.3</metadata_license>
+  <metadata_license lang="pt_BR">GPL-3.0+ ou GFDL-1.3-apenas</metadata_license>
+  <metadata_license lang="pl">GPL-3.0+ or GFDL-1.3-only</metadata_license>
+  <metadata_license lang="nl">GPL-3.0+ of enkel GFDL-1.3</metadata_license>
+  <metadata_license lang="lt">GPL-3.0+ arba GFDL-1.3-only</metadata_license>
+  <metadata_license lang="ko">GPL-3.0+ 또는 GFDL-1.3-only</metadata_license>
+  <metadata_license lang="id">GPL-3.0+ atau hanya GFDL-1.3</metadata_license>
+  <metadata_license lang="hu">GPL-3.0+ vagy csak GFDL-1.3</metadata_license>
+  <metadata_license lang="hr">GPL-3.0+ ili GFDL-1.3-samo</metadata_license>
+  <metadata_license lang="eu">GPL-3.0+ edo GFDL-1.3 soilik</metadata_license>
+  <metadata_license lang="es">GPL-3.0+ o GFDL-1.3-only</metadata_license>
+  <metadata_license lang="de">Nur GPL-3.0+ oder GFDL-1.3</metadata_license>
+  <metadata_license lang="da">GPL-3.0+ eller kun GFDL-1.3</metadata_license>
+  <metadata_license lang="cs">GPL-3.0+ nebo GFDL-1.3-only</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <project_license lang="uk">GPL-3.0+</project_license>
+  <project_license lang="tr">GPL-3.0+</project_license>
+  <project_license lang="sv">GPL-3.0+</project_license>
+  <project_license lang="sr">GPL-3.0+</project_license>
+  <project_license lang="sk">GPL-3.0+</project_license>
+  <project_license lang="ru">GPL-3.0+</project_license>
+  <project_license lang="ro">GPL-3.0+</project_license>
+  <project_license lang="pt_BR">GPL-3.0+</project_license>
+  <project_license lang="pl">GPL-3.0+</project_license>
+  <project_license lang="nl">GPL-3.0+</project_license>
+  <project_license lang="lt">GPL-3.0+</project_license>
+  <project_license lang="ko">GPL-3.0+</project_license>
+  <project_license lang="id">GPL-3.0+</project_license>
+  <project_license lang="hu">GPL-3.0+</project_license>
+  <project_license lang="hr">GPL-3.0+</project_license>
+  <project_license lang="fi">GPL-3.0+</project_license>
+  <project_license lang="eu">GPL 3.0</project_license>
+  <project_license lang="es">GPL-3.0+</project_license>
+  <project_license lang="de">GPL-3.0+</project_license>
+  <project_license lang="da">GPL-3.0+</project_license>
+  <project_license lang="cs">GPL-3.0+</project_license>
+  <name>Character Map</name>
+  <name lang="zh_TW">字元對應表</name>
+  <name lang="zh_HK">字符對應表</name>
+  <name lang="zh_CN">字符映射表</name>
+  <name lang="xh">Imephu Yophawu</name>
+  <name lang="wa">Tåvlea des caracteres</name>
+  <name lang="vi">Bản đồ ký tự</name>
+  <name lang="uk">Таблиця символів</name>
+  <name lang="ug">ھەرپ-بەلگە جەدۋىلى</name>
+  <name lang="tr">Karakter Haritası</name>
+  <name lang="th">ผังอักขระ</name>
+  <name lang="tg">Ҷадвали аломатҳо</name>
+  <name lang="te">ఆక్షర పఠము</name>
+  <name lang="ta">எழுத்து வரைபடம்</name>
+  <name lang="sv">Teckentabell</name>
+  <name lang="sr@latin">Tablica znakova</name>
+  <name lang="sr">Таблица знакова</name>
+  <name lang="sq">Harta e simboleve</name>
+  <name lang="sl">Razpredelnica znakov</name>
+  <name lang="sk">Mapa znakov</name>
+  <name lang="ru">Таблица символов</name>
+  <name lang="ro">Hartă caractere</name>
+  <name lang="pt_BR">Mapa de caracteres</name>
+  <name lang="pt">Mapa de caracteres</name>
+  <name lang="pl">Tablica znaków</name>
+  <name lang="pa">ਅੱਖਰ ਖਾਕਾ</name>
+  <name lang="or">ଅକ୍ଷର ତାଲିକା</name>
+  <name lang="oc">Taula de caractèrs</name>
+  <name lang="nn">Teiknkart</name>
+  <name lang="nl">Tekens en symbolen</name>
+  <name lang="ne">क्यारेक्टर मानचित्र</name>
+  <name lang="nb">Tegnkart</name>
+  <name lang="ms">Peta Aksara</name>
+  <name lang="mr">कॅरेक्टर मॅप</name>
+  <name lang="mn">Тэмдэгтийн хүснэгт</name>
+  <name lang="ml">അക്ഷരങ്ങളുടെ പട്ടിക</name>
+  <name lang="mk">Знаковна табела</name>
+  <name lang="mai">संप्रतीक मैप</name>
+  <name lang="lv">Rakstzīmju tabula</name>
+  <name lang="lt">Simbolių lentelė</name>
+  <name lang="ko">문자 표</name>
+  <name lang="kn">ಅಕ್ಷರ ನಕ್ಷೆ</name>
+  <name lang="kk">Таңбалар кестесі</name>
+  <name lang="ka">სიმბოლოთა რუკა</name>
+  <name lang="ja">文字マップ</name>
+  <name lang="it">Tabella caratteri</name>
+  <name lang="is">Stafatafla</name>
+  <name lang="id">Tabel Karakter</name>
+  <name lang="hu">Karaktertábla</name>
+  <name lang="hr">Tablica znakova</name>
+  <name lang="hi">अक्षर तालिका</name>
+  <name lang="he">מפת תווים</name>
+  <name lang="gu">અક્ષર કોષ્ટક</name>
+  <name lang="gl">Mapa de caracteres</name>
+  <name lang="ga">Mapa Carachtar</name>
+  <name lang="fr">Table de caractères</name>
+  <name lang="fi">Merkkikartta</name>
+  <name lang="fa">جدول نویسه‌ها</name>
+  <name lang="eu">Karaktere-mapa</name>
+  <name lang="et">Märgikaart</name>
+  <name lang="es">Mapa de caracteres</name>
+  <name lang="eo">Signotabelo</name>
+  <name lang="en@shaw">𐑒𐑸𐑩𐑒𐑑𐑼 𐑥𐑨𐑐</name>
+  <name lang="en_GB">Character Map</name>
+  <name lang="en_CA">Character Map</name>
+  <name lang="el">Πίνακας χαρακτήρων</name>
+  <name lang="dz">ཡིག་འབྲུའི་ས་ཁྲ།</name>
+  <name lang="de">Zeichentabelle</name>
+  <name lang="da">Tegnoversigt</name>
+  <name lang="cy">Map Nodau</name>
+  <name lang="cs">Mapa znaků</name>
+  <name lang="ca@valencia">Mapa de caràcters</name>
+  <name lang="ca">Mapa de caràcters</name>
+  <name lang="bs">Mapa znakova</name>
+  <name lang="br">Kartenn an arouezennoù</name>
+  <name lang="bn_IN">অক্ষরের ম্যাপ</name>
+  <name lang="bn">অক্ষরের ম্যাপ</name>
+  <name lang="bg">Таблица със знаци</name>
+  <name lang="be@latin">Mapa znakaŭ</name>
+  <name lang="be">Табліца знакаў</name>
+  <name lang="az">Hərf Xəritəsi</name>
+  <name lang="ast">Mapa de carauteres</name>
+  <name lang="as">আখৰ মানচিত্ৰ</name>
+  <name lang="ar">خريطة المحارف</name>
+  <name lang="af">Karakterkaart</name>
+  <summary>Insert special characters into documents</summary>
+  <summary lang="zh_TW">在文件中插入特殊字元</summary>
+  <summary lang="zh_HK">在文件中插入特殊字符</summary>
+  <summary lang="zh_CN">在文档中插入特殊字符</summary>
+  <summary lang="xh">Fakela izimo ezizodwa emaxwebhini</summary>
+  <summary lang="wa">Sititchî des caracteres sipeciås ezès documints</summary>
+  <summary lang="vi">Chèn ký tự đặc biệt vào tài liệu</summary>
+  <summary lang="uk">Вставляння спеціальних символів у документ</summary>
+  <summary lang="ug">پۈتۈككە ئالاھىدە ھەرپ-بەلگە قىستۇرۇش پروگراممىسى</summary>
+  <summary lang="tr">Özel karakterleri belgelere yerleştir</summary>
+  <summary lang="th">แทรกอักขระพิเศษเข้าในเอกสาร</summary>
+  <summary lang="tg">Дарҷ кардани аломатҳои махсус дар ҳуҷҷатҳо</summary>
+  <summary lang="te">పత్రములలోకి ప్రత్యేక అక్షరములను చేర్చుము</summary>
+  <summary lang="ta">ஆவணத்தில் சிறப்பு எழுத்துக்களை சொருகு</summary>
+  <summary lang="sv">Infoga specialtecken i dokument</summary>
+  <summary lang="sr@latin">Unesite naročite znake u dokumenta</summary>
+  <summary lang="sr">Унесите нарочите знаке у документа</summary>
+  <summary lang="sq">Shto simbole të veçantë në dokumente</summary>
+  <summary lang="sl">Vstavi posebne znake v dokumente</summary>
+  <summary lang="sk">Vkladá špeciálne znaky do dokumentov</summary>
+  <summary lang="ru">Программа для вставки специальных символов в документы</summary>
+  <summary lang="ro">Introducere caractere speciale în documente</summary>
+  <summary lang="pt_BR">Insira caracteres especiais nos documentos</summary>
+  <summary lang="pt">Inserir caracteres especiais em documentos</summary>
+  <summary lang="pl">Wstawienie znaków specjalnych do dokumentów</summary>
+  <summary lang="pa">ਡੌਕੂਮੈਂਟ ਵਿੱਚ ਖਾਸ ਅੱਖਰ ਦਿਉ</summary>
+  <summary lang="or">ଦଲିଲରେ ବିଶେଷ ଅକ୍ଷର ମାନଙ୍କୁ ଭର୍ତ୍ତୀ କରନ୍ତୁ</summary>
+  <summary lang="oc">Inserir de caractèrs especials dins vòstres documents</summary>
+  <summary lang="nn">Sett inn spesielle teikn i dokument</summary>
+  <summary lang="nl">Speciale tekens invoegen in documenten</summary>
+  <summary lang="ne">कागजातमा विशेष क्यारेक्टर घुसाउनुहोस्</summary>
+  <summary lang="nb">Sett inn spesielle tegn i dokumenter</summary>
+  <summary lang="ms">Menyisipkan aksara istimewa ke dokumen</summary>
+  <summary lang="mr">दस्तऐवजात विशेष अक्षरे प्रविष्ट करा</summary>
+  <summary lang="mn">Баримт руу тусгай тэмдэгт оруулах</summary>
+  <summary lang="ml">പ്രമാണങ്ങളിലേയ്ക്കു് പ്രത്യേകാക്ഷരങ്ങള്‍ ചേര്‍ക്കുക</summary>
+  <summary lang="mk">Внесувај специјални карактери во документите</summary>
+  <summary lang="mai">दस्ताबेजसभमे विशिष्ट अक्षर प्रविष्ट करू</summary>
+  <summary lang="lv">Ievietot īpašas rakstzīmes dokumentā</summary>
+  <summary lang="lt">Įterpti į dokumentus specialius simbolius</summary>
+  <summary lang="ko">문서에 특수 문자를 입력합니다</summary>
+  <summary lang="kn">ವಿಶೇಷ ಅಕ್ಷರಗಳನ್ನು ದಸ್ತಾವೇಜಿನಲ್ಲಿ ಸೇರಿಸಿ</summary>
+  <summary lang="kk">Құжаттарға арнайы таңбаларды кірістіріңіз</summary>
+  <summary lang="ja">ドキュメントの中に特殊な文字を挿入します</summary>
+  <summary lang="it">Inserisce caratteri speciali nei documenti</summary>
+  <summary lang="is">Setja sértákn og bókstafi inn í skjöl</summary>
+  <summary lang="id">Masukkan karakter istimewa ke dalam dokumen</summary>
+  <summary lang="hu">Különleges karakterek dokumentumokba illesztése</summary>
+  <summary lang="hr">Umetanje posebnih znakova u dokumente</summary>
+  <summary lang="hi">दस्तावेज़ों में विशिष्ट अक्षर प्रविष्ट करें</summary>
+  <summary lang="he">הוספת תווים מיוחדים למסמכים</summary>
+  <summary lang="gu">દસ્તાવેજમાં વિશિષ્ટ અક્ષરો ઉમેરો</summary>
+  <summary lang="gl">Inserir caracteres especiais nos documentos</summary>
+  <summary lang="ga">Ionsáigh carachtair speisialta isteach i gcáipéisí</summary>
+  <summary lang="fr">Insère des caractères spéciaux dans vos documents</summary>
+  <summary lang="fi">Lisää erikoismerkkejä asiakirjoihin</summary>
+  <summary lang="fa">درج نویسه‌های خاص در نوشتار</summary>
+  <summary lang="eu">Txertatu karaktere bereziak dokumentuetan</summary>
+  <summary lang="et">Erimärkide lisamine dokumentidesse</summary>
+  <summary lang="es">Inserte caracteres especiales en los documentos</summary>
+  <summary lang="eo">Enmeti specialajn signojn en dokumentojn</summary>
+  <summary lang="en@shaw">𐑦𐑯𐑕𐑻𐑑 𐑕𐑐𐑧𐑖𐑩𐑤 𐑒𐑸𐑩𐑒𐑑𐑼𐑟 𐑦𐑯𐑑𐑫 𐑛𐑪𐑒𐑿𐑥𐑩𐑯𐑑𐑕</summary>
+  <summary lang="en_GB">Insert special characters into documents</summary>
+  <summary lang="en_CA">Insert special characters into documents</summary>
+  <summary lang="el">Εισαγωγή ειδικών χαρακτήρων σε έγγραφα</summary>
+  <summary lang="dz">དམིགས་བསལ ཡིག་འབྲུ་ཚུ་ ཡིག་ཆའི་ནང་བཙུགས།</summary>
+  <summary lang="de">Sonderzeichen in Dokumente einfügen</summary>
+  <summary lang="da">Indsæt specialtegn i dokumenter</summary>
+  <summary lang="cy">Mewnosod nodau arbennig i mewn i ddogfenni</summary>
+  <summary lang="cs">Vložit speciální znaky do dokumentů</summary>
+  <summary lang="ca@valencia">Inseriu caràcters especials en els documents</summary>
+  <summary lang="ca">Inseriu caràcters especials en els documents</summary>
+  <summary lang="bs">Ubacivanje posebnih znakova u dokumente</summary>
+  <summary lang="br">Enlakaat arouezennoù dibar en dielloù</summary>
+  <summary lang="bn_IN">নথিপত্রের মধ্যে বিশেষ অক্ষর সন্নিবেশ করুন</summary>
+  <summary lang="bn">ডকুমেন্টে বিশেষ অক্ষর ব্যবহার করুন</summary>
+  <summary lang="bg">Вмъкване на специални знаци в документи</summary>
+  <summary lang="be@latin">Ustaŭlaj specyjalnyja znaki ŭ dakumenty</summary>
+  <summary lang="be">Устаўка знакаў у дакументы</summary>
+  <summary lang="az">Sənədlərə xüsusi hərfləri daxil edin</summary>
+  <summary lang="ast">Inxertar carauteres especiales nos documentos</summary>
+  <summary lang="as">দস্তাবেজত বিশেষ আখৰ সুমুৱাওক</summary>
+  <summary lang="ar">أدرج محارف خاصة في المستندات</summary>
+  <summary lang="af">Voeg spesiale karakters in dokumente in</summary>
+  <description>
+    <p>
+      GNOME Character Map is a Unicode character map program, part of GNOME desktop.
+      This program allows characters to be displayed by unicode block or script type.
+      It includes brief descriptions of related characters and occasionally meanings
+      of the character in question.
+    </p>
+    <p>
+      Gucharmap can also be used to input or enter characters (by copy and paste).
+      The search functionality allows the use of several search methods, including
+      by unicode name or code point of the character.
+    </p>
+  </description>
+  <description lang="as">
+    <p>GNOME আখৰ মেপ এটা ইউনিক'ড আখৰ মেপ প্ৰগ্ৰাম, GNOME ডেস্কটপৰ এটা অংশ। ই আখৰসমূহক ইউনিক'ড খণ্ড অথবা স্ক্ৰিপ্ট ধৰণৰ সহায়ত প্ৰদৰ্শন কৰাৰ অনুমতি দিয়ে। ই প্ৰাসংগিক আখৰসমূহৰ সমু বিৱৰণ আৰু প্ৰশ্নত থকা আখৰৰ অৰ্থ অন্তৰ্ভুক্ত কৰে।</p>
+    <p>Gucharmap ক আখৰসমূহ ইনপুট অথবা সুমুৱাবলৈ ব্যৱহাৰ কৰিব পাৰি (কপি আৰু পেইস্টৰ সহায়ত)। সন্ধান কাৰ্য্যকৰীতায় বিভিন্ন সন্ধান পদ্ধতিৰ ব্যৱহাৰ কৰাৰ অনুমতি দিয়ে, আখৰৰ ইউনিক'ড নাম অথবা ক'ড পইন্ট ব্যৱহাৰ কৰি।</p>
+  </description>
+  <description lang="be">
+    <p>Gucharmap можа быць выкарыстана для ўводу спецыяльных знакаў (праз буфер абмену). Пошук магчымы паводле разнастайных крытэрыяў, напрыклад, паводле назвы або кодавай пазіцыі патрэбнага знака.</p>
+  </description>
+  <description lang="bg">
+    <p>Таблицата със знаци на GNOME е програма представяща всички знаци от Уникод. Приложението е част от работната среда GNOME. Знаците могат да се представят по писменост или блок от Уникод. Включена е и кратка информация за подобните знаци, а в някои случчаи и значението на избрания знак.</p>
+    <p>Gucharmap може да се ползва и за въвеждането на знаци чрез копиране и поставяне. Знаците могат да се търсят по няколко начина, включително по име или кодова точка.</p>
+  </description>
+  <description lang="bn_IN">
+    <p>GNOME অক্ষর মানচিত্র হল একটি ইউনিকোড অক্ষর মানচিত্র প্রোগ্রাম, যা GNOME ডেস্কটপের অংশ। এই প্রোগ্রাম অক্ষর ইউনিকোড ব্লক বা স্ক্রিপ্ট ধরন দিয়ে প্রদর্শিত হতে দেয়। এটি সংশ্লিষ্ট অক্ষরের সংক্ষিপ্ত বর্ণনা এবং মাঝে মধ্যে অালোচ্য অক্ষরের অর্থ অন্তর্ভুক্ত করে।</p>
+    <p>Gucharmap অক্ষর ইনপুট বা প্রবেশ করাতেও ব্যবহার করা যেতে পারে (অনুলিপি করে লেপন করে)। অনুসন্ধান বৈশিষ্ট্য অক্ষরের ইউনিকেড নাম বা কোড পয়েন্ট সমেত বিভিন্ন অনুসন্ধান পদ্ধতির সুবিধা দেয়।</p>
+  </description>
+  <description lang="bs">
+    <p>GNOME Mapa karaktera jeste program Unicode mape karaktera, dio GNOME radne površine. Ovaj program omogućava znakovima da budu prikazani prema unicode bloku ili tipu skripte. Uključuje kratak opis povezanih znakova i povremeno značenja znakova u pitanju.</p>
+    <p>Gucharmap se može koristiti i za unos znakova (sa kopiraj i zalijepi). Funkcija traženja omogućava korištenje nekoliko metoda, uključujući i prema unicode nazivu ili kodiranoj tački znaka.</p>
+  </description>
+  <description lang="ca">
+    <p>El Mapa de caràcters del GNOME és un programa de mapa de caràcters Unicode que forma part de l'escriptori GNOME. Permet mostrar caràcters per bloc Unicode o tipus de grafia. Inclou descripcions breus dels caràcters relacionats i ocasionalment el significat del caràcter en qüestió.</p>
+    <p>El Gucharmap també es pot utilitzar per a introduir caràcters (mitjançant copia i enganxa). La funcionalitat de cerca permet l'ús de diferents mètodes de cerca, incloent per nom Unicode o punt de codi del caràcter.</p>
+  </description>
+  <description lang="ca@valencia">
+    <p>El Mapa de caràcters del GNOME és un programa de mapa de caràcters Unicode que forma part de l'escriptori GNOME. Permet mostrar caràcters per bloc Unicode o tipus de grafia. Inclou descripcions breus del caràcters relacionats i ocasionalment el significat del caràcter en qüestió.</p>
+    <p>El Gucharmap també es pot utilitzar per introduir caràcters (mitjançant copia i apega). La funcionalitat de cerca permet l'ús de diferents mètodes de cerca, incloent per nom Unicode o punt de codi del caràcter.</p>
+  </description>
+  <description lang="cs">
+    <p>Mapa znaků GNOME je program s mapou znaků Unikódu a je součástí pracovního prostředí GNOME. Pomocí něj si můžete zobrazit znaky podle bloku unikódu nebo podle písma (skriptu). Obsahuje popisy příslušných znaků a někdy také význam daného znaku.</p>
+    <p>Mapu znaků můžete také používat ke vkládání znaků (pomocí kopírovat a vložit přes schránku). Funkce hledání umí několik způsobů hledání, včetně hledání podle názvu v Unikódu nebo kódu znaku.</p>
+  </description>
+  <description lang="da">
+    <p>GNOME Tegnoversigt er et Unicode-tegnvisningprogram, som er en del af GNOME-skrivebordet. Dette program lader tegn blive vist efter Unicode-blok eller skriftsprog. Det inkluderer korte beskrivelser af relaterede tegn og undertiden betydninger af det pågældende tegn.</p>
+    <p>Gucharmap kan også bruges til at indtaste tegn (med kopiér/indsæt). Søgefunktionaliteten tillader brugen af adskillige søgemetoder, såsom efter Unicode-navn eller kodepunkt for tegnet.</p>
+  </description>
+  <description lang="de">
+    <p>GNOME-Zeichentabelle ist ein Programm für Unicode-Zeichentabellen und ein Teil der GNOME-Arbeitsumgebung. Dieses Programm ermöglicht die Darstellung von Zeichen nach Unicode-Block oder Schriftsystemtyp. Es beinhaltet kurze Beschreibungen zugehöriger Zeichen und in manchen Fällen die Bedeutung abgefragter Zeichen.</p>
+    <p>Gucharmap kann auch zum Einfügen und zur Eingabe von Zeichen verwendet werden (mittels Kopieren und Einfügen). Die Suchfunktion ermöglicht die Verwendung verschiedener Suchmethoden. Dazu zählt die Suche nach Unicode-Namen oder Codepunkt des Zeichens.</p>
+  </description>
+  <description lang="el">
+    <p>Ο Πίνακας χαρακτήρων GNOME είναι ένα πρόγραμμα χαρακτήρων Unicode, μέρος της επιφάνειας εργασίας του GNOME. Αυτό το πρόγραμμα εμφανίζει τους χαρακτήρες κατά ομάδα unicode ή κατά τύπο γραφής. Περιλαμβάνει σύντομες περιγραφές των σχετικών χαρακτήρων και ενίοτε έννοιες του χαρακτήρα που εξετάζεται.</p>
+    <p>Το Gucharmap μπορεί επίσης να χρησιμοποιηθεί για να εισάγει χαρακτήρες (με αντιγραφή και επικόλληση). Η λειτουργία αναζήτησης επιτρέπει τη χρήση πολλών μεθόδων αναζήτησης, συμπεριλαμβανόμενου του ονόματος Unicode ή του σημείου κώδικα του χαρακτήρα.</p>
+  </description>
+  <description lang="es">
+    <p>El mapa de caracteres de GNOME es un programa de mapa de caracteres Unicode que forma parte del escritorio GNOME. Este programa permite mostrar los caracteres por bloques Unicode o por tipo de escritura. Incluye una breve descripción de los caracteres relacionados y, algunas veces, el significado del carácter en sí.</p>
+    <p>También se puede usar Gucharmap para introducir caracteres (copiar y pegar). La búsqueda permite usar varios métodos, incluyendo el nombre Unicode o el punto de código del carácter.</p>
+  </description>
+  <description lang="eu">
+    <p>GNOMEren Karaktere Mapa Unicode karaktere-maparen programa bat da, GNOME mahaigainaren zati. Programa honek karaktereak Unicode blokeetan edo idazketa motan bistaratzea baimentzen du. Honek zerikusia duten karaktereen azalpen labur batzuk ditu, eta batzuetan karaktere beraren azalpenak.</p>
+    <p>Gucharmap erabil dezakezu karaktereak sartzeko edo txertatzeko (kopiatu eta itsatsi bidez). Bilaketen funtzionalitateak bilaketarako hainbat metodo erabiltzea baimentzen dizu, unicode izenaren edo  karakterearen kodearen puntuaren arabera.</p>
+  </description>
+  <description lang="fa">
+    <p>جدول نویسه‌های گنوم یک برنامه‌ی جدول یونیکد است، که بخشی از میزکار گنوم است. این برنامه به نویسه‌ها اجازه می‌دهد تا در یک بلوک یونیکد یا انواع اسکریپت‌ها نمایش داده شوند. شامل یک توضیح خلاصه از نویسه‌های مرتبط است و معمولا تعریف نویسه‌ی مورد سوال.</p>
+    <p>برنامه Gucharmap همچنین می‌تواند برای ورود نویسه‌ها استفاده شود (با استفاده از رونوشت و چسباندن). توابع جست‌وجو اجازه استفاده از روش‌های مختلف جست‌وجو را می‌دهد، شامل امکان جست‌وجو براساس نام یا کد نقطه‌ی یک نویسه.</p>
+  </description>
+  <description lang="fi">
+    <p>Gnomen Merkkikartta on Unicode-merkistöjärjestelmän ohjelma, osa Gnome-työpöytää. Ohjelman avulla voit katsella merkkejä Unicode-lohkoina tai skriptityyppinä. Näet merkkien kuvaukset ja toisinaan merkkien tarkoitukset.</p>
+    <p>Sen avulla voit syöttää tai tuottaa merkkejä leikepöydän kautta. Haku tarjoaa monia eri vaihtoehtoa, merkkejä voi etsiä Unicode-nimellä tai merkin koodimerkinnällä.</p>
+  </description>
+  <description lang="fr">
+    <p>La Table de caractères GNOME est un programme d'affichage des caractères Unicode faisant partie du bureau GNOME. Ce programme permet d'afficher des caractères par bloc unicode ou par type d'écriture. Il ajoute de brèves descriptions des caractères associés et parfois les significations du caractère en question.</p>
+    <p>Gucharmap peut aussi être utilisé pour saisir des caractères (par copier-coller). La fonctionnalité de recherche emploie plusieurs méthodes de recherche, dont la recherche par nom unicode ou par point de code du caractère.</p>
+  </description>
+  <description lang="gl">
+    <p>O Mapa de caracteres de GNOME é un programa de mapa de caracteres Unicode, e forma parte do escritorio GNOME. Este programa permítelle mostrar caracteres por bloque Unicode ou tipo de script. Inclúe descricións curtas dos caracteres relacionados e ocasionalmente significados do caracter en cuestión.</p>
+    <p>Gucharmap tamén pode usarse para inserir ou escribir caracteres (mediante copiar e pegar). A funcionalidade de busca permítelle usar varios métodos de busca, incluíndo o nome unicode ou o punto de código do caracter.</p>
+  </description>
+  <description lang="hr">
+    <p>GNOME Tablica znakova je unikôdni program mape znakova, dio GNOME radne površine. Ovaj program dopušta znakovima da budu prikazani po unikôdnim blokom ili po vrsti pisma. Uključuje kratak opis povezanih znakova i povremeno značenje dotičnog znaka.</p>
+    <p>Tablica znakova se isto tako može koristiti za umetanje znakova (kopiranjem i lijepljenjem). Funkcija pretrage dopušta korištenje nekoliko načina pretrage, uključujući po unikôdnom nazivu ili točki kôda znaka.</p>
+  </description>
+  <description lang="hu">
+    <p>A GNOME Karaktertábla egy Unicode karaktertábla program, a GNOME asztali környezet része. Ez a program lehetővé teszi karakterek megjelenítését Unicode blokk vagy írásrendszertípus alapján. Tartalmazza a kapcsolódó karakterek rövid leírásait, és esetenként a kérdéses karakter jelentéseit.</p>
+    <p>A Gucharmap használható karakterek bevitelére is (másolás és beillesztés módszerrel). A keresési funkció lehetővé teszi számos keresési módszer használatát, beleértve a karakter Unicode neve vagy a kódpontja szerintit.</p>
+  </description>
+  <description lang="id">
+    <p>GNOME Peta Karakter adalah program peta karakter Unicode, bagian dari desktop GNOME. Program ini memungkinkan karakter ditampilkan menurut blok unicode atau tipe skrip. Ini termasuk keterangan singkat atas karakter terkait dan terkadang arti karakter yang bersangkutan.</p>
+    <p>Gucharmap juga dapat dipakai untuk memasukkan karakter (dengan salin dan tempel). Fungsionalitas pencarian memungkinkan penggunaan beberapa metoda pencarian, termasuk menurut nama unicode atau titik kode karakter.</p>
+  </description>
+  <description lang="is">
+    <p>GNOME Gucharmap stafatafla er Unicode stafatöfluforrit (character map), hluti af GNOME skjáborðsumhverfinu. Þetta forrit gerir kleift að skoða stafi eftir unicode blokkum eða tegund skriftar. Það inniheldur stuttar lýsingar á skyldum stöfum og stundum einnig útskýringar á meiningu stafanna.</p>
+    <p>Gucharmap má einnig nota til að setja inn stafi (skrifa/afrita/líma). Leitarmöguleikar gefa kost á að leita á ýmsa vegu, meðal annars eftir Unicode-heiti eða eftir kóðapunkti stafs.</p>
+  </description>
+  <description lang="it">
+    <p>Tabella caratteri GNOME è una mappa dei caratteri Unicode parte dell'ambiente grafico GNOME. Consente la visualizzazione di caratteri per blocco Unicode o per tipologia di lingua. Comprende delle brevi descrizioni dei caratteri e anche il significato del carattere in questione.</p>
+    <p>È anche possibile usare Gucharmap per immettere caratteri (copiandoli e incollandoli). La funzionalità di ricerca consente di eseguire ricerche per il nome Unicode o tramite il code point del carattere.</p>
+  </description>
+  <description lang="ko">
+    <p>그놈 문자표 유니코드 문자 표 프로그램으로 그놈 데스크톱의 일부입니다. 이 프로그램에서는 문자를 유니코드 블록이나 문자 종류 단위로 표시합니다. 문자에 대한 간략한 설명이 들어 있고, 해당 문자의 의미가 들어 있기도 합니다.</p>
+    <p>문자표는 복사와 붙여넣기를 이용해 문자를 입력하는데 사용할 수도 있습니다. 검색 기능에서는 유니코드 이름이나 코드 포인트로 문자를 검색할 수 있습니다.</p>
+  </description>
+  <description lang="lt">
+    <p>GNOME simbolių lentelė yra unikodo simbolių lentelės programa, GNOME darbalaukio dalis. Programa skirta rodyti simbolius pagal unikodo bloką arba scenarijaus tipą. Ji turi trumpus susijusių simbolių aprašymus ir kartais jų reikšmes.</p>
+    <p>Gucharmap taip pat galima naudoti simbolių įvedimui (kopijuojant juos). Paieškos funkcija leidžia naudoti kelis paieškos metodus, tarp jų simbolio unikodinis pavadinimas bei kodo vieta.</p>
+  </description>
+  <description lang="lv">
+    <p>GNOME rakstzīmju karte ir unikoda rakstzīmju kartes programma, kas ir daļa no GNOME darbvirsmas. Šī programma attēlo rakstzīmes pēc unikoda bloka vai rakstības veida. Tas iekļauj rakstzīmju īsu aprakstu un dažkārt arī attiecīgās rakstzīmes nozīmi.</p>
+    <p>Gucharmap arī var izmantot, lai ievadītu rakstzīmes (ar kopēšanu un ielīmēšanu). Meklēšanas funkcijas ļauj izmantot vairākas meklēšanas metodes, tai skaitā unikoda nosaukums vai rakstzīmes kods.</p>
+  </description>
+  <description lang="mr">
+    <p>GNOME कॅरेक्टर मॅप हे Unicode कॅरेक्टर मॅप प्रोग्राम आहे, जे GNOME डेस्कटॉपचा भाग आहे. हा प्रोग्राम तुम्हाला unicode ब्लॉक किंवा स्क्रिप्ट प्रकारद्वारे अक्षर दाखवितो. यामध्ये संबंधित अक्षरांचे वर्णन आणि निर्देशीत अक्षराचे अर्थ समाविष्टीत आहे.</p>
+    <p>Gucharmap चा वापर अक्षरांना इंपुट किंवा एंटर करण्यासाठी देखील होतो (प्रत करा आणि चिकटवाद्वारे). शोध कार्यक्षमता अनेक शोध पद्धतींचा वापर स्वीकारते, unicode नाव किंवा अक्षराच्या कोड पॉइंटद्वारे.</p>
+  </description>
+  <description lang="nb">
+    <p>GNOME tegnkart er et Unicode-tegnkartprogram som er en del av GNOME skrivebordet. Dette programmet viser tegn etter Unicode-blokk eller type skript. Det inneholder en kort beskrivelse av relaterte tegn og noen ganger betydningen av tegnene.</p>
+    <p>Gucharmap kan også brukes til å skrive inn tegn (via klipp og lim). Søkefunksjonen tillater flere søkemetoder inklusive via Unicode-navn eller kodepunkt for tegnet.</p>
+  </description>
+  <description lang="nl">
+    <p>Gnome Tekens en symbolen is een Unicode tekens- en symbolenprogramma en maakt deel uit van de Gnome-werkomgeving. In dit programma worden tekens weergegeven per Unicode-blok of script-type. Het bevat korte beschrijvingen van gerelateerde tekens en soms uitleg over de betekenis van het geselecteerde teken.</p>
+    <p>Tekens en symbolen  kan ook gebruikt worden om tekens in te voeren (door kopiëren en plakken). De zoekfunctionaliteit stelt u in staat op verschillende manieren te zoeken, onder andere zoeken naar de Unicodenaam of toetscode van het teken.</p>
+  </description>
+  <description lang="oc">
+    <p>La Taula de caractèrs GNOME es un programa d'afichatge dels caractèrs Unicode que fan partida del burèu GNOME. Aqueste programa permet d'afichar de caractèrs per blòt unicode o per tipe d'escritura. Apond de brèvas descripcions de caractèrs associats e de còps las significacions del caractèr en question.</p>
+    <p>Gucharmap pòt tanben èsser utilizat per picar de caractèrs (amb lo copiar-pegar). La foncionalitat de recèrca emplega mantun metòdes de recèrca, dont la recèrca per nom unicode o per punt de còde del caractèr.</p>
+  </description>
+  <description lang="pa">
+    <p>ਗਨੋਮ ਅੱਖਰ ਖਾਕਾ ਇੱਕ ਯੂਨੀਕੋਡ ਅੱਖਰ ਪ੍ਰੋਗਰਾਮ ਹੈ, ਜੋ ਕਿ ਗਨੋਮ ਡੈਸਕਟਾਪ ਦਾ ਭਾਗ ਹੈ। ਇਹ ਪ੍ਰੋਗਰਾਮ ਯੂਨੀਕੋਡ ਸਮੂਹ ਜਾਂ ਸਕ੍ਰਿਪਟ ਕਿਸਮ ਦੇ ਮੁਤਾਬਕ ਅੱਖਰ ਵਿਖਾ ਸਕਦਾ ਹੈ। ਇਸ ਵਿੱਚ ਅੱਖਰਾਂ ਦੇ ਸਬੰਧ ਵਿੱਚ ਸੰਖੇਪ ਵੇਰਵਾ ਅਤੇ ਕਈ ਵਾਰ ਸਵਾਲ ਦੇ ਰੂਪ ਵਿੱਚ ਅੱਖਰਾਂ ਦਾ ਅਰਥ ਵੀ ਹੁੰਦਾ ਹੈ।</p>
+    <p>ਗੁਚਰਮੈਪ ਨੂੰ ਅੱਖਰ ਇੰਪੁੱਟ ਜਾਂ ਲਿਖਣ ਲਈ ਵੀ ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ (ਕਾਪੀ ਤੇ ਚੇਪ ਕੇ)। ਖੋਜ ਸਹੂਲਤ ਕਈ ਢੰਗ ਨਾਲ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ, ਜਿਸ ਵਿੱਚ ਅੱਖਰਾਂ ਦਾ ਯੂਨੀਕੋਡ ਨਾਂ, ਕੋਡ ਬਿੰਦੂ ਸ਼ਾਮਿਲ ਹਨ।</p>
+  </description>
+  <description lang="pl">
+    <p>Tablica znaków GNOME to tablica znaków Unicode, będąca częścią środowiska GNOME. Umożliwia wyświetlanie znaków według bloku lub typu pisma wraz z krótkimi opisami znaków pokrewnych oraz sporadycznie ze znaczeniem danego znaku.</p>
+    <p>Umożliwia również wprowadzanie znaków (poprzez kopiowanie i wklejanie) oraz zapewnia wiele metod wyszukiwania, w tym: wyszukiwanie według nazwy Unicode lub punktu kodowego danego znaku.</p>
+  </description>
+  <description lang="pt">
+    <p>O Gucharmap ("GNOME Character Map") é uma aplicação de mapa de caracteres Unicode, parte do ambiente GNOME. Esta aplicação mostra caracteres por bloco unicode ou por tipo de script. Inclui breves descrições dos caracteres relacionados e ocasionalmente o significado do carácter em questão.</p>
+    <p>O Gucharmap também pode ser utilizado para introduzir caracteres (com copiar e colar). A funcionalidade de procura permite a utilização de diversos métodos de procura, incluindo por nome unicode ou ponto de código do carácter.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>O Mapa de caracteres do GNOME é um programa de mapa de caracteres Unicode, que faz parte do ambiente de trabalho do GNOME. Esse programa permite que caracteres sejam exibidos por bloco de unicode ou tipo de script. Ele inclui breves descrições dos caracteres relacionados e, ocasionalmente, significados do caractere em questão.</p>
+    <p>O Gucharmap também pode ser usado para digitar ou inserir caracteres (com copiar-a-colar). A funcionalidade de pesquisa permite o uso de vários métodos de pesquisa, incluindo por nome de unicode ou ponto de código do caractere.</p>
+  </description>
+  <description lang="ro">
+    <p>Hartă de caractere GNOME este un program de hartă de caractere Unicode, parte a desktopului GNOME. Acest program permite caracterelor să fie afișate de blocul unicode sau tipul de script. Include descrieri scurte a caracterelor legate și ocazional sensuri ale caracterului în cauză.</p>
+    <p>Gucharmap poate fi, de asemenea, utilizat pentru a intra sau introduce caractere (prin copiere și lipire). Funcționalitatea de căutare permite utilizarea a mai multor metode de căutare, inclusiv după numele unicode sau punctul cod al caracterului.</p>
+  </description>
+  <description lang="ru">
+    <p>Карта символов GNOME — это карта символов Юникода. Это приложение является частью рабочего стола GNOME. Оно позволяет отображать символы по блоку Юникода или по типу письменности, а также выводит краткое описание соответствующих символов и значения символа в вопросе.</p>
+    <p>Gucharmap можно также использовать для ввода символов (через копирование и вставку). Возможности поиска позволяют использовать несколько способов поиска, включая имя или код символа.</p>
+  </description>
+  <description lang="sk">
+    <p>Mapa znakov prostredia GNOME je program mapy znakov Unicode, súčasť pracovného prostredia GNOME. Tento program umožňuje zobraziť znaky podľa bloku Unicode alebo typu písma. Obsahuje stručné popisy súvisiacich znakov a občas aj význam daného znaku.</p>
+    <p>Program Gucharmap môže byť  tiež použitý pre vkladanie alebo zadávanie znakov  (štýlom kopírovať a vložiť). Funkcia vyhľadávania umožňuje použitie niekoľkých metód vyhľadávania, vrátane vyhľadávania podľa názvu Unicode alebo Unicode kódu znaku.</p>
+  </description>
+  <description lang="sl">
+    <p>Program Gucharmap oziroma program za prikaz znakov nabora Unikod, ki je del namizja GNOME. Program omogoča prikaz znakov različnih običajnih in skriptnih pisav. Vključuje tudi kratek opis, zavedene povezane znake in včasih pomen izbranega znaka.</p>
+    <p>Program Gucharmap je mogoče uporabljati tudi za vnos znakov  (s kopiranjem in lepljenjem). Iskalnik omogoča uporabo različnih načinov iskanja, vključno z imenom unikod znakov ali kodnih točk znaka.</p>
+  </description>
+  <description lang="sr">
+    <p>Гномова словна мапа јесте програм мапе Јуникод знакова, део Гномове радне површи. Овај програм омогућава приказивање знакова блоком јуникода или врстом скрипте. Укључује кратке описе односних знакова и по могућству значења датог знака.</p>
+    <p>Гномова словна мапа може бити коришћена такође и за унос или улаз знакова (умножавањем и убацивањем). Функција претраживања омогућава употребу неколико начина претраге, укључујући према јуникод називу или према кодној тачки знака.</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Gnomova slovna mapa jeste program mape Junikod znakova, deo Gnomove radne površi. Ovaj program omogućava prikazivanje znakova blokom junikoda ili vrstom skripte. Uključuje kratke opise odnosnih znakova i po mogućstvu značenja datog znaka.</p>
+    <p>Gnomova slovna mapa može biti korišćena takođe i za unos ili ulaz znakova (umnožavanjem i ubacivanjem). Funkcija pretraživanja omogućava upotrebu nekoliko načina pretrage, uključujući prema junikod nazivu ili prema kodnoj tački znaka.</p>
+  </description>
+  <description lang="sv">
+    <p>GNOME Teckentabell är en Unicode-teckentabell, och är en del av skrivbordsmiljön GNOME. Detta program gör det möjligt att visa tecken baserat på Unicode-block eller skrifttyp. Det inkluderar en kortfattad beskrivning över relaterade tecken och i vissa fall betydelser för tecknet i fråga.</p>
+    <p>GNOME Teckentabell kan även användas för att mata in eller skriva tecken (genom att kopiera och klistra in). Sök funktionen gör det möjligt att använda flera sökmetoder, inklusive via Unicode-namn eller tecknets kodpunkt.</p>
+  </description>
+  <description lang="ta">
+    <p>GNOME Character Map என்பது ஒருங்குறி எழுத்துக்குறி மேப் நிரலாகும், இது GNOME பணிமேசையின் ஒரு பகுதியாகும். இந்த நிரலைக் கொண்டு எழுத்துக்குறிகளை ஒருங்குறித் தொகுப்பாக அல்லது ஸ்கிரிப்ட்டு வகையாகக் காண முடியும். இதில் தொடர்புடைய எழுத்துக்குறிகளின் விளக்கங்களும் சிலவற்றுக்கு பொருளும் இடம்பெற்றுள்ளன.</p>
+    <p>எழுத்துக்குறிகளை (நகலெடுத்து ஒட்டுவதன் மூலம்) உள்ளிட அல்லது வழங்கவும் Gucharmap நிரல் பயன்படுகிறது. இதில் உள்ள தேடல் வசதியைக் கொண்டு எழுத்துக்குறியின் ஒருங்குறிப் பெயர் அல்லது குறியீட்டுப் புள்ளியைக் கொண்டு தேடலாம்.</p>
+  </description>
+  <description lang="te">
+    <p>గ్నోమ్ కారెక్టర్ మాప్ అనునది యూనికోడ్ కారక్టర్ మాప్ ప్రోగ్రామ్, ఇది గ్నోమ్ డెస్కుటాప్ నందు భాగం. అక్షరాలు యూనికోడ్ బ్లాక్ లేదా స్క్రిప్ట్ టైప్‌తో ప్రదర్శించుటకు ఈ ప్రోగ్రామ్ అనుమతించును. సంబందిత అక్షరాల వివరణను ఇది కలిగివుంటుంది మరియు అప్పుడప్పుడు ప్రశ్ననందలి అక్షరాల అర్థం కలిగివుంటుంది.</p>
+    <p>Gucharmap అనునది అక్షరాలు ఇన్పుట్‌కు లేదా ప్రవేశపెట్టుటకు ఉపయోగించవచ్చు (నకలుతీసి అతికించుట ద్వారా). శోధన ఫంక్షనాలిటీ అనునది వివిధ శోధన పద్దతుల ఉపయోగాన్ని అనుమతించును, యూనికోడ్ పేరు లేదా అక్షరం యొక్క కోడ్ పాయింట్ తో సహా.</p>
+  </description>
+  <description lang="tg">
+    <p>Харитаи аломатҳои GNOME- ин барномаи харитаи аломатҳои Юникод барои мизи кории GNOME аст. Ин барнома барои намоиш додани аломатҳо аз рӯи ҷадвали Юникод ё навъи скрипт имкон медиҳад. Ин барнома инчунин аломатҳои марбут ва ба қадри имкон аломатҳои саволдорро тавсиф мекунад.</p>
+    <p>Gucharmap инчунин метавонад барои ворид ё дарҷ кардани аломатҳо (бо истифодаи фармони "Нусха бардоштан" ё "Гузоштан") истифода шавад. Қобилияти ҷустуҷӯ имкон медиҳад, то ки тавонед якчанд усули ҷустуҷӯиро, аз ҷумла аз рӯи номи юникод ё нуқтаи рамзи аломат, истифода баред.</p>
+  </description>
+  <description lang="th">
+    <p>"ผังอักขระของ GNOME" เป็นโปรแกรมผังอักขระยูนิโค้ด และเป็นส่วนหนึ่งของเดสก์ท็อป GNOME โปรแกรมนี้สามารถแสดงอักขระเรียงตามบล็อคยูนิโค้ดหรือตามภาษาเขียนก็ได้ และยังแสดงคำบรรยายสังเขปเกี่ยวกับอักขระที่เกี่ยวข้อง และในบางกรณีก็แสดงความหมายของอักขระที่แสดงด้วย</p>
+    <p>Gucharmap ยังสามารถใช้ป้อนอักขระต่างๆ ได้ด้วย (ด้วยการคัดลอกไปแปะ) ความสามารถในการค้นหาช่วยให้สามารถค้นหาอักขระด้วยวิธีต่างๆ ได้ รวมถึงการค้นด้วยชื่อหรือรหัสยูนิโค้ดของตัวอักขระ</p>
+  </description>
+  <description lang="tr">
+    <p>GNOME Karakter Eşlem, GNOME masaüstünün bir parçası olan Evrensel Kod (Unicode) karakter eşleme programıdır. Bu program, karakterlerin evrensel kod blok veya betik türleri tarafından görüntülenmesine olanak tanır. İlgili karakterlerin kısa açıklamalarını ve zaman zaman söz konusu karakterin anlamlarını içerir.</p>
+    <p>Gucharmap, karakterlerin girilmesi (kopyala ve yapıştır yoluyla) için de kullanılabilir. Arama işlevi, evrensel kod adı veya karakterin kodlama noktasını kullanmak da dahil olmak üzere çeşitli arama yöntemleri sağlar.</p>
+  </description>
+  <description lang="uk">
+    <p>Карта символів для GNOME — унікодна карта символів, частина стільничнонго середовища GNOME. Ця програма дозволяє показувати символи як блоки унікоду або тип скрипту. Вона містить короткий опис схожих символів і часом значення символу.</p>
+    <p>Gucharmap також можна використовувати для введення або вставлення символів (за допомогою копіювання). Ця програма дозволяє використовувати кілька способів пошуку, зокрема за назвою або кодом символу.</p>
+  </description>
+  <description lang="vi">
+    <p>Bản đồ ký tự GNOME là chương trình xem sơ đồ ký tự Unicode, một bộ phận của môi trường máy tính để bàn GNOME. Chương trình này cho phép trình bày the khối unicode hoặc kiểu scrip. Nó bao gồm mô tả ngắn gọn liên quan đến các ký tự và ý nghĩa thỉnh thoảng của ký tự trong câu hỏi.</p>
+    <p>Gucharmap có thể cũng được dùng làm đầu vào để nhập các ký tự (bằng cách chép rồi dán). Chức năng tìm kiếm cho phép người dùng sử dụng nhiều phương thức tìm kiếm, bao gồm theo tên unicode hay điểm mã của ký tự.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>GNOME 字符映射表是一款 Unicode 字符映射表程序，是 GNOME 桌面的一部分。这款程序可以按 Unicode 区块或书写形式显示字符。它提供了字符对应的简要说明，偶尔也会给出疑难字符的意义。</p>
+    <p>Gucharmap 也可以用来输入字符(复制粘贴)。搜索功能允许以多种方式搜索，包括Unicode 名称或字符代码点(code point)。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>GNOME《字元對應表》是萬國碼字元對應表程式，也是 GNOME 桌面的一部分。這個程式能以萬國碼字碼或書寫形式來顯示字元。它包含字元的相關簡短描述與少數字元意義的問題。</p>
+    <p>Gucharmap 也可以用來輸入字元 (利用複製與貼上)。搜尋功能允許使用多稱搜尋方式，包含依萬國碼名稱或字元的編碼點。</p>
+  </description>
+  <!--
+  <screenshots>
+    <screenshot type="default">...</screenshot>
+  </screenshots>
+-->
+  <kudos>
+    <kudo>ModernToolkit</kudo>
+    <kudo lang="uk">ModernToolkit</kudo>
+    <kudo lang="tr">ModernToolkit</kudo>
+    <kudo lang="sv">ModernToolkit</kudo>
+    <kudo lang="sr">Савремени Алатни скуп</kudo>
+    <kudo lang="sk">ModernToolkit</kudo>
+    <kudo lang="ru">ModernToolkit</kudo>
+    <kudo lang="ro">ModernToolkit</kudo>
+    <kudo lang="pt_BR">ModernToolkit</kudo>
+    <kudo lang="pl">ModernToolkit</kudo>
+    <kudo lang="nl">ModernToolkit</kudo>
+    <kudo lang="lt">ModernToolkit</kudo>
+    <kudo lang="ko">ModernToolkit</kudo>
+    <kudo lang="id">ModernToolkit</kudo>
+    <kudo lang="hu">ModernToolkit</kudo>
+    <kudo lang="hr">Moderan komplet alata</kudo>
+    <kudo lang="eu">ModernToolkit</kudo>
+    <kudo lang="es">ModernToolkit</kudo>
+    <kudo lang="de">ModernToolkit</kudo>
+    <kudo lang="da">ModernToolkit</kudo>
+    <kudo>UserDocs</kudo>
+    <kudo lang="uk">UserDocs</kudo>
+    <kudo lang="tr">UserDocs</kudo>
+    <kudo lang="sv">UserDocs</kudo>
+    <kudo lang="sr">Корисничка документација</kudo>
+    <kudo lang="sk">UserDocs</kudo>
+    <kudo lang="ru">UserDocs</kudo>
+    <kudo lang="ro">UserDocs</kudo>
+    <kudo lang="pt_BR">Documentação de usuário</kudo>
+    <kudo lang="pl">UserDocs</kudo>
+    <kudo lang="nl">UserDocs</kudo>
+    <kudo lang="lt">UserDocs</kudo>
+    <kudo lang="ko">사용자문서</kudo>
+    <kudo lang="id">UserDocs</kudo>
+    <kudo lang="hu">UserDocs</kudo>
+    <kudo lang="hr">Korisnička dokumentacija</kudo>
+    <kudo lang="eu">UserDocs</kudo>
+    <kudo lang="es">UserDocs</kudo>
+    <kudo lang="de">BenutzerDokumentation</kudo>
+    <kudo lang="da">UserDocs</kudo>
+  </kudos>
+  <url type="homepage">https://wiki.gnome.org/Apps/Gucharmap</url>
+  <url lang="uk">https://wiki.gnome.org/Apps/Gucharmap</url>
+  <url lang="tr">https://wiki.gnome.org/Apps/Gucharmap</url>
+  <url lang="sv">https://wiki.gnome.org/Apps/Gucharmap</url>
+  <url lang="sr">https://wiki.gnome.org/Apps/Gucharmap</url>
+  <url lang="sk">https://wiki.gnome.org/Apps/Gucharmap</url>
+  <url lang="ru">https://wiki.gnome.org/Apps/Gucharmap</url>
+  <url lang="ro">https://wiki.gnome.org/Apps/Gucharmap</url>
+  <url lang="pt_BR">https://wiki.gnome.org/Apps/Gucharmap</url>
+  <url lang="pl">https://wiki.gnome.org/Apps/Gucharmap</url>
+  <url lang="nl">https://wiki.gnome.org/Apps/Gucharmap</url>
+  <url lang="lt">https://wiki.gnome.org/Apps/Gucharmap</url>
+  <url lang="ko">https://wiki.gnome.org/Apps/Gucharmap</url>
+  <url lang="id">https://wiki.gnome.org/Apps/Gucharmap</url>
+  <url lang="hu">https://wiki.gnome.org/Apps/Gucharmap</url>
+  <url lang="hr">https://wiki.gnome.org/Apps/Gucharmap</url>
+  <url lang="fi">https://wiki.gnome.org/Apps/Gucharmap</url>
+  <url lang="eu">https://wiki.gnome.org/Apps/Gucharmap</url>
+  <url lang="es">https://wiki.gnome.org/Apps/Gucharmap</url>
+  <url lang="de">https://wiki.gnome.org/Apps/Gucharmap</url>
+  <url lang="da">https://wiki.gnome.org/Apps/Gucharmap</url>
+  <url lang="cs">https://wiki.gnome.org/Apps/Gucharmap</url>
+  <project_group>GNOME</project_group>
+  <project_group lang="uk">GNOME</project_group>
+  <project_group lang="tr">GNOME</project_group>
+  <project_group lang="sv">GNOME</project_group>
+  <project_group lang="sr">Гном</project_group>
+  <project_group lang="sk">GNOME</project_group>
+  <project_group lang="ru">GNOME</project_group>
+  <project_group lang="ro">GNOME</project_group>
+  <project_group lang="pt_BR">GNOME</project_group>
+  <project_group lang="pl">GNOME</project_group>
+  <project_group lang="nl">Gnome</project_group>
+  <project_group lang="lt">GNOME</project_group>
+  <project_group lang="ko">그놈</project_group>
+  <project_group lang="id">GNOME</project_group>
+  <project_group lang="hu">GNOME</project_group>
+  <project_group lang="hr">GNOME</project_group>
+  <project_group lang="fi">GNOME</project_group>
+  <project_group lang="eu">GNOME</project_group>
+  <project_group lang="es">GNOME</project_group>
+  <project_group lang="de">GNOME</project_group>
+  <project_group lang="da">GNOME</project_group>
+  <project_group lang="cs">GNOME</project_group>
+  <translation type="gettext">gucharmap</translation>
+  <translation lang="uk">gucharmap</translation>
+  <translation lang="tr">gucharmap</translation>
+  <translation lang="sv">gucharmap</translation>
+  <translation lang="sr">таблица знакова</translation>
+  <translation lang="sk">gucharmap</translation>
+  <translation lang="ru">gucharmap</translation>
+  <translation lang="ro">gucharmap</translation>
+  <translation lang="pt_BR">gucharmap</translation>
+  <translation lang="pl">gucharmap</translation>
+  <translation lang="nl">gucharmap</translation>
+  <translation lang="lt">gucharmap</translation>
+  <translation lang="ko">gucharmap</translation>
+  <translation lang="id">gucharmap</translation>
+  <translation lang="hu">gucharmap</translation>
+  <translation lang="hr">gucharmap</translation>
+  <translation lang="fi">gucharmap</translation>
+  <translation lang="eu">gucharmap</translation>
+  <translation lang="es">gucharmap</translation>
+  <translation lang="en_CA">gucharmap</translation>
+  <translation lang="de">gucharmap</translation>
+  <translation lang="da">gucharmap</translation>
+</component>

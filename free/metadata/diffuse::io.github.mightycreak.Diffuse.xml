@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>diffuse</pkgname>
+  <icon width="64" type="cached" height="64">io.github.mightycreak.Diffuse.png</icon>
+  <icon height="128" width="128" type="cached">io.github.mightycreak.Diffuse.png</icon>
+  <id>io.github.mightycreak.Diffuse</id>
+  <name>Diffuse</name>
+  <name lang="pt_BR">Diffuse</name>
+  <name lang="fr">Diffuse</name>
+  <summary>Graphical tool for merging and comparing text files</summary>
+  <summary lang="zh_TW">比較與合併文字檔案的圖形化工具</summary>
+  <summary lang="zh_CN">图形化的比较和合并文本文件的工具</summary>
+  <summary lang="th">เครื่องมือแบบกราฟิกสำหรับเปรียบเทียบและผสานแฟ้มข้อความ</summary>
+  <summary lang="sv">Grafiskt verktyg för jämförelse och sammanfogning av textfiler</summary>
+  <summary lang="ru">Графический инструмент для слияния и сравнения текстовых файлов</summary>
+  <summary lang="pt_BR">Ferramenta gráfica para unificar e comparar arquivos de texto</summary>
+  <summary lang="pt">Ferramenta gráfica para unir e comparar ficheiros de texto</summary>
+  <summary lang="pl">Graficzne narzędzie do łączenia i porównywania plików tekstowych</summary>
+  <summary lang="ko">텍스트 파일을 병합하고 비교하기위한 도구</summary>
+  <summary lang="ja">テキストファイルをマージして比較するためのグラフィックツール</summary>
+  <summary lang="it">Strumento grafico per l'unione e il confronto di file</summary>
+  <summary lang="fr">Outil graphique pour fusionner et comparer des fichiers texte</summary>
+  <summary lang="es">Un utillaje para juntar y comparar archivos de texto</summary>
+  <summary lang="de">Werkzeug zum Mischen und Vergleichen von Textdateien</summary>
+  <summary lang="cs">Grafický nástroj pro slučování a porovnávání textových souborů</summary>
+  <description>
+    <p>
+      Diffuse is a graphical tool for comparing and merging text files. It can retrieve files for comparison from Bazaar, CVS, Darcs, Git, Mercurial, Monotone, RCS, Subversion, and SVK repositories.
+    </p>
+  </description>
+  <description lang="fr">
+    <p>Diffuse est un outil graphique pour comparer et fusionner des fichiers textes. Il peut récupérer et comparer les fichiers à partir de dépôts Bazaar, CVS, Darcs, Git, Mercurial, Monotone, RCS, Subversion, et SVK.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>O Diffuse é uma ferramenta gráfica para unificar e comparar arquivos de texto. Também pode obter revisões para comparar arquivos de repositórios Bazaar, CVS, Darcs, Git, Mercurial, Monotone, RCS. </p>
+  </description>
+  <metadata_license>FSFAP</metadata_license>
+  <project_license>GPL-2.0-or-later</project_license>
+  <content_rating type="oars-1.1" />
+  <launchable type="desktop-id">io.github.mightycreak.Diffuse.desktop</launchable>
+  <url type="homepage">https://mightycreak.github.io/diffuse/</url>
+  <url type="bugtracker">https://github.com/MightyCreak/diffuse/issues</url>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Main window: diff between two files</caption>
+      <caption lang="pt_BR">Janela principal: diff entre dois arquivos</caption>
+      <caption lang="fr">Fenêtre principale: diff entre deux fichiers</caption>
+      <image>https://mightycreak.github.io/diffuse/images/screenshot_v0.7.0.png</image>
+    </screenshot>
+  </screenshots>
+  <!-- Translators: no need to translate after this comment -->
+  <developer_name>Romain Failliot</developer_name>
+  <update_contact>romain.failliot@foolstep.com</update_contact>
+  <releases>
+    <release version="0.7.5" date="2022-04-15">
+      <description>
+        <p>
+          Crashfix and French translation.
+        </p>
+        <p>Added:</p>
+        <ul>
+          <li>Documentation: added release process instructions</li>
+          <li>Translation: added French translation</li>
+        </ul>
+        <p>Fixed:</p>
+        <ul>
+          <li>Fixed #156: Preferences cannot be saved in latest release</li>
+          <li>Cleanups: use constructors instead of `new()` whenever possible in GTK classes</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.7.4" date="2022-04-03">
+      <description>
+        <p>
+          Mainly a maintenance release. It does increase the GNOME SDK's version.
+        </p>
+        <p>Added:</p>
+        <ul>
+          <li>Added a `--remove-obsolete` option for the update-translation.py script</li>
+          <li>Added links to VCSs in README.md</li>
+          <li>New keyword in config file: "option"</li>
+          <li>Added instructions to install and run from a custom directory</li>
+        </ul>
+        <p>Changed:</p>
+        <ul>
+          <li>Updated the translation files</li>
+          <li>Renamed POTFILES.in to POTFILES</li>
+          <li>Renamed io.github.mightycreak.Diffuse.metadata.xml.in to io.github.mightycreak.Diffuse.appdata.xml.in</li>
+          <li>Leaner README.md</li>
+          <li>Moved the documentation to docs/</li>
+          <li>In the CI, call the linters on the installed directory</li>
+          <li>Renamed application name from "Diffuse Merge Tool" to "Diffuse"</li>
+          <li>Linters can be run sooner (before installation)</li>
+          <li>Better messages when an error occurs while parsing the config file</li>
+          <li>Start converting the code to static types</li>
+          <li>Add more information about the dependencies in the documentation</li>
+          <li>Upgrade Flatpak GNOME's runtime to 42</li>
+        </ul>
+        <p>Fixed:</p>
+        <ul>
+          <li>>Removed the lasting lint errors (i.e. in main.py)</li>
+          <li>>Fix Flatpak runtime version in documentation</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.7.3" date="2021-11-22">
+      <description>
+        <p>
+          Patch release that introduces linters (flake8 and mypy).
+        </p>
+        <p>Added:</p>
+        <ul>
+          <li>Added linters (flake8 and mypy) and fixed some errors</li>
+          <li>Added lint jobs for both in the CI</li>
+          <li>Added a flatpak job in the CI</li>
+        </ul>
+        <p>Changed:</p>
+        <ul>
+          <li>main.py slimmed down by about 5000 lines</li>
+          <li>The new widgets.py is a bit fat though (~4000 lines)</li>
+          <li>Updated the translation files</li>
+        </ul>
+        <p>Fixed:</p>
+        <ul>
+          <li>
+            The intense code cleaning seems to have fixed a bug with the `-c` argument (#120)
+          </li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.7.2" date="2021-11-18">
+      <description>
+        <p>
+          Patch release that fixes an error about APP_NAME and the Brazilian translation.
+        </p>
+        <p>Added:</p>
+        <ul>
+          <li>
+            New options: log_print_output and log_print_stack, to print the log
+            messages on the output and code stack
+          </li>
+          <li>
+            New log function: utils.logErrorAndDialog, to both log and show a
+            dialog message
+          </li>
+        </ul>
+        <p>Changed:</p>
+        <ul>
+          <li>Modularized the VCSs (reducing main.py by around 1300 lines)</li>
+          <li>Bump GNOME runtime version from 3.38 to 41</li>
+        </ul>
+        <p>Fixed:</p>
+        <ul>
+          <li>Fixed 'APP_NAME' error when opening non existing file</li>
+          <li>Fixed the Portuguese Brazilian (pt_BR) translation</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.7.1" date="2021-11-17">
+      <description>
+        <p>
+          Patch release to fix a bug when using the Flatpak package.
+        </p>
+        <p>Fixed:</p>
+        <ul>
+          <li>
+            Fixed a Flatpak bug where the app couldn't call binaries on the
+            host, such as `git`, `svn`, etc.
+          </li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.7.0" date="2021-11-16">
+      <description>
+        <p>
+          With this release, the main end-user change is the new icon. The rest
+          is mainly maintenance improvements with a much more standard folder
+          structure and starting to modularize the code. This is an ongoing
+          effort as there is still a lot to do, but hopefully this would
+          motivate some to contribute ;)
+        </p>
+        <p>
+          An important note though: the application ID has changed and is now
+          io.github.mightycreak.Diffuse.
+        </p>
+        <p>Added:</p>
+        <ul>
+          <li>New icon and in SVG now</li>
+          <li>Started to modularize the code</li>
+        </ul>
+        <p>Changed:</p>
+        <ul>
+          <li>
+            Changed AppID to io.github.mightycreak.Diffuse (as advised in the
+            Flatpak documentation)
+          </li>
+          <li>Renamed directory `translations/` to `po/`</li>
+          <li>Now uses POTFILES.in to list the files to translate</li>
+          <li>
+            Translation strings are no longer sorted alphabetically, this will
+            help when there will be several files in POTFILES.in
+          </li>
+          <li>Updated the documentation and script in the `po/` directory</li>
+          <li>Add .desktop translations in .po files</li>
+        </ul>
+        <p>Fixed:</p>
+        <ul>
+          <li>Fixed some GTK deprecation warnings</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-11-29" version="0.6.0">
+      <description>
+        <p>
+          Mainly under the hood changes in this release, so nothing really
+          visible to the users in this version. That said, I figured it was a
+          long time since the last release (4 months ago) and, as promised, I
+          want Diffuse development to be a bit more active and iterative.
+        </p>
+        <p>
+          Apart from the maintenance changes 🧰, I think the main improvement
+          is that Diffuse will soon be available through Flathub!
+        </p>
+        <p>Added:</p>
+        <ul>
+          <li>New Flatpak package, published on Flathub: com.github.mightycreak.Diffuse</li>
+        </ul>
+        <p>Changed:</p>
+        <ul>
+          <li>Replace old install.py with the more standard Meson</li>
+          <li>Remove u string prefixes since Python 3 is in UTF-8 by default</li>
+          <li>Replaced some interpolation operators (%) for the f string prefix</li>
+          <li>Use the window scale factor for the icons generation</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.5.0" date="2020-07-18">
+      <description>
+        <p>
+          Here is the v0.5.0. Unintentionally, this release happens exactly 6
+          years after the previous v0.4.8 release!
+        </p>
+        <p>
+          There is a lot to do on this application, and some features didn't
+          make the release. The main one being the Windows installers. I think
+          6 years is too long to continue to wait until this bug is fixed. The
+          Python scripts should work on Windows, but no executable is produced
+          (yet) with the release.
+        </p>
+        <p>
+          Other than that, Diffuse v0.5.0 is now officially compatible with
+          Python 3 and GTK 3! And it is synced to the latest commits from
+          upstream (which were never released).
+        </p>
+        <p>
+          The next version will not take 6 years, I promise you! 😄
+        </p>
+        <p>Added:</p>
+        <ul>
+          <li>Added Pedro Albuquerque's Portuguese translation</li>
+          <li>Added Åke Engelbrektson's Swedish translation</li>
+          <li>Added Guillaume Hoffmann's Darcs support improvements</li>
+          <li>Added Akom Chotiphantawanon's Thai translation</li>
+          <li>Added support for Git submodules</li>
+          <li>Added a preference and command line option to specify the version control system search order</li>
+          <li>Added .editorconfig file</li>
+          <li>Added .gitignore file</li>
+          <li>Added message when removing files during uninstallation</li>
+          <li>Added Python script to update all the translation files at once</li>
+        </ul>
+        <p>Changed:</p>
+        <ul>
+          <li>Convert to Python 3</li>
+          <li>Convert to GTK 3</li>
+          <li>Updated Python highlighting for Python 3 grammar</li>
+          <li>Updated copyrights years and authors</li>
+          <li>Improve Spanish translation</li>
+          <li>Convert translation README to MarkDown</li>
+          <li>Updated all the translation files</li>
+        </ul>
+        <p>Fixed:</p>
+        <ul>
+          <li>Fixed wrong icons directory for gtk-update-icon-cache</li>
+          <li>Fixed missing directories when uninstalling</li>
+          <li>Fixed bug introduced by r420 with RCS VCS</li>
+          <li>Fixed broken drag'n'drop since migration to Python3/GTK3</li>
+          <li>Fixed error when using '-m' in an SVN repo</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+</component>

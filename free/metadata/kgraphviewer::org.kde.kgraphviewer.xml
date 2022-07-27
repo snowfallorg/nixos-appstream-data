@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>
+      KGraphViewer is a Graphviz DOT graph file viewer, aimed to replace the other outdated Graphviz tools.
+      Graphs are commonly used in scientific domains and particularly in computer science.
+    </p>
+    <p>Features:</p>
+    <ul>
+      <li>Zooming</li>
+      <li>Threaded loading of several graphs in tabs</li>
+      <li>Saving of the recent files list</li>
+      <li>Manual reload of files</li>
+      <li>Display of a bird-eye view of the graph</li>
+      <li>Moving of the graph by dragging</li>
+      <li>Full featured printing</li>
+      <li>Perfect drawing of all graphviz example graphs</li>
+      <li>Automatically choose dot for directed graphs and neato for undirected</li>
+      <li>Possibility to use an arbitrary layout algorithm as soon as it produces xdot format</li>
+      <li>Automatic reloading with user confirmation of (externally) modified files (configurable)</li>
+      <li>Open new instances as new tabs in the old one (configurable)</li>
+    </ul>
+  </description>
+  <description lang="ast">
+    <p>Carauterístiques:</p>
+  </description>
+  <description lang="bs">
+    <p>Svojstva:</p>
+    <ul>
+      <li>Zumiranje</li>
+      <li>Učitavanje preko niti nekih grafova u karticama</li>
+      <li>Snimanje nedavne liste fajlova</li>
+      <li>Ručno nadopunjavanje fajlova</li>
+      <li>Prikaz iz ptičije perspektive grafa</li>
+      <li>Pomjeranje grafa povlačenjem</li>
+      <li>Cijelo istaknuto printanje</li>
+      <li>Perfektno crtanje svih graphviz-ovih primjera grafa</li>
+      <li>Automatski odabir za tačku za usmjerene grafove i neato za neusmjerene</li>
+      <li>Mogućnost korištenja proizvoljnog rasporeda algoritma dokle god proizvodi xdot format</li>
+      <li>Automatsko ponovno učitavanje potvrdom korisnika o (izvana) modificiranim datotekama (podesivo)</li>
+      <li>Otvori nove kopije kao nove kartice u starom (podesivo)</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>El KGraphViewer és un visor de fitxers gràfics DOT del Graphviz, destinat a substituir les altres eines obsoletes del Graphviz. Els gràfics normalment s'utilitzen en dominis científics i particularment en informàtica.</p>
+    <p>Característiques:</p>
+    <ul>
+      <li>Zoom</li>
+      <li>Càrrega per subprocessos de diversos gràfics en pestanyes</li>
+      <li>Desament de la llista de fitxers recents</li>
+      <li>Recàrrega manual de fitxers</li>
+      <li>Representació de vista d'ocell del gràfic</li>
+      <li>Moviment del gràfic en arrossegar</li>
+      <li>Impressió amb totes les funcionalitats</li>
+      <li>Dibuixat perfecte de tots els gràfics d'exemple del «graphviz»</li>
+      <li>Selecció automàtica de «dot» pels gràfics dirigits i «neato» pels no dirigits</li>
+      <li>Possibilitat d'utilitzar un algorisme de disposició arbitrari si produeix un format «xdot»</li>
+      <li>Recàrrega automàtica amb confirmació d'usuari de fitxers (externament) modificats (configurable)</li>
+      <li>Obre noves instàncies com a pestanyes noves en l'antiga (configurable)</li>
+    </ul>
+  </description>
+  <description lang="ca-valencia">
+    <p>El KGraphViewer és un visor de fitxers gràfics DOT del Graphviz, destinat a substituir les altres eines obsoletes del Graphviz. Els gràfics normalment s'utilitzen en dominis científics i particularment en informàtica.</p>
+    <p>Característiques:</p>
+    <ul>
+      <li>Zoom</li>
+      <li>Càrrega per subprocessos de diversos gràfics en pestanyes</li>
+      <li>Desament de la llista de fitxers recents</li>
+      <li>Recàrrega manual de fitxers</li>
+      <li>Representació de vista d'ocell del gràfic</li>
+      <li>Moviment del gràfic en arrossegar</li>
+      <li>Impressió amb totes les funcionalitats</li>
+      <li>Dibuixat perfecte de tots els gràfics d'exemple del «graphviz»</li>
+      <li>Selecció automàtica de «dot» pels gràfics dirigits i «neato» pels no dirigits</li>
+      <li>Possibilitat d'utilitzar un algorisme de disposició arbitrari si produeix un format «xdot»</li>
+      <li>Recàrrega automàtica amb confirmació d'usuari de fitxers (externament) modificats (configurable)</li>
+      <li>Obri noves instàncies com a pestanyes noves en l'antiga (configurable)</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>Vlastnosti:</p>
+    <ul>
+      <li>Zvětšování</li>
+    </ul>
+  </description>
+  <description lang="da">
+    <p>Funktioner:</p>
+    <ul>
+      <li>Zoom</li>
+      <li>Trådet indlæsning af flere grafer i faneblade</li>
+      <li>Gemning af liste over nylige filer</li>
+      <li>Manuel genindlæsning af filer</li>
+      <li>Viser grafen i fugleperspektiv</li>
+      <li>Flytning af grafen ved at trække i den</li>
+      <li>Udskrift med fuld funktionalitet</li>
+      <li>Perfekt tegning af alle graphviz-eksempelgrafer</li>
+      <li>Vælg automatisk dot for dirigerede grafer og neato for ikke-dirigerede</li>
+      <li>Mulighed for at bruge en vilkårlig layout-algoritme når bare den producerer xdot-format</li>
+      <li>Automatisk genindlæsning med brugerbekræftelse af (eksternt) ændrede filer (konfigurerbart)</li>
+      <li>Åbn nye instanser som nye faneblade i det gamle (konfigurerbart)</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>KGraphViewer ist Anzeigeprogramm für Graphviz-Dot-Diagrammdateien und soll die anderen veralteten Graphviz-Programme ersetzen. Graphen werden in der Wissenschaft, insbesondere in der Informatik, verwendet.</p>
+    <p>Funktionen:</p>
+    <ul>
+      <li>Größenänderung der Ansichten</li>
+      <li>Gleichzeitiges Laden mehrerer Graphen in Unterfenstern</li>
+      <li>Speicherung der Liste der zuletzt geöffneten Dateien</li>
+      <li>Manuelles neu laden von Dateien</li>
+      <li>Anzeige eines Übersichtsfenster für den Graphen</li>
+      <li>Verschieben des Graphen durch ziehen</li>
+      <li>Drucken mit vielen Optionen</li>
+      <li>perfekte Darstellung aller Graphviz-Beispieldiagramme</li>
+      <li>Automatische Wahl von „dot“ für gerichtete und „neato“ für ungerichtete Graphen</li>
+      <li>Es kann ein beliebiger Layout-Algorithmus verwendet werden, sofern die Ausgabe im Format „xdot“ möglich ist.</li>
+      <li>Erneutes Laden von (extern) geänderten Dateien - automatisch mit Bestätigung durch den Benutzer (einstellbar)</li>
+      <li>Öffnen neuer Instanzen als Unterfenster im aktuellen Unterfenster (einstellbar)</li>
+    </ul>
+  </description>
+  <description lang="el">
+    <p>Ο KGraphViewer είναι ένας προβολέας Graphviz DOT αρχείων γράφων, που έχει στόχο να αντικαταστήσει παλαιωμένα Graphviz εργαλεία. Οι γράφοι είναι συνήθως χρήσιμοι στα επιστημονικά πεδία και ειδικότερα στην πληροφορική.</p>
+    <p>Χαρακτηριστικά:</p>
+    <ul>
+      <li>Μεταβολή εστιακής απόστασης</li>
+      <li>Νηματική φόρτωση πολλών γράφων σε καρτέλες</li>
+      <li>Αποθήκευση της πρόσφατης λίστας αρχείων</li>
+      <li>Χειροκίνητη επαναφόρτωση αρχείων</li>
+      <li>Εμφάνιση πανοραμικής όψης του γράφου</li>
+      <li>Μετακίνηση του γράφου με έλκυση</li>
+      <li>Εκτύπωση με πλήρη χαρακτηριστικά</li>
+      <li>Τέλεια σχεδίαση όλων των graphviz δειγμάτων γράφων</li>
+      <li>Αυτόματη επιλογή dot για κατευθυνόμενους γράφους και neato για μη κατευθυνόμενους</li>
+      <li>Δυνατότητα χρήσης αλγορίθμου αυθαίρετης διατάξης με την παραγωγή αρχείου xdot</li>
+      <li>Αυτόματη επαναφόρτωση με επιβεβαίωση από το χρήστη των (εξωτερικά) τροποιοιημένων αρχείων (διαμορφώσιμο)</li>
+      <li>Άνοιγμα νέων διεργασιών σε νέες καρτέλες της παλιάς διεργασίας (διαμορφώσιμο)</li>
+    </ul>
+  </description>
+  <description lang="en-GB">
+    <p>KGraphViewer is a Graphviz DOT graph file viewer, aimed to replace the other outdated Graphviz tools. Graphs are commonly used in scientific domains and particularly in computer science.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Zooming</li>
+      <li>Threaded loading of several graphs in tabs</li>
+      <li>Saving of the recent files list</li>
+      <li>Manual reload of files</li>
+      <li>Display of a bird-eye view of the graph</li>
+      <li>Moving of the graph by dragging</li>
+      <li>Full featured printing</li>
+      <li>Perfect drawing of all graphviz example graphs</li>
+      <li>Automatically choose dot for directed graphs and neato for undirected</li>
+      <li>Possibility to use an arbitrary layout algorithm as soon as it produces xdot format</li>
+      <li>Automatic reloading with user confirmation of (externally) modified files (configurable)</li>
+      <li>Open new instances as new tabs in the old one (configurable)</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>KGraphViewer es un visor de archivos de grafos DOT de Graphviz, que aspira a sustituir a otras herramientas obsoletas de Graphviz. Los grafos se usan a menudo en el campo científico y, particularmente, en la informática.</p>
+    <p>Funciones:</p>
+    <ul>
+      <li>Ampliación</li>
+      <li>Carga multihilo de varios grafos en pestañas</li>
+      <li>Lista de los últimos archivos usados</li>
+      <li>Volver a cargar archivos de forma manual</li>
+      <li>Visualización del grafo a vista de pájaro</li>
+      <li>Arrastrar y mover el grafo</li>
+      <li>Impresión de completas prestaciones</li>
+      <li>Trazado perfecto de todos los grafos de ejemplo de Graphviz</li>
+      <li>Selección automática de «dot» para los grafos dirigidos y de «neato» para los no dirigidos</li>
+      <li>Posibilidad de usar un algoritmo de disposición aleatorio en cuanto se genere un formato «xdot»</li>
+      <li>Volver a cargar automáticamente con confirmación de usuario de archivos modificados externamente (configurable)</li>
+      <li>Apertura de nuevas instancias como nuevas pestañas en la anterior (configurable)</li>
+    </ul>
+  </description>
+  <description lang="et">
+    <p>Omadused:</p>
+    <ul>
+      <li>Suurendamine ja vähendamine</li>
+      <li>Mitme graafi laadimine ühel ajal erinevatel kaartidel</li>
+      <li>Viimati kasutatud failide nimekirja salvestamine</li>
+      <li>Failide käsitsi taaslaadimine</li>
+      <li>Graafi ülevaate näitamine</li>
+      <li>Graafi liigutamine lohistades</li>
+      <li>Täielik trükkimise toetus</li>
+      <li>Kõigi GraphVizi näidisgraafide täiuslik esitamine</li>
+      <li>Automaatne doti valimine orienteeritud ja neato valimine orienteerimata graafide jaoks </li>
+      <li>Võimalus kasutada suvalist paigutusalgoritmi, kui see vaid tagab xdot-vormingu</li>
+      <li>Muudetud failide automaatne taaslaadimine kasutaja kinnitust küsides (see on seadistatav)</li>
+      <li>Rakenduse uute protsesside avamine olemasoleva protsessi raames uutel kaartidel (see on seadistatav)</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>Ominaisuudet:</p>
+    <ul>
+      <li>Suurennus</li>
+      <li>Useamman graafin säikeistetty lataus välilehtiin</li>
+      <li>Viimeaikaisten tiedostojen luettelon tallennus</li>
+      <li>Tiedostojen uudelleenlataus käsin</li>
+      <li>Graafin näyttö lintuperspektiivissä</li>
+      <li>Graafin siirto vetämällä</li>
+      <li>Tulostus kaikilla ominaisuuksilla</li>
+      <li>Kaikkien graphviz-esimerkkigraafien täydellinen piirto</li>
+      <li>Valitse dot automaattisesti suunnatuille graafeille ja neato suuntaamattomille</li>
+      <li>Mahdollisuus käyttää mitä tahansa asettelualgoritmia, kunhan se tuottaa xdot-muotoa</li>
+      <li>Automaattinen uudelleenlataus mutta käyttäjä vahvistaa (ulkoisesti) muuttuneet tiedostot (mukautettavissa)</li>
+      <li>Avaa uudet instanssit uusiksi välilehdiksi vanhaan instanssiin (mukautettavissa)</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>KGraphViewer est un afficheur de fichiers de graphes DOT au format Graphviz, prévu pour remplacer les autres outils Graphviz maintenant obsolètes. Les graphes sont utilisés couramment dans les domaines scientifiques, et en particulier en informatique.</p>
+    <p>Fonctionnalités :</p>
+    <ul>
+      <li>Zoom</li>
+      <li>Chargement en parallèle de plusieurs graphes dans des onglets</li>
+      <li>Enregistrement de la liste des fichiers récemment ouverts</li>
+      <li>Rechargement manuel des fichiers</li>
+      <li>Affichage de la totalité du graphe</li>
+      <li>Déplacement du graphe par glissement</li>
+      <li>Système d'impression complet</li>
+      <li>Rendu parfait de tous les exemples de graphes Graphviz</li>
+      <li>Choisir automatiquement dot pour les graphes orientés et neato pour les graphes non-orientés</li>
+      <li>Possibilité d'utiliser un algorithme de disposition arbitraire du moment qu'il produit le format xdot</li>
+      <li>Rechargement automatique (configurable) de fichiers modifiés (extérieurement) avec confirmation de l'utilisateur </li>
+      <li>Ouvrir les nouvelles instances dans de nouveaux onglets (configurable)</li>
+    </ul>
+  </description>
+  <description lang="gl">
+    <p>KGraphViewer é un visor de gráficos DOT de Graphviz que pretende substituír o resto de ferramentas obsoletas de Graphviz. Os gráficos adoitan usarse en contextos científicos e, especialmente, na enxeñaría informática.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Ampliación.</li>
+      <li>Cargar varios gráficos en lapelas usando fíos.</li>
+      <li>Gardar a lista de ficheiros recentes.</li>
+      <li>Cargar ficheiros de novo manualmente.</li>
+      <li>Mostrar unha vista de paxaro dos gráficos.</li>
+      <li>Usar arrastrar e soltar para mover os gráficos.</li>
+      <li>Todo tipo de funcionalidades de impresión.</li>
+      <li>Debuxa perfectamente todos os gráficos de exemplo de Graphviz.</li>
+      <li>Escolle automaticamente dot para os gráficos dirixidos e neato para os gráficos non dirixidos.</li>
+      <li>Permite usar un algoritmo de disposición arbitraria en canto produce o formato xdot.</li>
+      <li>Permite cargar de novo automaticamente, previa confirmación por parte do usuario, ficheiros modificador de maneira externa.</li>
+      <li>Permite abrir novas instancias como lapelas da instancia anterior.</li>
+    </ul>
+  </description>
+  <description lang="hu">
+    <p>Szolgáltatások:</p>
+    <ul>
+      <li>Nagyítás</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>KGraphViewer è un visore di file di grafi DOT, progettato per sostituire i più datati altri strumenti per Graphviz. I grafi sono spesso usati in ambito scientifico, soprattutto in informatica.</p>
+    <p>Caratteristiche:</p>
+    <ul>
+      <li>Ingrandimento</li>
+      <li>Caricamento simultaneo con thread di diversi grafi tempo in schede</li>
+      <li>Memorizzazione di un elenco di file recenti</li>
+      <li>Ricaricamento manuale dei file</li>
+      <li>Vista a volo d'aquila del grafo</li>
+      <li>Spostamento del grafo con trascinamento</li>
+      <li>Stampa con ogni funzionalità</li>
+      <li>Tracciamento perfetto di tutti i grafi d'esempio di graphviz</li>
+      <li>Scelta automatica di dot per i grafi orientati e neato per i non orientati</li>
+      <li>Possibilità di usare un qualsiasi algoritmo di disposizione che produca il formato xdot</li>
+      <li>Ricaricamento automatico con conferma dell'utente dei file modificati da altri programmi (configurabile)</li>
+      <li>Apertura di nuove istanze come nuove schede della preesistente (configurabile)</li>
+    </ul>
+  </description>
+  <description lang="ko">
+    <p>기능:</p>
+    <ul>
+      <li>확대 및 축소</li>
+      <li>여러 그래프를 탭으로 동시에 불러오기</li>
+      <li>최근 파일 목록 관리</li>
+      <li>수동으로 파일 새로 고침</li>
+      <li>그래프 멀리 보기 기능</li>
+      <li>드래그로 그래프 이동</li>
+      <li>다양한 옵션이 있는 인쇄</li>
+      <li>모든 GraphViz 예제 그래프 렌더링 가능</li>
+      <li>그래프의 방향성에 따른 dot/neato 자동 선택</li>
+      <li>xdot 형식으로 변환한 이후 임의의 레이아웃 알고리즘 선택 가능</li>
+      <li>외부에서 수정된 파일을 사용자 확인 하에 자동으로 불러오기(설정 가능)</li>
+      <li>새 인스턴스를 탭으로 열기(설정 가능)</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>KGraphViewer is een viewer voor DOT-grafiekbestanden van Graphviz, bedoelt om de andere verouderde hulpmiddelen voor GraphViz te vervangen. Grafieken worden algemeen gebruikt in het wetenschappelijke domein en speciaal in de computerwetenschap.</p>
+    <p>Mogelijkheden:</p>
+    <ul>
+      <li>Zoomen</li>
+      <li>Parallel laden (threads) van verschillende grafieken in tabbladen</li>
+      <li>De lijst van recente bestanden opslaan</li>
+      <li>Handmatig opnieuw laden van bestanden</li>
+      <li>Een vogelvlucht weergave van een grafiek tonen</li>
+      <li>De grafiek verplaatsen door slepen</li>
+      <li>Afdrukken met alle mogelijkheden</li>
+      <li>Perfect tekenen van alle graphviz voorbeeldgrafieken</li>
+      <li>Automatisch kiezen van commando dot voor gerichte grafieken en neato voor niet gerichte</li>
+      <li>Mogelijkheid om een willekeurig algoritme voor de opmaak te gebruiken wanneer het xdot-formaat produceert</li>
+      <li>Automatisch opnieuw laden met toestemming van de gebruiker van (extern) gewijzigde bestanden (te configureren)</li>
+      <li>Nieuwe exemplaren als nieuwe tabbladden openen in de oude (te configureren)</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <p>KGraphViewer jest przeglądarką plików Graphviz DOT graph, opracowaną w celu zastąpienia innych przestarzałych narzędzi Graphviz. Grafy są powszechnie używane w obszarach nauki, a w szczególności w obszarze nauki związanej z komputerami.</p>
+    <p>Cechy:</p>
+    <ul>
+      <li>Powiększanie</li>
+      <li>Wczytywanie w wątkach kilku grafów w kartach</li>
+      <li>Zachowywanie spisu ostatnio otwieranych plików</li>
+      <li>Ręczne wczytywanie plików</li>
+      <li>Przedstawianie grafu w widoku ptasiego oka</li>
+      <li>Przesuwanie grafu poprzez przeciąganie</li>
+      <li>Pełnowartościowe drukowanie</li>
+      <li>Perfekcyjne rysowanie wszystkich grafów przykładowych graphviz</li>
+      <li>Samoczynne wybranie dot dla skierowanych grafów i neato dla nieskierowanych</li>
+      <li>Możliwość użycia dowolnego algorytmu układu już od chwili utworzenia formatu xdot</li>
+      <li>Samoczynne ponowne wczytywanie przy zgodzie użytkownika (zewnętrznie) zmienionych plików (do ustawieni)</li>
+      <li>Otwieranie nowych wystąpień jako nowe karty w starym wystąpieniu (do ustawienia)</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>O KGraphViewer é um visualizador de ficheiros de grafos DOT do Graphviz, destinado a substituir as outras ferramentas desactualizadas do GraphViz. Os grafos são usados normalmente nos domínios científicos e, em particular, na informática.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Ampliação</li>
+      <li>Carregamento multi-tarefa de diversos grafos em páginas</li>
+      <li>Gravação da lista de ficheiros recentes</li>
+      <li>Recarregamento manual dos ficheiros</li>
+      <li>Apresentação de uma visão geral do grafo</li>
+      <li>Movimentação do grafo por arrastamento</li>
+      <li>Impressão com diversas funcionalidades</li>
+      <li>Desenho perfeito de todos os grafos de exemplo do 'graphviz'</li>
+      <li>Escolha automática do 'dot' para grafos direccionados e do 'neato' para os não-direccionados</li>
+      <li>Possibilidade de utilização de um algoritmo de disposição arbitrário, desde que produza o formato 'xdot'</li>
+      <li>Recarregamento automático com a confirmação do utilizador dos ficheiros modificados no exterior (configurável)</li>
+      <li>Abertura de novas instâncias como páginas novas da janela actual (configurável)</li>
+    </ul>
+  </description>
+  <description lang="pt-BR">
+    <p>KGraphViewer é um visualizador de arquivos de grafos DOT do Graphviz, com objetivo de substituir as outras ferramentas desatualizadas do Graphviz. Os grafos são normalmente usados em domínios científicos e, em particular, na ciência da computação.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Ampliação</li>
+      <li>Carregamento multitarefa de diversos grafos em abas</li>
+      <li>Gravação da lista de arquivos recentes</li>
+      <li>Recarregamento manual dos arquivos</li>
+      <li>Apresentação de uma visão geral do grafo</li>
+      <li>Movimentação do grafo por arrastamento</li>
+      <li>Impressão com todas as funcionalidades</li>
+      <li>Desenho perfeito de todos os grafos de exemplo do 'graphviz'</li>
+      <li>Escolha automática do 'dot' para grafos direcionados e do 'neato' para os não-direcionados</li>
+      <li>Possibilidade de usar um algoritmo de layout arbitrário, desde que produza o formato 'xdot'</li>
+      <li>Carregamento automático, com confirmação do usuário, dos arquivos modificados externamente (configurável)</li>
+      <li>Abertura de novas instâncias como novas abas da janela atual (configurável)</li>
+    </ul>
+  </description>
+  <description lang="sk">
+    <p>Funkcie:</p>
+    <ul>
+      <li>Priblíženie</li>
+      <li>Vláknové načítavanie niekoľkých grafov v kartách</li>
+      <li>Ukladanie zoznamu nedávnych súborov</li>
+      <li>Ručné znovunačítanie súborov</li>
+      <li>Zobrazenie vtáčej perspektívy grafu</li>
+      <li>Presun grafov posunom</li>
+      <li>Plne funkčná tlač</li>
+      <li>Výborné kreslenie všetkých ukážkových grafov graphviz</li>
+      <li>Automaticky vybrať bot pre riadený graf a neato pre neriadený</li>
+      <li>Možnosť použitia ľubovoľného algoritmu rozloženia, ak generuje formát xdot</li>
+      <li>Automatické znovunačítanie s potvrdením používateľa (externe) zmení súbory (nastaviteľné)</li>
+      <li>Otvoriť novú inštancie ako nové karty v starej (nastaviteľné)</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <p>Kgraphviewer är ett visningsprogram av Graphviz dot-grafer, med målet att ersätta övriga föråldrade Graphviz-verktyg. Användning av grafer är vanligt i vetenskapliga områden, i synnerhet inom datavetenskap.</p>
+    <p>Funktioner:</p>
+    <ul>
+      <li>Zoom</li>
+      <li>Trådad inläsning av flera grafer under flikar</li>
+      <li>Sparar listan med senaste filer</li>
+      <li>Manuell återinläsning av filer</li>
+      <li>Visar en översiktsbild av grafen</li>
+      <li>Flytta grafen genom att dra</li>
+      <li>Fullständig utskriftsfunktion</li>
+      <li>Perfekt uppritning av alla exempelgrafer från Graphviz</li>
+      <li>Välj automatiskt dot för riktade grafer och neato för oriktade</li>
+      <li>Möjlighet att använda en godtycklig layout-algoritm så länge den skapar xdot-format</li>
+      <li>Automatisk återinläsning med bekräftelse av användaren för (externt) ändrade filer (inställningsbart)</li>
+      <li>Öppna nya instanser som nya flikar i den befintliga (inställningsbart)</li>
+    </ul>
+  </description>
+  <description lang="tr">
+    <p>KGraphViewer bir Graphiz DOT graf dosyası görüntüleyicisidir. Zamanı dolmuş diğer GraphViz araçlarının yerini alması amaçlanmıştır. Grafikler genel olarak bilimsel alanda ve bilgisayar bilişmlerinde kullanılmaktadır.</p>
+    <p>Özellikler:</p>
+    <ul>
+      <li>Büyütme</li>
+      <li>Birden çok grafiği sekmelere yükleyebilme</li>
+      <li>Geçerli dosya listesini kaydedebilme</li>
+      <li>Dosyaların elle yeniden yüklenmesi</li>
+      <li>Grafiğin kuş bakışı görüntülenmesi</li>
+      <li>Grafiği sürükleyerek taşıyabilme</li>
+      <li>Tam özellikli yazdırma</li>
+      <li>Tüm graphviz örnek grafiklerinin mükemmel çizimi</li>
+      <li>Yönlendirilmiş grafikler için dot, yönlendirilmemişler için neato seçin</li>
+      <li>Genellikle hızlı bir biçimde xdot biçiminde üretmek için rastgele düzen algoritması kullanır</li>
+      <li>Değişiklik yapılmış(harici) dosyalarda(yapılandırılabilir), kullanıcı onaylamasıyla otomatik yeniden yükleme</li>
+      <li>Eskisi içinde(yapılandırılabilir) yeni sekmeler olarak yeni örnekler aç</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>KGraphViewer — програма для перегляду графів у форматі DOT Graphviz. Її створено як заміну застарілим інструментам для роботи з Graphviz. Графи широко використовуються у наукових дослідженнях, зокрема у комп’ютерних науках.</p>
+    <p>Можливості:</p>
+    <ul>
+      <li>Масштабування.</li>
+      <li>Завантаження декількох графів до вкладок у окремих обчислювальних потоках.</li>
+      <li>Зберігання списку нещодавно використаних файлів.</li>
+      <li>Перезавантаження файлів вручну.</li>
+      <li>Показ панелі загального вигляду графу.</li>
+      <li>Пересування графу перетягуванням.</li>
+      <li>Широкі можливості з друку.</li>
+      <li>Ідеальне креслення усіх прикладів графів graphviz.</li>
+      <li>Автоматичний вибір dot для орієнтованих графів і neato для неорієнтованих.</li>
+      <li>Можливість використання довільного алгоритму компонування, який може створювати дані у форматі xdot.</li>
+      <li>Автоматичне перезавантаження даних з підтвердженням з боку користувача для файлів, змінених сторонніми програмами (можна налаштувати).</li>
+      <li>Відкриття нових екземплярів програми у вкладках того самого вікна (можна налаштувати).</li>
+    </ul>
+  </description>
+  <description lang="x-test">
+    <p>xxKGraphViewer is a Graphviz DOT graph file viewer, aimed to replace the other outdated Graphviz tools. Graphs are commonly used in scientific domains and particularly in computer science.xx</p>
+    <p>xxFeatures:xx</p>
+    <ul>
+      <li>xxZoomingxx</li>
+      <li>xxThreaded loading of several graphs in tabsxx</li>
+      <li>xxSaving of the recent files listxx</li>
+      <li>xxManual reload of filesxx</li>
+      <li>xxDisplay of a bird-eye view of the graphxx</li>
+      <li>xxMoving of the graph by draggingxx</li>
+      <li>xxFull featured printingxx</li>
+      <li>xxPerfect drawing of all graphviz example graphsxx</li>
+      <li>xxAutomatically choose dot for directed graphs and neato for undirectedxx</li>
+      <li>xxPossibility to use an arbitrary layout algorithm as soon as it produces xdot formatxx</li>
+      <li>xxAutomatic reloading with user confirmation of (externally) modified files (configurable)xx</li>
+      <li>xxOpen new instances as new tabs in the old one (configurable)xx</li>
+    </ul>
+  </description>
+  <description lang="zh-CN">
+    <p>功能：</p>
+  </description>
+  <pkgname>kgraphviewer</pkgname>
+  <launchable type="desktop-id">org.kde.kgraphviewer.desktop</launchable>
+  <id>org.kde.kgraphviewer.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KGraphViewer</name>
+  <name lang="bs">KGraphViewer</name>
+  <name lang="ca">KGraphViewer</name>
+  <name lang="ca-valencia">KGraphViewer</name>
+  <name lang="cs">KGraphViewer</name>
+  <name lang="da">KGraphViewer</name>
+  <name lang="de">KGraphViewer</name>
+  <name lang="el">KGraphViewer</name>
+  <name lang="en-GB">KGraphViewer</name>
+  <name lang="es">KGraphViewer</name>
+  <name lang="et">KGraphViewer</name>
+  <name lang="fi">KGraphViewer</name>
+  <name lang="fr">KGraphViewer</name>
+  <name lang="gl">KGraphViewer</name>
+  <name lang="hu">KGraphViewer</name>
+  <name lang="it">KGraphViewer</name>
+  <name lang="ko">KGraphViewer</name>
+  <name lang="nl">KGraphViewer</name>
+  <name lang="pl">KGraphViewer</name>
+  <name lang="pt">KGraphViewer</name>
+  <name lang="pt-BR">KGraphViewer</name>
+  <name lang="ru">KGraphViewer</name>
+  <name lang="sk">KGraphViewer</name>
+  <name lang="sv">Kgraphviewer</name>
+  <name lang="tr">KGraphViewer</name>
+  <name lang="uk">KGraphViewer</name>
+  <name lang="x-test">xxKGraphViewerxx</name>
+  <summary>A Graphviz DOT graph viewer</summary>
+  <summary lang="ca">Un visor de gràfics DOT del Graphviz</summary>
+  <summary lang="ca-valencia">Un visor de gràfics DOT del Graphviz</summary>
+  <summary lang="cs">Prohlížeč bodových grafů Graphviz</summary>
+  <summary lang="de">Ein Anzeigeprogramm für Graphviz-Dot-Diagramme</summary>
+  <summary lang="el">Ένας προβολέας Graphviz DOT γράφων</summary>
+  <summary lang="en-GB">A Graphviz DOT graph viewer</summary>
+  <summary lang="es">Un visor de grafos DOT de Graphviz</summary>
+  <summary lang="fr">Un afficheur de graphes « DOT » au format « Graphviz »</summary>
+  <summary lang="gl">Un visor de gráficos de Graphviz DOT</summary>
+  <summary lang="it">Un visore di grafi DOT di Graphviz</summary>
+  <summary lang="nl">Een Graphviz DOT-grafiek-viewer</summary>
+  <summary lang="pl">Przeglądarka grafów Graphviz DOT</summary>
+  <summary lang="pt">Um visualizador de grafos DOT do Graphviz</summary>
+  <summary lang="pt-BR">Um visualizador de grafos DOT do Graphviz</summary>
+  <summary lang="sv">Visning av Graphviz dot-grafer</summary>
+  <summary lang="tr">Graphviz DOT graf görüntüleyici</summary>
+  <summary lang="uk">Засіб перегляду графів DOT Graphviz</summary>
+  <summary lang="x-test">xxA Graphviz DOT graph viewerxx</summary>
+  <url type="homepage">https://www.kde.org/applications/graphics/kgraphviewer/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kgraphviewer</url>
+  <url type="help">https://docs.kde.org/?application=kgraphviewer</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://cdn.kde.org/screenshots/kgraphviewer/kgraphviewer.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kgraphviewer</binary>
+  </provides>
+</component>

@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>gnome.totem</pkgname>
+  <icon height="64" width="64" type="cached">org.gnome.Totem.png</icon>
+  <icon height="128" type="cached" width="128">org.gnome.Totem.png</icon>
+  <id>org.gnome.Totem.desktop</id>
+  <name>Videos</name>
+  <name lang="zu">Amavidiyo</name>
+  <name lang="zh_TW">影片</name>
+  <name lang="zh_HK">影片</name>
+  <name lang="zh_CN">视频</name>
+  <name lang="vi">Xem phim</name>
+  <name lang="uk">Відео</name>
+  <name lang="ug">سىنلار</name>
+  <name lang="tr">Videolar</name>
+  <name lang="th">วีดิทัศน์</name>
+  <name lang="tg">Видеоҳо</name>
+  <name lang="te">వీడియోలు</name>
+  <name lang="ta">வீடியோக்கள்</name>
+  <name lang="sv">Videoklipp</name>
+  <name lang="sr@latin">Filmovi</name>
+  <name lang="sr">Филмови</name>
+  <name lang="sq">Video</name>
+  <name lang="sl">Video</name>
+  <name lang="sk">Videá</name>
+  <name lang="ru">Видео</name>
+  <name lang="ro">Videouri</name>
+  <name lang="pt_BR">Vídeos</name>
+  <name lang="pt">Vídeos</name>
+  <name lang="pl">Filmy</name>
+  <name lang="pa">ਵਿਡੀਓ</name>
+  <name lang="or">ଭିଡିଓ</name>
+  <name lang="oc">Vidèos</name>
+  <name lang="nn">Videoar</name>
+  <name lang="nl">Video’s</name>
+  <name lang="ne">भिडियो</name>
+  <name lang="nb">Filmer</name>
+  <name lang="my">ဗီဒီယိုများ</name>
+  <name lang="ms">Video</name>
+  <name lang="mr">व्हिडीओज्</name>
+  <name lang="ml">വീഡിയോകള്‍</name>
+  <name lang="mjw">Videos</name>
+  <name lang="lv">Video</name>
+  <name lang="lt">Vaizdo įrašai</name>
+  <name lang="ky">Видео</name>
+  <name lang="ko">동영상</name>
+  <name lang="kn">ವೀಡಿಯೋಗಳು</name>
+  <name lang="km">វីដេអូ</name>
+  <name lang="kk">Видеолар</name>
+  <name lang="kab">Tividyutin</name>
+  <name lang="ja">ビデオ</name>
+  <name lang="it">Video</name>
+  <name lang="is">Myndskeið</name>
+  <name lang="id">Video</name>
+  <name lang="hu">Videók</name>
+  <name lang="hr">Snimke</name>
+  <name lang="hi">वीडियो</name>
+  <name lang="he">סרטים</name>
+  <name lang="gv">Feeshanyn</name>
+  <name lang="gu">વિડીઓ</name>
+  <name lang="gl">Vídeos</name>
+  <name lang="gd">Videothan</name>
+  <name lang="ga">Físeáin</name>
+  <name lang="fur">Videos</name>
+  <name lang="fr">Vidéos</name>
+  <name lang="fi">Videot</name>
+  <name lang="fa">ویدیوها</name>
+  <name lang="eu">Bideoak</name>
+  <name lang="et">Videod</name>
+  <name lang="es">Vídeos</name>
+  <name lang="eo">Videaĵoj</name>
+  <name lang="en@shaw">𐑝𐑦𐑛𐑰𐑴𐑟</name>
+  <name lang="en_GB">Videos</name>
+  <name lang="el">Βίντεο</name>
+  <name lang="de">Videos</name>
+  <name lang="da">Videoer</name>
+  <name lang="cs">Videa</name>
+  <name lang="crh">Videolar</name>
+  <name lang="ca@valencia">Vídeos</name>
+  <name lang="ca">Vídeos</name>
+  <name lang="bs">Video</name>
+  <name lang="bn_IN">ভিডিও</name>
+  <name lang="bn">ভিডিও</name>
+  <name lang="bg">Видео клипове</name>
+  <name lang="be@latin">Videa</name>
+  <name lang="be">Відэа</name>
+  <name lang="as">ভিডিঅ'সমূহ</name>
+  <name lang="ar">فيديو</name>
+  <name lang="af">Video's</name>
+  <summary>Play movies</summary>
+  <summary lang="zh_TW">播放影片</summary>
+  <summary lang="zh_HK">播放影片</summary>
+  <summary lang="zh_CN">播放影片</summary>
+  <summary lang="vi">Phát phim</summary>
+  <summary lang="uk">Програти фільми</summary>
+  <summary lang="ug">كىنولارنى قويۇش</summary>
+  <summary lang="tr">Filmleri oynat</summary>
+  <summary lang="th">เล่นภาพยนตร์</summary>
+  <summary lang="tg">Пахши филмҳо</summary>
+  <summary lang="te">చలనచిత్రాలను ప్రదర్శించు</summary>
+  <summary lang="ta">திரைப்படங்களை இயக்குக</summary>
+  <summary lang="sv">Spela upp filmer</summary>
+  <summary lang="sr@latin">Puštajte filmove</summary>
+  <summary lang="sr">Пуштајте филмове</summary>
+  <summary lang="sl">Predvajanje posnetkov</summary>
+  <summary lang="sk">Prehráva filmy</summary>
+  <summary lang="ru">Воспроизведение фильмов</summary>
+  <summary lang="ro">Redă filme</summary>
+  <summary lang="pt_BR">Reproduza filmes</summary>
+  <summary lang="pt">Reproduzir filmes</summary>
+  <summary lang="pl">Odtwarzanie filmów</summary>
+  <summary lang="pa">ਮੂਵੀ ਚਲਾਓ</summary>
+  <summary lang="or">ଚଳଚିତ୍ର ଚଲାନ୍ତୁ</summary>
+  <summary lang="oc">Lectura de filmes</summary>
+  <summary lang="nl">Films afspelen</summary>
+  <summary lang="nb">Spill av filmer</summary>
+  <summary lang="ms">Main cereka</summary>
+  <summary lang="mr">चित्रपट चालवा</summary>
+  <summary lang="mjw">Lam-arjan kerot</summary>
+  <summary lang="lv">Atskaņot filmas</summary>
+  <summary lang="lt">Žiūrėti filmus</summary>
+  <summary lang="ko">동영상을 재생합니다</summary>
+  <summary lang="kn">ಚಲನಚಿತ್ರವನ್ನು ಚಲಾಯಿಸು</summary>
+  <summary lang="km">ចាក់ភាពយន្ត</summary>
+  <summary lang="kk">Видеоларды ойнату</summary>
+  <summary lang="kab">Ɣer tividyutin</summary>
+  <summary lang="ja">動画を再生します</summary>
+  <summary lang="it">Riproduce filmati</summary>
+  <summary lang="is">Spila myndskeið</summary>
+  <summary lang="id">Memutar film</summary>
+  <summary lang="hu">Filmek lejátszása</summary>
+  <summary lang="hr">Gledajte filmove</summary>
+  <summary lang="hi">चलाएँ मूवी</summary>
+  <summary lang="he">ניגון סרטים</summary>
+  <summary lang="gu">ચિત્રપટ વગાડો</summary>
+  <summary lang="gl">Reproducir filmes</summary>
+  <summary lang="ga">Seinn scannáin</summary>
+  <summary lang="fur">Riprodûs filmâts</summary>
+  <summary lang="fr">Lire des films</summary>
+  <summary lang="fi">Toista elokuvia</summary>
+  <summary lang="fa">پخش فیلم‌ها</summary>
+  <summary lang="eu">Filmen erreprodukzioa</summary>
+  <summary lang="es">Reproducir películas</summary>
+  <summary lang="eo">Ludi filmojn</summary>
+  <summary lang="en_GB">Play movies</summary>
+  <summary lang="el">Αναπαραγωγή ταινιών</summary>
+  <summary lang="de">Videos wiedergeben</summary>
+  <summary lang="da">Afspil film</summary>
+  <summary lang="cs">Přehrávání filmů</summary>
+  <summary lang="crh">Filmler oynat</summary>
+  <summary lang="ca">Reproduïu pel·lícules</summary>
+  <summary lang="bs">Pokreni filmove</summary>
+  <summary lang="bn_IN">মুভি প্লে করুন</summary>
+  <summary lang="bg">Изпълнение на филми</summary>
+  <summary lang="be">Прайграванне фільмаў</summary>
+  <summary lang="as">চলচিত্ৰসমূহ চলাওক</summary>
+  <summary lang="ar">شغّل الأفلام</summary>
+  <summary lang="af">Speel flieks</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <!-- with the GStreamer exception -->
+  <description>
+    <p>
+      Videos is the official movie player of the GNOME desktop environment.
+      It features a searchable list of local videos, and DVDs, as well as local
+      network video shares (using UPnP/DLNA) and video highlights from a number
+      of web sites.
+    </p>
+    <p>
+      Videos comes with added functionality such as a subtitle downloader,
+      the ability to speed up or down playback, create screenshot galleries,
+      and support for recording DVDs.
+    </p>
+  </description>
+  <description lang="be">
+    <p>Відэа – афіцыйны відэапрайгравальнік у асяроддзі GNOME. Адметныя магчымасці: спіс захаваных на камп'ютары відэа з пошукам, DVD, супольны доступ да відэа ў лакальнай сетцы праз UPnP/DLNA, паказ відэа з сайтаў.</p>
+    <p>Відэа пастаўляецца з дадатковымі магчымасцямі, напрыклад: спампоўванне субцітраў, змяненне хуткасці прайгравання, стварэнне галерэі здымкаў экрана, запіс DVD.</p>
+  </description>
+  <description lang="bg">
+    <p>„Видео клипове“ е официалната програма за гледане на филми в работната среда GNOME. Може да търсите в списъка от локални файлове и дискове, споделените ресурси по мрежата (чрез UPnP/DLNA) или видео клиповете от различни уеб сайтове.</p>
+    <p>„Видео клипове“ идва и с допълнителни възможности — изтегляне на субтитри, промяна на скоростта на видеото, създаване на галерии с кадри, както и възможност да се записват DVD-та.</p>
+  </description>
+  <description lang="ca">
+    <p>El Vídeos és el reproductor de pel·lícules oficial per a l'entorn d'escriptori GNOME. Permet fer cerques dels vídeos locals, i DVD, així com de vídeos compartits per xarxa (mitjançant UPnP/DLNA) i fins i tot de vídeos destacats d'un bon nombre de pàgines web.</p>
+    <p>El Vídeos també ve amb funcionalitats afegides com: baixador de subtítols, possibilitat d'augmentar o disminuir la velocitat de reproducció, creació de galeries de captures de pantalla i enregistrament de DVD.</p>
+  </description>
+  <description lang="cs">
+    <p>Aplikace Videa je oficiální přehrávač filmů v uživatelském prostředí GNOME. Můžete vyhledávat v seznamech místních videí a DVD, stejně jako ve videích sdílených přes místní síť (pomocí UPnP/DLNA) a v hlavních videích z některých webů.</p>
+    <p>Přináší i rozšiřující funkce, jako je stahování titulků, zrychlování a zpomalování přehrávání, vytváření galerií snímků a podpora nahrávání DVD.</p>
+  </description>
+  <description lang="da">
+    <p>Videoer er den officielle filmafspiller for GNOME-skrivebordsmiljøet. Den indeholder en søgbar liste af lokale videoer og dvd'er, samt lokale netværksdelinger (som bruger UPnP/DLNA) og video-højdepunkter fra en række websider.</p>
+    <p>Videoer inkluderer yderligere funktionalitet såsom hentning af undertekster, langsom eller hurtig afspilning, oprettelse af skærmbilledgallerier og understøttelse af optagelse på dvd'er.</p>
+  </description>
+  <description lang="de">
+    <p>Videos ist die offizielle Anwendung zur Videowiedergabe der GNOME-Arbeitsumgebung. Sie erlaubt das Durchsuchen von lokalen Videos, DVDs und lokalen Netzwerkfreigaben (mittels UPnP/DLNA), sowie den Höhepunkten einer Reihe von Internetseiten.</p>
+    <p>Videos enthält zusätzliche Funktionen wie das Herunterladen von Untertiteln, Änderung der Wiedergabegeschwindigkeit, Erstellung von Bildschirmfoto-Galerien und Unterstützung zur Aufnahme von DVDs.</p>
+  </description>
+  <description lang="el">
+    <p>Το Βίντεο είναι το επίσημο πρόγραμμα αναπαραγωγής ταινιών στο GNOME. Διαθέτει λειτουργία αναζήτησης των τοπικών βίντεο και DVD, καθώς και των κοινόχρηστων βίντεο μέσω τοπικού δικτύου (χρησιμοποιώντας UPnP/DLNA) και στιγμιότυπα βίντεο από μια σειρά ιστότοπων.</p>
+    <p>Η εφαρμογή Βίντεο διαθέτει πρόσθετες λειτουργίες, όπως πρόγραμμα λήψης υποτίτλων, δυνατότητα επιτάχυνσης ή μείωσης της αναπαραγωγής, δημιουργία γκαλερί στιγμιοτύπων και υποστήριξη για την εγγραφή DVD.</p>
+  </description>
+  <description lang="en_GB">
+    <p>Videos, also known as Totem, is the official movie player of the GNOME desktop environment. It features a searchable list of local videos, and DVDs, as well as local network video shares (using UPnP/DLNA) and video highlights from a number of web sites.</p>
+    <p>Videos comes with added functionality such as a subtitle downloader, the ability to speed up or down playback, create screenshot galleries, and support for recording DVDs.</p>
+  </description>
+  <description lang="eo">
+    <p>Videaĵoj estas la oficiala filmludilo de GNOME. Ĝi kapablas serĉi kaj listigi lokajn videaĵojn, samkiel DVD-ojn, lokajn rete kunhavatajn videaĵojn (per UPnP/DLNA), kaj emfazaĵojn de videaĵoj el diversaj retejoj.</p>
+    <p>Videaĵoj enhavas aldonitajn funkciojn, kiel ekzemple elŝutilo de subtekstoj, eblo ŝanĝi la rapidon de ludado, krei ekrankopiajn bildarojn, subteno de registrado de DVD-oj.</p>
+  </description>
+  <description lang="es">
+    <p>Vídeos es el reproductor de películas oficial del entorno de escritorio GNOME. Incluye una lista de vídeos locales y DVD en la que se puede buscar, así como comparticiones de vídeos en la red local (usando UpnP/DLNA) y vídeos destacados de varias páginas web.</p>
+    <p>Vídeos incluye funcionalidades adicionales, tales como descargar subtítulos, posibilidad de aumentar o disminuir la velocidad de reproducción, crear galerías de capturas de pantallas y soporte para grabar DVD.</p>
+  </description>
+  <description lang="eu">
+    <p>Videos (Bideoak) GNOME mahaigaineko ingurunearen film-erreproduzigailu ofiziala da. Bideo lokalen eta DVDen zerrenda bilagarria sortzen du, bai eta sareko bideo partekatuena (UPnP/DLNA erabilita) eta hainbat webgunetako bideo nabarmenena ere.</p>
+    <p>Videos aplikazioak funtzionaltasun gehigarriak ditu, adibidez azpitituluen deskarga, erreprodukzioa azkartu edo moteltzeko aukera, pantaila-kapturen galerien sorrera eta DVDak grabatzeko euskarria.</p>
+  </description>
+  <description lang="fa">
+    <p>ویدیوها پخش‌کنندهٔ فیلم پیش‌گزیدهٔ محیط میزکار گنوم است. این برنامه شامل فهرستی قابل جست‌وجو از ویدیوهای محلّی، دی‌وی‌دی‌ها، ویدیوهای هم‌رسانی شده در شبکهٔ محلّی (با استفاده از UPnP/DLNA) و ویدیوهای پرطرفدار از تعدادی پایگاه وب است.</p>
+    <p>ویدیوها با ویژگی‌های افزوده‌ای از جمله بارگیری زیرنویس، فابلیت افزایش و کاهش سرعت پخش، ساخت جُنگ‌های نماگرفت و پشتیبانی از ضبط دی‌وی‌دی‌ها ارائه می‌شود.</p>
+  </description>
+  <description lang="fi">
+    <p>Videot on Gnome-työpöytäympäristön virallinen videosoitin. Sen ominaisuuksiin kuuluvat muun muassa paikallisten videotiedostojen luettelo, DVD:t, verkon videojaot käyttäen UPnP:tä/DLNA:ta ja eri verkkosivustojen suosituimpien videoiden esittely.</p>
+    <p>Videot sisältää myös lisätoimintoja kuten tekstityksen latauksen, toiston nopeuden säätelyn, kuvakaappauskokoelmien luomisen ja DVD-levyjen tallennuksen.</p>
+  </description>
+  <description lang="fr">
+    <p>Vidéos est le lecteur de vidéos officiel du bureau GNOME. Il propose une liste des vidéos locales, des DVD, tout comme des partages de vidéos sur votre réseau local (en utilisant UPnP/DNLA) et les vidéos mises en avant depuis un certain nombre de sites web.</p>
+    <p>Vidéos est livré avec des fonctionnalités supplémentaires comme un outil de téléchargement de sous-titres, la possibilité d’accélérer ou de ralentir la lecture, de créer des galeries de captures d’écran et d’enregistrer des DVD.</p>
+  </description>
+  <description lang="fur">
+    <p>Video al è il riprodutôr di filmâts uficiâl dal ambient grafic GNOME. Al à come carateristichis une liste dulà che si pues cirî i filmâts locâi e DVD, cussì ancje lis condivisions di video in rêt locâl (doprant UPnP/DLNA) e video evidenziâts di un ciert numar di sîts web.</p>
+    <p>Video al à funzionalitâts adizionâi come par esempli un discjariadôr di sottitui, la pussibilitât di sveltî o ralentâ la riproduzion, creâ galariis di caturis di schermi/istantaniis e il supuart pe regjistrazion di DVD.</p>
+  </description>
+  <description lang="gl">
+    <p>Videos é o reprodutor de filmes oficial do ambiente de escritorio de GNOME. Conta con unha lista de vídeos locais buscábel, reprodución de DVD, así como da reprodución de vídeos compartidos na rede local (usando UPnP/DLNA) e vídeos destacados desde varios sitios web.</p>
+    <p>Vídeos conta con funcionalidade engadida como: descargador de subtítulos, reproducir máis rápido ou máis lentamente, crear galerías de capturas de pantalla e a gravación de DVDs.</p>
+  </description>
+  <description lang="he">
+    <p>‏סרטים הוא נגן הסרטים הרשמי של סביבת שולחן העבודה GNOME. הוא כולל רשימה נתנת לחיפוש של סרטים מקומיים, תקליטורי DVD, כמו גם סרטי וידאו משותפים ברשת (באמצעות UPnP/DLNA) וכותרי סרטים ממספר אתרים ברשת.</p>
+    <p>‏סרטים מגיע עם שימושיות נוספת כמו הורדת כתוביות, שליטה במהירות ההפעלה, יצירת גלריית צילומי מסך ותמיכה בהקלטת סרטי DVD.</p>
+  </description>
+  <description lang="hr">
+    <p>Snimke je službeni reproduktor filmova za GNOME radno okruženje. Njegove mogućnosti su pretraživanje popisa lokalnih video snimki i DVD-ova kao i lokalno dijeljenje video snimaka (upotrebom UPnP/DLNA) i video sadržaja s mnogih web stranica.</p>
+    <p>Snimke dolaze s dodatnim funkcijama poput preuzimatelja podnaslova, mogućnosti ubrzavanja ili usporavanja reprodukcije, stvaranja galerija i podršku za snimanje DVD-ova.</p>
+  </description>
+  <description lang="hu">
+    <p>A Videók a GNOME asztali környezet hivatalos videolejátszója. A helyi videók és DVD-k kereshető listáját tartalmazza, valamint a helyi hálózaton elérhető videomegosztásokat (UPnP/DLNA használatával) és videokiemeléseket számos weboldalról.</p>
+    <p>A Videók további hozzáadott funkciókat is tartalmaz, mint például feliratletöltő, a lejátszás gyorsításának vagy lassításának képessége, képernyőkép-galériák létrehozása és DVD-felvételek támogatása.</p>
+  </description>
+  <description lang="id">
+    <p>Video adalah pemutar film resmi untuk lingkungan destop GNOME. Ini memiliki fitur daftar video lokal dan DVD yang dapat dicari, maupun video jaringan lokal bersama (memakai UPnP/DLNA) dan video pilihan dari sejumlah situs web.</p>
+    <p>Totem hadir dengan fungsionalitas tambahan seperti pengunduh subtitel, kemampuan untuk mempercepat atau memperlambat pemutaran, membuat galeri cuplikan layar, dan dukungan untuk merekam DVD.</p>
+  </description>
+  <description lang="is">
+    <p>Myndskeið (Videos), einnig þekkt sem Totem, er opinber myndskráaspilari GNOME skjáborðsumhverfisins. Meðal eiginleika hans eru leitanlegir listar yfir myndskeið á tölvunni, á DVD-diskum, auk netsameigna á staðarnetum (með UPnP/DLNA) ásamt því að fá ábendingar um myndefni frá ýmsum vefsvæðum.</p>
+    <p>Myndskeiðaforritið er með endurbætta eiginleika á borð við niðurhal skjátexta, möguleikann á að breyta hraða afspilunar, útbúa smámyndasöfn og stuðning við að taka upp DVD-diska.</p>
+  </description>
+  <description lang="it">
+    <p>Video è il riproduttore di filmati ufficiale dell'ambiente desktop GNOME. Ha come caratteristiche un elenco ricercabile di video locali e DVD, così come le condivisioni di video nella rete locale (tramite UPnP/DLNA) e video evidenziati da un certo numero di siti web.</p>
+    <p>Video possiede funzionalità aggiuntive come uno scaricatore di sottotitoli, l'abilità di velocizzare o rallentare la riproduzione, creare gallerie di schermate e il supporto per la registrazione di DVD.</p>
+  </description>
+  <description lang="ja">
+    <p>ビデオは、GNOME デスクトップ環境の公式動画プレイヤーです。ローカルに保存した動画や DVD の一覧表示、検索機能に加え、ローカルネットワーク上の動画も再生できます (UPnP/DLNA を使用)。また、様々なウェブサイトのビデオハイライトを楽しむこともできます。</p>
+    <p>ビデオでは、字幕ダウンローダー、再生速度の変更、スクリーンショットギャラリーの作成、DVD の作成といった追加機能が利用できます。</p>
+  </description>
+  <description lang="kk">
+    <p>Видеолар қолданбасы GNOME жұмыс үстел ортасы үшін негізгі видеоплеері болып табылады. Оның мүмкіндіктері арасында ішінен іздеу болатын жергілікті видеолар, DVD, жергілікті видеобөлісу қызметтері (UPnP/DLNA қолданатын) тізімдер және біршама сайттардан онлайн видеоны көрсету бар.</p>
+    <p>Видеолар қолданбасы құрамында қосымша мүмкіндіктер бар: субтитрларды жүктеп алу, ойнатуды баяулату немесе жылдамдату, скриншоттар галереяларын жасау және DVD-ді қайта кодтау.</p>
+  </description>
+  <description lang="ko">
+    <p>동영상 프로그램은 그놈 데스크톱 환경의 공식 동영상 재생 프로그램입니다. 토템에서는 로컬 비디오, DVD를 검색 가능한 목록으로 표시하고, 로컬 네트워크의 비디오 공유(UPnP/DLNA 사용)와 여러 동영상 사이트도 이용할 수 있습니다.</p>
+    <p>동영상 프로그램에는 다음과 같은 추가 기능도 있습니다: 자막 다운로드, 재생 속도 증가 또는 감소, 스크린샷 모음 만들기, DVD 녹화.</p>
+  </description>
+  <description lang="lt">
+    <p>Videoįrašai yra oficialus GNOME darbalaukio aplinkos filmų grotuvas. Jis turi ieškomą vietinių vaizdo įrašų bei DVD sąrašą, taip pat įrašų viešinius tinkle (naudojant UPnP/DLNA) bei daugelio tinklalapių santraukas.</p>
+    <p>Videoįrašai taip pat turi papildomo funkcionalumo, tokio kaip subtitrų parsiuntimas, tiesioginės televizijos žiūrėjimas bei DVD įrašymas.</p>
+  </description>
+  <description lang="lv">
+    <p>“Video” ir oficiālais filmu atskaņotājs GNOME darbvirsmas vidē. Tajā ir meklējams lokālo video repertuārs, DVD, kā arī lokālā tīkla koplietojumi (izmantojot UPnP/DLNA) un aktuālie video no dažādām vietnēm.</p>
+    <p>“Video” ir ar papildu funkcionalitāti — lejupielādēt subtitrus, iespēju mainīt atskaņošanas ātrumu, izveidot ekrānattēlu galeriju un ierakstīt DVD.</p>
+  </description>
+  <description lang="ms">
+    <p>Video merupakan pemain cereka rasmi bagi persekitaran atas meja GNOME. Ia memfiturkan satu senarai boleh gelintar video-video tempatan, dan juga DVD, serta perkongsian video rangkaian setempat (melalui UPnP/DLNA) dan sorotan daripada laman sesawang.</p>
+    <p>Video disertakan dengan kefungsian tambahan seperti pemuat turun sari kata, keupayaan untuk melajukan atau perlahankan main balik, cipta galeri tangkap layar, dan sokongan untuk merakam DVD.</p>
+  </description>
+  <description lang="nb">
+    <p>Filmer er den offisiellee filmavspilleren for GNOME skrivebordsmiljøet. Den har en søkbar liste med lokale videoer og DVDer i tillegg til lokale nettverksressurser for deling av videoer med UPnP/DLNA) og utvalgte videoer fra et antall nettsteder.</p>
+    <p>Filmer kommer med ekstra funksjonalitet slik som nedlasting av undertekster, mulighet til å endre hastighet på avspilling, lage skjermdumpgallerier og støtter innspilling av DVDer.</p>
+  </description>
+  <description lang="nl">
+    <p>Video’s is de officiële filmspeler van de Gnome-bureaubladomgeving. Het bevat een doorzoekbare lijst van lokale video’s en dvd’s, evenals video’s gedeeld via lokale netwerken (door UPnP/DLNA) en video-hoogtepunten van een aantal websites.</p>
+    <p>Video’s wordt geleverd met extra functionaliteit, waaronder een programma voor het downloaden van ondertitels, de mogelijkheid om het afspelen te vertragen of versnellen, schermafdrukgalerijen, en ondersteuning voor het opnemen van dvd’s.</p>
+  </description>
+  <description lang="oc">
+    <p>Vidèos es lo lector de vidèos oficial del burèu GNOME. Prepausa una lista de vidèos localas recercablas, de DVD, e tot autre partiment ret (en utilizant UPnP/DLNA) e las vidèos vedetas de mantun site Internet.</p>
+    <p>Vidèos arriba amb de foncionalitats suplementàrias coma una aisina de telecargament de sostítols, la possibilitat d’accelerar o alentir la lectura, de crear de galariás de capturas d’ecran e d’enregistrar de DVD.</p>
+  </description>
+  <description lang="pa">
+    <p>ਵਿਡੀਓਜ਼, ਗਨੋਮ ਡੈਸਕਟਾਪ ਦਾ ਮੂਲ ਮੂਵੀ ਪਲੇਅਰ ਹੈ। ਇਸ ਵਿੱਚ ਲੋਕਲ ਵਿਡੀਓ ਅਤੇ ਡੀਵੀਡੀ ਦੀ ਖੋਜ-ਯੋਗ ਸੂਚੀ ਦੇ ਨਾਲ ਨਾਲ ਲੋਕਲ ਨੈੱਟਵਰਕ ਵਿਡੀਓ ਸਾਂਝਾ ਕਰਨ (UPnP/DLNA ਦੀ ਵਰਤੋਂ ਨਾਲ) ਅਤੇ ਕਈ ਵੈੱਬਸਾਈਟਾਂ ਤੋਂ ਵਿਡੀਓ ਹਾਈਲਾਈਟ ਕਰਨ ਦੇ ਫੀਚਰ ਹਨ।</p>
+    <p>ਵਿਡੀਓਜ਼ ਪੂਰੀਆਂ ਸਹੂਲਤਾਂ ਨਾਲ ਮਿਲਦਾ ਹੈ ਜਿਵੇਂ ਕਿ: ਸਬ-ਟਾਈਟਲ ਡਾਊਨਲੋਡਰ, ਚਲਾਉਣ ਨੂੰ ਤੇਜ਼ ਅਤੇ ਹੌਲੀ ਕਰਨ ਦੀ ਸਮਰੱਥਾ, ਸਕਰੀਨਸ਼ਾਟਾਂ ਦੀ ਗੈਲਰੀ ਬਣਾਉਣੀ ਅਤੇ DVD ਰਿਕਾਰਡ ਕਰਨ ਦੀ ਸਹੂਲਤ।</p>
+  </description>
+  <description lang="pl">
+    <p>Odtwarzacz filmów to oficjalny odtwarzacz filmów dla środowiska GNOME. Zawiera listę lokalnych filmów i płyt DVD, które można przeszukiwać, a także filmów udostępnianych w sieci (za pomocą UPnP/DLNA) i filmów z wielu stron WWW.</p>
+    <p>Odtwarzacz filmów zawiera dodatkowe funkcje, takie jak pobieranie napisów, możliwość przyspieszania i spowalniania odtwarzania, tworzenie galerii zrzutów ekranu i obsługa nagrywania płyt DVD.</p>
+  </description>
+  <description lang="pt">
+    <p>O Totem, também conhecido por Vídeos, é o reprodutor de filmes oficial do ambiente de trabalho GNOME. Dispões de uma lista de vídeos e DVDs locais, assim como partilhas de vídeo da rede local (via UPnP/DLNA) e destaques de vídeos de inúmeras páginas Web.</p>
+    <p>O Totem vem com funcionalidades acrescidas tais como: transferidor de legendas, possibilidade de acelerar e reduzir a reprodução, criar galerias de imagens e suporte para gravação de DVDs.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Vídeos é o reprodutor de filmes oficial do ambiente GNOME. Ele apresenta uma lista pesquisável de vídeos locais e DVDs, bem como compartilhamentos de vídeo na rede local (usando UPnP/DLNA) e destaques de vídeos de uma porção de sites da web.</p>
+    <p>Vídeos vêm com funcionalidades adicionais, tais como baixador de legendas, capacidade de aumentar e diminuir a velocidade de reprodução, criar galerias de capturas de tela, e suporte à gravação de DVDs.</p>
+  </description>
+  <description lang="ro">
+    <p>Videouri este playerul de filme oficial al mediului desktop GNOME. Ca funcționalități de remarcă enumerăm o listă căutabilă de videouri locale, și DVD-uri, dar și partajări de video locale (folosind UPnP/DLNA) și prezentări de videouri de pe numeroase situri.</p>
+    <p>Videouri vine cu funcționalități adăugate cum ar fi: descărcător de subtitluri, abilitatea de a mări sau micșora viteza redării, crea galerii de capturi de ecran și suport pentru înregistrarea DVD-urilor.</p>
+  </description>
+  <description lang="ru">
+    <p>Приложение Видео является официальным видеопроигрывателем для среды рабочего стола GNOME. Видеопроигрыватель поддерживает список локальных видеофайлов и DVD с возможностью поиска, доступ к видео по сети (с помощью UPnP/DLNA), а также видео с веб-сайтов.</p>
+    <p>Приложение Видео включает в себя дополнительную функциональность: загрузчик субтитров, возможность замедления или ускорения проигрывания, создание галереи снимков экрана и запись DVD.</p>
+  </description>
+  <description lang="sk">
+    <p>Program Videá je oficiálnym prehrávačom videí pracovného prostredia GNOME. Disponuje zoznamom, v ktorom môžete vyhľadávať spomedzi miestnych videí, diskov DVD a sprístupnených videí cez sieť (pomocou UPnP/DLNA) a filmových noviniek z rôznych webových stránok.</p>
+    <p>Aplikácia Videá prichádza s dodatočnými funkciami, ako sú preberanie titulkov, možnosť zrýchliť alebo spomaliť prehrávanie, vytváranie galérií so snímkami obrazoviek a podporou záznamu diskov DVD.</p>
+  </description>
+  <description lang="sl">
+    <p>Program je uradni predvajalnik videa za namizje GNOME. Podpira različne zmožnosti kot je iskanje krajevnih in oddaljenih (z uporabo UPnP/DLNA) datotek, nosilcev DVD in izbor povzetkov videa prek različnih spletnih strani.</p>
+    <p>Program podpira hitro in počasno predvajanje posnetka, ustvarjanje galerij zaslonskih posnetkov, napredno iskanje, prejemanje podpisov in zapisovanje nosilcev DVD.</p>
+  </description>
+  <description lang="sr">
+    <p>Програм „Филмови“ је званични пуштач филмова за Гномово радно окружење. Одликује га претраживи списак месних видео записа, и ДВД-јева, као и дељење снимака на месној мрежи (помоћу УПнП/ДЛНА протокола) и истицање снимака са многобројних веб страница.</p>
+    <p>Филмови долазе са додатним могућностима као што су: преузимање превода, могућност убрзавања или успоравања пуштања снимка, стварања галерије снимака екрана и подршка за снимање ДВД-јева.</p>
+  </description>
+  <description lang="sv">
+    <p>Videoklipp är den officiella filmspelaren för skrivbordsmiljön GNOME. Den erbjuder en sökbar lista över lokala videor och dvd-skivor, såväl som delad video på det lokala nätverket (genom UPnP/DLNA) och videohöjdpunkter från ett antal webbplatser.</p>
+    <p>Videoklipp kommer med extra funktionalitet såsom en hämtare för undertexter, förmågan att snabba upp eller sakta ner uppspelning, att skapa skärmbildsgallerier och stöd för dvd-inspelning.</p>
+  </description>
+  <description lang="tr">
+    <p>Videolar, GNOME masaüstünün resmi film oynatıcısıdır. Yerel videoların, DVDʼlerin ve yerel ağ video paylaşımlarının (UPnP/DLNA kullanarak) aranabilir listesini ve türlü web sitelerinden video özetlerini sunar.</p>
+    <p>Videolar; alt yazı indirici, kayıttan oynatmayı hızlandırma veya yavaşlatma, ekran görüntüsü galerileri oluşturma ve DVD kaydetme desteği gibi ek işlevselliklerle gelir.</p>
+  </description>
+  <description lang="uk">
+    <p>«Відео» — офіційний програвач відеозаписів у стільничному середовищі GNOME. Він надає список локальних відеозаписів, DVD, оприлюднення відеозаписів у мережі (через UPnP/DLNA) і показ відеозаписів з декількох сайтів.</p>
+    <p>«Відео» набув нових можливостей, як-от: засіб отримання субтитрів, можливість пришвидшення і уповільнення відтворення, створювати галереї знімків з відео і підтримування запису DVD.</p>
+  </description>
+  <description lang="vi">
+    <p>Xem phim là ứng dụng phát phim chính thức trên môi trường máy tính để bàn GNOME. Nó có đặc tính kỹ thuật là tìm đưa vào danh sách các phim, DVD cũng như là các phim chia sẻ qua mạng (dùng UPnP/DLNA) và những phim sáng giá từ nhiều trang web khác nhau.</p>
+    <p>Xem phim còn đưa ra các tính năng bổ sung thêm như là: tải phụ đề, phát với tốc độ nhanh hoặc chậm, tạo bộ sưu tập ảnh chụp màn hình và hỗ trợ ghi DVD.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>“视频”是GNOME桌面环境的官方视频播放器。它支持搜索本地视频，DVD以及本地网络共享（基于UPnP/DLNA），并支持大量网站上的精华视频。</p>
+    <p>“视频”还有其他一些功能，比如字幕下载器，加快或放慢播放速度的功能，创建截图画册以及支持DVD录制。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>影片是 GNOME 桌面環境的官方影片播放器。它的特點有本機的視訊播放清單、DVD，以及區域網路視訊分享 (採用 UPnP/DLNA) 與取自許多網站的影片亮點等。</p>
+    <p>《影片》帶有附加功能，例如：字幕下載器、加速/減速影片播放、建立螢幕截圖庫、和 DVD 錄製支援等。</p>
+  </description>
+  <url type="homepage">https://wiki.gnome.org/Apps/Videos</url>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/totem/issues</url>
+  <url type="donation">https://www.gnome.org/friends/</url>
+  <url type="translate">https://l10n.gnome.org/module/totem/</url>
+  <url type="help">https://help.gnome.org/users/totem/stable/</url>
+  <screenshots>
+    <screenshot type="default">https://gitlab.gnome.org/GNOME/totem/raw/HEAD/data/appdata/ss-player.png</screenshot>
+    <screenshot>https://gitlab.gnome.org/GNOME/totem/raw/HEAD/data/appdata/ss-videos.png</screenshot>
+  </screenshots>
+  <update_contact>hadess@hadess.net</update_contact>
+  <developer_name>The GNOME developers</developer_name>
+  <developer_name lang="zh_TW">GNOME 開發團隊</developer_name>
+  <developer_name lang="zh_CN">GNOME开发者</developer_name>
+  <developer_name lang="vi">Các nhà phát triển GNOME</developer_name>
+  <developer_name lang="uk">Розробники GNOME</developer_name>
+  <developer_name lang="tr">GNOME Geliştiricileri</developer_name>
+  <developer_name lang="sv">GNOME-utvecklarna</developer_name>
+  <developer_name lang="sr">Гномови програмери</developer_name>
+  <developer_name lang="sl">Razvijalci okolja GNOME</developer_name>
+  <developer_name lang="sk">Vývojári prostredia GNOME</developer_name>
+  <developer_name lang="ru">Разработчики среды GNOME</developer_name>
+  <developer_name lang="ro">Dezvoltatorii GNOME</developer_name>
+  <developer_name lang="pt_BR">Os desenvolvedores do GNOME</developer_name>
+  <developer_name lang="pt">Os programadores GNOME</developer_name>
+  <developer_name lang="pl">Programiści GNOME</developer_name>
+  <developer_name lang="pa">ਗਨੋਮ ਡਿਵੈਲਪਰ</developer_name>
+  <developer_name lang="oc">Los desvolopaires de GNOME</developer_name>
+  <developer_name lang="nl">De Gnome-ontwikkelaars</developer_name>
+  <developer_name lang="nb">GNOME utviklerene</developer_name>
+  <developer_name lang="ms">Pembangun GNOME</developer_name>
+  <developer_name lang="lv">GNOME izstrādātāji</developer_name>
+  <developer_name lang="lt">GNOME kūrėjai</developer_name>
+  <developer_name lang="ko">그놈 개발자</developer_name>
+  <developer_name lang="kk">GNOME әзірлеушілері</developer_name>
+  <developer_name lang="kab">Isneflayen n GNOME</developer_name>
+  <developer_name lang="ja">The GNOME developers</developer_name>
+  <developer_name lang="it">Gli sviluppatori di GNOME</developer_name>
+  <developer_name lang="is">GNOME þróunarteymið</developer_name>
+  <developer_name lang="id">Pengembang GNOME</developer_name>
+  <developer_name lang="hu">A GNOME fejlesztői</developer_name>
+  <developer_name lang="hr">GNOME razvijatelji</developer_name>
+  <developer_name lang="he">מפתח GNOME</developer_name>
+  <developer_name lang="gl">Os desenvolvedores de GNOME</developer_name>
+  <developer_name lang="fur">I disvilupadôrs di GNOME</developer_name>
+  <developer_name lang="fr">Les développeurs de GNOME</developer_name>
+  <developer_name lang="fi">Gnome-kehittäjät</developer_name>
+  <developer_name lang="fa">توسعه‌دهندگان گنوم</developer_name>
+  <developer_name lang="eu">GNOME garatzaileak</developer_name>
+  <developer_name lang="es">Los desarrolladores de GNOME</developer_name>
+  <developer_name lang="en_GB">The GNOME developers</developer_name>
+  <developer_name lang="el">Οι προγραμματιστές του GNOME</developer_name>
+  <developer_name lang="de">Die GNOME-Entwickler</developer_name>
+  <developer_name lang="da">GNOME-udviklerne</developer_name>
+  <developer_name lang="cs">Vývojáři GNOME</developer_name>
+  <developer_name lang="ca">L'equip de desenvolupament del GNOME</developer_name>
+  <developer_name lang="bg">Разработчиците на GNOME</developer_name>
+  <developer_name lang="be">Распрацоўшчыкі GNOME</developer_name>
+  <project_group>GNOME</project_group>
+  <translation type="gettext">totem</translation>
+  <launchable type="desktop-id">org.gnome.Totem.desktop</launchable>
+  <releases>
+    <release version="42.0" date="2022-03-18">
+      <description>
+        <p>
+          We are proud to announce Videos 3.34.0 as the latest stable version.
+        </p>
+        <p>
+          This new version stops relying on clutter for its video output. The
+          old GNOME media-keys API was removed, and replaced by builtin MPRIS
+          support.
+        </p>
+        <p>
+          The subtitles and audio tracks selections are now made through a separate
+          menu. A number of new keyboard shortcuts were also added, which can
+          be found in the keyboard shortcuts dialog.
+        </p>
+      </description>
+    </release>
+    <release version="3.38.0" date="2020-09-10">
+      <description>
+        <p>
+          This new version does not rely on Tracker running on the host,
+          and updates translations.
+        </p>
+      </description>
+    </release>
+    <release version="3.34.1" date="2019-10-04">
+      <description>
+        <p>
+          This new version fixes the top bar icon appearing as a square,
+          and updates translations.
+        </p>
+      </description>
+    </release>
+    <release version="3.34.0" date="2019-09-06">
+      <description>
+        <p>
+          We are proud to announce Videos 3.34.0 as the latest stable version.
+        </p>
+        <p>
+          This new version fixes a number of bugs, adds an "Open Containing Folder" plugin,
+          and removes the obsolete Brasero and LIRC plugins.
+        </p>
+      </description>
+    </release>
+    <release date="2019-03-08" version="3.32.0">
+      <description>
+        <p>
+          We are proud to announce Videos 3.32.0 as the latest stable version.
+        </p>
+      </description>
+    </release>
+  </releases>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>UserDocs</kudo>
+  </kudos>
+  <content_rating type="oars-1.1" />
+</component>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>denemo</pkgname>
+  <launchable type="desktop-id">org.denemo.Denemo.desktop</launchable>
+  <id type="desktop">org.denemo.Denemo.desktop</id>
+  <metadata_license>GFDL-1.3</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>Denemo</name>
+  <summary>Create Music Scores</summary>
+  <summary lang="ca">Crea partitures de música</summary>
+  <summary lang="cs">Vytvořit notové zápisy hudby</summary>
+  <summary lang="da">Opret musikpartiturer</summary>
+  <summary lang="es">Crear música partituras</summary>
+  <summary lang="ja">楽譜を作成する</summary>
+  <summary lang="zh_CN">创建乐谱</summary>
+  <description>
+    <p>Denemo is a music notation program that lets you rapidly enter notation. Music can be typed in at the PC-Keyboard, or played in via MIDI controller. The typesetting is done in the background by LilyPond while you work, and is generally flawless publication quality. Any final tweaks to can be done on the final typeset score with the mouse if needed. This represents an enormous practical improvement over the most programs which require you to re-position colliding notation constantly as you enter the music.</p>
+    <p>Unique to Denemo are methods to enter music in a musical, rather than mechanical, manner. You play in a phrase or two of the music using the number keys to indicate the note durations. Audible feedback lets you hear what you have entered; playing the phrase a second time on a real instrument adds the pitches to the rhythm. Again, Denemo gives you audible feedback so that you don’t enter E-flat when you meant D-sharp etc.</p>
+    <p>Another great feature is the ability to put links in the score to the original source document that you transcribed from. Clicking on such a link opens the document for you and highlights the bar you are looking at. You can use this to continue work from where you left off, or for looking back at the source to check a doubtful bar.</p>
+  </description>
+  <description lang="ca">
+    <p>El Denemo és un programa de notació musical que us permet entrar notació ràpidament. La música es pot escriure al teclat de l'ordinador, o executada mitjançant un controlador MIDI. El gravat es fa al rerefons pel LilyPond mentre treballeu, i generalment és de qualitat de publicació molt acurada. Tots els ajustos finals es poden fer a la partitura gravada final amb el ratolí si cal. Això representa una millora pràctica enorme sobre la major part dels programes que requereixen que torneu a posicionar la notació en col·lisió constantment mentre entreu la música.</p>
+    <p>És exclusiu del Denemo que la música s'entra de manera musical i no mecànica. Executeu una frase o dos de la vostra música usant les teclats de números per indicar la duració de les notes. Un retorn audible us deixa escoltar el que heu entrat; l'execució de la frase un segon cop a una instrument real us deixa afegir les tonalitat i el ritme. Insistim, el Denemo us dóna un retorn audible de manera que no entrareu Mi bemoll quan volíeu entrar Re sostingut, etc.</p>
+    <p>Una altra gran característica és l'habilitat de posar enllaços a la partitura al document font original del qual heu transcrit. En clicar sobre aquest enllaç s'obrirà el document i es destacarà el compàs que esteu mirant. Podeu usar això per continuar treballant des d'on heu deixat, o per tornar a mirar la font per verificar un compàs dubtós.</p>
+  </description>
+  <description lang="cs">
+    <p>Denemo je hudební notační program, který vám umožní rychlé zadávání not. Noty lze zapisovat pomocí klávesnice počítače, nebo hrát přes ovladač MIDI. Sazba se po dobu vaší práce odehrává na pozadí za použití LilyPondu a obecně je provedena v bezvadné jakosti vhodné pro vydání. Veškeré závěrečné doladění se dá udělat při konečném vysázení notového zápisu, je-li to potřeba, myší. To představuje nesmírné skutečné zlepšení oproti většině programů, které od vás ustavičně žádají přemísťování střetávajících se not, zatímco zadáváte noty.</p>
+    <p>Pro Denemo jsou jedinečnými postupy pro zadávání not hudebním spíše než strojovým způsobem. Zahrajete úsek nebo dva not pomocí číselných kláves, abyste vyjádřili dobu trvání not. Slyšitelná zpětná vazba vás nechá si poslechnout, co jste zadali. Když úsek zahrajete podruhé na skutečném nástroji, do rytmu přidáte výšky tónů. Opět, Denemo vám dává slyšitelnou zpětnou vazbu, takže nezadáte Es, když zamýšlíte Dis atd.</p>
+    <p>Další skvělým rysem je schopnost vložit do not odkazy na původní zdrojový dokument, který jste přepsal. Po klepnutí na takový odkaz se vám otevře dokument a zvýrazní se takt, na který se díváte. Toto můžete použít k pokračování v práci tam, kde jste přestali, nebo na ohlédnutí se zpět na zdroj, abyste prověřili nejistý takt.</p>
+  </description>
+  <description lang="da">
+    <p>Denemo er et musiknotationsprogram, som hurtigt lader dig indtaste notation. Musik kan indtastes med pc-tastaturet, eller spilles ind via en MIDI-controller. Opsætningen gøres i baggrunden af LilyPond mens du arbejder, og er generelt i perfekt udgivelseskvalitet. Eventuelle rettelser kan udføres på den endelige opsætningspartitur med musen. Dette repræsenterer en enorm praktisk forbedring i forhold til de fleste andre programmer, som kræver, at du genindstiller kolliderende notation konstant, mens du indtaster musikken.</p>
+    <p>Unik for Denemo er metoder til at indtaste musikken i en musikalsk, fremfor mekanisk, måde. Du spiller i en frase eller to for musikken via det numeriske tastatur for at indikere nodelængderne. En lydtilbagemelding gør at du kan høre, hvad du har indtastet; afspilning af frasen en gang mere på et virkeligt instrument tilføjer tonehøjderne til rytmen. Igen giver Denemo dig en lydmæssig tilbagemelding, så at du ikke indtaster E-flad, når du mente D-skarp etc.</p>
+    <p>En anden god funktion er muligheden for at placere henvisninger i partituret til det oprindelige kildedokument, som du har transkriberet fra. Et klik på sådan en henvisning åbner dokumentet for dig og fremhæver bjælken du kigger på. Du kan bruge dette til at fortsætte arbejdet hvor du forlod det sidst, eller til at kigge tilbage i kilden for at kontrollere en tvivlsom bjælke.</p>
+  </description>
+  <description lang="es">
+    <p>Denemo es un programa de notación musical que te permite ingresar rápidamente a la notación. La música se puede escribir en el teclado de la PC o se puede reproducir a través del controlador MIDI. LilyPond realiza la composición tipográfica en background mientras trabaja, y está Calidad de publicación generalmente impecable. Cualquier ajuste final que se puede hacer en la composición final de partitura con la mouse si es necesario. Esto representa una enorme mejora práctica sobre la mayoría de los programas que requieren que Vuelva a colocar la notación de colisión constantemente a medida que ingresa la música.</p>
+    <p>Único para Denemo son los métodos para introducir música en un musical, en lugar de mecanica, modales. Usted juega en una frase o dos de la música usando el teclas numéricas para indicar las duraciones de nota. Los comentarios audibles te permiten escuchar lo que has introducido tocando la frase por segunda vez en un instrumento real Añade los tonos al ritmo. Una vez más, Denemo te da una respuesta audible por lo que que no ingresa a E-flat cuando quiso decir D- sostenido etc.</p>
+  </description>
+  <description lang="ja">
+    <p>Denemo は楽譜を書くするためのプログラムで素早く記述を入力できます。音楽は PC のキーボードからタイプすることも MIDI コントローラから入力することもできます。組版はバックグラウンドで Lilyjpond によって行われ、出版に耐える品質で出力できます。必要に応じて、マウスで最後の仕上げを施すこともできます。これは、ほとんどのプログラムよりも優れた点のひとつであり、通常の入力で生成される干渉する記述の位置をずらすことができます。</p>
+    <p>Denemo がユニークなのは、その音楽の入力方法が機械的というよりも音楽的であることです。1つまたは2つのフレーズを音符の長さを示す数字キーを使って演奏することができます。入力した演奏はその場で聞こえます。次に、そのフレーズを実際の楽器で演奏し、リズムに音程を加えます。Denemo は再び、聞こえるフィードバックを返すので、D#を入力したいときにE♭を入力せずに済みます。</p>
+    <p>もうひとつの素晴らしい機能は、楽譜から複写元の文書にリンクを張ることができることです。リンクをクリックすると、文書を開いてあなたが見ている小節をハイライト表示します。この機能を使って、中断したところから作業を継続したり、自信のない小節を見直すことができます。</p>
+  </description>
+  <description lang="zh_CN">
+    <p>Denemo 是一款用于快速记谱的音乐软件。你可以通过电脑键盘或 MIDI 控制器来输入音乐。后台的 LilyPond 将会在你输入时对乐谱进行自动排版，且不失排版准确度。允许通过鼠标微调来改变乐谱的最终排版效果。相比于大多数需要不断调整记号位置的程序而言，本程序在实用性方面可谓是一大飞跃。</p>
+    <p>Denemo 的特别之处还在于，你可以真正使用创作的思路，而非机械的方法来输入音乐。你可以首先使用表示音符时值的数字按键来演奏一段节奏，并通过试听反馈来检查所输入的内容；然后使用真实的乐器音色向节奏中加入音高，并通过试听反馈确保音高输入无误。</p>
+    <p>此外，Denemo 还可以在乐谱中插入原稿文档（改编自的文档）的链接。点击此链接将会打开该文档，并高亮你所查看的小节。此功能可方便地用于恢复之前暂停的工作，或回查原稿中有疑问的小节。</p>
+  </description>
+  <url type="homepage">http://www.denemo.org/</url>
+  <screenshots>
+    <screenshot height="1169" type="default" width="826">http://www.denemo.org/wp-content/uploads/2013/10/display68.png</screenshot>
+    <screenshot width="1920" height="1080">http://www.denemo.org/wp-content/uploads/2013/10/display4.png</screenshot>
+    <screenshot height="1080" width="1920">http://www.denemo.org/wp-content/uploads/2013/10/display7.png</screenshot>
+  </screenshots>
+  <updatecontact>denemo-devel@gnu.org</updatecontact>
+  <project_group>Denemo</project_group>
+  <keywords>
+    <keyword>Music</keyword>
+    <keyword>Notation</keyword>
+    <keyword>Score</keyword>
+    <keyword>Editor</keyword>
+    <keyword>Typesetter</keyword>
+    <keyword>LilyPond</keyword>
+    <keyword>Scorewriter</keyword>
+    <keyword>MIDI</keyword>
+    <keyword>Music</keyword>
+  </keywords>
+  <content_rating type="oars-1.1" />
+</component>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>calls</pkgname>
+  <icon type="cached" width="64" height="64">org.gnome.Calls.png</icon>
+  <icon height="128" type="cached" width="128">org.gnome.Calls.png</icon>
+  <id>org.gnome.Calls</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <name>Calls</name>
+  <summary>Make phone and SIP calls</summary>
+  <description>
+    <p>Calls is a simple, elegant phone dialer and call handler for GNOME.
+      It can be used with a cellular modem for plain old telephone
+      calls as well as VoIP calls using the SIP protocol.</p>
+  </description>
+  <url type="homepage">https://gitlab.gnome.org/GNOME/calls</url>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/calls/issues</url>
+  <url type="translate">https://l10n.gnome.org/module/calls/</url>
+  <project_group>GNOME</project_group>
+  <launchable type="desktop-id">org.gnome.Calls.desktop</launchable>
+  <translation type="gettext">calls</translation>
+  <screenshots>
+    <screenshot type="default">
+      <!-- Translators: A screenshot description. -->
+      <caption>Placing a call</caption>
+      <image width="720" height="1296" type="source">https://gitlab.gnome.org/GNOME/calls/raw/master/data/screenshots/calling.png</image>
+    </screenshot>
+    <screenshot>
+      <!-- Translators: A screenshot description. -->
+      <caption>The call history</caption>
+      <image type="source" width="720" height="1296">https://gitlab.gnome.org/GNOME/calls/raw/master/data/screenshots/history.png</image>
+    </screenshot>
+  </screenshots>
+  <requires>
+    <display_length compare="ge">360</display_length>
+  </requires>
+  <recommends>
+    <control>pointing</control>
+    <control>keyboard</control>
+    <control>touch</control>
+  </recommends>
+  <kudos>
+    <kudo>ModernToolkit</kudo>
+    <kudo>Notifications</kudo>
+  </kudos>
+  <categories>
+    <category>Audio</category>
+  </categories>
+  <provides>
+    <mediatype>x-scheme-handler/tel</mediatype>
+    <mediatype>x-scheme-handler/sip</mediatype>
+    <mediatype>x-scheme-handler/sips</mediatype>
+    <dbus type="user">org.gnome.Calls</dbus>
+  </provides>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release data="2021-10-30" version="41.1">
+      <description>
+        <p>
+            GNOME Calls 41.1 release brings updated translations, fixes for the
+            SIP plugin and the wrong timestamp being shown in the call history
+            and makes it easier to use SIP for telephony by not requiring the user
+            to enter a domain when dialing.
+          </p>
+        <p>
+            It also improves stability by fixing crashes and reduces logspam
+            in some cases.
+          </p>
+      </description>
+    </release>
+    <release version="41.0" date="2021-09-18">
+      <description>SIP plugin bugfixes.</description>
+    </release>
+    <release date="2021-09-02" version="41~rc">
+      <description>SIP Plugin polish and bugfixes.</description>
+    </release>
+    <release date="2021-08-14" version="41~beta">
+      <description>SIP Plugin usable from the UI.</description>
+    </release>
+    <release date="2021-07-16" version="41~alpha">
+      <description>First GNOME release</description>
+    </release>
+  </releases>
+</component>

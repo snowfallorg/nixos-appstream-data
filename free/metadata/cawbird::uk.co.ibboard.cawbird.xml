@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>cawbird</pkgname>
+  <icon width="64" height="64" type="cached">uk.co.ibboard.cawbird.png</icon>
+  <icon width="128" height="128" type="cached">uk.co.ibboard.cawbird.png</icon>
+  <id>uk.co.ibboard.cawbird.desktop</id>
+  <name>Cawbird</name>
+  <name lang="zh_TW">Cawbird</name>
+  <name lang="zh_CN">Cawbird</name>
+  <name lang="sr_BA@latin">Cawbird</name>
+  <name lang="sr">Корберд</name>
+  <name lang="ru">Cawbird</name>
+  <name lang="pt_BR">Cawbird</name>
+  <name lang="pt">Cawbird</name>
+  <name lang="pl">Cawbird</name>
+  <name lang="nl">Cawbird</name>
+  <name lang="nb">Cawbird</name>
+  <name lang="lt">Cawbird</name>
+  <name lang="ko">코어버드</name>
+  <name lang="ja">Cawbird</name>
+  <name lang="it">Cawbird</name>
+  <name lang="id">Cawbird</name>
+  <name lang="gl">Cawbird</name>
+  <name lang="gd">Cawbird</name>
+  <name lang="ga">Cawbird</name>
+  <name lang="fr">Cawbird</name>
+  <name lang="fi">Cawbird</name>
+  <name lang="es_419">Cawbird</name>
+  <name lang="es">Cawbird</name>
+  <name lang="eo">Cawbird</name>
+  <name lang="en_GB">Cawbird</name>
+  <name lang="de_DE">Cawbird</name>
+  <name lang="de">Cawbird</name>
+  <name lang="da">Cawbird</name>
+  <name lang="ca">Cawbird</name>
+  <name lang="ast">Cawbird</name>
+  <name lang="ar">كوربرد</name>
+  <summary>Twitter Client</summary>
+  <summary lang="zh_TW">Twitter用戶端</summary>
+  <summary lang="zh_CN">Twitter 客户端</summary>
+  <summary lang="uk_UA">Twitter-клієнт</summary>
+  <summary lang="tr">Twitter İstemcisi</summary>
+  <summary lang="sr_BA@latin">Twitter klijent</summary>
+  <summary lang="sr">Твитер клијент</summary>
+  <summary lang="ru">Клиент для Твиттера</summary>
+  <summary lang="ro">Client Twitter</summary>
+  <summary lang="pt_BR">Cliente para o Twitter</summary>
+  <summary lang="pt">Cliente de Twitter</summary>
+  <summary lang="pl">Klient Twittera</summary>
+  <summary lang="nl">Twittertoepassing</summary>
+  <summary lang="nb">Twitter-klient</summary>
+  <summary lang="lt">Twitter klientas</summary>
+  <summary lang="ko">트위터 클라이언트</summary>
+  <summary lang="ja">Twitter Client</summary>
+  <summary lang="it">Client Twitter</summary>
+  <summary lang="id">Twitter Klien</summary>
+  <summary lang="hu">Twitter kliens</summary>
+  <summary lang="gl">Cliente para o Twitter</summary>
+  <summary lang="gd">Cliant Twitter</summary>
+  <summary lang="fr">Client Twitter</summary>
+  <summary lang="fi">Twitter-sovellus</summary>
+  <summary lang="es_VE">Cliente de Twitter</summary>
+  <summary lang="es_MX">Cliente de Twitter</summary>
+  <summary lang="es_419">Cliente de Twitter</summary>
+  <summary lang="es">Cliente Twitter</summary>
+  <summary lang="eo">Tviterokliento</summary>
+  <summary lang="en_GB">Twitter Client</summary>
+  <summary lang="de_DE">Twitter Client</summary>
+  <summary lang="de">Twitter Client</summary>
+  <summary lang="da">Twitter klient</summary>
+  <summary lang="ca@valencia">Client del Twitter</summary>
+  <summary lang="ca">Client del Twitter</summary>
+  <summary lang="ast">Veceru pa Twitter</summary>
+  <summary lang="ar">عميل تويتر</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <translation type="gettext">cawbird</translation>
+  <description>
+    <p>
+   Cawbird is a native GTK+ twitter client that provides vital features such as Direct Messages (DMs), tweet notifications, conversation views.
+  </p>
+    <p>
+   Additional features include local viewing of videos, multiple inline images, Lists, Filters, multiple accounts, etc.
+  </p>
+  </description>
+  <description lang="ar">
+    <p>كوربرد عميل تويتر GTK+ أصيل يوفّر ميزات حيوية مثل الرسائل المباشرة  والإخطار بالتغريدات وعرض المحادثات.</p>
+    <p>تشمل الميزات الإضافية على: عرض الفيديوهات داخل التطبيق، عرض الصور المتعددة، القوائم، الفلاتر، و تسجيل الدخول بحسابات متعددة.</p>
+  </description>
+  <description lang="ast">
+    <p>Cawbird ye un veceru nativu pa Twitter en GTK+ qu'apurre carauterístiques vitales como mensaxes direutos (DM), notificaciones de tuits, visión de conversaciones.</p>
+    <p>Carauterístiques adicionales qu'inclúin visión llocal de videos, imáxenes en llinia múltiples, llistes, filtros, cuentes múltiples, etc.</p>
+  </description>
+  <description lang="ca">
+    <p>El Cawbird és un client del twitter natiu GTK+ que proveeix característiques bàsiques com missatges directes, notificacions de piulades i visualització de converses. </p>
+    <p>Característiques addicionals inclouen vista local de vídeos, múltiples imatges inline, Llistes, Filtres, múltiples comptes, etc.</p>
+  </description>
+  <description lang="ca@valencia">
+    <p>El Cawbird és un client del twitter natiu GTK+ que proveeix característiques bàsiques com missatges directes, notificacions de piulades i visualització de converses. </p>
+  </description>
+  <description lang="da">
+    <p>Cawbird er en GTK+ twitter klient med essentielle funktioner som Direkte Beskeder (DMs), tweet notifikationer og samtalevisning</p>
+    <p>Yderligere funktioner inkludere: Lokal videoafspilning, Flere indlejrede billeder, Lister, Filtre, Flere konti, osv.</p>
+  </description>
+  <description lang="de">
+    <p>Cawbird ist ein nativer GTK+ Twitter-Client, der wesentliche Funktionen wie Direktnachrichten (DMs), Tweet-Benachrichtigungen und Konversationen bietet.</p>
+    <p>Weitere Funktionalitäten beinhalten die lokale Anzeige von Videos, mehrere eingebettete Bilder, Listen, Filter, mehrere Accounts, etc.</p>
+  </description>
+  <description lang="de_DE">
+    <p>Cawbird ist ein nativer GTK+ Twitter-Client, der wesentliche Funktionen wie Direktnachrichten (DMs), Tweet-Benachrichtigungen und Konversationen bietet.</p>
+    <p>Weitere Funktionalitäten beinhalten die lokale Anzeige von Videos, mehrere eingebettete Bilder, Listen, Filter, mehrere Accounts, etc.</p>
+  </description>
+  <description lang="en_GB">
+    <p>Cawbird is a native GTK+ twitter client that provides vital features such as Direct Messages (DMs), tweet notifications, conversation views.</p>
+    <p>Additional features include local viewing of videos, multiple inline images, Lists, Filters, multiple accounts, etc.</p>
+  </description>
+  <description lang="eo">
+    <p>Cawbird estas denaska GTK+ kliento por Tvitero. Ĝi enhavas gravajn eblecojn—ekzemple tujmesaĝoj, tvitavizoj, kaj vidigo de interparoloj.</p>
+    <p>Aliaj eblecoj estas vidigi filmeton kaj plurajn bildojn loke. Ankaŭ, listoj, filtriloj, pluraj kontoj, ktp.</p>
+  </description>
+  <description lang="es">
+    <p>Cawbird es un cliente nativo GTK+ para Twitter que provee funciones útiles como mensajes directos (MDs), notificaciones de tuits, y ver conversaciones.</p>
+    <p>Las características adicionales incluyen la visualización local de los vídeos, múltiples imágenes en línea, listas, filtros, múltiples cuentas, etc.</p>
+  </description>
+  <description lang="es_419">
+    <p>Corebid es un cliente nativo GTK+ de twitter que permite realizar actividades diarias como enviar mensajes directos (MD), notificaciones de tweets, vista de menciones, y más.</p>
+    <p>Las características adicionales incluyen visualización de videos e imágenes en la aplicación, así como uso de listas, filtros, multiples cuentas, etc.</p>
+  </description>
+  <description lang="es_MX">
+    <p>Cawbird es un cliente nativo de twitter el cual provee características vitales como Mensajes Directos (DM's), notificaciones de tuits, vistas de conversación.</p>
+    <p>Características adicionales incluye visualización de vídeos local, imágenes múltiples, Listas, Filtros, múltiples cuentas, etc.</p>
+  </description>
+  <description lang="es_VE">
+    <p>Cawbird es un cliente nativo GTK+ de Twitter que proporciona funciones vitales tales como mensajes directos (DM), notificaciones, vistas de conversación.</p>
+    <p>Las características adicionales incluyen la visión local de los vídeos, múltiples imágenes en línea, listas, filtros, múltiples cuentas, etc.</p>
+  </description>
+  <description lang="fi">
+    <p>Cawbird on GTK+:lla toteutettu Twitter-sovellus, joka tarjoaa muun muassa yksityisviestit, ilmoitukset twiiteistä ja keskustelunäkymän.</p>
+    <p>Lisäominaisuuksiin kuuluu muun muassa videoiden katselu suoraan sovelluksesta, useat upotetut kuvat, listat, suodattimet, useat tilit jne.</p>
+  </description>
+  <description lang="fr">
+    <p>Cawbird est un client Twitter natif en GTK+ proposant les fonctions vitales telles que les messages directs (dm), les notifications, les vues en conversations.</p>
+    <p>Les fonctions additionnelles incluent le visionnage en local des vidéos, les insertions multiples d'images, les listes, les filtres, les comptes multiples, etc.</p>
+  </description>
+  <description lang="gd">
+    <p>’S e cliant Twitter stèidhichte air GTK+ tùsail a th’ ann an Cawbird a bheir bun-ghleusan dhut mar teachdaireachdan dìreach (DMs), brathan mu tweets is seallaidhean còmhraidh.</p>
+    <p>Am measg nan gleusan eile, tha coimhead air videothan gu h-ionadail, iomadh dealbh am broinn na loidhne, liostaichean, criathragan, iomadh cunntas is msaa.</p>
+  </description>
+  <description lang="gl">
+    <p>Cawbird é un cliente GTK+ nativo para o Twitter que fornece funcionalidades fundamentais como mensaxes directas (MD), notificacións de chíos ou vistas de conversas.</p>
+    <p>Inclúe funcionalidades adicionais como visualización local de vídeos, varias imaxes inseridas, listaxes, filtros, múltiples contas, etc.</p>
+  </description>
+  <description lang="id">
+    <p>Cawbird adalah GTK+ twitter klien native yang menyediakan fitur penting seperti Pesan Langsung (DMS), tweet pemberitahuan, pemandangan percakapan.</p>
+    <p>Fitur tambahan termasuk melihat video lokal, beberapa gambar di baris, Daftar, Penyaring, beberapa akun, dll</p>
+  </description>
+  <description lang="it">
+    <p>Cawbird è un client twitter nativo GTK+ che fornisce funzioni vitali come messaggi diretti (DM), notifiche dei tweet e vista delle conversazioni.</p>
+    <p>Funzionalità aggiuntive includono riproduzione locale dei video, più immagini in una riga, liste, filtri, account multipli ecc.</p>
+  </description>
+  <description lang="ja">
+    <p>Cawbird はGTK+ネイティブなTwitterクライアントで、ダイレクトメッセージ (DM) ・ツイート通知・会話ビューといった重要機能を提供します。</p>
+    <p>加えて、ビデオの表示・インラインでの画像の表示・リスト・フィルター・複数のアカウントなどをサポートします</p>
+  </description>
+  <description lang="ko">
+    <p>Cawbird 는 다이렉트 메시지 (DMs), 트윗 알림, 대화 보기 등의 중요 특징을 제공하는 순수 GTK+ 트위터 클라이언트 입니다.</p>
+    <p>추가적인 특징으로는 비디오 보기, 복수의 이미지, 리스트, 필터, 멀티 계정, 등등이 포함됩니다.</p>
+  </description>
+  <description lang="lt">
+    <p>Cawbird yra savas GTK+ twitter klientas, kuris suteikia svarbiausias ypatybes, tokias kaip Tiesioginės Žinutės (TŽ), tauškalų pranešimai, pokalbių rodiniai.</p>
+    <p>Papildomas ypatybes sudaro vietinė vaizdo įrašų peržiūra, kelių įterptų paveikslėlių galimybė, Sąrašai, filtrai, kelių paskyrų galimybė ir t. t.</p>
+  </description>
+  <description lang="nb">
+    <p>Cawbird er en GTK+-basert Twitter-klient som tilbyr viktige funksjoner som direktemeldinger, tweet-varslinger og samtalevisning.</p>
+    <p>Du kan også se videoer, flerbilde-tweets, lister, filtre og bruke ulike kontoer samtidig i programmet.</p>
+  </description>
+  <description lang="nl">
+    <p>Cawbird is een geïntegreerde GTK+ Twittertoepassing met ondersteuning voor de belangrijkste functionaliteiten, zoals privéberichten (DM's), tweetmeldingen en gespreksweergaven.</p>
+    <p>Daarnaast kun je video's afspelen, meerdere bijgevoegde afbeeldingen bekijken en is er ondersteuning voor lijsten, filters, meerdere accounts en nog veel meer.</p>
+  </description>
+  <description lang="pl">
+    <p>Cawbird jest klientem Twittera natywnym dla biblioteki GTK+ dostarczającym takie ważne funkcje, jak prywatne wiadomości, powiadomienia o tweetach oraz widok rozmowy.</p>
+    <p>Dodatkowe funkcje obejmują lokalne wyświetlanie filmów i wielu obrazów osadzonych w tweetach oraz obsługę list, filtrów i wielu kont na raz.</p>
+  </description>
+  <description lang="pt">
+    <p>Cawbird é um cliente twitter nativo GTK+ que fornece recursos vitais como Mensagens Diretas (DMs), notificações de tweet, exibição de conversas.</p>
+    <p>Funcionalidades adicionais incluem visualização de vídeos locais, múltiplas imagens em linha, Listas, Filtros, múltiplas contas, entre outros.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Cawbird é um cliente para o Twitter nativo GTK+ que fornece recursos vitais como mensagens diretas (DMs), notificações de tweet, exibição de conversas.</p>
+    <p>Funcionalidades adicionais incluem visualização de vídeos locais, múltiplas imagens em linha, Listas, Filtros, múltiplas contas, entre outros.</p>
+  </description>
+  <description lang="ro">
+    <p>Cawbird este un client de Twitter nativ GTK+ care furnizează caracteristici vitale ca Mesaje Directe (DM), notificări, pagina de conversaţii.</p>
+    <p>Caracteristici adiţionale includ vizualizarea videoclipurilor local, imagini in linie multiple, Liste, Filtre, conturi multiple, etc.</p>
+  </description>
+  <description lang="ru">
+    <p>Cawbird это клиент для Твиттера в оболочке GTK+, который умеет отправлять личные сообщения, уведомления и личные сообщения в беседах.</p>
+    <p>Также можно: смотреть видео и изображения, настраивать списки и фильтры, несколько профилей и т.д.</p>
+  </description>
+  <description lang="sr">
+    <p>Корберд је домаћи ГТК+ твитер клијент који пружа основне могућности као што су директне поруке, обавештења о твитовима и прегледе разговора.</p>
+    <p>Додатне могућности садрже локално прегледање видео записа, вишеструке угнежђене слике, спискове, филтере, вишеструке налоге и тако даље.</p>
+  </description>
+  <description lang="sr_BA@latin">
+    <p>Cawbird je domaći GTK+ tviter klijent koji pruža osnovne mogućnosti kao što su direktne poruke, obaveštenja o tvitovima i preglede razgovora.</p>
+    <p>Dodatne mogućnosti sadrže lokalno pregledanje video zapisa, višestruke ugnežđene slike, spiskove, filtere, višestruke naloge i tako dalje.</p>
+  </description>
+  <description lang="tr">
+    <p>Cawbird, Direkt Mesajlar (DMS), Bildirimler, Konuşma Görünümleri Gibi Hayati Özellikler Taşıyan GTK+ Kullanan Yerel Bir Twitter İstemcisidir.</p>
+    <p>Yerel Görüntüleme İçin Ek Özellikler Şunlardır, Videolar, Çoklu Resimler, Listeler, Çoklu Hesaplar ve Dahası.</p>
+  </description>
+  <description lang="uk_UA">
+    <p>Cawbird - Twitter-клієнт заснований на GTK+, який реалізує такі необхідні функції як приватні повідомлення (ПП), сповіщення, перегляд розмов.</p>
+    <p>Додаткові функції включають у себе локальний перегляд відео, вбудовані зображення, списки, фільтри, робота з кількома акаунтами, тощо.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>Cawbird 是一款原生的 GTK+ Twitter 客户端，能提供多种基础功能如直接消息(私信)、提醒、会话视图等。</p>
+    <p>高级功能包括本地观看视频、插入多个图片、列表、过滤、多帐号等。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>Cawbird 是原生的 GTK+ Twitter 用戶端，具有訊息、推文通知、以對話形式檢視回覆等等功能。</p>
+    <p>其他功能包括直接觀賞影片、顯示多張影像、列表、過濾器及多重帳戶登入等等。</p>
+  </description>
+  <url type="homepage">https://ibboard.co.uk/cawbird/</url>
+  <launchable type="desktop-id">uk.co.ibboard.cawbird.desktop</launchable>
+  <screenshots>
+    <screenshot type="default" width="481" height="1032">
+      <image>https://ibboard.co.uk/cawbird/appdata/screenshot1.jpg</image>
+      <caption>Generic timeline view when using Cawbird</caption>
+      <caption lang="zh_TW">使用 Cawbird 以時間軸方式瀏覽</caption>
+      <caption lang="zh_CN">使用 Cawbird 时启用常规时间线视图</caption>
+      <caption lang="sr_BA@latin">Opšti pregled vremenske linije kada se koristi Cawbird</caption>
+      <caption lang="sr">Општи преглед временске линије када се користи Корберд</caption>
+      <caption lang="ru">Общий вид ленты при использовании Cawbird</caption>
+      <caption lang="pt_BR">Timeline genérica quando visualizada usando Cawbird</caption>
+      <caption lang="pt">Mostrar timeline genérica ao usar o Cawbird</caption>
+      <caption lang="pl">Oś czasu programu Cawbird</caption>
+      <caption lang="nl">Algemene tijdlijnweergave gebruiken</caption>
+      <caption lang="nb">Generisk tidslinje-visning ved bruk av Cawbird</caption>
+      <caption lang="lt">Bendrinis laiko juostos rodinys, naudojant Cawbird</caption>
+      <caption lang="ko">코어버드 사용시 일반 타임라인 보기</caption>
+      <caption lang="it">Vista generica della timeline quando usi Cawbird</caption>
+      <caption lang="id">Tampilan timeline generik ketika menggunakan Cawbird</caption>
+      <caption lang="gl">Cronoloxía xenérica ao usar Cawbird</caption>
+      <caption lang="gd">Sealladh loidhne-ama coitcheann nuair a chleachdas tu Cawbird</caption>
+      <caption lang="fr">Vue générique de la timeline avec Cawbird</caption>
+      <caption lang="fi">Yleinen aikajana Cawbirdissä</caption>
+      <caption lang="es_419">Vista general del timeline al usar Cawbird</caption>
+      <caption lang="es">Vista de timeline genérica al usar Cawbird</caption>
+      <caption lang="eo">Malpreciza kronologovidigo kiam Cawbird uzata</caption>
+      <caption lang="en_GB">Generic timeline view when using Cawbird</caption>
+      <caption lang="de_DE">Allgemeine Verlaufsansicht bei Nutzung von Cawbird</caption>
+      <caption lang="de">Allgemeine Verlaufsansicht bei Nutzung von Cawbird</caption>
+      <caption lang="da">Generisk tidslinjevisning ved brug af Cawbird</caption>
+      <caption lang="ca">Timeline genèrica  al utilitzar Cawbird</caption>
+      <caption lang="ast">Vista xenérica de llinia temporal al usar Cawbird</caption>
+      <caption lang="ar">عرض المخطط الزمني العام (Timeline) عند استخدام Cawbird</caption>
+    </screenshot>
+    <screenshot width="564" height="956">
+      <image>https://ibboard.co.uk/cawbird/appdata/screenshot2.jpg</image>
+      <caption>Typical Twitter profile</caption>
+      <caption lang="zh_TW">典型的 Twitter 個人檔案</caption>
+      <caption lang="zh_CN">常规 Twitter 资料</caption>
+      <caption lang="sr_BA@latin">Uobičajeni Twitter profil</caption>
+      <caption lang="sr">Уобичајени Твитер профил</caption>
+      <caption lang="ru">Типичный профиль Twitter</caption>
+      <caption lang="pt_BR">perfil do Twitter típico</caption>
+      <caption lang="pt">Perfil típico do Twitter</caption>
+      <caption lang="pl">Typowy profil Twittera</caption>
+      <caption lang="nl">Doorsnee Twitter-profiel</caption>
+      <caption lang="nb">Typisk Twitter-profil</caption>
+      <caption lang="lt">Tipinis Twitter profilis</caption>
+      <caption lang="ko">전형적인 트위터 프로필</caption>
+      <caption lang="it">Tipico profilo twitter</caption>
+      <caption lang="id">Khas Profil Twitter</caption>
+      <caption lang="gl">Perfil típico co Twitter</caption>
+      <caption lang="gd">Pròifil Twitter dualtach</caption>
+      <caption lang="fr">Profil Twitter typique</caption>
+      <caption lang="fi">Tyypillinen Twitter-profiili</caption>
+      <caption lang="es">Perfil de Twitter típico</caption>
+      <caption lang="eo">Malpreciza Tviteroprofilo</caption>
+      <caption lang="en_GB">Typical Twitter profile</caption>
+      <caption lang="de_DE">Typisches Twitter-Profil</caption>
+      <caption lang="de">Typisches Twitter-Profil</caption>
+      <caption lang="da">Typisk Twitter profil</caption>
+      <caption lang="ca">Perfil de Twitter tipic</caption>
+      <caption lang="ast">Perfil típicu de Twitter</caption>
+    </screenshot>
+    <screenshot width="564" height="956">
+      <image>https://ibboard.co.uk/cawbird/appdata/screenshot3.jpg</image>
+      <caption>Account settings can be configured</caption>
+      <caption lang="zh_TW">可以設定帳戶資料</caption>
+      <caption lang="zh_CN">账户设置可自定义</caption>
+      <caption lang="sr_BA@latin">Podešavanja naloga se mogu menjati</caption>
+      <caption lang="sr">Подешавања налога се могу мењати</caption>
+      <caption lang="ru">Настройки профиля можно изменить</caption>
+      <caption lang="pt_BR">Configuração de conta pode ser configurada</caption>
+      <caption lang="pt">Definições da conta podem ser configuradas</caption>
+      <caption lang="pl">Można konfigurować ustawienia konta</caption>
+      <caption lang="nl">Accountinstellingen kunnen worden ingesteld</caption>
+      <caption lang="nb">Kontoinnstillinger kan endres</caption>
+      <caption lang="lt">Paskyros nustatymai gali būti konfigūruojami</caption>
+      <caption lang="ko">계정 환경이 설정 될 수 있음</caption>
+      <caption lang="it">Le impostazioni dell'account possono essere configurate</caption>
+      <caption lang="id">Setelan akun dapat dikonfigurasi</caption>
+      <caption lang="gl">A conta pode configurarse</caption>
+      <caption lang="gd">Gabhaidh roghainnean a’ chunntais rèiteachadh</caption>
+      <caption lang="fr">Les réglages de comptes peuvent être configurés</caption>
+      <caption lang="fi">Tilin asetuksia on mahdollista muuttaa</caption>
+      <caption lang="es_419">Los ajustes de la cuenta pueden ser configurados.</caption>
+      <caption lang="es">Los ajustes de la cuenta pueden ser configurados</caption>
+      <caption lang="eo">Konto agordoj povas agordanta</caption>
+      <caption lang="en_GB">Account settings can be configured</caption>
+      <caption lang="de_DE">Account-Einstellungen können konfiguriert werden</caption>
+      <caption lang="de">Account-Einstellungen können konfiguriert werden</caption>
+      <caption lang="da">Kontoindstillinger kan konfigureres</caption>
+      <caption lang="ca">Els paràmetres del compte es poden configurar</caption>
+      <caption lang="ast">Puen configurase los axustes de cuentes</caption>
+      <caption lang="ar">يمكن ضبط (تهيئه) إعدادات الحساب </caption>
+    </screenshot>
+    <screenshot width="1283" height="688">
+      <image>https://ibboard.co.uk/cawbird/appdata/screenshot4.jpg</image>
+      <caption>Cawbird in different themes (Adwaita, Adwaita dark variant, High Contrast and Adwaita Dark Green)</caption>
+      <caption lang="ru">Cawbird с разными темами (Adwaita, тёмный вариант Adwaita, высоко контрастная и Adwaita Dark Green)</caption>
+      <caption lang="pt_BR">Cawbird em diferentes temas (Adwaita, Adwaita Dark, High Contrast e Adwaita Dark Green)</caption>
+      <caption lang="nl">Cawbird met verschillende thema's (Adwaita, Adwaita donker, Hoog contrast en Adwaita donkergroen)</caption>
+      <caption lang="it">Cawbird in diversi temi (Adwaita, Adwaita dark variant, High Contrast e Adwaita Dark Green)</caption>
+      <caption lang="gd">Tha iomadh ùrlar aig Cawbird (Adwaita, Adwaita dorcha, iomsgaradh àrd agus Adwaita Dark Green)</caption>
+      <caption lang="es">Cawbird en diferentes temas (Adwaita, Adwaita dark variant, High Contrast and Adwaita Dark Green)</caption>
+      <caption lang="en_GB">Cawbird in different themes (Adwaita, Adwaita dark variant, High Contrast and Adwaita Dark Green)</caption>
+      <caption lang="da">Cawbird i forskellige temaer (Adwaita, Adwaita dark variant, High Contrast og Adwaita Dark Green)</caption>
+    </screenshot>
+  </screenshots>
+  <kudos>
+    <kudo>AppMenu</kudo>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+  </kudos>
+  <update_contact>cawbird@ibboard.co.uk</update_contact>
+  <project_license>GPL-3.0+</project_license>
+  <developer_name>IBBoard</developer_name>
+  <developer_name lang="zh_TW">IBBoard</developer_name>
+  <developer_name lang="zh_CN">IBBoard</developer_name>
+  <developer_name lang="uk_UA">IBBoard</developer_name>
+  <developer_name lang="tr">IBBoard</developer_name>
+  <developer_name lang="sr_BA@latin">IBBoard</developer_name>
+  <developer_name lang="sr">IBBoard</developer_name>
+  <developer_name lang="ru">IBBoard</developer_name>
+  <developer_name lang="ro">IBBoard</developer_name>
+  <developer_name lang="pt_BR">IBBoard</developer_name>
+  <developer_name lang="pt">IBBoard</developer_name>
+  <developer_name lang="pl">IBBoard</developer_name>
+  <developer_name lang="nl">IBBoard</developer_name>
+  <developer_name lang="nb">IBBoard</developer_name>
+  <developer_name lang="lt">IBBoard</developer_name>
+  <developer_name lang="ko">IBBoard</developer_name>
+  <developer_name lang="ja">IBBoard</developer_name>
+  <developer_name lang="it">IBBoard</developer_name>
+  <developer_name lang="id">IBBoard</developer_name>
+  <developer_name lang="hu">IBBoard</developer_name>
+  <developer_name lang="hi">IBBoard</developer_name>
+  <developer_name lang="gl">IBBoard</developer_name>
+  <developer_name lang="gd">IBBoard</developer_name>
+  <developer_name lang="ga">IBBoard</developer_name>
+  <developer_name lang="fr">IBBoard</developer_name>
+  <developer_name lang="fi">IBBoard</developer_name>
+  <developer_name lang="fa">IBBoard</developer_name>
+  <developer_name lang="es_VE">IBBoard</developer_name>
+  <developer_name lang="es_MX">IBBoard</developer_name>
+  <developer_name lang="es_419">IBBoard</developer_name>
+  <developer_name lang="es">IBBoard</developer_name>
+  <developer_name lang="eo">IBBoard</developer_name>
+  <developer_name lang="en_GB">IBBoard</developer_name>
+  <developer_name lang="de_DE">IBBoard</developer_name>
+  <developer_name lang="de">IBBoard</developer_name>
+  <developer_name lang="da">IBBoard</developer_name>
+  <developer_name lang="ca">IBBoard</developer_name>
+  <developer_name lang="ast">IBBoard</developer_name>
+  <developer_name lang="ar">IBBoard</developer_name>
+  <url type="bugtracker">https://github.com/ibboard/cawbird/issues</url>
+  <url type="translate">https://www.transifex.com/cawbird/cawbird/</url>
+  <releases>
+    <release date="2022-03-18" version="1.5">
+      <p>Building on the "look after yourself" message in v1.3 and the inclusive internationalisation in v1.4,
+        Cawbird 1.5 is being released in the context of the increasing importance of combatting disinformation
+        following Putin's atrocities in Ukraine.</p>
+      <ul>
+        <li>New features:
+          <ul>
+            <li>Cleanly and clearly handle "witheld" accounts, and hide witheld tweets (#428)</li>
+            <li>Added a button to "reload image" for any images that fail to load (#244)</li>
+          </ul>
+        </li>
+        <li>Fixes:
+          <ul>
+            <li>Capture events so that "reload image" doesn't go to tweet view in single-click activation mode (#439)</li>
+            <li>Fix emoji chooser in non-English locales (thanks to @jtojnar)</li>
+            <li>Remove link to quoted tweet from timeline display (#406)</li>
+            <li>Support paging of blocked profiles so that users with lots of blocks don't see unwanted content, or get crashes on blocking</li>
+            <li>Fix overly long click zone for cropped images</li>
+          </ul>
+        </li>
+        <li>Improvements:
+          <ul>
+            <li>Set <code>StartupNotify=true</code> in desktop file to improve desktop integration, especially on mobile (thanks to @AlexMitter)</li>
+            <li>Focus returns to the text input box after inserting an emoji (#427)</li>
+            <li>Update Danish, Dutch, Gaelic, Brazilian Portuguese and Spanish translations</li>
+          </ul>
+        </li>
+        <li>Developer:
+          <ul>
+            <li>Don't assume that <code>~/.config</code> exists (thanks to @a-wai)</li>
+            <li>Use slashes in dconf path instead of dots (#402)</li>
+            <li>Updated Gnome runtime in Flatpak dev build</li>
+          </ul>
+        </li>
+      </ul>
+    </release>
+    <release version="1.4.2" date="2021-09-19">
+      <p>Cawbird 1.4.2 is a maintenance release with two crash fixes, an emoji fix and updated translations.</p>
+      <ul>
+        <li>Fixes:
+          <ul>
+            <li>Fixed crash when opening DMs if one of the DMs had entities defined out of order in the JSON (#391)</li>
+            <li>Fixed crash when first creating an account due to null account object (#399)</li>
+            <li>Alter emoji data checking to support changes with recent GTK 3.24 versions (#392)</li>
+          </ul>
+        </li>
+        <li>Improvements:
+          <ul>
+            <li>Updated French and English translations</li>
+          </ul>
+        </li>
+      </ul>
+    </release>
+    <release version="1.4.1" date="2021-05-08">
+      <p>Hotfix to correct "Send" button state issues for direct messages</p>
+    </release>
+    <release version="1.4" date="2021-05-01">
+      <p>It has been a while in the making, but Cawbird 1.4 adds lots of features and improves our internationalisation.</p>
+      <ul>
+        <li>Fixes:
+          <ul>
+            <li>Fixed repeat notifications due to message overlap (which we do to avoid missing messages!) (#292)</li>
+            <li>Fixed handling of links with ampersands in them (#305)</li>
+            <li>Fixed handling of Twitter video URLs with ampersands in them (#338)</li>
+            <li>Fixed cropping of tweets in timelines, particularly in narrow windows (#296)</li>
+            <li>Fixed handling of translations so that it works in environments like Flatpak (#297)</li>
+          </ul>
+        </li>
+        <li>Improvements:
+          <ul>
+            <li>Added Normal/Large/X-Large/XX-Large text sizes (#33)</li>
+            <li>Added "Translate Content" option to tweets with option of using Google, Bing, DeepL or custom providers (#161)</li>
+            <li>Better counting of ZWJ emoji - Cawbird now passes Twitter's own compliance tests (#114)</li>
+            <li>Added Scottish Gaelic translations (thanks to @gaidheileamail1)</li>
+            <li>All strings in the UI are now translatable (#351, #362)</li>
+            <li>Add a confirmation to delete draft tweet on Cancel (#340)</li>
+            <li>Made threaded tweets more obvious by including "Reply to" line for self-reply threads in timeline (#339)</li>
+            <li>Tweets are now added to your timeline when you follow a user (and hidden when you unfollow them) (#19)</li>
+            <li>Improved rendering lag when focussing and unfocussing Cawbird (#204)</li>
+            <li>Improved spacing and alignment of images and added a border to define edges (#290, #306)</li>
+            <li>Added the ability to temporarily show a blocked or muted account (#299)</li>
+            <li>Reduced the size of the info icon for the image description notification to avoid it obscuring too much of the image (#294)</li>
+            <li>Swapped to using the 😀 smiley for emoji input rather than 🐧 to be consistent with other applications and platforms (#298)</li>
+          </ul>
+        </li>
+        <li>Developer:
+          <ul>
+            <li>Make it easier to build Cawbird with custom Twitter secrets so that distro builds don't consume the new (June 2019) 100,000 requests per day per app limits (#310)</li>
+            <li>Added an option to use local translation files rather than the system ones, for debugging without installation</li>
+            <li>Added a `-Dmswindows=true` config flag to allow builds that work with Windows's broken "mimetypes are just file extensions" behaviour</li>
+          </ul>
+        </li>
+      </ul>
+    </release>
+    <release date="2021-01-11" version="1.3.2">
+      <p>Cawbird 1.3.2 is a maintenance release due to a privacy issue caused by third-party builds of Cawbird using "debug" builds.</p>
+      <p>Users of native distro packages and other packages that used release builds should not have been affected. We appologise for any inconvenience caused and continue to recommend that users use native packages where possible.</p>
+      <ul>
+        <li>Fixes:
+          <ul>
+            <li>Make it clearer to third-party packagers (e.g. Flatpak and Snap) when they are building debug builds instead of release builds, which log the plain text content of all tweets and DMs to the console, which is then captured in the system log (#274)</li>
+            <li>Make it possible to build Cawbird without GStreamer video support again (#273)</li>
+          </ul>
+        </li>
+        <li>Improvements:
+          <ul>
+            <li>Swapped out `g_print` statements for `g_debug` and generally tidied up some debug logging (relates to #274)</li>
+            <li>Make videos open the browser when GStreamer support is disabled (related to #273)</li>
+            <li>Updated Russian translation (thanks to Даниил Пронин)</li>
+          </ul>
+        </li>
+        <li>Developer:
+          <ul>
+            <li>Fixed intermittent crash of `inlinedownloader` tests</li>
+          </ul>
+        </li>
+      </ul>
+    </release>
+    <release version="1.3.1" date="2021-01-03">
+      <p>Cawbird 1.3.1 fixes several gaps in the block/mute behaviour so that your experience is controlled from the start, as well
+      as including some media upload and mobile fixes and improvements.</p>
+      <ul>
+        <li>Fixes:
+          <ul>
+            <li>Fix unblock and unmute wiping local cache of blocked/muted users</li>
+            <li>Load block/mute lists before downloading timeline/mentions to ensure we hide blocked/muted tweets at startup</li>
+            <li>Unblocking/unmuting now says "unblock" or "unmute" on the button instead of always saying "Unblock"</li>
+            <li>Fix media size checks so that videos don't fail because they're bigger than the image limit</li>
+            <li>Make a narrower user account list for narrow windows to avoid overflow and cropped "profile" button (#259)</li>
+            <li>Combine notification and tweet settings to allow narrower settings dialog for mobile</li>
+          </ul>
+        </li>
+        <li>Improvements:
+          <ul>
+            <li>Hide all tweets in profile view when blocking/muting a user (we shouldn't assume people won't look at the profile)</li>
+            <li>Backfill progressively larger batches of tweets for profiles in case Disable RTs is hiding too many tweets so that the view doesn't scroll</li>
+            <li>Provide a tooltip message for why a media upload failed (e.g. Twitter doesn't support video codec)</li>
+            <li>Updated Dutch, Danish and Italian translations</li>
+          </ul>
+        </li>
+      </ul>
+    </release>
+    <release version="1.3" date="2020-12-31">
+      <p>Cawbird version 1.3 is the "look after yourself" edition. We've got lots of features and fixes, but there are several key improvements to
+      managing your interactions that should have been implemented/fixed sooner. Our priority is making Cawbird accessible and letting users
+      control their experience on Twitter.</p>
+      <ul>
+        <li>Improvements:
+          <ul>
+            <li>Apply filtering across all feeds (including search)</li>
+            <li>Apply changes to filtering, muting, blocking and hiding RTs across all feeds instantly</li>
+            <li>Allow the filtering of mentioned @-handles</li>
+            <li>Load media in DMs and linkify users and hashtags (#12)</li>
+            <li>Added ability to send media in DMs (#14)</li>
+            <li>Added ability to delete DMs (#7)</li>
+            <li>Load older DMs (#3)</li>
+            <li>Add ability to upload videos and larger animated GIFs (#248)</li>
+            <li>Use HTTPS avatars throughout</li>
+            <li>Translations: Dutch and Danish (complete), Italian and French (updated)</li>
+          </ul>
+        </li>
+        <li>Design changes:
+          <ul>
+            <li>More accessible approach to loading "replied to" tweets (#164)</li>
+            <li>Improved user completion behaviour and interaction with user completion list</li>
+            <li>Added outline to media upload indicator to make it clearer on light images</li>
+            <li>Remove whitespace around tweets (e.g. when user has new lines and then a quoted URL or media that we're displaying)</li>
+            <li>Allow Compose view to shrink to narrower screens (e.g. for PinePhone) (#212)</li>
+          </ul>
+        </li>
+        <li>Fixes:
+          <ul>
+            <li>Fix DM load order</li>
+            <li>Fix missing "reply" icon by providing our own (#208)</li>
+            <li>Fixed crashes when playing video (#123)</li>
+            <li>Avoid a crash when returned JSON is invalid (#200)</li>
+            <li>Fixed widget height calculations for responsive and non-responsive views (#202)</li>
+            <li>Fixed layout when starting in responsive width</li>
+            <li>Avoid an unnecessary request for tweets when loading timelines</li>
+            <li>Fixed completion query for known users</li>
+            <li>Fixed various run-time and compiler warnings</li>
+            <li>Fixed handling of command-line parameters (#246)</li>
+          </ul>
+        </li>
+        <li>Developer:
+          <ul>
+            <li>Added "appdata" build config to allow building on platforms without AppStream (#35)</li>
+            <li>Changed Meson configuration and instructions to allow running dev version without installing</li>
+          </ul>
+        </li>
+      </ul>
+    </release>
+    <release version="1.2.1" date="2020-09-20">
+      <p>Changes in Cawbird 1.2.1:</p>
+      <ul>
+        <li>Bug fixes:
+          <ul>
+            <li>Fix crashes when images do not load correctly (#195)</li>
+            <li>Fix crashes when high-res image loads after dialog closes (#196) thanks to @lucaswerkmeister</li>
+          </ul>
+        </li>
+        <li>Improvements:
+          <ul>
+            <li>Improve rendering of @-handles in mixed right-to-left/left-to-right text (#194)</li>
+          </ul>
+        </li>
+      </ul>
+    </release>
+    <release version="1.2.0" date="2020-09-05">
+      <p>Changes in Cawbird 1.2.0:</p>
+      <ul>
+        <li>Improvements:
+          <ul>
+            <li>Resolved major accessibility issue with timelines and improved other bits of accessibility by naming/describing widgets (#143)</li>
+            <li>Added ability to read descriptions on images (#11)</li>
+            <li>Added ability to add descriptions to images when posting (#10)</li>
+            <li>Reduced notifications when first logging in (#137)</li>
+            <li>Window can now be reduced to a narrower width and has a "responsive" layout for tweets (#57)</li>
+            <li>Reduce memory usage by loading smaller (600px) thumbnails and only loading images on demand (#142). Also reduces bandwidth use (especially with images disabled)</li>
+            <li>Let image sets loop back to start, and show progress through images (#172)</li>
+            <li>Made "Replying to" on Tweet info page list all users (including self-reply) so that it is more obvious when the tweet is part of a thread (#158)</li>
+            <li>Reworked @-mention completion so that it works with multilingual text</li>
+            <li>Adjust "media link removal" behaviour so that we still show the link when image loading is disabled so that users know there is media</li>
+            <li>Stopped shipping librest and started using system version</li>
+            <li>Made account removal less "scary" - now removes rather than deleting account</li>
+            <li>Improved consistency of progress status while searching</li>
+            <li>Updated Danish translation (thanks @mads5408) and Dutch translation (thanks @Vistaus) to 100% coverage</li>
+          </ul>
+        </li>
+        <li>Bug fixes:
+          <ul>
+            <li>Update handling of top-level domains to resolve character counting mismatch (#64)</li>
+            <li>Handle repeated attachment of the same image with the same path (#34)</li>
+            <li>Fix scrolling back to older tweets in thread on some platforms (#164)</li>
+            <li>Fixed @-mention completion not handling underscores</li>
+            <li>Fixed a crash when removing the currently open account</li>
+            <li>Fixed a usability issue where removing an account with multiple other accounts available showed the "Add account" interface with no account selector instead of showing another account</li>
+            <li>Fixed show/hide bug for media in quoted tweets</li>
+            <li>Put other users's lists in the correct place (created or subscribed)</li>
+            <li>Fixed builds on platforms without an implicit `#include &lt;string.h>`</li>
+          </ul>
+        </li>
+      </ul>
+    </release>
+    <release date="2020-05-31" version="1.1.0">
+      <p>Changes in Cawbird 1.1.0:</p>
+      <ul>
+        <li>Improvements:
+          <ul>
+            <li>Moved tweet replies below tweet in detailed view, so it now matches the layour of almost all other clients (#16)</li>
+            <li>Improved tweet threading (#17):
+              <ul>
+                <li>Now tries to build entire self-reply thread above *and* below the tweet</li>
+                <li>Sorts all self-replies first, then mentioned replies, then other replies</li>
+                <li>Shows more than five replies</li>
+                <li>Added RT marker to detailed tweet view</li>
+                <li>Reduce number of requests to Twitter API when moving up and down a thread</li>
+              </ul>
+            </li>
+            <li>Added overlap to timeline tweet fetching to significantly reduce the likelihood of missing tweets due to "eventual consistency" of Twitter servers (#147)</li>
+            <li>Updated Danish translation (thanks @mads5408) and Dutch translation (thanks @Vistaus) to 100% coverage and increased coverage of Arabic translation (thanks @Ammar_Khaled and @Raayib)</li>
+          </ul>
+        </li>
+        <li>Bug fixes:
+          <ul>
+            <li>Links in direct messages remain clickable after closing and opening (#13)</li>
+            <li>Added support for updated GTK Emoji data (#148 - backported into official v1.0.5 builds)</li>
+            <li>Fixed an SQL error when trying to complete names in tweets</li>
+          </ul>
+        </li>
+        <li>UI changes:
+          <ul>
+            <li>Hidden and deleted tweets in threads no longer trigger error dialogs (#138 and #153)</li>
+            <li>Timestamps on direct messages now update (#30)</li>
+            <li>Fix keyboard navigation in detailed tweet view (#145)</li>
+            <li>Debug builds can dump tweet JSON and details from Tweet Info page (#26)</li>
+            <li>List name is now shown as window title (#135)</li>
+            <li>List now uses actual title, not unique URL-name</li>
+            <li>List of lists now updates (with caching)</li>
+            <li>Tweets in searches now show like/favourite status</li>
+            <li>Added translation strings for new "limited reply" tweets</li>
+            <li>Handle "operation cancelled" 'error' so that users don't see a dialog when clicking back too quickly</li>
+          </ul>
+        </li>
+      </ul>
+    </release>
+    <release version="1.0.5" date="2020-04-08">
+      <p>Changes in Cawbird 1.0.5:</p>
+      <ul>
+        <li>Improvements:
+          <ul>
+            <li>Made Cawbird translatable through Transifex! (#47)</li>
+            <li>Added new Danish translation (thanks @mads5408), updated Catalan (thanks @joensgi), Dutch (thanks @Vistaus), and Italian (thanks @albanobattistella)</li>
+            <li>Improved image scaling to handle portrait monitors (#59)</li>
+          </ul>
+        </li>
+        <li>Bug fixes:
+          <ul>
+            <li>Fixed parsing/display of some old tweets with bad encoding (#69)</li>
+            <li>Fixed URL encoding issues in user profiles breaking URL display (#78)</li>
+            <li>Removed case-sensitive filtering of @-handle in mentions so all mentions now show (#81)</li>
+            <li>Fixed segfault on CentOS 8 due to a bug in how RHEL/CentOS patch a glib function for FIPS compliance (#82)</li>
+          </ul>
+        </li>
+        <li>UI changes:
+          <ul>
+            <li>Added dark mode toggle in settings (#67)</li>
+            <li>Improved error messages so that they're not just "Forbidden" or "Not Found" (#8, #41)</li>
+            <li>Protected accounts are now marked with a padlock (#18)</li>
+            <li>Made tweet timestamps into links to twitter.com (#129)</li>
+            <li>Added @-handle next to display name for retweets (#20)</li>
+            <li>Un-dimmed some labels to improve accessibility (#80)</li>
+            <li>Added tooltips for usernames, @-handles and Twitter client names (#87, #120)</li>
+            <li>DM composition area can now be resized (#72)</li>
+            <li>Tidied up CSS to remove warnings (#5)</li>
+          </ul>
+        </li>
+      </ul>
+    </release>
+    <release date="2020-01-12" version="1.0.4">
+      <p>Changes in Cawbird 1.0.4:</p>
+      <ul>
+        <li>Reduce bespoke themeing and make the main bar use native colours</li>
+        <li>Import favourited images from Corebird (if they exist)</li>
+        <li>Fixed crash caused by Twitter sending invalid entity positions in tweet</li>
+        <li>Fixed tweet length error with counting prime marks (quotes)</li>
+        <li>Update Italian translation (thanks to @albanobattistella)</li>
+        <li>Completed Flatpak build (thanks to @p1u3o)</li>
+      </ul>
+    </release>
+    <release version="1.0.3" date="2019-10-20">
+      <p>Changes in Cawbird 1.0.3:</p>
+      <ul>
+        <li>Handle tweet media separatelty from quoted tweet media - now displays quote with image reply!</li>
+        <li>Fix silently handled tweet parsing errors from RT syncing changes</li>
+        <li>Tidy up README</li>
+      </ul>
+    </release>
+    <release date="2019-10-05" version="1.0.2">
+      <p>Changes in Cawbird 1.0.2:</p>
+      <ul>
+        <li>Handle TLS errors that we're getting from Twitter and GnuTLS</li>
+        <li>Add initial Flatpak manifest (thanks to @p1u3o)</li>
+        <li>Keep retweet status in sync across pages</li>
+        <li>Fix building on newer versions of Vala (thanks to @lucaswerkmeister)</li>
+        <li>Make image click positioning behaviour consistent</li>
+      </ul>
+    </release>
+    <release date="2019-08-31" version="1.0.1">
+      <p>Changes in Cawbird 1.0.1:</p>
+      <ul>
+        <li>Fix search with non-alphanumeric characters</li>
+        <li>Redesign logo in a Tango style</li>
+        <li>Migrates DMs, filters and snippets from old Corebird accounts</li>
+      </ul>
+    </release>
+    <release version="1.0" date="2019-08-04">
+      <p>Changes in Cawbird 1.0:</p>
+      <ul>
+        <li>First release after forking from Corebird</li>
+        <li>Supports new non-streaming API</li>
+        <li>Incorporates UI tweaks and customisations</li>
+        <li>Fixes source links for New Twitter web interface changes</li>
+      </ul>
+    </release>
+  </releases>
+  <provides>
+    <binary>cawbird</binary>
+  </provides>
+  <content_rating type="oars-1.1">
+    <content_attribute id="social-chat">moderate</content_attribute>
+    <content_attribute id="social-info">mild</content_attribute>
+    <content_attribute id="social-audio">moderate</content_attribute>
+  </content_rating>
+  <custom>
+    <value key="Purism::form_factor">workstation</value>
+    <value key="Purism::form_factor">mobile</value>
+  </custom>
+</component>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>tangram</pkgname>
+  <icon height="64" type="cached" width="64">re.sonny.Tangram.png</icon>
+  <icon width="128" height="128" type="cached">re.sonny.Tangram.png</icon>
+  <id>re.sonny.Tangram</id>
+  <metadata_license>FSFAP</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>Tangram</name>
+  <summary>Browser for your pinned tabs</summary>
+  <description>
+    <p>
+      Tangram is a new kind of browser. It is designed to organize and run your Web applications.
+      Each tab is persistent and independent. You can set multiple tabs with different accounts for the same application.
+    </p>
+    <p>Common use cases:</p>
+    <ul>
+      <li>Stay up to date with your favorite communities</li>
+      <li>Merge all these annoying separate chat applications into one</li>
+      <li>Group your workplace tools under one application</li>
+    </ul>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/sonnyp/Tangram/master/data/appdata/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <launchable type="desktop-id">re.sonny.Tangram.desktop</launchable>
+  <url type="homepage">https://github.com/sonnyp/Tangram</url>
+  <url type="bugtracker">https://github.com/sonnyp/Tangram/issues</url>
+  <update_contact>sonny@fastmail.net</update_contact>
+  <developer_name>Sonny Piers</developer_name>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release version="1.3.2" date="2021-10-25">
+      <description>
+        <ul>
+          <li>Fix window title</li>
+          <li>Update GNOME runtime to 41</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.3.1" date="2020-09-12" urgency="high">
+      <description>
+        <ul>
+          <li>Fix an issue preventing some sites such as Twitter or Facebook from being added.</li>
+          <li>Update GNOME runtime to 3.38</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.3.0" date="2020-09-12">
+      <description>
+        <ul>
+          <li>Enable spell checking</li>
+          <li>Customizable user-agent per instance</li>
+          <li>New project icon/logo</li>
+          <li>New tab background color respects dark mode</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-09-19" version="1.2.0">
+      <description>
+        <ul>
+          <li>Add support for downloading files</li>
+          <li>Add home button</li>
+          <li>Better desktop integration</li>
+          <li>Fix the main window becoming tiny when unmaximizing</li>
+          <li>Enable touchpad/touchscreen swipe navigation gestures</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-09-14" version="1.1.0">
+      <description>
+        <ul>
+          <li>Better notifications handling</li>
+          <li>Improved web compatibility and performances</li>
+          <li>Tangram now works properly on Flatpak 1.0 (Linux Mint, Ubuntu 18.04, ...)</li>
+        </ul>
+      </description>
+    </release>
+    
+    <release version="1.0.1" date="2019-09-10" />
+  </releases>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>HighContrast</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>Notifications</kudo>
+  </kudos>
+</component>

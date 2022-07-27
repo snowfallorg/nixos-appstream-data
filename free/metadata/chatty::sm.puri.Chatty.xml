@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>chatty</pkgname>
+  <launchable type="desktop-id">sm.puri.Chatty.desktop</launchable>
+  <icon width="64" type="cached" height="64">sm.puri.Chatty.png</icon>
+  <icon height="128" type="cached" width="128">sm.puri.Chatty.png</icon>
+  <id>sm.puri.Chatty</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <name>Chats</name>
+  <name lang="uk">Спілкування</name>
+  <name lang="tr">Konuşmalar</name>
+  <name lang="sr">Разговори</name>
+  <name lang="sv">Chattar</name>
+  <name lang="ru">Чаты</name>
+  <name lang="ro">Discuții</name>
+  <name lang="pt_BR">Conversas</name>
+  <name lang="pt">Chats</name>
+  <name lang="nl">Berichten</name>
+  <name lang="la">Fabulae</name>
+  <name lang="ko">대화</name>
+  <name lang="ja">チャット</name>
+  <name lang="it">Chats</name>
+  <name lang="id">Obrolan</name>
+  <name lang="hu">Csevegések</name>
+  <name lang="ht">Chat</name>
+  <name lang="fur">Conversazions</name>
+  <name lang="fr">Discussions</name>
+  <name lang="fi">Keskustelut</name>
+  <name lang="es">Chats</name>
+  <name lang="en_GB">Chats</name>
+  <name lang="de">Chats</name>
+  <name lang="da">Chats</name>
+  <name lang="cs">Konverzace</name>
+  <summary>A messaging application</summary>
+  <summary lang="uk">Програма для обміну повідомленнями</summary>
+  <summary lang="tr">Mesajlaşma uygulaması</summary>
+  <summary lang="sr">Апликација за поруке</summary>
+  <summary lang="sv">Ett meddelandeprogram</summary>
+  <summary lang="ru">Приложение для обмена сообщениями</summary>
+  <summary lang="ro">O aplicație de mesagerie</summary>
+  <summary lang="pt_BR">Um aplicativo de mensagens</summary>
+  <summary lang="pt">Uma aplicação de mensagens</summary>
+  <summary lang="nl">Een berichtentoepassing</summary>
+  <summary lang="la">Programma adnuntiare</summary>
+  <summary lang="ko">메시징 프로그램</summary>
+  <summary lang="ja">メッセージングアプリ</summary>
+  <summary lang="it">Un'applicazione di messaggistica</summary>
+  <summary lang="id">Aplikasi perpesanan</summary>
+  <summary lang="hu">Egy üzenetküldő alkalmazás</summary>
+  <summary lang="ht">Yon aplikasyon mesaj</summary>
+  <summary lang="fur">Une aplicazion pai messaçs</summary>
+  <summary lang="fr">Une application de messagerie</summary>
+  <summary lang="fi">Viestitysohjelma</summary>
+  <summary lang="es">Una aplicación de mensajería</summary>
+  <summary lang="en_GB">A messaging application</summary>
+  <summary lang="el">Εφαρμογή μηνυμάτων</summary>
+  <summary lang="de">Ein Programm für Textnachrichten</summary>
+  <summary lang="da">Et beskedprogram</summary>
+  <summary lang="cs">Komunikační aplikace</summary>
+  <description>
+    <p>Chats is a messaging application supporting XMPP and SMS.</p>
+  </description>
+  <description lang="cs">
+    <p>Konverzace je aplikace na posílání XMPP a SMS zpráv.</p>
+  </description>
+  <description lang="da">
+    <p>Chats er et beskedprogram som understøtter XMPP og SMS.</p>
+  </description>
+  <description lang="de">
+    <p>Chats ist ein Anwendung für Textnachrichten via XMPP und SMS</p>
+  </description>
+  <description lang="en_GB">
+    <p>Chats is a messaging application supporting XMPP and SMS.</p>
+  </description>
+  <description lang="es">
+    <p>Chats es una aplicación de mensajería que soporte SMS y XMPP</p>
+  </description>
+  <description lang="fi">
+    <p>Chats on viestitysohjelma, joka tukee XMPP ja SMS (tekstiviesti) protokollia.</p>
+  </description>
+  <description lang="fr">
+    <p>Chats est une application de messagerie supportant XMPP et SMS.</p>
+  </description>
+  <description lang="fur">
+    <p>Conversazions e je une aplicazion par scambiâ messaçs che e supuarte XMPP e SMS.</p>
+  </description>
+  <description lang="ht">
+    <p>Chat se yon aplikasyon mesaj ki sipòte XMPP ak SMS.</p>
+  </description>
+  <description lang="hu">
+    <p>A Chats egy XMPP-t és SMS-t támogató üzenetküldő alkalmazás.</p>
+  </description>
+  <description lang="id">
+    <p>Obrolan adalah aplikasi perpesanan yang mendukung XMPP dan SMS.</p>
+  </description>
+  <description lang="it">
+    <p>Chats è un'applicazione di messaggistica che supporta XMPP e SMS.</p>
+  </description>
+  <description lang="ko">
+    <p>대화는 XMPP와 SMS를 지원하는 메시징 프로그램입니다.</p>
+  </description>
+  <description lang="la">
+    <p>Fabulae programma adnuntiare est, quod sustinet XMPP et SMS.</p>
+  </description>
+  <description lang="nl">
+    <p>Berichten is een berichtentoepassing die XMPP en sms ondersteunt.</p>
+  </description>
+  <description lang="pt">
+    <p>Chats é uma aplicação de mensagens que suporta XMPP e SMS.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Conversas é um aplicativo compatível com XMPP e SMS.</p>
+  </description>
+  <description lang="ro">
+    <p>Discuții este o aplicație de mesagerie XMPP și SMS.</p>
+  </description>
+  <description lang="ru">
+    <p>Чаты - приложение для обмена сообщениями, поддерживающее XMPP и СМС.</p>
+  </description>
+  <description lang="sr">
+    <p>Разговори је апликација за поруке која подржава Икс-МПП и СМС.</p>
+  </description>
+  <description lang="sv">
+    <p>Chattar är ett meddelandeprogram med stöd för XMPP och SMS.</p>
+  </description>
+  <description lang="tr">
+    <p>Konuşmalar, XMPP ve SMS’i destekleyen mesajlaşma uygulamasıdır.</p>
+  </description>
+  <description lang="uk">
+    <p>«Спілкування» — програма для обміну повідомленнями із підтримкою XMPP і SMS.</p>
+  </description>
+  <url type="homepage">https://source.puri.sm/Librem5/chatty</url>
+  <translation type="gettext">purism-chatty</translation>
+  <update_contact>librem5-dev@lists.community.puri.sm</update_contact>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Chats message window</caption>
+      <caption lang="uk">Вікно повідомлень спілкування</caption>
+      <caption lang="tr">Konuşmalar ileti penceresi</caption>
+      <caption lang="sr">Прозор са порукама разговора</caption>
+      <caption lang="sv">Meddelandefönster för Chattar</caption>
+      <caption lang="ru">Окно сообщений чатов</caption>
+      <caption lang="ro">Fereastra de mesaj pentru Discuții</caption>
+      <caption lang="pt_BR">Janela de mensagens</caption>
+      <caption lang="pt">Janela de mensagem de Chats</caption>
+      <caption lang="nl">Chatberichtvenster</caption>
+      <caption lang="la">Fabulae fenestra nuntii</caption>
+      <caption lang="ko">대화 메시지 창</caption>
+      <caption lang="it">Finestra di messaggio Chats</caption>
+      <caption lang="id">Jendela pesan obrolan</caption>
+      <caption lang="hu">Csevegések üzenetablak</caption>
+      <caption lang="ht">Fenèt mesaj chat yo</caption>
+      <caption lang="fur">Barcon messaçs di Conversazions</caption>
+      <caption lang="fr">Fenêtre de message de Chats</caption>
+      <caption lang="fi">Chats viesti-ikkuna</caption>
+      <caption lang="es">Ventana de mensajes de Chats</caption>
+      <caption lang="en_GB">Chats message window</caption>
+      <caption lang="de">Fenster für Textnachrichten</caption>
+      <caption lang="da">Chats meddelelsesvindue</caption>
+      <caption lang="cs">Okno zpráv aplikace Konverzace</caption>
+      <image width="906" height="621" type="source">https://source.puri.sm/guido.gunther/chatty/raw/fix-test/data/screenshots/message.png?inline=false</image>
+    </screenshot>
+  </screenshots>
+  <mimetypes>
+    <mimetype>x-scheme-handler/sms</mimetype>
+  </mimetypes>
+  <content_rating type="oars-1.1">
+    <content_attribute id="social-chat">intense</content_attribute>
+  </content_rating>
+  <releases>
+    <release version="0.0.1" date="2018-12-04">
+      <description>
+        <p>Initial development release of chatty with support for xmpp and sms.</p>
+        <p lang="ru">Выпуск начальной разработки chatty с поддержкой XMPP и СМС.</p>
+        <p lang="la">Versio initialis progressionis de chatty cum sustinendo pro xmpp et sms.</p>
+        <p lang="fr">Version de développement initiale de Chats avec prise en charge de XMPP et SMS.</p>
+        <p lang="de">Initiales Entwicklungs-Release von Chatty mit XMPP- und SMS-Unterstützung</p>
+      </description>
+    </release>
+  </releases>
+  <custom>
+    <value key="Purism::form_factor">workstation</value>
+    <value key="Purism::form_factor">mobile</value>
+  </custom>
+</component>

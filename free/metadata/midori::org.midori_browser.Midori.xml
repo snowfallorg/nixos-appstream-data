@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>
+      <b>Privacy out of the box</b>
+    </p>
+    <p>
+      <b />
+    </p>
+    <p>
+      <b />
+    </p>
+    <ul>
+      <li>Open a 1000 tabs instantly.</li>
+      <li>Easy web apps creation.</li>
+      <li>Customizable side panels.</li>
+      <li>User scripts and styles a la Greasemonkey.</li>
+      <li>Web developer tools powered by WebKit.</li>
+    </ul>
+    <ul>
+      <li>Open a 1000 tabs instantly.</li>
+      <li>Easy web apps creation.</li>
+      <li>Customizable side panels.</li>
+      <li>User scripts and styles a la Greasemonkey.</li>
+      <li>Web developer tools powered by WebKit.</li>
+    </ul>
+  </description>
+  <pkgname>midori</pkgname>
+  <icon type="cached" height="64" width="64">org.midori_browser.Midori.png</icon>
+  <icon type="cached" width="128" height="128">org.midori_browser.Midori.png</icon>
+  <id>org.midori_browser.Midori</id>
+  <launchable type="desktop-id">org.midori_browser.Midori.desktop</launchable>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>LGPL-2.1-or-later</project_license>
+  <name>Midori Web Browser</name>
+  <name lang="af">Midori Web Blaaier</name>
+  <name lang="ar">ميدورى مُتصفح الويب</name>
+  <name lang="be">Вэб-браўзер Midori</name>
+  <name lang="bg">Уеб браузър Midori</name>
+  <name lang="bn">মিডোরি ওয়েব ব্রাউজার</name>
+  <name lang="bs">Midori internet pregledač</name>
+  <name lang="ca">Navegador web Midori</name>
+  <name lang="ckb">وێبگه‌ڕی میدۆری</name>
+  <name lang="cs">Internetový prohlížeč Midori</name>
+  <name lang="cy">Midori Porwr Gwe</name>
+  <name lang="da">Midori-webbrowser</name>
+  <name lang="de">Midori Webbrowser</name>
+  <name lang="el">Περιηγητής Ιστού Midori</name>
+  <name lang="en_AU">Midori Web Browser</name>
+  <name lang="en_CA">Midori Web Browser</name>
+  <name lang="en_GB">Midori Web Browser</name>
+  <name lang="eo">Retumilo Midori</name>
+  <name lang="es">Navegador web Midori</name>
+  <name lang="et">Midori veebibrauser</name>
+  <name lang="eu">Web-arakatzaile mugikorra</name>
+  <name lang="fa">مرورگر وب میدوری</name>
+  <name lang="fi">Midori-verkkoselain</name>
+  <name lang="fr">Navigateur Web Midori</name>
+  <name lang="gd">Brabhsair-lìn Midori</name>
+  <name lang="gl">Navegador web Midori</name>
+  <name lang="he">דפדפן האינטרנט  Midori</name>
+  <name lang="hi">मिडोरी वेब ब्राउज़र</name>
+  <name lang="hr">Midori web preglednik</name>
+  <name lang="hu">Midori webböngésző</name>
+  <name lang="ia">Le Navigator Web Midori</name>
+  <name lang="id">Peramban Web Midori</name>
+  <name lang="it">Browser web Midori</name>
+  <name lang="ja">Midori ウェブブラウザー</name>
+  <name lang="kk">Midori веб браузері</name>
+  <name lang="km">កម្មវិធីអ៊ីនធឺណិត Midori</name>
+  <name lang="ko">미도리 웹 브라우저</name>
+  <name lang="ku">Midori Web Gerok</name>
+  <name lang="ky">Midori интернет-серепчиси</name>
+  <name lang="lb">Midori Web Browser</name>
+  <name lang="lt">Interneto naršyklė Midori</name>
+  <name lang="lv">Midori tīmekļa pārlūks</name>
+  <name lang="ml">മിഡോരി വെബ് ബ്രൗസര്‍</name>
+  <name lang="ms">Pelayar Web Midori</name>
+  <name lang="nap">Navigatore web Midori</name>
+  <name lang="nb">Midori Nettleser</name>
+  <name lang="nl">Midori webbrowser</name>
+  <name lang="nn">Midori Nettlesar</name>
+  <name lang="pl">Przeglądarka internetowa Midori</name>
+  <name lang="pt">Navegador web Midori</name>
+  <name lang="pt_BR">Navegador Web Midori</name>
+  <name lang="ro">Navigatorul web Midori</name>
+  <name lang="ru">Веб-браузер Midori</name>
+  <name lang="sk">Midori internetový prehliadač</name>
+  <name lang="sl">Brskalnik Midori</name>
+  <name lang="sq">Midori - Shfletuesi i Internetit</name>
+  <name lang="sr">Прегледник мреже Мидори</name>
+  <name lang="sv">Webbläsaren Midori</name>
+  <name lang="ta">மிடோரி இணைய உலாவி</name>
+  <name lang="te">మిడొరి వెబ్ విహారిణి</name>
+  <name lang="th">เว็บเบราว์เซอร์มิโดะริ</name>
+  <name lang="tl">Midori Web Browser</name>
+  <name lang="tr">Midori İnternet Tarayıcısı</name>
+  <name lang="ug">مىدورى(Midori) توركۆرگۈ</name>
+  <name lang="uk">Midori - переглядач Веб-сторінок</name>
+  <name lang="ur">میڈوری ویب براؤزر</name>
+  <name lang="vi">Trình duyệt web Midori</name>
+  <name lang="zh_CN">Midori 网络浏览器</name>
+  <name lang="zh_TW">Midori 網頁瀏覽器</name>
+  <categories>
+    <category>Network</category>
+    <category>WebBrowser</category>
+  </categories>
+  <kudos>
+    <kudo>AppMenu</kudo>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>Notifications</kudo>
+    <kudo>UserDocs</kudo>
+  </kudos>
+  <summary>A fast and lightweight web browser</summary>
+  <url type="homepage">https://www.midori-browser.org/</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://www.midori-browser.org/images/screenshots/rdio.png</image>
+    </screenshot>
+  </screenshots>
+  <update_contact>christian@twotoasts.de</update_contact>
+  <developer_name>Christian Dywan</developer_name>
+  <url type="bugtracker">https://github.com/midori-browser/core/issues</url>
+  <url type="faq">https://www.midori-browser.org/faq</url>
+  <url type="donation">https://www.midori-browser.org/donate</url>
+  <translation type="gettext">midori</translation>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release version="0.5.11" date="2015-08-30" />
+  </releases>
+</component>

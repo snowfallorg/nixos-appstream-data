@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <description>
+    <p>
+      Frescobaldi is an advanced text editor to edit LilyPond sheet music files.
+      It aims to be powerful, yet lightweight and easy to use.
+    </p>
+    <p>Features:</p>
+    <ul>
+      <li>Powerful text editor with syntax highlighting and automatic completion</li>
+      <li>Music view with advanced Point &amp; Click</li>
+      <li>Midi player to proof-listen LilyPond-generated MIDI files</li>
+      <li>Midi capturing to enter music</li>
+      <li>Powerful Score Wizard to quickly setup a music score</li>
+      <li>Snippet Manager to store and apply text snippets, templates or scripts</li>
+      <li>Use multiple versions of LilyPond, automatically selects the correct version</li>
+      <li>Built-in LilyPond documentation browser and built-in User Guide</li>
+      <li>Smart layout-control functions like coloring specific objects in the PDF</li>
+      <li>MusicXML, Midi and ABC import</li>
+      <li>Modern user interface with configurable colors, fonts and keyboard shortcuts</li>
+      <li>Translated into the following languages: Dutch, English, French, German, Italian, Czech, Russian, Spanish, Galician, Turkish, Polish, Brazillian Portugese and Ukrainian.</li>
+    </ul>
+    <p>
+      Frescobaldi is designed to run on all major operating systems (Linux, Mac OS X
+      and MS Windows). It is named after Girolamo Frescobaldi (1583-1643), an Italian
+      composer of keyboard music in the late Renaissance and early Baroque period.
+    </p>
+  </description>
+  <description lang="cs">
+    <p>Frescobaldi je pokročilý textový editor pro úpravy souborů not v LilyPondu.Jeho cílem je být výkonný, přesto lehký a snadno použitelný.</p>
+    <p>Vlastnosti:</p>
+    <ul>
+      <li>Výkonný textový editor se zvýrazněním syntaxe a automatickým dokončováním</li>
+      <li>Zobrazení not s pokročilým ukázat &amp;amp; klepnout</li>
+      <li>Přehrávač Midi pro poslech MIDI souborů vytvořených LilyPondem</li>
+      <li>Zachytávání MIDI pro vstup do not</li>
+      <li>Mocný průvodce notovým zápisem pro rychlé nastavení notového zápisu</li>
+      <li>Správce úryvků pro ukládání a použití textových úryvků, šablon nebo skriptů</li>
+      <li>Při použití více verzí LilyPondu se automaticky vybere správná verze</li>
+      <li>Vestavěný prohlížeč dokumentace k LilyPondu a vestavěná uživatelská příručka</li>
+      <li>Chytré funkce řízení rozložení, jako je barvení určitých předmětů v PDF</li>
+      <li>Zavedení MusicXML, MIDI a ABC</li>
+      <li>Pokrokové uživatelské rozhraní s nastavitelnými barvami, písmy a klávesovými zkratkami</li>
+      <li>Přeloženo do následujících jazyků: holandština, angličtina, francouzština, němčina,italština, čeština, ruština, španělština, galicijština, turečtina, polština, brazilskáportugalština a ukrajinština.</li>
+    </ul>
+    <p>Frescobaldi je navržen pro provoz na všech hlavních operačních systémech (Linux, Mac OSX a MS Windows). Je pojmenován podle Girolama Frescobaldiho (1583-1643),italského skladatele hudby pro klávesy v době pozdní renesance a raného baroka.</p>
+  </description>
+  <description lang="it">
+    <p>Frescobaldi è un editor di testo avanzato per la scrittura di partiture in formato LilyPond. Molteplici funzionalità si coniugano con leggerezza e facilità d'uso.</p>
+    <p>Funzionalità:</p>
+    <ul>
+      <li>Editor di testo potente con colorazione della sintassi e completamento automatico</li>
+      <li>Anteprima dello spartito con punta-e-clicca avanzato</li>
+      <li>Player MIDI per la revisione dei file MIDI generati da LilyPond</li>
+      <li>Acquisizione MIDI per inserire la musica</li>
+      <li>Configurazione assistita potente per impostare rapidamente una partitura</li>
+      <li>Gestore dei frammenti per memorizzare e applicare frammenti di testo, modelli o script</li>
+      <li>Uso di versione multiple di LilyPond, con selezione automatica della versione corretta</li>
+      <li>Navigatore della documentazione di LilyPond e guida di Frescobaldi integrati</li>
+      <li>Funzioni intelligenti di controllo del layout come la colorazione di oggetti specifici nel PDF</li>
+      <li>Importazione di MusicXML, MIDI e ABC</li>
+      <li>Interfaccia utente moderna con colori, caratteri e scorciatoie da tastiera configurabili</li>
+      <li>Tradotto nelle lingue seguenti: olandese, inglese, francese, tedesco, italiano, ceco, russo, spagnolo, galiziano, turco, polacco, portoghese brasiliano e ucraino.</li>
+    </ul>
+    <p>Frescobaldi è progettato per funzionare in tutto i principali sistemi operativi (Linux, Mac OS X e MS Windows). Il suo nome deriva da Giacomo Frescobaldi (1583-1643), un compositore italiano di musica per tastiera del tardo Rinascimento e primo Barocco.</p>
+  </description>
+  <description lang="nl">
+    <p>Frescobaldi is een geavanceerde teksteditor om LilyPond muziekbestanden te bewerken. Het wil krachtig zijn, maar lichtgewicht en gemakkelijk te gebruiken.</p>
+    <p>Mogelijkheden:</p>
+    <ul>
+      <li>Krachtige tekst-editor met syntaxis-accentuering en automatisch aanvullen</li>
+      <li>Muziekweergave met geavanceerde Point&amp;amp;Click</li>
+      <li>Midi-speler om door LilyPond gemaakte MIDI-bestanden af te luisteren</li>
+      <li>MIDI-input om muziek in te voeren</li>
+      <li>Krachtige Score Wizard om snel een partituur om te zetten</li>
+      <li>Knipselmanager om stukken tekst, sjablonen of scripts te bewaren en bewerken</li>
+      <li>Gebruik meerdere versies van LilyPond, kies automatisch de juiste versie</li>
+      <li>Ingebouwde LilyPond documentatie-browser en ingebouwde handleiding</li>
+      <li>Slimme layout-controle functies, zoals specifieke objecten kleuren in de PDF</li>
+      <li>MusicXML, Midi en ABC im- en export</li>
+      <li>Moderne gebruiksinterface met instelbare kleuren, lettertypen en sneltoetsen</li>
+      <li>Vertaald in de volgende talen: Nederlands, Engels, Frans, Duits, Italiaans, Tsjechisch, Russisch, Spaans, Galicisch, Turks, Pools, Braziliaans Portugees en Ukraïns.</li>
+    </ul>
+    <p>Frescobaldi is ontworpen om op alle belangrijke besturingssystemen te kunnen werken (Linux, Mac OS X en MS Windows). Het is genoemd naar Girolamo Frescobaldi (1583-1643), een Italiaanse componist van muziek voor o.a. orgel en clavecymbel uit de late Renaissance en vroege Barok.</p>
+  </description>
+  <description lang="ru">
+    <p>Frescobaldi — текстовый редактор с широкими возможностями. Программа предназначена для редактирования файлов партитур LilyPond. Она предоставляет множество опций, но в то же время легковесна и проста в использовании.</p>
+    <p>Возможности:</p>
+    <ul>
+      <li>Текстовый редактор с широкими возможностями, включая подсветку синтаксиса и автодополнение</li>
+      <li>Предпросмотр с опцией Point'n'Click</li>
+      <li>MIDI-проигрыватель для проверки файлов MIDI, созданных с помощью LilyPond</li>
+      <li>Захват MIDI для ввода музыки</li>
+      <li>Мастер партитуры с широкими возможностями для быстрого создания партитуры</li>
+      <li>Диспетчер сниппетов для хранения и применения текстовых сниппетов, шаблонов или сценариев</li>
+      <li>Использование нескольких версий LilyPond, автоматический выбор правильной версии</li>
+      <li>Встроенный браузер документации LilyPond и встроенное руководство пользователя</li>
+      <li>«Умные» опции управления макетом, например, выделение цветом отдельных объектов в PDF</li>
+      <li>Импорт MusicXML, MIDI и ABC</li>
+      <li>Современный пользовательский интерфейс с возможностью настройки цветов, шрифтов и комбинаций клавиш</li>
+      <li>Программа переведена на следующие языки: голландский, английский, французский, немецкий, итальянский, чешский, русский, испанский, галисийский, турецкий, польский, бразильский португальский и украинский.</li>
+    </ul>
+    <p>Программа Frescobaldi работает во всех наиболее распространённых операционных системах (Linux, Mac OS X и MS Windows). Она названа в честь Джироламо Фрескобальди (1583—1643), итальянского композитора, который создавал музыку для клавишных инструментов в эпоху позднего Ренессанса и раннего барокко.</p>
+  </description>
+  <pkgname>frescobaldi</pkgname>
+  <icon type="cached" width="64" height="64">org.frescobaldi.Frescobaldi.png</icon>
+  <icon width="128" height="128" type="cached">org.frescobaldi.Frescobaldi.png</icon>
+  <id>org.frescobaldi.Frescobaldi</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Frescobaldi</name>
+  <name lang="ru">Frescobaldi</name>
+  <name lang="nl">Frescobaldi</name>
+  <name lang="it">Frescobaldi</name>
+  <name lang="cs">Frescobaldi</name>
+  <summary>LilyPond Music Editor</summary>
+  <summary lang="ru">Редактор музыки для LilyPond</summary>
+  <summary lang="nl">Muziek-editor voor LilyPond</summary>
+  <summary lang="it">Editor musicale per LilyPond</summary>
+  <summary lang="fr">Éditeur de musique LilyPond</summary>
+  <summary lang="cs">Notační editor pro LilyPond</summary>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Text editor and music view</caption>
+      <caption lang="ru">Текстовый редактор и предпросмотр</caption>
+      <caption lang="nl">Tekst editor en muziekweergave</caption>
+      <caption lang="it">Editor di testo e anteprima dello spartito</caption>
+      <caption lang="cs">Zobrazení editoru textu a not</caption>
+      <image>https://user-images.githubusercontent.com/1644647/69150986-10d89880-0ada-11ea-8e40-ed3f7a1ea00b.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Change the input without leaving the music view</caption>
+      <caption lang="ru">Изменение порта ввода без выхода из режима предпросмотра</caption>
+      <caption lang="nl">Verander de invoer zonder de muziekweergave te verlaten</caption>
+      <caption lang="it">Modifica l'input senza lasciare l'anteprima dello spartito</caption>
+      <caption lang="cs">Změňte vstup, aniž byste opustili pohled na noty</caption>
+      <image>https://user-images.githubusercontent.com/1644647/69151435-efc47780-0ada-11ea-917b-580abf4e8a99.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Zoom with the magnifier glass</caption>
+      <caption lang="ru">Масштабирование с помощью лупы</caption>
+      <caption lang="nl">Inzoomen met het vergrootglas</caption>
+      <caption lang="it">Ingrandisci con la lente</caption>
+      <caption lang="cs">Zvětšujte pomocí lupy</caption>
+      <image>https://user-images.githubusercontent.com/1644647/69188369-b280d980-0b1c-11ea-8f0e-e20b0f9f463d.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Syntax highlighting and automatic completion</caption>
+      <caption lang="ru">Подсветка синтаксиса и автодополнение</caption>
+      <caption lang="nl">Syntaxis-accentuering en automatisch aanvullen</caption>
+      <caption lang="it">Colorazione della sintassi e completamento automatico</caption>
+      <caption lang="cs">Zvýrazňování skladby a automatické doplňování kódu</caption>
+      <image>https://user-images.githubusercontent.com/1644647/69151460-f7841c00-0ada-11ea-9577-1d2d358770ef.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Snippet manager and editor</caption>
+      <caption lang="ru">Диспетчер и редактор сниппетов</caption>
+      <caption lang="nl">Knipselmanager en -editor</caption>
+      <caption lang="it">Gestore e editor dei frammenti</caption>
+      <caption lang="cs">Správce a editor úryvku</caption>
+      <image>https://user-images.githubusercontent.com/1644647/69151482-023eb100-0adb-11ea-9221-191052d5c92d.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Score Wizard to quickly setup a music score</caption>
+      <caption lang="ru">Мастер партитуры для быстрого создания партитуры</caption>
+      <caption lang="nl">Score Wizard om snel een partituur op te zetten</caption>
+      <caption lang="it">Configurazione assistita per impostare rapidamente una nuova partitura</caption>
+      <caption lang="cs">Průvodce notovým zápisem pro rychlé nastavení notového zápisu</caption>
+      <image>https://user-images.githubusercontent.com/1644647/69151502-08cd2880-0adb-11ea-9c17-92886ef0a846.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">http://frescobaldi.org/</url>
+  <launchable type="desktop-id">org.frescobaldi.Frescobaldi.desktop</launchable>
+  <translation type="gettext">frescobaldi</translation>
+  <releases>
+    <release version="3.1.3" date="2020-12-26">
+      <description>
+        <p>Notes:</p>
+        <ul>
+          <li>This release contains several bug fixes and improvements. It is probably the last release in the 3.1 version range</li>
+          <li>Full history and credits for this release are available at https://github.com/frescobaldi/frescobaldi/compare/v3.1.2...v3.1.3</li>
+        </ul>
+        <p>Features:</p>
+        <ul>
+          <li>a Clear Music View button and menu action were added</li>
+        </ul>
+        <p>Bug fixes:</p>
+        <ul>
+          <li>fixed "NameError: name 'imp' is not defined" when importing</li>
+          <li>fixed search of generated files on macOS for some Unicode file names</li>
+          <li>fixed selection of Python on Mac OS:</li>
+          <ul>
+            <li>select the system Python 2 or 3 according to LilyPond's version</li>
+            <li>support MacPorts' LilyPond tools</li>
+            <li>add option to allow forcing the use of the tools' #! lines (useful for self-compiled or other nonstandard LilyPond installations)</li>
+          </ul>
+          <li>fixed "AttributeError: 'PreviewJob' object has no attribute 'lilypond_version'"</li>
+          <li>fixed Ghostscript error on Mac with MacPorts' LilyPond 2.21.x</li>
+        </ul>
+        <p>Translations:</p>
+        <ul>
+          <li>Updated translations: Dutch, Czech, Russian</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-04-13" version="3.1.2">
+      <description>
+        <p>Bug fixes:</p>
+        <ul>
+          <li>Fixed the error "AttributeError: 'NoneType' object has no attribute 'cursor'"</li>
+          <li>Fixed the "Two Pages (first page right)" mode</li>
+          <li>Fixed pinch gesture zooming in Music View on Mac OS X</li>
+          <li>Fixed printing the music score on Mac OS X</li>
+          <li>Fixed cursor nagivation keyboard shortcuts on Mac OS X; new shortcuts:</li>
+          <ul>
+            <li>next document: ctrl+tab</li>
+            <li>previous document: ctrl+shift+tab</li>
+            <li>start of line: cmd+left</li>
+            <li>end of line: cmd+right</li>
+          </ul>
+          <li>Fixed the display of filenames in document tabs on Mac OS X</li>
+          <li>Fixed the global menu with no windows open on Mac OS X</li>
+          <li>Fixed the error with convert-ly on in the Mac app bundle</li>
+        </ul>
+        <p>Improvements:</p>
+        <ul>
+          <li>German hyphenation patterns were added</li>
+        </ul>
+        <p>Translations:</p>
+        <ul>
+          <li>Dutch translation updated by Wilbert Berendsen</li>
+          <li>Italian translation updated by Davide Liessi</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-01-04" version="3.1.1">
+      <description>
+        <p>Bugfixes:</p>
+        <ul>
+          <li>Fixed the error AttributeError: 'PopplerDocument' has no attribute 'ispresent'.</li>
+          <li>Fixed the error NameError: 'QPinchGesture' is not defined (pinch in music view).</li>
+          <li>Fixed the error NameError: 'doc' is not defined (when printing on Mac OSX).</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-12-27" version="3.1.0">
+      <description>
+        <p>Requirement changes:</p>
+        <ul>
+          <li>Frescobaldi now requires Python3.3+</li>
+        </ul>
+        <p>New features:</p>
+        <ul>
+          <li>New "Document Fonts" dialog supporting text and music fonts and providing a font sample previewer.</li>
+          <li>Possibility to load external extensions.</li>
+          <li>New "First System Only" option in Custom Engrave.</li>
+          <li>New "Goto Line" and "Rename file" commands.</li>
+          <li>Music View: view settings are remembered per-document.</li>
+          <li>Music View: copy to Image can copy/export to SVG, PDF and EPS in addition to PNG/JPG.</li>
+          <li>Music View: new commands to rotate left/right; new toolbar button to show/hide the magnifier.</li>
+          <li>Music View: new preferences Horizontal/Vertical and Continuous/non-continuous.</li>
+          <li>Music View: new raster layout mode (displays as many pages as fit in a View).</li>
+          <li>Manuscript viewer: new toolbar buttons to rotate the pages left/right and to show/hide the magnifier.</li>
+        </ul>
+        <p>Bug fixes:</p>
+        <ul>
+          <li>Fixed seeking in MIDI player during playing stops sound.</li>
+          <li>Paper orientation is now properly handled in New Score Wizard.</li>
+          <li>Fixed discrepancy of LilyPond vs. system version of GhostScript
+    on Linux.</li>
+          <li>Fixed includepaths on Windows.</li>
+          <li>Fixed the error NameError: name 'widgets' is not defined.</li>
+        </ul>
+        <p>Improvements:</p>
+        <ul>
+          <li>Score Wizard: Titles and Headers are now shown in preview; new checkbox to write/omit pitches after \relative command; allow "none" for instrument names on first system.</li>
+          <li>Smarter behaviour of the autocompletion popup (#918, #922).</li>
+          <li>New command File->Rename/Move.</li>
+          <li>Sessions can be grouped in the Sessions menu.</li>
+          <li>Show absolute path of include files in tooltip.</li>
+          <li>Restructure Tools Menu.</li>
+          <li>File Open toolbar button shows recent files menu on long click.</li>
+          <li>Added "Blank Sheet Music" template snippet.</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2017-02-17" version="3.0.0">
+      <description>
+        <p>Requirement changes:</p>
+        <ul>
+          <li>Frescobaldi now requires Python3.2+, Qt5, PyQt5, python-poppler-qt5.</li>
+        </ul>
+        <p>New features:</p>
+        <ul>
+          <li>Zoom with pinch gesture in Music View.</li>
+          <li>An option (enabled by default) to move the cursor to the end of the line when PageDown is pressed on the last line, and to move the cursor to the start of the first line if PageUp is pressed on the first line.</li>
+        </ul>
+        <p>Improvements:</p>
+        <ul>
+          <li>Retina display support in Music View.</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <content_rating type="oars-1.1" />
+</component>

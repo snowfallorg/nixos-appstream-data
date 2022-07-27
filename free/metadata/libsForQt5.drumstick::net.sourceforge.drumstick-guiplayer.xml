@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>libsForQt5.drumstick</pkgname>
+  <icon type="cached" height="64" width="64">drumstick.png</icon>
+  <id>net.sourceforge.drumstick-guiplayer</id>
+  <name>drumstick-guiplayer</name>
+  <summary>Simple MIDI file player based on ALSA Sequencer</summary>
+  <metadata_license>FSFAP</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <description>
+    <p>
+      Simple MIDI file player for .MID (Standard MIDI Files), .RMI (RIFF RMID) and .WRK (Cakewalk) files based on the ALSA Sequencer.
+    </p>
+    <p>
+      This program is an example of the Drumstick libraries. For a fully featured MIDI file player see: dmidiplayer.sourceforge.io
+    </p>
+  </description>
+  <launchable type="desktop-id">net.sourceforge.drumstick-guiplayer.desktop</launchable>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://drumstick.sourceforge.io/images/drumstick-guiplayer.png</image>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release date="2022-04-04" version="2.6.0" />
+    <release version="2.5.1" date="2022-02-07" />
+  </releases>
+</component>

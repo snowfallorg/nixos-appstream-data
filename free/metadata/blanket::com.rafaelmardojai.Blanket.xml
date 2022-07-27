@@ -1,0 +1,1496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <description>
+    <p>Improve focus and increase your productivity by listening to different sounds</p>
+    <p>Also can help you to fall asleep in a noisy environment.</p>
+    <p>Features:</p>
+    <p>Included Sounds in the App:</p>
+    <ul>
+      <li>Birds</li>
+      <li lang="zh_CN">鸟鸣</li>
+      <li lang="ta">பறவைகள்</li>
+      <li lang="uk">Птахи</li>
+      <li lang="tr">Kuşlar</li>
+      <li lang="sv">Fåglar</li>
+      <li lang="sr">Птице</li>
+      <li lang="sk">Vtáky</li>
+      <li lang="ru_RU">Птицы</li>
+      <li lang="oc">Ausèls</li>
+      <li lang="pt_BR">Pássaros</li>
+      <li lang="pt">Pássaros</li>
+      <li lang="pl">Ptaki</li>
+      <li lang="nl">Vogels</li>
+      <li lang="ne">चराहरु</li>
+      <li lang="ko">새</li>
+      <li lang="ka">ჩიტები</li>
+      <li lang="ja">鳥</li>
+      <li lang="it">Uccelli</li>
+      <li lang="id">Burung</li>
+      <li lang="hu">Madarak</li>
+      <li lang="hr">Ptice</li>
+      <li lang="hi">चिड़ियाँ</li>
+      <li lang="gl">Páxaros</li>
+      <li lang="ga">Éin</li>
+      <li lang="fr">Oiseaux</li>
+      <li lang="fi">Linnut</li>
+      <li lang="fa">پرندگان</li>
+      <li lang="eu">Txoriak</li>
+      <li lang="es">Aves</li>
+      <li lang="eo">Birdoj</li>
+      <li lang="de">Vögel</li>
+      <li lang="cs">Ptáci</li>
+      <li lang="ca">Ocells</li>
+      <li lang="ar">طيور</li>
+      <li>Boat</li>
+      <li lang="zh_CN">轮船</li>
+      <li lang="ta">படகு</li>
+      <li lang="uk">Човен</li>
+      <li lang="tr">Tekne</li>
+      <li lang="sv">Båt</li>
+      <li lang="sr">Чамац</li>
+      <li lang="sk">Loď</li>
+      <li lang="ru_RU">Лодка</li>
+      <li lang="oc">Batèu</li>
+      <li lang="pt_BR">Barco</li>
+      <li lang="pt">Barco</li>
+      <li lang="pl">Łódź</li>
+      <li lang="nl">Boot</li>
+      <li lang="ne">डुङ्गा</li>
+      <li lang="ko">배</li>
+      <li lang="ka">ნავი</li>
+      <li lang="ja">ボート</li>
+      <li lang="it">Nave</li>
+      <li lang="id">Perahu</li>
+      <li lang="hu">Hajó</li>
+      <li lang="hr">Barka</li>
+      <li lang="hi">नौका</li>
+      <li lang="gl">Barco</li>
+      <li lang="ga">Bád</li>
+      <li lang="fr">Bateau</li>
+      <li lang="fi">Vene</li>
+      <li lang="fa">کشتی</li>
+      <li lang="eu">Batela</li>
+      <li lang="es">Barco</li>
+      <li lang="eo">Barko</li>
+      <li lang="de">Boot</li>
+      <li lang="cs">Loď</li>
+      <li lang="ca">Vaixell</li>
+      <li lang="ar">قارب</li>
+      <li>City</li>
+      <li lang="zh_CN">城市</li>
+      <li lang="ta">நகரம்</li>
+      <li lang="uk">Місто</li>
+      <li lang="tr">Şehir</li>
+      <li lang="sv">Stad</li>
+      <li lang="sr">Град</li>
+      <li lang="sk">Mesto</li>
+      <li lang="ru_RU">Город</li>
+      <li lang="oc">Vila</li>
+      <li lang="pt_BR">Cidade</li>
+      <li lang="pt">Cidade</li>
+      <li lang="pl">Miasto</li>
+      <li lang="nl">Stad</li>
+      <li lang="ne">सहर</li>
+      <li lang="ko">도시</li>
+      <li lang="ka">ქალაქი</li>
+      <li lang="ja">街</li>
+      <li lang="it">Città</li>
+      <li lang="id">Kota</li>
+      <li lang="hu">Város</li>
+      <li lang="hr">Grad</li>
+      <li lang="hi">पट्टनम्</li>
+      <li lang="gl">Cidade</li>
+      <li lang="ga">Cathair</li>
+      <li lang="fr">Ville</li>
+      <li lang="fi">Kaupunki</li>
+      <li lang="fa">شهر</li>
+      <li lang="eu">Hiria</li>
+      <li lang="es">Ciudad</li>
+      <li lang="eo">Urbo</li>
+      <li lang="de">Stadt</li>
+      <li lang="cs">Město</li>
+      <li lang="ca">Ciutat</li>
+      <li lang="ar">مدينة</li>
+      <li>Coffee Shop</li>
+      <li lang="zh_CN">咖啡厅</li>
+      <li lang="ta">காபி கடை</li>
+      <li lang="uk">Кав'ярня</li>
+      <li lang="tr">Kahve Dükkanı</li>
+      <li lang="sv">Kafé</li>
+      <li lang="sr">Кафић</li>
+      <li lang="sk">Kaviareň</li>
+      <li lang="ru_RU">Кафе</li>
+      <li lang="oc">Bar</li>
+      <li lang="pt_BR">Cafeteria</li>
+      <li lang="pt">Café</li>
+      <li lang="pl">Kawiarnia</li>
+      <li lang="nl">Koffietent</li>
+      <li lang="ne">कफी पसल</li>
+      <li lang="ko">카페</li>
+      <li lang="ja">カフェ</li>
+      <li lang="it">Caffetteria</li>
+      <li lang="id">Kedai Kopi</li>
+      <li lang="hu">Kávézó</li>
+      <li lang="hr">Kavana</li>
+      <li lang="hi">कहवा का मण्डपक</li>
+      <li lang="gl">Cafetería</li>
+      <li lang="ga">Caifé</li>
+      <li lang="fr">Café</li>
+      <li lang="fi">Kahvila</li>
+      <li lang="fa">چایخانه</li>
+      <li lang="eu">Kafetegia</li>
+      <li lang="es">Cafetería</li>
+      <li lang="eo">Kafejo</li>
+      <li lang="de">Café</li>
+      <li lang="cs">Kavárna</li>
+      <li lang="ca">Cafè</li>
+      <li lang="ar">متجر للقهوة</li>
+      <li>Fireplace</li>
+      <li lang="zh_CN">壁炉</li>
+      <li lang="ta">நெருப்பிடம்</li>
+      <li lang="uk">Камін</li>
+      <li lang="tr">Şömine</li>
+      <li lang="sv">Eldstad</li>
+      <li lang="sr">Логорска ватра</li>
+      <li lang="sk">Krb</li>
+      <li lang="ru_RU">Камин</li>
+      <li lang="oc">Chiminièra</li>
+      <li lang="pt_BR">Lareira</li>
+      <li lang="pt">Lareira</li>
+      <li lang="pl">Kominek</li>
+      <li lang="nl">Open haard</li>
+      <li lang="ne">अगेनु</li>
+      <li lang="ko">모닥불</li>
+      <li lang="ka">ბუხარი</li>
+      <li lang="ja">暖炉</li>
+      <li lang="it">Caminetto</li>
+      <li lang="id">Perapian</li>
+      <li lang="hu">Tűzrakás</li>
+      <li lang="hr">Kamin</li>
+      <li lang="hi">अंगीठी</li>
+      <li lang="gl">Chimenea</li>
+      <li lang="ga">Teallach</li>
+      <li lang="fr">Cheminée</li>
+      <li lang="fi">Tulisija</li>
+      <li lang="fa">آتش‌گاه</li>
+      <li lang="eu">Sutondoa</li>
+      <li lang="es">Chimenea</li>
+      <li lang="eo">Fajrejo</li>
+      <li lang="de">Feuerstelle</li>
+      <li lang="cs">Ohniště</li>
+      <li lang="ca">Llar de foc</li>
+      <li lang="ar">مدفأة</li>
+      <li>Pink Noise</li>
+      <li lang="zh_CN">粉红噪音</li>
+      <li lang="ta">இளஞ்சிவப்பு இரைச்சல்</li>
+      <li lang="uk">Рожевий шум</li>
+      <li lang="tr">Pembe Gürültü</li>
+      <li lang="sv">Rosa brus</li>
+      <li lang="sr">Ружичаста бука</li>
+      <li lang="sk">Ružový šum</li>
+      <li lang="ru_RU">Розовый шум</li>
+      <li lang="oc">Bruch ròse</li>
+      <li lang="pt_BR">Ruído rosa</li>
+      <li lang="pt">Ruído rosa</li>
+      <li lang="pl">Różowy Szum</li>
+      <li lang="nl">Roze ruis</li>
+      <li lang="ne">गुलाबी आवाज</li>
+      <li lang="ko">핑크 노이즈</li>
+      <li lang="ka">ვარდისფერი ხმაური</li>
+      <li lang="ja">ピンクノイズ</li>
+      <li lang="it">Rumore Rosa</li>
+      <li lang="id">Kebisingan Merah Muda</li>
+      <li lang="hu">Rózsaszín Zaj</li>
+      <li lang="hr">Ružičasta buka</li>
+      <li lang="hi">पाटल परिघोष</li>
+      <li lang="gl">Ruido Rosa</li>
+      <li lang="ga">Torann Bándearg</li>
+      <li lang="fr">Bruit rose</li>
+      <li lang="fi">Vaaleanpunainen melu</li>
+      <li lang="fa">نویز صورتی</li>
+      <li lang="eu">Soinu arrosa</li>
+      <li lang="es">Ruido Rosa</li>
+      <li lang="eo">Rozkolora bruo</li>
+      <li lang="de">Rosa Rauschen</li>
+      <li lang="cs">Růžový šum</li>
+      <li lang="ca">Soroll rosa</li>
+      <li lang="ar">ضوضاء وردية</li>
+      <li>Rain</li>
+      <li lang="zh_CN">雨</li>
+      <li lang="ta">மழை</li>
+      <li lang="uk">Дощ</li>
+      <li lang="tr">Yağmur</li>
+      <li lang="sv">Regn</li>
+      <li lang="sr">Киша</li>
+      <li lang="sk">Dážď</li>
+      <li lang="ru_RU">Дождь</li>
+      <li lang="oc">Pluèja</li>
+      <li lang="pt_BR">Chuva</li>
+      <li lang="pt">Chuva</li>
+      <li lang="pl">Deszcz</li>
+      <li lang="nl">Regen</li>
+      <li lang="ne">वर्षा</li>
+      <li lang="ko">비</li>
+      <li lang="ka">წვიმა</li>
+      <li lang="ja">雨</li>
+      <li lang="it">Pioggia</li>
+      <li lang="id">Hujan</li>
+      <li lang="hu">Eső</li>
+      <li lang="hr">Kiša</li>
+      <li lang="hi">वर्षा</li>
+      <li lang="gl">Chuvia</li>
+      <li lang="ga">Fearthainn</li>
+      <li lang="fr">Pluie</li>
+      <li lang="fi">Sade</li>
+      <li lang="fa">باران</li>
+      <li lang="eu">Euria</li>
+      <li lang="es">Lluvia</li>
+      <li lang="eo">Pluvo</li>
+      <li lang="de">Regen</li>
+      <li lang="cs">Déšť</li>
+      <li lang="ca">Pluja</li>
+      <li lang="ar">مطر</li>
+      <li>Summer Night</li>
+      <li lang="zh_CN">夏夜</li>
+      <li lang="ta">கோடை இரவு</li>
+      <li lang="uk">Літня ніч</li>
+      <li lang="tr">Yaz Gecesi</li>
+      <li lang="sv">Sommarnatt</li>
+      <li lang="sr">Летња ноћ</li>
+      <li lang="sk">Letná noc</li>
+      <li lang="ru_RU">Летняя ночь</li>
+      <li lang="oc">Nuèch d’estiu</li>
+      <li lang="pt_BR">Noite de verão</li>
+      <li lang="pt">Noite de verão</li>
+      <li lang="pl">Letnia Noc</li>
+      <li lang="nl">Zomeravond</li>
+      <li lang="ne">गर्मी रात</li>
+      <li lang="ko">여름 밤</li>
+      <li lang="ka">ზაფხულის ღამე</li>
+      <li lang="ja">夏の夜</li>
+      <li lang="it">Notte d'estate</li>
+      <li lang="id">Malam Musim Panas</li>
+      <li lang="hu">Nyári éj</li>
+      <li lang="hr">Ljetna noć</li>
+      <li lang="hi">ग्रीष्म-ऋतु की रात्रि</li>
+      <li lang="gl">Noite de Verán</li>
+      <li lang="ga">Oíche Shamhraidh</li>
+      <li lang="fr">Nuit d’été</li>
+      <li lang="fi">Kesäyö</li>
+      <li lang="fa">شب تابستانی</li>
+      <li lang="eu">Udako gaua</li>
+      <li lang="es">Noche de Verano</li>
+      <li lang="eo">Somera nokto</li>
+      <li lang="de">Sommernacht</li>
+      <li lang="cs">Letní noc</li>
+      <li lang="ca">Nit estiuenca</li>
+      <li lang="ar">ليلة صيفية</li>
+      <li>Storm</li>
+      <li lang="zh_CN">风暴</li>
+      <li lang="ta">புயல்</li>
+      <li lang="uk">Буря</li>
+      <li lang="tr">Fırtına</li>
+      <li lang="sv">Storm</li>
+      <li lang="sr">Олуја</li>
+      <li lang="sk">Búrka</li>
+      <li lang="ru_RU">Гроза</li>
+      <li lang="oc">Tempèsta</li>
+      <li lang="pt_BR">Tempestade</li>
+      <li lang="pt">Tempestade</li>
+      <li lang="pl">Burza</li>
+      <li lang="nl">Storm</li>
+      <li lang="ne">आँधी</li>
+      <li lang="ko">폭풍</li>
+      <li lang="ka">ჭექა-ქუხილი</li>
+      <li lang="ja">嵐</li>
+      <li lang="it">Temporale</li>
+      <li lang="id">Badai</li>
+      <li lang="hu">Vihar</li>
+      <li lang="hr">Oluja</li>
+      <li lang="hi">वात्या</li>
+      <li lang="gl">Tormenta</li>
+      <li lang="ga">Stoirm</li>
+      <li lang="fr">Tempête</li>
+      <li lang="fi">Myrsky</li>
+      <li lang="fa">طوفان</li>
+      <li lang="eu">Ekaitza</li>
+      <li lang="es">Tormenta</li>
+      <li lang="eo">Ŝtormo</li>
+      <li lang="de">Gewitter</li>
+      <li lang="cs">Bouřka</li>
+      <li lang="ca">Tempesta</li>
+      <li lang="ar">عاصفة</li>
+      <li>Stream</li>
+      <li lang="zh_CN">小溪</li>
+      <li lang="ta">நீரோடை</li>
+      <li lang="uk">Потічок</li>
+      <li lang="tr">Akıntı</li>
+      <li lang="sv">Ström</li>
+      <li lang="sr">Поток</li>
+      <li lang="sk">Potok</li>
+      <li lang="ru_RU">Течение</li>
+      <li lang="oc">Aiga corrent</li>
+      <li lang="pt_BR">Córrego</li>
+      <li lang="pt">Riacho</li>
+      <li lang="pl">Strumień</li>
+      <li lang="nl">Kabbelend beekje</li>
+      <li lang="ne">धारा</li>
+      <li lang="ko">개울</li>
+      <li lang="ka">ნაკადი</li>
+      <li lang="ja">せせらぎ</li>
+      <li lang="it">Ruscello</li>
+      <li lang="id">Aliran</li>
+      <li lang="hu">Patak</li>
+      <li lang="hr">Žubor</li>
+      <li lang="hi">धारा</li>
+      <li lang="gl">Arroio</li>
+      <li lang="ga">Sruth</li>
+      <li lang="fr">Ruisseau</li>
+      <li lang="fi">Virtaus</li>
+      <li lang="fa">جریان</li>
+      <li lang="eu">Zurrusta</li>
+      <li lang="es">Arroyo</li>
+      <li lang="eo">Torento</li>
+      <li lang="de">Fluss</li>
+      <li lang="cs">Tok</li>
+      <li lang="ca">Corrent d'aigua</li>
+      <li lang="ar">جدول ماء</li>
+      <li>Train</li>
+      <li lang="zh_CN">火车</li>
+      <li lang="ta">ரயில்</li>
+      <li lang="uk">Потяг</li>
+      <li lang="tr">Tren</li>
+      <li lang="sv">Tåg</li>
+      <li lang="sr">Воз</li>
+      <li lang="sk">Vlak</li>
+      <li lang="ru_RU">Поезд</li>
+      <li lang="oc">Tren</li>
+      <li lang="pt_BR">Trem</li>
+      <li lang="pt">Comboio</li>
+      <li lang="pl">Pociąg</li>
+      <li lang="nl">Trein</li>
+      <li lang="ne">रेल</li>
+      <li lang="ko">기차</li>
+      <li lang="ka">მატარებელი</li>
+      <li lang="ja">電車</li>
+      <li lang="it">Treno</li>
+      <li lang="id">Kereta Api</li>
+      <li lang="hu">Vonat</li>
+      <li lang="hr">Vlak</li>
+      <li lang="hi">रेलगाड़ी</li>
+      <li lang="gl">Tren</li>
+      <li lang="ga">Traein</li>
+      <li lang="fr">Train</li>
+      <li lang="fi">Juna</li>
+      <li lang="fa">قطار</li>
+      <li lang="eu">Trena</li>
+      <li lang="es">Tren</li>
+      <li lang="eo">Trajno</li>
+      <li lang="de">Zug</li>
+      <li lang="cs">Vlak</li>
+      <li lang="ca">Tren</li>
+      <li lang="ar">قطار</li>
+      <li>Waves</li>
+      <li lang="zh_CN">海浪</li>
+      <li lang="ta">அலைகள்</li>
+      <li lang="uk">Хвилі</li>
+      <li lang="tr">Dalgalar</li>
+      <li lang="sv">Vågor</li>
+      <li lang="sr">Таласи</li>
+      <li lang="sk">Vlny</li>
+      <li lang="ru_RU">Прибой</li>
+      <li lang="oc">Ondas</li>
+      <li lang="pt_BR">Ondas</li>
+      <li lang="pt">Ondas</li>
+      <li lang="pl">Fale</li>
+      <li lang="nl">Golven</li>
+      <li lang="ne">छालहरू</li>
+      <li lang="ko">파도</li>
+      <li lang="ka">ტალღები</li>
+      <li lang="ja">波</li>
+      <li lang="it">Onde</li>
+      <li lang="id">Ombak</li>
+      <li lang="hu">Hullámok</li>
+      <li lang="hr">Valovi</li>
+      <li lang="hi">ऊर्मि</li>
+      <li lang="gl">Olas</li>
+      <li lang="ga">Tonnta</li>
+      <li lang="fr">Vagues</li>
+      <li lang="fi">Aallot</li>
+      <li lang="fa">موج</li>
+      <li lang="eu">Olatuak</li>
+      <li lang="es">Olas</li>
+      <li lang="eo">Ondoj</li>
+      <li lang="de">Wellen</li>
+      <li lang="cs">Vlny</li>
+      <li lang="ca">Onades</li>
+      <li lang="ar">أمواج</li>
+      <li>White Noise</li>
+      <li lang="zh_CN">白噪音</li>
+      <li lang="ta">வெள்ளை இரைச்சல்</li>
+      <li lang="uk">Білий шум</li>
+      <li lang="tr">Beyaz Gürültü</li>
+      <li lang="sv">Vitt brus</li>
+      <li lang="sr">Бела бука</li>
+      <li lang="sk">Biely šum</li>
+      <li lang="ru_RU">Белый шум</li>
+      <li lang="oc">Bruch blanc</li>
+      <li lang="pt_BR">Ruído branco</li>
+      <li lang="pt">Ruído branco</li>
+      <li lang="pl">Biały Szum</li>
+      <li lang="nl">Witte ruis</li>
+      <li lang="ne">सेतो आवाज</li>
+      <li lang="ko">화이트 노이즈</li>
+      <li lang="ka">თეტრი ხმაური</li>
+      <li lang="ja">ホワイトノイズ</li>
+      <li lang="it">Rumore Bianco</li>
+      <li lang="id">Kebisingan Putih</li>
+      <li lang="hu">Fehér Zaj</li>
+      <li lang="hr">Bijela buka</li>
+      <li lang="hi">श्वेत परिघोष</li>
+      <li lang="gl">Ruido Branco</li>
+      <li lang="ga">Torann Bán</li>
+      <li lang="fr">Bruit blanc</li>
+      <li lang="fi">Valkoinen melu</li>
+      <li lang="fa">نویز سفید</li>
+      <li lang="eu">Soinu zuria</li>
+      <li lang="es">Ruido Blanco</li>
+      <li lang="eo">Blanka bruo</li>
+      <li lang="de">Weißes Rauschen</li>
+      <li lang="cs">Bílý šum</li>
+      <li lang="ca">Soroll blanc</li>
+      <li lang="ar">ضوضاء بيضاء</li>
+      <li>Wind</li>
+      <li lang="zh_CN">大风</li>
+      <li lang="ta">காற்று</li>
+      <li lang="uk">Вітер</li>
+      <li lang="tr">Rüzgar</li>
+      <li lang="sv">Vind</li>
+      <li lang="sr">Ветар</li>
+      <li lang="sk">Vietor</li>
+      <li lang="ru_RU">Ветер</li>
+      <li lang="oc">Vent</li>
+      <li lang="pt_BR">Vento</li>
+      <li lang="pt">Vento</li>
+      <li lang="pl">Wiatr</li>
+      <li lang="nl">Wind</li>
+      <li lang="ne">हावा</li>
+      <li lang="ko">바람</li>
+      <li lang="ka">წარი</li>
+      <li lang="ja">風</li>
+      <li lang="it">Vento</li>
+      <li lang="id">Angin</li>
+      <li lang="hu">Szél</li>
+      <li lang="hr">Vjetar</li>
+      <li lang="hi">वायु</li>
+      <li lang="gl">Vento</li>
+      <li lang="ga">Gaoth</li>
+      <li lang="fr">Vent</li>
+      <li lang="fi">Tuuli</li>
+      <li lang="fa">باد</li>
+      <li lang="eu">Haizea</li>
+      <li lang="es">Viento</li>
+      <li lang="eo">Vento</li>
+      <li lang="de">Wind</li>
+      <li lang="cs">Vítr</li>
+      <li lang="ca">Vent</li>
+      <li lang="ar">ريح</li>
+    </ul>
+    <ul>
+      <li>Birds</li>
+      <li>Boat</li>
+      <li>City</li>
+      <li>Coffee Shop</li>
+      <li>Fireplace</li>
+      <li>Pink Noise</li>
+      <li>Rain</li>
+      <li>Summer Night</li>
+      <li>Storm</li>
+      <li>Stream</li>
+      <li>Train</li>
+      <li>Waves</li>
+      <li>White Noise</li>
+      <li>Wind</li>
+    </ul>
+  </description>
+  <description lang="ar">
+    <ul>
+      <li>طيور</li>
+      <li>قارب</li>
+      <li>مدينة</li>
+      <li>متجر للقهوة</li>
+      <li>مدفأة</li>
+      <li>ضوضاء وردية</li>
+      <li>مطر</li>
+      <li>ليلة صيفية</li>
+      <li>عاصفة</li>
+      <li>جدول ماء</li>
+      <li>قطار</li>
+      <li>أمواج</li>
+      <li>ضوضاء بيضاء</li>
+      <li>ريح</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>Milloreu la vostra concentració i augmenteu la productivitat en escoltar diversos sons</p>
+    <p>També us pot ajudar a adormir en un entorn sorollós.</p>
+    <p>Funcionalitats:</p>
+    <ul>
+      <li>Desa les combinacions predefinides</li>
+      <li>Afegeix sons personalitzats</li>
+      <li>Inicia automàticament en segon pla</li>
+      <li>Integració amb MPRIS</li>
+    </ul>
+    <ul>
+      <li>Ocells</li>
+      <li>Vaixell</li>
+      <li>Ciutat</li>
+      <li>Cafè</li>
+      <li>Llar de foc</li>
+      <li>Soroll rosa</li>
+      <li>Pluja</li>
+      <li>Nit estiuenca</li>
+      <li>Tempesta</li>
+      <li>Corrent d'aigua</li>
+      <li>Tren</li>
+      <li>Onades</li>
+      <li>Soroll blanc</li>
+      <li>Vent</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>Pomůže vám soustředit se a zvýší vaši produktivitu poslechem různých zvuků.</p>
+    <p>Nebo vám také umožní usnout v hlučném prostředí.</p>
+    <p>Funkce:</p>
+    <ul>
+      <li>Uložená přednastavení</li>
+      <li>Přidání vlastních zvuků</li>
+      <li>Automatické spuštění na pozadí</li>
+      <li>Integrace MPRIS</li>
+    </ul>
+    <ul>
+      <li>Ptáci</li>
+      <li>Loď</li>
+      <li>Město</li>
+      <li>Kavárna</li>
+      <li>Ohniště</li>
+      <li>Růžový šum</li>
+      <li>Déšť</li>
+      <li>Letní noc</li>
+      <li>Bouřka</li>
+      <li>Tok</li>
+      <li>Vlak</li>
+      <li>Vlny</li>
+      <li>Bílý šum</li>
+      <li>Vítr</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <ul>
+      <li>Vögel</li>
+      <li>Boot</li>
+      <li>Stadt</li>
+      <li>Café</li>
+      <li>Feuerstelle</li>
+      <li>Rosa Rauschen</li>
+      <li>Regen</li>
+      <li>Sommernacht</li>
+      <li>Gewitter</li>
+      <li>Fluss</li>
+      <li>Zug</li>
+      <li>Wellen</li>
+      <li>Weißes Rauschen</li>
+      <li>Wind</li>
+    </ul>
+  </description>
+  <description lang="eo">
+    <ul>
+      <li>Birdoj</li>
+      <li>Barko</li>
+      <li>Urbo</li>
+      <li>Kafejo</li>
+      <li>Fajrejo</li>
+      <li>Rozkolora bruo</li>
+      <li>Pluvo</li>
+      <li>Somera nokto</li>
+      <li>Ŝtormo</li>
+      <li>Torento</li>
+      <li>Trajno</li>
+      <li>Ondoj</li>
+      <li>Blanka bruo</li>
+      <li>Vento</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>Mejora la concentración y aumente su productividad escuchando diferentes sonidos</p>
+    <p>También puede ayudarlo a conciliar el sueño en un ambiente ruidoso.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Guardar ajustes preestablecidos</li>
+      <li>Agregar sonidos personalizados</li>
+      <li>Inicio automático en segundo plano </li>
+      <li>Integración con MPRS</li>
+    </ul>
+    <ul>
+      <li>Aves</li>
+      <li>Barco</li>
+      <li>Ciudad</li>
+      <li>Cafetería</li>
+      <li>Chimenea</li>
+      <li>Ruido Rosa</li>
+      <li>Lluvia</li>
+      <li>Noche de Verano</li>
+      <li>Tormenta</li>
+      <li>Arroyo</li>
+      <li>Tren</li>
+      <li>Olas</li>
+      <li>Ruido Blanco</li>
+      <li>Viento</li>
+    </ul>
+  </description>
+  <description lang="eu">
+    <ul>
+      <li>Txoriak</li>
+      <li>Batela</li>
+      <li>Hiria</li>
+      <li>Kafetegia</li>
+      <li>Sutondoa</li>
+      <li>Soinu arrosa</li>
+      <li>Euria</li>
+      <li>Udako gaua</li>
+      <li>Ekaitza</li>
+      <li>Zurrusta</li>
+      <li>Trena</li>
+      <li>Olatuak</li>
+      <li>Soinu zuria</li>
+      <li>Haizea</li>
+    </ul>
+  </description>
+  <description lang="fa">
+    <ul>
+      <li>پرندگان</li>
+      <li>کشتی</li>
+      <li>شهر</li>
+      <li>چایخانه</li>
+      <li>آتش‌گاه</li>
+      <li>نویز صورتی</li>
+      <li>باران</li>
+      <li>شب تابستانی</li>
+      <li>طوفان</li>
+      <li>جریان</li>
+      <li>قطار</li>
+      <li>موج</li>
+      <li>نویز سفید</li>
+      <li>باد</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>Paranna keskittymistasoasi ja korota tuottavuuttasi kuuntelemalla erilaisia ääniä </p>
+    <p>Voi myöskin auttaa sinua nukahtamaan meluisassa ympäristössä.</p>
+    <p>Ominaisuudet:</p>
+    <ul>
+      <li>Tallenna vakiot</li>
+      <li>Lisää omat äänet</li>
+      <li>Käynnistä automaattisesti taustalla</li>
+      <li>MPRIS-sulautus</li>
+    </ul>
+    <ul>
+      <li>Linnut</li>
+      <li>Vene</li>
+      <li>Kaupunki</li>
+      <li>Kahvila</li>
+      <li>Tulisija</li>
+      <li>Vaaleanpunainen melu</li>
+      <li>Sade</li>
+      <li>Kesäyö</li>
+      <li>Myrsky</li>
+      <li>Virtaus</li>
+      <li>Juna</li>
+      <li>Aallot</li>
+      <li>Valkoinen melu</li>
+      <li>Tuuli</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <ul>
+      <li>Oiseaux</li>
+      <li>Bateau</li>
+      <li>Ville</li>
+      <li>Café</li>
+      <li>Cheminée</li>
+      <li>Bruit rose</li>
+      <li>Pluie</li>
+      <li>Nuit d’été</li>
+      <li>Tempête</li>
+      <li>Ruisseau</li>
+      <li>Train</li>
+      <li>Vagues</li>
+      <li>Bruit blanc</li>
+      <li>Vent</li>
+    </ul>
+  </description>
+  <description lang="ga">
+    <ul>
+      <li>Éin</li>
+      <li>Bád</li>
+      <li>Cathair</li>
+      <li>Caifé</li>
+      <li>Teallach</li>
+      <li>Torann Bándearg</li>
+      <li>Fearthainn</li>
+      <li>Oíche Shamhraidh</li>
+      <li>Stoirm</li>
+      <li>Sruth</li>
+      <li>Traein</li>
+      <li>Tonnta</li>
+      <li>Torann Bán</li>
+      <li>Gaoth</li>
+    </ul>
+  </description>
+  <description lang="gl">
+    <p>Mellore a concentración e a productividade escoitando distintos sons.</p>
+    <p>Tamén pode axudarlle a durmirse nun ambiente con ruído.</p>
+    <p>Características:</p>
+    <ul>
+      <li>Gardar preconfiguracións</li>
+      <li>Engadir son personalizado</li>
+      <li>Autoarrincar en segundo plano</li>
+      <li>Integración con MPRIS</li>
+    </ul>
+    <ul>
+      <li>Páxaros</li>
+      <li>Barco</li>
+      <li>Cidade</li>
+      <li>Cafetería</li>
+      <li>Chimenea</li>
+      <li>Ruido Rosa</li>
+      <li>Chuvia</li>
+      <li>Noite de Verán</li>
+      <li>Tormenta</li>
+      <li>Arroio</li>
+      <li>Tren</li>
+      <li>Olas</li>
+      <li>Ruido Branco</li>
+      <li>Vento</li>
+    </ul>
+  </description>
+  <description lang="hi">
+    <ul>
+      <li>चिड़ियाँ</li>
+      <li>नौका</li>
+      <li>पट्टनम्</li>
+      <li>कहवा का मण्डपक</li>
+      <li>अंगीठी</li>
+      <li>पाटल परिघोष</li>
+      <li>वर्षा</li>
+      <li>ग्रीष्म-ऋतु की रात्रि</li>
+      <li>वात्या</li>
+      <li>धारा</li>
+      <li>रेलगाड़ी</li>
+      <li>ऊर्मि</li>
+      <li>श्वेत परिघोष</li>
+      <li>वायु</li>
+    </ul>
+  </description>
+  <description lang="hr">
+    <p>Fokusiraj se i povećaj produktivnost slušajući razne zvukove</p>
+    <p>Također može pomoći da zaspiš u bučnom okruženju.</p>
+    <p>Značajke:</p>
+    <ul>
+      <li>Spremi predodređene postavke</li>
+      <li>Dodaj prilagođene zvukove</li>
+      <li>Automatski pokreni u pozadini</li>
+      <li>MPRIS integracija</li>
+    </ul>
+    <ul>
+      <li>Ptice</li>
+      <li>Barka</li>
+      <li>Grad</li>
+      <li>Kavana</li>
+      <li>Kamin</li>
+      <li>Ružičasta buka</li>
+      <li>Kiša</li>
+      <li>Ljetna noć</li>
+      <li>Oluja</li>
+      <li>Žubor</li>
+      <li>Vlak</li>
+      <li>Valovi</li>
+      <li>Bijela buka</li>
+      <li>Vjetar</li>
+    </ul>
+  </description>
+  <description lang="hu">
+    <ul>
+      <li>Madarak</li>
+      <li>Hajó</li>
+      <li>Város</li>
+      <li>Kávézó</li>
+      <li>Tűzrakás</li>
+      <li>Rózsaszín Zaj</li>
+      <li>Eső</li>
+      <li>Nyári éj</li>
+      <li>Vihar</li>
+      <li>Patak</li>
+      <li>Vonat</li>
+      <li>Hullámok</li>
+      <li>Fehér Zaj</li>
+      <li>Szél</li>
+    </ul>
+  </description>
+  <description lang="id">
+    <ul>
+      <li>Burung</li>
+      <li>Perahu</li>
+      <li>Kota</li>
+      <li>Kedai Kopi</li>
+      <li>Perapian</li>
+      <li>Kebisingan Merah Muda</li>
+      <li>Hujan</li>
+      <li>Malam Musim Panas</li>
+      <li>Badai</li>
+      <li>Aliran</li>
+      <li>Kereta Api</li>
+      <li>Ombak</li>
+      <li>Kebisingan Putih</li>
+      <li>Angin</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>Migliora la concentrazione e aumenta la tua produttività ascoltando suoni diversi</p>
+    <p>Può anche aiutarti ad addormentarti in un ambiente rumoroso.</p>
+    <p>Caratteristiche:</p>
+    <ul>
+      <li>Salva preimpostazioni</li>
+      <li>Aggiunge suoni personalizzati</li>
+      <li>Avvio automatico in background</li>
+      <li>Integrazione MPRIS</li>
+    </ul>
+    <ul>
+      <li>Uccelli</li>
+      <li>Nave</li>
+      <li>Città</li>
+      <li>Caffetteria</li>
+      <li>Caminetto</li>
+      <li>Rumore Rosa</li>
+      <li>Pioggia</li>
+      <li>Notte d'estate</li>
+      <li>Temporale</li>
+      <li>Ruscello</li>
+      <li>Treno</li>
+      <li>Onde</li>
+      <li>Rumore Bianco</li>
+      <li>Vento</li>
+    </ul>
+  </description>
+  <description lang="ja">
+    <ul>
+      <li>鳥</li>
+      <li>ボート</li>
+      <li>街</li>
+      <li>カフェ</li>
+      <li>暖炉</li>
+      <li>ピンクノイズ</li>
+      <li>雨</li>
+      <li>夏の夜</li>
+      <li>嵐</li>
+      <li>せせらぎ</li>
+      <li>電車</li>
+      <li>波</li>
+      <li>ホワイトノイズ</li>
+      <li>風</li>
+    </ul>
+  </description>
+  <description lang="ka">
+    <ul>
+      <li>ჩიტები</li>
+      <li>ნავი</li>
+      <li>ქალაქი</li>
+      <li>ბუხარი</li>
+      <li>ვარდისფერი ხმაური</li>
+      <li>წვიმა</li>
+      <li>ზაფხულის ღამე</li>
+      <li>ჭექა-ქუხილი</li>
+      <li>ნაკადი</li>
+      <li>მატარებელი</li>
+      <li>ტალღები</li>
+      <li>თეტრი ხმაური</li>
+      <li>წარი</li>
+    </ul>
+  </description>
+  <description lang="ko">
+    <p>다양한 소리를 들으며 집중력과 생산성을 향상해 줍니다.</p>
+    <p>시끄러운 환경에서 잠드는 것 또한 도와줍니다.</p>
+    <p>기능:</p>
+    <ul>
+      <li>사전 설정 저장</li>
+      <li>사용자 지정 사운드 추가</li>
+      <li>백그라운드에서 자동 시작</li>
+      <li>MPRIS 통합</li>
+    </ul>
+    <ul>
+      <li>새</li>
+      <li>배</li>
+      <li>도시</li>
+      <li>카페</li>
+      <li>모닥불</li>
+      <li>핑크 노이즈</li>
+      <li>비</li>
+      <li>여름 밤</li>
+      <li>폭풍</li>
+      <li>개울</li>
+      <li>기차</li>
+      <li>파도</li>
+      <li>화이트 노이즈</li>
+      <li>바람</li>
+    </ul>
+  </description>
+  <description lang="ne">
+    <p>विभिन्न ध्वनिको आवाज सुनेर तपाईंको ध्यान सुधार्नुहोस् र उत्पादकता बढाउनुहोस्</p>
+    <p>वा यसले तपाईंलाई हल्लाको वातावरणमा निदाउन अनुमति दिन्छ।</p>
+    <p>विशेषताहरु:</p>
+    <ul>
+      <li>प्रिसेटहरू सुरक्षित गर्नुहोस्</li>
+      <li>अनुकूल ध्वनी जोड्नुहोस्</li>
+      <li>पृष्ठभूमिमा अटोस्टार्ट होस्</li>
+      <li>MPRIS एकीकरण</li>
+    </ul>
+    <ul>
+      <li>चराहरु</li>
+      <li>डुङ्गा</li>
+      <li>सहर</li>
+      <li>कफी पसल</li>
+      <li>अगेनु</li>
+      <li>गुलाबी आवाज</li>
+      <li>वर्षा</li>
+      <li>गर्मी रात</li>
+      <li>आँधी</li>
+      <li>धारा</li>
+      <li>रेल</li>
+      <li>छालहरू</li>
+      <li>सेतो आवाज</li>
+      <li>हावा</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>Verbeter je focus en verhoog je productiviteit of val sneller in slaap door te luisteren naar verschillende geluiden.</p>
+    <p>Ook kunnen de geluidet helpen om je sneller in slaap te laten vallen.</p>
+    <p>Kenmerken:</p>
+    <ul>
+      <li>Voorinstellingen opslaan</li>
+      <li>Eigen geluiden toevoegen</li>
+      <li>Automatisch opstarten</li>
+      <li>MPRIS-integratie</li>
+    </ul>
+    <ul>
+      <li>Vogels</li>
+      <li>Boot</li>
+      <li>Stad</li>
+      <li>Koffietent</li>
+      <li>Open haard</li>
+      <li>Roze ruis</li>
+      <li>Regen</li>
+      <li>Zomeravond</li>
+      <li>Storm</li>
+      <li>Kabbelend beekje</li>
+      <li>Trein</li>
+      <li>Golven</li>
+      <li>Witte ruis</li>
+      <li>Wind</li>
+    </ul>
+  </description>
+  <description lang="oc">
+    <p>Melhoratz vòstra concentracion e aumentatz vòstra productivitat en escotant diferents sons</p>
+    <p>Pòt tanben vos ajudar a vos endormir dins un entorn brusent. </p>
+    <p>Foncionalitats :</p>
+    <ul>
+      <li>Enregistrar prereglatges</li>
+      <li>Apondre sons personalizats</li>
+      <li>Aviada auto en rèireplan</li>
+      <li>Integracion MPRIS</li>
+    </ul>
+    <ul>
+      <li>Ausèls</li>
+      <li>Batèu</li>
+      <li>Vila</li>
+      <li>Bar</li>
+      <li>Chiminièra</li>
+      <li>Bruch ròse</li>
+      <li>Pluèja</li>
+      <li>Nuèch d’estiu</li>
+      <li>Tempèsta</li>
+      <li>Aiga corrent</li>
+      <li>Tren</li>
+      <li>Ondas</li>
+      <li>Bruch blanc</li>
+      <li>Vent</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <ul>
+      <li>Ptaki</li>
+      <li>Łódź</li>
+      <li>Miasto</li>
+      <li>Kawiarnia</li>
+      <li>Kominek</li>
+      <li>Różowy Szum</li>
+      <li>Deszcz</li>
+      <li>Letnia Noc</li>
+      <li>Burza</li>
+      <li>Strumień</li>
+      <li>Pociąg</li>
+      <li>Fale</li>
+      <li>Biały Szum</li>
+      <li>Wiatr</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>Melhorar o foco e aumentar a sua produtividade ouvindo diferentes sons</p>
+    <p>Também o pode ajudar a adormecer num ambiente ruidoso.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Guardar predefinições</li>
+      <li>Adicionar sons personalizados</li>
+      <li>Iniciar automaticamente em segundo plano</li>
+      <li>Integração a MPRIS</li>
+    </ul>
+    <ul>
+      <li>Pássaros</li>
+      <li>Barco</li>
+      <li>Cidade</li>
+      <li>Café</li>
+      <li>Lareira</li>
+      <li>Ruído rosa</li>
+      <li>Chuva</li>
+      <li>Noite de verão</li>
+      <li>Tempestade</li>
+      <li>Riacho</li>
+      <li>Comboio</li>
+      <li>Ondas</li>
+      <li>Ruído branco</li>
+      <li>Vento</li>
+    </ul>
+  </description>
+  <description lang="pt_BR">
+    <ul>
+      <li>Pássaros</li>
+      <li>Barco</li>
+      <li>Cidade</li>
+      <li>Cafeteria</li>
+      <li>Lareira</li>
+      <li>Ruído rosa</li>
+      <li>Chuva</li>
+      <li>Noite de verão</li>
+      <li>Tempestade</li>
+      <li>Córrego</li>
+      <li>Trem</li>
+      <li>Ondas</li>
+      <li>Ruído branco</li>
+      <li>Vento</li>
+    </ul>
+  </description>
+  <description lang="ru_RU">
+    <p>Концентрируйте внимание и поднимайте производительность слушая разные звуки.</p>
+    <p>Фон так же может помочь быстрее заснуть в шумном месте.</p>
+    <p>Особенности:</p>
+    <ul>
+      <li>Сохранить профили</li>
+      <li>Добавить свои звуки</li>
+      <li>Автозапуск в фоновом режиме</li>
+      <li>Внедрение в MPRIS</li>
+    </ul>
+    <ul>
+      <li>Птицы</li>
+      <li>Лодка</li>
+      <li>Город</li>
+      <li>Кафе</li>
+      <li>Камин</li>
+      <li>Розовый шум</li>
+      <li>Дождь</li>
+      <li>Летняя ночь</li>
+      <li>Гроза</li>
+      <li>Течение</li>
+      <li>Поезд</li>
+      <li>Прибой</li>
+      <li>Белый шум</li>
+      <li>Ветер</li>
+    </ul>
+  </description>
+  <description lang="sk">
+    <ul>
+      <li>Vtáky</li>
+      <li>Loď</li>
+      <li>Mesto</li>
+      <li>Kaviareň</li>
+      <li>Krb</li>
+      <li>Ružový šum</li>
+      <li>Dážď</li>
+      <li>Letná noc</li>
+      <li>Búrka</li>
+      <li>Potok</li>
+      <li>Vlak</li>
+      <li>Vlny</li>
+      <li>Biely šum</li>
+      <li>Vietor</li>
+    </ul>
+  </description>
+  <description lang="sr">
+    <ul>
+      <li>Птице</li>
+      <li>Чамац</li>
+      <li>Град</li>
+      <li>Кафић</li>
+      <li>Логорска ватра</li>
+      <li>Ружичаста бука</li>
+      <li>Киша</li>
+      <li>Летња ноћ</li>
+      <li>Олуја</li>
+      <li>Поток</li>
+      <li>Воз</li>
+      <li>Таласи</li>
+      <li>Бела бука</li>
+      <li>Ветар</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <ul>
+      <li>Fåglar</li>
+      <li>Båt</li>
+      <li>Stad</li>
+      <li>Kafé</li>
+      <li>Eldstad</li>
+      <li>Rosa brus</li>
+      <li>Regn</li>
+      <li>Sommarnatt</li>
+      <li>Storm</li>
+      <li>Ström</li>
+      <li>Tåg</li>
+      <li>Vågor</li>
+      <li>Vitt brus</li>
+      <li>Vind</li>
+    </ul>
+  </description>
+  <description lang="ta">
+    <ul>
+      <li>பறவைகள்</li>
+      <li>படகு</li>
+      <li>நகரம்</li>
+      <li>காபி கடை</li>
+      <li>நெருப்பிடம்</li>
+      <li>இளஞ்சிவப்பு இரைச்சல்</li>
+      <li>மழை</li>
+      <li>கோடை இரவு</li>
+      <li>புயல்</li>
+      <li>நீரோடை</li>
+      <li>ரயில்</li>
+      <li>அலைகள்</li>
+      <li>வெள்ளை இரைச்சல்</li>
+      <li>காற்று</li>
+    </ul>
+  </description>
+  <description lang="tr">
+    <ul>
+      <li>Kuşlar</li>
+      <li>Tekne</li>
+      <li>Şehir</li>
+      <li>Kahve Dükkanı</li>
+      <li>Şömine</li>
+      <li>Pembe Gürültü</li>
+      <li>Yağmur</li>
+      <li>Yaz Gecesi</li>
+      <li>Fırtına</li>
+      <li>Akıntı</li>
+      <li>Tren</li>
+      <li>Dalgalar</li>
+      <li>Beyaz Gürültü</li>
+      <li>Rüzgar</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>Зосередьтеся та підвищіть продуктивність слухаючи різні звуки</p>
+    <p>Також може допомогти вам заснути в гамірному середовищі.</p>
+    <p>Можливості:</p>
+    <ul>
+      <li>Зберегти поєднання</li>
+      <li>Додати власні звуки</li>
+      <li>Автозапуск у фоновому режимі</li>
+      <li>Інтеграція MPRIS</li>
+    </ul>
+    <ul>
+      <li>Птахи</li>
+      <li>Човен</li>
+      <li>Місто</li>
+      <li>Кав'ярня</li>
+      <li>Камін</li>
+      <li>Рожевий шум</li>
+      <li>Дощ</li>
+      <li>Літня ніч</li>
+      <li>Буря</li>
+      <li>Потічок</li>
+      <li>Потяг</li>
+      <li>Хвилі</li>
+      <li>Білий шум</li>
+      <li>Вітер</li>
+    </ul>
+  </description>
+  <description lang="zh_CN">
+    <p>通过白噪音使您集中注意力并提高生产力，</p>
+    <p>也能使您在嘈杂的环境中安然入睡。</p>
+    <p>功能特性：</p>
+    <ul>
+      <li>保存预设</li>
+      <li>添加自定义音频</li>
+      <li>系统启动后自动运行</li>
+      <li>MPRIS集成</li>
+    </ul>
+    <ul>
+      <li>鸟鸣</li>
+      <li>轮船</li>
+      <li>城市</li>
+      <li>咖啡厅</li>
+      <li>壁炉</li>
+      <li>粉红噪音</li>
+      <li>雨</li>
+      <li>夏夜</li>
+      <li>风暴</li>
+      <li>小溪</li>
+      <li>火车</li>
+      <li>海浪</li>
+      <li>白噪音</li>
+      <li>大风</li>
+    </ul>
+  </description>
+  <pkgname>blanket</pkgname>
+  <icon type="cached" width="64" height="64">com.rafaelmardojai.Blanket.png</icon>
+  <icon type="cached" height="128" width="128">com.rafaelmardojai.Blanket.png</icon>
+  <id>com.rafaelmardojai.Blanket</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <name>Blanket</name>
+  <name lang="zh_CN">Blanket</name>
+  <name lang="ta">பிளாங்கெட்</name>
+  <name lang="uk">Blanket</name>
+  <name lang="tr">Battaniye</name>
+  <name lang="sv">Blanket</name>
+  <name lang="sr">Ћебенце</name>
+  <name lang="sk">Blanket</name>
+  <name lang="oc">Blanket</name>
+  <name lang="pt_BR">Blanket</name>
+  <name lang="pt">Blanket</name>
+  <name lang="pl">Blanket</name>
+  <name lang="nl">Blanket</name>
+  <name lang="ne">Blanket</name>
+  <name lang="ko">Blanket</name>
+  <name lang="ka">საბანი</name>
+  <name lang="ja">Blanket</name>
+  <name lang="it">Blanket</name>
+  <name lang="id">Blanket</name>
+  <name lang="hu">Blanket</name>
+  <name lang="hr">Pokrivač</name>
+  <name lang="hi">कंबल</name>
+  <name lang="gl">Blanket</name>
+  <name lang="ga">Blanket</name>
+  <name lang="fr">Blanket</name>
+  <name lang="fi">Blanket</name>
+  <name lang="fa">بِلَنکِت</name>
+  <name lang="eu">Blanket</name>
+  <name lang="es">Blanket</name>
+  <name lang="eo">Blanket</name>
+  <name lang="de">Blanket</name>
+  <name lang="cs">Blanket</name>
+  <name lang="ca">Blanket</name>
+  <name lang="ar">Blanket</name>
+  <summary>Listen to different sounds</summary>
+  <summary lang="zh_CN">聆听不同的声音</summary>
+  <summary lang="ta">வெவ்வேறு ஒலிகளை கேள்</summary>
+  <summary lang="uk">Слухайте різні звуки</summary>
+  <summary lang="tr">Farklı sesleri dinleyin</summary>
+  <summary lang="sv">Lyssna på olika ljud</summary>
+  <summary lang="sr">Слушајте различите звукове</summary>
+  <summary lang="sk">Počúvajte rôzne zvuky</summary>
+  <summary lang="ru_RU">Слушайте разные звуки</summary>
+  <summary lang="oc">Escotar diferents sons</summary>
+  <summary lang="pt_BR">Escute diferentes sons</summary>
+  <summary lang="pt">Ouça diferentes sons</summary>
+  <summary lang="pl">Słuchaj różnych dźwięków</summary>
+  <summary lang="nl">Luister naar verschillende geluiden</summary>
+  <summary lang="ne">बिभिन्न आवाज सुन्नुहोस्</summary>
+  <summary lang="ko">다양한 소리를 들으세요</summary>
+  <summary lang="ka">მოუსმინეთ სხვადასხვა ხმებს</summary>
+  <summary lang="ja">環境音で集中</summary>
+  <summary lang="it">Ascolta suoni diversi</summary>
+  <summary lang="id">Dengarkan suara yang berbeda</summary>
+  <summary lang="hu">Hallgass különböző hangokat</summary>
+  <summary lang="hr">Slušaj razne zvukove</summary>
+  <summary lang="hi">विभिन्न ध्वनियों को सुनें</summary>
+  <summary lang="gl">Escoite diferentes sons</summary>
+  <summary lang="ga">Éist le fuaimeanna éagsúla</summary>
+  <summary lang="fr">Écoutez différents sons d’ambiance</summary>
+  <summary lang="fi">Kuuntele eri ääniä</summary>
+  <summary lang="fa">گوش دادن به صداهای گوناگون</summary>
+  <summary lang="eu">Entzun hainbat soinu</summary>
+  <summary lang="es">Escuche diferentes sonidos</summary>
+  <summary lang="eo">Aŭskultu diversajn sonojn</summary>
+  <summary lang="de">Höre dir unterschiedliche Klänge an</summary>
+  <summary lang="cs">Poslouchejte různé zvuky</summary>
+  <summary lang="ca">Escolteu diferents sons</summary>
+  <summary lang="ar">استمع لأصوات متنوعة</summary>
+  <url type="homepage">https://github.com/rafaelmardojai/blanket</url>
+  <url type="bugtracker">https://github.com/rafaelmardojai/blanket/issues</url>
+  <url type="translate">https://www.transifex.com/rafaelmardojai/blanket/</url>
+  <url type="donation">https://rafaelmardojai.com/donate/</url>
+  <developer_name>Rafael Mardojai CM</developer_name>
+  <developer_name lang="zh_CN">Rafael Mardojai CM</developer_name>
+  <developer_name lang="ta">ரபேல் மார்டோசாய் சிஎம்</developer_name>
+  <developer_name lang="uk">Rafael Mardojai CM</developer_name>
+  <developer_name lang="tr">Rafael Mardojai CM</developer_name>
+  <developer_name lang="sv">Rafael Mardojai CM</developer_name>
+  <developer_name lang="sr">Rafael Mardojai CM</developer_name>
+  <developer_name lang="sk">Rafael Mardojai CM</developer_name>
+  <developer_name lang="ru_RU">Rafael Mardojai CM</developer_name>
+  <developer_name lang="oc">Rafael Mardojai CM</developer_name>
+  <developer_name lang="pt_BR">Rafael Mardojai C. M.</developer_name>
+  <developer_name lang="pt">Rafael Mardojai CM</developer_name>
+  <developer_name lang="pl">Rafael Mardojai CM</developer_name>
+  <developer_name lang="nl">Rafael Mardojai CM</developer_name>
+  <developer_name lang="ne">राफेल मार्डोजाई सीएम</developer_name>
+  <developer_name lang="ko">Rafael Mardojai CM</developer_name>
+  <developer_name lang="ka">რაფაელ მარდოჯაი ც.მ.</developer_name>
+  <developer_name lang="ja">Rafael Mardojai CM</developer_name>
+  <developer_name lang="it">Rafael Mardojai CM</developer_name>
+  <developer_name lang="id">Rafael Mardojai CM</developer_name>
+  <developer_name lang="hu">Rafael Mardojai CM</developer_name>
+  <developer_name lang="hr">Rafael Mardojai CM</developer_name>
+  <developer_name lang="hi">राफेल मर्दोजाई सीएम</developer_name>
+  <developer_name lang="gl">Rafael Mardojai CM</developer_name>
+  <developer_name lang="ga">Rafael Mardojai CM</developer_name>
+  <developer_name lang="fr">Rafael Mardojai CM</developer_name>
+  <developer_name lang="fi">Rafael Mardojai CM</developer_name>
+  <developer_name lang="fa">Rafael Mardojai CM</developer_name>
+  <developer_name lang="eu">Rafael Mardojai CM</developer_name>
+  <developer_name lang="es">Rafael Mardojai CM</developer_name>
+  <developer_name lang="eo">Rafael Mardojai CM</developer_name>
+  <developer_name lang="de">Rafael Mardojai CM</developer_name>
+  <developer_name lang="cs">Rafael Mardojai CM</developer_name>
+  <developer_name lang="ca">Rafael Mardojai C. M.</developer_name>
+  <developer_name lang="ar">Rafael Mardojai CM</developer_name>
+  <update_contact>email_AT_rafaelmardojai.com</update_contact>
+  <content_rating type="oars-1.1" />
+  <launchable type="desktop-id">com.rafaelmardojai.Blanket.desktop</launchable>
+  <translation type="gettext">blanket</translation>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/rafaelmardojai/blanket/master/brand/screenshot-1.png</image>
+    </screenshot>
+    <screenshot>
+      <image lang="ru">https://raw.githubusercontent.com/rafaelmardojai/blanket/master/brand/screenshots/ru/screenshot-1-ru.z.png</image>
+    </screenshot>
+    <screenshot>
+      <image lang="ru">https://raw.githubusercontent.com/rafaelmardojai/blanket/master/brand/screenshots/ru/screenshot-2-ru.z.png</image>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release version="0.6.0" date="2022-04-13">
+      <description>
+        <ul>
+          <li>App ported to GTK 4 and libadwaita</li>
+          <li>User interface refinements</li>
+          <li>New translations added</li>
+          <li>Bug fixes</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-09-28" version="0.5.0">
+      <description>
+        <ul>
+          <li>Added new Presets feature</li>
+          <li>Now you can toggle sounds by clicking the row</li>
+          <li>Added new dark mode option</li>
+          <li>Added Tamil translation</li>
+          <li>Added Simplified Chinese translation</li>
+          <li>Added Russian translation</li>
+          <li>Added Irish translation</li>
+          <li>Added Japanese translation</li>
+          <li>Added Indonesian translation</li>
+          <li>Added Finnish translation</li>
+          <li>Added Portuguese translation</li>
+          <li>Added Swedish translation</li>
+          <li>Added Czech translation</li>
+          <li>Added Hungarian translation</li>
+          <li>Added Persian (Farsi) translation</li>
+          <li>Added Galician translation</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.4.1" date="2021-04-26">
+      <description>
+        <ul>
+          <li>Added Turkish translation</li>
+          <li>Added Occitan translation</li>
+          <li>Fix German and Slovak translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-04-15" version="0.4.0">
+      <description>
+        <ul>
+          <li>Added autostart on background feature</li>
+          <li>Added six new sounds</li>
+          <li>New sounds icons, thanks to Jakub Steiner</li>
+          <li>Sounds improvements</li>
+          <li>Added French translation</li>
+          <li>Added Ukrainian translation</li>
+          <li>Added Slovak translation</li>
+          <li>Added Nepali translation</li>
+          <li>Added German translation</li>
+          <li>Added Croatian translation</li>
+          <li>Performance improvements</li>
+          <li>UI improvements</li>
+          <li>Bug fixes</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.3.1" date="2020-09-12">
+      <description>
+        <ul>
+          <li>Added Brazilian Portuguese translation</li>
+          <li>Bug fixes</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-09-11" version="0.3.0">
+      <description>
+        <ul>
+          <li>Added play/pause action</li>
+          <li>Added general volume control</li>
+          <li>Added MPRIS support</li>
+          <li>Allow playback when window is closed</li>
+          <li>Save window scroll position</li>
+          <li>Added Dutch translation</li>
+          <li>Added Basque translation</li>
+          <li>Added Esperanto translation</li>
+          <li>Added Catalan translation</li>
+          <li>UI tweaks and improvements</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.2.0" date="2020-09-02">
+      <description>
+        <ul>
+          <li>Better White Noise</li>
+          <li>Added Italian translation</li>
+          <li>Fix GStreamer init bug</li>
+          <li>UI tweaks and improvements</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.1.0" date="2020-09-01">
+      <description>
+        <p>Initial release.</p>
+      </description>
+    </release>
+  </releases>
+  <custom>
+    <value key="Purism::form_factor">workstation</value>
+    <value key="Purism::form_factor">mobile</value>
+  </custom>
+</component>

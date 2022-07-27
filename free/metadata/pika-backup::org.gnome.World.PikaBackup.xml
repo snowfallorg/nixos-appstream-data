@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <description>
+    <p>
+      Doing backups the easy way. Plugin your USB drive and let the Pika do the rest for you.
+    </p>
+    <ul>
+      <li>Create backups locally and remote</li>
+      <li>Set a schedule for regular backups</li>
+      <li>Save time and disk space because Pika Backup does not need to copy known data again</li>
+      <li>Encrypt your backups</li>
+      <li>List created archives and browse through their contents</li>
+      <li>Recover files or folders via your file browser</li>
+    </ul>
+    <p>
+      Pika Backup is designed to save your personal data and does not support complete system recovery. Pika Backup is powered by the well-tested BorgBackup software.
+    </p>
+  </description>
+  <description lang="ca">
+    <p>Fer còpies de seguretat de la manera fàcil. Connecta la unitat USB i deixeu que el Pika faci la resta.</p>
+    <ul>
+      <li>Creeu còpies de seguretat localment i remotes</li>
+      <li>Estalvieu temps i l'espai de disc perquè la còpia de seguretat de Pika no necessita tornar a copiar les dades conegudes</li>
+      <li>Encripta les vostres còpies de seguretat</li>
+      <li>Llista els arxius creats i navega pels seus continguts</li>
+      <li>Recupera fitxers o carpetes a través del navegador de fitxers</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>Zálohujte naprosto jednoduchým způsobem. Stačí připojit disk USB a nechat aplikaci Pišťucha udělat vše ostatní.</p>
+    <ul>
+      <li>Vytváření místních i vzdálených záloh</li>
+      <li>Úspora času a místa, protože nepotřebuje kopírovat známá data znovu</li>
+      <li>Šifrování záloh</li>
+      <li>Seznam vytvořených archivů a procházení jejich obsahu</li>
+      <li>Obnovování souborů a složek přes prohlížeč</li>
+    </ul>
+  </description>
+  <description lang="da">
+    <p>Foretag sikkerhedskopieringer på den lette måde. Sæt dit USB-drev i og lad Pika gøre resten for dig.</p>
+    <ul>
+      <li>Opret sikkerhedskopier lokalt og fjernt</li>
+      <li>Indstil en tidsplan for regelmæssige sikkerhedskopieringer</li>
+      <li>Spar tid og diskplads da Pika Backup ikke behøver at kopiere kendte data igen</li>
+      <li>Kryptér dine sikkerhedskopier</li>
+      <li>Vis oprettede arkiver og gennemse deres indhold</li>
+      <li>Gendan filer eller mapper med din filvælger</li>
+    </ul>
+    <p>Pika Backup er designet til at gemme dine personlige data og understøtter ikke fuldstændig gendannelse af systemet. Pika Backup bruger det gennemtestede program BorgBackup.</p>
+  </description>
+  <description lang="de">
+    <p>Datensicherung leicht gemacht. Stecken Sie Ihr USB-Laufwerk an und lassen Sie Pika den Rest für Sie erledigen.</p>
+    <ul>
+      <li>Lokale und entfernte Sicherungen anlegen</li>
+      <li>Einen Zeitplan für regelmäßige Sicherungen festlegen</li>
+      <li>Zeit und Speicherplatz sparen, denn Pika muss bekannte Daten nicht erneut kopieren</li>
+      <li>Ihre Datensicherungen verschlüsseln</li>
+      <li>Erstellte Archive auflisten und deren Inhalt durchsuchen</li>
+      <li>Dateien oder Ordner über die Dateiverwaltung wiederherstellen</li>
+    </ul>
+    <p>Pika Datensicherung ist dafür gemacht, Ihre persönlichen Daten zu sichern. Es bietet aber keine vollständige Systemwiederherstellung. Pika Datensicherung verwendet das gut getestete Programm BorgBackup.</p>
+  </description>
+  <description lang="en_GB">
+    <p>Doing backups the easy way. Plug in your USB drive and let the Pika do the rest for you.</p>
+    <ul>
+      <li>Create backups locally and remote</li>
+      <li>Set a schedule for regular backups</li>
+      <li>Save time and disk space because Pika Backup does not need to copy known data again</li>
+      <li>Encrypt your backups</li>
+      <li>List created archives and browse through their contents</li>
+      <li>Recover files or folders via your file browser</li>
+    </ul>
+    <p>Pika Backup is designed to save your personal data and does not support complete system recovery. Pika Backup is powered by the well-tested BorgBackup software.</p>
+  </description>
+  <description lang="es">
+    <p>Haga respaldos de manera fácil. Conecte su dispositivo USB y deje que Pika haga el resto.</p>
+    <ul>
+      <li>Crear respaldos locales y remotos</li>
+      <li>Establecer un calendario para copias de respaldo periódicas</li>
+      <li>Ahorrar tiempo y espacio en disco ya que Pika Backup no necesita copiar de nuevo los datos conocidos</li>
+      <li>Cifrar sus respaldos</li>
+      <li>Listar los archivadores creados y examinar su contenido</li>
+      <li>Recuperar archivos o carpetas usando su gestor de archivos</li>
+    </ul>
+    <p>Copia de respaldo Pika se diseñó para guardar sus datos personales y no permite una recuperación completa del sistema. Copia de respaldo Pika funciona sobre BorgBackup, un software extensamente probado.</p>
+  </description>
+  <description lang="eu">
+    <p>Babeskopia errazak. Txertatu zure USB gailua eta utzi Pikari gainerakoa egiten.</p>
+    <ul>
+      <li>Sortu babeskopiak lokalean eta urrunean</li>
+      <li>Ezarri programazio bat aldizkako babeskopiak egiteko</li>
+      <li>Aurreztu denbora eta diskoko tokia, Pika Backup-ek ez baititu lehendik ezagutzen dituen datuak berriro kopiatu behar</li>
+      <li>Zifratu zure babeskopiak</li>
+      <li>Zerrendatu sortutako artxiboak eta arakatu hauen edukietan</li>
+      <li>Berreskuratu fitxategiak edo karpetak zure fitxategi-arakatzailea erabilita</li>
+    </ul>
+    <p>Pika Backup zure datu pertsonalak gordetzeko diseinatuta dago eta ez du sistemaren berreskuratze osoa onartzen.
+Pika Backup aplikazioak BorgBackup software fidagarria darabil motor gisa.</p>
+  </description>
+  <description lang="fi">
+    <p>Varmuuskopiointia vaivatta. Liitä USB-asema ja anna Pikan tehdä varmuuskopiointi puolestasi.</p>
+    <ul>
+      <li>Luo varmuuskopioita paikallisesti ja etäsijainteihin</li>
+      <li>Aseta aikataulu säännöllisille varmuuskopioille</li>
+      <li>Säästä aikaa ja tilaa, koska Pikan ei tarvitse kopioida tunnettua dataa uudelleen</li>
+      <li>Salaa varmuuskopiot</li>
+      <li>Listaa luodut arkistot ja selaa niiden sisältöä</li>
+      <li>Palauta tiedostoja tai kansioita tiedostoselaimen avulla</li>
+    </ul>
+    <p>Pika-varmuuskopiointi on suunniteltu henkilökohtaisten tietojen tallentamiseen, se ei tue järjestelmän täydellistä palauttamista. Pika-varmuuskopioinnin taustalla toimii hyvin testattu BorgBackup-ohjelmisto.</p>
+  </description>
+  <description lang="fr">
+    <p>Créez des sauvegardes en toute simplicité. Branchez votre support USB et laisser Pika s’occuper du reste.</p>
+    <ul>
+      <li>Création de sauvegardes locales et distantes</li>
+      <li>Planification régulière des sauvegardes</li>
+      <li>Gain de temps et d’espace disque : Sauvegarde Pika ne copie que les nouvelles données</li>
+      <li>Chiffrement des sauvegardes</li>
+      <li>Liste des archives créées et parcours de leur contenu</li>
+      <li>Restauration des fichiers ou des répertoires depuis votre navigateur de fichiers</li>
+    </ul>
+    <p>Sauvegarde Pika est conçu pour sauvegarder vos données personnelles et ne prend pas en charge la récupération complète du système. Sauvegarde Pika utilise le logiciel éprouvé BorgBackup pour fonctionner.</p>
+  </description>
+  <description lang="gl">
+    <p>Facer copias de respaldo de forma fácil. Conecte a súa unidade de USB e déixelle a Pika facer o resto</p>
+    <ul>
+      <li>Cree respaldos local e remotos</li>
+      <li>Aforre tempo e espazo de disco xa que Copia de respaldo de Pika non precisa copiar datos coñecidos de novo</li>
+      <li>Cifre os seus respaldos</li>
+      <li>Liste os arquivos creados e navegue polos seus contidos</li>
+      <li>Recupere ficheiros ou cartafoles mediante o seu explorador de ficheiros</li>
+    </ul>
+  </description>
+  <description lang="he">
+    <p>ביצוע גיבויים בדרך פשוטה. עליך לחבר את כונן ה־USB שלך ולאפשר לפיקה לעשות את השאר עבורך.</p>
+    <ul>
+      <li>יצירת גיבויים מקומיים ומרוחקים</li>
+      <li>הגדרת תזמון לגיבויים תדירים</li>
+      <li>חוסכים בזמן ובמקום כיוון שעם גיבוי פיקה לא צריך להעתיק נתונים ידועים פעם נוספת</li>
+      <li>הצפנת הגיבויים שלך</li>
+      <li>הצגת הארכיונים שנוצרו ועיון בתוכן שלהם</li>
+      <li>שחזור קבצים או תיקיות דרך דפדפן הקבצים שלך</li>
+    </ul>
+    <p>גיבוי Pika תוכנן לשמור את הנתונים האישיים שלך ואינו תומך בשחזור מערכת מעלה. גיבוי Pika רוכב על גבי תוכנת BorgBackup שנבדקה היטב.</p>
+  </description>
+  <description lang="hr">
+    <p>Jednostavno stvaranje sigurnosnih kopija. Priključite svoj USB disk i neka Pika učini ostalo umjesto vas.</p>
+    <ul>
+      <li>Stvorite sigurnosne kopije na lokalnim ili udaljenim lokacijama</li>
+      <li>Uštedite vrijeme i prostor na disku jer Pika sigurnosno kopiranje ne treba ponovno kopirati poznate podatke</li>
+      <li>Šifrirajte svoje sigurnosne kopije</li>
+      <li>Pregledavajte stvorene arhive i njihov sadržaj</li>
+      <li>Obnovite datoteke ili mape putem svojeg preglednika datoteka</li>
+    </ul>
+  </description>
+  <description lang="hu">
+    <p>Biztonsági mentések egyszerűen. Dugja be az USB meghajtóját, és hagyja, hogy a Pika elvégezze a többit.</p>
+    <ul>
+      <li>Helyi és távoli biztonsági mentések létrehozása</li>
+      <li>Idő és lemezterület megtakarítása, mert a Pika biztonsági mentésnek nem kell újra átmásolnia a már ismert adatait</li>
+      <li>A biztonsági mentéseinek titkosítása</li>
+      <li>Létrehozott archívumok felsorolása és a tartalmuk tallózása</li>
+      <li>Fájlok vagy mappák visszaállítása a fájlböngészője segítségével</li>
+    </ul>
+  </description>
+  <description lang="id">
+    <p>Melakukan pencadangan dengan cara yang mudah. Tancapkan flash disk USB Anda dan biarkan Pika melakukan sisanya untuk Anda.</p>
+    <ul>
+      <li>Buat cadangan secara lokal dan jarak jauh</li>
+      <li>Hemat waktu dan ruang cakram karena Cadangan Pika tidak perlu menyalin data yang diketahui lagi</li>
+      <li>Mengenkripsi cadangan Anda</li>
+      <li>Membuat daftar arsip yang dibuat dan menelusuri kontennya</li>
+      <li>Memulihkan berkas atau folder melalui peramban berkas Anda</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>I backup, fatti semplici. Basta collegare la propria unità USB e lasciare che sia Pika ad occuparsi del resto.</p>
+    <ul>
+      <li>Creazione di backup locali e in remoto</li>
+      <li>Programmazione di backup con regolarità</li>
+      <li>Risparmio di tempo e spazio su disco, perché Pika non ha bisogno di copiare nuovamente i dati già conosciuti</li>
+      <li>Creazione di backup cifrati</li>
+      <li>Elenco degli archivi creati ed esplorazione dei contenuti</li>
+      <li>Recupero di file o cartelle usando il proprio gestore di file</li>
+    </ul>
+    <p>Pika Backup è progettato per salvare i dati personali e non supporta un ripristino completo del sistema. Pika Backup funziona grazie al software di backup ben testato BorgBackup.</p>
+  </description>
+  <description lang="nl">
+    <p>Back-up waren nog nooit zo eenvoudig. Koppel gewoon uw USB-schijf aan uw computer en laat Pika de zaak verder afhandelen.</p>
+    <ul>
+      <li>Maak back-ups lokaal of op afstand aan</li>
+      <li>Verspil geen tijd of schijfruimte: Pika Back-up hoeft gekende gegevens niet opnieuw te kopiëren</li>
+      <li>Versleutel uw back-ups</li>
+      <li>Lijst aangemaakte archieven op en blader door hun inhoud</li>
+      <li>Herstel bestanden of mappen via uw bestandsbeheerder</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <p>Łatwe wykonywanie kopii zapasowych. Podłącz dysk USB i pozwól programowi Pika załatwić resztę.</p>
+    <ul>
+      <li>Lokalne i zdalne tworzenie kopii zapasowych</li>
+      <li>Ustawianie harmonogramu regularnych kopii zapasowych</li>
+      <li>Oszczędzanie czasu i miejsca na dysku, ponieważ Pika nie musi jeszcze raz kopiować znanych danych</li>
+      <li>Szyfrowanie kopii zapasowych</li>
+      <li>Lista utworzonych archiwów, których zawartość można przeglądać</li>
+      <li>Przywracanie plików i katalogów za pomocą przeglądarki plików</li>
+    </ul>
+    <p>Pika jest zaprojektowana do zachowywania danych osobistych i nie obsługuje pełnego przywracania systemu. Korzysta z dobrze przetestowanego oprogramowania BorgBackup.</p>
+  </description>
+  <description lang="pt">
+    <p>Fazendo backups da maneira fácil. Ligue a sua unidade USB e deixe o Pika fazer o resto por si.</p>
+    <ul>
+      <li>Crie backups localmente e remotos</li>
+      <li>Estabelecer um horário para backups regulares</li>
+      <li>Poupe tempo e espaço em disco porque o Pika Backup não precisa de copiar novamente os dados já conhecidos</li>
+      <li>Encripte os seus backups</li>
+      <li>Listar os arquivos criados e naveguar pelos seus conteúdos</li>
+      <li>Recupere ficheiros ou pastas através do seu explorador de ficheiros</li>
+    </ul>
+    <p>O Pika Backup foi concebido para guardar os seus dados pessoais e não suporta a recuperação completa do sistema. O Pika Backup é disponibilizado pelo bem testado software BorgBackup.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Fazendo backups da maneira fácil. Conecte sua unidade USB e deixe o Ochotona fazer o resto por você.</p>
+    <ul>
+      <li>Crie backups localmente e remotos</li>
+      <li>Economize tempo e espaço em disco porque o Ochotona Backup não precisa copiar novamente os dados que já são conhecidos</li>
+      <li>Criptografe seus backups</li>
+      <li>Liste os arquivamentos criados e navegue pelos seus conteúdos</li>
+      <li>Recupere arquivos ou pastas através do seu navegador de arquivos</li>
+    </ul>
+  </description>
+  <description lang="ro">
+    <p>Efectuarea de copii de siguranță în mod simplu. Conectați unitatea USB și lăsați Pika să preia lucrul.</p>
+    <ul>
+      <li>Creează copii de siguranță local și la distanță</li>
+      <li>Salvează timpul și spațiul pe disc pentru  că Pika Backup nu necesită copierea datelor cunoscute din nou</li>
+      <li>Criptarea copiilor de siguranță</li>
+      <li>Listează arhivele create și navighează prin conținutul lor</li>
+      <li>Recuperează fișiere și dosare prin navigatorul de fișiere</li>
+    </ul>
+  </description>
+  <description lang="ru">
+    <p>Создавайте резервные копии простым способом. Подключите USB-накопитель, и пусть Pika сделает все остальное за вас.</p>
+    <ul>
+      <li>Создание резервных копий локально и удаленно</li>
+      <li>Установите расписание для регулярного резервного копирования</li>
+      <li>Экономия времени и дискового пространства, поскольку Pika Backup не требует повторного копирования известных данных</li>
+      <li>Шифруйте свои резервные копии</li>
+      <li>Составление списка созданных архивов и просмотр их содержимого</li>
+      <li>Восстановление файлов или папок через браузер файлов</li>
+    </ul>
+    <p>Pika Backup предназначен для сохранения ваших личных данных и не поддерживает полное восстановление системы. Pika Backup работает на базе хорошо зарекомендовавшего себя программного обеспечения BorgBackup.</p>
+  </description>
+  <description lang="sl">
+    <p>Ustvarjanje varnostnih kopij na enostaven način. Priključite pogon USB in prepustite zahtevno delo programu.</p>
+    <ul>
+      <li>Krajevno in oddaljeno ustvarjanje varnostnih kopij</li>
+      <li>Prihranek na času in prostoru diska, ker program nikoli ne kopira znova že usklajenih podatkov</li>
+      <li>Šifriranje podatkov varnostne kopije</li>
+      <li>Brskanje po seznamu ustvarjenih arhivov in njihovi vsebini</li>
+      <li>Obnovitev datotek in map prek datotečnega brskalnika</li>
+    </ul>
+  </description>
+  <description lang="sr">
+    <p>Направите резерве на лак начин. Прикључите ваш УСБ уређај и пустите да Пика одради остало уместо вас.</p>
+    <ul>
+      <li>Направите резерве локално или удаљено</li>
+      <li>Сачувајте време и простор на диску јер Пика резерве не мора поново да умножава познате податке</li>
+      <li>Шифрујте ваше резерве</li>
+      <li>Испипите списак постојећих архива и разгледајте њихов садржај</li>
+      <li>Вратите датотеке или фасцикле путем прегледника датотека</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <p>Säkerhetskopiera på det enkla sättet. Tryck in ditt USB-minne och låt Pika sköta resten.</p>
+    <ul>
+      <li>Skapa säkerhetskopior lokalt och på distans</li>
+      <li>Ställ in ett schema för regelbundna säkerhetskopior</li>
+      <li>Spara tid och diskutrymme då Pika Backup inte behöver kopiera kända data igen</li>
+      <li>Kryptera dina säkerhetskopior</li>
+      <li>Lista skapade arkiv och bläddra igenom deras innehåll</li>
+      <li>Återställ filer och mappar via din webbläsare</li>
+    </ul>
+    <p>Pika Backup är utformat för att spara dina personliga data och stöder inte fullständig systemåterställning. Pika Backup drivs av den väl beprövade BorgBackup-programvaran.</p>
+  </description>
+  <description lang="tr">
+    <p>Kolayca yedekle. USB sürücünüzü takın ve gerisini Pika sizin için yapsın.</p>
+    <ul>
+      <li>Yerel ya da uzak yedek oluştur</li>
+      <li>Düzenli yedekler için zamanlama ayarla</li>
+      <li>Pika Yedek’in bilinen verileri yeniden kopyalaması gerekmediğinden zaman ve disk alanı kazanın</li>
+      <li>Yedeklerinizi şifreleyin</li>
+      <li>Oluşturulan arşivleri listele ve içeriklerine göz at</li>
+      <li>Dosya tarayıcınızla dosyaları veya klasörleri kurtarın</li>
+    </ul>
+    <p>Pika Yedek, kişisel verilerinizi kaydetmek için tasarlanmıştır ve tam sistem kurtarmayı desteklemez. Pika Yedek, iyi sınanmış BorgBackup yazılımı ile güçlendirilmiştir.</p>
+  </description>
+  <description lang="uk">
+    <p>Резервне копіювання без проблем. Вставте ваш диск USB, і Пайка виконає решту роботи за вас.</p>
+    <ul>
+      <li>Можна створювати резервні копію на вашому або віддаленому комп'ютері</li>
+      <li>Можна встановити розклад регулярного резервного копіювання</li>
+      <li>Можна заощадити час і місце на диску, оскільки «Пайка-копіювання» не витрачає часу на копіювання вже скопійованих файлів.</li>
+      <li>Можна зашифрувати ваші резервні копії</li>
+      <li>Можна переглядати список створених архівів та здійснювати навігацію їхнім вмістом</li>
+      <li>Можна відновлювати файли і теки за допомогою вашої програми для керування файлами</li>
+    </ul>
+    <p>«Пайку-копіювання» створено для захисту ваших особистих даних. Програму не призначено для повного відновлення системи. «Пайка-копіювання» працює на основі перевірених програм з комплексу  BorgBackup.</p>
+  </description>
+  <description lang="vi">
+    <p>Tạo bản sao lưu dự phòng một cách dễ dàng. Cắm đĩa USB của bạn vào và để cho Pika làm phần còn lại cho bạn.</p>
+    <ul>
+      <li>Tạo bản sao lưu cục bộ và từ xa</li>
+      <li>Đặt lịch sao lưu dự phòng định kỳ</li>
+      <li>Tiết kiệm thời gian và dung lượng đĩa vì Sao lưu dự phòng Pika không cần sao chép lại dữ liệu đã biết</li>
+      <li>Mã hóa bản sao lưu dự phòng của bạn</li>
+      <li>Liệt kê các kho nén lưu trữ đã tạo và duyệt qua nội dung của chúng</li>
+      <li>Khôi phục các tập tin hoặc thư mục thông qua trình duyệt tập tin của bạn</li>
+    </ul>
+    <p>Sao lưu dự phòng Pika được thiết kết để lưu dữ liệu cá nhân của bạn và không hỗ trợ khôi phục lại toàn bộ hệ thống. Sao lưu dự phòng Pika chạy được dựa vào phần mềm BorgBackup đã được kiểm định kỹ càng.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>以简单的方式进行备份。插入您的 USB 驱动器并让 Pika 为您做其余的事情。</p>
+    <ul>
+      <li>创建本地和远程备份</li>
+      <li>为常规备份设置计划</li>
+      <li>节省时间和磁盘空间，因为 Pika 备份不需要再次复制已知数据</li>
+      <li>加密您的备份</li>
+      <li>列出已创建的归档文件并浏览其内容</li>
+      <li>通过您的文件浏览器来恢复文件或文件夹</li>
+    </ul>
+    <p>Pika 备份被设计用来保存您的私人数据并且不支持完整系统恢复。Pika 备份由经过良好测试的 BorgBackup 软件强力支持。</p>
+  </description>
+  <pkgname>pika-backup</pkgname>
+  <icon height="64" width="64" type="cached">org.gnome.World.PikaBackup.png</icon>
+  <icon width="128" type="cached" height="128">org.gnome.World.PikaBackup.png</icon>
+  <id>org.gnome.World.PikaBackup</id>
+  <name>Pika Backup</name>
+  <name lang="zh_CN">Pika 备份</name>
+  <name lang="vi">Sao lưu dự phòng Pika</name>
+  <name lang="uk">Пайка-копіювання</name>
+  <name lang="tr">Pika Yedek</name>
+  <name lang="sv">Pika Backup</name>
+  <name lang="sr">Пика резерва</name>
+  <name lang="sl">Varnostno kopiranje Pika</name>
+  <name lang="ru">Pika Backup</name>
+  <name lang="ro">Pika Backup</name>
+  <name lang="pt_BR">Ochotona Backup</name>
+  <name lang="pt">Pika Backup</name>
+  <name lang="pl">Kopie zapasowe Pika</name>
+  <name lang="oc">Pika Backup</name>
+  <name lang="nl">Pika Back-up</name>
+  <name lang="it">Pika Backup</name>
+  <name lang="id">Cadangan Pika</name>
+  <name lang="hu">Pika biztonsági mentés</name>
+  <name lang="hr">Pika sigurnosno kopiranje</name>
+  <name lang="he">גיבוי פיקה</name>
+  <name lang="gl">Copia de respaldo Pika</name>
+  <name lang="fr">Sauvegarde Pika</name>
+  <name lang="fi">Pika-varmuuskopiointi</name>
+  <name lang="eu">Pika Backup</name>
+  <name lang="es">Copia de respaldo Pika</name>
+  <name lang="en_GB">Pika Backup</name>
+  <name lang="de">Pika Datensicherung</name>
+  <name lang="da">Pika Backup</name>
+  <name lang="cs">Zálohování Pišťucha</name>
+  <name lang="ca">Còpies de seguretat Pika</name>
+  <summary>Keep your data safe</summary>
+  <summary lang="zh_CN">保护您的数据安全</summary>
+  <summary lang="vi">Giữ dữ liệu của bạn được an toàn</summary>
+  <summary lang="uk">Зберігайте ваші дані у безпеці</summary>
+  <summary lang="tr">Verilerini güvende tut</summary>
+  <summary lang="sv">Håll dina data säkra</summary>
+  <summary lang="ru">Обеспечьте сохранность своих данных</summary>
+  <summary lang="pt">Mantenha os seus dados seguros</summary>
+  <summary lang="pl">Zabezpiecz swoje dane</summary>
+  <summary lang="it">Tieni i tuoi dati al sicuro</summary>
+  <summary lang="he">שמירה על הנתונים שלך</summary>
+  <summary lang="fr">Protégez vos données</summary>
+  <summary lang="fi">Pidä tietosi turvassa</summary>
+  <summary lang="eu">Gorde zure datuak seguru</summary>
+  <summary lang="es">Mantenga sus datos a salvo</summary>
+  <summary lang="en_GB">Keep your data safe</summary>
+  <summary lang="de">Bewahren Sie Ihre Daten sicher auf</summary>
+  <summary lang="da">Hold dine data sikre</summary>
+  <metadata_license>CC-BY-SA-4.0</metadata_license>
+  <project_license>GPL-3.0</project_license>
+  <developer_name>Sophie Herold</developer_name>
+  <developer_name lang="zh_CN">Sophie Herold</developer_name>
+  <developer_name lang="vi">Sophie Herold</developer_name>
+  <developer_name lang="uk">Софі Герольд</developer_name>
+  <developer_name lang="tr">Sophie Herold</developer_name>
+  <developer_name lang="sv">Sophie Herold</developer_name>
+  <developer_name lang="sr">Софија Херолд</developer_name>
+  <developer_name lang="sl">Sophie Herold</developer_name>
+  <developer_name lang="ru">Софи Герольд (Sophie Herold)</developer_name>
+  <developer_name lang="ro">Sophie Herold</developer_name>
+  <developer_name lang="pt_BR">Sophie Herold</developer_name>
+  <developer_name lang="pt">Sophie Herold</developer_name>
+  <developer_name lang="pl">Sophie Herold</developer_name>
+  <developer_name lang="nl">Sophie Herold</developer_name>
+  <developer_name lang="it">Sophie Herold</developer_name>
+  <developer_name lang="id">Sophie Herold</developer_name>
+  <developer_name lang="hu">Sophie Herold</developer_name>
+  <developer_name lang="hr">Sophie Herold</developer_name>
+  <developer_name lang="he">סופי הרולד</developer_name>
+  <developer_name lang="gl">Sophie Herold</developer_name>
+  <developer_name lang="fr">Sophie Herold</developer_name>
+  <developer_name lang="fi">Sophie Herold</developer_name>
+  <developer_name lang="eu">Sophie Herold</developer_name>
+  <developer_name lang="es">Sophie Herold</developer_name>
+  <developer_name lang="en_GB">Sophie Herold</developer_name>
+  <developer_name lang="de">Sophie Herold</developer_name>
+  <developer_name lang="da">Sophie Herold</developer_name>
+  <developer_name lang="cs">Sophie Herold</developer_name>
+  <developer_name lang="ca">Sophie Herold</developer_name>
+  <url type="homepage">https://apps.gnome.org/app/org.gnome.World.PikaBackup/</url>
+  <url type="bugtracker">https://gitlab.gnome.org/World/pika-backup/-/issues</url>
+  <url type="contact">https://matrix.to/#/#pika-backup:gnome.org</url>
+  <recommends>
+    <control>pointing</control>
+    <control>keyboard</control>
+    <control>touch</control>
+  </recommends>
+  <content_rating type="oars-1.0" />
+  <custom>
+    <value key="GnomeSoftware::key-colors">[(215, 144, 222), (74, 43, 100)]</value>
+  </custom>
+  <launchable type="desktop-id">org.gnome.World.PikaBackup.desktop</launchable>
+  <translation type="gettext">pika-backup</translation>
+  <categories>
+    <category>Utility</category>
+    <category>Archiving</category>
+    <category>GTK</category>
+    <category>GNOME</category>
+  </categories>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://gitlab.gnome.org/World/pika-backup/uploads/1e287bea9923d89213442658e152cc6c/pika-backup-1.png</image>
+      <caption>Just activate “Back Up Now” and your data will be saved</caption>
+      <caption lang="zh_CN">只需要激活“现在备份”您的数据将被保存</caption>
+      <caption lang="vi">Chỉ cần kích hoạt “Sao lưu dự phòng ngay” và dữ liệu cùa bạn sẽ được ghi lại</caption>
+      <caption lang="uk">Просто позначте «Створити резервну копію зараз», і ваші дані буде збережено</caption>
+      <caption lang="tr">Yalnızca “Şimdi Yedekle”yi etkinleştirin ve verileriniz kaydedilsin</caption>
+      <caption lang="sv">Aktivera helt enkelt ”Säkerhetskopiera nu” så kommer dina data sparas</caption>
+      <caption lang="ru">Просто активируйте функцию “Сделать резервную копию сейчас”, и ваши данные будут сохранены</caption>
+      <caption lang="pt">Basta ativar o "Efetuar agora o Backup" e os seus dados serão guardados</caption>
+      <caption lang="pl">Kliknij „Wykonaj kopię zapasową”, a dane zostaną zapisane</caption>
+      <caption lang="it">È sufficiente attivare «Salva adesso» e i propri dati personali verranno salvati.</caption>
+      <caption lang="he">יש רק להפעיל „גיבוי כעת” והנתונים שלך יישמרו</caption>
+      <caption lang="fr">Activez simplement « Sauvegarder maintenant » et vos données seront sauvegardées</caption>
+      <caption lang="fi">Napsauta "Varmuuskopioi nyt" ja tietosi tallennetaan</caption>
+      <caption lang="eu">Aktibatu "Egin babeskopia orain" eta zure datuak gorde egingo dira</caption>
+      <caption lang="es">Simplemente active «Crear respaldo ahora» y sus datos se guardarán</caption>
+      <caption lang="en_GB">Just activate “Back Up Now” and your data will be saved</caption>
+      <caption lang="de">Aktivieren Sie »Jetzt sichern« und Ihre Daten werden gesichert</caption>
+      <caption lang="da">Aktivér “Sikkerhedskopiér nu”, og dine data vil blive gemt</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.gnome.org/World/pika-backup/uploads/50f0b8e13363c6c1184d23da3fcab9ea/pika-backup-2.png</image>
+      <caption>Schedule regular backups from monthly up to hourly</caption>
+      <caption lang="zh_CN">从每月到每小时的计划常规备份</caption>
+      <caption lang="vi">Lên lịch sao lưu dự phòng định kỳ từ mỗi tháng đến từng giờ</caption>
+      <caption lang="uk">Плануйте звичайне резервне копіювання від щомісячного до щогодинного</caption>
+      <caption lang="tr">Aylık ve saatlik düzenli yedeklemeler zamanla</caption>
+      <caption lang="sv">Schemalägg regelbundna säkerhetskopior från månadsvis upp till varje timme</caption>
+      <caption lang="ru">Планируйте регулярное резервное копирование от ежемесячного до ежечасного</caption>
+      <caption lang="pt">Agendar backups regulares de mensalmente até de hora em hora</caption>
+      <caption lang="pl">Zaplanuj regularne kopie zapasowe, od comiesięcznych do cogodzinnych</caption>
+      <caption lang="it">Programmazione di backup regolari da ogni mese ad ogni ora</caption>
+      <caption lang="he">תזמון גיבויים תדירים מלפי חודש עד לפי שעה</caption>
+      <caption lang="fr">Planifiez vos sauvegardes régulièrement : chaque heure, semaine ou mois</caption>
+      <caption lang="fi">Aikatauluta säännölliset varmuuskopiot esimerkiksi kuukausittain tai tunneittain</caption>
+      <caption lang="eu">Programatu aldizkako babeskopiak, hilerokoak izan daitezke, baina baita maizagoak, ordukoak ere</caption>
+      <caption lang="es">Programe respaldos regulares, desde cada mes hasta cada hora</caption>
+      <caption lang="en_GB">Schedule regular backups from monthly up to hourly</caption>
+      <caption lang="de">Richten Sie regelmäßige Datensicherungen ein von monatlich bis hin zu stündlich</caption>
+      <caption lang="da">Planlæg regelmæssige sikkerhedskopieringer fra timevis til månedligt</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.gnome.org/World/pika-backup/uploads/728a34c8f6122f7e6fca2cf3bf8fce39/pika-backup-3.png</image>
+      <caption>Keep backups on local drives and at online services at the same time</caption>
+      <caption lang="zh_CN">同时在本地驱动器和在线服务上保存备份</caption>
+      <caption lang="vi">Giữ bản sao lưu dự phòng trên đĩa nội bộ và các dịch vụ trực tuyến cùng lúc</caption>
+      <caption lang="uk">Зберігайте резервні копії на локальних дисках та службах у мережі одночасно</caption>
+      <caption lang="tr">Yedekleri aynı anda yerel sürücüler ve çevrim içi hizmetlerde tut</caption>
+      <caption lang="sv">Bevara säkerhetskopior på lokala diskar och på nättjänster samtidigt</caption>
+      <caption lang="ru">Одновременно храните резервные копии на локальных дисках и в онлайн-сервисах</caption>
+      <caption lang="pt">Mantenha os backups em unidades locais e num serviço online ao mesmo tempo</caption>
+      <caption lang="pl">Przechowuj kopie na lokalnych dyskach i w serwisach internetowych w tym samym czasie</caption>
+      <caption lang="it">Salvataggio dei backup su dispositivi locali o servizi in rete allo stesso tempo</caption>
+      <caption lang="he">לשמור על גיבויים בכוננים מקומיים בשירותים מקוונים באותה העת</caption>
+      <caption lang="fr">Conservez simultanément vos sauvegardes locales et distantes</caption>
+      <caption lang="fi">Säilytä varmuuskopiot paikallisilla levyillä ja verkkopalveluissa samanaikaisesti</caption>
+      <caption lang="eu">Mantendu babeskopia unitate lokaletan eta lineako zerbitzuetan aldi berean</caption>
+      <caption lang="es">Mantenga copias de respaldo en dispositivos locales y en servicios en línea al mismo tiempo</caption>
+      <caption lang="en_GB">Keep backups on local drives and at online services at the same time</caption>
+      <caption lang="de">Bewahren Sie Sicherungen gleichzeitig auf lokalen Festplatten und bei Online-Diensten auf</caption>
+      <caption lang="da">Opbevar sikkerhedskopier på lokale drev og på onlinetjenester samtidig</caption>
+    </screenshot>
+  </screenshots>
+  <provides>
+    <binary>pika-backup</binary>
+  </provides>
+  <releases>
+    <release version="0.4.1" date="2022-06-24">
+      <description>
+        <ul>
+          <li>Fixes a problem with some systems not starting scheduled backups.</li>
+          <li>Fixes a problem with including folders that are not always present makes the backup fail.</li>
+          <li>Make numbers in the status output not wiggle wiggle.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.4.0" date="2022-05-15">
+      <description>
+        <p>For this release, when doing your first backup, you have to re-enter the stored password.</p>
+        <p>The changes for this release include</p>
+        <ul>
+          <li>Ability to schedule regular backups.</li>
+          <li>Support for deleting old archives.</li>
+          <li>Revamped graphical interface including new app icon.</li>
+          <li>Better compression for backups.</li>
+          <li>Several bugs fixed.</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-09-08" version="0.3.5">
+      <description>
+        <ul>
+          <li>Fix metadata.</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-09-07" version="0.3.4">
+      <description>
+        <ul>
+          <li>Fix metadata.</li>
+          <li>Flatpak: Fix minor bugs in backup engine. (New borg-backup version.)</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-09-07" version="0.3.3">
+      <description>
+        <ul>
+          <li>Update URLs in metadata.</li>
+          <li>Add Dutch translation.</li>
+          <li>Add Occitan translation.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.3.2" date="2021-05-28">
+      <description>
+        <ul>
+          <li>Correct an error in the Spanish translation.</li>
+          <li>Update Indonesian translation.</li>
+          <li>Add Polish translation.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.3.1" date="2021-05-20">
+      <description>
+        <ul>
+          <li>Solve that the user interface might not use the correct language.</li>
+          <li>Bypass a problem where a rare computer configuration causes problems.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.3.0" date="2021-05-15">
+      <description>
+        <ul>
+          <li>Estimate remaining time to complete the backup.</li>
+          <li>Continue backups while Pika Backup is closed.</li>
+          <li>Improved wording and translation in the user interface.</li>
+          <li>Differentiate between warnings and errors occurring during backups.</li>
+          <li>Translation to several new languages.</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-03-30" urgency="low" version="0.2.3">
+      <description>
+        <ul>
+          <li>Adds flatpak options to support GNOME 40 hosts</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.2.2" date="2021-03-23" urgency="low">
+      <description>
+        <ul>
+          <li>Fixes archives listed with wrong creation time</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.2.1" date="2021-01-05" urgency="low">
+      <description>
+        <ul>
+          <li>Fixes crash on adding backup configuration with invalid URI</li>
+          <li>Fixes list of archives for dark themes</li>
+          <li>Adds translation to Swedish</li>
+          <li>Adds keywords to .desktop-file</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.2.0" date="2020-12-23" urgency="low">
+      <description>
+        <ul>
+          <li>Adds translations to several languages</li>
+          <li>Redesigns some parts of the user interface</li>
+          <li>Shows backup status for each repository in overview</li>
+          <li>Adds basis for supporting mobile clients</li>
+          <li>Makes interface even more performant and smoother</li>
+          <li>Adds basic support backups to repositories on sftp, smb etc.</li>
+          <li>Adds custom command line options for borg to setup</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="low" date="2020-09-21" version="0.1.3">
+      <description>
+        <ul>
+          <li>Shorten long error message and make info popover scrollable</li>
+          <li>Update to polished app icon by Jakub Steiner</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-09-09" urgency="high" version="0.1.2">
+      <description>
+        <ul>
+          <li>Fixes data of other flatpak applications are missing in backups (~/.var/app)</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-08-28" version="0.1.1" urgency="low">
+      <description>
+        <ul>
+          <li>Fixes missing removable device information after creating a new backup repository</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-08-25" version="0.1.0" />
+  </releases>
+</component>

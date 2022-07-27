@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>homebank</pkgname>
+  <launchable type="desktop-id">homebank.desktop</launchable>
+  <icon width="64" height="64" type="cached">homebank.png</icon>
+  <icon width="128" height="128" type="cached">homebank.png</icon>
+  <id type="desktop">homebank.desktop</id>
+  <licence>GPL-2.0+</licence>
+  <description>
+    <p>HomeBank is a free software (as in "free speech" and also as in "free beer") that will assist you to manage your personal accounting.</p>
+    <p>It is designed to easy to use and be able to analyse your personal finance in detail using powerful filtering tools and beautiful graphs.</p>
+    <p>If you are looking for a completely free and easy way to manage your personal accounting then HomeBank should be the software of choice.</p>
+  </description>
+  <description lang="ar">
+    <p>برنامج هوم بانك هو برنامج مجاني ويستطيع ان يساعدك في ادارة حساباتك الشخصية والمالية</p>
+    <p>تم تصميم البرنامج لكي يكون سهل الاستخدام وخصوصا في انشاء التقراير والاتطلاع على الاحصاءات المالية وذلك عن طريق استخدام اقوى ادوات الفلترة وايضا الشاشات الرسومية الجذابة.</p>
+    <p>إن كنت تريد برنامجًا مجانيًا وسهلًا لإدارة الحسابات الشخصية "مصرف البيت" هو ضالتك.</p>
+  </description>
+  <description lang="be">
+    <p>HomeBank - гэта свабоднае праграмнае забеспячэнне, якое дапаможа вам кіраваць асабістымі фінансамі.</p>
+    <p>Просты ў выкарыстанні і дазваляе дэталёва аналізаваць вашыя асабістыя фінансы з дапамогай магутных інструментаў фільтрацыі і прыгожых графікаў.</p>
+    <p>Калі вы шукаеце цалкам бясплатны і просты спосаб кіравання вашай асабістай бухгалтэрыяй, то HomeBank гэта Ваш выбар.</p>
+  </description>
+  <description lang="br">
+    <p>Ur meziant digor ha digoust eo HomeBank a roy skoazell deoc'h da verañ ho jederezh personel.</p>
+    <p>Ergrafet eo bet da vezañ aes d'ober gantañ ha da vezañ gouest da zielfennañ ho kellidoù personel dre ar munud dre arver binvioù silañ kreñv ha diervadoù brav.</p>
+    <p>Mard emaoc'h o klask un doare aes ha digoust evit merañ ho jederezh personel e tlefe Homebank bezañ ar meziant da zibab.</p>
+  </description>
+  <description lang="ca">
+    <p>El HomeBank és un programari lliure que us ajudarà a gestionar la vostra comptabilitat personal.</p>
+    <p>S'ha dissenyat per ser fàcil d'utilitzar i permetre-us analitzar les vostres finances personals en detall utilitzant eines de filtrat potents i gràfiques intuïtives.</p>
+    <p>Si esteu buscant una manera fàcil i totalment gratuita de gestionar la vostra comptabilitat personal, el HomeBank és la vostra millor opció.</p>
+  </description>
+  <description lang="ckb">
+    <p>ماڵەبانک نەرماڵەیەکی خۆڕاییە (کە وەکو "free speech" و "free beer" ) یارمەتیت دەدا بۆ بەڕێوەبردنی کاروباریە ژمێریاری و داراییەکانت.</p>
+  </description>
+  <description lang="cs">
+    <p>HomeBank je svobodný software (ve smyslu jak svobody slova, tak zdarma) který vám pomůže spravovat vaše osobní účetnictví.</p>
+    <p>Je navržen pro snadnou, podrobnou analýzu osobních financí pomocí výkonných filtračních nástrojů a přehledných grafů.</p>
+    <p>Pokud hledáte způsob, jak zcela zdarma a snadno spravovat své osobní účetnictví, potom by pro vás aplikace HomeBank mohla být volbou.</p>
+  </description>
+  <description lang="cy">
+    <p>Mae HomeBank yn feddalwedd rhydd (fel mewn "siarad yn rhydd" yn ogystal â "chwrw am ddim" fydd yn eich cynorthwyo i reoli eich arian personol.</p>
+    <p>Mae wedi ei gynllunio i fod yn hawdd i'w defnyddio ac i allu dadansoddi eich gwario personol yn fanwl gan ddefnyddio offer hidlo pwerus a graffiau hardd.</p>
+    <p>Os ydych y chwilio am ffordd hawdd, a rhad a rhydd o reoli eich cyfrifon personol yna HomeBank yw'r un i chi.</p>
+  </description>
+  <description lang="da">
+    <p>HomeBank er et gratis program, som kan hjælpe dig med at styre din privatøkonomi</p>
+    <p>Det er designet til at være brugervenligt og giver dig mulighed for at analysere din privatøkonomi i detaljer ved hjælp af effektive filtreringsværktøjer og flotte grafer.</p>
+    <p>Hvis du er på udkig efter en ganske gratis og nem måde at styre din privatøkonomi på, så bør HomeBank være dit valg.</p>
+  </description>
+  <description lang="de">
+    <p>HomeBank ist eine  freie Software,  die Sie bei der Verwaltung Ihrer persönlichen Finanzen unterstützt.</p>
+    <p>Entwickelt zur einfachen Bedienung und ausführlichen Analyse Ihrer Finanzen mit mächtigen Filterwerkzeugen und aussagekräftigen Diagrammen.</p>
+    <p>Wenn Sie eine einfache und kostenlose Lösung für das Verwalten Ihrer Konten suchen, dann sollten Sie die Software "HomeBank" wählen.</p>
+  </description>
+  <description lang="el">
+    <p>Το HomeBank είναι ελεύθερο λογισμικό (και με την έννοια της "ελευθερίας του λόγου" αλλά και με την έννοια "δωρεάν (ελεύθερη) μπύρα"), που θα σας βοηθήσει να διαχειριστείτε τα προσωπικά λογιστικά σας.</p>
+    <p>Είναι σχεδιασμένο για είναι εύκολο στη χρήση και να είναι σε θέση να αναλύσει τα προσωπικά σας οικονομικά λεπτομερώς, χρησιμοποιώντας ισχυρά εργαλεία φιλτραρίσματος και όμορφα γραφήματα.</p>
+    <p>Αν ψάχνετε για έναν εντελώς δωρεάν και εύκολο τρόπο για να διαχειριστείτε τα οικονομικά σας, τότε το HomeBank θα έπρεπε να είναι το λογισμικό της επιλογής σας.</p>
+  </description>
+  <description lang="en_CA">
+    <p>HomeBank is free software (as in "free speech" and also as in "free beer") that will help manage your personal accounting.</p>
+    <p>It is designed to be easy to use, and able to analyse your personal finances in detail with powerful filtering tools and beautiful graphs.</p>
+    <p>If you are looking for a completely free and easy way to manage your personal accounting then HomeBank should be your software of choice.</p>
+  </description>
+  <description lang="en_GB">
+    <p>HomeBank is a free software (as in "free speech" and also as in "free beer") that will assist you in managing your personal accounting.</p>
+    <p>It is designed to be easy to use and be able to analyse your personal finance in detail using powerful filtering tools and beautiful graphs.</p>
+    <p>If you are looking for a completely free and easy way to manage your personal accounting then HomeBank should be your software of choice.</p>
+  </description>
+  <description lang="es">
+    <p>HomeBank es un programa de software libre y gratuito que le ayudará a gestionar su contabilidad personal.</p>
+    <p>Está diseñado para ser fácil de utilizar y ser capaz de analizar sus finanzas personales en detalle utilizando potentes herramientas de filtrado y gráficos muy intuitivos.</p>
+    <p>Si está buscando una manera completamente libre y fácil de manejar su contabilidad personal, entonces HomeBank debería ser su elección.</p>
+  </description>
+  <description lang="eu">
+    <p>HomeBank zure kontabilitate pertsonala kudeatzen lagunduko dizun software libre eta doakoa da.</p>
+    <p>Erraz erabili eta finantza pertsonalak iragazketa tresna indartsuen eta grafiko txukunen bidez xeheki aztertzeko diseinatuta dago.</p>
+    <p>Zure kontabilitate pertsonala kudeatzeko era erabat libre eta erraz baten bila bazabiltza, Homebank da zure aukerako softwarea.</p>
+  </description>
+  <description lang="fa">
+    <p>HomeBank یک نرم افزار آزاد ( در "آزادی بیان" و همچنین مانند "آبجو رایگان") که به شما در مدیریت حسابداری شخصی کمک می‌کند.</p>
+    <p>این نرم افزار به نحوی طراحی شده که به آسانی قابل استفاده باشد و به وسیله ابزار فیلتر قدرتمند و نمودار های زیبای این نرم افزار  امکان تجزیه و تحیلی امور مالی شخصیتان به وجود خواهد آمد.</p>
+    <p>اگر شما به دنبال یک راه کاملا آزاد , رایگان و آسان برای مدیریت حسابداری شخصی خود هستید, HomeBank باید نرم افزار مورد نظر شما باشد.</p>
+  </description>
+  <description lang="fi">
+    <p>Kotipankki on vapaa ja ilmainen ohjelmisto (englanninkielisen sanan free tarkoittaessa sekä "sananvapautta" että "ilmaista olutta"), joka ohjaa sinua henkilökohtaisen kirjanpidon hallinnassa.</p>
+    <p>Se on suunniteltu helppokäyttöiseksi ja hyödylliseksi oman taloudellisen tilanteen yksityiskohtaiseen tarkasteluun tehokkaita suodatustyökaluja ja kauniita graafeja käyttäen.</p>
+    <p>Jos etsit täysin avointa ja ilmaista tapaa hallita henkilökohtaista kirjanpitoa, Kotipankki on erinomainen valinta.</p>
+  </description>
+  <description lang="fr">
+    <p>HomeBank est un logiciel libre et gratuit qui vous aidera à gérer votre comptabilité personnelle.</p>
+    <p>Il est conçu pour être facile à utiliser et pouvoir analyser en détail vos finances personnelles à l'aide de puissants outils de filtrage et de beaux graphiques.</p>
+    <p>Si vous recherchez un moyen totalement gratuit et facile de gérer votre comptabilité personnelle, alors HomeBank devrait être le logiciel qu’il vous faut.</p>
+  </description>
+  <description lang="fr_CA">
+    <p>HomeBank est un logiciel gratuit (comme la « liberté d'expression » et aussi comme une « bière gratuite ») qui vous aidera à gérer votre comptabilité personnelle.</p>
+    <p>Il est conçu pour être facile à utiliser et à analyser en détail vos finances personnelles à l'aide de puissants outils de filtrage et de beaux graphiques.</p>
+    <p>Si vous recherchez un moyen totalement gratuit et facile de gérer votre comptabilité personnelle, alors HomeBank devrait être le logiciel de choix.</p>
+  </description>
+  <description lang="gl">
+    <p>HomeBank é un software libre e gratuíto que lle axudará a xestionar a súa contabilidade persoal.</p>
+    <p>Está deseñada para ser doada de usar e para poder analizar con detalle as túas finanzas persoais empregando poderosas ferramentas de filtrado e unhas bonitas gráficas.</p>
+    <p>Se andas a buscar un xeito totalmente gratuíto e doado para xestionar a túa contabilidade persoal, entón HomeBank debería ser a túa elección.</p>
+  </description>
+  <description lang="he">
+    <p>זו תוכננה לשימוש קל ומסוגלת לנתח מימון אישי לפרטים באמצעות כלי סינון יעילים מאוד ותרשימים מרשימים.</p>
+    <p>אם אתה מחפש דרך לנהל את החשבונות האישיים שלך בקלות וללא עלות, Homebank היא התכנה בשבילך.</p>
+  </description>
+  <description lang="hu">
+    <p>A HomeBank szabad szoftver, amely segítséget nyújt a személyes pénzügyei kezelésében.</p>
+    <p>Úgy tervezték, hogy könnyen használható legyen, valamint részletes szűrőeszközökkel és szép grafikonokkal részletesen elemezhesse személyes pénzügyeit.</p>
+    <p>Ha teljesen ingyenes és egyszerű módszert keres a személyes könyvelése kezelésére, akkor a HomeBankot érdemes választani.</p>
+  </description>
+  <description lang="id">
+    <p>HomeBank adalah perangkat lunak gratis (sebagaimana seperti "kebebasan berpendapat" dan juga sebagaimana seperti "bir gratis") yang akan membantu mengelola akuntansi pribadi Anda.</p>
+    <p>Dirancang agar mudah digunakan dan dapat menganalisa keuangan pribadi Anda secara detail menggunakan alat penyaringan yang teruji dan serta grafis yang menarik.</p>
+    <p>Jika Anda mencari cara untuk mengelola akuntansi pribadi Anda secara gratis dan mudah digunakan maka HomeBank merupakan pilihan yang tepat.</p>
+  </description>
+  <description lang="it">
+    <p>HomeBank è un software gratuito (sia come "libertà di parola" che come "birra gratis") che vi aiuterà a gestire la contabilità personale.</p>
+    <p>È stato progettato per essere usato facilmente ed è in grado di analizzare le tue finanze personali in dettaglio utilizzando potenti strumenti di filtro e bellissimi grafici.</p>
+    <p>Se siete alla ricerca di un modo completamente gratuito e facile di gestione della vostra contabilità personale allora HomeBank è il software che fa per voi.</p>
+  </description>
+  <description lang="ja">
+    <p>HomeBankは家計簿のフリーソフトウェア(フリーとは自由の意味)です。</p>
+    <p>強力なフィルタリングツールと美しいグラフにより、家計の管理と分析を簡単にできるように設計されています。</p>
+    <p>HomeBankは完全無料で、家計管理の最適なソフトです。</p>
+  </description>
+  <description lang="ko">
+    <p>홈뱅크는 귀하의 개인 회계를 관리하는 데 도움이되는 무료 소프트웨어( "무료 언론"이나 "무료 맥주"와 같은)입니다 .</p>
+    <p>강력한 필터링 도구와 아름다운 그래프를 사용하여 사용하기 쉽고 개인 재무를 자세하게 분석 할 수 있습니다.</p>
+    <p>개인 회계를 관리 할 수있는 완전히 무료이고 쉬운 방법을 찾고 있다면 홈뱅크를 선택 하셔야 합니다.</p>
+  </description>
+  <description lang="lt">
+    <p>„HomeBank“ – tai laisvai ir nemokamai platinama programa, padėsianti jums tvarkyti ir stebėti savo asmeninius bei šeimos (namų) finansus.</p>
+    <p>Sukurta nesudėtingai namų ūkio finansų apskaitai ir analizuoti jūsų asmeninius finansus, suteikdama galingus filtrus ir vaizdžias diagramas.</p>
+    <p>Jei ieškote visiškai laisvo ir patogaus būdo tvarkyti savo asmeniniams finansams, išbandykite „HomeBank“ – ji jūsų nenuvils.</p>
+  </description>
+  <description lang="nb">
+    <p>Homebank er fri programvare (fri som i fri tale og gratis som i gratis øl) som vil hjelpe deg til å administrere ditt personlige regnskap</p>
+    <p>Det er utviklet for å være enkelt å bruke og gi deg muligheten til å analysere din personlige økonomi i detalj ved hjelp av kraftige filtreringsverktøy og vakre grafer.</p>
+    <p>Hvis du er på utkikk etter en fullstendig gratis og enkel måte å administrere ditt personlige regnskap på, bør Homebank være ditt førstevalg av programvare.</p>
+  </description>
+  <description lang="nds">
+    <p>Finanzen;Buchhaltung;Haushalt;Personal;Geld;</p>
+    <p>Konzipiert für einfache Bedienung. Analyse der persönlichen Finanzen mit Hilfe leistungsfähiger Filterwerkzeuge und schöner Grafiken.</p>
+  </description>
+  <description lang="nl">
+    <p>HomeBank is vrije software ( als in "vrije meningsuiting" en ook als in "gratis bier") om je te helpen je persoonlijke boekhouding te beheren.</p>
+    <p>Het is ontworpen voor gebruiksgemak en om je financiën in detail te analyseren met krachtige filteropties en prachtige grafieken</p>
+    <p>Als je op zoek bent naar een volledig gratis en eenvoudige manier om je persoonlijke boekhouding te doen, dan is HomeBank de software om dit te doen.</p>
+  </description>
+  <description lang="pl">
+    <p>HomeBank to wolny (w znaczeniu jak "wolność słowa") i darmowy program, który pomoże ci zarządzać finansami osobistymi.</p>
+    <p>Prosty w użyciu, pozwala analizować szczegóły twoich osobistych finansów przy użyciu zaawansowanych filtrów i pięknych wykresów.</p>
+    <p>Jeśli szukasz całkiem darmowego i łatwego sposobu zarządzania twoimi finansami powinieneś wybrać HomeBank .</p>
+  </description>
+  <description lang="pt">
+    <p>HomeBank é software livre (como em "liberdade") e irá ajudá-lo a gerir as suas finanças pessoais.</p>
+    <p>Foi desenhado para ser fácil de utilizar e para lhe permitir analisar as suas finanças pessoais em detalhe através de poderosas ferramentas de filtragem e de gráficos elegantes.</p>
+    <p>Se está à procura um modo totalmente gratuito e fácil para gerir as suas finanças pessoais o HomeBank será a sua melhor escolha.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>HomeBank é um software livre (como em "liberdade de expressão" e também em "cerveja gratuita") que auxiliará você a gerenciar suas finanças pessoais.</p>
+    <p>Ele foi projetado para ser fácil de usar e ser capaz de analisar suas finanças pessoais em detalhe usando poderosas ferramentas de filtragem e belos gráficos.</p>
+    <p>Se você está procurando uma maneira totalmente gratuita e fácil de gerenciar suas finanças pessoais, então HomeBank deve ser o software escolhido.</p>
+  </description>
+  <description lang="ro">
+    <p>HomeBank este program liber (ca în "vorbire liberă" și gratuit ca în "bere gratuită") ce vă va asista în administrarea propriei contabilități.</p>
+    <p>Este conceput pentru a fi usor de utilizat  si a fi capabil sa analizeze in detaliu finantele dumneavoastra , utilizand instrumente solide de filtrare si grafice artistice placute.</p>
+    <p>Dacă cautați un mod de administrare al finanțelor dumneavoastră, gratuit și ușor de folosit, atunci HomeBank este software-ul (programul) de care aveti nevoie.</p>
+  </description>
+  <description lang="ru">
+    <p>HomeBank - это свободное программное обеспечение, которое поможет вам управлять вашими личными финансами</p>
+    <p>Прост в использовании и позволяет детально анализировать ваши личные финансы с помощью множества фильтров и красивых графиков.</p>
+    <p>Если вы ищете приложение для удобного и полноценного учёта своих финансов, то HomeBank - лучший выбор.</p>
+  </description>
+  <description lang="sk">
+    <p>HomeBank je slobodný a otvorený softvér, ktorý vám pomôže spravovat vaše osobné účtovníctvo.</p>
+    <p>Je navrhnutý tak, aby sa jednoducho používal a bol schopný podrobne analyzovať vaše osobné financie pomocou výkonných filtračných nástrojov a pekných grafov.</p>
+    <p>Ak hľadáte bezplatný a jednoduchý spôsob, ako spravovať svoje osobné účtovníctvo, potom by ste mali použiť HomeBank.</p>
+  </description>
+  <description lang="sl">
+    <p>Program HomeBank je prosta programska oprema (kot "svoboda govora" in tudi kot "brezplačno pivo"), s katero je mogoče enostavno upravljati osebno računovodstvo.</p>
+    <p>Zasnovan je za enostavno rabo, zmogljivo analizo osebnih financ in podrobni prikaz s filtri in uporabnimi diagrami.</p>
+    <p>Če iščete povsem brezplačen in enostaven način za osebno računovodstvo, potem mora biti program Homebank vaša prva izbira.</p>
+  </description>
+  <description lang="sr">
+    <p>Кућна Банка је слободан софтвер (слободан за преузимање, мењање и расподељивање, тј. са доступним изворним кȏдом) који ће вам помоћи при вођењу вашег личног рачуноводства.</p>
+    <p>Осмишљен је да буде лак за коришћење и да може проучити ваше личне финансије детаљно користећи моћне алате за издвајање и приказивање прелепих графика.</p>
+    <p>Ако тражите потпуно бесплатно и једноставно решење за рад са вашим личним финансијама онда би Кућна Банка требала бити најбољи избор.</p>
+  </description>
+  <description lang="sv">
+    <p>HomeBank är en fri programvara (som i "yttrandefrihet" och även som i "gratis öl") som hjälper dig att hantera din personliga bokföring.</p>
+    <p>Det är konstruerat för att vara enkelt att använda och för att kunna analysera din privatekonomi i detalj med kraftfulla filter och vackra grafer.</p>
+    <p>Om du letar efter ett helt gratis och enkelt sätt att hantera din privata bokföring så är HomeBank programmet du borde välja.</p>
+  </description>
+  <description lang="tr">
+    <p>HomeBank, kişisel muhasebenizi yönetmenize yardımcı olacak özgür ve ücretsiz bir yazılımdır.</p>
+    <p>Güçlü filtreleme araçlarını ve güzel grafikleri kullanarak kişisel finansınızı kullanımı kolay ve ayrıntılı bir şekilde analiz edebilmek için tasarlanmıştır.</p>
+    <p>Kişisel muhasebenizi yönetmek için tamamen ücretsiz ve kolay bir yol arıyorsanız, HomeBank sizin için doğru tercihtir.</p>
+  </description>
+  <description lang="uk">
+    <p>HomeBank безкоштовне програмне забезпечення яке допоможе вести домашню бухгалтерію</p>
+    <p>Вона створена щоб бути легкою у використанні та мати можливість детально аналізувати власні фінанси вмкористовючи різні фільтри і чудові графіки.</p>
+    <p>Якщо ви шукаєте цілковито безкоштовний і простий спосіб управління домашньою бухгалтерією, тоді HomeBank це саме те що вам потрібно.</p>
+  </description>
+  <description lang="vi">
+    <p>HomeBank là một phần mềm miễn phí (và tự do) sẽ hỗ trợ bạn quản lý kế toán cá nhân của chính mình.</p>
+    <p>Nó được thiết kế để dễ sử dụng và có thể phân tích chi tiết tài chính cá nhân của bạn bằng cách sử dụng các bộ lọc mạnh mẽ và biểu đồ đẹp mắt.</p>
+    <p>Nếu bạn đang tìm kiếm một cách hoàn toàn miễn phí và dễ dàng để quản lý kế toán cá nhân của mình thì HomeBank nên là phần mềm đáng để lựa chọn.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>HomeBank 是一个免费的并且能协助你管理个人账户的自由软件。</p>
+    <p>它易于使用并且能将你个人财务状况用强大的过滤工具和美丽的图表展现出来。</p>
+    <p>如果你正在寻找一个完全免费并且能轻松上手的个人财务管理软件，HomeBank是一个很棒的选择。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>HomeBank 是自由軟體可以協助您管理個人財務</p>
+    <p>它的設計易於使用，並能夠使用強大的過濾工具和美麗的圖表詳細分析您的個人財務。</p>
+    <p>如果您正在尋找一個完全免費而簡單的方法來管理您的個人財務，那麼HomeBank會是首選軟體。</p>
+  </description>
+  <screenshots>
+    <screenshot height="351" type="default" width="624">http://homebank.free.fr/img/homebank-appdata.png</screenshot>
+  </screenshots>
+  <url type="homepage">http://homebank.free.fr</url>
+  <updatecontact>homebank_at_free.fr</updatecontact>
+</component>

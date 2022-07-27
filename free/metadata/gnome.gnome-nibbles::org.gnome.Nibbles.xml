@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>gnome.gnome-nibbles</pkgname>
+  <icon width="64" height="64" type="cached">org.gnome.Nibbles.png</icon>
+  <icon width="128" type="cached" height="128">org.gnome.Nibbles.png</icon>
+  <id>org.gnome.Nibbles.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>GNOME Nibbles</name>
+  <name lang="zh_TW">GNOME 貪食蛇</name>
+  <name lang="zh_HK">GNOME 貪食蛇</name>
+  <name lang="zh_CN">GNOME 贪食蛇</name>
+  <name lang="uk">Хробак GNOME</name>
+  <name lang="tr">GNOME Atıştırmalıklar</name>
+  <name lang="sv">GNOME Nibbles</name>
+  <name lang="sr@latin">Gnomov zmiček</name>
+  <name lang="sr">Гномов змичек</name>
+  <name lang="sl">GNOME Črvi</name>
+  <name lang="sk">Červíky prostredia GNOME</name>
+  <name lang="ru">Червячки GNOME</name>
+  <name lang="ro">Nibbles GNOME</name>
+  <name lang="pt_BR">GNOME Nibbles</name>
+  <name lang="pt">GNOME Nibbles</name>
+  <name lang="pl">Robaki GNOME</name>
+  <name lang="oc">GNOME Nibbles</name>
+  <name lang="nl">Gnome Nibbles</name>
+  <name lang="nb">GNOME Nibbles</name>
+  <name lang="ms">Gigitan GNOME</name>
+  <name lang="ml">ഗ്നോം നിബിള്‍സ്</name>
+  <name lang="lv">GNOME Nibbles</name>
+  <name lang="lt">GNOME Nibbles</name>
+  <name lang="ko">그놈 니블즈</name>
+  <name lang="kk">GNOME құрттар ойыны</name>
+  <name lang="ja">GNOME Nibbles</name>
+  <name lang="it">GNOME Nibbles</name>
+  <name lang="id">GNOME Nibbles</name>
+  <name lang="hu">GNOME Kukacok</name>
+  <name lang="hr">GNOME Zmije</name>
+  <name lang="he">כרסומים GNOME</name>
+  <name lang="gl">GNOME Nibbles</name>
+  <name lang="fur">GNOME Nibbles</name>
+  <name lang="fr">Grignotages de GNOME</name>
+  <name lang="fi">Nibbles</name>
+  <name lang="fa">کرم‌های گنوم</name>
+  <name lang="eu">GNOME Nibbles</name>
+  <name lang="es">GNOME Nibbles</name>
+  <name lang="eo">GNOME Ronĝaj Vermoj</name>
+  <name lang="en_GB">GNOME Nibbles</name>
+  <name lang="el">Μπουκιές GNOME</name>
+  <name lang="de">GNOME Nibbles</name>
+  <name lang="da">GNOME Orme</name>
+  <name lang="cs">Červíci GNOME</name>
+  <name lang="ca@valencia">GNOME Nibbles</name>
+  <name lang="ca">GNOME Nibbles</name>
+  <name lang="bs">GNOME zmije</name>
+  <name lang="bg">Змия</name>
+  <name lang="be">GNOME Nibbles</name>
+  <name lang="as">GNOME Nibbles</name>
+  <summary>Guide a worm around a maze</summary>
+  <summary lang="zh_TW">引導不斷移動的小蟲蟲避開畫面的障礙物</summary>
+  <summary lang="zh_HK">引導不斷移動的小蟲蟲避開畫面的障礙物</summary>
+  <summary lang="zh_CN">小蛇游走于迷宫</summary>
+  <summary lang="xh">Khokela umbungu kwiindlela eziphitheneyo</summary>
+  <summary lang="vi">Hướng dẫn con giun qua cung mê</summary>
+  <summary lang="uk">Провести хробака лабіринтом</summary>
+  <summary lang="ug">سىرلىق ئوردىدا قۇرتنى باشلاڭ</summary>
+  <summary lang="tr">Solucanı engellerin çevresinden geçirin</summary>
+  <summary lang="th">พาหนอนคลานในเขาวงกต</summary>
+  <summary lang="te">మేజ్ చుట్టూ వామ్‌కు మార్గదర్శనం చేయుము</summary>
+  <summary lang="ta">சிக்கல் அறையில் புழுவுக்கு வழிகாட்டவும்</summary>
+  <summary lang="sv">Hjälp en mask runt i en labyrint</summary>
+  <summary lang="sr@latin">Vodite crvića kroz lavirint</summary>
+  <summary lang="sr">Водите црвића кроз лавиринт</summary>
+  <summary lang="sq">Drejto një krimb në një labirint</summary>
+  <summary lang="sl">Vodenje črva po labirintu</summary>
+  <summary lang="sk">Ovládajte červíka v bludisku</summary>
+  <summary lang="ru">Управляйте растущим прожорливым червячком в лабиринте</summary>
+  <summary lang="ro">Ghidează o râmă printr-un labirint</summary>
+  <summary lang="pt_BR">Guie uma minhoca por um labirinto</summary>
+  <summary lang="pt">Guie um verme através de um labirinto</summary>
+  <summary lang="pl">Przeprowadź robaka przez labirynt</summary>
+  <summary lang="pa">ਗੁੰਝਲ ਦੁਆਲੇ ਕੀੜੇ ਨੂੰ ਰਾਹ ਵਿਖਾਓ</summary>
+  <summary lang="or">ଗୋଟିଏ କୀଟକୁ ଏକ ମକାକ୍ଷେତର ଚାରିପଟେ ପଥପ୍ରଦର୍ଶନ କର</summary>
+  <summary lang="oc">Guidar un vèrme a travèrs un laberint</summary>
+  <summary lang="nn">Styr ein orm rundt ein labyrint</summary>
+  <summary lang="nl">Leid een worm door een doolhof</summary>
+  <summary lang="ne">कीरालाई मेजको वरिपरि मार्गनिर्देश गर्नुहोस्</summary>
+  <summary lang="nb">Led en orm rundt i en labyrint</summary>
+  <summary lang="ms">Pandu seekor cacing mengharungi sebuah pagar sesat</summary>
+  <summary lang="mr">व्युहातून अळीला रस्ता दर्शवा</summary>
+  <summary lang="mn">Төөрдөг хашаанд өтийг газарчил</summary>
+  <summary lang="ml">ദുര്‍ഘടമാര്‍ഗ്ഗത്തിലൂടെയുള്ള യാത്രയില്‍ പുഴുവിനെ വഴികാട്ടുക </summary>
+  <summary lang="mk">Водете го црвот низ лавиринт</summary>
+  <summary lang="mai">भूल भुलैयामे इल्लीकेँ रास्ता देखाबू</summary>
+  <summary lang="lv">Vadi tārpiņu pa labirintu</summary>
+  <summary lang="lt">Praveskite kirmėlę pro labirintą</summary>
+  <summary lang="ko">벌레를 조종해 미로를 통과합니다</summary>
+  <summary lang="kn">ಒಂದು ಹುಳುವನ್ನು ಚಕ್ರವ್ಯೂಹದಲ್ಲಿ ನಡೆಯಲು ದಾರಿ ತೋರಿಸಿ</summary>
+  <summary lang="km">Guide a worm ជុំវិញរូបដង្កូវ</summary>
+  <summary lang="kk">Құртты лабиринт ішінде бағыттаңыз</summary>
+  <summary lang="ja">迷路をさまよういも虫を導いてください</summary>
+  <summary lang="it">Guida un verme in giro per un labirinto</summary>
+  <summary lang="is">Hreyfðu orminn í gegnum völundarhúsið</summary>
+  <summary lang="id">Pandu seekor cacing dalam labirin</summary>
+  <summary lang="hu">Kukac irányítása egy labirintusban</summary>
+  <summary lang="hr">Upravljajte i vodite crve po labirintu</summary>
+  <summary lang="hi">भूल भुलैया में इल्ली को रास्ता दिखाएँ</summary>
+  <summary lang="he">הדרכת תולעת במבוך</summary>
+  <summary lang="gu">ભૂલભૂલામણામાંથી કીડાને દોરો</summary>
+  <summary lang="gl">Guíe un verme arredor dun labirinto</summary>
+  <summary lang="fur">Guide un vier ator par un labirint</summary>
+  <summary lang="fr">Guider un ver à travers un labyrinthe</summary>
+  <summary lang="fi">Ohjaa matoa sokkelossa ympäriinsä</summary>
+  <summary lang="fa">کِرم را اطراف هزارتو راهنمایی کنید</summary>
+  <summary lang="eu">Gidatu harra labirintoan zehar</summary>
+  <summary lang="et">Ussi juhtimine läbi labürindi</summary>
+  <summary lang="es">Guíe a un gusano por un laberinto</summary>
+  <summary lang="eo">Gvidu vermon tra labirinto</summary>
+  <summary lang="en@shaw">𐑜𐑲𐑛 𐑩 𐑢𐑻𐑥 𐑼𐑬𐑯𐑛 𐑩 𐑥𐑱𐑟</summary>
+  <summary lang="en_GB">Guide a worm around a maze</summary>
+  <summary lang="en_CA">Guide a worm around a maze</summary>
+  <summary lang="el">Οδηγήστε το σκουλήκι μέσα σε έναν λαβύρινθο</summary>
+  <summary lang="dz">གཅོང་འབུཔ་ཅིག་ གེ་ཛའི་མཐའ་སྐོར་ཏེ་འཁྱིད།</summary>
+  <summary lang="de">Einen Wurm in einem Labyrinth herumführen</summary>
+  <summary lang="da">Styr en orm rundt i en labyrint</summary>
+  <summary lang="cy">Arwain mwydyn drwy ddrysfa</summary>
+  <summary lang="cs">Proveďte červíka bludištěm</summary>
+  <summary lang="ca@valencia">Guieu un cuc per un laberint</summary>
+  <summary lang="ca">Guieu un cuc per un laberint</summary>
+  <summary lang="bs">Vodi crva kroz lavirint</summary>
+  <summary lang="bn_IN">একটি পোকাকে গোলকধাঁধাঁয় চালান</summary>
+  <summary lang="bn">একটি পোকাকে গোলকধাঁধাঁয় চালান</summary>
+  <summary lang="bg">Управляване на змия през лабиринт</summary>
+  <summary lang="be">Правядзіце чарвячка па лабірынце</summary>
+  <summary lang="az">Soxulcanı labirintdə idarə edin</summary>
+  <summary lang="ast">Guía a un merucu a traviés d'un llaberintu</summary>
+  <summary lang="as">একটি কেঁচুক চক্ৰবেহুত পথ দেখাওক</summary>
+  <summary lang="ar">وجه دودة في متاهة</summary>
+  <summary lang="af">Lei 'n wurm deur 'n doolhof</summary>
+  <description>
+    <p>
+      Control a worm in its quest to eat bonuses and become longer. Outmaneuver
+      enemy worms while eating doughnuts and ice cream to increase your length.
+      Each worm has ten lives and loses one by running into a wall, another worm,
+      or itself. The enemy worms are after the same bonuses that you are, so be
+      careful: if they become too large, you won’t have much room for movement.
+    </p>
+    <p>
+      The adventure progresses through 26 maps of increasing difficulty. The early
+      levels are mostly open with a few walls, but later on, cramped spaces and
+      teleporters make things more interesting.
+    </p>
+    <p>
+      Play on your own against up to five enemy worms, or share your keyboard to
+      play with a friend.
+    </p>
+  </description>
+  <description lang="as">
+    <p>ভ্ৰমণ ক্ৰমে বৃদ্ধি হোৱা সমস্যা স্তৰৰ ২৬খন মানচিত্ৰৰ সৈতে আগবাঢ়ে। প্ৰথমৰ স্তৰবোৰ বেছিৰভাগ খোলা থাকে, য'ত খুব কম ৱাল থাকে, কিন্তু পিছত, ক্ৰেমপ্ড স্থান আৰু টেলিপৰ্টাৰে খেলটো আৰু আমোদজনক কৰে।</p>
+    <p>আপুনি নিজেই পাঁচটালৈ শত্ৰু কেঁচুৰ সৈতে খেলক, অথবা এজন বন্ধুৰ সৈতে খেলিবলে আপোনাৰ কিবৰ্ড অংশীদাৰী কৰক।</p>
+  </description>
+  <description lang="be">
+    <p>Кіруйце чарвячком у яго выпрабаванні: з'есці пачастункі і стаць даўжэйшым. Перахітрыце варожых чарвякоў і ешце пончыкі і марозіва каб павялічыць сваю даўжыню. Кожны чарвяк мае дзесяць жыццяў, якія губляе пры сутыкненні з сценамі, іншымі чарвякамі ці з самім сабой. Варожыя чарвякі імкнуцца да тых жа самых пачастункаў, што і вы, таму будзьце ўважлівы: калі вы станеце занадта доўгім, у вас будзе мала месца для руху.</p>
+    <p>Прыгоды працягваюцца на 26 картах усё большай складанасці. Пачатковыя ўзроўні ў асноўным адкрытыя, з малой колькасцю сцен, але далей абмежаваная прастора і тэлепорты робяць гульню цікавей.</p>
+    <p>Гуляйце самі супраць пяці варожых чарвякоў, ці дзяліце клавіятуру з сябрамі і гуляйце з імі.</p>
+  </description>
+  <description lang="bg">
+    <p>Управлявайте змия — тя расте като яде. Трябва да надхитрите змиите-конкуренти за понички и сладолед. Всяка змия има по 10 живота, които губи като се удари в стена, друга змия или себе си. Другите змии също растат, когато ядат, така че внимавайте да не пораснат и да няма място за вашата змия де се развихри.</p>
+    <p>В играта има 26 карти с повишаваща се трудност. Началните нива са с малко стени, но при следващите пространството намалява, а ситуацията се усложнява от телепортери.</p>
+    <p>Можете да играете самостоятелно срещу до пет компютърни противника, а може да играете срещу друг човек като ползвате една обща клавиатура.</p>
+  </description>
+  <description lang="bs">
+    <p>Avantura napreduje kroz 26 mapa povećavanjem težine. Rani nivoi su uglavnom otvoreni s nekoliko zidova, ali kasnije, skučeni prostor i teleporters  čine stvari još zanimljivijim.</p>
+    <p>Igrajte na svoju ruku protiv najviše  pet neprijateljskih crva, ili dijeliti svoju tipkovnicu za igranje s prijateljem.</p>
+  </description>
+  <description lang="ca">
+    <p>Controleu un cuc en la seva recerca per menjar bonificacions i ser més llarg. Supereu els cucs enemics, mentre mengeu dònuts i gelats per augmentar de mida. Cada cuc té deu vides i perd una en xocar contra una paret, un altre cuc o contra si mateix. Els cucs enemics volen les mateixes bonificacions que vós, així que aneu amb compte: si es tornen massa grans, no tindreu gaire espai per a moure-us.</p>
+    <p>L'aventura avança per 26 mapes de dificultat creixent. Els nivells inicials són principalment oberts, amb pocs murs, però després els espais reduïts i els teletransportadors fan les coses més interessants.</p>
+    <p>Jugueu tot sol contra fins a 5 cucs enemics, o compartiu el teclat per jugar amb un amic.</p>
+  </description>
+  <description lang="ca@valencia">
+    <p>Controleu un cuc en la seua recerca per menjar bonificacions i ser més llarg. Supereu els cucs enemics, mentre mengeu dònuts i gelats per augmentar de mida. Cada cuc té deu vides i perd una en xocar contra una paret, un altre cuc o contra si mateix. Els cucs enemics volen les mateixes bonificacions que vós, així que aneu amb compte: si es tornen massa grans, no tindreu gaire espai per a moure-vos.</p>
+    <p>L'aventura avança per 26 mapes de dificultat creixent. Els nivells inicials són principalment oberts, amb pocs murs, però després els espais reduïts i els teletransportadors fan les coses més interessants.</p>
+    <p>Jugueu tot sol contra fins a 5 cucs enemics, o compartiu el teclat per jugar amb un amic.</p>
+  </description>
+  <description lang="cs">
+    <p>Ovládejte červíka na jeho cestě za bonusovým jídlem a růstem. Vyhněte se ostatním nepřátelským červíkům a přitom jezte koblížky a zmrzlinky, abyste rostli. Každý červík má deset životů, které ztrácí při naražení do zdi, jiného červíka nebo do sebe sama. Nepřátelští červíci jdou po stejných bonusech, jako vy, takže buďte opatrní: když příliš narostou, budete mít málo místa pro manévrování.</p>
+    <p>Dobrodružství pokračuje po 26 mapách, kterou jsou náročnější a náročnější. Počáteční úrovně jsou zvětší části otevřené, jen s pár zdmi. Ale v dalších úrovních zdí postupně přibývá a navíc se objeví teleporty, aby to bylo zajímavější.</p>
+    <p>Zahrajte si na vlastní pěst až proti pěti nepřátelským červíkům nebo se podělte o klávesnici při hraní s přáteli.</p>
+  </description>
+  <description lang="da">
+    <p>Styr en orm i sin evige søgen efter at fortære bonusser og vokse. Udmanøvrér fjendtlige orme, mens du spiser donuts og is for at blive længere. Hver orm har ti liv, og mister et ved at bevæge sig ind i en mur, en anden orm, eller sig selv. De fjendtlige orme kommer efter de samme bonusser som du gør, så vær forsigtig: Hvis de bliver for store, vil du ikke have meget plads at bevæge dig på.</p>
+    <p>Eventyret går gennem 26 kort af stigende sværhedsgrad. De første baner er mest åbne med nogle få mure, men senere vil der være klaustrofobiske nicher og teleporteringsenheder, som gør tingene mere interessante.</p>
+    <p>Spil alene mod op til fem fjendtlige orme, eller del dit tastatur for at spille med en ven.</p>
+  </description>
+  <description lang="de">
+    <p>Steuern Sie einen Wurm in seiner Jagd auf Boni und werden Sie länger. Überlisten Sie durch geschicktes Manövrieren gegnerische Würmer und fressen Sie dabei Donuts und Eis, um sich zu stärken. Jeder Wurm hat zehn Leben. Man verliert diese, wenn man gegen eine Wand, einen anderen Wurm oder sich selbst läuft. Gegnerische Würmer suchen die selben Boni, also seien Sie auf der Hut: Wenn sie zu groß werden, dann bleibt Ihnen nicht mehr viel Bewegungsfreiheit.</p>
+    <p>Das Abenteuer verläuft durch 26 Karten mit steigendem Schwierigkeitsgrad. Die ersten Karten sind weitgehend offen mit wenigen Wänden, aber später machen enge Räume und Teleporter die Sache viel abwechslungsreicher.</p>
+    <p>Spielen Sie allein gegen bis zu fünf gegnerische Würmer, oder teilen Sie Ihre Tastatur zum Spielen mit einem Freund.</p>
+  </description>
+  <description lang="el">
+    <p>Ελέγξτε ένα σκουλήκι κατά την αναζήτησή του να φάει δωράκια και να γίνει μακρύτερο. Παρακάμψτε τα εχθρικά σκουλήκια καθώς τρώτε ντόνατς και παγωτά, για να αυξήσετε το μήκος σας. Κάθε σκουλήκι έχει δέκα ζωές και χάνει μία όταν πέφτει σε τοίχο, σε άλλο σκουλήκι ή στον εαυτό του. Τα εχθρικά σκουλήκια κυνηγούν τα ίδια δωράκια με εσάς, γι' αυτό προσέξτε: αν γίνουν πολύ μεγάλα, δεν θα έχετε πολύ χώρο για μετακίνηση.</p>
+    <p>Η περιπέτεια προχωρά μέσα από 26 χάρτες αυξανόμενης δυσκολίας. Τα πρώτα επίπεδα είναι ως επί το πλείστον ανοικτά, με λίγους τοίχους, αλλά κατόπιν, στενοί χώροι και οι τηλεμεταφορές κάνουν τα πράγματα πιο ενδιαφέροντα.</p>
+    <p>Παίξτε μόνοι σας μέχρι και εναντίον πέντε εχθρικών σκουληκιών, ή μοιραστείτε το πληκτρολόγιο σας για να παίξετε με έναν φίλο.</p>
+  </description>
+  <description lang="en_GB">
+    <p>Control a worm in its quest to eat bonuses and become longer. Outmanoeuvre enemy worms while eating doughnuts and ice cream to increase your length. Each worm has ten lives and loses one by running into a wall, another worm, or itself. The enemy worms are after the same bonuses that you are, so be careful: if they become too large, you won’t have much room for movement.</p>
+    <p>The adventure progresses through 26 maps of increasing difficulty. The early levels are mostly open with a few walls, but later on, cramped spaces and teleporters make things more interesting.</p>
+    <p>Play on your own against up to five enemy worms, or share your keyboard to play with a friend.</p>
+  </description>
+  <description lang="eo">
+    <p>Mastrumu vermon por ke ĝi manĝu plusojn kaj igu pli longe. Evitu malamikajn vermojn manĝante benjetojn kaj glaciaĵojn por plilongiĝi. Ĉiu vermo havas dek vivojn kaj perdos unu per trafi muron, alian vermon, aŭ sin mem. La malamikaj vermoj celas la samajn plusojn, do atentu: se ili kreskiĝis tro longe, vi ne havos multe da spaco por movado.</p>
+    <p>La aventuro progresas tra 26 mapoj de kreskanta malfacileco. La fruaj niveloj plejparte estas malfermaj kun malmultaj muroj, sed poste malvastaj spacoj kaj teleportejoj tute ŝanĝas la ludon.</p>
+    <p>Ludu sole kontraŭ ĝis kvin malamikaj vermoj, aŭ kunhavigu vian klavaron por ludi kune kun amiko.</p>
+  </description>
+  <description lang="es">
+    <p>Controle un gusano en esta búsqueda para comer bonificaciones y hacerse más grande. Supere tácticamente a los gusanos enemigos mientras come donuts y helado para aumentar su tamaño. Cada gusano tiene diez vidas y pierde una cuando se choca contra una pared, contra otro gusano o contra sí mismo. Los gusanos enemigos intentan conseguir las misma bonificaciones, así que tenga cuidado: si se hacen muy grandes, no tendrá espacio para moverse.</p>
+    <p>La aventura aumenta a través de 26 mapas de dificultad creciente. Los primeros niveles están muy despejados, con unas pocas paredes, pero más adelante, los espacios estrechos y los teletransportadores hacen las cosas más interesantes.</p>
+    <p>Juegue contra un máximo de cinco gusanos enemigos o comparta su teclado para jugar con un amigo.</p>
+  </description>
+  <description lang="eu">
+    <p>Kontrolatu zizare bat opariak jan eta handiago bihurtzeko. Gainditu zizare etsaiak izozkiak eta doughnuts-ak jaten dituzun bitartean zure luzera handiagotzeko. Zizare bakoitzak hamar bizi ditu eta bat galtzen du paretaren, beste zizare baten edo bere buruaren aurka talka egitean. Zizare etsaiak zu bezalaxe bonus-en atzetik dabiltza, kontu ibili beraz: luzeegiak badira ez duzu leku handirik izango mugitzeko.</p>
+    <p>Zailtasuna handiagotzen duten 26 maila desberdinetako bidaia da. Hasierako mailak pareta gutxi batzuekin daude, baina ondorengoetan lekuak estutzen dira eta telegarraioak gauzak interesgarriagoak egiten dituzte.</p>
+    <p>Jokatu zizareak diren bost etsairen kontra, edo partekatu teklatua lagun batekin jokatzeko.</p>
+  </description>
+  <description lang="fa">
+    <p>یک کرم را در چالشش کنترل کنید تا جوایز را بخورد و درازتر بشود. از سایر کرم‌ها سبقت بگیرید و دونات‌ها و بستنی‌های بیشتری بخورید و اندازه بزرگتری پیدا کنید. هر کرم ۱۰ جان دارد و هر بار که به یک دیوار، کرمی دیگر یا خودش برخورد کند، یکی را از دست می‌دهد. کرم‌های حریف هم دنبال جوایز شما هستند، پیش مواظب باشید: اگر آنها خیلی دراز شوند، شما جای زیادی برای حرکت نخواهید داشت.</p>
+    <p>ماجراجویی در ۲۶ نقشه که سختی هر کدام بیشتر می‌شود، ادامه پیدا می‌کند. مرحله‌های اولیه بیشتر باز هستند و دیوارهای کمی دارند، اما بعدا، فضاهای تنگ و دوربری‌ها شرایط را جذاب‌تر می‌کند.</p>
+    <p>کرم خود را در برابر حداکثر ۵ کرم دیگر کنترل کنید، یک کیبورد را به یکی از دوستانتان مشترک شوید و بازی کنید.</p>
+  </description>
+  <description lang="fi">
+    <p>Ohjaa matoa, kun se seikkailee bonuksia syöden ja suuremmaksi kasvaen. Taktikoi vastustajamadot pois pelistä samalla syöden donitseja ja jäätelöä. Jokaisella madolla on kymmenen elämää. Jos mato törmää seinään, toiseen matoon tai itseensä, menettää yhden elämän. Muista, että vastustajamadot ovat samaisten bonusten perässä kuin sinä; jos vastustajat kasvavat liian suuriksi, sinulle ei jää juurikaan liikkumatilaa.</p>
+    <p>Seikkailu koostuu 26:sta vaikeustasoiltaan vaihtelevasta eri tasosta. Alkupuolen tasot ovat varsin avoimia, mutta pelin myöhemmässä vaiheessa liikkuminen vaikeutuu ja teleportit tekevät liikkumisesta aiempaa mielenkiintoisempaa.</p>
+    <p>Pelaa itse viittä vastustajamatoa vastaan, tai haasta kaveri ja jaa näppäimistö hänen kanssaan.</p>
+  </description>
+  <description lang="fr">
+    <p>Contrôlez un ver dans sa quête de bonus à avaler pour devenir plus long. Prenez le dessus sur les vers ennemis tout en avalant des beignets et des glaces pour augmenter votre longueur. Chaque ver a dix vies et en perd une s’il se cogne contre un mur, un autre ver ou contre lui-même. Les vers ennemis cherchent les mêmes bonus que vous, alors faites attention : s’ils deviennent trop longs, vous n’aurez plus beaucoup d’espace pour vous déplacer.</p>
+    <p>L’aventure progresse à travers 26 cartes de difficulté croissante. Les premiers niveaux sont pour la plupart ouverts avec quelques murs, mais par la suite, des espaces exigus et des téléporteurs rendent les choses plus intéressantes.</p>
+    <p>Jouez tout seul face à au plus cinq vers ennemis, ou partagez votre clavier pour jouer avec un ami.</p>
+  </description>
+  <description lang="fur">
+    <p>Controle un vier te sô ricercje di mangjâ e di cressite. Evite i viers nemîs intant che tu ti jemplis di gjelato e cicimbelis par diventâ simpri plui lunc. Ogni vier al à 10 vitis e al piert une se al pete intor di un mûr, un altri vier o se stes. I nemîs a cirin ancje lôr di mangjâ e diventâ plui luncs: sta atent, se a cressin masse nol sarà plui spazi par te!</p>
+    <p>La aventure si tire a dilunc par 26 mapis di dificoltât a cressi: tai prins nivei a son pôcs mûrs, ma a man a man che al aumente il nivel, spazis strets e sistemis di teletraspuart a rindin il zûc plui interessant.</p>
+    <p>Zuie di bessôl cuintri un massim di 5 viers o condivît la tô tastiere cuntun ami.</p>
+  </description>
+  <description lang="gl">
+    <p>Controla un verme na súa cruzada para comer bonus e ser máis longo. Rodea aos vermes inimigos mentres comes rosquillas e xeado para incrementar a túa lonxitude. Cada verme ten dez vidas e perde unha ao petar cunha parede, outro verme ou a si mesmo. Os vermes inimigos buscan os mesmos bonus que ti, polo que ten coidado: se crecen dabondo non haberá sitio para todos.</p>
+    <p>A aventura progresa a través de 26 mapas que incrementan na súa dificultade. Os niveis inferiores son case abertos con poucas paredes, pero segundo avanzas os espazos con recunchos e os teletransportadores fan as cousas máis interesantes.</p>
+    <p>Xoga por ti mesmo contra até cinco vermes inimigos ou comparte o teu teclado para xogar cun amigo.</p>
+  </description>
+  <description lang="he">
+    <p>לשלוט בתולעת במשימתה לאכול בונוסים ולהתארך. להתגבר על תולעי אויב בזמן אכילת סופגניות וגלידות על מנת להגביר את קצב הגדילה. כל תולעת עשר חיים ומאבדת חיים בהתנגשות בקיר, בתולעת אחרת או בעצמה. תולעי האויב הולכות אחרי אותם הבונוסים שהתולעת שלך אחריה, לכן יש להיזהר: אם הם נהיים ארוכים מדי, לא יהיה לך מספיק מרווח לתזוזה.</p>
+    <p>ההרפתקה עוברת דרך 26 מפות בקושי הולך וגדל. השלבים הראשונים לרוב נפתחים עם מספר בודד של תולעים, אך לאחר מכן המרווח מצטמצם ומעבר במרחב עושה את הדברים למעניינים יותר.</p>
+    <p>שחק בעצמיך אל מול עד חמש תולעי אויב, או שתף את המקלדת שלך לשחק עם חברים.</p>
+  </description>
+  <description lang="hr">
+    <p>Upravljajte crvima u njihovoj potrazi jedenja bonusa kako bi postali najdulji. Izbjegavajte neprijateljske crve dok jedete krafne i sladoled kako biste povećali svoju duljinu. Svaki crv ima deset života i gubi jedan zabijanjem u zid, drugog crva ili u samog sebe. Neprijatelji crvi su u lovu na iste bonusa kao i vi, stoga budite oprezni: ako postanu preveliki, nećete imati puno prostora za kretanje.</p>
+    <p>Pustolovina napreduje kroz 26 mapa s povećanjem težine. Rane razine su uglavnom otvorene s nekoliko zidova, ali kasnije, skučeni prostori i teleporteri čine stvari zanimljivijima.</p>
+    <p>Igrajte sami protiv pet neprijateljskih crva ili podijelite svoju tipkovnicu za igru s prijateljem.</p>
+  </description>
+  <description lang="hu">
+    <p>Irányítson egy kukacot a küldetésén a bónuszok megevésére és hosszabbodásra. Manőverezze ki az ellenséges kukacokat, miközben fánkok és jégkrémek megevésével növeli a kukac hosszát. Minden kukacnak tíz élete van, és elveszít egyet, ha falba, másik kukacba vagy saját magába ütközik. Az ellenséges kukacok ugyanazokat a bónuszokat próbálják elérni, így legyen óvatos: ha túl nagyra nőnek, nem marad túl sok helye mozogni.</p>
+    <p>A kaland 26, egyre nehezebb térképen zajlik. A korai szintek nagyrészt nyitottak, kevés fallal, de később a zsúfolt terek és a teleportálók érdekesebbé teszik a játékot.</p>
+    <p>Játsszon önállóan akár öt ellenséges kukac ellen, vagy ossza meg billentyűzetét egy barátjával játszva.</p>
+  </description>
+  <description lang="id">
+    <p>Kendalikan seekor cacing dalam petualangannya dalam memakan bonus dan menjadi lebih panjang. Kalahkan manuver cacing lawan ketika memakan donat dan es krim untuk meningkatkan panjangmu. Setiap cacing memiliki sepuluh nyawa dan kehilangan satu ketika menabrak tembok, cacing lain, atau dirinya sendiri. Cacing lawan mengejar bonus yang sama dengan Anda, sehingga berhati-hatilah: bila mereka menjadi terlalu besar, Anda tak akan punya banyak ruang untuk bergerak.</p>
+    <p>Petualangan berkembang melalui 26 peta yang kesulitannya makin tinggi. Tingkat-tingkat awal kebanyakan terbuka dengan sedikit tembok, tapi selanjutnya, ruang-ruang yang sesak dan peneleport membuat segalanya menjadi lebih menarik.</p>
+    <p>Bermain sendiri melawan sampai dengan lima cacing lawan, atau berbagi papan tik Anda untuk bermain dengan seorang teman.</p>
+  </description>
+  <description lang="it">
+    <p>Controlla una simpatico vermicello nella sua ricerca di cibo e di crescita. Scansa i vermi nemici mentre ti azzuffi di gelati e ciambelle per diventare sempre più lungo. Ogni verme ha 10 vite e ne perde una se si scontra con un muro, un altro verme o con se stesso. I nemici cercano anche loro di mangiare e diventare più lunghi: stai attento, se crescono troppo non ci sarà più spazio per te!</p>
+    <p>L'avventura si protrae per 26 mappe di difficoltà crescente: nei primi livelli ci sono pochi muri, ma man mano che aumenta il livello, spazi angusti e sistemi di teletrasporto renderanno il gioco più interessante.</p>
+    <p>Gioca da solo contro un massimo di 5 vermi o condividi la tua tastiera con un amico.</p>
+  </description>
+  <description lang="kk">
+    <p>Бонустарды жеу және ұзағырақ болу квестінде құртты басқарыңыз. Ұзындықты арттыру үшін бәліш пен балмұздақты жеу үшін қарсыластардан озыңыз. Әр құрттың он өмірі бар және қабырға, басқа құртқа немесе өз-өзіне соғылу нәтижесінде бір өмірді жоғалтады. Жау құрттары сізбен бонустар үшін бәсекелеседі, сондықтан мұқият болыңыз: егер олар тым үлкен болса, қозғалыс үшін көп орын болмайды.</p>
+    <p>Шытырман оқиға қиындықтары артатын 26 картадан өтеді. Бастауыш деңгейлер тек бірнеше қабырғалары бар, ашық болса, кейінгі деңгейлерде тар кеңістіктер мен телепортерлер ойынды қызықтау қылады.</p>
+    <p>Бес қарсылас құртқа қарсы өз бетінше ойнаңыз немесе досыңызбен ойнау үшін пернетақтаны бөлісіңіз.</p>
+  </description>
+  <description lang="ko">
+    <p>보너스를 먹고 더 길어지려면 벌레를 조종하세요. 적을 이기면서 도넛과 아이스크림을 먹어 길이를 늘리세요. 벌레마다 목숨이 10개 있고 벽이나 다른 벌레나 자기 자신과 부딪히면 목숨을 잃습니다. 적 벌레도 여러분과 같은 보너스를 노리고 있으니 주의하십시오. 적 벌레가 너무 길어지면 움직일 공간이 없어질 수도 있습니다.</p>
+    <p>난이도에 따라 26개의 맵을 진행합니다. 앞쪽 단계에서는 벽만 있지만, 나중에는 까다로운 공간과 순간 이동 따위로 더 재미있어집니다.</p>
+    <p>다른 다섯 마리 벌레를 상대로 플레이하거나, 키보드를 나눠 써 친구와 플레이합니다.</p>
+  </description>
+  <description lang="lt">
+    <p>Valdykite kirmėlę, siekiančią kuo daugiau pavalgyti ir tapti ilgesne. Aplenkite priešų kirmėles suvaldydami spurgas ir ledus, taip pailgėdami. Kiekviena kirmėlė turi dešimt gyvybių ir vieną praranda, kai atsitrenkia į sieną, kitą kirmėlę arba save pačią. Priešų kirmėlės siekia to paties maisto, tad atsargiai: jei jos taps per ilgos, neturėsite pakankamai vietos judėjimui.</p>
+    <p>Nuotykiai eina per 26 žemėlapius vis didėjant sudėtingumui. Ankstyvieji žemėlapiai yra daugiausia atviri su keliomis sienomis, bet vėliau ankštos patalpos ir teleportai padaro viską įdomiau.</p>
+    <p>Žaiskite patys prieš iki penkių priešų arba dalinkitės klaviatūra ir žaiskite su draugu.</p>
+  </description>
+  <description lang="lv">
+    <p>Vadi tārpiņu tā misijā apēst saldumus un kļūt garākam. Apspēlē pretinieku tārpiņus un apēd virtuļus un saldējumus, lai palielinātu savu garumu. Katram tārpiņam ir desmit dzīvības un tās var pazaudēt, ieskrienot sienā, citā tārpiņā vai uzskrienot virsū pats sev. Pretinieka tārpiņi arī meklē saldumus, tāpēc uzmanies — ja tie paliek pārāk lieli, jums daudz vietas, kur pārvietoties.</p>
+    <p>Piedzīvojums attīstās cauri 26 kartēm ar pieaugošu grūtību. Pirmie līmeņi ir atvērti ar dažām sienām, bet ar laiku vietas paliek arvien mazākas un teleportācija spēli padara interesantāku.</p>
+    <p>Spēlē savā nodabā vai pret ne vairāk kā pieciem pretinieku tārpiņiem, vai ar draugu pie vienas tastatūras.</p>
+  </description>
+  <description lang="ms">
+    <p>Kawal seekor cacing yang mahu makan bonus dan menjadi lebih panjang. Kalahkan cacing-cacing musuh ketika menikmati donut dan aiskrim untuk menjadi lebih panjang. Setiap ekor cacing mempunyai sepuluh hayat dan akan hilang satu sekiranya melanggar dinding, cacing lain, atau diri sendiri. Cacing-cacing musuh juga mahukan bonus-bonus yang sama, jadi berhati-hati: jika mereka menjadi terlalu besar, anda akan kekurangan ruang untuk bergerak bebas.</p>
+    <p>Permainan berlanjutan menerusi 26 peta yang kesukaran semakin meningkat. Aras-aras awal lebih terbuka dan kurang dinding, tetapi aras-aras berikutnya lebih sempit dan ada teleport yang menambah lagi keseronokan bermain.</p>
+    <p>Bermain sehingga lima ekor cacing musuh, atau berkongsi papan kekunci anda untuk bermain bersama-sama rakan anda.</p>
+  </description>
+  <description lang="nb">
+    <p>Kontroller en mark på sin ferd mot å bli lengre ved å spise bonuser. Utmanøvrer fiendens marker mens du spiser smultringer og iskrem for å bli lengre. Hver mark har ti liv, og taper ett hvis den treffer en vegg, en annen mark eller seg selv. Fiendlige marker går etter de samme bonusene som deg, så vær forsiktig. Hvis de blir for lange har du ikke mye plass å bevege deg på.</p>
+    <p>Eventyret går gjennom 26 kart med økende vanskelighetsgrad. De første nivåene er for det meste åpne med noen få vegger, men senere blir det mindre plass og teleportører gjør ting mer interessant.</p>
+    <p>Spill selv mot opp til fem fiendeormer, eller del tastaturet for å spille med en venn.</p>
+  </description>
+  <description lang="nl">
+    <p>Bestuur een worm in zijn zoektocht naar bonussen en word langer. Ontwijk vijandelijke wormen en eet tegelijkertijd donuts en ijsjes om uw lengte te verhogen. Elke worm heeft tien levens en verliest er één als het tegen een muur, een andere worm of zichzelf botst. De vijandelijke wormen hebben het op dezelfde bonussen gemunt als u, dus wees voorzichtig: als zij te lang worden, heeft u niet veel bewegingsruimte meer.</p>
+    <p>Het avontuur neemt toe gedurende de 26 velden met steeds hogere moeilijkheidsgraad. De vroege levels zijn met maar een paar muren vooral open, maar later maken kleine ruimtes en teleporteer-apparaten het geheel nog interessanter.</p>
+    <p>Speel individueel tegen maximaal vijf vijandelijke wormen, of deel uw toetsenbord om met een vriend te spelen.</p>
+  </description>
+  <description lang="oc">
+    <p>Controlatz un vèrme dins sa quèsta de bonus d'engolir per venir mai long. Prenètz lo dessús suls vèrmes enemics tot en engolissent de bonhetas e de glacets per aumentar vòstra longor. Cada vèrme a dètz vidas e ne pèrd una que se tusta contra una paret, un autre vèrle o contra el-meteis. Los vèrmes enemics cèrcan los meteisses bonus que vos, alara malfisatz-vos : se venon tròp longs, auretz pas mai d’espaci per vos desplaçar.</p>
+    <p>L'aventura progrèssa a travèrs 26 mapas de dificultat creissenta. Los primièrs nivèls son per la màger part dobèrts amb qualques murs, mas puèi, d'espacis exiguts e de teleportadors rendon las causas mai interessantas.</p>
+    <p>Jogatz tot sol fàcia a al mens cinc vèrmes enemics, o partejatz vòstre clavièr per jogar amb un amic.</p>
+  </description>
+  <description lang="pl">
+    <p>Steruj robakiem zjadającym premie i rosnącym wzdłuż. Należy wymanewrować wrogie robaki, jednocześnie zjadając jabłka i banany, aby zwiększyć swoją długość. Każdy robak ma dziesięć żyć, które może stracić wchodząc w ścianę, innego robaka lub samego siebie. Wrogie robaki próbują zjeść te same premie, więc należy być ostrożnym: jeśli staną się za długie, to nie zostanie miejsca na ruch.</p>
+    <p>Przygoda trwa przez 26 map o zwiększającym się poziomie trudności. Początkowe poziomy są zwykle otwarte z niewieloma ścianami, ale później ciasne przejścia i teleporty czynią grę jeszcze ciekawszą.</p>
+    <p>Można grać samemu przeciwko do pięciu wrogich robaków, lub podzielić się klawiaturą z innym graczem.</p>
+  </description>
+  <description lang="pt">
+    <p>Controle um verme na sua senda por comida e bónus para tornar-se mais longo. Finte vermes inimigos enquanto come donuts e gelados para aumentar o seu comprimento. Cada verme tem dez vidas e perde uma se bater numa parede, outro verme ou em si próprio. Os vermes inimigos estão atrás dos mesmos bónus, pelo que há que ser cuidadoso: se eles se tornarem muito grandes não haverá espaço para se movimentarem.</p>
+    <p>A aventura progride através de 26 mapas de dificuldade crescente. Os níveis iniciais são maioritariamente abertos com poucas paredes mas, mais tarde, espaços apertados e teletransportadores tornam as coisas mais interessantes.</p>
+    <p>Jogue sozinho contra até cinco vermes inimigos ou partilhe o seu teclado para jogar com um amigo.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Controle uma minhoca em sua jornada para comer bônus e crescer. Escape de minhocas inimigas enquanto come rosquinhas e sorvetes para aumentar seu comprimento. Cada minhoca tem dez vidas e perde uma ao bater em um muro, em outra minhoca ou em si mesmo. As minhocas inimigas estão atrás dos mesmos bônus que você e, portanto, tenha cuidado: se elas ficarem maiores, você não terá muito espaço para se movimentar.</p>
+    <p>A aventura segue por 26 mapas de dificuldade evolutiva. Os níveis iniciais estão em sua maioria abertos com alguns muros, mas depois, espaços estreitos e teletransportes deixam as coisas mais interessantes.</p>
+    <p>Jogue por conta própria contra até cinco minhocas inimigas ou compartilhe seu teclado para jogar com um amigo.</p>
+  </description>
+  <description lang="ro">
+    <p>Controlați o râmă în misiunea acesteia de a mânca bonusuri și a deveni mai lungă. Dejucați planurile râmelor inamice în timp ce mâncați gogoși și înghețată pentru a vă mări lungimea. Fiecare râmă are zece vieți și pierde una prin intrarea într-un zid, altă râmă, sau ea însăși. Râmele inamice urmăresc aceleași bonusuri pe care le urmăriți, așa că trebuie să fiți atent: dacă devin prea lungi, nu veți avea prea mult spațiu pentru deplasare.</p>
+    <p>Aventura progresează prin 26 de hărți cu dificultate în creștere. Nivelurile de început sunt deschise în cea mai mare parte cu câțiva pereți, dar mai târziu, spațiile înghesuite și teleportoarele fac lucrurile mai interesante.</p>
+    <p>Jucați singur împotriva a cel mult cinci râme inamice, sau împărțiți tastatura pentru jocul cu un prieten.</p>
+  </description>
+  <description lang="ru">
+    <p>Управляйте червячком: ешьте бонусы — червячок станет длиннее. Попробуйте перехитрить вражеских червячков, поедая пончики и мороженое. У каждого червячка есть десять жизней. Червячок теряет жизнь, если он сталкивается со стеной, другим червячком или с самим собой. Вражеские червячки также охотятся за бонусами, будьте осторожны: если другие червячки станут слишком большими, у вас не будет достаточного пространства для передвижения.</p>
+    <p>Приключения охватывают 26 карт с возрастающем уровнем сложности. Первые уровни почти не имеют преград, но затем на уровнях начинают появляться стены. Узенькие лазейки и телепорты делают игру более интересной.</p>
+    <p>Сыграйте против других червячков (до 5 соперников) или поделитесь клавиатурой с другой.</p>
+  </description>
+  <description lang="sk">
+    <p>Ovládajte červíka pri jeho úlohe jesť bonusy a stať sa väčším. Pri jedení šišiek a zmrzliny s cieľom narásť sa vyhýbajte nepriateľským červíkom. Každý červík má desať životov a pri náraze do steny, iného červíka alebo do seba samého, stratí jeden život. Nepriateľské červíky tiež rastú pri jedení bonusov, buďte opatrní, pretože ak sa stanú príliš veľkí nebudete mať priestor na pohyb.</p>
+    <p>Hra pozostáva z 26 máp s narastajúcou obtiažnosťou. Na začiatku majú úrovne zopár múrov, ale neskôr sa priestory zmenšujú a spolu s teleportami robia hru zaujímavejšou.</p>
+    <p>Hrajte až proti piatim červíkom alebo proti priateľovi na spoločnej klávesnici.</p>
+  </description>
+  <description lang="sl">
+    <p>Pri igri je treba voditi črva po polju na zaslonu. Izogibati se je treba drugim črvom, med gibanjem pa pojesti čim več sladic, sladoleda in drugih dobrot. Z vsakim grižljajem postane črv večji in težje vodljiv med ovirami, ki predstavljajo trenutno smrt. Vsak črv ima na voljo deset življenj. Tudi drugi črvi želijo jesti in rasti. To je lahko problem, saj ostane vedno manj prostora za premikanje.</p>
+    <p>Dogodivščina napreduje prek 26 polji različne težavnosti. Začetne ravni so večinoma odprte, z nekaj zidovi, kasnejše pa vključujejo ovire in teleporterje, ki popestrijo dogajanje.</p>
+    <p>Igro je mogoče igrati proti računalniku ali pa s prijateljem. Ena tipkovnica omogoča igro v dvoje.</p>
+  </description>
+  <description lang="sr">
+    <p>Управљајте црвићем у његовој намери да поједе бонусе и постане дужи. Надмудрите непријатељске црвиће док једете крофне и сладолед да повећате дужину. Сваки црвић има десет живота и губи један када налетите на зид, на другог црвића или на самог себе. Непријатељски црвићи јуре исте бонусе као и ви, зато будите опрезни: ако постану сувише велики, нећете имати много простора за кретање.</p>
+    <p>Пустоловина се простире кроз 26 мапа повећања тежине. Први нивои се углавном отварају са неколико зидова, али касније, скучени простори и телепортери чине ствари занимљивијим.</p>
+    <p>Играјте сами против највише пет непријатељских црвића, или делите вашу тастатуру у игри са пријатељем.</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Upravljajte crvićem u njegovoj nameri da pojede bonuse i postane duži. Nadmudrite neprijateljske crviće dok jedete krofne i sladoled da povećate dužinu. Svaki crvić ima deset života i gubi jedan kada naletite na zid, na drugog crvića ili na samog sebe. Neprijateljski crvići jure iste bonuse kao i vi, zato budite oprezni: ako postanu suviše veliki, nećete imati mnogo prostora za kretanje.</p>
+    <p>Pustolovina se prostire kroz 26 mapa povećanja težine. Prvi nivoi se uglavnom otvaraju sa nekoliko zidova, ali kasnije, skučeni prostori i teleporteri čine stvari zanimljivijim.</p>
+    <p>Igrajte sami protiv najviše pet neprijateljskih crvića, ili delite vašu tastaturu u igri sa prijateljem.</p>
+  </description>
+  <description lang="sv">
+    <p>Kontrollera en mask i dess strävan att äta bonusar och bli längre. Utmanövrera motståndarmaskar under tiden du äter munkar och glass för att öka din längd. Varje mask har tio liv och förlorar ett av dessa då den krockar med en vägg, en annan mask, eller sig själv. Motståndarna är ute efter samma bonusar som du, så var försiktig: om de blir för långa kommer du inte att ha mycket utrymme för manövrering.</p>
+    <p>Äventyret fortlöper genom 26 kartor av ökande svårighet. De tidigare nivåerna är till största del öppna med några få väggar, men senare så gör trånga utrymmen och teleportörer saker mer intressanta.</p>
+    <p>Spela ensam mot upp till fem motståndarmaskar, eller dela med dig av ditt tangentbord för att spela med en vän.</p>
+  </description>
+  <description lang="tr">
+    <p>Ödülleri yiyerek uzama arayışındaki solucanı denetleyin. Boyunuzu uzatmak için çörekleri ve dondurmaları yerken düşman solucanlara karşı taktiksel üstünlük sağlayın. Her solucanın on canı vardır ve duvara, başka bir solucana ya da kendi kendisine çarptığında bunlardan birini yitirir. Düşman solucanlar sizinle aynı ödülleri yeme peşindedir, bu yüzden dikkatli olun: eğer çok büyürlerse, çok hareket alanınız kalmaz.</p>
+    <p>Macera, artan zorluktaki 26 harita boyunca sürer. İlk düzeyler birkaç duvar dışında genel olarak açık alandadır, ancak ilerledikçe sıkışık alanlar ve ışınlayıcılar işleri daha ilginçleştirir.</p>
+    <p>Beş taneye kadar düşman solucana karşı oynayın ya da arkadaşınızla birlikte oynamak için klavyenizi paylaşın.</p>
+  </description>
+  <description lang="uk">
+    <p>Скеруйте хробака до смачних бонусів, щоб його збільшити. Здолайте ворожих хробаків, поїдаючи пампухи і морозиво для збільшення вашого здоров'я. Кожен хробак має десять життів і втрачає одне, якщо вріжеться в стінку, іншого хробака або самого себе. Ворожі хробаки збирають ці самі бонуси, що й ви, тому будьте обачні: якщо вони стануть більшими — вам не буде де розвернутись.</p>
+    <p>Пригоди проходять повз 26 карт з висхідною складністю. Початкові рівні переважно відкриті з декількома стінками, але згодом замкнутий простір, телепорти зроблять гру цікавішою.</p>
+    <p>Пограти самому проти до п'яти ворожих хробаків або поділитись клавіатурою, щоб пограти з другом.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>控制一条蛇，让它在任务中去吃食物，并变得更长。吃甜甜圈和冰淇淋可以增加蛇的长度并同时超越敌方的蛇。每条蛇有十次生命，当撞到另一堵墙、另一只蛇或其本身时会失掉一条生命。敌方的蛇和你一样也会去吃食物，所以要小心：如果他们变得太大，你将会没有足够的运动空间。</p>
+    <p>挑战有 26 张地图，难度逐渐增加。开始几关几乎是空地，只有几面墙。但后面狭窄的空间和传送门会让游戏更加紧张刺激。</p>
+    <p>自己对战多达 5 条蠕虫，或者和朋友对战。</p>
+  </description>
+  <description lang="zh_HK">
+    <p>冒險的旅程包括 26 張難度不斷增加的地圖。低等級的地圖大多是開放空間，也沒有什麼牆，但接下來，狹窄的空間和傳送點會讓事情愈來愈有趣。</p>
+    <p>你可以對抗最多五隻敵人蟲蟲，或者也可以跟你的朋友共用鍵盤一起玩。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>控制蟲蟲讓牠吃下獎賞並且變得愈來愈長。用智慧避開敵人，同時吃下甜甜圈和冰淇淋來增加您的長度。每隻蟲蟲有十條命，每次撞到牆壁、另一隻蟲或牠自己時就會失去一條命。敵人蟲蟲跟您有同樣的加成，因此要小心：如果他們變得太大，您不會有足夠的空間移動。</p>
+    <p>冒險的旅程包括 26 張難度不斷增加的地圖。低等級的地圖大多是開放空間，也沒有什麼牆，但接下來，狹窄的空間和傳送點會讓事情愈來愈有趣。</p>
+    <p>您可以對抗最多五隻敵人蟲蟲，或者也可以跟您的朋友共用鍵盤一起玩。</p>
+  </description>
+  <screenshots>
+    <screenshot height="608" width="972" type="default">
+      <image>https://people.gnome.org/~mcatanzaro/gnome-nibbles.png</image>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release version="3.38.2" date="2020-11-01" />
+    <release date="2020-10-05" version="3.38.1" />
+    <release date="2020-09-12" version="3.38.0" />
+    <release version="3.37.90" date="2020-08-08" />
+    <release date="2020-06-04" version="3.37.0" />
+    <release date="2019-02-14" version="3.35.90" />
+    <release version="3.34.2" date="2019-01-03" />
+    <release version="3.34.1" date="2019-10-07" />
+    <release date="2019-09-10" version="3.34.0" />
+  </releases>
+  <launchable type="desktop-id">org.gnome.Nibbles.desktop</launchable>
+  <url type="homepage">https://wiki.gnome.org/Apps/Nibbles</url>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/gnome-nibbles/issues</url>
+  <url type="donation">http://www.gnome.org/friends/</url>
+  <url type="help">https://help.gnome.org/users/gnome-nibbles/stable/</url>
+  <url type="translate">https://wiki.gnome.org/TranslationProject</url>
+  <update_contact>mcatanzaro_at_gnome.org</update_contact>
+  <project_group>GNOME</project_group>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>UserDocs</kudo>
+  </kudos>
+  <translation type="gettext">gnome-nibbles</translation>
+  <developer_name>The GNOME Project</developer_name>
+  <developer_name lang="zh_TW">GNOME 計畫</developer_name>
+  <developer_name lang="zh_CN">GNOME 项目</developer_name>
+  <developer_name lang="uk">Проект GNOME</developer_name>
+  <developer_name lang="tr">GNOME Projesi</developer_name>
+  <developer_name lang="sv">GNOME-projektet</developer_name>
+  <developer_name lang="sr@latin">Gnomov projekat</developer_name>
+  <developer_name lang="sr">Гномов пројекат</developer_name>
+  <developer_name lang="sl">Projekt GNOME</developer_name>
+  <developer_name lang="sk">Projekt GNOME</developer_name>
+  <developer_name lang="ru">Проект GNOME</developer_name>
+  <developer_name lang="ro">Proiectul GNOME</developer_name>
+  <developer_name lang="pt_BR">O Projeto GNOME</developer_name>
+  <developer_name lang="pt">O Projeto GNOME</developer_name>
+  <developer_name lang="pl">Projekt GNOME</developer_name>
+  <developer_name lang="oc">Lo projècte GNOME</developer_name>
+  <developer_name lang="nl">Het Gnome-project</developer_name>
+  <developer_name lang="nb">GNOME prosjektet</developer_name>
+  <developer_name lang="ms">Projek GNOME</developer_name>
+  <developer_name lang="ml">ദി ഗ്നോം പ്രോജക്ട്</developer_name>
+  <developer_name lang="lv">GNOME projekts</developer_name>
+  <developer_name lang="lt">GNOME projektas</developer_name>
+  <developer_name lang="ko">그놈 프로젝트</developer_name>
+  <developer_name lang="kk">GNOME жобасы</developer_name>
+  <developer_name lang="ja">The GNOME Project</developer_name>
+  <developer_name lang="it">Il progetto GNOME</developer_name>
+  <developer_name lang="id">Proyek GNOME</developer_name>
+  <developer_name lang="hu">A GNOME projekt</developer_name>
+  <developer_name lang="hr">GNOME projekt</developer_name>
+  <developer_name lang="he">מיזם GNOME</developer_name>
+  <developer_name lang="gl">O Proxecto GNOME</developer_name>
+  <developer_name lang="fur">Il progjet GNOME</developer_name>
+  <developer_name lang="fr">Le projet GNOME</developer_name>
+  <developer_name lang="fi">Gnome-projekti</developer_name>
+  <developer_name lang="fa">پروژه گنوم</developer_name>
+  <developer_name lang="eu">GNOME proiektua</developer_name>
+  <developer_name lang="es">El proyecto GNOME</developer_name>
+  <developer_name lang="eo">La GNOME Projekto</developer_name>
+  <developer_name lang="en_GB">The GNOME Project</developer_name>
+  <developer_name lang="el">Το έργο GNOME</developer_name>
+  <developer_name lang="de">Das GNOME-Projekt</developer_name>
+  <developer_name lang="da">GNOME-projektet</developer_name>
+  <developer_name lang="cs">Projekt GNOME</developer_name>
+  <developer_name lang="ca@valencia">El projecte GNOME</developer_name>
+  <developer_name lang="ca">El projecte GNOME</developer_name>
+  <developer_name lang="bg">Проектът GNOME</developer_name>
+  <developer_name lang="be">Праект GNOME</developer_name>
+  <content_rating type="oars-1.0" />
+</component>

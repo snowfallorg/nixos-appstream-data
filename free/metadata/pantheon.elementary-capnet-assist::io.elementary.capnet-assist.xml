@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>pantheon.elementary-capnet-assist</pkgname>
+  <launchable type="desktop-id">io.elementary.capnet-assist.desktop</launchable>
+  <icon height="64" type="cached" width="64">io.elementary.capnet-assist.png</icon>
+  <icon width="128" height="128" type="cached">io.elementary.capnet-assist.png</icon>
+  <id>io.elementary.capnet-assist</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_group>elementary</project_group>
+  <project_license>GPL-3.0+</project_license>
+  <name>Captive Network Assistant</name>
+  <name lang="zh_CN">专属网络助理</name>
+  <name lang="zh">强制网页助理</name>
+  <name lang="vi">Trợ lý mạng lưu động</name>
+  <name lang="uk">Помічник автентифікації у мережі</name>
+  <name lang="tr">Giriş Portalı Yardımcısı</name>
+  <name lang="sv">Captive nätverksassistent</name>
+  <name lang="sr">Помоћник затворене мреже</name>
+  <name lang="sl">Pomočnik za prestrezna omrežja</name>
+  <name lang="sk">Asistent prihlasovania do sietí</name>
+  <name lang="ru">Помощник авторизации в сети</name>
+  <name lang="ro">Asistent pentru rețea captivă</name>
+  <name lang="pt_BR">Assistente de Rede Captive</name>
+  <name lang="pt">Assistente de rede cativa</name>
+  <name lang="pl">Asystent uwierzytelniania sieciowego</name>
+  <name lang="pa">ਕੈਪਟਿਵ ਨੈੱਟਵਰਕ ਅਸਿਸਟੈਂਟ</name>
+  <name lang="nn">Assistent for nettverkfangstportalar</name>
+  <name lang="nl">Besloten netwerk assistent</name>
+  <name lang="nb">Assistent for fangstnettverk</name>
+  <name lang="mr">कॅप्टिव्ह नेटवर्क सहाय्यक</name>
+  <name lang="lt">Belaisvio tinklo pagelbiklis</name>
+  <name lang="ko">캡티브 네트워크 어시스턴트</name>
+  <name lang="ja">キャプティブネットワークアシスタント</name>
+  <name lang="it">Assistente Captive Network</name>
+  <name lang="hu">Rögzített portál asszisztens</name>
+  <name lang="he">מסייע שובה רשת</name>
+  <name lang="gl">Asistente de portal cativo</name>
+  <name lang="fr">Assistant au réseau captif</name>
+  <name lang="fi">Verkon kirjautumisportaalin avustin</name>
+  <name lang="es">Asistente de portal cautivo</name>
+  <name lang="eo">Asistanto pri konekta portalo</name>
+  <name lang="en_GB">Captive Network Assistant</name>
+  <name lang="de">Assistent für Netzwerke mit Vorschaltseite</name>
+  <name lang="da">Captive Netværksassistent</name>
+  <name lang="cs">Pomocník pro uzavřené síťové portály (captive portal)</name>
+  <name lang="ckb">یاریدەدەری تۆڕی کۆنتڕۆڵکراو</name>
+  <name lang="ca">Assistent de xarxa captiva</name>
+  <name lang="bs">Pomoćnik za mrežu putem captive portala</name>
+  <name lang="ar">مساعد بوابة الدخول الإلكترونية</name>
+  <summary>Connect to captive network portals</summary>
+  <summary lang="zh_CN">连接到网络认证界面</summary>
+  <summary lang="zh">连接至网页助理</summary>
+  <summary lang="vi">Kết nối với các cổng mạng lưu động</summary>
+  <summary lang="uk">Під'єднайтеся до автентифікованих мережних порталів</summary>
+  <summary lang="tr">Giriş portallarına bağlan</summary>
+  <summary lang="sv">Anslut till captive nätverkportaler</summary>
+  <summary lang="sr">Повежите се на портале затворене мреже</summary>
+  <summary lang="sl">Povežite se na omrežje prestreznih portalov</summary>
+  <summary lang="sk">Pripojte sa k uzatvoreným sieťovým portálom</summary>
+  <summary lang="ru">Подключение к сервису авторизации в публичной сети</summary>
+  <summary lang="pt_BR">Conecte-se a portais de rede captive</summary>
+  <summary lang="pt">Ligar a portais de rede cativos</summary>
+  <summary lang="pl">Połącz z uwierzytelnianymi portalami sieciowymi</summary>
+  <summary lang="nn">Kople til nettverkfangstportalar</summary>
+  <summary lang="nl">Maak verbinding met een besloten netwerk via een portaal</summary>
+  <summary lang="nb">Koble til nettverkfangstportaler</summary>
+  <summary lang="mr">कॅप्टिव्ह पोर्टलला जोडा</summary>
+  <summary lang="lt">Prisijungti prie belaisvio tinklo portalų</summary>
+  <summary lang="ko">캡티브 네트워크 포털에 연결</summary>
+  <summary lang="ja">キャプティブネットワークポータルに接続します</summary>
+  <summary lang="it">Collegarsi a captive portal di rete</summary>
+  <summary lang="hu">Kapcsolódás a rögzített portálokon keresztül</summary>
+  <summary lang="he">התחברות לשערי גישה של שובי רשת</summary>
+  <summary lang="gl">Conectarse a un portal cativo de rede</summary>
+  <summary lang="fr">Se connecter aux portails captifs</summary>
+  <summary lang="fi">Yhdistä kirjautumisportaaliverkkoihin</summary>
+  <summary lang="es">Conéctese a un portal cautivo de red</summary>
+  <summary lang="eo">Konektanta retajn konektajn portalojn</summary>
+  <summary lang="en_GB">Connect to captive network portals</summary>
+  <summary lang="de">Verbindung zu einem Netzwerk mit Vorschaltseite herstellen</summary>
+  <summary lang="da">Opret forbindelse til captive netværksportaler</summary>
+  <summary lang="cs">Připojte se k uzavřeným síťovým portálům</summary>
+  <summary lang="ckb">پەیوەست بوون بە دەروازە تۆڕییە کۆنتڕۆڵکراوەکان</summary>
+  <summary lang="ca">Connecta a portals de xarxa captius</summary>
+  <summary lang="bs">Spojite se na mrežu putem portala</summary>
+  <summary lang="ar">اتصل ببوابات الدخول الإلكترونية</summary>
+  <description>
+    <p>Log into captive portals—like Wi-Fi networks at coffee shops, airports, and trains—with ease. Captive Network Assistant automatically opens to help you get connected.</p>
+  </description>
+  <description lang="ar">
+    <p>سجل دخولك على بوابات الدخول الإلكترونية، مثل شبكات الواي فاي في المقاهي، والمطارات، والقطارات بكل سهولة. مساعد بوابة الدخول الإلكترونية يفتح تلقائياً لمساعدتك على الاتصال.</p>
+  </description>
+  <description lang="bs">
+    <p>Jednostavno se prijavite na mreže putem portala, poput bežičnih mreža u kafićima, na aerodromu i u vozovima. Pomoćnik za mreže putem captive portala automatski se otvara kako bi Vam pomogao da se povežete.</p>
+  </description>
+  <description lang="ca">
+    <p>Entreu a portals captius, com ara xarxes Wifi de cafès, aeroports i trens, amb facilitat. L'Assistent de xarxa captiva s'obre automàticament per ajudar a connectar-vos.</p>
+  </description>
+  <description lang="ckb">
+    <p>بە ئاسانی بچۆرە ناو دەروازە کۆنتڕۆڵکراوەکانی وەکو وای فای لە کافتریا و قاوەخانەکان، فڕۆکەخانە و ناو شەمەندەفەرەکان. بەشێوەیەکی خۆڕەوت یاریدەدەری تۆڕی کۆنتڕۆڵکراو دەبێتەوە و یارمەتیت دەدات پەیوەستی ئینتەرنێت ببیت.</p>
+  </description>
+  <description lang="cs">
+    <p>Přihlašujte se do uzavřených síťových portálů, jako např. Wi-Fi sítě v kavárnách, letištích a ve vlacích – jednoduše. Tento pomocník se automaticky otevře, aby vám pomohl připojit se.</p>
+  </description>
+  <description lang="da">
+    <p>Log med lethed på captive portaler såsom Wi-Fi-netværker på kaffebarer, lufthavne eller i tog. Captive Netværksassistent åbner automatisk for at hjælpe dig med at blive tilsluttet.</p>
+  </description>
+  <description lang="de">
+    <p>Verbindungen mit Netzwerken mit Vorschaltseiten einfach herstellen, wie dem WLAN im Café, am Flughafen oder im Zug. Der »Assistent für Netzwerke mit Vorschaltseite« öffnet sich automatisch, um Sie bei der Anmeldung zu unterstützen.</p>
+  </description>
+  <description lang="en_GB">
+    <p>Log into captive portals—like Wi-Fi networks at coffee shops, airports, and trains—with ease. Captive Network Assistant automatically opens to help you get connected.</p>
+  </description>
+  <description lang="eo">
+    <p>Ensalutu konektan portalon plej facile, ekzemple vifion en trinkejo, flughaveno, trajno. Asistanto pri Konekta Portalo aŭtomate malfermiĝos por helpi vin konektiĝi.</p>
+  </description>
+  <description lang="es">
+    <p>Inicie sesión en portales cautivos (como redes Wi-Fi en cafeterías, aeropuertos y trenes) con facilidad. El asistente de portales cautivos se abre automáticamente para conectarse.</p>
+  </description>
+  <description lang="fi">
+    <p>Kirjaudu kirjautumisen vaativiin verkkoportaaleihin vaivatta esimerkiksi kahviloissa, lentokentillä ja junissa. Kirjautumisportaaliverkon avustaja avautuu automattisesti ja auttaa sinua muodostamaan yhteyden.</p>
+  </description>
+  <description lang="fr">
+    <p>Connectez-vous facilement aux portails captifs, tels que les réseaux Wi-Fi dans les cafés, les aéroports et les trains. L'assistant au réseau captif s’ouvre automatiquement pour vous aider à vous connecter.</p>
+  </description>
+  <description lang="gl">
+    <p>Inicie sesión en portais cativos (como redes Wi-Fi en cafeterías, aeroportos e trens) con facilidade. O asistente de portais cativos ábrese automaticamente para conectarse.</p>
+  </description>
+  <description lang="he">
+    <p>כניסה לשערי גישה לשובי רשת - כגון רשתות אלחטיות בבתי קפה, נמלי תעופה ורכבות - בקלות. מסייע שובה רשת נפתח אוטומטית כדי לסייע לך להתחבר.</p>
+  </description>
+  <description lang="hu">
+    <p>Rögzített portálokon való bejelentkezés - kávéházakban, repülőtereken és vonatokon - egyszerűen. A Rögzített portál asszisztens automatikusan megnyílik, hogy segítse a kapcsolódásban.</p>
+  </description>
+  <description lang="it">
+    <p>Accedi con facilità ai captive portal, come reti Wi-Fi di alberghi, aeroporti, treni, ecc. L'assistente per Captive Network si apre automaticamente per fornire aiuto durante la connessione.</p>
+  </description>
+  <description lang="ja">
+    <p>キャプティブポータル (喫茶店や空港、電車内の Wi-Fi ネットワーク) に簡単にログインしましょう。“キャプティブネットワークアシスタント”が自動的に開き、ネットワークに接続するのをお手伝いします。</p>
+  </description>
+  <description lang="ko">
+    <p>캡티브 포털에—커피숍, 공항, 기차 등의 와이 파이 네트워크들에—쉽게 로그인 하기. 캡티브 네트워크 어시스턴트가 자동으로 실행되어서 연결을 돕습니다.</p>
+  </description>
+  <description lang="lt">
+    <p>Lengvai prisijunkite prie belaisvių portalų, tokių kaip belaidžiai tinklai kavos parduotuvėse, oro uostuose ir traukiniuose. Belaisvio tinko pagelbiklis yra automatiškai atveriamas, kad padėtų jums prisijungti.</p>
+  </description>
+  <description lang="mr">
+    <p>कॉफी शॉप, विमानतळ आणि ट्रेनमध्ये कॅप्टिव्ह पोर्टल-जसे वाय-फाय नेटवर्कमध्ये लॉग इन करा-सहजतेने. कॅप्टिव्ह नेटवर्क सहाय्यक आपोआप कनेक्ट होण्यास मदत करण्यासाठी स्वयंचलितपणे उघडते.</p>
+  </description>
+  <description lang="nl">
+    <p>Log met gemak in op besloten netwerk portalen - zoals WiFi netwerken in restaurants, vliegvelden en in de trein. De Besloten Netwerk Assistent opent automatisch om u te helpen verbinding te maken.</p>
+  </description>
+  <description lang="nn">
+    <p>Logg inn i fangstportalar – som WiFi-nettverk på kaffibarar, flyplassar eller tog – enkelt. Assistenten for nettverkfangstportalar hjelper deg og lèt deg kople til automatisk.</p>
+  </description>
+  <description lang="pl">
+    <p>Z łatwością loguj się do portali wymagających uwierzytelniania, takich jak sieci Wi-Fi w kawiarniach, na lotniskach czy w pociągach. Program asystenta sieci uwierzytelnianych otworzy się automatycznie, aby pomóc Ci nawiązać połączenie.</p>
+  </description>
+  <description lang="pt">
+    <p>Inicie sessão em portais cativos—como redes Wi-Fi em cafés, aeroportos e comboios—com facilidade. O Assistente de Rede Cativa é aberto automaticamente para ajudá-lo a manter-se ligado.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Faça login em portais captive—como redes Wi-Fi em cafeterias, aeroportos e trens—com facilidade. O Assistente de Rede Captive é aberto automaticamente para ajudá-lo a se conectar.</p>
+  </description>
+  <description lang="ru">
+    <p>Облегчает вход на порталы, требующие аутентификации - сети Wi-Fi в кафе, аэропортах и поездах и тому подобное. Помощник аутентификации сети автоматически открывается, чтобы помочь вам подключиться.</p>
+  </description>
+  <description lang="sk">
+    <p>Prihláste sa do uzatvorených sieťových portálov – ako napríklad do Wi-Fi sietí v kaviarňach, lietadlách a vlakoch – jednoducho. Asistent prihlasovania do sietí sa automaticky otvorí, aby vám pomohol pripojiť sa.</p>
+  </description>
+  <description lang="sl">
+    <p>Prijavite se v prestrezne portale (kot so Wi-Fi omrežja v kavarnah, na letališčih in vlakih) z lahkoto. Pomočnik za prestrezne portale se odpre samodejno in vam pomaga pri povezovanju.</p>
+  </description>
+  <description lang="sr">
+    <p>Пријавите се на затвореним порталима—као што су бежичне мреже у кафићима, аеродромима и возовима—са лакоћом. Помоћник затворене мреже се сам отвара да вам помогне са повезивањем.</p>
+  </description>
+  <description lang="sv">
+    <p>Logga enkelt in på captiveportaler, såsom Wi-Fi-nätverk på kaféer, flygplatser och tåg. Captive nätverksassistent öppnar automatiskt för att hjälpa dig bli uppkopplad.</p>
+  </description>
+  <description lang="tr">
+    <p>Giriş portallarına—kafelerde, hava alanlarında ve trenlerdeki Wi-Fi ağları gibi—kolaylıkla giriş yapmanızı sağlar. Giriş Portalı Asistanı bağlanmanıza yardımcı olmak için otomatik olarak açılır.</p>
+  </description>
+  <description lang="uk">
+    <p>Полегшує вхід на портали, що вимагають автентифікації — мережі Wi-Fi у кафе, аеропортах та поїздах тощо. Помічник автентифікації мережі автоматично відкривається, щоб допомогти вам під'єднатися.</p>
+  </description>
+  <description lang="zh">
+    <p>网络助手将自动打开以帮助您轻松登录咖啡店、机场和火车等Wi-Fi网络专属门户.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>网络认证助手将自动开启，并帮助你简单地登录到在机场、餐饮店或电车内需要进行认证的 Wi-Fi 网络。</p>
+  </description>
+  <releases>
+    <release urgency="medium" version="2.4.2" date="2022-05-17">
+      <description>
+        <ul>
+          <li>Update to elementary runtime 7</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2022-01-24" urgency="medium" version="2.4.1">
+      <description>
+        <ul>
+          <li>Update to elementary runtime 6.1</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.4.0" date="2021-10-29" urgency="medium">
+      <description>
+        <ul>
+          <li>New icon</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.3.0" date="2021-07-13" urgency="medium">
+      <description>
+        <ul>
+          <li>Dark style support</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" version="2.2.5" date="2020-04-08">
+      <description>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.2.4" date="2019-11-15" urgency="medium">
+      <description>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <provides>
+    <binary>io.elementary.capnet-assist</binary>
+  </provides>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/elementary/capnet-assist/master/data/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <content_rating type="oars-1.1" />
+  <compulsory_for_desktop>Pantheon</compulsory_for_desktop>
+  <developer_name>elementary, Inc.</developer_name>
+  <developer_name lang="zh_TW">elementary, Inc.</developer_name>
+  <developer_name lang="zh_CN">elementary, Inc.</developer_name>
+  <developer_name lang="uk">elementary, Inc.</developer_name>
+  <developer_name lang="tr">elementary, Inc.</developer_name>
+  <developer_name lang="sv">elementary, Inc.</developer_name>
+  <developer_name lang="sr">elementary, Inc.</developer_name>
+  <developer_name lang="sl">elementary, Inc.</developer_name>
+  <developer_name lang="sk">elementary, Inc.</developer_name>
+  <developer_name lang="ru">elementary, Inc.</developer_name>
+  <developer_name lang="pt_BR">elementary, Inc.</developer_name>
+  <developer_name lang="pt">elementary, Inc.</developer_name>
+  <developer_name lang="pl">elementary, Inc.</developer_name>
+  <developer_name lang="oc">elementary, Inc.</developer_name>
+  <developer_name lang="nn">elementary, Inc.</developer_name>
+  <developer_name lang="nl">elementary, Inc.</developer_name>
+  <developer_name lang="mr">एलिमेंटरी,Inc.</developer_name>
+  <developer_name lang="ml">elementary, Inc.</developer_name>
+  <developer_name lang="lt">elementary, Inc.</developer_name>
+  <developer_name lang="ko">elementary, Inc.</developer_name>
+  <developer_name lang="ja">elementary, Inc.</developer_name>
+  <developer_name lang="it">elementary, Inc.</developer_name>
+  <developer_name lang="hu">elementary, Inc.</developer_name>
+  <developer_name lang="he">elementary בע״מ.</developer_name>
+  <developer_name lang="gl">elementary, Inc.</developer_name>
+  <developer_name lang="fr">elementary, Inc.</developer_name>
+  <developer_name lang="fi">elementary, Inc.</developer_name>
+  <developer_name lang="es">elementary, Inc.</developer_name>
+  <developer_name lang="eo">elementary, Inc.</developer_name>
+  <developer_name lang="en_GB">elementary, Inc.</developer_name>
+  <developer_name lang="el">elementary, Inc.</developer_name>
+  <developer_name lang="de">elementary, Inc.</developer_name>
+  <developer_name lang="da">elementary, Incorporated.</developer_name>
+  <developer_name lang="cs">elementary, Inc.</developer_name>
+  <developer_name lang="ckb">کۆمپانیای ئێلەمێنتەری هاوپشک.</developer_name>
+  <developer_name lang="ca">elementary, Inc.</developer_name>
+  <developer_name lang="bs">elementary, Inc.</developer_name>
+  <developer_name lang="ar">elementary, Inc.</developer_name>
+  <developer_name lang="am">elementary, Inc.</developer_name>
+  <url type="homepage">https://elementary.io/</url>
+  <url type="bugtracker">https://github.com/elementary/capnet-assist/issues</url>
+  <url type="donation">https://elementary.io/get-involved#funding</url>
+  <url type="translate">https://l10n.elementary.io/projects/desktop</url>
+  <update_contact>contact_at_elementary.io</update_contact>
+  <custom>
+    <value key="x-appcenter-color-primary">@base_color</value>
+    <value key="x-appcenter-color-primary-text">mix(@text_color, @GRAPE_500, 0.5)</value>
+  </custom>
+</component>

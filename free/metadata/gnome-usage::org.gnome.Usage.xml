@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>gnome-usage</pkgname>
+  <icon height="64" type="cached" width="64">org.gnome.Usage.png</icon>
+  <icon type="cached" width="128" height="128">org.gnome.Usage.png</icon>
+  <id>org.gnome.Usage</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>GNOME Usage</name>
+  <name lang="zh_TW">GNOME 用量</name>
+  <name lang="zh_CN">GNOME 使用情况</name>
+  <name lang="uk">Використання GNOME</name>
+  <name lang="tr">GNOME Kullanım</name>
+  <name lang="sv">GNOME Användning</name>
+  <name lang="sr@latin">Gnomovo Korišćenje</name>
+  <name lang="sr">Гномово Коришћење</name>
+  <name lang="sl">Uporaba GNOME</name>
+  <name lang="sk">Využitie prostredia GNOME</name>
+  <name lang="ro">Utilizare GNOME</name>
+  <name lang="pt_BR">Uso do GNOME</name>
+  <name lang="pt">Utilização GNOME</name>
+  <name lang="pl">Monitor GNOME</name>
+  <name lang="nl">Gnome Gebruik</name>
+  <name lang="ja">GNOME Usage</name>
+  <name lang="it">GNOME Usage</name>
+  <name lang="id">GNOME Pemakaian</name>
+  <name lang="hu">GNOME Használat</name>
+  <name lang="hr">GNOME Resursi</name>
+  <name lang="he">‏GNOME שימוש</name>
+  <name lang="gl">Uso de GNOME</name>
+  <name lang="fur">GNOME Utilizazion</name>
+  <name lang="fr">Utilisation de GNOME</name>
+  <name lang="fi">Käyttötiedot</name>
+  <name lang="eu">GNOME Erabilera</name>
+  <name lang="es">Uso de GNOME</name>
+  <name lang="en_GB">GNOME Usage</name>
+  <name lang="de">GNOME Auslastung</name>
+  <name lang="da">GNOME Forbrug</name>
+  <name lang="cs">Využití GNOME</name>
+  <name lang="ca">Ús del GNOME</name>
+  <summary>A nice way to view information about use of system resources</summary>
+  <summary lang="zh_TW">以簡單的方式查看系統資源的使用資訊</summary>
+  <summary lang="zh_CN">查看系统资源使用信息的好方法</summary>
+  <summary lang="uk">Чудовий спосіб переглянути відомості щодо використання ресурсів системи</summary>
+  <summary lang="tr">Sistem kaynaklarının kullanımıyla ilgili bilgiyi görmek için güzel bir yol</summary>
+  <summary lang="sv">Ett trevligt sätt att se information om användning av systemresurser</summary>
+  <summary lang="sr@latin">Pogodan način za pregled podataka o korišćenju resursa sistema</summary>
+  <summary lang="sr">Погодан начин за преглед података о коришћењу ресурса система</summary>
+  <summary lang="sl">Učinkovit način za pregled podrobnosti o uporabi sistemskih virov</summary>
+  <summary lang="sk">Elegantný spôsob zobrazenia informácií o využití systémových prostriedkov</summary>
+  <summary lang="ru">Хороший способ просмотра информации об использовании системных ресурсов</summary>
+  <summary lang="ro">O metodă bună de a vizualiza informații despre utilizarea resurselor sistemului</summary>
+  <summary lang="pt_BR">Uma forma legal de ver informações sobre o uso dos recursos do sistema</summary>
+  <summary lang="pt">Um jeito fixe de ver informação acerca do uso dos recursos pelo sistema</summary>
+  <summary lang="pl">Wygodny sposób na wyświetlanie informacji o użyciu zasobów komputera</summary>
+  <summary lang="nl">Een leuke manier om informatie te bekijken over het gebruik van systeembronnen</summary>
+  <summary lang="ja">システムリソースの使用情報を表示します</summary>
+  <summary lang="it">Un buon modo per visualizzare informazioni sull'uso delle risorse di sistema</summary>
+  <summary lang="id">Cara yang baik untuk melihat informasi tentang penggunaan sumber daya sistem</summary>
+  <summary lang="hu">Remek eszköz a rendszer erőforrás-használati információinak megjelenítésére</summary>
+  <summary lang="hr">Ugodan način za prikaz informacija o upotrebi resursa sustava</summary>
+  <summary lang="he">דרך נחמדה לצפות במידע על שימוש המערכת במשאבים</summary>
+  <summary lang="gl">Unha forma sinxela de ver información sobre o uso dos recursos do sistema</summary>
+  <summary lang="fur">Un biel mût di viodi lis informazions sul ûs des risorsis di sisteme</summary>
+  <summary lang="fr">Un bon moyen d’afficher les informations sur l’utilisation des ressources système</summary>
+  <summary lang="fi">Mukava tapa seurata järjestelmän resurssien käyttöä</summary>
+  <summary lang="eu">Sistema-baliabideen erabilerari buruzko informazioa ikusteko modu egokia</summary>
+  <summary lang="es">Una buena manera de ver información sobre el uso de los recursos del sistema</summary>
+  <summary lang="en_GB">A nice way to view information about use of system resources</summary>
+  <summary lang="el">Ένας καλός τρόπος για να δείτε πληροφορίες σχετικά με τη χρήση των πόρων του συστήματος</summary>
+  <summary lang="de">Eine gute Möglichkeit, Informationen über die Verwendung von System-Ressourcen anzuzeigen</summary>
+  <summary lang="da">En fin måde til at vise information om forbruget af systemressourcer</summary>
+  <summary lang="cs">Elegantní způsob, jak zobrazit informace o využití systémových prostředků.</summary>
+  <summary lang="ca">Una manera atractiva de visualitzar la informació de l'ús dels recursos del sistema</summary>
+  <description>
+    <p>
+        A simple GNOME 3 application to monitor and analyze system resources such
+        as processing, memory, and storage.
+    </p>
+  </description>
+  <description lang="ca">
+    <p>Una aplicació simple del GNOME 3 per a fer un seguiment i analitzar els recursos del sistema com ara processament, memòria o emmagatzematge.</p>
+  </description>
+  <description lang="cs">
+    <p>Jednoduchá aplikace pro GNOME 3 ke sledování a analýze systémových prostředků, jako jsou procesor, paměť nebo úložiště.</p>
+  </description>
+  <description lang="da">
+    <p>Et simpelt GNOME 3-program til at overvåge og analysere systemressourcer såsom processor, hukommelse og lager.</p>
+  </description>
+  <description lang="de">
+    <p>Eine einfache GNOME3-Anwendung zum Überwachen und Analysieren von Systemressourcen wie Prozessor, Arbeits- und Festplattenspeicher.</p>
+  </description>
+  <description lang="el">
+    <p>Μια απλή εφαρμογή του GNOME 3 για την παρακολούθηση και την ανάλυση πόρων του συστήματος, όπως διεργασίες, μνήμη και αποθήκευση.</p>
+  </description>
+  <description lang="en_GB">
+    <p>A simple GNOME 3 application to monitor and analyse system resources such as processing, memory, and storage.</p>
+  </description>
+  <description lang="es">
+    <p>Una sencilla aplicación de GNOME 3 para monitorizar y a analizar los recursos del sistema como el procesador, la memoria y el almacenamiento.</p>
+  </description>
+  <description lang="eu">
+    <p>Prozesuak, memoria, biltegiratzea eta sistemaren beste baliabide batzuk monitorizatu eta analizatzeko GNOME 3 aplikazio sinplea.</p>
+  </description>
+  <description lang="fi">
+    <p>Yksinkertainen Gnome 3 -sovellus järjestelmäresurssien, kuten suorittimen, muistin ja tallennustilan, valvontaan sekä analysointiin.</p>
+  </description>
+  <description lang="fr">
+    <p>Une application GNOME 3 simple pour surveiller et analyser les ressources système telles que le traitement, la mémoire et le stockage.</p>
+  </description>
+  <description lang="fur">
+    <p>Une semplice aplicazion di GNOME 3 par monitorâ e analizâ lis risorsis di sisteme come par esempli elaborazion, memorie e archiviazion.</p>
+  </description>
+  <description lang="gl">
+    <p>Un aplicativo de GNOME 3 sinxelo para monitorizar e analizar os recursos do sistema como o procesamento, memoria e almacenamento.</p>
+  </description>
+  <description lang="he">
+    <p>יישום GNOME 3 פשוט להצגה ולניתוח משאבי מערכת כמו מעבד, זיכרון ואחסון.</p>
+  </description>
+  <description lang="hr">
+    <p>Jednostavna GNOME 3 aplikacija za nadgledanje i analizu resursa sustava poput pokrenutih procesa, memorije i diskovnog prostora.</p>
+  </description>
+  <description lang="hu">
+    <p>Egyszerű GNOME 3 alkalmazás a rendszererőforrások figyelésére és elemzésére: processzor, memória és tárolás.</p>
+  </description>
+  <description lang="id">
+    <p>Aplikasi GNOME 3 sederhana untuk memantau dan menganalisis sumber daya sistem seperti pemrosesan, memori, dan penyimpanan.</p>
+  </description>
+  <description lang="it">
+    <p>Una semplice applicazione di GNOME 3 per monitorare e analizzare le risorse di sistema come l'elaborazione, la memoria e l'archiviazione.</p>
+  </description>
+  <description lang="ja">
+    <p>プロセス、メモリ、ストレージなどのシステムリソースを監視したり分析したりするための、シンプルな GNOME 3 アプリケーションです。</p>
+  </description>
+  <description lang="nl">
+    <p>Een eenvoudige Gnome 3-toepassing om systeembronnen zoals processor, geheugen en opslag te monitoren en analyseren.</p>
+  </description>
+  <description lang="pl">
+    <p>Prosty program dla środowiska GNOME 3 do monitorowania i analizowania zasobów komputera, takich jak procesor, pamięć i miejsce na dysku.</p>
+  </description>
+  <description lang="pt">
+    <p>Uma aplicação GNOME 3 simples para monitorizar e analisar recursos do sistema como processos, memória e espaço em disco.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Um aplicativo simples do GNOME 3 para monitorar e analisar recursos do sistema, como processamento, memória e armazenamento.</p>
+  </description>
+  <description lang="ro">
+    <p>O aplicație GNOME 3 simplă pentru a monitoriza și analiza resursele sistemului precum procesarea, memoria și stocarea.</p>
+  </description>
+  <description lang="ru">
+    <p>Программа для мониторинга и анализа системных ресурсов, таких как процессы, оперативная память и дисковое пространство.</p>
+  </description>
+  <description lang="sk">
+    <p>Jednoduchá aplikácia prostredia GNOME 3 na sledovanie a analýzu systémových prostriedkov ako je procesor, pamäť a úložisko.</p>
+  </description>
+  <description lang="sl">
+    <p>Enostaven program GNOME za nadzor in preučevanje sistemskih virov, kot so procesorska moč, pomnilnik in prostor.</p>
+  </description>
+  <description lang="sr">
+    <p>Једноставни Гном 3 програм за праћење и проучавање ресурса система као што су то процесор, меморија и складиште.</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Jednostavni Gnom 3 program za praćenje i proučavanje resursa sistema kao što su to procesor, memorija i skladište.</p>
+  </description>
+  <description lang="sv">
+    <p>Ett enkelt GNOME 3-program för att övervaka och analysera systemresurser så som processorkraft, minne och lagring.</p>
+  </description>
+  <description lang="tr">
+    <p>İşleme, bellek ve depolama gibi sistem kaynaklarını çözümlemek ve gözlemlemek için basit bir GNOME 3 uygulaması.</p>
+  </description>
+  <description lang="uk">
+    <p>Проста програма GNOME 3 для спостереження та аналізу використання ресурсів системи, зокрема обробки процесів, пам'яті та сховищ даних.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>一个简单的 GNOME 3 应用程序，用于监视和分析系统资源，如处理器、内存和存储。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>一款簡單的 GNOME 3 程式，以監視與分析系統資源，例如處理程序、記憶體與儲存空間。</p>
+  </description>
+  <screenshots>
+    <screenshot width="647" type="default" height="950">
+      <image>https://gitlab.gnome.org/GNOME/gnome-usage/raw/master/screenshots/screenshot-performance-view.png</image>
+    </screenshot>
+    <screenshot height="950" width="647">
+      <image>https://gitlab.gnome.org/GNOME/gnome-usage/raw/master/screenshots/screenshot-performance-memory-view.png</image>
+    </screenshot>
+    <screenshot height="950" width="647">
+      <image>https://gitlab.gnome.org/GNOME/gnome-usage/raw/master/screenshots/screenshot-storage-view.png</image>
+    </screenshot>
+    <screenshot height="951" width="651">
+      <image>https://gitlab.gnome.org/GNOME/gnome-usage/raw/master/screenshots/screenshot-about-dialog.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>GNOME</project_group>
+  <url type="homepage">https://wiki.gnome.org/Apps/Usage</url>
+  <update_contact>pstetka_at_redhat.com"</update_contact>
+  <releases>
+    <release date="2019-03-22" version="3.32.0">
+      <description>
+        <p>Boxes 3.32.0 is the latest stable release of GNOME Usage.</p>
+      </description>
+    </release>
+  </releases>
+  <kudos>
+    <kudo>AppMenu</kudo>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>HighContrast</kudo>
+    <kudo>ModernToolkit</kudo>
+  </kudos>
+  <launchable type="desktop-id">org.gnome.Usage.desktop</launchable>
+  <project_license>GPL-3.0+</project_license>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/gnome-usage/issues</url>
+  <url type="donation">http://www.gnome.org/friends/</url>
+  <url type="help">https://gitlab.gnome.org/GNOME/gnome-usage/wikis/home</url>
+  <url type="translate">https://wiki.gnome.org/TranslationProject</url>
+  <translation type="gettext">gnome-usage</translation>
+  <custom>
+    <value key="Purism::form_factor">workstation</value>
+    <value key="Purism::form_factor">mobile</value>
+  </custom>
+</component>

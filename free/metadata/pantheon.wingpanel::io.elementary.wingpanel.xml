@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+  <pkgname>pantheon.wingpanel</pkgname>
+  <launchable type="desktop-id">io.elementary.wingpanel.desktop</launchable>
+  <icon width="64" type="cached" height="64">io.elementary.wingpanel.png</icon>
+  <icon width="128" type="cached" height="128">io.elementary.wingpanel.png</icon>
+  <id>io.elementary.wingpanel</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_group>elementary</project_group>
+  <project_license>GPL-3.0+</project_license>
+  <name>Wingpanel</name>
+  <name lang="zh_TW">Wingpanel</name>
+  <name lang="zh_CN">Wingpanel</name>
+  <name lang="uk">Wingpanel</name>
+  <name lang="tr">Wingpanel</name>
+  <name lang="szl">Wingpanel</name>
+  <name lang="sr">Вингпанел</name>
+  <name lang="sk">Horný panel</name>
+  <name lang="ru">Wingpanel</name>
+  <name lang="pt_BR">Wingpanel</name>
+  <name lang="pt">Wingpanel</name>
+  <name lang="pl">Wingpanel</name>
+  <name lang="nn">Panelet</name>
+  <name lang="nl">Vleugelpaneel</name>
+  <name lang="mr">विंगपॅनेल</name>
+  <name lang="ja">Wingpanel</name>
+  <name lang="it">Wingpanel</name>
+  <name lang="he">Wingpanel</name>
+  <name lang="gl">Wingpanel</name>
+  <name lang="fr">Wingpanel</name>
+  <name lang="fi">Wingpanel</name>
+  <name lang="es">Wingpanel</name>
+  <name lang="eo">Alopanelo</name>
+  <name lang="en_GB">Wingpanel</name>
+  <name lang="en_CA">Wingpanel</name>
+  <name lang="en_AU">Wingpanel</name>
+  <name lang="de">Wingpanel</name>
+  <name lang="da">Wingpanel</name>
+  <name lang="cs">„Okřídlený“ panel</name>
+  <name lang="ca">Wingpanel</name>
+  <name lang="ar">اللوحة العلوية</name>
+  <summary>Top panel that holds indicators and the applications menu</summary>
+  <summary lang="zh_CN">包含指示器和应用程序菜单的顶部面板</summary>
+  <summary lang="uk">Верхня панель індикаторів стану та меню застосунків</summary>
+  <summary lang="tr">Göstergeleri ve uygulamalar menüsünü içeren üst panel</summary>
+  <summary lang="szl">Wiyrchni panel, co trzimie skaźniki i myni aplikacyji</summary>
+  <summary lang="sr">Горњи панел који држи указиваче и изборник програма</summary>
+  <summary lang="sk">Horný panel, ktorý obsahuje indikátory a ponuku aplikácií</summary>
+  <summary lang="ru">Верхняя панель с индикаторами и меню приложений</summary>
+  <summary lang="pt_BR">Painel superior que contém ícones e o menu de aplicativos</summary>
+  <summary lang="pt">Painel superior que contém indicadores e o menu de aplicações</summary>
+  <summary lang="pl">Górny panel, który przechowuje wskaźniki i menu aplikacji</summary>
+  <summary lang="nn">Toppanelet som visar indikatorar og appmenyen</summary>
+  <summary lang="nl">Bovenste paneel met de indicatoren en het toepassingen menu</summary>
+  <summary lang="nb">Topp-panel inneholdende indikatorer og programmeny</summary>
+  <summary lang="mr">शीर्ष पॅनेल ज्यात सूचक आणि अनुप्रयोग मेनू असतात</summary>
+  <summary lang="ja">インジケーターとアプリケーションメニューを表示する最上部のパネル</summary>
+  <summary lang="it">Pannello superiore che contiene gli indicatori e il menu delle applicazioni</summary>
+  <summary lang="hu">A felső állapotsor, amin különféle kijelzések és az alkalmazásmenü helyezkedik el</summary>
+  <summary lang="he">לוח עליון שמציג את ההתראות ואת תפריט היישומים</summary>
+  <summary lang="gl">Panel superior que contén os indicadores e o menú das aplicacións</summary>
+  <summary lang="fr">Panneau supérieur qui contient les indicateurs et le menu des applications</summary>
+  <summary lang="fi">Yläpaneeli, johon on sijoitettu ilmaisimet ja sovellusvalikko</summary>
+  <summary lang="es">Panel superior que contiene indicadores y el menú de aplicaciones</summary>
+  <summary lang="eo">Supra panelo kiu entenas indikilojn kaj la aplikaĵan menuon</summary>
+  <summary lang="en_GB">Top panel that holds indicators and the applications menu</summary>
+  <summary lang="en_CA">Top panel that holds indicators and the applications menu</summary>
+  <summary lang="en_AU">Top panel that holds indicators and the applications menu</summary>
+  <summary lang="de">Oberes Panel, das die Anzeigen und das Anwendungsmenü enthält</summary>
+  <summary lang="da">Toppanel, der indeholder indikatorer og applikationsmenuen</summary>
+  <summary lang="cs">Panel na horním okraji obrazovky, který obsahuje indikátory a nabídku s aplikacemi</summary>
+  <summary lang="ca">Plafó superior que conté indicadors i el menú d'aplicacions</summary>
+  <summary lang="ar">لوحة علوية تحمل المؤشرات وقائمة التطبيقات</summary>
+  <description>
+    <p>The extensible top panel for Pantheon. Wingpanel is an empty container that accepts indicators as extensions, including the applications menu.</p>
+  </description>
+  <releases>
+    <release date="2021-12-18" urgency="medium" version="3.0.2">
+      <description>
+        <p>Improvements:</p>
+        <ul>
+          <li>Fix startup delay on the greeter</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" date="2021-09-27" version="3.0.1">
+      <description>
+        <p>Improvements:</p>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.0.0" date="2021-07-13" urgency="medium">
+      <description>
+        <p>Improvements:</p>
+        <ul>
+          <li>Fix some issues with indicator sort order</li>
+          <li>Adjust special icon colors for dark and light panels to improve contrast</li>
+          <li>Fix getting monitor dimensions under Wayland</li>
+          <li>Hide tooltips when indicators are open</li>
+          <li>Updated translations</li>
+        </ul>
+        <p>Deprecations:</p>
+        <ul>
+          <li>Wingpanel.Widgets.Container: Use Gtk.ModelButton instead</li>
+          <li>Wingpanel.Widgets.Separator: Use Gtk.Separator instead</li>
+          <li>Wingpanel.Widgets.Switch: Use Granite.SwitchModelButton instead</li>
+        </ul>
+        <p>Removals:</p>
+        <ul>
+          <li>Wingpanel.Widgets.AutomaticScrollBox: use Gtk.ScrolledWindow.max_content_height instead</li>
+          <li>Wingpanel.Widgets.Button: Use Gtk.ModelButton instead</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" version="2.3.2" date="2020-06-19">
+      <description>
+        <p>Improvements:</p>
+        <ul>
+          <li>Fix a potential issue when ending the session</li>
+          <li>Use "allowed" and "forbidden" list names</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" date="2020-04-05" version="2.3.1">
+      <description>
+        <p>Improvements:</p>
+        <ul>
+          <li>Fix an issue with some 3 monitor layouts</li>
+          <li>Reduce spacing between icons</li>
+          <li>Add support for mutter 3.36</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.3.0" urgency="medium" date="2020-03-02">
+      <description>
+        <p>Improvements:</p>
+        <ul>
+          <li>Fix an issue where moving windows to a secondary display above the panel wouldn't work</li>
+          <li>Register with session manager</li>
+          <li>Add support for mutter 3.3x</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-10-31" version="2.2.6" urgency="medium">
+      <description>
+        <p>Fix an issue with the panel being draggable on touch screens</p>
+        <p>Fix focus on dialogs launched from the panel</p>
+        <p>Updated translations</p>
+      </description>
+    </release>
+  </releases>
+  <provides>
+    <binary>io.elementary.wingpanel</binary>
+  </provides>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/elementary/wingpanel/master/data/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <compulsory_for_desktop>Pantheon</compulsory_for_desktop>
+  <developer_name>elementary, Inc.</developer_name>
+  <url type="homepage">https://elementary.io/</url>
+  <url type="bugtracker">https://github.com/elementary/wingpanel/issues</url>
+  <url type="donation">https://elementary.io/get-involved#funding</url>
+  <url type="help">https://elementaryos.stackexchange.com/questions/tagged/wingpanel</url>
+  <url type="translate">https://l10n.elementary.io/projects/wingpanel</url>
+  <update_contact>contact_AT_elementary.io</update_contact>
+</component>

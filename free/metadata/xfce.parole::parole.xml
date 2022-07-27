@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>xfce.parole</pkgname>
+  <icon width="64" type="cached" height="64">org.xfce.parole.png</icon>
+  <icon height="128" type="cached" width="128">org.xfce.parole.png</icon>
+  <id>org.xfce.Parole.desktop</id>
+  <metadata_license>CC-BY-3.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Parole</name>
+  <summary>Modern and simple media player</summary>
+  <translation type="gettext">parole</translation>
+  <description>
+    <p>Parole is a modern simple media player based on the GStreamer framework and written to fit well in the Xfce desktop. It is designed with simplicity, speed and resource usage in mind.</p>
+    <p>Parole features playback of local media files, including video with subtitles support, Audio CDs, DVDs, and live streams. Parole is also extensible via plugins.</p>
+  </description>
+  <description lang="ast">
+    <p>Parole ye un reproductor multimedia simple que ta basáu nel framework GStreamer y escritu pa encaxar bien nel escritoriu Xfce. Ta diseñáu cola simplicidá, velocidá y l'usu de recursos na mente</p>
+    <p>Parole tien como carauterística la reproducción de ficheros multimedia, incluyendo videu con sofitu de sotítulos, CDs, DVD y tresmisiones d'audiu en direuto. Parole ye tamién estensible pente medies de complementos</p>
+  </description>
+  <description lang="be">
+    <p>Parole — просты сучасны медыяпрайгравальнік, заснаваны на GStreamer і створаны для працоўнага асяроддзя Xfce. Распрацаваны з мэтай быць простым, хуткім і лёгкаважным.</p>
+    <p>Parole можа прайграваць лакальныя файлы, ўключаючы відэа з субцітрамі, аўдыя-CD, DVD і струменевае відэа. Магчымасці Parole можна пашырыць убудовамі.</p>
+  </description>
+  <description lang="bg">
+    <p>Parole е съвременен и опростен мултимедиен плеър, базиран на GStreamer и създаден да се интегрира добре в работната среда Xfce. Той е проектиран за простота, бързина и интелигентно използване на ресурсите.</p>
+    <p>Parole включва функции за възпроизвеждане на локални медийни файлове, включително видео със поддръжка на субтитри, аудио CD-та, DVD-та, както и предавания на живо. Възможностите на Parole могат да бъдат разширени чрез добавки.</p>
+  </description>
+  <description lang="ca">
+    <p>Parole és un reproductor de mitjans audiovisuals simple i modern que està basat amb el marc de treball de GStreamer i que està escrit per encaixar bé a l'escriptori Xfce. S'ha dissenyat tenint en compte la simplicitat, la velocitat i l'ús dels recursos.</p>
+    <p>Parole compta amb la reproducció de fitxers locals de mitjans audiovisuals, incloent-hi vídeo amb subtítols, CD d'àudio, DVD i transmissions en viu. Parole també es pot ampliar a través de connectors.</p>
+  </description>
+  <description lang="cs">
+    <p>Parole je moderní přehrávač médií založený na frameworku GStreamer a je napsaný přímo pro prostředí Xfce. Je navržen s důrazem na jednoduchost, rychlost a využití zdrojů.</p>
+    <p>Parole nabízí přehrávání lokálních mediálních souborů, včetně videa s podporou titulků, zvukových disků CD, DVD a streamů. Parole je také rozšiřitelný pomocí zásuvných modulů.</p>
+  </description>
+  <description lang="da">
+    <p>Parole er en simpel, moderne medieafspiller baseret på rammeværktøjet GStreamer. Det er skrevet til at passe godt sammen med Xfce-skrivebordet. Det er designet med fokus på at være enkelt, hurtigt og anvende få ressourcer.</p>
+    <p>Parole byder på afspilning af lokale mediefiler, inklusive videoer med understøttelse af undertekster, lyd-cd'er, dvd'er og livestrømme. Parole kan også udvides med plugins.</p>
+  </description>
+  <description lang="de">
+    <p>Parole ist ein moderner, einfacher Medienspieler, welcher auf dem GStreamer-Framework basiert und geschrieben wurde um sich gut in den Xfce-Schreibtisch einzupassen. Er wurde mit Bedacht auf Einfachheit, Geschwindigkeit und Ressourcen entworfen.</p>
+    <p>Parole unterstützt die Wiedergabe lokaler Mediendateien, einschließlich Filmen mit Untertiteln, Audio-CDs, DVDs und Direktübertragungen. Parole kann zudem durch Erweiterungen erweitert werden.</p>
+  </description>
+  <description lang="el">
+    <p>To Parole είναι ένα σύγχρονο απλό πρόγραμμα αναπαραγωγής πολυμέσων βασισμένο στο πλαίσιο πολυμέσων Gstreamer και γραμμένο ώστε να είναι κατάλληλο για το περιβάλλον εργασίας Xfce. Έχει σχεδιαστεί να είναι απλό, γρήγορο και με χαμηλή κατανάλωση πόρων.</p>
+  </description>
+  <description lang="en_AU">
+    <p>Parole is a modern simple media player based on the GStreamer framework and written to fit well in the Xfce desktop. It is designed with simplicity, speed and resource usage in mind.</p>
+    <p>Parole features playback of local media files, including video with subtitles support, Audio CDs, DVDs, and live streams. Parole is also extensible via plugins.</p>
+  </description>
+  <description lang="en_GB">
+    <p>Parole is a modern simple media player based on the GStreamer framework and written to fit well in the Xfce desktop. It is designed with simplicity, speed and resource usage in mind.</p>
+    <p>Parole features playback of local media files, including video with subtitles support, Audio CDs, DVDs, and live streams. Parole is also extensible via plugins.</p>
+  </description>
+  <description lang="es">
+    <p>Parole es un reproductor multimedia basado en la infraestructura digital de GStreamer y escrito para incorporarse con el entorno de escritorio Xfce. Está diseñado con simplicidad, velocidad y correcto uso de recursos en mente.</p>
+    <p>Parole puede reproducir archivos localmente incluyendo videos compatibles con subtítulos, CD de audio, DVD y trasmisiones en continuo. Además, las funcionalidades de Parole pueden ser extendidas a través de complementos.</p>
+  </description>
+  <description lang="et">
+    <p>Parole on tänapäevane ja lihtne meediamängija, mis kasutab GStreamer'i multimeedia raamistikku ning on mõeldud ideaalselt sobima kasutamiseks Xfce töölauakeskkonnas. Parole on loodud arvestades lihtsust, kiirust ja ressursikasutust.</p>
+    <p>Parole oskab esitada kohalikke meediafaile, sealhulgas videofaile koos subtiitritega, samuti Heli-CD'sid, DVD'sid ja voogedastust võrgust. Parole on ka laiendatav pistikprogrammide abil.</p>
+  </description>
+  <description lang="eu">
+    <p>Parole media erreproduzigailu moderno eta sinple bat da, GStreamer lan-inguruan oinarritua eta Xfce mahaiganean ondo ahokatzeko idatzia. Sinpletasuna, abiadura eta baliabideen erabilera aintzat hartuz diseinatu da.</p>
+    <p>Parolek media fitxategi lokalak erreproduzitu ditzake, baita bideoak azpitituluekin, audio CDak, DVDak, eta zuzeneko jarioak ere. Paroleren ezaugarriak pluginen bidez luzatu daitezke.</p>
+  </description>
+  <description lang="fi">
+    <p>Parole on moderni ja yksinkertainen mediasoitin, joka perustuu GStreameriin ja joka sopii hyvin yhteen Xfce-työpöytäympäristön kanssa. Se on suunniteltu pitäen yksinkertaisuus, nopeus ja resurssien käyttö mielessä.</p>
+    <p>Parole tukee paikallisten tiedostojen (mukaan lukien tekstitettyjen videoiden), ääni- ja DVD-levyjen toistamista sekä suoratoistoa. Lisäksi se on laajennettavissa lisäosin.</p>
+  </description>
+  <description lang="fr">
+    <p>Parole est un lecteur multimédia moderne, simple, basé sur le moteur GStreamer et écrit pour s’intégrer agréablement au bureau Xfce. Il a été conçu pour être facile d’utilisation, rapide et peu gourmand en ressources.</p>
+    <p>Parole permet de lire les fichiers multimédias locaux, incluant les vidéos avec sous-titres, les CD audio, les DVD et les flux en direct. Parole est également extensible par des greffons.</p>
+  </description>
+  <description lang="gl">
+    <p>Parole é un reprodutor multimedia simple baseado na infraestrutura GStreamer escrito para axustarse ben ao escritorio Xfce. Está deseñado tendo na mente a simplicidade, a velocidade e uso dos recursos.</p>
+    <p>O Parole reproduce os ficheiros multimedia locais, incluído o vídeo con compatibilidade para subtítulos, CDs de son, DVDs e transmisións en directo. O parole tamén é extensíbel a través de complementos.</p>
+  </description>
+  <description lang="he">
+    <p>‏Parole הינו נגן מדיה פשוט המבוסס על מערכת GStreamer וחובר כדי להיות תואם באופן מיטבי בתוך שולחן העבודה Xfce. נגן זה תוכנן תוך הקפדה על פשטות, מהירות וניצול משאבים.</p>
+    <p>‏Parole טומן בחובו ניגון של קבצי מדיה מקומיים, כולל וידאו עם תמיכה בכתוביות, תקליטורי שמע CD, DVD, וזרמים חיים. Parole הינו בר הרחבה דרך תוספים.</p>
+  </description>
+  <description lang="hr">
+    <p>Parole je moderan i jednostavan svirač medije zasnovan na GStreamer frameworku i napisan tako da se dobro uklapa u Xfce radno okruženje. Jednostavnost, brzina i mala upotreba resursa su principi pri dizajnu ove aplikacije.</p>
+    <p>Parole pruža mogućnost izvođenja lokalnih datoteka uključujući video s podrškom za podnapise, Audio CDa, DVDa te izvođenje strajanja uživo. Parole je također moguće proširiti dodatcima.</p>
+  </description>
+  <description lang="hu">
+    <p>A Parole egy modern, egyszerű médialejátszó a GStreamer keretrendszer alapján, és arra íródott, hogy jól illeszkedjen az Xfce asztalba. Az egyszerűség, sebesség és erőforrás-használatot szem előtt tartva lett tervezve.</p>
+    <p>A Parole a helyi médiafájlok (felirat támogatással rendelkező videókat is beleértve), zenei CD-k, DVD-k és élő adatfolyamok lejátszására is képes. A Parole bővítményekkel is kiterjeszthető.</p>
+  </description>
+  <description lang="hy_AM">
+    <p>Parole֊ն ժամանակակից պարզ նուագարկիչ է, որը հիմնուած է GStreamer framework ֊ի վրայ եւ գրուած է հարմարացնելու Xfce աշխատասեղանը։ Այն ձեւաւորուած է պարզ, արագ եւ միջոցների աւգտագործման համար։</p>
+    <p>Parole֊ի տեղային մեդիայ նիշերի իւրահատուկ  նուագարկում, ներառելով տեսանիւթերը ենթագրի ապահովումով, Audio CD֊ներ, DVD֊ներ, եւ ուղիղ եթեր։ Parole֊ն արդենընդլայնուած է ներդրաւների միջոցով։</p>
+  </description>
+  <description lang="hye">
+    <p>Parole֊ն ժամանակակից պարզ նուագարկիչ է, որը հիմնուած է GStreamer framework ֊ի վրայ եւ գրուած է հարմարացնելու Xfce աշխատասեղանը։ Այն ձեւաւորուած է պարզ, արագ եւ միջոցների աւգտագործման համար։</p>
+    <p>Parole֊ի տեղային մեդիայ նիշերի իւրահատուկ  նուագարկում, ներառելով տեսանիւթերը ենթագրի ապահովումով, Audio CD֊ներ, DVD֊ներ, եւ ուղիղ եթեր։ Parole֊ն արդենընդլայնուած է ներդրաւների միջոցով։</p>
+  </description>
+  <description lang="id">
+    <p>Parole adalah pemutar media sederhana modern berdasarkan kerangka kerja GStreamer dan ditulis agar sesuai dengan baik di desktop Xfce. Hal ini dirancang dengan kesederhanaan, kecepatan dan penggunaan sumber daya.</p>
+    <p>Parole menampilkan pemutaran berkas media lokal, termasuk video dengan dukungan teks, Audio CD, DVD, dan siaran langsung. Parole juga bisa diperluas melalui pengaya.</p>
+  </description>
+  <description lang="ie">
+    <p>Parole es un modern, simplic reproductor de medies que usa li infrastructura GStreamer e que acorda al ambientie Xfce. It esset designat con cuida por simplicitá, velocitá e sparniada de ressurses.</p>
+    <p>Parole supporta reproduction de files de medie local, includente videos con subtitules, audio-CDs, DVDs e fluvies in li internet. Parole es anc extensibil per plugines.</p>
+  </description>
+  <description lang="is">
+    <p>Parole er einfaldur nútímalegur margmiðlunarspilari byggður á GStreamer kerfinu, sem er skrifaður til að passa vel inn í Xfce skjáborðsumhverfið. Hann er hannaður með einfaldleika, hraða og afköst í huga.</p>
+    <p>Parole sér um afspilun margmiðlunarskráa á tölvunni, þar með talin myndskeið með stuðningi við skjátexta, CD-hljómdiskar, DVD-mynddiskar og netstreymi. Hægt er að útvíkka virkni Parole með viðbótum.</p>
+  </description>
+  <description lang="it">
+    <p>Parole è un riproduttore di file multimediali semplice e moderno basato su GStreamer, scritto per l'ambiente Xfce. È progettato per essere semplice, veloce e leggero.</p>
+    <p>Parole è in grado di riprodurre file multimediali locali, compresi i video sottotitolati, CD audio, DVD, e flussi live. Parole è inoltre estensibile attraverso i componenti aggiuntivi.</p>
+  </description>
+  <description lang="ja">
+    <p>Parole は Xfce デスクトップと調和するよう開発された GStreamer フレームワークベースのシンプルなメディアプレイヤーです。シンプルで、軽快で、リソースの消費に考慮して設計されています。</p>
+    <p>Parole は字幕をサポートする動画を含むローカルメディアファイル、音楽 CD、DVD、およびライブストリームの再生を行えます。また、プラグインによって拡張可能です。</p>
+  </description>
+  <description lang="ko">
+    <p>빠롤은 지스트리머 프레임워크를 기반으로 한 간단한 최신 미디어 플레이어이며, Xfce 데스크톱에 적합하게 작성했습니다. 단순함, 속도, 자원 활용을 염두에 두고 설계했습니다.</p>
+    <p>빠롤은 자막과 더불어 동영상과 같은 로컬 미디어 파일, 오디오 CD, DVD, 라이브 스트림을 재생합니다. 플러그인을 통해 기능을 확장할 수 있습니다.</p>
+  </description>
+  <description lang="lt">
+    <p>Parole yra šiuolaikinė paprasta medijos leistuvė, pagrįsta GStreamer karkasu ir sukurta taip, kad pritaptų prie Xfce darbalaukio. Ji sukurta, turint omenyje paprastumą, greitį ir išteklių naudojimą.</p>
+    <p>Parole gali atkurti vietinius medijos failus, įskaitant vaizdo įrašus su subtitrų palaikymu, garso įrašus, CD, DVD, bei tiesioginius srautinius siuntimus. Parole taip pat yra išplečiama per įskiepius.</p>
+  </description>
+  <description lang="ms">
+    <p>Parole adalah pemain media ringkas yang modern berasaskan pada bingkai kerja GStreamer dan ditulis untuk disesuaikan dengan desktop Xfce. Ia direka berdasarkan keringkasan, kelajuan dan penggunaan sumber yang efisyen.</p>
+    <p>Parole fiturkan main balik fail media setempat, termasuklah video dengan sokongan sarikata, CD Audio, DVD, dan strim langsung. Parole juga boleh ditambah baik melalui pemalam.</p>
+  </description>
+  <description lang="nb">
+    <p>Parole er en moderne, enkel mediaspiller basert på GStreamer-rammeverket og skrevet for å passe godt inn i Xfce-skrivebordet. Det er tuftet på enkelhet, fart og ressursbruk.</p>
+    <p>Parole har avspilling av lokale mediafiler, inkludert videoer med undertitller, lyd-CD-er, DVD-er, og live-strømmer. Parole er også utvidbart via programtillegg.</p>
+  </description>
+  <description lang="nl">
+    <p>Parole is een moderne eenvoudige mediaspeler, gebaseerd op GStreamer en gemaakt om goed te passen in de Xfce-werkomgeving. Hij is ontworpen met het oog op eenvoud, snelheid en laag systeemkrachtgebruik.</p>
+    <p>Parole heeft de volgende functies: afspelen van lokale mediabestanden, inclusief video met ondersteuning voor ondertiteling, geluids-CD's, DVD's en rechtstreekse uitzendingen. Parole kan ook worden uitgebreid met invoegsels.</p>
+  </description>
+  <description lang="pl">
+    <p>Parole jest nowoczesnym i prostym odtwarzaczem mediów opartym o szkielet GStreamer i napisanym, aby jak najlepiej pasować do pulpitu Xfce. Jest zaprojektowany z myślą o prostocie, szybkości i niskim zużyciu zasobów systemu.</p>
+    <p>Parole zapewnia odtwarzanie lokalnych plików mediów, wliczając w to pliki filmowe z napisami, dźwiękowe płyty CD, płyty DVD, oraz strumienie na żywo. Parole może być także rozbudowywane w oparciu o wtyczki.</p>
+  </description>
+  <description lang="pt">
+    <p>O Parole é um simples e moderno leitor de multimédia baseado na plataforma GStreamer e escrito para integrar-se bem no ambiente de trabalho Xfce. É desenhado tendo em mente, a simplicidade, velocidade e uso de recursos.</p>
+    <p>Com o Parole, consegue reproduzir ficheiros locais, incluindo vídeos com suporte a legendas, CDs áudio, DVDs e emissões web. O Parole também pode ser expandido através dos plugins.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Parole é um tocador de mídia simples e moderno, baseado no framework GStreamer e escrito para caber bem no ambiente de trabalho Xfce. Ele é desenhado com simplicidade, velocidade e uso de recursos em mente.</p>
+    <p>Parole apresenta a reprodução de arquivos de mídia locais, incluindo vídeo com suporte a legendas, CDs de áudio, DVDs e transmissões ao vivo. Parole também é extensível através de plugins.</p>
+  </description>
+  <description lang="ru">
+    <p>Parole — простой современный медиаплеер, основанный на инфраструктуре GStreamer и созданный для соответствия окружению рабочего стола Xfce, с учётом простоты, скорости и использования ресурсов.</p>
+    <p>Parole воспроизводит локальные медиафайлы, включая видео с субтитрами, аудио-CD, DVD и потоки. Возможности Parole расширяемы модулями.</p>
+  </description>
+  <description lang="sk">
+    <p>Parole je moderný jednoduchý multimediálny prehrávač založený na rozhraní GStreamer a napísaný tak, aby vyhovoval prostrediu Xfce. Je navrhnutý tak, aby bol jednoduchý, rýchly a nenáročný na prostriedky.</p>
+    <p>Prehrávač Parole umožňuje prehrávanie miestnych multimediálnych súborov, vrátane videí s podporou titulkov, audio CD, DVD a živé prúdy(streamy). Prehrávač Parole je tiež možné rozšíriť pomocou zásuvných modulov.</p>
+  </description>
+  <description lang="sl">
+    <p>Parole je moderen in preprost predvajalnik, ki temelji na GStreamer okvirju in je napisan, da se dobro zlije z Xfce namizjem. Načrtovan je z mislijo na enostavnost, hitrost in varčevanje z viri.</p>
+    <p>Parole omogoča predvajanje lokalnih medijskih datotek, videov s podnapisi, zvočnih zgoščenk, DVDjev in živih tokov. Parole je mogoče tudi nadgraditi s pomočjo vtičnikov.</p>
+  </description>
+  <description lang="sq">
+    <p>Parole është një lojtës mediash modern, i thjeshtë, i bazuar në platformën GStreamer dhe shkruar që të puqet mirë me desktopin Xfce. Është konceptuar duke pasur në mendje thjeshtësinë, shpejtësinë dhe shfrytëzimin e efektshëm të burimeve.</p>
+    <p>Parole përmban luajtje kartelash media vendore, përfshi video me titra, CD audio, DVD, dhe rrjedha të drejtpërdrejta. Parole gjithashtu mund të thellohet përmes shtojcash.</p>
+  </description>
+  <description lang="sr">
+    <p>Часноречац је савремени једноставни извођач садржаја заснован на Гстримеру и написан са циљем да се лепо уклопи у ИксФЦЕ окружење. Обликован је са замислима да буде једноставан, брз и лаган.</p>
+    <p>Часноречац подржава извођење датотека, укључујући снимке са преводима, звучне ЦД-је, ДВД снимке и живе токове. Могућности Часноречца су прошириве преко прикључака.</p>
+  </description>
+  <description lang="sv">
+    <p>Parole är en modern enkel mediaspelare baserad på GStreamer ramverket och skriven för att passa bra in i Xfce-skrivbordet. Den är utformad med enkelhet, snabbhet och resursanvändning i åtanke.</p>
+    <p>Parole erbjuder uppspelning av lokala mediafiler, inklusive filmer med stöd för undertexter, ljud-CD:s DVD:er, och direktsändningar. Parole går också att bygga ut med insticksprogram.</p>
+  </description>
+  <description lang="th">
+    <p>Parole เป็นโปรแกรมเล่นสื่อที่ทันสมัยและใช้งานง่าย โดยอาศัยกรอบงาน GStreamer และสร้างมาเพื่อให้เหมาะกับเดสก์ท็อป Xfce ออกแบบโดยเน้นที่ความเรียบง่าย ความเร็ว และการใช้ทรัพยากร</p>
+    <p>Parole รองรับการเล่นแฟ้มสื่อในเครื่อง รวมถึงวีดิทัศน์พร้อมการรองรับบทบรรยาย, ซีดีเพลง, ดีวีดี, และสตรีมสด นอกจากนี้ Parole ยังสามารถต่อเติมได้ด้วยปลั๊กอินอีกด้วย</p>
+  </description>
+  <description lang="tr">
+    <p>Parole, GStreamer yapısına dayanan ve Xfce masaüstüne uyumlu biçimde yazılan basit ortam oynatıcısıdır.</p>
+    <p>Parole; yerel ortam dosyalarını oynatmayı, alt yazıyla birlikte ses CD'lerini, DVD'lerini ve canlı akışları destekler. Ayrıca, eklentiler yoluyla genişletilebilir.</p>
+  </description>
+  <description lang="uk">
+    <p>Parole є сучасним простим медіа програвачем на базі GStreamer і чудово вписується в середовище Xfce.</p>
+    <p>Parole може програвати локальні медіа файли, включаючи відео з підтримкою субтитрів, Аудіо CD, DVD, і потокові медіа. Функціональність Parole можна розширити додатками.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>Parole 是一个现代且简洁的媒体播放器，基于 GStreamer 的框架并以符合 Xfce 桌面设计理念的方式编写。它的设计力求简洁，快速与低资源消耗。</p>
+    <p>Parole 支持本地媒体文件的播放，包含了有字幕影片的支持，音乐 CD，DVD 以及直播流的支持。Parole 也可以使用插件扩充其功能。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>Parole 是一個現代且簡潔的媒體播放器，基於 GStreamer 框架並以符合 Xfce 桌面設計概念的方式編寫。它的設計力求簡潔、快速與低資源消耗。</p>
+    <p>Parole 著眼於本機媒體檔案的播放，包含了有字幕影片的支援，音樂 CD、DVD、以及直播串流。Parole 也可以經由插件擴充。</p>
+  </description>
+  <launchable type="desktop-id">org.xfce.Parole.desktop</launchable>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Parole playing Big Buck Bunny</caption>
+      <image>https://screenshots.bluesabre.org/parole/parole-01.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Parole playing a LAS podcast</caption>
+      <image>https://screenshots.bluesabre.org/parole/parole-02.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Parole playing a LAS podcast in Mini Mode (0.9+)</caption>
+      <image>https://screenshots.bluesabre.org/parole/parole-03.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://www.xfce.org/</url>
+  <url type="bugtracker">https://gitlab.xfce.org/apps/parole/-/issues</url>
+  <url type="help">https://docs.xfce.org/apps/parole/start</url>
+  <project_group>XFCE</project_group>
+  <provides>
+    <binary>parole</binary>
+  </provides>
+  <releases>
+    <release version="4.15.0" date="2020-12-27">
+      <description>
+        <p>This release refreshes the playlist and dialog look and feel. Shuffling the playlist is more efficient and can be reversed. DVD support has also been improved and will no longer freeze when started.</p>
+        <p lang="be">У гэтым выпуску абноўлены выгляд спісаў прайгравання і дыялогаў. Змешванне кампазіцый у спісе стала больш эфектыўнай. Была палепшана падтрымка DVD.</p>
+        <p lang="ca">Aquesta versió refresca l'aspecte de la llista de reproducció i el diàleg. Barrejar la llista de reproducció és més eficient i es pot invertir. La compatibilitat amb else DVD també s'ha millorat i ja no es congela quan s'inicia.</p>
+        <p lang="cs">Toto vydání obnovuje seznam médií a vzhled dialogových oken. Náhodné přehrávání je efektivnější a lze obrátit jeho pořadí. Také se zlepšila podpora DVD a již nedochází k zablokování při spuštění.</p>
+        <p lang="de">In dieser Version wurde das Aussehen der Wiedergabeliste und der Dialoge aktualisiert. Das Mischen der Wiedergabeliste ist effizienter und kann rückgängig gemacht werden. Die DVD-Unterstützung wurde ebenfalls verbessert und friert beim Starten nicht mehr ein.</p>
+        <p lang="es">Esta versión actualiza la apariencia de la lista de reproducción y el diálogo. La reproducción aleatoria de la lista de reproducción es más eficiente y se puede invertir. La compatibilidad con DVD también se ha mejorado y ya no se congelará cuando se inicie.</p>
+        <p lang="et">Selles versioonis oleme parandanud esitusloendi ja dialoogiakende välimust ning tunnetust. Esitusloendi juhuslikuks muutmine on nüüd tõhusam ja seda saab tagasi võtta. DVD'de tugi on paranenud ning seniseid hangumisi DVD'de esitusel ei peaks enam tekkima.</p>
+        <p lang="eu">Argitaratze honek erreprodukzio-zerrendaren eta leihotxoen itxura eta erabilera freskatzen ditu. Erreprodukzio-zerrenda nahastea eraginkorragoa da eta leheneratu daiteke. DVDen erreprodukzioa hobetu da ere eta ez dira gehiago geldituko abiarazterakoan.</p>
+        <p lang="fr">Cette version actualise l'apparence de la liste de lecture et du dialogue. La lecture aléatoire de la liste de lecture est plus efficace et peut être inversée. La prise en charge des DVD a également été améliorée et ne gèlera plus au démarrage.</p>
+        <p lang="he">גרסה זו מרעננת את המראה והתחושה של רשימת הנגינה והדו שיח. ערבוב רשימת הנגינה יעיל יותר וניתן להיפוך. תמיכת DVD גם כן שופרה ולא תקפא יותר בהפעלה.</p>
+        <p lang="it">Questo rilascio aggiorna l'aspetto delle scalette. Mischiare una scaletta è ora più efficiente e può essere invertita. Il supporto ai DVD è stato migliorato e non ci saranno più blocchi quando avviato.</p>
+        <p lang="ja">このリリースではプレイリストとダイアログのルックアンドフィールが更新されます。プレイリストのシャッフルが効率的になり、元に戻すこともできます。DVDのサポートも改善され、起動時にフリーズしなくなりました。</p>
+        <p lang="lt">Ši laida atnaujina grojaraščio ir dialogo išvaizdą ir turinį. Grojaraščio maišymas yra efektyvesnis ir gali būti pakeistas atvirkštine tvarka. Taip pat buvo pagerintas DVD palaikymas, todėl paleidus DVD, jis daugiau nebestrigs.</p>
+        <p lang="nb">Denne utgivelsen oppdaterer drakta til spillelista og dialogvinduene. Tilfeldig spilleliste kan nå lages raskere, og kan dessuten reverseres. DVD-støtten er også forbedret, og fryser ikke ved oppstart.</p>
+        <p lang="nl">Deze editie ververst de afspeellijst en het uiterlijk van de dialoog. Het schuffelen van de afspeellijst is efficiënter en kan worden teruggedraaid. DVD-ondersteuning is ook verbeterd en zal niet langer vastlopen bij het starten.</p>
+        <p lang="pt">Esta versão atualiza a lista de reprodução e a aparência da caixa de diálogo. A ordem aleatória da lista de reprodução é mais eficiente e pode ser invertida. O suporte a DVD também foi aprimorado e já não trava quando iniciado.</p>
+        <p lang="pt_BR">Esta versão atualiza a lista de reprodução e a aparência da caixa de diálogo. A ordem aleatória da lista de reprodução é mais eficiente e pode ser invertida. O suporte a DVDs também foi aprimorado e já não trava quando iniciado.</p>
+        <p lang="sq">Kjo hedhje në qarkullim rifreskon pamjen dhe ndjesitë që jep luajlista dhe dialogu. Përzierja e luajlistës është më efikase dhe mund të praprakthehet. Është përmirësuar gjithashtu mbulimi për DVD dhe nuk do të ketë më ngrirje, kur niset.</p>
+        <p lang="sr">Ово издање освежава списак за извођење, изглед прозорчића и општи утисак. Мешање списка за извођење има бољи учинак и може бити преобрнуто. Подршка за ДВД је побољшана и бише се не кочи при покретању.</p>
+        <p lang="tr">Bu sürüm, oynatma listesi ve iletişim penceresi görünüm ve sezgilerini tazeler. Oynatma listesi daha verimli karıştırılır ve evirtilebilir. DVD desteği de iyileştirildi ve başlatıldığında donma yaşanmamaktadır.</p>
+        <p lang="zh_CN">此版本更新了播放列表与对话框的外观与感觉。随机播放列表现在效率更好且可撤消。DVD支持也有所改善，且不再于启动时冻结。</p>
+        <p lang="zh_TW">此版本更新了播放清單與對話框的外觀與感覺。隨機播放清單現在效率更好且可撤銷。DVD 支援也有所改善，且不再於啟動時凍結。</p>
+      </description>
+    </release>
+    <release date="2019-11-15" version="1.0.5">
+      <description>
+        <p>This release improves thumbnail management and storage and fixes volume hotkeys when viewing fullscreen content.</p>
+        <p lang="be">У гэтым выпуску палепшана кіраванне мініяцюрамі і выпраўлены гарачыя клавішы гучнасці пры праглядзе поўнаэкраннага змесціва.</p>
+        <p lang="ca">Aquesta versió millora la gestió i l’emmagatzematge de miniatures i corregeix les tecles de volum quan es visualitza el contingut en pantalla completa.</p>
+        <p lang="cs">Toto vydání vylepšuje správu náhledů a úložiště a opravuje klávesové zkratky pro nastavení hlasitosti v režimu celé obrazovky.</p>
+        <p lang="de">Diese Version verbessert die Verwaltung und Speicherung von Vorschaubildern und repariert Lautstärke-Hotkeys bei der Anzeige von Vollbildinhalten.</p>
+        <p lang="es">Esta versión mejora la administración y el almacenamiento de miniaturas y corrige las teclas de acceso rápido de volumen al ver contenido en pantalla completa.</p>
+        <p lang="et">Selles versioonis oleme parandanud pisipiltide haldust ja salvestamist ning helitugevuse kiirklahvide kasutust täisekraanivaates.</p>
+        <p lang="eu">Argitaratze honek argazkitxoen kudeaketa eta biltegiratzea hobetzen ditu, eta bolumenaren teklak konpontzen ditu pantaila-osoko edukia ikusterakoan.</p>
+        <p lang="fr">Cette version améliore la gestion et le stockage des miniatures et corrige les raccourcis clavier lors de l'affichage du contenu en plein écran.</p>
+        <p lang="he">גרסה זו משפרת ניהול ואחסון תמונות ממוזערות ומתקנת מקשי קיצור דרך רמת קול בצפיה של תוכן במצב מסך מלא.</p>
+        <p lang="it">Questo rilascio migliora la gestione delle miniature e dell'archiviazione, corregge poi le scorciatoie da tastiera per controllare il volume quando si visualizza un contenuto a schermo intero.</p>
+        <p lang="ja">このリリースではサムネイルの管理と保存が改善され、フルスクリーンコンテンツを表示する際の音量ホットキーが修正されています。</p>
+        <p lang="lt">Ši laida pagerina miniatiūrų tvarkymą ir saugojimą ir pataiso garsio sparčiuosius klavišus, kai turinys peržiūrimas visame ekrane.</p>
+        <p lang="nb">Denne utgivelsen forbedrer behandling av miniatyrbilder og lagring, og fikser hurtigtaster for lydstyrke ved fullskjermsvisning.</p>
+        <p lang="nl">Deze editie verbetert miniatuurbeheer en -opslag en herstelt volumesneltoetsen bij het bekijken van schermvullende inhoud.</p>
+        <p lang="pt">Esta versão melhora a gestão e armazenamento de miniaturas e corrige as teclas de atalho do volume ao visualizar o conteúdo em ecrã inteiro.</p>
+        <p lang="pt_BR">Esta versão melhora a gestão e armazenamento de miniaturas e corrige as teclas de atalho do volume ao visualizar conteúdo em tela cheia.</p>
+        <p lang="sq">Kjo hedhje në qarkullim përmirëson administrimin dhe depozitimin e miniaturave dhe ndreq shkurtore për te vëllime, kur shihet lëndë nën mënyrën sa krejt ekrani.</p>
+        <p lang="sr">Ово издање побољшава управљање умањеним сличицама, складиштење и поправља пречице управљања звуком при прегледу садржаја у пуном приказу.</p>
+        <p lang="tr">Bu sürüm; küçük resim yönetimini ve depolamayı iyileştirir, tam ekran içerik görüntülerken ses tuşları sorununu çözer.</p>
+        <p lang="zh_CN">此版本改进了缩图管理与储存，并修复了观看全屏幕内容时的音量快捷键。 </p>
+        <p lang="zh_TW">此版本改進了縮圖管理與儲存，並修復了觀看全螢幕內容時的音量快捷鍵。</p>
+      </description>
+    </release>
+    <release date="2019-08-11" version="1.0.4">
+      <description>
+        <p>This release inhibits power management during video playback.</p>
+        <p lang="be">У гэтым выпуску забаронена кіраванне сілкаваннем падчас прайгравання відэа.</p>
+        <p lang="ca">Aquesta versió inhibeix la gestió de l'energia durant la reproducció de vídeos.</p>
+        <p lang="cs">Toto vydání blokuje správu napájení během přehrávání videí.</p>
+        <p lang="de">Mit dieser Freigabe wird die Energieverwaltung während der Videowiedergabe gesperrt.</p>
+        <p lang="es">Esta versión inhibe la administración de energía durante la reproducción de video.</p>
+        <p lang="et">Selle versiooniga lisanud võimalus video esitamise ajal toitehaldust blokeerida.</p>
+        <p lang="eu">Argitaratze honek energiaren kudeaketa albo batera uzten du bideoak erreproduzitu bitartean.</p>
+        <p lang="fr">Cette version empêche la gestion de l'alimentation pendant la lecture vidéo.</p>
+        <p lang="he">גרסה זו מרסנת ניהול חשמל במהלך ניגון וידאו.</p>
+        <p lang="it">Questo rilascio inibisce il gestore dell'energia durante la riproduzione di un video.</p>
+        <p lang="ja">このリリースではビデオ再生中の電源管理を禁止しています。</p>
+        <p lang="lt">Ši laida vaizdo įrašų atkūrimo metu sulaiko maitinimo valdymą.</p>
+        <p lang="nb">Denne utgivelsen forhindrer strømstyring under avspilling av videoer.</p>
+        <p lang="nl">Deze editie schakelt energiebeheer uit tijdens het afspelen van video's.</p>
+        <p lang="pt">Esta versão inibe a gestão de energia durante a reprodução de vídeo.</p>
+        <p lang="pt_BR">Esta versão inibe o gerenciamento de energia durante a reprodução de vídeo.</p>
+        <p lang="sq">Kjo hedhje në qarkullim sjell pengim administrimi energjie gjatë loje videosh.</p>
+        <p lang="sr">Ово издање замрзава управљање потрошњом приликом извођења видеа.</p>
+        <p lang="tr">Bu sürüm, video yürütürken güç yönetimini kısıtlar.</p>
+        <p lang="zh_CN">此版本禁止在视频播放期间进行电源管理。</p>
+        <p lang="zh_TW">此版本可在影片播放期間停用電源管理功能。</p>
+      </description>
+    </release>
+    <release version="1.0.3" date="2019-07-27">
+      <description>
+        <p>This is a minor bugfix release.</p>
+        <p lang="be">Гэта прамежкавы выпуск з выпраўленнямі хібаў.</p>
+        <p lang="ca">Aquesta és una versió menor només amb correccions d'errors.</p>
+        <p lang="cs">Toto je vydání opravující malé chyby.</p>
+        <p lang="de">Dies ist ein kleineres Bugfix-Release.</p>
+        <p lang="es">Esta es una versión de corrección de errores menores.</p>
+        <p lang="et">See versioon sisaldab vaid väikesi veaparandusi.</p>
+        <p lang="eu">Argitaratze honek arazo txikien konpoketak dakar.</p>
+        <p lang="fr">Il s'agit d'une version de correction de bogue mineure.</p>
+        <p lang="he">גרסה זו היא גרסה קטנה לתיקון באגים.</p>
+        <p lang="it">Questo è un rilascio minore che corregge alcuni bug.</p>
+        <p lang="ja">これはマイナーバグの修正リリースです。</p>
+        <p lang="lt">Tai yra smulkių klaidų pataisymų laida.</p>
+        <p lang="nb">Denne utgivelsen har noen små feilrettinger.</p>
+        <p lang="nl">Dit is een editie die voornamelijk foutreparaties bevat.</p>
+        <p lang="pt">Esta é uma versão com pequenas correçōes de problemas.</p>
+        <p lang="pt_BR">Esta é uma versão com pequenas correçōes de problemas.</p>
+        <p lang="sq">Kjo është një hedhje e vockël në qarkullim për ndreqje të metash.</p>
+        <p lang="sr">Ово је издање са малим бројем исправки грешака.</p>
+        <p lang="tr">Bu; küçük, hata giderme sürümüdür.</p>
+        <p lang="zh_CN">这是一个小的错误修复版本。</p>
+        <p lang="zh_TW">這是次要的錯誤修正版本。</p>
+      </description>
+    </release>
+    <release version="1.0.2" date="2019-04-04">
+      <description>
+        <p>This release adds support for automatic codec installation.</p>
+        <p lang="be">У гэтым выпуску дададзена падтрымка аўтаматычнай усталёўкі кодэкаў.</p>
+        <p lang="ca">Aquesta versió permet la instal·lació automàtica de còdecs.</p>
+        <p lang="cs">Toto vydání přidává podporu automatické instalace kodeků.</p>
+        <p lang="de">In dieser Version wurde die Unterstützung für die automatische Codec-Installation hinzugefügt.</p>
+        <p lang="es">Esta versión añade soporte para la instalación automática de códecs.</p>
+        <p lang="et">Selle versiooniga lisati kodekite automaatse paigalduse tugi.</p>
+        <p lang="eu">Argitaratze honek codec-ak automatikoki instalatzeko aukera gehitzen du.</p>
+        <p lang="fr">Cette version ajoute la prise en charge de l'installation automatique du codec.</p>
+        <p lang="he">גרסה זו מוסיפה תמיכה להתקנה אוטומטית של מקודדים.</p>
+        <p lang="it">Questo rilascio aggiunge il supporto per l'installazione automatica dei codec.</p>
+        <p lang="ja">このリリースではコーデックの自動インストールサポートを追加しました。</p>
+        <p lang="lt">Ši laida prideda automatinio kodekų įdiegimo palaikymą.</p>
+        <p lang="nb">Denne utgivelsen legger til støtte for automatisk installasjon av kodeker.</p>
+        <p lang="nl">Deze editie voegt ondersteuning toe voor automatische installatie van codecs.</p>
+        <p lang="pt">Esta versão adiciona suporte para a instalação automática de codecs.</p>
+        <p lang="pt_BR">Esta versão adiciona suporte para a instalação automática de codecs.</p>
+        <p lang="sq">Kjo hedhje në qarkullim shton mbulim për instalim të automatizuar kodekësh.</p>
+        <p lang="sr">Ово издање додаје подршку за самосталну уградњу кодека.</p>
+        <p lang="tr">Bu sürüm, kendiliğinden çözücü kurma desteği ekler.</p>
+        <p lang="zh_CN">此版本增加了对自动编解码器安装的支持。</p>
+        <p lang="zh_TW">此版本新增了對自動編解碼器安裝的支援。</p>
+      </description>
+    </release>
+    <release date="2018-04-11" version="1.0.1">
+      <description>
+        <p>This is a minor translations-only release.</p>
+        <p lang="ar">هذا فقط. إصدار ترجمات طفيفة </p>
+        <p lang="be">У гэтым прамежкавым выпуску абноўленыя лакалізацыі.</p>
+        <p lang="bg">Това е незначително издание в което са обновени само преводите.</p>
+        <p lang="ca">Aquesta és una versió menor només amb les traduccions.</p>
+        <p lang="cs">Toto je pouze malé vydání s překlady.</p>
+        <p lang="da">Dette er en mindre udgivelse som kun har med oversættelser at gøre.</p>
+        <p lang="de">Dies ist eine minor-Version, die nur Übersetzungen enthält.</p>
+        <p lang="el">Αυτή είναι μία μικρή αναβάθμιση μετάφρασης</p>
+        <p lang="en_AU">This is a minor translations-only release.</p>
+        <p lang="en_GB">This is a minor translations-only release.</p>
+        <p lang="es">Esta es una versión menor solo para traducciones.</p>
+        <p lang="et">See versiooniga lisandus vaid tõlgete täiendusi.</p>
+        <p lang="eu">Hau itzulpenak soilik eguneratzen dituen argitalpen txiki bat da.</p>
+        <p lang="fi">Tämä on pieni, vain käännöksiä päivittävä julkaisu.</p>
+        <p lang="fr">Il s’agit d’une version de révision mineure des traductions.</p>
+        <p lang="gl">Esta é unha versión menor de só de traducións.</p>
+        <p lang="he">זוהי גרסה משנית לתרגומים בלבד.</p>
+        <p lang="hr">Ovo je manje izdanje sa ažuriranim prijevodima.</p>
+        <p lang="hu">Ez egy kisebb, csak fordításokat tartalmazó kiadás.</p>
+        <p lang="hy_AM">Սա սոսկ թարգմանական տարբերակ է։</p>
+        <p lang="hye">Սա սոսկ թարգմանական տարբերակ է։</p>
+        <p lang="id">Ini adalah rilis minor dengan pemutakhiran terjemahan saja.</p>
+        <p lang="ie">Ti es un minori version solmen por actualisation de traductiones.</p>
+        <p lang="is">Þessi útgáfa er minniháttar uppfærsla, eingöngu fyrir þýðingar.</p>
+        <p lang="it">Questo è un rilascio minore, solo per le traduzioni.</p>
+        <p lang="ja">これは翻訳のみのマイナーリリースです。</p>
+        <p lang="ko">이 출시판은 사소한 번역을 추가했습니다.</p>
+        <p lang="lt">Tai yra smulki tik vertimų atnaujinimo laida.</p>
+        <p lang="ms">Ini adalah keluaran terjemahan kecil-sahaja.</p>
+        <p lang="nb">Denne utgivelsen har kun nye oversettelser.</p>
+        <p lang="nl">Dit is een uitgave die alleen is gedaan om nieuwe vertalingen op te nemen.</p>
+        <p lang="pl">Jest to niewielkie wydanie tylko z tłumaczeniami.</p>
+        <p lang="pt">Esta é uma versão com pequenas traduções apenas.</p>
+        <p lang="pt_BR">Esta é uma versão apenas para atualizar traduções.</p>
+        <p lang="ru">Этот небольшой выпуск обновляет переводы.</p>
+        <p lang="sl">To je manjši popravek prevodov.</p>
+        <p lang="sq">Kjo është një hedhje në qarkullim vetëm për përkthimet.</p>
+        <p lang="sr">Ово је мало издање које садржи само исправљене преводе.</p>
+        <p lang="sv">Detta är endast en mindre översättningsutgåva.</p>
+        <p lang="th">รุ่นนี้เป็นรุนย่อยที่ปรับคำแปลเพิ่มเติมเท่านั้น</p>
+        <p lang="tr">Bu sürüm yalnızca basit çeviri güncellemeleri içerir.</p>
+        <p lang="uk">Це є невеликий випуск лише для перекладу.</p>
+        <p lang="zh_CN">该版本仅更新翻译。</p>
+        <p lang="zh_TW">這是一個僅更新翻譯的次要版本。</p>
+      </description>
+    </release>
+    <release date="2018-02-28" version="1.0.0">
+      <description>
+        <p>This release marks the first stable release of the 1.0 series. A new Automatic video output option was added to improve usage on virtual machines and low power devices. A large number of bugs were also resolved, making this release suitable for all users.</p>
+        <p lang="be">Гэта першы стабільны выпуск серыі 1.0. Для паляпшэння выкарыстання ў віртуальных машынах і слабых прыладах дададзены новы параметр для вываду відэа. Выпраўлена вялікая колькасць памылак, што робіць выпуск прыдатным для ўсіх карыстальнікаў.</p>
+        <p lang="bg">Това издание бележи първата стабилна версия от серията 1.0. Добавена е нова опция за автоматичен изход  с цел подобряване на използването във виртуални машини и устройства с ниска мощност. Бяха решени и голям брой проблеми, което направи това издание подходящо за всички потребители.</p>
+        <p lang="ca">Aquest llançament marca la primera versió estable de la sèrie 1.0. S'ha afegit una nova opció de sortida de vídeo automàtica per millorar l'ús de màquines virtuals i de dispositius de baix consum. També s'han resolt un gran nombre d'errors, fent que aquesta versió sigui idònia per a tots els usuaris.</p>
+        <p lang="cs">Toto vydání je prvním stabilním vydáním série 1.0. Pro zlepšení využití na virtuálních strojích a zařízeních s nízkou spotřebou energie byla přidána nová volba automatického video výstupu. Bylo vyřešeno velké množství chyb a tím se toto vydání stalo vhodným pro všechny uživatele.</p>
+        <p lang="da">Denne udgivelse markerer den første stabile udgivelse i 1.0-serien. Et nyt automatisk videooutput er blevet tilføjet for at forbedre anvendelsen i virtuelle maskiner og enheder med lav ydelse. Et stort antal fejl blev også løst, hvilket gør denne udgivelse egnet til alle brugere.</p>
+        <p lang="de">Diese Version ist die erste stabile Version der 1.0-Serie. Eine neue Option für die automatische Videoausgabe wurde hinzugefügt, um die Nutzung auf virtuellen Maschinen und Geräten mit geringem Stromverbrauch zu verbessern. Eine große Anzahl von Fehlern wurde ebenfalls behoben, so dass diese Version für alle Benutzer geeignet ist.</p>
+        <p lang="en_AU">This release marks the first stable release of the 1.0 series. A new Automatic video output option was added to improve usage on virtual machines and low power devices. A large number of bugs were also resolved, making this release suitable for all users.</p>
+        <p lang="en_GB">This release marks the first stable release of the 1.0 series. A new Automatic video output option was added to improve usage on virtual machines and low power devices. A large number of bugs were also resolved, making this release suitable for all users.</p>
+        <p lang="es">Este lanzamiento marca la primera versión estable de la serie 1.0. Se agregó una nueva opción de salida de video automática para mejorar el uso en máquinas virtuales y dispositivos de baja potencia. También se resolvió una gran cantidad de errores, lo que hace que esta versión sea adecuada para todos los usuarios.</p>
+        <p lang="et">Selle versiooni näol on tegemist esimese stabiilse väljalaskega 1.0 seeriast. Parandamaks kasutust virtuaalmasinates ja väikse toitejõudlusega seadmetes oleme lisanud automaatse videoväljundi võimaluse. Suur hulk seniseid vigu on parandatud ja see versioon on sobilik kasutamiseks kõikide jaoks.</p>
+        <p lang="eu">Argitalpen honek 1.0 serieko lehen argitalpen egonkorra markatzen du. Bideo irteera automatikorako aukera berri gat gehitu da makina birtualetan eta potentzia txikiko gailuetan erabilpena hobetzeko. Arazo asko konpondu dira ere, argitalpen hau erabiltzaile guztientzako egokia eginez.</p>
+        <p lang="fi">Tämä julkaisu on ensimmäinen vakaa julkaisu 1.0-sarjassa. Uusi automaattinen videontoistovalinta lisättiin parantamaan käyttöä virtuaalikoneissa ja pieniresurssisissa koneissa. Myös iso määrä bugeja korjattiin, tehden tämän julkaisun sopivan kaikille käyttäjille.</p>
+        <p lang="fr">Cette version marque la première version stable de la série 1.0. Une nouvelle option de sortie vidéo automatique a été ajoutée afin d’améliorer l’utilisation sur les machines virtuelles et les périphériques de basse puissance. Un grand nombre de bogues a également été corrigé, rendant cette version adaptée à tous les utilisateurs.</p>
+        <p lang="gl">Esta versión marca a primeira versión estábel da serie 1.0. Engadiuse unha nova opción de saída automática de vídeo para mellorar o uso en máquinas virtuais e dispositivos de baixa potencia. Tamén foron resoltos unha grande cantidade de fallos, facendo que esta versión sexa axeitada para todos os usuarios.</p>
+        <p lang="he">גרסה זו מסמנת את הגרסה היציבה הראשונה של סדרה 1.0. אפשרות פלט וידאו אוטומטי חדשה נוספה על מנת לשפר צריכה במכונות וירטואליות והתקני הספק נמוך. מספר גדול של באגים תוקנו, כך שהגירסה הזו מתאימה לכל המשתמשים.</p>
+        <p lang="hr">Ova inačica predstavlja prvo stabilno izdanje 1.0 serije. Dodan je novi Automatski način izvođenja radi poboljšanja izvođenja na virtualnim mašinama i uređajima manje snage. Ispravljen je velik broj grešaka što ovu inačicu čini primjerenom za sve korisnike.</p>
+        <p lang="hu">Ez a kiadás az 1.0-s széria első stabil kiadása. Hozzáadásra került az új automatikus video-kimenet beállítás, hogy javítsa a virtuális gépeken, és a kis teljesítményű eszközökön történő használatot. Számos hiba is megoldásra került, így ez a kiadás megfelelő minden felhasználó számára.</p>
+        <p lang="hy_AM">Այս թողարկումը համարուում է առաջին կայուն թողարկումը 1.0 շարքից։ Նոր իտ տնքնաշխաեսագրութեան արտածման ընտրանքը աւելացուել է վերիրային մեքենաների եւ ցածր հոսանքի սարքերի աւգտագործումը բարելաւելու համար։ Մեծ քանակութեամբ խնդիրներ արդեն լուծուել են,  այս թողարկումը հարմար դարձնելով բոլոր աւգտատերերի համար։</p>
+        <p lang="hye">Այս թողարկումը համարուում է առաջին կայուն թողարկումը 1.0 շարքից։ Նոր իտ տնքնաշխաեսագրութեան արտածման ընտրանքը աւելացուել է վերիրային մեքենաների եւ ցածր հոսանքի սարքերի աւգտագործումը բարելաւելու համար։ Մեծ քանակութեամբ խնդիրներ արդեն լուծուել են,  այս թողարկումը հարմար դարձնելով բոլոր աւգտատերերի համար։</p>
+        <p lang="id">Rilis ini menandai rilis stabil pertama dari seri 1.0. Opsi keluaran video otomatis yang baru telah ditambahkan untuk meningkatkan penggunaan pada mesin virtual dan perangkat berdaya rendah. Sejumlah besar kutu juga telah diselesaikan, menjadikan rilis ini sesuai untuk semua pengguna.</p>
+        <p lang="is">Þessi útgáfa markar fyrstu stöðugu útgáfu 1.0 raðarinnar. Nýr valkostur fyrir sjálfvirkt myndmerkisúttak bættist við til að bæta notkunina í sýndarvélum og lágorkutækjum. Leyst var úr fjölda villna/galla, sem þá gerir þessa útgáfu nothæfa fyrir alla notendur.</p>
+        <p lang="it">Questo rilascio segna la prima versione stabile della serie 1.0. Un'opzione di uscita automatica video è stata aggiunta per migliorare l'utilizzo su macchine virtuali e su dispositivi con poca potenza. Un grande numero di bug sono stati risolti, perciò questa versione è adatta a tutti gli utenti.</p>
+        <p lang="ja">このリリースは 1.0 シリーズの最初の安定リリースです。 新しい自動ビデオ出力オプションが追加され、仮想マシンと低消費電力デバイスでの使用を強化しました。 多くのバグも修正され、すべてのユーザーに向けたリリースとなっています。</p>
+        <p lang="ko">이 출시판은 1.0 시리즈의 첫번째 안정판으로 등극했습니다. 새 자동 동영상 출력 옵션을 추가하여 저전력 장치와 가상 머신의 사용성을 개선했습니다. 수많은 버그를 해결하여 모든 사용자들이 출시판을 온전한 프로그램으로 사용할 수 있도록 했습니다.</p>
+        <p lang="lt">Ši laida pažymi pirmąją stabilią 1.0 serijos laidą. Naujas automatinės vaizdo išvesties parametras buvo pridėtas, kad būtų pagerintas naudojimas virtualiose mašinose ir mažos galios įrenginiuose. Buvo išspręsta daugybė klaidų, taip padarant šią laidą tinkamą visiems naudotojams.</p>
+        <p lang="ms">Keluaran ini menandakan keluaran stabil pertama bagi siri 1.0. Satu pilihan output video Automatik telah ditambah untuk menambahbaik penggunaan pada mesin maya dan peranti berprestasi rendah. Sebahagian besar pepijat juga telah diselesaikan, menjadikan keluaran ini lebih sesuai untuk semua pengguna.</p>
+        <p lang="nb">Denne utgaven er den første stabile utgaven i 1.0-serien. En ny innstilling for automatisk videoutdata øker ytelsen i virtuelle maskiner og ressursfattige enheter. Et stort antall feil er også fikset, og utgivelsen egner seg derfor for alle brukere.</p>
+        <p lang="nl">Deze editie is de eerste stabiele editie van de 1.0-reeks. Een nieuwe optie voor automatische video-uitvoer werd toegevoegd om het gebruik te verbeteren in virtuele machines en op zwakke apparatuur. Ook werd er een groot aantal fouten hersteld, wat deze editie geschikt maakt voor alle gebruikers.</p>
+        <p lang="pl">To wydanie jest pierwszą stabilną wersją serii 1.0. Dodano nową opcję automatycznego wyjścia wideo, aby poprawić działanie na maszynach wirtualnych i urządzeniach małej mocy. Naprawiono również wiele błędów, dzięki czemu to wydanie jest odpowiednie dla wszystkich użytkowników.</p>
+        <p lang="pt">Esta é a primeira edição estável da série 1.0. Foi adicionada uma nova opção de saída  automática de vídeo, para melhorar a utilização em máquinas virtuais e dispositivos pouco potentes. Foram também corrigidos um grande número de problemas, tornando esta edição adequada para todos os utilizadores.</p>
+        <p lang="pt_BR">Esta versão marca o primeiro lançamento estável da série 1.0. Uma nova opção de saída de vídeo automático foi adicionada para melhorar o uso em máquinas virtuais e dispositivos de baixa potência. Um grande número de erros também foram resolvidos, tornando esta versão adequada para todos os usuários.</p>
+        <p lang="ru">Это первый стабильный выпуск серии 1.0. Для улучшения использования в виртуальных машинах и на маломощных устройствах добавлена новая опция для автоматического видео вывода. Исправлено большое количество ошибок, что делает этот выпуск пригодным для всех пользователей.</p>
+        <p lang="sl">Ta izdaja je prva stabilna 1.0 različica. Dodana je opcija za samodejni video izhod, za boljšo izrabo slabših računalnikov in virtualnih naprav. Odpravljno je veliko število hroščev, zaradi česar je izdaja primerna za vse uproabnike.</p>
+        <p lang="sq">Kjo hedhje në qarkullim shënon të parën të qëndrueshme prej serisë 1.0. Është shtuar një mundësi e re automatike për videot në dalje për të përmirësuar përdorimin në makina virtuale dhe pajisje me pak fuqi. Janë zgjidhur edhe një numër i madh të metash, duke e bërë këtë hedhje në qarkullim të përshtatshme për krejt përdoruesit.</p>
+        <p lang="sr">Ово је прва стабилна верзија из серије 1.0. Нови аутоматски избор излаза је додат како би унапредио коришћење у виртуелним машинама и слабијим уређајима. Велики број грешака је исправљен, што чини ову верзију погодном за све кориснике.</p>
+        <p lang="sv">Den här versionen utgör den första stabila utgåvan av 1.0 serien. Ett nytt automatiskt videoutmatningsalternativ las till för att förbättra användning av virtuella maskiner på lågresursmaskiner. Ett stort antal fel rättades också till, vilket gör denna utgåva lämplig för alla användare.</p>
+        <p lang="th">รุ่นนี้เป็นรุ่นเสถียรรุ่นแรกของสายรุ่น 1.0 ได้เพิ่มตัวเลือกวีดิทัศน์ขาออกชนิดอัตโนมัติเพื่อให้ใช้งานได้ดีขึ้นบนเครื่องเสมือนและอุปกรณ์พลังต่ำ และยังมีการแก้บั๊กจำนวนมาก ทำให้รุ่นนี้เหมาะสมสำหรับการใช้งานโดยผู้ใช้ทุกกลุ่ม</p>
+        <p lang="tr">Bu sürüm 1.0 serisinin ilk kararlı sürümüdür. Sanal makinelerde ve düşük güçlü aygıtlarda kullanımını iyileştirmek için yeni Kendiliğinden video çıkışı seçeneği eklendi. Ayrıca, çok sayıda hata da giderildi ve bu sürüm tüm kullanıcılara uygun biçime geldi.</p>
+        <p lang="uk">Цей випуск позначений як перший стабільний випуск з 1.0 серії. Новий параметр Автоматичного відтворення відео додана, щоб покращити використання на віртуальних машинах і малопотужних пристроїв. Дуже багато вад було виправлено, завдяки чому цей випуск став зручним для всіх користувачів.</p>
+        <p lang="zh_CN">此版本标志着 1.0 系列的第一个稳定版本。新增了自动视频输出选项，以提高虚拟机和低功耗设备的使用率。大量的缺陷也得到了解决，使得这个版本适合所有用户。</p>
+        <p lang="zh_TW">此版本標記了 1.0 系列的第一個穩定版本。加入了新的自動視訊輸出選項以改善在虛擬機器與低功率的機器上的表現。修復了大量的臭蟲，讓此版本適合所有使用者使用。</p>
+      </description>
+    </release>
+    <release version="0.9.2" date="2017-06-03">
+      <description>
+        <p>This development release is a large cleanup of the codebase, making Parole lighter and easier to improve. All URLs have been updated to HTTPS. A large number of bugs have been resolved and a new keyboard shortcuts helper has been introduced.</p>
+        <p lang="be">У гэтым выпуску для распрацоўнікаў ачышчана кодавая база, што зрабіла Parole больш лёгкім і прыдатным для паляпшэння. Ад гэтай пары ўсе спасылкі выкарыстоўваюць HTTPS. Выпраўлена вялікая колькасць памылак, дададзены новы дапаможнік па спалучэнням клавіш.</p>
+        <p lang="bg">В тази версия в процес на разработка е направено значително почистване на основния код, което прави Parole по- лек и лесен за разработка. Всички URL адреси са актуализирани до HTTPS. Премахнати са голям брой грешки и е въведен нов помощник за ползване на клавишните комбинации.</p>
+        <p lang="ca">Aquesta versió de desenvolupament és una neteja gran de la base del codi, fent Parole més lleuger i més fàcil de millorar. Tots els URL s'han actualitzat a HTTPS. Un gran nombre d'errors han estat resolts i s'ha introduït un nou ajudant de dreceres de teclat.</p>
+        <p lang="cs">V tomto vývojovém vydání byla rozsáhle vyčištěna kódová základna, což usnadnilo zrychlení a zjednodušení Parole. Všechny adresy URL byly aktualizovány na HTTPS. Bylo vyřešeno velké množství chyb a byl představen nový dialog pro klávesové zkratky.</p>
+        <p lang="da">Denne udviklingsudgivelse er en stor oprydning af kodebasen, der gør Parole lettere og nemmere at forbedre. Alle URL'er er blevet opdateret til HTTPS. Et stort antal fejl er blevet løst og en ny genvejshjælper til tastaturlayout er blevet introduceret.</p>
+        <p lang="de">Diese Entwicklungsveröffentlichung ist eine große Bereinigung der Codebasis, was Parole leichter und einfacher zu verbessern macht. Alle URLs wurden zu HTTPS aktualisiert. Eine große Zahl an Fehlern wurden behoben und ein neuer Helfer für Tastaturkürzel eingeführt.</p>
+        <p lang="en_AU">This development release is a large cleanup of the codebase, making Parole lighter and easier to improve. All URLs have been updated to HTTPS. A large number of bugs have been resolved and a new keyboard shortcuts helper has been introduced.</p>
+        <p lang="en_GB">This development release is a large cleanup of the codebase, making Parole lighter and easier to improve. All URLs have been updated to HTTPS. A large number of bugs have been resolved and a new keyboard shortcuts helper has been introduced.</p>
+        <p lang="es">Este lanzamiento de desarrollo es una limpieza grande del código base, haciendo a Parole más ligero y más fácil de mejorar. Todas las direcciones URL se han actualizado a HTTPS. Se ha resuelto un gran número de errores y se ha introducido un nuevo ayudante de atajos de teclado.</p>
+        <p lang="eu">Garapeneko argitalpen honek kode basearen garbiketa handia egiten du, Parole arinagoa eta hobetzeko errazagoa bihurtuz. URL guztiak HTTPSra eguneratu dira. Arazo asko konpondu dira eta teklatuko lasterbideen laguntzaile bat sartu da.</p>
+        <p lang="fi">Tämä kehitysversio on puhdistaa koodia laajalti, tehden Parolesta kevyemmän ja helpomman parannella. Kaikki verkko-osoitteet on päivitetty käyttämään HTTPS-protokollaa. Iso määrä bugeja on korjattu ja uusi työkalu pikanäppäinten muokkaamiseen on lisätty.</p>
+        <p lang="fr">Cette version de développement représente un grand nettoyage du code de base, rendant Parole plus léger et plus facile à améliorer. Tous les URL ont été mis à jour vers HTTPS. Un grand nombre de bogues a été corrigé et un nouvel assistant des raccourcis clavier a été introduit.</p>
+        <p lang="gl">Esta versión de desenvolvemento contén unha grande limpeza da base de código, facendo que o Parole sexa máis lixeiro e máis fácil de mellorar. Todos os URLs foron actualizados a HTTPS. Foron resoltos unha chea de fallos e introduciuse un novo asistente de atallos de teclado.</p>
+        <p lang="he">גרסת פיתוח זו הינה ניקוי גדול של בסיס הקוד, ההופך את Parole לקלה יותר וניתנת לשיפור באופן קל יותר. כל כתובות ה-URL עודכנו ל-HTTPS. תוקן מספר גדול של באגים והוכנס עוזר חדש לקיצורי מקלדת.</p>
+        <p lang="hr">Ova razvojna verzija obuhvaća veliko čišćenje koda što Parole čini generalno lakšim tako i lakšim za održavnje i poboljšavanje. Svi URL-ovi zamijenjeni su sigurnijim HTTPS verzijama. Otklonjen je veliki broj pogrešaka te je uveden novi pomoćnik za kratice tipkovnice.</p>
+        <p lang="hu">Ez a fejlesztői kiadás a kódbázis nagy tisztítása, amely a Parole-t könnyebbé és jobban fejleszthetővé teszi. Minden URL HTTPS-re lett frissítve. Nagy számú hiba került javításra, és bevezetésre került egy gyorsbillentyű segéd is.</p>
+        <p lang="hy_AM">Այս մշակուած թողարկումը այլագրի շտեմարանի լայն յարդարանքն է , որը սարքում է Parole֊ն աւելի պայծառ եւ հեշտ բարելաւելի։ Բոլոր URL֊ները թարմեցուած էին HTTPS֊ի։ Մեծաքանակ սխալներ են շտկուել եւ ներկայացուել է նոր ստեղնաշարի դիւրացման աւգնականը։</p>
+        <p lang="hye">Այս մշակուած թողարկումը այլագրի շտեմարանի լայն յարդարանքն է , որը սարքում է Parole֊ն աւելի պայծառ եւ հեշտ բարելաւելի։ Բոլոր URL֊ները թարմեցուած էին HTTPS֊ի։ Մեծաքանակ սխալներ են շտկուել եւ ներկայացուել է նոր ստեղնաշարի դիւրացման աւգնականը։</p>
+        <p lang="id">Rilis pengembangan ini merupakan pembersihan besar basis kode, membuat Parole lebih ringan dan lebih mudah diperbaiki. Semua URL telah diperbarui ke HTTPS. Sejumlah besar kutu telah teratasi dan penunjang pintasan papan tik baru telah diperkenalkan.</p>
+        <p lang="is">Þessi þróunarútgáfa er afurð stórhreinsunar á kóðagrunninum, sem gerir Parole léttara í keyrslu og einfaldari fyrir betrumbætur. Allar slóðir hafa verið uppfærðar í HTTPS. Leystir hafa verið fjölmargir gallar og nú er komið hjálparforrit til stuðnings flýtiunum á lyklaborði.</p>
+        <p lang="it">Questa versione di sviluppo porta una notevole pulizia del codice, facendo diventare Parole più leggero e facile da migliorare. Tutti gli URL sono stati aggiornati ad HTTPS e molti bug sono stati risolti. Sono state introdotte nuove scorciatoie da tastiera.</p>
+        <p lang="ja">この開発版リリースは、コードベースの大規模なクリーンアップを行っており、Parole は軽量化され、より改善されました。すべての URL が HTTPSに更新されました。多数のバグが修正され、新しいキーボードショートカットヘルパーが導入されました。</p>
+        <p lang="ko">이번 업데이트 버전은 코드를 대폭 정리해서, 빠롤을 좀 더 가볍고 쉽게 발전시킬 수 있었습니다. 모든 URL들은 HTTPS로 업데이트되었습니다.
+아주 많은 양의 버그를 고쳤고 새로운 키보드 바로가기 도우미를 추가했습니다.</p>
+        <p lang="lt">Ši kūrimo laida yra didelis kodo išvalymas, padarantis Parole labiau supaprastintą ir lengviau tobulinamą. Visi URL buvo atnaujinti į HTTPS. Buvo išspręstas didelis kiekis klaidų ir buvo pristatytas naujas klaviatūros susiejimų pagelbiklis.</p>
+        <p lang="ms">Keluaran pembangunan ini melibatkan pembersihan besar-besaran tapak kod, menjadikan Parole lebih ringan dan lebih mudah ditambahbaik. Semua URL telah dikemaskini dengan HTTPS. Sebahagian besar pepijat telah dileraikan dan satu pembantu pintasan papan kekunci baharu telah diperkenalkan.</p>
+        <p lang="nb">Denne utviklingsutgaven er en stor opprydding i kodebasen, noe som gjør Parole lettere, og enklere å forbedre. Alle nettadresser har blitt oppdatert til HTTPS. Et stort antall feil har blitt rettet opp i og en ny tastatursnarveishjelper har kommet til.</p>
+        <p lang="nl">Deze ontwikkelingsuitgave is een grote schoonmaak van de codebasis, die Parole lichter maakt en makkelijker te verbeteren. Alle webadressen zijn bijgewerkt naar HTTPS. Een groot aantal fouten is opgelost en een nieuwe hulp voor sneltoetsen is toegevoegd.</p>
+        <p lang="pl">Wydanie to jest dużym wyczyszczeniem bazy kodu, co uczyniło Parole lżejszym i łatwiejszym w ulepszaniu. Wszystkie adresy URL zostały zaktualizowane do HTTPS. Duża liczba błędów została naprawiona, a nowy pomocnik skrótów klawiszowych został wprowadzony.</p>
+        <p lang="pt">Esta versão de desenvolvimento é uma grande limpeza de código, fazendo do Parole mais leve e fácil de melhorar, Todos os URLs foram atualizados para HTTPS. Um grande número de problemas foram corrigidos e um novo assistente de teclas de atalho introduzido.</p>
+        <p lang="pt_BR">Esta versão de desenvolvimento é uma grande limpeza da base de código, tornando o Parole mais leve e fácil de melhorar. Todas as URLs foram atualizadas para HTTPS. Um grande número de erros foram corrigidos e foi introduzido um novo guia de atalhos de teclado.</p>
+        <p lang="ru">Этот неофициальный выпуск значительно очищает кодовую базу, делая Parole легче и более простым для усовершенствования. Все ссылки теперь используют HTTPS. Исправлено большое количество ошибок, добавлен новый помощник сочетаний клавиш.</p>
+        <p lang="sl">Ta razvojna izdaja je doživela očiščenje kode, kar ima za posledico, da je program manjši in lažji za posodobaljanje. Posodobljeni so bili vsi URLji na HTTPS. Odpravljeni so bili številni hrošči, vpeljan pa je bil nov pomočnik za rabo tipkovnice.</p>
+        <p lang="sq">Kjo hedhje në qarkullim zhvillim përfaqëson një pastrim të madh të bazës së kodit, duke e bërë Parole-in më të lehtë dhe përmirësimin e tij më të kollajtë. Krejt URL-të janë përditësuar si HTTPS. Një numër i madh të metash janë zgjidhur dhe janë sjellë për herë të parë shkurtore të reja tastiere.</p>
+        <p lang="sr">Ово развојно издање је големо чишћење складишта кôда, што чини Часноречца лакшим и лакшим за побољшавања. Све адресе су преправљене у ХТТПС. Велики број грешака је исправљен и нови помоћник пречица је представљен.</p>
+        <p lang="sv">Denna utvecklingsversion är en stor upprensning av kodbasen, som gör Parole resurssnålare och lättare att förbättra. Alla URLs har uppdaterats till HTTPS. Ett stort antal fel har rättats till och en ny tangentbordsgenvägshjälp har införts.</p>
+        <p lang="th">รุ่นพัฒนารุ่นนี้เป็นการทำความสะอาดโค้ดขนานใหญ่ ทำให้ Parole เบาลงและง่ายต่อการปรับปรุงยิ่งขึ้น ได้ปรับ URL ทั้งหมดให้เป็น HTTPS มีการแก้บั๊กจำนวนมาก และเพิ่มเครื่องมือช่วยกำหนดปุ่มลัดแป้นพิมพ์</p>
+        <p lang="tr">Bu geliştirme sürümü, Parole'yi hafifletmek ve geliştirmeyi daha kolay hale getirmek için kod tabanının geniş bir temizlenmesidir. Tüm adresler HTTPS olarak güncellendi. Çok sayıda hata giderildi ve yeni klavye kısayolları atandı.</p>
+        <p lang="uk">Цей розробницький випуск є великим очищенням коду, який робить Parole легшим і простішим в користуванні. Всі URL оновлені на HTTPS. Велика кількість вад було виправлено і додано нові швидкі клавіатурні скорочення.</p>
+        <p lang="zh_CN">该开发版本的主要目的是大幅度清理代码以便为 Parole 减重并方便后续开发。所有 URL 都已更新为 HTTPS。该版本还修复了大量问题并引入了一个新的键盘快捷键助手。</p>
+        <p lang="zh_TW">這個開發版本是程式碼庫的大清理版本，讓 Parole 更輕量且更容易改進。所有 URL 都已更新為 HTTPS。並修復了大量臭蟲及引入了新的鍵盤快捷鍵。</p>
+      </description>
+    </release>
+    <release date="2017-02-26" version="0.9.1">
+      <description>
+        <p>This development release fixes several bugs, typos, and historical details present in the documentation. Tags are now processed on files delivered over HTTP/S. The clutter video backend is disabled for GTK+ 3.22 and newer due to significant API changes.</p>
+        <p lang="be">У гэтым выпуску для распрацоўнікаў выпраўлена некалькі памылак, адбіткі і некаторыя дэталі ў дакументацыі. Ад гэтай пары пазнакі апрацоўваюцца ў файлах, перададзеных паHTTP/S. Сlutter для GTK+ 3.22 і больш новых версій выключаны з прычыны маштабных змен у API.</p>
+        <p lang="bg">Това издание в процес на разработка, фиксира няколко грешки, правописни грешки, както и исторически данни, налични в документацията.  Таговете, сега се обработват на файлове, доставени през HTTP/S. Clutter видео бекенд - а е изключен за версии на GTK 3.22 и по- нови, поради значителни промени в API.</p>
+        <p lang="ca">Aquesta versió de desenvolupament corregeix diversos errors, errors tipogràfics, i detalls històrics presents en la documentació. Les etiquetes ara es processen als fitxers lliurats a través d'HTTP/S. El dorsal de vídeo clutter està inhabilitat per a GTK+ 3.22 i posteriors a causa dels canvis significatius de l'API.</p>
+        <p lang="cs">Toto vývojářské vydání opravuje několik vážných chyb, překlepů a historických detailů v dokumentaci. Nyní se zpracovávají tagy na souborech přenášených protokolem HTTP/S. Clutter backend pro video je v sadě nástrojů GTK+ 3.22 a novější zakázaný kvůli značným změnám v rozhraní API.</p>
+        <p lang="da">Denne udviklingsudgivelse retter adskillige fejl, stavefejl og historiske detaljer som er tilstede i dokumentationen. Tags behandles nu på filer leveret over HTTP/S. Clutter-video-backend'en er deaktiveret til GTK+ 3.22 og nyere, på grund af betydelige API-ændringer.</p>
+        <p lang="de">Diese Entwicklungsveröffentlichung behebt einige Fehler, Tippfehler und historische Details in der Dokumentation. Schlagwörter werden nun in über HTTP/S ausgelieferten Dateien verarbeitet. Das Clutter Videobackend ist nun auf Grund von signifikanten Änderungen an der API für GTK+ 3.22 und neuer deaktiviert.</p>
+        <p lang="en_AU">This development release fixes several bugs, typos, and historical details present in the documentation. Tags are now processed on files delivered over HTTP/S. The clutter video backend is disabled for GTK+ 3.22 and newer due to significant API changes.</p>
+        <p lang="en_GB">This development release fixes several bugs, typos, and historical details present in the documentation. Tags are now processed on files delivered over HTTP/S. The clutter video backend is disabled for GTK+ 3.22 and newer due to significant API changes.</p>
+        <p lang="es">Esta versión de desarrollo corrige varios fallos, errores tipográficos y detalles históricos presentes en la documentación. Las etiquetas se tramitan mediante archivos enviados usando HTTP/S. Se ha desactivado el motor de video «clutter» a partir de GTK 3.22 en adelante debido a cambios significativos en la API</p>
+        <p lang="et">Selles arendusjärgus oleme parandanud mitmeid koodi- ja vormistusvigu ning täiendanud ajalooga seotud teavet dokumentatsioonis. Http/https vahendusel laetud failidest loeme nüüd silte. Märgatavate API muudatuste tõttu oleme lülitanud clutter taustateenuse GTK+ 3.22 ja  uuemate versioonide puhul.</p>
+        <p lang="eu">Garapeneko argitalpen honek zenbait arazo, ortografia akats eta dokumentazioko gauza historiko konpontzen ditu. HTTP/S bidez emandako fitxategietan orain etiketak prozesatzen dira. Bideoaren backend-aren nahaspila ezgaitu da GTK+ 3.22 eta berrietarako APIaren aldaketa esanguratsuak direla eta.</p>
+        <p lang="fi">Tämä kehitysversio korjaa useita bugeja, kirjoitusvirheitä ja dokumentaatiosta löytyviä historiallisia yksityiskohtia. Tagit prosessoidaan nyt HTTP/S-protokollan yli lähetettävillä tiedostoilla. Clutter video -taustapalvelu on kytketty pois päältä GTK+:n versioille 3.22 ja uudemmat merkittävien rajapinnan muutosten takia.</p>
+        <p lang="fr">Cette version de développement corrige plusieurs bogues, des fautes de frappe, ainsi que des détails historiques présents dans la documentation. Les balises sont désormais traitées pour les fichiers distribués via HTTP/S. Le moteur vidéo clutter est désactivé pour GTK+ 3.22 et ultérieur en raison de changements d’API significatifs.</p>
+        <p lang="gl">Esta versión de desenvolvemento resolve varios fallos, erros de escritura e detalles históricos presentes na documentación. Agora as etiquetas procésanse nos ficheiros entregados a través de HTTP/S. A infraestrutura de vídeo en segundo plano está desactivado para GTK+ 3.22 e máis novo debido a cambios importantes na API.</p>
+        <p lang="he">גרסת פיתוח זו מתקנת מספר באגים, שגיאות כתיב, ופרטים היסטוריים הקיימים בתיעוד. תגים מעובדים כעת על קבצים שנמסרו דרך HTTP/S. המגשר העורפי של וידאו אי סדר מנוטרל עבור GTK+ 3.22 וחדשים יותר עקב שינויים מהותיים ב-API. </p>
+        <p lang="hr">Ova razvojna verzija donosi popravke za nekoliko bagova, pogrešaka i povijesnih detalja prisutnih u dokumentaciji. Oznaka se sada procesuiraju i za datoteke dohvaćene preko HTTP/S-a. Pozadinski video program Clutter je onemogućen za GTK+ 3.22 i novije zbog znatnih izmjena u API-ju. </p>
+        <p lang="hu">Ez a fejlesztői kiadás számos hibát és elírást javít, valamint néhány történeti részletet a dokumentációban. A HTTP/S kapcsolaton keresztül feldolgozott fájlok címkéi is feldolgozásra kerülnek. A Clutter video-háttérrendszer letiltásra került GTK+ 3.22 és újabb esetén, a jelentős API változások miatt.</p>
+        <p lang="hy_AM">Այս մշակուած թողարկումը շտկել է որոշ սխալներ, տառասխալներ եւ պատմութեան մանրամասները կան փասթաթղթում։ Պիտակները հիմա մշակուել են HTTP/S ֊ի առաքած նիշերում։ Նուազ առաջնահերթ տեսագրութիւնների ներքինը անջատուած է GTK+ 3.22 ֊ի համար եւ նորութեան շնորհիւ  նշանակալցնում է API փոփոխութիւնները։</p>
+        <p lang="hye">Այս մշակուած թողարկումը շտկել է որոշ սխալներ, տառասխալներ եւ պատմութեան մանրամասները կան փասթաթղթում։ Պիտակները հիմա մշակուել են HTTP/S ֊ի առաքած նիշերում։ Նուազ առաջնահերթ տեսագրութիւնների ներքինը անջատուած է GTK+ 3.22 ֊ի համար եւ նորութեան շնորհիւ  նշանակալցնում է API փոփոխութիւնները։</p>
+        <p lang="id">Rilis pengembangan ini memperbaiki beberapa kutu, kesalahan ketik, dan rincian historis yang ada dalam dokumentasi. Tag sekarang diproses pada berkas yang dikirim melalui HTTP/S. Video backend clutter dinonaktifkan untuk GTK+ 3.22 dan yang lebih baru karena perubahan API yang signifikan.</p>
+        <p lang="is">Þessi þróunarútgáfa leysir marga galla, stafsetningarvillur og úrelt fyrirbæri í hjálparskjölum. Merkingar eru núna unnar á skrám sem tengst er við yfir HTTP/S. Clutter-myndmerkisbakendinn er óvirkur í GTK+ 3.22 og nýrri útgáfum vegna umtalsverðra breytinga á API-forritunarviðmóti.</p>
+        <p lang="it">Questa versione di sviluppo risolve numerosi bug, errori di battitura e dettagli storici presenti nella documentazione. I tag vengono ora elaborati anche per i file trasmessi via HTTP/S. Il backend video clutter è disabilitato per GTK+ 3.22 e successive a causa di modifiche significative alle API.</p>
+        <p lang="ja">この開発版リリースでは、ドキュメントにあるいくつかのバグ、タイプミス、詳細履歴が修正されています。 タグは HTTP/S 経由で配信されるファイルで処理されるようになりました。clutter ビデオのバックエンドは大幅な API の変更により、GTK+ 3.22 以降で無効になります。</p>
+        <p lang="ko">이 개발 버전에서는 문서에 있는 여러 가지 버그, 오타 및 기록 세부 사항을 수정합니다. 태그는 이제 HTTP/S를 통해 제공되는 파일에서 처리됩니다. 중요한 API 변경으로 인해 GTK+ 3.22 버전에서는 혼란스러운 비디오 백엔드가 비활성화됩니다.</p>
+        <p lang="lt">Ši kūrimo laida pataiso kelias programos bei rašybos klaidas ir dokumentacijoje esančią istorinę informaciją. Dabar, žymės yra apdorojamos per HTTP/S pristatomiems failams. Dėl reikšmingų API pakeitimų, clutter vaizdo vidinė pusė, skirta GTK+ 3.22 ir naujesnėms versijoms, yra išjungta.</p>
+        <p lang="ms">Keluaran pembangunan ini mengeluarkan beberapa pembaikan pepijat, salah taip, dan perincian bersejarah yang ada di dalam dokumentasi. Tag kini diproses pada fail yang dihantar menerusi HTTP/S. Bahagian belakang video yang berselerak telah dilumpuhkan bagi GTK+ 3.22 dan yang lebih baharu atas sebab perubahan API yang signifikan.</p>
+        <p lang="nb">Denne utviklingsutgaven fikser flere feil, skrivefeil, og historiske detaljer i dokumentasjonen. Merkelapper blir nå behandlet på filer levert over HTTP/S. Clutter-videobakenden er avskrudd for GTK+ 3.22 og nyere på grunn av store API-endringer.</p>
+        <p lang="nl">Deze ontwikkelversie herstelt verschillende (tik)fouten en historische bijzonderheden in de documentatie. Etiketten worden thans verwerkt op bestanden die worden aangeleverd via HTTP/S. De video-achtergronddienst clutter is uitgeschakeld voor GTK+ 3.22 en nieuwer, wegens belangrijke API-veranderingen.</p>
+        <p lang="pl">To wydanie rozwojowe eliminuje niektóre błędy, literówki i uaktualnia detale w dokumentacji. Tagi są przetwarzane dla plików dostarczanych przez HTTP/S. Backend filmów clutter jest wyłączony dla GTK+ 3.22 i nowszych ze względu na zmiany w API.</p>
+        <p lang="pt">Esta versão de desenvolvimento corrige vários problemas, erros ortográficos e detalhes históricos presentes na documentação. As etiquetas são agora processadas nos ficheiros transmitidos por HTTP/S. O processamento de vídeo está desativado para GTK+ 3.22 e posterior devido a mudanças na API.</p>
+        <p lang="pt_BR">Esta versão de desenvolvimento corrige vários erros, erros de digitação, e detalhes históricos presentes na documentação. Tags agora são processadas em arquivos entregues via HTTP/S. O backend de vídeo clutter foi desabilitado para GTK+ 3.22 e mais recente devido a mudanças significativas na API.</p>
+        <p lang="ru">Этот неофициальный выпуск исправляет несколько ошибок, опечаток и исторических деталей в документации. Теперь тэги обрабатываются в файлах, переданных по HTTP/S. Видео бэкенд clutter отключен для GTK+ 3.22 и более новых версий из-за существенных изменений API.</p>
+        <p lang="sl">V teh dlovni izdaji so odpravljeni številni hrošči, tipkarske napake in podrobnosti v dokumentaciji. Oznake so na novo obdelane na datotekah, ki so dostavljene preko HTTP/S. Clutter podpora za GTK+3.22 in novejše je odpravljena zaradi sprememb v API.</p>
+        <p lang="sq">Kjo hedhje në qarkullim zhvillim ndreq disa të meta, gabime shkrimi, dhe hollësi historike të pranishme në dokumentim. Tashmë përpunohen etiketa në kartela të dërguara përmes HTTP/S. Mekanizmi <em>clutter video</em> është çaktivizuar për GTK+ 3.22 dhe versione më të rinj, për shkak ndryshime thelbësore të API-t.</p>
+        <p lang="sr">Ово развојно издање исправља неколико бубица, грешака писма, и превазиђених појединости у документацији. Ознаке се сада обрађују у датотекама отпремљеним преко ХТТП/С. Класни позадинац приказа је онемогућен за ГТК+ 3.22 и новије због измена АПИ-а.</p>
+        <p lang="sv">Denna utvecklingsversion rättar åtskilliga fel, stavfel, och historiska detaljer i dokumentationen. Flikar hanteras nu på filer levererade över HTTP/S. Videobakänden clutter är avaktiverad för GTK+ 3.22 och nyare på grund av betydande API-förändringar.</p>
+        <p lang="th">รุ่นพัฒนารุ่นนี้มีการแก้บั๊ก คำสะกดผิด และรายละเอียดต่างๆ ที่ล้าสมัยที่ปรากฏในเอกสารหลายรายการ ในรุ่นนี้มีการประมวลผลแท็กต่างๆ ในแฟ้มที่รับมาทาง HTTP/S แล้ว และจะปิดใช้งานแบกเอนด์วีดิทัศน์แบบ clutter สำหรับ GTK+ 3.22 ขึ้นไป เนื่องจากมีการเปลี่ยนแปลง API อย่างมีนัยสำคัญ</p>
+        <p lang="tr">Bu geliştirme sürümü belgelerde bulunan türlü hataları, yazım hatalarını ve tarihi ayrıntıları düzeltir. Etiketler artık HTTP/S üzerinden iletilen dosyalar üzerinde işleniyor. Dağınık video arka uç, önemli API değişiklikleri nedeniyle GTK+ 3.22 ve daha yeni sürümler için devre dışı bırakılmıştır.</p>
+        <p lang="uk">Цей розробницький випуск містить виправлення кількох вад, описок і історичних деталей в документації. Теги тепер обробляються на файлах, що переносяться через HTTP/S. У зв'язку зі змінами в API виключено бекенд clutter video для GTK+ 3.22 і новіших.</p>
+        <p lang="zh_CN">此开发版本修复了许多错误，错字和历史详细信息。 现在，通过 HTTP/S 传递的文件也能处理标签了。 由于 API 变动过大，GTK + 3.22 和更新版本的 clutter 视频后端被禁用。</p>
+        <p lang="zh_TW">這個開發版本修復了許多臭蟲、錯字與在文件中的歷史詳細資訊。透過 HTTP/S 遞送的檔案現在也會處理標籤了。而 GTK+ 3.22 以及更新版本的 clutter 視訊後端已被停用，因為其 API 變動太大了。</p>
+      </description>
+    </release>
+    <release date="2017-02-11" version="0.9.0">
+      <description>
+        <p>This development release adds a new mini mode and the ability to play or replay content by clicking the circle icons. Theming is simplified and filenames are displayed when no ID3 tags are found.</p>
+        <p lang="be">У гэтым выпуску для распрацоўнікаў дададзены новы мініяцюрны рэжым і магчымасць запуску прайгравання альбо паўтору пстрычкаю па круглых значках. Тэмы спрошчаныя, адлюстроўваюцца назвы файлаў, калі не знойдзена пазнак ID3.</p>
+        <p lang="bg">Това издание в процес на разработка е с добавен нов Мини режим и възможност за възпроизвеждане на съдържание с кликване върху иконите в кръга. Изгледът е опростен и имената на файловете се показват, когато не са намерени ID3 тагове.</p>
+        <p lang="ca">Aquesta versió de desenvolupament afegeix un nou mode reduït i la capacitat de reproduir o tornar a reproduir el contingut en fer clic a les icones circulars. La tematització se simplifica i els noms de fitxer es visualitzen quan no es troben les etiquetes ID3.</p>
+        <p lang="cs">Toto vývojářské vydání přidává nový zmenšený režim a schopnost přehrávat obsah kliknutím na kulaté ikony. Použití motivů je zjednodušeno a pokud nejsou nalezeny tagy ID3, zobrazí se názvy souborů.</p>
+        <p lang="da">Denne udviklingsudgivelse tilføjet en ny minitilstand og mulighed for at afspille og genafspille indhold ved at klikke på cirkelikonet. Temaer er gjort enkelt og filnavne vises når der ikke findes nogen ID3-tags.</p>
+        <p lang="de">Diese Entwicklungsveröffentlichung bringt einen neuen Mini-Modus mit, sowie die Fähigkeit Inhalte durch Klick auf die Kreissymbole (erneut) abzuspielen. Theming wurde vereinfacht und Dateinamen werden angezeigt, falls keine ID3 Tags gefunden wurden.</p>
+        <p lang="en_AU">This development release adds a new mini mode and the ability to play or replay content by clicking the circle icons. Theming is simplified and filenames are displayed when no ID3 tags are found.</p>
+        <p lang="en_GB">This development release adds a new mini mode and the ability to play or replay content by clicking the circle icons. Theming is simplified and filenames are displayed when no ID3 tags are found.</p>
+        <p lang="es">Esta versión de desarrollo agrega un nuevo modo mini y la capacidad de reproducir o volver a reproducir el contenido haciendo clic en los iconos de círculo. La personalización por temas se simplifica y los nombres de archivo se muestran cuando no se encuentran etiquetas ID3.</p>
+        <p lang="et">Selles arendusjärgus oleme lisanud pisivaate ning võimaluse alustada esitamist või peatada seda klõpside ringikujulistele ikoonidele. Teemade kasutamine on nüüd lihtsam ning meediafaili ID3 siltide puudumisel kuvame faili nime.</p>
+        <p lang="eu">Garapenerako argitalpen honek mini modu berri bat eta ikono biribiletan sakatuz edukia erreproduzitzeko edo berriz erreproduzitzeko ahalmena gehitzen ditu. Gaiak aldatzea erraztu egin da eta ID3 etiketarik aurkitzen ez denean fitxategien izenak erakusten dira.</p>
+        <p lang="fi">Tämä kehitysversio lisää uuden pienoiskokoisen tilan ja mahdollisuuden toistaa (uudelleen) sisältöä ympyrän muotoisia kuvakkeita napsauttamalla. Teemoitus on yksinkertaistettu ja tiedostonimet näytetään kun ID3-tageja ei löydy.</p>
+        <p lang="fr">Cette version intègre un nouveau mode mini et la possibilité de lire ou relire un contenu en cliquant sur l’icône en forme de flèche circulaire. L’ajout de thèmes a été simplifié et en cas d’absence d’étiquette ID3, le nom du fichier est affiché.</p>
+        <p lang="gl">Esta versión de desenvolvemento engade un novo modo mini e a capacidade de reproducir ou volver reproducir contido facendo clic nas iconas de círculo. Os temas foron simplificados e cando non se atopan etiquetas ID3 amósanse os nomes dos ficheiros.</p>
+        <p lang="he">גרסת פיתוח זו מוסיפה מצב מיני חדש ואת היכולת לנגן או לנגן בהילוך חוזר תוכן בעזרת קליק באיקוני המעגל. ביצוע ערכת נושא הפך פשוט יותר ושמות קבצים מוצגים כאשר תגי ID3 לא נמצאים.</p>
+        <p lang="hr">Ova razvojna verzija dodaje novi mini način rada te mogućnost izvođenja ili ponavljanja sadržaja klikom na kružnu ikonu. Pojednostavljeno je temiranje te se prikazuju imena datoteka kada nisu nađene ID3 oznake.</p>
+        <p lang="hu">A fejlesztői kiadás egy új mini módot ad hozzá, és lehetőséget biztosít a kör alakú ikonokkal a tartalom lejátszására, és újrajátszására. A témázás egyszerűsödött, és a fájlnevek jelennek meg, ha nem találhatóak ID3 címkék.</p>
+        <p lang="hy_AM">Այս մշակուած թողարկումը աւելացնում է նոր փոքր աշխատակերպ եւ հնարաւորութիւն է տալիս նուագարկել եւ վերանուագարկել պարունակութիւնը սեղմելով կլոր պատկերակներին։ Տարանջատումը պարզեցուած է, նշանունները ցուցադրուում են երբ ID3 պատկերակները գտնուած չեն։</p>
+        <p lang="hye">Այս մշակուած թողարկումը աւելացնում է նոր փոքր աշխատակերպ եւ հնարաւորութիւն է տալիս նուագարկել եւ վերանուագարկել պարունակութիւնը սեղմելով կլոր պատկերակներին։ Տարանջատումը պարզեցուած է, նշանունները ցուցադրուում են երբ ID3 պատկերակները գտնուած չեն։</p>
+        <p lang="id">Rilis pengembangan ini menambahkan mode mini baru dan kemampuan untuk memutar atau memutar ulang konten dengan mengklik ikon lingkaran. Tema disederhanakan dan nama berkas ditampilkan bila tidak ada tag ID3 yang ditemukan.</p>
+        <p lang="is">Þessi þróunarútgáfa bætir við smækkuðum ham og eiginleika til að spila efni met því að smella á hringtáknin. Þemu eru einfölduð og skráaheiti eru birt ef engin ID3-merki finnast.</p>
+        <p lang="it">Questa versione di sviluppo introduce la nuova modalità mini e la possibilità di riprodurre contenuti cliccando sulle icone circolari. I temi sono stati semplificati e vengono mostrati i nomi dei file quando non sono presenti tag ID3.</p>
+        <p lang="ja">この開発版リリースでは、新しいミニモードとサークルアイコンをクリックしてコンテンツを再生とリプレイする機能が追加されました。ID3 タグが見つからない場合は、テーマは簡略化され、ファイル名が表示されます。</p>
+        <p lang="ko">이 개발 버전에는 새로운 미니 모드와 동그란 아이콘을 클릭하여 콘텐츠를 재생하거나 다시 보는 기능이 추가되었습니다. 테마 적용은 단순화되었고 ID3 태그가 발견되지 않으면 파일 이름이 표시됩니다.</p>
+        <p lang="lt">Ši kūrimo laida prideda naują minimalią veikseną ir galimybę atkurti ar iš naujo atkurti turinį, spustelėjant apskritimo piktogramas. Apipavidalinimas yra supaprastintas, o kuomet nerandama ID3 žymių, yra rodomi failų pavadinimai.</p>
+        <p lang="ms">Keluaran pembangunan ini menambah satu mod mini baharu dan keupayaan memainkan atau memainkan semula kandungan dengan mengklik ikon bulatan. Penemaan adalah ringkas dan nama fail dipaparkan bila tiada tag ID3 ditemui.</p>
+        <p lang="nb">Denne utviklingsutgaven bringer med seg et nytt mini-modus, og muligheten til å spille eller gjenta innhold ved å klikke på sirkel-ikonene. Draktvalg er forenklet og filnavn blir vist når ingen ID3-merkelapper finnes.</p>
+        <p lang="nl">Deze ontwikkelversie voegt een nieuwe minimodus toe en de mogelijkheid om inhoud af te spelen of te herhalen door de cirkelpictogrammen aan te klikken. Thematisering is vereenvoudigd en er worden bestandnamen getoond wanneer er geen ID3-etiketten worden aangetroffen.</p>
+        <p lang="pl">To wydanie rozwojowe dodaje tryb miniaturowy i możliwość odtwarzania lub ponownego odtwarzania zawartości przez kliknięcie okrągłej ikony. Modyfikacja wyglądu jest uproszczona, nazwy plików są wyświetlane, kiedy nie znaleziono tagów ID3.</p>
+        <p lang="pt">Esta versão adiciona um novo modo de miniatura e a possibilidade de tocar ou voltar a tocar conteúdo ao clicar nos ícones circulares. Os temas são simplificados e os nomes dos ficheiros são mostrados quando nehuma etiqueta ID3 é encontrada.</p>
+        <p lang="pt_BR">Esta versão de desenvolvimento inclui um novo modo miniatura e a capacidade de reproduzir ou reiniciar o conteúdo ao clicar no ícone circular. A aparência foi simplificada e os nomes dos arquivos são exibidos quando nenhuma tag ID3 for encontrada.</p>
+        <p lang="ru">Этот неофициальный выпуск добавляет миниатюрный режим и возможность запуска воспроизведения или повтора с помощью нажатия на круглые значки. Темы упрощены, отображаются имена файлов, когда не найдены тэги ID3.</p>
+        <p lang="sl">Ta razvojna izdaja dodaja novi mini način, ki omogoča predvajanje preko okroglih ikon. Poenostavljeno je tematiziranje, imena datotek so prikazana, ko niso najdene ID3 oznake.</p>
+        <p lang="sq">Kjo hedhje në qarkullim zhvillim shton një mënyrë mini dhe aftësinë për të luajtur ose riluajtur lëndë duke klikuar mbi ikona rreth. Përshtatja grafike është thjeshtësuar dhe shfaqen emra kartelash kur s’gjenden etiketa ID3.</p>
+        <p lang="sr">Овом развојном издању је придодат мали начин рада и могућност да изводи или понавља садржај кликом на сличицу. Постављање тема је упрошћено и имена датотека се приказују и  кад нема пронађених ознака ИД3.</p>
+        <p lang="sv">Denna utvecklingsversion lägger till ett nytt miniatyrläge och möjligheten att spela upp eller spela om innehåll genom att klicka på cirkelikonerna. Teman är förenklade och filnamn visas då inga ID3-etiketter hittas.</p>
+        <p lang="th">รุ่นพัฒนารุ่นนี้ได้เพิ่มโหมดใหม่คือโหมดกะทัดรัด และเพิ่มความสามารถในการเล่นสื่อหรือเล่นซ้ำได้ด้วยการคลิกที่ไอคอนรูปวงกลม มีการปรับการจัดการชุดตกแต่งให้เรียบง่ายขึ้น และจะแสดงชื่อแฟ้มแทนในกรณีที่ไม่พบแท็ก ID3</p>
+        <p lang="tr">Bu geliştirme sürümü yeni mini kip ve daire simgelerini tıklatarak içeriği oynatma veya yeniden oynatma becerisi ekliyor. Tema basitleştirildi ve hiç ID3 etiketi bulunmadığında dosya adları gösteriliyor.</p>
+        <p lang="uk">У цьому розробницькому випуску додано новий міні-режим і можливість програвати або програвати заново вміст, клацаючи на круглі значки. Теми спрощено і показуються назви файлів, якщо не знайдено тегів ID3.</p>
+        <p lang="zh_CN">该开发版本引入了新的迷你模式和通过点击圆形图标以进行播放或回放内容的能力、图标的简化以及无ID3标签时的文件名显示。</p>
+        <p lang="zh_TW">這個開發版本加入了新的迷你模式與點選圓形圖示來播放或重新播放內容的能力。主題化也更簡單了，而檔案名稱將會在找不到 ID3 標籤時顯示。</p>
+      </description>
+    </release>
+    <release date="2015-10-15" version="0.8.1">
+      <description>
+        <p>This release improves the build process and includes several bug fixes. This new stable release is a recommended upgrade for all users.</p>
+        <p lang="be">У гэтым выпуску палепшаны працэс зборкі і выпраўлена некалькі памылак. Усім карыстальнікам рэкамендуецца абнавіцца да гэтай версіі.</p>
+        <p lang="bg">Тази версия е подобрена и включва няколко корекции на грешки. Препоръчва се на всички потребители да надградят до тази стабилна версия.</p>
+        <p lang="ca">Aquesta versió millora el procés de construcció i inclou diverses correccions d'errors. Aquesta versió nova estable és una actualització recomanada per a tots els usuaris.</p>
+        <p lang="cs">Toto vydání zlepšuje proces sestavení a obsahuje i opravy několika chyb. Aktualizace na tuto novou stabilní verzi je doporučena všem uživatelům.</p>
+        <p lang="da">Denne udgivelse forbedre byg-processen og inkludere adskillige fejlrettelser. Denne nye stabile udgivelse er en anbefalet opgradering til alle brugere.</p>
+        <p lang="de">Diese Version verbessert den Erstellprozess und enthält mehrere Fehlerbehebungen. Diese neue Veröffentlichung ist eine empfohlene Aktualisierung für alle Benutzer.</p>
+        <p lang="en_AU">This release improves the build process and includes several bug fixes. This new stable release is a recommended upgrade for all users.</p>
+        <p lang="en_GB">This release improves the build process and includes several bug fixes. This new stable release is a recommended upgrade for all users.</p>
+        <p lang="es">Esta versión mejora el proceso de construcción e incluye varias correcciones de errores. Esta nueva versión estable es una actualización recomendada para todos los usuarios.</p>
+        <p lang="et">Selles versioonis oleme parandanud kompileerimise töövoogu ning parandanud mitmeid vigu. Tegemist on soovitusliku uuendusega kõikidele kasutajatele.</p>
+        <p lang="eu">Argitalpen honek eraikitze prozesua hobetzen du eta arazo batzuen konponketak sartzen ditu. Argitalpen egonkor berri hau erabiltzaile guztiei gomendatutako eguneraketa da.</p>
+        <p lang="fi">Tämä julkaisu parantaa kääntöprosessia ja sisältää muutamia bugikorjauksia. Tämä uusi vakaa julkaisu on suositeltava päivitys kaikille käyttäjille.</p>
+        <p lang="fr">Cette version améliore le processus de compilation et inclut plusieurs corrections de bogues. Cette nouvelle version stable est une mise à niveau recommandée pour tous les utilisateurs.</p>
+        <p lang="gl">Esta versión mellora o proceso de compilación e inclúe a corrección de varios fallos. Esta nova versión estábel é unha anovación recomendada para todos os usuarios.</p>
+        <p lang="he">שחרור זה משפר את תהליך הבניה וכולל מספר תיקוני באגים. שחרור יציב חדש זה הינו שדרוג מומלץ עבור כל המשתמשים.</p>
+        <p lang="hr">Ovo ažuriranje poboljšava proces izgradnje i uključuje nekoliko ispravaka. Ova stabilna verzija je preporučena nadogradnja za sve korisnike.</p>
+        <p lang="hu">Ez a kiadás javít az összeállítási folyamaton, és számos hibajavítást is tartalmaz. Az új stabil kiadás az ajánlott frissítés az összes felhasználónak.</p>
+        <p lang="hy_AM">Այց թողարկումը բարելաւում է կառույցի գործընթացները եւ ներառում է որոշ սխալների ուղղում։ Այս նոր կայուն թողարկումը խորհուրդ է տրուում թարմեցնել բոլոր աւգտատերերի համար։</p>
+        <p lang="hye">Այց թողարկումը բարելաւում է կառույցի գործընթացները եւ ներառում է որոշ սխալների ուղղում։ Այս նոր կայուն թողարկումը խորհուրդ է տրուում թարմեցնել բոլոր աւգտատերերի համար։</p>
+        <p lang="id">Rilis ini meningkatkan proses pembuatan dan mencakup beberapa perbaikan kutu. Rilis stabil baru ini adalah pemutakhiran yang direkomendasikan untuk semua pengguna.</p>
+        <p lang="is">Þessi útgáfa bætir byggingarferlið og inniheldur ýmsar villuleiðréttingar. Mælt er með þessari stöðugu útgáfu fyrir alla notendur.</p>
+        <p lang="it">Questo rilascio migliora il processo di compilazione ed include varie correzioni. Si raccomanda a tutti gli utenti di eseguire l'aggiornamento a quest'ultimo rilascio stabile.</p>
+        <p lang="ja">このリリースでは、ビルドプロセスを改善し、いくつかのバグ修正が含まれています。この新しい安定版リリースは、すべてのユーザーへの推奨アップグレードです。</p>
+        <p lang="ko">이 릴리스에서는 빌드 과정을 개선하고 여러가지 문제점을 수정했습니다. 모든 사용자들에게 이번 새 안정 릴리스로의 업그레이드를 추천합니다.</p>
+        <p lang="lt">Ši laida patobulina kūrimo procesą, o taip pat joje yra ištaisytos kelios klaidos. Ši stabili laida yra rekomenduojamas atnaujinimas visiems naudotojams.</p>
+        <p lang="ms">Keluaran ini menambahbaik proses binaan dan menyertakan beberapa pembaikan pepijat. Keluaran stabil baharu ini merupakan tatar saranan untuk semua pengguna.</p>
+        <p lang="nb">Denne utgivelsen forbedrer byggeprosessen og inneholder flere feilrettinger. Denne nye stabile versjonen er en anbefalt oppgradering for alle brukere.</p>
+        <p lang="nl">Deze versie verbetert het bouwproces en bevat verschillende foutreparaties. Deze nieuwe stabiele versie is een aanbevolen opwaardering voor alle gebruikers.</p>
+        <p lang="pl">To wydanie poprawia proces budowania kodu i zawiera kilka poprawek. Aktualizacja ta jest stabilna i zalecana dla wszystkich użytkowników.</p>
+        <p lang="pt">Este lançamento melhora o processo de compilação e inclui várias correções. Esta nova versão é uma atualização para todos os utilizadores.</p>
+        <p lang="pt_BR">Esta versão melhora o processo de compilação e inclui várias correções de bugs. Esta nova versão estável é uma atualização recomendada para todos os usuários.</p>
+        <p lang="ru">В этом выпуске улучшен процесс сборки и исправлены некоторые ошибки. Всем пользователям рекомендуется выполнить обновление до данного стабильного выпуска.</p>
+        <p lang="sk">Toto vydanie vylepšuje proces zostavenia a zahŕňa niekoľko opráv chýb. Na toto nové stabilné vydanie je odporúčané aktualizovať všetkým používateľom.</p>
+        <p lang="sl">Ta izdaja poenosatvi proces gradnje in vsebuje številne popravke hroščev. Je priporočena za sve uporabnike.</p>
+        <p lang="sq">Kjo hedhje në qarkullim përmirëson procesin e montimit dhe përfshin disa ndreqje të metash. Kjo hedhje e re, e qëndrueshme, në qarkullim është një përmirësim i këshilluar për krejt përdoruesit.</p>
+        <p lang="sr">Ово издање олакшава начин градње програма и укључује неколико исправки грешака. Ово ново стабилно издање је препоручиво за надоградњу свим корисницима.</p>
+        <p lang="sv">Denna version förbättrar byggprocessen och inkluderar åtskilliga felrättningar. Denna nya stabila version är en rekommenderad uppgradering för alla användare.</p>
+        <p lang="th">รุ่นนี้มีการปรับปรุงกระบวนการประกอบสร้างและมีการแก้บั๊กหลายรายการ ขอแนะนำให้ผู้ใช้ทุกท่านอัปเกรดเป็นรุ่นเสถียรรุ่นใหม่นี้</p>
+        <p lang="tr">Bu sürüm derleme sürecini iyileştirdiği gibi birçok hata düzeltmesi de içermektedir. Tüm kullanıcıların bu yeni kararlı sürüme yükseltme yapmaları önerilmektedir.</p>
+        <p lang="uk">В цьому випуску покращено процес збирання і вирішено кілька проблем. Всім користувачам рекомендовано оновитися до цього нового стабільного випуску.</p>
+        <p lang="zh_CN">此次发布改进了建构过程，并修正了几个缺陷，推荐所有用户升级到这个稳定版。</p>
+        <p lang="zh_TW">此版本改善了構建過程並修復了許多臭蟲。建議所有的使用者更新到這個新的穩定版本。</p>
+      </description>
+    </release>
+    <release version="0.8.0" date="2015-02-28">
+      <description>
+        <p>This release improves the build process and includes several bug fixes. This new stable release is a recommended upgrade for all users.</p>
+        <p lang="be">У гэтым выпуску палепшаны працэс зборкі і выпраўлена некалькі памылак. Усім карыстальнікам рэкамендуецца абнавіцца да гэтай версіі.</p>
+        <p lang="bg">Тази версия е подобрена и включва няколко корекции на грешки. Препоръчва се на всички потребители да надградят до тази стабилна версия.</p>
+        <p lang="ca">Aquesta versió millora el procés de construcció i inclou diverses correccions d'errors. Aquesta versió nova estable és una actualització recomanada per a tots els usuaris.</p>
+        <p lang="cs">Toto vydání zlepšuje proces sestavení a obsahuje i opravy několika chyb. Aktualizace na tuto novou stabilní verzi je doporučena všem uživatelům.</p>
+        <p lang="da">Denne udgivelse forbedre byg-processen og inkludere adskillige fejlrettelser. Denne nye stabile udgivelse er en anbefalet opgradering til alle brugere.</p>
+        <p lang="de">Diese Version verbessert den Erstellprozess und enthält mehrere Fehlerbehebungen. Diese neue Veröffentlichung ist eine empfohlene Aktualisierung für alle Benutzer.</p>
+        <p lang="en_AU">This release improves the build process and includes several bug fixes. This new stable release is a recommended upgrade for all users.</p>
+        <p lang="en_GB">This release improves the build process and includes several bug fixes. This new stable release is a recommended upgrade for all users.</p>
+        <p lang="es">Esta versión mejora el proceso de construcción e incluye varias correcciones de errores. Esta nueva versión estable es una actualización recomendada para todos los usuarios.</p>
+        <p lang="et">Selles versioonis oleme parandanud kompileerimise töövoogu ning parandanud mitmeid vigu. Tegemist on soovitusliku uuendusega kõikidele kasutajatele.</p>
+        <p lang="eu">Argitalpen honek eraikitze prozesua hobetzen du eta arazo batzuen konponketak sartzen ditu. Argitalpen egonkor berri hau erabiltzaile guztiei gomendatutako eguneraketa da.</p>
+        <p lang="fi">Tämä julkaisu parantaa kääntöprosessia ja sisältää muutamia bugikorjauksia. Tämä uusi vakaa julkaisu on suositeltava päivitys kaikille käyttäjille.</p>
+        <p lang="fr">Cette version améliore le processus de compilation et inclut plusieurs corrections de bogues. Cette nouvelle version stable est une mise à niveau recommandée pour tous les utilisateurs.</p>
+        <p lang="gl">Esta versión mellora o proceso de compilación e inclúe a corrección de varios fallos. Esta nova versión estábel é unha anovación recomendada para todos os usuarios.</p>
+        <p lang="he">שחרור זה משפר את תהליך הבניה וכולל מספר תיקוני באגים. שחרור יציב חדש זה הינו שדרוג מומלץ עבור כל המשתמשים.</p>
+        <p lang="hr">Ovo ažuriranje poboljšava proces izgradnje i uključuje nekoliko ispravaka. Ova stabilna verzija je preporučena nadogradnja za sve korisnike.</p>
+        <p lang="hu">Ez a kiadás javít az összeállítási folyamaton, és számos hibajavítást is tartalmaz. Az új stabil kiadás az ajánlott frissítés az összes felhasználónak.</p>
+        <p lang="hy_AM">Այց թողարկումը բարելաւում է կառույցի գործընթացները եւ ներառում է որոշ սխալների ուղղում։ Այս նոր կայուն թողարկումը խորհուրդ է տրուում թարմեցնել բոլոր աւգտատերերի համար։</p>
+        <p lang="hye">Այց թողարկումը բարելաւում է կառույցի գործընթացները եւ ներառում է որոշ սխալների ուղղում։ Այս նոր կայուն թողարկումը խորհուրդ է տրուում թարմեցնել բոլոր աւգտատերերի համար։</p>
+        <p lang="id">Rilis ini meningkatkan proses pembuatan dan mencakup beberapa perbaikan kutu. Rilis stabil baru ini adalah pemutakhiran yang direkomendasikan untuk semua pengguna.</p>
+        <p lang="is">Þessi útgáfa bætir byggingarferlið og inniheldur ýmsar villuleiðréttingar. Mælt er með þessari stöðugu útgáfu fyrir alla notendur.</p>
+        <p lang="it">Questo rilascio migliora il processo di compilazione ed include varie correzioni. Si raccomanda a tutti gli utenti di eseguire l'aggiornamento a quest'ultimo rilascio stabile.</p>
+        <p lang="ja">このリリースでは、ビルドプロセスを改善し、いくつかのバグ修正が含まれています。この新しい安定版リリースは、すべてのユーザーへの推奨アップグレードです。</p>
+        <p lang="ko">이 릴리스에서는 빌드 과정을 개선하고 여러가지 문제점을 수정했습니다. 모든 사용자들에게 이번 새 안정 릴리스로의 업그레이드를 추천합니다.</p>
+        <p lang="lt">Ši laida patobulina kūrimo procesą, o taip pat joje yra ištaisytos kelios klaidos. Ši stabili laida yra rekomenduojamas atnaujinimas visiems naudotojams.</p>
+        <p lang="ms">Keluaran ini menambahbaik proses binaan dan menyertakan beberapa pembaikan pepijat. Keluaran stabil baharu ini merupakan tatar saranan untuk semua pengguna.</p>
+        <p lang="nb">Denne utgivelsen forbedrer byggeprosessen og inneholder flere feilrettinger. Denne nye stabile versjonen er en anbefalt oppgradering for alle brukere.</p>
+        <p lang="nl">Deze versie verbetert het bouwproces en bevat verschillende foutreparaties. Deze nieuwe stabiele versie is een aanbevolen opwaardering voor alle gebruikers.</p>
+        <p lang="pl">To wydanie poprawia proces budowania kodu i zawiera kilka poprawek. Aktualizacja ta jest stabilna i zalecana dla wszystkich użytkowników.</p>
+        <p lang="pt">Este lançamento melhora o processo de compilação e inclui várias correções. Esta nova versão é uma atualização para todos os utilizadores.</p>
+        <p lang="pt_BR">Esta versão melhora o processo de compilação e inclui várias correções de bugs. Esta nova versão estável é uma atualização recomendada para todos os usuários.</p>
+        <p lang="ru">В этом выпуске улучшен процесс сборки и исправлены некоторые ошибки. Всем пользователям рекомендуется выполнить обновление до данного стабильного выпуска.</p>
+        <p lang="sk">Toto vydanie vylepšuje proces zostavenia a zahŕňa niekoľko opráv chýb. Na toto nové stabilné vydanie je odporúčané aktualizovať všetkým používateľom.</p>
+        <p lang="sl">Ta izdaja poenosatvi proces gradnje in vsebuje številne popravke hroščev. Je priporočena za sve uporabnike.</p>
+        <p lang="sq">Kjo hedhje në qarkullim përmirëson procesin e montimit dhe përfshin disa ndreqje të metash. Kjo hedhje e re, e qëndrueshme, në qarkullim është një përmirësim i këshilluar për krejt përdoruesit.</p>
+        <p lang="sr">Ово издање олакшава начин градње програма и укључује неколико исправки грешака. Ово ново стабилно издање је препоручиво за надоградњу свим корисницима.</p>
+        <p lang="sv">Denna version förbättrar byggprocessen och inkluderar åtskilliga felrättningar. Denna nya stabila version är en rekommenderad uppgradering för alla användare.</p>
+        <p lang="th">รุ่นนี้มีการปรับปรุงกระบวนการประกอบสร้างและมีการแก้บั๊กหลายรายการ ขอแนะนำให้ผู้ใช้ทุกท่านอัปเกรดเป็นรุ่นเสถียรรุ่นใหม่นี้</p>
+        <p lang="tr">Bu sürüm derleme sürecini iyileştirdiği gibi birçok hata düzeltmesi de içermektedir. Tüm kullanıcıların bu yeni kararlı sürüme yükseltme yapmaları önerilmektedir.</p>
+        <p lang="uk">В цьому випуску покращено процес збирання і вирішено кілька проблем. Всім користувачам рекомендовано оновитися до цього нового стабільного випуску.</p>
+        <p lang="zh_CN">此次发布改进了建构过程，并修正了几个缺陷，推荐所有用户升级到这个稳定版。</p>
+        <p lang="zh_TW">此版本改善了構建過程並修復了許多臭蟲。建議所有的使用者更新到這個新的穩定版本。</p>
+      </description>
+    </release>
+    <release version="0.7.0" date="2014-03-29">
+      <description>
+        <p>This unstable development release adds the new clutter backend and cleans up deprecated Gtk3 symbols. It also adds a "go to position" feature and several bugs have been addressed.</p>
+        <p lang="be">У гэтым выпуску для распрацоўнікаў дададзены інтэрфейс да Clutter і выдаленыя састарэлыя сімвалы Gtk3. Таксама дададзена магчымасць"перайсці да пазіцыі" і выпраўлена некалькі памылак.</p>
+        <p lang="bg">Това е нестабилна версия в процес на разработка. Добавена е поддръжка на Clutter и са премахнати неподдържаните GTK3 символи. Добавяна е опция „отиване към местоположение“ и са отстранени няколко грешки.</p>
+        <p lang="ca">Aquesta versió de desenvolupament inestable afegeix el nou rerefons clutter i neteja símbols gtk3 en desús. També afegeix una característica d'"anar a la posició" i s'han abordat diversos errors.</p>
+        <p lang="cs">Toto nestabilní vývojářské vydání přidává nový clutter backend a čistí zastaralé symboly sady Gtk3. Také přidává funkci "Jdi na pozici" a bylo opraveno několik závažných chyb.</p>
+        <p lang="da">Denne ustabile udviklingsudgivelse tilføjer den nye clutter-motor og rydder op i udgåede Gtk3-symboler. Den tilføjer også en "gå til placering"-funktion og adskillige fejl er blevet adresseret.</p>
+        <p lang="de">Diese instabile Entwicklungsversion fügt die neue Clutter-Bibliothek hinzu und bereinigt veraltete GTK3-Symbole. Es wurde auch eine »Gehen zu Position«-Funktion hinzugefügt und einige Fehler wurden behoben.</p>
+        <p lang="en_AU">This unstable development release adds the new clutter backend and cleans up deprecated Gtk3 symbols. It also adds a "go to position" feature and several bugs have been addressed.</p>
+        <p lang="en_GB">This unstable development release adds the new clutter backend and cleans up deprecated Gtk3 symbols. It also adds a "go to position" feature and several bugs have been addressed.</p>
+        <p lang="es">Esta versión de desarrollo añade un nuevo motor de «clutter» y elimina símbolos GTK3 obsoletos. Además añade la funcionalidad «Ir a la posición» y corrige un sinnúmero de errores.</p>
+        <p lang="eu">Garapeneko argitalpen ezegonkor honek backend nahaspila gehitzen du eta zaharkitutako Gtk3 ikurrak garbitzen ditu. "Kokapenera joan" ezaugarria gehitzen du ere eta hainbat arazo konpontzen ditu,</p>
+        <p lang="fi">Tämä epävakaa kehitysversio lisää uuden Clutter-taustapalvelun ja puhdistaa käytöstä poistettuja Gtk3-symboleita. Se lisää myös "siirry sijaintiin" -toiminnon ja korjaa muutamia virheitä.</p>
+        <p lang="fr">Cette version de développement instable intègre le nouveau moteur Clutter et nettoie les symboles GTK3 obsolètes. Elle ajoute également une fonctionnalité « aller à la position » et corrige plusieurs bogues.</p>
+        <p lang="gl">Esta versión de desenvolvemento inestable engade a nova infraestrutura Clutter e limpa os símbolos obsoletos de Gtk3. Tamén engade unha función de "ir a posición" así como a resolución de varios fallos.</p>
+        <p lang="he">שחרור פיתוח לא יציב זה מוסיף את המגשר עורפי clutter החדש וגם מנקה סמלי Gtk3 פחותים. זה גם מוסיף תכונת "עבור אל מיקום" וגם מספר באגים הופנו.</p>
+        <p lang="hr">Ova nestabilna razvojna verzija donosi novi clutter backend i čišćenje zastarjelih Gtk3 simbola. Također dodaje "Idi na poziciju" mogućnost kao i ispravljanje nekoliko grešaka.</p>
+        <p lang="hu">Ez a nem stabil fejlesztői kiadás új Clutter háttérrendszert ad hozzá, és kitakarítja az elavult GTK3 szimbólumokat. Emellett hozzáadásra került egy „pozícióra ugrás” funkció, és számos hiba is megoldásra került.</p>
+        <p lang="hy_AM">Այս անկայուն մշակուած թողարկումը աւելացնում է նոր նուազ առաջնահերթ ներքինը եւ մաքրում է արգելուած Gtk3 նշանները։ Այն միշտ աւելացնում է "գնալ դեպի դիրք" հատկութիւնը եւ ուղարկուել են որոշ սխալներ։</p>
+        <p lang="hye">Այս անկայուն մշակուած թողարկումը աւելացնում է նոր նուազ առաջնահերթ ներքինը եւ մաքրում է արգելուած Gtk3 նշանները։ Այն միշտ աւելացնում է "գնալ դեպի դիրք" հատկութիւնը եւ ուղարկուել են որոշ սխալներ։</p>
+        <p lang="id">Rilis pengembangan yang tidak stabil ini menambahkan backend clutter baru dan membersihkan simbol Gtk3 yang sudah usang. Ini juga menambahkan fitur "pergi ke posisi" dan beberapa kutu telah ditangani.</p>
+        <p lang="is">Þessi óstöðuga þróunarútgáfa bætir við hinum nýja 'clutter'-bakenda og hreinsar út úrelt GTK3-tákn. Hér er einnig bætt við 'fara á stöðu' eiginleika og ýmsar villuleiðréttingar hafa átt sér stað.</p>
+        <p lang="it">Questo rilascio instabile di sviluppo aggiunge il nuovo backend clutter e rimuove i simboli Gtk3 obsoleti. Aggiunge inoltre l'opzione "vai a" e sono stati corretti diversi problemi.</p>
+        <p lang="ja">この開発版リリースでは、新しく Clutter バックエンドが追加され、廃止予定の Gtk3 シンボルが整理されました。他に "指定時間へ移動" 機能が追加され、いくつかのバグが修正されました。</p>
+        <p lang="ko">불안정한 개발 릴리스에는 새 클러터 백엔드를 추가했고, 오래된 GTK3 심볼을 정리했습니다. 또한 "위치로 이동"기능을 추가하였고 몇가지 버그를 수정했습니다.</p>
+        <p lang="lt">Ši nestabili laida prideda naują clutter vidinę pusę bei išvalo nebereikalingus Gtk3 simbolius. Taip pat joje pridedama ypatybė „Pereiti į laiką“ bei ištaisytos kelios klaidos.</p>
+        <p lang="ms">Keluaran pembangunan tidak stabil ini menambah bahagian belakang clutter baharu dan membersihkan simbol Gtk3 yang lapuk. Ia juga menambah fitur "pergi ke kedudukan" dan beberapa pepijat telah diselesaikan.</p>
+        <p lang="nb">Denne ustabile utviklingsutgivelsen legger til et nytt Clutter-bakstykke og rydder opp i avleggse Gtk3-symboler. Den legger også til et "gå til posisjon"-trekkplaster og fikser flerfoldige feil.</p>
+        <p lang="nl">Deze instabiele ontwikkelingsversie voegt de nieuwe achtergronddienst clutter toe en verwijdert verouderde Gtk3-symbolen. Hij voegt ook de functie "ga naar positie" toe. Verder zijn er verscheidene fouten hersteld.</p>
+        <p lang="pl">To wydanie rozwojowe czyści nieużywane elementy GTK3, dodaje funkcję "idź do pozycji" i naprawia kilka błędów.</p>
+        <p lang="pt">Esta versão de desenvolvimento instável adiciona o novo processamento e limpa símbolos GTK3 obsoletos. Também adiciona um recurso de "ir para a posição" e vários problemas foram resolvidos.</p>
+        <p lang="pt_BR">Esta versão de desenvolvimento instável adiciona o novo backend clutter e limpa símbolos obsoletos do GTK3. Também adiciona um recurso de "ir para a posição" e vários bugs foram resolvidos.</p>
+        <p lang="ru">В данном нестабильном разрабатываемом выпуске добавлен интерфейс к Clutter и произведена чистка устаревших символов GTK3. Также добавлена возможность «перехода к позиции» и исправлено несколько ошибок.</p>
+        <p lang="sk">Toto nestabilné vývojárske vydanie pridáva nový podporný program clutter a čistí zastarané symboly Gtk3. Tiež pridáva funkciu „prejsť na pozíciu“ a bolo adresovaných niekoľko chýb.</p>
+        <p lang="sl">Ta nestabilna izdaja dodaj novi clutter in očisti zastarele Gtk3 simbole. Dodaj tudi funkcijo "pojdi na" ter odpravlja hrošče.</p>
+        <p lang="sq">Kjo hedhje e paqëndrueshme zhvillim në qarkullim shton mekanizmin e ri <em>clutter</em> dhe pastron simbole Gtk3 të nxjerrë jashtë përdorimit. Shton edhe veçorinë "shko te pozicion" dhe janë trajtuar disa të meta.</p>
+        <p lang="sr">У ово нестабилно развојно издање је додат нови позадински програм за погон и очишћена су застарела знамења ГТК-а. Такође, додата је могућност да „иде на положај“ и исправљено је неколико грешака.</p>
+        <p lang="sv">Den här instabila utvecklingsversionen lägger till den nya clutter-bakänden och städar upp föråldrade Gtk3-symboler. Den lägger också till en "gå till position" funktion och flera fel har rättats till.</p>
+        <p lang="th">รุ่นพัฒนาที่ไม่เสถียรรุ่นนี้ได้เพิ่มแบ็กเอนด์ clutter และได้กำจัดการใช้ฟังก์ชันที่ไม่แนะนำให้ใช้แล้วของ Gtk3 ออกไป นอกจากนี้ยังได้เพิ่มความสามารถเรื่อง "ไปที่ตำแหน่งเล่น" และมีการแก้บั๊กอีกหลายรายการ</p>
+        <p lang="tr">Bu istikrarsız geliştirme sürümü yeni karışıklığı arka uça ekler ve önerilmeyen Gtk3 sembollerini temizler.Aynı zamanda "go to position" özelliği ekler ve başka hataları ele alır.</p>
+        <p lang="uk">Це є нестабільний випуск, додано надбудову над clutter і очищено непотрібні Gtk3 символи. Додано також можливість "перейти на позицію", виправлено кілька вад.</p>
+        <p lang="zh_CN">这个不稳定的开发版本增加了新的 clutter 后端并清理了过时的 Gtk3 符号。它还增加了一个“转至位置”功能。一些错误也得到修正。</p>
+        <p lang="zh_TW">不穩定開發版本加入了新的 clutter 後端及清理廢棄的 Gtk3 符號。也加入了「到某位置」的功能，一些臭蟲也被解決。</p>
+      </description>
+    </release>
+    <release date="2014-03-29" version="0.6.1">
+      <description>
+        <p>This release fixes a problem with detecting DVD drive locations.</p>
+        <p lang="ast">Esti llanzamientu igua un problema cola deteición de los allugamientos d'unidaes DVD.</p>
+        <p lang="be">У гэтым выпуску выпраўлена праблема выяўлення размяшчэння DVD-дыскавода.</p>
+        <p lang="bg">В тази версия са отстранени проблеми със засичането на DVD устройства.</p>
+        <p lang="ca">Aquesta versió corregeix un problema amb la detecció d'ubicacions d'unitats de DVD.</p>
+        <p lang="cs">Toto vydání opravuje potíže při detekci umístění mechanik DVD.</p>
+        <p lang="da">Denne udgivelse retter et problem knyttet til registrering af steder med dvd-drev.</p>
+        <p lang="de">Diese Ausgabe behebt ein Problem, mit dem Erkennen des Ortes von DVD-Laufwerken.</p>
+        <p lang="en_AU">This release fixes a problem with detecting DVD drive locations.</p>
+        <p lang="en_GB">This release fixes a problem with detecting DVD drive locations.</p>
+        <p lang="es">Esta nueva versión arregla un error al detectar la localización de las unidades DVD.</p>
+        <p lang="et">Selles versioonis oleme parandanud DVD seadme asukohaga seotud vea.</p>
+        <p lang="eu">Argitalpen honek DVD gailuaren kokalekua antzemateko arazo bat konpontzen du. </p>
+        <p lang="fi">Tämä julkaisu korjaa ongelman DVD-asemien sijaintien paikantamisessa.</p>
+        <p lang="fr">Cette version corrige un problème de détection des emplacements de lecteur DVD.</p>
+        <p lang="gl">Esta versión soluciona un problema coa detección das localizacións das unidades DVD.</p>
+        <p lang="he">שחרור זה מתקן בעיה באיתור מיקומי כונני DVD.</p>
+        <p lang="hr">Ova verzija rješava problem s pravilnim otkrivanjem lokacije DVD pogona.</p>
+        <p lang="hu">A kiadás kijavít egy DVD-meghajtóhelyekkel kapcsolatos problémát.</p>
+        <p lang="hy_AM">Այս թողարկումը լուծում է  խնդիր յայտնաբերելով DVD սարքի դիրքը։</p>
+        <p lang="hye">Այս թողարկումը լուծում է  խնդիր յայտնաբերելով DVD սարքի դիրքը։</p>
+        <p lang="id">Rilis ini memperbaiki masalah dengan mendeteksi lokasi drive DVD.</p>
+        <p lang="is">Þessi útgáfa leysir vandamál við að skynja staðsetningu DVD-drifa.</p>
+        <p lang="it">Questo rilascio corregge un problema relativo all'individuazione delle posizioni dei dischi DVD.</p>
+        <p lang="ja">このリリースでは DVD ドライブの検出に関する問題が修正されました。</p>
+        <p lang="ko">이 릴리스에서는 DVD 드라이브의 위치 감지 문제를 수정했습니다.</p>
+        <p lang="lt">Ši laida ištaiso problemą, susijusią su DVD disko vietos aptikimu.</p>
+        <p lang="ms">Keluaran ini telah membaiki masalah dengan pengesanan lokasi pemacu DVD.</p>
+        <p lang="nb">Denne utgaven fikser et problem med å finne DVD-drev plasseringer.</p>
+        <p lang="nl">Deze versie herstelt een probleem met het herkennen van lokaties van DVD-stations.</p>
+        <p lang="pl">To wydanie naprawia problem z detekcją lokalizacji dysku DVD.</p>
+        <p lang="pt">Esta versão corrige alguns problemas com a deteção de unidades de DVD.</p>
+        <p lang="pt_BR">Este versão um problema com detecção de unidade de DVDs locais.</p>
+        <p lang="ru">В этом выпуске исправлена проблема определения расположения DVD-привода.</p>
+        <p lang="sk">Toto vydanie opravuje problém s rozpoznaním umiestnení zariadení DVD.</p>
+        <p lang="sl">Ta izdaja odpravlja težavo z odkrivanjem lokacije DVDja</p>
+        <p lang="sq">Kjo hedhje në qarkullim ndreq një problem me pikasjen e vendndodhjeve të pajisjeve DVD.</p>
+        <p lang="sr">Ово издање исправља потешкоћу са препознавањем уређаја читача ДВД-ја.</p>
+        <p lang="sv">Den här versionen rättar till ett problem med att hitta DVD-enheter.</p>
+        <p lang="th">รุ่นนี้แก้ปัญหาการตรวจหาตำแหน่งของไดรว์ดีวีดี</p>
+        <p lang="tr">Bu sürüm DVD sürücüsü yerleri tespiti ile sorunu giderir.</p>
+        <p lang="uk">Це випуск виправляє проблему з визначенням знаходження DVD пристрою.</p>
+        <p lang="zh_CN">这个版本修复了一个关于 DVD 位置侦测的问题。</p>
+        <p lang="zh_TW">這個版本修復了一個偵測 DVD 光碟位置的問題。</p>
+      </description>
+    </release>
+    <release version="0.6.0" date="2014-01-25">
+      <description>
+        <p>This release features the completed transition to the Gtk+3 toolkit, improvements in the user-interface (more streamlined menus), better playlists. Furthermore existing plugins have been improved and a new one has been added (MPRIS2). Most of the artwork has been updated for this release and we use the GStreamer1.0 framework now by default.</p>
+        <p lang="ast">Esti llanzamientu inestable en desendolcu tien como carauterístiques el port completu a Gtk+3, ameyoramientos na interfaz d'usuariu (menús más proporcianaos) y llistes de reproducción meyores. Amás los complementos esistentes anováronse y amestóse ún nuevu (MPRIS2). Anovóse'l mayor material gráfico pa esti llanzamientu y agora usamos el framework GStreamer1.0 por defeutu</p>
+        <p lang="be">Ад гэтага выпуску праграма цалкам перайшла на GTK+3, спрошчана меню інтэрфейсу, палепшаныя плэйлісты. Палепшаныя існыя ўбудовы і дададзена новая - MPRIS2. Абноўлена большая частка аздаблення і здзейснены пераход на GStreamer1.0.</p>
+        <p lang="bg">Тази версия е със завършена поддръжка на Gtk +3 , подобрен потребителски интерфейс (по-оптимизирани менюта) , по-добри плейлисти. Освен съществуващите плъгини е добавен (MPRIS2). По- голяма част от разработката е актуализирана в тази версия, и сега, ние използваме GStreamer1.0 по подразбиране.</p>
+        <p lang="ca">Aquesta versió compta amb la transició completa a les eines Gtk+3, millores a la interfície d'usuari (menús més racionals) i millors llistes de reproducció. A més, els connectors existents s'han millorat i se n'ha afegit un de nou (MPRIS2). La major part de l'obra artística s'ha actualitzat per a aquesta versió i utilitzem el marc GStreamer1.0 ara per defecte.</p>
+        <p lang="cs">Toto vydání představuje kompletní přechod na sadu nástrojů Gtk+3, vylepšení v uživatelském rozhraní (více streamlined nabídek), lepší seznamy médií. Navíc byly vylepšeny existující zásuvné moduly a byl přidán jeden nový (MPRIS2). V tomto vydání byla aktualizována většina grafických prvků a ve výchozím nastavení se nyní používá framework GStreamer1.0.</p>
+        <p lang="da">Denne udgivelse byder på den komplette overgang til Gtk+3-værktøjskittet, forbedringer til brugerfladen (mere strømlinet menuer), bedre afspilningslister. Derudover er eksisterende plugins blevet forbedret og en ny er blevet tilføjet (MPRIS2). Det meste af det grafiske materiale er blevet opdateret til denne udgivelse og vi bruger nu GStreamer1.0-frameworket som standard.</p>
+        <p lang="de">Diese Version enthält die abgeschlossene Übergang auf den GTK+3-Werkzeugsatz, Verbesserungen der Benutzerschnittstelle (schlankere Menüs),  bessere Wiedergabelisten. Weiterhin bestehende Erweiterungen wurden verbessert und eine neue wurde hinzugefügt (MPRIS2). Die meisten der Grafiken wurde für diese Version aktualisiert und wir verwenden jetzt den GStreamer1.0-Framework standardmäßig.</p>
+        <p lang="en_AU">This release features the completed transition to the Gtk+3 toolkit, improvements in the user-interface (more streamlined menus), better playlists. Furthermore existing plugins have been improved and a new one has been added (MPRIS2). Most of the artwork has been updated for this release and we use the GStreamer1.0 framework now by default.</p>
+        <p lang="en_GB">This release features the completed transition to the Gtk+3 toolkit, improvements in the user-interface (more streamlined menus), better playlists. Furthermore existing plugins have been improved and a new one has been added (MPRIS2). Most of the artwork has been updated for this release and we use the GStreamer1.0 framework now by default.</p>
+        <p lang="es">Esta nueva versión comprende una completa transición a GTK+3, mejorando la interfaz de usuario (menús simplificados) y la lista de reproducción. Además, los complementos existentes han sido mejoradas y uno nuevo se ha añadido (MPRIS2). La mayor parte del arte en esta versión se actualizó y ahora la infraestructura digital de GStreamer 1.0 es la utilizada de forma predeterminada.</p>
+        <p lang="et">Selle versiooni puhul oleme kogu koodibaasi kolinud kasutama Gtk+3 teeke. Lisaks oleme kohendanud kasutajaliidest (sujuvamad menüüd) ja teinud paremaks esitusloendi. Oleme parandanud olemasolevad pistikprogramme ning lisanud ühe uue (MPRIS2). Enamus graafikat on selle versiooni jaoks uuenenud ja me vaikimisi kasutame nüüd  GStreamer1.0 meediaraamistikku.</p>
+        <p lang="eu">Argitalpen honek Gtk+3 toolkitera iragate osoa dakar, erabiltzaile interfazean hobekuntzak (optimizatutako menu gehiago), eta erreprodukzio zerrenda hobeak. Gainera, existitzen ziren pluginak hobetu egin dira eta berri bat gehitu (MPRIS2). Argitalpen honetarako artelan gehienak eguneratu dira eta orain GStreamer1.0 frameworka erabiltzen dugu lehenetsi bezala.</p>
+        <p lang="fi">Tämä julkaisu sisältää täydellisen siirtymän Gtk+3-kirjastoon, parannuksia käyttöliittymään (keveämmät valikot) ja paremmat soittolistat. Lisäksi olemassa olevia liitännäisiä on paranneltu ja uusi liitännäinen lisätty (MPRIS2). Suurin osa ulkoasusta on päivitetty tätä versiota varten. GStreamer1.0-kirjasto on nyt käytössä oletuksena.</p>
+        <p lang="fr">Cette version achève la transition vers la boîte à outils GTK+3, améliore l’interface utilisateur (menus simplifiés) et les listes de lecture. De plus, les greffons existants ont été amendés et un nouveau a été ajouté (MPRIS2). La plus grande partie de l’aspect visuel a été mise à jour et nous utilisons dorénavant le moteur GStreamer 1.0 par défaut.</p>
+        <p lang="gl">Esta versión presenta a transición completa ao grupo de ferramentas Gtk+3, melloras na interface de usuario (menús máis estilizados), mellores listas de reprodución. Ademais, melloráronse os complementos existentes e engadiuse un novo (MPRIS2). A maior parte do material gráfico foi actualizado para esta versión e agora usamos a infraestrutura GStreamer1.0 de xeito predeterminado.</p>
+        <p lang="he">שחרור זה טומן בחובו סיום מעבר לערכת כלים Gtk+3, שיפורים בממשק-משתמש (עוד תפריטים מפושטים), רשימות נגינה טובות יותר. נוסף על כך, תוספים קיימים שופרו ואחד חדש התווסף (MPRIS2). מרבית הגרפיקה עודכנה לצורך שחרור זה ואנחנו משתמשים כעת במערכת GStreamer1.0 באופן שגרתי.</p>
+        <p lang="hr">Ova verzija pruža kompletnu tranziciju na Gtk+3 set alata, poboljšanja u korisničkom sučelju (efikasniji izbornici), bolje liste izvođenja. Poboljšani su postojeći dodatci te su dodani novi (MPRIS2), ažurirana je većina ilustracija, GStreamer 1.0 framework sada se koristi kao zadani. </p>
+        <p lang="hu">Ebben a kiadásban teljes GTK+3 váltás történt, javult a felhasználói felület (áramvonalasított menük), és jobbak lettek a lejátszólisták. Továbbá a létező bővítmények is javultak, és egy új került hozzáadásra (MPRIS2). A legtöbb illusztráció is frissítésre került a kiadásban, és most már alapértelmezetten a GStreamer keretrendszer 1.0-s verzióját használjuk.</p>
+        <p lang="hy_AM">Այս թողարկումը իւրահատկում է կատարուած տարանցում դեպի Gtk+3 toolkit, ապացոյցները  (աւելի  պարզեցուած ցանկերը), լավ նուագացուցակները։ Հետագայում առկա ներդրաւնները բարելաւուել են եւ աւելացուել է նոր (MPRIS2)։ Ամենանկարազարդերը թարմեցուել են այս թողարկման մէջ եւ մենք աւգտագործում ենք GStreamer1.0 framework լռելեայն։</p>
+        <p lang="hye">Այս թողարկումը իւրահատկում է կատարուած տարանցում դեպի Gtk+3 toolkit, ապացոյցները  (աւելի  պարզեցուած ցանկերը), լավ նուագացուցակները։ Հետագայում առկա ներդրաւնները բարելաւուել են եւ աւելացուել է նոր (MPRIS2)։ Ամենանկարազարդերը թարմեցուել են այս թողարկման մէջ եւ մենք աւգտագործում ենք GStreamer1.0 framework լռելեայն։</p>
+        <p lang="id">Rilis ini menampilkan transisi yang telah selesai ke toolkit Gtk+ 3, peningkatan pada antarmuka pengguna (menu yang lebih ramping), senarai putar yang lebih baik. Selanjutnya pengaya yang ada telah diperbaiki dan yang baru telah ditambahkan (MPRIS2). Sebagian besar karya seni telah diperbarui untuk rilis ini dan kami menggunakan kerangka GStreamer1.0 sekarang secara bawaan.</p>
+        <p lang="is">Þessi útgáfa lýkur yfirfærslunni í Gtk+3 viðmótshlutasafnið, kemur með endurbætur á notendaviðmóti (straumlínulagaðri valmyndir) og betri spilunarlista. Ennfremur hafa fyrirliggjandi viðbætur verið bættar og einni nýrri bætt við (MPRIS2). Mest af myndefninu hefur verið uppfært fyrir þessa útgáfu og núna notum við sjálfgefið GStreamer1.0 bakvinnslukerfið.</p>
+        <p lang="it">Questo rilascio completa la transizione al toolkit GTK+3 e fornisce dei miglioramenti all'interfaccia utente (menu più efficienti) e alle scalette. Inoltre i componenti aggiuntivi esistenti sono stati migliorati e ne è stato aggiunto uno nuovo (MPRIS2). La maggior parte degli elementi grafici è stata aggiornata per questo rilascio e ora viene utilizzata di default l'infrastruttura GStreamer1.0.</p>
+        <p lang="ja">このリリースでは、Gtk+3 への完全移行、ユーザーインターフェイスの改善 (ストリームライン化されたメニュー)、およびプレイリストの強化が行われました。さらに、既存のプラグインも改善され、新たに MPRIS2 が追加されました。多くのアートワークが更新され、デフォルトで GStreamer1.0 フレームワークを使用するようになりました。</p>
+        <p lang="ko">이 릴리스에서는 GTK+3 툴킷으로 완전히 이전했으며 사용자 인터페이스(보다 어울리는 메뉴)와 재생 목록을 개선했습니다. 게다가 기존 플러그인을 개선하였고, 새로운 플러그인을 추가 (MPRIS2) 했습니다. 대부분의 아트워크를 이번 릴리스에서 새로 고쳤으며, 이제 기본으로 GStreamer1.0 프레임워크를 사용합니다.</p>
+        <p lang="lt">Ši laida pasižymi užbaigtu perėjimu prie Gtk+3 įrankinės, patobulinimais naudotojo sąsajoje (labiau tiesmukiški meniu), geresniais grojaraščiais. Be to, buvo patobulinti esami įskiepiai ir pridėtas vienas naujas įskiepis (MPRIS2). Didžioji apipavidalinimų dalis buvo atnaujinta ir dabar, pagal numatymą, mes naudojame GStreamer1.0 karkasą.</p>
+        <p lang="ms">Keluaran ini fiturkan peralihan lengkap ke kit alat Gtk+3, penambahbaikan dalam antaramuka-pengguna (menu mengikut arus-perdana), senarai main lebih baik. Tambahan pula, pemalam sedia ada telah dipertingkatkan dan pemalam baharu ditambah (MPRIS2). Kebanyakan kerja seni telah dikemaskini untuk keluaran ini dan kini bingkai kerja GStreamer1.0 dijadikan sebagai lalai.</p>
+        <p lang="nb">Denne utgaven har fullført overgangen til Gtk+3 verktøysett, forbedringer i bruker-grensesnittet (mer strømlinjeformet informasjonsflyt i menyer) og bedre spillelister. Videre har eksisterende programtilleg blitt forbedret og nye har kommet til (som MPRIS2). Mesteparten av grafikken har blitt oppdatert i denne utgaven og vi bruker nå i hovedsak GStremer1.0-rammeverket.</p>
+        <p lang="nl">Deze versie bevat de voltooide overgang naar de GTK+3-gereedschapskist, verbeteringen in de gebruikersschil (beter gestroomlijnde menu's) en betere afspeellijsten. Buitendien zijn bestaande invoegsels verbeterd en is er een nieuwe toegevoegd (MPRIS2). De meeste grafische kunst is voor deze versie bijgewerkt en we gebruiken nu standaard GStreamer1.0.</p>
+        <p lang="pl">To wydanie zawiera kompletne przejście na Gtk+3, usprawnienia interfejsu (menu) oraz usprawnione listy odtwarzania. Ponadto dodany został nowy plugin (MPRIS2) a pozostałe zostały zaktualizowane. Duża część grafik została poprawiona oraz od teraz parole domyślnie używa GStreamer1.0.</p>
+        <p lang="pt">Esta versão conclui a transição para a infraestrutura GTK+3, inclui melhorias na interface do utilizador (menus mais simplificados) e nas listas de reprodução. Foram efetuadas melhorias nos plugins existentes e adicionado um novo plugin (MPRIS2). O trabalho artístico foi atualizado nesta versão e agora é utilizada, por predefinição, a infraestrutura GStreamer 1.0.</p>
+        <p lang="pt_BR">Esta versão traz a transição completa para o kit de ferramentas Gtk+3, melhorias nos interface do usuário (menus mais simplificados), listas de reprodução melhoradas. Além disso, plugins existentes foram melhorados e um novo foi adicionado (MPRIS2). A maior parte da obra foi atualizada para esta versão e usamos o framework GStreamer1.0 agora por padrão.</p>
+        <p lang="ru">Данный выпуск ознаменован полным переходом на инструментарий GTK+3, упрощено меню пользовательского интерфейса, улучшены списки воспроизведения. Проведено улучшение существующих модулей и добавлен новый модуль MPRIS2. Для выпуска обновлена большая часть оформления и выполнен переход на инфраструктуру GStreamer1.0 по умолчанию.</p>
+        <p lang="sk">Toto vydanie disponuje dokončeným prechodom na sadu nástrojov Gtk+3, vylepšeniami používateľského rozhrania (zjednodušenie ponúk), lepšími zoznamami skladieb. Navyše boli vylepšené existujúce zásuvné moduly a bol pridaný jeden nový (MPRIS2). Väčšina grafiky v tomto vydaní bola aktualizovaná a štandardne sa začalo používať rozhranie GStreamer1.0.</p>
+        <p lang="sl">Ta izdaja zaključuje prehod na Gtk+3. Ima izboljšan vmesnik (boljši meiji) in bolješ delo s seznami predvajanja. Obstoječi vtičniki so bili izboljšani (MPRIS2). Grafika je bila posodobljena, GStreamer 1.0 pa je sedaj standard.</p>
+        <p lang="sq">Kjo hedhje në qarkullim përmban tranzicionin e plotë në grupin e mjeteve Gtk+3, përmirësime në ndërfaqen e përdoruesit (menu më të hajthme), luajlista të përmirësuara. Më tej, shtojca ekzistuese janë përmirësuar dhe janë është shtuar një e re (MPRIS2). Shumica e anës grafike është përditësuar për këtë hedhje në qarkullim dhe tani, si parazgjedhje, përdorim platformën GStreamer1.0.</p>
+        <p lang="sr">Ово издање доноси потпуни прелаз на ГТК+3 алате, побољшање у корисничком сучељу (течније изборнике) боље музичке спискове. Постојећи прикључци су побољшани и нови су додати (МПРИС2). Већи део уметничких радова су обновљени за ово издање и подразумевано се користи Гстример1.0.</p>
+        <p lang="sv">Den här versionen innehåller den färdiga övergången till Gtk+3 verktygslådan, förbättringar i användargränssnittet (mer enhetliga menyer), bättre spellistor. Dessutom har befintliga insticksprogram förbättrats och ett nytt har lagts till (MPRIS2). Större delen av den visuella utformningen har uppdaterats i den här versionen och vi använder nu GStreamer1.0-ramverket som standard.</p>
+        <p lang="th">รุ่นนี้ได้ย้ายไปยัง Gtk+3 อย่างสมบูรณ์, มีการปรับปรุงส่วนติดต่อผู้ใช้ (เมนูเป็นขั้นเป็นตอนมากขึ้น), มีผังเล่นที่ดีขึ้น นอกจากนี้ ปลั๊กอินที่มีก็ยังได้รับการปรับปรุง และมีการเพิ่มปลั๊กอินใหม่ (MPRIS2) งานศิลป์ต่างๆ ก็มีการปรับปรุงในรุ่นนี้ และเราเริ่มใช้กรอบงาน GStreamer1.0 โดยปริยายแล้ว</p>
+        <p lang="tr">Bu sürümün özellikleri Gtk+3 aracına tamamlanmış geçiş, kullanıcı arabirimindeki iyileştirmeler (daha akıcı menüler) , daha iyi oynatma listeleridir. Ayrıca var olan eklentileri geliştirilmiştir ve yeni (MPRIS2) eklentisi eklenmiştir. Çizimlerin çoğu bu sürüm için güncelleştirilmiştir ve biz artık öntanımlı olarak GStreamer1.0 yapısını kullanıyoruz.</p>
+        <p lang="uk">Цей випуск містить повний перехід на Gkt+3, вдосконалення інтерфейсу користувача (швидші меню), кращий список програвань. Більше того, вдосконалено існуючі додатки і додано новий додаток (MPRIS2). Більша частина графіки оновлена для цього випуску. Тепер ми використовуємо GStreamer1.0 по замовчуванню.</p>
+        <p lang="zh_CN">这个版本的主要特性是，完全转移到 Gtk+3 工具包，改进了用户界面(更精简的菜单)，更好的播放列表。另外，现有的插件被改进并增加了一个新的插件(MPRIS2)。大量的艺术品都在这个版本被更新了，我们现在默认使用了GStreamer1.0 框架。</p>
+        <p lang="zh_TW">這個版本的主要特性是，完全的轉移到 Gtk+3工具箱，在使用者介面方面的改進(更多流水線式的選單)，更佳的播放清單。另外，已經存在的插件被改進並多了一個新的(MPRIS2)。多數的藝術品都在這個版本被更新了，我現在們並使用了 GStreamer1.0 框架作為預設。</p>
+      </description>
+    </release>
+  </releases>
+</component>

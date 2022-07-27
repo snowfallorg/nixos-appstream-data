@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>libsForQt5.kdevelop</pkgname>
+  <icon height="64" type="cached" width="64">kdevelop.png</icon>
+  <icon width="128" type="cached" height="128">kdevelop.png</icon>
+  <id>org.kde.kdevelop.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0-or-later</project_license>
+  <name>KDevelop</name>
+  <name lang="ar">مطوّرك</name>
+  <name lang="bs">KDevelop</name>
+  <name lang="ca">KDevelop</name>
+  <name lang="ca-valencia">KDevelop</name>
+  <name lang="cs">KDevelop</name>
+  <name lang="da">KDevelop</name>
+  <name lang="de">KDevelop</name>
+  <name lang="en-GB">KDevelop</name>
+  <name lang="es">KDevelop</name>
+  <name lang="et">KDevelop</name>
+  <name lang="fi">KDevelop</name>
+  <name lang="fr">KDevelop</name>
+  <name lang="gl">KDevelop</name>
+  <name lang="hu">KDevelop</name>
+  <name lang="id">KDevelop</name>
+  <name lang="it">KDevelop</name>
+  <name lang="ko">KDevelop</name>
+  <name lang="nl">KDevelop</name>
+  <name lang="pl">KDevelop</name>
+  <name lang="pt">KDevelop</name>
+  <name lang="pt-BR">KDevelop</name>
+  <name lang="ru">KDevelop</name>
+  <name lang="sk">KDevelop</name>
+  <name lang="sl">KDevelop</name>
+  <name lang="sv">KDevelop</name>
+  <name lang="tr">KDevelop</name>
+  <name lang="uk">KDevelop</name>
+  <name lang="x-test">xxKDevelopxx</name>
+  <name lang="zh-CN">KDevelop</name>
+  <name lang="zh-TW">KDevelop</name>
+  <summary>Featureful, plugin-extensible IDE for C/C++ and other programming languages</summary>
+  <summary lang="ar">بيئة تطوير متكاملة بمزايا عديدة ودعم للملحقات للغتي سي/سي++ ولغات البرمجة الأخرى</summary>
+  <summary lang="ca">És un IDE, extensible amb connectors, amb totes les característiques per a C/C++ i altres llenguatges de programació</summary>
+  <summary lang="ca-valencia">És un IDE, extensible amb connectors, amb totes les característiques per a C/C++ i altres llenguatges de programació</summary>
+  <summary lang="de">Eine leistungsfähige integrierte Entwicklungsumgebung (IDE) für C/C++ und andere Programmiersprachen, die durch Module erweitert werden kann.</summary>
+  <summary lang="en-GB">Featureful, plugin-extensible IDE for C/C++ and other programming languages</summary>
+  <summary lang="es">Entorno de desarrollo integrado para C/C++ y otros lenguajes de programación con múltiples funcionalidades y que se puede extender con complementos.</summary>
+  <summary lang="et">C/C++ ja teiste programmeerimiskeelte omadusterohke ning pluginatega laiendatav IDE</summary>
+  <summary lang="fr">Environnement de développement complet et extensible pour le C/C++ et d'autres langages de programmation.</summary>
+  <summary lang="gl">Potente ambiente de desenvolvemento integrado para C, C++ e outras linguaxes de programación. As súas funcionalidades poden estenderse mediante complementos</summary>
+  <summary lang="id">Penuh fitur, IDE plugin yang dapat diekstensi C/C++ dan bahasa pemrograman lain</summary>
+  <summary lang="it">IDE per C/C++ e altri linguaggi di programmazione completo ed estensibile</summary>
+  <summary lang="ko">C/C++ 및 기타 프로그래밍 언어용 기능적이고 확장 가능한 IDE</summary>
+  <summary lang="nl">IDE voor C/C++ en andere programmeertalen, vol functies en uit te breiden met plug-ins.</summary>
+  <summary lang="pl">Jest to w pełni funkcjonalne, z możliwością rozszerzenia przy użyciu wtyczek, zintegrowane środowisko programistyczne dla C/C++ i innych języków programowania.</summary>
+  <summary lang="pt">IDE pleno de funcionalidades e modular para o C/C++ e outras linguagens de programação</summary>
+  <summary lang="pt-BR">IDE repleto de funcionalidades e expansível através de plugins, para C/C++ e outras linguagens de programação.</summary>
+  <summary lang="ru">Интегрированная среда разработки с широкими функциональными возможностями и поддержкой расширений для C/C++ и других языков программирования</summary>
+  <summary lang="sk">Plne funkčné, pluginmi rozšíriteľné IDE pre C/C++ a iné programovacie jazyky</summary>
+  <summary lang="sl">Zmogljivo integrirano razvojno okolje za C/C++ in druge programske jezike, ki je razširljivo z vstavki.</summary>
+  <summary lang="sv">Funktionsrik, integrerad utvecklingsmiljö för C/C++ och andra programspråk</summary>
+  <summary lang="tr">Tam özellikli, eklenti ile geliştirilebilir C/C++ ve diğer programlama dilleri için tümleşik geliştirme ortamı.</summary>
+  <summary lang="uk">Це повноцінне, розширюване за допомогою додатків комплексне середовище розробки мовами C/C++ та іншими мовами програмування.</summary>
+  <summary lang="x-test">xxFeatureful, plugin-extensible IDE for C/C++ and other programming languagesxx</summary>
+  <summary lang="zh-CN">全功能，可扩展的支持 C/C++ 和其他语言的集成开发环境。</summary>
+  <description>
+    <p>KDevelop is a Free and Open Source integrated development environment (IDE).</p>
+    <p>It provides editing, navigation and debugging features for several programming languages, as well as integration with multiple build systems and version-control systems, using a plugin-based architecture.</p>
+    <p>KDevelop has parser backends for C, C++ and Javascript/QML, with further external plugins supporting e.g. PHP or Python.</p>
+  </description>
+  <description lang="ar">
+    <p>«مطوّرك» هي بيئة تطوير متكاملة (IDE) حرّة ومفتوحة المصدر.</p>
+    <p>توفّر البرمجيّة مزايا التّحرير والتّنقّل والتّنقيح لمختلف لغات البرمجة، إلى جانب التّكامل مع مختلف أنظمة البناء وأنظمة التّحكّم بالإصدارات، وذلك عبر البنية المعتمدة على الملحقات.</p>
+    <p>لدى «مطوّرك» سندات تحليل للغات سي، وسي++، وجاڤاسكربت/QML كما وملحقات خارجيّة أخرى تدعم PHP أو پيثون.</p>
+  </description>
+  <description lang="ca">
+    <p>El KDevelop és un entorn de desenvolupament integrat (IDE) lliure i de codi obert.</p>
+    <p>Proporciona característiques per a l'edició, navegació i depuració per a diversos llenguatges de programació, així com la integració amb múltiples sistemes de construcció i sistemes de control de versions, emprant una arquitectura basada en connectors.</p>
+    <p>El KDevelop disposa de dorsals d'analitzador per a C, C ++ i Javascript/QML, amb altres connectors externs que implementen, p. ex., PHP o Python.</p>
+  </description>
+  <description lang="ca-valencia">
+    <p>KDevelop és un entorn de desenvolupament integrat (IDE) lliure i de codi obert.</p>
+    <p>Proporciona característiques per a l'edició, navegació i depuració per a diversos llenguatges de programació, així com la integració amb múltiples sistemes de construcció i sistemes de control de versions, emprant una arquitectura basada en connectors.</p>
+    <p>KDevelop disposa de dorsals d'analitzador per a C, C ++ i Javascript/QML, amb altres connectors externs que implementen, p. ex., PHP o Python.</p>
+  </description>
+  <description lang="de">
+    <p>KDevelop ist eine integrierte Entwicklungsumgebung (Frei und Open Source).</p>
+    <p>Funktionen zum Editieren, Navigieren und zur Fehlersuche für mehrere Programmiersprachen, dazu auch Integration von mehreren Build- und Versionskontrollsystemen auf der Basis einer modularen Architektur.</p>
+    <p>KDevelop beinhaltet Parser-Module für  C, C++ und Javascript/QML, weitere externe Module unterstützten zum Beispiel PHP oder Python.</p>
+  </description>
+  <description lang="en-GB">
+    <p>KDevelop is a Free and Open Source integrated development environment (IDE).</p>
+    <p>It provides editing, navigation and debugging features for several programming languages, as well as integration with multiple build systems and version-control systems, using a plugin-based architecture.</p>
+    <p>KDevelop has parser backends for C, C++ and Javascript/QML, with further external plugins supporting e.g. PHP or Python.</p>
+  </description>
+  <description lang="es">
+    <p>KDevelop es un entorno de desarrollo integrado (IDE) libre y de código abierto.</p>
+    <p>Proporciona funciones de edición, navegación y depuración para varios lenguajes de programación, además de integración con diversos sistemas de compilación y de control de versiones, usando una arquitectura basada en complementos.</p>
+    <p>KDevelop dispone de motores de análisis sintáctico para C, C++ y JavaScript/QML, además de complementos externos (por ejemplo, para PHP o para Python).</p>
+  </description>
+  <description lang="et">
+    <p>KDevelop on vaba ja avatud lähtekoodiga lõimitud arenduskeskkond (IDE)</p>
+    <p>See võimaldab redigeerida, liikuda ja siluda mitmes programmeerimiskeeles ning on pluginapõhise arhitektuuri abil lõiminud mitmeid ehitamis- ja versioonihaldussüsteeme.</p>
+    <p>KDevelopil on C, C++ ja Javasripti/QML parsimise taustaprogrammid, väliste pluginate abil on toetatud ka näiteks PHP ja Python.</p>
+  </description>
+  <description lang="fr">
+    <p>KDevelop est un environnement de développement intégré (IDE) libre et en open source.</p>
+    <p>Il fournit des fonctionnalités d'édition, navigation et débogage pour plusieurs langages de programmation, ainsi que l'intégration de multiples systèmes de compilation et de gestion de révision, en utilisant une architecture extensible.</p>
+    <p>KDevelop intègre des moteurs d'analyse pour le C, le C++ et Javascript/QML, avec, en plus, des modules externes pour prendre en charge PHP, Python, etc.</p>
+  </description>
+  <description lang="gl">
+    <p>KDevelop é un ambiente integrado de desenvolvemento (IDE) libre e de código aberto.</p>
+    <p>Fornece funcionalidades de edición, navegación e depuración para varias linguaxes de programación, así como integración con varios sistemas de construción e sistemas de control de versións, usando unha arquitectura baseada en complementos.</p>
+    <p>KDevelop ten infraestruturas de análise para C, C++ e JavaScript/QML, con complementos externos adicionais que fornecen compatibilidade, por exemplo, con PHP e Python.</p>
+  </description>
+  <description lang="id">
+    <p>KDevelop adalah sebuah IDE (integrated development environment) lingkungan pengembangan terintegrasi yang Gratis dan Bebas Terbuka.</p>
+    <p>Ini menyediakan fitur pengeditan, navigasi dan debugging untuk beberapa bahasa pemrograman, serta integrasi dengan sistem build multipel dan sistem kontrol versi, menggunakan arsitektur berbasis plugin.</p>
+    <p>KDevelop memiliki pengurai backend untuk C, C++ dan Javascript/QML, dengan mendukung plugin eksternal lebih lanjut misal PHP atau Python.</p>
+  </description>
+  <description lang="it">
+    <p>KDevelop è un ambiente di sviluppo integrato (IDE) libero e open source.</p>
+    <p>Fornisce funzionalità di modifica, navigazione debug per vari linguaggi di programmazione, così come l'integrazione con vari sistemi di compilazione e di controllo versione, tramite l'uso di architettura basata sulle estensioni.</p>
+    <p>KDevelop ha dei motori di analisi per C, C++ e JavaScript/QML, come ulteriori estensioni esterne che supportano, ad esempio, PHP o Python.</p>
+  </description>
+  <description lang="ko">
+    <p>KDevelop은 자유 오픈 소스 통합 개발 환경(IDE)입니다.</p>
+    <p>또한 플러그인 기반 아키텍처를 사용하여 여러 프로그래밍 언어에 대한 편집, 탐색 및 디버깅 기능을 제공하고 여러 빌드 시스템 및 버전 제어 시스템과의 통합도 제공합니다.</p>
+    <p>KDevelop에는 C, C++ 및 Javascript/QML에 대한 파서 백엔드가 있으며, PHP 또는 Python과 같은 추가 외부 플러그인이 지원됩니다.</p>
+  </description>
+  <description lang="nl">
+    <p>KDevelop is een vrije geïntegreerde ontwikkelomgeving (IDE) binnen het open source principe.</p>
+    <p>Het biedt functies voor bewerking, navigatie en debugging voor verschillende programmeertalen, evenals integratie met meerdere bouwsystemen en versiecontrole systemen, met gebruik van een op plug-ins gebaseerde architectuur.</p>
+    <p>KDevelop heef backends voor ontleden van C, C++ en Javascript/QML, met verdere externe plug-ins die bijv. PHP of Python ondersteunen.</p>
+  </description>
+  <description lang="pl">
+    <p>KDevelop to darmowe i otwartoźródłowe zintegrowane środkowisko programistyczne (IDE).</p>
+    <p>Zapewnia możliwość edycji, poruszania się po projekcie i diagnozowania błędów dla kilku języków programistycznych, a także integrację z wieloma systemami budowania i zarządzania wersjami poprzez wbudowaną architekturę wtyczek.</p>
+    <p>KDevelop ma silniki do przetwarzania składni C, C++ oraz Javascript/QML, a także inne jak np. PHP lub Python dodawane przy użyciu zewnętrznych wtyczek.</p>
+  </description>
+  <description lang="pt">
+    <p>O KDevelop é um ambiente de desenvolvimento integrado (IDE) livre e em código aberto.</p>
+    <p>Oferece capacidades de edição, navegação e depuração para diversas linguagens de programação, assim como a integração com diversos sistemas de compilação e de controlo de versões, usando uma arquitectura baseada em 'plugins'.</p>
+    <p>O KDevelop tem infra-estruturas de processamento para C, C++ e Javascript/QML, com mais 'plugins' externos que suportam p.ex. PHP ou Python.</p>
+  </description>
+  <description lang="pt-BR">
+    <p>Ambiente de Desenvolvimento Integrado (IDE) em Software Livre e Código Aberto.</p>
+    <p>Oferece capacidades de edição, navegação e depuração para diversas linguagens de programação, assim como a integração com diversos sistemas de compilação e de controle de versões, usando uma arquitetura baseada em plugins.</p>
+    <p>O KDevelop tem infraestruturas de processamento para C, C++ e Javascript/QML, com mais plugins externos que tem suporte a, por exemplo, PHP ou Python.</p>
+  </description>
+  <description lang="ru">
+    <p>KDevelop — свободная интегрированная среда разработки с открытым исходным кодом.</p>
+    <p>В программе предусмотрены возможности редактирования, навигации и отладки для нескольких языков программирования, а также интеграция с различными системами сборки и управления версиями. Используется архитектура с расширениями.</p>
+    <p>В KDevelop предусмотрены модули обработки кода на языках C, C++ и Javascript/QML и внешние расширения для поддержки кода на других языках программирования, например PHP и Python.</p>
+  </description>
+  <description lang="sk">
+    <p>KDevelop je slobodné a otvorené integrované vývojové prostredie (IDE).</p>
+    <p>Poskytuje funkcie editovania, navigácie a ladenia pre niektoré programovacie jazyky, ako aj integráciu s viacerými zostavovacími systémami a systémami na správu verzií pomocou pluginovej architektúry.</p>
+    <p>KDevelop má backendy parsera pre C, C++ a Javascript/QML, s ďalšími externými pluginmi podporujúcimi napr. PHP alebo Python.</p>
+  </description>
+  <description lang="sl">
+    <p>KDevelop je prosto in odprtokodno integrirano razvojno okolje  (IDE).</p>
+    <p>S pomočjo vstavkov omogoča urejanje, krmarjenje in razhroščevanje za številne programske jezike, hkrati pa ponuja podporo več sistemom za izgradnjo in nadzor različic.</p>
+    <p>KDevelop vsebuje razčlenjevalna zaledja za C, C++ in Javascript/QML, zunanji vstavki pa podpirajo tudi npr. PHP ali Python.</p>
+  </description>
+  <description lang="sv">
+    <p>KDevelop är en fri integrerad utvecklingsmiljö (IDE) med öppen källkod för olika programvaruprojekt.</p>
+    <p>Den tillhandahåller redigerings-, navigerings- och avlusningsfunktioner för flera olika programspråk, samt integrering med ett flertal byggsystem och versionskontrollsystem, med användning av en insticksbaserad arkitektur.</p>
+    <p>KDevelop har gränssnitt för tolkning av C, C++ och Javascript/QML, med ytterligare externa insticksprogram som stöder t.ex. PHP eller Python.</p>
+  </description>
+  <description lang="tr">
+    <p>KDevelop Özgür ve Açık Kaynaklı tümleşik geliştirme ortamıdır (IDE).</p>
+    <p>Bir çok programlama dili için düzenleme, gezinme ve hata ayıklama özellikleri sağlar, ayrıca bir çok inşa sistemi ve sürüm kontrol sistemi ile tümleşik olup eklenti-tabanlı mimari kullanır.</p>
+    <p>KDevelop C, C++ ve Javascript/QML için ayrıştırma arka uçlarına sahiptir, harici eklentilerle örn. PHP veya Python da desteklenir.</p>
+  </description>
+  <description lang="uk">
+    <p>KDevelop є вільним комплексним середовищем розробки (IDE) з відкритим кодом.</p>
+    <p>У програмі передбачено можливості з редагування, навігації та діагностики коду декількома мовами програмування, а також інтеграцію із декількома системами збирання коду та керування версіями. Використовується архітектура з додатками.</p>
+    <p>У KDevelop передбачено модулі обробки коду мовами C, C++ та Javascript/QML та додатки для розширення підтримки коду іншими мовами програмування, зокрема PHP і Python.</p>
+  </description>
+  <description lang="x-test">
+    <p>xxKDevelop is a Free and Open Source integrated development environment (IDE).xx</p>
+    <p>xxIt provides editing, navigation and debugging features for several programming languages, as well as integration with multiple build systems and version-control systems, using a plugin-based architecture.xx</p>
+    <p>xxKDevelop has parser backends for C, C++ and Javascript/QML, with further external plugins supporting e.g. PHP or Python.xx</p>
+  </description>
+  <description lang="zh-CN">
+    <p>可用于您的不同软件项目的自由和开源的集成开发环境</p>
+    <p>它提供了多种编程语言的编辑、导航和调试功能，以及与多种构建系统和版本控制系统的集成，使用基于插件的体系结构。</p>
+    <p>KDevelop 提供了 C、C++ 和 JavaScript/QML 的解析器后端，并通过插件提供 PHP 和 Python 等语言的支持。</p>
+  </description>
+  <url type="homepage">https://kdevelop.org</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kdevelop</url>
+  <url type="help">https://docs.kde.org/?application=kdevelop</url>
+  <url type="donation">https://www.kde.org/community/donations/?app=kdevelop</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://cdn.kde.org/screenshots/kdevelop/kdevelop.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kdevelop</binary>
+  </provides>
+  <launchable type="desktop-id">org.kde.kdevelop.desktop</launchable>
+  <categories>
+    <category>Development</category>
+    <category>IDE</category>
+  </categories>
+  <releases>
+    <release date="2022-07-07" version="5.8.220403" />
+    <release date="2022-06-09" version="5.8.220402" />
+    <release version="5.8.220401" date="2022-05-12" />
+    <release version="5.8.220400" date="2022-04-21" />
+  </releases>
+  <custom>
+    <value key="KDE::irc">#kdevelop</value>
+    <value key="KDE::matrix">#kdevelop:kde.org</value>
+    <value key="KDE::mailinglist">kdevelop@kde.org</value>
+    <value key="KDE::mailinglist-devel">kdevelop-devel@kde.org</value>
+    <value key="KDE::forum">218</value>
+  </custom>
+  <update_contact>kdevelop-devel@kde.org</update_contact>
+  <content_rating type="oars-1.1" />
+</component>

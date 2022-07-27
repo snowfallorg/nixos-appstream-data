@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="https://specifications.freedesktop.org/metainfo/1.0" xmlns:its="http://www.w3.org/2005/11/its" xmlns:xi="http://www.w3.org/2001/XInclude" type="addon">
+  <pkgname>gnome.gnome-terminal</pkgname>
+  <id>org.gnome.Terminal.Nautilus</id>
+  <id lang="zh_TW">org.gnome.Terminal.Nautilus</id>
+  <id lang="zh_CN">org.gnome.Terminal.Nautilus</id>
+  <id lang="vi">org.gnome.Terminal.Nautilus</id>
+  <id lang="uk">org.gnome.Terminal.Nautilus</id>
+  <id lang="tr">org.gnome.Terminal.Nautilus</id>
+  <id lang="sv">org.gnome.Terminal.Nautilus</id>
+  <id lang="sr">org.gnome.Terminal.Nautilus</id>
+  <id lang="sl">org.gnome.Terminal.Nautilus</id>
+  <id lang="sk">org.gnome.Terminal.Nautilus</id>
+  <id lang="ru">org.gnome.Terminal.Nautilus</id>
+  <id lang="ro">org.gnome.Terminal.Nautilus</id>
+  <id lang="pt_BR">org.gnome.Terminal.Nautilus</id>
+  <id lang="pt">org.gnome.Terminal.Nautilus</id>
+  <id lang="pl">org.gnome.Terminal.Nautilus</id>
+  <id lang="oc">org.gnome.Terminal.Nautilus</id>
+  <id lang="nl">org.gnome.Terminal.Nautilus</id>
+  <id lang="ne">org.gnome.Terminal.Nautilus</id>
+  <id lang="nb">org.gnome.Terminal.Nautilus</id>
+  <id lang="mjw">org.gnome.Terminal.Nautilus</id>
+  <id lang="lv">org.gnome.Terminal.Nautilus</id>
+  <id lang="lt">org.gnome.Terminal.Nautilus</id>
+  <id lang="ko">org.gnome.Terminal.Nautilus</id>
+  <id lang="kk">org.gnome.Terminal.Nautilus</id>
+  <id lang="ja">org.gnome.Terminal.Nautilus</id>
+  <id lang="it">org.gnome.Terminal.Nautilus</id>
+  <id lang="id">org.gnome.Terminal.Nautilus</id>
+  <id lang="hu">org.gnome.Terminal.Nautilus</id>
+  <id lang="hr">org.gnome.Terminal.Nautilus</id>
+  <id lang="he">org.gnome.Terminal.Nautilus</id>
+  <id lang="gl">org.gnome.Terminal.Nautilus</id>
+  <id lang="fur">org.gnome.Terminal.Nautilus</id>
+  <id lang="fr">org.gnome.Terminal.Nautilus</id>
+  <id lang="fi">org.gnome.Terminal.Nautilus</id>
+  <id lang="fa">org.gnome.Terminal.Nautilus</id>
+  <id lang="eu">org.gnome.Terminal.Nautilus</id>
+  <id lang="es">org.gnome.Terminal.Nautilus</id>
+  <id lang="eo">org.gnome.Terminal.Nautilus</id>
+  <id lang="en_GB">org.gnome.Terminal.Nautilus</id>
+  <id lang="el">org.gnome.Terminal.Nautilus</id>
+  <id lang="de">org.gnome.Terminal.Nautilus</id>
+  <id lang="da">org.gnome.Terminal.Nautilus</id>
+  <id lang="ca">org.gnome.Terminal.Nautilus</id>
+  <id lang="bn_IN">org.gnome.Terminal.Nautilus</id>
+  <id lang="bg">org.gnome.Terminal.Nautilus</id>
+  <extends>org.gnome.Nautilus.desktop</extends>
+  <extends lang="zh_TW">org.gnome.Nautilus.desktop</extends>
+  <extends lang="zh_CN">org.gnome.Nautilus.desktop</extends>
+  <extends lang="vi">org.gnome.Nautilus.desktop</extends>
+  <extends lang="uk">org.gnome.Nautilus.desktop</extends>
+  <extends lang="tr">org.gnome.Nautilus.desktop</extends>
+  <extends lang="sv">org.gnome.Nautilus.desktop</extends>
+  <extends lang="sr">org.gnome.Nautilus.desktop</extends>
+  <extends lang="sl">org.gnome.Nautilus.desktop</extends>
+  <extends lang="sk">org.gnome.Nautilus.desktop</extends>
+  <extends lang="ru">org.gnome.Nautilus.desktop</extends>
+  <extends lang="ro">org.gnome.Nautilus.desktop</extends>
+  <extends lang="pt_BR">org.gnome.Nautilus.desktop</extends>
+  <extends lang="pt">org.gnome.Nautilus.desktop</extends>
+  <extends lang="pl">org.gnome.Nautilus.desktop</extends>
+  <extends lang="oc">org.gnome.Nautilus.desktop</extends>
+  <extends lang="nl">org.gnome.Nautilus.desktop</extends>
+  <extends lang="ne">org.gnome.Nautilus.desktop</extends>
+  <extends lang="nb">org.gnome.Nautilus.desktop</extends>
+  <extends lang="mjw">org.gnome.Nautilus.desktop</extends>
+  <extends lang="lv">org.gnome.Nautilus.desktop</extends>
+  <extends lang="lt">org.gnome.Nautilus.desktop</extends>
+  <extends lang="ko">org.gnome.Nautilus.desktop</extends>
+  <extends lang="kk">org.gnome.Nautilus.desktop</extends>
+  <extends lang="ja">org.gnome.Nautilus.desktop</extends>
+  <extends lang="it">org.gnome.Nautilus.desktop</extends>
+  <extends lang="id">org.gnome.Nautilus.desktop</extends>
+  <extends lang="hu">org.gnome.Nautilus.desktop</extends>
+  <extends lang="hr">org.gnome.Nautilus.desktop</extends>
+  <extends lang="he">org.gnome.Nautilus.desktop</extends>
+  <extends lang="gl">org.gnome.Nautilus.desktop</extends>
+  <extends lang="fur">org.gnome.Nautilus.desktop</extends>
+  <extends lang="fr">org.gnome.Nautilus.desktop</extends>
+  <extends lang="fi">org.gnome.Nautilus.desktop</extends>
+  <extends lang="fa">org.gnome.Nautilus.desktop</extends>
+  <extends lang="eu">org.gnome.Nautilus.desktop</extends>
+  <extends lang="es">org.gnome.Nautilus.desktop</extends>
+  <extends lang="eo">org.gnome.Nautilus.desktop</extends>
+  <extends lang="en_GB">org.gnome.Nautilus.desktop</extends>
+  <extends lang="el">org.gnome.Nautilus.desktop</extends>
+  <extends lang="de">org.gnome.Nautilus.desktop</extends>
+  <extends lang="da">org.gnome.Nautilus.desktop</extends>
+  <extends lang="ca">org.gnome.Nautilus.desktop</extends>
+  <extends lang="bn_IN">org.gnome.Nautilus.desktop</extends>
+  <extends lang="bg">org.gnome.Nautilus.desktop</extends>
+  <metadata_license>GPL-3.0+ or GFDL-1.3-only</metadata_license>
+  <metadata_license lang="zh_TW">GPL-3.0+ 或 GFDL-1.3-only</metadata_license>
+  <metadata_license lang="zh_CN">GPL-3.0+ or GFDL-1.3-only</metadata_license>
+  <metadata_license lang="vi">GPL-3.0+ hoặc chỉ-GFDL-1.3</metadata_license>
+  <metadata_license lang="uk">GPL-3.0+ або GFDL-1.3-only</metadata_license>
+  <metadata_license lang="tr">GPL-3.0+ veya GFDL-1.3-only</metadata_license>
+  <metadata_license lang="sv">GPL-3.0+ or GFDL-1.3-only</metadata_license>
+  <metadata_license lang="sr">само ОЈЛ-3.0+ или само GFDL-1.3</metadata_license>
+  <metadata_license lang="sl">GPL-3.0+ ali GFDL-1.3</metadata_license>
+  <metadata_license lang="sk">GPL-3.0+ alebo GFDL-1.3-only</metadata_license>
+  <metadata_license lang="ru">GPL-3.0+ или только GFDL-1.3</metadata_license>
+  <metadata_license lang="ro">GPL-3.0+ sau numai GFDL-1.3</metadata_license>
+  <metadata_license lang="pt_BR">GPL-3.0+ ou GFDL-1.3-only</metadata_license>
+  <metadata_license lang="pt">GPL-3.0+ or GFDL-1.3-apenas</metadata_license>
+  <metadata_license lang="pl">GPL-3.0+ or GFDL-1.3-only</metadata_license>
+  <metadata_license lang="oc">GPL-3.0+ o sonlament GFDL-1.3</metadata_license>
+  <metadata_license lang="nl">GPL-3.0+ of enkel GFDL-1.3</metadata_license>
+  <metadata_license lang="ne">GPL-3.0+ or GFDL-1.3-मात्र</metadata_license>
+  <metadata_license lang="nb">GPL-3.0+ eller GFDL-1.3-only</metadata_license>
+  <metadata_license lang="mjw">GPL-3.0+ or GFDL-1.3-only</metadata_license>
+  <metadata_license lang="lv">GPL-3.0+ vai tikai GFDL-1.3</metadata_license>
+  <metadata_license lang="lt">GPL-3.0+ arba GFDL-1.3-only</metadata_license>
+  <metadata_license lang="ko">GPL-3.0+ 또는 GFDL-1.3-only</metadata_license>
+  <metadata_license lang="kk">GPL-3.0+ немесе тек GFDL-1.3</metadata_license>
+  <metadata_license lang="kab">GPL-3.0+ neɣ GFDL-1.3-kan</metadata_license>
+  <metadata_license lang="ja">GPL-3.0+ または GFDL-1.3-only</metadata_license>
+  <metadata_license lang="it">GPL-3.0+ o GFDL-1.3-only</metadata_license>
+  <metadata_license lang="id">GPL-3.0+ atau GFDL-1.3-only</metadata_license>
+  <metadata_license lang="hu">GPL-3.0+ vagy csak GFDL-1.3</metadata_license>
+  <metadata_license lang="hr">GPL-3.0+ ili GFDL-1.3-samo</metadata_license>
+  <metadata_license lang="he">‫GPL-3.0+‎ או GFDL-1.3-בלבד</metadata_license>
+  <metadata_license lang="gl">GPL-3.0+ ou so GFDL-1.3</metadata_license>
+  <metadata_license lang="fur">GPL-3.0+ o GFDL-1.3-only</metadata_license>
+  <metadata_license lang="fr">GPL-3.0+ ou GFDL-1.3-only</metadata_license>
+  <metadata_license lang="fi">GPL-3.0+ tai GFDL-1.3-only</metadata_license>
+  <metadata_license lang="fa">GPL-3.0+ یا GFDL-1.3-only</metadata_license>
+  <metadata_license lang="eu">GPL-3.0+ edo GFDL-1.3 soilik</metadata_license>
+  <metadata_license lang="es">GPL-3.0+ o GFDL-1.3-only</metadata_license>
+  <metadata_license lang="eo">GPL-3.0+ aŭ GFDL-1.3-sole</metadata_license>
+  <metadata_license lang="en_GB">GPL-3.0+ or GFDL-1.3-only</metadata_license>
+  <metadata_license lang="el">GPL-3.0+ ή GFDL-1.3-μόνο</metadata_license>
+  <metadata_license lang="de">Nur GPL-3.0+ oder GFDL-1.3</metadata_license>
+  <metadata_license lang="da">Kun GPL-3.0+ eller GFDL-1.3</metadata_license>
+  <metadata_license lang="cs">GPL-3.0+ nebo GFDL-1.3 výhradně</metadata_license>
+  <metadata_license lang="ca">GPL-3.0+ o només GFDL-1.3</metadata_license>
+  <metadata_license lang="bn_IN">GPL-3.0 + বা GFDL-1.3-শুধুমাত্র</metadata_license>
+  <metadata_license lang="bg">GPL-3.0+ или GFDL-1.3-only</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <project_license lang="zh_TW">GPL-3.0+</project_license>
+  <project_license lang="zh_CN">GPL-3.0+</project_license>
+  <project_license lang="vi">GPL-3.0+</project_license>
+  <project_license lang="uk">GPL-3.0+</project_license>
+  <project_license lang="tr">GPL-3.0+</project_license>
+  <project_license lang="sv">GPL-3.0+</project_license>
+  <project_license lang="sr">ОЈЛ-3.0+</project_license>
+  <project_license lang="sl">GPL-3.0+</project_license>
+  <project_license lang="sk">GPL-3.0+</project_license>
+  <project_license lang="ru">GPL-3.0+</project_license>
+  <project_license lang="ro">GPL-3.0+</project_license>
+  <project_license lang="pt_BR">GPL-3.0+</project_license>
+  <project_license lang="pt">GPL-3.0+</project_license>
+  <project_license lang="pl">GPL-3.0+</project_license>
+  <project_license lang="oc">GPL-3.0+</project_license>
+  <project_license lang="nl">GPL-3.0+</project_license>
+  <project_license lang="ne">GPL-3.0+</project_license>
+  <project_license lang="nb">GPL-3.0+</project_license>
+  <project_license lang="mjw">GPL-3.0+</project_license>
+  <project_license lang="lv">GPL-3.0+</project_license>
+  <project_license lang="lt">GPL-3.0+</project_license>
+  <project_license lang="ko">GPL-3.0+</project_license>
+  <project_license lang="kk">GPL-3.0+</project_license>
+  <project_license lang="kab">GPL-3.0+</project_license>
+  <project_license lang="ja">GPL-3.0+</project_license>
+  <project_license lang="it">GPL-3.0+</project_license>
+  <project_license lang="id">GPL-3.0+</project_license>
+  <project_license lang="hu">GPL-3.0+</project_license>
+  <project_license lang="hr">GPL-3.0+</project_license>
+  <project_license lang="he">‫GPL-3.0+‎</project_license>
+  <project_license lang="gl">GPL-3.0+</project_license>
+  <project_license lang="fur">GPL-3.0+</project_license>
+  <project_license lang="fr">GPL-3.0+</project_license>
+  <project_license lang="fi">GPL-3.0+</project_license>
+  <project_license lang="fa">GPL-3.0+</project_license>
+  <project_license lang="eu">GPL 3.0</project_license>
+  <project_license lang="es">GPL-3.0+</project_license>
+  <project_license lang="eo">GPL-3.0+</project_license>
+  <project_license lang="en_GB">GPL-3.0+</project_license>
+  <project_license lang="el">GPL-3.0+</project_license>
+  <project_license lang="de">GPL-3.0+</project_license>
+  <project_license lang="da">GPL-3.0+</project_license>
+  <project_license lang="cs">GPL-3.0+</project_license>
+  <project_license lang="ca">GPL-3.0+</project_license>
+  <project_license lang="bn_IN">GPL-3.0+</project_license>
+  <project_license lang="bg">GPL-3.0+</project_license>
+  <name>Terminal plugin for Files</name>
+  <name lang="zh_TW">給《檔案》使用的終端機外掛程式</name>
+  <name lang="zh_CN">用于文件管理器的终端插件</name>
+  <name lang="vi">Phần bổ sung Thiết bị cuối cho “Tập tin”</name>
+  <name lang="uk">Додаток для Файлів</name>
+  <name lang="tr">Dosyalar için Uçbirim eklentisi</name>
+  <name lang="th">ปลั๊กอินเทอร์มินัลสำหรับ “แฟ้ม”</name>
+  <name lang="sv">Terminalinsticksmodul för Filer</name>
+  <name lang="sr@latin">Priključak terminala za Datoteke</name>
+  <name lang="sr">Прикључак терминала за Датотеке</name>
+  <name lang="sl">Vstavek terminala za sistemski upravljalnik datotek</name>
+  <name lang="sk">Zásuvný modul Terminál pre aplikáciu Súbory</name>
+  <name lang="ru">Модуль терминала для Nautilus</name>
+  <name lang="ro">Modulul terminal pentru Fișiere</name>
+  <name lang="pt_BR">Plug-in do terminal para Arquivos</name>
+  <name lang="pt">Plugins do terminal para Ficheiros</name>
+  <name lang="pl">Wtyczka terminala dla Menedżera plików</name>
+  <name lang="pa">ਫਾਇਲਾਂ ਲਈ ਟਰਮੀਨਲ ਪਲੱਗਇਨ</name>
+  <name lang="oc">Empeuton de terminal per Fichièrs</name>
+  <name lang="nl">Terminal-plug-in voor Bestanden</name>
+  <name lang="nb">Terminaltillegg for Filer</name>
+  <name lang="ms">Pemalam terminal untuk Fail</name>
+  <name lang="ml">ഫയലുകള്‍ക്ക് വേണ്ടിയുള്ള ടെര്‍മിനല്‍ പ്ലഗ്ഗിന്‍</name>
+  <name lang="lv">Termināļa spraudnis “Datnēm”</name>
+  <name lang="lt">Terminalo įskiepis, skirtas Failams</name>
+  <name lang="ko">파일 보기용 터미널 플러그인</name>
+  <name lang="kk">Файлдар қолданбасы үшін терминал плагині</name>
+  <name lang="ja">“ファイル”アプリケーション用の端末プラグイン</name>
+  <name lang="it">Plugin del terminale per File</name>
+  <name lang="is">Skjáhermiviðbót fyrir skráastjóra</name>
+  <name lang="id">Plugin Terminal bagi Berkas</name>
+  <name lang="hu">Terminál bővítmény a Fájlokhoz</name>
+  <name lang="hr">Terminal priključak za Datoteke</name>
+  <name lang="he">תוסף מסוף לקבצים</name>
+  <name lang="gl">Engadido de Terminal para Ficheiros</name>
+  <name lang="gd">Plugan an tèirmineil airson Faidhlichean</name>
+  <name lang="fur">Plugin terminâl par File</name>
+  <name lang="fr">Greffon de terminal pour Fichiers</name>
+  <name lang="fi">Pääteliitännäinen tiedostoselaimeen</name>
+  <name lang="fa">افزایهٔ پایانه برای پرونده‌ها</name>
+  <name lang="eu">Terminalaren osagarria Fitxategientzako</name>
+  <name lang="es">Complemento de terminal para Archivos</name>
+  <name lang="eo">Terminala kromprogramo por Dosieroj</name>
+  <name lang="en_GB">Terminal plug-in for Files</name>
+  <name lang="el">Πρόσθετο τερματικού για το Αρχεία</name>
+  <name lang="de">Terminal-Erweiterung für »Dateien«</name>
+  <name lang="da">Terminal-plugin til Filer</name>
+  <name lang="cs">Zásuvný modul Terminál pro Soubory</name>
+  <name lang="ca@valencia">Connector de terminal per als fitxers</name>
+  <name lang="ca">Connector de terminal per al Fitxers</name>
+  <name lang="bn_IN">ফাইলগুলির জন্য টার্মিনাল প্লাগইন</name>
+  <name lang="bg">Приставка за „Файлове“</name>
+  <name lang="be">Плугін тэрмінала для Файлаў</name>
+  <name lang="ar">ملحق طرفيّة لمدير الملفات</name>
+  <summary>Open a terminal from Files</summary>
+  <summary lang="zh_TW">從《檔案》開啟終端機</summary>
+  <summary lang="zh_CN">从文件管理器打开终端</summary>
+  <summary lang="vi">Mở Thiết bị cuối từ “Tập tin”</summary>
+  <summary lang="uk">Відкрити термінал з Файлів</summary>
+  <summary lang="tr">Dosyalar uygulamasından Uçbirim aç</summary>
+  <summary lang="th">เปิดเทอร์มินัลจาก “แฟ้ม”</summary>
+  <summary lang="sv">Öppna en terminal från Filer</summary>
+  <summary lang="sr@latin">Otvara terminal iz Datoteka</summary>
+  <summary lang="sr">Отвара терминал из Датотека</summary>
+  <summary lang="sl">Odpri okno terminala iz sistemskega upravljalnika</summary>
+  <summary lang="sk">Otvorí terminál z aplikácie Súbory</summary>
+  <summary lang="ru">Открывает терминал из Nautilus</summary>
+  <summary lang="ro">Deschide un terminal din Fișiere</summary>
+  <summary lang="pt_BR">Abrir um terminal a partir de Arquivos</summary>
+  <summary lang="pt">Abrir um terminal a partir de Ficheiros</summary>
+  <summary lang="pl">Otwieranie terminala w Menedżerze plików</summary>
+  <summary lang="pa">ਫਾਇਲਾਂ ਤੋਂ ਟਰਮੀਨਲ ਨੂੰ ਖੋਲ੍ਹੋ</summary>
+  <summary lang="oc">Dobrir un terminal a partir de Fichièrs</summary>
+  <summary lang="nl">Een terminal openen vanuit Bestanden</summary>
+  <summary lang="ne">फाइलबाट टर्मिनल खोल्नुहोस्</summary>
+  <summary lang="nb">Åpne en terminal fra Filer</summary>
+  <summary lang="ms">Buka satu terminal melalui Fail</summary>
+  <summary lang="ml">ഫയലുകളില്‍ നിന്ന് ഒരു ടെര്‍മിനല്‍ തുറക്കുക</summary>
+  <summary lang="lv">Atvērt termināli no “Datnēm”</summary>
+  <summary lang="lt">Atverti terminalą iš Failų</summary>
+  <summary lang="ko">파일 보기에서 터미널을 엽니다</summary>
+  <summary lang="kk">Файлдар қолданбасынан терминалды ашу</summary>
+  <summary lang="ja">“ファイル”アプリケーションから端末を開く</summary>
+  <summary lang="it">Apre un terminale da File</summary>
+  <summary lang="is">Opna skjáhermi úr skráastjóra</summary>
+  <summary lang="id">Buka sebuah terminal dari Berkas</summary>
+  <summary lang="hu">Terminál megnyitása a Fájlokban</summary>
+  <summary lang="hr">Otvori terminal iz Datoteka</summary>
+  <summary lang="he">פתיחת מסוף מתכנית הקבצים</summary>
+  <summary lang="gl">Abrir unha terminal desde Ficheiros</summary>
+  <summary lang="gd">Fosgail tèirmineal o Fhaidhlichean</summary>
+  <summary lang="fur">Vierç un terminâl da File</summary>
+  <summary lang="fr">Ouvrir un terminal à partir de Fichiers</summary>
+  <summary lang="fi">Avaa pääte tiedostoselaimesta</summary>
+  <summary lang="fa">گشودن یک پایانه از پرونده‌ها</summary>
+  <summary lang="eu">Ireki terminal bat Fitxategietatik</summary>
+  <summary lang="es">Abrir una terminal desde Archivos</summary>
+  <summary lang="eo">Malfermi terminalon el Dosieroj</summary>
+  <summary lang="en_GB">Open a terminal from Files</summary>
+  <summary lang="el">Άνοιγμα τερματικού από τα Αρχεία</summary>
+  <summary lang="de">Ein Terminal aus der Dateiverwaltung heraus öffnen</summary>
+  <summary lang="da">Åbn en terminal fra Filer</summary>
+  <summary lang="cs">Otevírá terminál z aplikace Soubory</summary>
+  <summary lang="ca@valencia">Obri un terminal per als fitxers</summary>
+  <summary lang="ca">Obre un terminal des del Fitxers</summary>
+  <summary lang="bn_IN">ফাইলগুলি থেকে একটি টার্মিনাল খুলুন</summary>
+  <summary lang="bg">Отваряне на терминал от „Файлове“</summary>
+  <summary lang="be">Адкрыць тэрмінал з праграмы Файлы</summary>
+  <summary lang="ar">افتح طرفيّة من مدير الملفات</summary>
+  <description>
+    <p>Open Terminal is a plugin for the Files application that adds a menu item to the context menu to open a terminal in the currently browsed directory.</p>
+  </description>
+  <description lang="be">
+    <p>Плугін тэрмінала для праграмы Файлы дадае пункт у кантэкставае меню, які адкрывае тэрмінал у бягучым каталогу.</p>
+  </description>
+  <description lang="bg">
+    <p>Това е приставка за програмата „Файлове“, която добавя команда за отваряне на терминала в текущата папка.</p>
+  </description>
+  <description lang="bn_IN">
+    <p>ওপেন টার্মিনাল ফাইল অ্যাপ্লিকেশনের জন্য একটি প্লাগইন যা বর্তমানে ব্রাউজ ডিরেক্টরিতে টার্মিনালটি খোলার জন্য প্রসঙ্গ মেনুতে একটি মেনু আইটেম যুক্ত করে।</p>
+  </description>
+  <description lang="ca">
+    <p>Open Terminal és un connector per l'aplicació de fitxers que afegeix un element de menú al menú contextual per a obrir un terminal al directori actual de navegació.</p>
+  </description>
+  <description lang="ca@valencia">
+    <p>Open Terminal és un connector per l'aplicació de fitxers que afig un element de menú al menú contextual per obrir un terminal al directori actual de navegació.</p>
+  </description>
+  <description lang="cs">
+    <p>Otevřít terminál je zásuvný modul pro aplikaci Soubory, který přidává do kontextové nabídky položku pro otevření terminálu v právě procházené složce.</p>
+  </description>
+  <description lang="da">
+    <p>Åbn terminal er et plugin til Filer-programmet som tilføjer et menupunkt til genvejsmenuen til at åbne en terminal i den aktuelle mappe.</p>
+  </description>
+  <description lang="de">
+    <p>»Terminal öffnen« ist eine Erweiterung für die Dateien-Anwendung, die einen Menüeintrag in das Kontextmenü einfügt, der ein Terminal im aktuell besuchten Ordner öffnet.</p>
+  </description>
+  <description lang="el">
+    <p>Το «Άνοιγμα τερματικού» είναι μια επέκταση για τα Αρχεία που προσθέτει ένα αντικείμενο στο μενού περιεχομένων, όπου ανοίγει ένα τερματικό στην τρέχουσα θέση του καταλόγου.</p>
+  </description>
+  <description lang="en_GB">
+    <p>Open Terminal is a plug-in for the Files application that adds a menu item to the context menu to open a terminal in the currently browsed directory.</p>
+  </description>
+  <description lang="eo">
+    <p>Malfermi Terminalon estas kromprogramo por la Dosieroj-aplikaĵo, kiu aldonas menueron en la kunteksta menuo por malfermi terminalon en la nuna dosierujo.</p>
+  </description>
+  <description lang="es">
+    <p>Abrir terminal es un complemento para la aplicación Archivos que añade un elemento de menú al menú contextual para abrir una terminal en la carpeta actual.</p>
+  </description>
+  <description lang="eu">
+    <p>'Ireki terminala' Fitxategiak aplikazioarentzako osagarri bat da. Testuinguruko menuari elementu bat gehitzen dio terminal bat irekitzeko (uneko direktorioan kokatuta).</p>
+  </description>
+  <description lang="fa">
+    <p>گشودن پایانه افزایه‌ای برای برنامهٔ پرونده‌هاست که موردی را برای گشودن پایانه در شاخهٔ کنونی، به فهرست محتوایش می‌افزاید.</p>
+  </description>
+  <description lang="fi">
+    <p>"Avaa pääte" on liitännäinen tiedostoselaimeen, joka lisää valikkotoiminnon kontekstivalikkoon selattavan kansion kohdalle.</p>
+  </description>
+  <description lang="fr">
+    <p>Ouvrir un terminal est un greffon pour l’application Fichiers qui ajoute une entrée de menu dans le menu contextuel pour ouvrir un terminal dans le dossier en cours d’affichage.</p>
+  </description>
+  <description lang="fur">
+    <p>Vierç terminâl al è un plugin par l'aplicazion File che al zonte un element tal menù di contest, par vierzi un terminâl te cartele atualmentri sfueade.</p>
+  </description>
+  <description lang="gd">
+    <p>’S e plugan a th’ ann am “Fosgail tèirmineal” airson aplacaid nam faidhlichean a chuireas nì ris a’ chlàr-taice cho-theacsail gus tèirmineal fhosgladh sa phasgan a thagh thu.</p>
+  </description>
+  <description lang="gl">
+    <p>Abrir un Terminal é un engadido para a aplicación Ficheiros que engade un elemento no menú contextual para abrir un terminal no cartafol que se está explorando actualmente.</p>
+  </description>
+  <description lang="he">
+    <p>פתיחת המסוף הוא תוסף לתכנית הקבצים שמוסיף פריט לתפריט ההקשר לפתיחת מסוף בתיקייה שהתכנית מציגה כרגע.</p>
+  </description>
+  <description lang="hr">
+    <p>Otvori terminal je priključak za Datoteke aplikaciju koji dodaje stavku u sadržajni izbornik za otvaranje terminala u trenutno pregledanom direktoriju.</p>
+  </description>
+  <description lang="hu">
+    <p>A terminál megnyitása egy bővítmény a Fájlok alkalmazáshoz, amely egy menüelemet ad a helyi menühöz, ahonnan terminálablak nyitható az éppen nyitott mappában.</p>
+  </description>
+  <description lang="id">
+    <p>Open Terminal adalah suatu pengaya bagi aplikasi Berkas yang menambah suatu butir menu ke menu konteks untuk membuka sebuah terminal dalam direktori yang saat ini sedang diramban.</p>
+  </description>
+  <description lang="it">
+    <p>Apri terminale è un plugin per l'applicazione File che aggiunge una voce al menù contestuale per aprire un terminale nell'attuale directory in esplorazione.</p>
+  </description>
+  <description lang="ja">
+    <p>Open Terminal は、現在閲覧中のディレクトリを端末で開くためのコンテキストメニュー項目を追加する、“ファイル”アプリケーション用のプラグインです。</p>
+  </description>
+  <description lang="kk">
+    <p>Терминалды Файлдар қолданбасының плагині ретінде ашу, ол ағымдағы бумада терминалды ашу мүмкіндігін беретін контекст мәзірінің опциясын қосады.</p>
+  </description>
+  <description lang="ko">
+    <p>터미널 열기는 파일 보기 프로그램의 현재 보고 있는 디렉터리에서 터미널을 여는 메뉴 항목을 컨텍스트 메뉴에 추가합니다.</p>
+  </description>
+  <description lang="lt">
+    <p>Atverti terminalą yra Failų programai skirtas įskiepis, kuris prideda kontekstinio meniu elementą, atveriantį terminalą esamu metu naršomame kataloge.</p>
+  </description>
+  <description lang="lv">
+    <p>“Atvērt termināli” ir spraudnis lietotnei “Datnes”, kas pievieno izvēlnes vienumu konteksta izvēlnei, kas atver termināli pārlūkotajā direktorijā.</p>
+  </description>
+  <description lang="ml">
+    <p>ഓപ്പണ്‍ ടെര്‍മിനല്‍ എന്നത് ഫയല്‍ ആപ്ലിക്കേഷനുവേണ്ടിയുള്ള ഒരു പ്ലഗ്ഗിനാണ് അത് കോണ്ടക്സ്റ്റ് മെനുവിലെ ഒരു മെനു ഐറ്റമായി ചേരുന്നു, ഇത് ഇപ്പോള്‍ തുറന്നിരിക്കുന്ന ഡയറക്ടറിയില്‍ ഒരു ടെര്‍മിനല്‍ തുറക്കുന്നു.</p>
+  </description>
+  <description lang="ms">
+    <p>Buka Terminal ialah pemalam untuk aplikasi Fail yang menambah satu menu item ke dalam menu konteks untuk membuka satu terminal di dalam direktori semasa yang dilayar.</p>
+  </description>
+  <description lang="nb">
+    <p>Åpne terminal er et tillegg for Filer programmet som legger til en menyoppføring i kontekstmenyen for å åpne en terminal i aktiv katalog.</p>
+  </description>
+  <description lang="ne">
+    <p>टर्मिनल खोल्नुहोस् फाइल अनुप्रयोगका लागि एउटा प्लगइन हो जसले हालै ब्राउज गरिएको डाइरेक्टरीमा टर्मिनल खोल्न सन्दर्भ मेनुमा मेनु वस्तु थप्दछ ।</p>
+  </description>
+  <description lang="nl">
+    <p>Terminal Openen is een plug-in voor de Bestanden-toepassing die een menu-item aan het context-menu toevoegt om een terminal te openen in de huidige map.</p>
+  </description>
+  <description lang="oc">
+    <p>Dobrir un terminal es un empeuton per l'aplicacion Fichièrs qu'apond una entrada de menú dins lo menú contextual per dobrir un terminal dins lo dorsièr en cors d’afichatge.</p>
+  </description>
+  <description lang="pl">
+    <p>Wtyczka dla Menedżera plików dodająca element do menu kontekstowego otwierający terminal w obecnie przeglądanym katalogu.</p>
+  </description>
+  <description lang="pt">
+    <p>Abrir Terminal é um plugin para a aplicação Ficheiros que adiciona no menu de contexto abrir terminal na pasta atual.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Open Terminal é um plug-in para o aplicativo Arquivos que adiciona um item de menu ao menu de contexto para abrir um terminal no diretório navegado no momento.</p>
+  </description>
+  <description lang="ro">
+    <p>Deschide terminal este un modul pentru aplicația Fișiere, ce adaugă un element de meniu la meniul contextual pentru a deschide un terminal în dosarul curent.</p>
+  </description>
+  <description lang="ru">
+    <p>Открыть терминал — модуль для приложения Nautilus, который добавляет в строку в контекстном меню для открытия терминала в текущей просматриваемой папке.</p>
+  </description>
+  <description lang="sk">
+    <p>Otvoriť terminál je zásuvný modul pre aplikáciu Súbory, ktorý pridáva položku kontextovej ponuky na otvorenie terminálu v aktuálne prehliadanom adresári.</p>
+  </description>
+  <description lang="sl">
+    <p>Open Terminal je vstavek za sistemski urejevalnik datotek Datoteke (Files), ki omogoča odpiranje terminala prek vsebinskega menija.</p>
+  </description>
+  <description lang="sr">
+    <p>Отвори терминал је додатак за програм Датотеке, који додаје ставку менија за отварање терминала из тренутног директоријума.</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Otvori terminal je dodatak za program Datoteke, koji dodaje stavku menija za otvaranje terminala iz trenutnog direktorijuma.</p>
+  </description>
+  <description lang="sv">
+    <p>Öppna terminal är en insticksmodul för programmet Filer som lägger till ett menyobjekt i kontextmenyn för att öppna en terminal i den öppnade katalogen.</p>
+  </description>
+  <description lang="th">
+    <p>“เปิดเทอร์มินัล” เป็นปลั๊กอินสำหรับโปรแกรม “แฟ้ม” ที่จะเพิ่มรายการในเมนูคลิกขวา เพื่อใช้เปิดเทอร์มินัลในไดเรกทอรีที่กำลังท่องดูในขณะนั้น</p>
+  </description>
+  <description lang="tr">
+    <p>Open Terminal, görüntülenen klasörde uçbirim açmak için bağlam menüsüne menü ögesi ekleyen bir Dosyalar uygulaması eklentisidir.</p>
+  </description>
+  <description lang="uk">
+    <p>Відкрити термінал — додаток для програми Файли, яка додає пункт в контекстне меню, щоб відкривати термінал у поточному каталозі.</p>
+  </description>
+  <description lang="vi">
+    <p>Mở Thiết bị cuối là phần bổ sung dành cho ứng dụng “Tập tin” cái mà sẽ thêm một mục vào trình đơn ngữ cảnh để mở thiết bị cuối ở thư mục hiện đang được duyệt.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>“打开终端”是用于文件管理器的插件，这个插件支持通过右键菜单在当前浏览的目录中打开终端模拟器。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>Open Terminal 是《檔案》應用程式的外掛程式，可以在目前瀏覽目錄的脈絡選單中加入開啟終端機的選單項目。</p>
+  </description>
+  <url type="homepage">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="zh_TW">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="zh_CN">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="vi">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="uk">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="tr">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="sv">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="sr">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="sl">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <url lang="sk">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="ru">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="ro">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="pt_BR">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="pt">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="pl">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="oc">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="nl">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="ne">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="nb">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="mjw">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="lv">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="lt">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="ko">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="kk">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="ja">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="it">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="id">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="hu">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="hr">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="he">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="gl">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="fur">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="fr">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="fi">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="fa">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="eu">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="es">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="eo">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="en_GB">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="el">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="de">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="da">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="cs">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="ca">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="bn_IN">https://wiki.gnome.org/Apps/Terminal</url>
+  <url lang="bg">https://wiki.gnome.org/Apps/Terminal</url>
+  <project_group>GNOME</project_group>
+  <project_group lang="zh_TW">GNOME</project_group>
+  <project_group lang="zh_CN">GNOME</project_group>
+  <project_group lang="vi">GNOME</project_group>
+  <project_group lang="uk">GNOME</project_group>
+  <project_group lang="tr">GNOME</project_group>
+  <project_group lang="sv">GNOME</project_group>
+  <project_group lang="sr">Гном</project_group>
+  <project_group lang="sl">GNOME</project_group>
+  <project_group lang="sk">GNOME</project_group>
+  <project_group lang="ru">GNOME</project_group>
+  <project_group lang="ro">GNOME</project_group>
+  <project_group lang="pt_BR">GNOME</project_group>
+  <project_group lang="pt">GNOME</project_group>
+  <project_group lang="pl">GNOME</project_group>
+  <project_group lang="oc">GNOME</project_group>
+  <project_group lang="nl">Gnome</project_group>
+  <project_group lang="ne">जिनोम</project_group>
+  <project_group lang="nb">GNOME</project_group>
+  <project_group lang="mjw">GNOME</project_group>
+  <project_group lang="lv">GNOME</project_group>
+  <project_group lang="lt">GNOME</project_group>
+  <project_group lang="ko">GNOME</project_group>
+  <project_group lang="kk">GNOME</project_group>
+  <project_group lang="kab">GNOME</project_group>
+  <project_group lang="ja">GNOME</project_group>
+  <project_group lang="it">GNOME</project_group>
+  <project_group lang="id">GNOME</project_group>
+  <project_group lang="hu">GNOME</project_group>
+  <project_group lang="hr">GNOME</project_group>
+  <project_group lang="he">GNOME</project_group>
+  <project_group lang="gl">GNOME</project_group>
+  <project_group lang="fur">GNOME</project_group>
+  <project_group lang="fr">GNOME</project_group>
+  <project_group lang="fi">GNOME</project_group>
+  <project_group lang="fa">گنوم</project_group>
+  <project_group lang="eu">GNOME</project_group>
+  <project_group lang="es">GNOME</project_group>
+  <project_group lang="eo">GNOME</project_group>
+  <project_group lang="en_GB">GNOME</project_group>
+  <project_group lang="el">GNOME</project_group>
+  <project_group lang="de">GNOME</project_group>
+  <project_group lang="da">GNOME</project_group>
+  <project_group lang="cs">GNOME</project_group>
+  <project_group lang="ca">GNOME</project_group>
+  <project_group lang="bn_IN">GNOME</project_group>
+  <project_group lang="bg">GNOME</project_group>
+  <update_contact>https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="zh_TW">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="zh_CN">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="vi">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="uk">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="tr">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="sv">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="sr">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="sl">https://wiki.gnome.org/Apps/Aisleriot</update_contact>
+  <update_contact lang="sk">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="ru">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="ro">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="pt_BR">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="pt">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="pl">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="oc">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="nl">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="ne">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="nb">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="mjw">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="lv">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="lt">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="ko">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="kk">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="ja">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="it">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="id">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="hu">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="hr">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="he">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="gl">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="fur">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="fr">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="fi">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="fa">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="eu">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="es">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="eo">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="en_GB">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="el">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="de">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="da">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="cs">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="ca">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="bn_IN">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <update_contact lang="bg">https://wiki.gnome.org/Apps/Terminal/ReportingBugs</update_contact>
+  <translation type="gettext">gnome-terminal</translation>
+  <translation lang="zh_TW">gnome-terminal</translation>
+  <translation lang="zh_CN">gnome-terminal</translation>
+  <translation lang="vi">gnome-terminal</translation>
+  <translation lang="uk">gnome-terminal</translation>
+  <translation lang="tr">gnome-terminal</translation>
+  <translation lang="sv">gnome-terminal</translation>
+  <translation lang="sr">gnome-terminal</translation>
+  <translation lang="sl">gnome-terminal</translation>
+  <translation lang="sk">gnome-terminal</translation>
+  <translation lang="ru">gnome-terminal</translation>
+  <translation lang="ro">gnome-terminal</translation>
+  <translation lang="pt_BR">gnome-terminal</translation>
+  <translation lang="pt">gnome-terminal</translation>
+  <translation lang="pl">gnome-terminal</translation>
+  <translation lang="oc">gnome-terminal</translation>
+  <translation lang="nl">gnome-terminal</translation>
+  <translation lang="ne">जिनोम टर्मिनल</translation>
+  <translation lang="nb">gnome-terminal</translation>
+  <translation lang="mjw">gnome-terminal</translation>
+  <translation lang="lv">gnome-terminal</translation>
+  <translation lang="lt">gnome-terminal</translation>
+  <translation lang="ko">그놈 터미널</translation>
+  <translation lang="kk">gnome-terminal</translation>
+  <translation lang="ja">gnome-terminal</translation>
+  <translation lang="it">gnome-terminal</translation>
+  <translation lang="id">gnome-terminal</translation>
+  <translation lang="hu">gnome-terminal</translation>
+  <translation lang="hr">gnome-terminal</translation>
+  <translation lang="he">gnome-terminal</translation>
+  <translation lang="gl">gnome-terminal</translation>
+  <translation lang="fur">gnome-terminal</translation>
+  <translation lang="fr">gnome-terminal</translation>
+  <translation lang="fi">gnome-terminal</translation>
+  <translation lang="fa">gnome-terminal</translation>
+  <translation lang="eu">gnome-terminal</translation>
+  <translation lang="es">gnome-terminal</translation>
+  <translation lang="eo">gnome-terminal</translation>
+  <translation lang="en_GB">gnome-terminal</translation>
+  <translation lang="el">gnome-terminal</translation>
+  <translation lang="de">gnome-terminal</translation>
+  <translation lang="da">gnome-terminal</translation>
+  <translation lang="ca">gnome-terminal</translation>
+  <translation lang="bn_IN">gnome-terminal</translation>
+  <translation lang="bg">gnome-terminal</translation>
+</component>

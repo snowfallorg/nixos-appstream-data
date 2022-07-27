@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>pantheon.elementary-shortcut-overlay</pkgname>
+  <launchable type="desktop-id">io.elementary.shortcut-overlay.desktop</launchable>
+  <id>io.elementary.shortcut-overlay</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>Shortcuts</name>
+  <name lang="uk">Комбінації клавіш</name>
+  <name lang="tr">Kısayollar</name>
+  <name lang="ru">Сочетания клавиш</name>
+  <name lang="pt">Atalhos</name>
+  <name lang="pl">Skróty</name>
+  <name lang="nb">Snarveier</name>
+  <name lang="ja">ショートカット</name>
+  <name lang="hu">Gyorskombinációk</name>
+  <name lang="he">קיצורי דרך</name>
+  <name lang="fr">Raccourcis</name>
+  <name lang="fi">Pikanäppäimet</name>
+  <name lang="es">Atajos</name>
+  <name lang="en_GB">Shortcuts</name>
+  <name lang="de">Tastaturkürzel</name>
+  <name lang="ca">Dreceres</name>
+  <name lang="ar">الاختصارات</name>
+  <summary>View system shortcuts</summary>
+  <summary lang="uk">Глянути системні комбінації клавіш</summary>
+  <summary lang="tr">Sistem kısayollarını görüntüle</summary>
+  <summary lang="ru">Посмотреть системные сочетания клавиш</summary>
+  <summary lang="pt">Ver atalhos do sistema</summary>
+  <summary lang="pl">Wyświetl skróty klawiszowe systemu</summary>
+  <summary lang="ja">システムのショートカットを表示します</summary>
+  <summary lang="hu">A rendszer gyorsparancsainak megtekintése</summary>
+  <summary lang="he">הצגת קיצורי הדרך המערכתיים</summary>
+  <summary lang="fr">Affichage des raccourcis système</summary>
+  <summary lang="fi">Katso järjestelmän pikanäppäimet</summary>
+  <summary lang="es">Ver atajos del sistema</summary>
+  <summary lang="en_GB">View system shortcuts</summary>
+  <summary lang="de">System-Tastenkürzel anzeigen</summary>
+  <summary lang="ca">Mostra les dreceres del sistema</summary>
+  <summary lang="ar">اعرض اختصارات النظام</summary>
+  <description>
+    <p />
+  </description>
+  <releases>
+    <release date="2021-10-29" version="1.2.1" urgency="low">
+      <description>
+        <ul>
+          <li>Fix the app not launching if a shortcut key is set to blank</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-07-14" version="1.2.0" urgency="medium">
+      <description>
+        <ul>
+          <li>Add screenshot shortcuts</li>
+          <li>Fix issues with multiple windows</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.1.2" date="2020-05-28" urgency="medium">
+      <description>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" date="2020-04-02" version="1.1.1">
+      <description>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-11-15" version="1.1.0" urgency="medium">
+      <description>
+        <ul>
+          <li>Add "Switch Layout" and "Close Window", shortcuts</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <provides>
+    <binary>io.elementary.shortcut-overlay</binary>
+  </provides>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/elementary/shortcut-overlay/master/data/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="violence-desecration">none</content_attribute>
+    <content_attribute id="violence-slavery">none</content_attribute>
+    <content_attribute id="violence-worship">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="sex-homosexuality">none</content_attribute>
+    <content_attribute id="sex-prostitution">none</content_attribute>
+    <content_attribute id="sex-adultery">none</content_attribute>
+    <content_attribute id="sex-appearance">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+  <translation type="gettext">io.elementary.shortcut-overlay</translation>
+  <developer_name>elementary, Inc.</developer_name>
+  <developer_name lang="zh_TW">elementary, Inc.</developer_name>
+  <developer_name lang="zh_CN">elementary, Inc.</developer_name>
+  <developer_name lang="uk">elementary, Inc.</developer_name>
+  <developer_name lang="tr">elementary, Inc.</developer_name>
+  <developer_name lang="sv">elementary, Inc.</developer_name>
+  <developer_name lang="sr">elementary, Inc.</developer_name>
+  <developer_name lang="sl">elementary, Inc.</developer_name>
+  <developer_name lang="ru">elementary, Inc.</developer_name>
+  <developer_name lang="pt_BR">elementary, Inc.</developer_name>
+  <developer_name lang="pt">elementary, Inc.</developer_name>
+  <developer_name lang="pl">elementary, Inc.</developer_name>
+  <developer_name lang="oc">elementary, Inc.</developer_name>
+  <developer_name lang="nn">elementary, Inc.</developer_name>
+  <developer_name lang="nl">elementary, Inc.</developer_name>
+  <developer_name lang="mr">एलिमेंटरी,Inc.</developer_name>
+  <developer_name lang="lt">elementary, Inc.</developer_name>
+  <developer_name lang="ko">elementary, Inc.</developer_name>
+  <developer_name lang="ja">elementary, Inc.</developer_name>
+  <developer_name lang="it">elementary, Inc.</developer_name>
+  <developer_name lang="hu">elementary, Inc.</developer_name>
+  <developer_name lang="he">elementary בע״מ</developer_name>
+  <developer_name lang="gl">elementary, Inc.</developer_name>
+  <developer_name lang="fr">elementary, Inc.</developer_name>
+  <developer_name lang="fi">elementary, Inc.</developer_name>
+  <developer_name lang="es">elementary, Inc.</developer_name>
+  <developer_name lang="eo">elementary, Inc.</developer_name>
+  <developer_name lang="en_GB">elementary, Inc.</developer_name>
+  <developer_name lang="el">elementary, Inc.</developer_name>
+  <developer_name lang="de">elementary, Inc.</developer_name>
+  <developer_name lang="da">elementary, Incorporated.</developer_name>
+  <developer_name lang="cs">elementary, Inc.</developer_name>
+  <developer_name lang="ca">elementary, Inc.</developer_name>
+  <developer_name lang="bs">elementary, Inc.</developer_name>
+  <developer_name lang="ar">elementary, Inc.</developer_name>
+  <developer_name lang="am">elementary, Inc.</developer_name>
+  <url type="homepage">http://elementary.io</url>
+  <url type="bugtracker">https://github.com/elementary/shortcut-overlay/issues</url>
+</component>

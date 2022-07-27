@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>libsForQt5.ksquares</pkgname>
+  <launchable type="desktop-id">org.kde.ksquares.desktop</launchable>
+  <icon width="64" height="64" type="cached">ksquares.png</icon>
+  <icon height="128" type="cached" width="128">ksquares.png</icon>
+  <id>org.kde.ksquares.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KSquares</name>
+  <name lang="ar">المربعات</name>
+  <name lang="ca">KSquares</name>
+  <name lang="ca-valencia">KSquares</name>
+  <name lang="cs">KSquares</name>
+  <name lang="da">KSquares</name>
+  <name lang="de">KSquares</name>
+  <name lang="el">KSquares</name>
+  <name lang="en-GB">KSquares</name>
+  <name lang="es">KSquares</name>
+  <name lang="et">KSquares</name>
+  <name lang="eu">KSquares</name>
+  <name lang="fi">KSquares</name>
+  <name lang="fr">KSquares</name>
+  <name lang="gl">KSquares</name>
+  <name lang="id">KSquares</name>
+  <name lang="it">KSquares</name>
+  <name lang="ko">KSquares</name>
+  <name lang="nl">KSquares</name>
+  <name lang="nn">Kvadrat</name>
+  <name lang="pl">Kwadraty</name>
+  <name lang="pt">KSquares</name>
+  <name lang="pt-BR">KSquares</name>
+  <name lang="ru">KSquares</name>
+  <name lang="sk">KSquares</name>
+  <name lang="sl">KSquares</name>
+  <name lang="sr">К‑квадрати</name>
+  <name lang="sr-Latn">K‑kvadrati</name>
+  <name lang="sr-ijekavian">К‑квадрати</name>
+  <name lang="sr-ijekavianlatin">K‑kvadrati</name>
+  <name lang="sv">Fyrkanter</name>
+  <name lang="tr">KSquares</name>
+  <name lang="uk">KSquares</name>
+  <name lang="x-test">xxKSquaresxx</name>
+  <name lang="zh-CN">KSquares</name>
+  <name lang="zh-TW">KSquares</name>
+  <summary>Connect the dots to create squares</summary>
+  <summary lang="ar">صل النقاط لتنشئ مربعات</summary>
+  <summary lang="ca">Connecteu els punts per a crear quadrats</summary>
+  <summary lang="ca-valencia">Connecteu els punts per a crear quadrats</summary>
+  <summary lang="cs">Spojte tečky a vytvořte čtverce</summary>
+  <summary lang="de">Käsekästchen-Spiel</summary>
+  <summary lang="el">Συνδέστε τις τελείες για να σχηματίσετε τετράγωνα</summary>
+  <summary lang="en-GB">Connect the dots to create squares</summary>
+  <summary lang="es">Conecte los puntos para crear cuadrados</summary>
+  <summary lang="et">Punktide ühendamine ruutude loomiseks</summary>
+  <summary lang="eu">Konektatu puntuak karratuak sortzeko</summary>
+  <summary lang="fi">Yhdistä pisteet muodostaaksesi neliöitä</summary>
+  <summary lang="fr">Relier les points pour créer des carrés</summary>
+  <summary lang="gl">Conecta os puntos creando cadrados</summary>
+  <summary lang="id">Hubungkan titik-titik untuk menciptakan kotak-kotak</summary>
+  <summary lang="it">Unisci i puntini per creare dei quadrati</summary>
+  <summary lang="ko">점을 연결해서 사각형 만들기</summary>
+  <summary lang="nl">Verbind de stippen om vierkanten te maken</summary>
+  <summary lang="nn">Teikn strekar mellom prikkar for å laga kvadrat</summary>
+  <summary lang="pl">Połącz kropki, żeby otrzymać kwadraty</summary>
+  <summary lang="pt">Ligar os pontos para criar quadrados</summary>
+  <summary lang="pt-BR">Conecte os pontos para criar quadrados</summary>
+  <summary lang="ru">Соединяйте точки для создания квадрата</summary>
+  <summary lang="sk">Spojte bodky a vytvorte štvorce</summary>
+  <summary lang="sl">Povežite pikice, da ustvarite kvadrate</summary>
+  <summary lang="sr">Повежите тачке у квадрате</summary>
+  <summary lang="sr-Latn">Povežite tačke u kvadrate</summary>
+  <summary lang="sr-ijekavian">Повежите тачке у квадрате</summary>
+  <summary lang="sr-ijekavianlatin">Povežite tačke u kvadrate</summary>
+  <summary lang="sv">Sammanbind punkter för att skapa fyrkanter</summary>
+  <summary lang="tr">Kare oluşturmak için noktaları birbirlerine bağla</summary>
+  <summary lang="uk">З’єднайте крапки, щоб створити квадрати</summary>
+  <summary lang="x-test">xxConnect the dots to create squaresxx</summary>
+  <summary lang="zh-CN">通过点连接创建方形</summary>
+  <summary lang="zh-TW">將點連起來組成方塊</summary>
+  <description>
+    <p>KSquares is a game modeled after the well known pen and paper based game of Dots and Boxes. Each player takes it in turns to draw a line between two adjacent dots on the board. The objective is to complete more squares than your opponents.</p>
+  </description>
+  <description lang="ar">
+    <p>المربعات هي لعبة على غرار لعبة القلم والورق المعروفة Dots and Boxes. يأخذ كل لاعب دوره لرسم خط بين نقطتين متجاورتين على اللوحة. الهدف هو إكمال مربعات أكثر من خصومك.</p>
+  </description>
+  <description lang="ca">
+    <p>El KSquares és un joc modelat després del conegut Quadrats jugat amb llapis i paper. Per torns, cada jugador dibuixa una línia entre dos punts adjacents del tauler. L'objectiu és completar més quadrats que els adversaris.</p>
+  </description>
+  <description lang="ca-valencia">
+    <p>KSquares és un joc modelat després del conegut Quadrats jugat amb llapis i paper. Per torns, cada jugador dibuixa una línia entre dos punts adjacents del tauler. L'objectiu és completar més quadrats que els adversaris.</p>
+  </description>
+  <description lang="de">
+    <p>KSquares ist ein Spiel, das an das bekannte „Papier und Stift“-Spiel Käsekästchen angelehnt ist. Jeder Spieler muss der Reihe nach einen Strich zwischen zwei benachbarten Punkten zeichnen. Ziel des Spiels ist es, mehr Kästchen als der Gegner zu malen.</p>
+  </description>
+  <description lang="el">
+    <p>Το KSquares είναι ένα παιχνίδι με βάση το πολύ γνωστό παιχνίδι Ενώνω τις τελίτσες που παίζεται με στιλό και χαρτί. Ο κάθε παίκτης με τη σειρά του σχηματίζει μια γραμμή ανάμεσα σε δύο γειτονικές κουκίδες στον πίνακα. Ο σκοπός είναι να συμπληρώσετε περισότερα τετράγωνα από τον αντίπαλό σας.</p>
+  </description>
+  <description lang="en-GB">
+    <p>KSquares is a game modelled after the well known pen and paper based game of Dots and Boxes. Each player takes it in turns to draw a line between two adjacent dots on the board. The objective is to complete more squares than your opponents.</p>
+  </description>
+  <description lang="es">
+    <p>KSquares es un juego basado en el conocido juego de papel y lápiz de puntos y cuadrados. Cada jugador dispone de su turno para dibujar una línea entre dos puntos adyacentes del tablero. El objetivo es completar más cuadrados que el oponente.</p>
+  </description>
+  <description lang="et">
+    <p>KSquares võttis eeskujuks tuntud paberil mängitava mängu Dots and Boxes (Eestis on analoogne mäng tuntud Maamängu nime all). Mängijad tõmbavad kordamööda jooni kahe kõrvutise punkti vahele. Siht on valmis saada rohkem ruute kui vastane.</p>
+  </description>
+  <description lang="eu">
+    <p>KSquares, papera eta bolaluma erabiliz jokatzen den Puntuak eta Laukiak joko ezagunari jarraituz modelatutako joko bat da. Jokalari bakoitzak, txandaka, taulan aldamenean dauden bi punturen artean lerro bat marraztu behar du. Helburua aurkariek baino karratu gehiago osatzea da.</p>
+  </description>
+  <description lang="fi">
+    <p>KSquares muistuttaa tunnettua kynällä ja paperilla pelattavaa Pisteet ja laatikot -peliä. Kukin pelaaja vuorolla piirtää laudalla kahden vierekkäisen pisteen välille viivan. Tavoitteena on yhdistää useampia neliöitä kuin vastustajasi.</p>
+  </description>
+  <description lang="fr">
+    <p>KSquares est un jeu conçu à partir du célèbre jeu de la pipopipette (ou jeu des petits carrés). Chaque joueur dessine à son tour une ligne entre deux points adjacents sur la grille. L'objectif est de fermer davantage de carrés que votre adversaire.</p>
+  </description>
+  <description lang="gl">
+    <p>KSquares é un xogo baseado no famoso xogo de puntos e caixas que se xoga con bolígrafo e papel. Por quendas, cada xogador debuxa unha liña entre dous puntos adxacentes no taboleiro. O obxectivo é completar máis cadrados que o contrincante.</p>
+  </description>
+  <description lang="id">
+    <p>KSquares adalah sebuah permainan yang dimodel setelah terkenalnya permainan berdasarkan kertas dan pulpen dari Titik-titik dan Kotak-kotak. Setiap pemain terjatah giliran untuk menggambar sebuah garis antara dua titik-titik pada papan. Sasarannya adalah untuk melengkapi selebihnya kotak-kotak lawanmu.</p>
+  </description>
+  <description lang="it">
+    <p>KSquares è un gioco creato sulla falsa riga del noto gioco di carta e matita Punti e linee. Ciascun giocatore inizia il proprio turno disegnando una linea tra due punti vicini nel tavoliere. L'obbiettivo è completare più quadrati dell'avversario.</p>
+  </description>
+  <description lang="ko">
+    <p>KSquares는 펜과 종이로 점을 이어서 상자를 만드는 게임을 기반으로 합니다. 각각 플레이어는 인접한 점 두 개를 잇는 선을 그려 나갑니다. 게임의 목표는 상대방보다 더 많은 사각형을 그리는 것입니다.</p>
+  </description>
+  <description lang="nl">
+    <p>KSquares is een spel gemodelleerd naar het welbekende op pen en papier gebaseerde spel met punten en vakjes. Elke speler tekent om de beurt een lijn tussen twee naast elkaar gelegen punten in het werkveld. Het doel is om meer vierkantjes te voltooien dan uw tegenstanders.</p>
+  </description>
+  <description lang="nn">
+    <p>Kvadrat er basert på penn- og papirutgåva av spelet med same namn. Spelarane teiknar i tur ei linje mellom to prikkar som ligg nær kvarandre på brettet. Målet er å teikna ferdig fleire kvadrat enn motstandaren.</p>
+  </description>
+  <description lang="pl">
+    <p>Kwadraty jest grą wzorującą się na dobrze znanej grze w kropki i pola opartej na ołówku i kartce papieru. Każdy gracz w swojej turze rysuje linię pomiędzy dwoma sąsiednimi kropkami na planszy. Celem jest nakreślenie większej liczby kwadratów niż twój przeciwnik</p>
+  </description>
+  <description lang="pt">
+    <p>O KSquares é um jogo modelado com base no conhecido jogo de Pontos e Caixas, com papel e caneta. Cada jogador. Joga por turnos para desenhar uma linha entre dois pontos adjacentes no tabuleiro. O objectivo é completar mais quadrados que os seus adversários.</p>
+  </description>
+  <description lang="pt-BR">
+    <p>KSquares é um jogo modelado com base no conhecido jogo dos Pontinhos, que é jogado com papel e caneta. Cada jogador desenha uma linha de forma alternada entre dois pontos adjacentes no tabuleiro. O objetivo é completar mais quadrados que os seus adversários.</p>
+  </description>
+  <description lang="sk">
+    <p>KSquares je hra podľa známej hry Body a štvorce. Každý hráč urobí ťah na nakreslenie čiary medzi dvoma bodmi na ploche. Cieľom je urobiť viac štvorcov ako súper.</p>
+  </description>
+  <description lang="sl">
+    <p>KSquares je igra, ki temelji na znani namizni igri s papirjem in svinčnikom imenovani Dots and Boxes. Igralca izmenično rišeta črte med sosednjimi pikami na igralni površini. Cilj igre je dopolniti več kvadratov kot nasprotnik.</p>
+  </description>
+  <description lang="sr">
+    <p>К‑квадрати је игра замишљена према добро познатој игри на папиру затварање квадрата. Сваки играч у свом потезу уцртава једну дуж између две суседне тачке на табли. Циљ је затворити више квадрата од противника.</p>
+  </description>
+  <description lang="sr-Latn">
+    <p>K‑kvadrati je igra zamišljena prema dobro poznatoj igri na papiru zatvaranje kvadrata. Svaki igrač u svom potezu ucrtava jednu duž između dve susedne tačke na tabli. Cilj je zatvoriti više kvadrata od protivnika.</p>
+  </description>
+  <description lang="sr-ijekavian">
+    <p>К‑квадрати је игра замишљена према добро познатој игри на папиру затварање квадрата. Сваки играч у свом потезу уцртава једну дуж између две суседне тачке на табли. Циљ је затворити више квадрата од противника.</p>
+  </description>
+  <description lang="sr-ijekavianlatin">
+    <p>K‑kvadrati je igra zamišljena prema dobro poznatoj igri na papiru zatvaranje kvadrata. Svaki igrač u svom potezu ucrtava jednu duž između dve susedne tačke na tabli. Cilj je zatvoriti više kvadrata od protivnika.</p>
+  </description>
+  <description lang="sv">
+    <p>Fyrkanter är ett spel modellerat efter det välkända penn- och pappersbaserade spelet "Ringar och rutor". Varje spelare ritar i tur och ordning en linje mellan två intilliggande punkter på spelbrädet. Målet är att göra färdigt fler fyrkanter än motspelarna.</p>
+  </description>
+  <description lang="tr">
+    <p>KSquares, Nokta ve Kutular adlı tanınmış kalem ve kağıt tabanlı oyun sonrasında modellenmiş bir oyundur. Her oyuncu sırayla, tahtada bitişik iki nokta arasında çizgi çizer. Amaç, rakibinizden daha fazla kareyi tamamlamaktır.</p>
+  </description>
+  <description lang="uk">
+    <p>KSquares — гра, яку створено на основі добре відомої гри на папері, яка має назву «Палички» або «Квадрати». Гравці послідовно малюють лінії на папері, з’єднуючи сусідні крапки на дошці. Метою є заволодіння більшою за суперника кількістю квадратів.</p>
+  </description>
+  <description lang="x-test">
+    <p>xxKSquares is a game modeled after the well known pen and paper based game of Dots and Boxes. Each player takes it in turns to draw a line between two adjacent dots on the board. The objective is to complete more squares than your opponents.xx</p>
+  </description>
+  <description lang="zh-CN">
+    <p>KSquares 是一款模仿知名纸笔游戏——点格棋的游戏。每位玩家轮流在棋盘两个相邻点间画线，目标是比对手画出更多正方形。</p>
+  </description>
+  <description lang="zh-TW">
+    <p>KSquare 是一套古老遊戲的翻版。每個玩家輪到自己時可以在兩個相鄰的點間劃一條線。目標是比對手劃出更多的正方形。</p>
+  </description>
+  <url type="homepage">https://www.kde.org</url>
+  <url type="bugtracker">https://bugs.kde.org</url>
+  <url type="donation">https://www.kde.org/community/donations/?app=ksquares&amp;source=appdata</url>
+  <screenshots>
+    <screenshot type="default">
+      <caption>The typical board position in KSquares</caption>
+      <caption lang="ar">موقع اللوحة النموذجي في لعبة المربعات</caption>
+      <caption lang="ca">La posició típica de tauler en el KSquares</caption>
+      <caption lang="ca-valencia">La posició típica de tauler en KSquares</caption>
+      <caption lang="de">Eine typische Spielposition in KSquares</caption>
+      <caption lang="el">Η τυπική θέση του πίνακα στο KSquares</caption>
+      <caption lang="en-GB">The typical board position in KSquares</caption>
+      <caption lang="es">La posición de tablero típica de KSquares</caption>
+      <caption lang="et">KSquaresi tüüpiline mänguväljak</caption>
+      <caption lang="eu">KSquares-en taulako joko-egoera tipikoa</caption>
+      <caption lang="fi">KSquares-laudan tyypillinen asetelma</caption>
+      <caption lang="fr">Un plateau de jeu de KSquares en cours de partie</caption>
+      <caption lang="gl">A posición típica do taboleiro en KSquares</caption>
+      <caption lang="id">Posisi papan yang khas di KSquares</caption>
+      <caption lang="it">La posizione tipica del tavoliere in KSquares</caption>
+      <caption lang="ko">KSquares 보드 배치</caption>
+      <caption lang="nl">De typische positie van het bord in KSquares</caption>
+      <caption lang="nn">Eit typisk Kvadrat-brett</caption>
+      <caption lang="pl">Zwyczajowe położenie planszy w Kwadratach</caption>
+      <caption lang="pt">A posição típica do tabuleiro no KSquares</caption>
+      <caption lang="pt-BR">A posição típica do tabuleiro no KSquares</caption>
+      <caption lang="sk">Typická pozícia dosky v KSquares</caption>
+      <caption lang="sl">Tipična postavitev v KSquares</caption>
+      <caption lang="sv">Den typiska brädpositionen i Fyrkanter</caption>
+      <caption lang="tr">KSquares'teki tipik tahta konumu</caption>
+      <caption lang="uk">Типова позиція у KSquares</caption>
+      <caption lang="x-test">xxThe typical board position in KSquaresxx</caption>
+      <caption lang="zh-CN">KSquares 中的典型棋盘位</caption>
+      <caption lang="zh-TW">KSquares 中的典型棋盤位置</caption>
+      <image height="576" type="source" width="1024">https://cdn.kde.org/screenshots/ksquares/ksquares-standard.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>The completed squares in KSquares</caption>
+      <caption lang="ar">المربعات المكتملة في لعبة المربعات</caption>
+      <caption lang="ca">Els quadrats completats en el KSquares</caption>
+      <caption lang="ca-valencia">Els quadrats completats en KSquares</caption>
+      <caption lang="cs">Dokončené čtverce v KSquares</caption>
+      <caption lang="de">Die gefüllten Kästchen in KSquares</caption>
+      <caption lang="el">Τα συμπληρωμένα τετράγωνα στο KSquares</caption>
+      <caption lang="en-GB">The completed squares in KSquares</caption>
+      <caption lang="es">Los cuadros completados de KSquares</caption>
+      <caption lang="et">KSquaresi valmisruutudega mänguväljak</caption>
+      <caption lang="eu">KSquares-en osatutako karratuak</caption>
+      <caption lang="fi">KSquares valmiina</caption>
+      <caption lang="fr">Les carreaux complétés dans KSquare</caption>
+      <caption lang="gl">Os cadrados completados en KSquares</caption>
+      <caption lang="id">Kotak-kotak terlengkap di KSquares</caption>
+      <caption lang="it">I quadrati completati in KSquares</caption>
+      <caption lang="ko">KSquares 다 그린 사각형</caption>
+      <caption lang="nl">De voltooide vierkanten in KSquares</caption>
+      <caption lang="nn">Fullførte kvadrat</caption>
+      <caption lang="pl">Ukończone kwadraty w Kwadratach</caption>
+      <caption lang="pt">Os quadrados completos no KSquares</caption>
+      <caption lang="pt-BR">Os quadrados completos no KSquares</caption>
+      <caption lang="sk">Vyplnené štvorce v KSquares</caption>
+      <caption lang="sl">Zaključeni kvadrati v KSquares</caption>
+      <caption lang="sv">De färdiga fyrkanterna i Fyrkanter</caption>
+      <caption lang="tr">KSquares'teki tamamlanmış kareler</caption>
+      <caption lang="uk">Заповнені квадратики у KSquares</caption>
+      <caption lang="x-test">xxThe completed squares in KSquaresxx</caption>
+      <caption lang="zh-CN">KSquares 中画出的完整正方形</caption>
+      <caption lang="zh-TW">KSquares 中的完成棋盤</caption>
+      <image height="576" width="1024" type="source">https://cdn.kde.org/screenshots/ksquares/ksquares-filled.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>An initial board in KSquares</caption>
+      <caption lang="ar">اللوحة المبدئية للعبة المربعات</caption>
+      <caption lang="ca">Un tauler inicial al KSquares</caption>
+      <caption lang="ca-valencia">Un tauler inicial a KSquares</caption>
+      <caption lang="de">Spielbeginn in KSquares</caption>
+      <caption lang="el">Ο αρχικός πίνακας στο KSquares</caption>
+      <caption lang="en-GB">An initial board in KSquares</caption>
+      <caption lang="es">Un tablero inicial de KSquares</caption>
+      <caption lang="et">KSquaresi algne mänguväljak</caption>
+      <caption lang="eu">KSquares-en hasierako taula</caption>
+      <caption lang="fi">KSquaresin lauta aluksi</caption>
+      <caption lang="fr">Un plateau initial de KSquares</caption>
+      <caption lang="gl">Un taboleiro inicial en KSquares</caption>
+      <caption lang="id">Sebuah papan inisial di KSquares</caption>
+      <caption lang="it">Tavoliere iniziale in KSquares</caption>
+      <caption lang="ko">KSquares 초기 보드</caption>
+      <caption lang="nl">Het initiële bord in KSquares</caption>
+      <caption lang="nn">Eit nytt Kvadrat-brett</caption>
+      <caption lang="pl">Początkowa plansza w Kwadratach</caption>
+      <caption lang="pt">Um tabuleiro inicial no KSquares</caption>
+      <caption lang="pt-BR">Um tabuleiro inicial no KSquares</caption>
+      <caption lang="sk">Počiatočná doska v KSquares</caption>
+      <caption lang="sl">Začetna postavitev v KSquares</caption>
+      <caption lang="sv">Ett inledande bräde i Fyrkanter</caption>
+      <caption lang="tr">KSquares başlangıç görünümü</caption>
+      <caption lang="uk">Початкове ігрове поле у KSquares</caption>
+      <caption lang="x-test">xxAn initial board in KSquaresxx</caption>
+      <caption lang="zh-CN">KSquares 中的初始棋盘</caption>
+      <caption lang="zh-TW">KSquares 中的初始棋盤</caption>
+      <image type="source" width="1024" height="576">https://cdn.kde.org/screenshots/ksquares/ksquares-empty.png</image>
+    </screenshot>
+  </screenshots>
+  <provides>
+    <binary>ksquares</binary>
+  </provides>
+  <project_group>KDE</project_group>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release version="0.6.22043" date="2022-07-07" />
+    <release version="0.6.22042" date="2022-06-09" />
+    <release version="0.6.22041" date="2022-05-12" />
+    <release version="0.6.22040" date="2022-04-21" />
+  </releases>
+</component>

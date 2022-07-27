@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>grandorgue</pkgname>
+  <launchable type="desktop-id">GrandOrgue.desktop</launchable>
+  <id type="desktop">GrandOrgue.desktop</id>
+  <metadata_license>CC BY-SA</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>GrandOrgue</name>
+  <summary>Pipe organ simulator</summary>
+  <description>
+    <p>
+ GrandOrgue is a virtual pipe organ sample player application supporting
+ a HW1 compatible file format.
+  </p>
+  </description>
+  <screenshots>
+    <screenshot height="751" type="default" width="1015">https://sourceforge.net/p/ourorgan/screenshot/PiteaMHS_main.png</screenshot>
+    <screenshot width="960" height="643">https://sourceforge.net/p/ourorgan/screenshot/Burea_funeral_extend_main.jpg</screenshot>
+    <screenshot width="1051" height="751">https://sourceforge.net/p/ourorgan/screenshot/Burea_chuch_gui.png</screenshot>
+    <screenshot height="751" width="1271">https://sourceforge.net/p/ourorgan/screenshot/Burea_church_extended.png</screenshot>
+  </screenshots>
+  <url type="homepage">https://sourceforge.net/p/ourorgan/wiki/</url>
+  <updatecontact>ourorgan-developers@lists.sourceforge.net</updatecontact>
+</component>

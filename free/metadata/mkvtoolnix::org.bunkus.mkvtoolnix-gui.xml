@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>mkvtoolnix</pkgname>
+  <icon height="64" type="cached" width="64">mkvtoolnix-gui.png</icon>
+  <icon type="cached" height="128" width="128">mkvtoolnix-gui.png</icon>
+  <id>org.bunkus.mkvtoolnix-gui</id>
+  <launchable type="desktop-id">org.bunkus.mkvtoolnix-gui.desktop</launchable>
+  <name>MKVToolNix</name>
+  <name lang="de">MKVToolNix</name>
+  <name lang="bg">MKVToolNix</name>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0</project_license>
+  <developer_name>Moritz Bunkus</developer_name>
+  <summary>Matroska files creator and tools</summary>
+  <summary lang="de">Werkzeuge zum Erzeugen und Bearbeiten von Matroska-Dateien</summary>
+  <summary lang="bg">Инструменти за създаване и редактиране на Matroska файлове</summary>
+  <description>
+    <p>
+      MKVToolNix is a set of tools to create, alter and inspect Matroska files
+      under Linux, other Unices and Windows.
+    </p>
+  </description>
+  <description lang="bg">
+    <p>
+      MKVToolNix е набор от инструменти за Linux, други Unix-базирани системи и Windows,
+      позволяващи създаване, променяне и изследване на Matroska файлове.
+    </p>
+  </description>
+  <description lang="de">
+    <p>
+      MKVToolNix ist eine Sammlung von Werkzeugen für Linux, andere Unixe und Windows, mit denen Matroska-Dateien erzeugt, verändert und
+      begutachtet werden können.
+    </p>
+  </description>
+  <categories>
+    <category>AudioVideo</category>
+  </categories>
+  <mimetypes>
+    <mimetype>application/x-mkvtoolnix-gui-settings</mimetype>
+    <mimetype>video/x-matroska-3d</mimetype>
+    <mimetype>video/x-matroska</mimetype>
+    <mimetype>audio/x-matroska</mimetype>
+    <mimetype>video/webm</mimetype>
+    <mimetype>audio/webm</mimetype>
+  </mimetypes>
+  <url type="bugtracker">https://gitlab.com/mbunkus/mkvtoolnix/issues/</url>
+  <url type="contact">https://mkvtoolnix.download/community.html</url>
+  <url type="faq">https://gitlab.com/mbunkus/mkvtoolnix/wikis/FAQ</url>
+  <url type="help">https://mkvtoolnix.download/community.html</url>
+  <url type="homepage">https://mkvtoolnix.download</url>
+  <url type="translate">https://www.transifex.com/moritz-bunkus/mkvtoolnix/dashboard/</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://mkvtoolnix.download/images/mkvtoolnix-gui-official-screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <provides>
+    <binary>mkvmerge</binary>
+    <binary>mkvinfo</binary>
+    <binary>mkvextract</binary>
+    <binary>mkvpropedit</binary>
+    <binary>mkvtoolnix-gui</binary>
+  </provides>
+  <update_contact>moritz_AT_bunkus.org</update_contact>
+  <translation type="gettext">mkvtoolnix</translation>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release date="2022-05-22" version="68.0.0" />
+    <release version="67.0.0" date="2022-04-10" />
+    <release date="2022-03-13" version="66.0.0" />
+    <release date="2022-02-06" version="65.0.0" />
+    <release version="64.0.0" date="2021-12-27" />
+    <release version="63.0.0" date="2021-11-14" />
+    <release version="62.0.0" date="2021-10-10" />
+    <release version="61.0.0" date="2021-08-30" />
+    <release date="2021-07-31" version="60.0.0" />
+    <release date="2021-07-10" version="59.0.0" />
+    <release version="58.0.0" date="2021-06-13" />
+    <release date="2021-05-22" version="57.0.0" />
+    <release version="56.1.0" date="2021-04-09" />
+    <release date="2021-04-05" version="56.0.0" />
+    <release version="55.0.0" date="2021-03-06" />
+    <release version="54.0.0" date="2021-02-26" />
+    <release version="53.0.0" date="2021-01-30" />
+    <release version="52.0.0" date="2021-01-04" />
+    <release date="2020-10-04" version="51.0.0" />
+    <release version="50.0.0" date="2020-09-06" />
+    <release date="2020-08-02" version="49.0.0" />
+    <release version="48.0.0" date="2020-06-27" />
+    <release date="2020-05-30" version="47.0.0" />
+    <release date="2020-05-01" version="46.0.0" />
+    <release version="45.0.0" date="2020-04-04" />
+    <release date="2020-03-08" version="44.0.0" />
+    <release date="2020-01-26" version="43.0.0" />
+    <release date="2020-01-02" version="42.0.0" />
+    <release version="41.0.0" date="2019-12-06" />
+    <release version="40.0.0" date="2019-11-09" />
+    <release date="2019-11-04" version="39.0.0" />
+    <release version="38.0.0" date="2019-10-06" />
+    <release date="2019-08-24" version="37.0.0" />
+    <release date="2019-08-10" version="36.0.0" />
+    <release version="35.0.0" date="2019-06-22" />
+    <release date="2019-05-18" version="34.0.0" />
+    <release version="33.1.0" date="2019-04-14" />
+    <release date="2019-04-12" version="33.0.0" />
+    <release version="32.0.0" date="2019-03-12" />
+    <release version="31.0.0" date="2019-02-09" />
+    <release date="2019-01-05" version="30.1.0" />
+    <release date="2019-01-04" version="30.0.0" />
+    <release version="29.0.0" date="2018-12-01" />
+    <release date="2018-10-25" version="28.2.0" />
+    <release date="2018-10-23" version="28.1.0" />
+    <release version="28.0.0" date="2018-10-20" />
+    <release version="27.0.0" date="2018-09-26" />
+    <release version="26.0.0" date="2018-08-26" />
+    <release version="25.0.0" date="2018-07-12" />
+  </releases>
+</component>

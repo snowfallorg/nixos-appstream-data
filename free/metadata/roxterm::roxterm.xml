@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>roxterm</pkgname>
+  <launchable type="desktop-id">roxterm.desktop</launchable>
+  <icon height="64" type="cached" width="64">roxterm.png</icon>
+  <icon width="128" height="128" type="cached">roxterm.png</icon>
+  <id type="desktop">roxterm.desktop</id>
+  <metadata_license>CC-BY-4.0</metadata_license>
+  <project_license>GPL-2.0+ and LGPL-3.0+</project_license>
+  <name>ROXTerm</name>
+  <summary>Terminal emulator</summary>
+  <description>
+    <p>
+  ROXTerm is a terminal emulator intended to provide similar features to
+  gnome-terminal, based on the same VTE library. It is more configurable than
+  gnome-terminal and aimed more at "power" users who make heavy use of
+  terminals.
+  </p>
+  </description>
+  <screenshots>
+    <screenshot height="362" width="672" type="default">
+  http://roxterm.sourceforge.net/lib/screenshot1.png</screenshot>
+    <screenshot width="784" height="441">
+  http://roxterm.sourceforge.net/lib/screenshot2.png</screenshot>
+  </screenshots>
+  <url type="homepage">https://github.com/realh/roxterm</url>
+  <updatecontact>h@realh.co.uk</updatecontact>
+  <project_group>GNOME</project_group>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>UserDocs</kudo>
+  </kudos>
+</component>

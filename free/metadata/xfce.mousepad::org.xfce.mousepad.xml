@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>xfce.mousepad</pkgname>
+  <icon width="64" height="64" type="cached">org.xfce.mousepad.png</icon>
+  <icon width="128" type="cached" height="128">org.xfce.mousepad.png</icon>
+  <id>org.xfce.mousepad</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Mousepad</name>
+  <name lang="ar">ماوس باد</name>
+  <name lang="ast">Mousepad</name>
+  <name lang="be">Mousepad</name>
+  <name lang="bg">Mousepad</name>
+  <name lang="ca">Mousepad</name>
+  <name lang="cs">Mousepad</name>
+  <name lang="da">Mousepad</name>
+  <name lang="de">Mousepad</name>
+  <name lang="el">Mousepad</name>
+  <name lang="en_AU">Mousepad</name>
+  <name lang="en_GB">Mousepad</name>
+  <name lang="es">Mousepad</name>
+  <name lang="et">Mousepad</name>
+  <name lang="eu">Mousepad</name>
+  <name lang="fi">Mousepad</name>
+  <name lang="fr">Mousepad</name>
+  <name lang="gl">Mousepad</name>
+  <name lang="he">Mousepad</name>
+  <name lang="hr">Mousepad</name>
+  <name lang="hu">Mousepad</name>
+  <name lang="hy_AM">Mousepad</name>
+  <name lang="hye">Mousepad</name>
+  <name lang="id">Mousepad</name>
+  <name lang="ie">Mousepad</name>
+  <name lang="is">Mousepad</name>
+  <name lang="it">Mousepad</name>
+  <name lang="ja">Mousepad</name>
+  <name lang="kk">Mousepad</name>
+  <name lang="ko">마우스패드</name>
+  <name lang="lt">Mousepad</name>
+  <name lang="ms">Mousepad</name>
+  <name lang="nb">Mousepad</name>
+  <name lang="nl">Mousepad</name>
+  <name lang="nn">Mousepad</name>
+  <name lang="oc">Mousepad</name>
+  <name lang="pl">Mousepad</name>
+  <name lang="pt">Mousepad</name>
+  <name lang="pt_BR">Mousepad</name>
+  <name lang="ro">Mousepad</name>
+  <name lang="ru">Mousepad</name>
+  <name lang="sk">Mousepad</name>
+  <name lang="sl">Mousepad</name>
+  <name lang="sq">Mousepad</name>
+  <name lang="sr">Мишоловка</name>
+  <name lang="sv">Mousepad</name>
+  <name lang="te">మౌస్‌ప్యాడ్</name>
+  <name lang="th">Mousepad</name>
+  <name lang="tr">Mousepad</name>
+  <name lang="ug">Mousepad</name>
+  <name lang="uk">Mousepad</name>
+  <name lang="zh_CN">Mousepad</name>
+  <name lang="zh_TW">Mousepad</name>
+  <summary>Mousepad is a simple text editor for the Xfce desktop environment</summary>
+  <summary lang="bg">Mousepad е опростен текстов редактор за графичната среда Xfce</summary>
+  <summary lang="da">Mousepad er et simpelt tekstredigeringsprogram til Xfce-skrivebordsmiljøet.</summary>
+  <summary lang="de">Mousepad ist ein einfacher Texteditor für die Xfce-Desktopumgebung</summary>
+  <summary lang="el">Το Mousepad είναι ένας απλός επεξεργαστής κειμένου για το περιβάλλον εργασίας Xfce</summary>
+  <summary lang="es">Mousepad es editor de texto sencillo para el entorno de escritorio Xfce.</summary>
+  <summary lang="et">Mousepad on lihtne tekstiredaktor Xfce töölauakeskkonna jaoks</summary>
+  <summary lang="eu">Mousepad Xfce mahaigain ingurunerako testu editore sinple bat da.</summary>
+  <summary lang="fi">Mousepad on yksinkertainen tekstieditori Xfce-työpöytäympäristölle</summary>
+  <summary lang="fr">Mousepad est un éditeur de texte simple pour l’environnement de bureau Xfce.</summary>
+  <summary lang="he">Mousepad הוא עורך טקסט פשוט לסביבת שולחן עבודה Xfce </summary>
+  <summary lang="hr">Mousepad je jednostavni uređivač teksta za Xfce radno okruženje.</summary>
+  <summary lang="id">Mousepad adalah sebuah penyunting teks sederhana untuk lingkungan desktop Xfce</summary>
+  <summary lang="it">Mousepad è un semplice editor di testo per l'ambiente grafico Xfce</summary>
+  <summary lang="ja">Mousepad は Xfce デスクトップ環境向けのシンプルなテキストエディターです。</summary>
+  <summary lang="lt">Mousepad yra paprastas tekstų redaktorius, skirtas Xfce darbalaukio aplinkai</summary>
+  <summary lang="nb">Mousepad er et enkelt skriveprogram for skrivebordsmiljøet Xfce</summary>
+  <summary lang="nl">Mousepad is een eenvoudige tekstbewerker voor de werkomgeving Xfce</summary>
+  <summary lang="pl">Umożliwia proste edytowanie tekstu w środowisku graficznym Xfce.</summary>
+  <summary lang="pt">O Mousepad é um editor de texto simples para o ambiente de trabalho Xfce</summary>
+  <summary lang="pt_BR">Mousepad é um editor de texto simples para o ambiente de trabalho Xfce</summary>
+  <summary lang="ru">Mousepad — простой текстовый редактор для окружения рабочего стола Xfce</summary>
+  <summary lang="sk">Mousepad je jednoduchý textový editor pre pracovné prostredie Xfce</summary>
+  <summary lang="sl">Mousepad je preprost urejevalnik besedila za Xfce namizno okolje.</summary>
+  <summary lang="sq">Mousepad është një përpunues i shpejtë tekstesh për mjedisin desktop Xfce.</summary>
+  <summary lang="sr">Мишоловка је једноставан уредник писања за радно окружење ИксФЦЕ</summary>
+  <summary lang="sv">Mousepad är en enkel textredigerare för Xfce-skrivbordsmiljön.</summary>
+  <summary lang="tr">Mousepad, Xfce masaüstü ortamı için basit bir metin düzenleyicidir</summary>
+  <summary lang="uk">Mousepad — простий текстовий редактор для стільничного середовища Xfce</summary>
+  <summary lang="zh_CN">Mousepad 是 Xfce 桌面环境下的一款简单文本编辑器。</summary>
+  <summary lang="zh_TW">Mousepad 是 Xfce 桌面環境的簡潔文字編輯器</summary>
+  <description>
+    <p>Mousepad aims to be an easy-to-use and fast editor. Our target is an editor for quickly editing text files, not a development environment or an editor with a huge bunch of plugins.</p>
+    <p>On the other hand we try to use the latest GTK features available, which means that if GTK adds something new in a major release that is useful for the editor, we will likely bump the GTK dependency and integrate this new feature in Mousepad.</p>
+  </description>
+  <description lang="be">
+    <p>Mousepad імкнецца быць зручным і хуткім. Нашай мэтай ёсць стварэнне рэдактара для хуткага рэдагавання тэкставых файлаў, а не працоўнага асяроддзя ці рэдактара з мноствам убудоў.</p>
+  </description>
+  <description lang="bg">
+    <p>Mousepad има за цел да бъде лесен за използване и бърз редактор. Нашата цел е редактор за бързо редактиране на текстови файлове, а не среда за разработка или редактор с огромен куп приставки.</p>
+    <p>От друга страна, ние се опитваме да използваме най -новите налични функции на GTK, което означава, че ако GTK добави нещо ново в голямо издание, което е полезно за редактора, вероятно ще преодолеем GTK зависимостта и ще интегрираме тази нова функция в Mousepad.</p>
+  </description>
+  <description lang="ca">
+    <p>Mousepad vol ser un editor fàcil d’utilitzar i ràpid. El nostre objectiu és un editor per editar ràpidament fitxers de text, no un entorn de desenvolupament o un editor amb una gran quantitat de connectors.</p>
+  </description>
+  <description lang="cs">
+    <p>Mousepad má za cíl být snadno použitelným a rychlým editorem. Naším cílem je editor pro rychlou úpravu souborů, ne vývojářské prostředí nebo editor s obrovským množstvím zásuvných modulů.</p>
+  </description>
+  <description lang="da">
+    <p>Mousepad går efter at være et letanvendelig og hurtigt tekstredigeringsprogram. Vores mål er et tekstredigeringsprogram til hurtig redigering af tekstfiler, ikke et udviklingsmiljø eller et tekstredigeringsprogram med en stor bunke plugins.</p>
+    <p>På den anden side prøver vi at bruge de seneste GTK-funktionaliteter, hvilket betyder at hvis GTK tilføjer noget nyt i en større udgivelse som er nyttigt i tekstredigeringsprogrammet, så hæver vi sandsynligvis GTK-afhængigheden og integrerer den nye funktionalitet i Mousepad.</p>
+  </description>
+  <description lang="de">
+    <p>Mousepad soll ein einfach zu bedienender und schneller Editor sein. Unser Ziel ist ein Editor zur schnellen Bearbeitung von Textdateien, keine Entwicklungsumgebung oder ein Editor mit einer Vielzahl von Plugins.</p>
+    <p>Andererseits versuchen wir, die neuesten verfügbaren GTK-Funktionen zu verwenden, was bedeutet, dass wir, wenn GTK in einer größeren Version etwas Neues hinzufügt, das für den Editor nützlich ist, wahrscheinlich die GTK-Abhängigkeit ausbauen und diese neue Funktion in Mousepad integrieren werden.</p>
+  </description>
+  <description lang="el">
+    <p>Το Mousepad αποσκοπεί στο να είναι ένας εύκολος στη χρήση και γρήγορος επεξεργαστής κειμένου. Στόχος μας είναι, ένας επεξεργαστής για την γρήγορη επεξεργασία αρχείων κειμένου και όχι ένα περιβάλλον ανάπτυξης ή ένας επεξεργαστής με τεράστιο αριθμό πρόσθετων.</p>
+    <p>Από την άλλη προσπαθούμε να χρησιμοποιήσουμε τα τελευταία διαθέσιμα χαρακτηριστικά του GTK που σημαίνει ότι, όταν το GTK προσθέτει κάτι νέο στη κύρια έκδοση του που είναι χρήσιμο για τον επεξεργαστή, πιθανά θα πάρουμε την εξάρτηση και θα την ενσωματώσουμε στο Mousepad.</p>
+  </description>
+  <description lang="es">
+    <p>Mousepad pretende ser un editor rápido y fácil de usar. Nuestro objetivo es  un programa para la edición rápida de archivos de texto, no un entorno de desarrollo o un editor con una gran cantidad de complementos.</p>
+    <p>Por otro lado, intentamos usar las últimas características de GTK disponibles, lo que significa que si GTK añade una función nueva que sea útil para el editor, probablemente modificaremos la dependencia de GTK e integraremos esta nueva característica en Mousepad.</p>
+  </description>
+  <description lang="et">
+    <p>Mousepad soovib olla lihtsalt kasutatav ja kiire tekstiredaktor. Meie eesmärgiks on luua rakendus, millega saaks kiiresti tekstifaile luua ja muuta, kuid mis poleks integreeritud arenduskeskkond või tekstiredaktor tohutu hulga pistikprogrammidega.</p>
+    <p>Teisalt me proovime kasutada GTK teekide uusimad võimalusi. See tähendab, et kui järgmises GTK põhiversioonis on midagi asjalikku meie rakenduses kasutamiseks, siis me määrame kompileerimissõltuvuse uuele versioonile ja proovime lisandunud võimalust Mousepad'is kasutada.</p>
+  </description>
+  <description lang="eu">
+    <p>Mousepad editore erabilerraz eta azkar bat izan nahi du. Gure helburua testu fitxategiak azkar editatzeko editore bat da, ez garapen ingurumen bat edo plugin gehiegi dituen editore bat.</p>
+    <p>Bestalde GTK-ren ezaugarri berrienak erabiltzen saiatzen gara, modu horretan GTK-k argitaratze nagusi batean editorearentzako erabilgarria den zerbait berria argitaratzen badu, ziurrenik GTK menpekotasuna igoko dugu eta ezaugarri berri hori Mousepad-en txertatu.</p>
+  </description>
+  <description lang="fa_IR">
+    <p>Mousepad می‌خواهد یک ویرایشگر سریع برای استفاده آسان باشد. هدف ما یک ویرایشگر برای ویرایش سریع فایل‌های متنی است، نه یک محیط توسعه یا یک ویرایشگر با دسته‌ای از افزونه‌های فراوان.</p>
+  </description>
+  <description lang="fi">
+    <p>Mousepad pyrkii olemaan helppokäyttöinen ja nopea editori. Tavoitteenamme on editori tekstitiedostojen nopeaan muokkaamiseen, ei kehitysympäristö tai editori, jossa on valtava joukko liitännäisiä.</p>
+  </description>
+  <description lang="fr">
+    <p>Mousepad se veut être un éditeur rapide et facile à utiliser. Notre objectif est d’en faire un éditeur pour éditer rapidement des fichiers texte, et non pas un environnement de développement ou un éditeur avec un tas de greffons.</p>
+    <p>D’un autre côté nous essayons d’utiliser les dernières fonctionnalités Gtk disponibles, ce qui signifie que si Gtk ajoute quelque chose de nouveau dans une version majeure qui est utile pour l’éditeur, nous mettrons probablement à jour la dépendance Gtk et intégrerons cette nouvelle fonctionnalité dans Mousepad.</p>
+  </description>
+  <description lang="gl">
+    <p>Mousepad pretende ser un editor doado de usar e rápido. O noso obxectivo é un editor para editar rapidamente ficheiros de texto, non un contorno de desenvolvemento ou un editor cun enorme conxunto de engadidos.</p>
+  </description>
+  <description lang="he">
+    <p>Mousepad שואף להיות עורך מהיר וקל לשימוש. המטרה שלנו היא עורך לעריכה מהירה של קבצי טקסט, לא סביבת פיתוח או עורך עם רשימת תוספים לא נגמרת.</p>
+    <p>מצד שני אנו מנסים להשתמש במאפייני GTK העדכניים, המשמעות היא שאם GTK מוסיף משהו חדש בגרסה ראשית שהוא שימושי לעורך, קרוב לודאי שנקפיץ את תלות ה-GTK ונשלב את המאפיין החדש הזה ב-Mousepad. </p>
+  </description>
+  <description lang="hr">
+    <p>Mousepad cilja biti uređivač koji je brz i jednostavan za korištenje. Naš cilj je uređivač za brzo uređivanje, a ne cijelo okruženje za razvoj ili uređivač sa puno priključaka.</p>
+  </description>
+  <description lang="hu">
+    <p>A mousepad egy könnyen használható és gyors szerkesztő szeretne lenni. Célunk egy olyan alkalmazás, mellyel gyorsan lehet szövegfájlokat szerkeszteni, nem pedig egy fejlesztői környezet vagy szerkesztő sok-sok bővítménnyel.</p>
+  </description>
+  <description lang="hye">
+    <p>Mousepad- ը նպատակ ունի աւգտագործել պարզ եւ արագ խմբագիր: Մեր թիրախը տեքստային նիշքերն արագ խմբագրելն է, ոչ թէ զարգացման միջավայր կամ ներդրաւների հսկայական խումբ խմբագրելը:</p>
+  </description>
+  <description lang="id">
+    <p>Mousepad adalah penyunting yang cepat dan mudah digunakan. Target kami adalah sebuah penyunting untuk menyunting berkas teks secara cepat, bukan sebuah lingkungan pengembangan atau sebuah penyunting dengan berbagai macam plugin.</p>
+    <p>Di sisi lain kami mencoba untuk menggunakan fitur-fitur terbaru GTK, yang berarti jika GTK menambahkan sesuatu yang baru pada sebuah rilis mayor yang berguna untuk penyunting teks, kami mungkin akan menaikkan dependensi GTK dan mengintegrasikan fitur baru ini pada Mousepad.</p>
+  </description>
+  <description lang="ie">
+    <p>Mousepad es intentet quam un facil e rapid redactor. Nor cible es un rapid redactor por textual files, e ne un redactor por developatores o un redactor con grand númere de plugines.</p>
+  </description>
+  <description lang="it">
+    <p>Mousepad mira ad essere un editor facile da usare e veloce. L'obiettivo è quello di permettere di modificare rapidamente file di testo, non vuole essere un ambiente di sviluppo o un editor pieno di componenti aggiuntivi.</p>
+    <p>Dall'altra parte Mousepad cerca di utilizzare le ultime funzionalità disponibili di GTK, significa però che, quando GTK aggiunge qualcosa di nuovo che può tornare utile per l'editor, Mousepad integra le nuove funzionalità utilizzando la nuova versione di GTK.</p>
+  </description>
+  <description lang="ja">
+    <p>Mousepad は、使いやすく高速なエディターを目指しています。私たちのターゲットは開発環境や膨大な数のプラグインを持つエディターではなく、テキストファイルをすばやく編集するためのエディターです。</p>
+    <p>その一方で、私たちは利用可能な最新の GTK の機能を使うようにしているため、GTK がメジャーリリースでエディターにとって有用な何か新しい機能を追加した場合、私たちはGTKの依存関係を更新し、Mousepad にこの新機能を組み込む可能性があります。</p>
+  </description>
+  <description lang="kk">
+    <p>Mousepad қарапайым және жылдам редактор болуды мақсат етеді. Біздің мақсатымыз - мәтіндік файлдарды жылдам өңдеуге арналған редактор; өндіру ортасы немесе көптеген плагиндері бар редактор емес.</p>
+  </description>
+  <description lang="ko">
+    <p>마우스패드는 쉽고 빠른 편집기를 지향합니다. 우리의 지향점은 텍스트 파일을 빠르게 편집하는 편집기를 만들어나가며, 개발 환경이나 다양한 플러그인을 크게 붙여두는 편집기를 만들려는 것이 아닙니다.</p>
+  </description>
+  <description lang="lt">
+    <p>Mousepad siekia būti lengvu naudoti bei greitu redaktoriumi. Mūsų tikslas - greitam tekstinių failų redagavimui skirtas redaktorius, o ne kūrimo aplinka ar redaktorius su begale įskiepių.</p>
+    <p>Kita vertus, bandome naudoti naujausias prieinamas GTK ypatybes, o tai reiškia, kad jeigu GTK savo svarbioje laidoje pridės kažką naujo, kas bus naudinga redaktoriui, mes, greičiausiai, padidinsime GTK priklausomybę ir integruosime šią naują ypatybę į Mousepad.</p>
+  </description>
+  <description lang="ms">
+    <p>Mousepad mensasarkan penyunting yang mudah-digunakan dan pantas. Kami mahukan sebuah penyunting untuk menyunting fail-fail teks dengan pantas, bukan persekitaran pembangunan atau penyunting yang dilengkapi dengan banyak pemalam.</p>
+  </description>
+  <description lang="nb">
+    <p>Mousepad har som mål å være et enkelt og raskt redigeringsprogram. Mousepad er ment å være et program for rask redigering av tekstfiler, ikke et utviklingsmiljø eller et program med mange tillegg.</p>
+    <p>På den andre siden forsøker vi å bruke de nyeste GTK-funksjonalitetene. Hvis GTK legger til noe nytt i en hovedutgivelse som er nyttig for Mousepad vil vi sannsynligvis integrere det og dermed gjøre programmet avhengig av denne GTK-versjonen. </p>
+  </description>
+  <description lang="nl">
+    <p>Mousepad beoogt een makkelijke en snelle tekstbewerker te zijn. Ons doel is een tekstbewerker voor het snel bewerken van teksten, niet een instrument voor ontwikkelaars noch een tekstbewerker met veel invoegsels.</p>
+    <p>Aan de andere kant proberen we om de nieuwste GTK-functies te gebruiken, wat betekent dat als GTK iets toevoegt in een belangrijke nieuwe versie dat nuttig is voor de tekstbewerker, we waarschijnlijk de GTK-afhankelijkheid zullen verhogen en deze nieuwe functie in Mousepad zullen integreren.</p>
+  </description>
+  <description lang="pl">
+    <p>Mousepad ma być łatwym w użyciu i szybkim edytorem. Naszym celem jest edytor do szybkiej edycji plików tekstowych, a nie środowisko programistyczne lub edytor z dużą liczbą wtyczek.</p>
+    <p>Z drugiej strony staramy się korzystać z najnowszych dostępnych funkcji GTK, co oznacza, że jeśli GTK doda coś nowego w głównym wydaniu, co będzie użyteczne dla edytora, prawdopodobnie podniesiemy zależność GTK i zintegrujemy tę nową funkcję z Mousepad.</p>
+  </description>
+  <description lang="pt">
+    <p>O Mousepad pretende ser um editor rápido e fácil de usar. O nosso objetivo é um editor para editar rapidamente ficheiros de texto, não um ambiente de desenvolvimento ou um editor com um monte de plugins.</p>
+    <p>Por outro lado, tentamos utilizar as últimas funcionalidades GTK disponíveis, o que significa que se o GTK acrescentar algo novo num grande lançamento que seja útil para o editor, é provável que saltemos a dependência GTK e integremos esta nova funcionalidade no Mousepad.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>O Mousepad pretende ser um editor fácil de usar e rápido. Nosso alvo é um editor para editar rapidamente arquivos de texto, não um ambiente de desenvolvimento ou um editor com um monte de plugins.</p>
+    <p>Por outro lado, tentamos usar os recursos GTK mais recentes disponíveis, o que significa que se o GTK adicionar algo novo em uma versão principal que seja útil para o editor, provavelmente iremos superar a dependência do GTK e integrar esse novo recurso no Mousepad.</p>
+  </description>
+  <description lang="ru">
+    <p>Mousepad старается быть простым в использовании и быстрым редактором. Наша цель — это редактор для быстрой правки текстовых файлов, а не среда разработки или редактор с целой кучей плагинов.</p>
+    <p>С другой стороны, мы стараемся использовать последние доступные возможности GTK. Это значит, что если GTK добавляет в основной выпуск какую-либо новую функцию, которая полезна для редактора, мы, скорее всего, обновим зависимость GTK и интегрируем эту новую функцию в Mousepad.</p>
+  </description>
+  <description lang="sl">
+    <p>Mousepad je enostaven in hiter urejevalnik. Namenjen je hitremu urejanju tekstov, ne pa tudi kot razvojno okolje ali nadomestek za z dodatki bogat urejevalnik.</p>
+    <p>Po drugi strani skušamo uporabljati zadnje funkcionalnosti, ki jih prinaša Gtk, kar pomeni, da kadar Gtk nekaj doda v glavni izdaji in je to uporabno za naš urejevalnik, bomo verjetno zavrgli odvisnost od GTK in to integrirali neposredno v Mousepad.</p>
+  </description>
+  <description lang="sq">
+    <p>Mousepad-i synon të jetë një përpunuesi i lehtë për t’u përdorur dhe i shpejtë. Objektivi ynë është një përpunues për përpunim të shpejtë kartelash tekst, jo një mjedis zhvillimi apo një përpunues me një thes të stërmadh me shtojca.</p>
+    <p>Nga ana tjetër, përpiqemi të përdorim veçoritë më të reja GTK, që do të thotë se, kur GTK-ja shton diçka të re në një hedhje të rëndësishme në qarkullim, e cila është e dobishme për përpunuesin, ka shumë gjasa të përditësojmë varësinë përkatëse GTK dhe ta integrojmë këtë veçori të re në Mousepad.</p>
+  </description>
+  <description lang="sr">
+    <p>Мишоловка стреми да буде уређивач писања лак за употребу. Наш циљ је уредник за брзо уређивање писаних докумената, а не развојно окружење или уређивач са мноштвом прикључака.</p>
+    <p>Ипак, покушавамо  да користимо најновије доступне могућности ГТК+-а, што значи ако ГТК дода нешто ново у главном издању што је корисно за уредника писања, ми ћемо то вероватно банути у ГТК-ову зависност и укључити ту нову могућност у Мишоловку.</p>
+  </description>
+  <description lang="sv">
+    <p>Mousepad försöker var en lättanvänd och snabb editor. Vår ambition är en editor för snabb redigering av textfiler, inte en utvecklingsmiljö eller en editor med stora mängder insticksprogram.</p>
+    <p>Å andra sidan försöker vi använda de senaste Gtk-funktionerna tillgängliga, vilket innebär att om Gtk lägger till något nytt i en stor utgåva som vi kan använda till editorn så kommer vi sannolikt ändra beroendet och integrera den nya funktionen i Mousepad.</p>
+  </description>
+  <description lang="th">
+    <p>Mousepad มุ่งหมายให้เป็นเครื่องมือแก้ไขข้อความที่สะดวกรวดเร็ว โดยมีเป้าหมายที่การแก้ไขแฟ้มข้อความอย่างเร็ว ไม่ใช่เป็นสภาพแวดล้อมสำหรับพัฒนาโปรแกรมหรือมีปลั๊กอินรุงรัง</p>
+  </description>
+  <description lang="tr">
+    <p>Mousepad, kullanımı kolay ve hızlı düzenleyici olmayı amaçlar. Hedefimiz geliştirme ortamı sunmak veya epey büyük ve sayıca çok eklentili düzenleyici olmaktansa metin dosyalarını hızlıca düzenlemektir.</p>
+    <p>Bunun yanında son GTK yeniliklerini kullanmaya çalışıyoruz; yani, GTK büyük güncellemelerle bizim için de yararlı yenilik eklerse, bu yeni özellikleri Mousepad'e eklemek için GTK gereksinim sürümünü artırabiliriz.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>Mousepad 旨在成为易用和快速的编辑器。 我们的目标是用于快捷编辑文本文件的编辑器，而不是用于开发环境或具有大量插件的编辑器。</p>
+    <p>另一方面，我们尝试使用可用的最新 GTK 功能，这意味着，如果 GTK 在主要版本中添加了对编辑器有用的新功能，我们可能会突破 GTK 依赖性并将此新功能集成到 Mousepad 中。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>Mousepad 致力於成為易用且快速的編輯器。我們的目標是可以快速編輯文字檔的編輯器，不是開發環境或有大量外掛程式的編輯器。</p>
+    <p>另一方面，我們試著使用最新的 GTK 功能，這代表了如果 GTK 在新的主要版本中加入了某些可能對編輯器有用的新東西，我們可能會破壞 GTK 的依賴關係來將此功能整合到 Mousepad 中。</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://docs.xfce.org/_media/apps/mousepad/mousepad_window.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://xfce.org</url>
+  <url type="bugtracker">https://gitlab.xfce.org/apps/mousepad/</url>
+  <url type="help">https://docs.xfce.org/apps/mousepad/start</url>
+  <url type="donation">https://opencollective.com/xfce/donate</url>
+  <url type="translate">https://docs.xfce.org/contribute/translate/start</url>
+  <project_group>Xfce</project_group>
+  <update_contact>xfce4-dev@xfce.org</update_contact>
+  <developer_name>The Mousepad developers</developer_name>
+  <translation type="gettext">mousepad</translation>
+  <launchable type="desktop-id">org.xfce.mousepad.desktop</launchable>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release version="0.5.10" date="2022-07-09" />
+    <release version="0.5.9" date="2022-04-01" />
+    <release version="0.5.8" date="2021-11-26" />
+    <release version="0.5.7" date="2021-09-23" />
+  </releases>
+  <provides>
+    <binary>mousepad</binary>
+  </provides>
+</component>

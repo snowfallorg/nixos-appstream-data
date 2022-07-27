@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>hugin</pkgname>
+  <icon height="64" type="cached" width="64">hugin.png</icon>
+  <icon width="128" height="128" type="cached">hugin.png</icon>
+  <id>hugin.desktop</id>
+  <releases>
+    <release date="2021-12-30" version="2021.0.0" />
+    <release date="2020-12-12" version="2020.0.0" />
+    <release version="2019.2.0" date="2019-12-30" />
+    <release date="2019-04-05" version="2019.0.0" />
+    <release date="2018-02-03" version="2018.0.0" />
+    <release version="2017.0.0" date="2017-06-30" />
+  </releases>
+  <launchable type="desktop-id">hugin.desktop</launchable>
+  <translation type="gettext">hugin</translation>
+  <metadata_license>GFDL</metadata_license>
+  <project_license>GPL-2.0-or-later</project_license>
+  <content_rating type="oars-1.1" />
+  <name>hugin</name>
+  <summary>A panoramic photo stitcher and more</summary>
+  <description>
+    <p>
+   hugin can be used to stitch multiple images together. The resulting image can
+   span 360 degrees. Another common use is the creation of very high resolution
+   pictures by combining multiple images. It uses the Panorama Tools as back-end
+   to create high quality images
+   Command-line tools are available to generate panoramic images and to batch-process
+   hugin projects.
+  </p>
+    <p>Examples of what you can do with hugin:</p>
+    <ul>
+      <li>Stitch and blend multiple rows of overlapping images shot from the one location</li>
+      <li>Stitch and blend multiple overlapping images of a plane surface shot from multiple locations</li>
+      <li>Stitch and blend flat scanned images</li>
+      <li>Correct perspective, vignetting, exposure and white balance</li>
+    </ul>
+  </description>
+  <screenshots>
+    <screenshot type="default">http://hugin.sourceforge.net/screenshots/appdata/hugin-1.png</screenshot>
+    <screenshot>http://hugin.sourceforge.net/screenshots/appdata/hugin-2.png</screenshot>
+    <screenshot>http://hugin.sourceforge.net/screenshots/appdata/hugin-3.png</screenshot>
+    <screenshot>http://hugin.sourceforge.net/screenshots/appdata/hugin-4.png</screenshot>
+    <screenshot>http://hugin.sourceforge.net/screenshots/appdata/hugin-5.png</screenshot>
+  </screenshots>
+  <url type="homepage">http://hugin.sourceforge.net/</url>
+  <update_contact>tduell_at_iinet.net.au</update_contact>
+</component>

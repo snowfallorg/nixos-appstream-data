@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>
+      Konversation is a user-friendly Internet Relay Chat (IRC) client by KDE.
+      It provides easy access to standard IRC networks such as Libera,
+      where the KDE IRC channels can be found.
+    </p>
+    <p>Features:</p>
+    <ul>
+      <li>Standard IRC features</li>
+      <li>SSL server support</li>
+      <li>Bookmarking support</li>
+      <li>Easy to use graphical user interface</li>
+      <li>Multiple servers and channels in one single window</li>
+      <li>DCC file transfer</li>
+      <li>Multiple identities for different servers</li>
+      <li>Text decorations and colors</li>
+      <li>OnScreen Display for notifications</li>
+      <li>Automatic UTF-8 detection</li>
+      <li>Per channel encoding support</li>
+      <li>Theme support for nick icons</li>
+      <li>Highly configurable</li>
+    </ul>
+  </description>
+  <description lang="ar">
+    <p>الميزات:</p>
+    <ul>
+      <li>ميزات آي‌آرسي القياسيّة</li>
+      <li>دعم خواديم SSL</li>
+      <li>دعم العلامات</li>
+      <li>واجهة مستخدم سهلة الاستخدام</li>
+      <li>عدّة خواديم وقنوات في نافذة واحدة</li>
+      <li>نقل الملفّات عبر DCC</li>
+      <li>عدّة هويّات لمختلف الخواديم</li>
+      <li>زخرفة النّصوص وتلوينها</li>
+      <li>عرض الإخطارات على الشّاشة</li>
+      <li>اكتشاف آليّ ل‍UTF-8</li>
+      <li>دعم التّرميزات لكلّ قناة على حدة</li>
+      <li>دعم السّمات لأيقونات المستخدمين</li>
+      <li>عال التّخصيص والضّبط</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>El Konversation és un client fàcil d'emprar de l'Internet Relay Chat (IRC), creat per la comunitat KDE. Proporciona un accés senzill a les xarxes IRC estàndards, com Libera, a on es poden trobar els canals IRC de KDE.</p>
+    <p>Característiques:</p>
+    <ul>
+      <li>Característiques estàndard de l'IRC</li>
+      <li>Permet servidors SSL</li>
+      <li>Permet les adreces d'interès</li>
+      <li>Interfície gràfica d'usuari fàcil d'utilitzar</li>
+      <li>Múltiples servidors i canals en una única finestra</li>
+      <li>Transferència DCC de fitxers</li>
+      <li>Múltiples identitats per a servidors diferents</li>
+      <li>Decoracions i colors del text</li>
+      <li>Mostra les notificacions en pantalla</li>
+      <li>Detecció automàtica d'UTF-8</li>
+      <li>Permet codificació per canal</li>
+      <li>Permet temes per a les icones de sobrenom</li>
+      <li>Altament configurable</li>
+    </ul>
+  </description>
+  <description lang="ca-valencia">
+    <p>Konversation és un client fàcil d'emprar d'Internet Relay Chat (IRC), creat per la comunitat KDE. Proporciona un accés senzill a les xarxes IRC estàndards, com Libera, a on es poden trobar els canals IRC de KDE.</p>
+    <p>Característiques:</p>
+    <ul>
+      <li>Característiques estàndard de l'IRC</li>
+      <li>Permet servidors SSL</li>
+      <li>Permet les adreces d'interés</li>
+      <li>Interfície gràfica d'usuari fàcil d'utilitzar</li>
+      <li>Múltiples servidors i canals en una única finestra</li>
+      <li>Transferència DCC de fitxers</li>
+      <li>Múltiples identitats per a servidors diferents</li>
+      <li>Decoracions i colors del text</li>
+      <li>Mostra les notificacions en pantalla</li>
+      <li>Detecció automàtica d'UTF-8</li>
+      <li>Permet codificació per canal</li>
+      <li>Permet temes per a les icones de sobrenom</li>
+      <li>Altament configurable</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>Vlastnosti:</p>
+  </description>
+  <description lang="da">
+    <p>Funktioner:</p>
+    <ul>
+      <li>Standard IRC-funktioner</li>
+      <li>Understøttelse af SSL-server</li>
+      <li>Understøttelse af bogmærker</li>
+      <li>Brugervenlig grafisk brugerflade</li>
+      <li>Flere servere og kanaler i et enkelt vindue</li>
+      <li>DCC-filoverførsel</li>
+      <li>Flere identiteter til forskellige servere</li>
+      <li>Tekstdekorationer og farver</li>
+      <li>On-screen-display til bekendtgørelser</li>
+      <li>Automatisk UTF-8-detektion</li>
+      <li>Understøttelse af forskellige tegnsæt pr. kanal</li>
+      <li>Temaunderstøttelse for kaldenavn-ikoner</li>
+      <li>Meget konfigurerbar</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>Konversation ist ein benutzerfreundliches Internet-Relay-Chat (IRC)-Programm von KDE. Es bietet einen einfachen Zugang zu Standard-IRC-Netzwerken wie Libera, wo die KDE-IRC-Kanäle zu finden sind.</p>
+    <p>Funktionen:</p>
+    <ul>
+      <li>Standard-IRC-Funktionen</li>
+      <li>Unterstützung für SSL-Server</li>
+      <li>Unterstützung für Lesezeichen</li>
+      <li>Einfach zu bedienende grafische Benutzeroberfläche</li>
+      <li>Mehrere Server und Kanäle in einem einzelnen Fenster</li>
+      <li>DCC-Dateiübertragung</li>
+      <li>Unterschiedliche Identitäten für verschiedene Server</li>
+      <li>Textdekoration und -farben</li>
+      <li>OnScreen-Anzeige fir Benachrichtigungen</li>
+      <li>Automatische UTF-8-Erkennung</li>
+      <li>Unterstützung für Kodierung pro Kanal</li>
+      <li>Unterstützung für Spitznamen-Symbol-Designs</li>
+      <li>Sehr anpassbar</li>
+    </ul>
+  </description>
+  <description lang="el">
+    <p>Το Konversation είναι μια φιλική στον χρήστη εφαρμογή-πελάτης για την προώθηση συνομιλίας στο Διαδίκτυο (Internet Relay Chat, IRC) από το KDE. Παρέχει εύκολη πρόσβαση σε τυπικά IRC δίκτυα όπως το Libera, όπου μπορείτε να βρείτε τους διαύλους IRC του KDE.</p>
+    <p>Λειτουργίες:</p>
+    <ul>
+      <li>Τυπικές IRC λειτουργίες</li>
+      <li>Υποστήριξη διακομιστή SSL</li>
+      <li>Υποστήριξη σελιδοδεικτών</li>
+      <li>Ευκολόχρηστο γραφικό περιβάλλον χρήστη</li>
+      <li>Πολλοί εξυπηρετητές και κανάλια σε ένα μόνο παράθυρο</li>
+      <li>Μεταφορά αρχείων DCC</li>
+      <li>Πολλές ταυτότητες για διαφορετικούς διακομιστές</li>
+      <li>Διακόσμηση κειμένου και χρώματα</li>
+      <li>Εμφάνιση ειδοποιήσεων στην οθόνη</li>
+      <li>Αυτόματος εντοπισμός UTF-8</li>
+      <li>Υποστήριξη κωδικοποίησης ανά κανάλι</li>
+      <li>Υποστήριξη θεμάτων για εικονίδια ψευδωνύμων</li>
+      <li>Πλήρως διαμορφώσιμο</li>
+    </ul>
+  </description>
+  <description lang="en-GB">
+    <p>Konversation is a user-friendly Internet Relay Chat (IRC) client by KDE. It provides easy access to standard IRC networks such as Libera, where the KDE IRC channels can be found.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Standard IRC features</li>
+      <li>SSL server support</li>
+      <li>Bookmarking support</li>
+      <li>Easy to use graphical user interface</li>
+      <li>Multiple servers and channels in one single window</li>
+      <li>DCC file transfer</li>
+      <li>Multiple identities for different servers</li>
+      <li>Text decorations and colours</li>
+      <li>OnScreen Display for notifications</li>
+      <li>Automatic UTF-8 detection</li>
+      <li>Per channel encoding support</li>
+      <li>Theme support for nick icons</li>
+      <li>Highly configurable</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>Konversation es un cliente IRC (Internet Relay Chat) fácil de usar desarrollado por KDE. Proporciona un fácil acceso a las redes estándar IRC como Libera, donde se pueden encontrar los canales IRC de KDE.</p>
+    <p>Características:</p>
+    <ul>
+      <li>Características estándar de IRC</li>
+      <li>Reconocimiento de servidor SSL</li>
+      <li>Uso de marcadores</li>
+      <li>Interfaz gráfica fácil de usar</li>
+      <li>Varios servidores y canales en una sola ventana</li>
+      <li>Trasferencia de archivos DCC</li>
+      <li>Varias identidades para distintos servidores</li>
+      <li>Decoraciones de texto y colores</li>
+      <li>Visualización en pantalla para notificaciones</li>
+      <li>Detección automática de UTF-8</li>
+      <li>Uso de codificación por canal</li>
+      <li>Uso de temas para iconos de apodos</li>
+      <li>Altamente configurable</li>
+    </ul>
+  </description>
+  <description lang="et">
+    <p>Omadused:</p>
+    <ul>
+      <li>Tavapärased IRC omadused</li>
+      <li>SSL-serveri toetus</li>
+      <li>Järjehoidjate toetus</li>
+      <li>Hõlpsasti mõistetav graafiline kasutajaliides</li>
+      <li>Eri serverite ja kanalite koondamine ühte aknasse</li>
+      <li>DCC-failiedastus</li>
+      <li>Eri serverites eri identiteedi kasutamise võimalus</li>
+      <li>Teksti dekoratsioonid ja värvid</li>
+      <li>Märguannete kuvamine ekraanil</li>
+      <li>Automaatne UTF-8 tuvastamine</li>
+      <li>Võimalus määrata kodeeringut igal kanalil eraldi</li>
+      <li>Kasutajate ikoonidel teemavälimuse kasutamise võimalus</li>
+      <li>Igati seadistatav</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>Konversation on KDE:n käyttäjäystävällinen IRC-asiakas (Internet Relay Chat), joka tarjoaa helpon pääsyn IRC-vakioverkkoihin kuten Liberaan, mistä löytyvät KDE:n IRC-kanavat.</p>
+    <p>Ominaisuuksia:</p>
+    <ul>
+      <li>IRCin vakio-ominaisuudet</li>
+      <li>SSL-palvelintuki</li>
+      <li>Kirjanmerkkituki</li>
+      <li>Helppokäyttöinen graafinen käyttöliittymä</li>
+      <li>Useampi palvelin ja kanava yhdessä ikkunassa</li>
+      <li>DCC-tiedostonsiirto</li>
+      <li>Useampi henkilöys eri palvelimiin</li>
+      <li>Tekstitehosteet ja -värit</li>
+      <li>Ilmoitusten ruutunäyttö</li>
+      <li>Automaattinen UTF-8-tunnistus</li>
+      <li>Kanavakohtainen merkistökoodaustuki</li>
+      <li>Teematuki tunnuskuvakkeille</li>
+      <li>Laajalti mukautettavissa</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>Konversation est un client IRC (Internet Relay Chat) convivial de KDE. Il fournit un accès facile aux réseaux IRC standards tels que Libera, où les canaux IRC de KDE se trouvent.</p>
+    <p>Fonctionnalités :</p>
+    <ul>
+      <li>Fonctionnalités standards IRC</li>
+      <li>Prise en charge de serveurs SSL</li>
+      <li>Prise en charge des signets</li>
+      <li>Interface graphique simple d'utilisation</li>
+      <li>Multiples serveurs et canaux dans une unique fenêtre</li>
+      <li>Transfert de fichier DCC</li>
+      <li>Multiples identités pour différents serveurs</li>
+      <li>Décorations du texte et couleurs</li>
+      <li>Affichage à l'écran des notifications</li>
+      <li>Détection automatique de l'UTF-8</li>
+      <li>Prise en charge de l'encodage par canal</li>
+      <li>Prise en charge de thèmes pour les images de pseudonyme</li>
+      <li>Hautement configurable</li>
+    </ul>
+  </description>
+  <description lang="gl">
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Funcionalidades estándar de IRC.</li>
+      <li>Compatibilidade con servidores SSL.</li>
+      <li>Funcionalidade de marcar</li>
+      <li>Interface de usuario fácil de usar.</li>
+      <li>Varios servidores e canles nunha mesma xanela.</li>
+      <li>Transferencia de ficheiros por DCC.</li>
+      <li>Varias identidades para distintos servidores.</li>
+      <li>Decoracións e cores de texto.</li>
+      <li>Notificacións visualizadas na pantalla.</li>
+      <li>Detección automática de UTF-8.</li>
+      <li>Admite codificacións distintas en cada canle.</li>
+      <li>Funcionalidade de temas para iconas de alcumes.</li>
+      <li>Altamente configurábel.</li>
+    </ul>
+  </description>
+  <description lang="he">
+    <p>תכונות:</p>
+    <ul>
+      <li>תכונות IRC רגילות</li>
+      <li>תמיכה בשרתים מאובטחים ב־SSL</li>
+      <li>תמיכה בסימניות</li>
+      <li>ממשק משתמש גרפי קל לשימוש</li>
+      <li>מספר שרתים וערוצים בחלון אחד</li>
+      <li>העברת קבצים באמצעות DCC</li>
+      <li>זהויות שונות לשרתים שונים</li>
+      <li>עיצוב וצבעי טקסט</li>
+      <li>התראות על המסך</li>
+      <li>זיהוי UTF-8 אוטומטי</li>
+      <li>קידוד ספציפי לכל ערוץ</li>
+      <li>תמיכה בערכות נושא לסמל הכינוי</li>
+      <li>הרבה אפשרויות הגדרה</li>
+    </ul>
+  </description>
+  <description lang="hu">
+    <p>A Konversation a KDE felhasználóbarát Internet Relay Chat (IRC) kliense. Könnyű hozzáférést biztosít a szabványos IRC hálózatokhoz, mint például a Libera, ahol a KDE IRC csatornák találhatók.</p>
+    <p>Szolgáltatások:</p>
+    <ul>
+      <li>Standard IRC szolgáltatások</li>
+      <li>SSL kiszolgálótámogatás</li>
+      <li>Könyvjelzők</li>
+      <li>Egyszerűen használható felhasználói felület</li>
+      <li>Több kiszolgáló és csatorna megjelenítése egy ablakon belül</li>
+      <li>DCC fájlátvitel</li>
+      <li>Különböző identitások különböző kiszolgálókhoz</li>
+      <li>Szövegdíszítés és színek</li>
+      <li>Értesítések megjelenítése a képernyőn</li>
+      <li>UTF-8 automatikus felismerése</li>
+      <li>Csatornánkénti kódolási beállítások</li>
+      <li>Tématámogatás a becenevek ikonjaihoz</li>
+      <li>Számos beállítási lehetőség</li>
+    </ul>
+  </description>
+  <description lang="ia">
+    <p>Characteristicas:</p>
+    <ul>
+      <li>Characteristicas de RC Standard</li>
+      <li>Supporto de servitor SSL</li>
+      <li>Decorationes de texto e colores</li>
+      <li>Detection automatic de UTF-8</li>
+      <li>Supporto de codifica per canal</li>
+      <li>Altamente configurabile</li>
+    </ul>
+  </description>
+  <description lang="id">
+    <p>Fitur:</p>
+    <ul>
+      <li>Fitur IRC standar</li>
+      <li>Dukungan server SSL</li>
+      <li>Dukungan pemarkahan</li>
+      <li>Mudah untuk menggunakan antarmuka pengguna grafikal</li>
+      <li>Multipel channel dan server di satu window tunggal</li>
+      <li>Transfer file DCC</li>
+      <li>Multipel identitas untuk server yang berbeda</li>
+      <li>Dekorasi teks dan warna</li>
+      <li>Notifikasi didisplaikan di layar (OSD)</li>
+      <li>Deteksi UTF-8 otomatis</li>
+      <li>Dukungan pengenkodean per channel</li>
+      <li>Dukungan tema untuk ikon nick</li>
+      <li>Sangat dapat dikonfigurasi</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>Konversation è un client per Internet Relay Chat (IRC) facile da usare sviluppato da KDE. Fornisce un acceso rapido alle reti IRC standard come Libera, dove si possono trovare i canali IRC di KDE.</p>
+    <p>Funzionalità:</p>
+    <ul>
+      <li>Funzionalità di base di IRC</li>
+      <li>Supporto per i server SSL</li>
+      <li>Supporto per i segnalibri</li>
+      <li>Interfaccia grafica semplice da usare</li>
+      <li>Diversi server e canali in un'unica finestra</li>
+      <li>Trasferimento file tramite DCC</li>
+      <li>Identità multiple per i vari server</li>
+      <li>Decorazioni e colori per il testo</li>
+      <li>Notifiche a schermo (OnScreen Display)</li>
+      <li>Rilevamento automatico di UTF-8</li>
+      <li>Supporto di codifiche per canale</li>
+      <li>Supporto di temi per le icone dei nick</li>
+      <li>Altamente configurabile</li>
+    </ul>
+  </description>
+  <description lang="ko">
+    <p>Konversaion은 KDE의 IRC 클라이언트입니다. KDE IRC 채널이 있는 Libera와 같은 IRC 네트워크에 쉽게 연결할 수 있습니다.</p>
+    <p>기능:</p>
+    <ul>
+      <li>표준 IRC 기능</li>
+      <li>SSL 서버 지원</li>
+      <li>책갈피 지원</li>
+      <li>사용하기 쉬운 그래픽 사용자 인터페이스</li>
+      <li>하나의 창에서 여러 서버와 채널 관리</li>
+      <li>DCC 파일 전송</li>
+      <li>개별 서버별 다중 프로필</li>
+      <li>텍스트 장식과 색상</li>
+      <li>화면 디스플레이 알림</li>
+      <li>자동 UTF-8 감지</li>
+      <li>채널별 인코딩 지원</li>
+      <li>별명 아이콘 테마 지원</li>
+      <li>다양하게 설정 가능</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>Konversation is een gebruikersvriendelijke Internet Relay Chat (IRC)-client door KDE. Het biedt gemakkelijk toegang tot standaard IRC-netwerken zoals Libera, waar de KDE IRC-kanalen zijn te vinden.</p>
+    <p>Mogelijkheden:</p>
+    <ul>
+      <li>Standaard IRC-functies</li>
+      <li>Ondersteuning voor SSL-server</li>
+      <li>Ondersteuning voor bladwijzers</li>
+      <li>Gemakkelijk te gebruiken grafische gebruikersinterface</li>
+      <li>Meerdere servers and kanalen in een enkel venster</li>
+      <li>DCC Bestandsoverdracht</li>
+      <li>Meerdere identiteiten voor verschillende servers</li>
+      <li>Tekstdecoraties en kleuren</li>
+      <li>Meldingen op het scherm tonen</li>
+      <li>Automatische detectie van UTF-8</li>
+      <li>Ondersteuning voor codering per kanaal</li>
+      <li>Ondersteuning van thema voor pictogrammen bij schermnamen.</li>
+      <li>Hoog instelbaar</li>
+    </ul>
+  </description>
+  <description lang="nn">
+    <p>Konversation er eit brukarvennleg prateprogram for IRC (Internet Relay Chat) frå KDE. Det gjev enkel tilgang til IRC-nettverk som Libera, der du finn IRC-kanalen for KDE.</p>
+    <p>Funksjonar:</p>
+    <ul>
+      <li>Standard IRC-funksjonar</li>
+      <li>Støtte for SSL-tenarar</li>
+      <li>Bokmerkestøtte</li>
+      <li>Brukarvennleg grafisk brukargrensesnitt</li>
+      <li>Støtte for fleire tenarar og kanalar i same vindauge</li>
+      <li>Filoverføring via DCC</li>
+      <li>Fleire identitetar for ulike tenarar</li>
+      <li>Teksteffektar og fargar</li>
+      <li>Vising av varslingar som skjermmeldingar</li>
+      <li>Automatisk UTF-8-oppdaging</li>
+      <li>Støtte for ulike teiknkodingar for ulike kanalar</li>
+      <li>Temastøtte for deltakarikon</li>
+      <li>Kan tilpassast på mange måtar</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <p>Konversation jest przyjaznym użytkownikowi programem do obsługi Internet Relay Chat (IRC) dla KDE. Zapewnia łatwy dostęp do standardowych sieci IRC, takich jak Libera, na których można znaleźć kanały IRC dla KDE.</p>
+    <p>Możliwości:</p>
+    <ul>
+      <li>Standardowe możliwości IRC</li>
+      <li>Obsługa serwera SSL</li>
+      <li>Obsługa zakładek</li>
+      <li>Łatwy w użyciu interfejs graficzny</li>
+      <li>Wiele serwerów i kanałów w pojedynczym oknie</li>
+      <li>Przesyłanie plików przez DCC</li>
+      <li>Wiele tożsamości dla różnych serwerów</li>
+      <li>Ozdobny, kolorowy tekst </li>
+      <li>Powiadomienia ekranowe</li>
+      <li>Samoczynne wykrywanie UTF-8</li>
+      <li>Kodowanie zależne od kanału</li>
+      <li>Obsługa wystrojów dla ikon pseudonimów</li>
+      <li>Wysoce ustawialny</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>O Konversation é um cliente amigável de Internet Relay Chat (IRC) do KDE. Oferece um acesso rápido às redes-padrão de IRC, como o Libera - onde se encontram os canais de IRC do KDE.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Funcionalidades normais do IRC</li>
+      <li>Suporte para o servidor em SSL</li>
+      <li>Suporte para favoritos</li>
+      <li>Interface de utilizador simples de usar</li>
+      <li>Vários canais e servidores numa única janela</li>
+      <li>Transferência de ficheiros por DCC</li>
+      <li>Várias identidades para diferentes servidores</li>
+      <li>Decorações e cores do texto</li>
+      <li>Visualização no ecrã para as notificações</li>
+      <li>Detecção automática do UTF-8</li>
+      <li>Suporte de codificações diferentes por canal</li>
+      <li>Suporte de temas para os ícones das alcunhas</li>
+      <li>Extremamente configurável</li>
+    </ul>
+  </description>
+  <description lang="pt-BR">
+    <p>O Konversation é um cliente de IRC (Internet Relay Chat) amigável do KDE. Ele fornece acesso fácil a redes IRC padrão, como Libera, onde os canais IRC do KDE podem ser encontrados.</p>
+    <p>Recursos:</p>
+    <ul>
+      <li>Recursos padrão do IRC</li>
+      <li>Suporte a servidor SSL</li>
+      <li>Suporte a favoritos</li>
+      <li>Interface gráfica fácil de usar</li>
+      <li>Múltiplos servidores e canais em uma única janela</li>
+      <li>Transferência de arquivos DCC</li>
+      <li>Múltiplas identidades para servidores diferentes</li>
+      <li>Decorações de textos e cores</li>
+      <li>Exibição na tela para notificações</li>
+      <li>Detecção automática de UTF-8</li>
+      <li>Suporte a codificação por canal</li>
+      <li>Suporte a temas para os ícones dos apelidos</li>
+      <li>Altamente configurável</li>
+    </ul>
+  </description>
+  <description lang="ru">
+    <p>Konversation — клиент IRC с дружественным интерфейсом, разработанный KDE. Он обеспечивает доступ к стандартным сетям IRC (например, к Libera), где находятся IRC-каналы KDE.</p>
+    <p>Возможности:</p>
+    <ul>
+      <li>Стандартные возможности IRC</li>
+      <li>Поддержка серверов SSL</li>
+      <li>Поддержка закладок</li>
+      <li>Простой в использовании графический интерфейс пользователя</li>
+      <li>Показ нескольких серверов и каналов в одном окне</li>
+      <li>Передача файлов DCC</li>
+      <li>Несколько профилей для разных серверов</li>
+      <li>Оформление текста и цвета</li>
+      <li>Индикатор уведомлений</li>
+      <li>Автоматическое определение UTF-8</li>
+      <li>Поддержка различных кодировок для каналов</li>
+      <li>Поддержка тем значков пользователей</li>
+      <li>Широкие возможности настройки</li>
+    </ul>
+  </description>
+  <description lang="sk">
+    <p>Konversation je používateľsky priateľský klient pre IRC od KDE. Poskytuje ľahký prístup ku štandardným IRC sieťam ako Libera, KDE sa dajú nájsť KDE IRC kanály.</p>
+    <p>Funkcie:</p>
+    <ul>
+      <li>Štandardné funkcie IRC</li>
+      <li>Podpora SSL servera</li>
+      <li>Podpora záložiek</li>
+      <li>Ľahko použiteľné používateľské rozhranie</li>
+      <li>Viac serverov a kanálov v jednom okne</li>
+      <li>Prenos súborov DCC</li>
+      <li>Viac identít pre rôzne servery</li>
+      <li>Dekorácie a farby textu</li>
+      <li>OnScreen Display pre upozornenia</li>
+      <li>Automatická detekcia UTF-8</li>
+      <li>Podpora kódovania pre každý kanál</li>
+      <li>Podpora tém pre ikony prezývok</li>
+      <li>Vysoko konfigurovateľné</li>
+    </ul>
+  </description>
+  <description lang="sl">
+    <p>Konversation je uporabniku prijazen odjemalec Internet Relay Chat (IRC), ki ga izdelal KDE. To omogoča enostaven dostop do standardnih omrežij IRC, kot je Libera, kjer najdete lahko IRC kanale za KDE.</p>
+    <p>Zmožnosti:</p>
+    <ul>
+      <li>Običajne zmožnosti za IRC</li>
+      <li>Podpora strežnikom SSL</li>
+      <li>Podpora zaznamkom</li>
+      <li>Enostaven grafični uporabniški vmesnik</li>
+      <li>Več strežnikov in kanalov v samo enem oknu</li>
+      <li>Prenos datotek preko DCC</li>
+      <li>Več istovetnosti za različne strežnike</li>
+      <li>Okraski in barve besedila</li>
+      <li>Prikaz na zaslonu za obvestila</li>
+      <li>Samodejna zaznava UTF-8</li>
+      <li>Podpora različnim kodiranjem na različnih kanalih</li>
+      <li>Podpora ikonam v vzdevkih</li>
+      <li>Veliko nastavitvenih možnosti</li>
+    </ul>
+  </description>
+  <description lang="sr">
+    <p>Могућности:</p>
+    <ul>
+      <li>стандардне ИРЦ могућности</li>
+      <li>подршка за ССЛ сервере</li>
+      <li>подршка за обележиваче</li>
+      <li>предусретљиво графичко корисничко сучеље</li>
+      <li>више сервера и канала у једном прозору</li>
+      <li>ДЦЦ пренос фајлова</li>
+      <li>вишеструки идентитети за различите сервере</li>
+      <li>декорације и бојење текста</li>
+      <li>екрански приказ за обавештења</li>
+      <li>аутоматско откривање УТФ‑8</li>
+      <li>подршка за кодирање по каналу</li>
+      <li>тематска подршка за иконице надимака</li>
+      <li>висока подесивост</li>
+    </ul>
+  </description>
+  <description lang="sr-Latn">
+    <p>Mogućnosti:</p>
+    <ul>
+      <li>standardne IRC mogućnosti</li>
+      <li>podrška za SSL servere</li>
+      <li>podrška za obeleživače</li>
+      <li>predusretljivo grafičko korisničko sučelje</li>
+      <li>više servera i kanala u jednom prozoru</li>
+      <li>DCC prenos fajlova</li>
+      <li>višestruki identiteti za različite servere</li>
+      <li>dekoracije i bojenje teksta</li>
+      <li>ekranski prikaz za obaveštenja</li>
+      <li>automatsko otkrivanje UTF‑8</li>
+      <li>podrška za kodiranje po kanalu</li>
+      <li>tematska podrška za ikonice nadimaka</li>
+      <li>visoka podesivost</li>
+    </ul>
+  </description>
+  <description lang="sr-ijekavian">
+    <p>Могућности:</p>
+    <ul>
+      <li>стандардне ИРЦ могућности</li>
+      <li>подршка за ССЛ сервере</li>
+      <li>подршка за обележиваче</li>
+      <li>предусретљиво графичко корисничко сучеље</li>
+      <li>више сервера и канала у једном прозору</li>
+      <li>ДЦЦ пренос фајлова</li>
+      <li>вишеструки идентитети за различите сервере</li>
+      <li>декорације и бојење текста</li>
+      <li>екрански приказ за обавештења</li>
+      <li>аутоматско откривање УТФ‑8</li>
+      <li>подршка за кодирање по каналу</li>
+      <li>тематска подршка за иконице надимака</li>
+      <li>висока подесивост</li>
+    </ul>
+  </description>
+  <description lang="sr-ijekavianlatin">
+    <p>Mogućnosti:</p>
+    <ul>
+      <li>standardne IRC mogućnosti</li>
+      <li>podrška za SSL servere</li>
+      <li>podrška za obeleživače</li>
+      <li>predusretljivo grafičko korisničko sučelje</li>
+      <li>više servera i kanala u jednom prozoru</li>
+      <li>DCC prenos fajlova</li>
+      <li>višestruki identiteti za različite servere</li>
+      <li>dekoracije i bojenje teksta</li>
+      <li>ekranski prikaz za obaveštenja</li>
+      <li>automatsko otkrivanje UTF‑8</li>
+      <li>podrška za kodiranje po kanalu</li>
+      <li>tematska podrška za ikonice nadimaka</li>
+      <li>visoka podesivost</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <p>Konversation är en användarvänlig IRC-klient (Internet Relay Chat) av KDE. Det erbjuder enkel åtkomst till vanliga IRC-nätverk såsom Libera, där KDE:s IRC-kanal finns.</p>
+    <p>Funktioner:</p>
+    <ul>
+      <li>Vanliga IRC-funktioner</li>
+      <li>Stöd för SSL-server</li>
+      <li>Stöd för bokmärken</li>
+      <li>Lättanvänt grafiskt användargränssnitt</li>
+      <li>Flera servrar och kanaler i ett enda fönster</li>
+      <li>DCC-filöverföring</li>
+      <li>Fler identiteter för olika servrar</li>
+      <li>Textdekorationer och färger</li>
+      <li>Visning av underrättelser på skärmen</li>
+      <li>Automatisk detektering av UTF-8</li>
+      <li>Kodningsstöd per kanal</li>
+      <li>Temastöd för smeknamnsikoner</li>
+      <li>Mycket anpassningsbar</li>
+    </ul>
+  </description>
+  <description lang="tr">
+    <p>Konversation, KDE tarafından yapılan, kullanıcı dostu bir IRC istemcisidir. KDE IRC kanallarının bulunduğu Libera gibi standart IRC ağlarına kolay erişim sağlar.</p>
+    <p>Özellikler:</p>
+    <ul>
+      <li>Standart IRC özellikleri</li>
+      <li>SSL sunucu desteği</li>
+      <li>Yer imi desteği</li>
+      <li>Kullanımı kolay grafik kullanıcı arayüzü</li>
+      <li>Tek bir pencerede birden çok sunucu ve kanal</li>
+      <li>DCC dosya aktarımı</li>
+      <li>Farklı sunucular için birden fazla kimlik</li>
+      <li>Metin süslemeleri ve renkleri</li>
+      <li>Bildirimler için Ekran Gösterimleri</li>
+      <li>Otomatik UTF-8 algılama</li>
+      <li>Kanal başına şifreleme desteği</li>
+      <li>Takma ad simgeleri için tema desteği</li>
+      <li>Son derece yapılandırılabilir</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>Konversation — зручний для користування клієнт Internet Relay Chat (IRC) від KDE. Програма надає простий доступ до стандартних мереж IRC, зокрема Libera, де можна знайти канали IRC KDE.</p>
+    <p>Можливості:</p>
+    <ul>
+      <li>Стандартні можливості IRC</li>
+      <li>Підтримка роботи із серверами SSL</li>
+      <li>Підтримка роботи із закладками</li>
+      <li>Простий у користуванні графічний інтерфейс</li>
+      <li>Показ даних декількох серверів та каналів у одному вікні</li>
+      <li>Передавання файлів за допомогою DCC</li>
+      <li>Можливість користування декількома профілями на різних серверах</li>
+      <li>Можливість декорування та розфарбовування тексту</li>
+      <li>Екранна панель для показу сповіщень</li>
+      <li>Автоматичне виявлення UTF-8</li>
+      <li>Можливість встановлення окремого кодування символів для кожного з каналів</li>
+      <li>Підтримка тем для піктограм профілів</li>
+      <li>Широкі можливості із налаштовування</li>
+    </ul>
+  </description>
+  <description lang="x-test">
+    <p>xxKonversation is a user-friendly Internet Relay Chat (IRC) client by KDE. It provides easy access to standard IRC networks such as Libera, where the KDE IRC channels can be found.xx</p>
+    <p>xxFeatures:xx</p>
+    <ul>
+      <li>xxStandard IRC featuresxx</li>
+      <li>xxSSL server supportxx</li>
+      <li>xxBookmarking supportxx</li>
+      <li>xxEasy to use graphical user interfacexx</li>
+      <li>xxMultiple servers and channels in one single windowxx</li>
+      <li>xxDCC file transferxx</li>
+      <li>xxMultiple identities for different serversxx</li>
+      <li>xxText decorations and colorsxx</li>
+      <li>xxOnScreen Display for notificationsxx</li>
+      <li>xxAutomatic UTF-8 detectionxx</li>
+      <li>xxPer channel encoding supportxx</li>
+      <li>xxTheme support for nick iconsxx</li>
+      <li>xxHighly configurablexx</li>
+    </ul>
+  </description>
+  <description lang="zh-CN">
+    <p>Konversation 是一个由 KDE 团队打造的、便于使用的 Internet Relay Chat (IRC) 客户端。它可轻松访问如 Libera 在内的标准 IRC 网络，也能在此找到 KDE 的 IRC 频道。</p>
+    <p>功能：</p>
+    <ul>
+      <li>标准 IRC 特性</li>
+      <li>SSL 服务器支持</li>
+      <li>书签支持</li>
+      <li>易用的图形用户界面</li>
+      <li>在同一个窗口中使用多个服务器和频道</li>
+      <li>DCC 文件传输</li>
+      <li>为不同服务器使用多个身份</li>
+      <li>文本修饰和颜色</li>
+      <li>屏显提示</li>
+      <li>自动 UTF-8 检测</li>
+      <li>支持每个频道单独设定编码</li>
+      <li>支持昵称图标主题</li>
+      <li>高度可配置</li>
+    </ul>
+  </description>
+  <description lang="zh-TW">
+    <p>功能：</p>
+    <ul>
+      <li>標準 IRC 功能</li>
+      <li>支援 SSL 伺服器</li>
+      <li>支援書籤</li>
+      <li>易於使用的圖形化使用者介面</li>
+      <li>在單一視窗中查看多個伺服器與頻道</li>
+      <li>DCC 檔案傳輸</li>
+      <li>在不同伺服器可使用不同的憑證登入</li>
+      <li>文字裝飾與色彩</li>
+      <li>通知的 OSD 支援</li>
+      <li>自動 UTF-8 偵測</li>
+      <li>每個頻道各自使用不同的編碼的支援</li>
+      <li>暱稱圖示的主題支援</li>
+      <li>高度可自訂性</li>
+    </ul>
+  </description>
+  <pkgname>libsForQt5.konversation</pkgname>
+  <launchable type="desktop-id">org.kde.konversation.desktop</launchable>
+  <icon type="cached" width="64" height="64">konversation.png</icon>
+  <icon width="128" type="cached" height="128">konversation.png</icon>
+  <id>org.kde.konversation.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Konversation</name>
+  <name lang="ar">محادثك</name>
+  <name lang="ca">Konversation</name>
+  <name lang="ca-valencia">Konversation</name>
+  <name lang="cs">Konversation</name>
+  <name lang="da">Konversation</name>
+  <name lang="de">Konversation</name>
+  <name lang="el">Konversation</name>
+  <name lang="en-GB">Konversation</name>
+  <name lang="es">Konversation</name>
+  <name lang="et">Konversation</name>
+  <name lang="fi">Konversation</name>
+  <name lang="fr">Konversation</name>
+  <name lang="gl">Konversation</name>
+  <name lang="hu">Konversation</name>
+  <name lang="ia">Konversation</name>
+  <name lang="id">Konversation</name>
+  <name lang="it">Konversation</name>
+  <name lang="ko">Konversation</name>
+  <name lang="nl">Konversation</name>
+  <name lang="nn">Konversation</name>
+  <name lang="pl">Konversation</name>
+  <name lang="pt">Konversation</name>
+  <name lang="pt-BR">Konversation</name>
+  <name lang="ru">Konversation</name>
+  <name lang="sk">Konversation</name>
+  <name lang="sl">Konversation</name>
+  <name lang="sr">Конверзација</name>
+  <name lang="sr-Latn">Konverzacija</name>
+  <name lang="sr-ijekavian">Конверзација</name>
+  <name lang="sr-ijekavianlatin">Konverzacija</name>
+  <name lang="sv">Konversation</name>
+  <name lang="tr">Konversation</name>
+  <name lang="uk">Konversation</name>
+  <name lang="x-test">xxKonversationxx</name>
+  <name lang="zh-CN">Konversation</name>
+  <name lang="zh-TW">Konversation</name>
+  <summary>IRC client</summary>
+  <summary lang="ar">عميل آي‌آرسي</summary>
+  <summary lang="ca">Client d'IRC</summary>
+  <summary lang="ca-valencia">Client d'IRC</summary>
+  <summary lang="cs">Klient IRC</summary>
+  <summary lang="da">IRC-klient</summary>
+  <summary lang="de">IRC-Programm</summary>
+  <summary lang="el">Εφαρμογή IRC</summary>
+  <summary lang="en-GB">IRC client</summary>
+  <summary lang="es">Cliente de IRC</summary>
+  <summary lang="et">IRC klient</summary>
+  <summary lang="fi">IRC-asiakas</summary>
+  <summary lang="fr">Client IRC</summary>
+  <summary lang="gl">Cliente de IRC</summary>
+  <summary lang="he">לקוח IRC</summary>
+  <summary lang="hu">IRC kliens</summary>
+  <summary lang="ia">Cliente IRC</summary>
+  <summary lang="id">Klien IRC</summary>
+  <summary lang="it">Client IRC</summary>
+  <summary lang="ko">IRC 클라이언트</summary>
+  <summary lang="nl">IRC-client</summary>
+  <summary lang="nn">IRC-klient</summary>
+  <summary lang="pl">Klient IRC</summary>
+  <summary lang="pt">Cliente de IRC</summary>
+  <summary lang="pt-BR">Cliente IRC</summary>
+  <summary lang="ru">Клиент IRC</summary>
+  <summary lang="sk">IRC klient</summary>
+  <summary lang="sl">Odjemalec za IRC</summary>
+  <summary lang="sr">ИРЦ клијент</summary>
+  <summary lang="sr-Latn">IRC klijent</summary>
+  <summary lang="sr-ijekavian">ИРЦ клијент</summary>
+  <summary lang="sr-ijekavianlatin">IRC klijent</summary>
+  <summary lang="sv">IRC-klient</summary>
+  <summary lang="tr">IRC istemcisi</summary>
+  <summary lang="uk">Клієнт IRC</summary>
+  <summary lang="x-test">xxIRC clientxx</summary>
+  <summary lang="zh-CN">IRC 客户端</summary>
+  <summary lang="zh-TW">IRC 用戶端程式</summary>
+  <screenshots>
+    <screenshot type="default">
+      <image width="1920" height="1048">https://cdn.kde.org/screenshots/konversation/konversation.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://konversation.kde.org/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=konversation</url>
+  <url type="help">https://docs.kde.org/?application=konversation</url>
+  <url type="donation">https://www.kde.org/community/donations/?app=konversation&amp;source=appdata</url>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>konversation</binary>
+  </provides>
+  <releases>
+    <release version="1.9.22043" date="2022-07-07" />
+    <release version="1.9.22042" date="2022-06-09" />
+    <release date="2022-05-12" version="1.9.22041" />
+    <release date="2022-04-21" version="1.9.22040" />
+  </releases>
+  <custom>
+    <value key="KDE::irc">#konversation</value>
+    <value key="KDE::mailinglist-devel">konversation-devel@kde.org</value>
+    <value key="KDE::forum">18</value>
+  </custom>
+  <update_contact>konversation-devel@kde.org</update_contact>
+  <content_rating type="oars-1.1">
+    <content_attribute id="social-chat">intense</content_attribute>
+  </content_rating>
+</component>

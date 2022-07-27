@@ -1,0 +1,1146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>
+      KNights is a chess game. As a player, your goal is to defeat your opponent by checkmating their king.
+    </p>
+    <p>Features:</p>
+    <ul>
+      <li>Local play between two players on the same computer</li>
+      <li>Play against any computer program that supports the XBoard protocol</li>
+      <li>Play on the Free Internet Chess Server (FICS)</li>
+      <li>Watching two computer engines play against each other</li>
+      <li>Support for legal move checking</li>
+      <li>Markers for possible moves, opponent’s last move and sources of check</li>
+      <li>Board borders and site notations</li>
+      <li>Complete time control, with Plasma-styled clocks</li>
+      <li>Several themes, with the possibility of downloading new ones from within the program</li>
+      <li>Animated moves (configurable)</li>
+      <li>Views for playing on a chess server, including a seek graph, text console, and chat widget</li>
+      <li>Option to undo and redo moves</li>
+      <li>Graphic interface for making and receiving offers from remote players</li>
+      <li>Support for the UCI protocol (used by Stockfish, Chessbase, and many others)</li>
+      <li>Support for saving and loading Portable game notation (PGN) files</li>
+      <li>Use of Jovie, the KDE text-to-speak program, to speak opponent’s moves</li>
+      <li>Ability to control the program via a D-Bus interface</li>
+    </ul>
+  </description>
+  <description lang="ar">
+    <p>الفرسان هي لعبة شطرنج. كلاعب هدفك هو هزيمة خصمك من خلال ضرب ملكهم.</p>
+    <p>الميزات:</p>
+    <ul>
+      <li>اللعب المحلي بين لاعبين على نفس الحاسوب</li>
+      <li>اللعب ضد أي برنامج حاسوب يدعم ميفاق XBoard</li>
+      <li>اللعب على خادم شطرنج الإنترنت المجاني (FICS)</li>
+      <li>مشاهدة محاكيا حاسوب يلعبان ضد بعضهما البعض</li>
+      <li>دعم الفحص القانوني للحركة</li>
+      <li>علامات للتحركات المحتملة وآخر حركة للخصم ومصادر الفحص</li>
+      <li>حدود اللوح وترميز الموقع</li>
+      <li>تحكم كامل بالوقت، مع ساعات على غرار البلازما</li>
+      <li>سمات متعددة مع إمكانية تحميل سمات جديدة من داخل البرنامج</li>
+      <li>تحريك حركات النقل (قابلة للضبط)</li>
+      <li>طرق عرض للعب على خادم الشطرنج ، بما في ذلك رسم بياني ووحدة تحكم نصية وأداة دردشة</li>
+      <li>خيار التراجع عن الحركات وإعادتها</li>
+      <li>واجهة رسومية لتقديم العروض وتلقيها من اللاعبين البعيدين</li>
+      <li>دعم ميفاق UCI (المستخدم بواسطة Stockfish و Chessbase وغيرها الكثير)</li>
+      <li>دعم حفظ وتحميل ملفات تدوين الألعاب المحمولة (PGN)</li>
+      <li>استخدام Jovie ، برنامج تحويل النص إلى كلام من كدي للتحدث بحركات الخصم</li>
+      <li>القدرة على التحكم في البرنامج عبر واجهة D-Bus</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>El KNights és un joc d'escacs. Com a jugador, el vostre objectiu és derrotar a l'adversari fent escac i mat al seu rei.</p>
+    <p>Característiques:</p>
+    <ul>
+      <li>Joc local entre dos jugadors al mateix ordinador</li>
+      <li>Joc contra qualsevol programa d'ordinador que accepti el protocol XBoard</li>
+      <li>Jugar al Free Internet Chess Server (FICS)</li>
+      <li>Mirar dos motors d'ordinador que juguen entre si</li>
+      <li>Permet la comprovació de moviments legals</li>
+      <li>Marcadors per a possibles moviments, últim moviment de l'adversari i jugades d'escac</li>
+      <li>Vores del tauler i notacions de lloc</li>
+      <li>Control complet del temps, amb rellotges a l'estil del Plasma</li>
+      <li>Diversos temes, amb la possibilitat de baixar-ne de nous des del programa</li>
+      <li>Animació dels moviments (configurable)</li>
+      <li>Vistes per a jugar en un servidor d'escacs, incloent-hi un gràfic de cerca, una consola de text i un giny de xat</li>
+      <li>Opcions per a fer i desfer moviments</li>
+      <li>Interfície gràfica per a fer i rebre oferiments de jugadors remots</li>
+      <li>Admet el protocol UCI (usat per l'Stockfish, el Chessbase i altres)</li>
+      <li>Admet els fitxers «Portable game notation» (PGN) per a desar i carregar</li>
+      <li>Ús del Jovie, el programa de text a veu del KDE, per a pronunciar els moviments de l'adversari</li>
+      <li>Permet controlar el programa via una interfície de D-Bus</li>
+    </ul>
+  </description>
+  <description lang="ca-valencia">
+    <p>KNights és un joc d'escacs. Com a jugador, el vostre objectiu és derrotar a l'adversari fent escac i mat al seu rei.</p>
+    <p>Característiques:</p>
+    <ul>
+      <li>Joc local entre dos jugadors al mateix ordinador</li>
+      <li>Joc contra qualsevol programa d'ordinador que accepte el protocol XBoard</li>
+      <li>Jugar al Free Internet Chess Server (FICS)</li>
+      <li>Mirar dos motors d'ordinador que juguen entre si</li>
+      <li>Permet la comprovació de moviments legals</li>
+      <li>Marcadors per a possibles moviments, últim moviment de l'adversari i jugades d'escac</li>
+      <li>Vores del tauler i notacions de lloc</li>
+      <li>Control complet del temps, amb rellotges a l'estil de Plasma</li>
+      <li>Diversos temes, amb la possibilitat de baixar-ne de nous des del programa</li>
+      <li>Animació dels moviments (configurable)</li>
+      <li>Vistes per a jugar en un servidor d'escacs, incloent-hi un gràfic de busca, una consola de text i un giny de xat</li>
+      <li>Opcions per a fer i desfer moviments</li>
+      <li>Interfície gràfica per a fer i rebre oferiments de jugadors remots</li>
+      <li>Admet el protocol UCI (utilitzat per Stockfish, Chessbase i altres)</li>
+      <li>Admet els fitxers «Portable game notation» (PGN) per a guardar i carregar</li>
+      <li>Ús de Jovie, el programa de text a veu de KDE, per a llegir els moviments de l'adversari</li>
+      <li>Permet controlar el programa via una interfície de D-Bus</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>Vlastnosti:</p>
+  </description>
+  <description lang="da">
+    <p>KNights er et skakspil. Som spiller er dit mål at sejre over din modstander ved deres konge skakmat.</p>
+    <p>Funktioner:</p>
+    <ul>
+      <li>Lokalt spil med to spillere på den samme computer</li>
+      <li>Spil mod computerprogram der understøtter XBoard-protokollen</li>
+      <li>Spil på Free Internet Chess Server (FICS)</li>
+      <li>Se to computermotorer spille mod hinanden</li>
+      <li>Undersøttelse for tjek af lovlige træk</li>
+      <li>Markører til mulige træk, modstanderens sidste træk og tjekkilder</li>
+      <li>Brættets kanter og stednotifikationer</li>
+      <li>Fuld tidskontrol, med ure i Plasma-stil</li>
+      <li>Adskillige temaer, med mulighed for at downloade nye i programmet</li>
+      <li>Animerede træk (kan konfigureres)</li>
+      <li>Visninger til spil på en skakserver, inklusiv en søgegraf, tekstkonsol og chat-widget</li>
+      <li>Mulighed for at fortryde og gendanne træk</li>
+      <li>Grafisk grænseflade til at foretage og modtage tilbud fra fjernspillere</li>
+      <li>Understøttelse af UCI-protokollen (bruges af Stockfish, Chessbase og mange andre)</li>
+      <li>Understøttelse af gem og indlæsning af Portable game notation-filer (PGN)</li>
+      <li>Brug af Jovie, KDEs tekst-til-tale-program, til at sige modstanderens træk</li>
+      <li>Mulighed for at styre programmet via en D-Bus-grænseflade</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>KNights ist ein Schachspiel, bei dem der Gegner durch Matt setzen des Königs besiegt wird.</p>
+    <p>Funktionen:</p>
+    <ul>
+      <li>Lokale Spiele zwischen zwei Spielern auf demselben Rechner</li>
+      <li>Spiele gegen jedes Rechnerprogramm, das das XBoard-Protokoll unterstützt</li>
+      <li>Spielen auf dem Free Internet Chess Server (FICS)</li>
+      <li>Anzeige eines Spiels zweier Schach-Module gegeneinander</li>
+      <li>Überprüfung auf gültige Spielzüge</li>
+      <li>Markierungen für mögliche Züge, den letzten Zug des Gegners und Spielzüge für Schachmatt</li>
+      <li>Verschiedene Ränder des Schachbretts und Notationen der Schachseiten</li>
+      <li>Vollständige Zeitüberwachung mit Uhren im Plasma-Design</li>
+      <li>Verschiedene Designs sind in KNights bereits enthalten, weitere Designs können aus dem Programm heraus heruntergeladen werden</li>
+      <li>Animierte Züge, einstellbar</li>
+      <li>Ansichten zum Spielen auf einem Schachserver, inklusive Suchgraphen,  Textkonsole und Chatmöglichkeit</li>
+      <li>Option zum Zug zurücknehmen und wiederherstellen</li>
+      <li>Grafische Schnittstelle um Angebote von entfernten Spielen zu senden und zu erhalten</li>
+      <li>Unterstützung für das UCI-Protokoll, das von Stockfish, Chessbase und anderen verwendet wird</li>
+      <li>Laden und speichern von Dateien im Format Portable Spielnotation (*.pgn)</li>
+      <li>Verwendet den KDE-Sprachausgabedienst Jovie, um die Züge des Gegners vorzulegen</li>
+      <li>Das Programm kann über eine D-Bus-Schnittstelle gesteuert werden</li>
+    </ul>
+  </description>
+  <description lang="el">
+    <p>Το KNights είναι ένα σκάκι. Ως παίκτης, ο στόχος σου είναι να νικήσεις τον αντίπαλο κάνοντας ματ στον βασιλιά.</p>
+    <p>Χαρακτηριστικά:</p>
+    <ul>
+      <li>Τοπικό παιχνίδι ανάμεσα σε δύο παίκτες στον ίδιο υπολογιστή</li>
+      <li>Παίξε εναντίον οποιουδήποτε προγράμματος που υποστηρίζει το πρωτόκολλο XBoard</li>
+      <li>Παίξε στον Ελεύθερο Διαδικτυακό Εξυπηρετητή Σκακιού (Free Internet Chess Server, FICS)</li>
+      <li>Παρακολουθήστε δύο μηχανές να παίζουν η μία εναντίον της άλλης</li>
+      <li>Υποστήριξη για έλεγχο εγκυρότητας κίνησης</li>
+      <li>Δείκτες για πιθανές κινήσεις, για την τελευταία κίνηση του αντιπάλου και πηγές σαχ</li>
+      <li>Άκρα σκακιέρας και πλαϊνοί συμβολισμοί</li>
+      <li>Πλήρης έλεγχος χρόνου, με Plasma-styled χρονόμετρα</li>
+      <li>Πολλά θέματα, με δυνατότητα λήψης νέων μέσα από το πρόγραμμα</li>
+      <li>ζωντάνεμα κινήσεων (διαμορφώσιμο)</li>
+      <li>Προβολές παιχνιδιού σε εξυπηρετητή σκακιού, με γράφο αναζήτησης, κονσόλα κειμένου και γραφικό συστατικό συνοιμλίας</li>
+      <li>Επιλογή για αναίρεση και επαναφορά κινήσεων</li>
+      <li>Γραφικό περιβάλλον για προσφορές από απομακρυσμένους παίκτες</li>
+      <li>Υποστήριξη για το UCI πρωτόκολλο (χρησιμοποιείται από Stockfish, Chessbase, και πολλούς άλλους)</li>
+      <li>Υποστήριξη για αποθήκευση και φόρτωση αρχείων συμβολισμών PGN (Portable game notation)</li>
+      <li>Χρήση του Jovie, του προγράμματος μετατροπής κειμένου σε ομιλία του KDE, για την προφορική διατύπωση των κινήσεων του αντιπάλου</li>
+      <li>Δυνατότητα ελέγχου του προγράμματος μέσω διεπαφής D-Bus</li>
+    </ul>
+  </description>
+  <description lang="en-GB">
+    <p>KNights is a chess game. As a player, your goal is to defeat your opponent by checkmating their king.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Local play between two players on the same computer</li>
+      <li>Play against any computer program that supports the XBoard protocol</li>
+      <li>Play on the Free Internet Chess Server (FICS)</li>
+      <li>Watching two computer engines play against each other</li>
+      <li>Support for legal move checking</li>
+      <li>Markers for possible moves, opponent's last move and sources of check</li>
+      <li>Board borders and site notations</li>
+      <li>Complete time control, with Plasma-styled clocks</li>
+      <li>Several themes, with the possibility of downloading new ones from within the program</li>
+      <li>Animated moves (configurable)</li>
+      <li>Views for playing on a chess server, including a seek graph, text console, and chat widget</li>
+      <li>Option to undo and redo moves</li>
+      <li>Graphic interface for making and receiving offers from remote players</li>
+      <li>Support for the UCI protocol (used by Stockfish, Chessbase, and many others)</li>
+      <li>Support for saving and loading Portable game notation (PGN) files</li>
+      <li>Use of Jovie, the KDE text-to-speak program, to speak opponent's moves</li>
+      <li>Ability to control the program via a D-Bus interface</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>KNights es un juego de ajedrez. Como jugador, su objetivo consiste en vencer a su oponente haciendo jaque mate a su rey.</p>
+    <p>Funciones:</p>
+    <ul>
+      <li>Partida local entre dos jugadores en el mismo equipo</li>
+      <li>Jugar contra cualquier programa de computadora que use el protocolo XBoard</li>
+      <li>Jugar en el servidor de ajedrez libre de Internet (FICS)</li>
+      <li>Observar cómo juegan dos programas de ajedrez entre sí</li>
+      <li>Permite comprobar los movimientos legales</li>
+      <li>Marcadores para posibles movimientos, último movimiento del oponente y fuentes de comprobaciones</li>
+      <li>Bordes del tablero y notaciones del sitio</li>
+      <li>Completo control del tiempo, con paneles al estilo de Plasma</li>
+      <li>Diversos temas, con la posibilidad de descargar otros nuevos desde el programa</li>
+      <li>Movimientos animados (configurables)</li>
+      <li>Visores para jugar en un servidor de ajedrez, incluido un gráfico de búsqueda, una consola de texto y una ventana de charla</li>
+      <li>Opción para deshacer y rehacer movimientos</li>
+      <li>Interfaz gráfica para hacer y recibir ofertas de jugadores remotos</li>
+      <li>Permite usar el protocolo UCI (usado por Stockfish, Chessbase y otros)</li>
+      <li>Permite guardar y cargar archivos de notación portable de juego (PGN)</li>
+      <li>Uso de Jovie, el programa de síntesis de voz de KDE, para leer los movimientos del oponente</li>
+      <li>Posibilidad de controlar el programa a través de la interfaz D-Bus</li>
+    </ul>
+  </description>
+  <description lang="et">
+    <p>KNights on malemäng. Mängija siht on vastasest jagu saada tema kuningale matti kuulutades.</p>
+    <p>Omadused:</p>
+    <ul>
+      <li>Kohalik mäng kahe mängija vahel sama arvuti taga</li>
+      <li>Mäng mis tahes arvutiprogrammi vastu, mis toetab XBoardi protokolli</li>
+      <li>Mäng vabas interneti maleserveris (FICS)</li>
+      <li>Jälgimine, kuidas mängivad omavahel kaks arvutisse paigaldatud malemootorit</li>
+      <li>Käikude õigsuse kontrollimise toetus</li>
+      <li>Võimalike käikude, vastase viimase käigu ja tule andmise allika märgised</li>
+      <li>Mänguvälja piirded ja notatsioonid</li>
+      <li>Ajakontroll Plasma stiilis kelladega</li>
+      <li>Mitu teemat ühes võimalusega otse rakendusest neid veel alla laadida</li>
+      <li>Animeeritud käigud (seadistatav)</li>
+      <li>Eri vaated maleserveris mängimise korral, kaasa arvatud tekstikonsool ja vestlusvidin</li>
+      <li>Võimalus käike tagasi võtta ja uuesti teha</li>
+      <li>Graafiline liides võrgumängijatelt pakkumiste saamiseks ja neile pakkumiste tegemiseks</li>
+      <li>UCI protokolli (seda kasutavad Stockfish, Chessbase ja veel paljud teised) toetus</li>
+      <li>PGN-failide salvestamise ja laadimise toetus</li>
+      <li>KDE teksti kõnelemise rakenduse Jovie kasutamine vastase käikude esitamiseks kuuldavalt</li>
+      <li>Võimalus juhtida programmi D-Busi liidese vahendusel</li>
+    </ul>
+  </description>
+  <description lang="eu">
+    <p>Knights Xake jokoa da. Jokalari bezala, zure helburua arerioaren erregeari xake-mate eginez irabaztea da.</p>
+    <p>Eginbideak:</p>
+    <ul>
+      <li>Bertako jokoa bi jokalarien artean ordenagailu berdinean</li>
+      <li>XBoard protokoloa onartzen duen edozein ordenagailuren aurka jokatzea</li>
+      <li>Interneteko xake zerbitzari dohainekoan (FICS) jolastu</li>
+      <li>Bi ordenagailu motor bata bestearen aurkako lehia ikusi</li>
+      <li>Legezko mugimenduen egiaztatzea</li>
+      <li>Markagailuak aukerako mugimenduentzat, arerioaren azken mugimenduarena eta xake aukerena</li>
+      <li>taula ertzak eta gune notazioak</li>
+      <li>Denboraren kontrol erabatekoa, Plasma estiloko erlojuekin</li>
+      <li>Hainbat gai, programatik beste hainbat jaisteko aukeraz</li>
+      <li>Mugimendu animazioak (konfiguragarria)</li>
+      <li>Xake zerbitzarian jokatzeko ikuspegiak, grafiko bilaketa, testu kontsola eta txat trepeta barne</li>
+      <li>Mugimenduak desegin eta berregiteko aukeraz</li>
+      <li>Interfaze grafikoa urruneko jokalariei eskaintzak egin eta haienak jasotzeko</li>
+      <li>UCI protokoloaren euskarria (Stockfish, Chessbase eta beste hainbatek erabilia)</li>
+      <li>Joko eramangarriaren notazio (PGN) fitxategiak gorde eta kargatzeko euskarria</li>
+      <li>Erabili Jovie, KDEren testu ahoskatze programa arerioaren mugimenduak ahoskatzeko</li>
+      <li>Programa D-Bus interfazeaz kontrolatzeko gaitasuna</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>Knights on šakkipeli. Tavoitteesi pelajaana on voittaa vastustaja matittamalla hänen kuninkaansa.</p>
+    <p>Ominaisuuksia:</p>
+    <ul>
+      <li>Paikallinen peli kahden samalla koneella olevan pelaajan kesken</li>
+      <li>Pelaa toista XBoard-yhteyskäytäntöistä tietokoneohjelmaa vastaan</li>
+      <li>Pelaa FICSissä (vapaa internetšakkipalvelin)</li>
+      <li>Kahden tietokoneen keskinäisen pelin seuraaminen</li>
+      <li>Siirtojen laillisuuden tarkistuksen tuki</li>
+      <li>Mahdollisten siirtojen, vastustajan viimeisimmän siirron ja šakkiasemien merkintä</li>
+      <li>Laudan reunat ja merkinnät</li>
+      <li>Täydellinen ajanhallinta Plasma-tyylin kelloin</li>
+      <li>Useita teemoja ja mahdollisuus ladata niitä lisää ohjelman sisältä</li>
+      <li>Animoidut siirrot (mukautettavissa)</li>
+      <li>Šakkipalvelinpelinäkymät hakukaavioineen, tekstikonsoleineen ja keskustelupaneeleineen</li>
+      <li>Siirtojen perumis- ja uudelleentekemismahdollisuus</li>
+      <li>Graafinen käyttöliittymä etäpelitarjousten tekemiseksi ja vastaanottamiseksi</li>
+      <li>Tuki UCI-yhteyskäytännölle (jota käyttävät mm. Stockfish ja Chessbase)</li>
+      <li>Siirrettävien pelinotaatiotiedostojen (PGN) tallennuksen ja latauksen tuki</li>
+      <li>Vastustajan siirtojen kertominen ääneen Joviella, KDE:n puhesyntetisaattorilla</li>
+      <li>Mahdollisuus hallita ohjelmaa D-Bus-liitännästä</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>KNights est un jeu d'échecs. En tant que joueur, votre objectif est de vaincre votre adversaire en mettant son roi échec et mat.</p>
+    <p>Fonctionnalités :</p>
+    <ul>
+      <li>Jouez en local entre deux joueurs sur le même ordinateur</li>
+      <li>Jouez contre un programme informatique prenant en charge le protocole XBoard</li>
+      <li>Jouez sur le Free Internet Chess Server (FICS)</li>
+      <li>Regardez deux moteurs de jeu s'affronter</li>
+      <li>Prise en charge de la vérification de la légalité des déplacements</li>
+      <li>Marquage des déplacements possibles, dernier mouvement de l'adversaire et sources d'échec</li>
+      <li>Bordures du plateau et notations des sites</li>
+      <li>Contrôle du temps intégral, avec des horloges de style Plasma</li>
+      <li>Plusieurs thèmes et la possibilité d'en télécharger de nouveaux au sein du programme</li>
+      <li>Déplacements animés (configurable)</li>
+      <li>Fonctionnalités pour jouer sur un serveur d'échecs, notamment un graphique de recherche, une console texte et un composant graphique de discussion</li>
+      <li>Options pour annuler et refaire des mouvements</li>
+      <li>Interface graphique pour envoyer et recevoir des offres avec des joueurs à distance</li>
+      <li>Prise en charge du protocole UCI (utilisé par Stockfish, Chessbase et bien d'autres)</li>
+      <li>Prise en charge de l'enregistrement et du chargement de fichiers PGN (Notation portable de jeu)</li>
+      <li>Utilisation de Jovie, le programme de synthèse vocale de KDE, pour annoncer les mouvements de l'adversaire</li>
+      <li>Possibilité de contrôler le programme grâce à une interface D-Bus</li>
+    </ul>
+  </description>
+  <description lang="gl">
+    <p>KNights é un xogo de xadrez. O seu obxectivo como xogador é derrotar ao contrincante mediante un xaque mate ao seu rei.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Partidas entre dous xogadores no mesmo computador.</li>
+      <li>Partidas contra calquera programa de computador compatíbel co protocolo XBoard.</li>
+      <li>Xogar no servidor libre de xadrez por Internet (FICS).</li>
+      <li>Visualización de partidas dun motor informático contra outro.</li>
+      <li>Opción de comprobar se un movemento está permitido.</li>
+      <li>Marcadores de movementos posíbeis, do último movemento do contrincante, e fontes de xaque.</li>
+      <li>Bordos no taboleiro e anotacións asociadas a lugares.</li>
+      <li>Control completo do tempo con reloxos co estilo de Plasma.</li>
+      <li>Varios temas, coa posibilidade de descargar temas novos desde o propio programa.</li>
+      <li>Movementos animados configurábeis.</li>
+      <li>Vistas para xogar en servidores de xadrez, entre elas un grafo de busca, unha consola de texto, e un trebello de conversa.</li>
+      <li>Opción de desfacer e refacer movementos.</li>
+      <li>Interface gráfica para realizar e recibir ofertas de xogadores remotos.</li>
+      <li>Compatibilidade co protocolo UCI (o que usan Stockfish, Chessbase, e moitos outros).</li>
+      <li>Posibilidade de gardar e cargar ficheiros en notación de partida interoperábel (PGN).</li>
+      <li>Uso de Jovie, o programa de texto-para-fala de KDE para narrar os movementos do contrincante.</li>
+      <li>Posibilidade de controlar o programa mediante unha interface D-Bus.</li>
+    </ul>
+  </description>
+  <description lang="id">
+    <p>KNights adalah sebuah permainan catur. Sebagai pemain, tujuanmu adalah mengalahkan lawanmu dengan menyekak rajanya.</p>
+    <p>Fitur:</p>
+    <ul>
+      <li>Main lokal antara dua pemain pada komputer yang sama</li>
+      <li>Bermain melawan program komputer apa pun yang mendukung protokol XBoard</li>
+      <li>Bermain pada server catur bebas internet  Free Internet Chess Server (FICS)</li>
+      <li>Menonton dua mesin komputer yang saling bertanding</li>
+      <li>Mendukung pemeriksaan langkah yang sah</li>
+      <li>Menandai langkah-langkah yang memungkinkan, langkah terakhir lawan dan sumber-sember pemeriksaan</li>
+      <li>Notasi situs dan bingkai papan</li>
+      <li>Kendali waktu yang lengkap, dengan jam gaya Plasma</li>
+      <li>Bebrapa tema, dengan secara mungkin dapat mengunduhnya yang baru dari program</li>
+      <li>Langkah teranimasi (dapat dikonfigurasi)</li>
+      <li>Menampilkan pemainan pada server catur, termasuk grafik jangka, konsol teks, dan widget chat</li>
+      <li>Opsi untuk urung dan ulang langkah</li>
+      <li>Antarmuka grafik untuk membuat dan menerima penawaran pemain jarak jauh</li>
+      <li>Dukungan untuk protokol UCI (digunakan oleh Stockfish, Chessbase, dan banyak lainnya)</li>
+      <li>Dukungan untuk menyimpan dan memuat file-file (PGN) notasi permainan Portable</li>
+      <li>Gunakan Jovie, program KDE text-to-speech untuk berbicara saat lawan bergerak</li>
+      <li>Mampu untuk mengendalikan program via antarmuka D-Bus</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>KNights è un gioco di scacchi. Come giocatore, il tuo obbiettivo è sconfiggere il tuo avversario facendo scacco matto al suo re.</p>
+    <p>Caratteristiche:</p>
+    <ul>
+      <li>Sfida locale tra due giocatori sullo stesso computer</li>
+      <li>Gioca contro qualsiasi programma di computer che supporti il protocollo XBoard</li>
+      <li>Gioca sul Free Internet Chess Server (FICS)</li>
+      <li>Guarda due motori di computer sfidarsi l'un l'altro</li>
+      <li>Supporto per il controllo delle mosse legali</li>
+      <li>Contrassegni per mosse possibili, ultima mossa dell'avversario e fonti di controllo</li>
+      <li>Bordi scacchiera e annotazioni siti</li>
+      <li>Controllo totale del tempo, con orologi in stile Plasma</li>
+      <li>Temi diversi, con la possibilità di scaricarne nuovi all'interno del programma</li>
+      <li>Mosse animate (configurabile)</li>
+      <li>Viste per il gioco in un server di scacchi, incluso un grafico per la ricerca, una consolle testuale e un'estensione per la chat</li>
+      <li>Opzione per annullare e rifare le mosse</li>
+      <li>Interfaccia grafica per formulare e ricevere sfide dai giocatori remoti</li>
+      <li>Supporto per il protocollo UCI (usato da Stockfish, Chessbase e molti altri)</li>
+      <li>Supporto per il salvataggio e il caricamento dei file Portable game notation (PGN)</li>
+      <li>Uso di Jovie, il programma di lettura vocale KDE, per dire le mosse dell'avversario</li>
+      <li>Capacità di controllare il programma tramite interfaccia D-Bus</li>
+    </ul>
+  </description>
+  <description lang="ko">
+    <p>KNights는 체스 게임입니다. 플레이어의 목표는 다른 플레이어의 킹을 쓰러트리는 것입니다.</p>
+    <p>기능:</p>
+    <ul>
+      <li>같은 컴퓨터에서 두 플레이어간 로컬 플레이</li>
+      <li>XBoard 프로토콜을 지원하는 컴퓨터 프로그램과 대결</li>
+      <li>FICS(Free Internet Chess Server)에서 대결</li>
+      <li>두 컴퓨터 엔진간 대국 관전</li>
+      <li>올바른 말 움직임 검사</li>
+      <li>움직일 수 있는 위치, 상대방의 마지막 움직임과 확인 기준 표시</li>
+      <li>판 경계선과 위치 표기</li>
+      <li>완전한 시간 제어, Plasma 스타일 시계</li>
+      <li>다양한 테마 지원, 프로그램 내에서 다운로드 및 설치 가능</li>
+      <li>말 움직임 애니메이션(설정 가능)</li>
+      <li>온라인 체스 서버에서 플레이 가능, 탐색 그래프, 텍스트 콘솔, 채팅 위젯 지원</li>
+      <li>수 실행 취소 및 재실행</li>
+      <li>원격 플레이어의 대전 요청을 처리하는 그래픽 인터페이스</li>
+      <li>UCI 프로토콜 지원(Stockfish, Chessbase 등에서 지원)</li>
+      <li>PGN(Portable Game Notation) 파일로 기보 저장 및 불러오기</li>
+      <li>상대 플레이어의 움직임을 KDE TTS 엔진인 Jovie로 읽어 주기</li>
+      <li>D-Bus 인터페이스로 프로그램 제어</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>KNights is een schaakspel.Het doel is uw tegenspeler te verslaan door zijn/haar koning schaakmat te zetten.</p>
+    <p>Mogelijkheden:</p>
+    <ul>
+      <li>Lokaal spel tussen twee spelers op dezelfde computer</li>
+      <li>Tegen een elk computerprogramma spelen dat het XBoard-protocol ondersteunt</li>
+      <li>Spelen op de Free Internet Chess Server (FICS)</li>
+      <li>Bekijken hoe twee computers tegen elkaar spelen</li>
+      <li>Ondersteuning voor controle op legale zetten</li>
+      <li>Markeringen voor mogelijke zetten, de laatste zet van de tegenstander en bronnen voor controle</li>
+      <li>Bordranden en notities ter plekke</li>
+      <li>Volledige tijdcontrole, met klokken in Plasma-stijl</li>
+      <li>Een aantal thema's, met de mogelijkheid nieuwe te downloaden vanuit het programma</li>
+      <li>Geanimeerde zetten (instelbaar)</li>
+      <li>Weergaven voor spelen op een schaakserver, inclusief een zoekgrafiek, tekstconsole en chat-widget</li>
+      <li>Optie om zetten terug te draaien en weer opnieuw te doen</li>
+      <li>Grafisch interface voor het doen en ontvangen van zetten van spelers op afstand</li>
+      <li>Ondersteuning voor het UCI-protocol (gebruikt door Stockfish, Chessbase en vele anderen)</li>
+      <li>Ondersteuning voor opslaan en laden van Portable game notation (PGN) bestanden</li>
+      <li>Gebruik van Jovie, het tekst-naar-spraak programma van KDE, om zetten van de tegenstander uit te spreken</li>
+      <li>Mogelijkheid om het programma via een D-Bus interface te besturen</li>
+    </ul>
+  </description>
+  <description lang="nn">
+    <p>Knights er eit sjakkspel. Som spelar er målet ditt å slå motspelaren ved å setja kongen i sjakkmatt.</p>
+    <p>Funksjonar:</p>
+    <ul>
+      <li>Lokalt spel mellom to spelarar på same datamaskin</li>
+      <li>Spel mot alle dataprogram som støttar XBoard-protokollen</li>
+      <li>Spel via FICS (Free Internet Chess Server)</li>
+      <li>Kan sjå to sjakkmotorar spela mot kvarandre</li>
+      <li>Støtte for kontroll av lovlege trekk</li>
+      <li>Markering av moglege trekk, det siste siste trekket til motspelaren og av kjelder til sjakk</li>
+      <li>Sjakkbrettrammer og sjakknotasjon</li>
+      <li>Fullstendig tidskontroll, med klokker i Plasma-stil</li>
+      <li>Fleire grafiske tema, og du kan òg lasta ned nye gjennom programmet</li>
+      <li>Animerte trekk (kan veljast vekk)</li>
+      <li>Visingar for speling via sjakktenarar, med støtte for søkjegraf, tekstkonsoll og pratevindauge</li>
+      <li>Mogleg å angra og gjer om att trekk</li>
+      <li>Grafisk grensesnitt for å få eller gje tilbod til/frå spelarar over nettet</li>
+      <li>Støtte for UCI-protokollen (bruk av Stockfish, ChessBase og mange andre)</li>
+      <li>Støtte for lagring og lesing av filer i PGN-formatet (Portable Game Notation)</li>
+      <li>Bruk av tekst-til-tale-systemet Jovie for uttale av trekka til motspelaren</li>
+      <li>Mogleg å kontrollera programmet via D-Bus-grensesnitt</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <p>KSkoczki jest grą w szachy. Jako gracz, twoim celem jest pokonanie przeciwnika poprzez zaszachowanie jego króla.</p>
+    <p>Możliwości:</p>
+    <ul>
+      <li>Lokalna gra pomiędzy dwoma graczami na tym samym komputerze</li>
+      <li>Gra przeciwko programowi komputerowemu, który obsługuje protokół XBoard</li>
+      <li>Gra na serwerze Free Internet Chess Server (FICS)</li>
+      <li>Oglądania gry dwóch silników komputerowych przeciwko sobie</li>
+      <li>Obsługa dozwolonych ruchów szachowych</li>
+      <li>Znaczniki możliwych ruchów, ostatni ruch przeciwnika i powody szachu</li>
+      <li>Obramowanie szachowicy i oznaczenia boczne</li>
+      <li>Całkowita kontrola czasu przy użyciu zegarów Plazmy</li>
+      <li>Kilka wystrojów, z możliwością pobrania nowych z poziomu programu</li>
+      <li>Animowane ruchy (do ustawienia)</li>
+      <li>Oglądanie gier na serwerze szachowym, z uwzgldnieniem tabeli wyszukiwania, konsoli tekstowej i okna rozmowy</li>
+      <li>Możliwość cofnięcia i ponowienia ruchów</li>
+      <li>Interfejs graficzny do przyjmowania i odrzucania ofert graczy zdalnych</li>
+      <li>Obsługa protokołu UCI (używanego przez Stockfish, Chessbase i wielu innych)</li>
+      <li>Obsługa zapisu i wczytywania przenośnych plików ruchów PGN</li>
+      <li>Współpraca z Jovie, programem tekstu-na-mowę dla KDE, do wymawiania ruchów gracza</li>
+      <li>Możliwość obsługi programu poprzez interfejs D-Bus</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>O KNights é um jogo de xadrez. Como jogador, o seu objectivo é derrotar o seu adversário através de um xeque-mate ao seu rei.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Jogo local entre dois jogadores no mesmo computador</li>
+      <li>Jogo contra qualquer programa de computador que suporte o protocolo do XBoard</li>
+      <li>Jogo no FICS (Free Internet Chess Server - Servidor Livre de Xadrez na Internet)</li>
+      <li>Observação de dois motores por computador a jogarem entre si</li>
+      <li>Suporte para a verificação de jogadas legais</li>
+      <li>Marcações para as jogadas possíveis, última jogada do adversário e origens do xeque</li>
+      <li>Contornos do tabuleiro e notações locais</li>
+      <li>Controlo total do tempo, com relógios baseados no estilo do Plasma</li>
+      <li>Diversos temas, com a possibilidade de transferir novos dentro do programa</li>
+      <li>Jogadas animadas (configurável)</li>
+      <li>Vistas para os jogos num servidor de xadrez, incluindo um grafo de pesquisa, consola de texto e área de conversação</li>
+      <li>Opção para desfazer e refazer jogadas</li>
+      <li>Interface gráfica para fazer e receber ofertas de jogadores remotos</li>
+      <li>Suporte para o protocolo UCI (usado pelo Stockfish, Chessbase, entre muitos outros)</li>
+      <li>Suporte para a gravação e carregamento de ficheiros no formato PGN (Portable Game Notation - Notação Portável de Jogo)</li>
+      <li>Uso do Jovie, o programa de texto-para-fala do KDE, para dizer as jogadas do adversário</li>
+      <li>Capacidade de controlo do programa através de uma interface em D-Bus</li>
+    </ul>
+  </description>
+  <description lang="pt-BR">
+    <p>KNights é um jogo de xadrez. Como jogador, seu objetivo é derrotar seu oponente por xeque-mate.</p>
+    <p>Recursos:</p>
+    <ul>
+      <li>Partida local entre dois jogadores no mesmo computador</li>
+      <li>Jogue contra um programa de computador que suporte o protocolo XBoard </li>
+      <li>Jogue no Free Internet Chess Server (FICS)</li>
+      <li>Assistindo dois computadores jogando um contra o outro</li>
+      <li>Suporte para verificação de movimentos legais</li>
+      <li>Marcadores para possíveis movimentos, último movimento do adversário e fontes de xeque</li>
+      <li>Bordas do painel e anotações do site</li>
+      <li>Controle de tempo completo, com relógios de estilo Plasma</li>
+      <li>Diversos temas e com a possibilidade de baixar novos</li>
+      <li>Filmes animados (configurável)</li>
+      <li>Exibições para jogar em um servidor de xadrez, incluindo um gráfico de busca, console de texto e widget de bate-papo</li>
+      <li>Opção para desfazer e refazer movimentos</li>
+      <li>Interface gráfica para criar e receber ofertas de jogadores remotos</li>
+      <li>Suporte para o protocolo UCI (usado por Stockfish, Chessbase, e muitos outros)</li>
+      <li>Suporte para salvar e carregar arquivos de notação de jogos portáteis (PGN)</li>
+      <li>Uso o Jovie, o programa de conversão de texto para voz do KDE, para falar os movimentos do adversário</li>
+      <li>Capacidade de controlar o programa através de uma interface D-Bus</li>
+    </ul>
+  </description>
+  <description lang="ru">
+    <p>KNights — игра в шахматы. Целью является поставить мат противнику.</p>
+    <p>Возможности:</p>
+    <ul>
+      <li>Игра между двумя игроками за одним компьютером</li>
+      <li>Игра против любой компьютерной программы, которая поддерживает протокол XBoard</li>
+      <li>Игра на бесплатном шахматном сервере в Интернете (FICS)</li>
+      <li>Просмотр игры между двумя движками</li>
+      <li>Поддержка проверки возможных ходов</li>
+      <li>Маркеры для возможных ходов, последнего хода противника и источников шаха</li>
+      <li>Границы доски и обозначения</li>
+      <li>Полный контроль времени, часы в стиле Plasma</li>
+      <li>Несколько тем оформления, возможность загрузки новых тем с помощью окна самой программы</li>
+      <li>Анимация ходов (возможно настроить)</li>
+      <li>Просмотр игры на шахматном сервере с графиком противников, текстовой консолью и виджетом общения</li>
+      <li>Отмена и повтор ходов</li>
+      <li>Графический интерфейс для создания и получения предложений от удалённых игроков</li>
+      <li>Поддержка протокола UCI (используется Stockfish, Chessbase и так далее)</li>
+      <li>Поддержка сохранения и загрузки файлов игровых обозначений (PGN)</li>
+      <li>Использование Jovie (программа KDE, которая позволяет преобразовывать текст в речь) для озвучивания ходов противника</li>
+      <li>Возможность управления программой с помощью интерфейса D-Bus</li>
+    </ul>
+  </description>
+  <description lang="sk">
+    <p>KNights je šachová hra. Vašim cieľom ako hráča je poraziť vášho protivníka tak, že mu dáte šach mat.</p>
+    <p>Funkcie:</p>
+    <ul>
+      <li>Miestna hra medzi dvoma hráčmi na jednom počítači</li>
+      <li>Hra proti počítaču, ktorý podporuje protokol XBoard</li>
+      <li>Hra na Free Internet Chess Server (FICS)</li>
+      <li>Sledovanie dvoch počítačových hráčov, ako hrajú proti sebe</li>
+      <li>Podpora pre sledovanie platných ťahov</li>
+      <li>Označovanie možných ťahov, posledného ťahu protivníka a zdrojov šachu</li>
+      <li>Hranice šachovnice a notácie</li>
+      <li>Kompletné ovládanie času s hodinami štýlu Plasma</li>
+      <li>Niekoľko tém s možnosťou stiahnutia nových priamo z programu</li>
+      <li>Animované ťahy (nastaviteľné)</li>
+      <li>Sledovanie hry na šachovom serveri vrátane grafu, textovej konzoly a šachového widgetu</li>
+      <li>Voľba na vrátenie a nové vykonanie pohybov</li>
+      <li>Grafické rozhranie na vytváranie a prijímanie ponúk od vzdialených hráčov</li>
+      <li>Podpora protokolu UCI (používa Stockfish, Cheesbase a mnoho iných)</li>
+      <li>Podpora pre ukladanie a načítavanie súborov Portable game notation (PGN)</li>
+      <li>Použitie Jovie, programu text na reč KDE na vyslovenie ťahov protivníka</li>
+      <li>Schopnosť ovládať program cez rozhranie D-Bus</li>
+    </ul>
+  </description>
+  <description lang="sl">
+    <p>KNights je igra šaha. Vaš cilj je, da nasprotnikovega kralja spravite v šah-mat.</p>
+    <p>Zmožnosti:</p>
+    <ul>
+      <li>Krajevna igra med dvema igralcema na enem računalniku</li>
+      <li>Igrajte proti kateremkoli računalniškemu programu, ki podpira protokol XBoard</li>
+      <li>Igrajte na strežniku FICS (Free Internet Chess Server)</li>
+      <li>Oglejte si dvoboj dveh računalniških pogonov</li>
+      <li>Podpora preverjanju veljavnih potez</li>
+      <li>Oznake za mogoče poteze, zadnjo potezo nasprotnika in vire šaha</li>
+      <li>Obrobe igralne površine in zapisi</li>
+      <li>Popolni nadzor nad časom z urami v slogu Plasme</li>
+      <li>Številne teme, dodatne lahko prejmete znotraj programa</li>
+      <li>Animirane poteze (nastavljivo)</li>
+      <li>Pogledi za igranje na šahovskem strežniku, vključno z grafom iskanja, besedilno konzolo in gradnikom za klepet</li>
+      <li>Možnost za razveljavitev in uveljavitev potez</li>
+      <li>Grafični vmesnik za ustvarjanje in prejemanje povabil oddaljenih igralcev</li>
+      <li>Podpora protokolu UCI (uporabljeno s strani Stockfish, Chessbase, in drugih)</li>
+      <li>Podpora shranjevanju in nalaganju datotek PGN (prenosljiv zapis igre)</li>
+      <li>Uporaba Jovie, programa za pretvorbo besedila v govor, za izgovorjavo nasprotnikovih potez</li>
+      <li>Možnost nadzora programa preko vmesnika D-Bus</li>
+    </ul>
+  </description>
+  <description lang="sr">
+    <p>Коњи је шаховска игра. Циљ играча је да порази противника матирањем његовог краља.</p>
+    <p>Могућности:</p>
+    <ul>
+      <li>Локална партија између два играча на истом рачунару.</li>
+      <li>Играње против било ког рачунарског програма који подржава протокол Икс‑табла.</li>
+      <li>Играње на ФИЦС‑у, Слободном шаховском серверу на Интернету.</li>
+      <li>Гледајте како два рачунарска мотора играју један против другог.</li>
+      <li>Подршка за проверу ваљаности потеза.</li>
+      <li>Маркери за могуће потезе, противников последњи потезе и извори провера.</li>
+      <li>Ивице табле и месне белешке.</li>
+      <li>Потпуно управљање временом, сатови у стилу Плазме.</li>
+      <li>Неколико тема, са могућношћу преузимања нових из самог програма.</li>
+      <li>Анимирани потези (подесиво).</li>
+      <li>Прикази за играње на шаховском серверу, укључујући граф претраге, текстуалну конзолу и виџет за ћаскање.</li>
+      <li>Опције за опозивање и понављање потеза.</li>
+      <li>Графичко сучеље за давање и примање понуда од удаљених играча.</li>
+      <li>Подршка за протокол УЦИ (користе га Стокфиш, Чесбејс и многи други).</li>
+      <li>Подршка за уписивање и учитавање ПГН фајлова (преносива нотација партија).</li>
+      <li>Изговарање противничких потеза помоћу Џови, КДЕ‑овог програма за текст‑у‑говор.</li>
+      <li>Управљање програмом преко д‑бус сучеља.</li>
+    </ul>
+  </description>
+  <description lang="sr-Latn">
+    <p>Konji je šahovska igra. Cilj igrača je da porazi protivnika matiranjem njegovog kralja.</p>
+    <p>Mogućnosti:</p>
+    <ul>
+      <li>Lokalna partija između dva igrača na istom računaru.</li>
+      <li>Igranje protiv bilo kog računarskog programa koji podržava protokol X‑tabla.</li>
+      <li>Igranje na FICS‑u, Slobodnom šahovskom serveru na Internetu.</li>
+      <li>Gledajte kako dva računarska motora igraju jedan protiv drugog.</li>
+      <li>Podrška za proveru valjanosti poteza.</li>
+      <li>Markeri za moguće poteze, protivnikov poslednji poteze i izvori provera.</li>
+      <li>Ivice table i mesne beleške.</li>
+      <li>Potpuno upravljanje vremenom, satovi u stilu Plasme.</li>
+      <li>Nekoliko tema, sa mogućnošću preuzimanja novih iz samog programa.</li>
+      <li>Animirani potezi (podesivo).</li>
+      <li>Prikazi za igranje na šahovskom serveru, uključujući graf pretrage, tekstualnu konzolu i vidžet za ćaskanje.</li>
+      <li>Opcije za opozivanje i ponavljanje poteza.</li>
+      <li>Grafičko sučelje za davanje i primanje ponuda od udaljenih igrača.</li>
+      <li>Podrška za protokol UCI (koriste ga Stockfish, ChessBase i mnogi drugi).</li>
+      <li>Podrška za upisivanje i učitavanje PGN fajlova (prenosiva notacija partija).</li>
+      <li>Izgovaranje protivničkih poteza pomoću Džovi, KDE‑ovog programa za tekst‑u‑govor.</li>
+      <li>Upravljanje programom preko D‑Bus sučelja.</li>
+    </ul>
+  </description>
+  <description lang="sr-ijekavian">
+    <p>Коњи је шаховска игра. Циљ играча је да порази противника матирањем његовог краља.</p>
+    <p>Могућности:</p>
+    <ul>
+      <li>Локална партија између два играча на истом рачунару.</li>
+      <li>Играње против било ког рачунарског програма који подржава протокол Икс‑табла.</li>
+      <li>Играње на ФИЦС‑у, Слободном шаховском серверу на Интернету.</li>
+      <li>Гледајте како два рачунарска мотора играју један против другог.</li>
+      <li>Подршка за проверу ваљаности потеза.</li>
+      <li>Маркери за могуће потезе, противников последњи потезе и извори провера.</li>
+      <li>Ивице табле и месне белешке.</li>
+      <li>Потпуно управљање временом, сатови у стилу Плазме.</li>
+      <li>Неколико тема, са могућношћу преузимања нових из самог програма.</li>
+      <li>Анимирани потези (подесиво).</li>
+      <li>Прикази за играње на шаховском серверу, укључујући граф претраге, текстуалну конзолу и виџет за ћаскање.</li>
+      <li>Опције за опозивање и понављање потеза.</li>
+      <li>Графичко сучеље за давање и примање понуда од удаљених играча.</li>
+      <li>Подршка за протокол УЦИ (користе га Стокфиш, Чесбејс и многи други).</li>
+      <li>Подршка за уписивање и учитавање ПГН фајлова (преносива нотација партија).</li>
+      <li>Изговарање противничких потеза помоћу Џови, КДЕ‑овог програма за текст‑у‑говор.</li>
+      <li>Управљање програмом преко д‑бус сучеља.</li>
+    </ul>
+  </description>
+  <description lang="sr-ijekavianlatin">
+    <p>Konji je šahovska igra. Cilj igrača je da porazi protivnika matiranjem njegovog kralja.</p>
+    <p>Mogućnosti:</p>
+    <ul>
+      <li>Lokalna partija između dva igrača na istom računaru.</li>
+      <li>Igranje protiv bilo kog računarskog programa koji podržava protokol X‑tabla.</li>
+      <li>Igranje na FICS‑u, Slobodnom šahovskom serveru na Internetu.</li>
+      <li>Gledajte kako dva računarska motora igraju jedan protiv drugog.</li>
+      <li>Podrška za proveru valjanosti poteza.</li>
+      <li>Markeri za moguće poteze, protivnikov poslednji poteze i izvori provera.</li>
+      <li>Ivice table i mesne beleške.</li>
+      <li>Potpuno upravljanje vremenom, satovi u stilu Plasme.</li>
+      <li>Nekoliko tema, sa mogućnošću preuzimanja novih iz samog programa.</li>
+      <li>Animirani potezi (podesivo).</li>
+      <li>Prikazi za igranje na šahovskom serveru, uključujući graf pretrage, tekstualnu konzolu i vidžet za ćaskanje.</li>
+      <li>Opcije za opozivanje i ponavljanje poteza.</li>
+      <li>Grafičko sučelje za davanje i primanje ponuda od udaljenih igrača.</li>
+      <li>Podrška za protokol UCI (koriste ga Stockfish, ChessBase i mnogi drugi).</li>
+      <li>Podrška za upisivanje i učitavanje PGN fajlova (prenosiva notacija partija).</li>
+      <li>Izgovaranje protivničkih poteza pomoću Džovi, KDE‑ovog programa za tekst‑u‑govor.</li>
+      <li>Upravljanje programom preko D‑Bus sučelja.</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <p>Knights är ett schackspel. Som spelare är ditt mål att besegra motspelaren genom att göra dennes kung schack matt.</p>
+    <p>Funktioner:</p>
+    <ul>
+      <li>Lokalt spel mellan två spelare på samma dator</li>
+      <li>Spela mot vilket datorprogram som helst som stöder protokollet XBoard</li>
+      <li>Spela på den fria Internet-schackservern, Free Internet Chess Server (FICS)</li>
+      <li>Titta på medan två datorspelare spelar mot varandra</li>
+      <li>Stöd för kontroll av regelrätta drag</li>
+      <li>Markörer för möjliga drag, motspelarens senaste drag och orsaken till schack</li>
+      <li>Brädkanter och beteckningssystem</li>
+      <li>Fullständig tidtagning, och klockor med Plasma-stil</li>
+      <li>Flera teman, med möjlighet att ladda ner nya inifrån programmet</li>
+      <li>Animerade drag (inställningsbara)</li>
+      <li>Vyer för att spela på en schackserver, inklusive sökdiagram, textterminal och chattkomponent</li>
+      <li>Alternativ för att ångra och göra om drag</li>
+      <li>Grafiskt gränssnitt för att ge och ta emot bud från fjärrspelare</li>
+      <li>Stöd för protokollet UCI (använt av Stockfish, Chessbase och många andra)</li>
+      <li>Stöd för att spara och läsa PGN-filer (Portable Game Notation)</li>
+      <li>Användning av Jovie, KDE:s text-till-tal program, för att läsa upp motspelarens drag</li>
+      <li>Möjlighet att styra programmet via ett D-Bus gränssnitt</li>
+    </ul>
+  </description>
+  <description lang="tr">
+    <p>KNights bir satranç oyunudur. Oyuncu olarak hedefiniz, rakibinizi şah mat yapmaktır.</p>
+    <p>Özellikler:</p>
+    <ul>
+      <li>Aynı bilgisayar üstünde iki oyuncu arasında yerel oyun</li>
+      <li>XBoard protokolünü destekleyen bir bilgisayar programına karşı oyna</li>
+      <li>Özgür İnternet Satranç Sunucusu (FICS) üzerinden Oyna</li>
+      <li>İki bilgisayar işletkesinin birbiriyle oynamasını izle</li>
+      <li>Uygun hareket denetimi desteği</li>
+      <li>OLası hamleler için işaretleyici, rakibin son hamlesi ve denetim kaynakları</li>
+      <li>Tahta çizgileri ve saha gösterimi</li>
+      <li>Tamamlama süresi kontrolü, Plasma biçimi saat ile</li>
+      <li>Birkaç tema, program üstünden de yenileri indirilebilir</li>
+      <li>Canlandırılmış hamleler (yapılandırılabilir)</li>
+      <li>Satranç sunucusu üzerindeki oyunlar için görünüm, grafik arama, metin konsolu ve sohbet programcığı da içerir</li>
+      <li>Hareketleri geri ve ileri alma seçeneği</li>
+      <li>Uzak oyuncuların önerilerini almak ve yapmak için grafik arayüzü</li>
+      <li>UCI protokolü desteği (Stockfish, Chessbase ve diğerleri tarafından kullanılır)</li>
+      <li>Taşınabilir oyun gösterimi (PGN) dosyalarının kaydedilmesi ve yüklenmesi için destek</li>
+      <li>Rakibin hareketlerini konuşmak için KDE sesli yanıt programı olan Jovie'nin kullanımı</li>
+      <li>D-Bus arayüzü üzerinden program denetimi sağlar</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>KNights — гра у шахи. Вашою метою у грі є поставити мат королю суперника.</p>
+    <p>Можливості:</p>
+    <ul>
+      <li>Можливість гри між двома гравцями за одним комп’ютером.</li>
+      <li>Можливість гри з будь-якою комп’ютерною програмою, у якій передбачено роботу за протоколом XBoard.</li>
+      <li>Можливість гри на Free Internet Chess Server (FICS)</li>
+      <li>Можливість спостереження за грою двох комп’ютерних гравців між собою.</li>
+      <li>Перевірка ходів на коректність.</li>
+      <li>Позначки для можливих ходів, останнього ходу суперника та загроз під час шаху.</li>
+      <li>Показ полів із записами ходів.</li>
+      <li>Повний контроль за часом із годинниками у стилі Плазми.</li>
+      <li>Декілька тем оформлення з можливістю отримання нових тем за допомогою вікна самої програми.</li>
+      <li>Анімація ходів (можна налаштувати).</li>
+      <li>Перегляд гри на шаховому сервері із графом пошуку, текстовою консоллю та віджетом спілкування.</li>
+      <li>Можливість скасовувати і повторювати ходи.</li>
+      <li>Графічний інтерфейс для створення і отримання пропозицій щодо гри з віддаленими гравцями.</li>
+      <li>Підтримка протоколу UCI (використовується Stockfish, Chessbase та багатьма іншими рушіями).</li>
+      <li>Підтримка збереження і завантаження файлів гри у форматі Portable game notation (PGN).</li>
+      <li>Використання Jovie, програми для синтезу мовлення KDE, для оголошення ходів суперника.</li>
+      <li>Можливість керування програмою за допомогою інтерфейсу D-Bus.</li>
+    </ul>
+  </description>
+  <description lang="x-test">
+    <p>xxKNights is a chess game. As a player, your goal is to defeat your opponent by checkmating their king.xx</p>
+    <p>xxFeatures:xx</p>
+    <ul>
+      <li>xxLocal play between two players on the same computerxx</li>
+      <li>xxPlay against any computer program that supports the XBoard protocolxx</li>
+      <li>xxPlay on the Free Internet Chess Server (FICS)xx</li>
+      <li>xxWatching two computer engines play against each otherxx</li>
+      <li>xxSupport for legal move checkingxx</li>
+      <li>xxMarkers for possible moves, opponent’s last move and sources of checkxx</li>
+      <li>xxBoard borders and site notationsxx</li>
+      <li>xxComplete time control, with Plasma-styled clocksxx</li>
+      <li>xxSeveral themes, with the possibility of downloading new ones from within the programxx</li>
+      <li>xxAnimated moves (configurable)xx</li>
+      <li>xxViews for playing on a chess server, including a seek graph, text console, and chat widgetxx</li>
+      <li>xxOption to undo and redo movesxx</li>
+      <li>xxGraphic interface for making and receiving offers from remote playersxx</li>
+      <li>xxSupport for the UCI protocol (used by Stockfish, Chessbase, and many others)xx</li>
+      <li>xxSupport for saving and loading Portable game notation (PGN) filesxx</li>
+      <li>xxUse of Jovie, the KDE text-to-speak program, to speak opponent’s movesxx</li>
+      <li>xxAbility to control the program via a D-Bus interfacexx</li>
+    </ul>
+  </description>
+  <description lang="zh-CN">
+    <p>《骑士》是一个象棋游戏。作为一个玩家，你的目标是通过将死他们的国王来击败对手。</p>
+    <p>功能：</p>
+    <ul>
+      <li>同一台计算机上两个玩家之间的本地播放</li>
+      <li>与任何支持XBoard协议的计算机程序对抗</li>
+      <li>在免费的国际象棋服务器(FICS)上下棋</li>
+      <li>看着两台电脑引擎互相竞争</li>
+      <li>支持合法移动检查</li>
+      <li>可能的移动标记，对手最后的移动和检查来源</li>
+      <li>登陆边界和站点标记</li>
+      <li>使用Plasma风格的时钟来完成时间的控制</li>
+      <li>一些主题，可能从程序的内部下载新的主题</li>
+      <li>动画移动(可以被配置)</li>
+      <li>在象棋服务器上播放的试图，包括寻找图形、文本控制台和聊天小部件</li>
+      <li>撤销和重做移动选项</li>
+      <li>绘制和接收远程玩家报价的图形界面</li>
+      <li>支持UCI协议(由Stockfish、Chessbase和其他许多公司使用）</li>
+      <li>支持保存和加载便携式游戏标记(PGN) 文件</li>
+      <li>使用 Jovie -- KDE 文本语音程序来朗读对手的行动</li>
+      <li>通过 D-Bus 接口控制程序的功能</li>
+    </ul>
+  </description>
+  <description lang="zh-TW">
+    <p>KNights 是一套西洋棋遊戲。</p>
+    <p>功能：</p>
+    <ul>
+      <li>在相同電腦上的兩個玩家間的本機遊戲</li>
+      <li>與任何支援 XBoard 協定的電腦程式一同遊玩</li>
+      <li>在免費線上西洋棋伺服器 (FICS) 遊玩</li>
+      <li>觀看兩個電腦引擎相互對抗遊玩</li>
+      <li>支援檢查合法移動</li>
+      <li>可能移動的標記，對手的最後一次移動與檢查來源</li>
+      <li>棋盤邊界與網點符號</li>
+      <li>完整時間控制，帶有 Plasma 風格的時鐘</li>
+      <li>多種主題，當然也在程式內下載新的</li>
+      <li>動畫式移動（可設定）</li>
+      <li>在西洋棋伺服器上遊玩的檢視，包含了探索圖、文字終端機與聊天小工具</li>
+      <li>復原與重做移動的選項</li>
+      <li>從遠端玩家做出與接收提議的圖形化介面</li>
+      <li>支援 UCI 協定（由 Stockfish、Chessbase 與其他許多應用程式所使用）</li>
+      <li>支援儲存與載入攜帶式遊戲標記 (PGN) 檔案</li>
+      <li>使用 Jovie，KDE 的文字轉語音程式，來念出對手的移動</li>
+      <li>透過 D-Bus 介面控制程式的能力</li>
+    </ul>
+  </description>
+  <pkgname>libsForQt5.knights</pkgname>
+  <launchable type="desktop-id">org.kde.knights.desktop</launchable>
+  <icon height="64" type="cached" width="64">knights.png</icon>
+  <id>org.kde.knights.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KNights</name>
+  <name lang="ar">الفرسان</name>
+  <name lang="ca">KNights</name>
+  <name lang="ca-valencia">KNights</name>
+  <name lang="cs">Knights</name>
+  <name lang="da">KNights</name>
+  <name lang="de">KNights</name>
+  <name lang="el">KNights</name>
+  <name lang="en-GB">KNights</name>
+  <name lang="es">KNights</name>
+  <name lang="et">KNights</name>
+  <name lang="eu">Knights</name>
+  <name lang="fi">Knights</name>
+  <name lang="fr">KNights</name>
+  <name lang="gl">KNights</name>
+  <name lang="id">KNights</name>
+  <name lang="it">KNights</name>
+  <name lang="ko">KNights</name>
+  <name lang="nl">KNights</name>
+  <name lang="nn">Knights</name>
+  <name lang="pl">KSkoczki</name>
+  <name lang="pt">KNights</name>
+  <name lang="pt-BR">KNights</name>
+  <name lang="ru">KNights</name>
+  <name lang="sk">KNights</name>
+  <name lang="sl">KNights</name>
+  <name lang="sr">Коњи</name>
+  <name lang="sr-Latn">Konji</name>
+  <name lang="sr-ijekavian">Коњи</name>
+  <name lang="sr-ijekavianlatin">Konji</name>
+  <name lang="sv">Knights</name>
+  <name lang="tr">KNights</name>
+  <name lang="uk">KNights</name>
+  <name lang="x-test">xxKNightsxx</name>
+  <name lang="zh-CN">KNights</name>
+  <name lang="zh-TW">KNights</name>
+  <summary>Chess game</summary>
+  <summary lang="ar">لعبة شطرنج</summary>
+  <summary lang="ca">Joc d'escacs</summary>
+  <summary lang="ca-valencia">Joc d'escacs</summary>
+  <summary lang="cs">Šachy</summary>
+  <summary lang="da">Skakspil</summary>
+  <summary lang="de">Schachspiel</summary>
+  <summary lang="el">Σκάκι</summary>
+  <summary lang="en-GB">Chess game</summary>
+  <summary lang="es">Juego de ajedrez</summary>
+  <summary lang="et">Malemäng</summary>
+  <summary lang="eu">Xake-jolasa</summary>
+  <summary lang="fi">Šakkipeli</summary>
+  <summary lang="fr">Jeu d'échecs</summary>
+  <summary lang="gl">Xogo de xadrez</summary>
+  <summary lang="id">Permainan catur</summary>
+  <summary lang="it">Gioco di scacchi</summary>
+  <summary lang="ko">체스 게임</summary>
+  <summary lang="nl">Schaakspel</summary>
+  <summary lang="nn">Sjakkspel</summary>
+  <summary lang="pl">Gra w szachy</summary>
+  <summary lang="pt">Jogo de xadrez</summary>
+  <summary lang="pt-BR">Jogo de xadrez</summary>
+  <summary lang="ru">Игра в шахматы</summary>
+  <summary lang="sk">Šach</summary>
+  <summary lang="sl">Igra šaha</summary>
+  <summary lang="sr">Шаховска игра</summary>
+  <summary lang="sr-Latn">Šahovska igra</summary>
+  <summary lang="sr-ijekavian">Шаховска игра</summary>
+  <summary lang="sr-ijekavianlatin">Šahovska igra</summary>
+  <summary lang="sv">Schackspel</summary>
+  <summary lang="tr">Satranç oyunu</summary>
+  <summary lang="uk">Гра у шахи</summary>
+  <summary lang="x-test">xxChess gamexx</summary>
+  <summary lang="zh-CN">国际象棋游戏</summary>
+  <summary lang="zh-TW">西洋棋遊戲</summary>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Knights, chess game</caption>
+      <caption lang="ar">الفرسان، لعبة شطرنج</caption>
+      <caption lang="ca">Knights, un joc d'escacs</caption>
+      <caption lang="ca-valencia">KNights, un joc d'escacs</caption>
+      <caption lang="cs">Knights, hra v šachy</caption>
+      <caption lang="da">Knights, skakspil</caption>
+      <caption lang="de">Schachspiel Knights</caption>
+      <caption lang="el">Knights, σκάκι</caption>
+      <caption lang="en-GB">Knights, chess game</caption>
+      <caption lang="es">Knights, juego de ajedrez</caption>
+      <caption lang="et">Malemäng Knights</caption>
+      <caption lang="eu">Knights, Xake-jolasa</caption>
+      <caption lang="fi">Knights, šakkipeli</caption>
+      <caption lang="fr">Knights, jeu d'échecs</caption>
+      <caption lang="gl">Knights, xogo de xadrez</caption>
+      <caption lang="id">Knights, permainan catur</caption>
+      <caption lang="it">Knights, gioco di scacchi</caption>
+      <caption lang="ko">Knights, 체스 게임</caption>
+      <caption lang="nl">Knights, schaakspel</caption>
+      <caption lang="nn">Knights – sjakkspel</caption>
+      <caption lang="pl">Skoczki, gra w szachy</caption>
+      <caption lang="pt">Knights, um jogo de xadrez</caption>
+      <caption lang="pt-BR">Knights, um jogo de xadrez</caption>
+      <caption lang="ru">Knights, игра в шахматы</caption>
+      <caption lang="sk">Rytieri, šachová hra</caption>
+      <caption lang="sl">Igra šaha Knights</caption>
+      <caption lang="sv">Knights, schackspel</caption>
+      <caption lang="tr">Satranç oyunu</caption>
+      <caption lang="uk">Knights, гра у шахи</caption>
+      <caption lang="x-test">xxKnights, chess gamexx</caption>
+      <caption lang="zh-CN">骑士,象棋游戏</caption>
+      <caption lang="zh-TW">Knights，西洋棋遊戲</caption>
+      <image>https://cdn.kde.org/screenshots/knights/knights.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Main Window - Human vs. Chess Engine</caption>
+      <caption lang="ar">النافذة الرئيسة - الإنسان ضد محرك الشطرنج</caption>
+      <caption lang="ca">Finestra principal: humà vs. motor d'escacs</caption>
+      <caption lang="ca-valencia">Finestra principal: humà vs. motor d'escacs</caption>
+      <caption lang="da">Hovedvindue - menneske mod skakmotor</caption>
+      <caption lang="de">Hauptfenster - Mensch gegen Schachmodul</caption>
+      <caption lang="el">Κύριο παράθυρο - Άνθρωπος εναντίον μηχανής σκακιού</caption>
+      <caption lang="en-GB">Main Window - Human vs. Chess Engine</caption>
+      <caption lang="es">Ventana principal - Humano contra motor de ajedrez</caption>
+      <caption lang="et">Peaaken - inimene malemootori vastu</caption>
+      <caption lang="eu">Leiho nagusia - Gizakia Vs. Xake motorra</caption>
+      <caption lang="fi">Pääikkuna – ihminen vastaan šakkikone</caption>
+      <caption lang="fr">Fenêtre principale - Humain contre moteur d'échecs</caption>
+      <caption lang="gl">Xanela principal — Humano contra motor de xadrez</caption>
+      <caption lang="id">Window Utama - Manusia vs. Mesin Catur</caption>
+      <caption lang="it">Finestra principale - Umano vs. Motore scacchi</caption>
+      <caption lang="ko">주 창 - 인간 대 체스 엔진</caption>
+      <caption lang="nl">Hoofdvenster - Mens vs. Programma</caption>
+      <caption lang="nn">Hovudvindauge – menneske mot datamaskin</caption>
+      <caption lang="pl">Okno główne - Człowiek przeciwko silnikowi szachowemu</caption>
+      <caption lang="pt">Janela Principal - Humano vs. Motor de Xadrez</caption>
+      <caption lang="pt-BR">Janela principal - Humano vs. Mecanismo de Xadrez</caption>
+      <caption lang="ru">Главное окно — игрок-человек против шахматного движка</caption>
+      <caption lang="sk">Hlavné okno - Človek vs. Počítač</caption>
+      <caption lang="sl">Glavno okno - Človek proti računalniku</caption>
+      <caption lang="sv">Huvudfönster: Människa mot schackprogram</caption>
+      <caption lang="tr">Ana Pencere - İnsan, Satranç İşletkesine Karşı</caption>
+      <caption lang="uk">Головне вікно — людина проти шахового рушія</caption>
+      <caption lang="x-test">xxMain Window - Human vs. Chess Enginexx</caption>
+      <caption lang="zh-CN">主窗口 - 人与国际象棋引擎的对决</caption>
+      <caption lang="zh-TW">主視窗 - 人類 vs. 引擎</caption>
+      <image>https://cdn.kde.org/screenshots/knights/knights_main.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Main Window - Chess Engine vs. Chess Engine</caption>
+      <caption lang="ar">النافذة الرئيسة - محرك شطرنج ضد محرك شطرنج</caption>
+      <caption lang="ca">Finestra principal: motor d'escacs vs. motor d'escacs</caption>
+      <caption lang="ca-valencia">Finestra principal: motor d'escacs vs. motor d'escacs</caption>
+      <caption lang="da">Hovedvindue - skakmotor mod skakmotor</caption>
+      <caption lang="de">Hauptfenster - Schachmodul gegen Schachmodul</caption>
+      <caption lang="el">Κύριο παράθυρο - Μηχανή σκακιού εναντίον μηχανής σκακιού</caption>
+      <caption lang="en-GB">Main Window - Chess Engine vs. Chess Engine</caption>
+      <caption lang="es">Ventana principal - Motor de ajedrez contra motor de ajedrez</caption>
+      <caption lang="et">Peaaken - malemootor malemootori vastu</caption>
+      <caption lang="eu">Leiho nagusia - Xake motorra Vs. Xake motorra</caption>
+      <caption lang="fi">Pääikkuna – šakkikone vastaan šakkikone</caption>
+      <caption lang="fr">Fenêtre principale - Moteur d'échecs contre moteur d'échecs</caption>
+      <caption lang="gl">Xanela principal — Motor de xadrez contra motor de xadrez</caption>
+      <caption lang="id">Window Utama - Mesin Catur vs. Mesin Catur</caption>
+      <caption lang="it">Finestra principale - Motore scacchi vs. Motore scacchi</caption>
+      <caption lang="ko">주 창 - 체스 엔진간 대결</caption>
+      <caption lang="nl">Hoofdvenster - Programma vs. Programma</caption>
+      <caption lang="nn">Hovudvindauge – datamaskin mot datamaskin</caption>
+      <caption lang="pl">Okno główne - Silnik szachowy przeciwko silnikowi szachowemu</caption>
+      <caption lang="pt">Janela Principal - Motor de Xadrez vs. Motor de Xadrez</caption>
+      <caption lang="pt-BR">Janela principal - Mecanismo de Xadrez vs. Mecanismo de Xadrez</caption>
+      <caption lang="ru">Главное окно — шахматный движок против шахматного движка</caption>
+      <caption lang="sk">Hlavné okno - Počítač vs. Počítač</caption>
+      <caption lang="sl">Glavno okno - Računalnik proti računalniku</caption>
+      <caption lang="sv">Huvudfönster: Schackprogram mot schackprogram</caption>
+      <caption lang="tr">Ana Pencere - Satranç İşletkesi, Kendisine Karşı</caption>
+      <caption lang="uk">Головне вікно — шаховий рушій проти шахового рушія</caption>
+      <caption lang="x-test">xxMain Window - Chess Engine vs. Chess Enginexx</caption>
+      <caption lang="zh-CN">主窗口 - 国际象棋引擎之间的对决</caption>
+      <caption lang="zh-TW">主視窗 - 引擎 vs. 引擎</caption>
+      <image>https://cdn.kde.org/screenshots/knights/knights_main_2.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>"New Game" Dialog</caption>
+      <caption lang="ar">حواريّ لعبة جديدة</caption>
+      <caption lang="ca">Diàleg «Joc nou»</caption>
+      <caption lang="ca-valencia">Diàleg «Joc nou»</caption>
+      <caption lang="cs">Okno "Nová hra"</caption>
+      <caption lang="da">"Nyt parti"-dialog</caption>
+      <caption lang="de">"Dialog Neues Spiel</caption>
+      <caption lang="el">«Νέο παιχνίδι» διάλογος</caption>
+      <caption lang="en-GB">"New Game" Dialogue</caption>
+      <caption lang="es">Diálogo «Nueva partida»</caption>
+      <caption lang="et">Uue mängu dialoog</caption>
+      <caption lang="eu">"Joko berri" elkarrizketa</caption>
+      <caption lang="fi">”Uusi peli” -ikkuna</caption>
+      <caption lang="fr">Boîte de dialogue « Nouveau jeu »</caption>
+      <caption lang="gl">Diálogo de «Nova partida»</caption>
+      <caption lang="id">Dialog "Permainan Baru"</caption>
+      <caption lang="it">Finestra di dialogo «Nuova partita»</caption>
+      <caption lang="ko">"새 게임" 대화 상자</caption>
+      <caption lang="nl">Dialoog "Nieuw spel"</caption>
+      <caption lang="nn">«Nytt parti»-dialog</caption>
+      <caption lang="pl">Okno dialogowe "Nowa Gra"</caption>
+      <caption lang="pt">Janela de "Novo Jogo"</caption>
+      <caption lang="pt-BR">Caixa de diálogo "Novo jogo"</caption>
+      <caption lang="ru">Диалог «Новая игра»</caption>
+      <caption lang="sk">Dialógové okno "Nová Hra"</caption>
+      <caption lang="sl">Pogovor o 'Novi igri'</caption>
+      <caption lang="sv">Dialogrutan "Nytt spel"</caption>
+      <caption lang="tr">"Yeni Oyun" Penceresi</caption>
+      <caption lang="uk">Діалогове вікно «Нова гра»</caption>
+      <caption lang="x-test">xx"New Game" Dialogxx</caption>
+      <caption lang="zh-CN">“新建游戏”窗口</caption>
+      <caption lang="zh-TW">「新遊戲」對話框</caption>
+      <image>https://cdn.kde.org/screenshots/knights/knights_new_game.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Auto-Detection of Chess Engines</caption>
+      <caption lang="ar">الكشف الآلي لمحركات الشطرنج</caption>
+      <caption lang="ca">Detecció automàtica dels motors d'escacs</caption>
+      <caption lang="ca-valencia">Detecció automàtica dels motors d'escacs</caption>
+      <caption lang="da">Autodetektion af skakmotorer</caption>
+      <caption lang="de">Automatische Erkennung von Schachmodulen</caption>
+      <caption lang="el">Αυτόματος εντοπισμός μηχανών σκακιού</caption>
+      <caption lang="en-GB">Auto-Detection of Chess Engines</caption>
+      <caption lang="es">Detección automática de motores de ajedrez</caption>
+      <caption lang="et">Malemootorite automaatne tuvastamine</caption>
+      <caption lang="eu">Xake motorren antzemate automatikoa</caption>
+      <caption lang="fi">Šakkikoneiden automaattitunnistus</caption>
+      <caption lang="fr">Auto-détection des moteurs d'échecs</caption>
+      <caption lang="gl">Detección automática de motores de xadrez</caption>
+      <caption lang="id">AutoDeteksi pada Mesin Catur</caption>
+      <caption lang="it">Rilevamento automatico dei motori scacchi</caption>
+      <caption lang="ko">체스 엔진 자동 감지</caption>
+      <caption lang="nl">Autodetectie schaakprogramma's</caption>
+      <caption lang="nn">Oppdag sjakkmotor automatisk</caption>
+      <caption lang="pl">Samowykrywanie silników szachowych</caption>
+      <caption lang="pt">Detecção Automática dos Motores de Xadrez</caption>
+      <caption lang="pt-BR">Detecção automática dos mecanismos de xadrez</caption>
+      <caption lang="ru">Автоматическое определение шахматных движков</caption>
+      <caption lang="sk">Automatická detekcia šachových enginov</caption>
+      <caption lang="sl">Avtomatska detekcija šahovskih aplikacij</caption>
+      <caption lang="sv">Automatisk detektering av schackprogram</caption>
+      <caption lang="tr">Satraç İşletkesinin Otomatik Algılaması</caption>
+      <caption lang="uk">Автоматичне виявлення шахових рушіїв</caption>
+      <caption lang="x-test">xxAuto-Detection of Chess Enginesxx</caption>
+      <caption lang="zh-CN">象棋引擎的自动检测</caption>
+      <caption lang="zh-TW">自動偵測西洋棋引擎</caption>
+      <image>https://cdn.kde.org/screenshots/knights/knights_auto_detect_engines.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Playing online - FICS Console</caption>
+      <caption lang="ar">اللعب عن طريق الإنترنت - طرفية FICS</caption>
+      <caption lang="ca">Jugant en línia: consola FICS</caption>
+      <caption lang="ca-valencia">Jugant en línia: consola FICS</caption>
+      <caption lang="da">Spiller online - FICS Console</caption>
+      <caption lang="de">Online spielen - FICS-Konsole</caption>
+      <caption lang="el">Παίζω σε σύνδεση - Κονσόλα FICS</caption>
+      <caption lang="en-GB">Playing online - FICS Console</caption>
+      <caption lang="es">Juego en línea - Consola FICS</caption>
+      <caption lang="et">Võrgus mängimine . FICS-i konsool</caption>
+      <caption lang="eu">Lineako jolasa - FICS kontsola</caption>
+      <caption lang="fi">Verkkopelaaminen – FICS-konsoli</caption>
+      <caption lang="fr">Jeu en ligne - Console FICS</caption>
+      <caption lang="gl">Xogar por Internet — Consola de FICS</caption>
+      <caption lang="id">Bermain online - FICS Console</caption>
+      <caption lang="it">Partita in linea - Console FICS</caption>
+      <caption lang="ko">온라인 플레이 - FICS 콘솔</caption>
+      <caption lang="nl">Online spelen - FICS-console</caption>
+      <caption lang="nn">Spelar via nettet – FICS-konsoll</caption>
+      <caption lang="pl">Granie przez sieć - Konsola FICS</caption>
+      <caption lang="pt">Jogo 'online' - Consola do FICS</caption>
+      <caption lang="pt-BR">Jogo online - Console do FICS</caption>
+      <caption lang="ru">Игра в Интернете — консоль FICS</caption>
+      <caption lang="sk">Hranie online - konzola FICS</caption>
+      <caption lang="sl">Sprotna igra - konzola FICS</caption>
+      <caption lang="sv">Spela på nätet: FICS-terminal</caption>
+      <caption lang="tr">Çevrimiçi oyna - FICS Konsolu</caption>
+      <caption lang="uk">Гра у мережі — консоль FICS</caption>
+      <caption lang="x-test">xxPlaying online - FICS Consolexx</caption>
+      <caption lang="zh-CN">在线播放 - 公务员协联控制台</caption>
+      <caption lang="zh-TW">線上遊玩 - FICS 控制台</caption>
+      <image>https://cdn.kde.org/screenshots/knights/knights_fics_console.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Playing online - graphical Seek-Graph</caption>
+      <caption lang="ar">اللعب على الإنترنت - رسم بياني</caption>
+      <caption lang="ca">Jugant en línia: gràfic de cerca</caption>
+      <caption lang="ca-valencia">Jugant en línia: gràfic de busca</caption>
+      <caption lang="da">Spiller online - grafisk søgegraf</caption>
+      <caption lang="de">Online spielen - Such-Graph</caption>
+      <caption lang="el">Παίζω σε σύνδεση - γραφικό Seek-Graph</caption>
+      <caption lang="en-GB">Playing online - graphical Seek-Graph</caption>
+      <caption lang="es">Juego en línea - Gráfico de búsqueda</caption>
+      <caption lang="et">Võrgus mängimine - graafiline otsimisgraafik</caption>
+      <caption lang="eu">Lineako jolasa - bilaketa grafikoak</caption>
+      <caption lang="fi">Verkkopelaaminen – graafinen hakukaavio</caption>
+      <caption lang="fr">Jeu en ligne - Graphique de recherche</caption>
+      <caption lang="gl">Xogar por Internet — Grafo de busca gráfico</caption>
+      <caption lang="id">Bermain online - grafik Seek-Graph</caption>
+      <caption lang="it">Partita in linea - grafico di ricerca</caption>
+      <caption lang="ko">온라인 플레이 - 탐색 그래프</caption>
+      <caption lang="nl">Online spelen - grafische "Seek-Graph"</caption>
+      <caption lang="nn">Spelar via nettet – grafisk søkjegraf</caption>
+      <caption lang="pl">Granie przez sieć - graficzny Seek-Graph</caption>
+      <caption lang="pt">Jogo 'online' - Grafo de pesquisa gráfico</caption>
+      <caption lang="pt-BR">Jogo online - Grafo de pesquisa gráfico</caption>
+      <caption lang="ru">Игра в Интернете — график противников</caption>
+      <caption lang="sk">Hra online - grafický Seek-Graph</caption>
+      <caption lang="sl">Sprotna igra - grafični prikaz iskanja potez</caption>
+      <caption lang="sv">Spela på nätet: Grafiskt sökdiagram</caption>
+      <caption lang="tr">Çevrimiçi oyna - grafik Seek-Graph</caption>
+      <caption lang="uk">Гра у мережі — граф пошуку гравців</caption>
+      <caption lang="x-test">xxPlaying online - graphical Seek-Graphxx</caption>
+      <caption lang="zh-CN">在线播放-图形搜索图</caption>
+      <caption lang="zh-TW">線上遊玩 - 圖形化 Seek-Graph</caption>
+      <image>https://cdn.kde.org/screenshots/knights/knights_seek_graph.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://www.kde.org/applications/games/knights/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=knights</url>
+  <url type="donation">https://www.kde.org/community/donations/?app=knights&amp;source=appdata</url>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>knights</binary>
+  </provides>
+  <releases>
+    <release date="2022-07-07" version="2.6.22043" />
+    <release version="2.6.22042" date="2022-06-09" />
+    <release version="2.6.22041" date="2022-05-12" />
+    <release version="2.6.22040" date="2022-04-21" />
+  </releases>
+</component>

@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>
+       Recipes is an easy-to-use application that will help you to discover what to cook
+       today, tomorrow, the rest of the week and for your special occasions.
+    </p>
+    <p>
+       Recipes comes with a collection of recipes that have been collected by GNOME contributors
+       from all over the world. It also lets you store your own recipes and share them with your
+       friends.
+    </p>
+    <p>
+       The major features of Recipes include:
+    </p>
+    <ul>
+      <li>Add and edit your own recipes</li>
+      <li>Share recipes with your friends</li>
+      <li>Export and print shopping lists</li>
+      <li>Adjust quantities based on the number of servings</li>
+      <li>Mark recipes to cook later or add them to your favorites</li>
+      <li>Add notes to recipes</li>
+      <li>Hands-free cooking instruction mode</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>El Receptes és una aplicació fàcil d'utilitzar que us ajudarà a descobrir què cuinar avui, demà, la resta de la setmana o en les seves ocasions especials.</p>
+    <p>El Receptes inclou una col·lecció de receptes que han estat recollides pels col·laboradors del GNOME de tot el món. També us permet emmagatzemar les vostres pròpies receptes i compartir-les amb els vostres amics.</p>
+    <p>Les funcionalitats principals del Receptes inclouen:</p>
+    <ul>
+      <li>Afegeix o edita les teves pròpies receptes</li>
+      <li>Compartiu receptes amb els vostres amics</li>
+      <li>Exporta i imprimeix llistes de la compra</li>
+      <li>Ajusta les quantitats segons el nombre de racions</li>
+      <li>Marca receptes per a cuinar més tard o afegeix-les a les teves preferides</li>
+      <li>Afegeix notes a les receptes</li>
+      <li>Mode instruccions amb mans lliures</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>Recepty jsou snadno použitelnou aplikací, která vám pomůže vybrat, co si uvařit dnes, zítra, po zbytek týdne a při zvláštních příležitostech.</p>
+    <p>Recepty přicházejí se sbírkou receptů, které sesbírali přispěvatelé GNOME z celého světa. Můžete si do nich ukládat i vlastní recepty a sdílet je s přáteli.</p>
+    <p>K hlavním funkcím aplikace Recepty patří:</p>
+    <ul>
+      <li>Přidávání a úpravy svých vlastních receptů</li>
+      <li>Sdílení receptů s přáteli</li>
+      <li>Export a tisk nákupních seznamů</li>
+      <li>Přepočet množství surovin pro porcí</li>
+      <li>Označování receptů k pozdějšímu uvaření a označování oblíbených</li>
+      <li>Přidávání poznámek do receptů</li>
+      <li>Režim instrukcí pro volén ruce pro vaření</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>Rezepte ist eine einfache Anwendung, die dabei hilft zu entdecken, was wir heute, morgen, den Rest der Woche und zu besonderen Anlässen kochen können.</p>
+    <p>Rezepte kommt mit einer Sammlung von Rezepten, die von GNOME Benutzern und Entwicklern aus der ganzen Welt zusammengestellt worden ist. Es lässt Sie auch Ihre eigenen Rezepte eintragen und mit Ihren Freuden teilen.</p>
+    <p>Die Hauptfunktionen von GNOME Rezepte sind:</p>
+    <ul>
+      <li>Eigene Rezepte hinzufügen und bearbeiten</li>
+      <li>Rezepte mit Ihren Freunden teilen</li>
+      <li>Einkaufslisten exportieren und drucken</li>
+      <li>Mengen anhand der Portionsanzahl anpassen</li>
+      <li>Rezepte markieren, um sie später zuzubereiten oder zu den Lieblingsrezepten hinzuzufügen</li>
+      <li>Notizen zu Rezepten hinzufügen</li>
+      <li>Anweisungsmodus für freihändiges Kochen</li>
+    </ul>
+  </description>
+  <description lang="en_GB">
+    <p>Recipes is an easy-to-use application that will help you to discover what to cook today, tomorrow, the rest of the week and for your special occasions.</p>
+    <p>Recipes comes with a collection of recipes that have been collected by GNOME contributors from all over the world. It also lets you store your own recipes and share them with your friends.</p>
+    <p>The major features of Recipes include:</p>
+    <ul>
+      <li>Add and edit your own recipes</li>
+      <li>Share recipes with your friends</li>
+      <li>Export and print shopping lists</li>
+      <li>Adjust quantities based on the number of servings</li>
+      <li>Mark recipes to cook later or add them to your favourites</li>
+      <li>Add notes to recipes</li>
+      <li>Hands-free cooking instruction mode</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>Recetas de GNOME es una aplicación sencilla de usar que le ayudará a descubrir qué cocinar hoy, mañana, el resto de la semana y en ocasiones especiales.</p>
+    <p>Incluye una colección de recetas de colaboradores de GNOME de todo el mundo. También le permite guardar sus propias recetas y compartirlas con sus amigos.</p>
+    <p>Entre las principales características de Recetas se incluyen:</p>
+    <ul>
+      <li>Añadir y editar sus propias recetas</li>
+      <li>Compartir recetas con sus amigos</li>
+      <li>Exportar e imprimir listas de la compra</li>
+      <li>Ajustar las cantidades en función de las raciones</li>
+      <li>Marcar recetas para cocinarlas después o añadirlas a favoritos</li>
+      <li>Añadir notas a las recetas</li>
+      <li>Modo de instrucciones de preparación en manos libres</li>
+    </ul>
+  </description>
+  <description lang="eu">
+    <ul>
+      <li>Gehitu eta editatu zure errezetak</li>
+      <li>Partekatu errezetak lagunekin</li>
+      <li>Esportatu eta inprimatu erosketa-zerrendak</li>
+      <li>Gehitu oharrak errezetei</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>Reseptit on helppokäyttöinen sovellus, jonka avulla löydät kokkausideoita kuluvalle päivälle, huomiselle ja loppuviikolle sekä erikoistilaisuuksiin.</p>
+    <p>Reseptit sisältää kokoelman Gnome-avustajien ympäri maailmaa keräämiä reseptejä. Sen avulla voit myös luoda omia reseptejä ja jakaa niitä ystävien kesken.</p>
+    <p>Reseptien pääominaisuuksia:</p>
+    <ul>
+      <li>Lisää ja muokkaa omia reseptejä</li>
+      <li>Jaa reseptejä ystävien kesken</li>
+      <li>Vie ja tulosta ostoslistoja</li>
+      <li>Säädä ainesmääriä annosten määrän mukaan</li>
+      <li>Merkitse reseptejä myöhemmin kokattavaksi ja lisää reseptejä suosikkeihin</li>
+      <li>Lisää huomioita resepteihin</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>Recettes est une application facile à utiliser qui vous aidera à trouver ce que vous pouvez cuisiner aujourd’hui, demain, le reste de la semaine et pour vos occasions spéciales.</p>
+    <p>Recettes est fourni avec une collection de recettes qui ont été collectionnées par des contributeurs GNOME de toute la planète. Il vous permet également de stocker vos recettes et de les partager avec vos amis.</p>
+    <p>Les caractéristiques principales de Recettes comprennent :</p>
+    <ul>
+      <li>Ajouter et modifier vos propres recettes</li>
+      <li>Partager des recettes avec vos amis</li>
+      <li>Exporter et imprimer des listes de courses</li>
+      <li>Adapter les quantités par rapport au nombre de portions</li>
+      <li>Marquer des recettes à cuisiner plus tard ou les ajouter à vos favoris</li>
+      <li>Ajouter des notes aux recettes</li>
+      <li>Mode d’instructions mains-libres</li>
+    </ul>
+  </description>
+  <description lang="fur">
+    <p>Lis funzionalitâts principâls di Ricetis a includin:</p>
+    <ul>
+      <li>Zonte e modifiche lis tôs ricetis</li>
+      <li>Condivît ricetis cui tiei amîs</li>
+      <li>Espuarte e stampe lis listis de spese</li>
+      <li>Justâ lis cuantitâts in base al numar di plats</li>
+      <li>Segnâ lis ricetis di preparâ plui tart o zontâlis tai preferîts</li>
+      <li>Zonte notis aes ricetis</li>
+    </ul>
+  </description>
+  <description lang="hr">
+    <p>Recepti su jednostavna aplikacija za korištenje koja će vam pomoći da otkrijete što ćete kuhati danas, sutra, ostatak tjedna ili u vašim posebnim prigodama.</p>
+    <p>Recepti dolaze sa kolekcijom recepata koje su prikupili GNOME doprinositelji iz cijeloga svijeta. Isto tako vam dopušta da pohranite svoje vlastite recepte i dijelite ih sa svojim prijateljima.</p>
+    <p>Glavnina značajki Recepata uključuje:</p>
+    <ul>
+      <li>Dodavanje i uređivanje svojih vlastitih recepata</li>
+      <li>Dijeljenje recepata sa svojim prijateljima</li>
+      <li>Izvoz i ispis popisa za kupovinu</li>
+      <li>Prilagodba količine temeljene na broja porcija</li>
+      <li>Označavanje recepata za kasnije kuhanje ili dodavanje u omiljene recepte</li>
+      <li>Dodavanje napomena u recepte</li>
+      <li>Način rada uputa kuhanja bez upotreba ruku</li>
+    </ul>
+  </description>
+  <description lang="hu">
+    <p>A Receptek egy könnyedén használható alkalmazás, amely a segítségére lesz annak kitalálásában, hogy mit főzzön ma, holnap, a hét többi napján és különleges alkalmakkor.</p>
+    <p>A Receptek egy olyan receptgyűjteménnyel érkezik, amelyet a GNOME közreműködők gyűjtöttek össze a világ minden tájáról. Lehetővé teszi a saját receptjei tárolását is, és megoszthatja azokat az ismerőseivel.</p>
+    <p>A Receptek főbb funkciói a következők:</p>
+    <ul>
+      <li>Saját receptek hozzáadása és szerkesztése</li>
+      <li>Receptek megosztása az ismerőseivel</li>
+      <li>Bevásárlólisták exportálása és nyomtatása</li>
+      <li>Mennyiségek beállítása az adagok száma alapján</li>
+      <li>Receptek megjelölése későbbi elkészítéshez, vagy azok hozzáadása a kedvencekhez</li>
+      <li>Jegyzetek hozzáadása a receptekhez</li>
+      <li>Kihangosítható főzési utasítások mód</li>
+    </ul>
+  </description>
+  <description lang="id">
+    <p>Resep adalah aplikasi yang mudah digunakan, yang akan membantu Anda untuk menemukan apa yang akan dimasak hari ini, besok, sisa minggu dan untuk acara khusus Anda.</p>
+    <p>Resep hadir dengan koleksi resep yang telah dikumpulkan oleh kontributor GNOME dari seluruh dunia. Hal ini juga memungkinkan Anda menyimpan resep Anda sendiri, dan membaginya dengan teman-teman Anda.</p>
+    <p>Fitur utama dari Resep meliputi:</p>
+    <ul>
+      <li>Menambah dan menyunting resep Anda sendiri</li>
+      <li>Berbagi resep dengan teman Anda</li>
+      <li>Ekspor dan cetak daftar belanja</li>
+      <li>Sesuaikan jumlah berdasarkan jumlah porsi</li>
+      <li>Tandai resep untuk memasak nanti atau menambahkannya ke favorit Anda</li>
+      <li>Menambahkan catatan ke resep</li>
+      <li>Mode instruksi memasak hands-free</li>
+    </ul>
+  </description>
+  <description lang="ko">
+    <p>요리는 오늘, 내일 다음주, 특별한 날에 무슨 요리를 할 지 찾아보는데 도움을 주는 쓰기 쉬운 프로그램입니다.</p>
+    <p>요리는 전세계 여러 그놈 기여자가 모아둔 조리법을 모아두었습니다. 여러분의 조리법을 저장할 수 있고, 이 조리법을 친구와 공유할 수 있습니다.</p>
+    <p>요리의 주요 기능은 다음과 같습니다:</p>
+    <ul>
+      <li>여러분의 조리법을 추가하고 편집합니다</li>
+      <li>친구와 조리법을 공유합니다</li>
+      <li>장보기 목록 내보내고 인쇄하기</li>
+      <li>제공량에 따라 양을 조절합니다</li>
+      <li>나중에 요리할 조리법을 표시하거나 즐겨찾기에 추가합니다</li>
+      <li>조리법에 메모를 추기합니다</li>
+      <li>간단한 요리 방법 모드</li>
+    </ul>
+  </description>
+  <description lang="nb">
+    <p>Recipes er en applikasjon som er enkel å bruke. Den vil hjelpe deg å oppdage hva slags mat du skal lage i dag, i morgen og resten av uka. Til spesielle anledninger og høytider.</p>
+    <p>Recipes leveres med en samling oppskrifter som har blitt samlet av GNOME-bidragsytere fra hele verden. Det er også mulig å legge inn egne oppskrifter og dele dem med vennene dine.</p>
+    <p>Hovedfunksjonene i Oppskrifter inkluderer:	</p>
+    <ul>
+      <li>Legg til og rediger dine egne oppskrifter</li>
+      <li>Del oppskrifter med venner</li>
+      <li>Eksporter og skriv ut handlelister</li>
+      <li>Tilpass mengder basert på antall porsjoner</li>
+      <li>Merk oppskrifter til senere bruk eller legg dem til i dine favoritter</li>
+      <li>Skriv notater i oppskriftene</li>
+      <li>Håndfri tilberedningsmodus</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <p>Przepisy to łatwy w obsłudze program pomagający odkrywać przepisy na dzisiaj, jutro i resztę tygodnia, a także na specjalne okazje.</p>
+    <p>Program zawiera kolekcję przepisów zebranych przez współtwórców GNOME z całego świata. Umożliwia także dodawanie własnych przepisów i wysyłanie ich znajomym.</p>
+    <p>Główne funkcje programu:</p>
+    <ul>
+      <li>Dodawanie i modyfikowanie swoich przepisów</li>
+      <li>Wysyłanie przepisów znajomym</li>
+      <li>Eksportowanie i drukowanie list zakupów</li>
+      <li>Podawanie ilości składników według liczby porcji</li>
+      <li>Oznaczanie przepisów jako do ugotowania później i dodawanie ich do ulubionych</li>
+      <li>Dodawanie notatek do przepisów</li>
+      <li>Tryb czytania instrukcji bez użycia rąk, przydatny w czasie gotowania</li>
+    </ul>
+  </description>
+  <description lang="pt_BR">
+    <p>O Receitas é um aplicativo fácil de ser usado que irá lhe ajudar a descobrir o que cozinhar hoje, amanhã, pelo resto da semana e para as suas ocasiões especiais.</p>
+    <p>O aplicativo Receitas vem com uma coleção de receitas que foram coletadas por contribuidores do GNOME de todo o mundo. Ele também permite que você armazene suas próprias receitas e as compartilhe com seus amigos.</p>
+    <p>Os principais recursos do Receitas incluem:</p>
+    <ul>
+      <li>Adicionar e editar suas próprias receitas</li>
+      <li>Compartilhar receitas com seus amigos</li>
+      <li>Exportar e imprimir listas de compras</li>
+      <li>Ajustar quantidades baseado no número de porções</li>
+      <li>Marcar receitas para cozinhar posteriormente ou adicioná-las a seus favoritos</li>
+      <li>Adicionar notas às receitas</li>
+      <li>Modo de instrução de cozimento a mãos-livres</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <p>Recept är ett lättanvänt program som hjälper dig med vad du ska laga för mat idag, imorgon, resten av veckan och andra speciella tillfällen.</p>
+    <p>Recept kommer med en samling recept som har samlats ihop av GNOME-volontärer från hela världen. Det låter dig också lagra dina egna recept och dela dem med vänner.</p>
+    <p>De stora funktionerna för Recept inkluderar:</p>
+    <ul>
+      <li>Lägg till och redigera dina egna recept</li>
+      <li>Dela recept med dina vänner</li>
+      <li>Exportera och skriv ut inköpslistor</li>
+      <li>Anpassa mängder baserat på antalet portioner</li>
+      <li>Markera recept att laga senare eller lägg till dem till dina favoriter</li>
+      <li>Lägg till anteckningar till recept</li>
+      <li>Handlöst tillagningsinstruktionsläge</li>
+    </ul>
+  </description>
+  <pkgname>gnome-recipes</pkgname>
+  <icon height="64" width="64" type="cached">org.gnome.Recipes.png</icon>
+  <icon width="128" type="cached" height="128">org.gnome.Recipes.png</icon>
+  <id>org.gnome.Recipes.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <name>Recipes</name>
+  <name lang="sv">Recept</name>
+  <name lang="sr">Рецепти</name>
+  <name lang="sk">Recepty</name>
+  <name lang="pt_BR">Receitas</name>
+  <name lang="pl">Przepisy</name>
+  <name lang="nl">Recepten</name>
+  <name lang="nb">Oppskrifter</name>
+  <name lang="ko">요리</name>
+  <name lang="id">Resep</name>
+  <name lang="hu">Receptek</name>
+  <name lang="hr">Recepti</name>
+  <name lang="fur">Ricetis</name>
+  <name lang="fr">Recettes</name>
+  <name lang="fi">Reseptit</name>
+  <name lang="eu">Errezetak</name>
+  <name lang="es">Recetas</name>
+  <name lang="en_GB">Recipes</name>
+  <name lang="de">Rezepte</name>
+  <name lang="cs">Recepty</name>
+  <name lang="ca">Receptes</name>
+  <summary>GNOME loves to cook</summary>
+  <summary lang="sv">GNOME älskar att laga mat</summary>
+  <summary lang="sr">Гном воли да кува</summary>
+  <summary lang="pt_BR">GNOME ama cozinhar</summary>
+  <summary lang="pl">GNOME uwielbia gotować</summary>
+  <summary lang="nl">Gnome houdt van koken</summary>
+  <summary lang="nb">GNOME elsker å lage mat</summary>
+  <summary lang="ko">그놈은 요리를 좋아해요 :)</summary>
+  <summary lang="id">GNOME suka memasak</summary>
+  <summary lang="hu">A GNOME imád főzni</summary>
+  <summary lang="hr">GNOME voli kuhati</summary>
+  <summary lang="fur">GNOME al adore cusinâ</summary>
+  <summary lang="fr">GNOME aime cuisiner</summary>
+  <summary lang="fi">Gnome rakastaa kokkausta</summary>
+  <summary lang="eu">GNOMEk sukaldaritza maite du</summary>
+  <summary lang="es">A GNOME le encanta cocinar</summary>
+  <summary lang="en_GB">GNOME loves to cook</summary>
+  <summary lang="de">GNOME kocht gerne</summary>
+  <summary lang="cs">GNOME miluje vaření</summary>
+  <summary lang="ca">Al GNOME li encanta cuinar</summary>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://static.gnome.org/appdata/gnome-recipes/recipes.png</image>
+      <caption>Initial screen for the application</caption>
+      <caption lang="sv">Programmets startskärm</caption>
+      <caption lang="sr">Почетни екран програма</caption>
+      <caption lang="pt_BR">Tela inicial para o aplicativo</caption>
+      <caption lang="pl">Początkowy ekran programu</caption>
+      <caption lang="nl">Openingsscherm voor de toepassing</caption>
+      <caption lang="nb">Førstegangs visningsbilde for applikasjonen</caption>
+      <caption lang="ko">프로그램 초기 화면</caption>
+      <caption lang="id">Layar awal untuk aplikasi</caption>
+      <caption lang="hu">Az alkalmazás kezdőképernyője</caption>
+      <caption lang="hr">Početni prozor aplikacije</caption>
+      <caption lang="fur">Schermade iniziâl pe aplicazion</caption>
+      <caption lang="fr">Écran initial pour l’application</caption>
+      <caption lang="eu">Aplikazioaren hasierako pantaila</caption>
+      <caption lang="es">Pantalla inicial de la aplicación</caption>
+      <caption lang="en_GB">Initial screen for the application</caption>
+      <caption lang="de">Anfangsseite der Anwendung</caption>
+      <caption lang="cs">Úvodní obrazovka aplikace</caption>
+      <caption lang="ca">Pantalla inicial de l'aplicació</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://static.gnome.org/appdata/gnome-recipes/cuisines.png</image>
+      <caption>The cuisines page</caption>
+      <caption lang="sv">Sidan för kokkonst</caption>
+      <caption lang="sr">Кухињска страница</caption>
+      <caption lang="pt_BR">A página das cozinhas</caption>
+      <caption lang="pl">Strona kuchni</caption>
+      <caption lang="nl">De gerechtenpagina</caption>
+      <caption lang="nb">Den nordiske matmesteren</caption>
+      <caption lang="ko">요리 페이지</caption>
+      <caption lang="id">Halaman masakan</caption>
+      <caption lang="hu">A konyhák oldala</caption>
+      <caption lang="hr">Stranica kuhinja</caption>
+      <caption lang="fur">La pagjine des cusinis</caption>
+      <caption lang="fr">La page des types de cuisine</caption>
+      <caption lang="fi">Keittiösivu</caption>
+      <caption lang="eu">Sukaldaritzen orria</caption>
+      <caption lang="es">La página de tipos de cocina</caption>
+      <caption lang="en_GB">The cuisines page</caption>
+      <caption lang="de">Küchen-Ansicht</caption>
+      <caption lang="cs">Stránka kuchyní</caption>
+      <caption lang="ca">Pàgina de les cuines</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://static.gnome.org/appdata/gnome-recipes/cook-later.png</image>
+      <caption>A shopping list</caption>
+      <caption lang="sv">En inköpslista</caption>
+      <caption lang="sr">Списак за куповину</caption>
+      <caption lang="sk">Nákupný zoznam</caption>
+      <caption lang="pt_BR">Uma lista de compras</caption>
+      <caption lang="pl">Lista zakupów</caption>
+      <caption lang="nb">En handleliste</caption>
+      <caption lang="ko">장보기 목록</caption>
+      <caption lang="id">Daftar belanja</caption>
+      <caption lang="hu">Egy bevásárlólista</caption>
+      <caption lang="hr">Popis za kupovinu</caption>
+      <caption lang="fur">Une liste di spese</caption>
+      <caption lang="fr">Une liste de courses</caption>
+      <caption lang="fi">Ostoslista</caption>
+      <caption lang="eu">Erosketa-zerrenda</caption>
+      <caption lang="es">Una lista de la compra</caption>
+      <caption lang="en_GB">A shopping list</caption>
+      <caption lang="de">Eine Einkaufsliste</caption>
+      <caption lang="cs">Nákupní seznam</caption>
+      <caption lang="ca">Una llista de la compra</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://static.gnome.org/appdata/gnome-recipes/cooking.png</image>
+      <caption>Cooking a recipe</caption>
+      <caption lang="sv">Tillaga efter recept</caption>
+      <caption lang="sr">Кување рецепта</caption>
+      <caption lang="sk">Varenie receptu</caption>
+      <caption lang="pt_BR">Cozinhando uma receita</caption>
+      <caption lang="pl">Gotowanie przepisu</caption>
+      <caption lang="nb">Følge en oppskrift</caption>
+      <caption lang="ko">조리법 대로 요리하기</caption>
+      <caption lang="id">Memasak resep</caption>
+      <caption lang="hu">Egy recept elkészítése</caption>
+      <caption lang="hr">Kuhaj recept</caption>
+      <caption lang="fur">Cusinâ une ricete</caption>
+      <caption lang="fr">Cuisiner une recette</caption>
+      <caption lang="eu">Errezeta bat prestatzea</caption>
+      <caption lang="es">Cocinar una receta </caption>
+      <caption lang="en_GB">Cooking a recipe</caption>
+      <caption lang="de">Nach einem Rezept kochen</caption>
+      <caption lang="cs">Vaření podle receptu</caption>
+      <caption lang="ca">Cuinant una recepta</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://static.gnome.org/appdata/gnome-recipes/edit.png</image>
+      <caption>Editing a recipe</caption>
+      <caption lang="sv">Redigera ett recept</caption>
+      <caption lang="sr">Уређивање рецепта</caption>
+      <caption lang="sk">Úprava receptu</caption>
+      <caption lang="pt_BR">Editando uma receita</caption>
+      <caption lang="pl">Modyfikowanie przepisu</caption>
+      <caption lang="nb">Redigere en oppskrift</caption>
+      <caption lang="ko">조리법 편집</caption>
+      <caption lang="id">Menyunting resep</caption>
+      <caption lang="hu">Egy recept szerkesztése</caption>
+      <caption lang="hr">Uredi recept</caption>
+      <caption lang="fur">Daûr a modificâ une ricete</caption>
+      <caption lang="fr">Modification d’une recette</caption>
+      <caption lang="fi">Reseptin muokkausta</caption>
+      <caption lang="eu">Errezeta bat editatzea</caption>
+      <caption lang="es">Editando una receta </caption>
+      <caption lang="en_GB">Editing a recipe</caption>
+      <caption lang="de">Ein Rezept bearbeiten</caption>
+      <caption lang="cs">Úprava receptu</caption>
+      <caption lang="ca">Edició d'una recepta</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://static.gnome.org/appdata/gnome-recipes/details.png</image>
+      <caption>An individual recipe</caption>
+      <caption lang="sv">Ett individuellt recept</caption>
+      <caption lang="sr">Рецепт појединца</caption>
+      <caption lang="sk">Individuálny recept</caption>
+      <caption lang="pt_BR">Uma receita individual</caption>
+      <caption lang="pl">Jeden przepis</caption>
+      <caption lang="nl">Een individueel recept</caption>
+      <caption lang="nb">En individuell oppskrift</caption>
+      <caption lang="ko">개별 조리법</caption>
+      <caption lang="id">Resep individual</caption>
+      <caption lang="hu">Egy egyedi recept</caption>
+      <caption lang="hr">Pojedinačni recept</caption>
+      <caption lang="fur">Une ricete individuâl</caption>
+      <caption lang="fr">Une recette individuelle</caption>
+      <caption lang="eu">Banakako errezeta bat</caption>
+      <caption lang="es">Una receta individual</caption>
+      <caption lang="en_GB">An individual recipe</caption>
+      <caption lang="de">Ein individuelles Rezept</caption>
+      <caption lang="cs">Jednotlivý recept</caption>
+      <caption lang="ca">Una recepta individual</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://static.gnome.org/appdata/gnome-recipes/cuisine.png</image>
+      <caption>An individual cuisine</caption>
+      <caption lang="sv">En individuell kokkonst</caption>
+      <caption lang="sr">Кухиња појединца</caption>
+      <caption lang="sk">Individuálna kuchyňa</caption>
+      <caption lang="pt_BR">Uma cozinha individual</caption>
+      <caption lang="pl">Jedna kuchnia</caption>
+      <caption lang="nl">Een individueel gerecht</caption>
+      <caption lang="nb">En individuell rett</caption>
+      <caption lang="ko">개별 요리</caption>
+      <caption lang="id">Masakan individu</caption>
+      <caption lang="hu">Egy egyedi konyha</caption>
+      <caption lang="hr">Pojedinačna kuhinja</caption>
+      <caption lang="fur">Une cusine individuâl</caption>
+      <caption lang="fr">Une cuisine individuelle</caption>
+      <caption lang="eu">Banakako sukaldaritza bat</caption>
+      <caption lang="es">Una cocina individual</caption>
+      <caption lang="en_GB">An individual cuisine</caption>
+      <caption lang="de">Eine individuelle Küche</caption>
+      <caption lang="cs">Jednotlivá kuchyně</caption>
+      <caption lang="ca">Una cuina individual</caption>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release version="2.0.4" date="2020-03-05">
+      <description>
+        <ul>
+          <li>Fix a few crasher bugs</li>
+          <li>Fix an issue where the chef dialog wouldn't reopen when closed using Esc key</li>
+          <li>Fix the Flatpak build and the CI build</li>
+          <li>Fix the build dependencies known to meson (make gio-unix-2.0 explicit)</li>
+          <li>Update the AppStream data (add OARS data, fix the SPDX license identifier, etc.)</li>
+          <li>Update the bug reporting URL to GNOME GitLab</li>
+          <li>Add a label for Halal recipes</li>
+          <li>Fix the labels on "White fish for people who don't like fish" so it doesn't claim to be vegetarian</li>
+          <li>Tweak the wording on two recipes in the Vegetarian category, now called "Gravy" and "Marinade"</li>
+          <li>New and updated translations: Basque, Norwegian, Catalan, Croatian, Czech, English (United Kingdom), French, Friulian, German, Hungarian, Indonesian, Polish, Portuguese (Brazil), Spanish, Swedish</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.0.2" date="2017-11-11">
+      <description>
+        <p>
+          This release fixes a serious bug in version 2.0.0, which could cause
+          all ingredients to lose their amounts when editing a recipe.
+        </p>
+        <p>
+          We also fixed an issue where ingredients without amount would always
+          get displayed with an errant '1' as amount.
+        </p>
+        <ul>
+          <li>Allow recipes to have long names</li>
+          <li>New recipes: Tzatziki, Soy Chicken, Rice Maize Apple Cake</li>
+          <li>New and updated translations: Czech, German</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2017-10-30" version="2.0.0">
+      <description>
+        <p>
+          This release adds new features.
+        </p>
+        <p>
+          Unit conversion support has landed. There are new settings, volume-unit
+          and weight-unit, which can be set to 'locale' (the default), 'metric' or
+          'imperial' to control how units are displayed. We are also formatting
+          numbers in a human-friendly way and separate them into multiple units
+          where appropriate. This work was done by Outreachy intern Paxana Amanda Xander.
+        </p>
+        <p>
+          Support for sharing shopping lists to the Todoist mobile app has landed.
+          This work was done by Summer of Code intern Ekta Nandwani.
+        </p>
+        <ul>
+          <li>New recipes: Colita con Chimichurri, Fårikål, Marinade, Chicken gravy, Rouladen, Okonomiyaki, various juices, Boef Bourguignon, Grilled salad, Midsummer nights dream, Sous vide, Struwen</li>
+          <li>The list of ingredients has been revised and expanded</li>
+          <li>New and updated translations: Catalan, Croatian, Czech, Finnish, German, Indonesian, Polish, Spanish</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.6.2" date="2017-07-26">
+      <description>
+        <p>
+          A quick follow-up release to fix some issues.
+        </p>
+        <ul>
+          <li>Avoid a crash when editing ingredients</li>
+          <li>Use better glyphs as markers in instructions</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2017-07-26" version="1.6.0">
+      <description>
+        <p>
+          This release adds new features.
+        </p>
+        <ul>
+          <li>Improved formatting of numbers as mixed fractions</li>
+          <li>Recipes can specify a more general yield, instead of just servings, and the amount can be fractional</li>
+          <li>Lists can be sorted either by name or by recency</li>
+          <li>The My Recipes list indicates which recipes have been contributed</li>
+          <li>Recipes can be imported in the Gourmet XML file format</li>
+          <li>New recipes: Beef Pho, Hawaiian Fish salad, Arroz amarillo, Homemade Mayonnaise and Pad Priew Wan Goong</li>
+          <li>New and updated translations: Czech, German, Polish</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.4.6" date="2017-06-22">
+      <description>
+        <p>
+          This release contains a number of bug fixes and minor improvements.
+        </p>
+        <ul>
+          <li>Drag-and-Drop of ingredients is improved</li>
+          <li>Completion for units is improved</li>
+          <li>Display of temperature units avoids font fallback</li>
+          <li>Miscellaneous improvements to editing recipes</li>
+          <li>Formatting of printed recipes is nicer</li>
+          <li>New recipe: Henry's original stew</li>
+          <li>Miscellaneous build fixes (OpenBSD, OS X)</li>
+          <li>Several crash fixes</li>
+          <li>New and updated translations: Polish, Spanish</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.4.4" date="2017-05-22">
+      <description>
+        <p>
+          This release completes the new editing experience for ingredients.
+        </p>
+        <ul>
+          <li>Error handling on the edit page has been improved</li>
+          <li>A commandline option has been added for starting with a category view</li>
+          <li>Temperatures are now displayed according to the locale</li>
+          <li>Ingredients rows can now be reordered with the keyboard</li>
+          <li>Fix crashes during import and when showing cuisines</li>
+          <li>Make exporting work with recent GTK+ versions</li>
+          <li>Add mm, cm and m to the list of known units</li>
+          <li>Minor fixes on the shopping list and with printing</li>
+          <li>New and updated translations: German, Indonesian, Polish, Slovenian, Spanish</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.4.2" date="2017-05-08">
+      <description>
+        <p>
+          This release adds new features.
+        </p>
+        <ul>
+          <li>Editing of ingredients has been improved</li>
+          <li>Editing of instructions has been improved</li>
+          <li>Your own ingredients are added to the completions</li>
+          <li>Recipes are exported as pdf in addition to the archive format</li>
+          <li>Cuisine descriptions are shown on the pages for individual cuisines</li>
+          <li>A setting for the preferred temperature unit as been introduced</li>
+          <li>New recipes: Pesce alla sale</li>
+          <li>Crash and other bug fixes</li>
+          <li>New and updated translations: Catalan, Slovak, Spanish</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.2.0" date="2017-04-09">
+      <description>
+        <p>
+          This release adds new features and translations. It also includes documentation.
+        </p>
+        <ul>
+          <li>Add an expander for cuisines on the cuisines page</li>
+          <li>Show all cuisines in the edit page</li>
+          <li>Allow reordering ingredients lists</li>
+          <li>New recipes: Lemon cake, Quinoa salad, Neapolitan pizza, Crispy olives</li>
+          <li>Download images and recipes from the net</li>
+          <li>Crash and other bug fixes</li>
+          <li>New and updated translations: Brazilian Portuguese, British English, Catalan, Czech, German, Hungarian, Indonesian, Korean, Norwegian bokmål, Polish, Serbian, Swedish</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2017-03-17" version="1.0.0">
+      <description>
+        <p>
+          This is the first stable release of Recipes, so everything is new!
+        </p>
+        <p>
+          Recipes is an easy-to-use application that will help you to discover
+          what to cook today, tomorrow, the rest of the week and for your special
+          occasions.
+        </p>
+        <p>
+          Recipes comes with a collection of recipes that have been collected
+          by GNOME contributors from all over the world. It also lets you store
+          your own recipes and share them with your friends.
+        </p>
+        <p>
+          The major features of Recipes include:
+        </p>
+        <ul>
+          <li>Add and edit your own recipes</li>
+          <li>Share recipes with your friends</li>
+          <li>Export and print shopping lists</li>
+          <li>Adjust quantities based on the number of servings</li>
+          <li>Mark recipes to cook later or add them to your favorites</li>
+          <li>Add notes to recipes</li>
+          <li>Hands-free cooking instruction mode</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2017-03-12" version="0.22.0">
+      <description>
+        <p>
+          This release focuses on tying up any loose ends before the 1.0 release.
+        </p>
+        <p>
+          Due to a change in the way we store shopping lists and favorites, you will have to
+          recreate your existing favorites and shopping list after the update.
+        </p>
+        <ul>
+          <li>Add a way to go from shopping to cooking</li>
+          <li>Confirm quitting with unsaved changes</li>
+          <li>Confirm ending cooking mode with running timers</li>
+          <li>Store ancillary data in GSettings</li>
+          <li>Match Chef names when searching</li>
+          <li>Add --verbose and --version commandline options</li>
+          <li>Make dialogs non-maximizable on OS X</li>
+          <li>Use a more traditional menubar on OS X</li>
+          <li>Bug and memory leak fixes</li>
+          <li>New recipes: Goulash</li>
+          <li>Translation updates: Brazilian Portuguese, Finnish, Friulian, German, Polish, Swedish</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.20.0" date="2017-03-04">
+      <description>
+        <p>
+          A minor update with OS X improvements and a new 'Export All' function.
+        </p>
+        <ul>
+          <li>Save exported recipes to a file if sending mail fails</li>
+          <li>Export all recipes to a file, from the app menu</li>
+          <li>Dialogs now follow platform conventions for header bars</li>
+          <li>Adapt to dark theme in some places</li>
+          <li>Miscellaneous improvements on OS X</li>
+          <li>New recipes: Nasi Lemak, Sambal Ikan Bilis, Bratkartoffeln</li>
+          <li>Translation updates: Brazilian Portuguese, Finnish, Friulian, Polish, Spanish</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2017-02-27" version="0.18.0">
+      <description>
+        <p>
+          A minor update, focusing on polish and performance.
+        </p>
+        <ul>
+          <li>Improve the UI for search by spiciness</li>
+          <li>Speed up listing of recipes</li>
+          <li>Add a “What's New” dialog</li>
+          <li>New contributed recipes: Hazelnut milk, Hazelnut butter</li>
+          <li>Translation updates: German, Polish, Serbian, Spanish</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2017-02-25" version="0.16.0">
+      <description>
+        <p>
+          This release brings mainly polish and robustness and crash fixes.
+        </p>
+        <ul>
+          <li>Introduce meson build support</li>
+          <li>Be more robust with incomplete data</li>
+          <li>Stylistic fixes to cooking mode</li>
+          <li>Improve the behavior of timers in cooking mode</li>
+          <li>Add categories for all recipes and new recipes</li>
+          <li>Show more details for recipes</li>
+          <li>More contributed recipes</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.14.2" date="2017-02-20">
+      <description>
+        <p>
+          A quick follow-up release to fix some issues with 0.14.0.
+        </p>
+        <ul>
+          <li>Fix problems with string extraction for translation</li>
+          <li>Mark some forgotten strings as translatable</li>
+          <li>Make notes in recipes translatable</li>
+          <li>Add a missing file, cuisine.css.in</li>
+          <li>Some stylistic improvements to contributed recipes</li>
+          <li>Several minor bug fixes</li>
+          <li>More contributed recipes</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.14.0" date="2017-02-19">
+      <description>
+        <p>
+          This release changes the name of the binary and filesystem locations from
+          'recipes' to 'gnome-recipes'.
+        </p>
+        <p>
+          We are now using the email portal to send email, falling back to using
+          a mailto: url if the portal is not available.
+        </p>
+        <ul>
+          <li>The fullscreen cooking mode has been refined</li>
+          <li>Timers play a sound when they expire</li>
+          <li>Edit and recontribute your contributed recipes</li>
+          <li>Several bugs and crashes have been fixed</li>
+          <li>More contributed recipes</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.12.0" date="2017-02-12">
+      <description>
+        <p>
+          Another release focused on completing the feature set for the 3.24 release.
+        </p>
+        <ul>
+          <li>Recipes can be shared by email</li>
+          <li>GNOME recipes has a mailing list, recipes-list@gnome.org</li>
+          <li>The shopping list view has been refined</li>
+          <li>Shopping lists can be shared by email as well</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.10.0" date="2017-02-07">
+      <description>
+        <p>
+          This release focuses on completing the feature set for the 3.24 release.
+        </p>
+        <ul>
+          <li>A new fullscreen cooking mode has been added</li>
+          <li>Images can be viewed in fullscreen</li>
+          <li>The user interface for adding notes has been refined</li>
+          <li>Recipes can be searched for by their spiciness</li>
+          <li>More contributed recipes</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2017-01-18" version="0.8.0">
+      <description>
+        <p>
+          This release focuses on completing and polishing existing features.
+        </p>
+        <ul>
+          <li>Multiple recipes can be exported an imported in one batch</li>
+          <li>Deletion of recipes can be undone</li>
+          <li>We inhibit screen blanking and suspend while a recipe is cooked</li>
+          <li>There is a printable shopping list</li>
+          <li>The ingredients page has been dropped for now</li>
+          <li>Problems with exporting in a flatpak sandbox have been resolved</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2017-01-07" version="0.6.0">
+      <description>
+        <p>
+          This release focuses on localization. All included content should be properly
+          translatable now, including recipe and chef descriptions and ingredients.
+        </p>
+        <p>
+          Other improvements include:
+        </p>
+        <ul>
+          <li>Recipe instructions can link to other recipes</li>
+          <li>Recipe instructions can include links that switch to a particular image</li>
+          <li>All recipe lists are now populated incrementally</li>
+          <li>Recipe tiles look nicer now</li>
+          <li>We show a 'built with GNOME Builder' logo in the About dialog</li>
+          <li>The About dialog gained a 'System' tab</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2016-12-29" version="0.4.2">
+      <description>
+        <p>
+          This is a minor update that makes it possible to build without some of the
+          dependencies, which helps for building on other platforms, such as OS X.
+        </p>
+        <p>
+          The performance of loading recipe lists has been improved.
+        </p>
+      </description>
+    </release>
+    <release version="0.4.0" date="2016-12-26">
+      <description>
+        <p>
+          This release focuses on improving recipe editing, and also includes a new feature,
+          multiple ingredients lists per recipe. In detail:
+        </p>
+        <ul>
+          <li>Support multiple ingredients lists per recipe</li>
+          <li>Use 2 column layout for the edit page</li>
+          <li>Use the new image viewer for editing as well</li>
+          <li>Editing ingredients lists is much better</li>
+          <li>Only allow editing your own recipes</li>
+          <li>Move notes to the details page</li>
+          <li>Allow markup (links) in chef descriptions</li>
+          <li>Add spell checking in many places</li>
+        </ul>
+        <p>This release also adds and updates translations for several languages.</p>
+      </description>
+    </release>
+    <release date="2016-12-15" version="0.3.0">
+      <description>
+        <p>
+          This is another early release, to address problems people found with
+          the 0.2.0 flatpak, and with the export function. A number of general
+          improvements found their way into this release as well:
+        </p>
+        <ul>
+          <li>Handle conflicts during recipe import</li>
+          <li>Use Account portal (if available) to prepopulate user data</li>
+          <li>Add a GNOME shell search provider</li>
+          <li>Add several contributed recipes. Thanks, Ray and Bastian!</li>
+          <li>Fix problems with the dark theme</li>
+          <li>Add information about chefs to the page listing their recipes</li>
+          <li>Add information about dietary restricitons to the page listing their recipes</li>
+          <li>Improve the ingredient parser to recognize more units</li>
+          <li>Redesign the recipe details page</li>
+          <li>Fix several crashes</li>
+        </ul>
+        <p>This release also adds and updates translations for several languages.</p>
+      </description>
+    </release>
+    <release version="0.2.0" date="2016-12-02">
+      <description>
+        <p>Initial release.</p>
+      </description>
+    </release>
+  </releases>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>Notifications</kudo>
+    <kudo>SearchProvider</kudo>
+    <kudo>UserDocs</kudo>
+  </kudos>
+  <content_rating type="oars-1.1" />
+  <launchable type="desktop-id">org.gnome.Recipes.desktop</launchable>
+  <url type="homepage">https://wiki.gnome.org/Apps/Recipes</url>
+  <url type="donation">https://www.gnome.org/friends</url>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/recipes/issues/</url>
+  <url type="translate">https://wiki.gnome.org/TranslationProject</url>
+  <translation type="gettext">gnome-recipes</translation>
+  <update_contact>matthias.clasen_at_gmail.com</update_contact>
+  <developer_name>Matthias Clasen and others</developer_name>
+</component>

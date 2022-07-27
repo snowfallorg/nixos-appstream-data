@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>gnome.gnome-color-manager</pkgname>
+  <launchable type="desktop-id">org.gnome.ColorProfileViewer.desktop</launchable>
+  <icon type="cached" height="64" width="64">gnome-color-manager.png</icon>
+  <icon width="128" height="128" type="cached">gnome-color-manager.png</icon>
+  <id>org.gnome.ColorProfileViewer.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>GNOME Color Manager</name>
+  <name lang="zh_TW">GNOME 顏色管理員</name>
+  <name lang="zh_HK">GNOME 顏色管理員</name>
+  <name lang="zh_CN">GNOME 色彩管理器</name>
+  <name lang="vi">Quản lý màu GNOME</name>
+  <name lang="uk">Керування кольором у GNOME</name>
+  <name lang="ug">گىنوم رەڭ باشقۇرغۇ</name>
+  <name lang="tr">GNOME Renk Yöneticisi</name>
+  <name lang="tg">Мудири ранги GNOME</name>
+  <name lang="te">గ్నోమ్ రంగు నిర్వాహకి</name>
+  <name lang="ta">க்னோம் நிற மேலாளர்</name>
+  <name lang="sv">GNOME-färghantering</name>
+  <name lang="sr@latin">Gnomov upravnik bojama</name>
+  <name lang="sr">Гномов управник бојама</name>
+  <name lang="sl">Upravljalnik barv GNOME</name>
+  <name lang="sk">Správca farieb prostredia GNOME</name>
+  <name lang="ru">Управление цветом в GNOME</name>
+  <name lang="ro">Administrator culori GNOME</name>
+  <name lang="pt_BR">GNOME Color Manager</name>
+  <name lang="pt">Gestor de cor do GNOME</name>
+  <name lang="pl">Menedżer kolorów dla środowiska GNOME</name>
+  <name lang="pa">ਗਨੋਮ ਰੰਗ ਮੈਨੇਜਰ</name>
+  <name lang="or">GNOME ରଙ୍ଗ ପରିଚାଳକ</name>
+  <name lang="oc">Gestionari colorimetric GNOME</name>
+  <name lang="nl">Gnome Kleurbeheer</name>
+  <name lang="ne">जिनोमको रङ्ग प्रबन्धक</name>
+  <name lang="nb">GNOME fargestyrer</name>
+  <name lang="mr">GNOME रंग व्यवस्थापक</name>
+  <name lang="ml">ഗ്നോം കളര്‍ മാനേജര്‍</name>
+  <name lang="lv">GNOME krāsu pārvaldnieks</name>
+  <name lang="lt">GNOME spalvų tvarkytuvė</name>
+  <name lang="ko">그놈 색 관리자</name>
+  <name lang="kn">GNOME ಬಣ್ಣ ವ್ಯವಸ್ಥಾಪಕ</name>
+  <name lang="kk">GNOME түстерін басқарушысы</name>
+  <name lang="ja">GNOME Color Manager</name>
+  <name lang="it">GNOME Color Manager</name>
+  <name lang="is">GNOME Litastýring (color manager)</name>
+  <name lang="id">Manajer Warna GNOME</name>
+  <name lang="hu">GNOME színkezelő</name>
+  <name lang="hr">GNOME upravitelj boja</name>
+  <name lang="hi">गनोम रंग प्रबंधक</name>
+  <name lang="he">מנהל הצבע של GNOME</name>
+  <name lang="gu">GNOME રંગ સંચાલક</name>
+  <name lang="gl">Xestor de cor de GNOME</name>
+  <name lang="gd">Manaidsear dathan GNOME</name>
+  <name lang="fur">GNOME Color Manager</name>
+  <name lang="fr">Gestionnaire colorimétrique de GNOME</name>
+  <name lang="fi">Gnomen värinhallinta</name>
+  <name lang="fa">مدیریت رنگ گنوم</name>
+  <name lang="eu">GNOME kolore-kudeatzailea</name>
+  <name lang="et">GNOME värvihaldus</name>
+  <name lang="es">Gestor de color de GNOME</name>
+  <name lang="eo">Kolor-administrilo de GNOME</name>
+  <name lang="en_GB">GNOME Colour Manager</name>
+  <name lang="el">Διαχειριστής χρωμάτων</name>
+  <name lang="de">GNOME-Farbverwaltung</name>
+  <name lang="da">GNOME Color Manager</name>
+  <name lang="cs">Správa barev GNOME</name>
+  <name lang="ca@valencia">Gestor del color del GNOME</name>
+  <name lang="ca">Gestor del color del GNOME</name>
+  <name lang="bs">GNOME Menadžer boja</name>
+  <name lang="bn_IN">GNOME রঙ ব্যবস্থাপক</name>
+  <name lang="bg">Управление на цветовете на GNOME</name>
+  <name lang="as">GNOME ৰঙ ব্যৱস্থাপক</name>
+  <summary>Inspect and compare installed color profiles</summary>
+  <summary lang="zh_TW">檢查並比較已安裝的色彩描述檔</summary>
+  <summary lang="zh_HK">檢查並比較已安裝的色彩描述檔</summary>
+  <summary lang="zh_CN">检查并比较已安装的色彩配置文件</summary>
+  <summary lang="vi">Xem xét và so sánh hồ sơ màu đã cài đặt</summary>
+  <summary lang="uk">Перевірити та порівняти встановлені профілі кольорів</summary>
+  <summary lang="ug">ئورنىتىلغان رەڭ Profile لىرىنى تەكشۈرۈش ۋە سېلىشتۇرۇش پروگراممىسى</summary>
+  <summary lang="tr">Yüklü renk profillerini inceleyin ve karşılaştırın</summary>
+  <summary lang="tg">Тафтиш ва муқоисаи профилҳои ранги насбшуда</summary>
+  <summary lang="te">సంస్థాపిత రంగు ప్రొఫైల్స్ తనిఖీచేయి మరియు సరిపోల్చు</summary>
+  <summary lang="ta">நிறுவப்பட்ட நிற வரையுருக்களை பார்த்து ஒப்பிடுக</summary>
+  <summary lang="sv">Inspektera och jämför installerade färgprofiler</summary>
+  <summary lang="sr@latin">Proverite i uporedite instalirane profile boja</summary>
+  <summary lang="sr">Проверите и упоредите инсталиране профиле боја</summary>
+  <summary lang="sl">Nadzor in primerjava nameščenih barvnih profilov</summary>
+  <summary lang="sk">Preskúmava a porovnáva nainštalované farebné profily</summary>
+  <summary lang="ru">Исследование и сравнение установленных цветовых профилей</summary>
+  <summary lang="ro">Verifică și compară profilurile de culoare instalate</summary>
+  <summary lang="pt_BR">Inspecionar e comparar perfis de cores instalados</summary>
+  <summary lang="pt">Inspecionar e comparar os perfis de cor instalados</summary>
+  <summary lang="pl">Badanie i porównywanie zainstalowanych profilów kolorów</summary>
+  <summary lang="pa">ਇੰਸਟਾਲ ਹੋਏ ਰੰਗ ਪਰੋਫਾਇਲ ਦੀ ਜਾਂਚ ਤੇ ਤੁਲਨਾ ਕਰੋ</summary>
+  <summary lang="or">ସ୍ଥାପିତ ରଙ୍ଗ ରୂପରେଖାଗୁଡ଼ିକୁ ନିରୀକ୍ଷଣ କରି ତୁଳନା କରନ୍ତୁ</summary>
+  <summary lang="oc">Examina e compara los perfils de colors installats</summary>
+  <summary lang="nl">Geïnstalleerde kleurprofielen inzien en vergelijken</summary>
+  <summary lang="nb">Inspiser og sammenligne installerte fargeprofiler</summary>
+  <summary lang="mr">प्रतिष्ठापीत रंग प्रोफाइल्सची चौकशी व तुलना करा</summary>
+  <summary lang="ml">ഇന്‍സ്റ്റോള്‍ ചെയ്ത കളര്‍ പ്രൊഫൈലുകള്‍ നിരീക്ഷിച്ചു് താരതമ്യപ്പെടുത്തുക</summary>
+  <summary lang="lv">Izpētīt un salīdzināt instalētos krāsu profilus</summary>
+  <summary lang="lt">Tikrinti ir lyginti įdiegtus spalvų profilius</summary>
+  <summary lang="ko">설치한 시스템 색 프로파일 점검 및 비교</summary>
+  <summary lang="kn">ಅನುಸ್ಥಾಪಿಸಲಾದ ಬಣ್ಣದ ಪ್ರೊಫೈಲ್‌ಗಳನ್ನು ಪರಿಶೀಲಿಸುವ ಮತ್ತು ಹೋಲಿಸು</summary>
+  <summary lang="ja">インストールされたカラープロファイルの検査・比較</summary>
+  <summary lang="it">Esamina e compara i profili colore installati</summary>
+  <summary lang="is">Skoða og bera saman uppsett litasnið</summary>
+  <summary lang="id">Periksa dan bandingkan profil warna yang terpasang</summary>
+  <summary lang="hu">Telepített színprofilok vizsgálata és összehasonlítása</summary>
+  <summary lang="hr">Provjerite i ispitajte instalirane profile boja</summary>
+  <summary lang="hi">संस्थापित रंग प्रोफाइल की तुलना और निरीक्षण करें</summary>
+  <summary lang="he">ניתוח והשוואה של פרופילי הצבע המתוקנים</summary>
+  <summary lang="gu">સ્થાપિત થયેલ રંગ રૂપરેખાનું નિરીક્ષણ અને સરખામણી કરો</summary>
+  <summary lang="gl">Inspeccionar e comparar perfiles de cor instalados</summary>
+  <summary lang="gd">Sgrùd is dèan coimeas eadar na pròifilean dhathan a chaidh a stàladh</summary>
+  <summary lang="fur">Esamine e confronte i profîi di colôr instalâts</summary>
+  <summary lang="fr">Examine et compare les profils de couleurs installés</summary>
+  <summary lang="fi">Tutki ja vertaa asennettuja väriprofiileja</summary>
+  <summary lang="fa">نصب و مقایسه مجموعه‌تنظیمات رنگ‌های نصب شده</summary>
+  <summary lang="eu">Gainbegiratu eta konparatu instalatutako kolore-profilak</summary>
+  <summary lang="et">Paigaldatud värviprofiilide vaatamine ja võrdlemine</summary>
+  <summary lang="es">Inspeccionar y comparar perfiles de color instalados</summary>
+  <summary lang="eo">Inspekti kaj kompari instalitajn kolorprofilojn</summary>
+  <summary lang="en_GB">Inspect and compare installed colour profiles</summary>
+  <summary lang="el">Επιθεώρηση και σύγκριση εγκατεστημένων προφίλ χρώματος</summary>
+  <summary lang="de">Installierte Farbprofile überprüfen und vergleichen</summary>
+  <summary lang="da">Inspicér og sammenlign installerede farveprofiler</summary>
+  <summary lang="cs">Prozkoumat a porovnat nainstalované profily barev</summary>
+  <summary lang="ca@valencia">Inspeccioneu i compareu els perfils de color instal·lats</summary>
+  <summary lang="ca">Inspeccioneu i compareu els perfils de color instal·lats</summary>
+  <summary lang="bs">Analiza i poređenje instaliranih profila boja</summary>
+  <summary lang="bn_IN">ইনস্টল করা রঙ প্রোফাইলের তুলনা এবং পরিদর্শন করুন</summary>
+  <summary lang="bg">Изследване и сравняване на инсталирани цветови профили</summary>
+  <summary lang="as">ইনস্টল থকা ৰঙৰ আলেখ্যসমূহ নীৰিক্ষণ আৰু তুলনা কৰক</summary>
+  <description>
+    <p>
+      GNOME Color Profile Viewer shows installed color profiles on your system
+      and allows you to calibrate displays, printers and cameras using a
+      wizard.
+    </p>
+    <p>
+      This functionality is typically used by GNOME Control Center from the color
+      panel although can be used on its own.
+    </p>
+  </description>
+  <description lang="as">
+    <p>GNOME ৰঙৰ আলেখ্য দৰ্শকে আপোনাৰ চিস্টেমত ইনস্টল্ড ৰঙৰ আলেখ্যসমূহ দেখুৱায় আৰু আপোনাক এটা উইজাৰ্ড ব্যৱহাৰ কৰি প্ৰদৰ্শনসমূহ, প্ৰিন্টাৰসমূহ আৰু কেমেৰাসমূহ মানাংকন কৰাৰ অনুমতি দিয়ে।</p>
+    <p>এই কাৰ্য্যকৰিতা সাধাৰণত GNOME Control Center ৰ দ্বাৰা ৰঙৰ পেনেলৰ পৰা ব্যৱহাৰ কৰা হয় যদিও ইয়াক নিজস্বভাৱে ব্যৱহাৰ কৰিব পাৰি।</p>
+  </description>
+  <description lang="bg">
+    <p>Управлението на цветовете на GNOME показва наличните цветови профили на системата и ви позволява да калибрирате екрани, принтери и камери с помощник.</p>
+    <p>Тази функционалност е достъпна както през контролния център на GNOME, така и като отделна програма.</p>
+  </description>
+  <description lang="bn_IN">
+    <p>GNOME কালার প্রোফাইল ভিউয়ার অাপনার সিস্টেমে ইনস্টল করা রঙীন প্রোফাইলগুলি দেখায় এবং একটি উইজার্ড ব্যবহার করে অাপনাকে প্রদর্শন, প্রিন্টার এবং ক্যামেরা ক্যালিব্রেট করতে দেয়।</p>
+    <p>এই ক্রিয়াকলাপ মূলত GNOME নিয়ন্ত্রণ কেন্দ্র দ্বারা রঙ প্যানেল থেকে ব্যবহার করা হয়, যদিও নিজে থেকেও ব্যবহার করা যাবে।</p>
+  </description>
+  <description lang="bs">
+    <p>GNOME Preglednik profila boja pokazuje instalirane profile boja na vašem sistemu i dopušta da podesite ekran,printere i kamere koristeći čarobnjaka.</p>
+    <p>Ova funkcionalnost je tipično korištena od strane GONME Control Center iz izbornika boja,mada je i vi možete koristiti.</p>
+  </description>
+  <description lang="ca">
+    <p>El Visualitzador del perfil de color del GNOME mostra els perfils de color instal·lats al sistema i us permet calibrar pantalles, impressores i càmeres amb un auxiliar de configuració.</p>
+    <p>Aquesta funcionalitat s'utilitza normalment des del tauler de color al Centre de Control del GNOME tot i que es pot utilitzar de forma independent.</p>
+  </description>
+  <description lang="ca@valencia">
+    <p>El Visualitzador del perfil de color del GNOME mostra els perfils de color instal·lats al sistema i vos permet calibrar pantalles, impressores i càmeres amb un auxiliar de configuració.</p>
+    <p>Esta funcionalitat s'utilitza normalment des del tauler de color al Centre de Control del GNOME tot i que es pot utilitzar de forma independent.</p>
+  </description>
+  <description lang="cs">
+    <p>Prohlížeč profilů barev pro uživatelské prostředí GNOME zobrazuje profily instalované ve vašem systému a umožňuje kalibrovat displeje, tiskárny a fotoaparáty pomocí průvodce. </p>
+    <p>Tyto funkce jsou obvykle používány prostřednictvím ovládacího centra GNOME v oddílu barev, ačkoliv mohou být využity i nezávisle.</p>
+  </description>
+  <description lang="da">
+    <p>GNOME Farveprofilfremviser viser farveprofiler, som er installeret på dit system og giver dig mulighed for at kalibrere skærme, printere og kameraer ved hjælp af en guide.</p>
+    <p>Denne funktionalitet benyttes typisk fra farvepanelet i GNOME Kontrolcenter, men kan også benyttes for sig selv.</p>
+  </description>
+  <description lang="de">
+    <p>Der GNOME-Farbprofilbetrachter zeigt installierte Farbprofile auf Ihrem System an und erlaubt es Ihnen Anzeigegeräte, Drucker und Kameras mit einem Assistenten zu kalibrieren.</p>
+    <p>Diese Funktionalität wird typischerweise vom GNOME-Kontrollzentrum in der Farbeinstellungspalette verwendet, kann jedoch auch eigenständig verwendet werden.</p>
+  </description>
+  <description lang="el">
+    <p>Η εφαρμογή Προβολή προφίλ χρωμάτων του GNOME εμφανίζει τα εγκατεστημένα προφίλ χρωμάτων στο σύστημά σας και σας επιτρέπει να βαθμονομίσετε οθόνες, εκτυπωτές και φωτογραφικές μηχανές με την χρήση οδηγού.</p>
+    <p>Αυτή η λειτουργία χρησιμοποιείται τυπικά από το κέντρο ελέγχου του GNOME από τον πίνακα ελέγχου αν και μπορεί να χρησιμοποιηθεί αυτούσιο.</p>
+  </description>
+  <description lang="en_GB">
+    <p>GNOME Colour Profile Viewer shows installed colour profiles on your system and allows you to calibrate displays, printers and cameras using a wizard.</p>
+    <p>This functionality is typically used by GNOME Control Centre from the colour panel although can be used on its own.</p>
+  </description>
+  <description lang="eo">
+    <p>Kolorprofilo-vidigilo de GNOME montras instalitajn kolorprofilojn kaj permesas al vi kalibri viajn ekranojn, presilojn kaj fotilojn helpe de asistanto.</p>
+    <p>Tiu ĉi funkcio estas kutime uzata de Stircentro de GNOME, je la kolorpanelo, kvankam eblas uzi ĝin memstare.</p>
+  </description>
+  <description lang="es">
+    <p>El visor de perfiles de color de GNOME muestra los perfiles de color instalados en su sistema y le permite calibrar pantallas, impresoras y cámaras usando un asistente.</p>
+    <p>Esta funcionalidad la usa generalmente el panel de control de GNOME, desde el panel de color, aunque se puede usar de manera individual.</p>
+  </description>
+  <description lang="et">
+    <p>GNOME värviprofiilide näitaja kuvab süsteemi paigaldatud värviprofiile ja võimaldab kuvareid, printereid ja kaameraid nõustaja abil kalibreerida.</p>
+    <p>Seda funktsionaalsust kasutatakse tavaliselt GNOME juhtpuldi kaudu, kuigi seda saab kasutada ka eraldi.</p>
+  </description>
+  <description lang="eu">
+    <p>GNOMEren Kolore-profilaren ikustaileak sisteman instalatutako kolore-profilak erakusten ditu eta pantailak, inprimagailuak eta kamerak morroi baten bidez kalibratzea uzten dizu.</p>
+    <p>Funtzionalitate hau GNOMEren Kontrol-zentroko kolorearen panelean erabili ohi den arren bakarka ere erabil daiteke,</p>
+  </description>
+  <description lang="fa">
+    <p>نمایشگر مجموعه‌تنظیمات رنگ گنوم، مجموعه‌تنظیمات رنگ نصب‌شده روی سامانه‌ی شما را نشان می‌دهد و به شما اجازه می‌دهد که نمایشگرها، چاپگرها و دوربین‌ها را با استفاده از یک جادوگر کالیبره کنید.</p>
+    <p>این قابلیت عموماً توسّط مرکز کنترل گنوم در قسمت تابلوی رنگ استفاده می‌شود، با این‌که می‌تواند به تنهایی نیز استفاده شود.</p>
+  </description>
+  <description lang="fi">
+    <p>Gnomen väriprofiilikatselin näyttää järjestelmään asennetut väriprofiilit ja mahdollistaa näyttöjen, tulostinten ja kameroiden kalibroinnin.</p>
+    <p>Tätä toiminnallisuutta käytetään yleensä Gnomen Järjestelmän asetukset -ikkunan väripaneelista, tosin se ei ole pakollista.</p>
+  </description>
+  <description lang="fr">
+    <p>Le Visionneur de profil de couleurs GNOME affiche les profils de couleur installés sur votre système et permet de calibrer des écrans, des imprimantes et des appareils photos à l’aide d’un assistant.</p>
+    <p>Cette fonctionnalité est notamment utilisée par le volet Couleurs du centre de contrôle de GNOME, mais elle peut également être utilisée de manière autonome.</p>
+  </description>
+  <description lang="fur">
+    <p>Gnome Visualizadôr di profîi colôrs al mostre i profîi di colôr instalâts tal sisteme e al permet la calibradure di visôrs, stampantis e videocjamaris cuntune procedure guidade.</p>
+    <p>Cheste funzionalitât a ven doprade cun il panel di control di GNOME, ma si pues doprâle ancje in maniere direte.</p>
+  </description>
+  <description lang="gd">
+    <p>Seallaidh Sealladair pròifilean dhathan GNOME na pròifilean datha a chaidh a stàladh air an t-siostam agad agus leigidh e leat uidheaman-taisbeanaidh, clò-bhualadairean agus camarathan a chailbhreachadh le taic draoidh.</p>
+    <p>Thèid an gleus seo a chleachdadh le panail nan dathan aig Ionad smachd GNOME mar as trice ged a ghabhas a chleachdadh leis fhèin.</p>
+  </description>
+  <description lang="gl">
+    <p>O visor de perfiles de cor de GNOME mostra os perfiles de cor instalados no seu sistema e permítelle calibrar pantallas, impresoras e cámaras usando un asistente.</p>
+    <p>Esta funcionalidade é normalmente usada polo Centro de control de GNOME desde o panel de cor aínda que pode usarse por si mesma.</p>
+  </description>
+  <description lang="gu">
+    <p>GNOME રંગ રૂપરેખા દર્શક તમારી સિસ્ટમ પર સ્થાપિત થયેલ રંગ રૂપરેખાને બતાવે છે અને વિઝાર્ડની મદદથી દર્શાવો, પ્રિન્ટરો અને કૅમેરાનું માપદંડ કરવા માટે તમને પરવાનગી આપે છે.</p>
+    <p>કાર્યક્ષમતા ખાસ કરીને રંગ પેનલમાંથી GNOME નિયંત્રણ કેન્દ્ર દ્દારા વાપરેલ છે છતાંપણ તેનાં પોતાના પર વાપરી શકાય છે.</p>
+  </description>
+  <description lang="he">
+    <p>‏GNOME מציג פרופילי צבע מציג פרופילי צבע מותקנים על המערכת שלך ומאפשר לך לכייל תצוגות, מדפסות ומצלמות באמצעות אשף.</p>
+    <p>שימושים אלו משומשים בדרך כלל על ידי GNOME מרכז הגדרות מלוח צבע, על אף שניתן להשתמש בעצמו.</p>
+  </description>
+  <description lang="hi">
+    <p>गनोम रंग प्रोफाइल प्रदर्शक आपके तंत्र पर रंग प्रोफाइल संस्थापित करती है और आपको प्रदर्शन कैलिब्रेट, प्रिंटर और कैमरा विजार्ड के उपयोग से करने देती है.</p>
+    <p>यह कार्य खास रूप से गनोम कंट्रोल सेंटर के द्वारा प्रयोग किया जाता है रंग पटल से हालाँकि इसे खुद प्रयोग किया जा सकता है.</p>
+  </description>
+  <description lang="hr">
+    <p>GNOME preglednik boja prikazuje instalirane profile boja na vašem sustavu i omogućuje vam kalibriranje zaslona, pisača i kamera pomoću čarobnjaka.</p>
+    <p>Ova funkcionalnost uobičajeno koristi GNOME upravljačko središte iz panela boja iako se može koristiti i zasebno.</p>
+  </description>
+  <description lang="hu">
+    <p>A GNOME Színprofil-megjelenítő megjeleníti a rendszerre telepített színprofilokat, és lehetővé teszi kijelzők, nyomtatók és fényképezőgépek kalibrálását varázsló használatával.</p>
+    <p>Ezt a funkcionalitást általában a GNOME vezérlőpult színpanelje szokta használni, de önállóan is elérhető.</p>
+  </description>
+  <description lang="id">
+    <p>GNOME Penilik Profil Warna menampilkan profil warna terpasang pada sistem Anda dan memungkinkan Anda mengkalibrasi tampilan, pencetak, dan kamera memakai suatu wisaya.</p>
+    <p>Fungsionalitas ini biasanya dipakai oleh GNOME Pusat Kendali dari panel warna walaupun dapat dipakai mandiri.</p>
+  </description>
+  <description lang="is">
+    <p>Litasniðaskoðarinn GNOME Color Profile Viewer sýnir uppsett litasnið á kerfinu og gerir kleift að litkvarða skjái, prentara, myndavélar og fleira með stuðningi hjálparforrits.</p>
+    <p>Þessi aðgerð er venjulega aðgengileg með GNOME Stjórnborðinu með því að fara í litasmáforritið, en má þó nota sem sjálfstætt forrit.</p>
+  </description>
+  <description lang="it">
+    <p>Visualizzatore profili colore mostra i profili colore installati nel sistema e consente di calibrare schermi, stampanti e videocamere attraverso una procedura guidata.</p>
+    <p>Questa funzionalità viene utilizzata attraverso il pannello di controllo di GNOME, ma può anche essere usata direttamente.</p>
+  </description>
+  <description lang="ja">
+    <p>GNOME カラープロファイルビューアーはシステムにインストールしたカラープロファイルを表示し、ウイザードを使ってディスプレイやプリンター、カメラのキャリブレートを行うことができます。</p>
+    <p>この機能は一般的にはカラーパネルから GNOME Control Center を経由して使いますが単独でも使えます。</p>
+  </description>
+  <description lang="kn">
+    <p>GNOME ಬಣ್ಣದ ಪ್ರೊಫೈಲ್‌ ವೀಕ್ಷಕವು ನಿಮ್ಮ ಗಣಕದಲ್ಲಿ ಅನುಸ್ಥಾಪಿಸಲಾದ ಬಣ್ಣದ ಪ್ರೊಫೈಲ್‌ಗಳನ್ನು ತೋರಿಸುತ್ತದೆ ಮತ್ತು ಒಂದು ವಿಜಾರ್ಡ್ ಅನ್ನು ಬಳಸಿಕೊಂಡು ಪ್ರದರ್ಶಕಗಳನ್ನು, ಮುದ್ರಕಗಳನ್ನು ಮತ್ತು ಕ್ಯಾಮರಾಗಳನ್ನು ಕ್ಯಾಲಿಬ್ರೇಟ್‌ ಮಾಡಲು ಅವಕಾಶ ನೀಡುತ್ತದೆ.</p>
+    <p>ಈ ಕ್ರಿಯಾಶೀಲತೆಯನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಬಳಸಲು ಸಾಧ್ಯವಿದ್ದರೂ ಸಹ, ಸಾಮಾನ್ಯವಾಗಿ GNOME ನಿಯಂತ್ರಣ ಕೇಂದ್ರದಲ್ಲಿನ ಬಣ್ಣದ ಪಟ್ಟಿಯಿಂದ ಬಳಸಲಾಗುತ್ತದೆ.</p>
+  </description>
+  <description lang="ko">
+    <p>그놈 색 프로파일 보기에서는 시스템에 설치한 컬러 프로파일을 표시하고, 디스플레이/프린터/카메라의 색을 보정할 수 있습니다.</p>
+    <p>이 기능은 주로 그놈 제어 센터의 "색" 부분에서 사용하지만, 단독으로도 사용할 수 있습니다.</p>
+  </description>
+  <description lang="lt">
+    <p>GNOME spalvų profilių žiūryklė rodo jūsų sistemoje įdiegtus spalvų profilius bei leidžia kalibruoti vaizduoklius, spausdintuvus bei kameras naudojant vedlį.</p>
+    <p>Šį funkcionalumą paprastai naudoja GNOME valdymo centras iš spalvų skydelio, nors jį galima naudoti ir vieną.</p>
+  </description>
+  <description lang="lv">
+    <p>GNOME krāsu profila skatītājs rāda instalētos krāsu profilus uz šīs sistēmas un ļauj jums kalibrēt displejus, printerus un kameras, izmantojot vedni.</p>
+    <p>Šo funkcionalitāti parasti izmanto GNOME vadības centrs no krāsu paneļa, bet to var izmantot arī atsevišķi.</p>
+  </description>
+  <description lang="mr">
+    <p>GNOME कलर प्रोफाइल व्युअर प्रणालीवरील इंस्टॉल केलेले रंग प्रोफाइल दाखविते आणि सहाय्यकाचा वापर करून तुम्हाला डिस्पलेज, छपाईयंत्र आणि कॅमेराज कॅलिब्रेट करायला परवानगी देते.</p>
+    <p>ही कार्यक्षमता विशेषतया रंग पटलपासून GNOME कंट्रोल सेंटरतर्फे वापरली जाते, जरी त्याचा वापर स्वतःहून शक्य आहे.</p>
+  </description>
+  <description lang="nb">
+    <p>GNOME fargeprofilvisning viser installerte fargeprofiler på ditt system og lar deg kalibrere skjermer, skrivere og kameraer med en veiviser.</p>
+    <p>Denne funksjonaliteten brukes typisk av GNOME kontrollsenter fra fargepanelet selv om den også kan brukes på egenhånd.</p>
+  </description>
+  <description lang="nl">
+    <p>Gnome kleurprofielenviewer toont op het systeem geïnstalleerde kleurprofielen maakt het mogelijk schermen, printers en camera's te kalibreren.</p>
+    <p>Deze functionaliteit wordt normaal gesproken gebruikt vanuit het kleurenpaneel in de Gnome-instellingen, maar kan ook afzonderlijk gebruikt worden.</p>
+  </description>
+  <description lang="oc">
+    <p>Lo Visionador de perfil de colors GNOME aficha los perfils de color installats sus vòstre sistèma e permet de calibrar d'ecrans, d'imprimentas e d'aparelhs fòtos amb l'ajuda d'un assistent.</p>
+    <p>Aquesta foncionalitat es notadament utilizada pel panèl Colors del centre de contraròtle de GNOME, mas pòt tanben èsser utilizada d'un biais autonòm.</p>
+  </description>
+  <description lang="or">
+    <p>GNOME ରଙ୍ଗ ରୂପରେଖା ପ୍ରଦର୍ଶକ ଆପଣଙ୍କ ତନ୍ତ୍ରରେ ସ୍ଥାପିତ ରଙ୍ଗ ରୂପରେଖାକୁ ଦର୍ଶାଇଥାଏ ଏବଂ ଆପଣଙ୍କୁ ପ୍ରଦର୍ଶକ, ମୁଦ୍ରଣୀ ଏବଂ କ୍ୟାମେରାକୁ ୱିଜର୍ଡ ବ୍ୟବହାର କରି ମାପିବା ପାଇଁ ଅନୁମତି ଦେଇଥାଏ।</p>
+    <p>ଏହି କାର୍ଯ୍ୟ ସାଧାରଣତଃ GNOME ନିୟନ୍ତ୍ରଣ କେନ୍ଦ୍ର ଦ୍ୱାରା ରଙ୍ଗ ପଟ୍ଟିକରୁ ବ୍ୟବହାର କରାଯାଇଥାଏ ଯଦିଚ ଏହାକୁ ନିଜେ ମଧ୍ଯ ବ୍ୟବହାର କରିପାରିବ।</p>
+  </description>
+  <description lang="pa">
+    <p>ਗਨੋਮ ਕਲਰ ਪ੍ਰੋਫਾਇਲ ਦਰਸ਼ਕ ਤੁਹਾਡੇ ਸਿਸਟਮ ਉੱਤੇ ਇੰਸਟਾਲ ਹੋਏ ਰੰਗ ਪ੍ਰੋਫਾਇਲ ਵੇਖਾਉਂਦਾ ਹੈ ਅਤੇ ਤੁਹਾਨੂੰ ਡਿਸਪਲੇਅ, ਪਰਿੰਟਰ ਅਤੇ ਕੈਮਰੇ ਨਾਲ ਕੈਲੀਬਰੇਟ ਕਰਨ ਸਹਾਇਕ ਦੀ ਮੱਦਦ ਨਾਲ ਸਹਾਇਤਾ ਦਿੰਦਾ ਹੈ।</p>
+    <p>ਇਹ ਸਹੂਲਤ ਨੂੰ ਆਮ ਤੌਰ ਉੱਤੇ ਗਨੋਮ ਕੰਟਰੋਲ ਸੈਂਟਰ ਰਾਹੀਂ ਰੰਗ ਪੈਨਲ ਵਲੋਂ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ, ਹਾਲਾਂਕਿ ਇਸ ਨੂੰ ਖੁਦ ਵੀ ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ।</p>
+  </description>
+  <description lang="pl">
+    <p>Przeglądarka profilów kolorów dla środowiska GNOME wyświetla profile kolorów zainstalowane na komputerze i umożliwia kalibrowanie ekranów, drukarek i aparatów za pomocą kreatora.</p>
+    <p>Ta funkcjonalność jest zwykle używana przez Centrum sterowania środowiska GNOME w panelu kolorów, ale może być też używana samodzielnie.</p>
+  </description>
+  <description lang="pt">
+    <p>O visualizador de perfis de cor do GNOME mostra-lhe os perfis de cor instalados no seu sistema e permite-lhe calibrar ecrãs, impressoras e máquinas fotográficas utilizando um assistente.</p>
+    <p>Esta funcionalidade é tipicamente utilizada pelo Centro de controlo do GNOME para o painel de cor, apesar de poder ser utilizada isoladamente.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>O visualizador de perfis de cores do GNOME mostra os perfis de cores instalados no seu sistema e permite que você calibre telas, impressoras e câmeras através de um assistente.</p>
+    <p>Esta funcionalidade é geralmente usada pelo centro de controle do GNOME no painel de cores, apesar de poder ser usada por conta própria.</p>
+  </description>
+  <description lang="ro">
+    <p>Vizualizatorul profiluri de culoare GNOME afișează profilele de culoare instalate pe sistemul dumneavoastră și vă permite să calibrați ecrane, imprimante și camere video folosind un asistent.</p>
+    <p>Aceste funcționalități sunt folosite în mod normal de Centrul de control GNOME din panoul de culoare, deși pot fi folosite independent.</p>
+  </description>
+  <description lang="ru">
+    <p>Просмотрщик цветовых профилей для GNOME показывает установленные в системе цветовые профили и позволяет производить калибровку мониторов, принтеров и камер, используя мастер настройки.</p>
+    <p>Этот функционал обычно используется в цветовой панели «Центра управления GNOME», но его можно использовать и отдельно.</p>
+  </description>
+  <description lang="sk">
+    <p>Zobrazovač farebných profilov prostredia GNOME zobrazuje nainštalované farebné profily vo vašom systéme a umožňuje vám prostredníctvom sprievodcu kalibrovať displeje, tlačiarne a fotoaparáty.</p>
+    <p>Táto funkcia je obvykle použitá v paneli farieb v ovládacom stredisku prostredia GNOME, ale tiež môže byť použitá samostatne.</p>
+  </description>
+  <description lang="sl">
+    <p>Pregledovalnik barvnih profilov za GNOME pokaže nameščene barve profila v sistemu in dovoli umerjanje zaslonov, tiskalnikov in kamer.</p>
+    <p>Ta zmožnost je običajno v rabi znotraj nadzornega sistema GNOME preko pladnja barve, mogoče pa ga je uporabiti tudi samostojno.</p>
+  </description>
+  <description lang="sr">
+    <p>Гномов прегледач профила боја приказује инсталиране профиле боја на вашем систему и омогућава вам да калибришете екране, штампаче и фото-апарате користећи чаробњака.</p>
+    <p>Ову функционалност обично користи Гномов управљачки центар са панела боје иако може бити коришћена за свој рачун.</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Gnomov pregledač profila boja prikazuje instalirane profile boja na vašem sistemu i omogućava vam da kalibrišete ekrane, štampače i foto-aparate koristeći čarobnjaka.</p>
+    <p>Ovu funkcionalnost obično koristi Gnomov upravljački centar sa panela boje iako može biti korišćena za svoj račun.</p>
+  </description>
+  <description lang="sv">
+    <p>GNOME Färgprofilvisare visar installerade färgprofiler på ditt system och låter dig kalibrera skärmar, skrivare och kameror via en assistent.</p>
+    <p>Denna funktionalitet används normalt av GNOME-kontrollpanelen från färginställningarna, fast den kan även användas fristående.</p>
+  </description>
+  <description lang="ta">
+    <p>GNOME நிற சுயவிவரக் காட்சிக்கருவியானது, உங்கள் கணினியில் நிறுவப்பட்டுள்ள நிற சுயவிவரங்களைக் காண்பிக்கும், மேலும் நீங்கள் இதில் ஒரு வழிகாட்டியின் துணையோடு திரைகாட்டிகள், அச்சுப்பொறிகள் மற்றும் கேமராக்களை அளவை வகுக்கலாம்.</p>
+    <p>வழக்கமாக GNOME கட்டுப்பாட்டு மையம் தான் நிறத் தட்டிலிருந்து இந்த செயலம்சத்தைப் பயன்படுத்தும், எனினும் இதைத் தனியாகவும் பயன்படுத்தலாம்.</p>
+  </description>
+  <description lang="te">
+    <p>గ్నోమ్ కలర్ ప్రొఫైల్ వ్యూయర్ మీ వ్యవస్థపైని కలర్ ప్రొఫైల్ చూపును మరియు ప్రదర్శనలను, ముద్రికలు మరియు కేమెరాలు కాలిబరేట్ చేయుటకు అనుమతించును.</p>
+    <p>ఈ ఫంక్షనాలిటీ గ్నోమ్ కంట్రోల్ సెంటర్ చేత కలర్ ప్యానల్ నుండి ఉపయోగించబడును.</p>
+  </description>
+  <description lang="tg">
+    <p>Намоишгари профили ранги GNOME профилҳои рангҳои насбшударо дар системаи шумо намоиш медиҳад ва ба шумо имкон медиҳад, то ки тавонед дисплейҳо, принтерҳо ва камераҳоро тавассути устод танзим кунед.</p>
+    <p>Функсиянокии ин барнома одатан бо Маркази идоракунии GNOME аз лавҳаи рангҳо истифода мешавад, вале инчунин метавонад алоҳида истифода бурда шавад.</p>
+  </description>
+  <description lang="tr">
+    <p>GNOME Renk Profili Görüntüleyicisi sisteminizde yüklü renk profillerini gösterir ve bir sihirbaz yardımıyla ekranlar, yazıcılar ve kameraları kalibre etmenize olanak sağlar.</p>
+    <p>Bu işlevsellik, genellikle GNOME Denetim Merkezindeki renk panelinden kullanılır. Ancak kendi başına da kullanılabilir.</p>
+  </description>
+  <description lang="uk">
+    <p>Переглядач профілів кольорів показує встановлені профілі кольорів на вашій системі та дозволяє відкалібрувати екрани, принтери та камери.</p>
+    <p>Ці можливості типово є в центрі керування з панелі кольорів, хоча їх можна знайти тут.</p>
+  </description>
+  <description lang="vi">
+    <p>Bộ xem hồ sơ màu GNOME hiển thị các hồ sơ màu đã cài trên hệ thống của bạn và cho phép bạn cân chỉnh màn hình, máy in và máy ảnh dùng một ứng dụng hỏi đáp.</p>
+    <p>Chức năng này thường được dùng bởi “Trung tâm điều khiển GNOME” từ một bảng màu cho dù có thể được dùng bởi chính nó.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>GNOME 色彩配置查看器显示了系统中已经安装的色彩配置文件，并且可以通过向导来校准您的显示器、打印机及照相机。</p>
+    <p>这个功能一般是通过 GNOME 控制中心的色彩面板访问的，但也可以独立使用。</p>
+  </description>
+  <description lang="zh_HK">
+    <p>GNOME 色彩描述檔檢視器可顯示你系統上安裝的色彩描述檔，並讓你使用精靈校準顯示器、打印機、攝影機。</p>
+    <p>此功能通常經由 GNOME 控制中心的顏色面板使用，但也可自行使用。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>GNOME 色彩描述檔檢視器可顯示您系統上安裝的色彩描述檔，並讓您使用精靈校準顯示器、印表機、攝影機。</p>
+    <p>此功能通常經由 GNOME 控制中心的顏色面板使用，但也可自行使用。</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://git.gnome.org/browse/gnome-color-manager/plain/data/appdata/ss-info.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://git.gnome.org/browse/gnome-color-manager/plain/data/appdata/ss-cie1931.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://git.gnome.org/browse/gnome-color-manager/plain/data/appdata/ss-calibrate.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://git.gnome.org/browse/gnome-color-manager/plain/data/appdata/ss-picker.png</image>
+    </screenshot>
+  </screenshots>
+  <!--
+   Validate with `appstream-util validate *.appdata.xml`
+  -->
+  <releases>
+    <release version="3.32.0" date="2019-03-08">
+      <description>
+        <p>
+          This is the first stable release for GNOME 3.32 which updates several
+          translations and fixes some build issues.
+        </p>
+      </description>
+    </release>
+    <release date="2018-09-04" version="3.30.0">
+      <description>
+        <p>
+          This is the first stable release for GNOME 3.30 and updates several
+          translations and fixes the build system to be more standard conformant.
+        </p>
+      </description>
+    </release>
+    <release date="2018-03-12" version="3.28.0">
+      <description>
+        <p>
+          This is the first stable release for GNOME 3.28 and updates several
+          translations and fixes the build system to be more standard conformant.
+        </p>
+      </description>
+    </release>
+    <release version="3.26.0" date="2017-09-11">
+      <description>
+        <p>
+          This is the first stable release for GNOME 3.26 and updates several
+          translations.
+        </p>
+      </description>
+    </release>
+    <release date="2017-08-07" version="3.25.90">
+      <description>
+        <p>
+          This unstable release switches to the meson build-system and updates
+          several translations.
+        </p>
+      </description>
+    </release>
+    <release date="2017-03-20" version="3.24.0">
+      <description>
+        <p>This is the first stable release for GNOME 3.24.</p>
+      </description>
+    </release>
+    <release date="2017-03-11" version="3.23.92">
+      <description>
+        <p>This unstable release updates several translations.</p>
+      </description>
+    </release>
+    <release date="2016-11-07" version="3.22.2">
+      <description>
+        <p>
+          This release updates translations.
+        </p>
+      </description>
+    </release>
+    <release version="3.22.1" date="2016-10-12">
+      <description>
+        <p>
+          This release updates translations.
+        </p>
+      </description>
+    </release>
+    <release version="3.22.0" date="2016-09-19">
+      <description>
+        <p>
+          This is the first stable release for GNOME 3.22 and updates several
+          translations.
+        </p>
+      </description>
+    </release>
+    <release date="2016-09-13" version="3.21.92">
+      <description>
+        <p>This release fixes several man pages and updates translations.</p>
+      </description>
+    </release>
+    <release version="3.21.91" date="2016-08-29">
+      <description>
+        <p>This release only updates translations.</p>
+      </description>
+    </release>
+    <release version="3.21.90" date="2016-08-15">
+      <description>
+        <p>This release fixes the following bugs:</p>
+        <ul>
+          <li>Update the UI files to adhere to the GNOME 3 UI guidelines</li>
+          <li>Use the new-style app-ids for flatpak support</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.20.0" date="2016-03-21">
+      <description>
+        <p>This is the first stable release for GNOME 3.20</p>
+      </description>
+    </release>
+    <release date="2016-02-15" version="3.19.90">
+      <description>
+        <p>
+          This unstable release fixes some software center metadata, one profile
+          viewer crash and updates seven translations.
+        </p>
+      </description>
+    </release>
+    <release version="3.18.0" timestamp="1442827658">
+      <description>
+        <p>This is the first stable release for GNOME 3.18</p>
+      </description>
+    </release>
+    <release version="3.17.90" timestamp="1439990514">
+      <description>
+        <p>This release only updates translations.</p>
+      </description>
+    </release>
+    <release version="3.16.0" timestamp="1427103917">
+      <description>
+        <p>This stable release marks the release of GNOME 3.16!</p>
+      </description>
+    </release>
+    <release timestamp="1426498834" version="3.15.92">
+      <description>
+        <p>
+          This release changes the profile viewer to only show in the menu under
+          non-GNOME environments and also updates translations.
+        </p>
+      </description>
+    </release>
+    <release timestamp="1425299116" version="3.15.91">
+      <description>
+        <p>This release only updates translations.</p>
+      </description>
+    </release>
+    <release timestamp="1424076140" version="3.15.90">
+      <description>
+        <p>
+        This release switches the profile viewer application to use a headerbar
+        to match other GNOME3 applications.
+      </p>
+      </description>
+    </release>
+    <release timestamp="1421625600" version="3.15.4">
+      <description>
+        <p>This release fixes the following bug:</p>
+        <ul>
+          <li>Make the color profile viewer visible in the software center</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>UserDocs</kudo>
+  </kudos>
+  <provides>
+    <id>gcm-viewer.desktop</id>
+  </provides>
+  <url type="homepage">https://projects.gnome.org/gnome-color-manager/</url>
+  <url type="bugtracker">https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-color-manager</url>
+  <url type="donation">http://www.gnome.org/friends/</url>
+  <url type="help">https://help.gnome.org/users/gnome-color-manager/stable/</url>
+  <update_contact>richard_at_hughsie.com</update_contact>
+  <project_group>GNOME</project_group>
+  <translation type="gettext">gnome-color-manager</translation>
+</component>

@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>KGeography is a geography learning tool, which allows you to learn about the political divisions of some countries (divisions, capitals of those divisions and their associated flags if there are some).</p>
+    <p>Features:</p>
+    <ul>
+      <li>Browse the maps clicking in a map division to see its name, capital and flag</li>
+      <li>The game tells you a map division name and you have to click on it</li>
+      <li>The game tells you a capital and you have to guess the division it belongs to</li>
+      <li>The game tells you a division and you have to guess its capital</li>
+      <li>The game shows you a map division flag and you have to guess its name</li>
+      <li>The game tells you a map division name and you have to guess its flag</li>
+      <li>The game shows an empty map and you have to place divisions on it one by one</li>
+    </ul>
+  </description>
+  <description lang="ar">
+    <p>الجغرافي هي أداة تعلم الجغرافيا ، والتي تتيح لك التعرف على التقسيمات السياسية لبعض البلدان (الأقسام وعواصم تلك الأقسام والأعلام المرتبطة بها إذا كان هناك بعضها).</p>
+    <p>الميزات:</p>
+    <ul>
+      <li>تصفح الخرائط بالنقر على المنطقة لمعرفة الاسم والعاصمة والعلم</li>
+      <li>تخبرك اللعبة باسم قسم الخريطة وعليك النقر فوقه</li>
+      <li>تخبرك اللعبة بالعاصمة وعليك تخمين المنطقة التي تنتمي إليه</li>
+      <li>تخبرك اللعبة بالمنطقة وعليك تخمين عاصمتها</li>
+      <li>تظهر لك اللعبة علم المنطقة وعليك تخمين اسمه</li>
+      <li>تخبرك اللعبة باسم المنطقة وعليك تخمين علمها</li>
+      <li>تظهر اللعبة خريطة فارغة وعليك وضع التقسيمات عليها واحدة تلو الأخرى</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>El KGeography és una eina per a aprendre geografia, la qual permet aprendre les divisions polítiques d'alguns països (divisions, capitals d'aquestes divisions i les seves banderes associades si n'hi ha alguna).</p>
+    <p>Característiques:</p>
+    <ul>
+      <li>Busqueu en els mapes fent clic a sobre d'una divisió en el mapa per a veure el seu nom, capital i bandera</li>
+      <li>El joc mostra el nom d'una divisió en el mapa i heu de fer clic sobre el lloc on està</li>
+      <li>El joc mostra una capital i heu d'esbrinar la divisió a la qual pertany</li>
+      <li>El joc mostra una divisió i heu d'esbrinar la seva capital</li>
+      <li>El joc mostra la bandera d'una divisió en el mapa i heu d'esbrinar el seu nom</li>
+      <li>El joc mostra el nom d'una divisió en el mapa i heu d'esbrinar la seva bandera</li>
+      <li>El joc mostra un mapa buit i heu de situar les divisions una a una</li>
+    </ul>
+  </description>
+  <description lang="ca-valencia">
+    <p>KGeography és una eina per a aprendre geografia, la qual permet aprendre les divisions polítiques d'alguns països (divisions, capitals d'estes divisions i les seues banderes associades si n'hi ha alguna).</p>
+    <p>Característiques:</p>
+    <ul>
+      <li>Busqueu en els mapes fent clic damunt d'una divisió en el mapa per a veure el seu nom, capital i bandera</li>
+      <li>El joc mostra el nom d'una divisió en el mapa i heu de fer clic sobre el lloc on està</li>
+      <li>El joc mostra una capital i heu d'esbrinar la divisió a la qual pertany</li>
+      <li>El joc mostra una divisió i heu d'esbrinar la seua capital</li>
+      <li>El joc mostra la bandera d'una divisió en el mapa i heu d'esbrinar el seu nom</li>
+      <li>El joc mostra el nom d'una divisió en el mapa i heu d'esbrinar la seua bandera</li>
+      <li>El joc mostra un mapa buit i heu de situar les divisions una a una</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>Vlastnosti:</p>
+  </description>
+  <description lang="de">
+    <p>KGeography ist ein Erdkunde-Lernprogramm. Damit können Sie die politischen Daten einiger Länder lernen (Länder, ihre Hauptstädte und ihre Flaggen).</p>
+    <p>Funktionen:</p>
+    <ul>
+      <li>Landkarte erkunden, indem Sie in der Karte auf ein Land klicken und dessen Name, Hauptstadt und Flagge angezeigt wird</li>
+      <li>Der Name eines Landes wird gefragt und Sie müssen es auf der Karte anklicken.</li>
+      <li>Ein Land anhand des Namens der Hauptstadt raten</li>
+      <li>Die Hauptstadt eines Landes raten</li>
+      <li>Ein Land anhand der Flagge erraten</li>
+      <li>Die Flagge eines Landes erraten</li>
+      <li>Länder auf einer leeren Landkarte platzieren</li>
+    </ul>
+  </description>
+  <description lang="el">
+    <p>Το KGeography είναι ένα εργαλείο εκμάθησης γεωγραφίας, το οποίο σας επιτρέπει να μάθετε την πολιτική διαίρεση κάποιων χωρών (περιφέρειες, πρωτεύουσες περιφερειών και τις σημαίες τους αν υπάρχουν).</p>
+    <p>Λειτουργίες:</p>
+    <ul>
+      <li>Περιηγηθείτε στους χάρτες με κλικ σε μια διαίρεση στο χάρτη για να δείτε το όνομά της, την πρωτεύουσα και τη σημαία</li>
+      <li>Το παιχνίδι σάς λέει τη διαίρεση στο χάρτη και εσείς πρέπει να κάνετε κλικ επάνω της</li>
+      <li>Το παιχνίδι σάς λέει μια πρωτεύουσα και εσείς πρέπει να μαντέψετε σε ποια διαίρεση ανήκει</li>
+      <li>Το παιχνίδι σάς λέει μια διαίρεση και εσείς πρέπει να μαντέψετε την πρωτεύουσα</li>
+      <li>Το παιχνίδι σάς δείχνει τη σημαία μιας διαίρεσης στο χάρτη και εσείς πρέπει να μαντέψετε το όνομά της</li>
+      <li>Το παιχνίδι σάς λέει ένα όνομα διάιρεσης στο χάρτη και εσείς πρέπει να μαντέψετε τη σημαία της</li>
+      <li>Το παιχνίδι σάς δείχνει έναν κενό χάρτη και εσείς πρέπει να τοποθετήσετε πάνω του τις διαιρέσεις μία προς μία</li>
+    </ul>
+  </description>
+  <description lang="en-GB">
+    <p>KGeography is a geography learning tool, which allows you to learn about the political divisions of some countries (divisions, capitals of those divisions and their associated flags if there are some).</p>
+    <p>Features:</p>
+    <ul>
+      <li>Browse the maps clicking in a map division to see its name, capital and flag</li>
+      <li>The game tells you a map division name and you have to click on it</li>
+      <li>The game tells you a capital and you have to guess the division it belongs to</li>
+      <li>The game tells you a division and you have to guess its capital</li>
+      <li>The game shows you a map division flag and you have to guess its name</li>
+      <li>The game tells you a map division name and you have to guess its flag</li>
+      <li>The game shows an empty map and you have to place divisions on it one by one</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>KGeography es una herramienta de aprendizaje de geografía que le permite conocer las divisiones políticas de algunos países (divisiones, las capitales de estas divisiones y sus banderas asociadas, si existe alguna).</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Exploración de mapas pulsando sobre divisiones para ver su nombre, su capital y su bandera</li>
+      <li>El juego le muestra un nombre de división del mapa sobre la que debe hacer clic</li>
+      <li>El juego le muestra una capital y debe adivinar la división a la que pertenece</li>
+      <li>El juego le muestra una división y debe adivinar su capital</li>
+      <li>El juego le muestra la bandera de una división y debe adivinar su nombre</li>
+      <li>El juego le muestra un nombre de división y debe adivinar su bandera</li>
+      <li>El juego le muestra un mapa vacío y debe situar las divisiones sobre él</li>
+    </ul>
+  </description>
+  <description lang="et">
+    <p>KGeography on geograafia tundmaõppimise vahend, mis võimaldab teada saada paljude maade haldusjaotust (haldusüksused, nende pealinnad ja kui on, ka nende lipud).</p>
+    <p>Omadused:</p>
+    <ul>
+      <li>Kaardi sirvimine, klõpsates siia või sinna antud koha nime, pealinna ja lipu nägemiseks</li>
+      <li>Mäng ütleb sulle haldusüksuse nime ja sa pead selle peale klõpsama</li>
+      <li>Mäng ütleb sulle pealinna nime ja sa pead ära arvama, millises haldusüksuses see asub</li>
+      <li>Mäng ütleb sulle haldusüksuse ja sa pead ära arvama selle pealinna</li>
+      <li>Mäng näitab sulle haldusüksuse lippu ja sa pead selle ära arvama</li>
+      <li>Mäng ütleb sulle haldusüksuse nime ja sa pead ära arvama selle lipu</li>
+      <li>Mäng näitab tühja kaarti ja sa pead asetama sellel paika haldusüksused</li>
+    </ul>
+  </description>
+  <description lang="eu">
+    <p>KGeography geografia ikasteko tresna bat da, herrialde batzuen banaketa  politikoei buruz (banaketak, banaketa horien hiriburuak eta haien banderak  halakorik badute).</p>
+    <p>Ezaugarriak:</p>
+    <ul>
+      <li>Arakatu mapak bere banaketetan klik eginez haien izenak, hiriburuak eta banderak ikusteko</li>
+      <li>Jokoak mapa banaketa bat esaten dizu eta hartan klik egin behar duzu</li>
+      <li>Jokoak hiriburu bat esaten dizu eta zein banaketari dagokion asmatu behar duzu</li>
+      <li>Jokoak banaketa bat esaten dizu eta haren hiriburua asmatu behar duzu</li>
+      <li>Jokoak mapa banaketa baten bandera erakusten dizu eta bere izena asmatu behar duzu</li>
+      <li>Jokoak mapa banaketa bat esaten dizu eta bere bandera asmatu behar duzu</li>
+      <li>Jokoak mapa huts bat erakusten dizu eta zuk banaketak ipini behar dituzu banan-banan.</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>KGeography on maantieteen oppimistyökalu, jolla oppia eri maiden poliittisista jaoista (alueet, niiden pääkaupungit ja mahdolliset liput).</p>
+    <p>Ominaisuudet:</p>
+    <ul>
+      <li>Napsauta aluetta  karttaa selatessasi niin näet sen nimen, pääkaupungin ja lipun</li>
+      <li>Peli näyttää alueen nimen ja pelaajan on napsautettava vastaavaa aluetta</li>
+      <li>Peli kertoo pääkaupungin ja pelaajan on arvattava, mihin alueeseen se kuuluu</li>
+      <li>Peli kertoo alueen ja pelaajan on arvattava sen pääkaupunki</li>
+      <li>Peli näyttää lipun, ja pelaajan on arvattava sitä vastaavan alueen nimi</li>
+      <li>Peli näyttää alueen nimen, ja pelaajan on arvattava sen lippu</li>
+      <li>Peli näyttää tyhjän kartan, ja pelaajan on yksi kerrallaan asetettava rajat</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>KGeography est un outil d'apprentissage de la géographie, vous permettant d'apprendre les divisions politiques de certains pays (régions, capitales de ces régions et drapeaux associés, le cas échéant).</p>
+    <p>Fonctionnalités :</p>
+    <ul>
+      <li>Naviguer dans les cartes en cliquant dans une région de la carte pour voir son nom, sa capitale et son drapeau</li>
+      <li>Le jeu vous indique le nom de la région sur la carte et vous devez cliquer dessus</li>
+      <li>Le jeu vous indique une capitale et vous devez deviner la région à laquelle elle correspond</li>
+      <li>Le jeu vous indique une région et vous devez en deviner la capitale</li>
+      <li>Le jeu vous présente un drapeau pour une région de la carte et vous devez en deviner le nom</li>
+      <li>Le jeu vous indique un nom de région de la carte et vous devez en deviner le drapeau</li>
+      <li>Le jeu vous indique une carte vide et vous devez placer les régions dessus, une par une</li>
+    </ul>
+  </description>
+  <description lang="gl">
+    <p>KGeography é unha ferramenta para aprender xeografía, que lle permite aprender as divisións políticas  dalgúns países (divisións, capitais desas divisións e as súas bandeiras se as teñen).</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Examina os mapas premendo unha división do mapa para ver o nome, capital e bandeira</li>
+      <li>O xogo diche un nome de división do mapa e tela que premer</li>
+      <li>O xogo diche unha capital e debes adiviñar a división á que pertence</li>
+      <li>O xogo diche unha división e debes adiviñar a súa capital</li>
+      <li>O xogo móstrache a bandeira dunha división do mapa e tes que adiviñar o seu nome</li>
+      <li>O xogo diche o nome dunha división do mapa e tes que adiviñar a súa bandeira</li>
+      <li>O xogo mostra un mapa baleiro e hai que colocar as divisións unha a unha</li>
+    </ul>
+  </description>
+  <description lang="id">
+    <p>KGeography adalah alat pembelajaran geografi, yang memungkinkan kamu untuk belajar tentang perpecahan politik di beberapa negara (divisi, ibukota dari divisi tersebut dan bendera terkait jika ada).</p>
+    <p>Fitur:</p>
+    <ul>
+      <li>Jelajahi peta dengan mengklik di divisi peta untuk melihat nama, ibukota, dan benderanya</li>
+      <li>Permainan ini memberi tau kamu nama divisi peta dan kamu harus mengekliknya</li>
+      <li>Permainan ini memberi tau kamu ibukota dan kamu harus menebak divisi yang dimilikinya</li>
+      <li>Permainan ini memberi tau kamu sebuah divisi dan kamu harus menebak ibukotanya</li>
+      <li>Permainan ini memperlihatkan bendera divisi peta dan kamu harus menebak namanya</li>
+      <li>Permainan ini memberi tau kamu nama divisi peta dan kamu harus menebak benderanya</li>
+      <li>Permainan ini menampilkan peta kosong dan kamu harus menempatkan divisi di atasnya satu per satu</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>KGeography è uno strumento per l'apprendimento della geografia, che ti permette di apprendere le divisioni politiche di alcune nazioni (divisioni, capitali di queste divisioni e le loro bandiere se ve ne sono).</p>
+    <p>Funzionalità:</p>
+    <ul>
+      <li>Consulta le mappe facendo clic su una divisione di una mappa per vedere il suo nome, la sua capitale e la sua bandiera</li>
+      <li>Il gioco ti dice il nome della divisione della mappa e tu devi farci clic sopra</li>
+      <li>Il gioco ti dice una capitale e tu devi indovinare la divisione a cui appartiene</li>
+      <li>Il gioco ti dice una divisione e tu devi indovinare la sua capitale</li>
+      <li>Il gioco ti mostra la bandiera di una divisione della mappa e devi indovinare il suo nome</li>
+      <li>Il gioco ti dice il nome di una divisione della mappa e tu devi indovinare la sua bandiera</li>
+      <li>Il gioco mostra una mappa vuota e devi piazzarci sopra le divisioni, una per una</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>KGeography is een programma om aardrijkskunde te leren, waarmee je iets kunt leren over de politieke indeling van sommige landen (onderdelen ervan, de bijbehorende hoofdsteden en eventuele vlaggen).</p>
+    <p>Mogelijkheden:</p>
+    <ul>
+      <li>Het bekijken van kaarten door op kaartgedeelten te klikken waarna je de naam ervan ziet, de hoofdstad en de vlag</li>
+      <li>Een spel waarin de naam van een kaartgedeelte wordt genoemd waarna je erop moet klikken</li>
+      <li>Een spel waarin een hoofdstad wordt genoemd waarna je moet antwoorden bij welk kaartgedeelte die hoort</li>
+      <li>Een spel waarin een kaartgedeelte wordt genoemd en je moet antwoorden wat daarvan de hoofdstad is</li>
+      <li>Een spel waarin de vlag wordt getoond van een kaartgedeelte en je moet antwoorden met de naam van dat kaartgedeelte</li>
+      <li>Een spel waarin de naam wordt genoemd van een kaartgedeelte en je moet opgeven welke vlag erbij hoort</li>
+      <li>In dit spel wordt een lege kaart getoond, waarin je de kaartgedeelten een voor een moet plaatsen</li>
+    </ul>
+  </description>
+  <description lang="nn">
+    <p>Funksjonar:</p>
+  </description>
+  <description lang="pl">
+    <p>KGeography jest narzędziem do nauki geografii, które pozwala uczyć się na temat podziałów politycznych niektórych państw (podziały, stolice tych podziałów i skojarzone z nimi flagi, jeśli jakieś istnieją).</p>
+    <p>Możliwości:</p>
+    <ul>
+      <li>Przeglądanie mapy przez klikanie na obszarach w celu poznania ich nazwy, stolicy i flagi</li>
+      <li>Grę, która podaje ci nazwę obszaru, na który musisz kliknąć</li>
+      <li>Grę, która podaje ci nazwę stolicy, a ty musisz podać, do którego obszaru ona należy</li>
+      <li>Grę, która podaje ci nazwę obszaru, a ty musisz podać nazwę jego stolicy</li>
+      <li>Grę, która pokazuje ci flagę obszaru, a ty musisz podać jego nazwę</li>
+      <li>Grę, która podaje ci nazwę obszaru, a ty musisz podać, jaka jest jego flaga</li>
+      <li>Grę, która wyświetla pustą mapę, a twoim zadaniem jest nałożenie na nią po kolei obszarów</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>O KGeography é uma ferramenta de aprendizagem de geografia, a qual lhe permite aprender as divisões políticas de alguns países (divisões, capitais dessas divisões e as suas bandeiras associadas, se existirem).</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Navegar nos mapas, carregando numa divisão do mapa, para ver o seu nome, a capital e a bandeira</li>
+      <li>O jogo diz-lhe o nome de uma divisão do mapa e você terá de carregar nela</li>
+      <li>O jogo diz-lhe o nome de uma capital e você terá de adivinhar a divisão a que pertence</li>
+      <li>O jogo indica-lhe uma divisão e você terá de adivinhar a sua capital</li>
+      <li>O jogo mostra-lhe a bandeira de uma divisão do mapa e você terá de adivinhar o seu nome</li>
+      <li>O jogo indica-lhe o nome de uma divisão do mapa e terá de adivinhar a sua bandeira</li>
+      <li>O jogo mostra um mapa vazio e você terá de colocar as divisões nele, uma a uma</li>
+    </ul>
+  </description>
+  <description lang="pt-BR">
+    <p>KGeography é uma ferramenta de aprendizagem de geografia, que lhe permite aprender as divisões políticas de alguns países (divisões, capitais dessas divisões e as suas bandeiras associadas, se existirem).</p>
+    <p>Recursos:</p>
+    <ul>
+      <li>Navegue pelos mapas clicando em sua seção para ver seu nome, capital e bandeira</li>
+      <li>O jogo informa o nome da seção do mapa e você deve clicar nela</li>
+      <li>O jogo informa a capital e você deve adivinhar a qual seção ela pertence</li>
+      <li>O jogo informa a seção e você deve adivinhar a capital</li>
+      <li>O jogo mostra uma bandeira de uma seção do mapa e você deve adivinhar seu nome</li>
+      <li>O jogo informa um nome de uma seção do mapa e você deve adivinhar sua bandeira</li>
+      <li>O jogo mostra um mapa vazio e você deve posicionar as seções uma a uma</li>
+    </ul>
+  </description>
+  <description lang="ru">
+    <p>KGeography — программа для изучения географии, которая позволяет ознакомиться с административным устройством некоторых стран (территории, столицы этих территорий и соответствующие флаги, если они имеются).</p>
+    <p>Возможности:</p>
+    <ul>
+      <li>Просмотр карт с выдачей названий стран, столиц и флагов по щелчку</li>
+      <li>Игра, в которой необходимо найти страну или регион по названию</li>
+      <li>Игра, в которой необходимо найти страну или регион по названию столицы</li>
+      <li>Игра, в которой необходимо найти столицу страны или региона</li>
+      <li>Игра, в которой необходимо выбрать страну или регион по флагу</li>
+      <li>Игра, в которой необходимо выбрать флаг страны или региона</li>
+      <li>Игра, в которой необходимо последовательно разместить страны на пустой карте</li>
+    </ul>
+  </description>
+  <description lang="sk">
+    <p>KGeography je geografický vzdelávací nástroj, ktorý vám umožňuje dozvedieť sa viac o politickom rozdelení niektorých krajín (oblasti, hlavné mestá týchto oblastí a ich pridružené vlajky, ak nejaké existujú).</p>
+    <p>Funkcie:</p>
+    <ul>
+      <li>Prehliadajte mapy kliknutím na časť mapy, na zobrazenie názvu, hlavného mesta a vlajky</li>
+      <li>Hra vám povie názov oblasti mapy a vy musíte na ňu kliknúť</li>
+      <li>Hra vám povie hlavné mesto a vy musíte uhádnuť časť ktorej patrí</li>
+      <li>Hra vám povie časť a vy musíte uhádnuť jej hlavné mesto</li>
+      <li>Hra vám zobrazí vlajku časti krajiny a vy musíte uhádnuť jeho názov</li>
+      <li>Hra vám povie názov oblasti mapy a vy musíte uhádnuť jej vlajku</li>
+      <li>Hra zobrazí prázdnu mapu a vy musíte na ňu postupne rozmiestniť jej časti</li>
+    </ul>
+  </description>
+  <description lang="sl">
+    <p>KGeography je orodje za učenje geografije, ki vam omogoča, da spoznate politične delitve nekaterih držav (dežele, glavna mesta teh dežel in z njimi povezane zastave, če obstajajo).</p>
+    <p>Možnosti:</p>
+    <ul>
+      <li>Brskajte po zemljevidih s klikom v razdelku zemljevida in si ogledate njegovo ime, glavno mesto in zastavo</li>
+      <li>Igra pove ime dela zemljevida in nanj morate klikniti</li>
+      <li>Igra vam pove glavno mesto in vi morate uganiti del, ki mu pripada</li>
+      <li>Igra vam pove del ozemlja in ugibati morate njeno glavno mesto</li>
+      <li>Igra vam prikaže zastavico dela ozemlja in morate uganiti ime dela</li>
+      <li>Igra vam pove ime dela ozemlja in morate uganiti zastavo tega dela</li>
+      <li>Igra prikazuje prazen zemljevid in na njem morate postaviti dele enega po enega</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <p>Kgeografi är ett inlärningsverktyg av geografi, som gör att du kan lära dig om den politiska uppdelningen av ett antal länder (landsdelar, huvudstäder i dessa landsdelar och deras tillhörande flaggor om det finns några).</p>
+    <p>Funktioner:</p>
+    <ul>
+      <li>Läs kartan och klicka på en landsdel för att se dess namn, huvudstad och flagga</li>
+      <li>Programmet talar om namnet på en landsdel och du ska klicka på den</li>
+      <li>Programmet namnger en huvudstad och du ska gissa vilken landsdel den hör till</li>
+      <li>Programmet namnger en landsdel och du ska gissa dess huvudstad</li>
+      <li>Programmet visar flaggan för en landsdel och du ska gissa dess namn</li>
+      <li>Programmet talar om namnet på en landsdel och du ska gissa dess flagga</li>
+      <li>Programmet visar en tom karta och du ska placera ut landsdelarna på den en i taget</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>KGgeography — інструмент з вивчення географії. Ця програма надасть вам змогу вивчити адміністративний устрій деяких країн (території, столиці цих територій і відповідні прапори, якщо такі є).</p>
+    <p>Можливості:</p>
+    <ul>
+      <li>Перегляд карти з натисканням на територіях, щоб побачити їх назви, столиці і прапори</li>
+      <li>Гра з вгадування за назвою території на карті</li>
+      <li>Гра з вгадування за столицею території на карті</li>
+      <li>Гра з вгадування за територією на карті столиці цієї території</li>
+      <li>Гра з вгадування назви території на карті за її прапором</li>
+      <li>Гра з вгадування прапору території на карті за її назвою</li>
+      <li>Гра у заповнення порожньої карти територіями одна за одною</li>
+    </ul>
+  </description>
+  <description lang="x-test">
+    <p>xxKGeography is a geography learning tool, which allows you to learn about the political divisions of some countries (divisions, capitals of those divisions and their associated flags if there are some).xx</p>
+    <p>xxFeatures:xx</p>
+    <ul>
+      <li>xxBrowse the maps clicking in a map division to see its name, capital and flagxx</li>
+      <li>xxThe game tells you a map division name and you have to click on itxx</li>
+      <li>xxThe game tells you a capital and you have to guess the division it belongs toxx</li>
+      <li>xxThe game tells you a division and you have to guess its capitalxx</li>
+      <li>xxThe game shows you a map division flag and you have to guess its namexx</li>
+      <li>xxThe game tells you a map division name and you have to guess its flagxx</li>
+      <li>xxThe game shows an empty map and you have to place divisions on it one by onexx</li>
+    </ul>
+  </description>
+  <description lang="zh-CN">
+    <p>KGeography 是一个地理学习工具，它可以让你了解一些国家的政治分区 (分区，首都，及旗帜(如果有的话)) 。</p>
+    <p>功能：</p>
+    <ul>
+      <li>浏览地图，点击地图分区查看它的名字，首都和旗帜</li>
+      <li>此游戏告诉您地图分区的名字，您必须点击它</li>
+      <li>此游戏告诉您首都，您必须猜它属于哪个分区</li>
+      <li>此游戏告诉您分区，您必须猜它的首都是什么</li>
+      <li>此游戏告诉您一个地图分区的旗帜，您必须猜它的名字</li>
+      <li>此游戏告诉您地图分区的名字，您必须猜它的旗帜</li>
+      <li>此游戏显示一个空的地图，您必须把分区逐一放置在上面</li>
+    </ul>
+  </description>
+  <description lang="zh-TW">
+    <p>功能：</p>
+  </description>
+  <pkgname>libsForQt5.kgeography</pkgname>
+  <launchable type="desktop-id">org.kde.kgeography.desktop</launchable>
+  <icon width="64" type="cached" height="64">kgeography.png</icon>
+  <icon width="128" height="128" type="cached">kgeography.png</icon>
+  <id>org.kde.kgeography.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KGeography</name>
+  <name lang="ar">الجغرافي</name>
+  <name lang="ca">KGeography</name>
+  <name lang="ca-valencia">KGeography</name>
+  <name lang="cs">KGeography</name>
+  <name lang="da">Kgeografi</name>
+  <name lang="de">KGeography</name>
+  <name lang="el">KGeography</name>
+  <name lang="en-GB">KGeography</name>
+  <name lang="es">KGeography</name>
+  <name lang="et">KGeography</name>
+  <name lang="eu">KGeography</name>
+  <name lang="fi">KGeography</name>
+  <name lang="fr">KGeography</name>
+  <name lang="gl">KGeography</name>
+  <name lang="id">KGeography</name>
+  <name lang="it">KGeography</name>
+  <name lang="nl">KGeography</name>
+  <name lang="nn">KGeography</name>
+  <name lang="pl">KGeography</name>
+  <name lang="pt">KGeography</name>
+  <name lang="pt-BR">KGeography</name>
+  <name lang="ru">KGeography</name>
+  <name lang="sk">KGeography</name>
+  <name lang="sl">KGeography</name>
+  <name lang="sv">Kgeografi</name>
+  <name lang="uk">KGeography</name>
+  <name lang="x-test">xxKGeographyxx</name>
+  <name lang="zh-CN">KGeography</name>
+  <name lang="zh-TW">KGeography</name>
+  <summary>Geography learning tool</summary>
+  <summary lang="ar">أداة تعلم الجغرافيا</summary>
+  <summary lang="ca">Eina per a aprendre geografia</summary>
+  <summary lang="ca-valencia">Eina per a aprendre geografia</summary>
+  <summary lang="de">Erdkunde-Lernprogramm</summary>
+  <summary lang="el">Εργαλείο εξάσκησης στη Γεωγραφία</summary>
+  <summary lang="en-GB">Geography learning tool</summary>
+  <summary lang="es">Herramienta de aprendizaje de geografía</summary>
+  <summary lang="et">Geograafia tundmaõppimise vahend</summary>
+  <summary lang="eu">Geografia ikasteko tresna</summary>
+  <summary lang="fi">Maantieteen oppimistyökalu</summary>
+  <summary lang="fr">Un outil pour apprendre la géographie</summary>
+  <summary lang="gl">Ferramenta para aprender xeografía</summary>
+  <summary lang="id">Alat pembelajaran geografi</summary>
+  <summary lang="it">Programma per l'insegnamento della geografia</summary>
+  <summary lang="nl">Hulpmiddel voor het leren van Aardrijkskunde</summary>
+  <summary lang="nn">Program for å læra geografi</summary>
+  <summary lang="pl">Program do nauki geografii</summary>
+  <summary lang="pt">Ferramenta de aprendizagem de geografia</summary>
+  <summary lang="pt-BR">Ferramenta de aprendizado de Geografia</summary>
+  <summary lang="ru">Программа для изучения географии</summary>
+  <summary lang="sk">Geografický vzdelávací nástroj</summary>
+  <summary lang="sl">Orodje za učenje zemljepisa</summary>
+  <summary lang="sv">Inlärningsverktyg av geografi</summary>
+  <summary lang="uk">Програма для вивчення географії</summary>
+  <summary lang="x-test">xxGeography learning toolxx</summary>
+  <summary lang="zh-CN">地理学习工具</summary>
+  <summary lang="zh-TW">地理學習工具</summary>
+  <url type="homepage">https://edu.kde.org/kgeography/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kgeography</url>
+  <url type="help">https://docs.kde.org/?application=kgeography</url>
+  <url type="donation">https://www.kde.org/community/donations/?app=kgeography&amp;source=appdata</url>
+  <update_contact>yurchor_at_mageia.org</update_contact>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Training geography with KGeography</caption>
+      <caption lang="ar">تدريب الجغرافيا مع الجغرافي</caption>
+      <caption lang="ca">Entrenament de geografia amb el KGeography</caption>
+      <caption lang="ca-valencia">Entrenament de geografia amb KGeography</caption>
+      <caption lang="de">Erdkunde lernen mit KGeography</caption>
+      <caption lang="el">Εξάσκηση στη γεωγραφία με το KGeography</caption>
+      <caption lang="en-GB">Training geography with KGeography</caption>
+      <caption lang="es">Entrenando geografía con KGeography</caption>
+      <caption lang="et">Geograafia tundmaõppimine KGeographyga</caption>
+      <caption lang="eu">Geografian trebatu KGeography erabiliz</caption>
+      <caption lang="fi">Maantieteen harjoittelu KGeographylla</caption>
+      <caption lang="fr">Exercice de géographie sur KGeography</caption>
+      <caption lang="gl">Practicando xeografía con KGeography</caption>
+      <caption lang="id">Berlajar geografi dengan KGeography</caption>
+      <caption lang="it">Sessione di apprendimento con KGeography</caption>
+      <caption lang="nl">Aardrijkskunde leren met KGeography</caption>
+      <caption lang="nn">Lær geografi med KGeography</caption>
+      <caption lang="pl">Ćwiczenie geografii z KGeography</caption>
+      <caption lang="pt">Exercício de geografia com o KGeography</caption>
+      <caption lang="pt-BR">Exercício de geografia com o KGeography</caption>
+      <caption lang="ru">Изучение географии с помощью KGeography</caption>
+      <caption lang="sk">Tréning geografie s KGeografiou</caption>
+      <caption lang="sl">Vaja zemljepisa s KGeography</caption>
+      <caption lang="sv">Geografiövning med Kgeografi</caption>
+      <caption lang="uk">Вивчення географічних назв за допомогою KGeography</caption>
+      <caption lang="x-test">xxTraining geography with KGeographyxx</caption>
+      <caption lang="zh-CN">使用 KGeography 训练地理知识</caption>
+      <image type="source">https://cdn.kde.org/screenshots/kgeography/kgeography.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kgeography</binary>
+  </provides>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release date="2022-07-07" version="22.04.3" />
+    <release version="22.04.2" date="2022-06-09" />
+    <release version="22.04.1" date="2022-05-12" />
+    <release date="2022-04-21" version="22.04.0" />
+  </releases>
+</component>

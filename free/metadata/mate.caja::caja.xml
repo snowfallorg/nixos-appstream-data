@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>mate.caja</pkgname>
+  <launchable type="desktop-id">caja.desktop</launchable>
+  <id>caja.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Caja</name>
+  <name lang="zu">Caja</name>
+  <name lang="zh_TW">Caja</name>
+  <name lang="zh_HK">Caja</name>
+  <name lang="zh_CN">Caja</name>
+  <name lang="yo">Caja</name>
+  <name lang="xh">i-Caja</name>
+  <name lang="wa">Caja.</name>
+  <name lang="vi">Caja</name>
+  <name lang="uz">Caja</name>
+  <name lang="ur">Caja</name>
+  <name lang="uk">Caja</name>
+  <name lang="ug">Caja</name>
+  <name lang="tr">Caja</name>
+  <name lang="tk">Caja</name>
+  <name lang="th">Caja</name>
+  <name lang="te">నాటిలస్</name>
+  <name lang="ta">Caja</name>
+  <name lang="sv">Caja</name>
+  <name lang="sr@latin">Caja</name>
+  <name lang="sr">Цаја</name>
+  <name lang="sq">Caja</name>
+  <name lang="sl">Caja</name>
+  <name lang="sk">Caja</name>
+  <name lang="si">Caja</name>
+  <name lang="ru">Caja</name>
+  <name lang="ro">Caja</name>
+  <name lang="pt_BR">Caja</name>
+  <name lang="pt">Caja</name>
+  <name lang="ps">ناوټېلس</name>
+  <name lang="pl">Caja</name>
+  <name lang="pa">ਨਟੀਲਸ</name>
+  <name lang="or">ନଟିଲସ</name>
+  <name lang="oc">Caja</name>
+  <name lang="nso">Caja</name>
+  <name lang="nn">Caja</name>
+  <name lang="nl">Caja</name>
+  <name lang="ne">नटलस</name>
+  <name lang="nds">Caja</name>
+  <name lang="nb">Caja</name>
+  <name lang="ms">Caja</name>
+  <name lang="mr">नॉटीलस</name>
+  <name lang="mn">Наутилус</name>
+  <name lang="ml">നോട്ടിലസ്</name>
+  <name lang="mk">Caja</name>
+  <name lang="mi">Paua</name>
+  <name lang="mg">Caja</name>
+  <name lang="mai">नाटिलस</name>
+  <name lang="lv">Caja</name>
+  <name lang="lt">Caja</name>
+  <name lang="li">Caja</name>
+  <name lang="ky">Caja</name>
+  <name lang="ku_IQ">کاخا</name>
+  <name lang="ku">Caja</name>
+  <name lang="ko">Caja</name>
+  <name lang="kn">Caja‍</name>
+  <name lang="km">Caja</name>
+  <name lang="kk">Caja</name>
+  <name lang="kab">Caja</name>
+  <name lang="ka">ნაუტილუსი</name>
+  <name lang="ja">Caja ファイルマネージャ</name>
+  <name lang="it">Caja</name>
+  <name lang="is">Caja</name>
+  <name lang="ig">Caja</name>
+  <name lang="ie">Caja</name>
+  <name lang="id">Caja</name>
+  <name lang="hy">Caja</name>
+  <name lang="hu">Caja</name>
+  <name lang="hr">Caja</name>
+  <name lang="hi">नॉटिलस</name>
+  <name lang="he">Caja</name>
+  <name lang="ha">Caja</name>
+  <name lang="gu">નોટિલસ</name>
+  <name lang="gl">Caja</name>
+  <name lang="gd">Caja</name>
+  <name lang="ga">Caja</name>
+  <name lang="fy">Caja</name>
+  <name lang="fur">Caja</name>
+  <name lang="fr">Caja</name>
+  <name lang="fi">Caja</name>
+  <name lang="fa">ناتیلوس</name>
+  <name lang="eu">Caja</name>
+  <name lang="et">Caja</name>
+  <name lang="es_CO">Caja</name>
+  <name lang="es_AR">Caja</name>
+  <name lang="es">Caja</name>
+  <name lang="eo">Naŭtilo</name>
+  <name lang="en_GB">Caja</name>
+  <name lang="en_CA">Caja</name>
+  <name lang="en_AU">Caja</name>
+  <name lang="el">Caja</name>
+  <name lang="dz">ནའུ་ཊི་ལཱསི།</name>
+  <name lang="de">Caja</name>
+  <name lang="da">Caja</name>
+  <name lang="cy">Caja</name>
+  <name lang="cs">Caja</name>
+  <name lang="crh">Caja</name>
+  <name lang="cmn">Caja</name>
+  <name lang="ca@valencia">Caja</name>
+  <name lang="ca">Caja</name>
+  <name lang="bs">Caja</name>
+  <name lang="br">Caja</name>
+  <name lang="bn_IN">Caja</name>
+  <name lang="bn">Caja</name>
+  <name lang="bg">Файлов мениджър (Caja)</name>
+  <name lang="be">Caja</name>
+  <name lang="az">Caja</name>
+  <name lang="ast">Caja</name>
+  <name lang="as">Caja</name>
+  <name lang="ar">كاجا</name>
+  <name lang="am">ካጃ</name>
+  <name lang="af">Caja</name>
+  <summary>File manager for the MATE desktop environment</summary>
+  <summary lang="zh_TW">適用於 MATE 桌面環境的檔案管理員</summary>
+  <summary lang="zh_CN">MATE 桌面环境的文件管理器</summary>
+  <summary lang="vi">Chương trình quản lý tập tin trên giao diện MATE </summary>
+  <summary lang="uz">MATE ish stoli muhiti uchun fayl boshqaruvchi</summary>
+  <summary lang="uk">Упорядник файлів для стільничного середовища МАТЕ</summary>
+  <summary lang="tr">MATE masaüstü ortamı için dosya yöneticisi</summary>
+  <summary lang="th">เครื่องมือจัดการแฟ้มสำหรับสภาพแวดล้อมเดสก์ท็อป MATE</summary>
+  <summary lang="sv">Filhanterare för skrivbordsmiljön MATE</summary>
+  <summary lang="sr">Управник датотека за Мејтово радно окружење</summary>
+  <summary lang="sl">Upravljalnik datotek za namizno okolje MATE</summary>
+  <summary lang="sk">Správca súborov pre prostredie MATE</summary>
+  <summary lang="sc">Manigiadore de file pro s'ambiente de iscriania MATE</summary>
+  <summary lang="ru">Файловый менеджер для рабочей среды MATE</summary>
+  <summary lang="ro">Administrator de fișiere pentru mediul desktop  MATE</summary>
+  <summary lang="pt_BR">Gerenciador de arquivos para o ambiente MATE desktop</summary>
+  <summary lang="pt">Gestor de ficheiros para o ambiente de trabalho MATE</summary>
+  <summary lang="pl">Menedżer plików dla środowiska MATE</summary>
+  <summary lang="oc">Gestionari de fichièrs per l’environament de burèu MATE</summary>
+  <summary lang="nl">Bestandsbeheerder voor de MATE-werkomgeving</summary>
+  <summary lang="nds">Een Datei-Uppasser för de MATE-Schrievdisk</summary>
+  <summary lang="nb">Filbehandler for MATE-skrivebordsmiljøet</summary>
+  <summary lang="ms">Pengurus fail untuk persekitran desktop MATE</summary>
+  <summary lang="ml">ഗ്നോം ഡെസ്ക്ടോപ്പിന്റെ ഫയൽ മാനേജർ </summary>
+  <summary lang="lv">Failu pārvaldnieks MATE darbvirsmai</summary>
+  <summary lang="lt">Failų tvarkytuvė MATE darbalaukio aplinkai</summary>
+  <summary lang="ko">MATE 데스크톱 환경에 대한 파일 관리자</summary>
+  <summary lang="kn">MATE ಗಣಕತೆರೆ ಪರಿಸರಕ್ಕೆ ಕಡತ ನಿರ್ವಾಹಕ</summary>
+  <summary lang="kk">MATE жұмыс үстел ортасы үшін файлдар басқарушысы</summary>
+  <summary lang="ka">ფაილ მენეჯერი MATE სამუშაო გარსისთვის</summary>
+  <summary lang="ja">MATE デスクトップ環境向けのファイルマネージャー</summary>
+  <summary lang="it">Gestore di file per l'ambiente desktop MATE</summary>
+  <summary lang="ie">Un gerente de files por li ambientie MATE</summary>
+  <summary lang="id">Manajer berkas untuk lingkungan desktop MATE</summary>
+  <summary lang="hy">Նիշքային կառավարիչ MATE աշխատասեղանի համար</summary>
+  <summary lang="hu">Fájlkezelő a MATE asztali környezethez</summary>
+  <summary lang="hr">Upravitelj datotekama za MATE radno okruženje</summary>
+  <summary lang="he">מנהל קבצים לסביבת שולחן העבודה Mate</summary>
+  <summary lang="gl">Xestor de ficheiros para o contorno de escritorio MATE</summary>
+  <summary lang="gd">Manaidsear fhaidhlichean airson àrainneachd deasg</summary>
+  <summary lang="fr">Gestionnaire de fichiers pour l'environnement de bureau MATE</summary>
+  <summary lang="fi">Tiedostonhallinta MATE-työpöytäympäristölle</summary>
+  <summary lang="fa">مدیر فایل برای محیط کاربری ماته</summary>
+  <summary lang="eu">MATE mahaigain ingurunerako fitxategi-kudeatzailea</summary>
+  <summary lang="et">Failihaldur MATE töölauakeskkonnale</summary>
+  <summary lang="es_MX">Administrador de archivos para el entorno de escritorio MATE</summary>
+  <summary lang="es_CO">Administrador de archivos para el entorno de escritorio MATE</summary>
+  <summary lang="es">Gestor de archivos para el entorno de escritorio MATE</summary>
+  <summary lang="eo">Dosier-mastrumilo por la labortabla ĉirkaŭaĵo MATE</summary>
+  <summary lang="en_GB">File manager for the MATE desktop environment</summary>
+  <summary lang="en_AU">File manager for the MATE desktop environment</summary>
+  <summary lang="el">Διαχειριστής αρχείων για το περιβάλλον εργασίας MATE</summary>
+  <summary lang="de">Dateiverwaltung für die MATE-Desktop-Arbeitsumgebung</summary>
+  <summary lang="da">Filhåndtering for skrivebordsmiljøet MATE</summary>
+  <summary lang="cs">Správce souborů pro prostředí plochy MATE</summary>
+  <summary lang="ca@valencia">Gestor de fitxers per a l'entorn d'escriptori MATE</summary>
+  <summary lang="ca">Gestor de fitxers per a l'entorn d'escriptori MATE</summary>
+  <summary lang="bs">Upravitelj datoteka za MATE desktop</summary>
+  <summary lang="br">Ardoer restroù evit an endro burev MATE</summary>
+  <summary lang="bg">Файлов мениджър за работната среда MATE</summary>
+  <summary lang="be">Файлавы кіраўнік асяроддзя MATE</summary>
+  <summary lang="ar">مدير الملفات لسطح مكتب متة</summary>
+  <summary lang="am">የ ፋይል አስተዳዳሪ ለ ሜት ዴስክቶፕ አካባቢ</summary>
+  <description>
+    <p>
+   Caja is the official file manager for the MATE desktop. It allows for
+   browsing directories, as well as previewing files and launching applications
+   associated with them. It is also responsible for handling the icons on
+   the MATE desktop. It works on local and remote file systems.
+  </p>
+    <p>
+   Caja is extensible through a plugin system, similar to that of GNOME Nautilus,
+   of which Caja is a fork.
+  </p>
+  </description>
+  <description lang="ar">
+    <p> كاها هو مدير الملفات الرسمي لسطح مكتب ماتي. يسمح بتصفح المجلدات، وأيضا معاينة الملفات وتشغيل التطبيقات المرتبطة بها. وهو أيضا مسؤول عن التعامل مع الأيقونات الموجودة على سطح مكتب ماتي. يعمل على أنظمة الملفات المحلية وأنظمة الملفات عن بعد.</p>
+    <p>كاها قابل للتوسيع بواسطة نظام إضافات، على غرار نوتيلوس مدير ملفات جنوم، الذي يُعَدُّ كاها متفرعا منه.</p>
+  </description>
+  <description lang="ca">
+    <p>Caja és el gestor de fitxers oficial de l'escriptori MATE. Permet navegar pels directoris, així com la presentació preliminar dels fitxers i el llançament de les aplicacions associades aquests fitxers. També és el responsable del maneig de les icones a l'escriptori MATE. Funciona amb fitxers de sistemes locals i remots.</p>
+    <p>Caja és extensible a través d'un sistema de connectors, similar al de Nautilus de GNOME, del qual Caixa n'és una bifurcació.</p>
+  </description>
+  <description lang="cs">
+    <p>Caja je oficiálním správcem souborů pro MATE. Umožňuje procházení adresářů, prohlížení souborů a spouštění aplikací, které jsou s ním asociovány. Je také zodpovědný za zpracování ikon na ploše MATE. Funguje na lokálních a vzdálených souborových systémech.</p>
+    <p>Správce souborů Caja je rozšiřitelný prostřednictvím systému zásuvných modulů, podobnému jaký má GNOME Nautilus, jehož je Caja forkem.</p>
+  </description>
+  <description lang="da">
+    <p>Caja er den officielle filhåndtering for skrivebordet MATE. Programmet giver mulighed for at gennemse mapper samt forhåndsvise filer og starte programmer associeret med disse filer. Programmet er også ansvarlig for håndtering af ikoner på MATE-skrivebordet. Fungerer på lokale og eksterne filsystemer. </p>
+    <p>Caja kan udvides via et system med udvidelsesmoduler, svarende til det hos GNOME Nautilus, som Caja er en forgrening af. </p>
+  </description>
+  <description lang="de">
+    <p>Caja ist der offizielle Dateimanager für den MATE Desktop. Es erlaubt das durchsuchen von Verzeichnissen, sowie die Vorschau von Dateien und ausführen von Programmen die damit verknüpft sind. Es ist außerdem zuständig für die Handhabung der Symbole des MATE Desktops. Es läuft auf lokalen und entfernten Dateisystemen.</p>
+    <p>Caja ist erweiterbar durch ein Pluginsystem ähnlich dem von GNOME Nautilus, von dem Caja eine Abspaltung ist.</p>
+  </description>
+  <description lang="en_GB">
+    <p>Caja is the official file manager for the MATE desktop. It allows for browsing directories, as well as previewing files and launching applications associated with them. It is also responsible for handling the icons on the MATE desktop. It works on local and remote file systems.</p>
+    <p>Caja is extensible through a plugin system, similar to that of GNOME Nautilus, of which Caja is a fork.</p>
+  </description>
+  <description lang="es">
+    <p>Caja es el gestor de archivos oficial del escritorio MATE. Permite navegar por las carpetas, así como previsualizar los archivos y ejecutar las aplicaciones asociadas. También es el responsable de manejar los iconos en el escritorio de MATE. Funciona con sistemas de archivos locales y remotos.</p>
+    <p>Caja es extensible a través de un sistema de complementos, similar al de Nautilus de GNOME, del que Caja es una bifurcación.</p>
+  </description>
+  <description lang="es_CO">
+    <p>Caja es el administrador de archivo oficial para el escritorio MATE. Permite explorar directorios, así como previsualizar archivos y ejecutar aplicaciones asociadas a ellos. También es responsable de manejar los iconos en el escritorio MATE. Funciona con sistemas de archivo locales y remotos.</p>
+    <p>Caja es extensible a través de un sistema de extensión, similar al de GNOME Nautilus, del cual Caja es una bifurcación.</p>
+  </description>
+  <description lang="eu">
+    <p>Caja MATE mahaigaineko fitxategi-kudeatzaile ofiziala da. Direktorioak arakatzeko aukera ematen du, baita fitxategiak aurreikusteko eta haiei lotutako aplikazioak abiarazteko ere. MATE mahaigaineko ikonoak maneiatzeaz ere arduratzen da. Fitxategi-sistema lokaletan eta urrunekoetan funtzionatzen du.</p>
+    <p>Caja plugin-sistema baten bidez hedagarria da, GNOME Nautilus-en antzera. Caja Nautilusen aldaera baita.</p>
+  </description>
+  <description lang="fr">
+    <p>Caja est le gestionnaire de fichiers officiel pour le bureau MATE. Il permet de parcourir les répertoires, ainsi que de prévisualiser les fichiers et de lancer les applications qui leur sont associées. Il est également responsable de la gestion des icônes sur le bureau MATE. Il fonctionne sur les systèmes de fichiers locaux et distants.</p>
+    <p>Caja est extensible grâce à un système de plugins, similaire à celui de GNOME Nautilus, dont Caja est un fork.</p>
+  </description>
+  <description lang="gl">
+    <p>&lt;p> Caja é o xestor de ficheiros oficial para o escritorio MATE. Permite navegar polos directorios así coma ter vistas previas dos ficheiros  ou lanzar as aplicacións asociadas a eles. Tamén é responsábel de manexar as iconas do escritorio MATE. Funciona en sistemas de ficheiros locais e remotos. </p>
+    <p>Caja é extensíbel a través dun sistema de engadidos, semellante ao de GNOME Nautilus, do que Caja é unha derivación.</p>
+  </description>
+  <description lang="he">
+    <p>Caja הוא מנהל הקבצים הרשמי עבור סביבת שולחן העבודה MATE. היישום מאפשר לסייר בתיקיות, כמו גם להציג תצוגה מקדימה של קבצים ולהפעיל את היישומים אליהם הם משויכים. היישום גם אחראי לטפל בסמלים בשולחן העבודה MATE. כמו כן, קיימת תמיכה במערכות קבצים מקומיות ומרוחקות.</p>
+    <p>את Caja ניתן להרחיב באמצעות מערכת תוספים, בדומה לזו של GNOME Nautilus, המקור של Caja.</p>
+  </description>
+  <description lang="hu">
+    <p>A Caja a MATE asztali környezet hivatalos fájlkezelője. Böngészhetőek a könyvtárak, a fájlok előnézetével és a hozzájuk rendelt alkalmazások indításával. A MATE asztal ikonjainak kezelését is a Caja. Helyi és távoli fájlrendszereken is használható.</p>
+    <p>A Caja kibővíthető egy plugin rendszerrel, hasonlóan, mint a Gnome Nautilus fájlkezelője, amiből a Caja készült.</p>
+  </description>
+  <description lang="id">
+    <p>Caja adalah manajer berkas resmi untuk desktop MATE. Ini memungkinkan untuk meramban direktori, maupun melihat pratinjau berkas dan meluncurkan aplikasi yang terkait dengan mereka. Ini juga bertanggung jawab untuk menangani ikon pada desktop MATE. Ia bekerja pada sistem berkas lokal dan remote.</p>
+    <p>Caja dapat diperluas melalui sistem plugin, mirip dengan GNOME Nautilus, dimana Caja adalah fork darinya.</p>
+  </description>
+  <description lang="ie">
+    <p>Caja es li oficial gerente de files por li ambiente de pupitre MATE. It lassa navigar directorias, previder files e lansar applicationes associat con ili. It anc es responsabil por li icones sur li pupitre MATE. It functionar por local e remoet sistemas de files.</p>
+    <p>Caja es extensibil med un sistema de plugines, quel es similar a li de GNOME Nautilus, un fork de quel Caja es.</p>
+  </description>
+  <description lang="it">
+    <p>Caja è il gestore di file ufficiale del desktop MATE. Permette di sfogliare cartelle, vedere le anteprime dei file e avviare le applicazioni associate a tali file. Gestisce, inoltre, le icone del desktop MATE e supporta file system locali o remoti.</p>
+    <p>Le funzionalità di Caja possono essere aumentate tramite i plugin, così come in GNOME Nautilus da cui Caja deriva.</p>
+  </description>
+  <description lang="ja">
+    <p>Caja は MATE デスクトップの公式ファイルマネージャーです。ディレクトリの参照やファイルのプレビュー、関連付けられたアプリケーションの起動が可能です。また、MATE デスクトップのアイコンの管理も行っています。Cajaはローカルのファイルシステムでもリモートのファイルシステムでも動作します。</p>
+    <p>Caja は派生元の GNOME Nautilus と同様、プラグインシステムによって拡張することができます。</p>
+  </description>
+  <description lang="ko">
+    <p>Caja는 플러그인 시스템을 통해 확장 가능하며, 이 시스템의 Kaja는 포크인 GNOME Nautilus와 유사합니다.</p>
+  </description>
+  <description lang="lt">
+    <p>Caja yra oficiali failų tvarkytuvė MATE darbalaukiui. Ji leidžia naršyti katalogus, o taip pat peržiūrinėti failus ir vykdyti programas, susijusias su jais. Be to, programa yra atsakinga už piktogramų apdorojimą MATE darbalaukyje. Ji veikia vietinėse ir nuotolinėse failų sistemose.</p>
+    <p>Cają galima išplėsti papildinių sistema, panašia į GNOME Nautilaus, kurio atšaka yra Caja.</p>
+  </description>
+  <description lang="ms">
+    <p>Caja ialah pengurus fail rasmi bagi desktop MATE. Ia membolehkan pelayaran direktori, membuat pratonton fail dan melancarkan aplikasi yang dikaitkan dengannya. Ia juga bertanggungjawab mengendalikan ikon-ikon desktop MATE. Ia berfungsi pada sistem fail setempat dan jauh.</p>
+    <p>Caja boleh ditambah baik dengan sistem palam, seakan dengan Nautilus GNOME, yang mana Caja cabangnya.</p>
+  </description>
+  <description lang="nb">
+    <p>Caja er den offisielle filbehandleren for MATE-skrivebordet. Det gir mulighet for å bla gjennom mapper, samt forhåndsvise filer og starte programmer tilknyttet dem. Det er også ansvarlig for håndtering av ikonene på MATE-skrivebordet. Den fungerer på lokale og eksterne filsystemer.</p>
+    <p>Caja kan utvides med programtillegg tilsvarende GNOME Nautilus, som Caja er avledet fra.</p>
+  </description>
+  <description lang="nl">
+    <p>Caja is de officiële bestandsbeheerder van de MATE-werkomgeving. U kunt er mappen mee verkennen, voorbeeldweergave van bestanden tonen en toepassingen starten die met die bestanden zijn geassocieerd. Hij is ook verantwoordelijk voor het afhandelen van de pictogrammen op het MATE-bureaublad. Hij werkt zowel met plaatselijke bestandssystemen als met bestandssystemen-op-afstand.</p>
+    <p>Caja is uitbreidbaar via een invoegselsysteem vergelijkbaar met dat van GNOME Nautilus, waarvan Caja een aftakking is.</p>
+  </description>
+  <description lang="oc">
+    <p>Caja es lo gestionari de fichièrs oficial de MATE. Permet de percórrer los repertòris, tanben previsualizar de fichièrs e lançar d’aplicacions ligadas. Es tanben en carga de la gestion de las icònas del burèu MATE. Fonciona pels fichièrs sistèma locals e alonhats.</p>
+    <p>Caje es extensible via un sistèma d’extensions, similari a çò de GNOME Nautilus, del qual es una variacion.</p>
+  </description>
+  <description lang="pl">
+    <p>Caja jest oficjalnym menedżerem plików dla środowiska MATE. Umożliwia przeglądanie katalogów, a także podglądanie plików oraz uruchamiania aplikacji powiązanych z nimi. Jest również odpowiedzialne za obsługę ikon na pulpicie MATE. Działa na lokalnych oraz zdalnych systemach plików.</p>
+    <p>Caja jest rozszerzalna przez system wtyczek, podobny do tego z GNOME Nautilus, którego Caja jest forkiem. </p>
+  </description>
+  <description lang="pt">
+    <p>Caja é o gestor de ficheiros oficial do ambiente de trabalho MATE. Permite pesquisar directórios, assim como prever ficheiros e lançar aplicações relacionadas com estes. É também responsável pela gestão dos ícones do ambiente de trabalho MATE. Funciona com ficheiros locais e remotos.</p>
+    <p>Caja é extensível através de um sistema de suplementos, semelhante ao GNOME Nautilus, do qual o Caja é uma modificação.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>&lt;p> Caja é o gerenciador de arquivos oficial do ambiente MATE. Ele permite navegar por diretórios, bem como visualizar arquivos e lançar aplicações que lhes estão associados. Ele também é responsável por tratar os ícones na área de trabalho MATE. Ele funciona em sistemas de arquivos locais e remotos. &lt;/p> </p>
+    <p>Caja é expansível por meio de um sistema de plugins, semelhante ao do Nautilus do GNOME, do qual Caja é um fork.</p>
+  </description>
+  <description lang="ru">
+    <p>Caja — официальный файловый менеджер среды MATE. Он позволяет как обозревать каталоги, так и выполнять предпросмотр файлов с запуском связанных с ними приложений. Он также управляет значками на рабочем столе MATE. Caja работает на локальных и удалённых файловых системах.</p>
+    <p>Возможности Caja можно расширить через систему подключаемых модулей, схожую с подобной у GNOME Nautilus, приложения, в копии репозитория которого развивается проект Caja.</p>
+  </description>
+  <description lang="sk">
+    <p>Caja je oficiálnym správcom súborov prostredia MATE. Môžete pomocou neho prechádzať priečinkami, prezerať súbory a spúšťať aplikácie s nimi asociované. Taktiež je zodpovedný za správu ikoniek na pracovnej ploche prostredia MATE. Funguje na miestnych aj na vzdialených súborových systémoch.</p>
+    <p>Caja je rozšíriteľná systémom zásuvných modulov, podobne ako aj GNOME Nautilus, z ktorého Caja vychádza.</p>
+  </description>
+  <description lang="sl">
+    <p>Caja je uradni upravljalnik datotek za MATE namizje. Omogoča brskanje po mapah, kot tudi predogled datotek in zagon aplikacij, ki so povezane z njimi. Odgovoren je tudi za upravljanje ikon v MATE namizju. Deluje na lokalnik in oddaljeni datotečni sistemih.</p>
+    <p>Cajo je mogoče razširiti prekov sistema vtičnikov, ki je podoben tistim za GNOME Nautilus, katerega priredba je Caja.</p>
+  </description>
+  <description lang="sr">
+    <p>Цаја је званични управник датотека за Мејтову радну површ. Омогућава разгледање директоријума, као и претпреглед датотека и покретање програма њима придружених. Такође је одговаран за руковање иконицама на Мејтовој радној површи. Ради на локалним и удаљеним системима датотека.</p>
+    <p>Цаја се може проширити системом прикључака, сличних Гномовом Наутилусу, чији је Цаја исцепак.</p>
+  </description>
+  <description lang="sv">
+    <p>Caja är den officiella filhanteraren för MATE-skrivbordet. Den möjliggör navigering i kataloger, så väl som förhandsgranskning av filter och start av associerade program till dessa filer. Den ansvarar även för hantering av skrivbordsikoner för MATE-skrivbordet. Den fungerar både för lokala och fjärranslutna filsystem.</p>
+    <p>Caja kan utökas med hjälp av ett plugin-system som efterliknar det för GNOME Nautilus, av vilket Caja är en förgrening.</p>
+  </description>
+  <description lang="tr">
+    <p>Caja, MATE masaüstü ortamının resmi dosya yöneticisidir. Dizinleri taramaya, dosyaları önizlemeye ve onlarla ilişkili uygulamaları başlatmaya imkân verir. Aynı zamanda MATE masaüstündeki simgeleri yönetmekle de yükümlüdür. Hem yerel hem de uzaktaki dosya sistemleri ile çalışır.</p>
+    <p>Caja, Caja'nın çatallandığı GNOME Nautilus'a benzer bir eklenti sistemi ile genişletilebilir.</p>
+  </description>
+  <description lang="uk">
+    <p>Caja — офіційний файловий упорядник для MATE desktop. Він використовується для перегляду директорій, файлів і запуску програм повʼязаних із ними. Також відповідальний за опрацювання піктограм у MATE desktop. Працює на локальних і дистанційних файлових системах.</p>
+    <p>Caja розширюється за допомогою системи втулків, схожої на реалізацію у GNOME Nautilus,  чиїм відгалуженням є Caja</p>
+  </description>
+  <description lang="vi">
+    <p>Caja là chương trình quản lý tập tin chính thức của giao diện MATE. Nó cho phép duyệt các thư mục và tập tin, đồng thời xem trước và khởi động các ứng dụng dưới dạng tập tin thực thi. Chương trình cũng chịu trách nhiệm cho việc quản lí các biểu tượng của giao diện MATE. Nó hoạt động được trên các hệ thống tập tin cục bộ và qua mạng.</p>
+    <p>Caja được phát triển, mở rộng thông qua một hệ thống trình cắm mở rộng, tương tự như GNOME Nautilus, cái mà Caja được dựa trên.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>Caja 是 MATE 桌面的文件管理器。它可以被用来浏览目录，预览文件和启动相关程序，还负责处理 MATE 桌面图标。适用于本地和远程文件系统。</p>
+    <p>Caja 作为 GNOME Nautilus 的复刻，支持通过插件系统进行扩展。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>Caja 是 MATE 桌面環境的官方檔案管理員。它可以讓您瀏覽目錄，也可以預覽檔案及啟動與其相關的應用程式。它同時也負責處理 MATE 桌面環境的小圖示。它可以在本機及遠端檔案系統中工作。</p>
+    <p>Caja 可以透過外掛程式系統擴充，與 GNOME Nautilus 類似，而 Caja 是其分支。</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image width="960" height="540">
+    https://alexpl.fedorapeople.org/AppData/caja/screens/caja_01.png
+   </image>
+    </screenshot>
+    <screenshot>
+      <image height="540" width="960">
+    https://alexpl.fedorapeople.org/AppData/caja/screens/caja_02.png
+   </image>
+    </screenshot>
+    <screenshot>
+      <image width="960" height="540">
+    https://alexpl.fedorapeople.org/AppData/caja/screens/caja_03.png
+   </image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://mate-desktop.org</url>
+  <updatecontact>mate-dev@ml.mate-desktop.org</updatecontact>
+  <project_group>MATE</project_group>
+</component>

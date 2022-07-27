@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>swaysettings</pkgname>
+  <launchable type="desktop-id">org.erikreider.swaysettings.desktop</launchable>
+  <icon width="64" type="cached" height="64">org.erikreider.swaysettings.png</icon>
+  <icon width="128" type="cached" height="128">org.erikreider.swaysettings.png</icon>
+  <id>org.erikreider.swaysettings.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+</component>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>easytag</pkgname>
+  <launchable type="desktop-id">easytag.desktop</launchable>
+  <icon height="64" width="64" type="cached">easytag.png</icon>
+  <icon height="128" type="cached" width="128">easytag.png</icon>
+  <id>easytag.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>EasyTAG</name>
+  <name lang="bs">Laka oznaka</name>
+  <name lang="ca">EasyTAG</name>
+  <name lang="cs">EasyTAG</name>
+  <name lang="de">EasyTAG</name>
+  <name lang="en_GB">EasyTAG</name>
+  <name lang="es">EasyTAG</name>
+  <name lang="fr">EasyTAG</name>
+  <name lang="hr">EasyTAG</name>
+  <name lang="hu">EasyTAG</name>
+  <name lang="ko">이지태그</name>
+  <name lang="lt">EasyTAG</name>
+  <name lang="nb">EasyTAG</name>
+  <name lang="oc">EasyTAG</name>
+  <name lang="pl">EasyTAG</name>
+  <name lang="pt">EasyTAG</name>
+  <name lang="pt_BR">EasyTAG</name>
+  <name lang="sr">Лака ознака</name>
+  <name lang="sr@latin">Laka oznaka</name>
+  <name lang="sv">EasyTAG</name>
+  <name lang="tr">EasyTAG</name>
+  <name lang="zh_TW">EasyTAG 音訊標籤編輯器</name>
+  <summary>Edit audio file metadata</summary>
+  <summary lang="bs">Edituj adio file metadata</summary>
+  <summary lang="ca">Edita les metadades del fitxer d'àudio</summary>
+  <summary lang="cs">Upravujte si metadata zvukových souborů</summary>
+  <summary lang="de">Metadaten von Audio-Datei bearbeiten</summary>
+  <summary lang="en_GB">Edit audio file metadata</summary>
+  <summary lang="es">Editar los metadatos de archivos de sonido</summary>
+  <summary lang="fr">Modifier les méta-données de fichiers audio</summary>
+  <summary lang="hr">Uredi metapodatke glazbene datoteke</summary>
+  <summary lang="hu">Hangfájlok metaadatainak szerkesztése</summary>
+  <summary lang="ko">소리 파일 메타데이터를 편집합니다</summary>
+  <summary lang="nb">Rediger metadata i lydfiler</summary>
+  <summary lang="oc">Modificar las metadonadas dels fichièrs àudio</summary>
+  <summary lang="pl">Modyfikowanie metadanych plików dźwiękowych</summary>
+  <summary lang="pt">Editar metadados de ficheiros de áudio</summary>
+  <summary lang="pt_BR">Edite metadados de arquivo de áudio</summary>
+  <summary lang="sr">Уређујте метаподатке звучних датотека</summary>
+  <summary lang="sr@latin">Uređujte metapodatke zvučnih datoteka</summary>
+  <summary lang="sv">Redigera metadata för ljudfil</summary>
+  <summary lang="tr">Ses dosyası üstverilerini düzenleyin</summary>
+  <summary lang="zh_TW">編輯音訊檔案的元數據</summary>
+  <description>
+    <p>View and edit tags for MP3, MP2, MP4/AAC, FLAC, Ogg Opus, Ogg Speex, Ogg Vorbis, MusePack, Monkey's Audio and WavPack files.</p>
+    <p>Look up albums in online databases, bulk edit tags, create playlists and rename a collection of files.</p>
+    <p>A simple and nice GTK+ interface makes tagging easier under GNU/Linux and Windows.</p>
+  </description>
+  <description lang="bs">
+    <p>Pogledaj i preuredi oznake za MP3,MP2,MP4/AAC,FLAC.Ogg Opus, Ogg Speex, Ogg Vorbis, MusePack, Monkey's Audio I WavPack datoteka.</p>
+    <p>Pogledaj albume u onlajn bazama podataka,bulk edit oznake,kreiraj liste ili preimenuj skup podataka.</p>
+    <p>Jednostavan i dobar GTK+ interfejs pravi oznacenje laksim pod GNU/Linux i Windows.</p>
+  </description>
+  <description lang="ca">
+    <p>Mostra i edita les copies per MP3, MP2, MP4/AAC, FLAC, Ogg Opus, Ogg Speex, Ogg Vorbis, MusePack, audio Monkey i fitxers WavPack.</p>
+    <p>Cerca àlbums en base de dades en línia, edita etiquetes lots, crea llistes de reproducció i reanomena col·leccions de fitxers.</p>
+    <p>Una simple i agradable interfície GTK+ que fa fàcil etiquetar sota GNU/Linux i Windows.</p>
+  </description>
+  <description lang="cs">
+    <p>Zobrazte si a upravte šítky (tzv. „tagy“) u souborů MP3, MP2, MP4/AAC, FLAC, Ogg Opus, Ogg Speex, Ogg Vorbis, MusePack, Monkey's Audio a WavPack.</p>
+    <p>Můžete vyhledávat alba v on-line databázích, hromadně měnit šítky, vytvářet si seznamy k přehrání (tzv. „playlisty“) nebo přejmenovávat sbírky souborů.</p>
+    <p>Jednoduché a pěkné rozhraní v GTK+ vám usnadní šítkování pod GNU/Linuxem i pod Windows.</p>
+  </description>
+  <description lang="de">
+    <p>Betrachten und bearbeiten Sie Metainformationen von Dateien in den Formaten: MP3, MP2, MP4/AAC, FLAC, Ogg Opus, Ogg Speex, Ogg Vorbis, MusePack, Monkey's Audio und WavPack.</p>
+    <p>Sie können Alben in Datenbanken im Netz nachschlagen, Metainformationen stapelweise bearbeiten und eine Sammlung an Dateien umbenennen.</p>
+    <p>Die einfache und praktische GTK+-Schnittstelle macht das Hinzufügen von Metainformationen leichter unter GNU/Linux und Windows.</p>
+  </description>
+  <description lang="el">
+    <p>Προβολή και επεξεργασία ετικετών για αρχεία MP3, MP2, MP4/AAC, FLAC, Ogg Opus, Ogg Speex, Ogg Vorbis, MusePack, Monkey's Audio και WavPack.</p>
+    <p>Αναζητήστε έναν δίσκο σε διαδικτυακές βάσεις δεδομένων, επεξεργαστείτε μαζικά ετικέτες, δημιουργήστε λίστες αναπαραγωγής και να μετονομάστε μια συλλογή αρχείων.</p>
+    <p>Μια απλή και ωραία διεπαφή GTK+ καθιστά ευκολότερη την προσθήκη ετικέτών σε GNU/Linux και Windows.</p>
+  </description>
+  <description lang="en_GB">
+    <p>View and edit tags for MP3, MP2, MP4/AAC, FLAC, Ogg Opus, Ogg Speex, Ogg Vorbis, MusePack, Monkey's Audio and WavPack files.</p>
+    <p>Look up albums in online databases, bulk edit tags, create playlists and rename a collection of files.</p>
+    <p>A simple and nice GTK+ interface makes tagging easier under GNU/Linux and Windows.</p>
+  </description>
+  <description lang="es">
+    <p>Ver y editar etiquetas de archivos MP3, MP2, MP4/AAC, FLAC, Ogg Opus, Ogg Speex, Ogg Vorbis, MusePack, Monkey's Audio y WavPack </p>
+    <p>Buscar álbumes el bases de datos en línea, editar etiquetas en masa, crear listas de reproducción y renombrar una colección de archivos.</p>
+    <p>La interfaz simple y bonita de GTK+ hace que sea más fácil etiquetar en GNU/Linux y Windows.</p>
+  </description>
+  <description lang="fr">
+    <p>Afficher et modifier les étiquettes pour les fichiers MP3, MP2, MP4/AAC, FLAC, Ogg Opus, Ogg Speex, Ogg Vorbis, MusePack, Monkey's Audio et WavPack.</p>
+    <p>Rechercher les albums dans les bases de données en ligne, modifier les étiquettes en masse, créer des listes de lecture et renommer une collection de fichiers.</p>
+    <p>Une interface simple et agréable en GTK+ qui rend l'étiquetage plus facile sous GNU/Linux et Windows.</p>
+  </description>
+  <description lang="hr">
+    <p>Pogledaj i uredi oznake za MP3, MP2, MP4/AAC, FLAC, Ogg Opus, Ogg Speex, Ogg Vorbis, MusePack, Monkey's Audio and WavPack datoteke.</p>
+    <p>Potraži albume u bazi podataka na internetu, skupno uređivanje oznaka, stvori popise izvođenja i preimenuj kolekcije datoteka.</p>
+    <p>Jednostavno i privlačno GTK+ sučelje omogućuje lako uređivanje u GNU/Linuxu i Windowsima.</p>
+  </description>
+  <description lang="hu">
+    <p>Címkék megtekintése és szerkesztése MP3, MP2, MP4/AAC, FLAC, Ogg Opus, Ogg Speex, Ogg Vorbis, MusePack, Monkey hang és WavPack fájlokhoz.</p>
+    <p>Albumok keresése az online adatbázisokban, címkék tömeges szerkesztése, lejátszólisták létrehozása és fájlok gyűjteményének átnevezése.</p>
+    <p>Egy egyszerű és szép GTK+ felület, amely megkönnyíti a címkézést GNU/Linux és Windows alatt.</p>
+  </description>
+  <description lang="id">
+    <p>Lihat dan sunting tag bagi berkas-berkas MP3, MP2, MP4/AAC, FLAC, Ogg Opus, Ogg Speex, Ogg Vorbis, MusePack, Monkey’s Audio, dan WavPack.</p>
+    <p>Cari album dalam basis data daring, sunting masal tag, buat daftar putar, dan ubah nama suatu koleksi berkas.</p>
+    <p>Antar muka GTK+ yang sederhana dan manis, yang memudahkan men-tag di bawah GNU/Linux dan Windows.</p>
+  </description>
+  <description lang="it">
+    <p>Visualizza e modifica le etichette per i file MP3, MP2, MP4/AAC, FLAC, Ogg Opus, Ogg Speex, Ogg Vorbis, MusePack, Monkey's Audio e WavPack.</p>
+    <p>Cerca album nei database in rete, modifica in massa le etichette, crea scalette e rinomina una collezione di file.</p>
+    <p>Una semplice e piacevole interfaccia GTK+ che rende facile l'inserimento di etichette su GNU/Linux e Windows.</p>
+  </description>
+  <description lang="ko">
+    <p>MP3, MP2, MP4/AAC, FLAC, Ogg Opus, Ogg Speex, Ogg Vorbis, MusePack, Monkey's Audio, WavPack 파일 태그를 보고 편집합니다.</p>
+    <p>온라인 데이터베이스에서 앨범을 찾아보고, 한꺼번에 여러 파일에 대한 태그를 편집하며, 여러 파일의 이름을 바꿉니다.</p>
+    <p>단순하고 멋진 GTK+ 인터페이스로 GNU/Linux와 윈도우에서 쉽게 태그를 붙일 수 있게 합니다.</p>
+  </description>
+  <description lang="lt">
+    <p>Žiūrėkite ir keiskite žymas MP3, MP2, MP4/AAC, FLAC, gg Opus, Ogg Speex, Ogg Vorbis, MusePack, Monkey's Audio bei WavPack failuose.</p>
+    <p>Ieškokite albumų internetinėse duomenų bazėse, masiškai keiskite žymas, kurkite grojaraščius bei pervadinkite failų rinkinius.</p>
+    <p>Paprasta ir graži GTK+ sąsaja, leidžianti lengvai žymėti GNU/Linux bei Windows sistemose.</p>
+  </description>
+  <description lang="nb">
+    <p>Vis og rediger tagger for MP3-, MP2-, MP4/AAC-, FLAC., Ogg Opus-, Ogg Speex-, Ogg Vorbis-, MusePack-, Monkey's Audio- og WavPack-filer.</p>
+    <p>Finn album i databaser på nett, rediger tagger buntvis, lag spillelister og gi nytt navn til flere filer.</p>
+    <p>Et enkelt og greit GTK+-grensesnitt gjør det enklere å tagge med GNU/Linux og Windows.</p>
+  </description>
+  <description lang="oc">
+    <p>Afichar e modificar las etiquetas pels fichièrs MP3, MP2, MP4/AAC, FLAC, Ogg Opus, Ogg Speex, Ogg Vorbis, MusePack, Monkey's Audio e WavPack.</p>
+    <p>Recercar los albums dins las bancas de donadas en linha, modificar las etiquetas en massa, crear de listas de lectura e renomenar una colleccion de fichièr.</p>
+    <p>Una interfàcia simpla e agradiva en GTK+ que rend l'etiquetatge mai aisit jos GNU/Linux e Windows.</p>
+  </description>
+  <description lang="pl">
+    <p>Wyświetlanie i modyfikowanie etykiet plików MP3, MP2, MP4/AAC, FLAC, Ogg Opus, Ogg Speex, Ogg Vorbis, MusePack, Monkey’s Audio i WavPack.</p>
+    <p>Wyszukiwanie albumów w sieciowych bazach danych, masowe modyfikowanie etykiet, tworzenie list odtwarzania i zmienianie nazw zbiorów plików.</p>
+    <p>Prosty i łatwy w użyciu interfejs GTK+ ułatwia modyfikowanie etykiet w systemach GNU/Linux i Windows.</p>
+  </description>
+  <description lang="pt">
+    <p>Ver e editar etiquetas de ficheiros MP3, MP2, MP4/AAC, FLAC, Ogg Opus, Ogg Speex, Ogg Vorbis, MusePack, Monkey"s Audio e WavPack.</p>
+    <p>Procurar álbuns em bases de dados online, editar etiquetas em massa, criar listas de reprodução e renomear uma coleção de ficheiros.</p>
+    <p>Um ambiente Gtk+ simples e agradável para simplificar a etiquetagem em GNU/Linux e Windows.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Veja e edite etiquetas de arquivos MP3, MP2, MP4/AAC, FLAC, Ogg Opus, Ogg Speex, Ogg Vorbis, MusePack, Monkey's Audio e WavPack.</p>
+    <p>Pesquise por álbuns em bases de dados on-line, edite etiquetas em massa, crie listas de reprodução e renomeie uma coleção de arquivos.</p>
+    <p>Uma interface GTK+ simples e agradável que facilita a criação de etiquetas no GNU/Linux e Windows.</p>
+  </description>
+  <description lang="sl">
+    <p>Enostaven in pregleden vmesnik GTK+, ki omogoča enostavno označevanje.</p>
+  </description>
+  <description lang="sr">
+    <p>Прегледајте и уређујте ознаке за МП3, МП2, МП4/ААЦ, ФЛАЦ, Огг Опус, Огг Спикс, Огг Ворбис, МјузПак, Монки аудио и Вејвпак датотеке.</p>
+    <p>Тражите албуме у бази података на мрежи, групно уређујте ознаке, стварајте спискове нумера и преименујте збирке датотека.</p>
+    <p>Једноставно и привлачно Гтк+ сучеље чини означавање лакшим у ГНУ/Линуксу и Виндоузу.</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Pregledajte i uređujte oznake za MP3, MP2, MP4/AAC, FLAC, Ogg Opus, Ogg Spiks, Ogg Vorbis, MjuzPak, Monki audio i Vejvpak datoteke.</p>
+    <p>Tražite albume u bazi podataka na mreži, grupno uređujte oznake, stvarajte spiskove numera i preimenujte zbirke datoteka.</p>
+    <p>Jednostavno i privlačno Gtk+ sučelje čini označavanje lakšim u GNU/Linuksu i Vindouzu.</p>
+  </description>
+  <description lang="sv">
+    <p>Visa och redigera taggar för MP3, MP2, MP4/AAC, FLAC, Ogg Opus, Ogg Speex, Ogg Vorbis, MusePack, Monkey's Audio och WavPackfiler.</p>
+    <p>Sök efter album i internetanslutna databaser, massredigera taggar, skapa spellistor och byt namn på hela filsamlingar.</p>
+    <p>Ett enkelt och trevligt GTK+-gränssnitt som gör taggning lättare med GNU/Linux och Windows</p>
+  </description>
+  <description lang="tr">
+    <p>MP3, MP2, MP4/AAC, FLAC, Ogg Opus, Ogg Speex, Ogg Vorbis, MusePack, Monkey's Audio ve WavPack dosyalarının etiketlerini görüntüleyin ve düzenleyin.</p>
+    <p>Çevrimiçi veritabanlarında albümleri arayın, etiketleri topluca düzenleyin, çalma listeleri oluşturun ve bir grup dosyayı yeniden adlandrın.</p>
+    <p>Basit ve hoş GTK+ arayüzü; GNU/Linux ve Windows ortamında etiketlemeyi kolaylaştırır.</p>
+  </description>
+  <description lang="zh_TW">
+    <p>檢視並編輯 MP3、MP2、MP4/AAC、FLAC、Ogg Opus、Ogg Speex、Ogg Vorbis、MusePack、Monkey's Audio 及 WavePack　檔案的標籤。</p>
+    <p>簡易及美觀的 GTK+ 介面讓您在 GNU/Linux 和 Windows 編輯音樂標籤變得非常簡單。</p>
+  </description>
+  <url type="homepage">https://wiki.gnome.org/Apps/EasyTAG</url>
+  <url type="bugtracker">https://bugzilla.gnome.org/enter_bug.cgi?product=easytag</url>
+  <url type="help">https://help.gnome.org/users/easytag/stable/</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>http://amigadave.com/temp/easytag-default.png</image>
+    </screenshot>
+  </screenshots>
+  <kudos>
+    <kudo>AppMenu</kudo>
+    <kudo>ModernToolkit</kudo>
+  </kudos>
+  <update_contact>amigadave@amigadave.com</update_contact>
+  <translation type="gettext">easytag</translation>
+</component>

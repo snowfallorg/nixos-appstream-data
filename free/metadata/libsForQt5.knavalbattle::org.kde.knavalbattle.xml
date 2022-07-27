@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>libsForQt5.knavalbattle</pkgname>
+  <launchable type="desktop-id">org.kde.knavalbattle.desktop</launchable>
+  <icon height="64" type="cached" width="64">knavalbattle.png</icon>
+  <icon type="cached" height="128" width="128">knavalbattle.png</icon>
+  <id>org.kde.knavalbattle.desktop</id>
+  <metadata_license>FSFAP</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Naval Battle</name>
+  <name lang="ar">المعركة البحرية</name>
+  <name lang="ca">Batalla naval</name>
+  <name lang="ca-valencia">Batalla naval</name>
+  <name lang="cs">Námořní bitva</name>
+  <name lang="da">Naval Battle</name>
+  <name lang="de">Naval Battle</name>
+  <name lang="el">Ναυμαχία</name>
+  <name lang="en-GB">Naval Battle</name>
+  <name lang="es">Batalla naval</name>
+  <name lang="et">Naval Battle</name>
+  <name lang="fi">Meritaistelu</name>
+  <name lang="fr">Naval Battle</name>
+  <name lang="gl">Batalla naval</name>
+  <name lang="id">Naval Battle</name>
+  <name lang="it">Battaglia navale</name>
+  <name lang="ko">전함 대전</name>
+  <name lang="nl">Naval Battle</name>
+  <name lang="nn">Naval Battle</name>
+  <name lang="pl">Bitwa Morska</name>
+  <name lang="pt">Batalha Naval</name>
+  <name lang="pt-BR">Batalha Naval</name>
+  <name lang="ru">Морской бой</name>
+  <name lang="sk">Námorná bitka</name>
+  <name lang="sl">Naval Battle</name>
+  <name lang="sr">Поморска битка</name>
+  <name lang="sr-Latn">Pomorska bitka</name>
+  <name lang="sr-ijekavian">Поморска битка</name>
+  <name lang="sr-ijekavianlatin">Pomorska bitka</name>
+  <name lang="sv">Sänka fartyg</name>
+  <name lang="tr">Amiral Battı</name>
+  <name lang="uk">Морський бій</name>
+  <name lang="x-test">xxNaval Battlexx</name>
+  <name lang="zh-CN">Naval Battle</name>
+  <summary>Battle Ship Game</summary>
+  <summary lang="ar">لعبة إغراق السفن</summary>
+  <summary lang="ca">Joc de batalla naval</summary>
+  <summary lang="ca-valencia">Joc de batalla naval</summary>
+  <summary lang="cs">Hra na lodě</summary>
+  <summary lang="da">Sænke slagskibe</summary>
+  <summary lang="de">„Schiffe versenken“-Spiel</summary>
+  <summary lang="el">ΠΑιχνίδι με το στόλο</summary>
+  <summary lang="en-GB">Battle Ship Game</summary>
+  <summary lang="es">Juego de batalla naval</summary>
+  <summary lang="et">Laevade pommitamise mäng</summary>
+  <summary lang="fi">Meritaistelupeli</summary>
+  <summary lang="fr">Jeu de touché-coulé</summary>
+  <summary lang="gl">Xogo de afundir barcos</summary>
+  <summary lang="id">Permainan Kapal Perang</summary>
+  <summary lang="it">Gioco della battaglia navale</summary>
+  <summary lang="ko">전함 침몰 게임</summary>
+  <summary lang="nl">Spel met slagschepen</summary>
+  <summary lang="nn">Spel om å senka slagskip</summary>
+  <summary lang="pl">Gra w statki</summary>
+  <summary lang="pt">Jogo de Batalha Naval</summary>
+  <summary lang="pt-BR">Jogo Batalha Naval</summary>
+  <summary lang="ru">Игра «Морской бой»</summary>
+  <summary lang="sk">Bojová lodná hra</summary>
+  <summary lang="sl">Igra potapljanja ladjic</summary>
+  <summary lang="sr">Игра потапања бродова</summary>
+  <summary lang="sr-Latn">Igra potapanja brodova</summary>
+  <summary lang="sr-ijekavian">Игра потапања бродова</summary>
+  <summary lang="sr-ijekavianlatin">Igra potapanja brodova</summary>
+  <summary lang="sv">Sänka fartygsspel</summary>
+  <summary lang="tr">Savaş Gemisi Oyunu</summary>
+  <summary lang="uk">Гра «Морський бій»</summary>
+  <summary lang="x-test">xxBattle Ship Gamexx</summary>
+  <summary lang="zh-CN">舰船游戏</summary>
+  <description>
+    <p>
+      Naval Battle is a ship sinking game. Ships are placed on a board which
+      represents the sea. Players try to hit each others ships in turns without knowing
+      where they are placed. The first player to destroy all ships wins the game.
+    </p>
+  </description>
+  <description lang="ar">
+    <p>المعركة البحرية هي لعبة إغراق السفن. توضع السفن على لوح يمثل البحر. ثم يحاول اللاعبون ضرب سفن بعضهم البعض بالتناوب دون معرفة مكان وضعها. أول لاعب يدمر كل السفن يفوز باللعبة.</p>
+  </description>
+  <description lang="ca">
+    <p>El Batalla naval és un joc de tocar i enfonsar vaixells. Els vaixells se situen en un tauler que representa el mar. Els jugadors intenten enfonsar els vaixells dels altres sense conèixer a on estan situats. El primer jugador que destrueix tots els vaixells guanya la partida.</p>
+  </description>
+  <description lang="ca-valencia">
+    <p>Batalla naval és un joc de tocar i enfonsar vaixells. Els vaixells se situen en un tauler que representa el mar. Els jugadors intenten enfonsar els vaixells dels altres sense conéixer a on estan situats. El primer jugador que destruïx tots els vaixells guanya la partida.</p>
+  </description>
+  <description lang="da">
+    <p>Naval Battle er et sænke slagskibe-spil. Skibe placeres på brættet som forestiller havet. Spillerne forsøger at ramme hinandens skibe på skift uden at vide hvor de er placeret. Den første spiller der sænker alle skibene vinder spillet.</p>
+  </description>
+  <description lang="de">
+    <p> ist ein „Schiffe versenken“-Spiel. Alle Schiffe werden auf dem Spielfeld - dem Meer - angeordnet. Die Spieler versuchen die gegnerischen Schiffe, deren Lage auf dem Spielfeld Sie nicht kennen, abwechselnd mit Schüssen zu treffen. Sieger ist, wer als erster alle Schiffe des Gegners versenkt hat.</p>
+  </description>
+  <description lang="el">
+    <p>Η Ναυμαχία είαι ένα παιχνίδι βύθισης πλοίων. Τα πλοία τοποθετούνται σε έναν πίνακα που αναπαριστά τη θάλασσα. Οι παίκτες προσπαθούν εναλλάξ να χτυπήσουν τα πλοία του αντιπάλου χωρίς να γνωρίζουν πού αυτά βρίσκονται. Ο πρώτος παίκτης που καταστρέφει όλα τα πλοία κερδίζει.</p>
+  </description>
+  <description lang="en-GB">
+    <p>Naval Battle is a ship sinking game. Ships are placed on a board which represents the sea. Players try to hit each others ships in turns without knowing where they are placed. The first player to destroy all ships wins the game.</p>
+  </description>
+  <description lang="es">
+    <p>«Batalla naval» es un juego de hundir los barcos. Los barcos se colocan en un tablero que representa el mar. Los jugadores tratan de alcanzar los barcos del contrincante por turnos sin saber dónde están situados. El primer jugador que destruya todos los barcos de su contrincante ganará el juego.</p>
+  </description>
+  <description lang="et">
+    <p>Naval Battle on laevade uputamise mäng. Laevad seatakse merd kujutavale mänguväljakule. Mängijad ründavad kordamööda vastase laevu, teadmata, kuhu täpselt on need asetatud. Kes esimesena kõik vastase laevad hävitab, on mängu võitnud.</p>
+  </description>
+  <description lang="fi">
+    <p>Meritaistelu on laivanopetuspeli. Laivat sijoitetaan merta edustavalle laudalle. Pelaajat yrittävät vuoroon osua toistensa laivoihin tietämättä niiden sijaintia. Pelaaja, joka ensimmäisenä upottaa toisen kaikki laivat, voittaa pelin.</p>
+  </description>
+  <description lang="fr">
+    <p>Naval Battle est un jeu de touché-coulé. Les navires sont placés sur une grille qui représente la mer. Les joueurs essaient chacun leur tour de toucher les vaisseaux de leur adversaire sans savoir où ils sont situés. Le premier joueur à détruire la totalité de la flotte adverse gagne la partie.</p>
+  </description>
+  <description lang="gl">
+    <p>Batalla naval é un xogo de afundir barcos. Os barcos colócanse nun taboleiro que representa o mar. Cada xogador intenta afundir os barcos do outro sen saber onde están colocados. O primeiro xogador que destrúe a armada completa do outro gaña a partida.</p>
+  </description>
+  <description lang="id">
+    <p>Naval Battle adalah permainan kapal selam. Kapal ditempatkan di papan yang mewakili laut. Pemain mencoba untuk saling memukul kapal secara bergantian tanpa mengetahui di mana mereka ditempatkan. Pemain pertama yang menghancurkan semua kapal memenangkan permainan.</p>
+  </description>
+  <description lang="it">
+    <p>Battaglia navale è un gioco di affondamento di navi. Le navi vengono disposte su un riquadro che rappresenta il mare. Poi ogni giocatore a turno tenta di colpire le navi dell'altro, senza sapere dove sono disposte. Vince il primo giocatore che affonda tutte le navi nemiche.</p>
+  </description>
+  <description lang="ko">
+    <p>전함 대전은 배 침몰 게임입니다. 전함은 바다를 나타내는 보드 위에 배치됩니다. 각 플레이어는 상대방의 전함 위치를 모른 상태로 포격을 가합니다. 모든 배를 최초로 침몰시키는 플레이어가 게임에서 이깁니다.</p>
+  </description>
+  <description lang="nl">
+    <p>Naval Battle is het spel Zeeslag. Schepen worden op een bord geplaatst die de zee voorstelt. Spelers proberen om de beurt elkaars schepen te raken zonder te weten waar ze zijn geplaatst. De eerste speler die alle schepen laat zinken wint het spel.</p>
+  </description>
+  <description lang="nn">
+    <p>Naval Battle er eit spel som handlar om å senka slagskip. Skipa vert plasserte ut på eit brett som representerer havet. Spelarane byter så på å skyta rakettar mot skipa til motstandarane, men utan å sjå kor skipa er. Den første spelaren som klarer å øydeleggja alle skipa til motstandaren, vinn.</p>
+  </description>
+  <description lang="pl">
+    <p>Gra w statki jest grą polegającą na zatapianiu statków. Statki umieszczane są na planszy, która ma przedstawiać morze. Gracze próbują trafić statek przeciwnika w turach nie wiedząc gdzie te statki są umieszczone. Gracz, który zniszczy jako pierwszy wszystkie statki przeciwnika wygrywa.</p>
+  </description>
+  <description lang="pt">
+    <p>A Batalha Naval é um jogo para afundar navios. Os navios são colocados num tabuleiro que representa o mar. Os jogador tentam atingir-se uns aos outros por turnos, sem saber onde eles colocaram os navios. O primeiro jogador a destruir todos os navios ganha o jogo.</p>
+  </description>
+  <description lang="pt-BR">
+    <p>Batalha Naval é um jogo para naufragar navios. Os navios são posicionados em um tabuleiro que representa o mar. Os jogadores tentam atingir os navios dos adversários por jogadas, não sabendo onde eles estão posicionados. O primeiro jogador a destruir todos os navios ganha o jogo.</p>
+  </description>
+  <description lang="ru">
+    <p>Компьютерная версия игры «Морской бой». Корабли размещаются на доске, представляющей море. Игроки по очереди стараются потопить корабли противника, расположение которых им неизвестно. Побеждает тот, кто первым потопит все корабли.</p>
+  </description>
+  <description lang="sk">
+    <p>Námorná bitka je hra na potápanie lodí. Lode sú umiestnené na poli, ktoré reprezentuje more. Hráči skúšajú zasiahnuť druhého hráča v ťahoch bez toho, aby vedeli, kde sú umiestnení. Prvý hráč, ktorý zničí všetky lode, vyhráva hru.</p>
+  </description>
+  <description lang="sl">
+    <p>Naval Battle je igra potapljanja ladjic. Ladje so postavljene na igralno površino, ki predstavlja morje. Igralci izmenično poskušajo zadeti ladje nasprotnikov, pri tem pa ne vedo, kje so te postavljene. Zmaga prvi igralec, ki uniči vse ladje.</p>
+  </description>
+  <description lang="sr">
+    <p>Поморска битка је игра потапања бродова. Бродови се смештају на таблу која представља море. Играчи покушавају један другом да погоде бродове, за које не знају где су постављени. Први играч који уништи све бродове добија партију.</p>
+  </description>
+  <description lang="sr-Latn">
+    <p>Pomorska bitka je igra potapanja brodova. Brodovi se smeštaju na tablu koja predstavlja more. Igrači pokušavaju jedan drugom da pogode brodove, za koje ne znaju gde su postavljeni. Prvi igrač koji uništi sve brodove dobija partiju.</p>
+  </description>
+  <description lang="sr-ijekavian">
+    <p>Поморска битка је игра потапања бродова. Бродови се смештају на таблу која представља море. Играчи покушавају један другом да погоде бродове, за које не знају где су постављени. Први играч који уништи све бродове добија партију.</p>
+  </description>
+  <description lang="sr-ijekavianlatin">
+    <p>Pomorska bitka je igra potapanja brodova. Brodovi se smeštaju na tablu koja predstavlja more. Igrači pokušavaju jedan drugom da pogode brodove, za koje ne znaju gde su postavljeni. Prvi igrač koji uništi sve brodove dobija partiju.</p>
+  </description>
+  <description lang="sv">
+    <p>Sänka fartyg är ett fartygsspel. Fartyg placeras på ett spelbräde som representerar havet. Spelare försöker träffa varandras fartyg i tur och ordning utan att känna till var de är placerade. Den första spelaren som förstör alla fartyg vinner spelet.</p>
+  </description>
+  <description lang="tr">
+    <p>Amiral Battı, bir gemi batırma oyunudur. Gemiler, denizi temsil eden bir tahta üzerine yerleştirilirler. Oyuncular, diğer oyuncuların nereye yerleştirildiklerini bilmeden, sırayla birbirlerine vurmaya çalışırlar. Tüm gemileri yok eden ilk oyuncu oyunu kazanır.</p>
+  </description>
+  <description lang="uk">
+    <p>Морський бій — це гра у морський бій. На ігровому полі, яке відповідає морській поверхні, гравці розташовують кораблі. Після цього кожен з гравців по черзі намагається влучити у кораблі іншого гравця. До початку гри гравці не знають, де розташовано кораблі суперника. Перший з гравців, хто потопить кораблі супротивника, виграє гру.</p>
+  </description>
+  <description lang="x-test">
+    <p>xxNaval Battle is a ship sinking game. Ships are placed on a board which represents the sea. Players try to hit each others ships in turns without knowing where they are placed. The first player to destroy all ships wins the game.xx</p>
+  </description>
+  <description lang="zh-CN">
+    <p>Naval Battle 是一款舰船陷阱游戏。船只被放置在一个代表海域的版图上。 玩家试图在不知道对方的位置的情况下轮流攻击。第一个摧毁所有船只的玩家赢得了游戏。</p>
+  </description>
+  <url type="homepage">https://apps.kde.org/knavalbattle</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=knavalbattle</url>
+  <url type="help">https://docs.kde.org/?application=knavalbattle</url>
+  <url type="donation">https://www.kde.org/community/donations/?app=knavalbattle&amp;source=appdata</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://cdn.kde.org/screenshots/knavalbattle/knavalbattle.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>knavalbattle</binary>
+  </provides>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">mild</content_attribute>
+  </content_rating>
+  <releases>
+    <release version="2.1.22043" date="2022-07-07" />
+    <release version="2.1.22042" date="2022-06-09" />
+    <release version="2.1.22041" date="2022-05-12" />
+    <release version="2.1.22040" date="2022-04-21" />
+  </releases>
+</component>

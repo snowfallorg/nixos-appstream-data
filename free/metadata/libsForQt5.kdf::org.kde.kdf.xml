@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>libsForQt5.kdf</pkgname>
+  <icon width="64" height="64" type="cached">kdf.png</icon>
+  <icon width="128" type="cached" height="128">kdf.png</icon>
+  <id>org.kde.kdf</id>
+  <metadata_license>FSFAP</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KDiskFree</name>
+  <name lang="ar">المساحة المتبقية</name>
+  <name lang="bg">KDiskFree</name>
+  <name lang="ca">KDiskFree</name>
+  <name lang="ca-valencia">KDiskFree</name>
+  <name lang="cs">KDiskFree</name>
+  <name lang="da">KDiskFree</name>
+  <name lang="de">KDiskFree</name>
+  <name lang="el">KDiskFree</name>
+  <name lang="en-GB">KDiskFree</name>
+  <name lang="es">KDiskFree</name>
+  <name lang="et">KDiskFree</name>
+  <name lang="eu">KDiskFree</name>
+  <name lang="fi">KDiskFree</name>
+  <name lang="fr">KDiskFree</name>
+  <name lang="gl">KDiskFree</name>
+  <name lang="ia">KDiskFree</name>
+  <name lang="id">KDiskFree</name>
+  <name lang="it">KDiskFree</name>
+  <name lang="ko">KDiskFree</name>
+  <name lang="nl">KDiskFree</name>
+  <name lang="nn">KDiskFree</name>
+  <name lang="pl">KDiskFree</name>
+  <name lang="pt">KDiskFree</name>
+  <name lang="pt-BR">KDiskFree</name>
+  <name lang="ru">KDiskFree</name>
+  <name lang="sk">KDiskFree</name>
+  <name lang="sl">KDiskFree</name>
+  <name lang="sv">Kdiskfree</name>
+  <name lang="uk">KDiskFree</name>
+  <name lang="x-test">xxKDiskFreexx</name>
+  <name lang="zh-CN">KDiskFree 磁盘占用查看器</name>
+  <name lang="zh-TW">KDiskFree</name>
+  <summary>View Disk Usage</summary>
+  <summary lang="ar">اعرض استخدام القرص</summary>
+  <summary lang="bg">Преглед на използването на диска</summary>
+  <summary lang="ca">Veure l'ús del disc</summary>
+  <summary lang="ca-valencia">Veure l'ús del disc</summary>
+  <summary lang="cs">Zobrazení využití disku</summary>
+  <summary lang="da">Se diskforbrug</summary>
+  <summary lang="de">Festplattenbelegung anzeigen</summary>
+  <summary lang="el">Προβολή στατιστικών χρήσης δίσκου</summary>
+  <summary lang="en-GB">View Disk Usage</summary>
+  <summary lang="es">Visor de uso del disco</summary>
+  <summary lang="et">Kettakasutuse näitamine</summary>
+  <summary lang="eu">Ikusi diskoaren erabilera</summary>
+  <summary lang="fi">Näytä levynkäyttö</summary>
+  <summary lang="fr">Visualiser l'occupation du disque</summary>
+  <summary lang="gl">Visor do uso dos discos</summary>
+  <summary lang="ia">Vide uso de disco</summary>
+  <summary lang="id">Tampilan Penggunaan Disk</summary>
+  <summary lang="it">Visualizza l'utilizzo del disco</summary>
+  <summary lang="ko">디스크 사용량 보기</summary>
+  <summary lang="nl">Schijfgebruik bekijken</summary>
+  <summary lang="nn">Vis diskbruk</summary>
+  <summary lang="pl">Informacja o wolnym miejscu na dyskach</summary>
+  <summary lang="pt">Visualização do Uso do Disco</summary>
+  <summary lang="pt-BR">Visualização do uso do disco</summary>
+  <summary lang="ru">Статистика использования дисков</summary>
+  <summary lang="sk">Zobraziť využitie disku</summary>
+  <summary lang="sl">Pogled porabe diska</summary>
+  <summary lang="sv">Visa hårddiskanvändning</summary>
+  <summary lang="uk">Перегляд використання диска</summary>
+  <summary lang="x-test">xxView Disk Usagexx</summary>
+  <summary lang="zh-CN">查看磁盘使用情况</summary>
+  <summary lang="zh-TW">檢視磁碟用量</summary>
+  <description>
+    <p>
+     KDiskFree displays the available file devices (hard drive partitions, floppy and CD drives, etc.) along with information on their capacity, free space, type and mount point. It also allows you to mount and unmount drives and view them in a file manager.
+    </p>
+  </description>
+  <description lang="ar">
+    <p>يعرض تطبيق المساحة المتبقية أجهزة الملفات المتاحة (أقسام القرص الصلب ومحركات الأقراص المرنة والأقراص المضغوطة وما إلى ذلك) بالإضافة إلى معلومات عن سعتها ومساحتها الخالية ونوعها ونقطة الضّم. كما يسمح لك أيضًا بتركيب وإلغاء تحميل محركات الأقراص وعرضها في مدير الملفات.</p>
+  </description>
+  <description lang="bg">
+    <p>KDiskFree показва наличните файлови устройства (дялове на твърдия диск, флопи и CD дискове и др.), заедно с информация за техния размер, свободно пространство, тип и точка на монтиране. Той също така ви позволява да монтирате и демонтирате устройства и да ги преглеждате във файлов мениджър.</p>
+  </description>
+  <description lang="ca">
+    <p>El KDiskFree mostra els dispositius de fitxers disponibles (particions de disc dur, disquets i unitats de CD, etc.) juntament amb informació sobre la seva capacitat, espai lliure, tipus i punt de muntatge. També permet muntar i desmuntar les unitats i veure-les en un gestor de fitxers.</p>
+  </description>
+  <description lang="ca-valencia">
+    <p>KDiskFree mostra els dispositius de fitxers disponibles (particions de disc dur, disquets i unitats de CD, etc.) juntament amb informació sobre la seua capacitat, espai lliure, tipus i punt de muntatge. També permet muntar i desmuntar les unitats i veure-les en un gestor de fitxers.</p>
+  </description>
+  <description lang="da">
+    <p>KDiskFree viser de tilgængelige filenheder (harddiskpartitioner, diskette- og cd-drev, osv.) med information om deres kapacitet, ledig plads, type og monteringspunkt. Det lader dig også montere og afmontere drev og se dem i filhåndteringen.</p>
+  </description>
+  <description lang="de">
+    <p>KDiskFree zeigt die verfügbaren Plattenbereiche an (Partitionen auf Festplatten, Disketten, CD-Laufwerke, USB-Sticks usw.). Zu jedem Bereich wird die Gesamtgröße, der freie Bereich, das Dateisystem und der Ort des Einhängens ins Dateisystem (Einhängepunkt) angezeigt. Mit KDiskFree können auch (sofern die Berechtigung vorhanden ist) Laufwerke ein- bzw. ausgehängt und die Dateiverwaltung mit der Anzeige für dieses Laufwerk geöffnet werden.</p>
+  </description>
+  <description lang="el">
+    <p>Το KDiskFree εμφανίζει τις διαθέσιμες συσκευές αρχείων (διαμερίσεις σκληρών δίσκων, οδηγών εύκαμπτων δίσκων και CD, κλπ) μαζί με πληροφορίες για τη χωρητικότητα, ελεύθερο χώρο, τύπο και σημείο προσάρτησης. Επίσης σας επιτρέπει να κάνετε προσάρτηση και αποπροσάρτηση συσκευών και να τις δείτε σε έναν διαχειριστή αρχείων.</p>
+  </description>
+  <description lang="en-GB">
+    <p>KDiskFree displays the available file devices (hard drive partitions, floppy and CD drives, etc.) along with information on their capacity, free space, type and mount point. It also allows you to mount and unmount drives and view them in a file manager.</p>
+  </description>
+  <description lang="es">
+    <p>KDiskFree muestra los dispositivos de archivos disponibles (particiones de disco duro, disquetes, unidades de CD, etc.), junto a información sobre su capacidad, espacio libre, tipo y punto de montaje. También le permite montar y desmontar dispositivos, así como abrirlos en un gestor de archivos.</p>
+  </description>
+  <description lang="et">
+    <p>KDiskFree näitab saadaolevaid failiseadmeid (kõvaketta partitsioonid, disketid, CD-d jne) ühes teabega nende mahu, vaba ruumi, tüübi ja haakepunkti kohta. Samuti saab selle abil kettaid ühendada ja lahutada ning näha neid failihalduris.</p>
+  </description>
+  <description lang="eu">
+    <p>KDiskFreek erabilgarri dauden fitxategi gailuak azaltzen ditu (disko zurrun partizioak, diskete eta CD unitateak, etab.), haien gaitasuna, leku askea, mota, eta muntatze-puntuari buruzko informazioarekin batera. Unitateak muntatzea eta desmuntatzea eta haiek fitxategi-kudeatzailean ikustea eskaintzen du.</p>
+  </description>
+  <description lang="fi">
+    <p>KDiskFree näyttää saatavilla olevat tiedostolaitteet (kiintolevyosiot, levyke- ja CD-asemat jne.) tietoineen: kapasiteetti, vapaa tila, tyyppi ja liitospiste. Se antaa myös liittää ja irrottaa asemia ja katsoa niitä tiedostonhallinnassa.</p>
+  </description>
+  <description lang="fr">
+    <p>KDiskFree affiche les systèmes de fichiers disponibles (partitions du disque dur, lecteurs disquettes/CD/DVD, etc.) ainsi que des informations sur leur capacité, l'espace disponible, leur type et leur point de montage. L'outil vous permet également de monter, de libérer et d'afficher les lecteurs dans un gestionnaire de fichiers.</p>
+  </description>
+  <description lang="gl">
+    <p>KDiskFree mostra os dispositivos de ficheiros dispoñíbeis (particións de discos duros, lectores de disquetes e CD, etc.) xunto con información sobre a súa capacidade, espazo libre, tipo e punto de montaxe. Tamén permite montar e desmontar lectores e velos no xestor de ficheiros.</p>
+  </description>
+  <description lang="ia">
+    <p>KDiskFree monstra dispositivos de file disponibile (partitiones de disco dur, disquettes e drives de CD, etc.) conjunctemente con lor capacitate, spatio libere, typo e puncto de montage. Anque permitte que on pote montar e dismontar drives e vide illos in  le gerente de files.</p>
+  </description>
+  <description lang="id">
+    <p>KDiskFree menampilkan perangkat file yang tersedia (partisi hard drive, floppy dan drive CD, dll.) bersama dengan informasi tentang kapasitas, ruang kosong, jenis dan titik kaitnya. Ini juga memungkinkan kamu untuk mengait dan melepas drive dan melihatnya di file manager.</p>
+  </description>
+  <description lang="it">
+    <p>KDiskFree mostra i dispositivi file disponibili (partizioni dei dischi fissi, unità a dischetti e lettori CD, eccetera) insieme ad informazioni sulla loro capacità, sullo spazio libero, sul tipo e sul punto di montaggio. Permette anche di montare e di smontare le unità e di visualizzarle in un gestore di file.</p>
+  </description>
+  <description lang="ko">
+    <p>KDiskFree는 하드 드라이브 파티션, CD 및 플로피 드라이브 등 저장 장치의 크기, 사용 가능한 공간, 마운트 지점 등 정보를 표시합니다. 장치 마운트를 관리하고 파일 관리자로 열 수 있습니다.</p>
+  </description>
+  <description lang="nl">
+    <p>KDiskFree toont de beschikbare apparaten voor bestandsopslag (vaste-schijfpartities, diskette- en -stations, USB-sticks, cd-station, etc.), met informatie over hun capaciteit, vrije ruimte, type en aankoppelpunt. Het geeft u ook de mogelijkheid om schijven aan- en af te koppelen en ze in een bestandsbeheerder te bekijken.</p>
+  </description>
+  <description lang="nn">
+    <p>KDiskFree viser lagringseiningar – for eksempel harddiskpartisjonar, diskettar og CD-plater – med informasjon om kapasitet, plassbruk, type og monteringspunkt. Det kan òg montera og avmontera einingar og opna dei i filhandsamaren.</p>
+  </description>
+  <description lang="pl">
+    <p>KDiskFree wyświetla dostępne urządzenia plikowe (partycje dysków twardych, dyskietki i napędy CD, itp.) wraz z informacją o ich pojemności, wolnej przestrzeni, rodzaju i punkcie podpięcia. Umożliwia podpinanie i odpinanie napędów, a także przeglądanie ich w przeglądarce plików.</p>
+  </description>
+  <description lang="pt">
+    <p>O KDiskFree mostra os dispositivos de ficheiros disponíveis (partições de discos rígidos, unidades de disquetes e CD's, etc.) em conjunto com informações sobre a sua capacidade, espaço livre, tipo e ponto de montagem. Também lhe permite montar e desmontar as unidades e vê-las num gestor de ficheiros.</p>
+  </description>
+  <description lang="pt-BR">
+    <p>O KDiskFree mostra os dispositivos de arquivos disponíveis (partições de discos rígidos, unidades de disquetes e CDs, dispositivos USB, etc.) juntamente com informações sobre sua capacidade, espaço livre, tipo e ponto de montagem. Também permite a montagem e desmontagem de unidades e visualizá-las em um gerenciador de arquivos.</p>
+  </description>
+  <description lang="ru">
+    <p>KDiskFree служит для просмотра информации о доступных файловых устройствах (таких как разделы жёсткого диска, дискеты и приводы компакт-дисков): объём, доступное свободное место, тип и точка подключения. Кроме того, приложение позволяет подключать и отключать диски и открывать их для просмотра в приложении для управления файлами.</p>
+  </description>
+  <description lang="sk">
+    <p>KDiskFree zobrazuje dostuné zariadenia na súbory (pevné disky, partície, diskety, CD, atď.) tak isto informácie o ich kapacite, voľnom mieste, type a prípojnom bode. Tiež vám umožnuje pripájať a odpájať disky a prehliadať ich v správcovi súborov.</p>
+  </description>
+  <description lang="sl">
+    <p>KDiskFree prikazuje razpoložljive enote hrambe datotek (particije trdega diska, diskete in pogone CD-jev itd.), skupaj s podatki o njihovi kapaciteti, prostem prostoru, vrsti in mestu priključitve. Omogoča vam tudi, da lahko pogone priklopite in odklopite ter si jih ogledate v upravitelju datotek.</p>
+  </description>
+  <description lang="sv">
+    <p>Kdiskfree visar tillgängliga filenheter (hårddiskpartitioner, diskett- och cd-enheter, etc.) tillsammans med information om deras kapacitet, ledigt utrymme, typ och monteringsplats. Det låter dig också montera och avmontera enheter och visa dem i en filhanterare.</p>
+  </description>
+  <description lang="uk">
+    <p>KDiskFree показує список доступних файлових пристроїв (розділів жорсткого диска, пристроїв читання гнучких дисків, компакт-дисків, флеш-карток USB тощо), а також інформацію щодо їх місткості, вільного місця, типу і точки монтування. Ця програма також надає вам можливість монтувати, демонтувати пристрої і переглядати їх вміст у програмі для роботи з файлами.</p>
+  </description>
+  <description lang="x-test">
+    <p>xxKDiskFree displays the available file devices (hard drive partitions, floppy and CD drives, etc.) along with information on their capacity, free space, type and mount point. It also allows you to mount and unmount drives and view them in a file manager.xx</p>
+  </description>
+  <description lang="zh-CN">
+    <p>KDiskFree 可以显示所有可用的文件设备 (硬盘分区、软盘和 CD 驱动器等)，并显示它们的总容量、可用空间、文件系统类型和挂载点。您还可以通过它挂载/卸载驱动器，并在文件管理器中查看它们。</p>
+  </description>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kdf</url>
+  <url type="donation">https://www.kde.org/community/donations/?app=kdf&amp;source=appdata</url>
+  <url type="help">https://docs.kde.org/?application=kdf</url>
+  <url type="homepage">https://utils.kde.org/projects/kdf/</url>
+  <screenshots>
+    <screenshot type="default">
+      <caption>KDiskFree main window</caption>
+      <caption lang="ar">نافذة المساحة المتبقية</caption>
+      <caption lang="bg">Основен прозорец на KDiskFree</caption>
+      <caption lang="ca">Finestra principal del KDiskFree</caption>
+      <caption lang="ca-valencia">Finestra principal de KDiskFree</caption>
+      <caption lang="cs">Hlavní okno KDiskFree</caption>
+      <caption lang="da">KDiskFrees hovedvindue</caption>
+      <caption lang="de">Hauptfenster von KDiskFree</caption>
+      <caption lang="el">Κύριο παράθυρο KDiskFree</caption>
+      <caption lang="en-GB">KDiskFree main window</caption>
+      <caption lang="es">Ventana principal de KDiskFree</caption>
+      <caption lang="et">KDiskFree peaaken</caption>
+      <caption lang="eu">KDiskFree leiho nagusia</caption>
+      <caption lang="fi">KDiskFreen pääikkuna</caption>
+      <caption lang="fr">Fenêtre principale de KDiskFree</caption>
+      <caption lang="gl">Xanela principal de KDiskFree</caption>
+      <caption lang="ia">Fenestra principal de KDiskFree</caption>
+      <caption lang="id">Window utama KDiskFree</caption>
+      <caption lang="it">Finestra principale di KDiskFree</caption>
+      <caption lang="ko">KDiskFree 주 창</caption>
+      <caption lang="nl">Hoofdvenster van KDiskFree</caption>
+      <caption lang="nn">Hovudvindauge for KDiskFree</caption>
+      <caption lang="pl">Okno główne KDiskFree</caption>
+      <caption lang="pt">Janela principal do KDiskFree</caption>
+      <caption lang="pt-BR">Janela principal do KDiskFree</caption>
+      <caption lang="ru">Главное окно приложения KDiskFree</caption>
+      <caption lang="sk">Hlavné okno KDiskFree</caption>
+      <caption lang="sl">Glavno okno KDiskFree</caption>
+      <caption lang="sv">Huvudfönstret i Kdiskfree</caption>
+      <caption lang="uk">Головне вікно KDiskFree</caption>
+      <caption lang="x-test">xxKDiskFree main windowxx</caption>
+      <caption lang="zh-CN">KDiskFree 主窗口</caption>
+      <caption lang="zh-TW">KDiskFree 主視窗</caption>
+      <image>https://cdn.kde.org/screenshots/kdf/kdf.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kdf</binary>
+  </provides>
+  <launchable type="desktop-id">org.kde.kdf.desktop</launchable>
+  <releases>
+    <release date="2022-07-07" version="22.04.3" />
+    <release version="22.04.2" date="2022-06-09" />
+    <release version="22.04.1" date="2022-05-12" />
+    <release date="2022-04-21" version="22.04.0" />
+  </releases>
+  <content_rating type="oars-1.1" />
+</component>

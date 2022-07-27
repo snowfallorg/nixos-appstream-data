@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>luminanceHDR</pkgname>
+  <name>Luminance HDR</name>
+  <name lang="it">>Luminance HDR</name>
+  <id>net.sourceforge.qtpfsgui.LuminanceHDR</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <summary>Create HDR images</summary>
+  <summary lang="it">Crea immagini HDR</summary>
+  <description>
+    <p>Luminance HDR is an application for taking a set of pictures of the same scene with different exposure settings and creating a high dynamic range (HDR) image. It supports a range on input image formats, including JPEG, TIFF and RAW. It provides eleven tone mapping operators for converting the HDR back to a low dynamic range image (LDR). It can also rotate, crop, resize HDR images and apply projective transformations. HDR images can be created and tone mapped in batch and a tool is provided for copying EXIF data from/to a set of images.</p>
+  </description>
+  <description lang="it">
+    <p>Luminance HDR è un'applicazione per creare immagini ad elevato intervallo dinamico (HDR) a partire da un insieme di immagini di una stessa scena catturate con differente esposizione. Supporta svariati formati di input quali JPEG, TIFF e RAW. Può inoltre ruotare, ritagliare, scalare le immagini HDR e convertirle in formato a basso range dinamico (LDR) tramite undici differenti operatori di tonemapping. Più immagini HDR possono essere create in modalità batch ed è possibile effettuare il tonemapping di un insieme di HDR sempre in modalità batch.</p>
+  </description>
+  <launchable type="desktop-id">net.sourceforge.qtpfsgui.LuminanceHDR.desktop</launchable>
+  <screenshots>
+    <screenshot type="default">
+      <image>http://qtpfsgui.sourceforge.net/screenshots/MainWindow.png</image>
+      <caption>LuminanceHDR Main Window</caption>
+    </screenshot>
+    <screenshot>
+      <image>http://qtpfsgui.sourceforge.net/screenshots/Tonemapped-image.png</image>
+      <caption>Example of tonemapping of HDR</caption>
+    </screenshot>
+    <screenshot>
+      <image>http://qtpfsgui.sourceforge.net/screenshots/HDR-Wizard-1st-page.png</image>
+      <caption>HDR Wizard</caption>
+    </screenshot>
+    <screenshot>
+      <image>http://qtpfsgui.sourceforge.net/screenshots/Batch-TM.png</image>
+      <caption>Batch Tonemapping</caption>
+    </screenshot>
+  </screenshots>
+  <provides>
+    <binary>luminance-hdr</binary>
+    <binary>luminance-hdr-cli</binary>
+  </provides>
+  <developer_name>Luminance HDR Development Team</developer_name>
+  <update_contact>fcomida_AT_users.sourceforge.net</update_contact>
+  <url type="homepage">http://qtpfsgui.sourceforge.net/</url>
+  <url type="help">https://luminancehdr.readthedocs.io/en/latest/</url>
+  <url type="translate">https://www.transifex.com/luminance-hdr/luminance-hdr/</url>
+  <url type="bugtracker">https://github.com/LuminanceHDR/LuminanceHDR/issues</url>
+  <url type="donation">https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=10037712</url>
+  <releases>
+    <release version="2.6.0" date="2019-06-09" />
+  </releases>
+  <categories>
+    <category>Graphics</category>
+  </categories>
+  <content_rating type="oars-1.1" />
+</component>

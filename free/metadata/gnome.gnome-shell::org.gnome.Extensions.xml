@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>gnome.gnome-shell</pkgname>
+  <icon type="cached" width="64" height="64">org.gnome.Extensions.png</icon>
+  <icon type="cached" height="128" width="128">org.gnome.Extensions.png</icon>
+  <id>org.gnome.Extensions</id>
+  <name>Extensions</name>
+  <name lang="zh_TW">擴充套件</name>
+  <name lang="zh_CN">扩展</name>
+  <name lang="vi">Phần mở rộng</name>
+  <name lang="uk">Розширення</name>
+  <name lang="tr">Uzantılar</name>
+  <name lang="sv">Tillägg</name>
+  <name lang="sr">Проширења</name>
+  <name lang="sl">Razširitve lupine</name>
+  <name lang="sk">Rozšírenia</name>
+  <name lang="ru">Расширения</name>
+  <name lang="ro">Extensii</name>
+  <name lang="pt_BR">Extensões</name>
+  <name lang="pt">Extensões</name>
+  <name lang="pl">Rozszerzenia</name>
+  <name lang="pa">ਇਕਸਟੈਨਸ਼ਨ</name>
+  <name lang="os">Уӕлӕмхасӕнтӕ</name>
+  <name lang="oc">Extensions</name>
+  <name lang="nl">Uitbreidingen</name>
+  <name lang="ne">विस्तारहरू</name>
+  <name lang="nb">Utvidelser</name>
+  <name lang="mjw">Extensions</name>
+  <name lang="lv">Paplašinājumi</name>
+  <name lang="lt">Plėtiniai</name>
+  <name lang="ko">확장</name>
+  <name lang="kk">Кеңейтулер</name>
+  <name lang="kab">Isiɣzaf</name>
+  <name lang="ka">გაფართოებები</name>
+  <name lang="ja">拡張機能</name>
+  <name lang="it">Estensioni</name>
+  <name lang="is">Forritsviðaukar</name>
+  <name lang="id">Ekstensi</name>
+  <name lang="hu">Kiterjesztések</name>
+  <name lang="hr">Proširenja</name>
+  <name lang="he">הרחבות</name>
+  <name lang="gl">Extensións</name>
+  <name lang="fy">Útwreidingen</name>
+  <name lang="fur">Estensions</name>
+  <name lang="fr">Extensions</name>
+  <name lang="fi">Laajennukset</name>
+  <name lang="fa">افزونه‌ها</name>
+  <name lang="eu">Hedapenak</name>
+  <name lang="es">Extensiones</name>
+  <name lang="eo">Etendaĵoj</name>
+  <name lang="en_GB">Extensions</name>
+  <name lang="el">Επεκτάσεις</name>
+  <name lang="de">Erweiterungen</name>
+  <name lang="da">Udvidelser</name>
+  <name lang="cs">Rozšíření</name>
+  <name lang="ca">Extensions</name>
+  <name lang="bn_IN">এক্সটেনশনগুলি</name>
+  <name lang="bg">Разширения</name>
+  <name lang="be">Пашырэнні</name>
+  <summary>Manage your GNOME Extensions</summary>
+  <summary lang="zh_TW">管理 GNOME Shell 擴充套件</summary>
+  <summary lang="zh_CN">管理您的 GNOME 扩展</summary>
+  <summary lang="vi">Quản lý phần mở rộng Hệ vỏ GNOME</summary>
+  <summary lang="uk">Керуйте вашими розширеннями GNOME</summary>
+  <summary lang="tr">GNOME Uzantılarını Yönet</summary>
+  <summary lang="sv">Hantera dina GNOME-tillägg</summary>
+  <summary lang="sr">Подесите проширења Гнома</summary>
+  <summary lang="sl">Upravljanje z razširitvami Lupine GNOME</summary>
+  <summary lang="sk">Spravuje vaše rozšírenia prostredia GNOME</summary>
+  <summary lang="ru">Управление расширениями GNOME Shell</summary>
+  <summary lang="ro">Administrați Exensiile GNOME</summary>
+  <summary lang="pt_BR">Gerenciar suas extensões do GNOME</summary>
+  <summary lang="pt">Gerir as extensões do GNOME</summary>
+  <summary lang="pl">Zarządzanie rozszerzeniami GNOME</summary>
+  <summary lang="pa">ਗਨੋਮ ਇਕਸਟੈਸ਼ਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ</summary>
+  <summary lang="oc">Gerir vòstras extensions GNOME</summary>
+  <summary lang="nl">Beheer uw Gnome-uitbreidingen</summary>
+  <summary lang="ne">तपाईँको जिनोम विस्तार व्यवस्थापन गर्नुहोस्</summary>
+  <summary lang="nb">Håndter utvidelser for GNOME</summary>
+  <summary lang="lv">Pārvaldiet savus GNOME paplašinājumus</summary>
+  <summary lang="lt">Tvarkyti GNOME plėtinius</summary>
+  <summary lang="ko">그놈 확장을 관리합니다</summary>
+  <summary lang="kk">GNOME кеңейтулерін басқару</summary>
+  <summary lang="ka">GNOME-ის თქვენი გაფართოებების მართვა</summary>
+  <summary lang="ja">GNOME 拡張機能を管理します</summary>
+  <summary lang="it">Gestione delle Estensioni GNOME</summary>
+  <summary lang="is">Sýsla með GNOME Shell Extension forritsviðauka</summary>
+  <summary lang="id">Kelola Ekstensi GNOME Anda</summary>
+  <summary lang="hu">Saját GNOME kiterjesztések kezelése</summary>
+  <summary lang="hr">Upravljajte svojim GNOME proširenjima</summary>
+  <summary lang="he">ניהול הרחבות GNOME שלך</summary>
+  <summary lang="gl">Xestione as súas extensións de GNOME</summary>
+  <summary lang="fy">Jo GNOME Útwreidingen behearre</summary>
+  <summary lang="fur">Gjestìs lis tôs Estensions di GNOME</summary>
+  <summary lang="fr">Gérer vos extensions GNOME</summary>
+  <summary lang="fi">Hallitse Gnome-laajennuksia</summary>
+  <summary lang="fa">مدیریت افزونه‌های پوستهٔ گنوم</summary>
+  <summary lang="eu">Kudeatu zure GNOME hedapenak</summary>
+  <summary lang="es">Gestionar sus extensiones de GNOME Shell</summary>
+  <summary lang="eo">Agordi viajn GNOME etendaĵojn</summary>
+  <summary lang="en_GB">Manage your GNOME Extensions</summary>
+  <summary lang="el">Διαχείριση επεκτάσεων GNOME</summary>
+  <summary lang="de">Ihre GNOME-Erweiterungen verwalten</summary>
+  <summary lang="da">Håndtér dine GNOME-udvidelser</summary>
+  <summary lang="cs">Správa vašich rozšíření GNOME</summary>
+  <summary lang="ca">Gestioneu les extensions del GNOME Shell</summary>
+  <summary lang="bn_IN">আপনার জিনোম এক্সটেনশনগুলি পরিচালনা করুন</summary>
+  <summary lang="bg">Управление на разширенията на GNOME</summary>
+  <summary lang="be">Кіраванне пашырэннямі GNOME</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0-or-later</project_license>
+  <url type="homepage">https://gitlab.gnome.org/GNOME/gnome-shell/-/tree/HEAD/subprojects/extensions-app</url>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/gnome-shell/issues/new</url>
+  <url type="donation">http://www.gnome.org/friends/</url>
+  <url type="translate">https://wiki.gnome.org/TranslationProject</url>
+  <project_group>GNOME</project_group>
+  <developer_name>The GNOME Project</developer_name>
+  <developer_name lang="zh_TW">GNOME 專案</developer_name>
+  <developer_name lang="zh_CN">GNOME 项目</developer_name>
+  <developer_name lang="vi">Dự án GNOME</developer_name>
+  <developer_name lang="uk">Проєкт GNOME</developer_name>
+  <developer_name lang="tr">GNOME Projesi</developer_name>
+  <developer_name lang="sv">GNOME-projektet</developer_name>
+  <developer_name lang="sr">Гном пројекат</developer_name>
+  <developer_name lang="sl">Projekt GNOME</developer_name>
+  <developer_name lang="sk">Projekt GNOME</developer_name>
+  <developer_name lang="ru">Проект GNOME</developer_name>
+  <developer_name lang="ro">Proiectul GNOME</developer_name>
+  <developer_name lang="pt_BR">O Projeto GNOME</developer_name>
+  <developer_name lang="pt">Projeto GNOME</developer_name>
+  <developer_name lang="pl">Projekt GNOME</developer_name>
+  <developer_name lang="pa">ਗਨੋਮ ਪਰੋਜੈਕਟ</developer_name>
+  <developer_name lang="oc">Lo projècte GNOME</developer_name>
+  <developer_name lang="nl">Het Gnome-project</developer_name>
+  <developer_name lang="ne">जिनोम परियोजना</developer_name>
+  <developer_name lang="nb">GNOME prosjektet</developer_name>
+  <developer_name lang="lv">"GNOME projekts"</developer_name>
+  <developer_name lang="lt">GNOME projektas</developer_name>
+  <developer_name lang="ko">그놈 프로젝트</developer_name>
+  <developer_name lang="kk">GNOME жобасы</developer_name>
+  <developer_name lang="ka">პროექტი „GNOME“</developer_name>
+  <developer_name lang="ja">The GNOME Project</developer_name>
+  <developer_name lang="it">Il progetto GNOME</developer_name>
+  <developer_name lang="is">GNOME verkefnið</developer_name>
+  <developer_name lang="id">Proyek GNOME</developer_name>
+  <developer_name lang="hu">A GNOME projekt</developer_name>
+  <developer_name lang="hr">GNOME projekt</developer_name>
+  <developer_name lang="gl">O Proxecto GNOME</developer_name>
+  <developer_name lang="fy">It GNOME Projekt</developer_name>
+  <developer_name lang="fur">Il progjet GNOME</developer_name>
+  <developer_name lang="fr">Le projet GNOME</developer_name>
+  <developer_name lang="fi">Gnome-projekti</developer_name>
+  <developer_name lang="fa">پروژهٔ گنوم</developer_name>
+  <developer_name lang="eu">GNOME proiektua</developer_name>
+  <developer_name lang="es">El Proyecto GNOME</developer_name>
+  <developer_name lang="eo">La GNOME-projekto</developer_name>
+  <developer_name lang="en_GB">The GNOME Project</developer_name>
+  <developer_name lang="el">Το έργο GNOME</developer_name>
+  <developer_name lang="de">Das GNOME-Projekt</developer_name>
+  <developer_name lang="da">GNOME-projektet</developer_name>
+  <developer_name lang="cs">Projekt GNOME</developer_name>
+  <developer_name lang="ca">El projecte GNOME</developer_name>
+  <developer_name lang="bn_IN">জিনোম প্রকল্প</developer_name>
+  <developer_name lang="bg">Проект GNOME</developer_name>
+  <developer_name lang="be">Праект GNOME</developer_name>
+  <launchable type="desktop-id">org.gnome.Extensions.desktop</launchable>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>HighContrast</kudo>
+    <kudo>ModernToolkit</kudo>
+  </kudos>
+  <recommends>
+    <control>pointing</control>
+    <control>keyboard</control>
+    <control>touch</control>
+  </recommends>
+  <content_rating type="oars-1.0" />
+  <description>
+    <p>
+      GNOME Extensions handles updating extensions, configuring extension preferences and removing or disabling unwanted extensions.
+    </p>
+  </description>
+  <description lang="be">
+    <p>Пашырэнні GNOME ажыццяўляюць абнаўленне і змяненне параметраў пашырэнняў, выдаленне або адключэнне непажаданых пашырэнняў.</p>
+  </description>
+  <description lang="bg">
+    <p>С „Разширенията на GNOME“ може да променяте настройките им, да инсталирате нови, да деинсталирате или изключвате нежеланите разширения.</p>
+  </description>
+  <description lang="bn_IN">
+    <p>জিনোম এক্সটেনশনস এক্সটেনশানগুলি আপডেট করতে, এক্সটেনশান পছন্দগুলি কনফিগার করে এবং অযাচিত এক্সটেনশানগুলি সরিয়ে বা অক্ষম করে।</p>
+  </description>
+  <description lang="ca">
+    <p>Les extensions del GNOME gestiona les actualitzacions de les extensions, configurant les preferències de l'extensió i suprimint o desactivant les extensions no desitjades.</p>
+  </description>
+  <description lang="cs">
+    <p>Aplikace Rozšíření GNOME umožňuje aktualizaci a nastavení předvoleb rozšíření a odstranění nebo vypnutí nechtěných rozšíření.</p>
+  </description>
+  <description lang="da">
+    <p>GNOME Udvidelser håndterer opdatering af udvidelser, konfigurering af deres indstillinger og fjernelse eller deaktivering af uønskede udvidelser.</p>
+  </description>
+  <description lang="de">
+    <p>GNOME-Erweiterungen dient der Aktualisierung von Erweiterungen, dem Konfigurieren der Voreinstellungen von Erweiterungen und dem Entfernen oder Deaktivieren nicht gewünschter Erweiterungen.</p>
+  </description>
+  <description lang="el">
+    <p>Το πρόγραμμα Επεκτάσεις GNOME χειρίζεται την ενημέρωση επεκτάσεων, τη ρύθμιση προτιμήσεων και την αφαίρεση ή απενεργοποίηση ανεπιθύμητων επεκτάσεων.</p>
+  </description>
+  <description lang="en_GB">
+    <p>GNOME Extensions handles updating extensions, configuring extension preferences and removing or disabling unwanted extensions.</p>
+  </description>
+  <description lang="eo">
+    <p>GNOME-etendaĵoj administras ĝisdatigon de etendaĵoj, adoptadon de etendaĵaj agordoj kaj forigo aŭ malŝaltigo de nebezonataj etendaĵoj.</p>
+  </description>
+  <description lang="es">
+    <p>Extensiones de GNOME gestiona las actualizaciones de las extensiones, configurando sus preferencias y quitando o desactivando las que no quiera.</p>
+  </description>
+  <description lang="eu">
+    <p>GNOME Hedapenak aplikazioak hedapenak eguneratzea, hedapenen hobespenak konfiguratzea eta gehiago nahi ez diren hedapenak kentzea edo desgaitzea ahalbidetzen du.</p>
+  </description>
+  <description lang="fa">
+    <p>افزونه‌های گنوم؛ به‌روز رسانی، پیکربندی، برداشتن یا از کار انداختن افزونه‌ها را مدیریت می‌کند.</p>
+  </description>
+  <description lang="fi">
+    <p>Gnomen laajennussovellus Laajennukset käsittelee laajennusten päivitykset, niiden asetukset ja sen avulla voi poistaa laajennuksia käytöstä tai kokonaan järjestelmästä.</p>
+  </description>
+  <description lang="fr">
+    <p>Extensions de GNOME gère la mise à jour des extensions, la configuration des préférences des extensions et la suppression ou la désactivation des extensions non désirées.</p>
+  </description>
+  <description lang="fur">
+    <p>Estensions di GNOME al gjestìs l'inzornament des estensions, la configurazion des preferencis des estensions e la rimozion o la disabilitazion des estensions che no son desideradis.</p>
+  </description>
+  <description lang="gl">
+    <p>Extensións de GNOME xestiona a actualización de extensions, a súa configuración, eliminación e a desactivación das extensións que non quere.</p>
+  </description>
+  <description lang="hr">
+    <p>GNOME Proširenja rukuje nadopunama proširenja, podešavanjem osobitostima proširenja i uklanjanjem ili onemogućavanjem neželjenih proširenja.</p>
+  </description>
+  <description lang="hu">
+    <p>A GNOME kiterjesztések kezeli a kiterjesztések frissítését, a kiterjesztésbeállítások konfigurálást és a nem kívánatos kiterjesztések eltávolítását vagy letiltását.</p>
+  </description>
+  <description lang="id">
+    <p>Ekstensi GNOME menangani pemutakhiran ekstensi, mengkonfigurasi preferensi ekstensi, dan menghapus atau menonaktifkan ekstensi yang tidak diinginkan.</p>
+  </description>
+  <description lang="it">
+    <p>Estensioni GNOME gestisce l'aggiornamento e la configurazione delle preferenze delle estensioni e la rimozione o la disabilitazione di estensioni indesiderate.</p>
+  </description>
+  <description lang="ja">
+    <p>“拡張機能”は GNOME Shell 拡張機能の設定、更新、削除、不要な拡張機能の無効化を行うことができます。</p>
+  </description>
+  <description lang="kk">
+    <p>GNOME кеңейтулері көмегімен кеңейтулерді жаңарту, баптау және оларды өшіру немесе сөндіруге болады.</p>
+  </description>
+  <description lang="ko">
+    <p>그놈 확장 관리자에서는 확장 기능의 업데이트, 확장 기능의 설정, 원하지 않는 확장 기능 제거 또는 사용 중지를 처리합니다.</p>
+  </description>
+  <description lang="lt">
+    <p>GNOME Plėtiniai atnaujina plėtinius, konfigūruoja jų nustatymus bei šalina arba išjungia nepageidaujamus plėtinius.</p>
+  </description>
+  <description lang="lv">
+    <p>“GNOME paplašinājumi” nodrošina paplašinājumu atjaunināšanu un konfigurēšanu, kā arī nevajadzīgo paplašinājumu izslēgšanu vai izņemšanu.</p>
+  </description>
+  <description lang="nb">
+    <p>GNOME utvidelser håndterer oppdatering av utvidelser, konfigurasjon av utvidelsenes brukervalg og fjerning eller deaktivering av uønskede utvidelser.</p>
+  </description>
+  <description lang="ne">
+    <p>जिनोम विस्तारले विस्तारअद्यावधिक ह्यान्डल गर्दछ, विस्तार प्राथमिकताहरू कन्फिगर गर्दछ र नचाहिएका विस्तारहरू हटाउँदै वा अक्षम पार्दैछ।</p>
+  </description>
+  <description lang="nl">
+    <p>Gnome Uitbreidingen staat in voor het bijwerken van uitbreidingen, hun voorkeuren te configureren of ongewenste uitbreidingen te verwijderen of uit te schakelen.</p>
+  </description>
+  <description lang="oc">
+    <p>GNOME Extensions gerís las mesas a jorn d'extensions, lo parametratge de la preferéncias d'extensions e la supression o desactivacion de las extensions pas volguda.</p>
+  </description>
+  <description lang="pa">
+    <p>ਗਨੋਮ ਇਕਸਟੈਨਸ਼ਨਾਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਅੱਪਡੇਟ ਕਰਨ, ਇਕਸਟੈਨਸ਼ਨ ਪਸੰਦਾਂ ਦੀ ਸੰਰਚਨਾ ਕਰਨ ਅਤੇ ਬੇਲੋੜੀਆਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਹਟਾਉਣ ਜਾਂ ਅਸਮਰੱਥ ਕਰਨ ਦੇ ਕੰਮ ਆਉਂਦੀਆਂ ਹਨ।</p>
+  </description>
+  <description lang="pl">
+    <p>Ten program obsługuje aktualizowanie, konfigurowanie preferencji oraz usuwanie i wyłączanie niechcianych rozszerzeń.</p>
+  </description>
+  <description lang="pt">
+    <p>O Extensões do GNOME lida com a atualização da extensões, configuração das preferências de extensões e remoção ou desativação de extensões já não desejadas.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>GNOME Extensões lida com a atualização da extensões, configuração das preferências de extensões e remoção ou desabilitação de extensões indesejadas.</p>
+  </description>
+  <description lang="ro">
+    <p>Exensii GNOME gestionează actualizarea extensiilor, configurarea preferințelor extensiei și eliminarea sau dezactivarea extensiilor nedorite.</p>
+  </description>
+  <description lang="ru">
+    <p>Приложение «Расширения GNOME» занимается обновлением расширений, настройкой параметров расширений и удалением или отключением ненужных расширений.</p>
+  </description>
+  <description lang="sk">
+    <p>Rozšírenia prostredia GNOME spravujú aktualizácie rozšírení, konfiguráciu predvolieb rozšírení a odstraňovanie alebo zakázanie nechcených rozšírení.</p>
+  </description>
+  <description lang="sl">
+    <p>Program Razširitve GNOME omogoča nameščanje in posodabljanje razširitev, prilagajanje nastavitev in upravljanje njihovega delovanja.</p>
+  </description>
+  <description lang="sr">
+    <p>Гномова проширења руководе ажурирањем проширења, подешавањем поставки проширења и уклањањем или онемогућавањем проширења.</p>
+  </description>
+  <description lang="sv">
+    <p>GNOME Tillägg hanterar uppdatering av tillägg, konfiguration av inställningar för tillägg samt att ta bort eller inaktivera oönskade tillägg.</p>
+  </description>
+  <description lang="tr">
+    <p>GNOME Uzantılar; uzantıları güncellemeyi, uzantı tercihlerini yapılandırmayı ve istenmeyen uzantıları kaldırmayı veya devre dışı bırakmanızı sağlar.</p>
+  </description>
+  <description lang="uk">
+    <p>«Розширення» GNOME обробляють оновлення розширень, налаштовування параметрів розширень, а також вилучення та вимикання небажаних розширень.</p>
+  </description>
+  <description lang="vi">
+    <p>Phần mở rộng GNOME xử lý việc cập nhật tiện ích mở rộng, cấu hình tùy chọn tiện ích mở rộng và xóa hoặc vô hiệu hóa các tiện ích mở rộng không mong muốn.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>GNOME 扩展程序可用于升级扩展，配置扩展首选项和移除、禁用不想要的扩展。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>GNOME 擴充套件，能處理擴充套件的更新、調整擴充套件偏好設定、移除或停用不想用的擴充套件等。</p>
+  </description>
+  <releases>
+    <release date="2022-07-04" version="42.3.1" />
+    <release version="42.3" date="2022-07-02" />
+    <release date="2022-05-28" version="42.2" />
+    <release date="2022-05-04" version="42.1" />
+    <release version="42.0" date="2022-03-12">
+      <description>
+        <p>Use libadwaita for platform integration and consistency. Modernize look and feel.</p>
+      </description>
+    </release>
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://gitlab.gnome.org/GNOME/gnome-shell/raw/HEAD/subprojects/extensions-app/data/metainfo/extensions-main.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.gnome.org/GNOME/gnome-shell/raw/HEAD/subprojects/extensions-app/data/metainfo/extensions-update.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.gnome.org/GNOME/gnome-shell/raw/HEAD/subprojects/extensions-app/data/metainfo/extensions-remove.png</image>
+    </screenshot>
+  </screenshots>
+</component>

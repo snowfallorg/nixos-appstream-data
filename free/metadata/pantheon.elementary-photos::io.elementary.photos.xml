@@ -1,0 +1,2278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>pantheon.elementary-photos</pkgname>
+  <icon width="64" type="cached" height="64">io.elementary.photos.png</icon>
+  <icon type="cached" width="128" height="128">io.elementary.photos.png</icon>
+  <id>io.elementary.photos</id>
+  <launchable type="desktop-id">io.elementary.photos.desktop</launchable>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_group>elementary</project_group>
+  <project_license>GPL-3.0+</project_license>
+  <name>Photos</name>
+  <name lang="zh_TW">相片</name>
+  <name lang="zh_CN">照片</name>
+  <name lang="uk">Світлини</name>
+  <name lang="ug">سۈرەتلەر</name>
+  <name lang="tr">Fotoğraflar</name>
+  <name lang="tl">Mga Litrato</name>
+  <name lang="sv">Bilder</name>
+  <name lang="sr">Фотографко</name>
+  <name lang="sq">Fotografitë</name>
+  <name lang="sl">Fotografije</name>
+  <name lang="sk">Fotografie</name>
+  <name lang="ru">Фотографии</name>
+  <name lang="pt_BR">Fotos</name>
+  <name lang="pt">Fotos</name>
+  <name lang="pl">Zdjęcia</name>
+  <name lang="oc">Fòtos</name>
+  <name lang="nn">Bilete</name>
+  <name lang="nl">Foto's</name>
+  <name lang="nb">Bilder</name>
+  <name lang="ms">Foto-foto</name>
+  <name lang="mr">छायाचित्र</name>
+  <name lang="lt">Nuotraukos</name>
+  <name lang="ku">wêne</name>
+  <name lang="ko">사진</name>
+  <name lang="ja">フォト</name>
+  <name lang="it">Foto</name>
+  <name lang="io">Fotografuri</name>
+  <name lang="ie">Fotos</name>
+  <name lang="id">Foto</name>
+  <name lang="hu">Fotók</name>
+  <name lang="hr">Fotografije</name>
+  <name lang="hi">तस्वीरें</name>
+  <name lang="he">תמונות</name>
+  <name lang="gl">Fotos</name>
+  <name lang="fr">Photos</name>
+  <name lang="fi">Kuvat</name>
+  <name lang="es">Fotos</name>
+  <name lang="eo">Fotoj</name>
+  <name lang="en_GB">Photos</name>
+  <name lang="en_CA">Photos</name>
+  <name lang="en_AU">Photos</name>
+  <name lang="el">Φωτογραφίες</name>
+  <name lang="de">Fotos</name>
+  <name lang="da">Fotos</name>
+  <name lang="cs">Fotky</name>
+  <name lang="ckb">وێنەکان</name>
+  <name lang="ca">Fotografies</name>
+  <name lang="bs">Fotografije</name>
+  <name lang="bg">Снимки</name>
+  <name lang="ar">الصور</name>
+  <name lang="af">Foto’s</name>
+  <summary>Organize your photos</summary>
+  <summary lang="zh_TW">整理您的相片</summary>
+  <summary lang="zh_CN">管理您的照片</summary>
+  <summary lang="uk">Впорядкуйте свої світлини</summary>
+  <summary lang="ug">سۈرەتلىرىڭىزنى باشقۇرۇڭ</summary>
+  <summary lang="tr">Fotoğraflarınızı yönetin</summary>
+  <summary lang="tl">Mag-organize ng iyong mga Litrato</summary>
+  <summary lang="sv">Organisera dina bilder</summary>
+  <summary lang="sr">Организујте ваше фотографије</summary>
+  <summary lang="sq">Organizoni fotot tuaja</summary>
+  <summary lang="sl">Organizirajte svoje fotografije</summary>
+  <summary lang="sk">Usporiadať svoje fotografie</summary>
+  <summary lang="ru">Организуйте ваши фотографии</summary>
+  <summary lang="pt_BR">Organize suas fotos</summary>
+  <summary lang="pt">Organize as suas fotos</summary>
+  <summary lang="pl">Zarządzaj swoimi zdjęciami</summary>
+  <summary lang="oc">Organizatz vòstras fòtos</summary>
+  <summary lang="nn">Organiser bileta dine</summary>
+  <summary lang="nl">Organiseer uw foto's</summary>
+  <summary lang="nb">Organiser dine bilder</summary>
+  <summary lang="ms">Uruskan foto-foto anda</summary>
+  <summary lang="mr">आपले फोटो व्यवस्थित लावा</summary>
+  <summary lang="lt">Tvarkyti savo nuotraukas</summary>
+  <summary lang="ku">Wêne li dar xistin</summary>
+  <summary lang="ko">사진을 정리합니다</summary>
+  <summary lang="ja">写真を整理します</summary>
+  <summary lang="iu">Организуй свои фотографии</summary>
+  <summary lang="it">Organizza le tue foto</summary>
+  <summary lang="ie">Organisa vor fotos</summary>
+  <summary lang="id">Atur foto Anda</summary>
+  <summary lang="hu">Rendezze fotóit</summary>
+  <summary lang="hr">Organiziraj svoje fotografije</summary>
+  <summary lang="he">ארגון התמונות שלך</summary>
+  <summary lang="fr">Organisez vos photos</summary>
+  <summary lang="fi">Järjestä digikuvasi</summary>
+  <summary lang="es">Organice sus fotos</summary>
+  <summary lang="eo">Organizu viajn fotojn</summary>
+  <summary lang="en_GB">Organise your photos</summary>
+  <summary lang="en_CA">Organize your photos</summary>
+  <summary lang="en_AU">Organize your photos</summary>
+  <summary lang="el">Οργανώστε τις φωτογραφίες σας</summary>
+  <summary lang="de">Ihre Fotos verwalten</summary>
+  <summary lang="da">Organiser dine billeder</summary>
+  <summary lang="cs">Spravujte své fotografie</summary>
+  <summary lang="ckb">ڕێکخستنی وێنەکانت</summary>
+  <summary lang="ca">Organitzeu les fotografies</summary>
+  <summary lang="bs">Organizirajte svoje fotografije</summary>
+  <summary lang="bg">Организирайте снимките си</summary>
+  <summary lang="ar">نظم صورك</summary>
+  <summary lang="af">Organiseer u foto’s</summary>
+  <description>
+    <p>
+      Photos is an easy-to-use, fast photo organizer. It allows you to import
+      photos from your camera or disk, organize them by date and subject matter,
+      even ratings. It also offers basic photo editing, like crop, red-eye correction,
+      color adjustments, and straighten. Photos' non-destructive photo editor does
+      not alter your master photos, making it easy to experiment and correct errors.
+    </p>
+    <p>
+      Photos supports JPEG, PNG, TIFF, and a variety of RAW file formats.
+    </p>
+  </description>
+  <description lang="af">
+    <p>Foto’s is ’n maklik bruikbare, vinnige foto-organiseerder. Dit laat u foto’s van u kamera of skyf invoer, organiseer volgens datum of inhoud of graderings. Dit laat ook basiese fotoredigering soos bysnyding, rooioogvermindering, kleurverstelling, en reguitmaak toe. Foto’s se nie-vernietigende fotoredigeerder verander nie aan die meesterfoto nie sodat u met gemak kan eksperimenteer en foute regstel.</p>
+    <p>Foto’s ondersteun JPEG, PNG, TIFF en ’n verskeidenheid RAW-lêerformate.</p>
+  </description>
+  <description lang="ar">
+    <p>الصور تطبيق سهل الاستخدام، تقنية تعرف على الصور سريعة. تسمح لك باستيراد الصور من الكاميرا أو القرص، تنظيمهم حسب التاريخ أو العنوان، وحتى التقييم، بالإضافة أنه يوفر لك التعديل على الصور بشكل مبسط، مثل القص، تصحيح العين الحمراء، تعديلات الألوان، تعديلات الاستقامة، معدل الصور لا يخرب صورك الاساسية، مما يجعلها تجربة سهله وتصحح الاخطاء.</p>
+    <p>تطبيق الصور يدعم صيغ JPEG, PNG, TIFF وأنواع متعددة من صيغ RAW.</p>
+  </description>
+  <description lang="bs">
+    <p>Fotografije su organizator fotografija, koji je brz i jednostavan za korištenje. Omogućava da uvezete svoje fotografije s kamere ili s diska, da ih organizirate po datumu, po temama, čak i po ocjenama. Također nudi osnovne funkcionalosti uređivanja fotografije, poput rezanja, korekcije crvenih očiju, prilagođavanja boja i poravnjavanja. Nedestruktivni fotouređivač Fotografija ne mijenja vaše izvorne fotografije, što Vam daje slobodu da eksperimentirate i ispravite greške.</p>
+    <p>Fotografije podržavaju formate JPEG, PNG, TIFF kao i niz formata RAW datoteka.</p>
+  </description>
+  <description lang="ca">
+    <p>Fotografies és un organitzador de fotos fàcil d'usar, ràpid. Permet importar fotografies des de la càmera o disc, organitzar-les per data i tema, i fins i tot per valoracions. També ofereix funcions bàsiques d'edició, com ara retallar, correcció d'ulls vermells, ajustaments del color i redreçament. L'editor de fotografies no és destructiu, no altera les fotografies originals i facilita experimentar i corregir errors.</p>
+    <p>Admet els formats JPEG, PNG, TIFF i una diversitat de fitxers en format RAW.</p>
+  </description>
+  <description lang="cs">
+    <p>Fotky je jednoduchý a rychlý správce fotografií. Umožňuje naimportovat vaše fotky z fotoaparátu nebo z disku, seřadit si je podle data pořízení nebo témata a také je ohodnotit. Zároveň nabízí základní nástroje pro editaci, jako oříznutí, oprava červených očí, barevné přizpůsobení a zvýraznění. Součástí aplikace je nedestruktivní editor fotografií, který vaše skvělé fotky nebude přepisovat. To vám umožní jednoduché experimentování a opravu chyb.</p>
+    <p>Aplikace Fotky podporuje soubory formátu JPEG, PNG, TIFF a různé typy RAW.</p>
+  </description>
+  <description lang="da">
+    <p>Fotos er en letanvendelig og hurtig billedorganisator. Den giver dig mulighed for at importere billeder fra dit kamera eller disk, organisere dem efter dato, emne, selv bedømmelser. Det tilbyder også grundlæggende billedredigering, såsom beskæring, rettelse af røde øjne, farvejusteringer og udglatning. Fotos ændrer ikke dine originale billeder, så det er nemt at eksperimentere og rette fejl.</p>
+    <p>Fotos understøtter JPEG, PNG, TIFF, og en diverse RAW-filformater.</p>
+  </description>
+  <description lang="de">
+    <p>Fotos ist eine unkomplizierte, schnelle Fotoverwaltung. Mit ihr können Sie Fotos von Kameras oder Datenträgern importieren und sie nach Datum, Themen und auch Bewertungen sortieren. Die Anwendung bietet außerdem grundlegende Funktionen zur Fotobearbeitung wie Zuschneiden, Rote-Augen-Korrektur, Farbkorrektur und Ausrichtung. Fotos nicht-destruktive Bildbearbeitung ändert dabei die Originaldateien nicht, sodass Experimente mit Ihren Fotos und die Beseitigung von Fehlern risikolos möglich sind.</p>
+    <p>Fotos unterstützt JPEG, PNG, TIFF und eine Vielzahl von RAW-Dateiformaten.</p>
+  </description>
+  <description lang="en_AU">
+    <p>Photos is an easy-to-use, fast photo organizer. It allows you to import photos from your camera or disk, organize them by date and subject matter, even ratings. It also offers basic photo editing, like crop, red-eye correction, color adjustments, and straighten. Photos' non-destructive photo editor does not alter your master photos, making it easy to experiment and correct errors.</p>
+    <p>Photos supports JPEG, PNG, TIFF, and a variety of RAW file formats.</p>
+  </description>
+  <description lang="en_CA">
+    <p>Photos is an easy-to-use, fast photo organizer. It allows you to import photos from your camera or disk, organize them by date and subject matter, even ratings. It also offers basic photo editing, like crop, red-eye correction, color adjustments, and straighten. Photos' non-destructive photo editor does not alter your master photos, making it easy to experiment and correct errors.</p>
+    <p>Photos supports JPEG, PNG, TIFF, and a variety of RAW file formats.</p>
+  </description>
+  <description lang="en_GB">
+    <p>Photos is an easy-to-use, fast photo organiser. It allows you to import photos from your camera or disk, organise them by date and subject matter, even ratings. It also offers basic photo editing, like crop, red-eye correction, colour adjustments, and straighten. Photos' non-destructive photo editor does not alter your master photos, making it easy to experiment and correct errors.</p>
+    <p>Photos supports JPEG, PNG, TIFF, and a variety of RAW file formats.</p>
+  </description>
+  <description lang="eo">
+    <p>Fotoj estas faciluza, rapida organizilo de fotoj. Ĝi ebligas importon el fotilo aŭ memorilo, ordiganta ilin laŭ dato kaj temo, eĉ laŭ taksoj. Ĝi ebligas ankaŭ fotoeldonadon, kiel stucon, senruĝokuligon, koloran agordadon kaj rektigadon. La senmodifa reĝimo de Fotoj ne surskribas viajn bazajn fotojn, ebligante eksperimentadon sekuran kaj korekton de eraroj.</p>
+    <p>Fotoj subtenas JPEG-, PNG-, TIFF- kaj diversajn RAW-formatojn.</p>
+  </description>
+  <description lang="es">
+    <p>Fotos es un gestor de fotografías rápido y fácil de usar. Te permite importar tus fotos desde tu cámara o del propio disco, organizarlas por fecha, temas e incluso por calificación. También ofrece herramientas básicas de edición, como recortes, corrección de ojos rojos, ajustes de color y enderezado. El editor no destructivo de Fotos no altera tus fotos originales, lo que facilita experimentar con ellas para corregir errores.</p>
+    <p>Fotos admite los formatos JPEG, PNG y TIFF, así como diversos formatos no procesados.</p>
+  </description>
+  <description lang="fi">
+    <p>Kuvat on helppokäyttöinen ja nopea sovellus kuvien hallintaan. Se mahdollistaa kuvien tuomisen kamerasta tai levyasemilta, kuvien järjestämisen päiväyksen, aiheen tai arvostelun mukaan. Sovellus tarjoaa perusmuokkaustoiminnot, kuten rajauksen, punasilmäisyyden korjauksen ja värisäädöt. Kuvamuokkain ei tee muutoksia alkuperäisiin kuviin, joten kaikenlainen kokeilu ja virheiden korjailu on vaivatonta.</p>
+    <p>Kuvat tukee JPEG-, PNG-, TIFF- ja monia RAW-tiedostomuotoja.</p>
+  </description>
+  <description lang="fr">
+    <p>Photos est une solution simple et rapide pour organiser vos photos. Vous pouvez importer vos photos depuis votre appareil photos ou depuis un support de stockage, les classer par date, par sujet voir même par évaluation. Photos vous offre la possibilité d'éditer vos photographies, de les redimensionner, de supprimer les yeux rouges, d'ajuster les couleurs ainsi que de les remettre droites. Photos est un éditeur non destructif et n'altère aucunement vos photos originales vous permettant ainsi d'expérimenter à loisir et de corriger les erreurs présentes.</p>
+    <p>Photos gère les formats JPEG, PNG, TIFF ainsi qu'une variété de formats RAW.</p>
+  </description>
+  <description lang="he">
+    <p>תמונות הוא מארגן תמונות מהיר וקל לשימוש. המארגן מאפשר לך לייבוא תמונות מהמצלמה שלך לכונן, לארגן אותן לפי תאריך ונושא, אפילו לפי דירוגים. המארגן מציע גם כלי עריכת תמונה בסיסיים כגון חיתוך, תיקון עיניים אדומות, התאמת צבעים ויישור. עורך התמונות הבלתי דורסני לא משנה את התמונה הראשית שלך כך שניתן להתנסות ולתקן תקלות בקלות.</p>
+    <p>תמונות תומך ב־JPEG,‏ PNG,‏ TIFF ומגוון סוגי קבצים גולמיים (RAW).</p>
+  </description>
+  <description lang="hr">
+    <p>Fotografije je jednostavan za korištenje brz organizator fotografija. Omogućuje vam uvoz fotografija iz kamere ili diska, organizira ih prema datumu i tematskom sadržaju ili ocjenama. Omogućuje i osnovno uređivanje fotografija, poput obrezivanja, uklanjanja crvenih očiju, prilagodbe boje. Fotografije je neinvazivan uređivač fotografija, ne mijenja vašu izvornu fotografiju što ga čini lakim za eksperimentiranje i ispravljanje grešaka.</p>
+    <p>Fotografije podržava JPEG, PNG, TIFF, i razne RAW formate datoteka.</p>
+  </description>
+  <description lang="hu">
+    <p>A Fotók egy egyszerűen használható, gyors fotókezelő. Importálhatja vele képeit a fényképezőgépről vagy a lemezről, rendezheti őket dátum, téma vagy akár értékelések szerint. Alap képszerkesztő funkciók is elérhetőek, például: vágás, vörösszem javítása, színmódosítás vagy kiegyenesítés. A Fotók roncsolásmentes szerkesztője nem módosítja az eredeti képeket, megkönnyítve ezzel a kísérletezést és a hibajavítást.</p>
+    <p>A Fotók JPEG, PNG, TIFF és egy sor különböző RAW fájlformátumot támogat.</p>
+  </description>
+  <description lang="id">
+    <p>Foto adalah pengorganisasi foto yang cepat, dan mudah digunakan. Memungkinkan Anda untuk mengimpor foto dari kamera atau disk Anda, mengaturnya berdasarkan tanggal dan subjek, bahkan peringkat. Menawarkan juga dasar pengeditan foto, seperti potong, koreksi red-eye, penyesuaian warna, dan penajaman. Foto Editor foto non-destruktif tidak mengubah foto asli Anda, membutanya mudah untuk bereksperimen dan memperbaiki kesalahan.</p>
+    <p>Foto mendukung format JPEG, PNG, TIFF, dan berbagai berkas RAW.</p>
+  </description>
+  <description lang="ie">
+    <p>Fotos supporta formates JPEG, PNG, TIFF, e divers formates RAW.</p>
+  </description>
+  <description lang="it">
+    <p>Foto è un organizzatore di immagini facile da usare e veloce. Ti permette di importare fotografie dalla tua fotocamera o dal tuo disco, organizzarle per data e argomento e anche in base alle valutazioni. Offre inoltre un basilare editor di immagini con la possibilità di ritagliare, correggere gli occhi rossi, regolare i colori e raddrizzare le proprie foto. Foto non è un editor di foto distruttivo e non altera irrimediabilmente le tue foto, rendendo facile sperimentare e correggere gli errori.</p>
+    <p>Foto supporta JPEG, PNG, TIFF, e una varietà di file in formato RAW.</p>
+  </description>
+  <description lang="iu">
+    <p>Снимки это простой в использовании и быстрый менеджер фотографий, позволяющий импортирование из камеры, сортировку по дате, тематике и рейтингу. Программа также поддерживает базовые инструменты редактирования, такие как обрезка, коррекция эффекта красных глаз, настройка цвета и перспективы. Снимки не перегружает изображения, позволяя с легкостью экспериментировать и корректировать ошибки.</p>
+    <p>Снимки поддерживает JPEG, PNG, TIFF, а также разнообразные форматы RAW.</p>
+  </description>
+  <description lang="ja">
+    <p>“フォト”は使い勝手のいい高速なフォトオーガナイザーです。カメラやディスクから写真を取り入れ、日付や件名、さらには評価によってそれらを整理することを可能にします。さらに、トリミングや赤目補正、色調整および補正といった、基本的な写真編集機能を提供します。"フォト" の非破壊的なフォトエディターはあなたの写真をベストショットをいじらずして、実験やエラー修正を簡単に行います。</p>
+    <p>JPEG・PNG・TIFF・各種 RAW ファイル形式に対応しています。</p>
+  </description>
+  <description lang="ko">
+    <p>사진은 사용하기 쉽고, 빠른 사진 정리 프로그램입니다. 카메라나 디스크에서 사진을 가져오고, 날짜 및 주제별로 정리하고, 심지어 등급도 매깁니다. 크롭, 적목 현상 보정, 색 보정, 수평조절 등의 기본적인 사진 편집 기능을 제공합니다. 포토스의 비파괴 사진 편집 기능은 여러분의 원본 사진을 훼손하지 않고, 쉽게 실험해보고 오류를 수정해 보실 수 있습니다.</p>
+    <p>사진은 JPFG, PNG, TIFF, 그리고 각종 RAW 파일 형식들을 지원합니다.</p>
+  </description>
+  <description lang="lt">
+    <p>Nuotraukos yra lengva naudoti, greita nuotraukų tvarkytuvė. Ji leidžia importuoti nuotraukas iš jūsų kameros ar disko, tvarkyti jas pagal datą, temą ir netgi vertinimus. Ji taip pat siūlo pagrindinį nuotraukų redagavimą, tokį kaip apkirpimas, raudonų akių korekcija, spalvos derinimas ir ištiesinimas. Nuotraukų nenaikinamasis nuotraukų redaktorius nekeičia jūsų pagrindinių nuotraukų, taip leisdamas jums lengvai eksperimentuoti ir pataisyti klaidas.</p>
+    <p>Nuotraukos palaiko JPEG, PNG, TIFF, ir įvairius RAW failo formatus.</p>
+  </description>
+  <description lang="mr">
+    <p>फोटो वापरण्यास-सुलभ, जलद फोटो संयोजक आहे. हे आपल्याला आपल्या कॅमेरा किंवा डिस्कवरील फोटो आयात करण्याची परवानगी देते, त्यांना डेट आणि विषयानुसार, अगदी रेटिंगनुसार देखील व्यवस्थापित करा. हे मूळ फोटो संपादन, जसे की फॉरेस्ट, लाल-डोळा दुरुस्ती, रंग समायोजन आणि सरळ देते.फोटोंचा विना-विनाशकारी फोटो संपादक आपल्या मुख्य फोटोंमध्ये बदल करत नाही, ज्यामुळे त्रुटींवर प्रयोग करणे आणि त्रुटी सुधारणे सोपे होते.</p>
+    <p>फोटो जेपीईजी, पीएनजी, टीआयएफएफ आणि विविध प्रकारचे रॉ फाइल स्वरूपांचे समर्थन करतात.</p>
+  </description>
+  <description lang="ms">
+    <p>Foto adalah sebuah aplikasi pengurus foto yang laju dan senang dipakai. Anda boleh mengimport foto-foto daripada kamera atau cakera keras, susun mengikut tarikh, subjek dan rating. Anda juga boleh melakukan edit mudah seperti potong gambar, pembetulan red-eye, pengubahsuaian warna dan pelurusan. Fungsi pengeditan 'non-destructive' dalam Foto tidak akan mengubah foto asal, memudahkan anda untuk bereksperimen dan membetulkan ralat.</p>
+    <p>"Photos" dapat memaparkan format fail-fail seperti JPEG, PNG, TIFF dan sebagainya.</p>
+  </description>
+  <description lang="nb">
+    <p>Fotofremviser er en enkel-å-bruke, rask bildebehandler. Den lar den importere bilder fra kameraet ditt eller en lagringsenhet, organisere de etter dato og emner, til og med bedømmelse. Den lar deg også redigere bilder, som crop, fjerne røde øyne, gjøre farge justeringer og rette bilder. Fotofremviser endrer ikke det orginale bilde, som gjør det enkelt og trygt å eksperimentere og rette på feil som blir gjort underveis.</p>
+    <p>Fotofremviser støtter JPEG, PNG, TIFF og en rekke med RAW fil formater.</p>
+  </description>
+  <description lang="nl">
+    <p>Foto’s is een snelle en makkelijk te gebruiken foto organizer. Met deze toepassing kunt u foto’s importeren van uw camera of harde schijf, ze rangschikken op datum en onderwerp, zelfs op beoordeling. Ook biedt de toepassing basale fotobewerking, zoals bijsnijden, rode ogen correctie, kleur aanpassingen, en rechtzetten. De editor verandert het originele bestand niet, waardoor het makkelijk is om te experimenteren en fouten te herstellen.</p>
+    <p>Foto’s ondersteunt de volgende bestandsformaten: JPEG, PNG, TIFF en diverse RAW varianten.</p>
+  </description>
+  <description lang="nn">
+    <p>Bilete er ein rask biletebehandlar som er enkel å bruke. Den lèt deg importere bilete frå kameraet ditt eller ei lagringseining, organisere dei etter dato og emne – eller til og med vurdering. Den lèt deg òg redigere bilete, med crop, fjerning av raude auge, fargejusteringar og rette bilete. Bilete endrar ikkje det originale biletet, som gjer det enkelt og trygt å eksperimentere og rette på feil som vert gjort undervegs.</p>
+    <p>Bilete støttar JPEG, PNG, TIFF og ei rekke med RAW-filformat.</p>
+  </description>
+  <description lang="pl">
+    <p>Program Zdjęcia jest łatwym w użyciu, szybkim organizatorem zdjęć. Pozwala na importowanie zdjęć z aparatu lub dysku, organizowanie ich według daty, przedmiotu, a nawet według ocen. Oferuje także podstawową edycję zdjęć, taką jak przycinanie, korekcja czerwonych oczu, regulacja kolorów oraz prostowanie zdjęcia. Program Zdjęcia jest niedestruktywnym edytorem zdjęć, nie niszczy oryginalnych fotografii, dzięki czemu można łatwo eksperymentować i poprawiać błędy.</p>
+    <p>Program Zdjęcia obsługuje formaty JPEG, PNG, TIFF oraz wiele formatów RAW.</p>
+  </description>
+  <description lang="pt">
+    <p>Fotos é um organizador de fotos rápido e de fácil uso. Permite a importação de fotos da câmara ou do disco e fazer a sua organização por data, por assunto e por classificação. Também oferece capacidades de edição básicas como cortar, a correção de olhos vermelhos e ajustes de cor. A edição de fotos não altera os ficheiros originais, facilitando a edição e permitindo experimentar diversas configurações e correções.</p>
+    <p>Fotos suporta JPEG, PNG, TIFF e uma variedade de ficheiros RAW.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Fotos é um organizador de fotos rápido e fácil de usar. Ele permite à você importar fotos de sua câmera ou disco, organizar elas por data ou assunto, até mesmo classificações. Ele também oferece edição básicas de fotos, como cortar, corrigir olhos vermelhos, ajustar as cores e endireitar. O Fotos é um editor de fotos não destrutivo e não altera suas fotos principais, facilitando você à experimentar e corrigir erros.</p>
+    <p>Fotos suporta JPEG, PNG, TIFF e uma variedade de formatos de arquivo RAW.</p>
+  </description>
+  <description lang="ru">
+    <p>Просмотрщик фотографий является простым в использовании, быстрым органайзером фотографий. Он позволяет импортировать фотографии с камеры или диска, организовывать их по дате, тематике и даже по рейтингу. Он также поддерживает базовые инструменты редактирования фотографий, такие как обрезка, коррекция эффекта красных глаз, настройка и выпрямление цвета. Просмотрщик фотографий сохраняет оригинальное изображение, так что вы с легкостью сможете экспериментировать и исправлять ошибки.</p>
+    <p>Просмотрщик фотографий поддерживает форматы JPEG, PNG, TIFF, а также разнообразные форматы RAW.</p>
+  </description>
+  <description lang="sk">
+    <p>Fotky sú rýchly a ľahko použiteľný správca fotografií. Umožňujú nahrávanie fotografií z fotoaparátu alebo disku, zoradenie podľa dátumu a ich obsahu alebo hodnotenia. Tiež ponúkajú základné úpravy ako orezanie, odstránenie červených očí, korekciu farieb a vyrovnanie. Vďaka nedeštruktívnej povahe aplikácie sa vaše pôvodné fotky nezničia, čo uľahčuje experimentovanie a opravu chýb.</p>
+    <p>Prehliadač fotografií podporuje formáty JPEG, PNG, TIFF a rôzne formáty RAW.</p>
+  </description>
+  <description lang="sl">
+    <p>Fotografije je preprost in hiter organizator fotografij. Omogoča vam uvoz slik s kamere in diska, urejanje po datumu in tematiki ter ocenjevanje. Podpira tudi preprosto urejanje slik, rezanje, popravilo rdečih oči.</p>
+    <p>Fotografije podpira JPEG, PNG, TIFF in vrsto RAW formatov datotek.</p>
+  </description>
+  <description lang="sr">
+    <p>Фотографије је једноставан за употребу, брз организатор фотографија. Омогућава вам да увезете фотографије са фотоапарата или диска, да их организујете по датуму и предмету теме, чак и према оценама. Такође нуди основну обраду слика, као што је одсецање, уклањање црвених очију, подешавање боје, и исправљање. Његов неуништивни уређивач фотографија не мења ваше главне фотографије, што вам олакшава да експериментишете и исправљате грешке.</p>
+    <p>Фотографије подржава ЈПЕГ, ПНГ, ТИФФ и разне СИРОВЕ формате датотека.</p>
+  </description>
+  <description lang="sv">
+    <p>Bilder är en användarvänlig och kvick bildvisare. Den tillåter dig att importera bilder från din kamera eller lagringsenhet, organisera dem efter datum eller ämne, till och med ranking. Den erbjuder även grundläggande bildredigering, såsom beskärning, korrektion av röda ögon, färgjusteringar samt bilduträtning. Bilder ändrar aldrig originalbilden, vilket gör det enkelt att experimentera och korrigera fel i efterhand.</p>
+    <p>Bilder har stöd för JPEG, PNG, TIFF, och diverse varianter av RAW-filformat.</p>
+  </description>
+  <description lang="tr">
+    <p>Fotoğraflar kullanımı kolay, hızlı bir fotoğraf yöneticisidir. Bu uygulama sayesinde kamera ya da disklerinizden fotoğraf aktarabilir, onları tarih ve konularına göre hatta rating'lerine göre yönetebilirsiniz .Ayrıca basit fotoğraf düzenleme desteği ile fotoğraflarınızı, kesebilir, kırmızı göz düzeltmesi, renk düzenlemeleri ve düzleştirme yapabilirsiniz.</p>
+    <p>Fotoğraflar JPEG, PNG, TIFF ve çeşitli RAW formatlarını destekler.</p>
+  </description>
+  <description lang="ug">
+    <p>بۇ بىر ئىشلىتىشكە ئاسان، سۈرئىتى تىز بولغان سۈرەت باشقۇرغۇچ. كامىرا ياكى قاتتىق دىسكىڭىزدىكى سۈرەتلىرىڭىزنى كىرگۈزەلەيسىز، چىسلا،  تېمىسى ۋە دەرىجىسى بويىچە باشقۇرالايسىز. ئۇ يەنە كىسىش، قىزىل كۆزنى تۈزىتىش، رەڭ تەڭشەش، نۇرنى ئاشۇرۇش قاتارلىق ئاساسىي سۈرەت تەھرىرلەش ئىقتىدارلىنى تەمىنلىگەن. بۇ سۈرەت باشقۇرغۇچ بىخەتەر بولۇپ ئەسلى سۈرەتنى سىزمايدۇ، شۇڭلاشقا خالىغانچە ئىشلىتىپ سىناپ باقسىڭىز بولىدۇ ۋە خاتالىقلارنى ئاسانلا تۈزىتەلەيسىز.</p>
+    <p>سۈرەت باشقۇرغۇچ JPEG, PNG, TIFF ۋە   RAW ھۆججەتلەرنى قوللايدۇ.</p>
+  </description>
+  <description lang="uk">
+    <p>Світлини — це простий у користуванні швидкий менеджер для світлин. Він дозволяє імпортувати світлини з камери або диска, впорядковувати їх за датою та темою, навіть за оцінками. Він також пропонує базове редагування фотографій, наприклад обрізання, корекцію ефекту червоних очей, регулювання кольору та випрямлення. Світлини — неруйнівний редактор світлин, він не змінює основні фотографії, що полегшує експерименти та виправлення помилок.</p>
+    <p>Світлини підтримує JPEG, PNG, TIFF і безліч RAW форматів файлів.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>Photos 是一款易用、快速的照片管理器。它允许您从相机或磁盘或相机导入图片，按照日期、主题甚至评价去组织它们。它还提供基本的图片编辑，如裁剪、红眼修正、颜色调整和水平较正等功能。Photos 十分安全，编辑图片时不会涂改您的原图，因此很容易进行各种尝试并纠正错误。</p>
+    <p>应用支持 JPEG、PNG、TIFF 和多种 RAW 文件格式。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>《相片》是易用、快速的相片整理器。它讓您匯入相機、卡片或磁碟上的相片；或依據活動主題、日期、甚至評等來整理相片。它也提供基本的相片編輯功能，例如裁切、紅眼修正、色彩調整、拉直…等。《相片》的非破壞性相片編輯器不會修改您的原初相片，讓您能輕鬆體驗和修正錯誤。</p>
+    <p>《相片》支援 JPEG、PNG、TIFF 和各種 RAW 檔案格式。</p>
+  </description>
+  <provides>
+    <binary>io.elementary.photos</binary>
+  </provides>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/elementary/photos/master/data/screenshot.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/elementary/photos/master/data/screenshot-adjust.png</image>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release date="2022-05-16" version="2.7.5" urgency="medium">
+      <description>
+        <p>Minor updates:</p>
+        <p lang="zh_CN">次要更新：</p>
+        <p lang="uk">Незначні оновлення:</p>
+        <p lang="tr">Küçük güncellemeler:</p>
+        <p lang="ru">Незначительные обновления:</p>
+        <p lang="pl">Drobne aktualizacje:</p>
+        <p lang="nl">Kleine updates:</p>
+        <p lang="ja">そのほかのアップデート:</p>
+        <p lang="id">Pembaruan kecil:</p>
+        <p lang="hu">Apróbb frissítések:</p>
+        <p lang="he">עדכונים משניים:</p>
+        <p lang="fr">Mises à jour mineures :</p>
+        <p lang="en_GB">Minor updates:</p>
+        <p lang="de">Kleinere Aktualisierungen:</p>
+        <p lang="cs">Opravy drobných chyb:</p>
+        <p lang="ca">Actualitzacions menors:</p>
+        <ul>
+          <li>Redesigned app icon</li>
+          <li>Translation updates</li>
+          <li lang="zh_TW">翻譯更新</li>
+          <li lang="zh_CN">翻译更新</li>
+          <li lang="uk">Оновлено переклади</li>
+          <li lang="tr">Çeviriler güncellendi</li>
+          <li lang="sv">Översättningsuppdateringar</li>
+          <li lang="sr">Освежења превода</li>
+          <li lang="sk">Aktualizácie prekladu</li>
+          <li lang="ru">Обновления перевода</li>
+          <li lang="pt_BR">Atualizações de tradução</li>
+          <li lang="pt">Atualização das traduções</li>
+          <li lang="pl">Aktualizacje tłumaczenia</li>
+          <li lang="nl">Bijgewerkte vertalingen</li>
+          <li lang="nb">Oppdatering av oversettelse</li>
+          <li lang="ms">Kemaskini terjemahan</li>
+          <li lang="mr">भाषांतर अपडेट्स</li>
+          <li lang="lt">Vertimų atnaujinimai</li>
+          <li lang="ku">rojanekirina wergerrandin</li>
+          <li lang="ko">번역 업데이트</li>
+          <li lang="ja">翻訳の更新</li>
+          <li lang="iu">Обновления перевода</li>
+          <li lang="it">Traduzioni aggiornate</li>
+          <li lang="ie">Actualisation de traductiones</li>
+          <li lang="id">Pembaruan terjemahan</li>
+          <li lang="hu">Frissített fordítások</li>
+          <li lang="hr">Nadopune prijevoda</li>
+          <li lang="he">עדכוני תרגומים</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="fi">Päivityksiä kielikäännöksiin</li>
+          <li lang="es">Traducciones actualizadas</li>
+          <li lang="eo">Tradukaj ĝisdatigoj</li>
+          <li lang="en_GB">Translation updates</li>
+          <li lang="el">Ενημερώσεις μεταφράσεων</li>
+          <li lang="de">Übersetzungsaktualisierungen</li>
+          <li lang="da">Opdatering af oversættelse</li>
+          <li lang="cs">Aktualizace překladů</li>
+          <li lang="ca">Actualitzacions de la traducció</li>
+          <li lang="ar">تحديثات في الترجمة</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" version="2.7.4" date="2022-01-31">
+      <description>
+        <p>Fixes:</p>
+        <p lang="zh_CN">修复:</p>
+        <p lang="uk">Виправлення:</p>
+        <p lang="tr">Düzeltmeler:</p>
+        <p lang="ru">Исправления:</p>
+        <p lang="pt">Correções:</p>
+        <p lang="pl">Poprawki:</p>
+        <p lang="nl">Opgelost:</p>
+        <p lang="ja">修正点:</p>
+        <p lang="id">Perbaikan:</p>
+        <p lang="hu">Javítások:</p>
+        <p lang="he">תיקונים:</p>
+        <p lang="fr">Corrections :</p>
+        <p lang="en_GB">Fixes:</p>
+        <p lang="de">Fehlerbehebungen:</p>
+        <p lang="cs">Provedené opravy:</p>
+        <p lang="ca">Correccions:</p>
+        <ul>
+          <li>Photos taken on the same day show under the same event</li>
+          <li lang="uk">Світлини, зроблені в один день, показано під однаковою подією</li>
+          <li lang="pl">Zdjęcia zrobione tego samego dnia pokazywane są teraz pod tym samym wydarzeniem</li>
+          <li lang="ja">同じ日に撮影された写真は同じイベントに表示するように修正</li>
+          <li lang="hu">Az egyazon a napon készített képek ugyanaz az esemény alatt jelennek meg</li>
+          <li lang="he">תמונות שצולמו באותו היום מופיעות תחת אותו האירוע</li>
+          <li lang="fr">Les photos prises le même jour s'affichent sous le même événement</li>
+          <li lang="en_GB">Photos taken on the same day show under the same event</li>
+          <li lang="cs">Fotky pořízené ve stejný den se zobrazují v rámci stejné události</li>
+          <li lang="ca">Les fotos fetes el mateix dia es mostren sota el mateix esdeveniment.</li>
+          <li>Replace all instances of "Shotwell" with "Photos"</li>
+          <li lang="uk">Усі випадки вживання «Shotwell» замінено на «Світлини»</li>
+          <li lang="ru">Заменил все случаи упоминания «Shotwell» на «Фотографии»</li>
+          <li lang="pl">Zamieniono wszystkie wystąpienia "Shotwell" na "Zdjęcia"</li>
+          <li lang="ja">“Shotwell” という表記を“フォト”に変更</li>
+          <li lang="hu">A "Shotwell" minden előfordulása "Fotók"-ra cserélve</li>
+          <li lang="he">כל המופעים של „Shotwell” הוחלפו ב־„תמונות”</li>
+          <li lang="fr">Remplacement de toutes les instances de « Shotwell » par « Photos »</li>
+          <li lang="en_GB">Replace all instances of "Shotwell" with "Photos"</li>
+          <li lang="cs">Nahrazeny veškeré výskyty „Shotwell“ za „Fotky“</li>
+          <li lang="ca">Substitució de totes les instàncies de "Shotwell" per "Fotos"</li>
+          <li>Avoid a crash when importing videos</li>
+          <li lang="uk">Усунено збій під час імпортування відео</li>
+          <li lang="ru">Предотвращён сбой при импорте видео</li>
+          <li lang="pl">Zapobiegnięto błędowi krytycznemu przy importowaniu filmów</li>
+          <li lang="ja">動画インポート時にクラッシュしないように修正</li>
+          <li lang="hu">Videók importálásakor történő összeomlás javítva</li>
+          <li lang="he">ייבוא וידאו לא קורס עוד</li>
+          <li lang="fr">Prévention d'un plantage lors de l'import de vidéos</li>
+          <li lang="en_GB">Avoid a crash when importing videos</li>
+          <li lang="cs">Zamezeno pádu při importu videí</li>
+          <li lang="ca">S'evita un bloqueig quan importeu vídeos.</li>
+        </ul>
+        <p>Minor updates:</p>
+        <p lang="zh_CN">次要更新：</p>
+        <p lang="uk">Незначні оновлення:</p>
+        <p lang="tr">Küçük güncellemeler:</p>
+        <p lang="ru">Незначительные обновления:</p>
+        <p lang="pl">Drobne aktualizacje:</p>
+        <p lang="nl">Kleine updates:</p>
+        <p lang="ja">そのほかのアップデート:</p>
+        <p lang="id">Pembaruan kecil:</p>
+        <p lang="hu">Apróbb frissítések:</p>
+        <p lang="he">עדכונים משניים:</p>
+        <p lang="fr">Mises à jour mineures :</p>
+        <p lang="en_GB">Minor updates:</p>
+        <p lang="de">Kleinere Aktualisierungen:</p>
+        <p lang="cs">Opravy drobných chyb:</p>
+        <p lang="ca">Actualitzacions menors:</p>
+        <ul>
+          <li>Translation updates</li>
+          <li lang="zh_TW">翻譯更新</li>
+          <li lang="zh_CN">翻译更新</li>
+          <li lang="uk">Оновлено переклади</li>
+          <li lang="tr">Çeviriler güncellendi</li>
+          <li lang="sv">Översättningsuppdateringar</li>
+          <li lang="sr">Освежења превода</li>
+          <li lang="sk">Aktualizácie prekladu</li>
+          <li lang="ru">Обновления перевода</li>
+          <li lang="pt_BR">Atualizações de tradução</li>
+          <li lang="pt">Atualização das traduções</li>
+          <li lang="pl">Aktualizacje tłumaczenia</li>
+          <li lang="nl">Bijgewerkte vertalingen</li>
+          <li lang="nb">Oppdatering av oversettelse</li>
+          <li lang="ms">Kemaskini terjemahan</li>
+          <li lang="mr">भाषांतर अपडेट्स</li>
+          <li lang="lt">Vertimų atnaujinimai</li>
+          <li lang="ku">rojanekirina wergerrandin</li>
+          <li lang="ko">번역 업데이트</li>
+          <li lang="ja">翻訳の更新</li>
+          <li lang="iu">Обновления перевода</li>
+          <li lang="it">Traduzioni aggiornate</li>
+          <li lang="ie">Actualisation de traductiones</li>
+          <li lang="id">Pembaruan terjemahan</li>
+          <li lang="hu">Frissített fordítások</li>
+          <li lang="hr">Nadopune prijevoda</li>
+          <li lang="he">עדכוני תרגומים</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="fi">Päivityksiä kielikäännöksiin</li>
+          <li lang="es">Traducciones actualizadas</li>
+          <li lang="eo">Tradukaj ĝisdatigoj</li>
+          <li lang="en_GB">Translation updates</li>
+          <li lang="el">Ενημερώσεις μεταφράσεων</li>
+          <li lang="de">Übersetzungsaktualisierungen</li>
+          <li lang="da">Opdatering af oversættelse</li>
+          <li lang="cs">Aktualizace překladů</li>
+          <li lang="ca">Actualitzacions de la traducció</li>
+          <li lang="ar">تحديثات في الترجمة</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" date="2021-10-26" version="2.7.3">
+      <description>
+        <p>Fixes:</p>
+        <p lang="zh_CN">修复:</p>
+        <p lang="uk">Виправлення:</p>
+        <p lang="tr">Düzeltmeler:</p>
+        <p lang="ru">Исправления:</p>
+        <p lang="pt">Correções:</p>
+        <p lang="pl">Poprawki:</p>
+        <p lang="nl">Opgelost:</p>
+        <p lang="ja">修正点:</p>
+        <p lang="id">Perbaikan:</p>
+        <p lang="hu">Javítások:</p>
+        <p lang="he">תיקונים:</p>
+        <p lang="fr">Corrections :</p>
+        <p lang="en_GB">Fixes:</p>
+        <p lang="de">Fehlerbehebungen:</p>
+        <p lang="cs">Provedené opravy:</p>
+        <p lang="ca">Correccions:</p>
+        <ul>
+          <li>Focus photos on startup when previewing to fix navigating with left and right arrow keys</li>
+          <li lang="zh_CN">修复当启动预览聚集图片时左右箭头键导航</li>
+          <li lang="uk">Фокусування на світлинах при запуску у попередньому перегляді, щоб виправити навігацію кнопками стрілок ліворуч і праворуч</li>
+          <li lang="ru">Перенаправление фокуса на фотографии при открытии, исправляет навигацию левой и правой стрелками</li>
+          <li lang="pt">Foca as fotos no arranque aquando da pré-visualização para corrigir a navegação com as setas esquerda e direita</li>
+          <li lang="pl">Ustaw fokus na zdjęciach przy uruchamianiu by naprawić nawigowanie strzałkami</li>
+          <li lang="nl">Leg de focus op foto’s bij het opstarten zodat er genavigeerd kan worden met de linker en rechter pijltoetsen</li>
+          <li lang="ja">フォトビューアーの起動時に写真にフォーカスするように変更し、左右キーで画像を変更できなかった不具合を修正</li>
+          <li lang="id">Fokuskan foto pada startup saat melihat pratinjau untuk memperbaiki navigasi dengan tombol panah kiri dan kanan</li>
+          <li lang="he">התמקדות על תמונות בזמן העליה בעת הצגה מקדימה כדי לתקן את הניווט עם החצים שמאלה וימינה</li>
+          <li lang="fr">Mise au point des photos au démarrage lors de la prévisualisation pour corriger la navigation avec les touches fléchées gauche et droite</li>
+          <li lang="en_GB">Focus photos on startup when previewing to fix navigating with left and right arrow keys</li>
+          <li lang="de">Fotos beim Starten auswählen, so dass das Navigieren mit den Rechts- und Links-Pfeiltasten sichergestellt ist</li>
+          <li lang="cs">Zaměřeny fotky při spouštění když náhled aby bylo opraveno pohybování se pomocí kláves šipka vlevo a vpravo</li>
+          <li lang="ca">Focalització de les fotografies a l'inici quan es previsualitza per solucionar la navegació amb les tecles de fletxa esquerra i dreta</li>
+          <li>Fix a possible crash with invalid date and time info</li>
+          <li lang="zh_CN">修复日期和时间信息无效的可能崩溃</li>
+          <li lang="uk">Виправлено можливий збій з хибними даними про дату й час</li>
+          <li lang="ru">Исправлен возможный сбой при недействительной информации о дате и времени</li>
+          <li lang="pl">Naprawiono potencjalny błąd krytyczny z nieprawidłowymi danymi o dacie i czasie</li>
+          <li lang="nl">Een mogelijke crash opgelost veroorzaakt door onjuiste datum en tijd informatie</li>
+          <li lang="ja">撮影日時の情報が間違っているとクラッシュすることがある不具合を修正</li>
+          <li lang="id">Perbaiki kemungkinan kerusakan dengan info tanggal dan waktu yang tidak valid</li>
+          <li lang="he">תוקנה קריסה אפשרי עם פרטי תאריך ושעה שגויים</li>
+          <li lang="fr">Correction d'un éventuel plantage avec des informations de date et d'heure invalides</li>
+          <li lang="en_GB">Fix a possible crash with invalid date and time info</li>
+          <li lang="de">Behebt einen Fehler, der zum Absturz bei ungültigen Datums- und Zeitangaben führte</li>
+          <li lang="cs">Opraven možný pád kvůli neplatným informacím o datu a času</li>
+          <li lang="ca">Correcció d'un possible bloqueig amb la informació de data i hora no vàlida</li>
+        </ul>
+        <p>Minor updates:</p>
+        <p lang="zh_CN">次要更新：</p>
+        <p lang="uk">Незначні оновлення:</p>
+        <p lang="tr">Küçük güncellemeler:</p>
+        <p lang="ru">Незначительные обновления:</p>
+        <p lang="pl">Drobne aktualizacje:</p>
+        <p lang="nl">Kleine updates:</p>
+        <p lang="ja">そのほかのアップデート:</p>
+        <p lang="id">Pembaruan kecil:</p>
+        <p lang="hu">Apróbb frissítések:</p>
+        <p lang="he">עדכונים משניים:</p>
+        <p lang="fr">Mises à jour mineures :</p>
+        <p lang="en_GB">Minor updates:</p>
+        <p lang="de">Kleinere Aktualisierungen:</p>
+        <p lang="cs">Opravy drobných chyb:</p>
+        <p lang="ca">Actualitzacions menors:</p>
+        <ul>
+          <li>Move Toggle Sidebar and Toggle Photo Info actions to the main menubutton</li>
+          <li lang="zh_CN">将切换侧边栏和切换照片信息操作移动到主菜单按钮</li>
+          <li lang="uk">Дії показати/сховати бічну панель/відомості про світлину перенесено до кнопки головного меню</li>
+          <li lang="pl">Przeniesiono przełącznik panelu bocznego i przełącznik informacji o zdjęciach do głównego menu</li>
+          <li lang="nl">Het aan en uitzetten van de zijbalk en foto informatie is toegevoegd aan het hoofdmenu</li>
+          <li lang="ja">“サイドバーの表示／非表示”と“画像情報の表示／非表示”アクションをメインのメニューボタンに移動</li>
+          <li lang="id">Memindahkan tindakan Toggle Sidebar dan Toggle Photo Info ke tombol menu utama</li>
+          <li lang="he">פעולות הצגת/הסתרת סרגל צד ופרטי תמונה הועברו לתפריט הכפתורים הראשי</li>
+          <li lang="fr">Déplacement des actions pour afficher/masquer la barre latérale et les informations sur la photo vers le bouton de menu principal</li>
+          <li lang="en_GB">Move Toggle Sidebar and Toggle Photo Info actions to the main menubutton</li>
+          <li lang="de">Button für das Ein- und Ausblenden der Seitenleiste und für Foto-Info zum Hauptmenübutton verschoben</li>
+          <li lang="cs">Přesunutí akcí vyp/zap. zobrazení postranního panelu a fotek do hlavního tlačítka nabídky</li>
+          <li lang="ca">Es mouen les accions Commuta la barra lateral i Commuta la informació de la fotografia al botó del menú principal.</li>
+          <li>Translation updates</li>
+          <li lang="zh_TW">翻譯更新</li>
+          <li lang="zh_CN">翻译更新</li>
+          <li lang="uk">Оновлено переклади</li>
+          <li lang="tr">Çeviriler güncellendi</li>
+          <li lang="sv">Översättningsuppdateringar</li>
+          <li lang="sr">Освежења превода</li>
+          <li lang="sk">Aktualizácie prekladu</li>
+          <li lang="ru">Обновления перевода</li>
+          <li lang="pt_BR">Atualizações de tradução</li>
+          <li lang="pt">Atualização das traduções</li>
+          <li lang="pl">Aktualizacje tłumaczenia</li>
+          <li lang="nl">Bijgewerkte vertalingen</li>
+          <li lang="nb">Oppdatering av oversettelse</li>
+          <li lang="ms">Kemaskini terjemahan</li>
+          <li lang="mr">भाषांतर अपडेट्स</li>
+          <li lang="lt">Vertimų atnaujinimai</li>
+          <li lang="ku">rojanekirina wergerrandin</li>
+          <li lang="ko">번역 업데이트</li>
+          <li lang="ja">翻訳の更新</li>
+          <li lang="iu">Обновления перевода</li>
+          <li lang="it">Traduzioni aggiornate</li>
+          <li lang="ie">Actualisation de traductiones</li>
+          <li lang="id">Pembaruan terjemahan</li>
+          <li lang="hu">Frissített fordítások</li>
+          <li lang="hr">Nadopune prijevoda</li>
+          <li lang="he">עדכוני תרגומים</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="fi">Päivityksiä kielikäännöksiin</li>
+          <li lang="es">Traducciones actualizadas</li>
+          <li lang="eo">Tradukaj ĝisdatigoj</li>
+          <li lang="en_GB">Translation updates</li>
+          <li lang="el">Ενημερώσεις μεταφράσεων</li>
+          <li lang="de">Übersetzungsaktualisierungen</li>
+          <li lang="da">Opdatering af oversættelse</li>
+          <li lang="cs">Aktualizace překladů</li>
+          <li lang="ca">Actualitzacions de la traducció</li>
+          <li lang="ar">تحديثات في الترجمة</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" version="2.7.2" date="2021-09-22">
+      <description>
+        <ul>
+          <li>Draw selection rectangle when dragging to select</li>
+          <li lang="zh_CN">拖动选择时绘制选择矩形</li>
+          <li lang="uk">Зображення прямокутника виділення під час перетягування, щоб виділити</li>
+          <li lang="ru">Показывать фоновое выделение при массовом выборе</li>
+          <li lang="pt">Desenhar retângulo de seleção ao arrastar para selecionar</li>
+          <li lang="pl">Narysuj prostokąt zaznaczenia podczas przeciągania</li>
+          <li lang="nl">Toon een selectievak bij het slepen van de muis om te selecteren</li>
+          <li lang="ja">ドラッグして写真を選択した際に、選択箇所を長方形で描画するように修正</li>
+          <li lang="id">Gambar memilih persegi panjang saat menyeret untuk memilih</li>
+          <li lang="he">יצויר מלבן בחירה בעת גרירה לבחירה</li>
+          <li lang="fr">Dessin d'un rectangle de sélection lors du glissement pour sélectionner</li>
+          <li lang="es">Dibujar un rectángulo de selección al arrastrar para seleccionar</li>
+          <li lang="en_GB">Draw selection rectangle when dragging to select</li>
+          <li lang="de">Zeichne ein Auswahlrechteck wenn zum Auswählen gezogen wird</li>
+          <li lang="cs">Vykreslení obdélníku výběry když se vybírá tažením</li>
+          <li lang="ca">Dibuix del rectangle de selecció quan s'arrossega per seleccionar</li>
+          <li>Show image titles in preview mode</li>
+          <li lang="zh_CN">在预览模式显示图像标题</li>
+          <li lang="uk">Заголовки зображень показуються у режимі попереднього перегляду</li>
+          <li lang="ru">Заголовки изображений показываются в режиме предварительного просмотра</li>
+          <li lang="pt">Mostrar títulos de imagens em modo de pré-visualização</li>
+          <li lang="pl">Pokaż nazwy obrazów w trybie podglądu</li>
+          <li lang="nl">Toon de namen van afbeeldingen in de preview mode</li>
+          <li lang="ja">画像ビューアーでも画像のタイトルを表示するように修正</li>
+          <li lang="id">Tunjukan judul gambar pada mode pratinjau</li>
+          <li lang="he">כותרות התמונות תוצגנה במצב תצוגה מקדימה</li>
+          <li lang="fr">Affichage du nom des images en mode aperçu</li>
+          <li lang="es">Mostrar títulos de imágenes en modo de vista previa</li>
+          <li lang="en_GB">Show image titles in preview mode</li>
+          <li lang="de">Bildnamen im Vorschaumodus anzeigen</li>
+          <li lang="cs">Zobrazování titulků obrázků v náhledovém režimu</li>
+          <li lang="ca">Es mostren els títols de les imatges al mode de previsualització.</li>
+          <li>Translation updates</li>
+          <li lang="zh_TW">翻譯更新</li>
+          <li lang="zh_CN">翻译更新</li>
+          <li lang="uk">Оновлено переклади</li>
+          <li lang="tr">Çeviriler güncellendi</li>
+          <li lang="sv">Översättningsuppdateringar</li>
+          <li lang="sr">Освежења превода</li>
+          <li lang="sk">Aktualizácie prekladu</li>
+          <li lang="ru">Обновления перевода</li>
+          <li lang="pt_BR">Atualizações de tradução</li>
+          <li lang="pt">Atualização das traduções</li>
+          <li lang="pl">Aktualizacje tłumaczenia</li>
+          <li lang="nl">Bijgewerkte vertalingen</li>
+          <li lang="nb">Oppdatering av oversettelse</li>
+          <li lang="ms">Kemaskini terjemahan</li>
+          <li lang="mr">भाषांतर अपडेट्स</li>
+          <li lang="lt">Vertimų atnaujinimai</li>
+          <li lang="ku">rojanekirina wergerrandin</li>
+          <li lang="ko">번역 업데이트</li>
+          <li lang="ja">翻訳の更新</li>
+          <li lang="iu">Обновления перевода</li>
+          <li lang="it">Traduzioni aggiornate</li>
+          <li lang="ie">Actualisation de traductiones</li>
+          <li lang="id">Pembaruan terjemahan</li>
+          <li lang="hu">Frissített fordítások</li>
+          <li lang="hr">Nadopune prijevoda</li>
+          <li lang="he">עדכוני תרגומים</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="fi">Päivityksiä kielikäännöksiin</li>
+          <li lang="es">Traducciones actualizadas</li>
+          <li lang="eo">Tradukaj ĝisdatigoj</li>
+          <li lang="en_GB">Translation updates</li>
+          <li lang="el">Ενημερώσεις μεταφράσεων</li>
+          <li lang="de">Übersetzungsaktualisierungen</li>
+          <li lang="da">Opdatering af oversættelse</li>
+          <li lang="cs">Aktualizace překladů</li>
+          <li lang="ca">Actualitzacions de la traducció</li>
+          <li lang="ar">تحديثات في الترجمة</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.7.1" urgency="medium" date="2021-07-13">
+      <description>
+        <ul>
+          <li>Fix keyboard activation in tool windows</li>
+          <li lang="zh_CN">修复工具窗口中的键盘响应</li>
+          <li lang="uk">Виправлено активацію клавіатури в інструментах вікон</li>
+          <li lang="tr">Araç pencerelerindeki klavye aktivasyonu düzeltildi</li>
+          <li lang="ru">Исправлена активация клавиатуры в окнах инструментов</li>
+          <li lang="pt_BR">Corrigir ativação do teclado em janelas de ferramentas</li>
+          <li lang="pt">Corrige a ativação do teclado nas janelas de ferramentas</li>
+          <li lang="pl">Naprawiono aktywację klawiatury w oknach narzędzi</li>
+          <li lang="nl">Een probleem met toetsenbord activatie opgelost in gereedschap vensters</li>
+          <li lang="ja">ツールウィンドウでキーボードが有効にならない不具合を修正</li>
+          <li lang="id">Perbaiki aktivasi papan ketik di jendela alat</li>
+          <li lang="he">תוקנה הפעלת מקלדת בחלונות כלים</li>
+          <li lang="fr">Correction de l'activation du clavier dans la fenêtre des outils</li>
+          <li lang="es">Corregir la activación del teclado en las ventanas de herramientas</li>
+          <li lang="en_GB">Fix keyboard activation in tool windows</li>
+          <li lang="de">Behebt einen Fehler bei der Tastaturaktivierung in Toolfenstern</li>
+          <li lang="cs">Opravena aktivace klávesnicí v okně nástroje</li>
+          <li lang="ca">Correcció de l'activació del teclat a les finestres d'eines</li>
+          <li>Show saved state correctly in the context-menu</li>
+          <li lang="zh_CN">在上下文菜单中显示正确的已保存状态</li>
+          <li lang="uk">Показ збереженого стану правильно в контекстному меню</li>
+          <li lang="tr">İçerik menüsündeki kaydedilmiş durumu doğru şekilde göster</li>
+          <li lang="sr">Исправно приказује сачувано стање у приручном изборнику</li>
+          <li lang="ru">Показывать сохраненное состояние правильно в контекстном меню</li>
+          <li lang="pt_BR">Mostra o status de salvo corretamente no menu de contexto</li>
+          <li lang="pt">Mostra o estado guardado corretamente no menu de contexto</li>
+          <li lang="pl">Pokazuje zapisane stany poprawnie w menu kontekstowym</li>
+          <li lang="nl">Toon de opgeslagen status correct in het context-menu</li>
+          <li lang="mr">संदर्भ मेनूमध्ये जतन केलेली स्थिती योग्यरितीने दर्शवा</li>
+          <li lang="ja">コンテキストメニューに表示されるアプリの保存状態が間違っている不具合を修正</li>
+          <li lang="id">Tampilkan status tersimpan dengan benar di menu konteks</li>
+          <li lang="he">הצגת מצב השמירה בצורה נכונה בתפריט ההקשר</li>
+          <li lang="fr">Nous affichons désormais correctement le statut d'enregistrement dans le menu contextuel</li>
+          <li lang="es">Se muestra correctamente el estado de guardado en el menú contextual</li>
+          <li lang="en_GB">Show saved state correctly in the context-menu</li>
+          <li lang="de">Zeige gespeichert-Zustand korrekt im Kontextmenü an</li>
+          <li lang="cs">Správné zobrazování uloženého stavu v kontextové nabídce</li>
+          <li lang="ca">Es mostra l'estat de desament correcte al menú contextual.</li>
+          <li>Translation updates</li>
+          <li lang="zh_TW">翻譯更新</li>
+          <li lang="zh_CN">翻译更新</li>
+          <li lang="uk">Оновлено переклади</li>
+          <li lang="tr">Çeviriler güncellendi</li>
+          <li lang="sv">Översättningsuppdateringar</li>
+          <li lang="sr">Освежења превода</li>
+          <li lang="sk">Aktualizácie prekladu</li>
+          <li lang="ru">Обновления перевода</li>
+          <li lang="pt_BR">Atualizações de tradução</li>
+          <li lang="pt">Atualização das traduções</li>
+          <li lang="pl">Aktualizacje tłumaczenia</li>
+          <li lang="nl">Bijgewerkte vertalingen</li>
+          <li lang="nb">Oppdatering av oversettelse</li>
+          <li lang="ms">Kemaskini terjemahan</li>
+          <li lang="mr">भाषांतर अपडेट्स</li>
+          <li lang="lt">Vertimų atnaujinimai</li>
+          <li lang="ku">rojanekirina wergerrandin</li>
+          <li lang="ko">번역 업데이트</li>
+          <li lang="ja">翻訳の更新</li>
+          <li lang="iu">Обновления перевода</li>
+          <li lang="it">Traduzioni aggiornate</li>
+          <li lang="ie">Actualisation de traductiones</li>
+          <li lang="id">Pembaruan terjemahan</li>
+          <li lang="hu">Frissített fordítások</li>
+          <li lang="hr">Nadopune prijevoda</li>
+          <li lang="he">עדכוני תרגומים</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="fi">Päivityksiä kielikäännöksiin</li>
+          <li lang="es">Traducciones actualizadas</li>
+          <li lang="eo">Tradukaj ĝisdatigoj</li>
+          <li lang="en_GB">Translation updates</li>
+          <li lang="el">Ενημερώσεις μεταφράσεων</li>
+          <li lang="de">Übersetzungsaktualisierungen</li>
+          <li lang="da">Opdatering af oversættelse</li>
+          <li lang="cs">Aktualizace překladů</li>
+          <li lang="ca">Actualitzacions de la traducció</li>
+          <li lang="ar">تحديثات في الترجمة</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.7.0" urgency="medium" date="2020-04-08">
+      <description>
+        <ul>
+          <li>Add Open In menu to the photo viewer</li>
+          <li lang="zh_TW">在照片檢視器中的選單新增開啟功能</li>
+          <li lang="zh_CN">在照片查看器中加入打开方式菜单</li>
+          <li lang="uk">Додано меню Відкрити до засобу перегляду світлин</li>
+          <li lang="tr">Fotoğraf görüntüleyiciye Birlikte Aç menüsü ekle</li>
+          <li lang="sr">Додаје прегледачу фотографија изборник „Отвори у“</li>
+          <li lang="ru">Добавить Открыть в меню просмотра фотографий</li>
+          <li lang="pt_BR">Adicionar menu Abrir em ao visualizador de fotos</li>
+          <li lang="pt">Adicionar o Abrir no menu do visualizador de fotos</li>
+          <li lang="pl">Dodano „Otwórz w” w ekranie wyświetlania</li>
+          <li lang="nl">Een Openen Met menu is toegevoegd aan de foto viewer</li>
+          <li lang="mr">फोटो दर्शकात ओपन इन मेनू जोडा</li>
+          <li lang="ja">フォトビューアーに “指定した方法で開く” メニューを追加</li>
+          <li lang="it">Aggiungi il menu "Apri in" al visualizzatore di foto</li>
+          <li lang="id">Menambahkan Buka Pada dalam menu pada penampil foto</li>
+          <li lang="he">נוסף תפריט פתיחה עם במציג התמונות</li>
+          <li lang="fr">Ajout du menu « Ouvrir dans » au visionneur de photos</li>
+          <li lang="es">Añade «Abrir» en el menú del visor de fotos</li>
+          <li lang="eo">Aldoni menuaĵon „Malfermi Per“ en la vidilo de fotoj</li>
+          <li lang="en_GB">Add Open In menu to the photo viewer</li>
+          <li lang="de">Fügt "Öffnen in..." Menü zum Foto Viewer hinzu</li>
+          <li lang="cs">Přidat otevřít do nabídky prohlížeče fotek</li>
+          <li lang="ca">Addició d'Obrir al menú del visualitzador de fotografies</li>
+          <li lang="ar">أضف الفتح في القائمة لمستعرض الصور</li>
+          <li>Translation updates</li>
+          <li lang="zh_TW">翻譯更新</li>
+          <li lang="zh_CN">翻译更新</li>
+          <li lang="uk">Оновлено переклади</li>
+          <li lang="tr">Çeviriler güncellendi</li>
+          <li lang="sv">Översättningsuppdateringar</li>
+          <li lang="sr">Освежења превода</li>
+          <li lang="sk">Aktualizácie prekladu</li>
+          <li lang="ru">Обновления перевода</li>
+          <li lang="pt_BR">Atualizações de tradução</li>
+          <li lang="pt">Atualização das traduções</li>
+          <li lang="pl">Aktualizacje tłumaczenia</li>
+          <li lang="nl">Bijgewerkte vertalingen</li>
+          <li lang="nb">Oppdatering av oversettelse</li>
+          <li lang="ms">Kemaskini terjemahan</li>
+          <li lang="mr">भाषांतर अपडेट्स</li>
+          <li lang="lt">Vertimų atnaujinimai</li>
+          <li lang="ku">rojanekirina wergerrandin</li>
+          <li lang="ko">번역 업데이트</li>
+          <li lang="ja">翻訳の更新</li>
+          <li lang="iu">Обновления перевода</li>
+          <li lang="it">Traduzioni aggiornate</li>
+          <li lang="ie">Actualisation de traductiones</li>
+          <li lang="id">Pembaruan terjemahan</li>
+          <li lang="hu">Frissített fordítások</li>
+          <li lang="hr">Nadopune prijevoda</li>
+          <li lang="he">עדכוני תרגומים</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="fi">Päivityksiä kielikäännöksiin</li>
+          <li lang="es">Traducciones actualizadas</li>
+          <li lang="eo">Tradukaj ĝisdatigoj</li>
+          <li lang="en_GB">Translation updates</li>
+          <li lang="el">Ενημερώσεις μεταφράσεων</li>
+          <li lang="de">Übersetzungsaktualisierungen</li>
+          <li lang="da">Opdatering af oversættelse</li>
+          <li lang="cs">Aktualizace překladů</li>
+          <li lang="ca">Actualitzacions de la traducció</li>
+          <li lang="ar">تحديثات في الترجمة</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.6.5" urgency="medium" date="2019-11-15">
+      <description>
+        <ul>
+          <li>Add checkerboard behind semi-transparent photos in grid view</li>
+          <li lang="zh_TW">在網格檢視中為半透明的照片加上棋盤狀背景</li>
+          <li lang="zh_CN">在网格视图中的半透明区域背景加入棋盘图案</li>
+          <li lang="uk">Додано шахівницю за напівпрозорими світлинами у поданні сіткою</li>
+          <li lang="tr">Izgara görünümünde yarı saydam fotoğrafların arkasına dama tahtası ekle</li>
+          <li lang="sr">Додаје шаховску таблу иза полупрозирних фотографија у мрежном приказу</li>
+          <li lang="ru">Добавлена шахматная доска за полупрозрачными фотографиями в режиме просмотра сетки</li>
+          <li lang="pt_BR">Adicionar tabuleiro de xadrez atrás de fotos semitransparentes na visualização em grade</li>
+          <li lang="pt">Adicionar tabuleiro de xadrez atrás de fotos semi-transparentes em vista de grelha</li>
+          <li lang="pl">Dodano szachownice w częściowo przezroczystych zdjęciach w widoku siatki</li>
+          <li lang="nl">Een schaakbord wordt getoond achter semi-transparante foto’s in rooster weergave</li>
+          <li lang="mr">ग्रिड दृश्यात अर्ध-पारदर्शक फोटोंच्या मागे चेकरबोर्ड जोडा</li>
+          <li lang="ja">グリッドビューで半透明な画像の背景にチェック柄を追加</li>
+          <li lang="it">Aggiunge un motivo a scacchiera dietro le foto semitrasparenti nella vista a griglia</li>
+          <li lang="id">Menambahkan papan dam di belakang foto semi-transparan pada tampilan bergaris</li>
+          <li lang="he">נוסף לוח שחמט מאחורי תמונה שקופה למחצה בתצוגת רשת</li>
+          <li lang="fr">Ajout de l'échiquier de transparence derrière les photos avec transparence dans la vue en grille</li>
+          <li lang="es">Añade un fondo de escaques tras las imágenes semitransparentes en la vista de cuadrícula</li>
+          <li lang="eo">Aldoni ŝaktabulon malantaŭ parte travideblajn fotojn ĉe kradvido</li>
+          <li lang="en_GB">Add checkerboard behind semi-transparent photos in grid view</li>
+          <li lang="de">Schachbrettmuster hinter halbtransparenten Fotos in der Kachelansicht hinzugefügt</li>
+          <li lang="cs">Přidána šachovnice za poloprůhledné fotky v zobrazení v mřížce</li>
+          <li lang="ca">Addició d'un tauler de control darrere de les fotos semitransparents a la vista de la graella</li>
+          <li>Fix pasting in comment box</li>
+          <li lang="zh_TW">修正於備註欄中進行貼上時的問題</li>
+          <li lang="zh_CN">修复注释框内的粘贴问题</li>
+          <li lang="uk">Виправлено вставлення до поля коментаря</li>
+          <li lang="tr">Yorum kutusuna yapıştırma düzeltildi</li>
+          <li lang="sr">Поправља убацивање у поље напомене</li>
+          <li lang="ru">Исправлена вставка в поле для комментариев</li>
+          <li lang="pt_BR">Corrige colar na caixa de comentários</li>
+          <li lang="pt">Corrige a colagem na caixa de comentários</li>
+          <li lang="pl">Naprawiono wklejanie w miejscu na komentarz</li>
+          <li lang="nl">Een probleem opgelost met het plakken in de opmerkingen box</li>
+          <li lang="mr">कमेंट बॉक्समध्ये पेस्ट करण्याशी संबंधित समस्यांचे निराकरण करा</li>
+          <li lang="ja">コメント欄への貼り付けの際の不具合を修正</li>
+          <li lang="it">Risolto il problema con l'incollaggio nella casella dei commenti</li>
+          <li lang="id">Perbaikan saat menempelkan dalam kolom komen</li>
+          <li lang="he">תיקון הדבקה בתיבת הערות</li>
+          <li lang="fr">Correction du copier-coller dans la boîte de commentaires</li>
+          <li lang="es">Se arregla el pegado en el cuadro de comentarios</li>
+          <li lang="eo">Ripari algluon en komentujo</li>
+          <li lang="en_GB">Fix pasting in comment box</li>
+          <li lang="de">Fehler beim Einfügen in die Kommentarbox behoben</li>
+          <li lang="cs">Oprava vkládání do kolonky komentáře</li>
+          <li lang="ca">Correcció de l'acció d'enganxar a la casella de comentari</li>
+          <li>Make sure we show the right apps in the Open In menu</li>
+          <li lang="zh_CN">在打开方式中显示正确的应用程序</li>
+          <li lang="uk">Переконайтеся, що ми показуємо потрібні застосунки в меню Відкрити в</li>
+          <li lang="tr">Birlikte Aç menüsünde doğru uygulamaları gösterdiğimizden emin ol</li>
+          <li lang="sr">Осигурава да приказујемо праве програме у изборнику „Отвори у“</li>
+          <li lang="ru">Убедитесь, что мы показываем правильные приложения в меню «Открыть в»</li>
+          <li lang="pt_BR">Certifique-se de mostrar os aplicativos certos no menu Abrir em</li>
+          <li lang="pt">Certifique-se de que mostramos as aplicações certas em Abrir no menu</li>
+          <li lang="pl">Upewniono się, że pokazujemy odpowiednie aplikacje w menu „Otwórz w”</li>
+          <li lang="nl">De juiste apps worden nu getoond in het Openen Met menu</li>
+          <li lang="mr">ओपन इन मेनूमध्ये आपण योग्य अँप दर्शवित असल्याचे सुनिश्चित करा</li>
+          <li lang="ja">“指定した方法で開く” メニューに正しいアプリを表示するように修正</li>
+          <li lang="it">Assicura di mostrare le applicazioni corrette nel menu "Apri in"</li>
+          <li lang="id">Pastikan kami menampilkan aplikasi yang sesuai pada menu Buka Pada</li>
+          <li lang="he">לוודא שאנו מציגים את היישומים הנכונים בתפריט פתיחה עם</li>
+          <li lang="fr">Nous nous assurons que nous montrons les bonnes applications dans le menu « Ouvrir dans »</li>
+          <li lang="es">Las aplicaciones correctas aparecen en el menú Abrir en</li>
+          <li lang="eo">Certiĝu pri montri ĝustajn aplikaĵojn en la menuo „Malfermi Per“</li>
+          <li lang="en_GB">Make sure we show the right apps in the Open In menu</li>
+          <li lang="de">Sicherstellen, dass wir die richtigen Apps im Öffnen in.. Menü zeigen</li>
+          <li lang="cs">Ověření, že se v nabídce otevřít v zobrazují správné aplikace</li>
+          <li lang="ca">S'assegura que es mostrin les aplicacions adequades al menú d'Obrir.</li>
+          <li>Redesign a large number of dialogs</li>
+          <li lang="zh_CN">重新设计的对话框</li>
+          <li lang="uk">Перероблено багато діалогових вікон</li>
+          <li lang="tr">Çok sayıda iletişim kutusu yeniden tasarlandı</li>
+          <li lang="sr">Редизајн великог броја прозорчића</li>
+          <li lang="ru">Переработано большое количество диалоговых окон</li>
+          <li lang="pt_BR">Redesenho de um grande número de caixas de diálogo</li>
+          <li lang="pt">Redesenhar um grande número de caixas de diálogos</li>
+          <li lang="pl">Przeprojektowano sporą liczbę wyskakujących okien</li>
+          <li lang="nl">Een groot aantal vensters zijn opnieuw ontworpen</li>
+          <li lang="mr">मोठ्या संख्येतील संवाद पुन्हा डिझाइन करा</li>
+          <li lang="ja">各ダイアログのデザインを変更</li>
+          <li lang="it">Ridisegna un gran numero di finestre di dialogo</li>
+          <li lang="id">Mendesain ulang sebagian besar dialog</li>
+          <li lang="he">עיצוב מחדש של מגוון רחב של תיבות דו־שיח</li>
+          <li lang="fr">Reconception d'un grand nombre de boîtes de dialogue</li>
+          <li lang="es">Rediseño de un gran número de diálogos</li>
+          <li lang="eo">Refasono de multaj dialogoj</li>
+          <li lang="en_GB">Redesign a large number of dialogs</li>
+          <li lang="de">Große Anzahl an Dialogen neu gestaltet</li>
+          <li lang="cs">Předělání velké části dialogů</li>
+          <li lang="ca">Redisseny d'un gran nombre de diàlegs</li>
+          <li>Translation updates</li>
+          <li lang="zh_TW">翻譯更新</li>
+          <li lang="zh_CN">翻译更新</li>
+          <li lang="uk">Оновлено переклади</li>
+          <li lang="tr">Çeviriler güncellendi</li>
+          <li lang="sv">Översättningsuppdateringar</li>
+          <li lang="sr">Освежења превода</li>
+          <li lang="sk">Aktualizácie prekladu</li>
+          <li lang="ru">Обновления перевода</li>
+          <li lang="pt_BR">Atualizações de tradução</li>
+          <li lang="pt">Atualização das traduções</li>
+          <li lang="pl">Aktualizacje tłumaczenia</li>
+          <li lang="nl">Bijgewerkte vertalingen</li>
+          <li lang="nb">Oppdatering av oversettelse</li>
+          <li lang="ms">Kemaskini terjemahan</li>
+          <li lang="mr">भाषांतर अपडेट्स</li>
+          <li lang="lt">Vertimų atnaujinimai</li>
+          <li lang="ku">rojanekirina wergerrandin</li>
+          <li lang="ko">번역 업데이트</li>
+          <li lang="ja">翻訳の更新</li>
+          <li lang="iu">Обновления перевода</li>
+          <li lang="it">Traduzioni aggiornate</li>
+          <li lang="ie">Actualisation de traductiones</li>
+          <li lang="id">Pembaruan terjemahan</li>
+          <li lang="hu">Frissített fordítások</li>
+          <li lang="hr">Nadopune prijevoda</li>
+          <li lang="he">עדכוני תרגומים</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="fi">Päivityksiä kielikäännöksiin</li>
+          <li lang="es">Traducciones actualizadas</li>
+          <li lang="eo">Tradukaj ĝisdatigoj</li>
+          <li lang="en_GB">Translation updates</li>
+          <li lang="el">Ενημερώσεις μεταφράσεων</li>
+          <li lang="de">Übersetzungsaktualisierungen</li>
+          <li lang="da">Opdatering af oversættelse</li>
+          <li lang="cs">Aktualizace překladů</li>
+          <li lang="ca">Actualitzacions de la traducció</li>
+          <li lang="ar">تحديثات في الترجمة</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-05-16" urgency="medium" version="2.6.4">
+      <description>
+        <ul>
+          <li>Fix building against latest gexiv2</li>
+          <li lang="zh_CN">修复最新版本 gexiv2 的构建问题</li>
+          <li lang="uk">Виправлено збірку порівняно з останнім gexiv2</li>
+          <li lang="tr">En güncel gexiv2 sorunu düzeltildi</li>
+          <li lang="sr">Поправља изградњу са последњим „gexiv2“</li>
+          <li lang="ru">Исправлена сборка в сравнении с последним gexiv2</li>
+          <li lang="pt_BR">Corrigir a construção contra o mais recente gexiv2</li>
+          <li lang="pt">Corrigir a construção contra o mais recente gexiv2</li>
+          <li lang="pl">Naprawiono budowanie z najnowszym gexiv2</li>
+          <li lang="nl">Een probleem opgelost met het gebruik van gexiv2</li>
+          <li lang="mr">नवीनतम gexiv2 विरूद्ध बिल्डिंग निश्चित करा</li>
+          <li lang="lt">Pataisytas darinys su naujausiu gexiv2</li>
+          <li lang="ja">最新の gexiv2 を使用した際のビルドの修正</li>
+          <li lang="it">Risolto un problema di compilazione con l'ultimo gexiv2</li>
+          <li lang="id">Perbaikan saat membangun gevix2 terbaru</li>
+          <li lang="he">תיקון בנייה כנגד ה־gexiv2 העדכני ביותר</li>
+          <li lang="fr">Correction de la compilation par rapport a la dernière version de gexiv2</li>
+          <li lang="es">Corrección de la compilación con la versión más reciente de gexiv2</li>
+          <li lang="eo">Ripari version per la freŝa gexiv2</li>
+          <li lang="en_GB">Fix building against latest gexiv2</li>
+          <li lang="de">Neuester gexiv2 beim Build berücksichtigt</li>
+          <li lang="cs">Oprava sestavování s použitím nejnovějším gexiv2</li>
+          <li lang="ca">Correcció de la construcció amb l'últim gexiv2</li>
+          <li>Translation updates</li>
+          <li lang="zh_TW">翻譯更新</li>
+          <li lang="zh_CN">翻译更新</li>
+          <li lang="uk">Оновлено переклади</li>
+          <li lang="tr">Çeviriler güncellendi</li>
+          <li lang="sv">Översättningsuppdateringar</li>
+          <li lang="sr">Освежења превода</li>
+          <li lang="sk">Aktualizácie prekladu</li>
+          <li lang="ru">Обновления перевода</li>
+          <li lang="pt_BR">Atualizações de tradução</li>
+          <li lang="pt">Atualização das traduções</li>
+          <li lang="pl">Aktualizacje tłumaczenia</li>
+          <li lang="nl">Bijgewerkte vertalingen</li>
+          <li lang="nb">Oppdatering av oversettelse</li>
+          <li lang="ms">Kemaskini terjemahan</li>
+          <li lang="mr">भाषांतर अपडेट्स</li>
+          <li lang="lt">Vertimų atnaujinimai</li>
+          <li lang="ku">rojanekirina wergerrandin</li>
+          <li lang="ko">번역 업데이트</li>
+          <li lang="ja">翻訳の更新</li>
+          <li lang="iu">Обновления перевода</li>
+          <li lang="it">Traduzioni aggiornate</li>
+          <li lang="ie">Actualisation de traductiones</li>
+          <li lang="id">Pembaruan terjemahan</li>
+          <li lang="hu">Frissített fordítások</li>
+          <li lang="hr">Nadopune prijevoda</li>
+          <li lang="he">עדכוני תרגומים</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="fi">Päivityksiä kielikäännöksiin</li>
+          <li lang="es">Traducciones actualizadas</li>
+          <li lang="eo">Tradukaj ĝisdatigoj</li>
+          <li lang="en_GB">Translation updates</li>
+          <li lang="el">Ενημερώσεις μεταφράσεων</li>
+          <li lang="de">Übersetzungsaktualisierungen</li>
+          <li lang="da">Opdatering af oversættelse</li>
+          <li lang="cs">Aktualizace překladů</li>
+          <li lang="ca">Actualitzacions de la traducció</li>
+          <li lang="ar">تحديثات في الترجمة</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.6.3" date="2019-04-08" urgency="medium">
+      <description>
+        <ul>
+          <li>Fix building against latest gexiv2</li>
+          <li lang="zh_CN">修复最新版本 gexiv2 的构建问题</li>
+          <li lang="uk">Виправлено збірку порівняно з останнім gexiv2</li>
+          <li lang="tr">En güncel gexiv2 sorunu düzeltildi</li>
+          <li lang="sr">Поправља изградњу са последњим „gexiv2“</li>
+          <li lang="ru">Исправлена сборка в сравнении с последним gexiv2</li>
+          <li lang="pt_BR">Corrigir a construção contra o mais recente gexiv2</li>
+          <li lang="pt">Corrigir a construção contra o mais recente gexiv2</li>
+          <li lang="pl">Naprawiono budowanie z najnowszym gexiv2</li>
+          <li lang="nl">Een probleem opgelost met het gebruik van gexiv2</li>
+          <li lang="mr">नवीनतम gexiv2 विरूद्ध बिल्डिंग निश्चित करा</li>
+          <li lang="lt">Pataisytas darinys su naujausiu gexiv2</li>
+          <li lang="ja">最新の gexiv2 を使用した際のビルドの修正</li>
+          <li lang="it">Risolto un problema di compilazione con l'ultimo gexiv2</li>
+          <li lang="id">Perbaikan saat membangun gevix2 terbaru</li>
+          <li lang="he">תיקון בנייה כנגד ה־gexiv2 העדכני ביותר</li>
+          <li lang="fr">Correction de la compilation par rapport a la dernière version de gexiv2</li>
+          <li lang="es">Corrección de la compilación con la versión más reciente de gexiv2</li>
+          <li lang="eo">Ripari version per la freŝa gexiv2</li>
+          <li lang="en_GB">Fix building against latest gexiv2</li>
+          <li lang="de">Neuester gexiv2 beim Build berücksichtigt</li>
+          <li lang="cs">Oprava sestavování s použitím nejnovějším gexiv2</li>
+          <li lang="ca">Correcció de la construcció amb l'últim gexiv2</li>
+          <li>Use Granite.MessageDialog throughout</li>
+          <li lang="zh_CN">全面使用 Granite.MessageDialog</li>
+          <li lang="uk">Використання Granite.MessageDialog завжди</li>
+          <li lang="tr">Granite.MessageDialog'u baştan sona kullan</li>
+          <li lang="sr">Користи потпуно „Granite.MessageDialog“</li>
+          <li lang="ru">Использование повсюду Granite.MessageDialog</li>
+          <li lang="pt_BR">Utilizar inteiramente o Granite.MessageDialog</li>
+          <li lang="pt">Use o Granite.MessageDialog contudo</li>
+          <li lang="pl">Zmiana na używanie wszędzie Granite.MessageDialog</li>
+          <li lang="nl">Er wordt nu overal gebruik gemaakt van Granite.MessageDialog</li>
+          <li lang="mr">संपूर्णपणे Granite.MessageDialog  वापरा</li>
+          <li lang="lt">Naudoti visur Granite.MessageDialog</li>
+          <li lang="ja">一貫的な Granite.MessageDialog の利用</li>
+          <li lang="it">Usa Granite.MessageDialog dove possibile</li>
+          <li lang="id">Gunakan seluruh Granite.MessageDialog</li>
+          <li lang="he">להשתמש ב־Granite.MessageDialog היכן שניתן</li>
+          <li lang="fr">Utilisation de Granite.MessageDialog partout</li>
+          <li lang="es">Se usa Granite.MessageDialog en todas partes</li>
+          <li lang="eo">Uzi entute la ilon Granite.MessageDialog</li>
+          <li lang="en_GB">Use Granite.MessageDialog throughout</li>
+          <li lang="de">Konsequent Granite.MessageDialog benutzen</li>
+          <li lang="cs">Použita Granite.MessageDialog po celou dobu</li>
+          <li lang="ca">Ús complet de Granite.MessageDialog</li>
+          <li>Use Gtk.FileChooserNative throughout</li>
+          <li lang="zh_CN">全面使用 Gtk.FileChooserNative</li>
+          <li lang="uk">Використання Gtk.FileChooserNative завжди</li>
+          <li lang="tr">Baştan sona Gtk.FileChooserNative kullanın</li>
+          <li lang="sr">Користи потпуно „Gtk.FileChooserNative“</li>
+          <li lang="ru">Использование повсюду Gtk.FileChooserNative</li>
+          <li lang="pt_BR">Utilizar inteiramente o Gtk.FileChooserNative</li>
+          <li lang="pt">Use o Gtk.FileChooserNative contudo</li>
+          <li lang="pl">Zmiana na używanie wszędzie Gtk.FileChooserNative</li>
+          <li lang="nl">Er wordt nu overal gebruik gemaakt van Gtk.FileChooserNative</li>
+          <li lang="mr">संपूर्णपणे  Gtk.FileChooserNative  वापरा</li>
+          <li lang="lt">Naudoti visur Gtk.FileChooserNative</li>
+          <li lang="ja">一貫的な Gtk.FileChooserNative の利用</li>
+          <li lang="it">Usa Gtk.FileChooserNative dove possibile</li>
+          <li lang="id">Gunakan seluruh Gtk.FileChooserNative</li>
+          <li lang="he">להשתמש ב־Gtk.FileChooserNative היכן שניתן</li>
+          <li lang="fr">Utilisation de Gtk.FileChooserNative partout</li>
+          <li lang="es">Se usa Gtk.FileChooserNative en todas partes</li>
+          <li lang="eo">Uzi tute la ilon Gtk.FileChooserNative</li>
+          <li lang="en_GB">Use Gtk.FileChooserNative throughout</li>
+          <li lang="de">Konsequent Gtk.FileChooserNative benutzen</li>
+          <li lang="cs">Použití Gtk.FileChooserNative po celou dobu</li>
+          <li lang="ca">Ús complet de Gtk.FileChooserNative</li>
+          <li>Translation updates</li>
+          <li lang="zh_TW">翻譯更新</li>
+          <li lang="zh_CN">翻译更新</li>
+          <li lang="uk">Оновлено переклади</li>
+          <li lang="tr">Çeviriler güncellendi</li>
+          <li lang="sv">Översättningsuppdateringar</li>
+          <li lang="sr">Освежења превода</li>
+          <li lang="sk">Aktualizácie prekladu</li>
+          <li lang="ru">Обновления перевода</li>
+          <li lang="pt_BR">Atualizações de tradução</li>
+          <li lang="pt">Atualização das traduções</li>
+          <li lang="pl">Aktualizacje tłumaczenia</li>
+          <li lang="nl">Bijgewerkte vertalingen</li>
+          <li lang="nb">Oppdatering av oversettelse</li>
+          <li lang="ms">Kemaskini terjemahan</li>
+          <li lang="mr">भाषांतर अपडेट्स</li>
+          <li lang="lt">Vertimų atnaujinimai</li>
+          <li lang="ku">rojanekirina wergerrandin</li>
+          <li lang="ko">번역 업데이트</li>
+          <li lang="ja">翻訳の更新</li>
+          <li lang="iu">Обновления перевода</li>
+          <li lang="it">Traduzioni aggiornate</li>
+          <li lang="ie">Actualisation de traductiones</li>
+          <li lang="id">Pembaruan terjemahan</li>
+          <li lang="hu">Frissített fordítások</li>
+          <li lang="hr">Nadopune prijevoda</li>
+          <li lang="he">עדכוני תרגומים</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="fi">Päivityksiä kielikäännöksiin</li>
+          <li lang="es">Traducciones actualizadas</li>
+          <li lang="eo">Tradukaj ĝisdatigoj</li>
+          <li lang="en_GB">Translation updates</li>
+          <li lang="el">Ενημερώσεις μεταφράσεων</li>
+          <li lang="de">Übersetzungsaktualisierungen</li>
+          <li lang="da">Opdatering af oversættelse</li>
+          <li lang="cs">Aktualizace překladů</li>
+          <li lang="ca">Actualitzacions de la traducció</li>
+          <li lang="ar">تحديثات في الترجمة</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.6.2" date="2019-01-28" urgency="medium">
+      <description>
+        <ul>
+          <li>Minor bug fixes</li>
+          <li lang="zh_TW">小臭蟲修正</li>
+          <li lang="zh_CN">细节修复</li>
+          <li lang="uk">Незначні виправлення</li>
+          <li lang="tr">Küçük hata düzeltmeleri</li>
+          <li lang="sv">Mindre bugg-fixar</li>
+          <li lang="sr">Мање исправке грешака</li>
+          <li lang="sk">Menšie opravy chýb</li>
+          <li lang="ru">Исправления незначительных ошибок</li>
+          <li lang="pt_BR">Correções de pequenos bugs</li>
+          <li lang="pt">Pequenas correções de problemas</li>
+          <li lang="pl">Poprawki drobnych błędów</li>
+          <li lang="nl">Kleine bugfixes</li>
+          <li lang="nb">Mindre feil rettelser</li>
+          <li lang="ms">Pembetulan bug kecil</li>
+          <li lang="mr">किरकोळ दोष निराकरणे</li>
+          <li lang="lt">Smulkių klaidų pataisymai</li>
+          <li lang="ku">çêkirina biçûke çewtî</li>
+          <li lang="ko">자잘한 버그 해결</li>
+          <li lang="ja">軽微なバグの修正</li>
+          <li lang="it">Correzioni di bug minori</li>
+          <li lang="id">Perbaikan bug kecil</li>
+          <li lang="hu">Apró hibajavítások</li>
+          <li lang="hr">Manji popravci grešaka</li>
+          <li lang="he">תיקוני תקלות מזעריים</li>
+          <li lang="fr">Corrections d'anomalies mineures</li>
+          <li lang="fi">Muita pieniä korjauksia</li>
+          <li lang="es">Reparación de errores menores</li>
+          <li lang="eo">Malgravaj sencimigoj</li>
+          <li lang="en_GB">Minor bug fixes</li>
+          <li lang="el">Μικρές διορθώσεις σφαλμάτων</li>
+          <li lang="de">Kleinere Fehlerbehebungen</li>
+          <li lang="da">Mindre fejlrettelser</li>
+          <li lang="cs">Opravy drobných chyb</li>
+          <li lang="ca">Correccions d'errors menors</li>
+          <li>Translation updates</li>
+          <li lang="zh_TW">翻譯更新</li>
+          <li lang="zh_CN">翻译更新</li>
+          <li lang="uk">Оновлено переклади</li>
+          <li lang="tr">Çeviriler güncellendi</li>
+          <li lang="sv">Översättningsuppdateringar</li>
+          <li lang="sr">Освежења превода</li>
+          <li lang="sk">Aktualizácie prekladu</li>
+          <li lang="ru">Обновления перевода</li>
+          <li lang="pt_BR">Atualizações de tradução</li>
+          <li lang="pt">Atualização das traduções</li>
+          <li lang="pl">Aktualizacje tłumaczenia</li>
+          <li lang="nl">Bijgewerkte vertalingen</li>
+          <li lang="nb">Oppdatering av oversettelse</li>
+          <li lang="ms">Kemaskini terjemahan</li>
+          <li lang="mr">भाषांतर अपडेट्स</li>
+          <li lang="lt">Vertimų atnaujinimai</li>
+          <li lang="ku">rojanekirina wergerrandin</li>
+          <li lang="ko">번역 업데이트</li>
+          <li lang="ja">翻訳の更新</li>
+          <li lang="iu">Обновления перевода</li>
+          <li lang="it">Traduzioni aggiornate</li>
+          <li lang="ie">Actualisation de traductiones</li>
+          <li lang="id">Pembaruan terjemahan</li>
+          <li lang="hu">Frissített fordítások</li>
+          <li lang="hr">Nadopune prijevoda</li>
+          <li lang="he">עדכוני תרגומים</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="fi">Päivityksiä kielikäännöksiin</li>
+          <li lang="es">Traducciones actualizadas</li>
+          <li lang="eo">Tradukaj ĝisdatigoj</li>
+          <li lang="en_GB">Translation updates</li>
+          <li lang="el">Ενημερώσεις μεταφράσεων</li>
+          <li lang="de">Übersetzungsaktualisierungen</li>
+          <li lang="da">Opdatering af oversættelse</li>
+          <li lang="cs">Aktualizace překladů</li>
+          <li lang="ca">Actualitzacions de la traducció</li>
+          <li lang="ar">تحديثات في الترجمة</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" version="2.6.1" date="2018-10-29">
+      <description>
+        <ul>
+          <li>Fix plugin windows not expanding</li>
+          <li lang="zh_CN">修复插件窗口无法展开的问题</li>
+          <li lang="uk">Виправлено ваду, коли вікна плагінів не розширювалися</li>
+          <li lang="tr">Eklenti pencerelerinin genişlememesi düzeltildi</li>
+          <li lang="sr">Поправља неширење прозора прикључка</li>
+          <li lang="ru">Исправлена ошибка, когда окна плагинов не расширялись</li>
+          <li lang="pt_BR">Corrigir janelas de plugins sem expansão</li>
+          <li lang="pt">Corrigir o plugin das janelas sem expansão</li>
+          <li lang="pl">Naprawiono nie rozwijające się okna wtyczki</li>
+          <li lang="nl">Het plug-in venster wordt nu wel vergroot</li>
+          <li lang="mr">प्लगइन विंडो विस्तारत नाहीत निराकरण करा</li>
+          <li lang="lt">Pataisytas neišsiplečiantis įskiepių langas</li>
+          <li lang="ja">プラグインウィンドウが拡大されない不具合を修正</li>
+          <li lang="it">Risolto il problema con la finestra delle estensioni che non si espandeva</li>
+          <li lang="id">Perbaikan jendela plugin tidak membesar</li>
+          <li lang="he">תיקון הרחבת חלון התוספים</li>
+          <li lang="fr">Correction de la fenêtre du plugin qui ne s'étendait pas</li>
+          <li lang="es">Corrección de las ventanas del complemento que no se expanden</li>
+          <li lang="eo">Ripari neampleksiĝon de kromaĵaj fenestroj</li>
+          <li lang="en_GB">Fix plugin windows not expanding</li>
+          <li lang="de">Beheben eines Fehler, der dafür sorgte, dass Plugin-Fenster nicht vergrößert wurden</li>
+          <li lang="cs">Oprava nezvětšujících se oken zásuvných modulů</li>
+          <li lang="ca">Correcció de les finestres de connector que no s'expandeixen</li>
+          <li>Minor bug fixes</li>
+          <li lang="zh_TW">小臭蟲修正</li>
+          <li lang="zh_CN">细节修复</li>
+          <li lang="uk">Незначні виправлення</li>
+          <li lang="tr">Küçük hata düzeltmeleri</li>
+          <li lang="sv">Mindre bugg-fixar</li>
+          <li lang="sr">Мање исправке грешака</li>
+          <li lang="sk">Menšie opravy chýb</li>
+          <li lang="ru">Исправления незначительных ошибок</li>
+          <li lang="pt_BR">Correções de pequenos bugs</li>
+          <li lang="pt">Pequenas correções de problemas</li>
+          <li lang="pl">Poprawki drobnych błędów</li>
+          <li lang="nl">Kleine bugfixes</li>
+          <li lang="nb">Mindre feil rettelser</li>
+          <li lang="ms">Pembetulan bug kecil</li>
+          <li lang="mr">किरकोळ दोष निराकरणे</li>
+          <li lang="lt">Smulkių klaidų pataisymai</li>
+          <li lang="ku">çêkirina biçûke çewtî</li>
+          <li lang="ko">자잘한 버그 해결</li>
+          <li lang="ja">軽微なバグの修正</li>
+          <li lang="it">Correzioni di bug minori</li>
+          <li lang="id">Perbaikan bug kecil</li>
+          <li lang="hu">Apró hibajavítások</li>
+          <li lang="hr">Manji popravci grešaka</li>
+          <li lang="he">תיקוני תקלות מזעריים</li>
+          <li lang="fr">Corrections d'anomalies mineures</li>
+          <li lang="fi">Muita pieniä korjauksia</li>
+          <li lang="es">Reparación de errores menores</li>
+          <li lang="eo">Malgravaj sencimigoj</li>
+          <li lang="en_GB">Minor bug fixes</li>
+          <li lang="el">Μικρές διορθώσεις σφαλμάτων</li>
+          <li lang="de">Kleinere Fehlerbehebungen</li>
+          <li lang="da">Mindre fejlrettelser</li>
+          <li lang="cs">Opravy drobných chyb</li>
+          <li lang="ca">Correccions d'errors menors</li>
+          <li>Translation updates</li>
+          <li lang="zh_TW">翻譯更新</li>
+          <li lang="zh_CN">翻译更新</li>
+          <li lang="uk">Оновлено переклади</li>
+          <li lang="tr">Çeviriler güncellendi</li>
+          <li lang="sv">Översättningsuppdateringar</li>
+          <li lang="sr">Освежења превода</li>
+          <li lang="sk">Aktualizácie prekladu</li>
+          <li lang="ru">Обновления перевода</li>
+          <li lang="pt_BR">Atualizações de tradução</li>
+          <li lang="pt">Atualização das traduções</li>
+          <li lang="pl">Aktualizacje tłumaczenia</li>
+          <li lang="nl">Bijgewerkte vertalingen</li>
+          <li lang="nb">Oppdatering av oversettelse</li>
+          <li lang="ms">Kemaskini terjemahan</li>
+          <li lang="mr">भाषांतर अपडेट्स</li>
+          <li lang="lt">Vertimų atnaujinimai</li>
+          <li lang="ku">rojanekirina wergerrandin</li>
+          <li lang="ko">번역 업데이트</li>
+          <li lang="ja">翻訳の更新</li>
+          <li lang="iu">Обновления перевода</li>
+          <li lang="it">Traduzioni aggiornate</li>
+          <li lang="ie">Actualisation de traductiones</li>
+          <li lang="id">Pembaruan terjemahan</li>
+          <li lang="hu">Frissített fordítások</li>
+          <li lang="hr">Nadopune prijevoda</li>
+          <li lang="he">עדכוני תרגומים</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="fi">Päivityksiä kielikäännöksiin</li>
+          <li lang="es">Traducciones actualizadas</li>
+          <li lang="eo">Tradukaj ĝisdatigoj</li>
+          <li lang="en_GB">Translation updates</li>
+          <li lang="el">Ενημερώσεις μεταφράσεων</li>
+          <li lang="de">Übersetzungsaktualisierungen</li>
+          <li lang="da">Opdatering af oversættelse</li>
+          <li lang="cs">Aktualizace překladů</li>
+          <li lang="ca">Actualitzacions de la traducció</li>
+          <li lang="ar">تحديثات في الترجمة</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.6.0" date="2018-10-15" urgency="medium">
+      <description>
+        <ul>
+          <li>Search box no longer loses focus after character input</li>
+          <li lang="zh_CN">键入关键词后搜索窗口不再失焦</li>
+          <li lang="uk">Поле пошуку більше не втрачає фокус після введення символів</li>
+          <li lang="tr">Karakter girildikten sonra arama kutusu artık odağı kaybetmiyor</li>
+          <li lang="sr">Поље за претрагу више не губи фокус након уноса знакова</li>
+          <li lang="ru">Окно поиска больше не теряет фокус после ввода символов</li>
+          <li lang="pt_BR">A caixa de pesquisa não perde mais o foco após a entrada de caracteres</li>
+          <li lang="pt">A caixa de pesquisa não perde mais o foco após a entrada de caracteres</li>
+          <li lang="pl">Pasek wyszukiwania nie traci już fokusu po wprowadzeniu znaków</li>
+          <li lang="nl">Het zoekvak verliest de focus niet meer na het invoeren van tekst</li>
+          <li lang="mr">वर्ण इनपुटनंतर शोध बॉक्स यापुढे लक्ष गमावत नाही</li>
+          <li lang="lt">Paieškos langas daugiau nebepraranda fokusavimą po simbolių įvesties</li>
+          <li lang="ja">文字入力後に検索ボックスがフォーカスを失う不具合を修正</li>
+          <li lang="it">La casella di ricerca non perde più il focus dopo l'immissione di caratteri</li>
+          <li lang="id">Kotak Pencarian tidak lagi hilang fokus pada saat memasukkan karakter</li>
+          <li lang="he">תיבת החיפוש לא מאבדת מיקוד לאחר קלט תווים</li>
+          <li lang="fr">La boîte de recherche ne perd plus la sélection après avoir tapé un caractère</li>
+          <li lang="es">El cuadro de búsqueda ya no pierde el foco después de ingresar caracteres</li>
+          <li lang="eo">Serĉujo ne plu perdas fokusiĝon ĉe tajpado</li>
+          <li lang="en_GB">Search box no longer loses focus after character input</li>
+          <li lang="de">Suchfeld verliert nicht länger den Fokus nach Buchstabeneingabe</li>
+          <li lang="cs">Kolonka pro vyhledávání už neztrácí zaměření po zadání znaku</li>
+          <li lang="ca">El quadre de cerca ja no perd el focus després de l'entrada de caràcters.</li>
+          <li>Colorized tint and temperature scales</li>
+          <li lang="zh_CN">优化着色器色彩和色温比例</li>
+          <li lang="uk">Кольорові відтінки та шкали температури</li>
+          <li lang="tr">Renklendirilmiş renk tonu ve sıcaklık ölçekleri</li>
+          <li lang="sr">Обојене нијансе и температурне скале</li>
+          <li lang="ru">Цветовые оттенки и шкалы температуры</li>
+          <li lang="pt_BR">Tonalidade colorida e escalas de temperatura</li>
+          <li lang="pt">Tonalidade colorida e escalas de temperatura</li>
+          <li lang="pl">Pokolorowano skalę odcienia oraz temperatury</li>
+          <li lang="nl">Gekleurde tint en temperatuur schalen</li>
+          <li lang="mr">रंगीत रंगछटा आणि तापमान स्केल</li>
+          <li lang="lt">Spalvotos atspalvio ir temperatūros skalės</li>
+          <li lang="ja">彩度と色温度のスケールのカラー表示</li>
+          <li lang="it">Tinta colorata e scale di temperatura</li>
+          <li lang="id">Pewarnaan skala tint dan temperatur</li>
+          <li lang="he">סרגלי הטמפרטורה והאטימות נצבעו</li>
+          <li lang="fr">Échelles de teinte et de température</li>
+          <li lang="es">Tinte coloreado y escalas de temperatura</li>
+          <li lang="eo">Kolortonaj kaj temperaturaj skaloj</li>
+          <li lang="en_GB">Colourised tint and temperature scales</li>
+          <li lang="de">Sättigungs- und Farbtemperaturskalen coloriert</li>
+          <li lang="cs">Obarvené stupnice tint a teploty</li>
+          <li lang="ca">Escales de colors de tonalitat i temperatura</li>
+          <li>Add zoom to fit page button</li>
+          <li lang="zh_CN">添加缩放至全页按钮</li>
+          <li lang="uk">Додано масштабування для кнопки заповнення сторінки</li>
+          <li lang="tr">Sayfa sığdırmak için yaklaş düğmesi eklendi</li>
+          <li lang="sr">Додаје дугме зумирај да испуни страну</li>
+          <li lang="ru">Добавлена кнопка изменения масштаба страницы</li>
+          <li lang="pt_BR">Adicionar zoom ao botão de ajuste da página</li>
+          <li lang="pt">Adicionar zoom para ajustar o botão de página</li>
+          <li lang="pl">Dodano przycisk przybliż do wypełnienia strony</li>
+          <li lang="nl">Een “zoom om pagina passend te maken” button toegevoegd</li>
+          <li lang="mr">पृष्ठ बटणावर फिट होण्यासाठी झूम जोडा</li>
+          <li lang="lt">Pridėtas "Tokio mastelio, kad tilptų į puslapį" mygtukas</li>
+          <li lang="ja">“ズームしてページに合わせる”ボタンを追加</li>
+          <li lang="it">Agggiunto il pulsante "Zoom per adattare alla pagina"</li>
+          <li lang="id">Menambahkan tombol perbesar sesuai laman</li>
+          <li lang="he">הוספת כפתור תקריב להתאמה למסך</li>
+          <li lang="fr">Ajout d'un zoom pour adapter le bouton de la page</li>
+          <li lang="es">Se añadió un botón para ajustar la escala a la página</li>
+          <li lang="eo">Aldoni butonon por tutpaĝigo</li>
+          <li lang="en_GB">Add zoom to fit page button</li>
+          <li lang="de">Button hinzugefügt der die Funktion "Zoomen um an Seite anzupassen" bietet</li>
+          <li lang="cs">Přidání tlačítka přizpůsobit stránce</li>
+          <li lang="ca">Addició d'un zoom al botó d'ajustar la pàgina</li>
+          <li>Various UI fixes and improvements</li>
+          <li lang="zh_CN">多项 UI 修复和改进</li>
+          <li lang="uk">Різні покращення та виправлення зовнішнього вигляду</li>
+          <li lang="tr">Çeşitli kullanıcı arayüzü düzeltmeleri ve geliştirmeleri</li>
+          <li lang="sr">Разне исправке КС и побољшања</li>
+          <li lang="ru">Различные исправления и улучшения пользовательского интерфейса</li>
+          <li lang="pt_BR">Várias correções de interface do usuário e melhorias</li>
+          <li lang="pt">Várias correções de UI e melhorias</li>
+          <li lang="pl">Różne poprawki interfejsu oraz ulepszenia</li>
+          <li lang="nl">Diverse UI verbeteringen</li>
+          <li lang="mr">विविध UI निराकरणे आणि सुधारणा</li>
+          <li lang="lt">Įvairūs naudotojo sąsajos pataisymai ir patobulinimai</li>
+          <li lang="ja">UI に関する各種の修正と改善</li>
+          <li lang="it">Varie correzioni e miglioramenti dell'interfaccia utente</li>
+          <li lang="id">Beberapa perbaikan dan peningkatan UI</li>
+          <li lang="he">מגוון תיקוני ושיפורי מנשק משתמש</li>
+          <li lang="fr">Diverses corrections et améliorations de l'interface</li>
+          <li lang="es">Varias correcciones y mejoras de la interfaz de usuario</li>
+          <li lang="eo">Diversaj fasadaj riparoj kaj plibonigoj</li>
+          <li lang="en_GB">Various UI fixes and improvements</li>
+          <li lang="de">Diverse Fehlerbehebungen und Verbesserungen an der UI</li>
+          <li lang="cs">Různé opravy a vylepšení uživatelského rozhraní</li>
+          <li lang="ca">Diverses correccions i millores de la IU</li>
+          <li>Minor bug fixes</li>
+          <li lang="zh_TW">小臭蟲修正</li>
+          <li lang="zh_CN">细节修复</li>
+          <li lang="uk">Незначні виправлення</li>
+          <li lang="tr">Küçük hata düzeltmeleri</li>
+          <li lang="sv">Mindre bugg-fixar</li>
+          <li lang="sr">Мање исправке грешака</li>
+          <li lang="sk">Menšie opravy chýb</li>
+          <li lang="ru">Исправления незначительных ошибок</li>
+          <li lang="pt_BR">Correções de pequenos bugs</li>
+          <li lang="pt">Pequenas correções de problemas</li>
+          <li lang="pl">Poprawki drobnych błędów</li>
+          <li lang="nl">Kleine bugfixes</li>
+          <li lang="nb">Mindre feil rettelser</li>
+          <li lang="ms">Pembetulan bug kecil</li>
+          <li lang="mr">किरकोळ दोष निराकरणे</li>
+          <li lang="lt">Smulkių klaidų pataisymai</li>
+          <li lang="ku">çêkirina biçûke çewtî</li>
+          <li lang="ko">자잘한 버그 해결</li>
+          <li lang="ja">軽微なバグの修正</li>
+          <li lang="it">Correzioni di bug minori</li>
+          <li lang="id">Perbaikan bug kecil</li>
+          <li lang="hu">Apró hibajavítások</li>
+          <li lang="hr">Manji popravci grešaka</li>
+          <li lang="he">תיקוני תקלות מזעריים</li>
+          <li lang="fr">Corrections d'anomalies mineures</li>
+          <li lang="fi">Muita pieniä korjauksia</li>
+          <li lang="es">Reparación de errores menores</li>
+          <li lang="eo">Malgravaj sencimigoj</li>
+          <li lang="en_GB">Minor bug fixes</li>
+          <li lang="el">Μικρές διορθώσεις σφαλμάτων</li>
+          <li lang="de">Kleinere Fehlerbehebungen</li>
+          <li lang="da">Mindre fejlrettelser</li>
+          <li lang="cs">Opravy drobných chyb</li>
+          <li lang="ca">Correccions d'errors menors</li>
+          <li>Translation updates</li>
+          <li lang="zh_TW">翻譯更新</li>
+          <li lang="zh_CN">翻译更新</li>
+          <li lang="uk">Оновлено переклади</li>
+          <li lang="tr">Çeviriler güncellendi</li>
+          <li lang="sv">Översättningsuppdateringar</li>
+          <li lang="sr">Освежења превода</li>
+          <li lang="sk">Aktualizácie prekladu</li>
+          <li lang="ru">Обновления перевода</li>
+          <li lang="pt_BR">Atualizações de tradução</li>
+          <li lang="pt">Atualização das traduções</li>
+          <li lang="pl">Aktualizacje tłumaczenia</li>
+          <li lang="nl">Bijgewerkte vertalingen</li>
+          <li lang="nb">Oppdatering av oversettelse</li>
+          <li lang="ms">Kemaskini terjemahan</li>
+          <li lang="mr">भाषांतर अपडेट्स</li>
+          <li lang="lt">Vertimų atnaujinimai</li>
+          <li lang="ku">rojanekirina wergerrandin</li>
+          <li lang="ko">번역 업데이트</li>
+          <li lang="ja">翻訳の更新</li>
+          <li lang="iu">Обновления перевода</li>
+          <li lang="it">Traduzioni aggiornate</li>
+          <li lang="ie">Actualisation de traductiones</li>
+          <li lang="id">Pembaruan terjemahan</li>
+          <li lang="hu">Frissített fordítások</li>
+          <li lang="hr">Nadopune prijevoda</li>
+          <li lang="he">עדכוני תרגומים</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="fi">Päivityksiä kielikäännöksiin</li>
+          <li lang="es">Traducciones actualizadas</li>
+          <li lang="eo">Tradukaj ĝisdatigoj</li>
+          <li lang="en_GB">Translation updates</li>
+          <li lang="el">Ενημερώσεις μεταφράσεων</li>
+          <li lang="de">Übersetzungsaktualisierungen</li>
+          <li lang="da">Opdatering af oversættelse</li>
+          <li lang="cs">Aktualizace překladů</li>
+          <li lang="ca">Actualitzacions de la traducció</li>
+          <li lang="ar">تحديثات في الترجمة</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" version="0.2.5" date="2018-06-20">
+      <description>
+        <ul>
+          <li>Prefer dark theme</li>
+          <li lang="zh_CN">暗色主题</li>
+          <li lang="uk">Перевага темного стилю</li>
+          <li lang="tr">Koyu temayı tercih et</li>
+          <li lang="sr">Предност тамној теми</li>
+          <li lang="ru">Предпочтение темной теме</li>
+          <li lang="pt_BR">Prefirir tema escuro</li>
+          <li lang="pt">Preferir tema escuro</li>
+          <li lang="pl">Preferuj ciemny motyw</li>
+          <li lang="nl">Geef de voorkeur aan een donker thema</li>
+          <li lang="mr">गडद थीमला प्राधान्य द्या</li>
+          <li lang="lt">Teikti pirmenybę tamsiai temai</li>
+          <li lang="ja">ダークテーマの使用</li>
+          <li lang="it">Preferisci tema scuro</li>
+          <li lang="ie">Preferer li tema obscur</li>
+          <li lang="id">Lebih suka tema gelap</li>
+          <li lang="he">העדפת ערכת נושא כהה</li>
+          <li lang="fr">Ajout du thème sombre</li>
+          <li lang="es">Preferencia de tema oscuro</li>
+          <li lang="eo">Preferi malhelan temon</li>
+          <li lang="en_GB">Prefer dark theme</li>
+          <li lang="de">Dark mode bevorzugen</li>
+          <li lang="cs">Upřednostnění tmavého motivu vzhledu</li>
+          <li lang="ca">Es prefereix el tema fosc.</li>
+          <li>WebP format support</li>
+          <li lang="zh_CN">新增 WebP 格式支持</li>
+          <li lang="uk">Підтримка формату WebP</li>
+          <li lang="tr">WebP format desteği</li>
+          <li lang="sr">Подршка „WebP“ записа</li>
+          <li lang="ru">Поддержка формата WebP</li>
+          <li lang="pt_BR">Suporte ao formato WebP</li>
+          <li lang="pt">Suporte ao formato WebP</li>
+          <li lang="pl">Wsparcie dla formatu WebP</li>
+          <li lang="nl">Ondersteuning voor WebP</li>
+          <li lang="nb">WebP-formatstøtte</li>
+          <li lang="mr">WebP  स्वरूप समर्थन</li>
+          <li lang="lt">WebP formato palaikymas</li>
+          <li lang="ja">WebP 形式への対応</li>
+          <li lang="it">Supporto al formato WebP</li>
+          <li lang="ie">Supporte del formate WebP</li>
+          <li lang="id">Mendukung format WebP</li>
+          <li lang="he">תמיכה בתצורת WebP</li>
+          <li lang="fr">Prise en charge du format WebP</li>
+          <li lang="es">Compatibilidad con el formato WebP</li>
+          <li lang="eo">Subteno de WebP-formato</li>
+          <li lang="en_GB">WebP format support</li>
+          <li lang="de">Unterstützung für das WebP Format</li>
+          <li lang="cs">Podpora formátu WebP</li>
+          <li lang="ca">Suport per al format WebP</li>
+          <li>Improved HiDPI support</li>
+          <li lang="zh_CN">改进的 HiDPI 支持</li>
+          <li lang="uk">Вдосконалено підтримку HiDPI</li>
+          <li lang="tr">HiDPI desteği iyileştirildi</li>
+          <li lang="sr">Побољшана „HiDPI“ подршка</li>
+          <li lang="ru">Улучшена поддержка HiDPI</li>
+          <li lang="pt_BR">Suporte HiDPI aprimorado</li>
+          <li lang="pt">Suporte HiDPI aprimorado</li>
+          <li lang="pl">Poprawiono wsparcie dla HiDPI</li>
+          <li lang="nl">Verbeterde HiDPI ondersteuning</li>
+          <li lang="nb">Forbedret HiDPI-støtte</li>
+          <li lang="mr">सुधारित HiDPI समर्थन</li>
+          <li lang="lt">Patobulintas HiDPI palaikymas</li>
+          <li lang="ja">HiDPI への対応を改善</li>
+          <li lang="it">Migliorato il supporto HiDPI</li>
+          <li lang="id">Peningkatan dukungan HiDPI</li>
+          <li lang="he">תמיכה משופרת ב־HiDPI (רזולוציה גבוהה)</li>
+          <li lang="fr">Amélioration de la prise en charge des écrans HiDPI</li>
+          <li lang="es">Mejor compatibilidad con pantallas de densidad alta</li>
+          <li lang="eo">Plibonigita HiDPI-subteno</li>
+          <li lang="en_GB">Improved HiDPI support</li>
+          <li lang="de">Verbesserte HiDPI-Unterstützung</li>
+          <li lang="cs">Vylepšená podpora obrazovek s velmi vysokým rozlišením (HiDPI)</li>
+          <li lang="ca">Suport millorat per a HiDPI</li>
+          <li>Various UI fixes and improvements</li>
+          <li lang="zh_CN">多项 UI 修复和改进</li>
+          <li lang="uk">Різні покращення та виправлення зовнішнього вигляду</li>
+          <li lang="tr">Çeşitli kullanıcı arayüzü düzeltmeleri ve geliştirmeleri</li>
+          <li lang="sr">Разне исправке КС и побољшања</li>
+          <li lang="ru">Различные исправления и улучшения пользовательского интерфейса</li>
+          <li lang="pt_BR">Várias correções de interface do usuário e melhorias</li>
+          <li lang="pt">Várias correções de UI e melhorias</li>
+          <li lang="pl">Różne poprawki interfejsu oraz ulepszenia</li>
+          <li lang="nl">Diverse UI verbeteringen</li>
+          <li lang="mr">विविध UI निराकरणे आणि सुधारणा</li>
+          <li lang="lt">Įvairūs naudotojo sąsajos pataisymai ir patobulinimai</li>
+          <li lang="ja">UI に関する各種の修正と改善</li>
+          <li lang="it">Varie correzioni e miglioramenti dell'interfaccia utente</li>
+          <li lang="id">Beberapa perbaikan dan peningkatan UI</li>
+          <li lang="he">מגוון תיקוני ושיפורי מנשק משתמש</li>
+          <li lang="fr">Diverses corrections et améliorations de l'interface</li>
+          <li lang="es">Varias correcciones y mejoras de la interfaz de usuario</li>
+          <li lang="eo">Diversaj fasadaj riparoj kaj plibonigoj</li>
+          <li lang="en_GB">Various UI fixes and improvements</li>
+          <li lang="de">Diverse Fehlerbehebungen und Verbesserungen an der UI</li>
+          <li lang="cs">Různé opravy a vylepšení uživatelského rozhraní</li>
+          <li lang="ca">Diverses correccions i millores de la IU</li>
+          <li>Minor bug fixes</li>
+          <li lang="zh_TW">小臭蟲修正</li>
+          <li lang="zh_CN">细节修复</li>
+          <li lang="uk">Незначні виправлення</li>
+          <li lang="tr">Küçük hata düzeltmeleri</li>
+          <li lang="sv">Mindre bugg-fixar</li>
+          <li lang="sr">Мање исправке грешака</li>
+          <li lang="sk">Menšie opravy chýb</li>
+          <li lang="ru">Исправления незначительных ошибок</li>
+          <li lang="pt_BR">Correções de pequenos bugs</li>
+          <li lang="pt">Pequenas correções de problemas</li>
+          <li lang="pl">Poprawki drobnych błędów</li>
+          <li lang="nl">Kleine bugfixes</li>
+          <li lang="nb">Mindre feil rettelser</li>
+          <li lang="ms">Pembetulan bug kecil</li>
+          <li lang="mr">किरकोळ दोष निराकरणे</li>
+          <li lang="lt">Smulkių klaidų pataisymai</li>
+          <li lang="ku">çêkirina biçûke çewtî</li>
+          <li lang="ko">자잘한 버그 해결</li>
+          <li lang="ja">軽微なバグの修正</li>
+          <li lang="it">Correzioni di bug minori</li>
+          <li lang="id">Perbaikan bug kecil</li>
+          <li lang="hu">Apró hibajavítások</li>
+          <li lang="hr">Manji popravci grešaka</li>
+          <li lang="he">תיקוני תקלות מזעריים</li>
+          <li lang="fr">Corrections d'anomalies mineures</li>
+          <li lang="fi">Muita pieniä korjauksia</li>
+          <li lang="es">Reparación de errores menores</li>
+          <li lang="eo">Malgravaj sencimigoj</li>
+          <li lang="en_GB">Minor bug fixes</li>
+          <li lang="el">Μικρές διορθώσεις σφαλμάτων</li>
+          <li lang="de">Kleinere Fehlerbehebungen</li>
+          <li lang="da">Mindre fejlrettelser</li>
+          <li lang="cs">Opravy drobných chyb</li>
+          <li lang="ca">Correccions d'errors menors</li>
+          <li>Translation updates</li>
+          <li lang="zh_TW">翻譯更新</li>
+          <li lang="zh_CN">翻译更新</li>
+          <li lang="uk">Оновлено переклади</li>
+          <li lang="tr">Çeviriler güncellendi</li>
+          <li lang="sv">Översättningsuppdateringar</li>
+          <li lang="sr">Освежења превода</li>
+          <li lang="sk">Aktualizácie prekladu</li>
+          <li lang="ru">Обновления перевода</li>
+          <li lang="pt_BR">Atualizações de tradução</li>
+          <li lang="pt">Atualização das traduções</li>
+          <li lang="pl">Aktualizacje tłumaczenia</li>
+          <li lang="nl">Bijgewerkte vertalingen</li>
+          <li lang="nb">Oppdatering av oversettelse</li>
+          <li lang="ms">Kemaskini terjemahan</li>
+          <li lang="mr">भाषांतर अपडेट्स</li>
+          <li lang="lt">Vertimų atnaujinimai</li>
+          <li lang="ku">rojanekirina wergerrandin</li>
+          <li lang="ko">번역 업데이트</li>
+          <li lang="ja">翻訳の更新</li>
+          <li lang="iu">Обновления перевода</li>
+          <li lang="it">Traduzioni aggiornate</li>
+          <li lang="ie">Actualisation de traductiones</li>
+          <li lang="id">Pembaruan terjemahan</li>
+          <li lang="hu">Frissített fordítások</li>
+          <li lang="hr">Nadopune prijevoda</li>
+          <li lang="he">עדכוני תרגומים</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="fi">Päivityksiä kielikäännöksiin</li>
+          <li lang="es">Traducciones actualizadas</li>
+          <li lang="eo">Tradukaj ĝisdatigoj</li>
+          <li lang="en_GB">Translation updates</li>
+          <li lang="el">Ενημερώσεις μεταφράσεων</li>
+          <li lang="de">Übersetzungsaktualisierungen</li>
+          <li lang="da">Opdatering af oversættelse</li>
+          <li lang="cs">Aktualizace překladů</li>
+          <li lang="ca">Actualitzacions de la traducció</li>
+          <li lang="ar">تحديثات في الترجمة</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" version="0.2.4" date="2017-07-27">
+      <description>
+        <ul>
+          <li>Minor bug fixes</li>
+          <li lang="zh_TW">小臭蟲修正</li>
+          <li lang="zh_CN">细节修复</li>
+          <li lang="uk">Незначні виправлення</li>
+          <li lang="tr">Küçük hata düzeltmeleri</li>
+          <li lang="sv">Mindre bugg-fixar</li>
+          <li lang="sr">Мање исправке грешака</li>
+          <li lang="sk">Menšie opravy chýb</li>
+          <li lang="ru">Исправления незначительных ошибок</li>
+          <li lang="pt_BR">Correções de pequenos bugs</li>
+          <li lang="pt">Pequenas correções de problemas</li>
+          <li lang="pl">Poprawki drobnych błędów</li>
+          <li lang="nl">Kleine bugfixes</li>
+          <li lang="nb">Mindre feil rettelser</li>
+          <li lang="ms">Pembetulan bug kecil</li>
+          <li lang="mr">किरकोळ दोष निराकरणे</li>
+          <li lang="lt">Smulkių klaidų pataisymai</li>
+          <li lang="ku">çêkirina biçûke çewtî</li>
+          <li lang="ko">자잘한 버그 해결</li>
+          <li lang="ja">軽微なバグの修正</li>
+          <li lang="it">Correzioni di bug minori</li>
+          <li lang="id">Perbaikan bug kecil</li>
+          <li lang="hu">Apró hibajavítások</li>
+          <li lang="hr">Manji popravci grešaka</li>
+          <li lang="he">תיקוני תקלות מזעריים</li>
+          <li lang="fr">Corrections d'anomalies mineures</li>
+          <li lang="fi">Muita pieniä korjauksia</li>
+          <li lang="es">Reparación de errores menores</li>
+          <li lang="eo">Malgravaj sencimigoj</li>
+          <li lang="en_GB">Minor bug fixes</li>
+          <li lang="el">Μικρές διορθώσεις σφαλμάτων</li>
+          <li lang="de">Kleinere Fehlerbehebungen</li>
+          <li lang="da">Mindre fejlrettelser</li>
+          <li lang="cs">Opravy drobných chyb</li>
+          <li lang="ca">Correccions d'errors menors</li>
+          <li>Translation updates</li>
+          <li lang="zh_TW">翻譯更新</li>
+          <li lang="zh_CN">翻译更新</li>
+          <li lang="uk">Оновлено переклади</li>
+          <li lang="tr">Çeviriler güncellendi</li>
+          <li lang="sv">Översättningsuppdateringar</li>
+          <li lang="sr">Освежења превода</li>
+          <li lang="sk">Aktualizácie prekladu</li>
+          <li lang="ru">Обновления перевода</li>
+          <li lang="pt_BR">Atualizações de tradução</li>
+          <li lang="pt">Atualização das traduções</li>
+          <li lang="pl">Aktualizacje tłumaczenia</li>
+          <li lang="nl">Bijgewerkte vertalingen</li>
+          <li lang="nb">Oppdatering av oversettelse</li>
+          <li lang="ms">Kemaskini terjemahan</li>
+          <li lang="mr">भाषांतर अपडेट्स</li>
+          <li lang="lt">Vertimų atnaujinimai</li>
+          <li lang="ku">rojanekirina wergerrandin</li>
+          <li lang="ko">번역 업데이트</li>
+          <li lang="ja">翻訳の更新</li>
+          <li lang="iu">Обновления перевода</li>
+          <li lang="it">Traduzioni aggiornate</li>
+          <li lang="ie">Actualisation de traductiones</li>
+          <li lang="id">Pembaruan terjemahan</li>
+          <li lang="hu">Frissített fordítások</li>
+          <li lang="hr">Nadopune prijevoda</li>
+          <li lang="he">עדכוני תרגומים</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="fi">Päivityksiä kielikäännöksiin</li>
+          <li lang="es">Traducciones actualizadas</li>
+          <li lang="eo">Tradukaj ĝisdatigoj</li>
+          <li lang="en_GB">Translation updates</li>
+          <li lang="el">Ενημερώσεις μεταφράσεων</li>
+          <li lang="de">Übersetzungsaktualisierungen</li>
+          <li lang="da">Opdatering af oversættelse</li>
+          <li lang="cs">Aktualizace překladů</li>
+          <li lang="ca">Actualitzacions de la traducció</li>
+          <li lang="ar">تحديثات في الترجمة</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2017-05-02" version="0.2.3" urgency="medium">
+      <description>
+        <ul>
+          <li>Minor bug fixes</li>
+          <li lang="zh_TW">小臭蟲修正</li>
+          <li lang="zh_CN">细节修复</li>
+          <li lang="uk">Незначні виправлення</li>
+          <li lang="tr">Küçük hata düzeltmeleri</li>
+          <li lang="sv">Mindre bugg-fixar</li>
+          <li lang="sr">Мање исправке грешака</li>
+          <li lang="sk">Menšie opravy chýb</li>
+          <li lang="ru">Исправления незначительных ошибок</li>
+          <li lang="pt_BR">Correções de pequenos bugs</li>
+          <li lang="pt">Pequenas correções de problemas</li>
+          <li lang="pl">Poprawki drobnych błędów</li>
+          <li lang="nl">Kleine bugfixes</li>
+          <li lang="nb">Mindre feil rettelser</li>
+          <li lang="ms">Pembetulan bug kecil</li>
+          <li lang="mr">किरकोळ दोष निराकरणे</li>
+          <li lang="lt">Smulkių klaidų pataisymai</li>
+          <li lang="ku">çêkirina biçûke çewtî</li>
+          <li lang="ko">자잘한 버그 해결</li>
+          <li lang="ja">軽微なバグの修正</li>
+          <li lang="it">Correzioni di bug minori</li>
+          <li lang="id">Perbaikan bug kecil</li>
+          <li lang="hu">Apró hibajavítások</li>
+          <li lang="hr">Manji popravci grešaka</li>
+          <li lang="he">תיקוני תקלות מזעריים</li>
+          <li lang="fr">Corrections d'anomalies mineures</li>
+          <li lang="fi">Muita pieniä korjauksia</li>
+          <li lang="es">Reparación de errores menores</li>
+          <li lang="eo">Malgravaj sencimigoj</li>
+          <li lang="en_GB">Minor bug fixes</li>
+          <li lang="el">Μικρές διορθώσεις σφαλμάτων</li>
+          <li lang="de">Kleinere Fehlerbehebungen</li>
+          <li lang="da">Mindre fejlrettelser</li>
+          <li lang="cs">Opravy drobných chyb</li>
+          <li lang="ca">Correccions d'errors menors</li>
+          <li>Translation updates</li>
+          <li lang="zh_TW">翻譯更新</li>
+          <li lang="zh_CN">翻译更新</li>
+          <li lang="uk">Оновлено переклади</li>
+          <li lang="tr">Çeviriler güncellendi</li>
+          <li lang="sv">Översättningsuppdateringar</li>
+          <li lang="sr">Освежења превода</li>
+          <li lang="sk">Aktualizácie prekladu</li>
+          <li lang="ru">Обновления перевода</li>
+          <li lang="pt_BR">Atualizações de tradução</li>
+          <li lang="pt">Atualização das traduções</li>
+          <li lang="pl">Aktualizacje tłumaczenia</li>
+          <li lang="nl">Bijgewerkte vertalingen</li>
+          <li lang="nb">Oppdatering av oversettelse</li>
+          <li lang="ms">Kemaskini terjemahan</li>
+          <li lang="mr">भाषांतर अपडेट्स</li>
+          <li lang="lt">Vertimų atnaujinimai</li>
+          <li lang="ku">rojanekirina wergerrandin</li>
+          <li lang="ko">번역 업데이트</li>
+          <li lang="ja">翻訳の更新</li>
+          <li lang="iu">Обновления перевода</li>
+          <li lang="it">Traduzioni aggiornate</li>
+          <li lang="ie">Actualisation de traductiones</li>
+          <li lang="id">Pembaruan terjemahan</li>
+          <li lang="hu">Frissített fordítások</li>
+          <li lang="hr">Nadopune prijevoda</li>
+          <li lang="he">עדכוני תרגומים</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="fi">Päivityksiä kielikäännöksiin</li>
+          <li lang="es">Traducciones actualizadas</li>
+          <li lang="eo">Tradukaj ĝisdatigoj</li>
+          <li lang="en_GB">Translation updates</li>
+          <li lang="el">Ενημερώσεις μεταφράσεων</li>
+          <li lang="de">Übersetzungsaktualisierungen</li>
+          <li lang="da">Opdatering af oversættelse</li>
+          <li lang="cs">Aktualizace překladů</li>
+          <li lang="ca">Actualitzacions de la traducció</li>
+          <li lang="ar">تحديثات في الترجمة</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2017-02-31" version="0.2.2" urgency="medium">
+      <description>
+        <ul>
+          <li>Preserve metadata when opening photo directly from the filesystem</li>
+          <li lang="zh_TW">當直接從檔案系統開啟相片時保留中介資料</li>
+          <li lang="zh_CN">从文件系统直接打开照片时保护文件元数据</li>
+          <li lang="uk">Збереження метаданих під час відкриття світлини безпосередньо з файлової системи</li>
+          <li lang="tr">Fotoğrafı doğrudan dosya sisteminden açarken meta veriyi koru</li>
+          <li lang="sr">Очувава метаподатке приликом отварања фотографије непосредно са система датотека</li>
+          <li lang="sk">Zachovať metadáta pri otvorení fotografie priamo zo systému súborov.</li>
+          <li lang="ru">Метаданные сохраняются при открытии фотографии напрямую из файловой системы</li>
+          <li lang="pt_BR">Preservar metadados ao abrir fotos diretamente do sistema de arquivos</li>
+          <li lang="pt">Preserva a metadata quando abre uma foto diretamente do sistema de ficheiros</li>
+          <li lang="pl">Zachowaj metadane podczas otwierania zdjęcia bezpośrednio z systemu plików</li>
+          <li lang="nl">Metadata blijft behouden als een foto direct van het bestandssysteem wordt geopend</li>
+          <li lang="ms">Kekalkan metadata apabila membuka foto terus daripada fail sistem</li>
+          <li lang="mr">फाइलसिस्टममधून थेट फोटो उघडताना मेटाडेटा जतन करा</li>
+          <li lang="lt">Išsaugoti metaduomenis, kuomet nuotrauka atveriama tiesiogiai iš failų sistemos</li>
+          <li lang="ko">파일 시스템에서 사진을 바로 열 때 메타데이터를 보존하기</li>
+          <li lang="ja">ファイルシステムから画像を直接写真を開くときにメタデータを保持</li>
+          <li lang="iu">Метаданные сохраняются при открытии фотографии напрямую из файловой системы</li>
+          <li lang="it">Conserva i metadati durante l'apertura di foto direttamente dal file system</li>
+          <li lang="id">Menjaga metadata saat membuka foto langsung dari sistemberkas</li>
+          <li lang="hu">Metaadatok megőrzése ha közvetlenül a fájlrendszerből nyitunk meg képet</li>
+          <li lang="hr">Očuvaj meta podatke kada se fotografija otvara izravno iz datotečnog sustava</li>
+          <li lang="he">שימור נתוני העל בעת פתיחת תמונות ישירות ממערכת הקבצים</li>
+          <li lang="fr">Préserver les métadonnées lors de l'ouverture de la photo directement depuis le système de fichiers</li>
+          <li lang="es">Se conservan los metadatos al abrir la foto directamente desde el sistema de archivos</li>
+          <li lang="eo">Konservi metadatumojn ĉe malfermo de foto, rekte de la dosiersistemo</li>
+          <li lang="en_GB">Preserve metadata when opening photo directly from the filesystem</li>
+          <li lang="de">Beibehaltung der Metadaten beim Öffnen von Fotos direkt aus dem Dateisystem</li>
+          <li lang="da">Bevar metadata når billede åbnes direkte fra filsystemet</li>
+          <li lang="cs">Zachovat metadata při otevření fotografie přímo ze souborového systému</li>
+          <li lang="ca">Preservació de les metadades quan s'obre una fotografia directament des del sistema de fitxers.</li>
+          <li>Minor bug fixes</li>
+          <li lang="zh_TW">小臭蟲修正</li>
+          <li lang="zh_CN">细节修复</li>
+          <li lang="uk">Незначні виправлення</li>
+          <li lang="tr">Küçük hata düzeltmeleri</li>
+          <li lang="sv">Mindre bugg-fixar</li>
+          <li lang="sr">Мање исправке грешака</li>
+          <li lang="sk">Menšie opravy chýb</li>
+          <li lang="ru">Исправления незначительных ошибок</li>
+          <li lang="pt_BR">Correções de pequenos bugs</li>
+          <li lang="pt">Pequenas correções de problemas</li>
+          <li lang="pl">Poprawki drobnych błędów</li>
+          <li lang="nl">Kleine bugfixes</li>
+          <li lang="nb">Mindre feil rettelser</li>
+          <li lang="ms">Pembetulan bug kecil</li>
+          <li lang="mr">किरकोळ दोष निराकरणे</li>
+          <li lang="lt">Smulkių klaidų pataisymai</li>
+          <li lang="ku">çêkirina biçûke çewtî</li>
+          <li lang="ko">자잘한 버그 해결</li>
+          <li lang="ja">軽微なバグの修正</li>
+          <li lang="it">Correzioni di bug minori</li>
+          <li lang="id">Perbaikan bug kecil</li>
+          <li lang="hu">Apró hibajavítások</li>
+          <li lang="hr">Manji popravci grešaka</li>
+          <li lang="he">תיקוני תקלות מזעריים</li>
+          <li lang="fr">Corrections d'anomalies mineures</li>
+          <li lang="fi">Muita pieniä korjauksia</li>
+          <li lang="es">Reparación de errores menores</li>
+          <li lang="eo">Malgravaj sencimigoj</li>
+          <li lang="en_GB">Minor bug fixes</li>
+          <li lang="el">Μικρές διορθώσεις σφαλμάτων</li>
+          <li lang="de">Kleinere Fehlerbehebungen</li>
+          <li lang="da">Mindre fejlrettelser</li>
+          <li lang="cs">Opravy drobných chyb</li>
+          <li lang="ca">Correccions d'errors menors</li>
+          <li>Translation updates</li>
+          <li lang="zh_TW">翻譯更新</li>
+          <li lang="zh_CN">翻译更新</li>
+          <li lang="uk">Оновлено переклади</li>
+          <li lang="tr">Çeviriler güncellendi</li>
+          <li lang="sv">Översättningsuppdateringar</li>
+          <li lang="sr">Освежења превода</li>
+          <li lang="sk">Aktualizácie prekladu</li>
+          <li lang="ru">Обновления перевода</li>
+          <li lang="pt_BR">Atualizações de tradução</li>
+          <li lang="pt">Atualização das traduções</li>
+          <li lang="pl">Aktualizacje tłumaczenia</li>
+          <li lang="nl">Bijgewerkte vertalingen</li>
+          <li lang="nb">Oppdatering av oversettelse</li>
+          <li lang="ms">Kemaskini terjemahan</li>
+          <li lang="mr">भाषांतर अपडेट्स</li>
+          <li lang="lt">Vertimų atnaujinimai</li>
+          <li lang="ku">rojanekirina wergerrandin</li>
+          <li lang="ko">번역 업데이트</li>
+          <li lang="ja">翻訳の更新</li>
+          <li lang="iu">Обновления перевода</li>
+          <li lang="it">Traduzioni aggiornate</li>
+          <li lang="ie">Actualisation de traductiones</li>
+          <li lang="id">Pembaruan terjemahan</li>
+          <li lang="hu">Frissített fordítások</li>
+          <li lang="hr">Nadopune prijevoda</li>
+          <li lang="he">עדכוני תרגומים</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="fi">Päivityksiä kielikäännöksiin</li>
+          <li lang="es">Traducciones actualizadas</li>
+          <li lang="eo">Tradukaj ĝisdatigoj</li>
+          <li lang="en_GB">Translation updates</li>
+          <li lang="el">Ενημερώσεις μεταφράσεων</li>
+          <li lang="de">Übersetzungsaktualisierungen</li>
+          <li lang="da">Opdatering af oversættelse</li>
+          <li lang="cs">Aktualizace překladů</li>
+          <li lang="ca">Actualitzacions de la traducció</li>
+          <li lang="ar">تحديثات في الترجمة</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.2.1.1" urgency="medium" date="2017-01-25">
+      <description>
+        <ul>
+          <li>Minor bug fixes</li>
+          <li lang="zh_TW">小臭蟲修正</li>
+          <li lang="zh_CN">细节修复</li>
+          <li lang="uk">Незначні виправлення</li>
+          <li lang="tr">Küçük hata düzeltmeleri</li>
+          <li lang="sv">Mindre bugg-fixar</li>
+          <li lang="sr">Мање исправке грешака</li>
+          <li lang="sk">Menšie opravy chýb</li>
+          <li lang="ru">Исправления незначительных ошибок</li>
+          <li lang="pt_BR">Correções de pequenos bugs</li>
+          <li lang="pt">Pequenas correções de problemas</li>
+          <li lang="pl">Poprawki drobnych błędów</li>
+          <li lang="nl">Kleine bugfixes</li>
+          <li lang="nb">Mindre feil rettelser</li>
+          <li lang="ms">Pembetulan bug kecil</li>
+          <li lang="mr">किरकोळ दोष निराकरणे</li>
+          <li lang="lt">Smulkių klaidų pataisymai</li>
+          <li lang="ku">çêkirina biçûke çewtî</li>
+          <li lang="ko">자잘한 버그 해결</li>
+          <li lang="ja">軽微なバグの修正</li>
+          <li lang="it">Correzioni di bug minori</li>
+          <li lang="id">Perbaikan bug kecil</li>
+          <li lang="hu">Apró hibajavítások</li>
+          <li lang="hr">Manji popravci grešaka</li>
+          <li lang="he">תיקוני תקלות מזעריים</li>
+          <li lang="fr">Corrections d'anomalies mineures</li>
+          <li lang="fi">Muita pieniä korjauksia</li>
+          <li lang="es">Reparación de errores menores</li>
+          <li lang="eo">Malgravaj sencimigoj</li>
+          <li lang="en_GB">Minor bug fixes</li>
+          <li lang="el">Μικρές διορθώσεις σφαλμάτων</li>
+          <li lang="de">Kleinere Fehlerbehebungen</li>
+          <li lang="da">Mindre fejlrettelser</li>
+          <li lang="cs">Opravy drobných chyb</li>
+          <li lang="ca">Correccions d'errors menors</li>
+          <li>Translation updates</li>
+          <li lang="zh_TW">翻譯更新</li>
+          <li lang="zh_CN">翻译更新</li>
+          <li lang="uk">Оновлено переклади</li>
+          <li lang="tr">Çeviriler güncellendi</li>
+          <li lang="sv">Översättningsuppdateringar</li>
+          <li lang="sr">Освежења превода</li>
+          <li lang="sk">Aktualizácie prekladu</li>
+          <li lang="ru">Обновления перевода</li>
+          <li lang="pt_BR">Atualizações de tradução</li>
+          <li lang="pt">Atualização das traduções</li>
+          <li lang="pl">Aktualizacje tłumaczenia</li>
+          <li lang="nl">Bijgewerkte vertalingen</li>
+          <li lang="nb">Oppdatering av oversettelse</li>
+          <li lang="ms">Kemaskini terjemahan</li>
+          <li lang="mr">भाषांतर अपडेट्स</li>
+          <li lang="lt">Vertimų atnaujinimai</li>
+          <li lang="ku">rojanekirina wergerrandin</li>
+          <li lang="ko">번역 업데이트</li>
+          <li lang="ja">翻訳の更新</li>
+          <li lang="iu">Обновления перевода</li>
+          <li lang="it">Traduzioni aggiornate</li>
+          <li lang="ie">Actualisation de traductiones</li>
+          <li lang="id">Pembaruan terjemahan</li>
+          <li lang="hu">Frissített fordítások</li>
+          <li lang="hr">Nadopune prijevoda</li>
+          <li lang="he">עדכוני תרגומים</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="fi">Päivityksiä kielikäännöksiin</li>
+          <li lang="es">Traducciones actualizadas</li>
+          <li lang="eo">Tradukaj ĝisdatigoj</li>
+          <li lang="en_GB">Translation updates</li>
+          <li lang="el">Ενημερώσεις μεταφράσεων</li>
+          <li lang="de">Übersetzungsaktualisierungen</li>
+          <li lang="da">Opdatering af oversættelse</li>
+          <li lang="cs">Aktualizace překladů</li>
+          <li lang="ca">Actualitzacions de la traducció</li>
+          <li lang="ar">تحديثات في الترجمة</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2017-01-16" urgency="medium" version="0.2.1">
+      <description>
+        <ul>
+          <li>Fix navigation to next photo with left/right arrow keys on keyboard</li>
+          <li lang="zh_TW">修正以鍵盤左鍵/右鍵導覽至下一個相片的問題</li>
+          <li lang="zh_CN">修复左/右方向键切换照片的问题</li>
+          <li lang="uk">Виправлено перехід до наступної світлини клавішами зі стрілками ліворуч/праворуч на клавіатурі</li>
+          <li lang="tr">Klavye üzerindeki sol/sağ ok tuşlarıyla sonraki fotoğrafa geçiş yapabilirsiniz</li>
+          <li lang="sr">Поправљена навигација до следеће фотографије са тастерима леве/десне стрелице на тастатури</li>
+          <li lang="sk">Oprava prechodu na ďalšiu fotografiu pomocou šípiek vpravo/vľavo na klávesnici.</li>
+          <li lang="ru">Исправлена ошибка навигации между фотографиями с помощью навигационных клавиш</li>
+          <li lang="pt_BR">Configurar a navegação para próxima foto com os botões esquerda/direita no teclado</li>
+          <li lang="pt">Corrigida a navegação para a foto seguinte com a seta esquerda/direita do teclado</li>
+          <li lang="pl">Poprawiono nawigację do następnego zdjęcia przy użyciu przycisków na klawiaturze lewo/prawo</li>
+          <li lang="nl">Een probleem opgelost met het navigeren door middel van de links/rechts toets op het toetsenbord</li>
+          <li lang="nb">Fest navigasjon til neste bilde med venstre/høyre piltast på tastaturet</li>
+          <li lang="ms">Membetulkan navigasi ke foto seterusnya dengan butang anak panah kiri/kanan papan kekunci</li>
+          <li lang="mr">कीबोर्डवरील डाव्या / उजव्या बाण कीसह पुढील फोटोसाठी नेव्हिगेशनचे निराकरण करा</li>
+          <li lang="lt">Pataisytas naršymas į kitą nuotrauką, naudojant klaviatūroje klavišus kairėn/dešinėn</li>
+          <li lang="ko">키보드 좌/우 화살표로 다음 사진 찾기 수정했습니다</li>
+          <li lang="ja">キーボードの左右矢印キーを使用した次の写真へのナビゲーションを修正</li>
+          <li lang="iu">Исправлена ошибка навигации между фотографиями с помощью навигационных клавиш</li>
+          <li lang="it">Corretta la navigazione alla foto successiva con i tasti freccia sinistra / destra sulla tastiera</li>
+          <li lang="id">Perbaikan navigasi ke foto selanjutnya dengan tombol kiri/kanan pada papan tik</li>
+          <li lang="hu">A fotók közti bal/jobb gombokkal történő navigáció javítása</li>
+          <li lang="he">תיקון הניווט לתמונה הבאה עם מקשי החצים שמאלה/ימינה במקלדת</li>
+          <li lang="fr">Correction de la navigation avec les flèches gauche/droite du clavier</li>
+          <li lang="es">Se arregló la navegación a la foto siguiente con las flechas izquierda y derecha del teclado</li>
+          <li lang="eo">Ripari transpason al sekva/antaŭa foto per dekstra/maldekstra sagoklavo</li>
+          <li lang="en_GB">Fix navigation to next photo with left/right arrow keys on keyboard</li>
+          <li lang="de">Fehler bei der Navigation mit den Pfeiltasten der Tastatur zum nächsten Foto behoben</li>
+          <li lang="da">Ret navigation til næste billede med venstre-/højre-piletaster på tastatur</li>
+          <li lang="cs">Oprava přepínání na další fotku pomocí levé/pravé šipky na klávesnici</li>
+          <li lang="ca">Correcció de la navegació cap a la fotografia següent amb les fletxes del teclat.</li>
+          <li>Left bracket key rotates counterclockwise now</li>
+          <li lang="zh_TW">左邊括號鍵現在會讓相片順時針旋轉</li>
+          <li lang="zh_CN">左方括号键现在可以控制逆时针旋转了</li>
+          <li lang="uk">Клавіша лівої дужки обертає зображення проти годинникової стрілки</li>
+          <li lang="tr">Sol parantez tuşu şimdi saat yönünün tersine döndermekte</li>
+          <li lang="sr">Тастер леве заграде сада се заокреће на лево</li>
+          <li lang="sk">Kláves "ú" okamžite otočí doľava</li>
+          <li lang="ru">Исправлено поведение клавиши открывающей квадратной скобки, теперь она отвечает за вращение против часовой стрелки</li>
+          <li lang="pt_BR">Tecla de suporte à esquerda rotaciona o padrão agora</li>
+          <li lang="pt">Parentice reto esquerdo agora roda contra o relógio</li>
+          <li lang="pl">Klawisz lewego nawiasu kwadratowego obraca teraz przeciwnie do ruchu wskazówek zegara</li>
+          <li lang="nl">De linker haak toets roteert nu tegen de klok in</li>
+          <li lang="nb">Venstre parentestast roterer mot klokka nå</li>
+          <li lang="ms">Kurungan bersegi kiri memutarkan foto melawan arah jam sekarang</li>
+          <li lang="mr">डावी कंस की आता उलट घड्याळाच्या दिशेने फिरते</li>
+          <li lang="lt">Kairiojo skliaustelio klavišas, dabar pasuka prieš laikrodžio rodyklę</li>
+          <li lang="ko">이제 왼쪽 괄호로 반시계 방향 회전됩니다</li>
+          <li lang="ja">左のブラケットキーが反時計回りに回転するように</li>
+          <li lang="iu">Исправлено поведение клавиши открывающей квадратной скобки, теперь она отвечает за вращение против часовой стрелки</li>
+          <li lang="it">Il tasto parentesi graffa sinistra ruota in senso antiorario ora</li>
+          <li lang="id">Kini tombol braket kiri merotasi berlawanan arah jarum jam</li>
+          <li lang="hu">A bal szögletes zárójel gomb már az óramutató járásával ellentétes irányban forgat</li>
+          <li lang="he">מקש הסוגריים המרובעים השמאלי מסובב נגד כיוון השעון מעתה</li>
+          <li lang="fr">La touche d'accolade gauche effectue une rotation horaire</li>
+          <li lang="es">La tecla de corchete de apertura ahora gira en sentido antihorario</li>
+          <li lang="eo">Turni tuj kontraŭhorloĝdirekte per maldekstra krampo</li>
+          <li lang="en_GB">Left bracket key rotates counterclockwise now</li>
+          <li lang="de">Taste »Eckige Klammer links« dreht Fotos jetzt gegen den Uhrzeigersinn</li>
+          <li lang="da">Venstre parentes-tast roterer nu modsat urets retning</li>
+          <li lang="cs">Klávesa levé závorky otáčí nyní proti směru hodinových ručiček</li>
+          <li lang="ca">Ara la tecla del claudàtor de l'esquerra gira cap a l'esquerra.</li>
+          <li>Moved search into the headerbar and fixed a bug that prevents typing into the searchbox</li>
+          <li lang="zh_TW">已將搜尋移動至標頭列，並修正了搜尋框中無法輸入的臭蟲</li>
+          <li lang="zh_CN">搜索框移至顶栏，修复搜索框输入问题</li>
+          <li lang="uk">Переміщено пошук на панель заголовка та виправлено помилку, яка перешкоджала друку до поля пошуку</li>
+          <li lang="tr">Arama başlık çubuğuna taşındı ve arama kutusuna yazmayı engelleyen bir hata düzeltildi</li>
+          <li lang="sr">Премештена претрага у траку заглавља и исправљена грешка која спречава куцање у поље претраге</li>
+          <li lang="sk">Presunutie vyhľadávania do horného panelu a oprava chyby, ktorá zabraňovala písanie do vyhľadávacieho poľa.</li>
+          <li lang="ru">Строка поиска перемещена в заголовок окна; исправлена ошибка, мешающая печати в строке поиска</li>
+          <li lang="pt_BR">Procura movida para a barra superior e consertado um erro que impossibilita escrever dentro da caixa de pesquisa</li>
+          <li lang="pt">Movida a pesquisa para a barra de cabeçalho e corrigido o problema que impedia de escrever na caixa de pesquisa</li>
+          <li lang="pl">Przeniesiono wyszukiwanie do paska nagłówka i poprawiono błąd, który uniemożliwiał pisanie w polu wyszukiwania</li>
+          <li lang="nl">Het zoekveld is verplaatst naar de titelbalk. Ook is een fout, waardoor er niet in het zoekveld kon worden getypt, verholpen</li>
+          <li lang="nb">Flyttet søk i hodefeltet og fikset en feil som forhindrer skriving i søkefeltet</li>
+          <li lang="ms">Kotak carian telah dipindahkan ke bar utama dan satu bug yang menghalang untuk menaip di dalam kotak carian telah dibetulkan</li>
+          <li lang="mr">शोध हेडरबारमध्ये हलविला आणि एक शोध बग निश्चित केला जो शोध बॉक्समध्ये टाइप करण्यापासून प्रतिबंधित करतो</li>
+          <li lang="lt">Paieška perkelta į antraštės juostą ir pataisyta klaida, kuri neleido rašyti į paieškos langelį</li>
+          <li lang="ko">검색 기능을 제목 표시줄로 옮기고, 검색 창에 입력되지 않던 버그를 해결했습니다</li>
+          <li lang="ja">ヘッダーバーに検索が移動し、検索ボックスへの入力ができないバグを修正</li>
+          <li lang="iu">Строка поиска перемещена в заголовок окна; исправлена ошибка, мешающая печати в строке поиска</li>
+          <li lang="it">Ricerca spostata nella barra del titolo e corretto un problema che impedisce di digitare nel campo di ricerca</li>
+          <li lang="id">Memindahkan pencarian ke tajukbar dan memperbaiki bug yang mencegah pengetikan pada kotak pencarian</li>
+          <li lang="hu">A keresés funkció a fejlécbe került és javítottuk a hibát, ami megakadályozta az írást keresés mezőbe</li>
+          <li lang="he">החיפוש הועבר לפס הכותרת וזה תיקן תקלה שמנעה מהקלדה בתיבת החיפוש</li>
+          <li lang="fr">Déplacement de la recherche dans la barre de titre et correction d'une anomalie empêchant d'écrire dans la barre de recherche</li>
+          <li lang="es">Se movió la búsqueda a la barra de cabecera y se arregló el error que impedía escribir en el cuadro de búsqueda</li>
+          <li lang="eo">Aperigo de la serĉovortoj en la titolo, riparo de cimo malebliganta tajpadon en la serĉujo</li>
+          <li lang="en_GB">Moved search into the headerbar and fixed a bug that prevents typing into the searchbox</li>
+          <li lang="de">Die Suche wurde in die Kopfzeile verschoben und ein Fehler behoben, der die Eingabe in das Suchfeld verhindert</li>
+          <li lang="da">Flyttet søgning ind i hovedbjælken og rettet en fejl der forhindre indtastning i søgeboksen</li>
+          <li lang="cs">Vyhledávání přesunuto do headerbaru a opravena chyba zamezující psání do vyhledávacího políčka</li>
+          <li lang="ca">Moviment de la cerca a la capçalera i correcció de l'error que evitava escriure-hi.</li>
+          <li>Removed star and rejected ratings</li>
+          <li lang="zh_TW">已移除星級和退絕評等</li>
+          <li lang="zh_CN">移除星级和次品评分</li>
+          <li lang="uk">Вилучено зірочки та відхилено оцінки</li>
+          <li lang="tr">Yıldız kaldırıldı ve derecelendirme iptal edildi</li>
+          <li lang="sr">Уклоњена звездица и одбачено оцењивање</li>
+          <li lang="ru">Удалён рейтинг</li>
+          <li lang="pt_BR">Classificação de estrelas e de rejeição removidas</li>
+          <li lang="pt">Removidas votações e votações rejeitadas</li>
+          <li lang="pl">Usunięto gwiazdki i system oceniania</li>
+          <li lang="nl">Ster en afgewezen beoordelingen verwijderd</li>
+          <li lang="nb">Fjernet stjerne og avslo poenggivninger</li>
+          <li lang="ms">Bintang telah dikeluarkan dan penarafan dibuang</li>
+          <li lang="mr">तारांकन आणि नाकारलेली रेटिंग काढून टाकली</li>
+          <li lang="lt">Pašalinta žvaigždutė ir atmesti įvertinimai</li>
+          <li lang="ko">별표와 반려 등급을 없앴습니다</li>
+          <li lang="ja">スターを削除し、評価を拒否</li>
+          <li lang="it">Rimosso il giudizio basato su stelle</li>
+          <li lang="id">Menghapus peringkat bintang dan penolakan</li>
+          <li lang="hu">A csillagok és az értékelések eltávolításra kerültek</li>
+          <li lang="he">הסרת דירוגי כוכב וכאלו שנדחו</li>
+          <li lang="fr">Suppression des classements étoiles et rejetés</li>
+          <li lang="es">Se quitaron las valoraciones por estrellas y de rechazado</li>
+          <li lang="eo">Forigo de stela kaj rifuza taksoj</li>
+          <li lang="en_GB">Removed star and rejected ratings</li>
+          <li lang="de">Stern gelöscht und Bewertungen verworfen</li>
+          <li lang="da">Fjernet bedømmelser med stjerne og afslag</li>
+          <li lang="cs">Odstraněno hvězdičkové a odmítací hodnocení</li>
+          <li lang="ca">S'han suprimit les valoracions de rebuig i amb estrelles</li>
+          <li>Translation updates</li>
+          <li lang="zh_TW">翻譯更新</li>
+          <li lang="zh_CN">翻译更新</li>
+          <li lang="uk">Оновлено переклади</li>
+          <li lang="tr">Çeviriler güncellendi</li>
+          <li lang="sv">Översättningsuppdateringar</li>
+          <li lang="sr">Освежења превода</li>
+          <li lang="sk">Aktualizácie prekladu</li>
+          <li lang="ru">Обновления перевода</li>
+          <li lang="pt_BR">Atualizações de tradução</li>
+          <li lang="pt">Atualização das traduções</li>
+          <li lang="pl">Aktualizacje tłumaczenia</li>
+          <li lang="nl">Bijgewerkte vertalingen</li>
+          <li lang="nb">Oppdatering av oversettelse</li>
+          <li lang="ms">Kemaskini terjemahan</li>
+          <li lang="mr">भाषांतर अपडेट्स</li>
+          <li lang="lt">Vertimų atnaujinimai</li>
+          <li lang="ku">rojanekirina wergerrandin</li>
+          <li lang="ko">번역 업데이트</li>
+          <li lang="ja">翻訳の更新</li>
+          <li lang="iu">Обновления перевода</li>
+          <li lang="it">Traduzioni aggiornate</li>
+          <li lang="ie">Actualisation de traductiones</li>
+          <li lang="id">Pembaruan terjemahan</li>
+          <li lang="hu">Frissített fordítások</li>
+          <li lang="hr">Nadopune prijevoda</li>
+          <li lang="he">עדכוני תרגומים</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="fi">Päivityksiä kielikäännöksiin</li>
+          <li lang="es">Traducciones actualizadas</li>
+          <li lang="eo">Tradukaj ĝisdatigoj</li>
+          <li lang="en_GB">Translation updates</li>
+          <li lang="el">Ενημερώσεις μεταφράσεων</li>
+          <li lang="de">Übersetzungsaktualisierungen</li>
+          <li lang="da">Opdatering af oversættelse</li>
+          <li lang="cs">Aktualizace překladů</li>
+          <li lang="ca">Actualitzacions de la traducció</li>
+          <li lang="ar">تحديثات في الترجمة</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2016-08-11" urgency="medium" version="0.2">
+      <description>
+        <ul>
+          <li>Minor bug fixes</li>
+          <li lang="zh_TW">小臭蟲修正</li>
+          <li lang="zh_CN">细节修复</li>
+          <li lang="uk">Незначні виправлення</li>
+          <li lang="tr">Küçük hata düzeltmeleri</li>
+          <li lang="sv">Mindre bugg-fixar</li>
+          <li lang="sr">Мање исправке грешака</li>
+          <li lang="sk">Menšie opravy chýb</li>
+          <li lang="ru">Исправления незначительных ошибок</li>
+          <li lang="pt_BR">Correções de pequenos bugs</li>
+          <li lang="pt">Pequenas correções de problemas</li>
+          <li lang="pl">Poprawki drobnych błędów</li>
+          <li lang="nl">Kleine bugfixes</li>
+          <li lang="nb">Mindre feil rettelser</li>
+          <li lang="ms">Pembetulan bug kecil</li>
+          <li lang="mr">किरकोळ दोष निराकरणे</li>
+          <li lang="lt">Smulkių klaidų pataisymai</li>
+          <li lang="ku">çêkirina biçûke çewtî</li>
+          <li lang="ko">자잘한 버그 해결</li>
+          <li lang="ja">軽微なバグの修正</li>
+          <li lang="it">Correzioni di bug minori</li>
+          <li lang="id">Perbaikan bug kecil</li>
+          <li lang="hu">Apró hibajavítások</li>
+          <li lang="hr">Manji popravci grešaka</li>
+          <li lang="he">תיקוני תקלות מזעריים</li>
+          <li lang="fr">Corrections d'anomalies mineures</li>
+          <li lang="fi">Muita pieniä korjauksia</li>
+          <li lang="es">Reparación de errores menores</li>
+          <li lang="eo">Malgravaj sencimigoj</li>
+          <li lang="en_GB">Minor bug fixes</li>
+          <li lang="el">Μικρές διορθώσεις σφαλμάτων</li>
+          <li lang="de">Kleinere Fehlerbehebungen</li>
+          <li lang="da">Mindre fejlrettelser</li>
+          <li lang="cs">Opravy drobných chyb</li>
+          <li lang="ca">Correccions d'errors menors</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="violence-desecration">none</content_attribute>
+    <content_attribute id="violence-slavery">none</content_attribute>
+    <content_attribute id="violence-worship">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="sex-homosexuality">none</content_attribute>
+    <content_attribute id="sex-prostitution">none</content_attribute>
+    <content_attribute id="sex-adultery">none</content_attribute>
+    <content_attribute id="sex-appearance">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">intense</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+  <developer_name>elementary, Inc.</developer_name>
+  <developer_name lang="zh_CN">elementary, Inc.</developer_name>
+  <developer_name lang="uk">elementary, Inc.</developer_name>
+  <developer_name lang="tr">elementary, Inc.</developer_name>
+  <developer_name lang="ru">elementary, Inc.</developer_name>
+  <developer_name lang="pt_BR">elementary, Inc.</developer_name>
+  <developer_name lang="pt">elementary, Inc.</developer_name>
+  <developer_name lang="pl">elementary, Inc.</developer_name>
+  <developer_name lang="nl">elementary, Inc.</developer_name>
+  <developer_name lang="nb">elementary, Inc.</developer_name>
+  <developer_name lang="ja">elementary, Inc.</developer_name>
+  <developer_name lang="ie">elementary, Inc.</developer_name>
+  <developer_name lang="id">elementary, Inc.</developer_name>
+  <developer_name lang="he">elementary בע״מ.</developer_name>
+  <developer_name lang="fr">elementary, Inc.</developer_name>
+  <developer_name lang="es">elementary, Inc.</developer_name>
+  <developer_name lang="en_GB">elementary, Inc.</developer_name>
+  <developer_name lang="de">elementary, Inc.</developer_name>
+  <developer_name lang="cs">elementary, Inc.</developer_name>
+  <developer_name lang="ca">elementary, Inc.</developer_name>
+  <url type="homepage">https://elementary.io/</url>
+  <url type="bugtracker">https://github.com/elementary/photos/issues</url>
+  <url type="donation">https://elementary.io/get-involved#funding</url>
+  <url type="help">https://github.com/elementary/photos/discussions/categories/q-a</url>
+  <url type="translate">https://l10n.elementary.io/projects/photos</url>
+  <update_contact>contact_at_elementary.io</update_contact>
+  <custom>
+    <value key="x-appcenter-color-primary">#e2ebf3</value>
+    <value key="x-appcenter-color-primary-text">#153251</value>
+  </custom>
+</component>

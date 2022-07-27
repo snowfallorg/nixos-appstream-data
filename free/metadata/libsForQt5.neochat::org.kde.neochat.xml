@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>libsForQt5.neochat</pkgname>
+  <icon height="64" type="cached" width="64">org.kde.neochat.png</icon>
+  <icon type="cached" width="128" height="128">org.kde.neochat.png</icon>
+  <id>org.kde.neochat</id>
+  <provides>
+    <binary>neochat</binary>
+  </provides>
+  <name>NeoChat</name>
+  <name lang="ar">نيوتشات</name>
+  <name lang="az">NeoChat</name>
+  <name lang="ca">NeoChat</name>
+  <name lang="ca-valencia">NeoChat</name>
+  <name lang="cs">NeoChat</name>
+  <name lang="de">NeoChat</name>
+  <name lang="en-GB">NeoChat</name>
+  <name lang="es">NeoChat</name>
+  <name lang="eu">NeoChat</name>
+  <name lang="fi">NeoChat</name>
+  <name lang="fr">NeoChat</name>
+  <name lang="hu">NeoChat</name>
+  <name lang="ia">Neochat</name>
+  <name lang="id">NeoChat</name>
+  <name lang="it">NeoChat</name>
+  <name lang="ko">NeoChat</name>
+  <name lang="nl">NeoChat</name>
+  <name lang="nn">NeoChat</name>
+  <name lang="pa">ਨਿਓ-ਚੈਟ</name>
+  <name lang="pl">NeoChat</name>
+  <name lang="pt">NeoChat</name>
+  <name lang="pt-BR">NeoChat</name>
+  <name lang="sk">NeoChat</name>
+  <name lang="sl">NeoChat</name>
+  <name lang="sv">NeoChat</name>
+  <name lang="ta">நியோச்சாட்</name>
+  <name lang="tr">NeoChat</name>
+  <name lang="uk">NeoChat</name>
+  <name lang="x-test">xxNeoChatxx</name>
+  <name lang="zh-CN">NeoChat</name>
+  <summary>A client for matrix, the decentralized communication protocol</summary>
+  <summary lang="ar">عميل لماتركس، ميفاق الاتصال اللامركزي</summary>
+  <summary lang="az">Matrix üçün müştəri, mərkəzləşməmiş kommunikasiya protokolu</summary>
+  <summary lang="ca">Un client per al Matrix, el protocol de comunicacions descentralitzat</summary>
+  <summary lang="ca-valencia">Un client per al Matrix, el protocol de comunicacions descentralitzat</summary>
+  <summary lang="cs">Klient pro decentralizovaný komunikační protokol matrix</summary>
+  <summary lang="de">Ein Programm für Matrix, das dezentrale Kommunikationsprotokoll</summary>
+  <summary lang="en-GB">A client for matrix, the decentralised communication protocol</summary>
+  <summary lang="es">Un cliente para Matrix, el protocolo de comunicaciones descentralizado</summary>
+  <summary lang="eu">Matrix, deszentralizatutako komunikazio protokolorako bezero bat</summary>
+  <summary lang="fi">Asiakas Matrixille, hajautetulle viestintäyhteyskäytännölle</summary>
+  <summary lang="fr">Un client pour « Matrix », le protocole décentralisé de communications.</summary>
+  <summary lang="hu">Kliens a matrixhoz, a decentralizált kommunikációs protokollhoz</summary>
+  <summary lang="ia">Un cliente per Matrix, le protocollo de communication decentralisate</summary>
+  <summary lang="id">Klien untuk matrix, protokol komunikasi terdesentralisasi</summary>
+  <summary lang="it">Un client per matrix, il protocollo di comunicazione decentralizzato</summary>
+  <summary lang="ko">Matrix, 분산 대화 프로토콜 클라이언트</summary>
+  <summary lang="nl">Een client voor matrix, het gedecentraliseerde communicatieprotocol</summary>
+  <summary lang="nn">Ein klient for Matrix, den desentraliserte lynmeldings­protokollen</summary>
+  <summary lang="pa">ਮੈਟਰਿਕਸ, ਸਰਬ-ਸਾਂਝੇ ਸੰਚਾਰ ਪਰੋਟੋਕਾਲ, ਲਈ ਕਲਾਈਂਟ ਹੈ</summary>
+  <summary lang="pl">Program do obsługi matriksa, rozproszonego protokołu porozumiewania się</summary>
+  <summary lang="pt">Um cliente para o Matrix, o protocolo de comunicação descentralizado</summary>
+  <summary lang="pt-BR">Um cliente do Matrix, o protocolo de comunicação descentralizado</summary>
+  <summary lang="sk">Klient pre matrix, decentralizovaný komunikačný protokol</summary>
+  <summary lang="sl">Odjemalec za matrix, decentralizirani komunikacijski protokol</summary>
+  <summary lang="sv">En klient för Matrix, det decentraliserade kommunikationsprotokollet</summary>
+  <summary lang="tr">Merkezi olmayan iletişim protokolü Matrix için bir istemci</summary>
+  <summary lang="uk">Клієнт matrix, децентралізованого протоколу обміну даними</summary>
+  <summary lang="x-test">xxA client for matrix, the decentralized communication protocolxx</summary>
+  <summary lang="zh-CN">分布式通讯协议 Matrix 的客户端</summary>
+  <description>
+    <p>NeoChat is a Matrix client. It allows you to send text messages, videos and audio files to your family, colleagues and friends using the Matrix protocol.</p>
+    <p>Matrix is a decentralized communication protocol, putting the user back in control. Currently NeoChat implements large part of the protocol with the exception of encrypted chats and video chat.</p>
+    <p>NeoChat works both on mobile and desktop while providing a consistent user experience.</p>
+  </description>
+  <description lang="ar">
+    <p>نيوتشات هو عميل ماتركس Matrix. يتيح لك إرسال رسائل نصية ومقاطع فيديو وملفات صوتية إلى عائلتك وزملائك وأصدقائك باستخدام بروتوكول ماتركس</p>
+    <p>ماتريكس هو بروتوكول اتصال لامركزي ، يعيد المستخدم إلى السيطرة. يطبق نيوتشات حاليًا جزءًا كبيرًا من الميفاق باستثناء الدردشات المشفرة ودردشة الفيديو.</p>
+    <p>يعمل نيوتشات على كل من الأجهزة المحمولة وسطح المكتب مع توفير تجربة مستخدم متسقة.</p>
+  </description>
+  <description lang="az">
+    <p>NeoChat Mtrix müştərisidir. O, Matrix protokolundan istifadə edərək, ailənizə, dostlarınıza, iş yoldaşlarınıza mətn, səsli və görüntülü ismarıclar göndərməyə imkan verir.</p>
+    <p>Matrix, istifadəçini nəzarətdə saxlayan, mərkəzləşməmişi rabitə protokoludur. NeoChat, söhbətin və video əlaqəsinin şifrələnməsindən başqa bir çox protokolları həyata keçirə bilir.</p>
+    <p>Vahid istifadəçi interfeysi ilə təmin olunan NeoChat, həm mobil telefonda həm də kompyuterlərdə işləyir.</p>
+  </description>
+  <description lang="ca">
+    <p>El NeoChat és un client de Matrix. Permet enviar missatges de text, fitxers de vídeo i d'àudio a la família, col·legues i amics usant el protocol Matrix.</p>
+    <p>Matrix és un protocol de comunicacions descentralitzat, que retorna el control a l'usuari. Actualment el NeoChat implementa una gran part del protocol amb l'excepció dels xats encriptats i els xats de vídeo.</p>
+    <p>El NeoChat funciona en els mòbils i a l'escriptori, proporcionant una experiència d'usuari coherent.</p>
+  </description>
+  <description lang="ca-valencia">
+    <p>NeoChat és un client de Matrix. Permet enviar missatges de text, fitxers de vídeo i d'àudio a la família, col·legues i amics utilitzant el protocol Matrix.</p>
+    <p>Matrix és un protocol de comunicacions descentralitzat, que retorna el control a l'usuari. Actualment NeoChat implementa una gran part del protocol amb l'excepció dels chats encriptats i els chats de vídeo.</p>
+    <p>NeoChat funciona en els mòbils i a l'escriptori, proporcionant una experiència d'usuari coherent.</p>
+  </description>
+  <description lang="de">
+    <p>NeoChat ist ein Matrix-Client. Er ermöglicht Ihnen das Senden von Textnachrichten, Videos und Audiodateien an Ihre Familie, Kollegen und Freunde unter Verwendung des Matrix-Protokolls.</p>
+    <p>Matrix ist ein dezentralisiertes Kommunikationsprotokoll, das dem Benutzer wieder die Kontrolle zurückgibt. Derzeit implementiert NeoChat einen großen Teil des Protokolls mit der Ausnahme von verschlüsselten Chats und Video-Chat.</p>
+    <p>NeoChat funktioniert sowohl auf dem Mobiltelefon als auch auf dem Arbeitsfläche und bietet ein einheitliches Benutzererlebnis. </p>
+  </description>
+  <description lang="en-GB">
+    <p>NeoChat is a Matrix client. It allows you to send text messages, videos and audio files to your family, colleagues and friends using the Matrix protocol.</p>
+    <p>Matrix is a decentralised communication protocol, putting the user back in control. Currently NeoChat implements large part of the protocol with the exception of encrypted chats and video chat.</p>
+    <p>NeoChat works both on mobile and desktop while providing a consistent user experience.</p>
+  </description>
+  <description lang="es">
+    <p>NeoChat es un cliente para Matrix. Le permite enviar mensajes de texto, vídeos y archivos de sonido a su familia, compañeros de trabajo y amigos usando el protocolo Matrix.</p>
+    <p>Matrix es un protocolo de comunicaciones descentralizado, que devuelve el control al usuario. En la actualidad, NeoChat implementa gran parte del protocolo con la excepción de chats cifrados y chats de vídeo.</p>
+    <p>NeoChat funciona en móviles y en el escritorio a la vez que proporciona una experiencia de usuario consistente.</p>
+  </description>
+  <description lang="eu">
+    <p>NeoChat Matrix bezero bat da. Familiari, lankideei eta lagunei testu-mezuak, bideoak eta audio-fitxategiak bidaltzeko aukera ematen du, Matrix protokoloa erabiliz.</p>
+    <p>Matrix komunikazio-protokolo deszentralizatu bat da, erabiltzaileari kontrola itzultzen diona. Gaur egun, NeoChat-ek protokoloaren zati handi bat inplementatzen du, berriketa zifratuak eta bideo berriketak izan ezik.</p>
+    <p>NeoChat mugikorretan eta mahaigainean dabil, erabiltzaile esperientzia koherentea eskainiz.</p>
+  </description>
+  <description lang="fi">
+    <p>NeoChat on Matrix-asiakas. Sillä voi lähettää perheelle, tuttaville ja kavereille tekstiviestejä sekä video- ja äänitiedostoja Matrix-yhteyskäytännöllä.</p>
+    <p>Matrix on hajautettu viestintäyhteyskäytäntö, joka antaa hallinnan takaisin käyttäjille. NeoChat tarjoaa nykyisellään valtaosan yhteyskäytännöstä salattuja keskustelu- ja videokeskusteluja lukuun ottamatta.</p>
+    <p>NeoChat toimii sekä mobiili- että työpöytäalustoilla tarjoten yhdenmukaisen käyttökokemuksen.</p>
+  </description>
+  <description lang="fr">
+    <p>NeoChat est un client Matrix. Il vous permet d'envoyer des messages de texte, des vidéos et des fichiers audio à votre famille, vos collègues et vos amis en utilisant le protocole Matrix.</p>
+    <p>Matrix est un protocole de communication décentralisé, donnant le contrôle à l'utilisateur. Actuellement, NeoChat met en œuvre une grande partie du protocole, à l'exception des discussions chiffrées et du chat vidéo.</p>
+    <p>NeoChat fonctionne aussi bien sur les mobiles que sur les ordinateurs de bureau, tout en offrant une expérience utilisateur cohérente.</p>
+  </description>
+  <description lang="hu">
+    <p>A NeoChat egy Matrix kliens. Szöveges üzeneteket, videókat ésaudio fájlokat küldhet családjának, kollégáinak és barátainak a Matrix protokoll használatával.</p>
+    <p>A Matrix egy decentralizált kommunikációs protokoll, amely a felhasználók kezébe adja az irányítást.</p>
+    <p>A NeoChat mobilon és asztali számítógépen is működik, egységes felhasználói élményt nyújtva.</p>
+  </description>
+  <description lang="ia">
+    <p>NeoChat es un cliente de Matrix. Illo te permitte inviar messager de texto, files de video e audio a tu familia, collegas e amicos usante le protocollo de Matrix.</p>
+    <p>Matrix es un protocollo de communication decentrate, ponente le usator in le controlo. Currentemente NeoChat implementa un grande parte del protocollo con le exception de conversationes cryptate e conversationes video.</p>
+    <p>NeoChat functiona sia sur mobile que ur scriptorio durante que forni un experientia de usator consistente.</p>
+  </description>
+  <description lang="id">
+    <p>NeoChat adalah sebuah klien Matrix. Memungkinkan Anda untuk mengirim pesan teks, file video dan audio ke keluarga, kolega dan teman Anda menggunakan protokol Matrix.</p>
+    <p>Matrix adalah protokol komunikasi terdesentralisasi, menempatkan pengguna kembali dalam kendali. Saat ini NeoChat mengimplementasikan sebagian besar protokol dengan pengecualian obrolan terenkripsi dan obrolan video.</p>
+    <p>NeoChat berfungsi baik di ponsel dan desktop sambil memberikan pengalaman pengguna yang konsisten.</p>
+  </description>
+  <description lang="it">
+    <p>NeoChat è un client Matrix. Ti consente di inviare messaggi di testo, file video e audio a familiari, colleghi e amici utilizzando il protocollo Matrix.</p>
+    <p>Matrix è un protocollo di comunicazione decentralizzato, che restituisce all'utente il controllo. Attualmente NeoChat implementa gran parte del protocollo ad eccezione delle chat cifrate e delle chat video.</p>
+    <p>NeoChat funziona sia su dispositivi mobili che desktop, fornendo un'esperienza utente coerente.</p>
+  </description>
+  <description lang="ko">
+    <p>NeoChat은 Matrix 클라이언트입니다. Matrix 프로토콜을 사용하여 가족, 동료, 친구에게 텍스트 메시지, 동영상, 오디오 파일을 전송할 수 있습니다.</p>
+    <p>Matrix는 사용자에게 제어권을 돌려 주는 분산 통신 프로토콜입니다. NeoChat은 암호화된 대화 및 영상 통화를 제외한 프로토콜의 대부분 기능을 구현합니다.</p>
+    <p>NeoChat은 모바일과 데스크톱 모두에서 일관된 사용자 경험을 제공합니다.</p>
+  </description>
+  <description lang="nl">
+    <p>NeoChat is een Matrix-client. Het biedt u het verzenden van tekstberichten, video's en geluidsbestanden naar uw familie, collega's en vrienden met het Matrix-protocol.</p>
+    <p>Matrix is een gedecentraliseerd communicatieprotocol, dat de gebruiker de controle teruggeeft. Op dit moment implementeert NeoChat grote delen van het protocol met de uitzondering van versleutelde chats en video-chat.</p>
+    <p>NeoChat werkt zowel op de mobiel en het bureaublad met het leveren van een consistente gebruikerservaring.</p>
+  </description>
+  <description lang="pl">
+    <p>NeoChat jest programem do Matrisa. Umożliwia wysyłanie wiadomości tekstowych, filmów oraz dźwięku do twojej rodziny, znajomych oraz przyjaciół poprzez protokół Matriksa.</p>
+    <p>Matrix jest protokołem rozproszonego porozumiewania się oddający użytkownikowi jego władzę. Obecnie NeoChat obsługuje dużą część protokołu poza szyfrowanymi rozmowami tekstowymi i z obrazem.</p>
+    <p>NeoChat działa zarówno na urządzeniach przenośnych jak i biurkowych, zapewniając spójne wrażenia użytkownika</p>
+  </description>
+  <description lang="pt">
+    <p>O NeoChat é um cliente do Matrix. O mesmo permite-lhe enviar mensagens de texto, ficheiros de vídeo e áudio para a sua família, colegas e amigos com o protocolo Matrix.</p>
+    <p>O Matrix é um protocolo de comunicações descentralizado, colocando de novo o utilizador no poder. De momento, o NeoChat implementa uma boa parte do protocolo, com a excepção das conversas encriptadas e as conversas de vídeo.</p>
+    <p>O NeoChat funciona tanto em dispositivos móveis como no computador, fornecendo uma experiência de utilizador consistente.</p>
+  </description>
+  <description lang="pt-BR">
+    <p>O NeoChat é um cliente Matrix. Ele permite a você enviar mensagens de texto, arquivos de vídeo e áudio para seus familiares, colegas e amigos usando o protocolo Matrix.</p>
+    <p>O Matrix é um protocolo de comunicação descentralizado, colocando o usuário de volta no controle. Atualmente o NeoChat implementa grande parte do protocolo com a exceção de bate-papos criptografados e bate-papo por vídeo.</p>
+    <p>O NeoChat funciona tanto no celular como no computador enquanto fornece uma experiência consistente ao usuário.</p>
+  </description>
+  <description lang="sk">
+    <p>NeoChat je Matrix klient. Umožňuje vám posielať textové správy, videá a zvukové súbory rodine, kolegom a priateľom pomocou protokolu Matrix.</p>
+    <p>Matrix je decentralizovaný komunikačný protokol, ktorý používateľovi vracia kontrolu. V súčasnosti NeoChat implementuje veľkú časť protokolu s výnimkou šifrovaných chatov a videohovorov.</p>
+    <p>NeoChat funguje na mobilných aj stolových počítačoch a poskytuje konzistentný používateľský zážitok.</p>
+  </description>
+  <description lang="sl">
+    <p>NeoChat je odjemalec Matrixa. Dovoljuje vam pošiljanje besedilnih sporočil, videoposnetkov in zvočnih datotek vaši družini, kolegom in prijateljem z uporabo protokola Matrix.</p>
+    <p>Matrix je decentraliziran komunikacijski protokol, kjer ima uporabnik uporabnik kontrolo rabe. Trenutno ima NeoChat izveden velik del protokola z izjemo šifriranih klepetov in video klepetov.</p>
+    <p>NeoChat deluje tako na mobilnih kot na namiznih platformah z zagotavljanjem konsistentne uporabniške izkušnje.</p>
+  </description>
+  <description lang="sv">
+    <p>NeoChat är en Matrix-klient. Den låter dig skicka textmeddelanden, videor och ljudfiler till din familj, kollegor och vänner med användning av Matrix-protokollet.</p>
+    <p>Matrix är ett decentraliserat kommunikationsprotokoll, som ger tillbaka kontrollen till användaren. För närvarande implementerar NeoChat en stor del av protokollet, med undantag för krypterad chatt och videochatt.</p>
+    <p>NeoChat fungerar både på mobil och skrivbord och tillhandahåller en konsekvent användarupplevelse.</p>
+  </description>
+  <description lang="tr">
+    <p>NeoChat, bir Matrix istemcisidir. Matrix protokolünü kullanarak ailenize, iş arkadaşlarınıza, arkadaşlarınıza ve başkalarına metin iletileri, video ve ses dosyaların göndermenize olanak verir.</p>
+    <p>Matrix; tam denetimi kullanıcıya bırakan, merkezi olmayan bir iletişim protokolüdür. Şu anda NeoChat, uçtan uca şifrelenmiş metin ve video sohbetleri dışında protokolün büyük bir bölümünü bünyesinde bulundurur.</p>
+    <p>NeoChat, hem masaüstü hem de taşınabilir ortamlarda çalışarak tutarlı bir kullanıcı deneyimi sunar.</p>
+  </description>
+  <description lang="uk">
+    <p>NeoChat — клієнт мережі обміну повідомленнями Matrix. За допомогою цієї програми ви зможете надсилати текстові повідомлення, відео та звукові файли вашій родині, колегам та друзям за допомогою протоколу Matrix.</p>
+    <p>Matrix — протокол децентралізованого спілкування, який передає контроль над даними користувачеві. У поточній версії NeoChat реалізовано більшу частину протоколу, окрім зашифрованого спілкування та відеоспілкування.</p>
+    <p>NeoChat працює на мобільних пристроях та звичайних комп'ютерах, маючи однорідний інтерфейс на усіх підтримуваних пристроях.</p>
+  </description>
+  <description lang="x-test">
+    <p>xxNeoChat is a Matrix client. It allows you to send text messages, videos and audio files to your family, colleagues and friends using the Matrix protocol.xx</p>
+    <p>xxMatrix is a decentralized communication protocol, putting the user back in control. Currently NeoChat implements large part of the protocol with the exception of encrypted chats and video chat.xx</p>
+    <p>xxNeoChat works both on mobile and desktop while providing a consistent user experience.xx</p>
+  </description>
+  <description lang="zh-CN">
+    <p>NeoChat 是一个 Matrix 客户端。 它允许您使用 Matrix 协议向您的家人、同事和朋友发送文本消息、视频和音频文件。</p>
+    <p>Matrix 是一个分布式通讯协议，使用户重新得到控制权。 目前，NeoChat 实现了协议的大部分，除了加密聊天和视频聊天。</p>
+    <p>NeoChat 在移动设备和桌面上均可用，并提供一致的用户体验。</p>
+  </description>
+  <url type="homepage">https://apps.kde.org/neochat/</url>
+  <url type="bugtracker">https://bugs.kde.org/buglist.cgi?component=General&amp;product=NeoChat</url>
+  <categories>
+    <category>Network</category>
+  </categories>
+  <developer_name>The KDE Community</developer_name>
+  <developer_name lang="ar">مجتمع كدي</developer_name>
+  <developer_name lang="az">KDE Cəmiyyəti</developer_name>
+  <developer_name lang="ca">La comunitat KDE</developer_name>
+  <developer_name lang="ca-valencia">La comunitat KDE</developer_name>
+  <developer_name lang="cs">Komunita KDE</developer_name>
+  <developer_name lang="de">Die KDE-Gemeinschaft</developer_name>
+  <developer_name lang="en-GB">The KDE Community</developer_name>
+  <developer_name lang="es">La comunidad KDE</developer_name>
+  <developer_name lang="eu">KDE komunitatea</developer_name>
+  <developer_name lang="fi">KDE-yhteisö</developer_name>
+  <developer_name lang="fr">La communauté de KDE</developer_name>
+  <developer_name lang="hu">A KDE Közösség</developer_name>
+  <developer_name lang="ia">Le communitate de KDE</developer_name>
+  <developer_name lang="id">Komunitas KDE</developer_name>
+  <developer_name lang="it">La comunità KDE</developer_name>
+  <developer_name lang="ko">KDE 커뮤니티</developer_name>
+  <developer_name lang="nl">De KDE gemeenschap</developer_name>
+  <developer_name lang="nn">KDE-fellesskapet</developer_name>
+  <developer_name lang="pa">ਕੇਡੀਈ ਕਮਿਊਨਟੀ</developer_name>
+  <developer_name lang="pl">Społeczność KDE</developer_name>
+  <developer_name lang="pt">A Comunidade do KDE</developer_name>
+  <developer_name lang="pt-BR">A comunidade KDE</developer_name>
+  <developer_name lang="sk">KDE Komunita</developer_name>
+  <developer_name lang="sl">Skupnost KDE</developer_name>
+  <developer_name lang="sv">KDE-gemenskapen</developer_name>
+  <developer_name lang="tr">KDE Topluluğu</developer_name>
+  <developer_name lang="uk">Спільнота KDE</developer_name>
+  <developer_name lang="x-test">xxThe KDE Communityxx</developer_name>
+  <developer_name lang="zh-CN">KDE 社区</developer_name>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0</project_license>
+  <custom>
+    <value key="KDE::matrix">#neochat:kde.org</value>
+  </custom>
+  <launchable type="desktop-id">org.kde.neochat.desktop</launchable>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://cdn.kde.org/screenshots/neochat/application-mobile.png</image>
+    </screenshot>
+    <screenshot type="default">
+      <image>https://cdn.kde.org/screenshots/neochat/application.png</image>
+    </screenshot>
+  </screenshots>
+  <content_rating type="oars-1.1">
+    <content_attribute id="social-chat">intense</content_attribute>
+  </content_rating>
+  <releases>
+    <release version="22.06" date="2022-06-24">
+      <url>https://www.plasma-mobile.org/2022/06/28/plasma-mobile-gear-22-06/</url>
+      <description>
+        <p>This release brings you various small bugfixes and improvements:</p>
+        <ul>
+          <li>Sending of typing notifications can now be disabled.</li>
+          <li>In the room list, the scrollbar will now disappear correctly when it is not needed.</li>
+          <li>On wayland, NeoChat will now raise correctly when clicking on a notification.</li>
+          <li>Several bugs have been fixed that would sometimes cause messages containing markdown and/or HTML elements to be sent incorrectly.</li>
+          <li>The quick switcher can now be controlled using the mouse.</li>
+          <li>There is now an option to disable automatic room sidebar opening when resizing the window.</li>
+          <li>Creation of custom emojis has been fixed.</li>
+          <li>Editing or replying to the last message using the keyboard shortcuts now works correctly.</li>
+          <li>When switching between rooms using the keyboard, the switching direction is now correct.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="22.04" date="2022-04-26">
+      <url>https://www.plasma-mobile.org/2022/04/26/plasma-mobile-gear-22-04/</url>
+      <description>
+        <p>NeoChat now lets you filter and enter a room directly from KRunner (Plasma Search). Aside from that there is also various bug fixes regarding the typing notifications.</p>
+      </description>
+    </release>
+    <release version="22.02" date="2022-02-09">
+      <description>
+        <p>NeoChat 22.02 focus on stability and adds a few quality of life improvements</p>
+        <ul>
+          <li>Add support for minimizing to system tray on startup</li>
+          <li>Improved internet connectivity check</li>
+          <li>Add support for sharing images and files with other apps (Nextcloud, Imgur, ...)</li>
+          <li>Implement adding labels for account. This allow for an easier organization when using multiple accounts.</li>
+          <li>Redesign of our config dialogs to follow the new Plasma System Settings style</li>
+          <li>Fix various others issues and small feature requests. Decreasing the total amount of open issues by 20%.</li>
+        </ul>
+      </description>
+      <url>https://www.plasma-mobile.org/2022/02/09/plasma-mobile-gear-22-02/#neochat</url>
+    </release>
+    <release version="21.12" date="2021-12-07">
+      <description>
+        <p>NeoChat 21.12 brings lots of new features and fixes</p>
+        <ul>
+          <li>Solved various problems related to login, logout and account switching</li>
+          <li>Fixed a few problems in the timeline layout</li>
+          <li>Added Spell checking while writing a message</li>
+          <li>Improved Settings pages</li>
+          <li>Many improvements to the android and general mobile support</li>
+          <li>Show blurhashes while images load</li>
+          <li>Support showing custom emojis</li>
+          <li>Added a global menu</li>
+          <li>Added support for spoilers</li>
+          <li>Added a quick switcher to switch between rooms</li>
+          <li>Added support for an optional fancy blur background effect</li>
+          <li>Resizable left and right drawers</li>
+          <li>Added Syntax highlighting in raw json messages</li>
+          <li>Better wayland support</li>
+          <li>Improved file reception and download</li>
+        </ul>
+      </description>
+      <url>https://www.plasma-mobile.org/2021/12/07/plasma-mobile-gear-21-12/</url>
+    </release>
+    <release date="2021-06-01" version="1.2.0">
+      <description>
+        <p>NeoChat 1.2 brings a major redesign of the user interface. The chat page is now using bubbles for the messages and the input component was completely rewritten with a nicer look as well.</p>
+        <p>It's now possible to send custom reactions by replying to a comment with /react &lt;message>.</p>
+        <p>NeoChat now supports opening Matrix URIs from your browser.</p>
+      </description>
+      <url>https://carlschwan.eu/2021/06/01/neochat-1.2/</url>
+    </release>
+    <release date="2021-02-23" version="1.1.1" urgency="critical" />
+    <release date="2021-02-22" version="1.1.0">
+      <description>
+        <p>Probably the highlight of this release is the completely new login page. It detects the server configuration based on your Matrix Id. This allows you to login to servers requiring Single Sign On (SSO) (like the Mozilla or the incoming Fedora Matrix instance).</p>
+        <p>Servers that require agreeing to the TOS before usage are correctly detected now and redirect to their TOS webpage, allowing the user to agree to them instead of silently failing to load the account.</p>
+        <p>It is now possible to open a room into a new window. This allows you to view and interact with multiple rooms at the same time.</p>
+        <p>We added a few commands to NeoChat (/shrug, /lenny, /join, /ignore, ...).</p>
+        <p>We improved the Plasma integration a bit. Now the number of unread messages is displayed in the Plasma Taskbar.</p>
+      </description>
+      <url>https://carlschwan.eu/2021/02/22/neochat-1.1/</url>
+    </release>
+    <release date="2021-01-13" version="1.0.1">
+      <description>
+        <p>This version fixes several bugs.</p>
+        <ul>
+          <li>NeoChat doesn't require a .well-know configuration in the server to work.</li>
+          <li>Edited messages won't show up duplicated anymore.</li>
+          <li>Various graphic glitches have been fixed.</li>
+          <li>NeoChat now ask for consent to terms and conditions if required instead of displaying nothing.</li>
+          <li>Users avatar in the room list are now displayed correctly.</li>
+          <li>Fix image saving</li>
+        </ul>
+      </description>
+      <url>https://carlschwan.eu/2020/01/13/neochat-1.0.1/</url>
+    </release>
+    <release version="1.0" date="2020-12-23">
+      <description>
+        <p>Initial release of NeoChat, the KDE matrix client.</p>
+      </description>
+      <url>https://carlschwan.eu/2020/12/23/announcing-neochat-1.0-the-kde-matrix-client/</url>
+    </release>
+  </releases>
+</component>

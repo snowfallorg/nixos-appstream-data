@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>pantheon.switchboard-with-plugs</pkgname>
+  <id>io.elementary.switchboard.mouse-touchpad</id>
+  <extends>io.elementary.switchboard</extends>
+  <name>Mouse &amp; Touchpad Settings</name>
+  <name lang="zh_TW">滑鼠和觸控板設定</name>
+  <name lang="uk">Налаштування миші та сенсорної панелі</name>
+  <name lang="tr">Fare ve Dokunmatik Yüzey Ayarları</name>
+  <name lang="sr">Подешавања миша и додирне табле</name>
+  <name lang="sk">Nastavenia myši a touchpadu</name>
+  <name lang="ru">Параметры Мыши и сенсорной панели</name>
+  <name lang="pt_BR">Mouse &amp;amp; Configurações do Touchpad</name>
+  <name lang="pt">Definições do Rato e Touchpad</name>
+  <name lang="nl">Muis &amp;amp; Touchpad Instellingen</name>
+  <name lang="nb">Mus- og pekeflateinnstillinger</name>
+  <name lang="mr">माऊस &amp;amp; टचपॅड सेटिंग्ज</name>
+  <name lang="lt">Pelės ir jutiklinio kilimėlio nustatymai</name>
+  <name lang="ko">마우스 &amp;amp; 터치패드 설정</name>
+  <name lang="ja">マウスとタッチパッドの設定</name>
+  <name lang="it">Impostazioni mouse e touchpad</name>
+  <name lang="hu">Egér és érintőpárna beállításai</name>
+  <name lang="he">הגדרות עכבר ומשטח מגע</name>
+  <name lang="gl">Axustes de rato e panel táctil</name>
+  <name lang="fr">Paramètres de la souris et du pavé tactile</name>
+  <name lang="fi">Hiiren ja kosketuslevyn asetukset</name>
+  <name lang="es">Configuración de ratón y panel táctil</name>
+  <name lang="eo">Musaj &amp;amp; tuŝplataj agordoj</name>
+  <name lang="en_GB">Mouse &amp;amp; Touchpad Settings</name>
+  <name lang="en_CA">Mouse &amp;amp; Touchpad Settings</name>
+  <name lang="en_AU">Mouse &amp;amp; Touchpad Settings</name>
+  <name lang="de">Maus- und Touchpad-Einstellungen</name>
+  <name lang="cs">Nastavení myši a touchpadu</name>
+  <name lang="ca">Paràmetres del ratolí i del ratolí tàctil</name>
+  <summary>Configure mouse and touchpad</summary>
+  <summary lang="zh_TW">調整滑鼠和觸控板設定</summary>
+  <summary lang="zh_CN">配置鼠标和触控板</summary>
+  <summary lang="uk">Налаштування миші та сенсорної панелі</summary>
+  <summary lang="ug">مائۇس ۋە تەگتاختىنى تەڭشەش</summary>
+  <summary lang="tr">Fare ve dokunmatik yüzeyi yapılandırın</summary>
+  <summary lang="tl">I-configure ang mouse at touchpad</summary>
+  <summary lang="sv">Ställ in mus och pekplatta</summary>
+  <summary lang="sr">Подесите миша и додирну таблу</summary>
+  <summary lang="sl">Nastavitve miške in sledilne ploščice</summary>
+  <summary lang="sk">Nastavujte myš a touchpad</summary>
+  <summary lang="ru">Настройка мыши и сенсорной панели</summary>
+  <summary lang="pt_BR">Configurar mouse e touchpad</summary>
+  <summary lang="pt">Configurar o rato e o touchpad</summary>
+  <summary lang="pl">Skonfiguruj myszkę i panel dotykowy</summary>
+  <summary lang="nn">Konfigurer mus og peikeplate</summary>
+  <summary lang="nl">Configureer muis en touchpad</summary>
+  <summary lang="nb">Sett opp mus og pekeflate</summary>
+  <summary lang="mr">माउस आणि टचपॅड कॉन्फिगर करा</summary>
+  <summary lang="mo">Configurați mouse-ul și touchpad-ul</summary>
+  <summary lang="lt">Konfigūruoti pelę ir jutiklinį kilimėlį</summary>
+  <summary lang="ko">마우스와 터치패드를 설정합니다</summary>
+  <summary lang="ja">マウスとタッチパッドを設定します</summary>
+  <summary lang="it">Configura il mouse e il touchpad</summary>
+  <summary lang="hu">Egér és touchpad beállítása</summary>
+  <summary lang="hr">Prilagodite miš i dodirnik</summary>
+  <summary lang="he">הגדרת עכבר ומשטח מגע</summary>
+  <summary lang="gl">Configurar rato e panel táctil</summary>
+  <summary lang="fr">Configurer la souris et le pavé tactile</summary>
+  <summary lang="fi">Määritä hiiren ja kosketuslevyn toiminta</summary>
+  <summary lang="et">Hiire ja puuteplaadi seadistamine</summary>
+  <summary lang="es">Configurar ratón y panel táctil</summary>
+  <summary lang="eo">Agordi muson kaj tuŝplaton</summary>
+  <summary lang="en_GB">Configure mouse and touchpad</summary>
+  <summary lang="en_CA">Configure mouse and touchpad</summary>
+  <summary lang="en_AU">Configure mouse and touchpad</summary>
+  <summary lang="el">Ρύθμιση ποντικιού και touchpad</summary>
+  <summary lang="de">Maus und Tastfeld einrichten</summary>
+  <summary lang="da">Konfigurer mus og touchpad</summary>
+  <summary lang="cs">Nastavit myš a touchpad</summary>
+  <summary lang="ca">Configureu el ratolí i el ratolí tàctil.</summary>
+  <summary lang="bs">Podesite miš i dodirnu ploču</summary>
+  <summary lang="bg">Настройка на мишката и сензорния панел</summary>
+  <icon type="stock">preferences-desktop-peripherals</icon>
+  <translation type="gettext">mouse-touchpad-plug</translation>
+  <releases>
+    <release urgency="medium" date="2021-09-22" version="6.1.0">
+      <description>
+        <p>New features:</p>
+        <ul>
+          <li>New toggle for “Double-tap and move to drag”</li>
+        </ul>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="6.0.0" date="2021-07-15" urgency="medium">
+      <description>
+        <p>New features:</p>
+        <ul>
+          <li>Multitouch gesture options</li>
+        </ul>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Add more snap points to pointer speed sliders</li>
+          <li>Multitouch gesture options</li>
+          <li>Redesigned touchpad settings</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" date="2020-05-28" version="2.4.2">
+      <description>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" version="2.4.1" date="2020-04-08">
+      <description>
+        <ul>
+          <li>Fix stretched switches when using large text</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-01-21" urgency="medium" version="2.4.0">
+      <description>
+        <p>New features:</p>
+        <ul>
+          <li>Add Dwell Click and Pointer size settings</li>
+        </ul>
+        <p>Other updates:</p>
+        <ul>
+          <li>Also listen to secondary button clicks when selecting Primary Button</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.3.1" urgency="medium" date="2019-11-30">
+      <description>
+        <ul>
+          <li>Fix an issue where primary button selection doesn't apply in left-to-right languages</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.3.0" date="2019-11-15" urgency="medium">
+      <description>
+        <ul>
+          <li>New Sidebar navigation</li>
+          <li>Fix middle click not appearing</li>
+          <li>Add Double-Click speed</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/elementary/switchboard-plug-mouse-touchpad/master/data/screenshot-clicking.png</image>
+    </screenshot>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/elementary/switchboard-plug-mouse-touchpad/master/data/screenshot-pointing.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/elementary/switchboard-plug-mouse-touchpad/master/data/screenshot-gestures.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/elementary/switchboard-plug-mouse-touchpad/master/data/screenshot-mouse.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/elementary/switchboard-plug-mouse-touchpad/master/data/screenshot-touchpad.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://elementary.io</url>
+  <url type="bugtracker">https://github.com/elementary/switchboard-plug-mouse-touchpad/issues</url>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+</component>

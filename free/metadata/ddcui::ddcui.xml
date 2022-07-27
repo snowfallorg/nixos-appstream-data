@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>ddcui</pkgname>
+  <icon type="cached" width="64" height="64">ddcui.png</icon>
+  <icon width="128" height="128" type="cached">ddcui.png</icon>
+  <id>com.ddcutil.ddcui</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>CC0-1.0</project_license>
+  <name>ddcui</name>
+  <summary>Manage monitor settings</summary>
+  <description>
+    <p> Communicates with a monitor's Virtual Control Panel (VCP) to query or change monitor settings, 
+    such as brightness, red gain, and power on hours. In general, settings and information
+    that can be accessed using the monitor's On Screen Display can more easily be accessed using this application.
+    </p>
+    <p> ddcui normally communicates with the monitor using the DDC/CI protocol on a /dev/i2c device exposed by the video driver.  
+    Alternatively, ddcui supports monitors that use USB for VCP communication. 
+    </p>
+    <p>The corresponding command line program is ddcutil.
+    </p>
+  </description>
+  <launchable type="desktop-id">ddcui.desktop</launchable>
+  <screenshots>
+    <screenshot type="default">
+      <image> https://www.ddcutil.com/images/ddcui_features.png</image>
+      <!-- <image>image height="708" width="1000">https://raw.githubusercontent.com/ddcutilproject/ddcutil/master/doc/en/images/andt2.png</image> -->
+      <caption>Feature Detail View</caption>
+    </screenshot>
+    <screenshot>
+      <image> https://www.ddcutil.com/images/ddcui_summary.png</image>
+      <caption>Summary View</caption>
+    </screenshot>
+    <screenshot>
+      <image> https://www.ddcutil.com/images/ddcui_capabilities.png</image>
+      <caption>Capabilities View</caption>
+    </screenshot>
+  </screenshots>
+  <update_contact>rockowitz@minsoft.com></update_contact>
+  <developer_name>Sanford Rockowitz</developer_name>
+  <url type="homepage">https://www.ddcutil.com</url>
+  <url type="bugtracker">https://github.com/rockowitz/ddcui/issues</url>
+  <url type="faq">https://www.ddcutil.com/faq</url>
+  <!-- COPR replaces <releases> with its own list. -->
+  <releases>
+    <release date="2020-09-02" version="0.1.3" />
+    <release version="0.1.2" date="2020-06-28" />
+  </releases>
+  <!-- when building in COPR: 
+     + appstream-util validate-relax &hyphen;&hyphen; nonet /builddir/build/BUILDROOT/ddcui-0.1.3-1.fc32.x86_64/usr/share/metainfo/ddcui.appdata.xml
+       /builddir/build/BUILDROOT/ddcui-0.1.3-1.fc32.x86_64/usr/share/metainfo/ddcui.appdata.xml: FAILED:  
+     ? tag-invalid           : <icon> not allowed in desktop appdata
+
+  <icon type="remote" width="128" height="128">https://www.ddcutil.com/images/ddcui-128px.png</icon>
+-->
+</component>

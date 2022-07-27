@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>libsForQt5.kmahjongg</pkgname>
+  <launchable type="desktop-id">org.kde.kmahjongg.desktop</launchable>
+  <icon type="cached" width="64" height="64">kmahjongg.png</icon>
+  <icon width="128" type="cached" height="128">kmahjongg.png</icon>
+  <id>org.kde.kmahjongg.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KMahjongg</name>
+  <name lang="ca">KMahjongg</name>
+  <name lang="ca-valencia">KMahjongg</name>
+  <name lang="cs">KMahjongg</name>
+  <name lang="da">KMahjongg</name>
+  <name lang="de">KMahjongg</name>
+  <name lang="el">KMahjongg</name>
+  <name lang="en-GB">KMahjongg</name>
+  <name lang="es">KMahjongg</name>
+  <name lang="et">KMahjongg</name>
+  <name lang="eu">KMahjongg</name>
+  <name lang="fi">KMahjongg</name>
+  <name lang="fr">KMahjongg</name>
+  <name lang="gl">KMahjongg</name>
+  <name lang="hu">KMahjongg</name>
+  <name lang="id">KMahjongg</name>
+  <name lang="it">KMahjongg</name>
+  <name lang="ko">KMahjongg</name>
+  <name lang="nl">KMahjongg</name>
+  <name lang="nn">KMahjongg</name>
+  <name lang="pl">KMahjongg</name>
+  <name lang="pt">KMahjongg</name>
+  <name lang="pt-BR">KMahjongg</name>
+  <name lang="ro">KMahjongg</name>
+  <name lang="ru">KMahjongg</name>
+  <name lang="sk">KMahjongg</name>
+  <name lang="sl">KMahjongg</name>
+  <name lang="sr">К‑маџонг</name>
+  <name lang="sr-Latn">K‑madžong</name>
+  <name lang="sr-ijekavian">К‑маџонг</name>
+  <name lang="sr-ijekavianlatin">K‑madžong</name>
+  <name lang="sv">Mahjongg</name>
+  <name lang="tr">KMahjongg</name>
+  <name lang="uk">KMahjongg</name>
+  <name lang="x-test">xxKMahjonggxx</name>
+  <name lang="zh-CN">KMahjongg</name>
+  <name lang="zh-TW">KMahjongg</name>
+  <summary>Mahjong Solitaire</summary>
+  <summary lang="ca">Solitari Mahjongg</summary>
+  <summary lang="ca-valencia">Solitari Mahjongg</summary>
+  <summary lang="cs">Mahjong solitér</summary>
+  <summary lang="de">Mahjong-Spiel</summary>
+  <summary lang="el">Mahjong Solitaire</summary>
+  <summary lang="en-GB">Mahjong Solitaire</summary>
+  <summary lang="es">Solitario Mahjong</summary>
+  <summary lang="et">Mahjongi mäng</summary>
+  <summary lang="eu">Mahjong bakar-jokoa</summary>
+  <summary lang="fi">Mahjongg-yksinpeli</summary>
+  <summary lang="fr">Mahjongg Solitaire</summary>
+  <summary lang="gl">Xogo de Mahjong</summary>
+  <summary lang="hu">Majong kirakó</summary>
+  <summary lang="id">Mahjong Solitaire</summary>
+  <summary lang="it">Solitario Mahjong</summary>
+  <summary lang="ko">마작 카드 게임</summary>
+  <summary lang="nl">Mahjong Solitaire</summary>
+  <summary lang="nn">Mahjongg-kabal</summary>
+  <summary lang="pl">Pasjans Mahjong</summary>
+  <summary lang="pt">Mahjong Solitário</summary>
+  <summary lang="pt-BR">Mahjong Solitário</summary>
+  <summary lang="ro">Pasențe Mahjong</summary>
+  <summary lang="ru">Пасьянс маджонг</summary>
+  <summary lang="sk">Mahjong Solitaire</summary>
+  <summary lang="sl">Pasjansa Mahjongg</summary>
+  <summary lang="sr">Маџонг пасијанс</summary>
+  <summary lang="sr-Latn">Madžong pasijans</summary>
+  <summary lang="sr-ijekavian">Маџонг пасијанс</summary>
+  <summary lang="sr-ijekavianlatin">Madžong pasijans</summary>
+  <summary lang="sv">Mahjongg-patiens</summary>
+  <summary lang="tr">Mahjongg Solitaire</summary>
+  <summary lang="uk">Пасьянс «Маджонґ»</summary>
+  <summary lang="x-test">xxMahjong Solitairexx</summary>
+  <summary lang="zh-CN">麻将纸牌</summary>
+  <summary lang="zh-TW">麻將遊戲</summary>
+  <description>
+    <p>
+      KMahjongg is a fun board game created after the famous oriental game of Mahjong (from Chinese 麻將).
+    </p>
+  </description>
+  <description lang="ca">
+    <p>El KMahjongg és un joc de tauler divertit creat a partir del famós joc oriental Mahjong (del xinès 麻將).</p>
+  </description>
+  <description lang="ca-valencia">
+    <p>KMahjongg és un joc de tauler divertit creat a partir del famós joc oriental Mahjong (del xinés 麻將).</p>
+  </description>
+  <description lang="cs">
+    <p>KMahjongg je zábavná desková hra vytvořená podle proslulé orientální hry Mahjong (z čínského 麻將).</p>
+  </description>
+  <description lang="de">
+    <p>KMahjongg ist ein Brettspiel, das an das berühmte orientalische Spiel Mahjong (Chinesisch: 麻將) angelehnt ist.</p>
+  </description>
+  <description lang="el">
+    <p>Το KMahjongg είναι ένα ευχάριστο επιτραπέζιο παιχνίδι με βάση το περίφημο ασιατικό Mahjong (στα Κινεζικά 麻將).</p>
+  </description>
+  <description lang="en-GB">
+    <p>KMahjongg is a fun board game created after the famous oriental game of Mahjong (from Chinese 麻將).</p>
+  </description>
+  <description lang="es">
+    <p>KMahjongg es un divertido juego de tablero derivado del famoso juego oriental mahjong (del chino 麻將).</p>
+  </description>
+  <description lang="et">
+    <p>KMahjongg on lõbus lauamäng, mille eeskujuks on kuulus idamaine Mahjong (hiina keeles 麻將).</p>
+  </description>
+  <description lang="eu">
+    <p>KMahjongg, sortaldeko Mahjong (txineraz 麻將) joko ezagunean oinarritutako taula-joko dibertigarri bat da.</p>
+  </description>
+  <description lang="fi">
+    <p>KMahjongg on hauska lautapeli, joka perustuu tunnettuun itämaiseen Mahjong-peliin (kiinaksi 麻將).</p>
+  </description>
+  <description lang="fr">
+    <p>KMahjongg est un jeu de plateau amusant créé à partir du célèbre jeu oriental, le Mahjong (du chinois 麻將).</p>
+  </description>
+  <description lang="gl">
+    <p>KMahjongg é un xogo de taboleiro divertido que se creou a partir do famoso xogo oriental Mahjong (do chinés «麻將»).</p>
+  </description>
+  <description lang="hu">
+    <p>A KMahjongg egy, a híres keleti Mahjong (kínaiul: 麻將) játék alapján készült digitális táblajáték.</p>
+  </description>
+  <description lang="id">
+    <p>KMahjongg adalah permainan papan yang menyenangkan yang diciptakan setelah permainan oriental Mahjong yang terkenal (dari China 麻將).</p>
+  </description>
+  <description lang="it">
+    <p>KMahjongg è un divertente gioco da tavolo basato sul famoso gioco orientale Mahjong (dal cinese 麻將).</p>
+  </description>
+  <description lang="ko">
+    <p>KMahjongg은 마작 게임을 구현한 보드 게임입니다.</p>
+  </description>
+  <description lang="nl">
+    <p>KMahjongg is een bordspel naar het voorbeeld van het bekende oosterse spel Mahjongg (van het Chinese 麻將)</p>
+  </description>
+  <description lang="nn">
+    <p>KMahjongg er eit morosamt brettspel basert på det gamle kinesiske spelet mahjong (frå kinsesik «麻將»).</p>
+  </description>
+  <description lang="pl">
+    <p>KMahjongg jest grą planszową stworzoną na wzór słynnej gry orientalnej Mahjong (z chińskiego 麻將).</p>
+  </description>
+  <description lang="pt">
+    <p>O KMahjongg é um divertido jogo de tabuleiro, criado com base no antigo jogo oriental Mahjong (do Chinês 麻將).</p>
+  </description>
+  <description lang="pt-BR">
+    <p>KMahjongg é um divertido jogo de tabuleiro criado com base no famoso jogo oriental que é o Mahjong (do chinês 麻將).</p>
+  </description>
+  <description lang="ru">
+    <p>KMahjongg — увлекательная настольная игра по мотивам знаменитой восточной игры маджонг (от китайского названия  麻將).</p>
+  </description>
+  <description lang="sk">
+    <p>KMahjongg je zábavná dosková hra vytvorená podľa známej orientálnej hry Mahjong (z čínštiny 麻將).</p>
+  </description>
+  <description lang="sl">
+    <p>KMahjongg je zabavna namizna igra, ki je bila ustvarjena po vzoru slavne orientalske igre imenovane Mahjong (po kitajsko 麻將).</p>
+  </description>
+  <description lang="sr">
+    <p>К‑маџонг је забавна игра на табли заснована на чувеној оријенталној игри маџонг (од кинеског 麻將).</p>
+  </description>
+  <description lang="sr-Latn">
+    <p>K‑madžong je zabavna igra na tabli zasnovana na čuvenoj orijentalnoj igri madžong (od kineskog 麻將).</p>
+  </description>
+  <description lang="sr-ijekavian">
+    <p>К‑маџонг је забавна игра на табли заснована на чувеној оријенталној игри маџонг (од кинеског 麻將).</p>
+  </description>
+  <description lang="sr-ijekavianlatin">
+    <p>K‑madžong je zabavna igra na tabli zasnovana na čuvenoj orijentalnoj igri madžong (od kineskog 麻將).</p>
+  </description>
+  <description lang="sv">
+    <p>Mahjongg är ett roligt brädspel som är skapat baserat på det berömda orientaliska spelet Mahjong (från kinesiskans 麻將).</p>
+  </description>
+  <description lang="tr">
+    <p>KMahjongg, Mahjong'un ünlü doğu oyunu (Çin'den 麻將) sonrasında oluşturulmuş eğlenceli bir masa oyunudur.</p>
+  </description>
+  <description lang="uk">
+    <p>KMahjongg — це захоплива гра на дошці, створена на основі відомої східної гри у маджонґ (китайською 麻將).</p>
+  </description>
+  <description lang="x-test">
+    <p>xxKMahjongg is a fun board game created after the famous oriental game of Mahjong (from Chinese 麻將).xx</p>
+  </description>
+  <description lang="zh-CN">
+    <p>KMahjongg 是一个来源于东方游戏“麻将”的有趣棋牌游戏。</p>
+  </description>
+  <description lang="zh-TW">
+    <p>KMahjongg 是中國麻將變化出來的一種遊戲。</p>
+  </description>
+  <url type="homepage">https://games.kde.org/games/kmahjongg</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kmahjongg</url>
+  <url type="help">https://docs.kde.org/?application=kmahjongg</url>
+  <url type="donation">https://www.kde.org/community/donations/?app=kmahjongg&amp;source=appdata</url>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Playing KMahjongg</caption>
+      <caption lang="ca">Jugant al KMahjongg</caption>
+      <caption lang="ca-valencia">Jugant a KMahjongg</caption>
+      <caption lang="cs">Hraní KMahjongg</caption>
+      <caption lang="de">KMahjongg spielen</caption>
+      <caption lang="el">Παίζω KMahjongg</caption>
+      <caption lang="en-GB">Playing KMahjongg</caption>
+      <caption lang="es">Jugando KMahjongg</caption>
+      <caption lang="et">KMahjonggi mängimine</caption>
+      <caption lang="eu">KMahjongg-ean jokatzea</caption>
+      <caption lang="fi">KMahjonggin pelaaminen</caption>
+      <caption lang="fr">Partie de KMahjongg en cours</caption>
+      <caption lang="gl">Xogando a KMahjongg</caption>
+      <caption lang="hu">Játék a KMahjonggal</caption>
+      <caption lang="id">Memainkan KMahjongg</caption>
+      <caption lang="it">Giocare con KMahjongg</caption>
+      <caption lang="ko">KMahjongg 플레이</caption>
+      <caption lang="nl">KMahjongg spelen</caption>
+      <caption lang="nn">Spelar KMahjongg</caption>
+      <caption lang="pl">Grane w KMahjongg</caption>
+      <caption lang="pt">A jogar ao KMahjongg</caption>
+      <caption lang="pt-BR">Jogando o KMahjongg</caption>
+      <caption lang="ro">Joc KMahjongg</caption>
+      <caption lang="ru">Игра в KMahjongg</caption>
+      <caption lang="sk">Hranie KMahjongg</caption>
+      <caption lang="sl">Igra KMahjongg</caption>
+      <caption lang="sv">Spela Mahjongg</caption>
+      <caption lang="tr">KMahjongg oynarken</caption>
+      <caption lang="uk">Гра KMahjongg</caption>
+      <caption lang="x-test">xxPlaying KMahjonggxx</caption>
+      <caption lang="zh-CN">正在进行麻将游戏</caption>
+      <caption lang="zh-TW">KMahjongg 遊玩畫面</caption>
+      <image>https://cdn.kde.org/screenshots/kmahjongg/kmahjongg.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kmahjongg</binary>
+  </provides>
+  <releases>
+    <release version="0.9.22043" date="2022-07-07" />
+    <release version="0.9.22042" date="2022-06-09" />
+    <release date="2022-05-12" version="0.9.22041" />
+    <release version="0.9.22040" date="2022-04-21" />
+  </releases>
+</component>

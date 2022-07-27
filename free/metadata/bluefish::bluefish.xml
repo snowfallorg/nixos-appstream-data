@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <description>
+    <p>Bluefish is a powerful editor targeted towards programmers and web developers, with many options to write websites, scripts and programming code. Bluefish supports many programming and markup languages and has many features, but is still a very fast and lightweight application.</p>
+    <p>A selection of the features:</p>
+    <ul>
+      <li>Well done syntax highlighting which for example supports languages inside languages (e.g. Javascript inside HTML inside PHP)</li>
+      <li>All kind of powerful editor features like auto indenting and auto completion for many functions and libraries in many programming languages</li>
+      <li>Project support</li>
+      <li>Support for remote files over ftp, sftp, webdav, etc</li>
+      <li>Powerful search and replace engine</li>
+      <li>Customizable integration of external programs such as lint, make, etc</li>
+      <li>Snippets plugin to automate often used code</li>
+      <li>Code-aware in-line spell checking</li>
+      <li>Zencoding or Emmet support</li>
+      <li>Bookmarks panel</li>
+    </ul>
+    <p>If you are an occasional coder who is in need for a simple to learn editor, or a heavy coder who dislikes heavy IDE's like eclipse or netbeans, Bluefish is your editor of choice!</p>
+  </description>
+  <description lang="ca">
+    <p>Bleufish és un potent editor dirigit a programadors i desenvolupadors web, amb moltes opcions per escriure llocs web, scripts i codi de programació. Bluefish admet molts llenguatges de programació i de marques i té moltes funcionalitats, tot i ser una aplicació molt ràpida i lleugera.</p>
+    <p>Una selecció de les característiques:</p>
+    <ul>
+      <li>Bon ressaltament de la sintaxi que per exemple admet llenguatges dins de llenguatges (per exemple Javascript dins d'HTML dins de PHP)</li>
+      <li>Tot tipus de potents funcionalitats d'edició com el sagnat automàtic i la compleció automàtica per a moltes funcions i llibreries de molts llenguatges de programació</li>
+      <li>Ajuda de projectes</li>
+      <li>Ajuda per a fitxers remots sobre ftp, sftp, webdav, etc</li>
+      <li>Potent motor de cerca i reemplaçament</li>
+      <li>Integració personalitzada de programes externs com lint, make, etc</li>
+      <li>Connector de fragments de codi per automatitzar el codi usat sovint</li>
+      <li>Comprovació d'ortografia en línia tenint en compte el codi</li>
+      <li>Ajuda per a Zencoding o Emmet</li>
+      <li>Panell de marcadors</li>
+    </ul>
+    <p>Si sou un programador ocasional que necessita un editor fàcil d'aprendre, o un programador avançat a qui no li agraden els IDEs pesats com eclipse o netbeans, Bluefish és el teu editor!</p>
+  </description>
+  <description lang="cs">
+    <p>Bluefish je mocný editor zaměřený na programátory a vývojáře webů s možností psaní webových stránek, skriptů i programování kódu. Podporuje řadu různých programovacích a značkovacích jazyků a má spoustu funkcí, ale přesto jde o rychlou a lehkou aplikaci.</p>
+    <p>Mezi vybrané funkce patří:</p>
+    <ul>
+      <li>Velmi dobré zvýrazňování syntaxe, které mimo jiné podporuje jazyky v jazycích (např. JavaScript uvnitř HTML uvnitř PHP).</li>
+      <li>Všechny běžné funkce textových editorů, jako je automatické odsazování a automatické dokončování pro spoustu funkcí a knihoven v mnoha programovacích jazycích</li>
+      <li>Podpora projektů</li>
+      <li>Podpora vzdálených souborů přes FTP, SFTP, WebDAV atd.</li>
+      <li>Mocný vyhledávací a nahrazovací nástroj</li>
+      <li>Přizpůsobitelná integrace externích programů, jako je lint, make apod.</li>
+      <li>Zásuvný modul Úryvky pro automatizaci často používaného kódu</li>
+      <li>Vestavěná podpora kontroly pravopisu beroucí ohled na kód</li>
+      <li>Podpora Zencoding a Emmet</li>
+      <li>Panel záložek</li>
+    </ul>
+    <p>Pokud jste jen příležitostný kodér, který potřebuje jednoduchý a snadno pochopitelný editor nebo naopak náročný kodér, který ale nemá rád těžká prostředí jako Eclipse nebo Netbeans, v obou případech je Bluefish právě pro vás.</p>
+  </description>
+  <description lang="da">
+    <p>Bluefish er et kraftfuldt redigeringsprogram for programmører og webudviklere. Det giver mange valgmuligheder når man skal skrive hjemmesider, scripts og programkode. Bluefish understøtter mange programmerings- og markeringssprog og har mange funktioner, men er alligevel et meget hurtigt letvægtsprogram.</p>
+    <p>Udvalgte muligheder:</p>
+    <ul>
+      <li>God syntaksmarkering, som bl.a. understøtter sprog i sprog (f.eks. javascript i HTML i PHP)</li>
+      <li>Mange kraftfulde redigeringsværktøjer som auto-indrykning og auto-fuldførelse for mange funktioner og biblioteker i mange programmeringssprog</li>
+      <li>Projektunderstøttelse</li>
+      <li>Understøttelse af ikke-lokale filer via ftp, sftp, webdav, etc</li>
+      <li>Kraftfuld søg-og-erstat-motor</li>
+      <li>Tilpasningsmulifheder for integrering af eksterne programmer som lint, make, osv</li>
+      <li>Plugin med kodestumper til automatisering af ofte brugt kode</li>
+      <li>Indbygget kode-bevidst stavekontrol</li>
+      <li>Zenkodning eller Emmet-støtte</li>
+      <li>Bogmærkepanel</li>
+    </ul>
+    <p>Hvis du kun koder en gang imellem og har brug for et redigeringsprogram, som er let at lære, eller hvis du koder jævnligt og ikke bryder dig om tunge brugerflader som eclipse eller netbeans, så er Bluefish lige noget for dig!</p>
+  </description>
+  <description lang="de">
+    <p>Bluefish ist ein mächtiger Editor für Programmierer und Webentwickler mit vielen Möglichkeiten zum Erstellen von Websites und Skripten und zur Programmierung. Bluefish unterstützt viele Programmier- und Auszeichnungssprachen und hat viele Funktionalitäten, ist aber dennoch sehr schnell und leichtgewichtig.</p>
+    <p>Eine Auswahl der Funktionalitäten:</p>
+    <ul>
+      <li>Eine ausgereifte Syntaxhervorhebung, die u. a. Sprachen innerhalb Sprachen unterstützt (z. B. Javascript innerhalb HTML innerhalb PHP)</li>
+      <li>Alle möglichen Funktionalitäten eines Editors wie automatische Einrückung und automatische Vervollständigung für viele Funktionen und Bibliotheken vieler Programmiersprachen</li>
+      <li>Unterstützung für _Projekte</li>
+      <li>Unterstützung für verschiedene Datenprotokolle wie FTP, SFTP, WebDAV usw</li>
+      <li>Ein mächtiges Suchen und Ersetzen</li>
+      <li>Anpassbare Integration externer Programme wie lint, make usw</li>
+      <li>Ein Snippets Plugin zum Automatisieren oft verwendeten Codes</li>
+      <li>Eine Rechtschreibprüfung, der Quellcode berücksichtigt</li>
+      <li>Unterstützung für Zencoding oder Emmet</li>
+      <li>Lesezeichen</li>
+    </ul>
+    <p>Für Gelegenheitsprogrammierer, die einen leicht zu erlernenden Editor benötigen, oder Vielprogrammierer, die schwergewichtige Entwicklungsumgebungen wie Eclipse oder Netbeans nicht mögen, ist Bluefish der Editor der Wahl!</p>
+  </description>
+  <description lang="es">
+    <p>Bluefish es un potente editor orientado a programadores y desarrolladores web, con muchas opciones para escribir sitios web, scripts y código de programación. Bluefish soporta varios lenguajes de programación y de marcado y tiene muchas características, sin dejar de de ser una aplicación rápida y ligera.</p>
+    <p>Una selección de características</p>
+    <ul>
+      <li>Resaltado de sintaxis que, por ejemplo, soporta lenguajes dentro de otros lenguajes (ej. Javascript dentro de HTML dentro de PHP)</li>
+      <li>Incluye todas las características de un editor de texto potente como el sangrado y el completado automáticos para muchas funciones y bibliotecas en varios lenguajes de programación.</li>
+      <li>Soporte del proyecto</li>
+      <li>Soporte para archivos remotos mediante ftp, sftp, webdav, etc</li>
+      <li>Búsqueda potente y motor de reemplazo</li>
+      <li>Integración personalizable de programas externos como lint, make, etc</li>
+      <li>Complemento de fragmentos para automatizar el código usado con frecuencia</li>
+      <li>Revisión ortográfica en línea sensible al código</li>
+      <li>soporte de Zencoding o Emmet</li>
+      <li>Panel de marcadores</li>
+    </ul>
+    <p>Si es un programador ocasional que necesita un editor sencillo de aprender, o un programador avanzado al que no le gustan los EID pesados como eclipse o netbeans, Bluefish es su elección.</p>
+  </description>
+  <description lang="fa">
+    <p> بلوفیش یک ویرایشگره قدرتمندی است برای برنامه نویسان و توسعه دهندگانه وب سایتها , با گزینه های بسیاری  برای طراهی وب سایت , اسکریبها و کد های برنامه نویسی  است. بلوفیش پشتیبانی و کمک میکند از برای بسیاری از زبانهای برنامه نویسی و نشانه گذاری و دارای خصوصیاتهای بسیاری است. ولی هنوز یک نرم افزار بسیار اسان, سبک و سریع است.‬ </p>
+    <p>یک  چند اتنتخواباتی از ویزگی ها:  </p>
+    <ul>
+      <li>به خوبی انجام و نحو سریع و برجسته که به عنوان مثال پشتیبانی از زبان های داخل زبان (به عنوان مثال:  جاوا اسکریپت در داخل HTML در داخل پی اچ پی)</li>
+      <li>همه نوع از ویرایشگر قدرتمند ویژگی های مانند تورفتگی متن خودرو و تکمیل خودکار برای بسیاری از توابع و کتابخانه ها در بسیاری از زبان های برنامه نویسی</li>
+      <li> پشتیبانی کن ار پروژهها‬</li>
+      <li>پشتیبانی از فایل های FTP، SFTP، WebDAV و غیره از طریق راه دور هم امکان دارد.‬</li>
+      <li>موتور جستجو و جایگزین قدرتمند.</li>
+      <li>قابل تنظیم برنامه ریزی برنامه های خارجی مانند لینت , میک و غیره‬</li>
+      <li>قطعه و تکهه های ؛ پلاگین ؛ که به طور خودکار اغلب مواقع استفاده می شود</li>
+      <li> برسی و چک کردن دیکته برای ؛ کود ور؛  و ؛این لاین؛.</li>
+      <li>؛ زن کودینگ ؛ و یا ؛آمت؛ هم کرد داشته باشد و پشتیبانی کند </li>
+      <li>صفحه و تصویره ؛نشانیها؛</li>
+    </ul>
+    <p>اگر شما یک برنامه نویسی و کورد نویسی هستید که گاهی اوقاط احتیاج دارید که یک ویراستار ساده ایی را یاد بگیرید, ویا یک کودر و یا برنامه نویسه حرفه ایی باشید که از استفاده زیاد  IDE ها ماننده اکلیپس و یا نت بینز , را دوست نداشته باشید انوقت ؛بلوفیش؛ انتخواب ویراستار ایده ال شما است    </p>
+  </description>
+  <description lang="fr">
+    <p>Bluefish est un éditeur puissant destiné aux programmeurs et développeurs web,avec de nombreuses options pour écrire des pages web, des scripts et du code source. Bluefish supporte de nombreux langages de programmation et de balise et possède de nombreuses fonctionnalités, mais il reste rapide et léger.</p>
+    <p>Une sélection des fonctionnalités :</p>
+    <ul>
+      <li>Coloration syntaxique avancée permettant entre autres le support de langages inclus dans d'autres langages (par exemple : Javascript dans HTML dans PHP)</li>
+      <li>Des fonctions d'édition puissantes telles l'indentation automatique et l'auto-complétion disponibles pour de nombreuses fonctions et bibliothèques dans de nombreux langages de programmation.</li>
+      <li>Gestion des projets</li>
+      <li>Support des fichiers distants via FTP, SFTP, WebDAV, etc.</li>
+      <li>Puissant moteur de recherche et remplacement</li>
+      <li>Intégration personnnlisable des programmes externes tels que lint, make, etc.</li>
+      <li>Plugin de snippets pour automatiser le code souvent utilisé</li>
+      <li>Vérification orthographique en ligne avec discrimination du code</li>
+      <li>Support de Zencoding ou Emmet</li>
+      <li>Panneau de marque-pages</li>
+    </ul>
+    <p>Que vous soyez un codeur occasionnel qui recherche un éditeur simple à maîtriser,ou un codeur frénétique peu attiré par les IDE lourds tels eclipse ou netbeans, Bluefish est fait pour vous !</p>
+  </description>
+  <description lang="gl">
+    <p>Bluefish é un poderoso editor destinado a programadores e desenvolvedores web, con moitas ferramentas para escribir sitios web, scripts e código de programación. Bluefish soporta moitas linguaxes de programación e linguaxes de marcado e ten moitas ferramentas, pero aínda así é un aplicativo lixeiro e rápido.</p>
+    <p>Unha selecións das características:</p>
+    <ul>
+      <li>Resaltado correcto da sintaxe que por exemplo soporta linguaxes dentro de linguaxes (ex. Javascript dentro de HTML dentro de PHP)</li>
+      <li>Todas as características dos editores potentes como autoindentación e autocompletado para moitas funcións e bibliotecas en moitas linguaxes de programación</li>
+      <li>Axuda do proxecto</li>
+      <li>Soporta ficheiros remotos sobre ftp, sftp, webdav, etc</li>
+      <li>Poderoso motor de búsqueda e remplazo</li>
+      <li>Integración personalizada con programas externos como lint, make, etc</li>
+      <li>Plugin Anacos para automatizar código utilizado con frecuencia</li>
+      <li>Comprobación da ortografía en liña dependente do tipo de código</li>
+      <li>Soporte de Zencoding ou Emmet</li>
+      <li>Panel de marcadores</li>
+    </ul>
+    <p>Se vostede é un programador ocasional que precisa de un editor doado de utilizar, ou un programador habitual que fuxe de IDEs enormes como eclipse ou netbeans, Bluefish é a súa elección!</p>
+  </description>
+  <description lang="hu">
+    <p>A Bluefish egy programozóknak és webfejlesztőknek szánt hatékony szerkesztő számos lehetőséggel weboldalak, parancsfájlok és programkódok írásához. A Bluefish számos programozási és leírónyelvet támogat, valamint sok szolgáltatással rendelkezik, de még így is nagyon gyors és könnyűsúlyú alkalmazás.</p>
+    <p>A szolgáltatások választéka:</p>
+    <ul>
+      <li>Nagyszerű szintaxiskiemelés, amely támogatja például a nyelveken belüli nyelveket (például a PHP-ba ágyazott HTML-be ágyazott JavaScript)</li>
+      <li>Hatékony szerkesztő szolgáltatások minden fajtája, mint például automatikus behúzás és automatikus kiegészítés számos függvényhez és könyvtárhoz több programozási nyelven</li>
+      <li>Projekt támogatás</li>
+      <li>Távoli fájlok támogatása FTP, SFTP, Webdav, stb. protokollokon keresztül</li>
+      <li>Hatékony keresés és csere motor</li>
+      <li>Külső programok személyre szabható integrációja, mint például lint, make, stb.</li>
+      <li>Töredékek bővítmény a gyakran használt kódok automatizálásához</li>
+      <li>Kódfelismerő sorközi helyesírás-ellenőrzés</li>
+      <li>Zencoding vagy Emmet támogatás</li>
+      <li>Könyvjelzők panel</li>
+    </ul>
+    <p>Ha Ön olyan alkalmi programozó, aki rászorul egy egyszerűen megtanulható szerkesztőre, vagy tapasztalt programozó, aki nem szereti a nagy IDE programokat, mint például Eclipse vagy Netbeans, akkor a Bluefish a megfelelő választás Önnek!</p>
+  </description>
+  <description lang="it">
+    <p>Bluefish è un potente editor rivolto a programmatori e sviluppatori web, con molte opzioni per scrivere siti web, script e codice di programmazione. Bluefish supporta molti linguaggi di programmazione e di markup e ha molte caratteristiche, ma è comunque un programma molto veloce e leggero.</p>
+    <p>Una selezione delle caratteristiche:</p>
+    <ul>
+      <li>Evidenziazione della sintassi ben fatta che, per esempio, supporta linquaggi all'interno di altri linquaggi (ad esempio Javascript all'interno di HTML all'interno di PHP)</li>
+      <li>Tutte le caratteristiche di un potente editor come l'indentazione automatica e il completamento automatico per molte funzioni e librerie in molti linguaggi di programmazione</li>
+      <li>Sostegno al progetto</li>
+      <li>Supporto per file remoti tramite ftp, sftp, webdav, ecc</li>
+      <li>Potente motore per ricerca e sostituzione</li>
+      <li>Integrazione personalizzabile di programmi esterni come lint, make, ecc</li>
+      <li>Plugin 'Ritagli' per automatizzare l'inserimento di codice</li>
+      <li>Controllo ortografico in linea consapevole del codice</li>
+      <li>Supporto Zencoding o Emmet</li>
+      <li>Pannello segnalibri</li>
+    </ul>
+    <p>Se sei un programmatore occasionale che ha bisogno di un editor semplice da imparare, o un programmatore pesante che non ama IDE pesanti come eclipse o netbeans, Bluefish è il tuo editor!</p>
+  </description>
+  <description lang="ja">
+    <p>Bluefish は強力なエディタでプログラマ、Web開発者を対象としています。ウェブサイト、スクリプト、プログラムコードを書くために必要な多くのオプションを持っています。Bluefish は多くのプログラミング言語、マークアップ言語をサポートし、これらの言語のための数多くの機能を持ちながら、速く、また軽く動作するアプリケーションです。</p>
+    <p>機能の選択:</p>
+    <ul>
+      <li>よくできた文法ハイライト。言語内に別の言語がある場合も含めて機能します。（例 PHP の中のHTMLの中のJavaScript）</li>
+      <li>強力なあらゆる種類のエディタとしての機能: 多くの場面でのオートインデントおよび自動補間、プログラム言語についての参考文書</li>
+      <li>プロジェクト支援機能</li>
+      <li>リモートファイルサポート: FTP, SFTP, webdav など</li>
+      <li>強力な検索/置換エンジン</li>
+      <li>外部プログラム(lint, make等)との連携をカスタマイズ可能</li>
+      <li>スニペットプラグイン: 繰り返し現れるコードの操作に役立ちます</li>
+      <li>コードを識別した上での行内スペルチェック</li>
+      <li>Zencoding あるいは Emmet のサポート</li>
+      <li>ブックマーク パネル</li>
+    </ul>
+    <p>あなたがたまにコーディングをする人で簡単に操作を学ぶことができるエディタを必要とするなら、あるいは常にコーディングをしている人であって、Eclipse や netbeans のような重いIDEを嫌っているなら、Bluefish こそがあなたの選択肢です！</p>
+  </description>
+  <description lang="nb">
+    <p>Bluefish er en kraftig editor for programmerere og webutviklere, beregnet på programmering, skripting og webutvikling. Bluefish støtter mange programmerings- og markupspråk, og har mange funksjoner for tekstredigering, men er likevel lynrask og lite ressurskrevende.</p>
+    <p>Noen funksjoner:</p>
+    <ul>
+      <li>Syntaksmarkering som støtter språk i språk (f.eks Javascript i HTML i PHP)</li>
+      <li>Kraftige tekstediteringsfunksjoner som automatisk innrykk og autofullfør for mange funksjoner og bibliotek i mange programeringsspråk</li>
+      <li>Prosjektstøtte</li>
+      <li>Støtte for åpning av filer over ftp, sftp, webdav, etc</li>
+      <li>Kraftig funksjonalitet for søk og erstatt</li>
+      <li>Kjøring av eksterne programmer som lint, make, etc</li>
+      <li>Utklippsplugin for å automatisere bruk av ofte brukt kode</li>
+      <li>Kodesensitiv in-line stavekontroll</li>
+      <li>Støtte for Zencoding og Emmet</li>
+      <li>Bokmerkepanel</li>
+    </ul>
+    <p>Enten om du trenger en editor som er enkel å lære, eller bare misliker tunge utviklingsmiljø som Eclipse eller Netbeans, så er Bluefish et glimrende valg.</p>
+  </description>
+  <description lang="nl">
+    <p>Bluefish is een krachtige editor gericht op programmeurs en web-ontwikkelaars, met veel extra's om websites, scripts en code te schrijven. Bluefish ondersteunt vele programmeer- en opmaaktalen, heeft veel mogelijkheden, en is tegelijkertijd een snelle en lichtgewicht applicatie.</p>
+    <p>Een selectie van de mogelijkheden:</p>
+    <ul>
+      <li>Goede syntax-highlighting die binnen in een taal een andere taal ondersteunt (bijv. JavaScript in HTML in PHP)</li>
+      <li>Allerlei krachtige editoropties zoals automatisch inspringen en automatisch aanvullen van namen van vele functies en uit bibliotheken van veel programmeertalen</li>
+      <li>Projectondersteuning</li>
+      <li>Ondersteuning voor bestanden op servers, via ftp, sftp, webdav, et cetera</li>
+      <li>Krachtige zoek- en vervangmogelijkheden</li>
+      <li>Configureerbare integratie met externe programmatuur zoals lint, make, etc.</li>
+      <li>Een "Snippets" plugin om veelgebruikte code te automatiseren</li>
+      <li>Spellingcontrole die rekening houdt met programmeercode</li>
+      <li>Zencoding- of Emmet-ondersteuning</li>
+      <li>Bladwĳzers</li>
+    </ul>
+    <p>Als je af en toe programmeert, en je zoekt een makkelijk te gebruiken editor, of je bent een professionele programmeur die niet van zwaar opgetuigde IDE's als Eclipse of Netbeans houdt, dan is Bluefish de editor voor jou!</p>
+  </description>
+  <description lang="nn">
+    <p>Bluefish er eit kraftig skriveprogram retta mot programmerarar og nettutviklarar. Det har mange val for å skriva nettstadar, skript og programkode.  Bluefish støttar mange programmerings- og markeringsspråk. Det har mange eigenskapar, men er likevel eit særs raskt og lite program.</p>
+    <p>Eit utval av eigenskapane:</p>
+    <ul>
+      <li>Bra utført syntaksframheving som til dømes støttar språk inne i språk (slik som Javascript i HTML i PHP)</li>
+      <li>Alle slag kraftige skriveprogramseigenskapar som automatiske innrykk og fullføringar for mange funksjonar og bibliotek i mange programmeringsspråk</li>
+      <li>Prosjektstøtte</li>
+      <li>Støttar fjernfiltilgang over ftp,sftp, webdav, mv.</li>
+      <li>Kraftig motor for søk og erstatt</li>
+      <li>Tilpassa integrering av eksterne program som lint, make, o.l.</li>
+      <li>Tilleggsprogram for kodesnuttar for å automatisera ofte nytta kode</li>
+      <li>Integrert kodeorientert stavekontroll</li>
+      <li>Emmet-støtte (zen-koding)</li>
+      <li>Bokmerkepanel</li>
+    </ul>
+    <p>Bluefish tilfredsstiller krava både til hobbyprogrammeraren som treng eit skriveprogram som er lett å læra og til den profesjonelle utviklaren som misliker tunge integrerte utviklingsmiljø som Eclipse eller Netbeans. </p>
+  </description>
+  <description lang="pl">
+    <p>Bluefish to potężny edytor ukierunkowany dla programistów i twórców stron internetowych. Posiada wiele opcji do tworzenia stron internetowych, skryptów i kodów programów. Bluefish obsługuje wiele języków programowania i znaczników oraz posiada mnóstwo funkcji, zachowując przy tym szybkość, lekkość i stabilność.</p>
+    <p>Wybrane funkcje:</p>
+    <ul>
+      <li>Zaawansowana obsługa podświetlania składni z funkcją wyróżniania kodu w kodzie (np. rozróżnianie kodu JavaScript wewnątrz HTML w PHP)</li>
+      <li>Dużo użytecznych funkcji, takich jak automatyczne wcięcia oraz zakończenia wielu funkcji i bibliotek. Bluefish obsługuje naprawdę wiele języków programowania.</li>
+      <li>Wsparcie projektu</li>
+      <li>Obsługa zdalnych plików poprzez ftp, sftp, webdav itp.</li>
+      <li>Potężny silnik wyszukiwania i zamiany</li>
+      <li>Konfigurowalna integracja z zewnętrznymi programami takimi jak lint, make itp.</li>
+      <li>Wtyczka Snipets (Fragmenty) do automatyzacji często używanego kodu</li>
+      <li>Świadome sprawdzanie pisowni wg linii kodu.</li>
+      <li>Wsparcie dla ZenCoding oraz Emmet</li>
+      <li>Panel zakładek</li>
+    </ul>
+    <p>Jeżeli jesteś osobą, która rzadko programuje i potrzebuje prostego edytora lub posiadasz dużą wiedzę i doświadczenie, ale nie przypadły Ci do gustu takie środowiska jak Eclipse czy NetBeans, Bluefish jest właśnie dla Ciebie!</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Bluefish é um poderoso editor direcionado a programadores e web developers, com muitas opções para escrever websites, scripts e códigos. Bluefish suporta muitas linguagens de programação e markup e têm muitos recursos, mas ainda assim é um aplicativo bastante rápido e leve.</p>
+    <p>Uma seleção de recursos:</p>
+    <ul>
+      <li>Refinado destaque de sintaxe que, por exemplo, suporta linguagens dentro de linguagens (e.g. Javascript dentro de HTML dentro de PHP)</li>
+      <li>Todos os tipos de poderosos recursos editoriais como recuo automático e auto completar para muitas funções e bibliotecas em muitas linguagens de programação</li>
+      <li>Suporte do projeto</li>
+      <li>Suporta arquivos remotos por ftp, sftp, webdav, etc</li>
+      <li>Poderoso sistema de busca e substituição</li>
+      <li>Integração ajustável de programas externos como lint, make, etc</li>
+      <li>Plugin Snippets para automatizar código usado com frequência</li>
+      <li>Checagem ortográfica em linha sensível a código</li>
+      <li>Suporte Zencoding ou Emmet</li>
+      <li>Painel Bookmarks</li>
+    </ul>
+    <p>Se você é um programador casual que precisa de um editor fácil de aprender, ou umprogramador avançado que não gosta de IDE's pesados como eclipse ou netbeans, Bluefish é o editor correto para você!</p>
+  </description>
+  <description lang="ru">
+    <p>Bluefish — мощный текстовый редактор, предназначенный для программистов и веб-разработчиков. Он включает в себя набор инструментов для создания веб-сайтов, сценариев и программного кода. Bluefish поддерживает множество языков программирования и разметки, многофункционален, но при этом работает быстро и нетребователен к ресурсам.</p>
+    <p>Примеры инструментов:</p>
+    <ul>
+      <li>Аккуратная подсветка синтаксиса, позволяющая в текст на одном языке вставлять фрагменты на других языках (например, Javascript внутри HTML в программе на PHP)</li>
+      <li>Всевозможные инструменты профессионального редактирования, например автоотступ или автодополнение для различных функций и библиотек многих языков</li>
+      <li>Работа с проектами</li>
+      <li>Работа с удалёнными файлами по ftp, sftp, webdav и т. п.</li>
+      <li>Мощный механизм поиска с заменой</li>
+      <li>Настройка взаимодействия с внешними программами (lint, make и т. п.)</li>
+      <li>Использование сниппетов для часто используемых участков кода</li>
+      <li>Контекстная проверка синтаксиса «на лету»</li>
+      <li>Поддержка Zencoding и Emmet</li>
+      <li>Работа с закладками</li>
+    </ul>
+    <p>Если вы программируете от случая к случаю и вам нужет простой в изучении редактор, или, наоборот, программируете всё время, но устали от тяжёлых сред программирования наподобие eclipse или netbeans, вам стоит поинтересоваться Bluefish!</p>
+  </description>
+  <description lang="uk">
+    <p>Bluefish — потужний редактор для програмістів та розробників сторінок інтернету. У ньому реалізовано багато можливостей для написання сайтів, скриптів та програмного коду. У Bluefish передбачено підтримку багатьох мов програмування та розмітки, а також багато можливостей з редагування, але програма все одно залишилася дуже швидкою і невибагливою до ресурсів.</p>
+    <p>Ось лише деякі з можливостей:</p>
+    <ul>
+      <li>Чудові можливості з підсвічування синтаксичних конструкцій, зокрема підтримка вбудованого коду різними мовами (наприклад, коду Javascript у коді HTML у коді PHP).</li>
+      <li>Усі можливості потужного редактора, зокрема автоматичне встановлення відступів та автоматичне доповнення коду для багатьох функцій та бібліотек багатьма мовами програмування.</li>
+      <li>Підтримка роботи з проєктами.</li>
+      <li>Підтримка роботи з файлами віддаленого зберігання, зокрема протоколів ftp, sftp, webdav тощо.</li>
+      <li>Потужний рушій для пошуку і заміни.</li>
+      <li>Придатна до налаштовування інтеграція із зовнішніми програмами, зокрема lint, make тощо.</li>
+      <li>Додаток роботи з фрагментами, який призначено для автоматизації вставлення поширених фрагментів коду.</li>
+      <li>Вбудований інструмент перевірки правопису, який враховує особливості синтаксису мови програмування.</li>
+      <li>Підтримка дзен-програмування або Emmet.</li>
+      <li>Панель закладок.</li>
+    </ul>
+    <p>Якщо час від часу ви займаєтеся програмуванням і шукаєте простий у вивченні редактор або ви є професійним програмістом, якому не подобаються важкі комплексні середовища розробки (IDE), зокрема eclipse або netbeans, Bluefish — це саме той редактор, який вам потрібен!</p>
+  </description>
+  <description lang="zh_CN">
+    <p>Bluefish是一个强大的面向程序员和网页制作者的编辑器，为撰写网站、脚本和程序编码提供更多的选择。Bluefish支持非常多的编程及标记语言，虽然特性较多，但仍保持着快速和轻量。</p>
+    <p>部分特性：</p>
+    <ul>
+      <li>出色的语法高亮提示，提供了一种语言嵌入在另一种语言中的语法高亮功能（例如：Javascript在HTML中，在PHP中的语法高亮）。</li>
+      <li>各式各样的强力编辑功能，可为多种语言中的函数和库提供自动缩进、自动完成的功能。</li>
+      <li>支持项目</li>
+      <li>支持ftp、sftp、webdav等远程文件调用功能</li>
+      <li>强力的搜索和替换引擎</li>
+      <li>可与lint、make等外部程序定制整合</li>
+      <li>片段代码插件使经常使用的代码自动化</li>
+      <li>关注代码的联机语法检查</li>
+      <li>支持Zencoding 或者叫 Emmet</li>
+      <li>书签面板</li>
+    </ul>
+    <p>无论你是仅想使用简单编辑器的程序员，还是不喜欢臃肿的eclipse或netbeans的编程老手，Bluefish都是你不错的选择。</p>
+  </description>
+  <pkgname>bluefish</pkgname>
+  <icon type="cached" width="64" height="64">bluefish.png</icon>
+  <icon type="cached" width="128" height="128">bluefish.png</icon>
+  <id type="desktop">bluefish.desktop</id>
+  <name>Bluefish</name>
+  <summary>Text editor with many web and software development extras</summary>
+  <url type="homepage">http://bluefish.openoffice.nl/</url>
+  <metadata_licence>CC0-1.0</metadata_licence>
+  <launchable type="desktop-id">bluefish.desktop</launchable>
+  <categories>
+    <category>Development</category>
+    <category>Webdevelopment</category>
+</categories>
+  <screenshots>
+    <screenshot type="default">
+      <image type="source">http://bluefish.openoffice.nl/images/bluefish-appdata-screenshot.png</image>
+      <caption>The main window showing the application</caption>
+    </screenshot>
+  </screenshots>
+  <updatecontact>olivier(at)bluefish.openoffice.nl</updatecontact>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+  </kudos>
+</component>

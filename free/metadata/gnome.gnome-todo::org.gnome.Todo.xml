@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>gnome.gnome-todo</pkgname>
+  <launchable type="desktop-id">org.gnome.Todo.desktop</launchable>
+  <icon type="cached" height="64" width="64">org.gnome.Todo.png</icon>
+  <icon height="128" type="cached" width="128">org.gnome.Todo.png</icon>
+  <id>org.gnome.Todo</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>To Do</name>
+  <name lang="zh_TW">待辦事項</name>
+  <name lang="zh_CN">待办事项</name>
+  <name lang="uk">Треба зробити</name>
+  <name lang="vi">Việc cần làm</name>
+  <name lang="tr">Yapılacaklar</name>
+  <name lang="sv">Uppgifter</name>
+  <name lang="sr@latin">Rokovnik</name>
+  <name lang="sr">Роковник</name>
+  <name lang="sl">Naloge</name>
+  <name lang="sk">Úlohy</name>
+  <name lang="ru">To Do</name>
+  <name lang="ro">To Do</name>
+  <name lang="pt_BR">Tarefas</name>
+  <name lang="pt">A fazer</name>
+  <name lang="pl">Zadania</name>
+  <name lang="pa">ਟੂ ਡੂ</name>
+  <name lang="oc">To Do</name>
+  <name lang="nl">Taken</name>
+  <name lang="ne">गर्नुपर्ने</name>
+  <name lang="nb">Oppgaver</name>
+  <name lang="ms">To Do</name>
+  <name lang="ml">ചെയ്യാനുള്ളവ</name>
+  <name lang="mjw">Klem ji asai</name>
+  <name lang="lv">Darāmie darbi</name>
+  <name lang="lt">Darbai</name>
+  <name lang="ko">일정 관리</name>
+  <name lang="kk">To Do</name>
+  <name lang="ja">To Do</name>
+  <name lang="it">To Do</name>
+  <name lang="is">Verkefnastýring</name>
+  <name lang="id">To Do</name>
+  <name lang="hu">Tennivalók</name>
+  <name lang="hr">Popis zadataka</name>
+  <name lang="he">מנהל משימות</name>
+  <name lang="gl">Tarefas</name>
+  <name lang="fur">Di fâ</name>
+  <name lang="fr">To Do</name>
+  <name lang="fi">Tehtävät</name>
+  <name lang="fa">فعالیت‌ها</name>
+  <name lang="eu">Egitekoak</name>
+  <name lang="et">Ülesanded</name>
+  <name lang="es">Tareas pendientes</name>
+  <name lang="eo">Taskoj</name>
+  <name lang="en_GB">To Do</name>
+  <name lang="el">Εργασίες</name>
+  <name lang="de">Aufgaben</name>
+  <name lang="da">Gøremål</name>
+  <name lang="cs">Úkoly</name>
+  <name lang="ckb">ئەرکەکان</name>
+  <name lang="ca@valencia">Per fer</name>
+  <name lang="ca">Per a fer</name>
+  <name lang="bg">Задачи</name>
+  <name lang="be">To Do</name>
+  <name lang="ar">المهام</name>
+  <name lang="af">Beplanner</name>
+  <summary>Task manager for GNOME</summary>
+  <summary lang="zh_TW">GNOME 待辦事項管理員</summary>
+  <summary lang="zh_CN">GNOME 待办事项管理器</summary>
+  <summary lang="uk">Менеджер завдань для GNOME</summary>
+  <summary lang="vi">Ứng dụng quản lý các nhiệm vụ dành cho môi trường GNOME</summary>
+  <summary lang="tr">GNOME için görev yöneticisi</summary>
+  <summary lang="sv">Uppgiftshanterare för GNOME</summary>
+  <summary lang="sr@latin">Upravnik zadataka za Gnom</summary>
+  <summary lang="sr">Управник задатака за Гном</summary>
+  <summary lang="sl">Upravljalnik nalog za GNOME</summary>
+  <summary lang="sk">Správca úloh prostredia GNOME</summary>
+  <summary lang="ru">Менеджер задач для GNOME</summary>
+  <summary lang="ro">Administrator de sarcini pentru GNOME</summary>
+  <summary lang="pt_BR">Gerenciador de tarefas para o GNOME</summary>
+  <summary lang="pt">Gestor de tarefas para o GNOME</summary>
+  <summary lang="pl">Menedżer zadań dla środowiska GNOME</summary>
+  <summary lang="pa">ਗਨੋਮ ਲਈ ਕੰਮ ਮੈਨੇਜਰ</summary>
+  <summary lang="oc">Lo gestionari de prètzfaits de GNOME</summary>
+  <summary lang="nl">Taakbeheer voor Gnome</summary>
+  <summary lang="ne">जिनोमको क‍ार्य प्रबन्धक</summary>
+  <summary lang="nb">Oppgavestyring for GNOME</summary>
+  <summary lang="ms">Pengurus tugas untuk GNOME</summary>
+  <summary lang="ml">ഗ്നോമിനുള്ള ടാസ്ക് മാനേജർ</summary>
+  <summary lang="mjw">GNOME phan Task manager</summary>
+  <summary lang="lv">GNOME uzdevumu pārvaldnieks</summary>
+  <summary lang="lt">Užduočių programa GNOME aplinkai</summary>
+  <summary lang="ko">그놈 일정 관리 프로그램</summary>
+  <summary lang="kk">GNOME үшін тапсырмалар басқарушысы</summary>
+  <summary lang="ja">GNOME 用のタスクマネージャー</summary>
+  <summary lang="it">Gestione delle attività per GNOME</summary>
+  <summary lang="is">Verkefnastjóri fyrir GNOME</summary>
+  <summary lang="id">Manajer tugas untuk GNOME</summary>
+  <summary lang="hu">Tennivaló-kezelő a GNOME-hoz</summary>
+  <summary lang="hr">Upravitelj zadataka za GNOME</summary>
+  <summary lang="he">מנהל משימות עבור GNOME</summary>
+  <summary lang="gl">Xestor de tarefas para GNOME</summary>
+  <summary lang="fur">Gjestôr des ativitâts par GNOME</summary>
+  <summary lang="fr">Gestionnaire de tâches de GNOME</summary>
+  <summary lang="fi">Tehtävien hallinta Gnomelle</summary>
+  <summary lang="fa">مدیر وظیفه برای گنوم</summary>
+  <summary lang="eu">GNOMEren egitekoen kudeatzailea</summary>
+  <summary lang="et">Ülesandehaldur GNOME’ile</summary>
+  <summary lang="es">Gestor de tareas para GNOME</summary>
+  <summary lang="eo">Taskmastrumilo por GNOME</summary>
+  <summary lang="en_GB">Task manager for GNOME</summary>
+  <summary lang="el">Διαχειριστής εργασιών για το GNOME</summary>
+  <summary lang="de">Aufgabenverwaltung für GNOME</summary>
+  <summary lang="da">Opgavehåndtering til GNOME</summary>
+  <summary lang="cs">Správa úkolů pro GNOME</summary>
+  <summary lang="ckb">ڕێکخەری کار بۆ گنۆم</summary>
+  <summary lang="ca@valencia">Un gestor de tasques per al GNOME</summary>
+  <summary lang="ca">Un gestor de tasques per al GNOME</summary>
+  <summary lang="bg">Управление на задачи в GNOME</summary>
+  <summary lang="be">Кіраўнік задачамі для GNOME</summary>
+  <summary lang="ar">مدير مهام لجنوم</summary>
+  <summary lang="af">Beplanner vir GNOME</summary>
+  <description>
+    <p>
+      GNOME To Do is a task management application designed to integrate with GNOME. Save and order your todos.
+      Manage multiple todo lists. Keep your todos on your computer or sync them with cloud providers.
+      Customize your experience with plugins.
+    </p>
+  </description>
+  <description lang="af">
+    <p>GNOME Beplanner is 'n taakbestuur toepassing ontwerp om te integreer met GNOME. Stoor en orden jou lyste. Bestuur verskeie lyste. Dit is uitbreibaar met behulp van inproppe en ondersteun verskeie 3'de party dienste.</p>
+  </description>
+  <description lang="be">
+    <p>GNOME To Do гэта дастасаванне кіравання задачамі, створанае для інтэграцыі з GNOME. Захоўвайце і ўпарадкоўвайце свае задачы. Трымайце іх на сваім камп'ютары ці сінхранізуйце з сеціўнымі правайдарамі. Прыстасоўвайце дастасаванне пад сябе з дапамогай плугінаў.</p>
+  </description>
+  <description lang="bg">
+    <p>Задачи на GNOME е програма за управление на задачи, която се интегрира много добре с графичната среда. Може да запазвате задачи, да ги подреждате в множество списъци, които се пазят локално и/или се синхронизират с услуги по Интернет. Може да ползвате и допълнителни разширения.</p>
+  </description>
+  <description lang="ca">
+    <p>El GNOME Per a fer és una aplicació de gestió de tasques dissenyada per a integrar-se amb el GNOME. Deseu i ordeneu les vostres tasques. Gestioneu múltiples llistes de tasques pendents. Manteniu les vostres tasques pendents a l'ordinador o sincronitzeu-les amb els proveïdors al núvol. Personalitzeu l'experiència amb els connectors.</p>
+  </description>
+  <description lang="cs">
+    <p>Úkoly GNOME je aplikace pro správu úkolů navržená tak, aby zapadla do GNOME. Zaznamenávejte si své úkoly a udržujte si v ních přehled. Roztřiďte si je do více seznamů. Uchovávejte si je na svém počítači nebo synchronizované s cloudovými službami. Využijte zásuvné moduly k přizpůsobení svým potřebám.</p>
+  </description>
+  <description lang="da">
+    <p>GNOME Gøremål er et program til opgavehåndtering, designet til integrering med GNOME. Gem og bestemt rækkefølgen på dine gøremål. Håndtér flere gøremålslister. Hav dine gøremål på din computer eller synkronisér dem med udbydere i skyen. Tilpas din oplevelse med udvidelsesmoduler.</p>
+  </description>
+  <description lang="de">
+    <p>GNOME Aufgaben ist eine einfache Aufgabenverwaltungsanwendung mit guter Integration in GNOME. Speichern und verwalten Sie damit Ihre Aufgaben, verwalten Sie mehrere Aufgabenlisten und halten Sie die Aufgaben auf Ihrem Rechner synchron mit Cloud-Dienstanbietern. Außerdem ist diese Anwendung erweiterbar.</p>
+  </description>
+  <description lang="el">
+    <p>Οι «Εργασίες GNOME» μια απλή εφαρμογή διαχείρισης εργασιών σχεδιασμένη ώστε να ενσωματώνεται στο GNOME. Αποθηκεύστε και τοποθετήστε στη σειρά τις εργασίες σας. Διαχειριστείτε πολλαπλές λίστες εργασιών. Διατηρήστε τις εργασίες σας στον υπολογιστή σας ή συγχρονίστε τις με τους προμηθευτές υπηρεσιών cloud. Προσαρμόστε την εμπειρία σας με τα πρόσθετα.</p>
+  </description>
+  <description lang="en_GB">
+    <p>GNOME To Do is a task management application designed to integrate with GNOME. Save and order your todos. Manage multiple todo lists. Keep your todos on your computer or sync them with cloud providers. Customise your experience with plugins.</p>
+  </description>
+  <description lang="eo">
+    <p>GNOME Taskoj estas taskmastrumilo kiu integras en GNOME. Konservu kaj ordigu viajn taskojn. Tenu plurajn taskolistojn. Tenu viajn taskojn sur via komputilo aŭ sinkronigu ilin per nubaj servoj. Tajloru vian sperton per kromprogramoj.</p>
+  </description>
+  <description lang="es">
+    <p>Tareas pendientes de GNOME es un sencillo gestor de tareas diseñado para integrarse con GNOME. Guarde y ordene sus tareas pendientes. Gestione varias listas. Guarde sus tareas en su equipo o sincronícelas con proveedores en la nube. Personalice su experiencia con complementos.</p>
+  </description>
+  <description lang="et">
+    <p>GNOME Ülesanded on rakendus täitmist vajavate ülesannete haldamiseks, mis ühildub sujuvalt GNOME’iga. Sellega saad salvestada ja korrastada oma ülesandeid ning hallata mitut ülesandeloendit korraga. Oma ülesandeid võid hoida kohalikus arvutis või sünkroniseerida neid pilveteenuse osutajatega. Samuti on rakendus laiendatav pluginate abil.</p>
+  </description>
+  <description lang="eu">
+    <p>GNOME Egitekoak zereginak kudeatzeko aplikazio bat da, GNOMErekin integratuta erabiltzeko diseinatua. Gorde eta ordenatu zure egitekoak. Kudeatu egitekoen zerrenda anitz. Mantendu egitekoak ordenagailuan edo sinkronizatu hodeiko hornitzaileekin. Pertsonalizatu zure esperientzia pluginekin.</p>
+  </description>
+  <description lang="fa">
+    <p>فعالیت‌های گنوم یک برنامه مدیریت وظایف است که برای یکپارچگی با گنوم طراحی شده است. ذخیره و مرتّب‌سازی فعالیت‌هایتان. مدیریت چندین سیاههٔ فعالیت. نگه‌داری فعالیت‌هایتان وی رایانه یا همگام‌سازیشان با فراهم‌کنندگان ابرواره. سفارشی‌سازی تجربه‌تان با افزایه‌ها.</p>
+  </description>
+  <description lang="fi">
+    <p>Gnomen tehtäväsovellus on helppokäyttöinen työkalu tehtävien hallintaan. Tallenna ja järjestä tehtäviä. Hallitse useita tehtävälistoja. Säilytä tehtävät tietokoneellasi tai synkronoi ne pilveen. Muokkaa kokemustasi liitännäisten avulla.</p>
+  </description>
+  <description lang="fr">
+    <p>GNOME To Do est un gestionnaire de tâches destiné à être intégré dans GNOME. Enregistrez et ordonnez vos tâches. Gérez plusieurs listes de tâches. Conservez vos listes sur votre ordinateur ou synchronisez-les avec des fournisseurs de services dans le nuage. Personnalisez votre expérience avec des greffons.</p>
+  </description>
+  <description lang="fur">
+    <p>GNOME Di fâ e je une aplicazion di gjestion des ativitâts, progjetade par integrâsi cun GNOME. Salve e ordene lis tôs robis di fâ. Gjestìs plui listis di ativitâts. Ten lis tôs ativitâts sul computer o sincronizilis cui servizis vie cloud. Personalize la tô esperience cui plugin.</p>
+  </description>
+  <description lang="gl">
+    <p>Tarefas de GNOME é unha aplicación de xestión de tarefas deseñado para integrarse con GNOME. Garde e ordene as súas tarefas. Xestione varias listas de tarefas. Manteña as súas tarefas no seu computador ou sincroníceas con fornecedores na nube. Personalice a súa experiencia con engadidos.</p>
+  </description>
+  <description lang="he">
+    <p>מנהל משימות מבית GNOME הוא יישום ניהול משימות פשוט המעוצב להשתלב עם GNOME. שמירה וניהול המשימות שלך. ניהול רשימות משימות שונות. שמירה המשימות שלך על המחשב או תיאום שלהם באמצעות ספקיות ענן. נתן להרחבה על ידי תוספים.</p>
+  </description>
+  <description lang="hr">
+    <p>GNOME Upravitelj zadataka je aplikacija upravljanja zadacima dizajnirana za integraciju u GNOME. Spremite i organizirajte svoje zadatke. Čuvajte svoje zadatke na računalu ili ih uskladite s mrežnim pružateljima usluge zadataka. Prilagodite svoje iskustvo pomoću priključaka.</p>
+  </description>
+  <description lang="hu">
+    <p>A GNOME Tennivalók egy egyszerű tennivaló-kezelő alkalmazás, amelyet úgy terveztek, hogy illeszkedjen a GNOME-hoz. Mentse és rendezze a tennivalóit. Kezeljen több tennivalólistát. Tartsa a számítógépen a tennivalóit, vagy szinkronizálja azokat felhőszolgáltatásokkal. Szabja testre az alkalmazást bővítményekkel.</p>
+  </description>
+  <description lang="id">
+    <p>GNOME To Do adalah aplikasi manajemen tugas yang didesain untuk terintegrasi dengan GNOME. Simpan dan urutkan to do Anda. Kelola beberapa daftar to do. Simpanlah to do Anda di komputer Anda atau sinkronkan dengan penyedia layanan awan. Sesuaikan pengalaman Anda dengan pengaya.</p>
+  </description>
+  <description lang="is">
+    <p>GNOME To Do verkefnastýring er forrit sem heldur utan um verk og er hannað til að samtvinnast GNOME-skjáborðsumhverfinu. Vistaðu og skipuleggðu verkin þín. Sýslaðu með marga verkefnalista í einu. Haltu verkefnunum á tölvunni eða samstilltu þau við verkefnaveitur á tölvuskýum. Mögulegt er að útvíkka virknina með viðbótareiningum.</p>
+  </description>
+  <description lang="it">
+    <p>GNOME To Do è un'applicazione di gestione delle attività progettata per integrarsi con GNOME. Salva e ordina le cose da fare. Gestisce gli elenchi multipli di cose da fare. Mette da parte le cose da fare sul proprio computer o le sincronizza con dei fornitori di cloud. Personalizza l'esperienza con dei plugin.</p>
+  </description>
+  <description lang="ja">
+    <p>GNOME To Do は GNOME と統合するようデザインされた、タスク管理アプリケーションです。To Do の整理や保存、複数の To Do リストの管理、クラウドプロバイダーを介しての To Do の同期、プラグインによるカスタマイズなどが可能です。</p>
+  </description>
+  <description lang="kk">
+    <p>GNOME To Do - GNOME ішіне үйлесуге жасалған тапсырмаларды басқарудың қолданбасы. Тапсырмаларды сақтаңыз және реттеңіз. Көптеген тапсырмалар тізімдерін басқарыңыз. Тапсырмалар тізімдерін компьютерде сақтаңыз немесе онлайн қызметтермен синхрондаңыз. Плагиндер көмегімен жұмысты жақсартыңыз.</p>
+  </description>
+  <description lang="ko">
+    <p>그놈 일정 관리는 그놈에 어우러지도록 설계한 간단한 일정 관리 프로그램입니다. 일정을 저장하고 정돈합니다. 여러 일정 목록을 관리합니다. 컴퓨터에 일정을 저장하거나 클라우드 서비스 업체의 내용을 동기화합니다. 플러그인으로 개별 기능을 추가합니다.</p>
+  </description>
+  <description lang="lt">
+    <p>GNOME Darbai yra paprasta užduočių tvarkymo programa, sukurta integracijai su GNOME aplinka. Įrašykite ir rikiuokite savo darbus. Tvarkykite daugelį darbų sąrašų. Saugokite savo darbus kompiuteryje arba sinchronizuokite juos su debesų tiekėjais. Prisitaikykite programą sau su įskiepiais.</p>
+  </description>
+  <description lang="lv">
+    <p>“GNOME darāmie darbi” ir uzdevumu pārvaldnieks, kas ir integrēts ar GNOME vidi. Saglabājiet un sakārtojiet savus darāmos darbus. Pārvaldiet vairākus darāmo darbu sarakstus. Saglabājiet savus darāmos darbus uz datora vai sinhronizējiet tos ar mākoņu pakalpojumu sniedzējiem. Pielāgojiet šo lietotni ar paplašinājumiem.</p>
+  </description>
+  <description lang="ms">
+    <p>To Do GNOME ialah sebuah aplikasi pengurusan yang direka untuk disepadukan dengan GNOME. Simpan dan susun todo anda. Urus senarai todo berbilang. Simpan todo anda dalam komputer anda atau segerak ia dengan penyedia awan. Suaikan pengalaman anda dengan pemalam-pemalam yang ada.</p>
+  </description>
+  <description lang="nb">
+    <p>GNOME oppgaver er et program for håndtering av oppgaver som er integrert med GNOME. Lagre og sorter oppgavene dine. Håndter flere oppgavelister. Behold oppgavene dine på datamaskinen eller synkroniser dem med skytjenester. Det kan utvides med tillegg.</p>
+  </description>
+  <description lang="nl">
+    <p>Gnome Taken is een taakbeheerprogramma ontworpen om te integreren in Gnome. U kunt uw taken opslaan en rangschikken, meerdere takenlijsten beheren en uw taken op uw computer bewaren of synchroniseren met cloudaanbieders. Het is uitbreidbaar via plug-ins.</p>
+  </description>
+  <description lang="pl">
+    <p>Menedżer zadań GNOME to prosty program do zarządzania zadaniami, zaprojektowany do integracji ze środowiskiem GNOME. Umożliwia zapisywanie i zmienianie kolejności zadań, zarządzanie wieloma listami, przechowywanie zadań na komputerze lub synchronizowanie ich z serwisami internetowymi oraz dostosowywanie interfejsu za pomocą wtyczek.</p>
+  </description>
+  <description lang="pt">
+    <p>A fazer GNOME é uma simples aplicação de gestão de tarefas desenhada para se integrar ao GNOME. Guarde e ordene os seus afazeres. Gerir múltiplas listas de afazeres. Mantenha os seus afazeres no seu computador ou sincronize-os com os fornecedores de cloud. Personalize a sua experiência com plugins.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>O GNOME Tarefas é um aplicativo de gerenciamento de tarefas projetado para integrar com o GNOME. Salve e ordene suas tarefas. Gerencie múltiplas listas de tarefas. Mantenha suas tarefas em seu computador ou sincronize-as com provedores de nuvem. Personalize sua experiência com plug-ins.</p>
+  </description>
+  <description lang="ro">
+    <p>To Do GNOME este o aplicație de administrare a sarcinilor concepută pentru a se integra cu GNOME. Salvați și ordonați todo personale. Gestionați liste todo multiple. Păstrați todo personale pe calculator sau sincronizați-le cu furnizorii de cloud. Personalizați-vă experiența cu module.</p>
+  </description>
+  <description lang="ru">
+    <p>GNOME To Do — приложение для управления задачами, разработанное для использования в GNOME. Сохраняйте и сортируйте свои задачи. Управляйте несколькими списками задач. Храните задачи на компьютере или синхронизируйте их с облаком. Расширяйте возможности с помощью модулей расширения.</p>
+  </description>
+  <description lang="sk">
+    <p>Úlohy prostredia GNOME je aplikácia na správu úloh, integrovaná s prostredím GNOME. Ukladajte a usporadúvajte vaše úlohy. Spravujte viacero zoznamov úloh. Uchovajte vaše úlohy vo vašom počítači, alebo ich synchronizujte s cloudovými poskytovateľmi. Prispôsobte si používanie pomocou zásuvných modulov.</p>
+  </description>
+  <description lang="sl">
+    <p>Program GNOME To Do je enostaven program za vodenje opravljanja nalog. Razširljiv je z različnimi vstavki in podpira različne spletne sisteme, podpira različne sezname in omogoča usklajevanje z različnimi storitvami v oblaku.</p>
+  </description>
+  <description lang="sr">
+    <p>Гномов Роковник је програм за управљање задацима осмишљен да се уклопи у Гном. Сачувајте и средите ваше обавезе. Управљајте вашим списковима обавеза. Чувајте ваше обавезе на вашем рачунару или их усаглсите са достављачима облака. Прилагодите ваше искуство прикључцима.</p>
+  </description>
+  <description lang="sv">
+    <p>GNOME Uppgifter är ett uppgiftshanteringsprogram som är designat att integrera med GNOME. Spara och sortera vad du vill göra. Hantera flera uppgiftslistor. Behåll dina uppgifter på din dator eller synkronisera dem med molnleverantörer. Anpassa din upplevelse med insticksmoduler.</p>
+  </description>
+  <description lang="tr">
+    <p>GNOME Yapılacaklar, GNOME ile tümleşik tasarlanmış görev yönetimi uygulamasıdır. Yapacaklarınızı düzenleyin ve kaydedin. Çoklu yapılacak listelerini yönetin. Yapacaklarınızı bilgisayarınızda tutun veya bulut sağlayıcılarla eşzamanlayın. Deneyiminizi eklentilerle kişiselleştirin.</p>
+  </description>
+  <description lang="uk">
+    <p>«Треба зробити GNOME» — проста програма для керування завданнями, яка інтегрована з GNOME. Зберігайте та впорядковуйте завдання. Організовуйте кілька списків. Зберігайте їх на комп'ютері та синхронізовуйте з хмарними службами. Розширюйте можливості через додатки.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>GNOME 待办事项是一个待办事项管理应用程序，为与 GNOME 集成而设计。保存和排列你的待办事项。管理多个代办列表。将你的待办事项保存到计算机上或者与云提供商同步。通过插件自定义你的使用体验。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>GNOME《待辦事項》是個設計與 GNOME 整合的事項管理程式。它可以儲存並排序您的待辦事項、管理多個待辦事項列表，並在您的電腦或雲端提供者同步您的待辦事項，還可以透過附加元件自訂您的體驗。</p>
+  </description>
+  <url type="homepage">https://wiki.gnome.org/Apps/Todo</url>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/gnome-todo/issues</url>
+  <project_group>GNOME</project_group>
+  <screenshots>
+    <screenshot height="1080" width="1920">
+      <image>https://gitlab.gnome.org/GNOME/gnome-todo/raw/master/data/appdata/welcome-screen.png</image>
+      <caption>Welcome screen</caption>
+      <caption lang="zh_CN">欢迎屏幕</caption>
+      <caption lang="uk">Вікно вітання</caption>
+      <caption lang="tr">Karşılama ekranı</caption>
+      <caption lang="sv">Välkomstskärm</caption>
+      <caption lang="sr">Екран добродошлице</caption>
+      <caption lang="sl">Pozdravno okno</caption>
+      <caption lang="sk">Uvítacia obrazovka</caption>
+      <caption lang="ru">Экран приветствия</caption>
+      <caption lang="ro">Ecran de întâmpinare</caption>
+      <caption lang="pt_BR">Tela de saudação</caption>
+      <caption lang="pt">Ecrã de boas vindas</caption>
+      <caption lang="pl">Ekran powitalny</caption>
+      <caption lang="oc">Ecran de Benvenguda</caption>
+      <caption lang="nl">Welkomstscherm</caption>
+      <caption lang="ne">स्वागतम</caption>
+      <caption lang="lv">“Laipni lūdzam” ekrāns</caption>
+      <caption lang="lt">Pasisveikinimo ekranas</caption>
+      <caption lang="ko">환영 화면</caption>
+      <caption lang="kk">Қарсы алу экраны</caption>
+      <caption lang="ja">ウェルカム画面</caption>
+      <caption lang="it">Schermata di benvenuto</caption>
+      <caption lang="is">Upphafsskjár</caption>
+      <caption lang="id">Layar selamat datang</caption>
+      <caption lang="hu">Üdvözlőképernyő</caption>
+      <caption lang="hr">Zaslon dobrodošlice</caption>
+      <caption lang="he">מסך קבלת הפנים</caption>
+      <caption lang="gl">Pantall de benvida</caption>
+      <caption lang="fur">Videade di benvignût</caption>
+      <caption lang="fr">Écran de bienvenue</caption>
+      <caption lang="fi">Tervetulonäkymä</caption>
+      <caption lang="fa">صفحهٔ خوش‌آمد</caption>
+      <caption lang="eu">Ongi etorriko pantaila</caption>
+      <caption lang="et">Tervituskuva</caption>
+      <caption lang="es">Pantalla de bienvenida</caption>
+      <caption lang="en_GB">Welcome screen</caption>
+      <caption lang="el">Οθόνη καλωσορίσματος</caption>
+      <caption lang="de">Willkommen-Bildschirm</caption>
+      <caption lang="da">Velkomstskærm</caption>
+      <caption lang="cs">Uvítací obrazovka</caption>
+      <caption lang="ca">Pantalla de benvinguda</caption>
+      <caption lang="bg">Начален екран</caption>
+    </screenshot>
+    <screenshot width="1920" height="1080">
+      <image>https://gitlab.gnome.org/GNOME/gnome-todo/raw/master/data/appdata/no-tasks.png</image>
+      <caption>Empty state</caption>
+      <caption lang="zh_CN">空状态</caption>
+      <caption lang="uk">Порожній стан</caption>
+      <caption lang="tr">Boş durum</caption>
+      <caption lang="sv">Tomt tillstånd</caption>
+      <caption lang="sr">Празно стање</caption>
+      <caption lang="sl">Prazno stanje</caption>
+      <caption lang="sk">Prázdny stav</caption>
+      <caption lang="ru">Пустое состояние</caption>
+      <caption lang="ro">Stare goală</caption>
+      <caption lang="pt_BR">Estado vazio</caption>
+      <caption lang="pt">Estado vazio</caption>
+      <caption lang="pl">Ekran przed dodaniem zadań</caption>
+      <caption lang="oc">Estat void</caption>
+      <caption lang="nl">Leeg</caption>
+      <caption lang="lv">Tukšs stāvoklis</caption>
+      <caption lang="lt">Tuščia būsena</caption>
+      <caption lang="ko">빈 상태</caption>
+      <caption lang="kk">Бос күй</caption>
+      <caption lang="it">Stato vuoto</caption>
+      <caption lang="is">Tóm staða</caption>
+      <caption lang="id">Keadaan kosong</caption>
+      <caption lang="hu">Üres állapot</caption>
+      <caption lang="hr">Prazno stanje</caption>
+      <caption lang="he">מצב ריק</caption>
+      <caption lang="gl">Estado baleiro</caption>
+      <caption lang="fur">Stât vueit</caption>
+      <caption lang="fr">État vide</caption>
+      <caption lang="fi">Tyhjä tila</caption>
+      <caption lang="fa">وضعیت خالی</caption>
+      <caption lang="eu">Egoera hutsa</caption>
+      <caption lang="et">Tühi olek</caption>
+      <caption lang="es">Estado vacío</caption>
+      <caption lang="en_GB">Empty state</caption>
+      <caption lang="el">Κενή κατάσταση</caption>
+      <caption lang="de">Leerer Zustand</caption>
+      <caption lang="da">Tom tilstand</caption>
+      <caption lang="cs">V prázdném stavu</caption>
+      <caption lang="ca">Estat buit</caption>
+      <caption lang="bg">Начално страница</caption>
+    </screenshot>
+    <screenshot width="1920" height="1080">
+      <image>https://gitlab.gnome.org/GNOME/gnome-todo/raw/master/data/appdata/task-list.png</image>
+      <caption>Task lists</caption>
+      <caption lang="zh_CN">任务列表</caption>
+      <caption lang="uk">Списки завдань</caption>
+      <caption lang="tr">Görev listeleri</caption>
+      <caption lang="sv">Uppgiftslistor</caption>
+      <caption lang="sr">Спискови задатака</caption>
+      <caption lang="sl">Seznami nalog</caption>
+      <caption lang="sk">Zoznamy úloh</caption>
+      <caption lang="ru">Списки задач</caption>
+      <caption lang="ro">Liste de sarcini</caption>
+      <caption lang="pt_BR">Listas de tarefas</caption>
+      <caption lang="pt">Listas de tarefas</caption>
+      <caption lang="pl">Listy zadań</caption>
+      <caption lang="oc">Listas de prètzfaches</caption>
+      <caption lang="nl">Takenlijsten</caption>
+      <caption lang="ne">कार्य सुची</caption>
+      <caption lang="lv">Uzdevumu saraksti</caption>
+      <caption lang="lt">Užduočių sąrašai</caption>
+      <caption lang="ko">일정 목록</caption>
+      <caption lang="kk">Тапсырмалар тізімдері</caption>
+      <caption lang="ja">タスクリスト</caption>
+      <caption lang="it">Elenco attività</caption>
+      <caption lang="is">Verkefnalistar</caption>
+      <caption lang="id">Daftar tugas</caption>
+      <caption lang="hu">Feladatlisták</caption>
+      <caption lang="hr">Popis zadatka</caption>
+      <caption lang="he">רשימות של משימות</caption>
+      <caption lang="gl">Lista de tarefas</caption>
+      <caption lang="fur">Listis des ativitâts</caption>
+      <caption lang="fr">Listes de tâches</caption>
+      <caption lang="fi">Tehtävälistat</caption>
+      <caption lang="fa">سیاهه‌های وظیفه</caption>
+      <caption lang="eu">Zereginen zerrendak</caption>
+      <caption lang="et">Ülesandeloendid</caption>
+      <caption lang="es">Listas de tareas</caption>
+      <caption lang="en_GB">Task lists</caption>
+      <caption lang="el">Λίστα εργασιών</caption>
+      <caption lang="de">Aufgabenlisten</caption>
+      <caption lang="da">Opgavelister</caption>
+      <caption lang="cs">Seznamy úkolů</caption>
+      <caption lang="ca">Llistes de tasques</caption>
+      <caption lang="bg">Списъци със задачи</caption>
+    </screenshot>
+  </screenshots>
+  <kudos>
+    <kudo>AppMenu</kudo>
+    <kudo>ModernToolkit</kudo>
+  </kudos>
+  <releases>
+    <release date="2021-09-16" version="41.0">
+      <description>
+        <p>
+          GNOME To Do 41.0 comes with a selection of fixes, help pages, and many
+          updated translations.
+        </p>
+      </description>
+    </release>
+    <release version="40.1" date="2021-06-15">
+      <description>
+        <p>
+          GNOME To Do 40.1 comes with a selection of fixes to bugs and packaging issues,
+          cleanups, and many updated translations.
+        </p>
+      </description>
+    </release>
+    <release date="2021-05-03" version="40.0">
+      <description>
+        <p>
+          After 4 years in development, we are proud to annouce GNOME To Do 40.0!
+        </p>
+        <p>
+          GNOME To Do 40 brings major improvements:
+          <ul>
+            <li>
+              Loading, saving, and editing tasks is now completely asynchronous. This
+              should bring much better performance, particularly when dealing with
+              very large task lists.
+            </li>
+            <li>
+              The user interface was largely redesigned. It now features a sidebar that
+              collapses when the window is too small. Task editing is done in place now.
+            </li>
+            <li>GNOME To Do now uses GTK4!</li>
+            <li>
+              A welcome screen, and more welcoming empty states, should make To Do more
+              rewarding and engaging to use.
+            </li>
+          </ul>
+        </p>
+        <p>
+          Unfortunately, Todoist and Todo.txt are disabled now. The future of these
+          integration points is uncertain, given that the featureset they support is
+          different than GNOME To Do.
+        </p>
+        <p>This release also updates translations, and adds new translations.</p>
+      </description>
+    </release>
+  </releases>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="violence-desecration">none</content_attribute>
+    <content_attribute id="violence-slavery">none</content_attribute>
+    <content_attribute id="violence-worship">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="sex-homosexuality">none</content_attribute>
+    <content_attribute id="sex-prostitution">none</content_attribute>
+    <content_attribute id="sex-adultery">none</content_attribute>
+    <content_attribute id="sex-appearance">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+  <update_contact>georges.stavracas@gmail.com</update_contact>
+  <translation type="gettext">gnome-todo</translation>
+</component>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>atanks</pkgname>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0-or-later</project_license>
+  <id>io.sourceforge.atanks</id>
+  <name>Atomic Tanks</name>
+  <summary>Multi-platform Scorched Earth clone similar to the Worms series of games</summary>
+  <description>
+    <p>
+      Annihilate the other tanks to earn money, then spend it on bigger and
+      better shields and weapons to wipe out the opposition.
+    </p>
+    <p>
+      Features a wide array of weapons, AI players, destructible landscape,
+      weather, parachutes, teleports and a wide range of other features.
+    </p>
+    <p>
+      Runs on any platform Allegro4 runs on, including Linux, Windows and Mac OS X.
+    </p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://atanks.sourceforge.io/Screenshots/scrnshot29.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://atanks.sourceforge.io/Screenshots/scrnshot28.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://atanks.sourceforge.io/Screenshots/scrnshot30.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://atanks.sourceforge.io/Screenshots/scrnshot27.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://atanks.sourceforge.io/Screenshots/scrnshot19.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://atanks.sourceforge.io/Screenshots/scrnshot20.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://atanks.sourceforge.io/Screenshots/scrnshot21.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://atanks.sourceforge.io/Screenshots/scrnshot22.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://atanks.sourceforge.io/Screenshots/scrnshot23.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://atanks.sourceforge.io/Screenshots/scrnshot24.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://atanks.sourceforge.io/Screenshots/scrnshot25.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://atanks.sourceforge.io/Screenshots/scrnshot26.jpg</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://atanks.sourceforge.io</url>
+  <url type="bugtracker">https://sourceforge.net/p/atanks/bugs/</url>
+  <update_contact>ubr47k@users.sourceforge.net</update_contact>
+  <update_contact>jessefrgsmith@yahoo.ca</update_contact>
+  <launchable type="desktop-id">atanks.desktop</launchable>
+  <provides>
+    <binary>atanks</binary>
+  </provides>
+  <releases>
+    <release date="2016-11-02" version="6.5" />
+  </releases>
+  <categories>
+    <category>Game</category>
+    <category>ArcadeGame</category>
+  </categories>
+  <content_rating type="oars-1.1">
+    <content_attribute id="language-profanity">mild</content_attribute>
+    <content_attribute id="language-humor">mild</content_attribute>
+  </content_rating>
+</component>

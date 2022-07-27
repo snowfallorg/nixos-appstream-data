@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>"Getting Things GNOME" (GTG) is a personal tasks and ToDo list organizer inspired by the "Getting Things Done" (GTD) methodology.</p>
+    <p>GTG is intended to help you track everything you need to do and need to know, from small tasks to large projects. GTG's user interface is designed to accommodate many workflows, with features such as:</p>
+    <ul>
+      <li>a very flexible tagging and searching system;</li>
+      <li>natural language parsing and a free-form task text editor;</li>
+      <li>projects/task dependencies (infinite sub-tasks), start dates and due dates;</li>
+      <li>an "Actionable" tasks view mode to help you stay focused during your work;</li>
+      <li>the ability to effortlessly defer tasks to common upcoming days, or to a custom date.</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>»Getting Things GNOME« (GTG) ist ein persönlicher Aufgaben und ToDo-Listenverwalter, inspiriert durch die »Getting Things Done« (GTD) Methodik.</p>
+    <p>GTG hilft Ihnen dabei, alles was Sie benötigen und wissen müssen aufzuzeichnen, von kleinen Aufgaben zu großen Projekten. Die Benutzeroberfläche kann sich nach vielen Arbeitsweisen anpassen, mit Funktionalitäten wie:</p>
+    <ul>
+      <li>ein sehr flexibles Schlagwort- (tagging) und Suchsystem;</li>
+      <li>natürliche Sprachunterstützung und frei beschreibbarer Aufgabeneditor;</li>
+      <li>Projekt- / Aufgabenabhängigkeiten (unendlich tiefe Teilaufgaben), mit Start- und Enddatum;</li>
+      <li>eine Arbeitsansicht um beim Arbeiten fokussiert zu bleiben;</li>
+      <li>die Möglichkeit, Aufgaben einfach in die nächsten Tage (oder an ein festes Datum) zu verschieben.</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>"Getting Things GNOME" (GTG) es un organizador de tareas personales y listas de tareas inspirado en la metodología "Getting Things Done" (GTD).</p>
+    <p>GTG está pensado para ayudarte a rastrear todo lo que necesitas hacer y saber, desde pequeñas tareas hasta grandes proyectos. La interfaz de usuario de GTG está diseñada para acomodar muchos flujos de trabajo, con características como:</p>
+    <ul>
+      <li>un sistema de etiquetado y búsqueda muy flexible;</li>
+      <li>el análisis del lenguaje natural y un editor de texto de tareas de libre forma;</li>
+      <li>proyectos/dependencias de tareas (subtareas infinitas), fechas de inicio y fechas de vencimiento;</li>
+      <li>un modo de vista de tareas "Accionables" para ayudarle a mantenerse concentrado durante su trabajo;</li>
+      <li>la capacidad de aplazar sin esfuerzo las tareas para los próximos días, o para una fecha personalizada.</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>« Getting Things GNOME » (GTG) est un gestionnaire de tâches personnel inspiré par la méthodologie « Getting Things DONE » (GTD)</p>
+    <p>GTG est conçu pour vous aider à gérer tout ce que vous devez accomplir et ce vous devez garder à l'esprit, que ce soit des petites tâches ou des projets complexes. L'interface de GTG est conçue pour permettre diverses méthodes de travail et façons de l'utiliser, avec des fonctionnalités telles que :</p>
+    <ul>
+      <li>un système de recherche et d'étiquetage très flexible;</li>
+      <li>la reconnaissance de formulations langagières courantes et un éditeur de tâches permettant de saisir et organiser librement le texte;</li>
+      <li>la gestion des dépendances de tâches/projets (sous-tâches illimitées), les dates de début et de fin (dates d'échéance);</li>
+      <li>un mode de visualisation de tâches « Actionnables » pour vous permettre de vous concentrer sur les actions immédiates de votre travail actuel;</li>
+      <li>la possibilité de reporter rapidement des tâches au lendemain ou dates ultérieures.</li>
+    </ul>
+  </description>
+  <description lang="hu">
+    <p>"Getting Things GNOME" (GTG) egy személyi feladat- és teendőlista-szervező melyet a "Getting Things Done" (GTD) módszer inspirált.</p>
+    <p>A GTG arra készült, hogy minden teendőt, észben tartandót nyilvántarts benne, kis feladatoktól a nagy projektekig. A GTG felhasználói felülete különféle munkamódszereket támogat, mint:</p>
+    <ul>
+      <li>nagyon rugalmas címkéző- és keresőrendszer;</li>
+      <li>természetes nyelvfeldolgozás és szabad formájú feladatszerkesztő;</li>
+      <li>projekt/feladat függőségei (akármennyi részfeladattal), kezdés és esedékesség ideje;</li>
+      <li>"Végrehajtható" feladatokat mutató nézet, hogy segítsen a munkád során fenntartani a koncentrációt;</li>
+      <li>feladatok egyszerű halasztása a következő napokra vagy meghatározott időpontra.</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>'Getting Things GNOME' (GTG) is een persoonlijke takenlijstbeheerder voor GNOME, geïnspireerd door de 'Getting Things Done' (GTD-methodologie.</p>
+    <p>GTG helpt u door alles wat u nodig heeft en moet weten bij te houden, van kleine taken tot grote projecten. GTG's vormgeving past zich aan aan uw werkmethode en bevat kenmerken als:</p>
+    <ul>
+      <li>een zeer flexibel label- en zoeksysteem;</li>
+      <li>natuurlijke taalverwerking en een tekstbewerker uit vrije hand;</li>
+      <li>project-/taakafhankelijkheden (oneindig aantal bijkomende taken), en begin- en einddatums;</li>
+      <li>een weergavemodus met actieve taken ('Werkmodus') om u gefocust te houden;</li>
+      <li>de mogelijkheid om alle taken uit te stellen naar andere dagen of een eigen gekozen datum.</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <p>"Getting Things GNOME" (GTG) to osobisty organizator zadań i list do wykonania zainspirowany metodą "Getting Things Done" (GTD).</p>
+    <p>GTG pomaga w organizowaniu wszystkich twoich działań, od małych zadań do wielkich projektów. Interfejs GTG pozwala na różne style zarządzania i oferuje między innymi:</p>
+    <ul>
+      <li>bardzo elastyczny system oznaczania i wyszukiwania zadań</li>
+      <li>wczytywanie danych w postaci naturalnego języka i edytor opisu zadań</li>
+      <li>zależności projektów/zadań (nieograniczone zagnieżdżanie), daty rozpoczęcia i terminy ukończenia</li>
+      <li>tryb "Wykonywalne" ułatwiający skupienie się na bieżącej pracy nad zadaniami</li>
+      <li>możliwość prostego odkładania zadań na następne dni lub do wyznaczonej daty.</li>
+    </ul>
+  </description>
+  <description lang="pt_BR">
+    <p>"Getting Things GNOME" (GTG) é um organizador de tarefas pessoais e lista de tarefas inspirado na metodologia "Getting Things Done" (GTD).</p>
+    <p>O objetivo do GTG é ajudá-lo a controlar tudo o que você precisa fazer e saber, de pequenas tarefas a grandes projetos. A interface do usuário do GTG foi projetada para acomodar muitos fluxos de trabalho, com recursos como:</p>
+    <ul>
+      <li>um sistema de tag e busca muito flexível;</li>
+      <li>análise de linguagem natural e um editor de texto de tarefa de formato livre;</li>
+      <li>dependências de projetos/tarefas (infinitas subtarefas), datas de início e datas de vencimento;</li>
+      <li>um modo de visualização de tarefas "Acionáveis" para ajudá-lo a manter o foco durante o trabalho;</li>
+      <li>a capacidade de adiar tarefas sem esforço para os próximos dias comuns ou para uma data personalizada.</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <p>"Getting Things GNOME" (GTG) är en personlig uppgiftshanterare och organiseringsverktyg för "att göra listor" enligt "Getting Things Done" (GTD) metodik.</p>
+    <p>GTG är avsett att hjälpa dig hålla reda på allt du behöver göra, från små uppgifter till stora projekt. GTG's användargränssnitt är designad för att tillgodose olika arbetsflödfen, med sådana egenskaper som:</p>
+    <ul>
+      <li>ett väldigt flexibelt system med etiketter och sökning;</li>
+      <li>naturlig textanalys av språk och fri-form textredigerare för uppgifter;</li>
+      <li>beroende projekter/uppgifter (obegränsade underuppgifter), startdatum och slutdatum;</li>
+      <li>ett "Handlingsbar" visningsläge för att hjälpa dig att hålla fokus under arbetet;</li>
+      <li>möjlighet att obesvärad skjuta upp uppgifter till gängse kommande dagar, eller till en specialbestämd datum.</li>
+    </ul>
+  </description>
+  <pkgname>gtg</pkgname>
+  <icon type="cached" width="64" height="64">org.gnome.GTG.png</icon>
+  <icon type="cached" height="128" width="128">org.gnome.GTG.png</icon>
+  <id>org.gnome.GTG</id>
+  <launchable type="desktop-id">org.gnome.GTG.desktop</launchable>
+  <name>Getting Things GNOME!</name>
+  <name lang="uk">Getting Things GNOME!</name>
+  <name lang="tr">Getting Things GNOME!</name>
+  <name lang="sv">Getting Things GNOME!</name>
+  <name lang="sk">Getting Things GNOME!</name>
+  <name lang="ru">Приведите дела в порядок вместе с GNOME!</name>
+  <name lang="pt_BR">Getting Things GNOME!</name>
+  <name lang="pl">Getting Things GNOME!</name>
+  <name lang="nl">Getting Things GNOME!</name>
+  <name lang="nds">Bekomme Dinge GNOME!</name>
+  <name lang="it">Getting Things GNOME!</name>
+  <name lang="hu">Getting Things GNOME!</name>
+  <name lang="hr">Sredite stvari s GNOME!</name>
+  <name lang="hi">Getting Things GNOME!</name>
+  <name lang="fr">Getting Things GNOME !</name>
+  <name lang="es">Getting Things GNOME!</name>
+  <name lang="en_GB">Getting Things GNOME!</name>
+  <name lang="en_CA">Getting Things GNOME!</name>
+  <name lang="de">Getting Things GNOME!</name>
+  <name lang="da">Getting Things GNOME!</name>
+  <name lang="cs">Getting Things GNOME!</name>
+  <summary>Personal tasks and TODO-list items organizer</summary>
+  <summary lang="sv">Personlig uppgifts och "att-göra-listor" hanterare</summary>
+  <summary lang="pt_BR">Organizador de tarefas pessoais e lista de tarefas</summary>
+  <summary lang="pl">Osobisty organizator zadań i list spraw</summary>
+  <summary lang="nl">Persoonlijke takenlijstbeheerder voor GNOME</summary>
+  <summary lang="hu">Személyi feladat- és teendőlista-szervező</summary>
+  <summary lang="fr">Organisateur personnel et gestionnaire de listes de tâches</summary>
+  <summary lang="es">Organizador de tareas personales para GNOME</summary>
+  <summary lang="de">Persönlicher Aufgaben- und TODO-Listen-Organisator</summary>
+  <metadata_license>CC-BY-3.0</metadata_license>
+  <project_license>GPL-3.0</project_license>
+  <url type="homepage">https://wiki.gnome.org/Apps/GTG</url>
+  <url type="bugtracker">https://github.com/getting-things-gnome/gtg/issues</url>
+  <url type="translate">https://wiki.gnome.org/TranslationProject#How_can_I_help.3F</url>
+  <screenshots>
+    <screenshot type="default">https://fortintam.com/gtg/screenshots/appstream/1.png</screenshot>
+    <screenshot>https://fortintam.com/gtg/screenshots/appstream/2.png</screenshot>
+    <screenshot>https://fortintam.com/gtg/screenshots/appstream/3.png</screenshot>
+  </screenshots>
+  <kudos>
+    <kudo>UserDocs</kudo>
+    <kudo>ModernToolkit</kudo>
+  </kudos>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="violence-desecration">none</content_attribute>
+    <content_attribute id="violence-slavery">none</content_attribute>
+    <content_attribute id="violence-worship">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="sex-homosexuality">none</content_attribute>
+    <content_attribute id="sex-prostitution">none</content_attribute>
+    <content_attribute id="sex-adultery">none</content_attribute>
+    <content_attribute id="sex-appearance">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+  <project_group>GNOME</project_group>
+  <developer_name>The GTG team</developer_name>
+  <developer_name lang="sv">GTG teamet</developer_name>
+  <developer_name lang="pt_BR">A equipe GTG</developer_name>
+  <developer_name lang="pl">Zespół GTG</developer_name>
+  <developer_name lang="nl">Het GTG-team</developer_name>
+  <developer_name lang="hu">A GTG csapat</developer_name>
+  <developer_name lang="fr">L'équipe GTG</developer_name>
+  <developer_name lang="es">El equipo de GTG</developer_name>
+  <developer_name lang="de">Das GTG Team</developer_name>
+  <updatecontact>nekohayo+gtg@gmail.com</updatecontact>
+  <releases>
+    <release version="0.6" type="stable" date="2022-03-02">
+      <url>https://fortintam.com/blog/gtg-0-6-released</url>
+    </release>
+    <release date="2021-04-06" version="0.5" date_eol="2022-03-03" type="stable">
+      <url>https://fortintam.com/blog/gtg-0-5-released</url>
+    </release>
+    <release version="0.4" type="stable" date_eol="2021-04-06" date="2020-07-07">
+      <url>https://fortintam.com/blog/gtg-0-4-released</url>
+    </release>
+    <release version="0.3.1" date="2013-11-24" date_eol="2020-07-07" type="stable">
+      <url>https://github.com/getting-things-gnome/gtg/blob/ba480d5ed61ec36702301b25ebc6c40d37c2c352/docs/source/releases/v0.3.1.rst</url>
+    </release>
+    <release type="stable" date="2012-11-06" date_eol="2013-11-24" version="0.3">
+      <url>https://web.archive.org/web/20130116063024/http://gtg.fritalk.com/post/2012/11/06/Announcing-GTG-0.3%21</url>
+    </release>
+    <release type="stable" date="2012-02-13" date_eol="2012-11-06" version="0.2.9">
+      <url>https://web.archive.org/web/20120312060133/http://gtg.fritalk.com/post/gtg-0.2.9</url>
+    </release>
+    <release date_eol="2012-02-13" type="stable" date="2011-12-01" version="0.2.5">
+      <url>https://web.archive.org/web/20111207173818/http://gtg.fritalk.com/post/2011/12/01/Getting-things-GNOME%21-Brandon%2C-time-to-take-out-the-trash-0.2.5-is-out%21</url>
+    </release>
+    <release version="0.2.4" date="2010-04-10" date_eol="2011-12-01" type="stable" />
+    <release date="2010-03-02" date_eol="2010-04-10" version="0.2.3" type="stable" />
+    <release version="0.2.2" type="stable" date="2010-03-01" date_eol="2010-04-10">
+      <url>https://web.archive.org/web/20111207173818/http://gtg.fritalk.com/post/2010/03/01/Getting-Things-GNOME%21-0.2.2-%28Protector%29-release-is-out%21</url>
+    </release>
+    <release version="0.2.1" date="2010-01-31" type="stable" date_eol="2010-03-01">
+      <url>https://web.archive.org/web/20111207173818/http://gtg.fritalk.com/post/2010/01/31/Getting-Things-GNOME%21-0.2.1-Beryllium-Sphere-is-out%21</url>
+    </release>
+    <release date="2009-12-12" type="stable" date_eol="2010-01-31" version="0.2">
+      <url>https://web.archive.org/web/20111207173818/http://gtg.fritalk.com/post/2009/12/10/The-new-Getting-Things-GNOME%21-0.2-Gorignak-has-landed%21</url>
+    </release>
+    <release date_eol="2009-12-12" version="0.1.9" date="2009-12-02" type="stable">
+      <url>https://web.archive.org/web/20111207173818/http://gtg.fritalk.com/post/2009/12/02/Getting-Things-GNOME%21-0.1.9-is-out%21</url>
+    </release>
+    <release type="stable" date="2009-07-09" version="0.1.2" date_eol="2009-12-02">
+      <url>https://web.archive.org/web/20111117024753/http://gtg.fritalk.com/post/2009/07/09/GTG-0.1.2-%22Usually-it-s-just-cardboard-walls-in-a-garage%22</url>
+    </release>
+    <release type="stable" version="0.1.1" date="2009-04-03" date_eol="2009-07-09">
+      <url>https://web.archive.org/web/20111207173818/http://gtg.fritalk.com/post/2009/04/03/GTG-0.1.1-is-out%21</url>
+    </release>
+    <release date_eol="2009-04-03" version="0.1" date="2009-03-07" type="stable">
+      <url>https://web.archive.org/web/20111207173818/http://gtg.fritalk.com/post/2009/03/07/First-official-release-of-Getting-Things-Gnome%21%2C-GTG-%22Just-5-minutes-more%22-0.1</url>
+    </release>
+  </releases>
+</component>

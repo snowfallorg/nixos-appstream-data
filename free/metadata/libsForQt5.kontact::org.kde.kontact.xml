@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>
+    Handle your email, calendar, contacts and other personal data with Kontact. Kontact groups everything together in one place and helps you manage your communications, organize your day and work with your colleagues.
+    </p>
+    <p>
+    Kontact unifies several personal information management applications into a single window to give you the best possible experience and boost your productivity. With Kontact you can use all the tools of our powerful suite in one place. Unlike proprietary web applications we value your privacy and support open standards, which is why Kontact gives you full control over your data. You can of course also access your data offline if you want to.
+    </p>
+    <p>Kontact consists of several well-integrated components:</p>
+    <ul>
+      <li>KMail - a powerful and feature-rich email client with support for a wide range of email providers.</li>
+      <li>KOrganizer - a calendar and scheduling component of Kontact which is able to work with NextCloud, Kolab, Google Calendar and other calendaring services.</li>
+      <li>KAddressBook - an easy to use contact management tool that can synchronize contacts with many popular services.</li>
+      <li>Akregator - a news reader with powerful search and archiving functionality.</li>
+      <li>KNotes - a simple program that lets you write the computer equivalent of sticky notes.</li>
+    </ul>
+  </description>
+  <description lang="ar">
+    <p>تعامل مع بريدك الإلكتروني والتقويم وجهات الاتصال والبيانات الشخصية الأخرى مع متراسلك.يجمع متراسلك كل شيء معًا في مكان واحد ويساعدك على إدارة اتصالاتك وتنظيم يومك والعمل مع زملائك.</p>
+    <p>يوحِّد متراسلك العديد من تطبيقات إدارة المعلومات الشخصية في نافذة واحدة لمنحك أفضل تجربة ممكنة وتعزيز إنتاجيتك. مع متراسلك، يمكنك استخدام جميع أدوات مجموعتنا القوية في مكان واحد. على عكس تطبيقات الويب الاحتكارية، فإننا نقدر خصوصيتك وندعم المعايير المفتوحة، وهذا هو السبب في أن متراسلك يمنحك التحكم الكامل في بياناتك. يمكنك بالطبع أيضًا الوصول إلى بياناتك في وضع عدم الاتصال إذا كنت تريد ذلك.</p>
+    <p>يتكون متراسلك من العديد من المكونات المتكاملة:</p>
+    <ul>
+      <li>بريدك - عميل بريد إلكتروني قوي وغني بالمميزات مع دعم لمجموعة واسعة من مزودي خِدْمَات البريد الإلكتروني.</li>
+      <li>منظمك - مكون تقويم وجدولة في متراسلك قادر على العمل مع NextCloud و Kolab وتقويم غوغل وخدمات التقويم الأخرى.</li>
+      <li>عنوانك - أداة سهلة الاستخدام لإدارة جهات الاتصال يمكنها مزامنة جهات الاتصال مع العديد من الخِدْمات الشائعة.</li>
+      <li>أكريغاتور قارئ أخبار ببحث قوي وإمكانية الأرشفة.</li>
+      <li>ملاحظاتك - برنامج بسيط لكتابة الملاحظات على الحاسوب.</li>
+    </ul>
+  </description>
+  <description lang="az">
+    <p>E-poştlarınızı, təqvimlərinizi əlaqələrinizi və digər şəxsi məlumatları Kontact ilə idarə edin. Kontact hər şeyi bir yerdə toplayır və ünsiyyətlərinizi idarə etməyinizə, gününüzü təşkil etməyə və həmkarlarınızla işləməyinizə kömək edir.</p>
+    <p>Kontact, sizə mümkün olan ən yaxşı təcrübəni təqdim etmək və işinizi daha səmərəli etmək üçün bir neçə fərdi məlumat idarəetmə tətbiqini vahid bir pəncərədə birləşdirir. Kontact ilə güclü dəstimizin bütün alətlərini bir yerdə istifadə edə bilərsiniz. Xüsusi veb tətbiqlərindən fərqli olaraq, məxfiliyinizə dəyər veririk və açıq proqram təminatı standartlarını dəstəkləyirik, bu səbəbdən Kontact sizə məlumatlarınız üzərində tam nəzarət  etmək imkanı verir. İstəsəniz, əlbəttə ki, məlumatlarınıza oflayn olaraq da daxil ola bilərsiniz.</p>
+    <p>Kontact bir neçə dərindən inteqrasiya olunmuş komponentlərdən ibarətdir:</p>
+    <ul>
+      <li>KMail, güclü və zəngin imkanları ilə geniş miqyasda e-poçt serverlərini dəstəkləyən bir e-poçt müştərisidir.</li>
+      <li>KOrganizer, Kcontact tətbiqinin, NextCloud, Kolab, Google Təqvim və digər onlayn təqvim xidmətləri ilə işləməyi bacaran təqvim və planlama komponentidir.</li>
+      <li>KAdressBook, əlqələrinizi asan idarəetmə alətidir. O əlaqələrinizi (kontaktlarınızı) bir çox tanınmış xidmətlər arasında eyniləşdirə bilir.</li>
+      <li>Akregator, güclü axtarış və arxivləmə imkanlarına malik xəbərləri, yenilikləri oxuma vasitəsidir.</li>
+      <li>KNotes, qeydlər aparmaq üçün, komputerinizə yapışdırılan qeyd kağızlarına bənzər sadə bir proqramdır.</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>Controleu el vostre correu electrònic, calendari, contactes i altres dades personals amb el Kontact. El Kontact agrupa tot junt en un mateix lloc i ajuda a gestionar les vostres comunicacions, organitzar el vostre dia i treballar amb els vostres companys.</p>
+    <p>El Kontact unifica diverses aplicacions per a la gestió de la informació personal en una sola finestra per a oferir-vos la millor experiència possible i així millorar la vostra productivitat. Amb el Kontact podreu usar totes les eines de la nostra poderosa suite en un sol lloc. A diferència d'aplicacions web propietàries, nosaltres valorem la vostra privadesa i implementem els estàndards oberts, de manera que el Kontact us donarà el control total de les vostres dades. Per descomptat, si voleu, també podreu accedir a les vostres dades fora de línia.</p>
+    <p>El Kontact consta de diversos components ben integrats:</p>
+    <ul>
+      <li>KMail: un client de correu electrònic potent i ric en característiques amb suport per a una àmplia varietat de proveïdors de correu electrònic.</li>
+      <li>KOrganizer: un component de calendari i programació del Kontact, el qual pot treballar amb el NextCloud, Kolab, Google Calendar i altres serveis de calendari.</li>
+      <li>KAddressBook: una eina per a la gestió dels contactes fàcil d'usar que pot sincronitzar contactes amb molts serveis populars.</li>
+      <li>Akregator: un lector de notícies amb una potent funcionalitat de cerca i arxiu.</li>
+      <li>KNotes: un programa senzill que permet escriure l'equivalent a l'ordinador a les notes adhesives.</li>
+    </ul>
+  </description>
+  <description lang="ca-valencia">
+    <p>Controleu el vostre correu electrònic, calendari, contactes i altres dades personals amb Kontact. Kontact agrupa tot junt en un mateix lloc i ajuda a gestionar les vostres comunicacions, organitzar el vostre dia i treballar amb els vostres companys.</p>
+    <p>Kontact unifica diverses aplicacions per a la gestió de la informació personal en una sola finestra per a oferir-vos la millor experiència possible i així millorar la vostra productivitat. Amb Kontact podreu utilitzar totes les eines de la nostra poderosa suite en un sol lloc. A diferència d'aplicacions web propietàries, nosaltres valorem la vostra privadesa i implementem els estàndards oberts, de manera que Kontact vos donarà el control total de les vostres dades. Per descomptat, si voleu, també podreu accedir a les vostres dades fora de línia.</p>
+    <p>Kontact consta de diversos components ben integrats:</p>
+    <ul>
+      <li>KMail: un client de correu electrònic potent i ric en característiques amb suport per a una àmplia varietat de proveïdors de correu electrònic.</li>
+      <li>KOrganizer: un component de calendari i programació de Kontact, el qual pot treballar amb el NextCloud, Kolab, Google Calendar i altres serveis de calendari.</li>
+      <li>KAddressBook: una eina per a la gestió dels contactes fàcil d'utilitzar que pot sincronitzar contactes amb molts serveis populars.</li>
+      <li>Akregator: un lector de notícies amb una potent funcionalitat de busca i arxiu.</li>
+      <li>KNotes: un programa senzill que permet escriure l'equivalent a l'ordinador a les notes adhesives.</li>
+    </ul>
+  </description>
+  <description lang="da">
+    <p>Håndtér din e-mail, kalender, kontakter og andre personlige data med Kontact. Kontact grupperer alt samlet på et sted og hjælper dig med at administrere din kommunikation, organisere din dag og samarbejde med dine kolleger.</p>
+    <p>Kontact forener mange programmer til personlige informationshåndtering (PIM) i et enkelt vindue, for at give dig den bedst mulige oplevelse og øge din produktivitet. Med Kontact kan du bruge alle værktøjerne i vores kraftfulde pakke på et sted. Modsat proprietære webapplikationer så værdsætter vi privatlig og understøtter åbne standarder, derfor giver Kontact dig fuld kontrol over dine data. Du kan selvfølgelig også tilgå dine data offline hvis du ønsker.</p>
+    <p>Kontact består af adskillige velintegrerede komponenter:</p>
+    <ul>
+      <li>KMail - en kraftfuld og funktionsrig e-mailklient med understøttelse af en lang række e-mailudbydere.</li>
+      <li>KOrganizer - en kalender- og planlægningskomponent til Kontact som virker med NextCloud, Kolab, Google Calendar og andre kalendertjenester.</li>
+      <li>KAddressBook - et brugervenligt værktøj til at håndtere kontakter, som kan synkronisere kontakter med mange populære tjenester.</li>
+      <li>Akregator - en nyhedslæser med kraftfuld søgning og arkiveringsfunktionalitet.</li>
+      <li>KNotes - et simpelt program som lader dig skrive post-it-noter på din computer.</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>Verwalten Sie Ihre E-Mails, Kalender, Kontakte und andere persönliche Daten mit Kontact. Kontact fasst alles an einem Ort zusammen und hilft Ihnen, Ihre Kommunikation zu verwalten, Ihren Tag zu organisieren und mit Ihren Kollegen zusammenzuarbeiten.</p>
+    <p>Kontact vereinigt mehrere Anwendungen zur Verwaltung persönlicher Informationen in einem einzigen Fenster, um Ihnen die optimale Nutzung zu ermöglichen und Ihre Produktivität zu steigern. Mit Kontact können Sie alle Anwendungen unserer leistungsstarken Software an einem einzigen Ort nutzen. Im Gegensatz zu proprietären Web-Anwendungen schätzen wir Ihre Privatsphäre und unterstützen offene Standards, weshalb Sie mit Kontact die volle Kontrolle über Ihre Daten haben. Natürlich können Sie auch offline auf Ihre Daten zugreifen, wenn Sie das möchten.</p>
+    <p>Kontact besteht aus mehreren gut aufeinander abgestimmten Komponenten:</p>
+    <ul>
+      <li>KMail - ein leistungsfähiger und funktionsreicher E-Mail-Client mit Unterstützung für eine Vielzahl von E-Mail-Anbietern.</li>
+      <li>KOrganizer - eine Kalender- und Terminplanungskomponente von Kontact, die mit NextCloud, Kolab, Google Calendar und anderen Kalenderdiensten funktioniert.</li>
+      <li>KAddressBook - ein einfach zu bedienendes Programm, das Kontakte mit vielen gängigen Diensten abgleichen kann. </li>
+      <li>Akregator - ein Newsreader mit leistungsstarker Such- und Archivierungsfunktion.</li>
+      <li>KNotes - ein einfaches Programm, mit dem Sie Notizen schreiben.</li>
+    </ul>
+  </description>
+  <description lang="el">
+    <p>Διαχειριστείτε το ηλ. ταχυδρομείο σας, το βιβλίο διευθύνσεων σας, το ημερολόγιό σας, τις επαφές σας και άλλα προσωπικά δεδομένα με το Kontact. Το Kontact τα ομαδοποιεί όλα μαζί σε εα σημείο και σάς βοηθάει να διαχειριστείτε τις επικοινωνίες σας, να οργανώσετε την ημέρα σας και να εργαστείτε με τους συναδέλφους σας.</p>
+    <p>Το Kontact ενοποιεί πολλές εφαρμογές διαχείρισης προσωπικών δεδομένων σε ένα παράθυρο για να σας δώσει την καλύτερη δυνατή εμπειρία και να αυξήσει την παραγωγικότητά σας. Με το Kontact μπορείτε να χρησιμοποιείτε όλα τα εργαλεία της πανίσχυρης αυτής σουίτας από ένα σημείο. Αντίθετα με τις ιδιοκτησιακές εφαρμογές του ιστού δίνουμε αξία στο ιδωτικό σας απόρρητο και υποστηρίζουμε τα ανοιχτά πρότυπα, και αυτός είναι ο λόγος για τον οποίο με το Kontact έχετε πλήρη έλεγχο στα δικά σας δεδομένα. Νπορείτε φυσικά να έχετε και εκτός δικτύου πρόσβαση στα δεδομένα σας αν το θελήσετε.</p>
+    <p>Το Kontact αποτελείται από πολλά ενοποιημένα συστατικά:</p>
+    <ul>
+      <li>KMail - μια πανίσχυρη και πλούσια σε χαρακτηριστικά εφαρμογή ηλεκτρονικής αλληλογραφίας με υποστήριξη για ένα μεγάλο εύρος παρόχων ηλεκτρονικού ταχυδρομείου.</li>
+      <li>KOrganizer - ένα συστατικό ημερολογίου και χρονικού προγραμματισμού του Kontact το οποίο συνεργάζεται με NextCloud, Kolab, Google Calendar και άλλες υπηρεσίες ημερολογίου.</li>
+      <li>KAddressBook - ένα εύκολης χρήσης εργαλείο διαχείρισης επαφών το οποίο συγχρονίζει επαφές με πολλές δημοφιλείς υπηρεσίες.</li>
+      <li>Akregator - ένας αναγνώστης ειδήσεων με ισχυρή λειτουργικότητα αναζήτησης και αρχειοθέτησης.</li>
+      <li>KNotes - ένα απλό πρόγραμμα, το ισοδύναμο σε υπολογιστή των αυτοκόλλητων σημειώσεων.</li>
+    </ul>
+  </description>
+  <description lang="en-GB">
+    <p>Handle your email, calendar, contacts and other personal data with Kontact. Kontact groups everything together in one place and helps you manage your communications, organise your day and work with your colleagues.</p>
+    <p>Kontact unifies several personal information management applications into a single window to give you the best possible experience and boost your productivity. With Kontact you can use all the tools of our powerful suite in one place. Unlike proprietary web applications we value your privacy and support open standards, which is why Kontact gives you full control over your data. You can of course also access your data offline if you want to.</p>
+    <p>Kontact consists of several well-integrated components:</p>
+    <ul>
+      <li>KMail - a powerful and feature-rich email client with support for a wide range of email providers.</li>
+      <li>KOrganizer - a calendar and scheduling component of Kontact which is able to work with NextCloud, Kolab, Google Calendar and other calendaring services.</li>
+      <li>KAddressBook - an easy to use contact management tool that can synchronise contacts with many popular services.</li>
+      <li>Akregator - a news reader with powerful search and archiving functionality.</li>
+      <li>KNotes - a simple program that lets you write the computer equivalent of sticky notes.</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>Gestiona su correo, calendarios, contactos y otros datos personales con Kontact. Kontact agrupa todo junto en un solo lugar y le ayuda a gestionar sus comunicaciones, organizar su jornada y trabajar con sus colegas.</p>
+    <p>Kontact unifica varias aplicaciones de gestión de información personal en una sola ventana para proporcionarle la mejor experiencia posible e incrementar su productividad. Con  Kontact, usted puede usar todas las herramientas de nuestra potente suite en un lugar. Al contrario que las aplicaciones web propietarias, valoramos la confidencialidad e implementamos estándares abiertos, que es lo que hace que  Kontact le proporcione control completo sobre sus datos. También puede, por supuesto, acceder a sus datos sin conexión, si lo desea.</p>
+    <p>Kontact consta de varios componentes bien integrados:</p>
+    <ul>
+      <li>KMail- un cliente de correo poderoso y lleno de funcionalidades que admite una amplia variedad de proveedores de correo.</li>
+      <li>Korganizer - un componente de Kontact de calendario y agenda, que es capaz de funcionar con NextCloud, Kolab, Google Calenda y otros servicios de calendario.</li>
+      <li>KAddressBook - una herramienta de gestión de contactos fácil de usar que permite sincronizar contactos con muchos servicios populares.</li>
+      <li>Akregator - un lector de noticias con potentes funcionalidades de búsqueda y archivado.</li>
+      <li>KNotes - un programa sencillo que le permite escribir en el ordenador el equivalente de notas pegajosas.</li>
+    </ul>
+  </description>
+  <description lang="et">
+    <p>E-kirjade, kalendri, kontaktide ja muude isiklike andmete käitlemine Kontactis. Kontact toob kõik ühte kohta kokku ja aitab sul oma kommunikatsiooni hallata ning korraldada nii igapäevaelu kui koostööd kolleegidega.</p>
+    <p>Kontact koondab mitmed isikliku teabe haldamise rakendused ühte aknasse pakkumaks sulle parimaid võimalusi oma tööde ja tegemistega kiiremini ja hõlpsamalt hakkama saada. Kontact võimaldab kasutada kõiki meie võimsaid tööriistu ühes kohas. Erinevalt kommertslikest veebirakendustest hindame me kõrgelt kasutaja privaatsust ja toetame avatud standardeid, mis muu hulgas tähendab, et Kontact jätab täieliku kontrolli sinu andmete üle sinu enda kätte. Soovi korral saab oma andmetele ligi loomulikult ka võrguta režiimis.</p>
+    <p>Kontact koosneb mitmest omavahel hästi lõimitud komponendist:</p>
+    <ul>
+      <li>KMail - võimas ja võimalusterohke e-posti klient, mis toetab suurt valikut e-posti teenuse pakkujaid.</li>
+      <li>KOrganizer - Kontacti kalendri- ja ajastamiskomponent, mis suudab teha koostööd NextCloudi, Kolabi, Google Calendari ja teiste kalendriteenustega.</li>
+      <li>KAddressBook - hõlpsasti kasutatav kontaktide haldamise vahend, mis suudab sünkroonida kontakte paljude levinud teenustega.</li>
+      <li>Akregator - uudistevoogude lugeja võimsa otsingu ja ulatuslike arhiveerimisvõimalustega.</li>
+      <li>KNotes - lihtne rakendus, mis lubab kirja panna "kollaste märkmelehtede" analooge arvutis.</li>
+    </ul>
+  </description>
+  <description lang="eu">
+    <p>Kudeatu zure e-posta, egutegia, kontaktuak eta beste informazio pertsonala Kontact erabiliz. Kontact-ek guztia biltzen du leku bakarrean eta zure komunikazioak kudeatzen, zure eguna antolatzen eta zure lankideekin lan egiten laguntzen dizu.</p>
+    <p>Kontact-ek informazio pertsonala kudeatzeko hainbat aplikazio bateratzen ditu leiho bakar batean, ahal den esperientzia onena izan dezazun eta zure produktibitatea areagotzeko. Kontact-ekin gure suite ahaltsuaren tresna guztiak leku berean erabil ditzakezu. Web aplikazio jabedunek ez bezala, zure pribatutasuna aintzat hartzen dugu eta estandar irekien alde egiten dugu, horrek ematen dizu zure datuen gaineko kontrol osoa. Nahi izanez gero, jakina, zure datuetara lerroz-kanpo ere sar zaitezke.</p>
+    <p>Kontact-ek ondo bateratutako hainbat osagai ditu:</p>
+    <ul>
+      <li>KMail - ezaugarri asko dituen e-posta bezero ahaltsu bat, e-posta hornitzaile-sorta zabalarentzako euskarria duena.</li>
+      <li>KOrganizer - Kontact-eko egutegi eta antolaketa osagai bat, NextCloud, Kolab, Google Calendar eta egunkarietarako beste zerbitzu batzuekin lan egiteko gai dena.</li>
+      <li>KAddressBook - erabiltzen erraza den kontaktuak kudeatzeko tresna bat, kontaktuak zerbitzu ezagun askorekin sinkroniza ditzakeena.</li>
+      <li>Akregator - bilatzeko eta artxibatzeko funtzionalitate ahaltsuak dituen albiste irakurle bat.</li>
+      <li>KNotes - ordenagailurako ohar itsaskorren parekoa den programa xume bat.</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>Käsittele sähköpostiasi, kalenteriasi, yhteys- ja muita tietojasi Kontactilla. Kontact niputtaa kaiken yhteen paikkaan ja auttaa sinua hallitsemaan viestintääsi, järjestämään ajankäyttöäsi ja toimimaan yhteistyössä muiden kanssa.</p>
+    <p>Kontact yhdistää henkilökohtaisen tietojenhallinnan eri ohjelmat yhteen ikkunaan, jotta saisit parhaan ja tuottavimman käyttökokemuksen. Kontactilla voit käyttää kaikkia tehotyökalujamme yhdestä paikasta. Suljetun koodin verkkosovelluksista poiketen pidämme arvossa yksityisyyttäsi ja tuemme avoimia standardeja, joten Kontactilla hallitset itse kaikkia tietojasi. Pääset tietoihisi käsiksi halutessasi myös verkotta.</p>
+    <p>Kontact koostuu useista hyvin toisiinsa yhdistyvistä osista:</p>
+    <ul>
+      <li>KMail: tehokas ja monipuolinen sähköpostiohjelma, jossa on laaja sähköpostitarjoajatuki.</li>
+      <li>KOrganizer: Kontactin kalenteri- ja aikataulutusosa, joka osaa toimia yhdessä NextCloudin, Kolabin, Googlen ja muiden kalenteripalveluiden kanssa.</li>
+      <li>KAddressBook: helppokäyttöinen yhteystietojen hallinta, jolla voit yhdistää monien suosittujen palvelujen tiedot.</li>
+      <li>Akregator: uutislukija, jossa on tehokkaat haku- ja arkistointiominaisuudet.</li>
+      <li>KNotes: yksinkertainen ohjelma, jolla voit luoda tarralappujen tietokonevastineita.</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>Gérez vos courriels, calendriers, contacts et autres données personnelles avec Kontact. Kontact rassemble tous ces aspects dans un seul et même endroit, et vous aide à gérer vos communications, à organiser vos journées, et à travailler avec vos collègues.</p>
+    <p>Kontact unifie différentes applications de gestion d'informations personnelles dans une fenêtre unique, pour vous aider à être efficace tout en offrant une utilisation agréable. Avec Kontact vous pouvez utiliser tous les outils de notre suite avancée rassemblés dans un seul endroit. Contrairement aux applications en ligne, nous respectons votre vie privée et nous prenons en charge les standards ouverts, c'est ainsi que Kontact vous offre laisse le contrôle total sur vos données. Vous pouvez bien-sûr aussi accéder à vos données hors-ligne si vous le désirez.</p>
+    <p>Kontact consiste en plusieurs composant bien intégrés :</p>
+    <ul>
+      <li>KMail, un client de courriel puissant et plein de fonctionnalités, prenant en charge un large panel de fournisseurs de courriels.</li>
+      <li>KOrganizer, un calendrier et composant d'organisation de Kontact, capable de travailler avec NextCloud, Kolab, le Calendrier Google et d'autres services d'agenda.</li>
+      <li>KAddressBook, un outil de gestion de contacts simple à utiliser qui peut synchroniser vos contacts avec de nombreux services populaires.</li>
+      <li>Akregator, un lecteur de nouvelles avec de puissantes fonctions de recherche et d'archivage.</li>
+      <li>KNotes - un programme simple qui vous permet d'avoir l'équivalent électronique des papillons autocollants (Post-it®).</li>
+    </ul>
+  </description>
+  <description lang="gl">
+    <p>Xestiona o teu correo electrónico, calendario, contactos e outros datos persoais con Kontact. Kontact agrúpao todo xunto nun lugar e axúdao a xestionar a súa comunicación, organizar o seu día e traballar cos seus compañeiros.</p>
+    <p>Kontact unifica varias aplicacións de xestión de información persoal nunha única xanela para fornecerlle a mellor experiencia posíbel e aumentar a súa produtividade. Con Kontact pode usar todas as ferramentas da nosa potente colección de software nun único lugar. A diferencia de aplicación web privativas nós valoramos a súa intimidade e somos compatíbeis con estándares abertos, que é polo que Kontact lle ofrece control total dos seus datos. Pode por suposto acceder aos seus datos sen Internet, se quere.</p>
+    <p>Kontact consiste en varios compoñentes ben integrados:</p>
+    <ul>
+      <li>KMail — un potente cliente de correo electrónico repleto de funcionalidades e compatíbel cun gran número de fornecedores de correo electrónico.</li>
+      <li>KOrganizer — un compoñente de calendario e planificación de Kontact que permite traballar con NextCloud, Kolab, Google Calendar e outros servizos de calendario.</li>
+      <li>KAddressBook — unha ferramenta e xestión de contactos fácil de usar que pode sincronizar contactos con moitos servizos populares.</li>
+      <li>Akregator — un lector de novas con potentes funcionalidades de busca e arquivo.</li>
+      <li>KNotes — un programa sinxelo que lle permite escribir o equivalente informático a pequenas notas de texto.</li>
+    </ul>
+  </description>
+  <description lang="ia">
+    <p>Manea tu messages de eposta, calendario, contactos e altere datos personal con Kontact. Kontact gruppa omne cosas insimul in un placia e adjuta te a gerer tu communicationes, organisa tu die e travalia con tu collegas.</p>
+    <p>Kontact unifica multe applicationes de gestion de information personal in un singule fenestra per dar te le melior experientia possibile e accelerar tu productivitate. Con Kontact tu piote usar omne le instrumentos de nostre potente suite in un placia. Differentemente de applicationes proprietari de web nos tene a tu intimitate e supporta standard aperite, le quales es proque Kontact da te le plen controlo sur tu datos. Naturalmente tu pote anque acceder a tu datos fgoras de linea si tu vole.</p>
+    <p>Kontact consiste de muklte componentes ben integrate:</p>
+    <ul>
+      <li>KMAil . un cliente de e-posta potente e ric de characteristicas con supporto per un vaste quantitate de provider (fornitores) de eposta.</li>
+      <li>KOrganizer - un compèonente de Kontact per calendario e planification que es capace de functionar con NextCloud, Kolab, Google Calendar e eltere servicios de calendario. </li>
+      <li>KAddressBook - un instrumento facile de usar per gerer contactos que pote synchronisar contactos con multe servicios popular.</li>
+      <li>Akregator - un lector de syndication de novas con unfunctionalitate potente de cerca e archivar.</li>
+      <li>KNotes - un simple programma que te permitte scriver le equivalente de computatior de notas collose.</li>
+    </ul>
+  </description>
+  <description lang="id">
+    <p>Menangani email, kalender, kontak, dan data pribadimu lainnya dengan Kontact. Kontact mengelompokkan semuanya bersama di satu tempat dan membantu kamu mengelola komunikasi, mengatur hari, dan bekerja dengan kolegamu.</p>
+    <p>Kontact menyatukan beberapa aplikasi pengelola informasi pribadi ke dalam satu window untuk memberikan kamu pengalaman terbaik dan meningkatkan produktivitas kamu. Dengan Kontact kamu bisa menggunakan semua alat dari suite kami yang kuat di satu tempat. Tidak seperti aplikasi web eksklusif, kami menghargai privasi kamu dan mendukung standar terbuka, itulah sebabnya Kontact memberi kamu kendali penuh atas datamu. Tentu saja kamu juga dapat mengakses data secara offline jika diinginkan.</p>
+    <p>Kontact terdiri dari beberapa komponen yang terintegrasi dengan baik:</p>
+    <ul>
+      <li>KMail - sebuah klien email yang hebat dan kaya fitur dengan dukungan untuk berbagai penyedia email.</li>
+      <li>KOrganizer - sebuah komponen kalender dan penjadwalan dari Kontact yang dapat bekerja dengan NextCloud, Kolab, Google Calendar dan layanan kalender lainnya.</li>
+      <li>KAddressBook - sebuah alat pengelolaan kontak yang mudah digunakan yang bisa menyinkronkan kontak dengan banyak layanan populer.</li>
+      <li>Akregator - sebuah pembaca berita dengan fungsi pencarian dan pengarsipan yang hebat.</li>
+      <li>KNotes - sebuah program sederhana yang memungkinkan kamu menulis komputer yang setara dengan catatan lekat.</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>Gestisci i tuoi messaggi di posta, il calendario, i contatti e altri dati personali con Kontact. Kontact raggruppa tutto assieme in un unico posto e ti aiuta a gestire le tue comunicazioni, organizzare la tua giornata e lavorare con i tuoi colleghi.</p>
+    <p>Kontact unifica diverse applicazioni di gestione delle informazioni personali in una finestra unica per fornirti la migliore esperienza possible e aumentare la tua produttività. Con Kontact puoi usare tutti gli strumenti della nostra potente suite in un solo posto. Al contrario delle applicazioni web proprietarie, teniamo in considerazione la tua riservatezza e supportiamo gli standard aperti, che è anche il motivo per cui Kontact ti dà il controllo completo sui tuoi dati. Puoi anche ovviamente accedere ai tuoi dati in modalità fuori linea se lo desideri.</p>
+    <p>Kontact è formato da un serie di componenti ben integrati tra loro:</p>
+    <ul>
+      <li>KMail - un client di posta potente e ricco di funzioni con supporto per un'ampia gamma di fornitori di posta elettronica.</li>
+      <li>KOrganizer - un componente calendario e di pianificazione di Kontact che può funzionare con NextCloud, Kolab, Google Calendar e altri servizi di calendario.</li>
+      <li>KAddressBook - uno strumento di gestione dei contatti facile da usare che può sincronizzare i contatti con molti servizi noti.</li>
+      <li>Akregator - un lettore di notizie con potenti funzioni di ricerca ed archiviazione.</li>
+      <li>KNotes - un programma semplice che ti permette di scrivere l'equivalente a computer delle note adesive.</li>
+    </ul>
+  </description>
+  <description lang="ko">
+    <p>Kontact를 사용하여 이메일, 달력, 연락처와 같은 개인 정보를 한 곳에서 처리하십시오. Kontact는 모든 것을 한 자리에 표시하며 대화 기록, 일정 관리, 협업을 도와 줍니다.</p>
+    <p>Kontact는 여러 개인 정보 관리 프로그램을 하나의 창으로 통합하여 사용자 경험과 생산성 향상에 도움을 줍니다. Kontact를 사용하여 강력한 개인 정보 관리 도구를 한 곳에서 사용할 수 있습니다. 독점 웹 애플리케이션과는 다르게 우리는 개인 정보 보호를 소중하게 생각하며 공개 표준을 지원합니다. 따라서 Kontact는 데이터에 대한 모든 제어권을 사용자가 가질 수 있습니다. 필요하다면 오프라인으로도 데이터에 접근할 수 있습니다.</p>
+    <p>Kontact는 여러 구성 요소로 구성됩니다:</p>
+    <ul>
+      <li>KMail - 다기능 이메일 클라이언트, 여러 이메일 서비스를 지원합니다.</li>
+      <li>KOrganizer - Kontact의 달력과 일정 관리 구성 요소입니다. Nextcloud, Kolab, Google 캘린더 및 기타 달력 서비스와 연동할 수 있습니다.</li>
+      <li>KAddressBook - 여러 서비스와 주소록을 연동할 수 있습니다.</li>
+      <li>Akregator - 검색과 보관 기능이 있는 뉴스 피드 리더입니다.</li>
+      <li>KNotes - 찍찍이 노트를 쉽게 작성할 수 있도록 도와 줍니다.</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>Behandel uw e-mail, agenda, contactpersonen en andere persoonlijke gegevens met Kontact. Kontact groepeert alles in één plek en helpt u uw communicaties te beheren, uw dag te organiseren en samen te werken met uw collega's.</p>
+    <p>Kontact voegt verschillende toepassingen voor beheer van persoonlijke informatie samen in een enkel venster om u de best mogelijke ervaring te geven en uw productiviteit te verhogen. Met Kontact kunt u alle hulpmiddelen gebruiken van uw krachtige suite op één plek. Anders dan webtoepassingen van derden waarderen we uw privacy en ondersteunen open standaarden, waarom wij in Kontact u volledige controle geven over uw gegevens. U kunt natuurlijk ook uw gegevens offline benaderen als u dat wilt.</p>
+    <p>Kontact bestaat uit verschillende goed geïntegreerde componenten:</p>
+    <ul>
+      <li>KMail - een krachtige e-mailclient met veel mogelijkheden met ondersteuning van een brede reeks van e-mailleveranciers.</li>
+      <li>KOrganizer - een agenda en planning component van Kontact waarmee u in staat bent te werken met NextCloud, Kolab, Google Calendar en andere agendaservices.</li>
+      <li>KAddressBook - een gemakkelijk te gebruiken beheerprogramma voor contacten die contactpersonen kan synchroniseren met vele populaire services.</li>
+      <li>Akregator - een nieuwslezer met krachtige zoek- en archiveringsfunctionaliteit.</li>
+      <li>KNotes - een eenvoudig programma dat u het computerequivalent van plaknotities laat schrijven.</li>
+    </ul>
+  </description>
+  <description lang="nn">
+    <p>Handsam e-posten din, kalendrane og kontaktane dine samt annan personleg informasjon med Kontact. Kontact samlar alt på éin stad og hjelper deg å halda oversikt over kommunikasjon og avtalar, og til å samhandla med kollegaar.</p>
+    <p>Kontact samlar fleire kommunikasjons­program i eitt vindauge, for auka brukar­oppleving og produktivitet. Med Kontact har du tilgang til alle dei kraftige verktøya våre frå same stad. I motsetning til ulike vevtenester respekterer me personvernet ditt og støttar opne standardar. Dette er grunnen til at Konatct gjev deg full kontroll over eigne data. Dersom du ønskjer, har du sjølvsagt òg full tilgang til dataa dine når du er fråkopla.</p>
+    <p>Kontact er sett saman av fleire tett integrerte komponentar:</p>
+    <ul>
+      <li>KMail – kraftig og funksjonsrikt e-postprogram med støtte for mange e-postleverandørar.</li>
+      <li>KOrganizer – kalender og avtalebok som kan brukast saman med NextCloud, Kolab, Google Kalendar og andre kalendertenester.</li>
+      <li>KAddressBook – personleg adressebok som kan synkronisera kontaktane dine med fleire populære tenester.</li>
+      <li>Akregator – nyheitslesar med kraftig søkje- og arkivfunksjonalitet.</li>
+      <li>KNotes – enkelt program for å skriva elektroniske «gule lappar».</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <p>Zarządzaj swoimi kontami pocztowymi, kalendarzami, kontaktami i innymi danymi osobistymi przy użyciu Kontact. Kontact grupuje wszystko w jednym miejscu i pomaga zarządzać twoim porozumiewaniem się oraz ustalaniem twojego dnia i pracy z twoimi kolegami.</p>
+    <p>Kontakt scala kilka aplikacji do zrządzania danymi osobistymi w jedno okno, dla najlepszego najlepsze doświadczenie i zwiększenia produktywności. Z Kontact możesz używać wszystkich rozbudowanych narzędzi pakietu w jednym miejscu. W odróżnieniu od własnościowych aplikacji sieciowych, my cenimy twoją prywatność i wspieramy otwarte standardy, więc dajemy ci pełny nadzór nad twoimi danymi. Możesz także uzyskiwać dostęp do swoich danych bez internetu, jeśli chcesz.</p>
+    <p>Kontact składa się z kilku dobrze scalonych składników:</p>
+    <ul>
+      <li>KMail - zaawansowany i pełen możliwości klient pocztowy z obsługą wielu dostawców poczty.</li>
+      <li>KOrganizer - kalendarz i planista Kontact, który ma możliwość współpracy z NextCloud, Kolab, Kalendarz Google i innymi usługami kalendarza.</li>
+      <li>KAddressBook - łatwe w użyciu narzędzie do zarządzania kontaktami, które może synchronizować kontakty z wieloma powszechnymi usługami.</li>
+      <li>Akregator - czytnik wieści z zaawansowanymi możliwościami wyszukiwania i archiwizowania.</li>
+      <li>KNotes - prosty program, który umożliwia pisanie żółtych karteczek na komputerze.</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>Trate do seu correio, calendários, contactos e outros dados pessoais com o Kontact. O Kontact agrupa tudo em conjunto num único lugar e ajuda-o a gerir as suas comunicações, organizar o seu dia e trabalho com os seus colegas.</p>
+    <p>O Kontact unifica diversas aplicações de gestão de informações pessoais numa única janela, para que lhe possa dar a melhor experiência possível para melhorar a sua produtividade. Com o Kontact, poderá usar todas as ferramentas do nosso pacote poderoso num único local. Ao contrário das aplicações Web proprietárias, valorizamos a sua privacidade e damos suporte a formatos abertos, sendo que o Kontact lhe dá então controlo total sobre os seus dados. Poderá obviamente também aceder aos seus dados de forma desligada, se o desejar.</p>
+    <p>O Kontact consiste em vários componentes bem integrados:</p>
+    <ul>
+      <li>KMail - um cliente de e-mail poderoso e rico em funcionalidades para uma grande variedade de fornecedores de e-mail.</li>
+      <li>KOrganizer - um componente de calendário e agenda do Kontact que é capaz de integrar com o NextCloud, Kolab, Google Calendar e outros serviços de calendários.</li>
+      <li>KAddressBook - uma ferramenta simples de gestão de contactos que consegue sincronizar os contactos com diversos serviços populares.</li>
+      <li>Akregator - um leitor de notícias com funcionalidades poderosas de pesquisa e arquivo.</li>
+      <li>KNotes - um programa simples que lhe permite escrever o equivalente no computador às 'notas autocolantes'.</li>
+    </ul>
+  </description>
+  <description lang="pt-BR">
+    <p>Seu e-mail, calendário, contatos e outros dados pessoais unidos no Kontact. Ele reúne tudo isso em um único lugar e ajuda você a gerenciar suas mensagens, organizar o seu dia e trabalhar com seus colegas.</p>
+    <p>O Kontact unifica vários programas gerenciadores de informação em uma única janela para fornecer a melhor experiência possível e aumentar a sua produtividade. Com o Kontact, você pode usar todas as ferramentas da nossa poderosa suíte em um único lugar. Ao contrário de aplicações proprietárias da web, nós valorizamos sua privacidade e apoiamos formatos abertos, dando a você controle total sobre os seus dados. Você também pode acessar seus dados offline caso queira, é claro.</p>
+    <p>A suíte do Kontact é composta pelos seguintes componentes bem integrados:</p>
+    <ul>
+      <li>KMail - um cliente de e-mail poderoso e cheio de recursos com suporte a uma ampla variedade de provedores de email.</li>
+      <li>KOrganizer - um calendário e componente de agendamento do Kontact capaz de funcionar com o Nextcloud, Kolab, Google Agenda e outros serviços de calendário.</li>
+      <li>KAddressBook - uma ferramenta de gerenciamento de contatos fácil de usar capaz de sincronizar seus contatos com diversos serviços populares.</li>
+      <li>Akregator - um leitor de notícias com poderosos recursos de pesquisa e arquivamento.</li>
+      <li>KNotes - uma programa simples que permite escrever o equivalente a notas adesivas no seu computador.</li>
+    </ul>
+  </description>
+  <description lang="ru">
+    <p>Kontact служит для работы с электронной почтой, управления календарями, контактами и другими личными данными. Kontact объединяет всё это в одном приложении и позволяет управлять коммуникациями, планировать рабочий день и взаимодействовать с коллегами.</p>
+    <p>Kontact предоставляет удобный единый интерфейс, объединяющий различные приложения для управления личной информацией. Kontact позволяет полностью контролировать свои данные, так как в отличии от проприетарных веб-приложений, KDE заботится о конфиденциальности и поддерживает открытые стандарты. Кроме того, поддерживается доступ к загруженным данным в автономном режиме.</p>
+    <p>Kontact состоит из нескольких взаимодействующих между собой модулей:</p>
+    <ul>
+      <li>KMail — мощный почтовый клиент с богатым набором функций, поддерживающий множество почтовых служб.</li>
+      <li>KOrganizer — модуль для работы с календарями, поддерживающий Nextcloud, Kolab, Google Календарь и другие службы календарей.</li>
+      <li>KAddressBook — простой в использовании инструмент, предназначенный для синхронизации контактов с множеством популярных служб.</li>
+      <li>Akregator ­— чтение новостей с расширенным поиском и возможностью архивирования.</li>
+      <li>KNotes ­— простое приложение, предназначенное для создания заметок.</li>
+    </ul>
+  </description>
+  <description lang="sk">
+    <p>Zaobchádzajte s e-mailom, kalendárom, kontaktmi a inými osobnými údajmi pomocou aplikácie Kontact. Kontact zoskupuje všetko dohromady na jednom mieste a pomáha vám spravovať vašu komunikáciu, organizovať deň a pracovať s kolegami.</p>
+    <p>Kontact zjednocuje niekoľko aplikácií na správu osobných informácií do jedného okna, aby vám poskytol čo najlepší zážitok a zvýšil vašu produktivitu. S programom Kontact môžete používať všetky nástroje našej výkonnej súpravy na jednom mieste. Na rozdiel od proprietárnych webových aplikácií si ceníme vaše súkromie a podporujeme otvorené štandardy, a preto vám spoločnosť Kontact poskytuje úplnú kontrolu nad vašimi údajmi. K vašim údajom môžete, samozrejme, pristupovať aj offline.</p>
+    <p>Kontact sa skladá z niekoľkých dobre integrovaných komponentov:</p>
+    <ul>
+      <li>KMail - výkonný a na funkcie bohatý e-mailový klient s podporou širokej škály poskytovateľov e-mailov.</li>
+      <li>KOrganizer - komponent kalendára a plánovania spoločnosti Kontact, ktorý je schopný pracovať s programami NextCloud, Kolab, Kalendár Google a ďalšími kalendárnymi službami.</li>
+      <li>KAddressBook - ľahko použiteľný nástroj na správu kontaktov, ktorý dokáže synchronizovať kontakty s mnohými populárnymi službami.</li>
+      <li>Akregator - čítačka správ s výkonnými funkciami vyhľadávania a archivácie.</li>
+      <li>KNotes - jednoduchý program, ktorý vám umožní písať do počítača ekvivalent lepiacich poznámok.</li>
+    </ul>
+  </description>
+  <description lang="sl">
+    <p>S Kontactom upravljate s svojo e-pošto, koledarjem, stiki in drugimi osebnimi podatki. Kontact združuje vse skupaj na enem mestu in vam pomaga pri upravljanju svojih komunikacij, organizacije dela vašega dne in sodelovanja sodelavci.</p>
+    <p>Kontact združuje več aplikacij za upravljanje osebnih podatkov v enem oknu, da vam omogočimo najboljšo možno izkušnjo in možnost da maksimirate svojo produktivnost. S Kontactom lahko uporabite vsa orodja našega zmogljivega paketa na enem mestu. Za razliko od lastniških spletnih aplikacij cenimo vašo zasebnost in podpiramo odprte standarde, zato vam Kontact nudi popoln nadzor nad svojimi podatki. Do svojih podatkov lahko seveda dostopate tudi brez povezave, če želite.</p>
+    <p>Kontact je sestavljen iz več dobro integriranih komponent:</p>
+    <ul>
+      <li>KMail - močan e-poštni odjemalec z mnogo funkcijami  s podporo za številno paleto ponudnikov e-pošte.</li>
+      <li>KOrganizer - komponenta koledarja in načrtovanja Kontacta, ki lahko sodeluje z NextCloud, Kolab, Google Calendar in drugimi koledarskimi storitvami.</li>
+      <li>KAddressBook - enostavno orodje za upravljanje stikov, ki lahko sinhronizira stike z mnogimi priljubljenimi storitvami.</li>
+      <li>Akregator - bralnik novic z zmogljivo funkcijo iskanja in arhiviranja.</li>
+      <li>KNotes - preprost program, ki vam omogoča, da pišete računalniški ekvivalent lepljivih sporočilc.</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <p>Hantera e-post, kalender, kontakter och annan personlig information med Kontact. Kontact grupperar ihop allting på ett ställe och hjälper dig att hantera din kommunikation, organisera dagen och arbeta med kolleger.</p>
+    <p>Kontact förenar flera program för personlig informationshantering i ett enda fönster för att ge dig bästa möjliga upplevelse och öka din produktivitet. Du kan använda alla verktyg i vår kraftfulla svit på ett ställe med Kontact. I motsats till tillverkarspecifika webbprogram värdesätter vi din integritet och stöder öppna standarder, vilket är orsaken till att Kontact ger dig fullständig kontroll av din information. Du kan förstås också komma åt informationen nerkopplad om du vill.</p>
+    <p>Kontact består av flera välintegrerade komponenter:</p>
+    <ul>
+      <li>Kmail: Ett kraftfullt och funktionsrikt e-postprogram med stöd för ett stort antal e-postleverantörer.</li>
+      <li>Korganizer: En kalender- och schemaläggningskomponent i Kontact, som kan arbeta med NextCloud, Kolab, Google kalender och andra kalendertjänster.</li>
+      <li>Adressboken: Ett lättanvänt kontakthanteringsverktyg som kan synkronisera kontakter med många populära tjänster.</li>
+      <li>Akregator: En nyhetsläsare med kraftfull sök- och arkiveringsfunktionalitet.</li>
+      <li>Knotes: Ett enkelt program som låter dig skriva datorns motsvarighet till klisterlappar.</li>
+    </ul>
+  </description>
+  <description lang="tr">
+    <p>E-posta, takvim, kişiler ve diğer kişisel verinizi Kontact ile yönetin. Kontact, her şeyi tek bir yerde toplar ve iletişimini yönetmenize, gününüzü organize etmenize ve iş arkadaşlarınızla verimli çalışmanıza yardımcı olur.</p>
+    <p>Kontact, birkaç kişisel bilgi yönetim uygulamasını tek bir pencereye birleştirerek size olası en iyi deneyimi sunar ve üretkenliğinizi artırır. Kontact ile, güçlü bir takımın tüm araçlarını tek bir yerden kullanabilirsiniz. Müseccel web uygulamalarının yaptığının aksine, gizliliğinize önem verir ve açık standartları destekleriz. Kontact, size veriniz üzerinde tam denetim sunar. Verilerinize çevrimdışı olarak istediğiniz zaman erişebilirsiniz.</p>
+    <p>Kontact, birkaç iyi tümleştirilmiş bileşenden oluşur:</p>
+    <ul>
+      <li>KMail - güçlü ve özellikli bir e-posta istemcisi. Çok sayıda e-posta sağlayıcısını destekler.</li>
+      <li>KOrganizer - takvim ve ajanda bileşeni. NextCloud, Kolab, Google Takvim ve daha birçok takvim hizmeti ile çalışabilir.</li>
+      <li>KAddressBook - birçok popüler hizmetle eşzamanlama yapabilen bir kişi yönetim sistemi.</li>
+      <li>Akregator - güçlü arama ve arşivleme işlevlerine sahip bir haber okuyucu.</li>
+      <li>KNotes - yapışkan notların bilgisayar dengini yazmanıza izin veren yalın bir program.</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>За допомогою Kontact ви зможете одночасно працювати із вашою електронною поштою, календарем, записами контактів та іншими особистими даними. Kontact об'єднує усі ці можливості і допомагає вам керувати вашим спілкування, упорядковувати робочий графік та працювати із колегами.</p>
+    <p>Kontact — об'єднує можливості декількох програм для керування особистими даними під одним дахом і надає вам широкі робочі можливості, збільшуючи вашу продуктивність. За допомогою Kontact ви зможете скористатися усіма засобами нашого потужного комплексу програм. На відміну від вебпрограм із закритим кодом, ми цінуємо вашу конфіденційність та підтримуємо відкриті стандарти зберігання та передавання даних. Ось чому Kontact надає у ваше розпорядження усі можливості з керування вашими даними. Звичайно ж, перевагою програми є і те, що ви зможете працювати зі своїми даними там, де немає з'єднання із інтернетом.</p>
+    <p>Kontact складається із декількох добре інтегрованих компонентів:</p>
+    <ul>
+      <li>KMail — потужної і багатої на можливості програми для роботи з електронною поштою, у якій передбачено підтримку широкого діапазону служб надання послуг електронної пошти.</li>
+      <li>KOrganizer — компонента для роботи з календарем і планування Kontact, який здатен працювати із NextCloud, Kolab, Календарем Google та іншими службами роботи з календарями у інтернеті.</li>
+      <li>KAddressBook — простого засобу керування записами контактів, який може синхронізувати дані із багатьма популярними службами.</li>
+      <li>Akregator — програми для читання новин із потужними можливостями із пошуку та архівування даних.</li>
+      <li>KNotes — простої програми, яка надає вам змогу створювати комп'ютеризований еквівалент липких папірців із нотатками.</li>
+    </ul>
+  </description>
+  <description lang="x-test">
+    <p>xxHandle your email, calendar, contacts and other personal data with Kontact. Kontact groups everything together in one place and helps you manage your communications, organize your day and work with your colleagues.xx</p>
+    <p>xxKontact unifies several personal information management applications into a single window to give you the best possible experience and boost your productivity. With Kontact you can use all the tools of our powerful suite in one place. Unlike proprietary web applications we value your privacy and support open standards, which is why Kontact gives you full control over your data. You can of course also access your data offline if you want to.xx</p>
+    <p>xxKontact consists of several well-integrated components:xx</p>
+    <ul>
+      <li>xxKMail - a powerful and feature-rich email client with support for a wide range of email providers.xx</li>
+      <li>xxKOrganizer - a calendar and scheduling component of Kontact which is able to work with NextCloud, Kolab, Google Calendar and other calendaring services.xx</li>
+      <li>xxKAddressBook - an easy to use contact management tool that can synchronize contacts with many popular services.xx</li>
+      <li>xxAkregator - a news reader with powerful search and archiving functionality.xx</li>
+      <li>xxKNotes - a simple program that lets you write the computer equivalent of sticky notes.xx</li>
+    </ul>
+  </description>
+  <description lang="zh-CN">
+    <p>Kontact 可以帮助您管理电子邮件、日程表、联系人和其他个人数据。它将所有功能集约在单个窗口之中，让您可以高效通信、组织日程并与同事进行协作。</p>
+    <p>Kontact 通过将多种不同的个人信息管理工具整合到单个窗口中来提高您的工作效率。它提供的丰富的功能可在触手可及的距离内轻松访问。与专有网站服务不同，我们尊重您的隐私并支持开放标准，让您可以完全掌控自己的数据。您还可以离线访问自己的数据。</p>
+    <p>Kontact 包括以下高度整合的功能组件：</p>
+    <ul>
+      <li>KMail - 一款功能齐全的电子邮件客户端程序，支持各种电子邮件服务提供商。</li>
+      <li>KOrganizer - 一款日历和日程安排调度工具，支持 NextCloud、Kolab、Google Calendar 以及其他的日历服务。</li>
+      <li>KAddressBook - 一款简单易用的联系人管理工具，可以同步到各种常用的网络服务。</li>
+      <li>Akregator - 一款具备强大搜索和存档功能的新闻阅读器。</li>
+      <li>KNotes - 一款简单易用的电子便签工具。</li>
+    </ul>
+  </description>
+  <pkgname>libsForQt5.kontact</pkgname>
+  <launchable type="desktop-id">org.kde.kontact.desktop</launchable>
+  <icon height="64" width="64" type="cached">kontact.png</icon>
+  <icon height="128" type="cached" width="128">kontact.png</icon>
+  <id>org.kde.kontact.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <developer_name>The KDE Community</developer_name>
+  <developer_name lang="ar">مجتمع كدي</developer_name>
+  <developer_name lang="az">KDE Cəmiyyəti</developer_name>
+  <developer_name lang="ca">La comunitat KDE</developer_name>
+  <developer_name lang="ca-valencia">La comunitat KDE</developer_name>
+  <developer_name lang="cs">Komunita KDE</developer_name>
+  <developer_name lang="da">KDE-fællesskabet</developer_name>
+  <developer_name lang="de">Die KDE-Gemeinschaft</developer_name>
+  <developer_name lang="el">Η Κοινότητα του KDE</developer_name>
+  <developer_name lang="en-GB">The KDE Community</developer_name>
+  <developer_name lang="es">La comunidad de KDE</developer_name>
+  <developer_name lang="et">KDE kogukond</developer_name>
+  <developer_name lang="eu">KDE komunitatea</developer_name>
+  <developer_name lang="fi">KDE-yhteisö</developer_name>
+  <developer_name lang="fr">La communauté de KDE</developer_name>
+  <developer_name lang="gl">A comunidade de KDE</developer_name>
+  <developer_name lang="ia">Le communitate de KDE</developer_name>
+  <developer_name lang="id">Komunitas KDE</developer_name>
+  <developer_name lang="it">La comunità KDE</developer_name>
+  <developer_name lang="ko">KDE 커뮤니티</developer_name>
+  <developer_name lang="nl">De KDE gemeenschap</developer_name>
+  <developer_name lang="nn">KDE-fellesskapet</developer_name>
+  <developer_name lang="pl">Społeczność KDE</developer_name>
+  <developer_name lang="pt">A Comunidade do KDE</developer_name>
+  <developer_name lang="pt-BR">A comunidade KDE</developer_name>
+  <developer_name lang="ru">Сообщество KDE</developer_name>
+  <developer_name lang="sk">KDE komunita</developer_name>
+  <developer_name lang="sl">Skupnost KDE</developer_name>
+  <developer_name lang="sv">KDE-gemenskapen</developer_name>
+  <developer_name lang="tr">KDE Topluluğu</developer_name>
+  <developer_name lang="uk">Спільнота KDE</developer_name>
+  <developer_name lang="x-test">xxThe KDE Communityxx</developer_name>
+  <developer_name lang="zh-CN">KDE 社区</developer_name>
+  <name>Kontact</name>
+  <name lang="ar">متراسلك</name>
+  <name lang="az">Kontact</name>
+  <name lang="bs">Kontact</name>
+  <name lang="ca">Kontact</name>
+  <name lang="ca-valencia">Kontact</name>
+  <name lang="cs">Kontact</name>
+  <name lang="da">Kontact</name>
+  <name lang="de">Kontact</name>
+  <name lang="el">Kontact</name>
+  <name lang="en-GB">Kontact</name>
+  <name lang="es">Kontact</name>
+  <name lang="et">Kontact</name>
+  <name lang="eu">Kontact</name>
+  <name lang="fi">Kontact</name>
+  <name lang="fr">Kontact</name>
+  <name lang="gl">Kontact</name>
+  <name lang="hu">Kontact</name>
+  <name lang="ia">Kontact</name>
+  <name lang="id">Kontact</name>
+  <name lang="it">Kontact</name>
+  <name lang="ko">Kontact</name>
+  <name lang="lt">Kontact</name>
+  <name lang="nb">Kontact</name>
+  <name lang="nds">Kontact</name>
+  <name lang="nl">Kontact</name>
+  <name lang="nn">Kontact</name>
+  <name lang="pl">Kontact</name>
+  <name lang="pt">Kontact</name>
+  <name lang="pt-BR">Kontact</name>
+  <name lang="ro">Kontact</name>
+  <name lang="ru">Kontact</name>
+  <name lang="sk">Kontact</name>
+  <name lang="sl">Kontact</name>
+  <name lang="sv">Kontact</name>
+  <name lang="tr">Kontact</name>
+  <name lang="uk">Kontact</name>
+  <name lang="x-test">xxKontactxx</name>
+  <name lang="zh-CN">Kontact</name>
+  <name lang="zh-TW">個人資訊管理_Kontact</name>
+  <summary>Handle all your emails, calendars, contacts and more within a single window</summary>
+  <summary lang="ar">تعامل مع جميع رسائل البريد الإلكتروني والتقويمات وجهات اتصالك في نافذة واحدة</summary>
+  <summary lang="az">Bütün e-poçtlarınız, təqvimləriniz və digəriləri üzərində bir pəncərədə işləyin</summary>
+  <summary lang="ca">Gestiona tots els correus electrònics, calendaris, contactes i més en una sola finestra</summary>
+  <summary lang="ca-valencia">Gestiona tots els correus electrònics, calendaris, contactes i més en una sola finestra</summary>
+  <summary lang="da">Håndtér alle dine e-mails, kalendere, kontakter og mere i et enkelt vindue</summary>
+  <summary lang="de">Verwalten Sie alle Ihre E-Mails. Kalender, Kontakte und mehr in einem einzigen Fenster</summary>
+  <summary lang="el">Διαχειριστείτε την ηλεκτρονική σας αλληλογραφία, τα ημερολόγιά σας, τις επαφές σας και πολλά άλλα από ένα μόνο παράθυρο.</summary>
+  <summary lang="en-GB">Handle all your emails, calendars, contacts and more within a single window</summary>
+  <summary lang="es">Gestiona todos sus correos, calendarios, contactos y más en una única ventana</summary>
+  <summary lang="et">Kõigi e-kirjade, kalendrite, kontaktide ja veel palju muu käitlemine ühesainsas aknas</summary>
+  <summary lang="eu">Kudeatu zure e-postak, egutegiak, kontaktuak eta gehiago leiho bakarrean</summary>
+  <summary lang="fi">Käsittele kaikkia sähköpostejasi sekä yhteys- ja muita tietojasi yhdestä ikkunasta</summary>
+  <summary lang="fr">Gère vos courriels, calendriers, contacts et autres dans une seule fenêtre</summary>
+  <summary lang="gl">Xestionar o teu correo electrónico, calendario, contactos e máis desde unha única xanela</summary>
+  <summary lang="ia">Manea tote tu messages de eposta, calendarios, contactos e altere intra un singule fenestra</summary>
+  <summary lang="id">Menangani email, kalender, kontak dan selebihnya dalam window tunggal</summary>
+  <summary lang="it">Gestisci tutta la tua posta elettronica, i calendari, i contatti ed altro in una sola finestra</summary>
+  <summary lang="ko">이메일, 달력, 연락처와 같은 개인 정보를 한 곳에서 처리하기</summary>
+  <summary lang="nl">Behandel al uw e-mails, agenda's, contactpersonen en meer in een enkel venster</summary>
+  <summary lang="nn">Handsam all e-posten din og alle kalendrane og kontaktane dine frå eitt program</summary>
+  <summary lang="pl">Zarządzaj swoimi kontami pocztowymi, kalendarzami, kontaktami i więcej w jednym oknie</summary>
+  <summary lang="pt">Trate de todo o seu correio, calendários, contactos e mais ainda dentro de uma única janela</summary>
+  <summary lang="pt-BR">Gerencie em uma única janela todos os seus e-mails, calendários, contatos e muito mais</summary>
+  <summary lang="ru">Работа с электронной почтой, календарями и контактами из одного окна приложения</summary>
+  <summary lang="sk">Spracujte všetky svoje e-maily, kalendáre, kontakty a ďalšie položky v jednom okne</summary>
+  <summary lang="sl">Upravljajte z vsemi e-poštnimi sporočili, koledarji, stiki in drugem v enem samem oknu</summary>
+  <summary lang="sv">Hantera all e-post, kalendrar, kontakter med mera inne i ett enda fönster</summary>
+  <summary lang="tr">Tüm e-posta, takvim, kişiler ve daha fazlasını tek bir pencerede yönetin</summary>
+  <summary lang="uk">Єдине вікно для роботи із вашою електронною поштою, календарями, записами контактів тощо</summary>
+  <summary lang="x-test">xxHandle all your emails, calendars, contacts and more within a single windowxx</summary>
+  <summary lang="zh-CN">在单个窗口中同时管理电子邮件、日程表和联系人</summary>
+  <url type="homepage">https://www.kontact.org/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kontact</url>
+  <url type="help">https://docs.kde.org/?application=kontact</url>
+  <screenshots>
+    <screenshot type="default">
+      <image type="source">https://kontact.kde.org/assets/img/appstream/kontact-summary.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>KMail, the email component of Kontact</caption>
+      <caption lang="ar">بريدك هو عميل بريد إلكتروني خاص بمتراسلك</caption>
+      <caption lang="az">KMail, Kcontaktın e-poçt hissəsidir</caption>
+      <caption lang="ca">El KMail, el component de correu electrònic del Kontact</caption>
+      <caption lang="ca-valencia">KMail, el component de correu electrònic de Kontact</caption>
+      <caption lang="da">KMail, Kontacts e-mailkomponent</caption>
+      <caption lang="de">KMail, die E-Mail-Komponente von Kontact</caption>
+      <caption lang="el">KMail, το ηλεκτρονικό ταχυδρομείο του Kontact</caption>
+      <caption lang="en-GB">KMail, the email component of Kontact</caption>
+      <caption lang="es">KMail, el componente de correo de Kontact</caption>
+      <caption lang="eu">KMail, Kontact-en e-posta osagaia</caption>
+      <caption lang="fi">KMail, Kontactin sähköpostiosa</caption>
+      <caption lang="fr">KMail, le composant pour le courriel de Kontact.</caption>
+      <caption lang="ia">KMail, le componente de e-posta de Kontact</caption>
+      <caption lang="id">KMail, adalah komponen email pada Kontact</caption>
+      <caption lang="it">KMail è il componente di posta elettronica di Kontact</caption>
+      <caption lang="ko">KMail, Kontact의 이메일 구성 요소.</caption>
+      <caption lang="nl">KMail, de e-mailcomponent van Kontact</caption>
+      <caption lang="nn">KMail, e-postprogrammet i Kontact</caption>
+      <caption lang="pl">KMail, składnik poczty w Kontact</caption>
+      <caption lang="pt">KMail, o componente de e-mail do Kontact</caption>
+      <caption lang="pt-BR">KMail, o componente de e-mail do Kontact</caption>
+      <caption lang="ru">KMail — модуль Kontact, предназначенный для работы с электронной почтой</caption>
+      <caption lang="sk">KMail, e-mailová súčasť Kontact</caption>
+      <caption lang="sl">KMail, e-poštna komponenta Kontacta</caption>
+      <caption lang="sv">Kmail: E-postkomponenten i Kontact</caption>
+      <caption lang="tr">KMail, Kontact'ın e-posta bileşeni</caption>
+      <caption lang="uk">KMail — компонент Kontact для роботи з електронною поштою</caption>
+      <caption lang="x-test">xxKMail, the email component of Kontactxx</caption>
+      <caption lang="zh-CN">KMail，Kontact 的电子邮件客户端组件</caption>
+      <image type="source">https://kontact.kde.org/assets/img/appstream/kontact-kmail.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Organize your time, manage events, create todos or schedule meetings with KOrganizer</caption>
+      <caption lang="ar">نظم وقتك وأدر الأحداث وأنشى المهام أو جدولة الاجتماعات مع منظمك</caption>
+      <caption lang="az">Vaxtınızın, tədbirlərinizin idarə dilməsini, tapşırıqlar yaradılmasını, gələcək işlərinizi və ya görüşləriniz planlaşdırmağı KOrganizer ilə həyata keçirin</caption>
+      <caption lang="ca">Organitzeu el vostre temps, gestioneu els esdeveniments, creeu tasques pendents o programeu reunions amb el KOrganizer</caption>
+      <caption lang="ca-valencia">Organitzeu el vostre temps, gestioneu els esdeveniments, creeu tasques pendents o programeu reunions amb KOrganizer</caption>
+      <caption lang="da">Planlæg din tid, administrér begivenheder, opret gøremål og planlæg møder med KOrganizer</caption>
+      <caption lang="de">Organisieren Sie Ihre Zeit, verwalten Sie Ereignisse, erstellen Sie Aufgaben oder planen Sie Besprechungen mit KOrganizer</caption>
+      <caption lang="el">Οργανώστε το χρόνο σας, διαχειριστείτε γεγονότα, δημιουργείστε λίστα μελλοντικών εργασιών ή προγραμματίστε συναντήσεις με το KOrganizer</caption>
+      <caption lang="en-GB">Organise your time, manage events, create to-dos or schedule meetings with KOrganizer</caption>
+      <caption lang="es">Organice su tiempo, gestione eventos, cree tareas pendientes o planifique reuniones con KOrganizer</caption>
+      <caption lang="eu">Antolatu zure denbora, kudeatu ekitaldiak, sortu zereginak edo programatu hitzorduak KOrganize erabiliz</caption>
+      <caption lang="fi">Hallitse ajankäyttöäsi ja tapahtumia, luo tehtäviä tai aikatauluta tapaamisia KOrganizerilla</caption>
+      <caption lang="fr">Organiser votre temps, gérer des évènements, créer des listes de tâches et planifier des réunions avec KOrganizer.</caption>
+      <caption lang="ia">Organisa tu tempore, gere eventos, crea actiones de facer,i.e. tu agnda, o planifica incontros con KOrganizer</caption>
+      <caption lang="id">Atur waktu, kelola acara, ciptakan kegiatan atau jadwalkan rapatmu menggunakan KOrganizer</caption>
+      <caption lang="it">Organizza il tuo tempo, gestisci eventi, crea cose da fare o pianifica delle riunioni con KOrganizer</caption>
+      <caption lang="ko">KOrganizer를 사용하여 일정과 행사를 관리하고, 할 일 목록을 작성하고 모임을 예약하기</caption>
+      <caption lang="nl">Organiseer uw tijd, beheer uw afspraken, maak todo's of plan meetings met KOrganizer</caption>
+      <caption lang="nn">Planlegg dagane, hald oversikt over arrangement, lag oppgåvelister eller inviter til møte med KOrganizer</caption>
+      <caption lang="pl">Organizuj swój czas, zarządzaj wydarzeniami, twórz zadania do zrobienia i planuj spotkania z KOrganizer</caption>
+      <caption lang="pt">Organize o seu tempo, faça a gestão dos eventos, crie tarefas ou agende reuniões com o KOrganizer</caption>
+      <caption lang="pt-BR">Organize o seu tempo, gerencie eventos, crie to-dos ou agende reuniões com o KOrganizer</caption>
+      <caption lang="ru">KOrganizer позволяет планировать время, управлять событиями, создавать задачи и организовывать встречи</caption>
+      <caption lang="sk">Usporiadajte si čas, spravujte udalosti, vytvárajte úlohy alebo plánujte stretnutia s KOrganizer.</caption>
+      <caption lang="sl">Organizirajte svoj čas, upravljajte dogodke, ustvarjajte sezname nedokončanih opravil ali načrtujte sestanke s programom KOrganizer</caption>
+      <caption lang="sv">Organisera din tid, hantera händelser, skapa uppgifter eller schemalägg möten med Korganizer</caption>
+      <caption lang="tr">KOrganizer ile zamanınızı, etkinliklerinizi, toplantılarınızı ve yapılacaklarınızı düzenleyin.</caption>
+      <caption lang="uk">Упорядковуйте ваш графік, керуйте записами подій, створюйте записи завдань та плануйте зустрічі за допомогою KOrganizer</caption>
+      <caption lang="x-test">xxOrganize your time, manage events, create todos or schedule meetings with KOrganizerxx</caption>
+      <caption lang="zh-CN">KOrganizer，安排您的时间、管理事件、创建待办任务</caption>
+      <image type="source">https://kontact.kde.org/assets/img/appstream/kontact-korganizer.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>KAddressBook provides an easy way to manage your contacts</caption>
+      <caption lang="ar">يوفر دفتر عناوينك طريقة سهلة لإدارة جهات الاتصال الخاصة بك </caption>
+      <caption lang="az">KAdressBook əlaqələriniz idarə etməyin asan yolunu təqdim edir</caption>
+      <caption lang="ca">El KAddressBook proporciona una manera fàcil de gestionar els vostres contactes</caption>
+      <caption lang="ca-valencia">KAddressBook proporciona una manera fàcil de gestionar els vostres contactes</caption>
+      <caption lang="cs">KAddressBook poskytuje snadný způsob pro správu kontaktů</caption>
+      <caption lang="da">KAddressBook giver en nem måde at håndtere din kontakter på</caption>
+      <caption lang="de">KAddressBook bietet eine einfache Möglichkeit, Ihre Kontakte zu verwalten</caption>
+      <caption lang="el">Το KAddressBook παρέχει έναν εύκολο τρόπο διαχείρισης των επαφών σας</caption>
+      <caption lang="en-GB">KAddressBook provides an easy way to manage your contacts</caption>
+      <caption lang="es">KAddressBook proporciona un modo sencillo de gestionar sus contactos</caption>
+      <caption lang="eu">KAddressBook-ek zure kontaktuak kudeatzeko era erraz bat ematen du</caption>
+      <caption lang="fi">KAddressBook tarjoaa helpon tavan yhteystietojesi hallintaan</caption>
+      <caption lang="fr">KAddressBook offre une façon simple de gérer vos contacts.</caption>
+      <caption lang="ia">KaddressBook forni un modo facile de gerer tu contactos</caption>
+      <caption lang="id">KAddressBook menyediakan cara yang mudah untuk mengelola kontakmu</caption>
+      <caption lang="it">KAddressBook fornisce un modo semplice per gestire i contatti</caption>
+      <caption lang="ko">KAddressBook을 통하여 연락처를 쉽게 관리하기</caption>
+      <caption lang="nl">KAddressBook biedt een gemakkelijke manier om uw contactpersonen te beheren</caption>
+      <caption lang="nn">KAddressBook lèt deg enkelt halda oversikt over kontaktar</caption>
+      <caption lang="pl">KAddressBook zapewnia łatwy sposób na zarządzanie twoimi kontaktami</caption>
+      <caption lang="pt">O KAddressBook oferece uma forma simples de gerir os seus contactos</caption>
+      <caption lang="pt-BR">O KAddressBook fornece uma maneira fácil de gerenciar seus contatos</caption>
+      <caption lang="ru">KAddressBook позволяет управлять контактами просто</caption>
+      <caption lang="sk">KAddressBook poskytuje jednoduchý spôsob, ako spravovať vaše kontakty.</caption>
+      <caption lang="sl">KAddressBook omogoča preprost način za upravljanje stikov</caption>
+      <caption lang="sv">Adressboken tillhandahåller ett enkelt sätt att hantera dina kontakter</caption>
+      <caption lang="tr">KAddressBook, size kişilerinizi kolayca yönetme olanağı sunar.</caption>
+      <caption lang="uk">KAddressBook — надає у ваше розпорядження простий спосіб керувати вашими записами контактів</caption>
+      <caption lang="x-test">xxKAddressBook provides an easy way to manage your contactsxx</caption>
+      <caption lang="zh-CN">KAddressBook，简单便捷地管理您的联系人</caption>
+      <image type="source">https://kontact.kde.org/assets/img/appstream/kontact-kaddressbook.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Stay on top of the new with Akregator, our news reader</caption>
+      <caption lang="ar">ابق على اطلاع على الجديد مع قارئ الأخبار أكريغاتور</caption>
+      <caption lang="az">Bizim xəbər oxuyucumuz olan Akregator ilə yeniliklərdən hamıdan öncə xəbərdar olun</caption>
+      <caption lang="ca">Manteniu-vos al corrent de les notícies amb l'Akregator, el nostre lector de notícies</caption>
+      <caption lang="ca-valencia">Manteniu-vos al corrent de les notícies amb Akregator, el nostre lector de notícies</caption>
+      <caption lang="da">Hold styr på nyhederne med vores nyhedslæser Akregator</caption>
+      <caption lang="de">Bleiben Sie auf dem Laufenden mit Akregator, unserem Newsreader</caption>
+      <caption lang="el">Μείνετε στην κορυφή των εξελίξεων με το Akregator, τον αναγνώστη ειδήσεων</caption>
+      <caption lang="en-GB">Stay on top of the new with Akregator, our news reader</caption>
+      <caption lang="es">Manténgase al día con Akregator, nuestro lector de noticias</caption>
+      <caption lang="eu">Zaude albisteen jakitun Akregator, gure albiste irakurlearekin</caption>
+      <caption lang="fi">Pysyttele ajan tasalla syötelukijallamme Akregatorilla</caption>
+      <caption lang="fr">Restez au courant des nouvelles avec Akregator, notre lecteur de flux.</caption>
+      <caption lang="ia">Resta al culmine del novas con Akregator, nostre lector de syndication de novas</caption>
+      <caption lang="id">Tetap mengikuti yang baru dengan Akregator, pembaca berita kami</caption>
+      <caption lang="it">Rimani aggiornato sulle novità con Akregator, il nostro lettore di notizie</caption>
+      <caption lang="ko">뉴스 리더 Akregator를 사용해서 최신 정보 따라가기</caption>
+      <caption lang="nl">Sta bovenop het nieuws met Akregator, onze nieuwslezer</caption>
+      <caption lang="nn">Hald deg oppdatert med nyheitslesaren Akregator</caption>
+      <caption lang="pl">Bądź na bieżąco z Akregatorem, naszym czytnikiem wieści</caption>
+      <caption lang="pt">Fique a par das novidades com o Akregator, o nosso leitor de notícias</caption>
+      <caption lang="pt-BR">Fique de olho no que há de novo com o Akregator, o nosso leitor de notícias</caption>
+      <caption lang="ru">Узнавайте новости при помощи Akregator — программы для чтения новостей</caption>
+      <caption lang="sk">Zostaňte v obraze s novinkami s našou čítačkou správ Akregator.</caption>
+      <caption lang="sl">Bodite na sproti obveščeni z Akregatorjem našim bralnikom novic</caption>
+      <caption lang="sv">Håll reda på nyheter med Akregator, vår nyhetsläsare</caption>
+      <caption lang="tr">Haber okuyucumuz Akregator ile her zaman güncel kalın.</caption>
+      <caption lang="uk">Залишайтеся на вістрі подій разом із Akregator, нашою програмою для читання новин</caption>
+      <caption lang="x-test">xxStay on top of the new with Akregator, our news readerxx</caption>
+      <caption lang="zh-CN">Akregator，帮助您获取最新资讯的新闻阅读器</caption>
+      <image type="source">https://kontact.kde.org/assets/img/appstream/kontact-akregator.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kontact</binary>
+  </provides>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release version="5.20.3" date="2022-07-07" />
+    <release date="2022-06-09" version="5.20.2" />
+    <release version="5.20.1" date="2022-05-12" />
+    <release version="5.20.0" date="2022-04-21" />
+  </releases>
+</component>

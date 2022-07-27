@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>pantheon.elementary-notifications</pkgname>
+  <launchable type="desktop-id">io.elementary.notifications.demo.desktop</launchable>
+  <id>io.elementary.notifications</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>Notifications</name>
+  <name lang="zh_TW">通知</name>
+  <name lang="zh_CN">通知</name>
+  <name lang="zh">通知</name>
+  <name lang="uk">Сповіщення</name>
+  <name lang="tr">Bildirimler</name>
+  <name lang="szl">Powiadōmiynia</name>
+  <name lang="sr">Обавештења</name>
+  <name lang="sl">Obvestila</name>
+  <name lang="sk">Oznámenia</name>
+  <name lang="ru">Уведомления</name>
+  <name lang="pt_BR">Notificações</name>
+  <name lang="pt">Notificações</name>
+  <name lang="pl">Powiadomienia</name>
+  <name lang="pa">ਇਤਲਾਹਾਂ</name>
+  <name lang="oc">Notificacions</name>
+  <name lang="nn">Varslingar</name>
+  <name lang="nl">Meldingen</name>
+  <name lang="nb">Varsler</name>
+  <name lang="mr">अधिसूचना</name>
+  <name lang="ko">알림</name>
+  <name lang="ja">通知</name>
+  <name lang="it">Notifiche</name>
+  <name lang="hu">Értesítések</name>
+  <name lang="he">התראות</name>
+  <name lang="gl">Notificacións</name>
+  <name lang="fr">Notifications</name>
+  <name lang="fi">Ilmoitukset</name>
+  <name lang="fa">اعلان ها</name>
+  <name lang="es">Notificaciones</name>
+  <name lang="eo">Avertoj</name>
+  <name lang="en_GB">Notifications</name>
+  <name lang="en_CA">Notifications</name>
+  <name lang="en_AU">Notifications</name>
+  <name lang="de">Benachrichtigungen</name>
+  <name lang="da">Notifikationer</name>
+  <name lang="cs">Upozorňování</name>
+  <name lang="ckb">ئاگادارکردنەوەکان</name>
+  <name lang="ca">Notificacions</name>
+  <name lang="ar">الإشعارات</name>
+  <summary>Notification bubbles and sounds for the desktop</summary>
+  <summary lang="zh_CN">桌面通知气泡和提示音</summary>
+  <summary lang="uk">Бульбашки сповіщень та звуки для стільниці</summary>
+  <summary lang="tr">Güvenli olmayan yapıştırma iletişim kutularında metnin ayrıntılarını göster</summary>
+  <summary lang="ru">Пузыри уведомлений и звуки для рабочего стола</summary>
+  <summary lang="pt">Notificação de bolhas e sons para o ambiente de trabalho</summary>
+  <summary lang="pl">Dymki i dźwięki powiadomień na pulpicie</summary>
+  <summary lang="ja">デスクトップに通知バブルを表示しサウンドを再生します</summary>
+  <summary lang="hu">Értesítési buborékok és hangok az asztalon</summary>
+  <summary lang="he">בועות וצלילים של התראות לשולחן העבודה</summary>
+  <summary lang="fr">Bulles et sons de notifications pour le bureau</summary>
+  <summary lang="fi">Ponnahdusilmoitukset ja ilmoitusäänet työpöydälle</summary>
+  <summary lang="es">Burbujas de notificación y sonidos para el escritorio</summary>
+  <summary lang="en_GB">Notification bubbles and sounds for the desktop</summary>
+  <summary lang="de">Benachrichtigungsblasen und -sounds für den Desktop</summary>
+  <summary lang="cs">Bubliny oznámení a zvuky pro plochy</summary>
+  <summary lang="ckb">دەنگ و بڵقی ئاگادارکردنەوەکان بۆ ڕوومێز</summary>
+  <summary lang="ca">Bafarades i sons de notificació per a l’escriptori</summary>
+  <summary lang="ar">إشعارات على شكل فقاعات وأصوات لسطح المكتب</summary>
+  <description>
+    <p>A notification server for Pantheon</p>
+  </description>
+  <description lang="ar">
+    <p>خادم إشعارات ل Pantheon</p>
+  </description>
+  <description lang="ca">
+    <p>Un servidor de notificacions per al Pantheon</p>
+  </description>
+  <description lang="ckb">
+    <p>ڕاژەیەکی ئاگادارکەرەوە بۆ پانسیۆن</p>
+  </description>
+  <description lang="cs">
+    <p>Server pro upozorňování v Pantheon</p>
+  </description>
+  <description lang="de">
+    <p>Ein Benachrichtigungsserver für Pantheon</p>
+  </description>
+  <description lang="en_GB">
+    <p>A notification server for Pantheon</p>
+  </description>
+  <description lang="es">
+    <p>Un servidor de notificaciones para Pantheon</p>
+  </description>
+  <description lang="fi">
+    <p>Pantheonin ilmoituspalvelin</p>
+  </description>
+  <description lang="fr">
+    <p>Un serveur de notifications pour Pantheon</p>
+  </description>
+  <description lang="he">
+    <p>שרת התראות עבור Pantheon</p>
+  </description>
+  <description lang="hu">
+    <p>Értesítéskiszolgáló a Pantheonhoz</p>
+  </description>
+  <description lang="ja">
+    <p>Pantheon 向けの通知サーバーです</p>
+  </description>
+  <description lang="pl">
+    <p>Serwer powiadomień dla Pantheon</p>
+  </description>
+  <description lang="pt">
+    <p>Um servidor de notificações para o Pantheon</p>
+  </description>
+  <description lang="ru">
+    <p>Сервер уведомлений для Pantheon</p>
+  </description>
+  <description lang="tr">
+    <p>Pantheon için bir bildirim sunucusu</p>
+  </description>
+  <description lang="uk">
+    <p>Сервер сповіщень для Pantheon</p>
+  </description>
+  <description lang="zh_CN">
+    <p>Pantheon 的通知服务器</p>
+  </description>
+  <releases>
+    <release version="6.0.2" urgency="medium" date="2022-06-09">
+      <description>
+        <p>Minor Updates:</p>
+        <ul>
+          <li>Fix missing icon when set from icon name</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="6.0.1" date="2022-04-06" urgency="medium">
+      <description>
+        <p>Minor Updates:</p>
+        <ul>
+          <li>Performance improvements</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-07-19" version="6.0.0" urgency="medium">
+      <description>
+        <p>Complete rewrite:</p>
+        <ul>
+          <li>Support the dark style</li>
+          <li>Action buttons</li>
+          <li>Optional badge icons</li>
+          <li>Automatically badge images with app icons</li>
+          <li>Swipe away to dismiss</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <provides>
+    <binary>io.elementary.notifications</binary>
+  </provides>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="violence-desecration">none</content_attribute>
+    <content_attribute id="violence-slavery">none</content_attribute>
+    <content_attribute id="violence-worship">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="sex-homosexuality">none</content_attribute>
+    <content_attribute id="sex-prostitution">none</content_attribute>
+    <content_attribute id="sex-adultery">none</content_attribute>
+    <content_attribute id="sex-appearance">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+  <translation type="gettext">io.elementary.notifications</translation>
+  <compulsory_for_desktop>Pantheon</compulsory_for_desktop>
+  <developer_name>elementary, Inc.</developer_name>
+  <developer_name lang="zh_TW">elementary, Inc.</developer_name>
+  <developer_name lang="zh_CN">elementary, Inc.</developer_name>
+  <developer_name lang="uk">elementary, Inc.</developer_name>
+  <developer_name lang="tr">elementary, Inc.</developer_name>
+  <developer_name lang="sv">elementary, Inc.</developer_name>
+  <developer_name lang="sr">elementary, Inc.</developer_name>
+  <developer_name lang="sl">elementary, Inc.</developer_name>
+  <developer_name lang="sk">elementary, Inc.</developer_name>
+  <developer_name lang="ru">elementary, Inc.</developer_name>
+  <developer_name lang="pt_BR">elementary, Inc.</developer_name>
+  <developer_name lang="pt">elementary, Inc.</developer_name>
+  <developer_name lang="pl">elementary, Inc.</developer_name>
+  <developer_name lang="oc">elementary, Inc.</developer_name>
+  <developer_name lang="nn">elementary, Inc.</developer_name>
+  <developer_name lang="nl">elementary, Inc.</developer_name>
+  <developer_name lang="mr">एलिमेंटरी,Inc.</developer_name>
+  <developer_name lang="ml">elementary, Inc.</developer_name>
+  <developer_name lang="lt">elementary, Inc.</developer_name>
+  <developer_name lang="ko">elementary, Inc.</developer_name>
+  <developer_name lang="ja">elementary, Inc.</developer_name>
+  <developer_name lang="it">elementary, Inc.</developer_name>
+  <developer_name lang="hu">elementary, Inc.</developer_name>
+  <developer_name lang="he">elementary בע״מ.</developer_name>
+  <developer_name lang="gl">elementary, Inc.</developer_name>
+  <developer_name lang="fr">elementary, Inc.</developer_name>
+  <developer_name lang="fi">elementary, Inc.</developer_name>
+  <developer_name lang="es">elementary, Inc.</developer_name>
+  <developer_name lang="eo">elementary, Inc.</developer_name>
+  <developer_name lang="en_GB">elementary, Inc.</developer_name>
+  <developer_name lang="en_CA">elementary, Inc.</developer_name>
+  <developer_name lang="en_AU">elementary, Inc.</developer_name>
+  <developer_name lang="el">elementary, Inc.</developer_name>
+  <developer_name lang="de">elementary, Inc.</developer_name>
+  <developer_name lang="da">elementary, Incorporated.</developer_name>
+  <developer_name lang="cs">elementary, Inc.</developer_name>
+  <developer_name lang="ckb">کۆمپانیای ئێلەمێنتەری هاوپشک.</developer_name>
+  <developer_name lang="ca">elementary, Inc.</developer_name>
+  <developer_name lang="bs">elementary, Inc.</developer_name>
+  <developer_name lang="ar">elementary, Inc.</developer_name>
+  <developer_name lang="am">elementary, Inc.</developer_name>
+  <url type="homepage">http://elementary.io</url>
+  <url type="bugtracker">https://github.com/elementary/notifications/issues</url>
+</component>

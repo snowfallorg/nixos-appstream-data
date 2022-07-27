@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>gnome.polari</pkgname>
+  <icon type="cached" height="64" width="64">org.gnome.Polari.png</icon>
+  <icon height="128" width="128" type="cached">org.gnome.Polari.png</icon>
+  <id>org.gnome.Polari.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+ and LGPL-2.1+</project_license>
+  <name>Polari</name>
+  <name lang="zh_TW">Polari</name>
+  <name lang="zh_HK">Polari</name>
+  <name lang="zh_CN">Polari</name>
+  <name lang="vi">Polari</name>
+  <name lang="uk">Балаканина</name>
+  <name lang="tr">Polari</name>
+  <name lang="tg">Polari</name>
+  <name lang="te">పొలారి</name>
+  <name lang="sv">Polari</name>
+  <name lang="sr@latin">Polari</name>
+  <name lang="sr">Полари</name>
+  <name lang="sl">Polari</name>
+  <name lang="sk">Polari</name>
+  <name lang="ru">Polari</name>
+  <name lang="ro">Polari</name>
+  <name lang="pt_BR">Polari</name>
+  <name lang="pt">Polari</name>
+  <name lang="pl">Polari</name>
+  <name lang="pa">ਪੋਲਾਰੀ</name>
+  <name lang="oc">Polari</name>
+  <name lang="nl">Polari</name>
+  <name lang="ne">पोलारि</name>
+  <name lang="nb">Polari</name>
+  <name lang="ms">Polari</name>
+  <name lang="ml">പോളരി</name>
+  <name lang="lt">Polari</name>
+  <name lang="lv">Polari</name>
+  <name lang="lo">Polari</name>
+  <name lang="ko">폴라리</name>
+  <name lang="kk">Polari</name>
+  <name lang="ja">Polari</name>
+  <name lang="it">Polari</name>
+  <name lang="id">Polari</name>
+  <name lang="hu">Polari</name>
+  <name lang="hr">Polari</name>
+  <name lang="he">Polari</name>
+  <name lang="gl">Polari</name>
+  <name lang="fur">Polari</name>
+  <name lang="fr">Polari</name>
+  <name lang="fi">Polari</name>
+  <name lang="fa">پولاری</name>
+  <name lang="eu">Polari</name>
+  <name lang="et">Polari</name>
+  <name lang="es">Polari</name>
+  <name lang="eo">Polario</name>
+  <name lang="en_GB">Polari</name>
+  <name lang="el">Polari</name>
+  <name lang="de">Polari</name>
+  <name lang="da">Polari</name>
+  <name lang="cs">Polari</name>
+  <name lang="ckb">پۆلاری</name>
+  <name lang="ca@valencia">Polari</name>
+  <name lang="ca">Polari</name>
+  <name lang="bs">Polari</name>
+  <name lang="be">Polari</name>
+  <name lang="as">Polari</name>
+  <name lang="ar">پولاري</name>
+  <name lang="af">Polari</name>
+  <summary>Talk to people on IRC</summary>
+  <summary lang="zh_CN">和 IRC 上的朋友聊天</summary>
+  <summary lang="uk">Спілкування у IRC</summary>
+  <summary lang="tr">IRC’deki insanlarla konuş</summary>
+  <summary lang="sv">Prata med folk på IRC</summary>
+  <summary lang="sr">Разговарајте са другима преко ИРЦ-а</summary>
+  <summary lang="sl">Pogovor z uporabniki okolja IRC</summary>
+  <summary lang="sk">Komunikuje s ľuďmi na IRC</summary>
+  <summary lang="ru">Разговор с людьми в IRC</summary>
+  <summary lang="ro">Conversați cu oameni pe IRC</summary>
+  <summary lang="pt_BR">Converse com pessoas no IRC</summary>
+  <summary lang="pt">Fale com as pessoas no IRC</summary>
+  <summary lang="pl">Rozmawiaj z ludźmi w sieci IRC</summary>
+  <summary lang="nl">Praat met andere mensen op IRC</summary>
+  <summary lang="nb">Snakk med folk på IRC</summary>
+  <summary lang="lt">Kalbėkite su žmonėmis IRC tinkle</summary>
+  <summary lang="lv">Sarunājieties ar cilvēkiem IRC tīklā</summary>
+  <summary lang="ko">IRC에서 여러 사람과 대화합니다</summary>
+  <summary lang="id">Mengobrol dengan orang lain di IRC</summary>
+  <summary lang="hu">Beszéljen emberekkel IRC-n</summary>
+  <summary lang="hr">Razgovarajte s ljudima na IRC-u</summary>
+  <summary lang="he">לשוחח עם אנשים ב־IRC</summary>
+  <summary lang="gl">Fale con xente por IRC</summary>
+  <summary lang="fr">Discuter avec des gens sur IRC</summary>
+  <summary lang="fi">Keskustele muiden kanssa IRC:ssä</summary>
+  <summary lang="fa">صحبت با افراد روی آی‌آرسی</summary>
+  <summary lang="eu">Hitz egin jendearekin IRC bidez</summary>
+  <summary lang="es">Hable con gente por IRC</summary>
+  <summary lang="en_GB">Talk to people on IRC</summary>
+  <summary lang="el">Συνομιλία με άτομα στο IRC</summary>
+  <summary lang="de">Mit anderen Leuten über IRC kommunizieren</summary>
+  <summary lang="da">Tal med folk over IRC</summary>
+  <summary lang="cs">Povykládejte si s lidmi na IRC</summary>
+  <summary lang="ca">Parleu amb la gent a l'IRC</summary>
+  <description>
+    <p>
+      A simple Internet Relay Chat (IRC) client that is designed to integrate
+      seamlessly with GNOME; it features a simple and beautiful interface which
+      allows you to focus on your conversations.
+    </p>
+    <p>
+      You can use Polari to publicly chat with people in a channel, and to
+      have private one-to-one conversations. Notifications make sure that
+      you never miss an important message.
+    </p>
+  </description>
+  <description lang="af">
+    <p>'n Eenvoudige implementasie van die IRC protokol. Dit bevat 'n pragtige koppelvlak wat ontwerp is om jou aandag op jou gesprekke te hou.</p>
+  </description>
+  <description lang="ar">
+    <p>عميل بسيط للمحادثة المنقولة بالإنترنت (IRC) والمُصمم للتكامل بسلاسة مع جنوم.
+يتميز التطبيق بالواجهة البسيطة والجذابة والتي تتيح لك التركيز على محادثاتك.</p>
+  </description>
+  <description lang="as">
+    <p>এটা সাধাৰণ ইন্টাৰনেট ৰিলে চেট (IRC) ক্লাএন্ট যাক GNOME ৰ সৈতে সহজভাৱে অনুকলন কৰিবলে ৰূপাঙ্কণ কৰা হৈছে; ইয়াৰ এটা সাধাৰণ আৰু ধূনীয়া আন্তঃপৃষ্ঠ আছে যি আপোনাক আপোনাৰ কথোপকথনৰ ওপৰত মনোনিবেষ কৰায়।</p>
+  </description>
+  <description lang="be">
+    <p>Просты IRC-кліент які створаны для асяроддзя GNOME; мае просты і прыгожы інтэрфейс які дазваляе вам сканцэнтравацца на вашых размовах.</p>
+  </description>
+  <description lang="bs">
+    <p>Jednostavan Internet Relay Chat (IRC) klijent koji je dizajniran za neprimjetnu integraciju sa GNOME-om; Ima jednostavno i prekrasno sučelje koje vam omogućuje da se usredotočite na vaše razgovore.</p>
+  </description>
+  <description lang="ca">
+    <p>Un client d'IRC (Internet Relay Chat) senzill dissenyat per a integrar-se sense problemes amb el GNOME. Inclou una interfície bonica i senzilla que us permet centrar-vos en les vostres converses.</p>
+    <p>Podeu utilitzar el Polari per a parlar en canals públics, i per a tenir converses privades. Les notificacions us asseguren que no us perdreu cap missatge important.</p>
+  </description>
+  <description lang="ca@valencia">
+    <p>Un client d'IRC (Internet Relay Chat) senzill dissenyat per integrar-se sense problemes amb el GNOME. Inclou una interfície bonica i senzilla que vos permet centrar-vos en les vostres converses.</p>
+  </description>
+  <description lang="cs">
+    <p>Jednoduchý klient IRC (Internet Relay Chat), který je navržen, tak aby dobře zapadl do prostředí GNOME. Má jednoduché a pěkné uživatelské rozhraní, ve kterém se můžete plně věnovat diskuzím.</p>
+    <p>Polari můžete používat k veřejné diskuzi s lidmi na některém z kanálů nebo k soukromé konverzaci dvou lidí. Upozorňování zajistí, že nezmeškáte žádnou důležitou zprávu.</p>
+  </description>
+  <description lang="da">
+    <p>En simpel klient til Internet Relay Chat (IRC), som er designet til at integrere gnidningsfrit med GNOME; den har en simpel og smuk brugerflade, så du kan fokusere på dine samtaler.</p>
+    <p>Du kan bruge Polari til offentligt at chatte med folk i en kanal, samt til private samtaler. Påmindelser sikrer dig, at du aldrig går glip af en vigtig meddelelse.</p>
+  </description>
+  <description lang="de">
+    <p>Ein einfaches Programm für Internet Relay Chats (IRC), das sich nahtlos in Gnome einbindet. Es bietet eine schlanke und schicke Oberfläche, damit Sie sich auf Ihre Unterhaltungen konzentrieren können.</p>
+    <p>Sie können Polari für Chats in öffentlichen Kanälen verwenden, es eignet sich jedoch auch für private Unterhaltungen. Benachrichtigungen sorgen dafür, dass Sie keine wichtige Nachricht mehr verpassen.</p>
+  </description>
+  <description lang="el">
+    <p>Ένας απλός πελάτης μεταγωγής συνομιλίας διαδικτύου (IRC) που σχεδιάστηκε για αδιάλειπτη ενσωμάτωση με το GNOME· χαρακτηρίζεται από μια απλή και όμορφη διεπαφή που σας επιτρέπει να εστιάσετε στις συζητήσεις σας.</p>
+    <p>Μπορείτε να χρησιμοποιήσετε το Polari για να συνομιλήσετε δημόσια με ανθρώπους σε ένα κανάλι, και να έχετε ιδιωτικές συνομιλίες ένας προς έναν. Οι ειδοποιήσεις φροντίζουν ώστε να μην χάσετε ποτέ ένα σημαντικό μήνυμα.</p>
+  </description>
+  <description lang="en_GB">
+    <p>A simple Internet Relay Chat (IRC) client that is designed to integrate seamlessly with GNOME; it features a simple and beautiful interface which allows you to focus on your conversations.</p>
+    <p>You can use Polari to publicly chat with people in a channel, and to have private one-to-one conversations. Notifications make sure that you never miss an important message.</p>
+  </description>
+  <description lang="eo">
+    <p>Simpla interreta relajsa babila (IRC) kliento kiu integras fle en GNOME; ĝi havas simplan kaj belan fasadon kiu permesas al vi fokusi viajn interparolojn.</p>
+  </description>
+  <description lang="es">
+    <p>Un sencillo cliente de IRC diseñado para integrarse sin problemas con GNOME. Tiene una interfaz bonita y sencilla que le permite centrarse en sus conversaciones.</p>
+    <p>Puede usar Polari para hablar públicamente con gente en un canal, y para tener conversaciones privadas. Las notificaciones aseguran que nunca perderá un mensaje importante.</p>
+  </description>
+  <description lang="et">
+    <p>Lihtne Interneti rühmadiskussiooni (IRC) klient, mis integreerub sujuvalt GNOME’iga. Polaril on lihtne ja ilus kasutajaliides, mis võimaldab sul keskenduda oma vestlustele.</p>
+  </description>
+  <description lang="eu">
+    <p>IRCrako (Interneteko berriketa-zerbitzua) bezero xume bat GNOMErekin bateratuta egoteko diseinatuta. Interfaze xume eta dotorea du zu berriketetan zentra zaitezen.</p>
+    <p>Polari erabil dezakezu jendearekin publikoki berriketan egiteko kanal batean, eta banan banako berriketa pribatuak edukitzeko. Jakinarazpenek mezu garrantzitsurik ez duzula inoiz galduko ziurtatzen dute.</p>
+  </description>
+  <description lang="fa">
+    <p>یک کارخواه سادهٔ گپ بازپخش اینترنتی (IRC) که برای یکپارچگی با گنوم طراحی شده است؛ شامل یک واسط ساده و زیبا است که به شما اجازه می‌دهد تا بر روی گفت‌وگوهای خود تمرکز کنید.</p>
+    <p>می‌توانید از پولاری برای گپ عمومی در یک کانال و داشتن گفت‌وگوهای خصوصی یک‌به‌یک استفاده کنید. آگاهی‌ها باعث می‌شوند تا هرگز پیامی مهم را از دست ندهید.</p>
+  </description>
+  <description lang="fi">
+    <p>Yksinkertainen IRC-asiakassovellus Gnome-työpöydälle. Pelkistetty ja kaunis käyttöliittymä ei vie huomiota tärkeimmästä, eli keskusteluista.</p>
+    <p>Voit käyttää Polaria julkiseen keskusteluun IRC-kanavilla tai kahdenkeskeiseen keskusteluun toisen käyttäjän kanssa. Ilmoitukset varmistavat, että tärkeät viestit eivät jää huomaamatta.</p>
+  </description>
+  <description lang="fr">
+    <p>Un client IRC simple qui est conçu pour s’intégrer parfaitement avec GNOME. Il dispose d’une interface simple et belle qui permet de vous concentrer sur vos conversations.</p>
+    <p>Vous pouvez utiliser Polari pour discuter publiquement avec des gens dans des salons et avoir des conversations privées. Les notifications vous assurent que vous ne manquez aucun message important.</p>
+  </description>
+  <description lang="fur">
+    <p>Un client IRC (Internet Relay Chat) sempliç e progjetât par integrâsi cun GNOME: une interface grafiche gratificant in estetiche che e permet di concentrâsi su lis propris conversazions.</p>
+  </description>
+  <description lang="gl">
+    <p>Un cliente simple de Internet Relay Chat (IRC) que está deseñado para integrarse perfectamente con GNOME. Conta cunha interface simple e bonita que lle permite enfocarse nas súas conversas.</p>
+    <p>Pode usar Polari para conversar con xente de forma pública nunha canle e ter conversas un-a-un. As notificacións axudaranlle a non perder ningún mensaxe importante.</p>
+  </description>
+  <description lang="he">
+    <p>לקוח העברת שיחה באינטרנט (IRC) פשוט המשולב בצורה חלקה עם GNOME; הוא כולל ממשק פשוט ויפה המאפשר לך להתמקד בשיחות שלך.</p>
+    <p>ניתן להשתמש ב־Polari לשיחות ציבוריות עם אנשים בערוצים, וכן לשיחות פרטיות אחד על אחד. הודעות מוודאות שלעולם לא תפוספס אף הודעה חשובה.</p>
+  </description>
+  <description lang="hr">
+    <p>Jednostavan internet relej klijent (IRC) razgovora koji je dizajniran da se neprimjetno integrira u GNOME; ima jednostavno o lijepo sučelje koje vam omogućuje da se usredotočite na svoje razgovore.</p>
+    <p>Možete koristiti Polari za javne razgovore na kanalu i privatne razgovore u dva oka. Obavijesti omogućuju da nikada ne propustite bitnu poruku.</p>
+  </description>
+  <description lang="hu">
+    <p>Egyszerű IRC kliens, amelyet a GNOME-ba való tökéletes integrációra terveztek. Egyszerű és gyönyörű felülete van, amely lehetővé teszi a beszélgetésekre való koncentrálást.</p>
+    <p>A Polarit arra használhatja, hogy nyilvánosan csevegjen emberekkel egy közös csatornán, vagy privát csevegést folytasson másokkal. Az értesítések gondoskodnak arról, hogy sose maradjon le egyetlen fontos üzenetről sem.</p>
+  </description>
+  <description lang="id">
+    <p>Suatu klien Internet Relay Chat (IRC) sederhana yang dirancang untuk terintegrasi secara mulus dengan GNOME; ini memiliki fitur antar muka yang indah dan sederhana yang memungkinkan Anda fokus ke percakapan Anda.</p>
+    <p>Anda dapat memakai Polari untuk mengobrol secara publik dengan orang-orang dalam suatu kanal, dan untuk menjalankan percakapan satu-ke-satu yang pribadi. Pemberitahuan memastikan bahwa Anda tak pernah melewatkan suatu pesan penting.</p>
+  </description>
+  <description lang="it">
+    <p>Un client IRC (Internet Relay Chat) semplice e progettato per integrarsi con GNOME: un'interfaccia grafica esteticamente appagante che consente di concentrarsi sulle proprie conversazioni.</p>
+  </description>
+  <description lang="ja">
+    <p>シンプルなインターネットリレーチャット (IRC) クライアントです。GNOME とシームレスに統合するように設計されています。会話に集中しやすいシンプルできれいなインターフェースを特長としています。</p>
+  </description>
+  <description lang="ko">
+    <p>간단한 IRC 클라이언트로 그놈 데스크톱과 매끄럽게 통합됩니다. 인터페이스가 간단하고 아름다워 대화에 집중할 수 있습니다.</p>
+    <p>폴라리를 사용해 채널의 여러 사람과 대화할 수 있고, 개인적으로 일대일 대화를 할 수도 있습니다. 알림 기능을 이용해 중요한 메시지를 놓치지 않을 수 있습니다. 개인 대화의 경우에는 폴라리 프로그램으로 전환하지 않고 알림 창에서 즉시 대답을 할 수 있습니다.</p>
+  </description>
+  <description lang="lo">
+    <p>Internet Relay Chat (IRC) ເປັນໂປແກຣມແຊັດທີ່ໃຊ້ງານງ່າຍ ທີ່ໄດ້ຮັບການອອກແບບມາໃຫ້ເຮັດວຽກໄດ້ດີກັບ GNOME ຊຶ່ງມີຫນ້າຕາທີ່ເບິງງ່າຍ ແລະ ເຮັດໃຫ້ທ່ານສາມາດຊຸ່ມໃສ່ແຕ່ການສົນທະນາຂອງທ່ານ.</p>
+  </description>
+  <description lang="lt">
+    <p>Paprastas internetinio perdavimo pokalbių (IRC) klientas, sukurtas sklandžiam integravimuisi su GNOME; jis turi paprastą ir gražią sąsają, kuri leidžia susitelkti ties pokalbiais.</p>
+    <p>Galite naudoti Polari viešiems pokalbiams kanale bei privatiems bendravimams. Pranešimai užtikrina, kad niekuomet nepraleistumėt svarbaus pranešimo.</p>
+  </description>
+  <description lang="lv">
+    <p>Vienkāršs Internet Relay Chat (IRC) klients, kas ir paredzēts integrēšanai ar GNOME. Tajā ir vienkārša un skaista saskarne, kas jums ļauj koncentrēties uz sarunām.</p>
+    <p>Jūs varat izmantot Polari, lai publiski tērzētu ar cilvēkiem "istabās", vai arī privātās sarunās. Paziņojumi palīdz nepalaist garām svarīgus ziņojumus.</p>
+  </description>
+  <description lang="ms">
+    <p>Sebuah klien Sembang Trimantar Internet (IRC) ringkas yang direka untuk disepadukan secara selanjar dengan GNOME; ia memfiturkan antara muka yang ringkas dan cantik yang membolehkan anda kekal fokus terhadap perbualan anda.</p>
+  </description>
+  <description lang="nb">
+    <p>En enkel Internet Relay Chat (IRC)-klient som er laget for å fungere sømløst med GNOME. Den har et enkelt og vakkert grensesnitt som lar deg fokusere på samtaler.</p>
+    <p>Polari kan brukes til å prate offentlig med andre i en kanal, og ha private samtaler med andre. Skrivebordsvarsling sikrer at du aldri går glipp av en viktig melding.</p>
+  </description>
+  <description lang="nl">
+    <p>Een eenvoudige Internet Relay Chat (IRC)-cliënt gemaakt om zonder problemen met Gnome te integreren; het heeft een eenvoudige en mooie interface die ervoor zorgt dat u zich kunt concentreren op uw gesprekken.</p>
+    <p>U kunt Polari gebruiken om een publiek gesprek te voeren met mensen in een kanaal en om één-op-één-privégesprekken te voeren. Meldingen zorgen ervoor dat u nooit een belangrijk bericht zult missen.</p>
+  </description>
+  <description lang="oc">
+    <p>Un client IRC simple qu'es concebut per s'integrar perfèitament amb GNOME. Dispausa d'una interfàcia simpla e polida que permet de vos concentrer sus vòstras conversacions.</p>
+  </description>
+  <description lang="pa">
+    <p>ਇੱਕ ਸਧਾਰਨ ਇੰਟਰਨੈੱਟ ਰਿਲੇਅ ਚੈਟ (IRC) ਕਲਾਂਇਟ ਹੈ, ਗਨੋਮ ਨਾਲ ਡੂੰਘੇ ਰੂਪ ਵਿੱਚ ਜੁੜਿਆ ਹੈ। ਇਸ ਦੇ ਫੀਚਰਾਂ ਵਿੱਚ ਸੌਖਾ ਅਤੇ ਖੂਬਸੂਰਤ ਇੰਟਰਫੇਸ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਤੁਹਾਡੀ ਗੱਲਬਾਤ ਉੱਤੇ ਕੇਂਦਰਿਤ ਰਹਿਣ ਲਈ ਸਹਾਇਕ ਹੈ।</p>
+  </description>
+  <description lang="pl">
+    <p>Prosty klient sieci IRC (Internet Relay Chat) integrujący się ze środowiskiem GNOME. Zawiera on prosty i elegancki interfejs, umożliwiający skupienie się na rozmowach.</p>
+    <p>Można używać programu Polari do publicznych rozmów z innymi na kanale, a także do rozmów z tylko jedną osobą. Powiadomienia zapewniają, że żadna ważna wiadomość nie zostanie pominięta.</p>
+  </description>
+  <description lang="pt">
+    <p>Um cliente simples de Internet Relay Chat (IRC), desenhado para se integrar perfeitamente no GNOME; apresenta uma interface simples e elegante que lhe permite focar-se nas suas conversas.</p>
+    <p>Pode usar o Polari para conversar publicamente com outros num canal e para ter conversas privadas um-a-um. As notificações asseguram que não perde nenhuma mensagem importante.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Um cliente simples de Internet Relay Chat (IRC) que é projetado para integrar de forma transparente com o GNOME. Ele possui uma interface simples e bonita que permite a você se concentrar em suas conversas.</p>
+    <p>Você pode usar o Polari para bater-papo publicamente com pessoas em um canal e para ter conversas particulares de um-para-um. As notificações garantem que você jamais se esqueça de uma mensagem importante.</p>
+  </description>
+  <description lang="ro">
+    <p>Un client simplu IRC (Internet Relay Chat) care oferă integrare perfectă cu mediul GNOME; beneficiază de o interfață simpatică ce vă permite să vă concentrați asupra conversațiilor.</p>
+    <p>Puteți utiliza Polari atât pentru a conversa public cu persoane într-un canal de discuții cât și pentru conversații private unu-la-unu. Notificările asigură că nu ratați niciodată un mesaj important.</p>
+  </description>
+  <description lang="ru">
+    <p>Простой IRC-клиент для GNOME; имеет простой и лаконичный интерфейс, который не отвлекает от бесед.</p>
+    <p>Приложение Polari используется для для публичного и приватного общения на чат-каналах. Благодаря уведомлениям вы никогда не пропустите важного сообщения.</p>
+  </description>
+  <description lang="sk">
+    <p>Jednoduchý program na komunikáciu cez IRC, ktorý je navrhnutý s cieľom úzkej integrácie do prostredia GNOME. Zahŕňa jednoduché a pohľadné rozhranie, ktoré vám umožní sústrediť sa na rozhovory.</p>
+    <p>Aplikáciu Polari môžete použiť na verejné rozhovory s ľuďmi pomocou kanálov, v ktorých môžete diskutovať s jednotlivcami. Oznámenia vám zaistia, že nezmeškáte žiadnu dôležitú správu.</p>
+  </description>
+  <description lang="sl">
+    <p>Enostaven odjemalec IRC, zasnovan za okolje GNOME. Program ima prijeten in pregleden vmesnik, zato je klepetanje prijetno.</p>
+    <p>Program Polari omogoča klepetanje z drugimi uporabniki na javnih kanalih in zasebno z izbrano osebo. Obvestila omogočajo hipen odziv na prejeta sporočila.</p>
+  </description>
+  <description lang="sr">
+    <p>Једноставан клијент за ћаскање пренешено интернетом (ИРЦ) који је направљен са намером да буде неприметно сједињен са Гномом. Одликује га једноставно и лепо сучеље које вам омогућава да се усредсредите на ваше разговоре.</p>
+    <p>Можете користити Полари да бисте јавно причали са људима на каналима и да бисте имали приватне разговоре у четири ока. Обавештења су ту за све важне поруке.</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Jednostavan klijent za ćaskanje prenešeno internetom (IRC) koji je napravljen sa namerom da bude neprimetno sjedinjen sa Gnomom. Odlikuje ga jednostavno i lepo sučelje koje vam omogućava da se usredsredite na vaše razgovore.</p>
+  </description>
+  <description lang="sv">
+    <p>En enkel klient för IRC (Internet Relay Chat) som är designad för att integrera sömlöst med GNOME. Den har ett vackert, enkelt gränssnitt som tillåter dig att fokusera dig på dina konversationer.</p>
+    <p>Du kan använda Polari för att chatta publikt med personer i en kanal, och ha privata enskilda samtal. Aviseringar garanterar dig att aldrig missa ett viktigt meddelande.</p>
+  </description>
+  <description lang="te">
+    <p>గ్నోమ్ తోటి ఏకీకరించిన ఒక తేలికైన ఇంటర్నెట్ రిలే ఛాట్ (ఐఆర్‌సి) కక్షిదారు; ఇది తేలికైన మరియు అందమైన అంతరవర్తితో, మీ సంభాషణలపై దృష్టి కేంద్రీకరించేలా చేస్తూంది.</p>
+  </description>
+  <description lang="tr">
+    <p>GNOME ile sorunsuzca tümleşecek biçimde tasarlanmış, basit, İnternet Aktarımlı Sohbet (IRC) istemcisi; konuşmalarınıza odaklanmanıza sağlayan basit ve güzel arayüzü vardır.</p>
+    <p>Polari’yi insanlarla kanalda genele açık ve özel birebir konuşmalarda kullanabilirsiniz. Bildirimler, önemli iletiyi asla kaçırmayacağınızdan emin olmanızı sağlar.</p>
+  </description>
+  <description lang="uk">
+    <p>Простий клієнт IRC, який розроблено для стільничного середовища GNOME; він має простий і красивий інтерфейс, який дозволяє зосередитись на розмовах.</p>
+    <p>Можете використовувати Polari для відкритих розмов з людьми на каналі й віч-на-віч. Сповіщення допоможуть вам не пропустити важливі повідомлення.</p>
+  </description>
+  <description lang="vi">
+    <p>Một trình khách Internet Relay Chat (IRC) cái mà được thiết kế để tích hợp với GNOME; tính đơn giản và giao điện đẹp làm cho bạn chú tâm vào các cuộc đối thoại của mình.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>一款简单的网络中继聊天（IRC）客户端，与 GNOME 无缝整合；它的特性是界面简洁美观，使您可以专注于聊天。</p>
+    <p>您可以使用 Polari 在聊天室里与大家交谈，也可以进行一对一的私人谈话。通知推送可以确保您不会漏掉任何重要的消息。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>簡易網際網路中繼聊天 (IRC) 客戶端，設計與 GNOME 無縫整合，欲以簡單、優美的介面，讓您專注於對話本身。</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://gitlab.gnome.org/GNOME/polari/raw/HEAD/data/appdata/polari-main.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.gnome.org/GNOME/polari/raw/HEAD/data/appdata/polari-user-list.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.gnome.org/GNOME/polari/raw/HEAD/data/appdata/polari-join-dialog.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.gnome.org/GNOME/polari/raw/HEAD/data/appdata/polari-connection.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.gnome.org/GNOME/polari/raw/HEAD/data/appdata/polari-connection-properties.png</image>
+    </screenshot>
+  </screenshots>
+  <launchable type="desktop-id">org.gnome.Polari.desktop</launchable>
+  <url type="homepage">https://wiki.gnome.org/Apps/Polari</url>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/polari/issues/new</url>
+  <url type="help">https://help.gnome.org/users/polari/stable/</url>
+  <url type="donation">http://www.gnome.org/friends/</url>
+  <url type="translate">https://wiki.gnome.org/TranslationProject</url>
+  <update_contact>fmuellner@gnome.org</update_contact>
+  <project_group>GNOME</project_group>
+  <developer_name>The GNOME Project</developer_name>
+  <developer_name lang="zh_TW">GNOME 專案</developer_name>
+  <developer_name lang="zh_CN">GNOME 项目</developer_name>
+  <developer_name lang="vi">Dự án GNOME</developer_name>
+  <developer_name lang="uk">Проєкт GNOME </developer_name>
+  <developer_name lang="tr">GNOME Projesi</developer_name>
+  <developer_name lang="sv">GNOME-projektet</developer_name>
+  <developer_name lang="sr@latin">Projekat Gnom</developer_name>
+  <developer_name lang="sr">Пројекат Гном</developer_name>
+  <developer_name lang="sl">Projekt GNOME</developer_name>
+  <developer_name lang="sk">Projekt GNOME</developer_name>
+  <developer_name lang="ru">Проект GNOME</developer_name>
+  <developer_name lang="ro">Proiectul GNOME</developer_name>
+  <developer_name lang="pt_BR">O Projeto GNOME</developer_name>
+  <developer_name lang="pt">Projeto GNOME</developer_name>
+  <developer_name lang="pl">Projekt GNOME</developer_name>
+  <developer_name lang="oc">Lo projècte GNOME</developer_name>
+  <developer_name lang="nl">Het Gnome-project</developer_name>
+  <developer_name lang="nb">GNOME prosjektet</developer_name>
+  <developer_name lang="ms">Projek GNOME</developer_name>
+  <developer_name lang="ml">ഗ്നോം പ്രൊജക്ട് </developer_name>
+  <developer_name lang="lt">GNOME projektas</developer_name>
+  <developer_name lang="lv">GNOME projekts</developer_name>
+  <developer_name lang="lo">ໂຄງການ GNOME</developer_name>
+  <developer_name lang="ko">그놈 프로젝트</developer_name>
+  <developer_name lang="kk">GNOME жобасы</developer_name>
+  <developer_name lang="ja">The GNOME Project</developer_name>
+  <developer_name lang="it">Il progetto GNOME</developer_name>
+  <developer_name lang="id">Proyek GNOME</developer_name>
+  <developer_name lang="hu">A GNOME projekt</developer_name>
+  <developer_name lang="hr">GNOME projekt</developer_name>
+  <developer_name lang="he">מיזם GNOME</developer_name>
+  <developer_name lang="gl">O Proxecto GNOME</developer_name>
+  <developer_name lang="fur">Il progjet GNOME</developer_name>
+  <developer_name lang="fr">Le projet GNOME</developer_name>
+  <developer_name lang="fi">Gnome-projekti</developer_name>
+  <developer_name lang="fa">پروژهٔ گنوم</developer_name>
+  <developer_name lang="eu">GNOME proiektua</developer_name>
+  <developer_name lang="et">GNOME projekt</developer_name>
+  <developer_name lang="es">El Proyecto GNOME</developer_name>
+  <developer_name lang="eo">La GNOME-projekto</developer_name>
+  <developer_name lang="en_GB">The GNOME Project</developer_name>
+  <developer_name lang="el">Το έργο GNOME</developer_name>
+  <developer_name lang="de">Das GNOME-Projekt</developer_name>
+  <developer_name lang="da">GNOME-projektet</developer_name>
+  <developer_name lang="cs">Projekt GNOME</developer_name>
+  <developer_name lang="ckb">پرۆژەی گنۆم</developer_name>
+  <developer_name lang="ca">El projecte GNOME</developer_name>
+  <developer_name lang="be">Праект GNOME</developer_name>
+  <developer_name lang="af">Die GNOME-projek</developer_name>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>HighContrast</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>Notifications</kudo>
+    <kudo>UserDocs</kudo>
+  </kudos>
+  <recommends>
+    <control>pointing</control>
+    <control>keyboard</control>
+    <control>touch</control>
+  </recommends>
+  <requires>
+    <display_length compare="ge">medium</display_length>
+  </requires>
+  <translation type="gettext">polari</translation>
+  <releases>
+    <release date="2022-07-04" version="42.1">
+      <description>
+        <p>
+          This release fixes showing notifications for initial messages.
+        </p>
+      </description>
+    </release>
+    <release version="42.0" date="2022-03-19">
+      <description>
+        <p>
+          Slight modernize the appearance and support the new dark mode.
+        </p>
+      </description>
+    </release>
+  </releases>
+  <content_rating type="oars-1.1">
+    <content_attribute id="social-chat">intense</content_attribute>
+    <content_attribute id="social-contacts">intense</content_attribute>
+  </content_rating>
+</component>

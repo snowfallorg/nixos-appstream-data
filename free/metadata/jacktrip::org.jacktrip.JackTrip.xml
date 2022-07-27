@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>jacktrip</pkgname>
+  <icon type="cached" width="64" height="64">org.jacktrip.JackTrip.png</icon>
+  <icon type="cached" width="128" height="128">org.jacktrip.JackTrip.png</icon>
+  <id>org.jacktrip.JackTrip</id>
+  <metadata_license>MIT</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>JackTrip</name>
+  <summary>Connect and play with other musicians</summary>
+  <categories>
+    <category>Audio</category>
+    <category>Network</category>
+  </categories>
+  <description>
+    <p>
+      JackTrip is a cross-platform multi-machine audio system
+      used for network music performance over the Internet.
+      It supports any number of channels (as many as the computer/network can handle)
+      of bidirectional, high quality, uncompressed audio signal streaming.
+    </p>
+    <p>
+      You can use it between any combination of machines e.g., one end using
+      Linux can connect to another using Mac OSX.
+    </p>
+  </description>
+  <launchable type="desktop-id">org.jacktrip.JackTrip.desktop</launchable>
+  <url type="homepage">https://github.com/jacktrip/jacktrip</url>
+  <url type="help">https://jacktrip.github.io/jacktrip</url>
+  <url type="bugtracker">https://github.com/jacktrip/jacktrip/issues</url>
+  <project_group>JackTrip</project_group>
+  <developer_name>The JackTrip Community</developer_name>
+  <provides>
+    <binary>jacktrip</binary>
+  </provides>
+  <requires>
+    <control>keyboard</control>
+    <control>pointing</control>
+    <display_length compare="ge">907</display_length>
+  </requires>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Hubclient Mode</caption>
+      <image>https://jacktrip.github.io/jacktrip/images/jacktrip_hubclient_basic.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Hubclient Mode // Plugins tab</caption>
+      <image>https://jacktrip.github.io/jacktrip/images/jacktrip_hubclient_plugins.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Hubserver Mode</caption>
+      <image>https://jacktrip.github.io/jacktrip/images/jacktrip_hubserver_basic.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Hubserver Mode // Jitter Buffer Tab</caption>
+      <image>https://jacktrip.github.io/jacktrip/images/jacktrip_hubserver_jitter.png</image>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release version="1.5.3" date="2022-03-28">
+      <description>
+        <ul>
+          <li>(added) linux instructions for parallel versions</li>
+          <li>(added) docs on running JackTrip with a named JACK server</li>
+          <li>(added) nogui linux release build</li>
+          <li>(update) Auto mode for buffer strategy 3</li>
+          <li>(update) remove extra macOS binary release artifact</li>
+          <li>(fixed) Don't link nogui qmake build with gui libraries</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.5.2" date="2022-03-02">
+      <description>
+        <ul>
+          <li>(update) RingBuffer replaced by Regulator for experimental buffer strategy 3</li>
+          <li>(update) call out old jacktrip versions in package repos on Debian and others</li>
+          <li>(update) first attempt to support BSDs (especially FreeBSD)</li>
+          <li>(update) add signing to macOS packaging script</li>
+          <li>(update) Rename __MANUAL_POLL__ TO MANUAL_POLL</li>
+          <li>(update) RtAudio warning changes</li>
+          <li>(update) Use bundled rtaudio for Windows release builds</li>
+          <li>(update) Incorporate meson build in the main GHA file</li>
+          <li>(fixed) build script doesn't exit if build fails</li>
+          <li>(fixed) false error message for JACK 1.9.20 on M1 builds</li>
+          <li>(fixed) Don't connect our UDP socket</li>
+          <li>(fixed) Fix GUI command line warning</li>
+          <li>(fixed) Limiter allocation in GUI</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.5.1" date="2022-01-07">
+      <description>
+        <ul>
+          <li>(added) option to include the server in the patching for client fan out/in and full mix modes</li>
+          <li>(added) clang-tidy and clang-format CI checks</li>
+          <li>(update) [Meson] only add weakjack include directory when enabled</li>
+          <li>(update) remove reserved macro identifiers // use predefined macros</li>
+          <li>(update) remove 'using namespace std' and add clang-tidy check</li>
+          <li>(fixed) nearly all clazy warnings level 2 fixed</li>
+          <li>(fixed) missing Windows startmenu icon</li>
+          <li>(fixed) missing initializer for PROCESSENTRY32 type (Windows)</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.5.0" date="2022-01-03">
+      <description>
+        <ul>
+          <li>(added) option to upmix mono clients to stereo in hub server mode patching</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-12-18" version="1.4.3">
+      <description>
+        <ul>
+          <li>Generating changelog from YAML file for MkDocs and Flatpaks by @ntonnaett in #442</li>
+          <li>Update jacktrip_globals.h by @cchafe in #443</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.4.2" date="2021-12-06">
+      <description>
+        <ul>
+          <li>[Meson] Set RtAudio subproject to version 5.2.0 by @ntonnaett in #436</li>
+          <li>Verbose mode in GUI by @psiborg112 in #434</li>
+          <li>Help screen for app bundle script by @psiborg112 in #439</li>
+          <li>[GHA] Fix weekly cron job entry by @ntonnaett in #441</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-11-11" version="1.4.1">
+      <description>
+        <ul>
+          <li>Fix for OSX installer failures by @mikedickey in #431</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.4.0" date="2021-11-03">
+      <description>
+        <ul>
+          <li>(added) optional GUI from QJackTrip</li>
+          <li>(added) authentication in hub server mode</li>
+          <li>(added) different number of sending and receiving channels</li>
+          <li>(added) append thread IDs to jack client names</li>
+          <li>(added) new patcher mechanism that doesn't delete existing connections</li>
+          <li>(added) MkDocs based documentation</li>
+          <li>(added) weak jack linking</li>
+          <li>(added) manpage</li>
+          <li>(added) MSVC build</li>
+          <li>(added) RtAudio Meson subproject</li>
+          <li>(added) formatting with clang-format</li>
+          <li>(added) static analysis with clang-tidy</li>
+          <li>(added) cross compilation for Windows</li>
+          <li>(added) flatpaks</li>
+          <li>(added) appstream</li>
+          <li>(added) automated builds and deployment for Linux, macOS and Windows</li>
+          <li>(added) macOS and Windows Installers</li>
+          <li>(fixed) regression in remote client name handling</li>
+          <li>(fixed) long jack client names (> 27 characters) in 1.9.11</li>
+          <li>(fixed) Hardcode Derived Class Names of ProcessPlugins to prevent undefined behavior</li>
+          <li>(update) QJackTrip and JackTrip are now identical</li>
+          <li>(update) Change helpscreen wording for --broadcast argument</li>
+          <li>(update) jitter buffer alternatives</li>
+          <li>(update) RtAudio revive</li>
+          <li>(update) RtAudio device selection</li>
+          <li>(update) build script moved to root directory</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.3.0" date="2021-01-14">
+      <description>
+        <ul>
+          <li>(added) async networking in hub listener</li>
+          <li>(added) limiter, compressor, reverb</li>
+          <li>(added) examine audio delay</li>
+          <li>(added) jitter buffer alternatives</li>
+          <li>(added) broadcast output ports</li>
+          <li>(added) PREFIX variable for installation path</li>
+          <li>(added) disconnect on timeout</li>
+          <li>(added) SIGTERM</li>
+          <li>(added) simulate packet loss, jitter</li>
+          <li>(added) hubpatch 5, no auto patching</li>
+          <li>(added) jack client name length check</li>
+          <li>(added) scripts/hubMode/test_hub_mode_server_and_client.sh</li>
+          <li>(added) Meson build</li>
+          <li>(fixed) misc. typos, indentation</li>
+          <li>(fixed) short form IO stat options</li>
+          <li>(fixed) nullptr jack server name when creating jack client</li>
+          <li>(fixed) stop ring buffer blocking when jack has been stopped</li>
+          <li>(fixed) JMess handling of non-western characters</li>
+          <li>(fixed) closing curly brace on mJackTrip client creation</li>
+          <li>(fixed) Warnings</li>
+          <li>(fixed) remove rtaudio device and mpeeraddress msgs.</li>
+          <li>(fixed) signal and slot connections</li>
+          <li>(fixed) incorrect dependency from jacktrip_main</li>
+          <li>(update) RT thread priority for network I/O</li>
+          <li>(update) clipping to saturation</li>
+          <li>(update) build instructions</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.2.2" date="2020-12-27">
+      <description>
+        <ul>
+          <li>(added) bindPort range to reject oddball connections</li>
+          <li>(fixed) jack client name strings</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-08-05" version="1.2.1">
+      <description>
+        <ul>
+          <li>(added) src/build script builds in ../builddir</li>
+          <li>(fixed) refactor "Master" to be "Hub"</li>
+          <li>(fixed) 1.2.1 correctly Versioned and tagged</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-06-07" version="1.2">
+      <description>
+        <ul>
+          <li>(added) jack patching modes (-p) for Hub Mode server (-S)</li>
+          <li>(fixed) Compilation under ubuntu</li>
+          <li>(removed) setRealtimeProcessPriority()</li>
+          <li>(removed) Rtaudio mode (but still has dependencies)</li>
+          <li>(fixed) IPv4-mapped IPv6 addressing bug</li>
+          <li>...</li>
+          <li>(fixed) Fixed compilation for  MacOSX10.11.sdk.</li>
+          <li>(update) Updated to RtAudio 4.1.1, and using shared lib in linux.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.1" date="2015-05-27">
+      <description>
+        <ul>
+          <li>(added) Support for RtAudio. Jacktrip can now be used without Jack</li>
+          <li>(added) DNS Look-up support, now one machine can have a private IP (but still needs to have UDP ports open)</li>
+          <li>(added) New port to Windows XP and Windows Vista (experimental and not tested for a long time, only when using jacktrip as a library)</li>
+          <li>(added) Multiclient Server (experimental and not exposed in the executable)</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2010-11-25" version="1.0.5">
+      <description>
+        <ul>
+          <li>(added) Compatibility with JamLink boxes (restricted at the moment to 48KHz, 64 buffer size and 1 channel)</li>
+          <li>(added) New port structure that allows the communication between a public server and a local client</li>
+          <li>(added) Option for packets without header</li>
+          <li>(added) Option to change default client name</li>
+          <li>(fixed) General optimizations and code cleanup</li>
+          <li>(added) Improved, now cross-platform build script</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.0.4" date="2009-02-05">
+      <description>
+        <ul>
+          <li>(fixed) Buss error caused when no physical inputs or outputs ports are available</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2008-12-29" version="1.0.3">
+      <description>
+        <ul>
+          <li>(added) Redundancy Algorithm for UDP Packets to avoid glitches with packet losses</li>
+          <li>(fixed) Now compiles on 64bits machines</li>
+          <li>(fixed) Improved exceptions handling</li>
+          <li>(added) Basic Karplus-Strong model added as Plug-in</li>
+          <li>(added) Some functionality reimplemented using signals and slots for more flexibility</li>
+          <li>(added) Multiple-Client-Server in alpha testing, expect it working in the next release</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.0.2" type="development" date="2008-09-30">
+      <description>
+        <ul>
+          <li>(added) Port offset mode, to use a different UDP port than the default one.</li>
+          <li>(fixed) Improved thread behavior</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.0.1" date="2008-09-23" type="development">
+      <description>
+        <ul>
+          <li>(added) jamlink mode to connect with jamlink boxes</li>
+          <li>(fixed) thread priority in both Linux and Mac OS X (still need some work on the Mac OS X Version)</li>
+          <li>(fixed) Bug that was causing plug-ins not to behave correctly</li>
+          <li>(added) Loopback mode</li>
+          <li>(added) Underrun Modes: Wavetable (default) and set to zeros</li>
+          <li>(added) Check for peer audio settings, program exists if they don't match</li>
+          <li>(added) Automatically connect ports to available physical audio interface.</li>
+        </ul>
+      </description>
+    </release>
+    <release type="development" version="1.0" date="2008-09-23">
+      <description>
+        <ul>
+          <li>initial release</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <content_rating type="oars-1.1">
+    <content_attribute id="social-audio">intense</content_attribute>
+  </content_rating>
+</component>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>pantheon.switchboard-with-plugs</pkgname>
+  <id>io.elementary.switchboard.onlineaccounts</id>
+  <extends>io.elementary.switchboard</extends>
+  <name>Online Accounts Settings</name>
+  <name lang="uk">Налаштування мережних облікових записів</name>
+  <name lang="tr">Çevrimiçi Hesap Ayarları</name>
+  <name lang="sr">Поставке налога на мрежи</name>
+  <name lang="sk">Nastavenia online účtov</name>
+  <name lang="ru">Настройки онлайн аккаунтов</name>
+  <name lang="pt_BR">Configurações de contas on-line</name>
+  <name lang="pt">Definições de Contas Online</name>
+  <name lang="pl">Ustawienia kont sieciowych</name>
+  <name lang="nl">Online Accounts Instellingen</name>
+  <name lang="nb">Nettbaserte kontoinnstillinger</name>
+  <name lang="mr">ऑनलाइन खाती सेटिंग्ज</name>
+  <name lang="ja">オンラインアカウントの設定</name>
+  <name lang="it">Impostazioni degli account online</name>
+  <name lang="hu">Online fiókok beállításai</name>
+  <name lang="he">הגדרות חשבונות מקוונים</name>
+  <name lang="fr">Paramètres des comptes en ligne</name>
+  <name lang="fi">Verkkotilien asetukset</name>
+  <name lang="es">Configuración de cuentas en línea</name>
+  <name lang="en_GB">Online Accounts Settings</name>
+  <name lang="de">Einstellungen für Internetkonten</name>
+  <name lang="da">Online Konti Indstillinger</name>
+  <name lang="cs">Nastavení online účtů</name>
+  <name lang="ca">Paràmetres dels comptes en línia</name>
+  <summary>Manage online accounts and connected applications</summary>
+  <summary lang="zh_TW">管理線上帳號與連接的應用程式</summary>
+  <summary lang="zh_CN">管理网络账户和已连接的应用</summary>
+  <summary lang="uk">Керування мережними обліковими записами та під'єднаними застосунками</summary>
+  <summary lang="tr">Çevrimiçi hesapları ve bağlı uygulamaları yönetin</summary>
+  <summary lang="sr">Управљајте налозима на мрежи и повезаним програмима</summary>
+  <summary lang="sk">Spravujte online účty a pripojené aplikácie</summary>
+  <summary lang="ru">Управление онлайн аккаунтами и подключенными приложениями</summary>
+  <summary lang="pt_BR">Gerenciar contas online e aplicativos conectados</summary>
+  <summary lang="pt">Gerir contas online e aplicações associadas</summary>
+  <summary lang="pl">Zarządzaj kontami sieciowymi i połączonymi programami</summary>
+  <summary lang="nl">Beheer online accounts en applicaties die verbonden zijn met het internet</summary>
+  <summary lang="nb">Håndter nettkontoer og tilknyttede programmer</summary>
+  <summary lang="mr">ऑनलाइन खाती आणि कनेक्ट केलेले अप्लिकेशन्स व्यवस्थापित करा</summary>
+  <summary lang="lt">Tvarkyti internetines paskyras ir prijungtas programas</summary>
+  <summary lang="ja">オンラインアカウントと接続されたアプリケーションを管理します</summary>
+  <summary lang="it">Gestisci gli account online e le applicazioni collegate</summary>
+  <summary lang="hu">Kezelje online fiókjait és a kapcsolódó alkalmazásait</summary>
+  <summary lang="he">ניהול חשבונות מקוונים ויישומים מקושרים</summary>
+  <summary lang="fr">Gérez les comptes en ligne et les applications connectées</summary>
+  <summary lang="fi">Hallitse verkkotilejä ja yhdistettyjä sovelluksia</summary>
+  <summary lang="es">Gestione las cuentas en línea y las aplicaciones conectadas</summary>
+  <summary lang="eo">Mastrumi retajn kontojn kaj konektitajn aplikaĵojn</summary>
+  <summary lang="en_GB">Manage online accounts and connected applications</summary>
+  <summary lang="en_CA">Manage online accounts and connected applications</summary>
+  <summary lang="en_AU">Manage online accounts and connected applications</summary>
+  <summary lang="de">Internetkonten und verbundene Anwendungen verwalten</summary>
+  <summary lang="da">Håndter online konti og forbundede applikationer</summary>
+  <summary lang="cs">Spravovat online účty a propojené aplikace</summary>
+  <summary lang="ca">Gestioneu els comptes en línia i les aplicacions connectades.</summary>
+  <icon type="stock">preferences-desktop-online-accounts</icon>
+  <translation type="gettext">online-accounts-plug</translation>
+  <releases>
+    <release version="6.5.0" date="2022-05-16" urgency="medium">
+      <description>
+        <p>New features:</p>
+        <ul>
+          <li>Added offline support for CalDAV accounts</li>
+        </ul>
+      </description>
+    </release>
+    <release version="6.4.0" date="2022-04-06" urgency="medium">
+      <description>
+        <p>New features:</p>
+        <ul>
+          <li>Choose refresh rate for IMAP</li>
+        </ul>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" date="2021-12-13" version="6.3.0">
+      <description>
+        <p>New features:</p>
+        <ul>
+          <li>Edit saved CalDAV accounts</li>
+        </ul>
+        <p>Fixes:</p>
+        <ul>
+          <li>Dim window when creating a new IMAP account</li>
+        </ul>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="6.2.1" urgency="medium" date="2021-09-28">
+      <description>
+        <p>Fixes:</p>
+        <ul>
+          <li>Make sure the refresh interval for an IMAP account is set</li>
+          <li>Fix adding, editing, and removing lists in CalDAV apps like Tasks</li>
+        </ul>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Make sure you can always navigate next by pressing the Enter key</li>
+          <li>Close dialogs when pressing the Escape key</li>
+          <li>Use a more complete list of authentication methods for IMAP</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="6.2.0" date="2021-08-25" urgency="medium">
+      <description>
+        <ul>
+          <li>Edit saved IMAP accounts</li>
+          <li>Automatically detect authentication method for IMAP</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="6.1.0" date="2021-07-28" urgency="medium">
+      <description>
+        <ul>
+          <li>Verify login credentials when saving IMAP accounts</li>
+          <li>Set up Archive, Drafts, Sent, and Templates folders for IMAP</li>
+          <li>Close "Add Account" popover when an item is selected</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="6.0.0" urgency="medium" date="2021-07-15">
+      <description>
+        <ul>
+          <li>Complete redesign</li>
+          <li>Fix blurry icons on HiDPI</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/elementary/switchboard-plug-onlineaccounts/master/data/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://elementary.io</url>
+  <url type="bugtracker">https://github.com/elementary/switchboard-plug-onlineaccounts/issues</url>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+</component>

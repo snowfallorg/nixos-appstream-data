@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>Discover songs you are aching to know with an easy-to-use interface.</p>
+    <p>Mousai is a simple application that can identify song similar to Shazam. Just click the listen button, and then wait a few seconds. It will magically return the title and artist of that song!</p>
+    <p>Note: This uses the API of audd.io, so it is necessary to log in to their site to get more trials.</p>
+    <p>Why you will love Mousai?</p>
+    <ul>
+      <li>🎵 Identify the title and artist of the song within seconds.</li>
+      <li>🎙️ Use your microphone or audio from desktop.</li>
+      <li>🎸 Store the identified song including the album art in history.</li>
+      <li>🎼 Preview the identified song with the native player.</li>
+      <li>🌐 Browse the song in the web with the link.</li>
+      <li>📱 Easy-to-use user interface.</li>
+      <li>⌨️ User-friendly keyboard shortcuts.</li>
+    </ul>
+  </description>
+  <description lang="ar">
+    <p>إكتشف أغانٍ تتشوق لمعرفتها بواجهة سهلة اﻹستعمال.</p>
+    <p>Mousai تطبيق بإمكانه تعريف أغانٍ مثل Shazam. انقر فقط على زر الإستماع، ثم انتظر بضع ثوانٍ. سيعرفك بعنوان وفنان الأغنية!</p>
+    <p>ملاحظة: هذا التطبيق يستعمل واجهة برمجة تطبيق audd.io (أي API)، لذا يجب تسجيل الدخول لموقعهم لأخذ المزيد من مدد التجريب.</p>
+    <p>لماذا ستحب Mousai؟</p>
+    <ul>
+      <li>🎵 عرف عنوان وفنان الأغنية في ثوانٍ.</li>
+      <li>🎙️ استعمل الميكروفون أو الصوت الصادر من حاسوبك.</li>
+      <li>🎸 خزن الأغاني المعرفة مع صورة الألبوم في سجل التعريفات.</li>
+      <li>عاين الأغاني المعرفة بالمشغل المحلي.</li>
+      <li>تصفح الأغنية على الأنترنيت باستعمال الرابط.</li>
+      <li>📱 واجهة سهلة الإستعمال.</li>
+      <li>⌨️ إختصارات على لوحة المفاتيح سهلة اﻹستعمال.</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>Objevte skladby, které se vám líbí, díky snadno použitelnému rozhraní.</p>
+    <p>Mousai je jednoduchá aplikace, která dokáže identifikovat skladbu podobně jako Shazam nebo SoundHound. Klikněte na tlačítko poslechu a počkejte několik sekund. Magicky vrátí název a interpreta písně!</p>
+    <p>Poznámka: Aplikace používá API audd.io, takže je nutné přihlásit se na jejich web, abyste získali vyšší počet použití.</p>
+    <p>Proč budete milovat Mousai?</p>
+    <ul>
+      <li>🎵 Během několika sekund identifikujte název a interpreta skladby.</li>
+      <li>🎸 Uložte identifikovanou skladbu včetně obalu alba do historie.</li>
+      <li>🎼 Přehrajte si identifikovanou skladbu s nativním přehrávačem.</li>
+      <li>🌐 Vyhledejte skladbu na internetu pomocí odkazu.</li>
+      <li>📱 Snadno použitelné uživatelské rozhraní.</li>
+      <li>⌨️ Uživatelsky přívětivé klávesové zkratky.</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>Entdecke Lieder, die du unbedingt kennenlernen möchtest, mit einer einfach zu bedienenden Benutzeroberfläche.</p>
+    <p>Mousai ist eine einfache Anwendung, die Lieder ähnlich wie Shazam identifizieren kann. Klicke einfach auf die Schaltfläche „Zuhören“ und warte ein paar Sekunden. Es wird auf magische Weise den Titel und den Interpreten dieses Liedes anzeigen!</p>
+    <p>Hinweis: Mousai benutzt die API von audd.io, daher ist es notwendig dort einen Account anzulegen, um mehr kostenlose Erkennungen zu bekommen.</p>
+    <p>Warum du Mousai lieben wirst?</p>
+    <ul>
+      <li>🎵 Identifiziere den Titel und den Interpreten des Liedes innerhalb von Sekunden.</li>
+      <li>🎙️ Benutze dein Mikrofon oder die Audiowiedergabe deines Desktops.</li>
+      <li>🎸 Speichere das identifizierte Lied einschließlich des Albumcovers im Verlauf.</li>
+      <li>🎼 Höre dir eine Vorschau des identifizierten Titels mit dem nativen Player an.</li>
+      <li>🌐 Suche das Lied im Web mit dem Link.</li>
+      <li>📱 Benutzerfreundliche Oberfläche.</li>
+      <li>⌨️ Benutzerfreundliche Tastaturkürzel.</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>Descubra las canciones que le apetece conocer con una interfaz fácil de usar.</p>
+    <p>Mousai es una sencilla aplicación que puede identificar canciones similar a Shazam. Sólo tienes que pulsar el botón de escuchar y esperar unos segundos. ¡Mágicamente le devolverá el título y el artista de esa canción!</p>
+    <p>Nota: Esto utiliza la API de audd.io, por lo que es necesario iniciar sesión en su sitio para obtener más pruebas.</p>
+    <p>¿Por qué le encantará Mousai?</p>
+    <ul>
+      <li>🎵 Identifica el título y el artista de la canción en cuestión de segundos.</li>
+      <li>🎙️ Utiliza tu micrófono o el audio del escritorio.</li>
+      <li>🎸 Guarda la canción identificada incluyendo la caratula del álbum en el historial.</li>
+      <li>🎼 Previsualiza la canción identificada con el reproductor nativo.</li>
+      <li>🌐 Navega por la canción en la web con el enlace.</li>
+      <li>📱 Interfaz de usuario fácil de usar.</li>
+      <li>⌨️ Atajos de teclado fáciles de usar.</li>
+    </ul>
+  </description>
+  <description lang="eu">
+    <p>Ezagutu ezagutu nahi dituzun abestiak, erabiltzeko erraza den interfaze batekin.</p>
+    <p>Mousai Shazamen antzeko abestiak identifika ditzakeen aplikazio erraz bat da. Entzuteko botoia sakatu eta segundo batzuk itxaron besterik ez duzu egin behar. Magikoki abesti horren izenburua eta artista itzuliko dizkizu!</p>
+    <p>Oharra: honek audidd.io APIa erabiltzen du, eta, beraz, beharrezkoa da saioa bere lekuan hastea proba gehiago lortzeko.</p>
+    <p>Zergatik gustatuko zaizu Mousai?</p>
+    <ul>
+      <li>🎵 Abestiaren izenburua eta artista identifikatzen ditu segundo batzuetan.</li>
+      <li>🎙️ Erabili zure mikrofonoa edo idazmahaiko audioa.</li>
+      <li>🎸 Abesti identifikatua gordetzen du, albumaren karatula barne, historian.</li>
+      <li>🎼 Jatorrizko erreproduzigailuarekin identifikatutako abestia aurreikusten du.</li>
+      <li>🌐 Nabigatu abestian webgunean estekarekin.</li>
+      <li>📱 Erabiltzaile-interfaze erabilerraza.</li>
+      <li>⌨️ Teklatu bidezko lasterketak, erraz erabiltzeko modukoak.</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>Tunnista kappaleet, joiden tietoja kovasti kaipaat, helppokäyttöisen käyttöliittymän avulla.</p>
+    <p>Mousai on sovellus, joka tunnistaa kappaleita kuten Shazam. Napsauta kuuntelupainiketta ja odota muutama sekunti. Saat tietoosi kappaleen nimen ja esittäjän!</p>
+    <p>Huomio: Sovellus käyttää audd.io:n rajapintaa, joten kirjautuminen kyseiseen palveluun on tarpeen, jotta tunnistuskertoja on mahdollista saada lisää.</p>
+    <p>Miksi tulet pitämään Mousaista?</p>
+    <ul>
+      <li>🎵 Tunnista kappale ja sen esittäjä sekunneissa.</li>
+      <li>🎙️ Käytä mikrofonia tai tietokoneelta toistettavaa ääntä.</li>
+      <li>🎸 Tallenna tunnistetun kappaleen tiedot mukaan lukien kuvitus.</li>
+      <li>🎼 Kuuntele esimakua tunnistetusta kappaleesta.</li>
+      <li>🌐 Selaa kappaletta verkossa linkin avulla.</li>
+      <li>📱 Helppokäyttöinen käyttöliittymä.</li>
+      <li>⌨️ Hyödylliset pikanäppäimet.</li>
+    </ul>
+  </description>
+  <description lang="fil">
+    <p>Dumiskubre ng mga kanta gamit ang napakadaling gamiting interface.</p>
+    <p>Ang Mousai ay isang simpleng aplikasyon na kayang maka-identify ng kanta tulad ng Shazam. Pinduting mo lang ang listen button, maghintay sandali. Ibibigay niya na ang pamagat at kumanta ng kanta!</p>
+    <p>Paalala: Gumagamit ito ng API ng audd.io, kaya kinakailangan na mag-log in sa kanilang site upang makatanggap ng mas maraming trials.</p>
+    <p>Bakit magugustuhan mo ang Mousai?</p>
+    <ul>
+      <li>🎵 Kaya niya i-identify and pamagat at kumanta ng kanta.</li>
+      <li>🎙️Gamitin ang mikropono o tunog mula sa iyong desktop.</li>
+      <li>🎸 I-store ang na-identify na kanta kasama ang album art.</li>
+      <li>🎼 I-preview ang kanta gamit ang built-in na player.</li>
+      <li>🌐 I-browse ang kanta sa internet gamit ang link.</li>
+      <li>📱 Simpleng gamiting user interface.</li>
+      <li>⌨️ Madaling gamiting mga keyboard shortcuts.</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>Découvrez les chansons que vous avez hâte de connaître grâce à une interface facile à utiliser.</p>
+    <p>Mousai est une application simple qui peut identifier une chanson similaire à Shazam. Il suffit de cliquer sur le bouton d'écoute, puis d'attendre quelques secondes. Comme par magie, le titre et l'artiste de la chanson seront affichés !</p>
+    <p>Pourquoi vous allez aimer Mousai ?</p>
+    <ul>
+      <li>🎵 Identifiez le titre et l'artiste de la chanson en quelques secondes.</li>
+      <li>🎸 Stockez la chanson identifiée y compris la pochette de l’album dans l’historique.</li>
+      <li>🎼 Prévisualisez la chanson identifiée avec le lecteur natif.</li>
+      <li>🌐 Cherchez la chanson sur le web avec le lien.</li>
+      <li>📱 Interface utilisateur facile à utiliser.</li>
+      <li>⌨️ Raccourcis clavier conviviaux.</li>
+    </ul>
+  </description>
+  <description lang="id">
+    <p>Temukan lagu yang sangat ingin Anda ketahui dengan antarmuka yang mudah digunakan.</p>
+    <p>Mousai adalah aplikasi sederhana yang dapat mengenali lagu yang mirip dengan Shazam. Hanya dengan mengklik tombol dengarkan, dan tunggu beberapa detik. Mousai akan memberitahu judul dan artis lagu tersebut dengan ajaib!</p>
+    <p>Catatan: Ini menggunakan API milik audd.io, jadi Anda harus masuk (log in) pada situs mereka untuk mendapatkan lebih banyak percobaan.</p>
+    <p>Mengapa Anda akan mencintai Mousai?</p>
+    <ul>
+      <li>🎵 Kenali judul dan artis dari sebuah lagu dalam hitungan detik.</li>
+      <li>🎙️ Gunakan mikrofon atau suara anda dari desktop.</li>
+      <li>🌐 Jelajahi lagu di web dengan tautannya.</li>
+      <li>📱 Antarmuka yang mudah digunakan.</li>
+      <li>⌨️ Pintasan keyboard yang bersahabat.</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>Scopri le canzoni che non vedi l'ora di conoscere con un'interfaccia facile da usare.</p>
+    <p>Mousai è una applicazione semplice che può identificare la canzone simile a Shazam. Basta fare clic sul pulsante di ascolto, e poi aspettare qualche secondo. Restituirà magicamente il titolo e l'artista della canzone!</p>
+    <p>Nota: Questo programma utilizza le API di audd.io, quindi è necessario accedere al loro sito per ottenere ulteriori prove.</p>
+    <p>Perché Mousai ti piacerà?</p>
+    <ul>
+      <li>🎵 Identifica il titolo e l'artista della canzone in pochi secondi.</li>
+      <li>🎙️ Usa il tuo microfono o l'audio dal desktop.</li>
+      <li>🎸 Memorizza la canzone identificata, inclusa la copertina dell'album nella cronologiA.</li>
+      <li>🎼 Visualizza l'anteprima del brano identificato con il lettore nativo.</li>
+      <li>🌐 Sfoglia la canzone nel web con il link.</li>
+      <li>📱 Interfaccia utente facile da usare.</li>
+      <li>⌨️ Scorciatoie da tastiera facili da usare.</li>
+    </ul>
+  </description>
+  <description lang="ja">
+    <p>使いやすいインターフェイスで、気になる曲を見つけてみましょう。</p>
+    <p>Mousaiは、Shazamのように曲を認識できるシンプルなアプリケーションです。認識ボタンをクリックして、数秒待つだけ。魔法のように、その曲のタイトルとアーティストを教えてくれます！</p>
+    <p>注：Mousaiは、audd.ioのAPIを使用しているため、より多い回数使用するためには、audDのサイトにログインする必要があります。</p>
+    <p>Mousaiの好きなところは？</p>
+    <ul>
+      <li>🎵 曲のタイトルやアーティストを数秒で特定できること。</li>
+      <li>🎙️ マイクまたはデスクトップ上のオーディオで、認識できること。</li>
+      <li>🎸 認識された曲の履歴（ジャケットを含めて）が、保存されること。</li>
+      <li>🎼 認識された曲をネイティブプレーヤーで試聴することができること。</li>
+      <li>🌐 リンクをクリックすることで、様々なサービスでその曲を聴くことができること。</li>
+      <li>📱 使いやすいインターフェイス</li>
+      <li>⌨️ ユーザーフレンドリーなキーボードショートカット</li>
+    </ul>
+  </description>
+  <description lang="nb_NO">
+    <p>Oppdag sanger du knitrer etter å gjenkjenne med et enkelt brukergrensesnitt.</p>
+    <p>Mousai er et enkelt program som kan gjenkjenne sanger, som Shazam. Klikk på lytteknappen og vent noen sekunder. Det vil magisk vise deg både tittel og artist for sangen.</p>
+    <p>Merk dette bruker API-et til audd.io, så du må logge inn på siden deres for å få flere prøveperioder.</p>
+    <p>Hvorfor du vil elske Mousai?</p>
+    <ul>
+      <li>🎵 Identifiser tittel og artist for en sang på sekunder.</li>
+      <li>🎸 Lagre identifisert spor (inkludert omslag) i historikk.</li>
+      <li>🎼 Forhåndsvis identifisert spor med innebygd avspiller.</li>
+      <li>🌐 Utforsk sporet på nettet med lenken.</li>
+      <li>📱 Enkelt brukergrensesnitt</li>
+      <li>⌨️ Brukervennlige tastatursnarveier</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>Ontdek namen van nummers die je al lang wilde weten middels een eenvoudig te gebruiken toepassing.</p>
+    <p>Mousai is een eenvoudige toepassing waarmee je nummers kunt herkennen, net zoals Shazam. Klik op de luisterknop, wacht een paar seconden en het antwoord staat voor je klaar!</p>
+    <p>Let op: Mousai gebruikt de api van auddi.io. Log in op hun website om meer proeftijd te krijgen.</p>
+    <p>Waarom je Mousai wilt gebruiken?</p>
+    <ul>
+      <li>🎵 Vind de naam van een nummer en artiest in een mum van tijd.</li>
+      <li>🎙️ Neem audio op met je microfoon of van je computer.</li>
+      <li>🎸 Bewaar het herkende nummer, inclusief albumhoes, in de geschiedenis.</li>
+      <li>🎼 Beluister het herkende nummer met de muziekspeler.</li>
+      <li>🌐 Zoek het nummer op op internet middels de link.</li>
+      <li>📱 Eenvoudige vormgeving.</li>
+      <li>⌨️ Gebruiksvriendelijke sneltoetsen.</li>
+    </ul>
+  </description>
+  <description lang="oc">
+    <p>Descobrissètz las cançons que vos agradarà conéisser gràcia a una interfàcia facila de bon utilizar.</p>
+    <p>Mousai es una aplicacion simpla que permet d’identificar de cançon coma Shazam. Sonque clicatz lo boton d’escota e esperatz un momenton. Vos tornarà per magia lo títol e l’artista d’aquela cançon !</p>
+    <p>Nòta : utiliza las API de audd.io, es doncas necessari de se marcar sus lor site per obténer mai d’ensages.</p>
+    <p>Perqué aimaretz Mousai ?</p>
+    <ul>
+      <li>🎵 Identificatz lo títol e l’artista de la cançon en un par de segondas.</li>
+      <li>🎙️ Utilizatz vòstre microfòn o l’àudio del burèu.</li>
+      <li>🎸 Gardatz la cançon identificada en inclusent la cobertura de l’album dins l’istoric.</li>
+      <li>🎼 Previsualizatz la cançon identificada amb un lector natiu.</li>
+      <li>🌐 Cercatz la cançon pel web amb un ligam.</li>
+      <li>📱 Interfàcia de bon utilizar.</li>
+      <li>⌨️ Acorchis clavièr simples.</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>Descubra músicas que deseja conhecer com uma interface fácil de usar.</p>
+    <p>Mousai é uma aplicação simples que pode identificar músicas, semelhante ao Shazam. Basta clicar no botão de ouvir e aguardar alguns segundos. Ele irá retornar magicamente o título e o artista daquela música!</p>
+    <p>Por que vai amar o Mousai?</p>
+    <ul>
+      <li>🎵 Identifique o título e o artista da música em segundos.</li>
+      <li>🎸 Guarde a música identificada, incluindo a arte do álbum no histórico.</li>
+      <li>🎼 Pré visualize a música identificada com o player nativo.</li>
+      <li>🌐 Pesquise na internet a música com o link.</li>
+      <li>📱 Interface de utilizador fácil de usar.</li>
+      <li>⌨️ Atalhos de teclado fáceis de usar.</li>
+    </ul>
+  </description>
+  <description lang="pt_BR">
+    <p>Descubra músicas que você deseja conhecer com uma interface fácil de usar.</p>
+    <p>Mousai é um aplicativo simples que pode identificar músicas, semelhante ao Shazam. Basta clicar no botão de ouvir e aguardar alguns segundos. Ele irá retornar magicamente o título e o artista daquela música!</p>
+    <p>Observação: Isto utiliza a API de audd.io, por isso é necessário fazer login em seu site para obter mais testes.</p>
+    <p>Por que você vai amar o Mousai?</p>
+    <ul>
+      <li>🎵 Identifique o título e o artista da música em segundos.</li>
+      <li>🎙️ Use seu microfone ou áudio do desktop.</li>
+      <li>🎸 Armazene a música identificada incluindo a arte do álbum no histórico.</li>
+      <li>🎼 Visualize a música identificada com o reprodutor nativo.</li>
+      <li>🌐 Procurar a música na web com o link.</li>
+      <li>📱 Interface de usuário fácil de usar.</li>
+      <li>⌨️ Atalhos de teclado amigáveis.</li>
+    </ul>
+  </description>
+  <description lang="ru">
+    <p>Откройте для себя песни, которые вам так хочется узнать, с помощью простого в использовании интерфейса.</p>
+    <p>Mousai - это простое приложение, похожее на Shazam, которое может определить песню. Просто нажмите кнопку прослушивания, а затем подождите несколько секунд. Это волшебным образом вернет название и исполнителя песни!</p>
+    <p>Почему вы полюбите Mousai?</p>
+    <ul>
+      <li>🎵 Определите название и исполнителя песни в течение нескольких секунд.</li>
+      <li>🎸 Храните идентифицированную песню, включая обложку альбома, в истории.</li>
+      <li>🎼 Предварительный просмотр идентифицированной песни с помощью нативного проигрывателя.</li>
+      <li>🌐 Просмотрите песню в Интернете с помощью ссылки.</li>
+      <li>Лёгкий в использовании интерфейс</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <p>Varför du kommer att älska Mousai?</p>
+    <ul>
+      <li>🎵 Identifiera låtens titel och artist inom några sekunder.</li>
+      <li>🎼 Förhandsgranska den identifierade låten med den inbyggda spelaren.</li>
+      <li>📱 Lättanvänt användargränssnitt.</li>
+      <li>⌨️ Användarvänliga kortkommandon.</li>
+    </ul>
+  </description>
+  <description lang="tr">
+    <p>Kullanımı kolay bir arayüzle bilmek istediğiniz şarkıları keşfedin.</p>
+    <p>Mousai, Shazam'a benzer şarkıları tanımlayabilen basit bir uygulamadır. Dinle düğmesine tıklayın ve ardından birkaç saniye bekleyin. Sihirli bir şekilde şarkının adını ve sanatçısını gösterecektir!</p>
+    <p>Not: Bu, audd.io API'sini kullanır, bu nedenle daha fazla deneme almak için sitelerinde oturum açmak gerekir.</p>
+    <p>Mousai'yi neden seveceksiniz?</p>
+    <ul>
+      <li>🎵 Şarkının adını ve sanatçısını saniyeler içinde tanımlayın.</li>
+      <li>🎙️ Mikrofonunuzu veya masaüstünün sesini kullanın.</li>
+      <li>🎸 Albüm görseli dahil olmak üzere tanımlanmış şarkıyı geçmişte saklayın.</li>
+      <li>🎼 Tanımlanan şarkıyı yerel oynatıcıyla ön izleyin.</li>
+      <li>🌐 Web bağlantısıyla şarkıya göz atın.</li>
+      <li>📱 Kullanımı kolay kullanıcı arayüzü.</li>
+      <li>⌨️ Kullanıcı dostu klavye kısayolları.</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>Знаходьте пісні, які ви хочете дізнатись за допомогою простого інтерфейсу.</p>
+    <p>Mousai — це простий застосунок, що може визначити пісню, як це робить Shazam. Просто натисніть кнопку прослуховування, а потім зачекайте кілька секунд. Трохи чаклунства і ви отримаєте назву й виконавця цієї пісні!</p>
+    <p>Примітка: Застосовано API audd.io, тому необхідно увійти на їхній сайт, щоб отримати більше часу користування.</p>
+    <p>Чому ви вподобаєте Mousai?</p>
+    <ul>
+      <li>🎵 Визначає назву та виконавця пісні за лічені секунди.</li>
+      <li>🎙️ Використовує мікрофон або звук зі стільниці.</li>
+      <li>🎸 Зберігає визначену пісню, включно з обкладинками альбомів у історії.</li>
+      <li>🎼 Попереднє прослуховування визначеної пісні у вбудованому програвачі.</li>
+      <li>🌐 Перегляд пісні в інтернеті за посиланням.</li>
+      <li>📱 Простий користувацький інтерфейс.</li>
+      <li>⌨️ Зручні комбінації клавіш.</li>
+    </ul>
+  </description>
+  <description lang="zh_Hans">
+    <p>用简单地方式发现你渴望知道的歌曲。</p>
+    <p>Mousai 是一个与 Shazam 类似的听歌识曲软件，只需单击“聆听”按钮，然后等待几秒钟。它将神奇地反馈该歌曲的标题和艺术家！</p>
+    <p>注意：此操作会使用audd.io的接口，所以多次使用需要登陆到他们的网站。</p>
+    <p>Mousai 有哪些特性呢？</p>
+    <ul>
+      <li>🎵 在几秒内识别歌曲与作曲家。</li>
+      <li>🎙️使用您电脑上的麦克风或音频。</li>
+      <li>🎸保存识别出的歌曲和专辑封面到历史记录中。</li>
+      <li>🎼使用本地播放器预览识别出的歌曲。</li>
+      <li>🌐使用链接在网上浏览歌曲。</li>
+      <li>📱 易于使用的用户界面。</li>
+      <li>⌨️ 用户友好的键盘快捷键。</li>
+    </ul>
+  </description>
+  <pkgname>mousai</pkgname>
+  <icon type="cached" height="64" width="64">io.github.seadve.Mousai.png</icon>
+  <icon width="128" type="cached" height="128">io.github.seadve.Mousai.png</icon>
+  <id>io.github.seadve.Mousai.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <name>Mousai</name>
+  <name lang="uk">Mousai</name>
+  <name lang="ar">Mousai</name>
+  <name lang="fi">Mousai</name>
+  <name lang="ja">Mousai</name>
+  <name lang="oc">Mousai</name>
+  <name lang="eu">Mousai</name>
+  <name lang="pl">Mousai</name>
+  <name lang="nl">Mousai</name>
+  <name lang="nb_NO">Mousai</name>
+  <name lang="es">Mousai</name>
+  <name lang="fr">Mousai</name>
+  <name lang="fil">Mousai</name>
+  <name lang="de">Mousai</name>
+  <name lang="ru">Mousai</name>
+  <name lang="cs">Mousai</name>
+  <name lang="sv">Mousai</name>
+  <name lang="it">Mousai</name>
+  <name lang="id">Mousai</name>
+  <name lang="pt">Mousai</name>
+  <name lang="pt_BR">Mousai</name>
+  <name lang="zh_Hans">Mousai</name>
+  <name lang="tr">Mousai</name>
+  <summary>Identify any songs in seconds</summary>
+  <summary lang="uk">Визначте будь-які пісні за лічені секунди</summary>
+  <summary lang="ar">عرف أي أغنية في ثوانٍ</summary>
+  <summary lang="fi">Tunnista mikä tahansa kappale sekunneissa</summary>
+  <summary lang="ja">数秒であらゆる曲を識別</summary>
+  <summary lang="oc">Identificatz una cançon en unas segondas</summary>
+  <summary lang="eu">Edozein abesti identifikatzen du segundotan</summary>
+  <summary lang="nl">Vind elk nummer in een mum van tijd</summary>
+  <summary lang="nb_NO">Identifiser sanger på sekunder</summary>
+  <summary lang="es">Identifique cualquier canción en segundos</summary>
+  <summary lang="fr">Identifiez n'importe quelle chanson en quelques secondes</summary>
+  <summary lang="fil">Alamin ang kanta sa kaunting sandali</summary>
+  <summary lang="de">Identifiziere alle Lieder in Sekunden</summary>
+  <summary lang="ru">Определяйте любые песни за считанные секунды</summary>
+  <summary lang="cs">Identifikujte jakoukoli skladbu během několika sekund</summary>
+  <summary lang="sv">Identifiera alla låtar på några sekunder</summary>
+  <summary lang="it">Identifica qualsiasi canzone in pochi secondi</summary>
+  <summary lang="id">Kenali lagu apa saja dalam hitungan detik</summary>
+  <summary lang="pt">Identifique qualquer música em segundos</summary>
+  <summary lang="pt_BR">Identifique qualquer música em segundos</summary>
+  <summary lang="zh_Hans">一个迅速听歌识曲的软件</summary>
+  <summary lang="tr">Herhangi bir şarkıyı saniyeler içinde tanımlayın</summary>
+  <url type="homepage">https://github.com/SeaDve/Mousai</url>
+  <url type="bugtracker">https://github.com/SeaDve/Mousai/issues</url>
+  <url type="translate">https://hosted.weblate.org/projects/kooha/mousai/</url>
+  <url type="donation">https://liberapay.com/SeaDve/</url>
+  <!-- Translators: please do NOT translate this -->
+  <developer_name>Dave Patrick</developer_name>
+  <developer_name lang="uk">Дейв Патрік</developer_name>
+  <developer_name lang="ar">Dave Patrick</developer_name>
+  <developer_name lang="fi">Dave Patrick</developer_name>
+  <developer_name lang="ja">Dave Patrick</developer_name>
+  <developer_name lang="oc">Dave Patrick</developer_name>
+  <developer_name lang="eu">Dave Patrick</developer_name>
+  <developer_name lang="eo">Dave Patrick</developer_name>
+  <developer_name lang="sk">Dave Patrick</developer_name>
+  <developer_name lang="pl">Dave Patrick</developer_name>
+  <developer_name lang="nl">Dave Patrick</developer_name>
+  <developer_name lang="nb_NO">Dave Patrick</developer_name>
+  <developer_name lang="es">Dave Patrick</developer_name>
+  <developer_name lang="fr">Dave Patrick</developer_name>
+  <developer_name lang="fil">Dave Patrick</developer_name>
+  <developer_name lang="de">Dave Patrick</developer_name>
+  <developer_name lang="ru">Дэйв Патрик</developer_name>
+  <developer_name lang="cs">Dave Patrick</developer_name>
+  <developer_name lang="sv">Dave Patrick</developer_name>
+  <developer_name lang="it">Dave Patrick</developer_name>
+  <developer_name lang="id">Dave Patrick</developer_name>
+  <developer_name lang="pt">Dave Patrick</developer_name>
+  <developer_name lang="pt_BR">Dave Patrick</developer_name>
+  <developer_name lang="zh_Hans">Dave Patrick</developer_name>
+  <developer_name lang="tr">Dave Patrick</developer_name>
+  <content_rating type="oars-1.1" />
+  <launchable type="desktop-id">io.github.seadve.Mousai.desktop</launchable>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/SeaDve/Mousai/main/screenshots/Mousai-screenshot.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/SeaDve/Mousai/main/screenshots/Mousai-screenshot2.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/SeaDve/Mousai/main/screenshots/Mousai-screenshot3.png</image>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release date="2021-09-08" version="0.6.6">
+      <description>
+        <p>This update contains a fix and translation updates:</p>
+        <ul>
+          <li>Fixed wrong audio source</li>
+          <li>Updated Italian translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.6.5" date="2021-09-08">
+      <description>
+        <p>This is a very minor release containing translations update:</p>
+        <ul>
+          <li>Updated Chinese (Simplified) translations</li>
+          <li>Updated Indonesian translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-09-02" version="0.6.4">
+      <description>
+        <p>This update contains new translations:</p>
+        <ul>
+          <li>Updated Turkish translations</li>
+          <li>Updated Polish translations</li>
+          <li>Updated Chinese (Simplified) translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-08-27" version="0.6.3">
+      <description>
+        <p>This is a minor release containing updated translations:</p>
+        <ul>
+          <li>Updated Finnish translations</li>
+          <li>Updated German translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-08-25" version="0.6.2">
+      <description>
+        <p>This is a fix release:</p>
+        <ul>
+          <li>Fix missing temporary directory</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-08-24" version="0.6.1">
+      <description>
+        <p>This release contains bug fixes and translations updates:</p>
+        <ul>
+          <li>Fixed missiong icon on XFCE (thanks to @apandada1)</li>
+          <li>Updated Italian translations</li>
+          <li>Updated Spanish translations</li>
+          <li>Updated Japanese translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-08-22" version="0.6.0">
+      <description>
+        <p>This release contains UI and translation improvements:</p>
+        <ul>
+          <li>Improved playing animation</li>
+          <li>Minor performance improvements</li>
+          <li>Updated Occitan translations</li>
+          <li>Updated Ukrainian translations</li>
+          <li>Updated Arabic translations</li>
+          <li>Updated German translations</li>
+          <li>Updated Filipino translations</li>
+          <li>Updated Dutch translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-08-10" version="0.5.2">
+      <description>
+        <p>This is a small update with miscellaneous improvements:</p>
+        <ul>
+          <li>Added a beep sound when trying to do something</li>
+          <li>Added Finnish translations</li>
+          <li>Updated Turkish translations</li>
+          <li>Updated Portuguese (Brazil) translations</li>
+          <li>Updated Spanish translations</li>
+          <li>Updated Dutch translations</li>
+          <li>Updated Filipino translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-08-08" version="0.5.1">
+      <description>
+        <p>This is a small update with miscellaneous improvements:</p>
+        <ul>
+          <li>More fine-tuned user interface</li>
+          <li>Added Japanese translations</li>
+          <li>Updated Occitan translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-08-06" version="0.5.0">
+      <description>
+        <p>A semi-big release containing new features and major bug fixes:</p>
+        <ul>
+          <li>Added the ability to select preferred audio source (Either microphone or from desktop audio)</li>
+          <li>Added animation when playing a song</li>
+          <li>Check if there is an audio detected before sending request</li>
+          <li>Fixed not responding issue when the internet is slow</li>
+          <li>Fix multiple songs playing at once</li>
+          <li>Added Czech translations</li>
+          <li>Updated Filipino translations</li>
+          <li>Updated Turkish translations</li>
+          <li>Updated Dutch translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.4.4" date="2021-08-03">
+      <description>
+        <p>This update contains translations and minor ui fixes:</p>
+        <ul>
+          <li>Minor user interface improvements</li>
+          <li>Updated Swedish translations</li>
+          <li>Updated Norwegian Bokmål translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.4.3" date="2021-07-28">
+      <description>
+        <p>This update contains translations and minor fixes:</p>
+        <ul>
+          <li>Better user experience with token dialog</li>
+          <li>Updated Dutch translations</li>
+          <li>Updated Italian translations</li>
+          <li>Updated Turkish translations</li>
+          <li>Updated Spanish translations</li>
+          <li>Updated Esperanto translations</li>
+          <li>Updated French translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.4.2" date="2021-07-03">
+      <description>
+        <p>This update contains minor fixes:</p>
+        <ul>
+          <li>Added option to not show token dialog at startup</li>
+          <li>Minor performance improvements</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.4.1" date="2021-05-23">
+      <description>
+        <p>This contains some fixes for the last update:</p>
+        <ul>
+          <li>Improved UI icons</li>
+          <li>Minor performance improvements</li>
+          <li>Added token checker</li>
+          <li>Fixed a bug when clearing history while listening</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-05-22" version="0.4.0">
+      <description>
+        <p>A release containing exciting new features and fixes!</p>
+        <ul>
+          <li>New built-in player for the identified music</li>
+          <li>Much improved UI, especially with GTK4</li>
+          <li>Much improved recorder efficiency</li>
+          <li>It now saves the window size</li>
+          <li>Several minor bug fixes</li>
+          <li>Updated Dutch translations</li>
+          <li>Updated German translations</li>
+          <li>Updated Spanish translations</li>
+          <li>Updated Italian translations</li>
+          <li>Updated Filipino translations</li>
+          <li>Updated Turkish translations</li>
+          <li>Updated French translations</li>
+          <li>Updated Norwegian Bokmål translations</li>
+          <li>Updated Portuguese (Brazil) translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.3.2" date="2021-05-05">
+      <description>
+        <p>Not a big release, but it has some notable changes:</p>
+        <ul>
+          <li>Improved UI experience</li>
+          <li>Much improved performance and startup</li>
+          <li>Added shortcuts for clearing history and resetting token</li>
+          <li>Updated Portuguese translations</li>
+          <li>Updated Turkish translations</li>
+          <li>Updated Filipino translations</li>
+          <li>Updated Dutch translations</li>
+          <li>Updated Indonesian translations</li>
+          <li>Updated French translations</li>
+          <li>Updated Italian translations</li>
+          <li>Updated German translations</li>
+          <li>Updated Spanish translations</li>
+          <li>Updated Chinese (Simplified) translations</li>
+          <li>Updated Portuguese (Brazil) translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.3.1" date="2021-04-09">
+      <description>
+        <p>Minor improvements:</p>
+        <ul>
+          <li>Minor UI Improvements</li>
+          <li>Window is no longer destroyed on clear history</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.3.0" date="2021-04-08">
+      <description>
+        <p>New features and performance improvements:</p>
+        <ul>
+          <li>Added a play button to preview songs</li>
+          <li>Song history would not output redundant songs now</li>
+          <li>Code cleaning</li>
+          <li>Added Dutch translations</li>
+          <li>Added Norweigan translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.2.0" date="2021-03-31">
+      <description>
+        <p>This update brings few bug fixes:</p>
+        <ul>
+          <li>Fixed a bug when there are two similar named songs</li>
+          <li>Fixed an error when the song was not recognized</li>
+          <li>Added an error when the token has run out</li>
+          <li>Added Filipino translations</li>
+          <li>Added Turkish translations</li>
+          <li>Added Portuguese translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-03-30" version="0.1.0">
+      <description>
+        <p>Initial release.</p>
+      </description>
+    </release>
+  </releases>
+  <custom>
+    <value key="Purism::form_factor">workstation</value>
+    <value key="Purism::form_factor">mobile</value>
+  </custom>
+</component>

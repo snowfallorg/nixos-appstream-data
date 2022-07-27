@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>pantheon.switchboard-with-plugs</pkgname>
+  <id>io.elementary.switchboard.a11y</id>
+  <extends>io.elementary.switchboard</extends>
+  <name>Universal Access Settings</name>
+  <name lang="uk">Налаштування універсального доступу</name>
+  <name lang="tr">Evrensel Erişim Ayarları</name>
+  <name lang="sr">Поставке универзалног приступа</name>
+  <name lang="ru">Параметры универсального доступа</name>
+  <name lang="pt_BR">Configurações de Acesso Universal</name>
+  <name lang="pt">Definições de Acesso Universal</name>
+  <name lang="nl">Universele toegangsinstellingen</name>
+  <name lang="nb">Innstillinger for universell utforming</name>
+  <name lang="mr">सार्वत्रिक प्रवेश सेटिंग्ज</name>
+  <name lang="lt">Universaliosios prieigos nustatymai</name>
+  <name lang="ko">편리한 기능 설정</name>
+  <name lang="ja">ユニバーサルアクセスの設定</name>
+  <name lang="it">Impostazioni di accesso universale</name>
+  <name lang="he">הגדרות גישה אוניברסלית</name>
+  <name lang="gl">Configuración de acceso universal</name>
+  <name lang="fr">Paramètres d'accessibilité</name>
+  <name lang="fi">Esteettömyysasetukset</name>
+  <name lang="es">Configuración de acceso universal</name>
+  <name lang="eo">Universaj aliraj agordoj</name>
+  <name lang="en_GB">Universal Access Settings</name>
+  <name lang="en_CA">Universal Access Settings</name>
+  <name lang="en_AU">Universal Access Settings</name>
+  <name lang="cs">Nastavení univerzálního přístupu</name>
+  <name lang="ca">Paràmetres de l'accés universal</name>
+  <summary>Configure accessibility features</summary>
+  <summary lang="uk">Налаштування функцій доступності</summary>
+  <summary lang="tr">Erişilebilirlik özelliklerini yapılandırın</summary>
+  <summary lang="sr">Подеси функције приступачности</summary>
+  <summary lang="pt_BR">Configurar recursos de acessibilidade</summary>
+  <summary lang="pt">Configurar funcionalidades de acessibilidade</summary>
+  <summary lang="nl">Configureer toegankelijkheidsfuncties</summary>
+  <summary lang="nb">Sett opp tilgjengelighetsfunksjoner</summary>
+  <summary lang="mr">प्रवेशयोग्यता वैशिष्ट्ये कॉन्फिगर करा</summary>
+  <summary lang="lt">Konfigūruoti prieinamumo ypatybes</summary>
+  <summary lang="ko">편리한 기능을 설정합니다</summary>
+  <summary lang="ja">アクセシビリティー機能を設定します</summary>
+  <summary lang="it">Configura le funzioni di accessibilità</summary>
+  <summary lang="he">הגדרת תכונות נגישות</summary>
+  <summary lang="gl">Configurar as funcións de accesibilidade</summary>
+  <summary lang="fr">Configuration des fonctionnalités d'accessibilité</summary>
+  <summary lang="fi">Määritä esteettömyysominaisuudet</summary>
+  <summary lang="es">Configure las funciones de accesibilidad</summary>
+  <summary lang="eo">Agordi faciluzilojn</summary>
+  <summary lang="en_GB">Configure accessibility features</summary>
+  <summary lang="en_CA">Configure accessibility features</summary>
+  <summary lang="en_AU">Configure accessibility features</summary>
+  <summary lang="cs">Nastavit funkce pro zpřístupnění hendikepovaným</summary>
+  <summary lang="ca">Configureu les funcions d'accessibilitat.</summary>
+  <icon type="stock">preferences-desktop-accessibility</icon>
+  <translation type="gettext">accessibility-plug</translation>
+  <releases>
+    <release version="2.3.0" urgency="low" date="2021-07-16">
+      <description>
+        <p>Fixes:</p>
+        <ul>
+          <li>Ensure screen reader shortcut keys are shown</li>
+        </ul>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Add a switch to show the indicator in the Panel</li>
+          <li>Point out how to find other accessibility features in System Settings</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-04-01" urgency="medium" version="2.2.0">
+      <description>
+        <p>Remove panes whose settings now live somewhere else</p>
+        <p>Updated translations</p>
+      </description>
+    </release>
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/elementary/switchboard-plug-a11y/master/data/screenshot-audio.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/elementary/switchboard-plug-a11y/master/data/screenshot-typing.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/elementary/switchboard-plug-a11y/master/data/screenshot-keyboard.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://elementary.io</url>
+  <url type="bugtracker">https://github.com/elementary/switchboard-plug-a11y/issues</url>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+</component>

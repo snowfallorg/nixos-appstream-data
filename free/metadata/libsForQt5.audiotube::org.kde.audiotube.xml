@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>libsForQt5.audiotube</pkgname>
+  <icon width="64" height="64" type="cached">org.kde.audiotube.png</icon>
+  <icon type="cached" width="128" height="128">org.kde.audiotube.png</icon>
+  <id>org.kde.audiotube</id>
+  <name>AudioTube</name>
+  <name lang="ar">تيوب الصوتي</name>
+  <name lang="az">AudioTube</name>
+  <name lang="ca">AudioTube</name>
+  <name lang="ca-valencia">AudioTube</name>
+  <name lang="cs">AudioTube</name>
+  <name lang="de">AudioTube</name>
+  <name lang="en-GB">AudioTube</name>
+  <name lang="es">AudioTube</name>
+  <name lang="eu">AudioTube</name>
+  <name lang="fi">AudioTube</name>
+  <name lang="fr">AudioTube</name>
+  <name lang="hi">ओडियो-ट्यूब</name>
+  <name lang="it">AudioTube</name>
+  <name lang="ko">AudioTube</name>
+  <name lang="nl">AudioTube</name>
+  <name lang="pa">ਆਡੀਓ-ਟਿਊਬ</name>
+  <name lang="pl">AudioTube</name>
+  <name lang="pt">AudioTube</name>
+  <name lang="pt-BR">AudioTube</name>
+  <name lang="ro">AudioTube</name>
+  <name lang="sk">AudioTube</name>
+  <name lang="sl">AudioTube</name>
+  <name lang="sv">AudioTube</name>
+  <name lang="tr">AudioTube</name>
+  <name lang="uk">AudioTube</name>
+  <name lang="x-test">xxAudioTubexx</name>
+  <name lang="zh-CN">AudioTube</name>
+  <summary>Convergent YouTube Music client</summary>
+  <summary lang="ar">عميل موسيقى يوتيوب متعدد المنصات</summary>
+  <summary lang="az">Birləşmiş YouTube Musiqi müştərisi</summary>
+  <summary lang="ca">Client convergent de música de YouTube</summary>
+  <summary lang="ca-valencia">Client convergent de música de YouTube</summary>
+  <summary lang="de">Konvergentes YouTube-Musikprogramm</summary>
+  <summary lang="en-GB">Convergent YouTube Music client</summary>
+  <summary lang="es">Cliente de música de YouTube convergente</summary>
+  <summary lang="eu">YouTube Music bezero konbergentea</summary>
+  <summary lang="fi">Mukautuva YouTube Music -asiakas</summary>
+  <summary lang="fr">Client convergent pour musique sur YouTube</summary>
+  <summary lang="hi">अभिसृत यूट्यूब संगीत क्लाएंट</summary>
+  <summary lang="it">Client YouTube Music convergente</summary>
+  <summary lang="ko">올인원 YouTube Music 클라이언트</summary>
+  <summary lang="nl">Convergente muziekclient van YouTube</summary>
+  <summary lang="pl">Adaptacyjny program do YouTube Music</summary>
+  <summary lang="pt">Cliente de música do YouTube convergente</summary>
+  <summary lang="pt-BR">Um cliente convergente para o YouTube Music</summary>
+  <summary lang="ro">Client convergent de muzică pentru YouTube</summary>
+  <summary lang="sl">Konvergentni odjemalec glasbe YouTube</summary>
+  <summary lang="sv">Konvergent YouTube-musikprogram</summary>
+  <summary lang="tr">Yakınsak YouTube Müzik istemcisi</summary>
+  <summary lang="uk">Зручний музичний клієнт YouTube</summary>
+  <summary lang="x-test">xxConvergent YouTube Music clientxx</summary>
+  <summary lang="zh-CN">桌面和移动设备通用 YouTube Music 客户端</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <developer_name>KDE Community</developer_name>
+  <developer_name lang="ar">مجتمع كدي</developer_name>
+  <developer_name lang="az">KDE İcması</developer_name>
+  <developer_name lang="ca">La comunitat KDE</developer_name>
+  <developer_name lang="ca-valencia">La comunitat KDE</developer_name>
+  <developer_name lang="cs">Komunita KDE</developer_name>
+  <developer_name lang="de">KDE-Gemeinschaft</developer_name>
+  <developer_name lang="en-GB">KDE Community</developer_name>
+  <developer_name lang="es">Comunidad KDE</developer_name>
+  <developer_name lang="eu">KDE komunitatea</developer_name>
+  <developer_name lang="fi">KDE-yhteisö</developer_name>
+  <developer_name lang="fr">Communauté de KDE</developer_name>
+  <developer_name lang="hi">केडीई समुदाय</developer_name>
+  <developer_name lang="it">Comunità KDE</developer_name>
+  <developer_name lang="ko">KDE 커뮤니티</developer_name>
+  <developer_name lang="nl">KDE-gemeenschap</developer_name>
+  <developer_name lang="pa">ਕੇਡੀਈ ਕਮਿਊਨਟੀ</developer_name>
+  <developer_name lang="pl">Społeczność KDE</developer_name>
+  <developer_name lang="pt">Comunidade do KDE</developer_name>
+  <developer_name lang="pt-BR">A Comunidade KDE</developer_name>
+  <developer_name lang="ro">Comunitatea KDE</developer_name>
+  <developer_name lang="sk">KDE komunita</developer_name>
+  <developer_name lang="sl">Skupnost KDE</developer_name>
+  <developer_name lang="sv">KDE-gemenskapen</developer_name>
+  <developer_name lang="tr">KDE Topluluğu</developer_name>
+  <developer_name lang="uk">Спільнота KDE</developer_name>
+  <developer_name lang="x-test">xxKDE Communityxx</developer_name>
+  <developer_name lang="zh-CN">KDE 社区</developer_name>
+  <content_rating type="oars-1.0" />
+  <url type="homepage">https://apps.kde.org/en/audiotube</url>
+  <releases>
+    <release version="22.06" date="2022-06-24">
+      <url>https://www.plasma-mobile.org/2022/06/28/plasma-mobile-gear-22-06/</url>
+      <description>
+        <ul>
+          <li>Add library page which shows favourites and most played songs</li>
+          <li>Improve layout of the search popup</li>
+          <li>General performance improvements including startup</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2022-04-26" version="22.04">
+      <url>https://www.plasma-mobile.org/2022/04/26/plasma-mobile-gear-22-04/</url>
+      <description>
+        <ul>
+          <li>Update the version of ytmusicapi</li>
+          <li>General code-refactoring and translation updates</li>
+        </ul>
+      </description>
+    </release>
+    <release version="22.02" date="2022-02-09">
+      <url>https://www.plasma-mobile.org/2022/02/09/plasma-mobile-gear-22-02/</url>
+      <description>
+        <ul>
+          <li>Update the version of ytmusicapi</li>
+        </ul>
+      </description>
+    </release>
+    <release version="21.12" date="2021-12-07">
+      <url>https://www.plasma-mobile.org/2021/12/07/plasma-mobile-gear-21-12/</url>
+    </release>
+    <release version="21.08" date="2021-08-31">
+      <url>https://www.plasma-mobile.org/2021/08/31/plasma-mobile-gear-21-08/</url>
+    </release>
+  </releases>
+  <launchable type="desktop-id">org.kde.audiotube.desktop</launchable>
+  <screenshots>
+    <screenshot>
+      <image>https://cdn.kde.org/screenshots/audiotube/desktop.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://cdn.kde.org/screenshots/audiotube/mobile_playlist.png</image>
+    </screenshot>
+  </screenshots>
+  <recommends>
+    <control>pointing</control>
+    <control>keyboard</control>
+    <control>touch</control>
+  </recommends>
+  <description>
+    <p>AudioTube can search YouTube Music, list albums and artists, play automatically generated playlists, albums and allows to put your own playlist together.</p>
+  </description>
+  <description lang="ar">
+    <p>يمكن لتيوب الصوتي البحث في موسيقى يوتيوب، وعرض الألبومات والفنانين، وتشغيل القوائم والألبومات المولدة تلقائيًا، ويسمح لك بوضع قائمة التشغيل الخاصة بك معًا.</p>
+  </description>
+  <description lang="az">
+    <p>AudioTube YouTube Musiqi, albomların və ifaçıların siyahısı üzrə axtarış etməyə, yaradılmış mahnı siyahısı və albomları avtomatik oxutmağa və öz mahnı siyahınızı yaratmağa imkan verir.</p>
+  </description>
+  <description lang="ca">
+    <p>L'AudioTube pot cercar música a YouTube, llistar àlbums i artistes, reproduir llistes de reproducció generades automàticament, àlbums i permet crear la vostra pròpia llista de reproducció.</p>
+  </description>
+  <description lang="ca-valencia">
+    <p>L'AudioTube pot buscar música a YouTube, llistar àlbums i artistes, reproduir llistes de reproducció generades automàticament, àlbums i permet crear la vostra pròpia llista de reproducció.</p>
+  </description>
+  <description lang="de">
+    <p>AudioTube kann Musik auf YouTube durchsuchen, Alben und Interpreten auflisten, automatisch generierte Wiedergabelisten und Alben abspielen und erlaubt es, eine eigene Wiedergabeliste zusammenzustellen.</p>
+  </description>
+  <description lang="en-GB">
+    <p>AudioTube can search YouTube Music, list albums and artists, play automatically generated playlists, albums and allows to put your own playlist together.</p>
+  </description>
+  <description lang="es">
+    <p>AudioTube puede buscar música de YouTube, listar álbumes y artistas, reproducir las listas de reproducción generadas, álbumes y le permite crear su propia lista de reproducción.</p>
+  </description>
+  <description lang="eu">
+    <p>AudioTube-k YouTube Music-en bilatu dezake, albumak eta artistak zerrendatu, automatikoki sortutako jotze-zerrendak eta albumak jo, eta zure jotze-zerrenda osatzeko aukera eskaintzen dizu.</p>
+  </description>
+  <description lang="fi">
+    <p>AudioTube osaa etsiä YouTube Music -haun, albumien ja artistien luettelun, luotujen soittolistojen automaattisen toiston ja omien soittolistojen kokoamisen.</p>
+  </description>
+  <description lang="fr">
+    <p>AudioTube peut effectuer des recherches de musiques sur YouTube Music, établir une liste d'albums et d'artistes, lire des listes de lecture générées automatiquement, des albums et permet de composer sa propre liste de lecture.</p>
+  </description>
+  <description lang="hi">
+    <p>ऑडियोट्यूब यूट्यूब संगीत खोज सकता है, एल्बम और कलाकारों की सूची बना सकता है, स्वचालित रूप से उत्पन्न की गई गीतसूची, एल्बम बजा सकता है और आपकी अपनी खुद की प्लेलिस्ट को एक साथ रखने में मदद करता है।</p>
+  </description>
+  <description lang="it">
+    <p>AudioTube può eseguire ricerche su YouTube Music, elencare album e artisti, riprodurre scalette e album generati automaticamente e ti consente di creare la tua scaletta.</p>
+  </description>
+  <description lang="ko">
+    <p>AudioTube는 YouTube Music을 검색하고, 앨범과 아티스트를 표시하고, 자동 생성된 재생 목록, 앨범을 재생하고, 사용자 정의 재생 목록을 만들 수 있습니다.</p>
+  </description>
+  <description lang="nl">
+    <p>AudioTube kan in YouTube Music zoeken, een lijst maken van albums en artiesten, automatically gegenereerde afspeellijsten, albums afspelen en biedt u het samenstellen van uw eigen afspeellijst.</p>
+  </description>
+  <description lang="pl">
+    <p>AudioTube może przeszukiwać serwis YouTube Music, wypisać albumy i wykonawców, odtwarzać samoczynnie utworzone listy odtwarzania, albumy oraz umożliwia tworzenie własnych list odtwarzania.</p>
+  </description>
+  <description lang="pt">
+    <p>O AudioTube consegue pesquisar no YouTube Music, enumerar os álbuns e artistas, reproduzir listas geradas automaticamente, álbuns e permite-lhe reproduzir as suas próprias listas de reprodução.</p>
+  </description>
+  <description lang="pt-BR">
+    <p>O AudioTube pode pesquisar no YouTube Music, listar álbuns e artistas, rodar listas de reprodução geradas automaticamente, álbuns inteiros, e criar a sua própria lista de reprodução.</p>
+  </description>
+  <description lang="sl">
+    <p>AudioTube lahko išče po YouTube Music, izdela sezname albumov in avtorjev, samodejno predvaja generirane sezname, albume in sestavlja vaše sezname predvajanja.</p>
+  </description>
+  <description lang="sv">
+    <p>AudioTube kan söka på YouTube Music, lista album och artister, spela upp automatiskt genererade spellistor, albums och låter dig sammanställa egna spellistor.</p>
+  </description>
+  <description lang="tr">
+    <p>AudioTube, YouTube Müzik'te arama yapabilir; albümleri, sanatçıları listeler; kendiliğinden oluşturulmuş çalma listelerini, albümleri çalar ve kendi çalma listenizi oluşturmanıza izin verir.</p>
+  </description>
+  <description lang="uk">
+    <p>AudioTube може виконувати пошук на YouTube Music, показувати списки альбомів та виконавців, відтворювати створені автоматично списки відтворення, альбоми та надає вам змогу створювати власні списки відворення.</p>
+  </description>
+  <description lang="x-test">
+    <p>xxAudioTube can search YouTube Music, list albums and artists, play automatically generated playlists, albums and allows to put your own playlist together.xx</p>
+  </description>
+  <description lang="zh-CN">
+    <p>AudioTube 可以搜索 YouTube Music 的内容，列出专辑和艺人，播放自动生成的播放列表，还可以自行制作播放列表。</p>
+  </description>
+</component>

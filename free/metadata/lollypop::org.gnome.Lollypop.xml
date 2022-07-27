@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>lollypop</pkgname>
+  <icon height="64" type="cached" width="64">org.gnome.Lollypop.png</icon>
+  <icon type="cached" width="128" height="128">org.gnome.Lollypop.png</icon>
+  <id>org.gnome.Lollypop</id>
+  <launchable type="desktop-id">org.gnome.Lollypop.desktop</launchable>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>Lollypop</name>
+  <name lang="zh_Hant">Lollypop</name>
+  <name lang="zh_CN">Lollypop</name>
+  <name lang="uk">Lollypop</name>
+  <name lang="tr">Lollypop</name>
+  <name lang="sv">Lollypop</name>
+  <name lang="sr">Лолипоп</name>
+  <name lang="sr@latin">Lollypop</name>
+  <name lang="sk">Lollypop</name>
+  <name lang="ru">Lollypop</name>
+  <name lang="pt_PT">Lollypop</name>
+  <name lang="pt">Lollypop</name>
+  <name lang="pt_BR">Lollypop</name>
+  <name lang="pl">Lollypop</name>
+  <name lang="nl">Lollypop</name>
+  <name lang="nl_BE">Lollypop</name>
+  <name lang="nb_NO">Lollypop</name>
+  <name lang="lt">Lollypop</name>
+  <name lang="ko">롤리팝</name>
+  <name lang="ja">Lollypop</name>
+  <name lang="it">Lollypop</name>
+  <name lang="ie">Lollypop</name>
+  <name lang="hu">Lollypop</name>
+  <name lang="hr">Lollypop</name>
+  <name lang="he">Lollypop</name>
+  <name lang="fr">Lollypop</name>
+  <name lang="fi">Lollypop</name>
+  <name lang="fa">لالی‌پاپ</name>
+  <name lang="es">Lollypop</name>
+  <name lang="eo">Lollypop</name>
+  <name lang="en_GB">Lollypop</name>
+  <name lang="el">Lollypop</name>
+  <name lang="de">Lollypop</name>
+  <name lang="da">Lollypop</name>
+  <name lang="cs">Lollypop</name>
+  <name lang="ca">Lollypop</name>
+  <name lang="bn">ললিপপ</name>
+  <name lang="ar">لولي بوب</name>
+  <summary>Play and organize your music collection</summary>
+  <summary lang="eu">Erreproduzitu eta antolatu zure musika bilduma</summary>
+  <summary lang="zh_Hant">播放您的音樂與整理音樂收藏</summary>
+  <summary lang="zh_CN">播放与整理你的音乐集</summary>
+  <summary lang="uk">Відтворення та впорядкування вашої музичної збірки</summary>
+  <summary lang="tr">Müzik koleksiyonunuzu çalın ve düzenleyin</summary>
+  <summary lang="sv">Spela och organisera din musiksamling</summary>
+  <summary lang="sr">Пуштајте и организујте вашу музичку збирку</summary>
+  <summary lang="sr@latin">Puštajte i organizujte vašu muzičku zbirku</summary>
+  <summary lang="sk">Prehrávanie a usporiadanie hudobnej zbierky</summary>
+  <summary lang="ru">Воспроизведение и упорядочивание вашей музыкальной коллекции</summary>
+  <summary lang="pt_PT">Reproduza e organize a sua coleção de música</summary>
+  <summary lang="pt">Reproduza e organize sua coleção de música</summary>
+  <summary lang="pt_BR">Reproduz e organiza sua coleção de músicas</summary>
+  <summary lang="pl">Odtwarzaj i organizuj twoją kolekcję muzyki</summary>
+  <summary lang="nl">Breng orde in je muziekverzameling en speel muziek af</summary>
+  <summary lang="nl_BE">Organiseert uw muziekcollectie en speelt muziek af</summary>
+  <summary lang="nb_NO">Spill og organiser din musikksamling</summary>
+  <summary lang="lt">Grokite ir tvarkykite savo muzikinę kolekciją</summary>
+  <summary lang="ko">음악 컬랙션 재생하기 및 정리하기</summary>
+  <summary lang="ja">お気に入りの楽曲コレクションを再生・管理します</summary>
+  <summary lang="it">Riproduci ed organizza la tua raccolta musicale</summary>
+  <summary lang="ie">Reproducter e organisar vor collection de musica</summary>
+  <summary lang="hu">Zenegyűjtemény rendszerezése és lejátszása</summary>
+  <summary lang="hr">Sviraj i organiziraj svoju zbirku glazbe</summary>
+  <summary lang="he">נגינה וסידור אוסף המוזיקה שלך</summary>
+  <summary lang="fr">Lit et organise votre collection de musique</summary>
+  <summary lang="fi">Toista ja hallitse musiikkikokoelmaasi</summary>
+  <summary lang="es">Reproduce y organiza tu colección de música</summary>
+  <summary lang="eo">Ludu kaj organizu vian muzikaron</summary>
+  <summary lang="en_GB">Play and organise your music collection</summary>
+  <summary lang="el">Αναπαραγωγή και οργάνωση της μουσικής σας συλλογής</summary>
+  <summary lang="de">Spiele und organisiere deine Musiksammlung</summary>
+  <summary lang="da">Afspil og organiser din musiksamling</summary>
+  <summary lang="cs">Přehrávat a pořádat hudební sbírku</summary>
+  <summary lang="ca">Escolteu i organitzeu la vostra col·lecció de música</summary>
+  <summary lang="bn">আপনার সঙ্গীত সংগ্রহ চালান এবং সংগঠিত করুন</summary>
+  <summary lang="ar">شغل مجموعات الموسيقى ونظمها</summary>
+  <description>
+    <p>Lollypop is a lightweight modern music player designed to work excellently on the GNOME desktop environment. It also features a party mode which will auto-select party-related playlists; allows access the player from your couch thanks to it fullscreen mode; fetches lyrics, artwork and biography online; and provides native support for ReplayGain.</p>
+  </description>
+  <description lang="ar">
+    <p>Lollypop هو مشغل موسيقى حديث خفيف الوزن مصمم للعمل بشكل ممتاز على بيئة سطح المكتب GNOME. كما يتميز بوضع الحفلة الذي سيتم اختيار قوائم التشغيل ذات الصلة بالحفلات تلقائيا؛ يسمح الوصول إلى لاعب من القائمة الخاصة بك بفضل ذلك وضع ملء الشاشة؛ يجلب كلمات, الأعمال الفنية والسيرة الذاتية على الانترنت; ويوفر الدعم الأصلي ل ReplayGain.</p>
+  </description>
+  <description lang="bn">
+    <p>ললিপপ একটি হালকা ওজনের আধুনিক সঙ্গীত প্লেয়ার যা জিনোম ডেস্কটপ পরিবেশে দুর্দান্তভাবে কাজ করার জন্য ডিজাইন করা হয়েছে। এতে একটি পার্টি মোডের বৈশিষ্ট্য রয়েছে যা পার্টি-সম্পর্কিত প্লেলিস্টগুলি স্বয়ংক্রিয়ভাবে নির্বাচন করবে; এবং রিপ্লেগেইনের জন্য স্থানীয় সমর্থন সরবরাহ করে।</p>
+  </description>
+  <description lang="ca">
+    <p>El Lollypop és un reproductor de música lleuger i modern dissenyat per funcionar de manera excel·lent en l'entorn d'escriptori GNOME. El Lollypop també inclou un mode festa que selecciona automàticament les llistes de reproducció que es reproduiran; permet l'accés al reproductor des del sofà gràcies al mode pantalla completa; cerca en línia lletres, caràtules i biografies; i proporciona suport natiu per a Replay Gain.</p>
+  </description>
+  <description lang="cs">
+    <p>Lollypop je lehký pokrokový přehrávač navržený tak, aby pracoval výborně v prostředí pracovní plochy GNOME. Je vybaven i večírkovým režimem, v němž jsou automaticky vybírány seznamy skladeb spojené se společenskými událostmi. Díky svému celoobrazovkovému režimu dává možnost přehrávač ovládat z pohodlí lehátka. Natahuje z internetových databází slova písní, obrázky týkající se děl a umělců a životopisy. Poskytuje vlastní podporu pro vyrovnání hlasitosti přehrávaných skladeb.</p>
+  </description>
+  <description lang="da">
+    <p>Lollypop er en moderne letvægts musikafspiller som er designet til at virke godt i GNOME-skrivebordsmiljøet. Den har også en festtilstand som automatisk vælger festrelaterede afspilningslister; giver adgang til afspilleren fra din sofa, takke være fuldskærmstilstanden; henter sangtekster, billeder og biografier online; og giver indbygget understøttelse af ReplayGain.</p>
+  </description>
+  <description lang="de">
+    <p>Lollypop ist ein leichtgewichtiger moderner Musikspieler, der für eine perfekte Integration in die GNOME-Desktopumgebung konzipiert ist. Er hat auch einen Partymodus, der automatisch partytaugliche Playlisten auswählt, ist von der Couch aus über einen Vollbildmodus steuerbar aus, holt Songtexte, Albencover und Biografien aus dem Internet und bietet native Unterstützung für ReplayGain.</p>
+  </description>
+  <description lang="en_GB">
+    <p>Lollypop is a lightweight modern music player designed to work excellently on the GNOME desktop environment. It also features a party mode which will auto-select party-related playlists; allows access the player from your couch thanks to it fullscreen mode; fetches lyrics, artwork and biography online; and provides native support for ReplayGain.</p>
+  </description>
+  <description lang="eo">
+    <p>Lollypop estas leĝera moderna muzikludilo pripensata por benega funkciado sur GNOME. Ĝi ankaŭ prezentas partian reĝimon kiu aŭtomate elektas festemajn ludadlistojn, permesas kontroli la ludilon de via kanapo danke al ĝia tutekrana reĝimo, akiras kantotekstojn, artaĵojn kaj biografiojn enrete, kaj provizas indiĝenan subtenon por gajno de ludado.</p>
+  </description>
+  <description lang="es">
+    <p>Lollypop es un reproductor de música moderno diseñado para funcionar excepcionalmente en el entorno de escritorio GNOME. También incluye un modo fiesta el cual selecciona automáticamente listas de reproducción relacionadas con fiestas; permite acceso al reproductor desde su sofá gracias a su modo de pantalla completa; recolecta letras, carátulas y biografías automáticamente en línea; y provee soporte nativo para ReplayGain.</p>
+  </description>
+  <description lang="eu">
+    <p>Lollypop GNOME mahaigaineko ingurunean bikain funtzionatzeko diseinatutako musika erreproduzitzaile moderno arina da. Festa-modu bat ere badu, festarekin lotutako erreprodukzio-zerrendak automatikoki hautatuko dituena; erreproduzigailua zure sofatik kontrolatzeko aukera ematen du pantaila osoko moduari esker; letrak, azalak eta biografiak sarean eskuratzen ditu; eta ReplaGain jatorrizko laguntza eskaintzen du.</p>
+  </description>
+  <description lang="fi">
+    <p>Lollypop on kevyt ja moderni musiikkisoitin, joka on suunniteltu toimimaan erinomaisesti Gnome-työpöytäympäristön kanssa. Se sisältää muun muassa biletilan, joka osaa valita automaattisesti sopivia soittolistoja ja mahdollistaa soittimen käytön sohvalta kiitos koko näytön tilan. Lisäksi se noutaa sanoituksia, kuvituksia ja artistiesittelyjä verkosta sekä tarjoaa natiivin tuen ReplayGainille.</p>
+  </description>
+  <description lang="fr">
+    <p>Lollypop est un lecteur de musique moderne léger conçu pour fonctionner parfaitement sur l'environnement de bureau GNOME. Il dispose également d'un mode soirée qui auto-sélectionnera les morceaux ; permet d'accéder au lecteur à partir de votre canapé grâce à son mode plein écran ; récupère les paroles, les pochettes et la biographie en ligne ; et fournit un support natif pour ReplayGain.</p>
+  </description>
+  <description lang="he">
+    <p>Lollypop הוא נגן מוזיקה מודרני וקליל שתוכנן לשחק יפה עם סביבת שולחן העבודה של GNOME. לנגן יש גם מצב מסיבה שבוחר אוטומטית רשימות נגינה שמותאמות למסיבות, מאפשר לגשת לנגן מהספה תודות למצב המסך המלא, מושך מילות שירים, עטיפות אלבומים וביוגרפיה באופן מקוון וגם מספק תמיכה טבעית ב־ReplayGain.</p>
+  </description>
+  <description lang="hr">
+    <p>Lollypop je jednostavan i moderan svirač glazbe, izrađen za savršen rad u GNOME radnom okruženju. Sadrži i modus tuluma, koji automatski bira playliste vezane uz tulum; omogućuje pristup sviraču s kauča, zahvaljujući mogućnosti cjeloekranskog prikaza; dohvaća tekstove pjesama, slike i biografiju putem interneta; izvorno podržava ReplayGain.</p>
+  </description>
+  <description lang="hu">
+    <p>Lollypop egy pehelysúlyú modern zenelejátszó, amelyet a GNOME asztali környezethez készítettek. Tartalmaz egy parti módot, amely automatikusan kiválasztja a kapcsolódó lejátszási listákat; lehetővé teszi, hogy a fotelből is könnyen vezéreld a lejátszást a teljes képernyős módnak köszönhetően; letölti a dalszövegeket, borítóképeket, az előadók életrajzát az internetről; és alapértelmezetten támogatja a ReplayGain funkciót.</p>
+  </description>
+  <description lang="it">
+    <p>Lollypop è un riproduttore musicale leggero e moderno pensato per integrarsi perfettamente con l'ambiente desktop GNOME. Dispone, inoltre, di una modalità party adatta a selezionare automaticamente le playlist relative ad una festa; permette l'uso da remoto grazie alla modalità a schermo intero; ottiene testi delle canzoni, grafica e biografie online; e fornisce supporto nativo al ReplayGain.</p>
+  </description>
+  <description lang="ja">
+    <p>Lollypop は GNOME デスクトップ環境での使用を考慮してデザインされた、軽量モダンな音楽プレーヤーです。パーティー関連のプレイリストを自動選択するパーティーモード、歌詞/アートワーク/バイオグラフィーのオンライン検索、リプレイゲインのネイティブサポートの提供、少し離れた場所からのプレーヤーへのアクセスを可能にするフルスクリーンモード、といった機能を備えています。</p>
+  </description>
+  <description lang="ko">
+    <p>롤리팝은 GNOME 데스크톱 환경에서 탁월한 성능을 발휘하도록 설계된 경량 현대 음악 재생기입니다. 또한 파티 관련 재생목록을 자동으로 선택하는 파티 모드가 있고, 전체 화면 모드 덕분에 소파에서 재생기에 접속할 수 있으며, 가사, 아트워크 및 약력을 온라인으로 가져오고, ReplayGain을 기본적으로 지원합니다.</p>
+  </description>
+  <description lang="nb_NO">
+    <p>Lollypop er en moderne lettvektig musikkspiller designet for innpass i GNOME-skrivebordsmiljøet. Det har også et festmodus som automatisk velger festrelaterte spillelister; tillater kontroll fra sofaen takket være fullskjermsmoduset; det henter sangtekster, omslag og biografier fra Internett, og tilbyr innebygget støtte for ReplayGain.</p>
+  </description>
+  <description lang="nl">
+    <p>Lollypop is een lichte, moderne muziekspeler, ontworpen voor de GNOME-werkomgeving. Lollypop beschikt over een speciale feestmodus, welke automatisch feestgerelateerde afspeellijsten afspeelt, een beeldvullende modus voor bediening vanaf de bank, het ophalen van songteksten, online opzoeken van albumhoezen en biografieën, en ingebouwde ondersteuning voor ReplayGain.</p>
+  </description>
+  <description lang="pl">
+    <p>Lollypop to lekki i nowoczesny odtwarzacz muzyki zaprojektowany do doskonałej pracy w środowisku graficznym GNOME. Posiada również tryb imprezy, który automatycznie wybiera listy odtwarzania związane z imprezą; umożliwia dostęp do odtwarzacza z kanapy, dzięki trybowi pełnoekranowemu; pobiera teksty utworów, okładki i biografie z sieci; oraz zapewnia natywne wsparcie ReplayGain.</p>
+  </description>
+  <description lang="pt">
+    <p>O Lollypop é um leitor de música moderno e leve, projetado para funcionar excelentemente no ambiente de área de trabalho GNOME. Também possui um modo festa que seleciona listas de reprodução relacionadas a festas automaticamente; permite acesso ao leitor de seu sofá, graças ao modo de ecrã cheio; busca letras, obras de arte e biografia on-line; e fornece apoio nativo para ReplayGain.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>O Lollypop é um reprodutor de música moderno e leve, projetado para funcionar excelentemente no ambiente de área de trabalho do GNOME. Ele também possui um modo de festa que seleciona automaticamente listas de reprodução relacionadas a festa; permite acessar o player do seu sofá, graças ao modo de tela cheia; busca letras, capas e biografia on-line; e fornece suporte nativo para repetição de Ganho.</p>
+  </description>
+  <description lang="pt_PT">
+    <p>O Lollypop é um reprodutor de música moderno e leve, projetado para funcionar excelentemente no ambiente de área de trabalho do GNOME. Também possui um modo de festa que seleciona listas de reprodução relacionadas a festas automaticamente; permite acessar o reprodutor do seu sofá, graças ao modo de ecrã cheio; busca letras, obras de arte e biografia on-line; e fornece apoio nativo para ReplayGain.</p>
+  </description>
+  <description lang="ru">
+    <p>Lollypop - это легкий современный музыкальный плеер, разработанный для превосходной работы в среде рабочего стола GNOME. Он также имеет режим вечеринки, который будет автоматический выбор списков воспроизведения, связанных с вечеринкой; позволяет получить доступ к плееру не вставая с дивана благодаря полноэкранному режиму; загружает тексты, обложки и биографию онлайн; и предоставляет встроенную поддержку ReplayGain.</p>
+  </description>
+  <description lang="sk">
+    <p>Lollypop je ľahký moderný hudobný prehrávač navrhnutý pre vynikajúcu prácu v prostredí GNOME. Je tiež vybavený párty režimom, ktorý automaticky vyberie zoznamy skladieb súvisiace s oslavou. Umožňuje prístup k prehrávaču z vašej pohovky vďaka režimu celej obrazovky. Preberá texty skladieb, obrázky albumov a životopisy online a poskytuje natívnu podporu pre ReplayGain.</p>
+  </description>
+  <description lang="sv">
+    <p>Lollypop är en lättviktig modern musikspelare som är utformad för att fungera utmärkt på skrivbordsmiljön GNOME. Den har även ett festläge som automatiskt väljer festrelaterade spellistor; ger dig tillgång till spelaren från din soffa tack vare fullskärmsläge; hämtar låttexter, omslag och biografi på nätet; och tillhandahåller inbyggt stöd för ReplayGain.</p>
+  </description>
+  <description lang="tr">
+    <p>Lollypop, GNOME masaüstü ortamında mükemmel çalışmak üzere tasarlanmış hafif ve çağdaş müzik oynatıcısıdır. Ayrıca partiyle ilgili çalma listelerini kendiliğinden seçecek parti kipi sunmakta; tam ekran kipiyle oynatıcıya kanepenizden erişmenizi sağlamakta; şarkı sözleri, kapak resimleri ve biyografileri çevrim içi almakta; ve ReplayGain için yerel destek sağlamaktadır.</p>
+  </description>
+  <description lang="uk">
+    <p>Lollypop — це легкий, сучасний музичний програвач, спроєктований для відмінної роботи зі стільничним середовищем GNOME. Він також пропонує режим вечірки, що автоматично обиратиме підхожі до вечірки списки відтворення; дозволяє керування з вашого дивану завдяки його повноекранному режиму; знаходить тексти, обкладинки та біографії в мережі та надає вбудовану підтримку ReplayGain.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>Lollypop是一款现代风格的轻量级音乐播放器，为在GNOME桌面环境中出色工作而设计。 它同时拥有能够自动选择与派对相关的音乐播放列表的“派对模式”；让您能够从沙发上轻易访问播放器的“全屏模式”；在线抓取歌词、专辑封面和艺术家介绍；并为ReplayGain提供原生支持。</p>
+  </description>
+  <description lang="zh_Hant">
+    <p>Lollypop 是為 Gnome 設計之現代化輕量音樂播放器。它同時擁有能夠自動選擇派對相關音樂的「派對模式」，讓你能夠從沙發上輕易操作它的「全螢幕模式」，自動抓取歌詞功能，線上專輯封面，也提供 ReplayGain 的原生支援。</p>
+  </description>
+  <releases>
+    <release version="1.4.31" date="2022-04-12">
+      <description>
+        Bug fixes
+      </description>
+    </release>
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image height="1095" type="source" width="1754">https://gitlab.gnome.org/gnumdk/lollypop-help/raw/master/screenshots/lollypop.jpg</image>
+      <image type="source" width="1920" height="1080">https://gitlab.gnome.org/gnumdk/lollypop-help/raw/master/screenshots/lollypop2.jpg</image>
+      <image type="source" height="853" width="597">https://gitlab.gnome.org/gnumdk/lollypop-help/raw/master/screenshots/lollypop3.jpg</image>
+    </screenshot>
+  </screenshots>
+  <translation type="gettext">lollypop</translation>
+  <url type="homepage">https://wiki.gnome.org/Apps/Lollypop</url>
+  <url type="bugtracker">https://gitlab.gnome.org/World/lollypop/-/issues</url>
+  <url type="donation">https://www.paypal.me/lollypopgnome</url>
+  <url type="translate">https://hosted.weblate.org/projects/gnumdk/</url>
+  <content_rating type="oars-1.1">
+    <content_attribute id="money-advertising">mild</content_attribute>
+  </content_rating>
+  <update_contact>cedric.bellegarde@adishatz.org</update_contact>
+  <custom>
+    <value key="Purism::form_factor">workstation</value>
+    <value key="Purism::form_factor">mobile</value>
+  </custom>
+</component>

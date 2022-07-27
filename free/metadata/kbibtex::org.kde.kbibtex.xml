@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>
+      KBibTeX is a reference management application which can be used to collect TeX/LaTeX bibliographies and export them in various formats.
+    </p>
+    <p>KBibTeX can do the following things:</p>
+    <ul>
+      <li>Preview bibliography entries in various formats (Source (BibTeX), Source (RIS), Wikipedia, standard (XML/XSLT), fancy (XML/XSLT), and abstract-only (XML/XSLT)). Additional preview styles become available when bibtex2html is installed.</li>
+      <li>Import data in various bibliography file formats such as BibTeX, RIS and ISI (requires bibutils) and export data to PDF (requires pdflatex), PostScript (requires latex), RTF (requires latex2rtf), and HTML.</li>
+      <li>Search for the bibliography entries data in online databases (e.g. Google Scholar, ACM, IEEE, arXiv, etc.)</li>
+      <li>Preview local or remote (online) resources, e.g. PDF files, linked in the BibTEX entry.</li>
+      <li>Find and merge duplicate entries in bibliography.</li>
+      <li>Integrate your bibliographies with LaTeX editors such as Kile and LyX.</li>
+      <li>Import your Zotero library.</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>El KBibTeX és una aplicació per a la gestió de referències que es pot utilitzar per recollir bibliografies en TeX/LaTeX i exportar-les a diversos formats.</p>
+    <p>KBibTeX pot fer les següents coses:</p>
+    <ul>
+      <li>Vista prèvia de les entrades a la bibliografia en diversos formats (Origen (BibTeX), Origen (RIS), Viquipèdia, estàndard (XML/XSLT), elaborat (XML/XSLT), i només el resum (XML/XSLT)). Hi ha disponibles estils de vista prèvia addicionals quan s'instal·la «bibtex2html».</li>
+      <li>Importar les dades en diversos formats de fitxer per a bibliografies, tals com BibTeX, RIS i ISI (requereix «bibutils») i exporta les dades a PDF (requereix «pdflatex»), PostScript (requereix «latex»), RTF (requereix «latex2rtf»), i HTML.</li>
+      <li>Cerca dades d'entrades bibliogràfiques a les bases de dades en línia (p. ex., Google Scholar, ACM, IEEE, arXiv, etc.)</li>
+      <li>Vista prèvia de recursos locals o remots (connectats), p. ex., fitxers PDF, vinculats amb l'entrada de BibTeX.</li>
+      <li>Cerca i fusiona les entrades duplicades a la bibliografia.</li>
+      <li>Integra les vostres bibliografies amb editors de LaTeX com Kile i LyX.</li>
+      <li>Importa la vostra biblioteca de Zotero.</li>
+    </ul>
+  </description>
+  <description lang="ca-valencia">
+    <p>El KBibTeX és una aplicació per a la gestió de referències que es pot utilitzar per recollir bibliografies en TeX/LaTeX i exportar-les a diversos formats.</p>
+    <p>KBibTeX pot fer les següents coses:</p>
+    <ul>
+      <li>Vista prèvia de les entrades a la bibliografia en diversos formats (Origen (BibTeX), Origen (RIS), Viquipèdia, estàndard (XML/XSLT), elaborat (XML/XSLT), i només el resum (XML/XSLT)). Hi ha disponibles estils de vista prèvia addicionals quan s'instal·la «bibtex2html».</li>
+      <li>Importar les dades en diversos formats de fitxer per a bibliografies, tals com BibTeX, RIS i ISI (requereix «bibutils») i exporta les dades a PDF (requereix «pdflatex»), PostScript (requereix «latex»), RTF (requereix «latex2rtf»), i HTML.</li>
+      <li>Cerca dades d'entrades bibliogràfiques a les bases de dades en línia (p. ex., Google Scholar, ACM, IEEE, arXiv, etc.)</li>
+      <li>Vista prèvia de recursos locals o remots (connectats), p. ex., fitxers PDF, vinculats amb l'entrada de BibTeX.</li>
+      <li>Cerca i fusiona les entrades duplicades a la bibliografia.</li>
+      <li>Integra les vostres bibliografies amb editors de LaTeX com Kile i LyX.</li>
+      <li>Importa la vostra biblioteca de Zotero.</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <ul>
+      <li>Importovat vaši knihovnu Zotero</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>KBibTeX ist ein Programm zur Verwaltung von Referenzen und kann dazu benutzt werden, TeX/LaTeX-Bibliografien zusammenzustellen und sie in verschiedenen Formaten zu exportieren.</p>
+    <p>Mit KBibTeX können Sie folgende Aufgabe erledigen:</p>
+    <ul>
+      <li>Vorschau und Speichern von Bibliografie-Einträgen in verschiedenen Formaten (Quelltext (BibTeX), Quelltext (RIS), Wikipedia, Standard (XML/XSLT), fancy (XML/XSLT) und abstract-only (XML/XSLT)). Zusätzliche Vorschaustile sind verfügbar, wenn Sie „bibtex2html“ installiert haben.</li>
+      <li>Import von Daten aus verschiedenen Bibliografie-Dateiformaten wie BibTeX, RIS und ISI (benötigt bibutils) und Export von Daten in die Formate PDF (benötigt pdflatex), PostScript (benötigt latex), RTF (benötigt latex2rtf) und HTML.</li>
+      <li>Suche nach Daten mit Bibliografie-Einträgen in Online-Datenbanken (z. B. Google Scholar, ACM, IEEE, arXiv, usw.)</li>
+      <li>Anzeige von lokalen und entfernten (Online-) Ressourcen wie zum Beispiel PDF-Dateien, die mit einem BibTEX Eintrag verknüpft sind.</li>
+      <li> Suchen und zusammenführen von doppelten Einträgen in Bibliografien.</li>
+      <li>Integration Ihrer Bibliografien mit LaTeX-Editoren wie Kile und LyX.</li>
+      <li>Import Ihrer Zotero-Bibliothek.</li>
+    </ul>
+  </description>
+  <description lang="en-GB">
+    <p>KBibTeX is a reference management application which can be used to collect TeX/LaTeX bibliographies and export them in various formats.</p>
+    <p>KBibTeX can do the following things:</p>
+    <ul>
+      <li>Preview bibliography entries in various formats (Source (BibTeX), Source (RIS), Wikipedia, standard (XML/XSLT), fancy (XML/XSLT), and abstract-only (XML/XSLT)). Additional preview styles become available when bibtex2html is installed.</li>
+      <li>Import data in various bibliography file formats such as BibTeX, RIS and ISI (requires bibutils) and export data to PDF (requires pdflatex), PostScript (requires latex), RTF (requires latex2rtf), and HTML.</li>
+      <li>Search for the bibliography entries data in online databases (e.g. Google Scholar, ACM, IEEE, arXiv, etc.)</li>
+      <li>Preview local or remote (online) resources, e.g. PDF files, linked in the BibTEX entry.</li>
+      <li>Find and merge duplicate entries in bibliography.</li>
+      <li>Integrate your bibliographies with LaTeX editors such as Kile and LyX.</li>
+      <li>Import your Zotero library.</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>KBibTeX es una aplicación de gestión de referencias que se puede utilizar para recoger bibliografías TeX/LaTeX y exportarlas en varios formatos.</p>
+    <p>KBibTeX puede hacer las siguientes tareas:</p>
+    <ul>
+      <li>Previsualizar las entradas de bibliografías en varios formatos (Fuente (BibTeX), fuente (RIS), Wikipedia, estándar (XML/XSLT), elegante (XML/XSLT), y solo abstracto (XML/XSLT)). Al instalar bibtex2html dispondrá de estilos de previsualización adicionales.</li>
+      <li>Importa datos en varios formatos de archivo de bibliografía, como por ejemplo BibTeX, RIS y ISI (requiere bibutils) y exporta datos a PDF (requiere pdflatex), PostScript (requiere latex), RTF (requiere latex2rtf), y HTML.</li>
+      <li>Busca datos de las entradas bibliográficas en bases de datos en línea (por ejemplo Google Scholar, ACM, IEEE, arXiv, etc.)</li>
+      <li>Previsualiza los recursos locales o remotos (en línea), por ejemplo archivos PDF, que estén enlazados en una entrada BibTEX.</li>
+      <li>Busca y fusiona las entradas duplicadas en la bibliografía.</li>
+      <li>Integra sus bibliografías con editores LaTeX como Kile y LyX.</li>
+      <li>Importa su librería Zotero.</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>KBibTeX on viitteidenhallintasovellus, jolla voi koota TeX/LaTeX-lähdeluetteloita ja viedä niitä eri tiedostomuotoihin.</p>
+    <p>KBibTeXilla voit tehdä seuraavia asioita:</p>
+    <ul>
+      <li>Esikatsella lähdetietueita eri muodoissa (BibTeX- tai RIS-lähdekoodina, Wikipedia-muodossa, vakio- tai tyylitellyssä muodossa (XML/XSLT) sekä vain tiivistelminä (XML/XSLT)). Lisäesikatselutyylit tulevat käyttöön, kun bibtex2html on asennettu.</li>
+      <li>Tuoda tietoja eri lähdetietokantamuodoista kuten BibTeXistä, RISistä tai ISIstä (vaatii bibutils-paketin) sekä viedä tietoja PDF:ksi (vaatii pdflatexin), PostScriptiksi (vaatii latexin), RTF:ksi (vaatii latex2rtf:n) tai HTML:ksi.</li>
+      <li>Etsiä lähdetietueiden tietoja verkon tietokannoista (Google Scholarista, ACM:stä, IEEE:stä, arXivista jne.)</li>
+      <li>Esikatsella BibTeX-tietueeseen kytkettyjä paikallisia tai etäresursseja, esim. PDF-tiedostoja.</li>
+      <li>Etsiä ja yhdistää lähdetietueiden kaksoiskappaleita.</li>
+      <li>Integroida lähdetietokantasi LaTeX-muokkaimeen kuten Kileen tai LyXiin.</li>
+      <li>Tuoda Zotero-kirjastosi.</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>KBibTeX est une application de gestion de références qui peut être utilisée pour collecter des bibliographies TeX/LaTeX et les exporter dans divers formats.</p>
+    <p>KBibTeX peut faire les choses suivantes : </p>
+    <ul>
+      <li>Prévisualiser des entrées bibliographiques dans divers formats (Source (BibTeX), Source (RIS), Wikipédia, standard (XML/XSLT), sophistiqué (XML/XSLT), et abstrait (XML/XSLT)). Des styles d'aperçus supplémentaires sont disponibles après de l'installation de bibtex2html.</li>
+      <li>Importer des données dans divers formats de fichiers bibliographiques comme BibTeX, RIS, ISI (nécessite bibutils) et exporter des données en PDF (nécessite pdflatex), PostScript (nécessite latex), RTF (nécessite latex2rtf), et HTML.</li>
+      <li>Rechercher des entrées bibliographiques dans des banques de données en ligne (par exemple Google Scholar, ACM, IEEE, arXiv, etc.)</li>
+      <li>Prévisualiser des ressources locales ou distantes (en ligne), par exemple des fichiers PDF ou des liens dans l'entrée BibTeX.</li>
+      <li>Trouver et fusionner des doublons dans les entrées bibliographiques.</li>
+      <li>Intégrer vos bibliographies avec des éditeurs LaTeX comme Kile et LyX.</li>
+      <li>Importer une bibliothèque Zotero.</li>
+    </ul>
+  </description>
+  <description lang="gl">
+    <p>KBibTeX é unha aplicación de xestión de referencias que pode usar para recoller bibliografías de TeX/LaTeX e exportalas en diversos formatos.</p>
+    <p>KBibTeX pode facer o seguinte:</p>
+    <ul>
+      <li>Obteña unha vista previa de entradas bibliográficas en varios formatos: fonte (BibTeX ou RIS), Wikipedia, estándar (XML/XSLT), elegante (XML/XSLT), e só resumo (XML/XSLT). Se ten «bibtex2html» instalado, disporá de estilos de vista previa adicionais.</li>
+      <li>Importe datos in varios formatos de ficheiro bibliográficos como BibTeX, RIS e ISI (require «bibutils») e exporte os datos a PDF (require «pdflatex»), PostScript (require «latex»), RTF (require «latex2rtf»), e HTML.</li>
+      <li>Busque os datos das entradas bibliográficas en base de datos en Internet (como Google Scholar, ACM, IEEE, arXiv, etc.).</li>
+      <li>Obteña unha vista previa de recursos locais ou en Internet, como ficheiros PDF, que estean ligados desde a entrada de BibTeX.</li>
+      <li>Atope e fusione entradas duplicadas da bibliografía.</li>
+      <li>Integre as súas bibliografías con editores de LaTeX como Kile e LyX.</li>
+      <li>Importe a súa biblioteca de Zotero.</li>
+    </ul>
+  </description>
+  <description lang="id">
+    <p>KBibTeX adalah sebuah aplikasi pengelolaan yang disukai yang mana bisa digunakan untuk mengoleksi bibliografis TeX/LaTeX dan mengekspornya dalam berbagai format.</p>
+    <p>KBibTeX bisa melakukan hal-hal berikut ini:</p>
+    <ul>
+      <li>Mempratinjau entry-entry bibliografi dalam beberapa format (Source (BibTeX), Source (RIS), Wikipedia, (XML/XSLT) standar, (XML/XSLT) fancy, dan (XML/XSLT) hanya-abstrak). Gaya pratinjau tambahan menjadi tersedia ketika bibtex2html telah terinstal.</li>
+      <li>Mengimpor data dalam beberapa format file bibliografi sepertihalnya BibTeX  RIS dan ISI (diperlukan bibutils) dan data expor ke PDF (diperlukan pdflatex), PostScript (diperlukan latex), RTF (diperlukan latex2rtf), dan HTML.</li>
+      <li>Pencarian untuk entri data bibliografi dalam database online (misal Google Scholar, ACM, IEEE, arXiv, dll.)</li>
+      <li>Mempratinjau sumberdaya lokal atau jarak jauh, misalnya file PDF, tertaut dalam entri BibTEX.</li>
+      <li>Menemukan dan menggabungkan entri-entri duplikat dalam bibliografi.</li>
+      <li>Mengintegrasikan bibliografismu dengan editor LaTeX sepertihalnya Kile dan LyX.</li>
+      <li>Impor pustaka Zotero-mu.</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>KBibTeX è un'applicazione di gestione delle fonti che può essere utilizzata per radunare bibliografie TeX/LaTeX ed esportarle in vari formati.</p>
+    <p>KBibTeX è in grado di svolgere i seguenti compiti:</p>
+    <ul>
+      <li>Visualizzare in anteprima le voci bibliografiche in vari formati (Source (BibTeX), Source (RIS), Wikipedia, standard (XML/XSLT), fancy (XML/XSLT), e in formato solo sommario (XML/XSLT)). Saranno disponibili stili aggiuntivi di anteprima se si installa il pacchetto bibtex2html.</li>
+      <li>Importare i dati in vari formati di file bibliografici, come BibTeX, RIS e ISI (richiede bibutils), ed esportare i dati in PDF (richiede pdflatex), PostScript (richiede latex), RTF (richiede latex2rtf) e HTML.</li>
+      <li>Ricercare voci bibliografiche nei database in linea (per es., Google Scholar, ACM, IEEE, arXiv, ecc.)</li>
+      <li>Visualizzare in anteprima risorse locali o remote (in linea), per es. file PDF, collegate nella voce BibTEX.</li>
+      <li>Trovare e unire voci duplicate nella bibliografia.</li>
+      <li>Integrare le tue bibliografie con gli editor LaTeX, come Kile e LyX.</li>
+      <li>Importare la tua raccolta Zotero.</li>
+    </ul>
+  </description>
+  <description lang="ko">
+    <p>KBibTeX는 TeX/LaTeX 서지 정보를 수집하고 다양한 형식으로 내보낼 수 있는 참고 문헌 관리 프로그램입니다.</p>
+    <p>KBibTeX는 다음 기능을 지원합니다:</p>
+    <ul>
+      <li>원본(BibTeX, RIS), 위키백과, 표준(XML/XSLT), 서식 있는 보기(XML/XSLT), 초록만 보기(XML/XSLT) 등 여러 형식으로 서지 정보 항목을 미리 봅니다. 추가 미리 보기 스타일은 Bibtex2html을 설치하면 사용할 수 있습니다.</li>
+      <li>BibTeX, RIS, ISI(bibutils 필요)와 같은 다양한 서지 정보 파일 형식으로 데이터를 가져오고, PDF(pdflatex 필요), PostScript(latex 필요), RTF(latex2rtf 필요) 및 HTML로 데이터를 내보냅니다.</li>
+      <li>온라인 데이터베이스에서 서지 정보 데이터 검색(예: Google 학술검색, ACM, IEEE, arXiv 등)</li>
+      <li>BibTeX 항목에 연결된 PDF 파일 등 로컬 또는 원격(온라인) 리소스를 미리 봅니다.</li>
+      <li>서지 정보 목록에서 중복 항목을 찾아 합칩니다.</li>
+      <li>Kile, LyX와 같은 LaTeX 편집기에 서지 정보를 통합합니다.</li>
+      <li>Zotero 라이브러리를 가져옵니다.</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>KBibTeX is een beheertoepassing voor referenties die gebruikt kan worden om TeX/LaTeX bibliografieën te verzamelen en te exporteren in verschillende formaten.</p>
+    <p>KBibTeX kan het volgende doen:</p>
+    <ul>
+      <li>Bibliografie-items bekijken in verschillende formaten  (bron (BibTeX), bron (RIS), Wikipedia, standaard (XML/XSLT), elegant (XML/XSLT) en alleen abstract (XML/XSLT)). Additionele stijlen om te bekijken worden beschikbaar wanneer bibtex2html is geïnstalleerd.</li>
+      <li>Gegevens importeren in verschillende bibliografie bestandsformaten zoals BibTeX, RIS en ISI (vereist bibutils) en exporteert gegevens naar PDF (vereist pdflatex), PostScript (vereist latex), RTF (vereist latex2rtf) en HTML.</li>
+      <li>Zoeken naar de bibliografie-items in online databases (bijv. Google Scholar, ACM, IEEE, arXiv, etc.)</li>
+      <li>Locale of hulpbronnen op afstand (online), bijv. PDF bestanden, gekoppeld in het BibTEX item.</li>
+      <li>Zoeken en mengen van dubbele items in een bibliografie.</li>
+      <li>Integreer uw bibliografieën met LaTeX bewerkers zoals Kile en LyX.</li>
+      <li>Uw Zotero bibliotheek importeren.</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <p>KBibTeX jest programem do zarządzania odsyłaczami, którego można użyć do zbierania bibliografii TeX/LaTeX i eksportowania ich w różnych postaciach.</p>
+    <p>KBibTeX ma następujące możliwości:</p>
+    <ul>
+      <li>Podgląd wpisów bibliograficznych w rozmaitych formatach (Source (BibTeX), Source (RIS), Wikipedia, standard (XML/XSLT), elegancki (XML/XSLT) i tylko streszczenia (XML/XSLT)). Dodatkowo, dostępne stają się style podglądu, gdy wgrany jest pakiet bibtex2html.</li>
+      <li>Importowanie danych w rozmaitych formatach plików bibliografii takich jak BibTeX, RIS oraz ISI (wymaga bibutils) i eksportowanie danych do PDF (wymaga pdflatex), PostScript (wymaga latex), RTF (wymaga latex2rtf) oraz HTML.</li>
+      <li>Wyszukiwanie wpisów bibliograficznych w bazach internetowych (np. Google Scholar, ACM, IEEE, arXiv, itp.)</li>
+      <li>Podgląd lokalnych lub zdalnych (internetowych) zasobów, np. plików PDF, do których odwołuje się wpis BibTEX.</li>
+      <li>Znajdywanie i scalanie powielonych wpisów w bibliografii.</li>
+      <li>Integracja bibliografii z edytorami LaTeX takimi jak Kile i LyX.</li>
+      <li>Importowanie bibliotek Zotero.</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>O KBibTeX é uma aplicação de gestão de referências que pode ser usada para recolher as bibliografias de TeX/LaTeX e exportá-las em vários formatos.</p>
+    <p>O KBibTeX pode fazer as seguintes coisas:</p>
+    <ul>
+      <li>Antever os itens bibliográficos em diversos formatos (Código (BibTeX), Código (RIS), Wikipédia, normal (XML/XSLT), bonito (XML/XSLT) e apenas o resumo (XML/XSLT)). Ficam disponíveis mais estilos de antevisão quando instalar o 'bibtex2html'.</li>
+      <li>Importar os dados em diversos formatos de ficheiros bibliográficos, como o BibTeX, RIS e ISI (precisa das 'bibutils') e exportar os dados para PDF (precisa do 'pdflatex'), PostScript (precisa do 'latex'), RTF (precisa do 'latex2rtf') e HTML.</li>
+      <li>Procurar por dados de itens bibliográficos nas bases de dados 'online' (p.ex. Google Scholar, ACM, IEEE, arXiv, etc.)</li>
+      <li>Fazer uma antevisão dos recursos locais ou remotos ('online'), p.ex. ficheiros PDF, associada aos itens do BibTEX.</li>
+      <li>Procurar e reunir itens duplicados na bibliografia.</li>
+      <li>Integrar as suas bibliografias com os editores de LaTeX, como o Kile e o LyX.</li>
+      <li>Importar a sua biblioteca do Zotero.</li>
+    </ul>
+  </description>
+  <description lang="pt-BR">
+    <p>KBibTeX é um aplicativo para gerenciamento de referências que pode ser usado para coletar as bibliografias TeX/LaTeX e exportá-las para vários formatos.</p>
+    <p>O KBibTeX pode fazer o seguinte:</p>
+    <ul>
+      <li>Visualizar os itens bibliográficos em diversos formatos (Código (BibTeX), Código (RIS), Wikipédia, normal (XML/XSLT), bonito (XML/XSLT) e apenas resumo (XML/XSLT)). Ficam disponíveis mais estilos de visualização quando o 'bibtex2html' estiver instalado.</li>
+      <li>Importar os dados em diversos formatos de arquivos bibliográficos, como o BibTeX, RIS e ISI (precisa da 'bibutils') e exportar os dados para PDF (precisa do 'pdflatex'), PostScript (precisa do 'latex'), RTF (precisa do 'latex2rtf') e HTML.</li>
+      <li>Procurar por dados de itens bibliográficos nos banco de dados online (p.ex., Google Scholar, ACM, IEEE, arXiv, etc.)</li>
+      <li>Visualizar os recursos locais ou remotos (online), p.ex., arquivos PDF, associados aos itens do BibTEX.</li>
+      <li>Procurar e mesclar os itens duplicados na bibliografia.</li>
+      <li>Integrar suas bibliografias com os editores de LaTeX, como o Kile e o LyX.</li>
+      <li>Importar sua biblioteca do Zotero.</li>
+    </ul>
+  </description>
+  <description lang="sk">
+    <p>KBibTeX je aplikácia na správu referencií, ktorú je možné použiť na zbieranie bibliografií TeX/LaTeX a exportovať ich v rôznych formátoch.</p>
+    <p>KBibTeX vie robiť nasledovné veci:</p>
+    <ul>
+      <li>Vytvoriť náhľad bibliografií v rôznych formátoch (zdroj (BibTeX), zdroj (RIS), Wikipédia, štandard (XML/XSLT), pekné (XML/XSLT), a iba abstraktné (XML/XSLT)). Dodatočné štýly je možné použiť po inštalácii bibtex2html.</li>
+      <li>Importovať údaje v rôznych bibliografických súborových formátoch ako BibTeX, RIS a ISI (vyžaduje bibutils) a exportovať údaje do PDF (vyžaduje pdflatex), PostScript (vyžaduje latex), RTF (vyžaduje latex2rtf) a HTML.</li>
+      <li>Hľadať dáta položkie bibliografie v online databázach (napr. Google Scholar, ACM, IEEE, arXiv, atď.)</li>
+      <li>Vytvoriť náhľad miestnych alebo vzdialených (online) zdrojov, napr. PDF súborov, odkázaných v položke BibTEX.</li>
+      <li>Nájsť a zlúčiť duplicitné položky v bibliografii.</li>
+      <li>Integrovať vaše bibliografie s editormi LaTeX ako Kile a LyX.</li>
+      <li>Importovať vašu knižnicu Zotero.</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <p>Kbibtex är ett referenshanteringsprogram som kan användas för att samla Tex/Latex-bibliografier och exportera dem med diverse format.</p>
+    <p>Kbibtex kan göra följande saker:</p>
+    <ul>
+      <li>Förhandsgranska bibliografier med olika format (källa (Bibtex), källa (RIS), Wikipedia, standard (XML/XSLT), snygg (XML/XSLT) och bara sammandrag (XML/XSLT)). Ytterligare förhandsgranskningsstilar är tillgängliga om bibtex2html är installerat.</li>
+      <li>Importera data med diverse bibliografi-filformat såsom Bibtex, RIS och ISI (kräver bibutils) och exportera data till PDF (kräver pdflatex), PostScript (kräver latex), RTF (kräver latex2rtf), och HTML.</li>
+      <li>Söka efter bibliografiposternas data i databaser på nätet (t.ex. Google Scholar, ACM, IEEE, arXiv, etc.)</li>
+      <li>Förhandsgranska lokala eller fjärresurser (på nätet), t.ex. PDF-filer, länkade i Bibtex-posten.</li>
+      <li>Hitta och sammanfoga duplicerade poster i bibliografin.</li>
+      <li>Integrera bibliografierna med Latex-editorer såsom Kile och LyX</li>
+      <li>Importera ett Zotero-bibliotek.</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>KBibTeX — програма для керування посиланнями, якою можна скористатися для створення бібліографій TeX/LaTeX та експортування даних бібліографій у різноманітних форматах.</p>
+    <p>KBibTeX може виконувати такі завдання:</p>
+    <ul>
+      <li>Виконувати попередній перегляд і зберігати записи бібліографії у різних форматах (початковий код (BibTeX), початковий код (RIS), Вікіпедія, standard (XML/XSLT), fancy (XML/XSLT) та abstract-only (XML/XSLT)). Доступ до додаткових стилів попереднього перегляду можна отримати після встановлення програми bibtex2html.</li>
+      <li>Імпортувати дані у різноманітних форматах файлів бібліографії, зокрема BibTeX, RIS та ISI (слід встановити bibutils) та експортувати дані до PDF (потребує встановлення pdflatex), PostScript (потребує встановлення latex), RTF (потребує встановлення latex2rtf) та HTML.</li>
+      <li>Виконувати пошук даних записів бібліографії у базах даних у інтернеті (зокрема у Google Scholar, ACM, IEEE, arXiv тощо).</li>
+      <li>Попередньо переглядати локальні та інтернет-ресурси, зокрема файли PDF, пов’язані із записом бібліографії BibTeX.</li>
+      <li>Шукати і об’єднувати дублікати записів у бібліографії.</li>
+      <li>Інтегрувати ваші бібліографії з редакторами LaTeX, зокрема Kile та LyX.</li>
+      <li>Імпортувати дані з вашої бібліотеки Zotero.</li>
+    </ul>
+  </description>
+  <description lang="x-test">
+    <p>xxKBibTeX is a reference management application which can be used to collect TeX/LaTeX bibliographies and export them in various formats.xx</p>
+    <p>xxKBibTeX can do the following things:xx</p>
+    <ul>
+      <li>xxPreview bibliography entries in various formats (Source (BibTeX), Source (RIS), Wikipedia, standard (XML/XSLT), fancy (XML/XSLT), and abstract-only (XML/XSLT)). Additional preview styles become available when bibtex2html is installed.xx</li>
+      <li>xxImport data in various bibliography file formats such as BibTeX, RIS and ISI (requires bibutils) and export data to PDF (requires pdflatex), PostScript (requires latex), RTF (requires latex2rtf), and HTML.xx</li>
+      <li>xxSearch for the bibliography entries data in online databases (e.g. Google Scholar, ACM, IEEE, arXiv, etc.)xx</li>
+      <li>xxPreview local or remote (online) resources, e.g. PDF files, linked in the BibTEX entry.xx</li>
+      <li>xxFind and merge duplicate entries in bibliography.xx</li>
+      <li>xxIntegrate your bibliographies with LaTeX editors such as Kile and LyX.xx</li>
+      <li>xxImport your Zotero library.xx</li>
+    </ul>
+  </description>
+  <description lang="zh-CN">
+    <p>KBibTeX 可以完成以下工作：</p>
+    <ul>
+      <li>查找和合并参考文献中的重复条目。</li>
+      <li>将参考文献与 LaTeX 编辑器整合，例如 Kile 和 LyX。</li>
+      <li>导入您的 Zotero 库。</li>
+    </ul>
+  </description>
+  <pkgname>kbibtex</pkgname>
+  <launchable type="desktop-id">org.kde.kbibtex.desktop</launchable>
+  <icon width="64" type="cached" height="64">kbibtex.png</icon>
+  <icon type="cached" width="128" height="128">kbibtex.png</icon>
+  <id>org.kde.kbibtex.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KBibTeX</name>
+  <name lang="ca">KBibTeX</name>
+  <name lang="ca-valencia">KBibTeX</name>
+  <name lang="cs">KBibTeX</name>
+  <name lang="de">KBibTeX</name>
+  <name lang="en-GB">KBibTeX</name>
+  <name lang="es">KBibTeX</name>
+  <name lang="fi">KBibTeX</name>
+  <name lang="fr">KBibTeX</name>
+  <name lang="gl">KBibTeX</name>
+  <name lang="id">KBibTeX</name>
+  <name lang="it">KBibTeX</name>
+  <name lang="ko">KBibTeX</name>
+  <name lang="nl">KBibTeX</name>
+  <name lang="pl">KBibTeX</name>
+  <name lang="pt">KBibTeX</name>
+  <name lang="pt-BR">KBibTeX</name>
+  <name lang="sk">KBibTeX</name>
+  <name lang="sv">Kbibtex</name>
+  <name lang="uk">KBibTeX</name>
+  <name lang="x-test">xxKBibTeXxx</name>
+  <name lang="zh-CN">KBibTeX</name>
+  <summary>BibTeX editor by KDE to edit bibliographies used with LaTeX</summary>
+  <summary lang="ca">Editor de BibTeX, creat per la comunitat KDE, per editar bibliografies emprant LaTeX</summary>
+  <summary lang="ca-valencia">Editor de BibTeX, creat per la comunitat KDE, per editar bibliografies emprant LaTeX</summary>
+  <summary lang="de">BibTeX-Editor von KDE zum Bearbeiten von Bibliografien mit LaTeX</summary>
+  <summary lang="en-GB">BibTeX editor by KDE to edit bibliographies used with LaTeX</summary>
+  <summary lang="es">Editor de BibTeX creado por KDE para editar las bibliografías usadas con LaTeX</summary>
+  <summary lang="fi">KDE:n BibTeX-muokkain LaTeXissa käytettävien lähdeluettelojen muokkaamiseen</summary>
+  <summary lang="fr">Éditeur BixTeX par KDE pour modifier des bibliographies utilisées avec LaTeX</summary>
+  <summary lang="gl">Editor de BibTeX de KDE, para editar bibliografías que se usen con LaTeX</summary>
+  <summary lang="id">BibTeX editor oleh KDE untuk mengedit bibliografis yang digunakan menggunakan LaTeX</summary>
+  <summary lang="it">Editor BibTeX di KDE per la modifica delle bibliografie usate con LaTeX</summary>
+  <summary lang="ko">LaTeX에서 사용하는 서지 정보를 편집하는 KDE의 BibTeX 편집기</summary>
+  <summary lang="nl">BibTeX-bewerker door KDE om bibliografieën te bewerken met LaTeX</summary>
+  <summary lang="pl">Edytor BibTeX autorstwa KDE do edytowania bibliografii używanych w edytorach LaTeX</summary>
+  <summary lang="pt">O BibTeX é um editor do KDE, onde se podem editar bibliografias usadas com o LaTeX</summary>
+  <summary lang="pt-BR">BibTeX é um editor para o KDE, onde se podem editar bibliografias usadas com  o LaTeX</summary>
+  <summary lang="sk">Editor BibTeX pre KDE na editáciu použitých bibliografií s LaTeXom</summary>
+  <summary lang="sv">Bibtex-editor av KDE för att redigera bibliografier använda med Latex</summary>
+  <summary lang="uk">Редактор BibTeX від KDE. Призначений для редагування бібліографій, що використовуються у LaTeX.</summary>
+  <summary lang="x-test">xxBibTeX editor by KDE to edit bibliographies used with LaTeXxx</summary>
+  <summary lang="zh-CN">KDE 提供的 BibTeX 编辑器，用来编辑 LaTeX 使用的参考文献目录</summary>
+  <url type="homepage">https://userbase.kde.org/KBibTeX</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kbibtex</url>
+  <url type="help">http://docs.kde.org/development/en/extragear-office/kbibtex/index.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <caption>KBibTeX main window</caption>
+      <caption lang="ca">Finestra principal del KBibTeX</caption>
+      <caption lang="ca-valencia">Finestra principal del KBibTeX</caption>
+      <caption lang="cs">Hlavní okno KBibTeX</caption>
+      <caption lang="de">Hauptfenster von KBibTeX</caption>
+      <caption lang="en-GB">KBibTeX main window</caption>
+      <caption lang="es">Ventana principal de KBibTeX</caption>
+      <caption lang="fr">La fenêtre principale de KBibTeX</caption>
+      <caption lang="gl">Xanela principal de KBibTeX</caption>
+      <caption lang="id">Window utama KBibTeX</caption>
+      <caption lang="it">Finestra principale di KBibTeX</caption>
+      <caption lang="ko">KBibTeX 주 창</caption>
+      <caption lang="nl">Hoofdvenster van KBibTeX</caption>
+      <caption lang="pl">Okno główne KBibTeX</caption>
+      <caption lang="pt">Janela principal do KBibTeX</caption>
+      <caption lang="pt-BR">Janela principal do KBibTeX</caption>
+      <caption lang="sk">Hlavné okno KBibTeX</caption>
+      <caption lang="sv">Huvudfönstret i Kbibtex</caption>
+      <caption lang="uk">Головне вікно KBibTeX</caption>
+      <caption lang="x-test">xxKBibTeX main windowxx</caption>
+      <caption lang="zh-CN">KBibTeX 主窗口</caption>
+      <image>https://cdn.kde.org/screenshots/kbibtex/kbibtex-kf5.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kbibtex</binary>
+  </provides>
+</component>

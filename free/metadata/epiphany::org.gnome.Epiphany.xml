@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>epiphany</pkgname>
+  <launchable type="desktop-id">org.gnome.Epiphany.desktop</launchable>
+  <icon height="64" type="cached" width="64">org.gnome.Epiphany.png</icon>
+  <icon width="128" type="cached" height="128">org.gnome.Epiphany.png</icon>
+  <id>org.gnome.Epiphany.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>Web</name>
+  <name lang="zh_TW">網頁</name>
+  <name lang="zh_HK">網頁</name>
+  <name lang="zh_CN">浏览器</name>
+  <name lang="vi">Web</name>
+  <name lang="uz@cyrillic">Веб браузер</name>
+  <name lang="uk">Тенет</name>
+  <name lang="ug">تور</name>
+  <name lang="tr">Web</name>
+  <name lang="th">เว็บ</name>
+  <name lang="tg">Веб</name>
+  <name lang="te">జాలం</name>
+  <name lang="ta">வலை</name>
+  <name lang="sv">Webb</name>
+  <name lang="sr@latin">Veb</name>
+  <name lang="sr">Веб</name>
+  <name lang="sl">Brskalnik Splet</name>
+  <name lang="sk">Web</name>
+  <name lang="ru">Веб-браузер</name>
+  <name lang="ro">Web</name>
+  <name lang="pt_BR">Web</name>
+  <name lang="pt">Web</name>
+  <name lang="pl">WWW</name>
+  <name lang="pa">ਵੈੱਬ</name>
+  <name lang="or">ୱେବ</name>
+  <name lang="oc">Web</name>
+  <name lang="nl">Web</name>
+  <name lang="ne">वेभ</name>
+  <name lang="nb">Internett</name>
+  <name lang="ms">Sesawang</name>
+  <name lang="mr">वेब</name>
+  <name lang="ml">വെബ്</name>
+  <name lang="lv">Tīmeklis</name>
+  <name lang="lt">Žiniatinklis</name>
+  <name lang="ko">웹</name>
+  <name lang="kn">ಜಾಲ</name>
+  <name lang="kk">Веб</name>
+  <name lang="ja">Web</name>
+  <name lang="it">Web</name>
+  <name lang="is">Vefur</name>
+  <name lang="id">Web</name>
+  <name lang="hu">Web</name>
+  <name lang="hr">Web</name>
+  <name lang="hi">वेब</name>
+  <name lang="he">דפדפן</name>
+  <name lang="gu">વેબ</name>
+  <name lang="gl">Web</name>
+  <name lang="ga">Gréasán</name>
+  <name lang="fy">Web</name>
+  <name lang="fur">Web</name>
+  <name lang="fr">Web</name>
+  <name lang="fi">Verkko</name>
+  <name lang="fa">وب</name>
+  <name lang="eu">Weba</name>
+  <name lang="et">Veeb</name>
+  <name lang="es">Web</name>
+  <name lang="eo">Reto</name>
+  <name lang="en_GB">Web</name>
+  <name lang="el">Ιστός</name>
+  <name lang="de">Web</name>
+  <name lang="da">Web</name>
+  <name lang="cs">Web</name>
+  <name lang="ca@valencia">Web</name>
+  <name lang="ca">Web</name>
+  <name lang="bs">Web</name>
+  <name lang="bg">Уеб</name>
+  <name lang="be">Сеціва</name>
+  <name lang="as">ৱেব</name>
+  <name lang="ar">الوب</name>
+  <name lang="an">Web</name>
+  <name lang="af">Web</name>
+  <summary>Web browser for GNOME</summary>
+  <summary lang="zh_TW">GNOME 的網頁瀏覽器</summary>
+  <summary lang="zh_HK">GNOME 的網頁瀏覽器</summary>
+  <summary lang="zh_CN">GNOME 的网络浏览器</summary>
+  <summary lang="uz@cyrillic">GNOME учун веб браузер</summary>
+  <summary lang="uk">Навігатор тенет для GNOME</summary>
+  <summary lang="tr">GNOME için web tarayıcısı</summary>
+  <summary lang="th">เว็บเบราว์เซอร์สำหรับ GNOME</summary>
+  <summary lang="ta">ஜீனோம் வலை உலாவி</summary>
+  <summary lang="sv">Webbläsare för GNOME</summary>
+  <summary lang="sr@latin">Veb pregledač za Gnom</summary>
+  <summary lang="sr">Веб прегледач за Гном</summary>
+  <summary lang="sl">Spletni brskalnik namizja GNOME</summary>
+  <summary lang="sk">Webový prehliadač prostredia GNOME</summary>
+  <summary lang="ru">Веб-браузер для GNOME</summary>
+  <summary lang="ro">Navigator Web pentru GNOME</summary>
+  <summary lang="pt_BR">Navegador da web para o GNOME</summary>
+  <summary lang="pt">Navegador Web para o GNOME</summary>
+  <summary lang="pl">Przeglądarka WWW dla środowiska GNOME</summary>
+  <summary lang="pa">ਗਨੋਮ ਲਈ ਵੈੱਬ ਝਲਕਾਰਾ</summary>
+  <summary lang="or">GNOME ପାଇଁ ୱେବ ବ୍ରାଉଜର</summary>
+  <summary lang="oc">Navigador web per GNOME</summary>
+  <summary lang="nl">Webbrowser voor Gnome</summary>
+  <summary lang="ne">जिनोम वेब ब्राउजर</summary>
+  <summary lang="nb">Nettleser for GNOME</summary>
+  <summary lang="ms">Pelayar Sesawang untuk GNOME</summary>
+  <summary lang="ml">ഗ്നോമിന്റെ വെബ്ബ് ബ്രൌസര്‍</summary>
+  <summary lang="lv">Tīmekļa pārlūks GNOME videi</summary>
+  <summary lang="lt">Žiniatinklio naršyklė GNOME aplinkai</summary>
+  <summary lang="ko">그놈 웹 브라우저</summary>
+  <summary lang="kk">GNOME үшін веб браузері</summary>
+  <summary lang="ja">GNOME 向けウェブブラウザー</summary>
+  <summary lang="it">Browser web per GNOME</summary>
+  <summary lang="is">Netvafri fyrir GNOME</summary>
+  <summary lang="id">Peramban web bagi GNOME</summary>
+  <summary lang="hu">Webböngésző a GNOME-hoz</summary>
+  <summary lang="hr">Internetski preglednik za GNOME</summary>
+  <summary lang="he">דפדפן אינטרנט עבור GNOME</summary>
+  <summary lang="gu">GNOME માટે વેબ બ્રાઉઝર</summary>
+  <summary lang="gl">Navegador web para GNOME</summary>
+  <summary lang="fy">Webblêder foar GNOME</summary>
+  <summary lang="fur">Navigadôr web par GNOME</summary>
+  <summary lang="fr">Navigateur Web pour GNOME</summary>
+  <summary lang="fi">Selain Gnomelle</summary>
+  <summary lang="fa">مرورگر وب برای گنوم</summary>
+  <summary lang="eu">GNOMEren web nabigatzailea</summary>
+  <summary lang="es">Navegador web para GNOME</summary>
+  <summary lang="eo">Reta foliumilo por GNOME</summary>
+  <summary lang="en_GB">Web Browser for GNOME</summary>
+  <summary lang="el">Περιηγητής Ιστού για το GNOME</summary>
+  <summary lang="de">Webbrowser für GNOME</summary>
+  <summary lang="da">Webbrowser til GNOME</summary>
+  <summary lang="cs">Webový prohlížeč pro GNOME</summary>
+  <summary lang="ca@valencia">Navegador web pel GNOME</summary>
+  <summary lang="ca">Navegador web del GNOME</summary>
+  <summary lang="bs">Web preglednik za GNOME</summary>
+  <summary lang="bg">Интернет браузърът на GNOME</summary>
+  <summary lang="be">Сеціўны аглядальнік для GNOME</summary>
+  <summary lang="as">GNOME ৰ ৱেব ব্ৰাউছাৰ</summary>
+  <summary lang="ar">متصفّح وب لجنوم</summary>
+  <summary lang="af">Webblaaier vir GNOME</summary>
+  <description>
+    <p>
+      The web browser for GNOME, featuring tight integration with the desktop
+      and a simple and intuitive user interface that allows you to focus on your
+      web pages. If you’re looking for a simple, clean, beautiful view of the
+      web, this is the browser for you.
+    </p>
+    <p>
+      Web is often referred to by its code name, Epiphany.
+    </p>
+  </description>
+  <description lang="ar">
+    <p>متصفح وب جنوم، و يتميز بتكامله مع سطح المكتب و واجهة استخدام بديهية تمكنك من التركيز على الصفحات التي تتصفحها.</p>
+  </description>
+  <description lang="be">
+    <p>Сеціўны аглядальнік для GNOME, які вылучаецца шчыльнай інтэграцыяй з асяроддзем, а таксама простым, інтуітыўна зразумелым інтэрфейсам, які дазваляе засяродзіцца на сеціўных старонках. Калі вы шукаеце просты, лёгкі і прыгожы аглядальнік сеціва, то Сеціва GNOME прыйдзецца вам даспадобы.</p>
+  </description>
+  <description lang="bg">
+    <p>Интернет браузърът на GNOME включва обширна интеграция с работната среда и изчистен интерфейс, който позволява да се съсредоточите върху уеб страниците. Ако искате просто да ползвате уеб — това е браузърът за вас.</p>
+    <p>Браузърът на GNOME е известен и с кодовото си име — Epiphany.</p>
+  </description>
+  <description lang="ca">
+    <p>El navegador web del GNOME, amb una estreta integració amb l'escriptori i una interfície d'usuari simple i intuïtiva que us permet centrar-vos en les pàgines web. Si busqueu una visualització senzilla, neta i bonica de la web, aquest és el vostre navegador.</p>
+    <p>La web és sovint referida pel seu nom en clau, Epifania.</p>
+  </description>
+  <description lang="ca@valencia">
+    <p>El navegador del GNOME, amb una gran integració amb l'escriptori i una interfície d'usuari simple i intuïtiva que vos permet centrar-vos en les pàgines web. Si busqueu una vista simple, neta, bella de la xarxa, este és el vostre navegador.</p>
+  </description>
+  <description lang="cs">
+    <p>Webový prohlížeč pro pracovní prostředí GNOME, který je s ním těsně integrován a má jednoduché a intuitivní uživatelské rozhraní, díky němuž se můžete soustředit jen na své webové stránky. Jestliže hledáte jednoduché, čisté a krásné zobrazení webů, je tohle prohlížeč pro vás.</p>
+    <p>Pro aplikaci Web je často používán její kódový název Epiphany.</p>
+  </description>
+  <description lang="da">
+    <p>Webbrowseren til GNOME, som er tæt integreret med skrivebordet og har en simpel og intuitiv brugergrænseflade, der lader dig fokusere på dine websider. Hvis du er på udkig efter en enkel, ren og smuk visning af nettet, er dette den rigtige browser til dig.</p>
+    <p>Web benævnes ofte med sit kodenavn Epiphany.</p>
+  </description>
+  <description lang="de">
+    <p>Der Webbrowser für GNOME ist perfekt in die Arbeitsumgebung integriert und bietet eine einfache und intuitive Benutzeroberfläche, die es Ihnen ermöglicht, sich auf die Inhalte der Webseiten zu konzentrieren. Wenn Sie einen einfachen, klaren und wunderschönen Blick auf das Internet haben wollen, dann liegen Sie mit diesem Browser richtig.</p>
+    <p>Web wird häufig auch mit seinem Codenamen »Epiphany« bezeichnet.</p>
+  </description>
+  <description lang="el">
+    <p>Ο περιηγητής Ιστού του GNOME, ενσωματώνεται στενά με την επιφάνεια εργασίας και διαθέτει μια απλή και διαισθητική διεπαφή χρήστη που σας επιτρέπει να εστιάζεσθε στις ιστοσελίδες σας. Αν ψάχνετε μια απλή, καθαρή και όμορφη προβολή στον Ιστό, τότε αυτός ο περιηγητής είναι για εσάς.</p>
+    <p>Ο Ιστός GNOME αναφέρεται συχνά από το κωδικό του όνομα, Epiphany.</p>
+  </description>
+  <description lang="en_GB">
+    <p>The web browser for GNOME, featuring tight integration with the desktop and a simple and intuitive user interface that allows you to focus on your web pages. If you’re looking for a simple, clean, beautiful view of the web, this is the browser for you.</p>
+    <p>Web is often referred to by its code name, Epiphany.</p>
+  </description>
+  <description lang="eo">
+    <p>La reta foliumilo por GNOME, kun forta integriĝo kun la labortablo kaj simpla, intuicia grafika fasado, kiu permesas al vi fokusi viajn retpaĝojn. Se vi deziras simplan, puran, belan rigardon de la reto, ĉi tiu estas foliumilo via.</p>
+  </description>
+  <description lang="es">
+    <p>El navegador web de GNOME, que ofrece una estrecha integración con el escritorio y una interfaz de usuario simple e intuitiva que le permite centrarse en sus páginas web. Si está buscando una vista sencilla, limpia y bonita de la web, este es su navegador.</p>
+    <p>A menudo se nombra a Web con su nombre en clave, Epiphany.</p>
+  </description>
+  <description lang="eu">
+    <p>GNOMEren web nabigatzailea, mahaigainera egokitutako bateragarritasunarekin eta erabil errazeko erabiltzailearen interfazearekin web orrietan zentra zaitezen.Webaren ikuspegi eder, garbi eta sotilaren bila ibiliz gero, hau da zure nabigatzailea.</p>
+    <p>Weba aplikazioa bere kode-izenagatik ezaguna da: Epiphany.</p>
+  </description>
+  <description lang="fa">
+    <p>مرورگر وب برای میزکار گنوم، با امکاناتی نظیر یکپارچه‌سازی کامل با میزکار و یک رابط کاربری ساده و جذاب که می‌گذارد روی صفحات وبتان تمرکز کنید. اگر به دنبال نمایی ساده، مرتب و زیبا از وب هستید، این همان مرورگر شماست.</p>
+    <p>وب اغلب با نام رمزی‌اش، اپیفنی مورد اشاره قرار می‌گیرد.</p>
+  </description>
+  <description lang="fi">
+    <p>Selain Gnome-työpöydälle, jonka selkeän käyttöliittymän avustuksella pystyt keskittyä tärkeimpään, eli sivujen sisältöön. Jos etsit helppokäyttöistä ja selkeää selainta, löysit sen juuri.</p>
+    <p>Gnomen verkkoselaimesta käytetään usein myös sen alkuperäistä nimeä Epiphany.</p>
+  </description>
+  <description lang="fr">
+    <p>Le navigateur Web de GNOME profite d’une intégration poussée avec le bureau et d’une interface utilisateur simple et intuitive qui vous permet de vous concentrer sur les pages Web. Si vous cherchez une vue du Web qui soit simple, propre et belle, c’est le navigateur qu’il vous faut.</p>
+    <p>Web est souvent appelé par son nom de code, Epiphany.</p>
+  </description>
+  <description lang="fur">
+    <p>Il navigadôr web par GNOME, che cuntune strete integrazion cul scritori e une semplice e intuitive interface utent, al permet di concentrâsi si lis pagjinis web. Se tu stâs cirint une semplice, nete e biele visualizazion dal web, chest navigadôr al fâs par te.</p>
+    <p>Tantis voltis si fâs riferiment a Web cul so non in codiç, Epiphany.</p>
+  </description>
+  <description lang="gl">
+    <p>O navegador web para GNOME conta cunha grande integración co escritorio e unha interface de usuario simple e intuitiva que lle permite enfocarse nas súas páxinas web.</p>
+    <p>Web é normalmente chamado polo seu nome en código, Epiphany.</p>
+  </description>
+  <description lang="he">
+    <p>דפדפן האינטרנט עבור  GNOME, הכולל שילוב הדוק עם שולחן העבודה וממשק משתמש פשוט המאפשר לך להתמקד בדפי האינטרנט שלך. אם חיפשת תצוגה פשוטה, נקייה ויפה של האינטרנט, דפדפן זה עבורך.</p>
+    <p>הדפדפן מכונה לעתים קרובות בשם הקוד שלו, Epiphany.</p>
+  </description>
+  <description lang="hr">
+    <p>Internetski preglednik za GNOME, usko integriran s radnom površinom i s jednostavnim i intuativnim sučeljem koje vam dopušta fokusiranje vaših web stranica. Ako tražite jednostavan, pregledan i prekrasan prikaz weba, ovo je pravi preglednik za vas.</p>
+    <p>Web se često naziva po svojem kôdnom nazivu, Epiphany.</p>
+  </description>
+  <description lang="hu">
+    <p>A webböngésző a GNOME-hoz, amely szorosan integrálódik az asztalba és egy egyszerű és intuitív felhasználói felület, amely lehetővé teszi a weboldalakra való összpontosítást. Ha a web egyszerű, letisztult, gyönyörű nézetét keresi, akkor ez az ön böngészője.</p>
+    <p>A Webre gyakran annak kódnevével, Epiphany néven hivatkoznak.</p>
+  </description>
+  <description lang="id">
+    <p>Peramban web bagi GNOME, dengan fitur integrasi ketat dengan destop dan antar muka yang sederhana dan intuitif yang memungkinkan Anda berfokus pada halaman-halaman web Anda. Bila Anda mencari tampilan sederhana, bersih, dan cantik dari web, ini adalah peramban untuk Anda.</p>
+    <p>Web sering diacu memakai nama kodenya, Epiphany.</p>
+  </description>
+  <description lang="it">
+    <p>Il browser web per GNOME, con una stretta integrazione con il desktop e una semplice e intuitiva interfaccia utente che consente di concentrarsi sulle pagine web. Se si è alla ricerca di una semplice, pulita e bella visualizzazione del web, questo è il browser per voi.</p>
+    <p>Spesso si fa riferimento a Web con il suo nome in codice, Epiphany.</p>
+  </description>
+  <description lang="ja">
+    <p>GNOME 向けのウェブブラウザーです。デスクトップ環境との緊密な統合、およびウェブページに集中できるシンプルで直感的なインターフェースを特徴としています。シンプルで、クリーンで、Web を美しく見るためのブラウザーを探しているのなら、このブラウザーは最適です。</p>
+  </description>
+  <description lang="kk">
+    <p>GNOME веб-браузері, жұмыс үстелімен тығыз біріктіру және веб-беттерге назар аударуға мүмкіндік беретін қарапайым және интуитивті пайдаланушы интерфейсі бар. Егер сіз қарапайым, таза, әдемі көрінісі бар веб-браузерін іздеп жатсаңыз, бұл сіз үшін браузер.</p>
+  </description>
+  <description lang="ko">
+    <p>그놈 웹브라우저. 데스크톱과 잘 연동하며, 간단하고 직관적인 인터페이스 때문에 웹 페이지에 집중할 수 있습니다. 만약 간단하고, 명료하며, 아름다운 웹탐색기를 찾고 있다면, 이것이 당신에게 꼭 맞는 브라우저입니다.</p>
+    <p>웹은 종종 에피퍼니라는 코드 네임으로 불립니다.</p>
+  </description>
+  <description lang="lt">
+    <p>GNOME žiniatinklio naršyklė su tampria integracija su darbalaukiu ir paprasta bei intuityvia naudotojo sąsaja, kuri leidžia susitelkti ties jūsų žiniatinkliais. Jei ieškote paprastos, neapkrautos bei gražios žiniatinklio vaizdavimo programos, tai naršyklė jums.</p>
+    <p>GNOME žiniatinklis dažnai vadinamas jo kodiniu pavadinimu - Epiphany.</p>
+  </description>
+  <description lang="lv">
+    <p>Tīmekļa pārlūks GNOME darbvirsmai, kas ir integrēts darbvirsmā, ar vienkāršu un intuitīvu lietotāja saskarni, kas ļauj vairāk pievērst uzmanību tīmekļa lapām. Ja meklējat vienkāršu, tīru un skaistu skatu uz tīmekli, šis pārlūks ir domāts jums.</p>
+  </description>
+  <description lang="ms">
+    <p>Pelayar sesawang untuk GNOME, memfiturkan penyepaduan rapi dengan atas meja dengan antaramuka pengguna yang ringkas dan intuitif. Membolehkan anda kekal fokus terhadap laman sesawang anda. Jika anda mahukan laman sesawang kelihatan ringkas, kemas, dengan pandangan cantik, maka pelayar ini sesuai untuk anda.</p>
+  </description>
+  <description lang="nb">
+    <p>Nettleser for GNOME. Har tett integrasjon mot skrivebordet og et enkelt og intuitivt brukergrensesnitt som lar deg fokusere på nettsidene. Hvis du ser etter en enkel, ryddig og vakker visning av nettet så er dette nettleseren for deg.</p>
+    <p>Nettleser refereres ofte til med kodenavnet Epiphany.</p>
+  </description>
+  <description lang="ne">
+    <p>वेबलाई अक्सर यसको कोड नाम, इपिफानीद्वारा उल्लेख गरिएको छ।</p>
+  </description>
+  <description lang="nl">
+    <p>De webbrowser voor de Gnome-werkomgeving, met als bijzondere eigenschappen de sterke integratie met het bureaublad en een eenvoudige, intuïtieve interface, zodat u zich kunt concentreren op uw webpagina’s. Bent u op zoek naar een eenvoudige, opgeruimde en elegante weergave van het web? Dan is dit de webbrowser voor u.</p>
+    <p>Web staat ook wel bekend onder zijn codenaam Epiphany.</p>
+  </description>
+  <description lang="oc">
+    <p>Lo navigador Web de GNOME, que profeita d'una integracion abotida amb lo burèu e d'una interfàcia utilizaire simpla e intuitiva que vos permet de vos concentrar sus las paginas Web. Se cercatz una vista del Web que siá simpla, neta e bèla, es lo navigador que vos cal.</p>
+  </description>
+  <description lang="pl">
+    <p>Przeglądarka WWW dla środowiska GNOME, oferująca ścisłą integrację z pulpitem oraz prosty i intuicyjny interfejs użytkownika, umożliwiający skupienie się na stronach WWW.</p>
+    <p>Przeglądarka WWW znana jest też pod nazwą kodową Epiphany.</p>
+  </description>
+  <description lang="pt">
+    <p>O navegador web para o GNOME, que apresenta uma integração perfeita com o ambiente de trabalho e um ambiente de utilizador simples e intuitivo que permite que se foque nas suas páginas de Internet.</p>
+    <p>O Web é muitas vezes referido pelo seu nome de código, Epiphany.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>O navegador web para o GNOME, apresentando forte integração com a área de trabalho e uma interface gráfica simples e intuitiva que permite a você concentrar-se em seus sites. Se você está à procura de uma visão simples, limpa e bonita da web, este é o navegador para você.</p>
+    <p>O Web é geralmente mencionado por seu codinome, Epiphany.</p>
+  </description>
+  <description lang="ro">
+    <p>Navigatorul web pentru GNOME, furnizând integrare strânsă cu desktopul și o interfață pentru utilizator simplă și intuitivă care vă permite să vă concentrați pe paginile web vizitate. Dacă sunteți în căutarea unui navigator web simplu, curat și frumos, acesta este navigatorul de ales.</p>
+  </description>
+  <description lang="ru">
+    <p>Веб-браузер для рабочего стола GNOME, обеспечивающий тесную интеграцию с рабочим столом, имеющий простой и интуитивно-понятный интерфейс, который позволяет вам сосредоточиться на веб-страницах. Если вы ищете простой, лёгкий и красивый веб-браузер, то вы его нашли.</p>
+    <p>Веб-браузер часто упоминается под кодовым названием Epiphany.</p>
+  </description>
+  <description lang="sk">
+    <p>Webový prehliadač prostredia GNOME, ktorý je veľmi úzko prepojený s prostredím a má jednoduché a intuitívne používateľské rozhranie, ktoré vám umožní sústrediť sa na webové stránky. Ak hľadáte jednoduché, čisté a pekné zobrazenie webu, toto je prehliadač pre vás.</p>
+  </description>
+  <description lang="sl">
+    <p>Spletni brskalnik namizja GNOME omogoča enostavno in varno brskanje spletnih strani. Enostaven in intuitiven uporabniški vmesnik omogoča hitro pregledovanje spletnih strani.</p>
+    <p>Program Splet je pogosto poimenovan z delovnim imenom Epiphany.</p>
+  </description>
+  <description lang="sr">
+    <p>Веб прегледач за Гном је направљен тако да се уклопи у радну површину. Његов једноставан и паметно осмишљен изглед омогућава да се боље усредсредите на веб странице. Ако желите једноставан и леп прегледач веб страница, онда је ово прави програм за вас.</p>
+    <p>Веб се често назива Спознаја (Epiphany) по свом кодном имену.</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Veb pregledač za Gnom je napravljen tako da se uklopi u radnu površinu. Njegov jednostavan i pametno osmišljen izgled omogućava da se bolje usredsredite na veb stranice. Ako želite jednostavan i lep pregledač veb stranica, onda je ovo pravi program za vas.</p>
+  </description>
+  <description lang="sv">
+    <p>Webbläsaren för GNOME, med stark integration mot skrivbordet och ett enkelt, intuitivt användargränssnitt som tillåter dig att fokusera på dina webbsidor. Om du letar ett enkelt, stilrent och vackert sätt att se webben på är detta webbläsaren för dig.</p>
+    <p>Webb hänvisas ofta till med dess kodnamn, Epiphany.</p>
+  </description>
+  <description lang="ta">
+    <p>ஜீனோமுக்கான வலை உலாவி, டெஸ்க்டாப்புடன் இறுக்கமான ஒருங்கிணைப்பு மற்றும் உங்கள் வலைப்பக்கங்களில் கவனம் செலுத்த உங்களை அனுமதிக்கும் எளிய பயனர் இடைமுகம் கொண்டுள்ளது. வலையின் எளிய, பிழை இல்லா, அழகான காட்சிபடுத்துதலை நீங்கள் தேடுகிறீர்கள் என்றால், இது உங்களுக்கான உலாவி.</p>
+  </description>
+  <description lang="tr">
+    <p>GNOME için web tarayıcısı; masaüstüyle sıkı tümleşen, basit ve sezgisel kullanıcı arayüzüyle web sayfalarınıza odaklanmanızı sağlar. Eğer web ortamının yalın, temiz ve güzel görünümünü arıyorsanız aradığınız tarayıcı budur.</p>
+    <p>Web sıklıkla kod adıyla, yani Epiphany olarak anılır.</p>
+  </description>
+  <description lang="uk">
+    <p>Навігатор тенет у середовищі GNOME, який тісно інтегровано зі стільницею та має простий, інтуїтивний інтерфейс, що дозволяє зосередитись лише на вмісті сторінок. Якщо ви шукаєте простий, незасмічений і гарненький переглядач тенет, цей навігатор для вас.</p>
+    <p>«Тенета» часто називають за їхньою кодовою назвою, Epiphany.</p>
+  </description>
+  <description lang="uz@cyrillic">
+    <p>GNOME иш столи билан чуқур интеграциялашган ҳамда веб саҳифаларингизга диққатингизни қаратишингизга имкон берувчи фойдаланувчи интерфейсига эга бўлган веб браузер. Агарда интернет саҳифаларининг оддий, тоза, ва чиройли кўринишини излаётган бўлсангиз, ушбу браузер сиз учун.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>GNOME 桌面的网络浏览器，与桌面紧密集成，用户界面简单直观，使您能够专注于网页浏览。如果需要的是简单，干净，美观的网页体验，这就是您的选择。</p>
+    <p>人们一般用 GNOME 浏览器的代号将其称为 Epiphany。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>GNOME 的網頁瀏覽器，帶來與桌面的緊密整合、簡易且直觀的使用者介面，讓您可以專注在您的網頁上。如果您在尋找簡單、乾淨、美觀的網頁環境，這就是為您設計的瀏覽器。</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://gitlab.gnome.org/GNOME/epiphany/raw/HEAD/data/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://wiki.gnome.org/Apps/Web</url>
+  <update_contact>mcatanzaro_at_gnome.org</update_contact>
+  <kudos>
+    <kudo>AppMenu</kudo>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>SearchProvider</kudo>
+    <kudo>UserDocs</kudo>
+  </kudos>
+  <project_group>GNOME</project_group>
+  <project_license>GPL-3.0+</project_license>
+  <developer_name>The GNOME Project</developer_name>
+  <developer_name lang="zh_TW">GNOME 專案</developer_name>
+  <developer_name lang="zh_CN">GNOME 项目</developer_name>
+  <developer_name lang="uz@cyrillic">GNOME проекти</developer_name>
+  <developer_name lang="uk">Проєкт GNOME</developer_name>
+  <developer_name lang="tr">GNOME Projesi</developer_name>
+  <developer_name lang="ta">ஜீனோம் திட்டம்</developer_name>
+  <developer_name lang="sv">GNOME-projektet</developer_name>
+  <developer_name lang="sr@latin">Projekat Gnom</developer_name>
+  <developer_name lang="sr">Пројекат Гном</developer_name>
+  <developer_name lang="sl">Projekt GNOME</developer_name>
+  <developer_name lang="sk">Projekt GNOME</developer_name>
+  <developer_name lang="ru">Проект GNOME</developer_name>
+  <developer_name lang="ro">Proiectul GNOME</developer_name>
+  <developer_name lang="pt_BR">O projeto GNOME</developer_name>
+  <developer_name lang="pt">O Projeto GNOME</developer_name>
+  <developer_name lang="pl">Projekt GNOME</developer_name>
+  <developer_name lang="pa">ਗਨੋਮ ਪਰੋਜੈੱਕਟ</developer_name>
+  <developer_name lang="oc">Lo projècte GNOME</developer_name>
+  <developer_name lang="nl">Het Gnome-project</developer_name>
+  <developer_name lang="ne">जिनोम परियोजना</developer_name>
+  <developer_name lang="nb">GNOME prosjektet</developer_name>
+  <developer_name lang="ms">Projek GNOME</developer_name>
+  <developer_name lang="ml">ഗ്നോം പദ്ധതി</developer_name>
+  <developer_name lang="lv">GNOME projekts</developer_name>
+  <developer_name lang="lt">GNOME projektas</developer_name>
+  <developer_name lang="ko">그놈 프로젝트</developer_name>
+  <developer_name lang="kk">GNOME жобасы</developer_name>
+  <developer_name lang="ja">The GNOME Project</developer_name>
+  <developer_name lang="it">Il progetto GNOME</developer_name>
+  <developer_name lang="id">Projek GNOME</developer_name>
+  <developer_name lang="hu">A GNOME projekt</developer_name>
+  <developer_name lang="hr">GNOME projekt</developer_name>
+  <developer_name lang="he">מיזם GNOME</developer_name>
+  <developer_name lang="gl">O proxecto GNOME</developer_name>
+  <developer_name lang="fy">It GNOME Projekt</developer_name>
+  <developer_name lang="fur">Il progjet GNOME</developer_name>
+  <developer_name lang="fr">Le projet GNOME</developer_name>
+  <developer_name lang="fi">Gnome-projekti</developer_name>
+  <developer_name lang="fa">پروژهٔ گنوم</developer_name>
+  <developer_name lang="eu">GNOME proiektua</developer_name>
+  <developer_name lang="es">El proyecto GNOME</developer_name>
+  <developer_name lang="eo">La projekto GNOME</developer_name>
+  <developer_name lang="en_GB">The GNOME Project</developer_name>
+  <developer_name lang="el">Το έργο GNOME</developer_name>
+  <developer_name lang="de">Das GNOME-Projekt</developer_name>
+  <developer_name lang="da">GNOME-projektet</developer_name>
+  <developer_name lang="cs">Projekt GNOME</developer_name>
+  <developer_name lang="ca@valencia">El projecte GNOME</developer_name>
+  <developer_name lang="ca">El projecte GNOME</developer_name>
+  <developer_name lang="bg">Проектът GNOME</developer_name>
+  <developer_name lang="be">Праект GNOME</developer_name>
+  <developer_name lang="ar">مشروع جنوم</developer_name>
+  <developer_name lang="af">Die GNOME Projek</developer_name>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/epiphany/issues</url>
+  <url type="donation">http://www.gnome.org/friends/</url>
+  <url type="help">https://help.gnome.org/users/epiphany/stable/</url>
+  <url type="translate">https://wiki.gnome.org/TranslationProject</url>
+  <translation type="gettext">epiphany</translation>
+  <provides>
+    <id>epiphany.desktop</id>
+  </provides>
+  <content_rating type="oars-1.1" />
+  <custom>
+    <value key="Purism::form_factor">workstation</value>
+    <value key="Purism::form_factor">mobile</value>
+  </custom>
+  <releases>
+    <release version="42.3" date="2022-07-08" />
+    <release date="2022-04-21" version="42.2" />
+    <release date="2022-04-12" version="42.1" />
+    <release date="2022-03-17" version="42.0" />
+    <release version="42~beta" date="2022-02-11" />
+    <release date="2022-01-06" version="42~alpha" />
+    <release version="41.3" date="2021-12-20" />
+    <release date="2021-12-16" version="41.2" />
+    <release date="2021-12-16" version="41.1" />
+    <release date="2021-09-16" version="41.0" />
+    <release version="41~rc" date="2021-09-02" />
+    <release date="2021-08-12" version="41~beta" />
+    <release date="2021-07-02" version="41~alpha" />
+    <release date="2021-06-04" version="40.2" />
+    <release date="2021-04-29" version="40.1" />
+    <release date="2021-03-19" version="40.0" />
+    <release version="40~rc" date="2021-03-12" />
+    <release date="2021-02-11" version="40~beta" />
+    <release version="40~alpha" date="2021-01-07" />
+    <release date="2020-12-01" version="3.38.2" />
+    <release date="2020-10-06" version="3.38.1" />
+    <release date="2020-09-11" version="3.38.0" />
+    <release version="3.37.92" date="2020-09-04" />
+    <release version="3.37.91" date="2020-08-20" />
+    <release date="2020-08-06" version="3.37.90" />
+    <release version="3.37.3" date="2020-07-02" />
+    <release date="2020-05-29" version="3.37.2" />
+    <release date="2020-04-25" version="3.37.1" />
+    <release date="2020-03-27" version="3.36.1" />
+    <release version="3.36.0" date="2020-03-07" />
+    <release version="3.35.92" date="2020-02-27" />
+    <release date="2020-02-14" version="3.35.91" />
+    <release version="3.35.90" date="2020-02-01" />
+    <release date="2019-01-03" version="3.35.3" />
+    <release date="2019-11-22" version="3.35.2" />
+    <release version="3.35.1" date="2019-10-11" />
+    <release version="3.34.1" date="2019-10-04" />
+    <release version="3.34.0" date="2019-09-07" />
+    <release version="3.33.92" date="2019-09-01" />
+    <release version="3.33.91" date="2019-08-16" />
+    <release version="3.33.90" date="2019-08-05" />
+    <release date="2019-07-14" version="3.33.4" />
+  </releases>
+</component>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>pantheon.switchboard-with-plugs</pkgname>
+  <id>io.elementary.switchboard.notifications</id>
+  <extends>io.elementary.switchboard</extends>
+  <name>Notifications Settings</name>
+  <name lang="uk">Налаштування сповіщень</name>
+  <name lang="tr">Bildirim Ayarları</name>
+  <name lang="sr">Поставке обавештења</name>
+  <name lang="ru">Параметры уведомлений</name>
+  <name lang="pt_BR">Configurações de Notificações</name>
+  <name lang="pt">Definições das Notificações</name>
+  <name lang="nl">Notificatie Instellingen</name>
+  <name lang="nb">Merknadsinnstillinger</name>
+  <name lang="mr">अधिसूचना सेटिंग्ज</name>
+  <name lang="ja">通知の設定</name>
+  <name lang="it">Impostazioni delle notifiche</name>
+  <name lang="he">הגדרות התראה</name>
+  <name lang="fr">Paramètres des notifications</name>
+  <name lang="es">Configuración de notificaciones</name>
+  <name lang="en_GB">Notifications Settings</name>
+  <name lang="da">Notifikationsindstillinger</name>
+  <name lang="cs">Nastavení upozorňování</name>
+  <name lang="ca">Paràmetres de les notificacions</name>
+  <summary>Configure notification bubbles, sounds, and notification center</summary>
+  <summary lang="zh_TW">調整通知氣泡、聲音、通知中心的設定</summary>
+  <summary lang="zh_CN">配置通知气泡、声音和通知中心</summary>
+  <summary lang="uk">Налаштування бульбашок сповіщень, звуків та центру сповіщень</summary>
+  <summary lang="tr">Bildirim balonlarını, sesleri ve bildirim merkezini yapılandır</summary>
+  <summary lang="sr">Подесите облачиће обавештења, звуке и центар обавештења</summary>
+  <summary lang="ru">Настройка пузырей уведомлений, звуков и центра уведомлений</summary>
+  <summary lang="pt_BR">Configurar bolhas de notificação, sons e centro de notificações</summary>
+  <summary lang="pt">Configurar bolhas de notificação, sons e centro de notificações</summary>
+  <summary lang="nl">Configureer meldingen, geluiden en notificatiecentrum</summary>
+  <summary lang="mr">अधिसूचना बबल, ध्वनी आणि सूचना केंद्र कॉन्फिगर करा</summary>
+  <summary lang="lt">Konfigūruoti pranešimų burbulus, garsus bei pranešimų centrą</summary>
+  <summary lang="ko">말풍선, 알림음, 알림 센터를 설정합니다</summary>
+  <summary lang="ja">バブル、サウンド、通知センターを設定します</summary>
+  <summary lang="it">Configura le bolle di notifica, i suoni e il centro notifiche</summary>
+  <summary lang="he">הגדרת בועות התראה, צלילים ומרכז התראות</summary>
+  <summary lang="gl">Configurar burbullas de notificación, sons e centro de notificacións</summary>
+  <summary lang="fr">Configurer les bulles et le son de notifications ainsi que le centre de notifications</summary>
+  <summary lang="fi">Määritä ilmoituskuplien ja -äänien sekä ilmoituskeskuksen toiminta</summary>
+  <summary lang="es">Configure las burbujas de notificación, los sonidos y el centro de notificaciones</summary>
+  <summary lang="eo">Agordi avertajn bobelojn, sonojn, kaj la avertan centron</summary>
+  <summary lang="en_GB">Configure notification bubbles, sounds, and notification centre</summary>
+  <summary lang="en_CA">Configure notification bubbles, sounds, and notification center</summary>
+  <summary lang="en_AU">Configure notification bubbles, sounds, and notification center</summary>
+  <summary lang="de">Benachrichtigungstexte und -klänge sowie das Benachrichtigungscenter einrichten</summary>
+  <summary lang="da">Konfigurér notifikationsbobler, lyde og notifikationscenter</summary>
+  <summary lang="cs">Nastavujte bubliny upozornění, zvuky a centrum upozornění</summary>
+  <summary lang="ca">Configureu les bafarades de les notificacions, sons i el centre de notificacions.</summary>
+  <icon type="stock">preferences-system-notifications</icon>
+  <translation type="gettext">notifications-plug</translation>
+  <releases>
+    <release date="2021-07-14" version="2.2.0" urgency="medium">
+      <description>
+        <p>Minor updates:</p>
+        <ul>
+          <li>New illustrations</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.1.7" date="2020-05-28" urgency="medium">
+      <description>
+        <p>Updated translations</p>
+      </description>
+    </release>
+    <release version="2.1.6" date="2020-04-01" urgency="medium">
+      <description>
+        <p>Updated translations</p>
+      </description>
+    </release>
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/elementary/switchboard-plug-notifications/master/data/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://elementary.io</url>
+  <url type="bugtracker">https://github.com/elementary/switchboard-plug-notifications/issues</url>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+</component>

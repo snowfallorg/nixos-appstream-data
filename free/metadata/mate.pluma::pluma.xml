@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>mate.pluma</pkgname>
+  <launchable type="desktop-id">pluma.desktop</launchable>
+  <id>pluma.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Pluma</name>
+  <name lang="zh_TW">Pluma</name>
+  <name lang="zh_HK">Pluma</name>
+  <name lang="zh_CN">Pluma</name>
+  <name lang="uz">Pluma</name>
+  <name lang="ur">پلوما</name>
+  <name lang="uk">Pluma</name>
+  <name lang="tr">Pluma</name>
+  <name lang="th">Pluma</name>
+  <name lang="sv">Pluma</name>
+  <name lang="sr">Плума</name>
+  <name lang="sq">Pluma</name>
+  <name lang="sl">Pluma</name>
+  <name lang="sk">Pluma</name>
+  <name lang="ru">Pluma</name>
+  <name lang="ro">Pluma</name>
+  <name lang="pt_BR">Pluma</name>
+  <name lang="pt">Pluma</name>
+  <name lang="pms">Pluma</name>
+  <name lang="pl">Pluma</name>
+  <name lang="oc">Pluma</name>
+  <name lang="nl">Pluma</name>
+  <name lang="nds">Pluma</name>
+  <name lang="nb">Pluma</name>
+  <name lang="ms">Pluma</name>
+  <name lang="mr">प्लुमा</name>
+  <name lang="lv">Pluma</name>
+  <name lang="lt">Pluma</name>
+  <name lang="ky">Pluma</name>
+  <name lang="ko">플루마</name>
+  <name lang="kn">Pluma</name>
+  <name lang="kk">Pluma</name>
+  <name lang="ja">Pluma</name>
+  <name lang="it">Pluma</name>
+  <name lang="is">Pluma</name>
+  <name lang="ie">Pluma</name>
+  <name lang="id">Pluma</name>
+  <name lang="hy">Pluma</name>
+  <name lang="hu">Pluma</name>
+  <name lang="hr">Pluma</name>
+  <name lang="he">עורך הטקסט Pluma</name>
+  <name lang="gl">Pluma</name>
+  <name lang="fr">Pluma</name>
+  <name lang="fi">Pluma</name>
+  <name lang="eu">Pluma</name>
+  <name lang="et">Pluma</name>
+  <name lang="es_MX">Pluma</name>
+  <name lang="es_AR">Pluma</name>
+  <name lang="es">Pluma</name>
+  <name lang="en_GB">Pluma</name>
+  <name lang="en_AU">Pluma</name>
+  <name lang="el">Pluma</name>
+  <name lang="de">Pluma</name>
+  <name lang="da">Pluma</name>
+  <name lang="cy">Pluma</name>
+  <name lang="cs">Pluma</name>
+  <name lang="cmn">Pluma</name>
+  <name lang="ca@valencia">Pluma</name>
+  <name lang="ca">Pluma</name>
+  <name lang="bs">Pluma</name>
+  <name lang="br">Pluma</name>
+  <name lang="bg">Текстов редактор - Pluma</name>
+  <name lang="be">Pluma</name>
+  <name lang="ast">Pluma</name>
+  <name lang="ar">قلم</name>
+  <name lang="am">ፕሉማ</name>
+  <summary>A Text Editor for the MATE desktop environment</summary>
+  <summary lang="zh_TW">適用於 MATE 桌面環境的文字編輯器</summary>
+  <summary lang="zh_HK">適用於 MATE 桌面環境的文字編輯器</summary>
+  <summary lang="zh_CN">用于 MATE 桌面环境的文本编辑器</summary>
+  <summary lang="uz">MATE ish stoli muhiti uchun Matn Tahrirchi</summary>
+  <summary lang="uk">Текстовий редактор для стільничного середовища МАТЕ</summary>
+  <summary lang="tr">MATE masaüstü ortami için bir metin düzenleyicisi</summary>
+  <summary lang="th">เครื่องมือแก้ไขข้อความสำหรับสภาพแวดล้อมเดสก์ท็อป MATE</summary>
+  <summary lang="sv">En textredigerare för MATE skrivbordsmiljön</summary>
+  <summary lang="sr">Уређивач текста за Мејтово радно окружење</summary>
+  <summary lang="sl">Urejevalnik besedil za namizno okolje MATE</summary>
+  <summary lang="sk">Textový editor pre pracovné prostredie MATE</summary>
+  <summary lang="ru">Текстовый редактор для среды MATE</summary>
+  <summary lang="ro">Un editor de texte pentru mediul desktop MATE</summary>
+  <summary lang="pt_BR">Um Editor de Texto do ambiente de trabalho MATE</summary>
+  <summary lang="pt">Um editor de texto para o ambiente de área de trabalho MATE</summary>
+  <summary lang="pl">Edytor tekstu dla środowiska graficznego MATE</summary>
+  <summary lang="oc">Un editor de tèxt per l’environament de burèu MATE</summary>
+  <summary lang="nl">Een tekstbewerker voor de MATE-werkomgeving</summary>
+  <summary lang="nds">Een Text-Bewarker för de MATE-Schrievdisk</summary>
+  <summary lang="nb">En tekstbehandler for skrivebordsmiljøet MATE</summary>
+  <summary lang="ms">Penyunting Teks untuk persekitaran desktop MATE</summary>
+  <summary lang="lt">Tekstų redaktorius, skirtas MATE darbalaukio aplinkai</summary>
+  <summary lang="ko">MATE 데스크톱 환경용 텍스트 에디터</summary>
+  <summary lang="kn">MATE ಗಣಕತೆರೆ ವಾತಾವರಣಕ್ಕಾಗಿನ ಒಂದು ಪಠ್ಯ ಸಂಪಾದಕ</summary>
+  <summary lang="kk">MATE жұмыс үстел ортасы үшін мәтін түзеткіші</summary>
+  <summary lang="ja">MATEデスクトップ環境向けのテキストエディター</summary>
+  <summary lang="it">Un Editor di Testo per l'ambiente desktop MATE</summary>
+  <summary lang="is">Textaritill fyrir MATE skjáborðsumhverfið</summary>
+  <summary lang="ie">Un redactor de textus por li ambientie MATE</summary>
+  <summary lang="id">Penyunting Teks bagi lingkungan desktop MATE</summary>
+  <summary lang="hy">MATE աշխատանքային միջավայրի համար տեքստային խմբագրիչ</summary>
+  <summary lang="hu">Egy szövegszerkesztő a MATE asztali környezethez</summary>
+  <summary lang="hr">Uređivač teksta za MATE radno okruženje</summary>
+  <summary lang="he">עורך טקסט לסביבת שולחן העבודה MATE</summary>
+  <summary lang="gl">Un editor de texto para o contorno de escritorio MATE</summary>
+  <summary lang="fr">Un éditeur de texte pour l'environnement de bureau MATE</summary>
+  <summary lang="fi">Tekstimuokkain MATE-työpöytäympäristölle</summary>
+  <summary lang="eu">MATE mahaigain ingurunerako testu-editorea</summary>
+  <summary lang="et">Tekstiredaktor MATE töölauakeskkonnale</summary>
+  <summary lang="es_MX">Un Editor de Texto para el ambiente de escritorio MATE</summary>
+  <summary lang="es">Un editor de texto para el ambiente del escritorio MATE</summary>
+  <summary lang="en_GB">A Text Editor for the MATE desktop environment</summary>
+  <summary lang="en_AU">A Text Editor for the MATE desktop environment</summary>
+  <summary lang="el">Ένας επεξεργαστής κειμένου για το γραφικό περιβάλλον MATE</summary>
+  <summary lang="de">Eine Textbearbeitung für die MATE-Arbeitsumgebung</summary>
+  <summary lang="da">Et tekstprogram for skrivebordsmiljøet MATE</summary>
+  <summary lang="cy">Golygydd testun i'r amgylchedd bwrdd gwaith MATE</summary>
+  <summary lang="cs">Textový editor pro desktopové prostředí MATE</summary>
+  <summary lang="ca@valencia">Un editor de text per a l'entorn d'escriptori MATE</summary>
+  <summary lang="ca">Un editor de text per a l'entorn d'escriptori MATE</summary>
+  <summary lang="bs">Urednik teksta za MATE Desktop</summary>
+  <summary lang="br">Un embanner testennoù evit endro burev MATE</summary>
+  <summary lang="bg">Текстов редактор за работна среда MATE</summary>
+  <summary lang="be">Тэкставы рэдактар для працоўнага асяроддзя MATE</summary>
+  <summary lang="ast">Un editor de testu pal ambiente d'escritoriu MATE</summary>
+  <summary lang="ar">محرر نصوص لبيئة سطح المكتب MATE</summary>
+  <summary lang="am">ለ ዴስክቶፕ አካባቢ የ ሜት ጽሁፍ ማረሚያ </summary>
+  <description>
+    <p>
+   Pluma is a small, but powerful text editor designed specifically for
+   the MATE desktop. It has most standard text editor functions and fully
+   supports international text in Unicode. Advanced features include syntax
+   highlighting and automatic indentation of source code, printing and editing
+   of multiple documents in one window.
+  </p>
+    <p>
+   Pluma is extensible through a plugin system, which currently includes
+   support for spell checking, comparing files, viewing CVS ChangeLogs, and
+   adjusting indentation levels.
+  </p>
+  </description>
+  <description lang="ca">
+    <p>Pluma és un petit editor de text, però poderós que està dissenyat específicament per a l'escriptori MATE. Té la majoria de les funcions estàndards d'edició de text i és totalment compatible amb el text internacional d'Unicode. Les característiques avançades inclouen el ressaltat de la sintaxi i sangria automàtica de codi font, la impressió i l'edició de diversos documents en una mateixa finestra.</p>
+    <p>Pluma es pot ampliar a través d'un sistema de complements, que admet actualment la correcció ortogràfica, la comparació de fitxers, la visualització del registre de canvis al CVS, i l'ajust dels nivells de sagnat.</p>
+  </description>
+  <description lang="cs">
+    <p>Pluma je malý, ale mocný textový editor, zvláště navržený pro pracovní prostředí MATE. Má většinu běžných funkcí textových editorů a plně podporuje národní kódování prostřednictvím Unicode. Pokročilé funkce zahrnují zvýrazňování syntaxe a automatické odsazování zdrojového kódu, tisk i úpravu několika dokumentů v jednom okně.</p>
+    <p>Editor Pluma je rozšiřitelný prostřednictvím systému zásuvných modulů, který v současné době zahrnuje podporu kontroly pravopisu, porovnávání souborů, prohlížení CVS protokolů změn a úpravu úrovní odsazení.</p>
+  </description>
+  <description lang="da">
+    <p>Pluma er et lille, men funktionsrigt tekstprogram designet specifikt for skrivebordet MATE. Det har de fleste standardfunktioner og understøtter i fuld omfang international tekst i Unicode. Avancerede funktioner såsom syntaksfremhævelse og automatisk indrykning af kildekode, udskrivning og redigering af flere dokumenter i et vindue.</p>
+    <p>Pluma kan udvides via et system for udvidelsesmoduler, som i øjeblikket understøtter stavekontrol, sammenligning af filer, visning af CVS-ændringslogge og justering af indrykningsniveauer. </p>
+  </description>
+  <description lang="es">
+    <p>Pluma es un pequeño pero potente editor de texto diseñado específicamente para el escritorio MATE. Posee la mayoría de las características estándar de edición de texto y es totalmente compatible con la edición en diferentes idiomas mediante Unicode. Incluye algunas características avanzadas como el resaltado de sintaxis, la sangría automática del código fuente, la impresión y la edición de múltiples documentos en una sola ventana.</p>
+    <p>Pluma es extensible mediante un sistema de complementos, que actualmente incluye la corrección ortográfica, la comparación de archivos, la visualización de los registros de cambios del CVS y el ajuste de los niveles de sangría. </p>
+  </description>
+  <description lang="gl">
+    <p>Pluma é un pequeno, pero potente editor de texto deseñado especificamente para o escritorio MATE. Conten as funcións estándares dun editor de texto e admite edición en diferentes idiomas mediante Unicode. Inclúe características avanzadas como resalte de sintaxe, tabulación automática de código fonte, impresión e edición de múltiples documentos nunha soa xanela.</p>
+    <p>Pluma é extensíbel mediante un sistema de engadidos, que actualmente inclúen comprobación de ortografía, comparación de ficheiros, vista de ficheiros de rexistro CVS e axustes de niveis de tabulación.</p>
+  </description>
+  <description lang="id">
+    <p>Pluma adalah penyunting teks kecil namun kuat yang dirancang khusus untuk desktop MATE. Ini memiliki fungsi penyunting teks yang paling standar dan sepenuhnya mendukung teks internasional di Unicode. Fitur canggih termasuk penyorotan sintaks dan indentasi otomatis kode sumber, pencetakan, dan pengeditan beberapa dokumen dalam satu jendela.</p>
+    <p>Pluma dapat diperluas melalui sistem plugin, yang saat ini termasuk dukungan untuk pengecekan ejaan, membandingkan berkas, melihat perubahan CVS, dan menyesuaikan tingkat indentasi.</p>
+  </description>
+  <description lang="it">
+    <p>Pluma è un piccolo, ma potente editor di testo progettato specificamente per il desktop MATE . Ha le principali funzioni di un editor di testo standard e supporta pienamente il testo internazionale in Unicode. Le funzioni avanzate includono l'evidenziazione della sintassi e l'indentazione automatica del codice sorgente, la stampa e la modifica di più documenti in un'unica finestra.</p>
+    <p>Pluma è estendibile attraverso un sistema di plugin, che attualmente include il supporto per il controllo ortografico, il confronto dei file, la visualizzazione dei ChangeLogs CVS e la regolazione dei livelli di indentazione.</p>
+  </description>
+  <description lang="ja">
+    <p>Pluma は、MATE デスクトップ用に特に設計された、小さいながらも強力なテキストエディタです。ほとんどの標準的なテキストエディタの機能を備えており、ユニコードの国際的なテキストを完全にサポートしています。高度な機能として、シンタックス強調表示、ソースコードの自動インデント、印刷、複数の文書を１つのウィンドウで編集などを行うことができます。</p>
+    <p>Pluma はプラグインシステムによって拡張可能で、現在、スペルリングのチェック、ファイルの比較、CVS ChangeLog の表示、インデントレベルの調整などをサポートしています。</p>
+  </description>
+  <description lang="ms">
+    <p>Pluma ialah penyuntingan teks yang kecil tetapi hebat direka khas untuk desktop MATE. Ia mempunyai fungsi penyuntingan asas dan menyokong sepenuhnya teks antarabangsa dalam Unikod. Fitur lanjutan termasuklah penyorotan sintaks dan indentasi kod sumber automatik, percetakan dan penyuntingan dokumen berbilang dalam satu tetingkap.</p>
+    <p>Pluma boleh ditambahbaik menerusi sistem palam, yang mana buat masa ini ada sokongan untuk penyemak ejaan, perbandingan fail, keupayaan melihat Log Perubahan CVS, dan pelarasan aras pengensotan.</p>
+  </description>
+  <description lang="nb">
+    <p>Pluma er et lite, men funksjonsrikt tekstprogram designet spesifikt for skrivebordet MATE. Det har de fleste standardfunksjoner og støtter i fult omfang international tekst i Unicode. Avanserte funksjoner som syntaks-fremhevning og automatisk innrykk av kildekode, utskrivning og redigering av flere dokumenter i ett vindu.</p>
+    <p>Pluma kan utvides via et system av programtillegg, som for øyeblikket gir støtte for stavekontroll, sammenligning av filer, visning av CVS-endringslogger og justering av innnrykksnivåer.</p>
+  </description>
+  <description lang="nl">
+    <p>Pluma is een kleine maar krachtige tekstbewerker die speciaal is ontworpen voor de werkomgeving MATE. Hij heeft de meeste standaardfuncties van een tekstbewerker en ondersteunt internationale tekst in Unicode volledig. Geavanceerde functies omvatten zinsbouwmarkering en automatische inspringing van broncode, afdrukken en bewerken van meerdere documenten in één venster.</p>
+    <p>Pluma kan worden uitgebreid via een invoegselsysteem, dat thans ondersteuning bevat voor spellingscontrole, bestanden vergelijken, bekijken van CVS ChangeLogs en het bijstellen van inspringingsniveaus.</p>
+  </description>
+  <description lang="pl">
+    <p>Pluma jest małym ale potężnym edytorem tekstu zaprojektowanym specjalnie dla środowiska MATE. Posiada większość standardowych funkcji edytorów tekstowych i w pełni wspiera tekst międzynarodowy w Unicode. Zaawansowane funkcje to podświetlanie składni i automatyczne wcinanie kodu źródłowego, drukowanie oraz edytowanie wielu dokumentów w jednym oknie.</p>
+    <p>Pluma jest rozszerzalna poprzez system wtyczek, który obecnie obejmuje obsługę sprawdzania pisowni, porównywania plików, przeglądania dzienników zmian CVS i dostosowywania poziomów wcięć.</p>
+  </description>
+  <description lang="ru">
+    <p>Pluma — это небольшой, но мощный текстовый редактор, спроектированный специально для среды MATE. Он имеет много стандартных для текстовых редакторов функций и полностью поддерживает международный текст в кодировке Unicode. Расширенные функции включают подсветку исходного кода и автоматические отступы в нём, печать и редактирование нескольких документов в одном окне.</p>
+    <p>Pluma расширяется через систему дополнений, которая в настоящее время включает в себя поддержку проверки орфографии, сравнение файлов, просмотр CSV и списков изменений, а также изменение уровней отступа.</p>
+  </description>
+  <description lang="sl">
+    <p>Pluma je majhen a zmogljiv urejevalnik besedil, ustvarjen posebej za MATE namzje. Ima najbolj standardne funkcije za urejanje besedil in polno podporo za mednarodna besedila v Unicode obliki. Napredne funkcije vključujejo poudarjanje skladnje, samodejno zamikanje izvorne kode, tiskanje in urejanje več dokumentov v enem oknu.</p>
+    <p>Pluma je razširljiva preko sistema vtičnikov, ki trenutno vključuje podporo za črkovalnik, primerjanje datotek, prikaz CVS dnevnikov sprememb in prilagajanje zamikov.</p>
+  </description>
+  <description lang="sr">
+    <p>Плума је мали, али моћан уређивач текста осмишљен нарочито за Мејтову радну површ. Поседује најстандардније функције уређивача текста и у потпуности подржава међународни текст у Јуникоду.Напредне функције обухватају подвлачење синтаксе и аутоматско увлачење изворног кода, штампање и уређивање више докумената у једном прозору.</p>
+    <p>Плума се може проширити системом прикључака, у које тренутно спада подршка за проверу правописа, поређење датотека, преглед ЦВС дневника промена, и подешавање нивоа увлачења.</p>
+  </description>
+  <description lang="uk">
+    <p>Pluma - це невеликий, але потужний текстовий редактор, розроблений спеціально для стільниці MATE. Він має більшість стандартних функцій текстового редактора і повністю підтримує міжнародний текст в Unicode. Додаткові функції включають виділення синтаксису та автоматичний відступ джерельного коду, друк та редагування декількох документів в одному вікні.</p>
+    <p>Pluma можна розширити за допомогою системи втулок, яка наразі включає підтримку перевірки правопису, порівняння файлів, перегляду журналів змін CVS та регулювання рівнів відступу.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>Pluma 是一个小型但功能强大的文本编辑器，专门为 MATE 桌面设计。它具有大多数标准的文本编辑器功能，并且完全支持 Unicode 中的国际文本。高级功能包括语法高亮显示和源代码自动缩进，在一个窗口中打印和编辑多个文档。</p>
+    <p>Pluma 可通过插件系统扩展，该插件系统当前包括对拼写检查、比较文件、查看CVS更改日志以及调整缩进级别的支持。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>Pluma 是一個專為 MATE 桌面環境設計的小巧但功能強大的文字編輯器。它擁有大多數標準的文字編輯器所應具備的功能，且完整支援以 Unicode 所編碼的國際化文字。也包含了一些進階功能，像是語法突顯、原始碼自動縮排、在一個視窗內列印及編輯多個文件。</p>
+    <p>Pluma 可透過外掛程式系統擴充，目前包含了拼字檢查、比較檔案、檢視 CVS 變更紀錄、調整縮排等級等。</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image width="960" height="540">
+    https://alexpl.fedorapeople.org/AppData/pluma/screens/pluma_01.png
+   </image>
+    </screenshot>
+    <screenshot>
+      <image width="960" height="540">
+    https://alexpl.fedorapeople.org/AppData/pluma/screens/pluma_02.png
+   </image>
+    </screenshot>
+    <screenshot>
+      <image width="960" height="540">
+    https://alexpl.fedorapeople.org/AppData/pluma/screens/pluma_03.png
+   </image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://mate-desktop.org</url>
+  <updatecontact>mate-dev@ml.mate-desktop.org</updatecontact>
+  <project_group>MATE</project_group>
+</component>

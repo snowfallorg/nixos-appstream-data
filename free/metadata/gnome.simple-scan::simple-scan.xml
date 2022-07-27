@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>gnome.simple-scan</pkgname>
+  <launchable type="desktop-id">simple-scan.desktop</launchable>
+  <icon type="cached" width="64" height="64">org.gnome.SimpleScan.png</icon>
+  <icon height="128" type="cached" width="128">org.gnome.SimpleScan.png</icon>
+  <id>simple-scan.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>Document Scanner</name>
+  <name lang="zh_TW">文件掃描</name>
+  <name lang="zh_HK">文件掃描器</name>
+  <name lang="zh_CN">文档扫描仪</name>
+  <name lang="uk">Засіб для сканування документів</name>
+  <name lang="tr">Belge Tarayıcı</name>
+  <name lang="th">เครื่องสแกนเอกสาร</name>
+  <name lang="sv">Dokumentbildläsare</name>
+  <name lang="sr@latin">Skener za dokumente</name>
+  <name lang="sr">Скенер за документе</name>
+  <name lang="sl">Optični bralnik dokumentov</name>
+  <name lang="sk">Skener dokumentov</name>
+  <name lang="ru">Сканер документов</name>
+  <name lang="ro">Scaner de documente</name>
+  <name lang="pt">Digitalizador de documentos</name>
+  <name lang="pt_BR">Digitalizador de documentos</name>
+  <name lang="pl">Skaner dokumentów</name>
+  <name lang="pa">ਡੌਕੂਮੈਂਟ ਸਕੈਨਰ</name>
+  <name lang="oc">Numerizador de documents</name>
+  <name lang="nl">Documentenscanner</name>
+  <name lang="ne">कागजात स्क्यानर</name>
+  <name lang="nb">Dokumentskanner</name>
+  <name lang="ms">Pengimbas dokumen</name>
+  <name lang="ml">ഡോക്യുമെന്റ്‌ സ്കാനർ</name>
+  <name lang="mjw">Document Scanner</name>
+  <name lang="lv">Dokumentu skenētājs</name>
+  <name lang="lt">Dokumentų skeneris</name>
+  <name lang="ko">문서 스캐너</name>
+  <name lang="km">ម៉ាស៊ីនស្កេនឯកសារ</name>
+  <name lang="kk">Құжат сканері</name>
+  <name lang="ja">ドキュメントスキャナー</name>
+  <name lang="it">Acquisizione documenti</name>
+  <name lang="is">Skjalaskanni</name>
+  <name lang="id">Pelarik Dokumen</name>
+  <name lang="hy">Փաստաթղթի սկան</name>
+  <name lang="hu">Szkenner</name>
+  <name lang="hr">Skener dokumenta</name>
+  <name lang="he">סורק מסמכים</name>
+  <name lang="gl">Escáner de documentos</name>
+  <name lang="gd">Sganair sgrìobhainnean</name>
+  <name lang="fur">Scansionadôr di document</name>
+  <name lang="fr">Numériseur de documents</name>
+  <name lang="fi">Asiakirjojen kuvanlukuohjelma</name>
+  <name lang="fa">پویشگر پرونده</name>
+  <name lang="eu">Dokumentuen eskanerra</name>
+  <name lang="es">Escáner de documentos</name>
+  <name lang="eo">Dokumentoskanilo</name>
+  <name lang="en_GB">Document Scanner</name>
+  <name lang="el">Σαρωτής εγγράφων</name>
+  <name lang="de">Dokument-Scanner</name>
+  <name lang="da">Dokumentskanner</name>
+  <name lang="cs">Skenování dokumentů</name>
+  <name lang="ca@valencia">Escàner de documents</name>
+  <name lang="ca">Escàner de documents</name>
+  <name lang="bg">Сканиране на документи</name>
+  <name lang="be">Сканер дакументаў</name>
+  <name lang="ast">Escáner de documentos</name>
+  <name lang="ar">ماسح المستندات</name>
+  <name lang="am">ሰነድ ማሰሻ</name>
+  <name lang="af">Dokument Skandeerder</name>
+  <summary>Make a digital copy of your photos and documents</summary>
+  <summary lang="zh_TW">為您的照片或文件建立數位複本</summary>
+  <summary lang="zh_CN">将您的照片与文档数字化后保存在计算机里</summary>
+  <summary lang="uk">Створення цифрових копій ваших фотографій та документів</summary>
+  <summary lang="tr">Resim ve belgelerinizin sayısal kopyasını oluşturun</summary>
+  <summary lang="sv">Gör en digital kopia av dina foton och dokument</summary>
+  <summary lang="sr">Направите дигиталне копије ваших фотографија и докумената</summary>
+  <summary lang="sl">Priprava digitalnih kopij fotografij in dokumentov.</summary>
+  <summary lang="sk">Vytvára digitálne kópie vašich fotografií a dokumentov</summary>
+  <summary lang="ru">Сделайте цифровую копию своих фотографий и документов</summary>
+  <summary lang="ro">Face o copie digitală a fotografiilor și documentelor</summary>
+  <summary lang="pt">Faz uma digitalização de tuas fotos e documentos</summary>
+  <summary lang="pt_BR">Faça uma cópia digital de suas fotos e documentos</summary>
+  <summary lang="pl">Tworzenie cyfrowej kopii zdjęć i dokumentów</summary>
+  <summary lang="pa">ਆਪਣੀਆਂ ਫ਼ੋਟੋ ਅਤੇ ਦਸਤਾਵੇਜ਼ਾਂ ਦੀ ਡਿਜ਼ੀਟਲ ਕਾਪੀ ਬਣਾਓ</summary>
+  <summary lang="oc">Realizatz una còpia numerica de vòstras fòtos e documents</summary>
+  <summary lang="nl">Maak een digitale kopie van uw foto’s en documenten</summary>
+  <summary lang="ne">तपाईँको फोटो र कागजातको डिजिटल प्रतिलिपि बनाउनुहोस्</summary>
+  <summary lang="nb">Lag en digital kopi av dine bilder og dokumenter</summary>
+  <summary lang="lv">Izveidojiet digitālas kopijas jūsu fotogrāfijām un dokumentiem</summary>
+  <summary lang="lt">Sukurti jūsų nuotraukų bei dokumentų skaitmeninę kopiją</summary>
+  <summary lang="ko">사진과 문서의 디지털 복사본 만들기</summary>
+  <summary lang="kk">Фотосуреттеріңіз бен құжаттарыңыздың цифрлық көшірмесін жасау</summary>
+  <summary lang="ja">写真と文書のデジタルコピーを作成します</summary>
+  <summary lang="it">Crea una copia digitale delle proprie foto e documenti</summary>
+  <summary lang="is">Gerðu stafræn afrit af skjölum og myndum</summary>
+  <summary lang="id">Buat salinan digital dari foto dan dokumen Anda</summary>
+  <summary lang="hu">Készítsen digitális másolatot a fényképeiről és dokumentumairól</summary>
+  <summary lang="hr">Napravite digitalnu kopiju svojih fotografija i dokumenata</summary>
+  <summary lang="he">יצירת עותק ממוחשב של התמונות והמסמכים שלך</summary>
+  <summary lang="gl">Facer unha copia dixital das fotos e documentos</summary>
+  <summary lang="fur">Fâs une copie digjitâl des tôs fotos e dai tiei documents</summary>
+  <summary lang="fr">Faites une copie numérique de vos photos et documents</summary>
+  <summary lang="fi">Tee digitaalinen kopio kuvista ja asiakirjoista</summary>
+  <summary lang="fa">گرفتن یک رونوشت دیجیتالی از عکس‌ها و سندهایتان</summary>
+  <summary lang="eu">Egin zure argazkien eta dokumentuen kopia digital bat</summary>
+  <summary lang="es">Hacer una copia digital de sus fotos y documentos</summary>
+  <summary lang="eo">Krei ciferecan kopion de viaj fotaĵoj kaj dokumentoj</summary>
+  <summary lang="en_GB">Make a digital copy of your photos and documents</summary>
+  <summary lang="el">Δημιουργήστε ένα ψηφιακό αντίγραφο των φωτογραφιών και των εγγράφων σας</summary>
+  <summary lang="de">Eine digitale Kopie Ihrer Fotos und Dokumente erstellen</summary>
+  <summary lang="da">Lav en digital kopi af dine fotografier og dokumenter</summary>
+  <summary lang="cs">Udělejte si digitální kopie svých fotografií a dokumentů</summary>
+  <summary lang="ca">Feu una còpia digital de les vostres fotografies i documents</summary>
+  <summary lang="bg">Създаване на цифров дубликат на снимки и документи</summary>
+  <summary lang="be">Зрабіце лічбавыя копіі сваіх фатаграфій і дакументаў</summary>
+  <description>
+    <p>
+      A really easy way to scan both text and images.
+      You can crop out the bad parts of an image and rotate it if it is the wrong way round.
+      You can print your scans, export them to pdf, or save them in a range of image formats.
+    </p>
+    <p>
+      This app uses the SANE framework to support most existing scanners.
+    </p>
+  </description>
+  <description lang="be">
+    <p>Сапраўды просты спосаб сканавання тэксту і выяў. Вы можаце абрэзаць сапсаваныя часткі выявы і павярнуць яе, калі тая размешчана няправільна. Сканы можна надрукаваць, экспартаваць у PDF або захаваць у іншых фарматах.</p>
+    <p>Каб забяспечыць падтрымку большасці існых сканераў, гэта праграма выкарыстоўвае фрэймворк SANE.</p>
+  </description>
+  <description lang="bg">
+    <p>Много лесен способ за сканиране на текст и изображения. Може да изрязвате ненужното и да завъртате документите. Може да печататe, изнасяте към pdf или други формати за изображения.</p>
+    <p>Тази програма ползва SANE за поддръжката на повечето скенери.</p>
+  </description>
+  <description lang="ca">
+    <p>Una manera realment senzilla d'escanejar tant documents com imatges. Podeu retallar les parts dolentes d'una foto o girar-la si està en la posició incorrecta.  Podeu imprimir els vostres escanejos, exportar-los a pdf, o desar-los en diversos formats d'imatge.</p>
+    <p>Aquesta aplicació utilitza el marc de treball SANE per a donar suport a la majoria dels escàners existents.</p>
+  </description>
+  <description lang="cs">
+    <p>Skutečně snadné skenování textů a obrázků, které navíc nabízí šikovné možnosti úprav. Vystřihněte nechtěné části obrázku a očte jej, pokud je vzhůru nohama. Až budete hotovi, výsledek si vytiskněte, převeďte do PDF, nebo uložte v některém z rozmanité nabídky formátů.</p>
+    <p>Tato aplikace používá jako základ rohraní SANE, aby pokryla co největší množství skenerů.</p>
+  </description>
+  <description lang="da">
+    <p>En virkelig nem måde at skanne både dokumenter og billeder på. Du kan beskære de uønskede dele fra et billede og rotere det, hvis det vender forkert. Du kan udskrive dine skanninger, eksportere dem til pdf eller gemme dem i en række billedformater.</p>
+    <p>Dette program bruger SANE-rammeværket for at understøtte flest mulige skannere.</p>
+  </description>
+  <description lang="de">
+    <p>Eine ganz einfache Methode, um sowohl Text als auch Bilder zu scannen. Unbrauchbare Teile eines Bildes können abgeschnitten werden, es kann gedreht werden, falls es verkehrt herum liegt. Die Scans können gedruckt, als PDF-Dokument exportiert oder in einer Anzahl verschiedener Bildformate gespeichert werden.</p>
+    <p>Diese Anwendung verwendet das SANE-Framework für die Unterstützung der meisten verfügbaren Scanner.</p>
+  </description>
+  <description lang="el">
+    <p>Ένας πραγματικά εύκολος τρόπος σάρωσης εγγράφων και εικόνων. Μπορείτε να κάνετε περικοπή των κακών κομματιών μιας φωτογραφίας και  να την περιστρέψετε εφόσον χρειάζεται. Μπορείτε να εκτυπώσετε τις σαρώσεις σας, να τις εξάγετε ως pdf, ή να τις αποθηκεύσετε σε μια ποικιλία μορφών εικόνας.</p>
+    <p>Αυτή η εφαρμογή χρησιμοποιεί το πλαίσιο SANE ώστε να υποστηρίζει τους περισσότερους σαρωτές.</p>
+  </description>
+  <description lang="en_GB">
+    <p>A really easy way to scan both text and images. You can crop out the bad parts of an image and rotate it if it is the wrong way round. You can print your scans, export them to pdf, or save them in a range of image formats.</p>
+    <p>Simple Scan uses the SANE framework which supports most existing scanners.</p>
+  </description>
+  <description lang="eo">
+    <p>Ĉi tiu aplikaĵo uzas la framon SANE por apogi la plimulton de estantaj skaniloj.</p>
+  </description>
+  <description lang="es">
+    <p>Escanee documentos y fotos con suma sencillez. Puede recortar las partes no deseadas de una foto y girarla si quedó al revés. Luego podrá imprimir las digitalizaciones, exportarlas a PDF o guardarlas en diversos formatos de imagen.</p>
+    <p>Esta aplicación usa el entorno de trabajo SANE para soportar la mayoría de los escáneres existentes.</p>
+  </description>
+  <description lang="eu">
+    <p>Testuak eta irudiak aldi berean eskaneatzeko modu erraza. Irudi baten zati okerrak ebaki ditzakezu eta irudia biratu, gaizki zuzenduta badago. Zure eskaneatzeak inprimatu ditzakezu, PDF formatura esportatu edo hainbat irudi-formatutan gorde.</p>
+    <p>Aplikazio honek SANE lan-markoa erabiltzen du dauden eskaner gehienei sostengua emateko.</p>
+  </description>
+  <description lang="fa">
+    <p>راهی ساده برای پویش اسناد و تصاویر. می‌توانید قسمت‌های نامناسب عکس را بریده و در صورت اشتباه بودن جهت، آن را بچرخانید. می‌توانید پویش‌های خود را چاپ، به pdf برون‌ریزی یا در بازه‌ای در قالب‌های تصویری ذخیره کنید.</p>
+    <p>این کاره از چهارچوب SANE برای پشتیبانی از پویشگرهای موجود استفاده می‌کند.</p>
+  </description>
+  <description lang="fi">
+    <p>Helppo tapa lukea (skannata) tekstiä ja kuvia. Voit rajata huonot osat kuvista pois tai kääntää niitä. Luettuja kuvia voidaan tulostaa, viedä PDF-muotoon tai tallentaa eri kuvamuodoissa.</p>
+    <p>Tämä sovellus käyttää SANE-kehystä tukeakseen useimpia olemassa olevia kuvanlukijoita.</p>
+  </description>
+  <description lang="fr">
+    <p>Une façon très simple de numériser à la fois textes et images. Vous pouvez recadrer une image et la faire pivoter si elle est dans le mauvais sens. Vous pouvez imprimer vos numérisations, les exporter au format pdf ou les enregistrer dans d’autres formats d’image.</p>
+    <p>Cette application utilise la structure logicielle de SANE pour prendre en charge la plupart des périphériques de numérisation existants.</p>
+  </description>
+  <description lang="fur">
+    <p>Une maniere une vore facile par scansionâ tests e imagjins. Al è pussibil taiâ vie lis parts brutis di une imagjin e zirâle se e je voltade de bande sbaliade. Si pues stampâ lis scansions, espuartâlis su pdf o salvâlis intune schirie di formâts imagjin.</p>
+    <p>Cheste aplicazion e dopre la suaze di lavôr SANE par supuartâ la plui part dai scansionadôrs esistents.</p>
+  </description>
+  <description lang="gl">
+    <p>Un xeito ben sinxelo de escanear documentos e imaxes. Pode recortar as partes malas dunha foto e rotala se está do revés. Pode imprimir os escaneos, exportalos a un PDF ou gardalos en varios formatos de imaxe.</p>
+    <p>Esta aplicación usa o marco de traballo de SANE para ser compatíbel coa maioría de escáneres existentes.</p>
+  </description>
+  <description lang="he">
+    <p>דרך פשוטה ביותר לסריקת מסמכים ותמונות. ניתן לגזור את החלקים שאינם נחוצים בתמונה ולהטות אם הם בכיוון הלא נכון. ניתן להדפיס את הסריקות שלך, לייצא אותן ל־PDF או לשמור אותן במגוון רחב של תסדירי תמונה.</p>
+    <p>יישום זה משתמש בסביבת העבודה SANE לטובת תמיכה ברוב הסורקים הזמינים.</p>
+  </description>
+  <description lang="hr">
+    <p>Istinski jednostavan način skeniranja dokumenata i slika. Možete izrezati loše dijelove slika i zakrenuti ih ako su pogrešno okrenute. Možete ispisati vaše skenirane dokumente ili slike, izvesti ih u pdf ili ih spremiti u različite slikovne formate.</p>
+    <p>Ova aplikacija koristi SANE radni okvir za podršku većine postojećih skenera.</p>
+  </description>
+  <description lang="hu">
+    <p>Igazán egyszerű megoldás szöveg és képek szkennelésére. Levághatja a képek fölösleges részeit, és elforgathatja azokat. Kinyomtathatja, PDF-be vagy számos képformátumba is exportálhatja a szkennelt dokumentumokat.</p>
+    <p>Ez az alkalmazás a SANE keretrendszert használja a legtöbb létező szkenner támogatása érdekében.</p>
+  </description>
+  <description lang="id">
+    <p>Cara mudah untuk memindai dokumen dan foto. Anda dapat membuang bagian yang jelek dari suatu foto dan memutarnya bila itu terbalik. Anda dapat mencetak pindaian Anda, mengekspor ke pdf, atau menyimpan ke sejumlah format gambar.</p>
+    <p>Aplikasi ini memakai framework SANE untuk mendukung kebanyakan pemindai yang ada.</p>
+  </description>
+  <description lang="is">
+    <p>Mjög einföld leið til að skanna bæði texta og myndir. Þú getur skorið af óþarfa hluta mynda og snúið þeim ef þörf er á. Þú getur prentað það sem þú skannar, flutt það út í PDF-skrár, eða vistað það sem ýmsar gerðir myndskráa.</p>
+    <p>Þetta forrit notar SANE-kerfið til stuðnings flestum þeim skönnum sem eru í umferð.</p>
+  </description>
+  <description lang="it">
+    <p>Un modo molto semplice per acquisire testi e foto. È possibile ritagliare le parti non necessarie di un'immagine e ruotarla se è nel verso sbagliato. È anche possibile stampare i file acquisiti, esportarli in formato PDF o salvarli in vari formati di immagine.</p>
+    <p>Quest'applicazione usa il framework SANE per supportare il maggior numero di scanner esistenti.</p>
+  </description>
+  <description lang="ja">
+    <p>文書や画像を本当に簡単な方法でスキャンします。画像の不要な部分を切り取ったり、間違った方向に向いている場合は回転できます。スキャンしたものを印刷、PDF へのエクスポート、多くの画像フォーマットに保存することができます。</p>
+    <p>このアプリは多数の既存スキャナーをサポートするために SANE フレームワークを使用しています。</p>
+  </description>
+  <description lang="kk">
+    <p>Мәтінді де, суреттерді де сканерлеудің шынымен де оңай жолы. Кескіннің жаман бөліктерін қиып алып, ал бағдары қате болса, оны айналдыруға болады. Сканерлеуді басып шығаруға, оларды pdf-ке экспорттауға немесе әр түрлі сурет пішімдеріне сақтауға болады.</p>
+    <p>Бұл бағдарлама қолданыстағы сканерлердің көпшілігін қолдау үшін SANE пайдаланады.</p>
+  </description>
+  <description lang="ko">
+    <p>문서와 사진을 모두 스캐닝할 수 있는 정말 쉬운 방법 입니다. 사진에서 쓰지 않는 부분을 잘라내거나 방향이 틀어지면 돌려서 바로잡을 수 있습니다. 스캔 한 것을 출력하거나, pdf 파일로 내보내거나, 여러 가지 이미지 형식으로 저장할 수 있습니다.</p>
+    <p>이 프로그램은 현존하는 거의 모든 스캐너를 지원하는 SANE 프레임워크를 사용합니다.</p>
+  </description>
+  <description lang="lt">
+    <p>Tikrai labai lengvas būdas skenuoti tekstą ir paveikslėlius. Galite iškirpti blogas nuotraukos dalis ir ją pasukti, jei ji neteisingai atvaizduojama. Galite spausdinti savo skenavimus, eksportuoti juos į pdf, ar įrašyti juos daugeliu paveikslų formatų.</p>
+    <p>Ši programa naudoja SANE karkasą, kad palaikytų daugelį esamų skenerių.</p>
+  </description>
+  <description lang="lv">
+    <p>Ļoti vienkāršs veids, kā skenēt tekstu un attēlus. Jūs varat izgriezt ārā sliktās attēlu daļas un tās pagriezt, ja tās ir nepareizā virzienā. Varat izdrukāt ieskanētos dokumentus, eksportēt tos pdf formātā vai saglabāt tos dažādos attēlu formātos.</p>
+    <p>Šī lietotne izmanto SANE ietvaru, kas atbalsta vairumu esošo skeneru.</p>
+  </description>
+  <description lang="ms">
+    <p>Satu cara paling mudah mengimbas kedua-dua teks dan imej. Anda boleh mengerat bahagian imej tidak dikehendaki atau putar ia jika berada pada kedudukan yang salah. Anda boleh mencetak imbasan anda, eksport ia ke pdf, atau simpan ia dengan sejumlah besar format imej.</p>
+    <p>Aplikasi ini memakai framework SANE untuk menyokong kebanyakan pengimbas sedia ada.</p>
+  </description>
+  <description lang="nb">
+    <p>En enkel måte å skanne både tekst og bilder på. Du kan skjære bort uønskede deler og rotere bilder hvis de skannes inn feil vei. Skannede elementer kan skrives ut, eksporteres som pdf og lagres i ulike bildeformater.</p>
+    <p>Dette programmet bruker rammeverket SANE til å støtte de fleste skannere.</p>
+  </description>
+  <description lang="ne">
+    <p>पाठ र छवि दुबै स्क्यान गर्न एक साँच्चै सजिलो तरिका। यदि यो गलत तरिकाले घुमाइएको छ भने तपाईँले छविको खराब भाग काटछाँट गर्न र घुमाउन सक्नुहुन्छ । तपाईँले आफ्नो स्क्यान मुद्रण गर्न, तिनीहरूलाई pdf मा निर्यात गर्न, वा तिनीहरूलाई छवि ढाँचाको दायरामा बचत गर्न सक्नुहुन्छ ।</p>
+    <p>यो अनुप्रयोगले धेरै अवस्थित स्क्यानर समर्थन गर्न SANE फ्रेमवर्क प्रयोग गर्दछ ।</p>
+  </description>
+  <description lang="nl">
+    <p>Een heel makkelijke manier om zowel documenten als foto’s te scannen. U kunt de slechte delen van een foto wegsnijden en hem draaien als hij niet goed staat. U kunt uw scans afdrukken, exporteren naar pdf, of opslaan in een reeks afbeeldingsbestandsformaten.</p>
+    <p>Deze toepassing gebruikt het SANE-kader om de meeste scanners te kunnen gebruiken.</p>
+  </description>
+  <description lang="oc">
+    <p>Un biais simplàs de numerizar a l'encòp documents e fòtos. Podètz requadrar una fòto e la far pivotar se es dins lo marrit sens. Podètz imprimir vòstras numerizacions, las exportar al format pdf o las enregistrar dins d’autres formats d’imatge.</p>
+    <p>Simple Scan utiliza l'estructura logiciala de SANE per prene en carga la màger part dels periferics de numerizacion existents.</p>
+  </description>
+  <description lang="pa">
+    <p>ਲਿਖਤ ਤੇ ਚਿੱਤਰ ਸਕੈਨ ਕਰਨ ਦਾ ਬਹੁਤ ਹੀ ਸੌਖਾ ਢੰਗ ਹੈ। ਤੁਸੀਂ ਚਿੱਤਰ ਦੇ ਬੁਰੇ ਹਿੱਸੇ ਨੂੰ ਛਾਂਗ ਸਕਦੇ ਹੋ ਤੇ ਜੇ ਇਹ ਦਾ ਟੇਢੀ ਵਿੰਗੀ ਹੋਵੇ ਤਾਂ ਘੁੰਮਾ ਵੀ ਸਕਦੇ ਹੋ। ਤੁਸੀਂ ਆਪਣੇ ਸਕੈਨ ਨੂੰ ਛਾਪ ਸਕਦੇ ਹੋ, PDF ਵਜੋਂ ਬਰਾਮਦ ਕਰ ਸਕਦੇ ਹੋ ਜਾਂ ਕਈ ਕਿਸਮ ਦੇ ਚਿੱਤਰ ਫਾਰਮੈਟ ਵਿੱਚ ਸੰਭਾਲ ਸਕਦੇ ਹੋ।</p>
+    <p>ਇਹ ਸਭ ਤੋਂ ਵੱਧ ਮੌਜੂਦ ਸਕੈਨਰਾਂ ਲਈ ਸਹਿਯੋਗ ਵਾਸਤੇ SANE ਫਰੇਮਵਰਕ ਵਰਤਦਾ ਹੈ।</p>
+  </description>
+  <description lang="pl">
+    <p>Bardzo prosty sposób na skanowanie tekstu i obrazów. Umożliwia kadrowanie i obracanie obrazów, drukowanie, eksportowanie do formatu PDF oraz zapisywanie w wielu formatach.</p>
+    <p>Ten program używa mechanizmu SANE do obsługi większości istniejących skanerów.</p>
+  </description>
+  <description lang="pt">
+    <p>Uma forma muito fácil para digitalizar textos e imagens. Pode cortar as partes ruins da imagem e rodá-la caso esteja de ponta-cabeça. Pode imprimir as digitalizações, exportá-las em PDF, ou gravá-las numa multitude de formatos de imagem.</p>
+    <p>Esta aplicação usa a estrutura SANE para suportar a maioria dos digitalizadores atuais.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Uma forma realmente fácil de digitalizar tanto textos como imagens. Você pode recortar as partes ruins de uma imagem e fazer rotação dela, caso esteja do lado errado. Você pode imprimir as suas digitalizações, exportá-las em pdf ou salvá-las em uma variedade de formatos de imagem.</p>
+    <p>Esse aplicativo usa o framework SANE para prover suporte à maioria dos scanners existentes.</p>
+  </description>
+  <description lang="ro">
+    <p>Un mod foarte ușor de a scana și documente și fotografii. Puteți decupa părțile nedorite ale unei fotografii și să o rotiți dacă este greșit poziționată. Puteți tipări scanările, exporta în pdf, sau să le salvați într-o serie de formate de imagine.</p>
+    <p>Această aplicație folosește platforma SANE pentru a suporta majoritatea scanerelor existente.</p>
+  </description>
+  <description lang="ru">
+    <p>Это приложение использует фреймворк SANE для поддержки большинства существующих сканеров.</p>
+  </description>
+  <description lang="sk">
+    <p>Skutočne jednoduchý spôsob ako naskenovať dokumenty aj fotografie. Môžete orezať nevhodné časti fotografie a otočiť ich podľa potreby. Vaše oskenované dokumenty môžete vytlačiť, exportovať ich do pdf, alebo ich uložiť v rôznych formátoch obrázkov.</p>
+    <p>Táto aplikácia využíva rozhranie SANE, kvôli podpore väčšiny existujúcich skenerov.</p>
+  </description>
+  <description lang="sl">
+    <p>Zelo enostaven način za optično branje dokumentov in fotografij. Posamezne dele fotografije je mogoče obrezati in fotografijo zavrteti, če je napačno obrnjena. Prebrane dokumente je nato mogoče natisniti, izvoziti v datoteke PDF, ali shraniti v enega od podprtih zapisov.</p>
+    <p>Enostavno optično branje zahteva ogrodje SANE, s katerim bo omogočena podpora večine optičnih bralnikov.</p>
+  </description>
+  <description lang="sr">
+    <p>Веома једноставан начин за скенирање текста и слика. Можете исећи лоше делове слике и ротирати је ако је окренута на погрешну страну. Можете штампати скениране датотеке, сачувати их у формату ПДФ или у великом избору осталих формата.</p>
+    <p>Овај програм користи САНЕ радни оквир као подршку за велики број скенера.</p>
+  </description>
+  <description lang="sv">
+    <p>Ett väldigt lätt sätt att skanna både text och bilder. Du kan beskära bort dåliga delar av en bild, och rotera den om den är felvänd. Du kan skriva ut det du skannat in, exportera till pdf, eller spara det i ett brett utbud av bildformat.</p>
+    <p>Detta program använder ramverket SANE för att hantera de flesta bildläsare som finns på marknaden.</p>
+  </description>
+  <description lang="tr">
+    <p>Metin ve resim taramanın çok kolay yolu. Resmin kötü tarafını kırpabilir ve yanlış yöndeyse döndürebilirsiniz. Taramalarınızı yazdırabilir, pdf’ye aktarabilir veya resim biçimlerinde kaydedebilirsiniz.</p>
+    <p>Bu uygulama var olan birçok tarayıcı desteği için SANE altyapısını kullanır.</p>
+  </description>
+  <description lang="uk">
+    <p>Дуже простий спосіб сканування тексту і зображень. Ви можете відрізати непотрібні частини зображення і обертати його, якщо це потрібно. Ви можете надрукувати скановані зображення, експортувати їх до pdf або зберегти у одному із багатьох форматів зображень.</p>
+    <p>У цій програмі використано бібліотеки SANE для забезпечення підтримки більшості наявних сканерів.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>简单的文档和照片扫描软件。如果图片显示有误，您可以根据需要通过裁剪、旋转等方式调整照片。您也可以打印扫描件、导出 PDF 格式、或者保存为图片。</p>
+    <p>此应用使用 SANE 框架以支持大多数现有的扫描仪。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>您能輕鬆掃描文件和影像。您可以裁剪影像的不良部分，並將之旋轉至正確角度。您可以列印您的掃描檔，將掃描檔匯出為 pdf，或儲存為多種影像格式。</p>
+    <p>這個應用程式使用 SANE 框架以支援大部分現存掃描器。</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image type="source">https://gitlab.gnome.org/GNOME/simple-scan/raw/HEAD/data/screenshots/simple-scan-1.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://gitlab.gnome.org/GNOME/simple-scan</url>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/simple-scan/issues</url>
+  <url type="donation">https://www.gnome.org/friends/</url>
+  <developer_name>The GNOME Project</developer_name>
+  <developer_name lang="zh_TW">GNOME 專案</developer_name>
+  <developer_name lang="zh_CN">GNOME 项目</developer_name>
+  <developer_name lang="uk">Проєкт GNOME</developer_name>
+  <developer_name lang="tr">GNOME Projesi</developer_name>
+  <developer_name lang="sv">GNOME-projektet</developer_name>
+  <developer_name lang="sr">Гномов пројекат</developer_name>
+  <developer_name lang="sl">Projekt GNOME</developer_name>
+  <developer_name lang="sk">Projekt GNOME</developer_name>
+  <developer_name lang="ru">Проект GNOME</developer_name>
+  <developer_name lang="ro">Proiectul GNOME</developer_name>
+  <developer_name lang="pt">O Projeto GNOME</developer_name>
+  <developer_name lang="pt_BR">O Projeto GNOME</developer_name>
+  <developer_name lang="pl">Projekt GNOME</developer_name>
+  <developer_name lang="pa">ਗਨੋਮ ਪਰੋਜੈਕਟ</developer_name>
+  <developer_name lang="oc">Lo projècte GNOME</developer_name>
+  <developer_name lang="nl">Het Gnome-project</developer_name>
+  <developer_name lang="ne">जिनोम परियोजना</developer_name>
+  <developer_name lang="nb">GNOME-prosjektet</developer_name>
+  <developer_name lang="ms">Projek GNOME</developer_name>
+  <developer_name lang="mjw">GNOME Project</developer_name>
+  <developer_name lang="lv">GNOME projekts</developer_name>
+  <developer_name lang="lt">GNOME projektas</developer_name>
+  <developer_name lang="ko">그놈 프로젝트</developer_name>
+  <developer_name lang="kk">GNOME жобасы</developer_name>
+  <developer_name lang="ja">The GNOME Project</developer_name>
+  <developer_name lang="it">Il progetto GNOME</developer_name>
+  <developer_name lang="is">GNOME verkefnið</developer_name>
+  <developer_name lang="id">Proyek GNOME</developer_name>
+  <developer_name lang="hu">A GNOME projekt</developer_name>
+  <developer_name lang="hr">GNOME projekt</developer_name>
+  <developer_name lang="he">מיזם GNOME</developer_name>
+  <developer_name lang="gl">Proxecto GNOME</developer_name>
+  <developer_name lang="fur">Il progjet GNOME</developer_name>
+  <developer_name lang="fr">Le projet GNOME</developer_name>
+  <developer_name lang="fi">Gnome-projekti</developer_name>
+  <developer_name lang="fa">پروژهٔ گنوم</developer_name>
+  <developer_name lang="eu">GNOME proiektua</developer_name>
+  <developer_name lang="es">El Proyecto GNOME</developer_name>
+  <developer_name lang="eo">La projekto GNOME</developer_name>
+  <developer_name lang="en_GB">The GNOME Project</developer_name>
+  <developer_name lang="el">Το έργο GNOME</developer_name>
+  <developer_name lang="de">Das GNOME-Projekt</developer_name>
+  <developer_name lang="da">GNOME-projektet</developer_name>
+  <developer_name lang="cs">Projekt GNOME</developer_name>
+  <developer_name lang="ca">El projecte GNOME</developer_name>
+  <developer_name lang="bg">Проектът GNOME</developer_name>
+  <developer_name lang="be">Праект GNOME</developer_name>
+  <releases>
+    <release date="2022-04-19" version="42.1">
+      <description>
+        <ul>
+          <li>Clarify project license.</li>
+          <li>Updated translations.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="42.0" date="2022-03-18">
+      <description>
+        <ul>
+          <li>Skip virtual devices when detecting scanners.</li>
+          <li>Add support for postprocessing scripts.</li>
+          <li>Save Window state to user's .config folder instead of user's .cache folder.</li>
+          <li>Updates 'About' dialog to match with other GNOME apps.</li>
+          <li>Delete autosave records after creating new document [#278].</li>
+          <li>Fix replacing underscore with space.</li>
+          <li>Fix autosave of Page Side property [#273]</li>
+          <li>Add the device name to the label if there are several identical models.</li>
+          <li>Fix incorrect scan button tooltips.</li>
+          <li>Updated translations.</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-10-27" version="40.6">
+      <description>
+        <ul>
+          <li>Add duplex scanning support for Canon DR-C240.</li>
+          <li>Add missing centered ADF source option from Brother driver.</li>
+          <li>Updated translations.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="40.5" date="2021-09-22">
+      <description>
+        <ul>
+          <li>Fix automatic size detection on Brother scanners.</li>
+          <li>Updated translations.</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-05-25" version="40.1">
+      <description>
+        <p>
+          Updated translations.
+        </p>
+      </description>
+    </release>
+    <release version="40.0" date="2021-03-23">
+      <description>
+        <p>
+          Updated translations.
+        </p>
+      </description>
+    </release>
+    <release version="40.beta" type="development" date="2021-02-25">
+      <description>
+        <p>
+          This is an unstable release in the 40 development series,
+          with the following changes:
+        </p>
+        <ul>
+          <li>Don't repeat vendor name in the device name</li>
+          <li>GNOME 40 consistency updates</li>
+          <li>Fix crop size after decreasing page size</li>
+          <li>UI fixes: change crop icon, improve layout of buttons</li>
+          <li>Add redetect button to device list</li>
+          <li>Add new resolution 200 DPI</li>
+          <li>Add zero second delay for Multiple Pages from FlatBed</li>
+          <li>Display an error, when no documents found in the feeder</li>
+          <li>Rename 'Start again' button to 'New document'</li>
+          <li>Fix crash on lexmark backend</li>
+        </ul>
+        <p>This release also updates translations.</p>
+      </description>
+    </release>
+    <release date="2020-10-02" version="3.38.1">
+      <description>
+        <p>
+          Updated translations.
+        </p>
+      </description>
+    </release>
+    <release version="3.38.0" date="2020-09-11">
+      <description>
+        <p>
+          First stable release for GNOME 3.38, with the updated translations.
+        </p>
+      </description>
+    </release>
+    <release type="development" version="3.37.92" date="2020-09-04">
+      <description>
+        <p>
+          This is an unstable release in the 3.37 development series,
+          with the following improvements:
+        </p>
+        <ul>
+          <li>Display error message if simple-scan is unable to open simple-scan.log</li>
+          <li>Fix scanning on Epson devices, when Automatic Page Size is enabled</li>
+        </ul>
+        <p>This release also updates translations.</p>
+      </description>
+    </release>
+    <release date="2019-09-08" version="3.34.0" />
+    <release version="3.32.2.1" date="2019-05-05" />
+    <release date="2019-04-09" version="3.32.2" />
+  </releases>
+  <content_rating type="oars-1.1" />
+  <update_contact>robert.ancell_AT_canonical.com</update_contact>
+  <translation type="gettext">simple-scan</translation>
+</component>

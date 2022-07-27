@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>kicad-unstable-small</pkgname>
+  <icon type="cached" width="64" height="64">kicad.png</icon>
+  <icon type="cached" width="128" height="128">kicad.png</icon>
+  <id>org.kicad.kicad</id>
+  <name>KiCad</name>
+  <name lang="zh_TW">KiCad</name>
+  <name lang="zh_CN">KiCad</name>
+  <name lang="tr">KiCad</name>
+  <name lang="th">คีแคด</name>
+  <name lang="sv">KiCad</name>
+  <name lang="ru">KiCad</name>
+  <name lang="ro">KiCad</name>
+  <name lang="pt_br">KiCad</name>
+  <name lang="pt">KiCad</name>
+  <name lang="pl">KiCad</name>
+  <name lang="nl">KiCad</name>
+  <name lang="ko">키캐드</name>
+  <name lang="ja">KiCad</name>
+  <name lang="it">KiCad</name>
+  <name lang="id">KiCad</name>
+  <name lang="fr">KiCad</name>
+  <name lang="fi">KiCad (ohjelma)</name>
+  <name lang="es_MX">KiCad</name>
+  <name lang="es">KiCad</name>
+  <name lang="en">KiCad</name>
+  <name lang="el">KiCad</name>
+  <name lang="de">KiCad</name>
+  <name lang="cs">KiCad</name>
+  <name lang="ca">KiCad</name>
+  <launchable type="desktop-id">org.kicad.kicad.desktop</launchable>
+  <project_license>GPL-3.0-or-later</project_license>
+  <metadata_license>CC-BY-SA-4.0</metadata_license>
+  <summary>An EDA suite for schematic and circuit board design</summary>
+  <summary lang="zh_TW">用於原理圖和電路板設計的電子設計自動化套件</summary>
+  <summary lang="zh_CN">用于原理图和电路板设计的电子设计自动化套件</summary>
+  <summary lang="tr">Şematik ve devre kartı tasarımı için bir EDA paketi</summary>
+  <summary lang="th">ชุดเครื่องมือ EDA สำหรับการออกแบบวงจรและแผ่นวงจรพิมพ์</summary>
+  <summary lang="sv">En EDA-svit för schema- och kretskortsdesign</summary>
+  <summary lang="ru">САПР для составления схем и трассировки печатных плат</summary>
+  <summary lang="pt_br">Um conjunto de ferramentas EDA para o desenho do esquemático e da placa de circuito impresso</summary>
+  <summary lang="pt">Um conjunto de ferramentas EDA para o desenho do esquemático e da placa de circuito impresso</summary>
+  <summary lang="pl">Pakiet EDA do projektowania schematów i obwodów drukowanych</summary>
+  <summary lang="nl">Een EDA programma om schema's te tekenen en printplaten te ontwerpen</summary>
+  <summary lang="ko">회로도 및 회로 기판 설계를 위한 EDA 제품군</summary>
+  <summary lang="ja">回路図と基板設計のためのEDAスイート</summary>
+  <summary lang="it">Suite EDA per la progettazione di schemi elettrici e circuiti stampati</summary>
+  <summary lang="fr">Suite d’outils pour la conception schématique et des circuits imprimés</summary>
+  <summary lang="fi">EDA-ohjelmisto kytkentäkaavioiden ja piirilevyjen suunnitteluun</summary>
+  <summary lang="es_MX">Una suite EDA para el diseño de esquemas y placas de circuitos</summary>
+  <summary lang="es">Una suite EDA para el diseño de esquemas y placas de circuitos</summary>
+  <summary lang="en">An EDA suite for schematic and circuit board design</summary>
+  <summary lang="el">Περί του σχεδιαστή πλακέτας τυπωμένων κυκλωμάτων Pcbnew</summary>
+  <summary lang="de">Eine EDA-Suite für Schaltplan- und Leiterplattendesign</summary>
+  <summary lang="cs">EDA suite pro schémata a návrh desky plošných spojů</summary>
+  <provides>
+    <binary>kicad</binary>
+    <binary>eeschema</binary>
+    <binary>pcbnew</binary>
+    <binary>gerbview</binary>
+    <binary>pl_editor</binary>
+    <binary>bitmap2component</binary>
+    <binary>pcb_calculator</binary>
+    <mediatype>application/x-gerber</mediatype>
+    <mediatype>application/x-excellon</mediatype>
+    <mediatype>application/x-kicad-project</mediatype>
+    <mediatype>application/x-kicad-schematic</mediatype>
+    <mediatype>application/x-kicad-pcb</mediatype>
+  </provides>
+  <translation type="gettext">kicad</translation>
+  <keywords>
+    <keyword>KiCad</keyword>
+    <keyword>EDA</keyword>
+    <keyword>PCB</keyword>
+    <keyword>Schematic</keyword>
+    <keyword>Circuit board</keyword>
+    <keyword>Gerber</keyword>
+    <keyword>PcbNew</keyword>
+    <keyword>Eeschema</keyword>
+  </keywords>
+  <categories>
+    <category>Electronics</category>
+    <category>Engineering</category>
+    <category>Science</category>
+    <category>Electricity</category>
+  </categories>
+  <description>
+    <p>
+        KiCad is a free and open-source electronics design automation (EDA) suite. It features schematic capture, integrated circuit simulation, printed circuit board (PCB) layout, 3D rendering, and plotting/data export to numerous formats. KiCad also includes a high-quality component library featuring thousands of symbols, footprints, and 3D models. KiCad has minimal system requirements and runs on Linux, Windows, and macOS.
+        </p>
+  </description>
+  <description lang="cs">
+    <p>KiCad je bezplatný nástroj s otevřeným zdrojovým kódem pro automatizaci elektronického návrhu (EDA). Obsahuje editor schémat a desek plošných spojů (DPS). Má integrovaný simulátor obvodů. Umožňuje 3D vykreslování a export dat do mnoha formátů. KiCad také obsahuje vysoce kvalitní knihovnu komponent s tisíci symbolů, pouzder a 3D modelů. KiCad má minimální systémové požadavky a běží na Linuxu, Windows i macOS.</p>
+  </description>
+  <description lang="de">
+    <p>KiCad ist eine freie und quelloffene EDA-Suite (Electronic Design Automation). Es bietet Schaltplanerfassung, Simulation integrierter Schaltungen, Leiterplatten-Layout, 3D-Rendering und Plotting/Datenexport in zahlreiche Formate. KiCad enthält auch eine hochwertige Komponentenbibliothek mit Tausenden von Symbolen, Footprints und 3D-Modellen. KiCad hat minimale Systemanforderungen und läuft unter Linux, Windows und macOS.</p>
+  </description>
+  <description lang="el">
+    <p>Το KiCad είναι μια δωρεάν και ανοιχτού κώδικα σουίτα αυτοματισμού ηλεκτρονικής σχεδίασης (EDA). Διαθέτει σχεδίαση σχηματικών, προσομοίωση ολοκληρωμένων κυκλωμάτων, διάταξη πλακέτας τυπωμένου κυκλώματος (PCB), απόδοση 3Δ και γραφική παράσταση/εξαγωγή δεδομένων σε πολλές μορφές. Το KiCad περιλαμβάνει επίσης μία υψηλής ποιότητας βιβλιοθήκη εξαρτημάτων που διαθέτει χιλιάδες εξαρτήματα, αποτυπώματα, και τρισδιάστατα μοντέλα. Το KiCad έχει ελάχιστες απαιτήσεις συστήματος και τρέχει σε Linux, Windows και macOS.</p>
+  </description>
+  <description lang="en">
+    <p>KiCad is a free and open-source electronics design automation (EDA) suite. It features schematic capture, integrated circuit simulation, printed circuit board (PCB) layout, 3D rendering, and plotting/data export to numerous formats. KiCad also includes a high-quality component library featuring thousands of symbols, footprints, and 3D models. KiCad has minimal system requirements and runs on Linux, Windows, and macOS.</p>
+  </description>
+  <description lang="es">
+    <p>KiCad es una suite de automatización del diseño electrónico (EDA) gratuita y de código abierto. Ofrece captura de esquemas, simulación de circuitos integrados, diseño de placas de circuito impreso (PCB), renderización 3D, y trazado/exportación de datos a numerosos formatos. KiCad también incluye una biblioteca de componentes de alta calidad con miles de símbolos, huellas y modelos 3D. KiCad tiene requisitos de sistema mínimos y funciona en Linux, Windows y macOS.</p>
+  </description>
+  <description lang="es_MX">
+    <p>KiCad es una suite de automatización del diseño electrónico (EDA) gratuita y de código abierto. Ofrece captura de esquemas, simulación de circuitos integrados, diseño de placas de circuito impreso (PCB), renderización 3D, y trazado/exportación de datos a numerosos formatos. KiCad también incluye una biblioteca de componentes de alta calidad con miles de símbolos, huellas y modelos 3D. KiCad tiene requisitos de sistema mínimos y funciona en Linux, Windows y macOS.</p>
+  </description>
+  <description lang="fi">
+    <p>KiCad on ilmainen ja avoimen lähdekoodin elektroniikan suunnitteluautomaation (EDA) ohjelmistopaketti. Se sisältää kytkentäkaaviokaappauksen, integroitujen piirien simuloinnin, (PCB) piirilevyasettelun, 3D-renderöinnin ja piirtämisen/tietojen viennin lukuisiin eri muotoihin. KiCad sisältää myös korkea-laatuisen komponenttikirjaston, joka sisältää tuhansia symboleja, jalanjälkiä ja 3D-malleja. KiCadilla on minimaaliset järjestelmävaatimukset ja se toimii Linuxissa, Windowsissa ja macOS:ssä.</p>
+  </description>
+  <description lang="fr">
+    <p>KiCad est une suite gratuite et open-source d'outils pour la conception électronique (EDA). Il comprend la capture schématique, la simulation de circuits , la conception de circuits imprimés (PCB), le rendu 3D et l’exportation de traçage/données vers de nombreux formats. KiCad comprend également une bibliothèque de composants de haute qualité avec des milliers de symboles, d’empreintes et de modèles 3D. KiCad a des exigences système minimales et fonctionne sur Linux, Windows et macOS.</p>
+  </description>
+  <description lang="it">
+    <p>KiCad è una suite di automazione per la progettazione elettronica (EDA) gratuita e open source. Permette la progettazione di schemi elettrici e circuiti stampati (PCB), la simulazione elettronica, il rendering 3D e la stampa / esportazione dei dati in numerosi formati. KiCad include anche una libreria di componenti di alta qualità con migliaia di simboli, impronte e modelli 3D. KiCad ha requisiti di sistema minimi e funziona su Linux, Windows e macOS.</p>
+  </description>
+  <description lang="ja">
+    <p>KiCadはフリーでオープンソースの電子設計自動化(EDA) スイートです。回路図のキャプチャ、集積回路のシミュレーション、プリント基板(PCB)のレイアウト、3Dレンダリング、プロッティングや様々なフォーマットへのデータのエクスポートなどの機能があります。また、KiCadには何千ものシンボル、フットプリント、3Dモデルを含む高品質な部品ライブラリーが含まれています。KiCadのシステム要件は最小限で、Linux、Windows、MacOSで動作します。</p>
+  </description>
+  <description lang="ko">
+    <p>KiCad는 무료 오픈소스 전자 설계 자동화 (EDA) 제품군입니다. 회로도 캡쳐, 집적회로 시뮬레이션, 인쇄 회로 기판 (PCB) 레이아웃, 3D 렌더링, 다양한 형식으로의 플로팅 / 데이터 내보내기 등의 기능이 있습니다. KiCad는 수천여 개의 심볼, 풋프린트, 3D 모델이 포함된 높은 퀄리티의 컴포넌트 라이브러리가 포함되어 있습니다. KiCad는 최소한의 시스템 요건을 가지고 있으며, Linux, Windows와 MacOS에서 작동합니다.</p>
+  </description>
+  <description lang="nl">
+    <p>KiCad is een gratis open-source EDA (Electronics Design Automation) programma. U kunt elektronica schema's tekenen, u kunt de werking van schakelingen simuleren, printplaten ontwerpen, 3D modellen aanmaken, en tekeningen exporteren naar een groot aantal formats. KiCad bevat ook een uitstekende bibliotheek met duizenden symbolen, footprints en 3D modellen van een groot aantal elektronische componenten. KiCad stelt minimale eisen aan uw computer, en is beschikbaar voor Linux, Windows en MacOs.</p>
+  </description>
+  <description lang="pl">
+    <p>KiCad to darmowy pakiet do automatyzacji projektowania elektroniki (EDA) o otwartym kodzie źródłowym. Zawiera edytor schematów, symulator obwodów, edytor obwodów drukowanych (PCB), generator modeli 3D oraz narzędzia do kreślenia/eksportu danych do wielu formatów. KiCad zawiera również wysokiej jakości biblioteki komponentów, zawierające tysiące symboli, obudów i modeli 3D. KiCad ma minimalne wymagania systemowe i działa w systemach Linux, Windows i macOS.</p>
+  </description>
+  <description lang="pt">
+    <p>KiCad é uma suite de automação de design eletrónico (EDA) gratuita e de código aberto (open-source). Possui captura esquemática, simulação integrada de circuito, layout de placa de circuito impresso (PCI), renderização 3D e traçar/exportação de dados para vários formatos. KiCad também inclui uma biblioteca de componentes de alta qualidade com milhares de símbolos, footprints e modelos 3D. KiCad tem requisitos mínimos e corre em Linux, Windows e macOS.</p>
+  </description>
+  <description lang="pt_br">
+    <p>O KiCad é um pacote de automação de projeto eletrônico (EDA) gratuito e de código aberto. Possui captura de esquema eletrônico, simulação de circuito integrado, layout da placa de circuito impresso (PCB), renderização 3D e plotagem assim como a exportação dos dados para diferentes formatos. O KiCad inclui também uma biblioteca de componentes de alta qualidade com milhares de símbolos, representação real do componente e dos modelos 3D. O KiCad precisa de poucos recursos do sistema e funciona no Linux, no Windows e no macOS.</p>
+  </description>
+  <description lang="ru">
+    <p>KiCad – это свободная система автоматизированного проектирования с открытым исходным кодом. Она позволяет составлять схемы, анализировать их работу с помощью встроенного симулятора, трассировать печатные платы, просматривать их в 3D-виде, распечатывать чертежи и экспортировать данные в различные форматы. KiCad также содержит высококачественную библиотеку компонентов насчитывающую тысячи символов, посадочных мест и 3D-моделей. KiCad имеет минимальные системные требования и работает на Linux, Windows и macOS.</p>
+  </description>
+  <description lang="sv">
+    <p>KiCad är en gratis och open-source EDA-svit (Electronic Design Automation), och tillhandahåller verktyg för utformning av kretsscheman, simulering av integrerade kretsar, mönsterkortslayout, 3D rendering och utskrift/dataexport i ett flertal format. KiCad innehåller också ett högkvalitativt komponentbibliotek med tusentals symboler, fotavtryck och 3D-modeller. KiCad har minimala systemkrav och kan köras på Linux, Windows och maxOS.</p>
+  </description>
+  <description lang="th">
+    <p>KiCad เป็นชุดระบบอัตโนมัติการออกแบบอิเล็กทรอนิกส์ (EDA) ฟรีและโอเพ่นซอร์ส มีการใส่วงจร, การจําลองวงจร, การออกแบบวงจรพิมพ์ (PCB), การแสดงผล 3 มิติและการพล็อต/ส่งออกข้อมูลไปยังรูปแบบต่างๆ นอกจากนี้ KiCad ยังมีไลบรารีอุปกรณ์คุณภาพสูงที่มีสัญลักษณ์, ฟุ้ทพรินท์และโมเดล 3 มิติหลายพันชนิด KiCad มีความต้องการระบบน้อยทและทํางานบน Linux, Windows และ macOS</p>
+  </description>
+  <description lang="tr">
+    <p>KiCad, ücretsiz ve açık kaynaklı bir elektronik tasarım otomasyonu (EDA) paketidir. Şematik çizimi, entegre devre simülasyonu, baskılı devre kartı (PCB) çizimi, 3D render ve çok sayıda formata çizim / veri dışa aktarma özelliklerine sahiptir. KiCad ayrıca binlerce sembol, ayak izi ve 3D model içeren yüksek kaliteli bir bileşen kitaplığı içerir. KiCad minimum sistem gereksinimlerine sahiptir ve Linux, Windows ve macOS üzerinde çalışır.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>KiCad 是一款自由、开源的 EDA 套件。 它具有原理图编辑、电路仿真、PCB 布局、3D 渲染和图形 / 数据导出等功能，还包括一个高质量的组件库，具有成千上万的符号、封装和 3D 模型。KiCad 对系统性能要求不高，且可在 Linux、Windows 和 macOS 系统上运行。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>KiCad 是一款自由、開源的 EDA 套件。 它具有原理圖編輯、電路模擬、PCB 佈局、3D 渲染和圖形 / 資料匯出等功能，還包括一個高質量的元件庫，具有成千上萬的符號、封裝和 3D 模型。KiCad 對系統性能要求不高，且可在 Linux、Windows 和 macOS 系統上執行。</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <caption>KiCad Main Window</caption>
+      <caption lang="zh_TW">KiCad 主視窗</caption>
+      <caption lang="zh_CN">KiCad 主窗口</caption>
+      <caption lang="tr">KiCad Ana Pencere</caption>
+      <caption lang="th">หน้าต่างหลักของ KiCad</caption>
+      <caption lang="sv">KiCads huvudfönster</caption>
+      <caption lang="ru">Главное окно KiCad</caption>
+      <caption lang="pt_br">Janela principal do KiCad</caption>
+      <caption lang="pt">Janela principal do KiCad</caption>
+      <caption lang="pl">Główne okno programu KiCad</caption>
+      <caption lang="nl">Kicad begin-window</caption>
+      <caption lang="ko">KiCad 메인 창</caption>
+      <caption lang="ja">KiCad メインウィンドウ</caption>
+      <caption lang="it">Finestra principale KiCad</caption>
+      <caption lang="id">Jendela Utama KiCad</caption>
+      <caption lang="fr">Fenêtre Principale KiCad</caption>
+      <caption lang="fi">KiCad:in Pääikkuna</caption>
+      <caption lang="es_MX">Ventana principal de KiCad</caption>
+      <caption lang="es">Ventana principal de KiCad</caption>
+      <caption lang="en">KiCad Main Window</caption>
+      <caption lang="el">Κύριο Παράθυρο KiCad</caption>
+      <caption lang="de">KiCad Hauptfenster</caption>
+      <caption lang="cs">Kicad Hlavní okno</caption>
+      <image height="610" width="1034">https://www.kicad.org/img/screenshots/appstream/kicad_6.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>KiCad Schematic Editor</caption>
+      <caption lang="zh_TW">KiCad 原理圖編輯器</caption>
+      <caption lang="zh_CN">KiCad 原理图编辑器</caption>
+      <caption lang="tr">KiCad Şema Düzenleyici</caption>
+      <caption lang="th">ตัวแก้ไขวงจร KiCad</caption>
+      <caption lang="sv">KiCads kretsschemaredigerare</caption>
+      <caption lang="ru">Редактор схем KiCad</caption>
+      <caption lang="pt_br">Editor de esquema do KiCad</caption>
+      <caption lang="pt">Editor de esquema do KiCad</caption>
+      <caption lang="pl">Edytor Schematów programu KiCad</caption>
+      <caption lang="nl">KiCad schematische editor</caption>
+      <caption lang="ko">KiCad 회로도 편집기</caption>
+      <caption lang="ja">KiCad 回路図エディター</caption>
+      <caption lang="it">Editor schemi KiCad</caption>
+      <caption lang="fr">Editeur de Schématique KiCad</caption>
+      <caption lang="fi">KiCad Kytkentäkaavioeditori</caption>
+      <caption lang="es_MX">Editor de esquemas de KiCad</caption>
+      <caption lang="es">Editor de esquemas de KiCad</caption>
+      <caption lang="en">KiCad Schematic Editor</caption>
+      <caption lang="el">Επεξεργαστής Σχηματικού KiCad</caption>
+      <caption lang="de">KiCad Schaltplan-Editor</caption>
+      <caption lang="cs">KiCad editor schémat</caption>
+      <caption lang="ca">Editor d'esquemàtics KiCad</caption>
+      <image height="900" width="1600">https://www.kicad.org/img/screenshots/appstream/eeschema_6.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>KiCad PCB Layout Editor</caption>
+      <caption lang="zh_TW">KiCad PCB 佈局編輯器</caption>
+      <caption lang="zh_CN">KiCad PCB 布局编辑器</caption>
+      <caption lang="tr">KiCad PCB Tasarım Editörü</caption>
+      <caption lang="th">เครื่องมือแก้ไขพีซีบีของ KiCad</caption>
+      <caption lang="sv">KiCad mönsterkortsredigerare</caption>
+      <caption lang="ru">Редактор печатных плат KiCad</caption>
+      <caption lang="pt_br">Editor de layout da PCI do KiCad</caption>
+      <caption lang="pt">Editor de layout da PCI do KiCad</caption>
+      <caption lang="pl">Edytor obwodów drukowanych programu KiCad</caption>
+      <caption lang="nl">KiCad PCB-layout Editor</caption>
+      <caption lang="ko">KiCad PCB 레이아웃 편집기</caption>
+      <caption lang="ja">KiCad PCB レイアウト エディター</caption>
+      <caption lang="it">Editor di C.S. KiCad</caption>
+      <caption lang="id">Penyunting Tata Letak PCB KiCad</caption>
+      <caption lang="fr">Editeur de PCB KiCad</caption>
+      <caption lang="fi">KiCad PCB Ulkoasueditori</caption>
+      <caption lang="es_MX">Editor de placas de KiCad</caption>
+      <caption lang="es">Editor de placas de KiCad</caption>
+      <caption lang="en">KiCad PCB Layout Editor</caption>
+      <caption lang="el">Επεξεργαστής Σχεδίασης PCB</caption>
+      <caption lang="de">KiCad Leiterplatteneditor</caption>
+      <caption lang="cs">KiCad editor návrhu DPS</caption>
+      <image width="1600" height="900">https://www.kicad.org/img/screenshots/appstream/pcbnew_6.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>KiCad 3D Viewer</caption>
+      <caption lang="zh_TW">KiCad 3D 檢視器</caption>
+      <caption lang="zh_CN">KiCad 3D 查看器</caption>
+      <caption lang="tr">KiCad 3B Görüntüleyici</caption>
+      <caption lang="th">เครื่องมือแสดง3มิติของ KiCad</caption>
+      <caption lang="sv">KiCad 3D-visare</caption>
+      <caption lang="ru">Просмотрщик 3D</caption>
+      <caption lang="ro">Vizualizator 3D KiCad</caption>
+      <caption lang="pt_br">Visualizador 3D do KiCad</caption>
+      <caption lang="pt">Visualizador 3D do KiCad</caption>
+      <caption lang="pl">Przeglądarka 3D programu KiCad</caption>
+      <caption lang="nl">KiCad 3D Viewer</caption>
+      <caption lang="ko">KiCad 3D 뷰어</caption>
+      <caption lang="ja">KiCad 3D ビューアー</caption>
+      <caption lang="it">Visualizzatore 3D KiCad</caption>
+      <caption lang="fr">Visionneuse 3D KiCad</caption>
+      <caption lang="fi">KiCad 3D Katselin</caption>
+      <caption lang="es_MX">Visor 3D de KiCad</caption>
+      <caption lang="es">Visor 3D de KiCad</caption>
+      <caption lang="en">KiCad 3D Viewer</caption>
+      <caption lang="el">KiCad 3D Viewer</caption>
+      <caption lang="de">KiCad 3D-Betrachter</caption>
+      <caption lang="cs">KiCad 3D prohlížeč</caption>
+      <caption lang="ca">Visualitzador 3D de KiCad</caption>
+      <image height="900" width="1600">https://www.kicad.org/img/screenshots/appstream/3dviewer_6.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://www.kicad.org/</url>
+  <url type="bugtracker">https://go.kicad.org/issue</url>
+  <url type="help">https://go.kicad.org/docs/6</url>
+  <url type="donation">https://go.kicad.org/donate</url>
+  <url type="translate">https://go.kicad.org/translate</url>
+  <update_contact>kicad-developers@lists.launchpad.net</update_contact>
+  <developer_name>The KiCad Developers</developer_name>
+  <developer_name lang="zh_TW">KiCad 開發者們</developer_name>
+  <developer_name lang="zh_CN">KiCad 开发者们</developer_name>
+  <developer_name lang="tr">KiCad Geliştiricileri</developer_name>
+  <developer_name lang="th">นักพัฒนา KiCad</developer_name>
+  <developer_name lang="sv">KiCads utvecklare</developer_name>
+  <developer_name lang="ru">Разработчики KiCad</developer_name>
+  <developer_name lang="pt_br">Os desenvolvedores do KiCad</developer_name>
+  <developer_name lang="pt">Os desenvolvedores do KiCad</developer_name>
+  <developer_name lang="pl">Twórcy oprogramowania</developer_name>
+  <developer_name lang="nl">De Kicad Ontwikkelaars</developer_name>
+  <developer_name lang="ko">KiCad 개발자들</developer_name>
+  <developer_name lang="ja">KiCadの開発者</developer_name>
+  <developer_name lang="it">Gli sviluppatori di KiCad</developer_name>
+  <developer_name lang="id">Para Pengembang KiCad</developer_name>
+  <developer_name lang="fr">Développeurs KiCad</developer_name>
+  <developer_name lang="fi">KiCad:in Kehittäjät</developer_name>
+  <developer_name lang="es_MX">Los desarrolladores de KiCad</developer_name>
+  <developer_name lang="es">Los desarrolladores de KiCad</developer_name>
+  <developer_name lang="en">The KiCad Developers</developer_name>
+  <developer_name lang="el">Οι προγραμματιστές του KiCad</developer_name>
+  <developer_name lang="de">Die KiCad-Entwickler</developer_name>
+  <developer_name lang="cs">Vývojáři Kicadu</developer_name>
+  <!-- This is actually a valid tag, but the utilities don't think so -->
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release version="6.99.0-b54bb90975" date="1980-01-01" />
+  </releases>
+</component>

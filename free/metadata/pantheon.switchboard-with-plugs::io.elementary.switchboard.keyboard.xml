@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>pantheon.switchboard-with-plugs</pkgname>
+  <id>io.elementary.switchboard.keyboard</id>
+  <extends>io.elementary.switchboard</extends>
+  <name>Keyboard Settings</name>
+  <name lang="zh_CN">键盘设置</name>
+  <name lang="uk">Налаштування клавіатури</name>
+  <name lang="tr">Klavye Ayarları</name>
+  <name lang="sr">Подешавања тастатуре</name>
+  <name lang="sk">Nastavenia klávesnice</name>
+  <name lang="ru">Параметры клавиатуры</name>
+  <name lang="pt_BR">Configurações de Teclado</name>
+  <name lang="pt">Definições do Teclado</name>
+  <name lang="pl">Ustawienia klawiatury</name>
+  <name lang="nl">Toetsenbord Instellingen</name>
+  <name lang="nb">Tastaturinnstillinger</name>
+  <name lang="mr">कीबोर्ड सेटिंग्ज</name>
+  <name lang="ja">キーボードの設定</name>
+  <name lang="it">Impostazioni della tastiera</name>
+  <name lang="hu">Billentyűzetbeállítások</name>
+  <name lang="he">הגדרות מקלדת</name>
+  <name lang="fr">Paramètres du clavier</name>
+  <name lang="fi">Näppäimistön asetukset</name>
+  <name lang="es">Configuración de teclado</name>
+  <name lang="en_GB">Keyboard Settings</name>
+  <name lang="de">Tastatureinstellungen</name>
+  <name lang="da">Tastatur Indstillinger</name>
+  <name lang="cs">Nastavení klávesnice</name>
+  <name lang="ca">Paràmetres del teclat</name>
+  <name lang="ar">إعدادات لوحة المفاتيح</name>
+  <summary>Configure keyboard behavior, layouts, and shortcuts</summary>
+  <summary lang="zh_CN">配置键盘功能、布局和快捷键</summary>
+  <summary lang="uk">Налаштування поведінки клавіатури, розкладки та комбінації клавіш</summary>
+  <summary lang="tr">Klavye davranışını, düzenini ve kısayollarını ayarlayın</summary>
+  <summary lang="sr">Подесите понашање тастатуре, распореде и пречице</summary>
+  <summary lang="sk">Nastavujte správanie klávesnice, rozloženie a klávesové skratky</summary>
+  <summary lang="ru">Настройка поведения клавиатуры, раскладки и сочетаний клавиш</summary>
+  <summary lang="pt_BR">Configurar o comportamento do teclado, disposições e teclas de atalho</summary>
+  <summary lang="pt">Configurar o comportamento do teclado, esquemas e teclas de atalho</summary>
+  <summary lang="pl">Konfiguruj zachowanie klawiatury, układy oraz skróty</summary>
+  <summary lang="nl">Configureer gedrag, indeling en sneltoetsen van het toetsenbord</summary>
+  <summary lang="nb">Sett opp tastaturoppførsel, oppsett, og snarveier</summary>
+  <summary lang="mr">कीबोर्ड वर्तन, मांडणी आणि शॉर्टकट कॉन्फिगर करा</summary>
+  <summary lang="lt">Konfigūruoti klaviatūros elgseną, išdėstymus ir susiejimus</summary>
+  <summary lang="ko">키보드 동작, 레이아웃, 바로가기를 설정합니다</summary>
+  <summary lang="ja">キーボードの挙動、レイアウト、ショートカットを設定します</summary>
+  <summary lang="it">Configura il comportamento della tastiera, le disposizioni e le scorciatoie</summary>
+  <summary lang="hu">A billentyűzet viselkedésének és kiosztásának, valamint a billentyűparancsok beállítása</summary>
+  <summary lang="he">הגדרת התנהגות המקלדת, הפריסות ומקשי הקיצור</summary>
+  <summary lang="gl">Configure o comportamento, as disposicións e os atallos do teclado</summary>
+  <summary lang="fr">Configurer le comportement du clavier, sa disposition ainsi que les raccourcis</summary>
+  <summary lang="fi">Määritä näppäimistön toiminta, asettelut ja pikanäppäimet</summary>
+  <summary lang="es">Configure el comportamiento, las disposiciones y los atajos del teclado</summary>
+  <summary lang="eo">Agordi klavaran konduton, aranĝon, kaj fulmklavojn</summary>
+  <summary lang="en_GB">Configure keyboard behaviour, layouts, and shortcuts</summary>
+  <summary lang="en_CA">Configure keyboard behavior, layouts, and shortcuts</summary>
+  <summary lang="en_AU">Configure keyboard behavior, layouts, and shortcuts</summary>
+  <summary lang="de">Verhalten und Belegung der Tastatur sowie Tastenkürzel einrichten</summary>
+  <summary lang="da">Konfigurer tastaturets adfærd, layouts og genveje</summary>
+  <summary lang="cs">Nastavit chování klávesnice, rozložení a klávesové zkratky</summary>
+  <summary lang="ca">Configureu el comportament, la disposició i les dreceres del teclat.</summary>
+  <summary lang="ar">إعداد سلوك لوحة المفاتيح والتخطيط والاختصارات</summary>
+  <icon type="stock">preferences-desktop-keyboard</icon>
+  <translation type="gettext">keyboard-plug</translation>
+  <releases>
+    <release date="2022-04-06" urgency="medium" version="2.7.0">
+      <description>
+        <p>New features:</p>
+        <ul>
+          <li>Open Multitasking View with Super</li>
+        </ul>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-11-23" version="2.6.0" urgency="medium">
+      <description>
+        <p>New features:</p>
+        <ul>
+          <li>Redesigned custom shortcuts view</li>
+          <li>On-screen keyboard switch in Layouts tab</li>
+        </ul>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" date="2021-09-22" version="2.5.1">
+      <description>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Ensure IBus automatically starts on login when needed</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" version="2.5.0" date="2021-07-14">
+      <description>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Add Layout popover is now a dialog</li>
+          <li>Guarantee we always have at least one layout</li>
+          <li>Improvements to ibus and xkb layouts</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" date="2020-09-02" version="2.4.1">
+      <description>
+        <p>Shortcut description for "Play" is now "Play/Pause"</p>
+        <p>Fix an issue where some shortcuts would incorrectly show as disabled</p>
+        <p>Updated translations</p>
+      </description>
+    </release>
+    <release urgency="medium" version="2.4.0" date="2020-08-07">
+      <description>
+        <p>Add a view to configure input methods</p>
+        <p>Updated translations</p>
+      </description>
+    </release>
+    <release date="2020-04-01" urgency="medium" version="2.3.6">
+      <description>
+        <p>New "Workspaces" icon</p>
+        <p>Exclude Space from single-key shortcuts</p>
+        <p>Updated translations</p>
+      </description>
+    </release>
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/elementary/switchboard-plug-keyboard/master/data/screenshot.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/elementary/switchboard-plug-keyboard/master/data/screenshot-shortcuts.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/elementary/switchboard-plug-keyboard/master/data/screenshot-behavior.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://elementary.io</url>
+  <url type="bugtracker">https://github.com/elementary/switchboard-plug-keyboard/issues</url>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+</component>

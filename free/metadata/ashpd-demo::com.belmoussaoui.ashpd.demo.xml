@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>ashpd-demo</pkgname>
+  <icon type="cached" height="64" width="64">com.belmoussaoui.ashpd.demo.png</icon>
+  <icon height="128" width="128" type="cached">com.belmoussaoui.ashpd.demo.png</icon>
+  <id>com.belmoussaoui.ashpd.demo</id>
+  <metadata_license>CC0</metadata_license>
+  <project_license>MIT</project_license>
+  <name>ASHPD Demo</name>
+  <summary>Play with portals</summary>
+  <description>
+    <p>Demo that shows the capabilities of the ASHPD crate.</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://github.com/bilelmoussaoui/ashpd/raw/master/ashpd-demo/data/resources/screenshots/screenshot1.png</image>
+      <caption>Main Window</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://github.com/bilelmoussaoui/ashpd/raw/master/ashpd-demo/data/resources/screenshots/screenshot2.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://github.com/bilelmoussaoui/ashpd/raw/master/ashpd-demo/data/resources/screenshots/screenshot3.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://github.com/bilelmoussaoui/ashpd</url>
+  <url type="bugtracker">https://github.com/bilelmoussaoui/ashpd/issues</url>
+  <content_rating type="oars-1.0" />
+  <releases>
+    <release version="0.0.2" date="2022-01-25" />
+    <release version="0.0.1" date="2021-10-06" />
+  </releases>
+  <kudos>
+    <!--
+       GNOME Software kudos:
+       https://gitlab.gnome.org/GNOME/gnome-software/blob/master/doc/kudos.md
+     -->
+    <kudo>ModernToolkit</kudo>
+    <kudo>HiDpiIcon</kudo>
+  </kudos>
+  <developer_name>Bilal Elmoussaoui</developer_name>
+  <update_contact>bil.elmoussaoui@gmail.com</update_contact>
+  <translation type="gettext">ashpd-demo</translation>
+  <launchable type="desktop-id">com.belmoussaoui.ashpd.demo.desktop</launchable>
+</component>

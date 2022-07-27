@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>gnome.gnome-power-manager</pkgname>
+  <launchable type="desktop-id">org.gnome.PowerStats.desktop</launchable>
+  <icon type="cached" width="64" height="64">org.gnome.PowerStats.png</icon>
+  <icon type="cached" width="128" height="128">org.gnome.PowerStats.png</icon>
+  <id>org.gnome.PowerStats.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+ and GFDL-1.3</project_license>
+  <name>GNOME Power Statistics</name>
+  <name lang="zh_TW">GNOME 電源統計</name>
+  <name lang="zh_CN">GNOME 电源统计</name>
+  <name lang="vi">Thống kê năng lượng GNOME</name>
+  <name lang="tr">GNOME Güç İstatistikleri</name>
+  <name lang="sv">GNOME Strömstatistik</name>
+  <name lang="sr@latin">Gnomov dijagram potrošnje električne energije</name>
+  <name lang="sr">Гномов дијаграм потрошње електричне енергије</name>
+  <name lang="sl">Upravljalnik porabe GNOME</name>
+  <name lang="sk">Štatistika napájania prostredia GNOME</name>
+  <name lang="ru">Статистика энергопотребления GNOME</name>
+  <name lang="pt_BR">Estatísticas de energia do GNOME</name>
+  <name lang="pt">Estatísticas de energia do GNOME</name>
+  <name lang="pl">Statystyki zasilania GNOME</name>
+  <name lang="oc">Estatisticas de l'alimentacion GNOME</name>
+  <name lang="nl">Gnome Spanningsstatistieken</name>
+  <name lang="lv">GNOME barošanas statistika</name>
+  <name lang="lt">GNOME energijos statistika</name>
+  <name lang="ja">GNOME の電源使用率統計</name>
+  <name lang="it">Statistiche energetiche di GNOME</name>
+  <name lang="id">Statistik Daya GNOME</name>
+  <name lang="hu">GNOME energiastatisztika</name>
+  <name lang="hr">GNOME energetska statistika</name>
+  <name lang="gd">Stadastaireachd na cumhachd GNOME</name>
+  <name lang="fur">Statistichis energjetichis di GNOME</name>
+  <name lang="fr">Statistiques de l'alimentation GNOME</name>
+  <name lang="fi">Virrankäytön tilastot</name>
+  <name lang="es">Estadísticas de energía de GNOME</name>
+  <name lang="eo">Energistatistikoj de GNOME</name>
+  <name lang="el">Στατιστικά ενέργειας GNOME</name>
+  <name lang="de">GNOME Energiestatistiken</name>
+  <name lang="da">GNOME strømstatistik</name>
+  <name lang="cs">Statistika napájení GNOME</name>
+  <name lang="bs">GNOME statistika potrošnje električne energije</name>
+  <summary>Observe power management</summary>
+  <summary lang="zh_TW">監控電源管理程式</summary>
+  <summary lang="zh_HK">監控電源管理程式</summary>
+  <summary lang="zh_CN">监控电源管理</summary>
+  <summary lang="vi">Theo dõi quản lý năng lượng</summary>
+  <summary lang="uk">Стеження за керування живленням</summary>
+  <summary lang="ug">توك مەنبە باشقۇرۇشنى كۆزىتىش پروگراممىسى</summary>
+  <summary lang="tr">Güç yönetimini gözlemle</summary>
+  <summary lang="th">ตรวจสอบการใช้พลังงาน</summary>
+  <summary lang="te">పవర్ నిర్వహణను గమనించుము</summary>
+  <summary lang="ta">மின் மேலாண்மையை அனுசரி</summary>
+  <summary lang="sv">Övervaka strömhantering</summary>
+  <summary lang="sr@latin">Posmatrajte potrošnju električne energije</summary>
+  <summary lang="sr">Посматрајте потрошњу електричне енергије</summary>
+  <summary lang="sl">Opazovanje upravljanja porabe</summary>
+  <summary lang="sk">Pozoruje správu napájania</summary>
+  <summary lang="ru">Обзор системы управления питанием</summary>
+  <summary lang="ro">Examinează administrarea consumului</summary>
+  <summary lang="pt_BR">Observe o gerenciamento de energia</summary>
+  <summary lang="pt">Observar a gestão de energia</summary>
+  <summary lang="pl">Podgląd zarządzania zasilaniem</summary>
+  <summary lang="pa">ਪਾਵਰ ਪਰਬੰਧ ਨਿਗਰਾਨੀ</summary>
+  <summary lang="or">ବିଦ୍ଯୁତ ପ୍ରବନ୍ଧନ ପାଳନ କର</summary>
+  <summary lang="oc">Susvellha la gestion d'energia</summary>
+  <summary lang="nn">Overvak straumstyring</summary>
+  <summary lang="nl">Energiebeheer observeren</summary>
+  <summary lang="nb">Overvåk strømstyring</summary>
+  <summary lang="mr">पावर व्यवस्थापन पहा</summary>
+  <summary lang="ml">വൈദ്യുതി നടത്തിപ്പ് നോക്കിക്കാണുക</summary>
+  <summary lang="mk">Надгледувај го менаџментот на енергијата</summary>
+  <summary lang="mai">पावर मैनेजमेंट निरीक्षण करू</summary>
+  <summary lang="lv">Pārlūkot barošanas pārvaldību</summary>
+  <summary lang="lt">Stebėkite energijos valdymą</summary>
+  <summary lang="ko">전원 관리 관찰</summary>
+  <summary lang="kn">ವಿದ್ಯುಚ್ಛಕ್ತಿ ನಿರ್ವಹಣೆಯನ್ನು ಗಮನಿಸು</summary>
+  <summary lang="km">មើលការគ្រប់គ្រងថាមពល</summary>
+  <summary lang="ja">電源管理を監視します</summary>
+  <summary lang="it">Osserva la gestione dell'alimentazione</summary>
+  <summary lang="id">Mengobservasi manajemen daya</summary>
+  <summary lang="hu">Energiagazdálkodás megfigyelése</summary>
+  <summary lang="hr">Promatraj upravljanje energijom</summary>
+  <summary lang="hi">शक्ति प्रबंधन निरीक्षण करें</summary>
+  <summary lang="he">צפה בניהול צריכת החשמל</summary>
+  <summary lang="gu">પાવર વ્યવસ્થાપનનું નીરિક્ષણ કરો</summary>
+  <summary lang="gl">Observar a xestión de enerxía</summary>
+  <summary lang="gd">Gèill ri stiùireadh na cumhachd</summary>
+  <summary lang="ga">Breathnaigh ar bhainistíocht na cumhachta</summary>
+  <summary lang="fur">Ten di voli la gjestion de alimentazion</summary>
+  <summary lang="fr">Surveille la gestion d'énergie</summary>
+  <summary lang="fi">Tarkkaile virrankäyttöä</summary>
+  <summary lang="fa">مشاهده‌ی مدیریت انرژی</summary>
+  <summary lang="eu">Begiratu energia kudeatzailea</summary>
+  <summary lang="et">Vooluhalduse vaatlemine</summary>
+  <summary lang="es">Observe la gestión de energía</summary>
+  <summary lang="eo">Observi la energiadminstrilon</summary>
+  <summary lang="en@shaw">𐑩𐑚𐑟𐑻𐑝 𐑐𐑬𐑼 𐑥𐑨𐑯𐑩𐑡𐑥𐑩𐑯𐑑</summary>
+  <summary lang="en_GB">Observe power management</summary>
+  <summary lang="el">Παρακολούθηση διαχείρισης ενέργειας</summary>
+  <summary lang="dz">ནུས་ཤུགས་འཛིན་སྐྱོང་ཞིབ་རྟོག་འབད་</summary>
+  <summary lang="de">Energiesparfunktionen überwachen</summary>
+  <summary lang="da">Overvåg strømstyring</summary>
+  <summary lang="cy">Arsylwi'r rheoli pŵer</summary>
+  <summary lang="cs">Sledovat správu napájení</summary>
+  <summary lang="ca@valencia">Observeu la gestió d'energia</summary>
+  <summary lang="ca">Observeu la gestió d'energia</summary>
+  <summary lang="bs">Posmatranji potrošnje električne energije</summary>
+  <summary lang="bn_IN">বিদ্যুৎ পরিচালনা নিরীক্ষণ করুন</summary>
+  <summary lang="bn">বিদ্যুৎ পরিচালনা নিরীক্ষণ করুন</summary>
+  <summary lang="bg">Спазване на управлението на захранването</summary>
+  <summary lang="be@latin">Sačy za kiravańniem enerhijaj</summary>
+  <summary lang="be">Назіранне за спажываннем энергіі</summary>
+  <summary lang="ast">Adicar la xestión d'enerxía</summary>
+  <summary lang="as">শক্তি ব্যৱস্থাপনা নিৰীক্ষণ</summary>
+  <summary lang="ar">راجع إدارة الطاقة</summary>
+  <summary lang="af">Waarneming van kragbestuur</summary>
+  <description>
+    <p>
+      Power Statistics can show historical and current battery information and
+      programs waking up that use power.
+    </p>
+    <p>
+      You probably only need to install this application if you are having
+      problems with your laptop battery, or are trying to work out what programs
+      are using significant amounts of power.
+    </p>
+  </description>
+  <description lang="as">
+    <p>শক্তি পৰিসংখ্যায় আগৰ আৰু বৰ্তমান বেটাৰি শক্তি আৰু সেই শক্তিক ব্যৱহাৰ কৰা প্ৰগ্ৰামসমূহ দেখুৱায়।</p>
+    <p>আপুনি এই এপ্লিকেচন তেতিয়াহে ইনস্টল কৰিব লাগে যদি আপোনাৰ লেপটপ বেটাৰিৰ সৈতে সমস্যা হৈ আছে, অথবা আপুনি জানিব বিচাৰে কোনবোৰ প্ৰগ্ৰামে অত্যাধিক শক্তি ব্যৱহাৰ কৰি আছে।</p>
+  </description>
+  <description lang="bn_IN">
+    <p>পাওয়ার পরিসংখ্যান পুরানো এবং বর্তমান ব্যাটারি তথ্য এবং পাওয়ার ব্যবহার করা প্রোগ্রামের তথ্য দেখাতে পারবে।</p>
+    <p>অাপনার ল্যাপটপের ব্যাটারিতে সমস্যা থাকলে বা কোন প্রোগ্রামগুলি বেশি পরিমাণ পাওয়ার খরচ করছে তা বুঝতে চেষ্টা করলে, সম্ভবত এই অ্যাপ্লিকেশনটি ইনস্টল করলেই হবে।</p>
+  </description>
+  <description lang="bs">
+    <p>Statistike napajanja pokazuju da istorijske i aktuelne informacije o baterijama i programima koji koriste buđenje pomoću napajanja.</p>
+    <p>Vi ćete morati da instalirate ovu aplikaciju samo ako imate problema sa laptop baterijama, ili pokušavate zaključiti koji programi koriste značajne količine energije.</p>
+  </description>
+  <description lang="cs">
+    <p>Statistika napájení umí zobrazit historii i aktuální informace o baterii a programech, které způsobily probuzení a zvýšený odběr energie.</p>
+    <p>Tuto aplikaci si bude nejspíše instalovat je v případě, že máte problémy s baterií svého notebooku nebo když se budete pokoušet odhalit, které programy způsobují největší spotřebu energie.</p>
+  </description>
+  <description lang="da">
+    <p>Strømstatistik kan vise både historisk og aktuel information om batteriet såvel som programmer, der vågner op og bruger strøm.</p>
+    <p>Du behøver sandsynligvis kun installere dette program, hvis du har problemer med batteriet i din bærbare eller prøver at finde ud af, hvilke programmer der forbruger meget strøm.</p>
+  </description>
+  <description lang="de">
+    <p>Energiestatistiken können Verlaufsdaten und aktuelle Akkuinformationen anzeigen sowie Programme, die Energie benötigen und den Rechner aufwecken.</p>
+    <p>Diese Anwendung müssen Sie vermutlich nur installieren, wenn Sie Schwierigkeiten mit Ihrem Laptop-Akku haben, oder versuchen herauszufinden, welche Programme viel Energie verbrauchen.</p>
+  </description>
+  <description lang="el">
+    <p>Η εφαρμογή Στατιστικά ενέργειας μπορεί να δείξει ιστορικές και τρέχουσες πληροφορίες μπαταρίας και τα προγράμματα αφύπνισης που χρησιμοποιούν ενέργεια.</p>
+    <p>Προφανώς χρειάζεται να εγκαταστήσετε αυτή την εφαρμογή μόνο εάν έχετε προβλήματα με την μπαταρία του φορητού υπολογιστή σας, ή αν προσπαθείτε να βρείτε ποιά προγράμματα χρησιμοποιούν σημαντικά ποσά ενέργειας.</p>
+  </description>
+  <description lang="es">
+    <p>Las estadísticas de energía puede mostrar el histórico e información actual sobre la batería y sobre programas emergentes que la usen.</p>
+    <p>Es probable que sólo necesite instalar esta aplicación si tiene problemas con la batería de su portátil, o si quiere saber qué programas usan una cantidad significativa de la misma.</p>
+  </description>
+  <description lang="eu">
+    <p>Energiaren estatistikak bateriari buruzko uneko informazioa eta historikoa erakuts dezake, baita energia darabilten iratzartutako programak ere.</p>
+    <p>Eramangarriaren bateriarekin arazoak edukiz gero, edo bateriaren kopuru nabarmen bat darabilten programak ezagutzeko aplikazio hau instalatzearekin nahikoa izan dezakezu,</p>
+  </description>
+  <description lang="fi">
+    <p>Virrankäytön tilastot näyttää historia- ja ajantasatietoa akun tilasta ja ohjelmista, jotka aiheuttavat virtaa käyttäviä herätyksiä.</p>
+    <p>Tämä ohjelma on tarpeen lähinnä silloin, jos koneesi akun kanssa on ongelmia, tai jos koetat selvittää mitkä ohjelmat käyttävät paljon virtaa.</p>
+  </description>
+  <description lang="fr">
+    <p>Les statistiques de l'alimentation peuvent afficher les informations de la batterie historiques et actuelles, ainsi que les programmes qui se réveillent et utilisent de l'énergie.</p>
+    <p>En général, cette application ne devrait être installée que si vous avez des problèmes avec votre batterie de portable ou que vous cherchez à savoir quels sont les programmes qui utilisent une part non négligeable d'énergie.</p>
+  </description>
+  <description lang="fur">
+    <p>Statistichis energjetichis al pues mostrâ informazions cronologjichis e atuâls su la batarie e programs che a tirin sù chel ûs energjetic.</p>
+    <p>Forsit si scugne instalâ cheste aplicazion dome se si à problemis cun la batarie dal portatil o si sta cirint di capî cuâi programs a stan doprant une vore di energjie.</p>
+  </description>
+  <description lang="gd">
+    <p>Seallaidh Stadastaireachd na cumhachd fiosrachadh làithreach ’s eachdraidheil air a’ bhataraidh agus prògraman a tha a’ dùsgadh ’s a chleachdadh cumhachd.</p>
+    <p>Chan eil sinn an dùil gum bi thu feumach air a’ phrògram seo ach ma tha duilgheadasan agad le bataraidh a’ laptop agad no ma tha thu airson faighinn a-mach cò na prògraman a chleachdas mòran cumhachd.</p>
+  </description>
+  <description lang="gu">
+    <p>પાવર પરિસ્થિતિઓ ઇતિહાસને બતાવી શકે છે અને હાલની બેટરી જાણકારી અને કાર્યક્રમો એ તે પાવરને વાપરવા માટે જાગી રહ્યા છે.</p>
+    <p>તમને કદાચ આ કાર્યક્રમને સ્થાપિત કરવાની જરૂર છે જો તમને તમારી લેપટોપ બેટરી સાથે સમસ્યાઓ હોય. અથવા શોધવા માટે પ્રયત્ન કરી રહ્યા છે ક્યાં કાર્યક્રમો નોંધપાત્ર પાવરનો ઉપયોગ કરી રહ્યા છે.</p>
+  </description>
+  <description lang="hi">
+    <p>ऊर्जा आँकड़ा ऐतिहासिक और मौजूदा बैटरी सूचना और प्रोग्राम वेकिंग अप जो ऊर्जा का उपयोग करता है.</p>
+    <p>आपको शायद इस अनुप्रयोग के संस्थापन की जरूरत है यदि आपको अपनी लैपटॉप बैटरी से समस्या है या पता करने की कोशिश कर रहे हैं कि कौन सा प्रोग्राम ऊर्जा की खासी मात्रा का उपयोग करता है.</p>
+  </description>
+  <description lang="hr">
+    <p>Statistika energije može prikazati povijesne i trenutne informacije i programe koji pokrenuti troše energiju.</p>
+    <p>Najvjerojatnije vam je potrebno instalirati ovu aplikaciju ako imate problema s baterijom vašeg prijenosnog računala, ili ako trebate otkriti koji program troši previše energije.</p>
+  </description>
+  <description lang="hu">
+    <p>Az energiastatisztika képes megjeleníteni az előzményeket és a jelenlegi akkumulátor információkat, valamint az ébredő programokat, amelyek energiát használnak.</p>
+    <p>Valószínűleg csak ennek az alkalmazásnak a telepítésére van szüksége, ha problémái vannak a laptop akkumulátorával, vagy hogy megpróbálja kideríteni, mely programok használnak jelentős mennyiségű energiát.</p>
+  </description>
+  <description lang="id">
+    <p>Statistik Daya dapat menunjukkan informasi baterai historis dan kini serta program yang bangun yang memakai daya.</p>
+    <p>Anda mungkin hanya perlu memasang aplikasi ini bila Anda memiliki masalah dengan baterai laptop Anda, atau mencoba mencari tahu program apa yang memakai sejumlah daya yang signifikan.</p>
+  </description>
+  <description lang="it">
+    <p>Statistiche energetiche può mostrare informazioni cronologiche o attuali sulla batteria e su programmi che risvegliano l'uso energetico.</p>
+    <p>Se si hanno problemi con la batteria del portatile, probabilmente c'è bisogno di installare questa applicazione, anche se si sta cercando di capire quale programma sta usando un significante ammontare di energia.</p>
+  </description>
+  <description lang="kn">
+    <p>ವಿದ್ಯುಚ್ಛಕ್ತಿ ಅಂಕಿಅಂಶಗಳು ಹಿಂದಿನ ಮತ್ತು ಇಂದಿನ ಬ್ಯಾಟರಿ ಮಾಹಿತಿಯನ್ನು ಮತ್ತು ವಿದ್ಯುಚ್ಛಕ್ತಿಯನ್ನು ಬಳಸಲು ಎಚ್ಚರಗೊಳ್ಳುವ ಪ್ರೊಗ್ರಾಮ್‌ಗಳನ್ನು ತೋರಿಸಬಲ್ಲದು.</p>
+    <p>ನಿಮ್ಮ ಲ್ಯಾಪ್‌ಟಾಪ್ ಬ್ಯಾಟರಿಯಲ್ಲಿ ತೊಂದರೆ ಇದ್ದರೆ, ಅಥವ ಯಾವ ಪ್ರೊಗ್ರಾಮ್‌ಗಳು ಗಮನಾರ್ಹ ಪ್ರಮಾಣಗಳಲ್ಲಿ ವಿದ್ಯುಚ್ಛಕ್ತಿಯನ್ನು ಬಳಸುತ್ತಿವೆ ಎಂದು ತಿಳಿಯಲು ಬಯಸುತ್ತಿದ್ದಲ್ಲಿ ಮಾತ್ರ ಇದನ್ನು ಅನುಸ್ಥಾಪಿಸುವ ಅಗತ್ಯಬೀಳಬಹುದು.</p>
+  </description>
+  <description lang="lt">
+    <p>Energijos vartojimo statistika gali parodyti istorinę ir dabartinę baterijos informaciją bei energiją naudojančias programas.</p>
+    <p>Jums reikia šios programos tik jei turite problemų su savo nešiojamo kompiuterio baterija arba bandote išsiaiškinti, kurios programos suvartoja reikšmingą kiekį energijos.</p>
+  </description>
+  <description lang="lv">
+    <p>Barošanas statistika var parādīt vēsturisko un pašreizējo baterijas informāciju un programmas, kas izraisa enerģijas patēriņu.</p>
+    <p>Visdrīzāk šo lietotni vajadzētu instalēt tad, ja jums ir problēmas ar klēpjdatora bateriju, vai arī mēģināt noskaidrot, kuras lietotnes izmanto būtisku baterijas daudzumu.</p>
+  </description>
+  <description lang="mr">
+    <p>पावर आकडेवारी ऐतिहासीक आणि वर्तमान बॅटरिची माहिती आणि पावरचा वापर करून सक्रीय होणारे प्रोग्राम दाखवते.</p>
+    <p>लॅपटॉप बॅटरिसह काही अडचणी असल्यास, किंवा लक्षणीय प्रमाणात पावरचा वापर करणारे प्रोग्राम्स कोणते, याची माहिती पाहिजे असल्यावरच तुम्हाला हे ॲप्लिकेशन इंस्टॉल करावे लागेल.</p>
+  </description>
+  <description lang="nl">
+    <p>Spanningsstatistieken kan historische en huidige batterij-informatie weergeven, evenals programma’s die deze energie verbruiken.</p>
+    <p>U hoeft deze toepassing waarschijnlijk enkel te installeren als u problemen ondervindt met de batterij van uw laptop, of probeert na te gaan welke programma’s grote hoeveelheden energie verbruiken.</p>
+  </description>
+  <description lang="or">
+    <p>ବିଦ୍ଯୁତ ପରିସଂଖ୍ଯାନ ପୁରୁଣା ଏବଂ ପ୍ରଚଳିତ ବ୍ୟାଟେରୀ ସୂଚନା ଦର୍ଶାଇଥାଏ ଏବଂ ବିଦ୍ୟୁତ ଶକ୍ତି ଉପଯୋଗ କରୁଥିବା ପ୍ରଗ୍ରାମଗୁଡ଼ିକୁ ଜାଗ୍ରତ କରିଥାଏ।</p>
+    <p>ଆପଣଙ୍କୁ ହୁଏତଃ କେବଳ ଏହି ପ୍ରୟୋଗକୁ ସ୍ଥାପନ କରିବା ଆବଶ୍ୟକ ହୋଇପାରେ ଯଦି ଆପଣଙ୍କଲ୍ୟାପଟପ୍‌ ବ୍ୟାଟେରୀରେ ସମସ୍ୟା ଅଛି, ଅଥବା ଯଦି ଆପଣ ଜାଣିବାକୁ ଚାହୁଁଛନ୍ତି କେଉଁ ପ୍ରଗ୍ରାମ ଅଧିକ ବିଦ୍ୟୁତ ଶକ୍ତି ଉପଯୋଗ କରୁଅଛି।</p>
+  </description>
+  <description lang="pl">
+    <p>Statystyki zasilania wyświetlają przeszłe i bieżące informacje o akumulatorze i programach go zużywających.</p>
+    <p>Ten program jest zwykle przydatny tylko, jeśli występują programy z akumulatorem laptopa i trzeba sprawdzić, które programy go zużywają.</p>
+  </description>
+  <description lang="pt">
+    <p>As estatísticas de energia podem mostrar informação da bateria, tanto histórica como atual e os programas que usam essa energia.</p>
+    <p>Provavelmente só precisa de instalar esta aplicação set tem problemas com a bateria do seu portátil ou está a tentar perceber quais os programas que usam uma quantidade significativa de energia.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>As estatísticas de energia podem mostrar informações e o histórico da bateria atual, além de programas que usam energia para serem ativados.</p>
+    <p>Você somente precisa instalar este aplicativo se você estiver enfrentando problemas com a bateria de seu computador portátil ou esteja tentando averiguar quais programas estão usando porções significativas de energia.</p>
+  </description>
+  <description lang="ru">
+    <p>Статистика энергопотребления служит для отображения истории энергопотребления, текущей информации о батарее и программах, которые пробуждают процессор, потребляя больше энергии.</p>
+    <p>Данная программа нужна только если у вас возникли проблемы с батареей вашего ноутбука, или вы пытаетесь выявить программы, которые потребляют значительные объемы энергии.</p>
+  </description>
+  <description lang="sk">
+    <p>Štatistika napájania dokáže zobraziť historické a aktuálne informácie o batérii a prebúdzaných programoch, ktoré spotrebovávajú energiu.</p>
+    <p>Túto aplikáciu budete pravdepodobne potrebovať inštalovať iba keď máte problémy s batériou vášho notebooku, alebo keď sa pokúšate zistiť, ktoré programy využívajú nadmerné množstvo energie.</p>
+  </description>
+  <description lang="sl">
+    <p>Statistika porabe lahko prikaže pretekle in trenutne podatke o stanju baterije in programih, ki porabljajo energijo.</p>
+    <p>Najbrž je treba le namestiti ta program, če imate težave z baterijo svojega prenosnika ali če skušate ugotoviti, kateri programi porabljajo občutno količino energije.</p>
+  </description>
+  <description lang="sr">
+    <p>Дијаграм напајања може да прикаже историјске и тренутне податке о батерији и буђењу програма који користе напајање.</p>
+    <p>Вероватно треба да инсталирате само овај програм ако имате проблема са батеријом вашег преносног рачунара, или ако покушавате да сазнате који програми користе превише ел. енергије.</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Dijagram napajanja može da prikaže istorijske i trenutne podatke o bateriji i buđenju programa koji koriste napajanje.</p>
+    <p>Verovatno treba da instalirate samo ovaj program ako imate problema sa baterijom vašeg prenosnog računara, ili ako pokušavate da saznate koji programi koriste previše el. energije.</p>
+  </description>
+  <description lang="sv">
+    <p>Strömstatistik kan visa historisk och aktuell batteriinformation samt vaknande program som använder ström.</p>
+    <p>Du behöver troligen bara installera detta program om du har problem med batteriet på din bärbara dator, eller om du försöker räkna ut vilka program som använder stora mängder ström.</p>
+  </description>
+  <description lang="ta">
+    <p>மின்சார புள்ளிவிவரங்களில் நீங்கள் மின்கலம் மற்றும் மின்சக்தியைப் பயன்படுத்தும் பயன்பாடுகள் பற்றிய நடப்பு மற்றும் கடந்தகால விவரங்களைக் காணலாம்.</p>
+    <p>உங்கள் மடிக்கணினி மின்கலத்தில் ஏதேனும் சிக்கல்கள் இருப்பதாக நீங்கள் நினைத்தால் மட்டுமே இந்தப் பயன்பாட்டை நிறுவ வேண்டி இருக்கும். அல்லது எந்தெந்தப் பயன்பாடுகள் அதிக மின் சக்தியை செலவழிக்கின்றன என்பதைக் கண்டறிய விரும்பினால் நிறுவலாம்.</p>
+  </description>
+  <description lang="te">
+    <p>విద్యుత్ గణాంకాలు అనునవి చారిత్రక మరియు ప్రస్తుత బ్యాటరీ సమాచరంను మరియు విద్యుత్ ఉపయోగించుటకు మేల్కొను ప్రోగ్రామ్లను చూపును.</p>
+    <p>మీ లాప్‌టాప్ బ్యాటరీతో సమస్యలు ఉన్నా లేక ఏ ప్రోగ్రామ్స్ ఎక్కువ మొత్తంలో విద్యుత్ ఉపయోగిస్తున్నాయో తెలుసుకోవాలన్నా మీకు బహుశా ఈ అనువర్తనం సంస్థాపించవలసి ఉంటుంది.</p>
+  </description>
+  <description lang="tr">
+    <p>Güç İstatistikleri, geçmiş ve mevcut pil bilgilerini ve uyandığında güç harcayan programları gösterebilir.</p>
+    <p>Muhtemelen, bu uygulamayı sadece eğer dizüstü pilinizle sorun yaşıyorsanız ya da hangi programların önemli miktarda enerji harcadığını belirlemek istiyorsanız kurmanız gerekir.</p>
+  </description>
+  <description lang="vi">
+    <p>Thống kê năng lượng có thể hiển thị thông tin pin hiện nay cũng như trong quá khứ và những chương trình đã dùng năng lượng điện đó.</p>
+    <p>Bạn chắc chắn chỉ cần cài ứng dụng này nếu bạn đang có trục trặc với pin máy tính xách tay, hoặc bạn đang thử xem chương trình nào tiêu thụ nhiều năng lượng.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>电量统计可以显示历史和当前电池状态以及唤醒并耗电的程序。</p>
+    <p>一般只有在笔记本电池有问题或者需要调查哪些软件使用了大量电能的时候才需要安装此软件。</p>
+  </description>
+  <description lang="zh_HK">
+    <p>電源統計可以顯示電池的歷史資訊與目前資訊，以及喚醒之程式所使用的電量。</p>
+    <p>你可能只有在遇到筆電電池問題時，或是想嘗試瞭解哪些程式消耗最多電源之時，才需要安裝此應用程式。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>電源統計可以顯示電池的歷史資訊與目前資訊，以及喚醒之程式所使用的電量。</p>
+    <p>您可能只有在遇到筆電電池問題時，或是想嘗試瞭解哪些程式消耗最多電源之時，才需要安裝此應用程式。</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://git.gnome.org/browse/gnome-power-manager/plain/data/appdata/gpm-stats-history.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://git.gnome.org/browse/gnome-power-manager/plain/data/appdata/gpm-stats-wakeups.png</image>
+    </screenshot>
+  </screenshots>
+  <!--
+   Validate with `appstream-util validate *.appdata.xml`
+  -->
+  <releases>
+    <release date="2019-03-08" version="3.32.0">
+      <description>
+        <p>
+          This is the first stable release for GNOME 3.32 which updates several
+          translations and fixes some build issues.
+        </p>
+      </description>
+    </release>
+    <release date="2018-09-04" version="3.30.0">
+      <description>
+        <p>
+          This is the first stable release for GNOME 3.30 which updates several
+          translations.
+        </p>
+      </description>
+    </release>
+    <release version="3.26.0" date="2018-01-31">
+      <description>
+        <p>This is the first stable release for GNOME 3.24.</p>
+      </description>
+    </release>
+    <release version="3.25.90" date="2017-08-07">
+      <description>
+        <p>
+          This unstable release switches to the meson build-system and updates
+          several translations.
+        </p>
+      </description>
+    </release>
+    <release date="2017-03-20" version="3.24.0">
+      <description>
+        <p>This is the first stable release for GNOME 3.24.</p>
+      </description>
+    </release>
+    <release date="2017-03-11" version="3.23.92">
+      <description>
+        <p>
+          This unstable release updates several translations.
+        </p>
+      </description>
+    </release>
+    <release date="2017-02-13" version="3.23.90">
+      <description>
+        <p>
+          This unstable release ports away form intltool and updates several
+          translations.
+        </p>
+      </description>
+    </release>
+    <release date="2016-11-07" version="3.22.2">
+      <description>
+        <p>
+          This release updates translations.
+        </p>
+      </description>
+    </release>
+    <release date="2016-10-12" version="3.22.1">
+      <description>
+        <p>
+          This release updates translations.
+        </p>
+      </description>
+    </release>
+    <release version="3.22.0" date="2016-09-19">
+      <description>
+        <p>
+          This is the first stable release for GNOME 3.22 and updates several
+          translations.
+        </p>
+      </description>
+    </release>
+    <release date="2016-09-13" version="3.21.92">
+      <description>
+        <p>
+          This unstable release updates several translations.
+        </p>
+      </description>
+    </release>
+    <release date="2016-08-29" version="3.21.91">
+      <description>
+        <p>
+          This unstable release fixes some files for flatpak support and
+          updates several translations.
+        </p>
+      </description>
+    </release>
+    <release date="2016-03-21" version="3.20.0">
+      <description>
+        <p>This is the first stable release for GNOME 3.20</p>
+      </description>
+    </release>
+    <release date="2016-02-15" version="3.19.90">
+      <description>
+        <p>
+          This unstable release fixes some software center metadata and
+          updates three translations.
+        </p>
+      </description>
+    </release>
+    <release timestamp="1442827658" version="3.18.0">
+      <description>
+        <p>This is the first stable release for GNOME 3.18</p>
+      </description>
+    </release>
+    <release version="3.17.90" timestamp="1439988801">
+      <description>
+        <p>
+          This unstable release provides a symbolic variant of the app icon and
+          updates translations.
+        </p>
+      </description>
+    </release>
+    <release timestamp="1427103917" version="3.16.0">
+      <description>
+        <p>This stable release marks the release of GNOME 3.16!</p>
+      </description>
+    </release>
+    <release version="3.15.92" timestamp="1426498834">
+      <description>
+        <p>This release only updates translations.</p>
+      </description>
+    </release>
+    <release timestamp="1425299116" version="3.15.91">
+      <description>
+        <p>This release only updates translations.</p>
+      </description>
+    </release>
+    <release version="3.15.90" timestamp="1390089600">
+      <description>
+        <p>This release updates the header style to match other GNOME applications.</p>
+      </description>
+    </release>
+  </releases>
+  <provides>
+    <id>gnome-power-statistics.desktop</id>
+  </provides>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>HighContrast</kudo>
+    <kudo>ModernToolkit</kudo>
+  </kudos>
+  <url type="homepage">http://www.gnome.org/projects/gnome-power-manager/</url>
+  <url type="bugtracker">https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-power-manager</url>
+  <url type="donation">http://www.gnome.org/friends/</url>
+  <update_contact>richard_at_hughsie.com</update_contact>
+  <project_group>GNOME</project_group>
+  <translation type="gettext">gnome-power-manager</translation>
+</component>

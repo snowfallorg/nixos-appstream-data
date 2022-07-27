@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>gnome.gnome-klotski</pkgname>
+  <icon type="cached" width="64" height="64">org.gnome.Klotski.png</icon>
+  <icon width="128" height="128" type="cached">org.gnome.Klotski.png</icon>
+  <id>org.gnome.Klotski</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>GNOME Klotski</name>
+  <name lang="zh_TW">GNOME 華容道</name>
+  <name lang="zh_HK">GNOME 華容道</name>
+  <name lang="zh_CN">GNOME 华容道</name>
+  <name lang="uk">Кльоцки GNOME</name>
+  <name lang="tr">GNOME Klotski</name>
+  <name lang="sv">GNOME Klotski</name>
+  <name lang="sr@latin">Gnom Klotski</name>
+  <name lang="sr">Гном Клотски</name>
+  <name lang="sl">GNOME Klotski</name>
+  <name lang="sk">Klotski GNOME</name>
+  <name lang="ru">Клоцки GNOME</name>
+  <name lang="ro">Klotski GNOME</name>
+  <name lang="pt_BR">GNOME Klotski</name>
+  <name lang="pt">GNOME Klotski</name>
+  <name lang="pl">Klocki GNOME</name>
+  <name lang="oc">GNOME Klotski</name>
+  <name lang="nl">Gnome Klotski</name>
+  <name lang="nb">GNOME Klotski</name>
+  <name lang="ms">Klotski GNOME</name>
+  <name lang="lv">GNOME Klotski</name>
+  <name lang="lt">GNOME Klotski</name>
+  <name lang="ko">그놈 클로츠키</name>
+  <name lang="kk">GNOME Klotski</name>
+  <name lang="ja">GNOME Klotski</name>
+  <name lang="it">GNOME Klotski</name>
+  <name lang="id">GNOME Klotski</name>
+  <name lang="hu">GNOME Klotski</name>
+  <name lang="hr">GNOME Klotski</name>
+  <name lang="he">בלוקים Klotski GNOME</name>
+  <name lang="gl">Klotski de GNOME</name>
+  <name lang="fur">GNOME Klotski</name>
+  <name lang="fr">Klotski de GNOME</name>
+  <name lang="fi">Gnomen Klotski</name>
+  <name lang="fa">گنوم کی‌لاتسکی</name>
+  <name lang="eu">GNOME Klotski</name>
+  <name lang="es">GNOME Klotski</name>
+  <name lang="eo">GNOME Klotski</name>
+  <name lang="en_GB">GNOME Klotski</name>
+  <name lang="el">GNOME Κλότσκι</name>
+  <name lang="de">GNOME Klotski</name>
+  <name lang="da">GNOME Klotski</name>
+  <name lang="cs">Klotski GNOME</name>
+  <name lang="ca@valencia">GNOME Klotski</name>
+  <name lang="ca">GNOME Klotski</name>
+  <name lang="bs">GNOME Klotski</name>
+  <name lang="bg">Клоцки</name>
+  <name lang="be">Кубікі GNOME</name>
+  <name lang="as">GNOME Klotski</name>
+  <summary>Slide blocks to solve the puzzle</summary>
+  <summary lang="zh_TW">移動方塊解開圍困的方塊遊戲</summary>
+  <summary lang="zh_HK">移動方塊解開圍困的方塊遊戲</summary>
+  <summary lang="zh_CN">滑动方块以解开布局</summary>
+  <summary lang="vi">Trượt khối để giải hình ghép</summary>
+  <summary lang="uk">Ковзати блоки для вирішення головоломки</summary>
+  <summary lang="ug">تېپىشماقنى تېپىش ئۈچۈن بۆلەكنى سىيرىڭ</summary>
+  <summary lang="tr">Yapbozu çözmek için blokları kaydır</summary>
+  <summary lang="th">เลื่อนกล่องเพื่อไขปริศนา</summary>
+  <summary lang="te">ఫజిల్‌ను పరిష్కరించుటకు బ్లాక్‌లను జరుపుము</summary>
+  <summary lang="ta">மரத் துண்டுகளை சறுக்கி புதிருக்கு விடை காண்</summary>
+  <summary lang="sv">Flytta på klossar för att lösa pusslet</summary>
+  <summary lang="sr@latin">Gurajte blokove da rešite slagalicu</summary>
+  <summary lang="sr">Гурајте блокове да решите слагалицу</summary>
+  <summary lang="sl">Z drsenjem ploščic reši sestavljanko</summary>
+  <summary lang="sk">Posúvaním blokov vyriešte hlavolam</summary>
+  <summary lang="ru">Сдвиньте блоки, чтобы решить головоломку</summary>
+  <summary lang="ro">Glisați blocurile pentru a rezolva jocul</summary>
+  <summary lang="pt_BR">Deslize os blocos para resolver o quebra-cabeça</summary>
+  <summary lang="pt">Deslize blocos para resolver o jogo</summary>
+  <summary lang="pl">Przesuń klocki, aby rozwiązać układankę</summary>
+  <summary lang="pa">ਬੁਝਾਰਤ ਹੱਲ ਕਰਨ ਲਈ ਸਲਾਇਡ ਬਲਾਕ</summary>
+  <summary lang="or">ଗୋଲକଧନ୍ଦାକୁ ସମାଧାନ କରିବା ପାଇଁ ବର୍ଗଗୁଡିକୁ ଘୁଞ୍ଚାଅ</summary>
+  <summary lang="oc">Lisar de blòts per resòlvre un puzzle</summary>
+  <summary lang="nn">Flytt på blokkane for å løysa puslespelet</summary>
+  <summary lang="nl">Verschuif blokken om de puzzel op te lossen</summary>
+  <summary lang="ne">पजल समाधान गर्ने स्लाइड खण्ड</summary>
+  <summary lang="nb">Flytt på blokkene for å løse puslespillet</summary>
+  <summary lang="ms">Tolak blok-blok untuk menyelesaikan teka-teki</summary>
+  <summary lang="mr">कोडं सोडवण्याकरीता ठोकळे घसरवा</summary>
+  <summary lang="ml">കളി പൂര്‍ത്തിയാക്കാന്‍ കട്ടകള്‍ നീക്കുക</summary>
+  <summary lang="mk">Лизгајте ги блоковите за да ја сложите сложувалката</summary>
+  <summary lang="mai">पहेली समाधान क'लेल ब्लॉक घसकाबू</summary>
+  <summary lang="lv">Slidiniet klucīšus, lai atrisinātu mīklu</summary>
+  <summary lang="lt">Stumkite blokus norėdami išspręsti galvosūkį</summary>
+  <summary lang="ko">블록을 밀어서 퍼즐을 풉니다</summary>
+  <summary lang="kn">ಸಮಸ್ಯೆಯನ್ನು ಬಿಡಿಸಲು ಇಟ್ಟಿಗೆಗಳನ್ನು ಜಾರಿಸಿ</summary>
+  <summary lang="km">ប្លុកស្លាយត្រូវដោះស្រាយផ្គុំរូប</summary>
+  <summary lang="kk">Жұмбақты шешу үшін блоктарды жылжытыңыз</summary>
+  <summary lang="ja">ブロックをずらしながらパズルを解いてください</summary>
+  <summary lang="it">Sposta i blocchi per risolvere il rompicapo</summary>
+  <summary lang="id">Geser blok untuk menyelesaikan teka-teki</summary>
+  <summary lang="hu">Csúsztassa el az elemeket a fejtörő megoldásához</summary>
+  <summary lang="hr">Pomičite blokove kako bi riješili slagalicu</summary>
+  <summary lang="hi">पज़ल समाधान के लिये ब्लॉक खिसकायें</summary>
+  <summary lang="he">יש להחליק בלוקים כדי לפתור את התצרף</summary>
+  <summary lang="gu">કોયડો ઉકેલવા માટે બ્લોક સરકાવો</summary>
+  <summary lang="gl">Desprace os bloques para resolver o quebracabezas</summary>
+  <summary lang="fur">Sposte i blocs par risolvi il berdei</summary>
+  <summary lang="fr">Glisser des blocs pour résoudre un casse-tête</summary>
+  <summary lang="fi">Ratkaise pulmat siirtämällä palikoita</summary>
+  <summary lang="fa">بلوک‌ها را بلغزانید تا پازل را حل کنید</summary>
+  <summary lang="eu">Arrastatu blokeak buru-hausgarria ebazteko</summary>
+  <summary lang="et">Kivirahnude liigutamisega lahendatav mõistatus</summary>
+  <summary lang="es">Deslice los bloques para resolver el puzle</summary>
+  <summary lang="eo">Glitigi blokojn por solvi la puzlon</summary>
+  <summary lang="en@shaw">𐑕𐑤𐑲𐑛 𐑚𐑤𐑪𐑒𐑕 𐑑 𐑕𐑪𐑤𐑝 𐑞 𐑐𐑳𐑟𐑩𐑤</summary>
+  <summary lang="en_GB">Slide blocks to solve the puzzle</summary>
+  <summary lang="en_CA">Slide blocks to solve the puzzle</summary>
+  <summary lang="el">Μετακινήστε τα κομμάτια για να λύσετε τον γρίφο</summary>
+  <summary lang="dz">སྒྲིག་རྩེད་བསྒྲིག་ནི་ལུ་ ལེབ་དུམ་ཚུ་བཤུད།</summary>
+  <summary lang="de">Verschieben Sie Blöcke, um das Puzzle zu lösen</summary>
+  <summary lang="da">Flyt blokkene for at løse opgaven</summary>
+  <summary lang="cy">Llithro'r blociau i ddatrys y pos</summary>
+  <summary lang="cs">Vyřešte hlavolam posouváním kamenů</summary>
+  <summary lang="ca@valencia">Moveu els blocs per resoldre el trencaclosques</summary>
+  <summary lang="ca">Moveu els blocs per resoldre el trencaclosques</summary>
+  <summary lang="bs">Guraj blokove da bi riješio slagalicu</summary>
+  <summary lang="bn">পাজল সমাধান করতে স্লাইড ব্লক</summary>
+  <summary lang="bg">Главоблъсканицата се решава чрез плъзгане на блоковете</summary>
+  <summary lang="be">Перасоўвайце блокі, каб вырашыць галаваломку</summary>
+  <summary lang="ast">Arrastra los bloques pa resolver el puzzle</summary>
+  <summary lang="as">সাঁথৰ সমাধান কৰিবলে স্লাইড খণ্ডসমূহ</summary>
+  <summary lang="ar">قم بإزاحة المكعبات لتحل الأحجية</summary>
+  <summary lang="af">Gly blokke om die raaisel op te los</summary>
+  <description>
+    <p>
+      GNOME Klotski is a set of block sliding puzzles. The objective is to move the
+      patterned block to the area bordered by green markers. To do so, you’ll need
+      to slide other blocks out of the way. Complete each puzzle in as few moves as
+      possible!
+    </p>
+    <p>
+      GNOME Klotski comes with nearly thirty different puzzle layouts of varying
+      difficulty. Some of the layouts are similar and only the size of one or more
+      blocks differ. Other layouts have more variety.
+    </p>
+  </description>
+  <description lang="as">
+    <p>GNOME Klotski ত ভিন্ন সমস্যা স্তৰৰ সৈতে প্ৰায় ত্ৰিশটা ভিন্ন সাঁথৰ বিন্যাস আছে। কিছুমান বিন্যাস একে হয় আৰু কেৱল এটা অথবা অধিক খণ্ডৰ আকাৰ ভিন্ন হয়। অন্য বিন্যাসসমূহ অধিক প্ৰকাৰ আছে।</p>
+  </description>
+  <description lang="be">
+    <p>Кубікі GNOME, калекцыя галаваломак, звязаных з перасоўваннем кубікаў. Задача гульні - ссунуць патрэбны кубік у абшар з зялёнымі пазнакамі. Дзеля гэтага вам прыйдзецца пасоўваць іншыя кубікі, каб вызваліць дарогу. Пастарайцеся вырашыць галаваломку за як мага меншую колькасць хадоў!</p>
+    <p>Кубікі GNOME маюць каля трыццаці выкладаў галаваломак рознай цяжкасці. Некаторыя выклады падобныя і адрозніваюцца толькі памерам некаторых кубікаў. Іншыя выклады больш разнастайныя.</p>
+  </description>
+  <description lang="bg">
+    <p>„Клоцки“ е набор от главоблъсканици с плъзгащи се плочки. Целта е да преместите различната плочка на мястото обозначено със зелено. Ще трябва да местите другите плочки, за да не пречат. Завършете всяка от загадките с минимален брой ходове.</p>
+    <p>В „Клоцки“ има тридесетина различни главоблъсканици с различна трудност. Някои от вариантите си приличат — разликата може да е само размерът на някое от блокчетата. Други от вариантите са по-различни.</p>
+  </description>
+  <description lang="bs">
+    <p>GNOME Klotski je skup blokova puzli (zagonetki) koji se mogu klizati.Cilj je da se premjestiti  blok sa uzorkom na području omeđenom zelenim oznakama. Da biste to učinili, morat ćete pomaći druge blokove s puta. Kompletiraj svaku zagonetku u što je manje poteza moguće!</p>
+    <p>GNOME Klotski dolazi s gotovo trideset različitih izgleda zagonetki različitih poteškoća. Neki od izgleda zagonetki su slični, a samo veličina jednog ili više blokova se razlikuju. Ostali izgledi imaju više raznolikosti.</p>
+  </description>
+  <description lang="ca">
+    <p>El GNOME Klotski és un conjunt de trencaclosques de moure blocs. L'objectiu és moure el bloc amb un patró a l'àrea delimitada pels punts verds. Per aconseguir-ho heu de fer que els altres blocs deixin pas. Completeu cada trencaclosques amb el menor nombre de moviments possible!</p>
+    <p>El GNOME Klotski conté una trentena de disposicions de trencaclosques diferents de diversa dificultat. Algunes disposicions són semblants i només canvia la mida d'algun bloc. Altres disposicions són més variades.</p>
+  </description>
+  <description lang="ca@valencia">
+    <p>El GNOME Klotski és un conjunt de trencaclosques de moure blocs. L'objectiu és moure el bloc amb un patró a l'àrea delimitada pels punts verds. Per aconseguir-ho heu de fer que els altres blocs deixin pas. Completeu cada trencaclosques amb el menor nombre de moviments possible!</p>
+    <p>El GNOME Klotski conté una trentena de disposicions de trencaclosques diferents de diversa dificultat. Algunes disposicions són semblants i només canvia la mida d'algun bloc. Altres disposicions són més variades.</p>
+  </description>
+  <description lang="cs">
+    <p>Klotski GNOME je sada hlavolamů založených na přesouvání bloků. Cílem je přesunout vzorovaný blok ma místo vyznačené zelenými značkami. Aby to šlo, musíte mu z cesty odsunout ostatní bloky. Všech hlavolamy mají možné řešení v několika tazích.</p>
+    <p>Klotski GNOME je šířen s téměř třiceti různými hlavolamy s různým stupněm obtížnosti. Některé sestavy se podobají a liší se jen velikostí jednoho nebo více bloků, jiné sestavy jsou zcela odlišné.</p>
+  </description>
+  <description lang="da">
+    <p>GNOME Klotski er et tænkespil, hvor man flytter blokke. Målet er at flytte blokken med mønsteret til området med de grønne markører. For at kunne gøre det, skal du flytte andre blokke af vejen. Gennemfør hver opgave med så få træk som muligt!</p>
+    <p>GNOME Klotski indeholder næsten tredive forskellige opgaver af varierende sværhedsgrad. Nogle minder meget om hinanden, idet kun størrelsen af en eller flere blokke varierer. Andre har større variation.</p>
+  </description>
+  <description lang="de">
+    <p>GNOME Klotski ist eine Zusammenstellung von Blockschiebe-Puzzles. Das Ziel ist es, den Block mit dem Muster zum grün markierten Bereich zu bringen. Dafür müssen andere Blöcke aus dem Weg geschafft werden. Versuchen Sie jedes Puzzle mit so wenig wie möglich Zügen zu beenden!</p>
+    <p>Klotski enthält nahezu 30 verschiedene Puzzle-Anordnungen unterschiedlicher Schwierigkeitsgrade. Einige davon sind ähnlich und nur die Größe eines oder mehrerer Blöcke variiert. Andere unterscheiden sich deutlicher.</p>
+  </description>
+  <description lang="el">
+    <p>Το GNOME Κλότσκι είναι ένα σύνολο από κινητά κομμάτια. Ο σκοπός είναι η μετακίνηση της ομάδας με το μοτίβο στην περιοχή που συνορεύει με τους πράσινους σημειωτές. Για να γίνει αυτό, θα χρειαστείτε να μετακινήσετε άλλα κομμάτια έξω από τον δρόμο. Συμπληρώστε κάθε γρίφο με όσες πιο λίγες μετακινήσεις μπορείτε!</p>
+    <p>Το GNOME Κλότσκι έρχεται με σχεδόν τριάντα διαφορετικές διατάξεις γρίφου ποικίλης δυσκολίας. Μερικές από τις διατάξεις είναι παρόμοιες και μόνο το μέγεθος ενός ή περισσότερων κομματιών διαφέρει. Άλλες διατάξεις έχουν περισσότερη ποικιλία.</p>
+  </description>
+  <description lang="en_GB">
+    <p>GNOME Klotski is a set of block sliding puzzles. The objective is to move the patterned block to the area bordered by green markers. To do so, you’ll need to slide other blocks out of the way. Complete each puzzle in as few moves as possible!</p>
+    <p>GNOME Klotski comes with nearly thirty different puzzle layouts of varying difficulty. Some of the layouts are similar and only the size of one or more blocks differ. Other layouts have more variety.</p>
+  </description>
+  <description lang="eo">
+    <p>GNOME Klotski estas puzloj de glitigantaj blokoj. La celo estas movi la ĉefan strukturon al la verdaj markoj. Por fari tion, vi devos glitigi la aliajn blokojn el la vojo. Kompletu ĉiujn puzlojn per minimumaj movoj!</p>
+    <p>GNOME Klotski enhavas ĉirkaŭ 30 malsamajn ŝablonojn de diversaj malfacilecoj. Kelkaj ŝablonoj multe similas unu la alian, nur grandeco de unu aŭ pli blokoj malsamas. Aliaj ŝablonoj pli varias.</p>
+  </description>
+  <description lang="es">
+    <p>GNOME Klotski es un conjunto de puzles de bloques deslizantes. El objetivo es mover el bloque con dibujos al área con marcas verdes en el borde. Para hacerlo, deberá apartar los otros bloques. Complete cada puzle con el menor número de movimientos posible.</p>
+    <p>GNOME Klotski incluye cerca de treinta distribuciones del puzle diferentes, de dificultad variable. Algunas de las distribuciones son similares y sólo cambia el tamaño de uno o más bloques. Otras distribuciones tienen más variedad.</p>
+  </description>
+  <description lang="eu">
+    <p>GNOME Klotski blokeak korritzeko puzzle multzo bat da. Markak dituen blokea berde koloreko markatzaileak dauden lekura eramatea da helburua. Hori lortzeko beste blokeak trabatik kendu beharko dituzu. Osatu puzzle bakoitza ahalik eta mugimendu gutxienekin.</p>
+    <p>GNOME Klotski hogeita hamar diseinu eta zailtasun desberdineko puzzle inguru ditu. Diseinu batzuk antzekoak dira eta bloke baten edo gehiagoren tamainak aldatzen dira. Beste diseinu batzuk aldaera gehiago dituzte.</p>
+  </description>
+  <description lang="fa">
+    <p>«گنوم کی‌لاتسکی» یک مجموعه از پازلِ بلوک‌های لغزنده است. هدف این است که الگوی بلوکه‌ها را به ناحیه مشخص شده سبز منتقل کرد. برای اینکار، شما باید بلوک‌های دیگر را از سر راه بردارید. هر پازل را در کمترین حرکت ممکن حل کنید!</p>
+    <p>«گنوم کی‌لاتسکی» با نزدیک به ۳۰ چیدمان با سختی متفاوت ارائه شده است. بعضی از چیدمان‌ها مشابه هستند و فقط اندازه یک یا چند بلوک آن متفاوت است. بقیه چیدمان‌ها انواع بیشتری دارند.</p>
+  </description>
+  <description lang="fi">
+    <p>Klotski on kokoelma pulmia, jotka koostuvat liikuteltavista palikoista. Tavoite on siirtää kuvioitu palikka vihreillä palikoilla merkityille alueelle. Onnistuaksesi sinun tulee siirtää muut palikat pois tieltä. Selvitä jokainen pulma mahdollisimman vähällä määrällä siirtoja!</p>
+    <p>Gnomen Klotski sisältää lähes 30 vaikeustasoiltaan ja asetteleluiltaan erilaista pulmaa.</p>
+  </description>
+  <description lang="fr">
+    <p>Klotski de GNOME est un ensemble de casse-têtes de blocs coulissants. Le but est de déplacer le carré à motifs sur l’espace entouré de marques vertes. Pour ce faire, vous devrez déplacer les autres blocs hors du chemin. Finissez chaque casse-tête en aussi peu de coups que possible !</p>
+    <p>Klotski de GNOME propose une trentaine de dispositions initiales différentes et de difficulté variée. Certaines dispositions sont similaires et seuls un ou deux blocs diffèrent. D’autres sont plus variées.</p>
+  </description>
+  <description lang="fur">
+    <p>GNOME Klotski al è un complès di berdeis cun blocs che a scorin. L'obietîf dal zûc al è chel di spostâ i blocs viers la aree delimitade dai ôrs verts: par fa chest tu âs di fâ scori vie altris blocs. Finìs i berdeis tal minôr numar di mossis!</p>
+    <p>GNOME Klotski al dispon di cirche 30 diviers berdeis di diviersis dificoltâts. Cualchi berdei al pues jessi simil e variâ te dimension di un o cualchi bloc, altris a puedin jessi diviers dal dut.</p>
+  </description>
+  <description lang="gl">
+    <p>Klotski de GNOME é un conxunto de quebracabezas de bloques deslizantes. O obectivo é mover un bloque con patrón a un área con rodeada por marcadores verdes. Para facelo, debe deslizar outros bloques fóra do camiño. Complete cada quebracabezas nos menores movementos posíbeis!</p>
+    <p>Klotski de GNOMEO conta con preto de trinta disposicións de quebracabezas diferentes que varían na dificultade. Algunhas disposicións son similares e só o tamaño dun dos bloques pode cambiar. As outras disposicións teñen máis variedade.</p>
+  </description>
+  <description lang="he">
+    <p>‏GNOME בלוקים Klotski הוא אוסף של תצרפי הזזת בלוקים. המטרה היא להזיז את הבלוק המיועד לאזור הגובל בסמנים הירוקים. על מנת לעשות זאת, עליך להזיז בלוקים אחרים מהדרך. יש להשלים כל תצרף במספר תזוזות קטן ככל האפשר!</p>
+    <p>‏GNOME בלוקים Klotski מגיע עם כמעט שלושים פריסות תצרפים שונים ברמות קושי שונות. כמה מהפריסות דומות אך רק הגודל של בלוק אחד או יותר שונה. לפריסות אחרות מגוון גדול יותר.</p>
+  </description>
+  <description lang="hr">
+    <p>GNOME Klotski je skup slagalica klizećih blokova. Cilj je premjestiti blok s uzorkom na područje obrubljeno zelenim oznakama. Kako biste to učinili, morat ćete skloniti druge blokove sa puta. Završite svaku slagalicu u što manje poteza!</p>
+    <p>GNOME Klotski dolazi sa blizu trideset različitih rasporeda puzli raznih razina teškoće. Neki od rasporeda su slični a razlika je u samo nekoliko blokova. Ostali rasporedi imaju više razina.</p>
+  </description>
+  <description lang="hu">
+    <p>A GNOME Klotski blokktologatós logikai játékok halmaza. A cél a mintás blokk átvitele a zöld jelölőkkel határolt területre. Ehhez a többi blokkot félre kell tolni az útból. Teljesítse az egyes feladványokat a lehető legkevesebb lépéssel!</p>
+    <p>A GNOME Klotski közel harminc különböző, eltérő nehézségű feladványt tartalmaz. Néhány feladvány hasonló, és csak egy vagy több blokk mérete különbözik. Más feladványok nagyobb változatosságot kínálnak.</p>
+  </description>
+  <description lang="id">
+    <p>GNOME Klotski adalah set teka-teki menggeser balok. Sasarannya untuk memindah balok berpola ke wilayah yang dibatasi oleh penanda hijau. Untuk melakukannya, Anda perlu menggeser balok-balok lain agar tak menghalangi. Lengkapi setiap teka-teki dengan sesedikit mungkin langkah!</p>
+    <p>GNOME Klotski datang dengan hampir tiga puluh tata letak teka-teki yang berbeda dengan tingkat kesulitan yang bervariasi. Beberapa dari tata letak mirip dan hanya ukuran dari satu balok atau lebih yang berbeda. Tata letak lain memiliki lebih banyak variasi.</p>
+  </description>
+  <description lang="it">
+    <p>GNOME Klotski è un insieme di puzzle con blocchi scorrevoli. L'obiettivo del gioco è quello di spostare i blocchi verso l'area delimitata da bordi verdi: per fare ciò devi far scorrere via altri blocchi. Completa i puzzle nel minor numero di mosse!</p>
+    <p>GNOME Klotski dispone di circa 30 diversi puzzle di diverse difficoltà. Alcuni puzzle possono essere simili e variare nella dimensione di uno o di alcuni blocchi, altri possono essere completamente diversi.</p>
+  </description>
+  <description lang="kk">
+    <p>GNOME Klotski — блокты сырғымалы жұмбақтар жиынтығы. Оның мақсаты – жасыл маркерлермен шекаралас аймаққа әшекейленген блокты көшіру. Ол үшін басқа блоктарды жолдан тыс ығыстыру қажет. Әр жұмбақты мүмкіндігінше аз жылжумен аяқтаңыз!</p>
+    <p>GNOME Klotski қиындығы әр түрлі болатын отызға жуық түрлі жұмбақ жаймалардан тұрады. Кейбір жаймалар өзара ұқсас және айырмашылығы тек бір немесе бірнеше блокта болады. Басқа жаймалар өзгеше болады.</p>
+  </description>
+  <description lang="ko">
+    <p>그놈 클로츠키는 상하좌우로 움직이는 블럭 퍼즐입니다. 목표는 모양이 그려진 블럭을 녹색 표시로 테두리가 쳐 준 영역으로 움직이는 것입니다. 그렇게 하려면 다른 블럭을 먼저 움직여서 길을 만들어야 합니다. 가능한 적게 움직여 퍼즐을 푸십시오!</p>
+    <p>그놈 클로츠키에는 여러가지 난이도의 약 30개의 퍼즐이 들어 있습니다. 비슷한 퍼즐도 있고 블럭 크기만 조금 다른 것도 있습니다. 완전히 다른 퍼즐도 있습니다.</p>
+  </description>
+  <description lang="lt">
+    <p>GNOME Klotski yra blokų stumdymo galvosūkių žaidimas. Tikslas yra perkelti paženklintą bloką į žaliai pažymėtą vietą. Tam padaryti reikės pastumti į šalį kitus blokus. Užbaikite kiekvieną galvosūkį atlikdami kiek galima mažiau ėjimų!</p>
+    <p>GNOME Klotski turi beveik trisdešimt įvairaus sudėtingumo skirtingų galvosūkių išdėstymų. Kai kurie išdėstymai yra panašūs, skiriasi tik vieno ar daugiau blokų dydis. Kiti išdėstymai yra įvairesni.</p>
+  </description>
+  <description lang="lv">
+    <p>GNOME Klotski ir bloku bīdīšanas mīklu kolekcija. Mērķis ir pārvietot rakstainos blokus uz vietu, ko iezīmē zaļie marķieri. Lai to izdarītu, tev vajadzēs slidināt citus blokus, lai tie nebūtu ceļā. Atrisini katru mīklu ar pēc iespējas mazāk gājieniem.</p>
+    <p>GNOME Klotski komplektā ir gandrīz trīsdesmit dažādu bloku izkārtojumu ar dažādu sarežģītību. Daži izkārtojumi ir līdzīgi — atšķiras tikai dažu bloku izmērs. Citiem izkārtojumiem ir lielāka dažādība.</p>
+  </description>
+  <description lang="ms">
+    <p>Klotski GNOME ialah satu set teka-teki menolak blok. Objektif adalah untuk menggerakkan blok khusus ke kawasan bersempadan hijau. Untuk membuatnya, anda perlu menolak blok keluar. Selesaikan setiap teka-teki dengan sedikit langkah yang mungkin!</p>
+    <p>Klotski GNOME disertakan hampir tiga puluh bentangan teka-teki dengan kesukaran berbeza. Sesetengah bentangan adalah serupa tetapi saiz satu atau lebih bloknya berlainan. Lain-lain bentangan adalah berbeza.</p>
+  </description>
+  <description lang="nb">
+    <p>GNOME Klotski er et sett med puslespill hvor man flytter blokker. Målet er å flytte blokken med mønster til området som har grønne markører rundt seg. For å gjøre dette må du flytte de andre blokkene ut av veien. Fullfør hvert puslespill med så få trekk som mulig!</p>
+    <p>GNOME Klotski har nesten tretti forskjellige utforminger av puslespill med varierende vanskelighet. Noen av utformingene er like og kun størrelsen av en eller flere blokker varierer. Andre utforminger har mer variasjon.</p>
+  </description>
+  <description lang="nl">
+    <p>Gnome Klotski is een verzameling van blokschuifpuzzels. Het doel is om het grote blok naar het gebied, aangegeven met groene vierkantjes, te verplaatsen. Om dit te bereiken zult u andere blokken aan de kant moeten schuiven. Voltooi elke puzzel met zo min mogelijk zetten!</p>
+    <p>Gnome Klotski wordt geleverd met bijna dertig verschillende puzzel-indelingen van verschillende moeilijkheidsgraden. Sommige indelingen lijken op elkaar en dan is alleen de grootte van één of meerdere blokken anders. Andere indelingen hebben meer variëteit.</p>
+  </description>
+  <description lang="oc">
+    <p>GNOME Klotski es un ensemble de copacaps de blòts coladisses. La tòca es de desplaçar lo carrat de motius sus l'espaci encerclat de marcas verdas. Per aquò far, vos caldrià desplaçar los autres blòts en defòra del camin. Acabatz cada copacap en autant pauc de còps que possible !</p>
+    <p>GNOME Klotski prepausa una trentenat de disposicions inicialas diferentas e de dificultat variada. Certanas disposicions son similaras e sols un o dos blòts diferisson. D'autras son mai variadas.</p>
+  </description>
+  <description lang="pl">
+    <p>Klocki GNOME to zestaw przesuwanych układanek. Celem jest przesunięcie oznaczonego klocka do obszaru między zielonymi znacznikami. Aby to zrobić, należy przesuwać inne klocki. Im mniej ruchów, tym lepiej!</p>
+    <p>Klocki GNOME zawierają prawie trzydzieści różnych układanek o różnym poziomie trudności. Niektóre układanki są podobne i różnią się tylko wielkością jednego lub więcej klocków, a inne są bardziej zróżnicowane.</p>
+  </description>
+  <description lang="pt">
+    <p>O GNOME Klotski é um conjunto de jogos de deslizar blocos. O objectivo é mover o bloco com padrões para a área delimitada por marcadores verdes. Para o fazer, precisará de deslizar os outros blocos para fora do caminho. Complete cada um dos jogos no mínimo de movimentos possível.</p>
+    <p>O GNOME Klotski vem com cerca de trinta disposições de jogos diferentes e de diferentes dificuldades. Algumas dessas disposições são semelhantes e só o tamanho de um ou mais blocos difere. Outras disposições apresentam maior variedade.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>O GNOME Klotski é um conjunto de quebra-cabeças de deslizar blocos. O objetivo é mover o bloco modelado para área delimitada por marcadores verdes. Para isso, você precisa deslizar outros blocos para fora do caminho. Complete cada quebra-cabeça no menor número possível de movimentos!</p>
+    <p>GNOME Klotski vem com cerca de trinta diferentes disposições de quebra-cabeça de diferentes graus de dificuldade. Algumas das disposições são semelhantes e apenas o tamanho de um ou mais blocos são diferentes. Outras disposições tem mais variedade.</p>
+  </description>
+  <description lang="ro">
+    <p>Klotski GNOME este un set de puzzle-uri cu bloc glisant. Obiectivul este să mutați blocul cu model în zona încadrată de marcaje verzi. Pentru a realiza acest lucru, va trebui să glisați alte blocuri din cale. Completați fiecare puzzle în cât mai puține mutări posibile!</p>
+    <p>Klotski GNOME vine cu aproape treizeci de aranjamente de puzzle diferite cu dificultate variată. Unele dintre aranjamente sunt similare și doar dimensiunea unuia sau mai multor blocuri diferă. Alte aranjamente au mai multă varietate.</p>
+  </description>
+  <description lang="ru">
+    <p>Клоцки GNOME — это набор головоломок на перемещение блоков. Цель игры — переместить блок на область с зелёными метками. Для этого необходимо убрать с пути другие блоки. На решение головоломки необходимо потратить минимальное количество ходов.</p>
+    <p>Клоцки GNOME включают в себя около тридцати различных головоломок. Некоторые головоломки похожи друг на друга, различны только некоторые блоки. Некоторые головоломки сильно отличаются от остальных.</p>
+  </description>
+  <description lang="sk">
+    <p>Klotski GNOME je druh hlavolamu s presúvaním blokov. Cieľom je presunúť označený blok do oblasti vyznačenej zelenými značkami. Preto musíte odsunúť ostatné bloky z cesty. Dokončite hlavolam čo s najmenším počtom ťahov!</p>
+    <p>Klotski GNOME ponúka takmer tridsať rôznych variácií hlavolamov rozličnej obtiažnosti. Niektoré variácie sú podobné a líšia sa len jednou alebo viacerými blokmi. Iné variácie sú rôznorodejšie.</p>
+  </description>
+  <description lang="sl">
+    <p>Igra Gnome Klotski je igra drsečih ploščic. Cilj igre je premakniti ploščico na polje, označeno z zeleno. Da je to mogoče, je treba prej vse druge ploščice umakniti. Igro je treba dokončati v čim manj potezah.</p>
+    <p>Igra Gnome Klotski podpira skoraj trideset različnih postavitev igre na različnih zahtevnostnih ravneh. Nekatere postavitve se razlikujejo le v številu blokov, druge so povsem različne.</p>
+  </description>
+  <description lang="sr">
+    <p>Гном Клотски је скуп слагалица клизајућег блока. Циљ ове игре је да преместите највећи блок у област оивичену зеленим ознакама. Да изведете ово, морате да одгурате остале блокове са пута. Завршите сваку слагалицу у што мањем броју потеза!</p>
+    <p>Гном Клотски долази са скоро тридесет другачијих распореда слагалице различитих тежина. Неки распореди су слични а разликују се само у величини једног или неколико блокова. Други распореди имају више варијетета.</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Gnom Klotski je skup slagalica klizajućeg bloka. Cilj ove igre je da premestite najveći blok u oblast oivičenu zelenim oznakama. Da izvedete ovo, morate da odgurate ostale blokove sa puta. Završite svaku slagalicu u što manjem broju poteza!</p>
+    <p>Gnom Klotski dolazi sa skoro trideset drugačijih rasporeda slagalice različitih težina. Neki rasporedi su slični a razlikuju se samo u veličini jednog ili nekoliko blokova. Drugi rasporedi imaju više varijeteta.</p>
+  </description>
+  <description lang="sv">
+    <p>GNOME Klotski är en uppsättning pussel där man flyttar på klossar. Målet är att flytta den mönstrade klossen till området som omges av gröna markörer. För att uppnå detta måste du flytta andra klossar ur vägen. Lös varje pussel på så få drag som möjligt!</p>
+    <p>GNOME Klotski innehåller nästan trettio olika pussel av varierande svårighet. Vissa av pusslen är lika varandra, där bara storleken på en eller flera klossar skiljer dem åt. Andra pussel är mer varierade.</p>
+  </description>
+  <description lang="tr">
+    <p>GNOME Klotski, yapboz oyunları takımıdır. Amaç, desenli bloğu yeşil işaretlerle sınırlandırılan bölgeye taşımaktır. Bunu yapmak için diğer blokları aradan çıkarmalısınız. Her yapbozu olabildiğince az hareketle tamamlayın!</p>
+    <p>GNOME Klotski, neredeyse otuz farklı yapboz düzeninde değişik zorluklarla birlikte gelir. Düzenlerden bazıları benzerdir ve yalnızca bir veya daha çok bloğun boyutu farklıdır. Diğer düzenlerin çeşitliliği daha çoktur.</p>
+  </description>
+  <description lang="uk">
+    <p>Кльоцки GNOME — набір розсувних головоломок. Ціль — перемістити шаблонний блок на ділянку оточену зеленими маркерами. Щоб це зробити, вам треба розсунути інші блоки в сторони. Виконайте кожну головоломку в якнайменше ходів!</p>
+    <p>Кльоцки GNOME містить біля тридцяти різних головоломок різної складності. Деякі схожі й відрізняються тільки розміром декількох блоків. Інші мають більше різноманіття.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>GNOME Klotski(华容道)是一套滑块谜题。游戏的目标是将带图案的块移动到绿色标记围起来的区域。这个过程中，您需要移开挡路的其他块。挑战用最少的步数完成移动！</p>
+    <p>GNOME Klotski(华容道)有近 30 种难度不一的谜局。有些布局相似，只有一两个块的大小不同。有些布局就很不一样。</p>
+  </description>
+  <description lang="zh_HK">
+    <p>GNOME 華容道內含近三十種不同難度的謎題配置。其中部分配置是類似的，差別只有一或多個方塊不同。其他配置會有更多的變化。</p>
+  </description>
+  <description lang="zh_TW">
+    <p>GNOME 華容道是一組方塊滑動謎題。目標是將有圖案的方塊移動到有綠色標記圍位的區域。要做到這點，您需要將路徑上其他的方塊移走。儘可能以最少步數完成每個謎題！</p>
+    <p>GNOME 華容道內含近三十種不同難度的謎題配置。其中部分配置是類似的，差別只有一或多個方塊不同。其他配置會有更多的變化。</p>
+  </description>
+  <screenshots>
+    <screenshot height="398" type="default" width="748">
+      <image>https://people.gnome.org/~mcatanzaro/gnome-klotski.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://wiki.gnome.org/Apps/Klotski</url>
+  <update_contact>mcatanzaro_at_gnome.org</update_contact>
+  <project_group>GNOME</project_group>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>UserDocs</kudo>
+  </kudos>
+  <provides>
+    <id>gnome-klotski.desktop</id>
+  </provides>
+  <launchable type="desktop-id">org.gnome.Klotski.desktop</launchable>
+  <translation type="gettext">gnome-klotski</translation>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/gnome-klotski/issues/</url>
+  <url type="donation">https://www.gnome.org/friends/</url>
+  <url type="help">https://help.gnome.org/users/gnome-klotski/stable/</url>
+  <url type="translate">https://wiki.gnome.org/TranslationProject</url>
+  <developer_name>The GNOME Project</developer_name>
+  <developer_name lang="zh_TW">GNOME 計畫</developer_name>
+  <developer_name lang="zh_CN">GNOME 项目</developer_name>
+  <developer_name lang="uk">Проект GNOME</developer_name>
+  <developer_name lang="tr">GNOME Projesi</developer_name>
+  <developer_name lang="sv">GNOME-projektet</developer_name>
+  <developer_name lang="sr@latin">Gnomov projekat</developer_name>
+  <developer_name lang="sr">Гномов пројекат</developer_name>
+  <developer_name lang="sl">Projekt GNOME</developer_name>
+  <developer_name lang="sk">Projekt GNOME</developer_name>
+  <developer_name lang="ru">Проект GNOME</developer_name>
+  <developer_name lang="ro">Proiectul GNOME</developer_name>
+  <developer_name lang="pt_BR">O Projeto GNOME</developer_name>
+  <developer_name lang="pt">O Projeto GNOME</developer_name>
+  <developer_name lang="pl">Projekt GNOME</developer_name>
+  <developer_name lang="nl">Het Gnome-project</developer_name>
+  <developer_name lang="nb">GNOME prosjektet</developer_name>
+  <developer_name lang="ms">Projek GNOME</developer_name>
+  <developer_name lang="lv">GNOME projekts</developer_name>
+  <developer_name lang="lt">GNOME projektas</developer_name>
+  <developer_name lang="ko">그놈 프로젝트</developer_name>
+  <developer_name lang="kk">GNOME жобасы</developer_name>
+  <developer_name lang="ja">The GNOME Project</developer_name>
+  <developer_name lang="it">Il progetto GNOME</developer_name>
+  <developer_name lang="id">Proyek GNOME</developer_name>
+  <developer_name lang="hu">A GNOME projekt</developer_name>
+  <developer_name lang="hr">GNOME projekt</developer_name>
+  <developer_name lang="he">מיזם GNOME</developer_name>
+  <developer_name lang="gl">O Proxecto GNOME</developer_name>
+  <developer_name lang="fur">Il progjet GNOME</developer_name>
+  <developer_name lang="fr">Le projet GNOME</developer_name>
+  <developer_name lang="fi">Gnome-projekti</developer_name>
+  <developer_name lang="fa">پروژهٔ گنوم</developer_name>
+  <developer_name lang="eu">GNOME proiektua</developer_name>
+  <developer_name lang="es">El proyecto GNOME</developer_name>
+  <developer_name lang="eo">La GNOME-projekto</developer_name>
+  <developer_name lang="en_GB">The GNOME Project</developer_name>
+  <developer_name lang="el">Το έργο GNOME</developer_name>
+  <developer_name lang="de">Das GNOME-Projekt</developer_name>
+  <developer_name lang="da">GNOME-projektet</developer_name>
+  <developer_name lang="cs">Projekt GNOME</developer_name>
+  <developer_name lang="ca@valencia">El projecte GNOME</developer_name>
+  <developer_name lang="ca">El projecte GNOME</developer_name>
+  <developer_name lang="bg">Проектът GNOME</developer_name>
+  <developer_name lang="be">Праект GNOME</developer_name>
+  <content_rating type="oars-1.0">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+
+  <releases>
+    <!-- should be kept in versioning inverted order -->
+    <release type="stable" version="3.38.2" date="2020-11-22" urgency="medium" />
+    <release type="development" version="3.37.91" date="2020-08-28" urgency="low" />
+  </releases>
+</component>

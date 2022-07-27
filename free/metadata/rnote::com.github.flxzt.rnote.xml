@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>rnote</pkgname>
+  <icon height="64" type="cached" width="64">com.github.flxzt.rnote.png</icon>
+  <icon type="cached" width="128" height="128">com.github.flxzt.rnote.png</icon>
+  <id>com.github.flxzt.rnote</id>
+  <metadata_license>CC0</metadata_license>
+  <project_license>GPL-3.0</project_license>
+  <name translatable="no">Rnote</name>
+  <launchable type="desktop-id">com.github.flxzt.rnote.desktop</launchable>
+  <summary>Sketch and take handwritten notes</summary>
+  <categories>
+    <category>Graphics</category>
+    <category>Education</category>
+    <category>Office</category>
+    <category>VectorGraphics</category>
+    <category>GNOME</category>
+    <category>GTK</category>
+  </categories>
+  <description>
+    <p>
+      Rnote is a vector-based drawing app for sketching, handwritten notes and to annotate documents and pictures.
+    </p>
+    <p>
+      Disclaimer: The file format is still unstable. It might change and break compatibility between versions.
+    </p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/flxzt/rnote/main/rnote-ui/data/screenshots/main_window_dark.png</image>
+      <caption>Main window in light colors</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/flxzt/rnote/main/rnote-ui/data/screenshots/main_window_light.png</image>
+      <caption>Main window in dark colors</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/flxzt/rnote/main/rnote-ui/data/screenshots/pdf_annotation.png</image>
+      <caption>A PDF annotation</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/flxzt/rnote/main/rnote-ui/data/screenshots/selection.png</image>
+      <caption>A selection</caption>
+    </screenshot>
+  </screenshots>
+  <recommends>
+    <control>keyboard</control>
+    <control>pointing</control>
+    <control>touch</control>
+  </recommends>
+  <url type="homepage">https://github.com/flxzt/rnote</url>
+  <url type="bugtracker">https://github.com/flxzt/rnote/issues</url>
+  <url type="donation">https://www.paypal.com/donate?hosted_button_id=LQ9Q4868GKQGG</url>
+  <developer_name translatable="no">Felix Zwettler</developer_name>
+  <update_contact>f.zwettler@posteo.de</update_contact>
+  <content_rating type="oars-1.0" />
+  <provides>
+    <binary>rnote</binary>
+  </provides>
+  <!-- /// Translators: Don't translate the changelog -->
+  <releases>
+    <release date="2022-05-14" version="0.5.3">
+      <description>
+        <p>this release changes:</p>
+        <ul>
+          <li>bug fixes</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2022-05-13" version="0.5.2">
+      <description>
+        <p>this release changes:</p>
+        <ul>
+          <li>feature: paste clipboard files ( nautilus support )</li>
+          <li>stylus eraser mode improvements</li>
+          <li>bug fixes</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2022-05-08" version="0.5.1">
+      <description>
+        <p>this release changes:</p>
+        <ul>
+          <li>feature: setting to change the format border color</li>
+          <li>UI text improvements</li>
+          <li>bug fixes</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.5.0" date="2022-05-04">
+      <description>
+        <p>this release changes:</p>
+        <ul>
+          <li>disclaimer: breaking file format compatibility</li>
+          <li>more shape types (curves, ellipse with foci)</li>
+          <li>feature: new eraser type: split strokes</li>
+          <li>feature: autosave</li>
+          <li>reduced handwriting latency</li>
+          <li>improved selector</li>
+          <li>improved undo / redo system</li>
+          <li>Xournal++ file import: drawn shapes are now imported correctly</li>
+          <li>UI tweaks</li>
+          <li>bug fixes</li>
+          <li>a lot of code refactoring</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2022-03-17" version="0.4.0">
+      <description>
+        <p>this release changes:</p>
+        <ul>
+          <li>disclaimer: breaking file format compatibility</li>
+          <li>feature: configurable button shortcuts (stylus, mouse)</li>
+          <li>change: moved the marker into the brush pen as a style</li>
+          <li>improvement: faster PDF export &amp; fix export with large sheet dimensions</li>
+          <li>bug fixes</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.3.5" date="2022-02-14">
+      <description>
+        <p>this release changes:</p>
+        <ul>
+          <li>A new feature: infinite mode for expandable sheets in every direction</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2022-02-06" version="0.3.4">
+      <description>
+        <p>this release changes:</p>
+        <ul>
+          <li>UI improvements</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.3.3" date="2022-02-05">
+      <description>
+        <p>this release changes:</p>
+        <ul>
+          <li>UX: Adaptive pen buttons (support smaller screens)</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.3.2" date="2022-02-02">
+      <description>
+        <p>this release changes:</p>
+        <ul>
+          <li>new feature: Export as PDF</li>
+          <li>bug fixes</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.3.1" date="2022-01-31">
+      <description>
+        <p>this release changes:</p>
+        <ul>
+          <li>`Select all` and `Deselect all` selector buttons</li>
+          <li>bug fixes</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.3.0" date="2022-01-29">
+      <description>
+        <p>this release changes:</p>
+        <ul>
+          <li>file format changes. Breaking to older versions!</li>
+          <li>Stroke and image rotation</li>
+          <li>rudimentary import and export to Xournal++ files</li>
+          <li>more persistent UI state</li>
+          <li>UI improvements</li>
+          <li>bug fixes</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2022-01-13" version="0.2.5">
+      <description>
+        <p>this release changes:</p>
+        <ul>
+          <li>Textured brush with tweakable parameters</li>
+          <li>UI improvements</li>
+          <li>bug fixes</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2022-01-10" version="0.2.4">
+      <description>
+        <p>this release changes:</p>
+        <ul>
+          <li>using libadwaita 1.0!</li>
+          <li>Tools as new pen type. Expand the sheet vertically, modify stroke elements by dragging</li>
+          <li>asynchronous import, export</li>
+          <li>bug fixes</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2022-01-04" version="0.2.3">
+      <description>
+        <p>this release changes:</p>
+        <ul>
+          <li>PDF import as vector images</li>
+          <li>bug fixes</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-12-28" version="0.2.2">
+      <description>
+        <p>this release changes:</p>
+        <ul>
+          <li>selecting with a rectangle</li>
+          <li>bug fixes</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.2.1" date="2021-12-17">
+      <description>
+        <p>this release changes:</p>
+        <ul>
+          <li>significant rendering speed improvements</li>
+          <li>bug fixes</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-12-13" version="0.2.0">
+      <description>
+        <p>this release changes:</p>
+        <ul>
+          <li>an updated icon!</li>
+          <li>an updated file format. !!! Breaks compatibility to older versions. Please export existing files before upgrading / downgrade temporarily (explained how to downgrade at github.com/flxzt/rnote)</li>
+          <li>new features: PDF import, clipboard and drag&amp;drop support</li>
+          <li>performance improvements in stroke rendering, selecting, erasing by parallelizing these operations</li>
+          <li>UI improvements</li>
+          <li>internal: code refactoring into ECS pattern</li>
+          <li>bug fixes</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-11-01" version="0.1.6">
+      <description>
+        <p>this release changes:</p>
+        <ul>
+          <li>introducing dots as background pattern</li>
+          <li>added undo, redo, close app and close active window shortcuts</li>
+          <li>added current file as title, with unsaved changes indicator</li>
+          <li>improved background rendering</li>
+          <li>UI tweaks</li>
+          <li>bug fixes</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.1.5" date="2021-10-21">
+      <description>
+        <p>this release changes:</p>
+        <ul>
+          <li>introducing background patterns</li>
+          <li>improved zooming</li>
+          <li>improved performance</li>
+          <li>saving and loading more settings</li>
+          <li>UI tweaks</li>
+          <li>bug fixes</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.1.4" date="2021-10-16">
+      <description>
+        <p>this release changes:</p>
+        <ul>
+          <li>UI improvements: sidebar and settings</li>
+          <li>set a background color</li>
+          <li>added ellipse as a rough shape</li>
+          <li>new and improved gestures and shortcuts (zoom with "ctrl+scroll", drag the canvas with the middle mouse button)</li>
+          <li>improved strokes algorithms</li>
+          <li>bug fixes</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.1.3" date="2021-10-08">
+      <description>
+        <p>this release changes:</p>
+        <ul>
+          <li>Introducing rough shapes for a sketched look</li>
+          <li>fill shapes with a color</li>
+          <li>improved shape drawing (broke .rnote file backward compatibility, sorry!)</li>
+          <li>alpha checkerboard background in the colorpicker</li>
+          <li>bug fixes</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.1.2" date="2021-10-07">
+      <description>
+        <p>improved zooming, UI tweaks and bug fixes</p>
+      </description>
+    </release>
+    <release date="2021-10-01" version="0.1.1">
+      <description>
+        <p>using native filechooser dialogs</p>
+      </description>
+    </release>
+    <release version="0.1.0" date="2021-09-30">
+      <description>
+        <p>The initial release</p>
+      </description>
+    </release>
+  </releases>
+</component>

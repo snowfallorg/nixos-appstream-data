@@ -1,0 +1,1303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <description>
+    <p>
+      Builder is an actively developed Integrated Development Environment for
+      GNOME. It combines integrated support for essential GNOME technologies
+      such as GTK+, GLib, and GNOME APIs with features that any developer will
+      appreciate, like syntax highlighting and snippets.
+    </p>
+    <p>
+      You can rely on predictable releases of Builder with each new release of
+      GNOME every six months.
+    </p>
+    <p>Features:</p>
+    <ul>
+      <li>Built in syntax highlighting for many languages</li>
+      <li>Side-by-side code editors</li>
+      <li>Multi-monitor support</li>
+      <li>Code overview mini-map</li>
+      <li>Integration with Git</li>
+      <li>Integration with Autotools, Cargo, CMake, Gradle, Meson, Maven, Make, PHPize, and Waf</li>
+      <li>Clang based auto-completion, semantic highlighting, and diagnostics</li>
+      <li>Python based auto-completion, semantic highlighting, and diagnostics</li>
+      <li>Vala based auto-completion and diagnostics</li>
+      <li>Auto indentation support for C, Python, Vala, and XML</li>
+      <li>HTML, Markdown, and reStructuredText, and Sphinx live preview</li>
+      <li>Optional Vim, Emacs, and SublimeText style editing</li>
+      <li>An integrated software profiler for native applications</li>
+      <li>An integrated debugger for native applications</li>
+      <li>Support for building with jhbuild and flatpak runtimes</li>
+      <li>Support for viewing TODOs found within your code base</li>
+      <li>Fast fuzzy text search across files and symbols</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>El Constructor és un entorn de desenvolupament integrat per a GNOME desenvolupat activament. Combina el suport integrat per a tecnologies GNOME essencials, com ara GTK+, GLib i les API del GNOME amb característiques que qualsevol desenvolupador apreciarà, com el ressaltat de sintaxi i els fragments.</p>
+    <p>Podeu esperar versions regulars del Constructor cada sis mesos amb cada nova versió del GNOME.</p>
+    <p>Característiques:</p>
+    <ul>
+      <li>Incorpora ressaltat de sintaxi per a molts llenguatges</li>
+      <li>Editors de codi costat a costat</li>
+      <li>Compatibilitat amb múltiples monitors</li>
+      <li>Mapa petit de resum del codi</li>
+      <li>Integració amb Git</li>
+      <li>Integració amb Autotools, Cargo, CMake, Gradle, Meson, Maven, Make, PHPize i Waf</li>
+      <li>Autocompleció usant Clang, ressaltat semàntic, i diagnòstics</li>
+      <li>Autocompleció usant Python, ressaltat semàntic, i diagnòstics</li>
+      <li>Autocompleció usant Vala i diagnòstics</li>
+      <li>Suport a l'autosagnat per a C, Python, Vala, i XML</li>
+      <li>HTML, Markdown, reStructuredText, i previsualització en directe de Sphinx</li>
+      <li>Edició opcional amb l'estil de Vim, Emacs i SublimeText</li>
+      <li>Un analitzador de rendiment de programari integrat per a aplicacions natives</li>
+      <li>Un depurador integrat per a aplicacions natives</li>
+      <li>Comptabilitat per a construir amb els entorns d'execució jhbuild i flatpak</li>
+      <li>Suport per a veure TODOs trobats dins de la base del codi</li>
+      <li>Cerca ràpida de text difusa entre fitxers i símbols</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>Builder je aktivně vyvíjené integrované vývojové prostředí pro GNOME. Kombinuje podporu pro základní technologie GNOME jako jsou GTK+, GLib a GNOME API a obsahuje funkce, jako je zvýrazňování syntaxe a útržky, které ocení každý vývojář.</p>
+    <p>Můžete spoléhat na předvídatelná vydání Builderu s každou novou verzí GNOME, která vychází každých šest měsíců.</p>
+    <p>Funkce:</p>
+    <ul>
+      <li>Vestavěné zvýrazňování syntaxe pro řadu jazyků</li>
+      <li>Více editorů kódu vedle sebe</li>
+      <li>Podpora více monitorů</li>
+      <li>Přehledová mini mapa kódu</li>
+      <li>Integrace s Git</li>
+      <li>Integrace s Autotools, Cargo, CMake, Gradle, Meson, Maven, Make, PHPize a Waf</li>
+      <li>Automatické dokončování, zvýrazňování sémantiky a diagnostika překladačem Clang</li>
+      <li>Automatické dokončování, zvýrazňování sémantiky a diagnostika interpretem Python</li>
+      <li>Automatické dokončování a diagnostika překladačem Vala</li>
+      <li>Podpora automatického odsazování pro C, Python, Vala a XML</li>
+      <li>Živé náhledy HTML, Markdown, reStructuredText a Sphinx</li>
+      <li>Volitelné editování ve stylu Vim, Emacs a SublimeText</li>
+      <li>Integrovaný softwarový profiler pro nativní aplikace</li>
+      <li>Integrovaný ladicí program pro nativní aplikace</li>
+      <li>Podpora pro sestavování pomocí jhbuild a běhového prostředí Flatpak</li>
+      <li>Podpora zobrazení úkolů (TODO) nalezených v rámci zdrojových kódů</li>
+      <li>Rychlé vyhledávání s odhady napříč soubory a symboly</li>
+    </ul>
+  </description>
+  <description lang="da">
+    <p>Builder er et integreret udviklingsmiljø til GNOME som udvikles aktivt. Builder kombinerer integreret understøttelse af essentielle GNOME-teknologier såsom GTK+, Glib og GNOME-API'er med funktioner som udviklere vil have brug for såsom syntaksfremhævning og tekststumper.</p>
+    <p>Du kan regne med at nye versioner af Builder udkommer jævnligt sammen med GNOME hver sjette måned.</p>
+    <p>Funktioner:</p>
+    <ul>
+      <li>Indbygget syntaksfremhævning af mange sprog</li>
+      <li>Koderedigering side om side</li>
+      <li>Understøttelse af flere skærme</li>
+      <li>Minikort med kodeoversigt</li>
+      <li>Integration med Git</li>
+      <li>Integration med Autotools, Cargo, CMake, Gradle, Meson, Maven, Make, PHPize og Waf</li>
+      <li>Clang-baseret autofuldførelse, semantisk fremhævning og diagnostik</li>
+      <li>Pythonbaseret autofuldførelse, semantisk fremhævning og diagnostik</li>
+      <li>Vala-baseret autofuldførelse og diagnostik</li>
+      <li>Understøttelse for autoindrykning i C, Python, Vala og XML</li>
+      <li>HTML, Markdown og reStructuredText, samt Sphinx live-forhåndsvisning</li>
+      <li>Mulighed for redigering i Vim-, Emacs- og SublimeText-tilstand</li>
+      <li>Integreret softwareprofilering til platformsspecifikke programmer</li>
+      <li>En integreret fejlsøger til platformsspecifikke programmer</li>
+      <li>Understøttelse for kompilering med jhbuild og flatpak-runtime</li>
+      <li>Understøttelse af visning af TODO-lister som findes i din kodebase</li>
+      <li>Hurtig uskarp (fuzzy) tekstsøgning over filer og symboler</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>Builder ist eine aktiv entwickelte integrierte Entwicklungsumgebung für GNOME. Es kombiniert eingebaute Unterstützung für grundlegende GNOME-Technologien, wie GTK+, GLib und GNOME-APIs mit Funktionsmerkmalen, die jeder Entwickler zu schätzen weiß, wie Syntax-Hervorhebung und die Nutzung von Textschnipseln.</p>
+    <p>Sie können sich alle sechs Monate auf planmäßige Freigaben von Builder mit jeder neuen Freigabe von GNOME verlassen.</p>
+    <p>Funktionen:</p>
+    <ul>
+      <li>Eingebaute Syntax-Hervorhebung für viele Sprachen</li>
+      <li>Nebeneinander angeordnete Code-Editoren</li>
+      <li>Unterstützung für mehrere Bildschirme</li>
+      <li>Übersichtskarte des Code</li>
+      <li>Integration von Git</li>
+      <li>Integration von Autotools, Cargo, CMake, Gradle, Meson, Maven, Make, PHPize und Waf</li>
+      <li>Clang-basierte Autovervollständigung, semantische Hervorhebung und Fehlerdiagnose</li>
+      <li>Python-basierte Autovervollständigung, semantische Hervorhebung und Fehlerdiagnose</li>
+      <li>Vala-basierte Autovervollständigung und Fehlerdiagnose</li>
+      <li>Unterstützung für automatische Einrückungen in C, Python, Vala und XML</li>
+      <li>Live-Vorschau für HTML, Markdown, reStructuredText und Sphinx</li>
+      <li>Optionale Textbearbeitung im Stil von Vim, Emacs und Sublime</li>
+      <li>Ein integrierter Software-Profiler für native Anwendungen</li>
+      <li>Ein integrierter Debugger für native Anwendungen</li>
+      <li>Unterstützung für Erstellung mit JHbuild- und Flatpak-Laufzeitumgebungen</li>
+      <li>Unterstützung zur Anzeige von TODOs, die in Ihrem Code markiert sind</li>
+      <li>Schnelle fehlertolerante Textsuche in Dateien und Symbolen</li>
+    </ul>
+  </description>
+  <description lang="el">
+    <p>Το Builder είναι ένα Περιβάλλον Ανάπτυξης για το GNOME. Συνδυάζει ολοκληρωμένη υποστήριξη για βασικές τεχνολογίες GNOME όπως GTK +, GLib και GNOME API με δυνατότητες που θα εκτιμήσει κάθε προγραμματιστής, όπως επισήμανση σύνταξης και snippets.</p>
+    <p>Μπορείτε να βασιστείτε σε προβλέψιμες εκδόσεις του Builder με κάθε νέα έκδοση του GNOME κάθε έξι μήνες.</p>
+    <p>Χαρακτηριστικά:</p>
+    <ul>
+      <li>Ενσωματωμένη επισήμανση σύνταξης για αρκετές γλώσσες</li>
+      <li>Επεξεργαστές κώδικα δίπλα-δίπλα</li>
+      <li>Υποστήριξη πολλαπλών οθονών</li>
+      <li>Ενσωμάτωση με Git</li>
+      <li>Ενσωμάτωση με Autotools, Cargo, CMake, Gradle, Meson, Maven, Make, PHPize και Waf</li>
+      <li>Αυτόματη συμπλήρωση, σημασιολογική επισήμανση και διαγνωστικά βασισμένα στο Clang</li>
+      <li>Αυτόματη συμπλήρωση, σημασιολογική επισήμανση και διαγνωστικά βασισμένα στη Python</li>
+      <li>Αυτόματη συμπλήρωση και διαγνωστικά βασισμένα στο Vala</li>
+      <li>Αυτόματη προσθήκη εσοχής για C, Python, Vala, και XML</li>
+      <li>HTML, Markdown, και reStructuredText, και ζωντανή προεπισκόπηση Sphinx</li>
+    </ul>
+  </description>
+  <description lang="en_GB">
+    <p>Builder is an actively developed Integrated Development Environment for GNOME. It combines integrated support for essential GNOME technologies such as GTK+, GLib, and GNOME APIs with features that any developer will appreciate, like syntax highlighting and snippets.</p>
+    <p>You can rely on predictable releases of Builder with each new release of GNOME every six months.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Built in syntax highlighting for many languages</li>
+      <li>Side-by-side code editors</li>
+      <li>Multi-monitor support</li>
+      <li>Code overview mini-map</li>
+      <li>Integration with Git</li>
+      <li>Integration with Autotools, Cargo, CMake, Gradle, Meson, Maven, Make, PHPize, and Waf</li>
+      <li>Clang based auto-completion, semantic highlighting, and diagnostics</li>
+      <li>Python based auto-completion, semantic highlighting, and diagnostics</li>
+      <li>Vala based auto-completion and diagnostics</li>
+      <li>Auto indentation support for C, Python, Vala, and XML</li>
+      <li>HTML, Markdown, and reStructuredText, and Sphinx live preview</li>
+      <li>Optional Vim, Emacs, and SublimeText style editing</li>
+      <li>An integrated software profiler for native applications</li>
+      <li>An integrated debugger for native applications</li>
+      <li>Support for building with jhbuild and flatpak runtimes</li>
+      <li>Support for viewing TODOs found within your code-base</li>
+      <li>Fast fuzzy text search across files and symbols</li>
+    </ul>
+  </description>
+  <description lang="eo">
+    <p>Konstruilo estas aktive verkita programada medio por GNOME. Ĝi kombinas integritan subtenon por havendaj GNOME teĥnikaroj kiel GTK+, GLib, kaj GNOME API-oj kun funkcioj, kiujn ĉiu programisto aprezos, kiel sintaksa emfazado kaj fragmentoj.</p>
+    <p>Vi povas konfidi antaŭdireblajn eldonojn de Konstruilo kun ĉiu nova eldono de GNOME ĉiujn ses monatojn.</p>
+    <p>Funkcioj:</p>
+    <ul>
+      <li>Integrita sintaksa emfazado por multe da lingvoj</li>
+      <li>Flankalfklankaj kodaj redaktikoj</li>
+      <li>Integrigo kun Git</li>
+      <li>Integrigo kun Autotools, Cargo, CMake, Gradle, Meson, Maven, Make, PHPize, kaj Waf</li>
+      <li>Clang-bazita aŭtomata kompletigo, sintaksa emfazado, kaj diagnozo</li>
+      <li>Python-bazita aŭtomata kompletigo, sintaksa emfazado, kaj diagnozo</li>
+      <li>Vala-bazita aŭtomata kompletigo kaj diagnozo</li>
+      <li>Aŭtomata deŝova subteno por C, Python, Vala, kaj XML</li>
+      <li>Senpera antaŭrigardo por HTML, Markdown, reStructuredText, kaj Sphinx</li>
+      <li>Malnepra Vim, Emacs, kaj SublimeText redaktmaniero</li>
+      <li>Integrita programara profililo por indiĝenaj aplikaĵoj</li>
+      <li>Integrita sencimigilo por indiĝenaj aplikaĵoj</li>
+      <li>Subteno por konstrui kun jhbuild kaj flatpak rultempaj medioj</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>Builder es un entorno de desarrollo integrado para GNOME gestionado activamente. Combina soporte integrado para las tecnologías esenciales de GNOME, tales como GTK+, GLib y las API de GNOME con características que cualquier desarrollador apreciará, como el resaltado de sintaxis y los fragmentos.</p>
+    <p>Puede apoyarse en las publicaciones previstas de Builder con cada nueva versión de GNOME cada seis meses.</p>
+    <p>Características:</p>
+    <ul>
+      <li>Resaltado de sintaxis integrado para muchos lenguajes</li>
+      <li>Editores de código de lado a lado</li>
+      <li>Soporte para varios monitores</li>
+      <li>Mini-mapa de vista general del código</li>
+      <li>Integración con Git</li>
+      <li>Integración con Autotools, Cargo, CMake, Gradle, Meson, Maven, Make, PHPize, y Waf</li>
+      <li>Completado automático basado en Clang, resaltado semántico y diagnósticos</li>
+      <li>Completado automático basado en Python, resaltado semántico y diagnósticos</li>
+      <li>Completado automático basado en Vala y diagnósticos</li>
+      <li>Soporte de sangrado automático para C, Python, Vala y XML</li>
+      <li>HTML, marcado, reStructuredText y vista previa en directo de Sphinx</li>
+      <li>Edición estilo Vim, Emacs y SublimeText opcional</li>
+      <li>Un perfilador de software integrado para aplicaciones nativas</li>
+      <li>Un depurador integrado para aplicaciones nativas</li>
+      <li>Soporte para construir con jhbuild y rutinas de Flatpak</li>
+      <li>Soporte para ver los «TODO» encontrados en su código fuente</li>
+      <li>Búsqueda rápida de texto difuso entre archivos y símbolos</li>
+    </ul>
+  </description>
+  <description lang="eu">
+    <p>Builder aktiboki garatzen ari den IDE (Integrated Development Environment) bat da GNOMErako. Funtsezko GNOME teknologien (GTK+, GLib, GNOME APIak)  euskarri integratua eskaintzen du, eta horrekin konbinatuta, edozein garatzailek gustura erabiliko dituen eginbideak, adibidez sintaxiaren nabarmentzea eta mozkinak.</p>
+    <p>Builder aplikazioaren bertsio berriak daude GNOMEren bertsio berri bakoitzarekin, sei hilabetetik behin.</p>
+    <p>Eginbideak:</p>
+    <ul>
+      <li>Sintaxiaren nabarmentze integratua hainbat lengoaiatarako</li>
+      <li>Alboz alboko kode-editoreak</li>
+      <li>Monitore anitzen euskarria</li>
+      <li>Kodearen ikuspegi orokorrerako minimapa</li>
+      <li>Integrazioa Git sistemekin</li>
+      <li>Integrazioa Autotools, Cargo, CMake, Gradle, Meson, Maven, Make, PHPize eta Waf tresnekin</li>
+      <li>Clang oinarritzat duen osatze automatikoa, nabarmentze semantikoa eta diagnostikoa</li>
+      <li>Python lengoaiarako osatze automatikoa, nabarmentze semantikoa eta diagnostikoa</li>
+      <li>Vala lengoaiarako osatze automatikoa eta diagnostikoa</li>
+      <li>Koskatze automatikoaren euskarria C, Python, Vala eta XML lengoaietarako</li>
+      <li>HTML, Markdown eta reStructuredText, eta Sphinx aurrebista dinamikoa</li>
+      <li>Vim, Emacs eta SublimeText estiloko edizioa (aukerakoa)</li>
+      <li>Software profilatzaile integratua jatorrizko aplikazioetarako</li>
+      <li>Araztaile integratua jatorrizko aplikazioretarako</li>
+      <li>jhbuild eta flatpack exekuzio-denborekin eraikitzeko euskarria</li>
+      <li>Zure oinarri-kodean aurkitutako TODOak bistaratzeko euskarria</li>
+      <li>Testuen bilaketa lauso azkarra fitxategietan eta ikurretan</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>Ominaisuudet:</p>
+    <ul>
+      <li>Sisäänrakennettu korostus monille kielille</li>
+      <li>Vierekkäin olevat koodimuokkaimet</li>
+      <li>Integraatio Gitiin</li>
+      <li>Automaattinen sisennystuki C:lle, Pythonille, Valalle ja XML:lle</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>Builder est un environnement de développement pour GNOME activement développé. Il combine une prise en charge intégrée pour les technologies GNOME essentielles telles que GTK+, GLib et les API GNOME avec des fonctionnalités que tout développeur appréciera, comme la coloration syntaxique et les extraits de code.</p>
+    <p>Builder suit le cycle de publication de GNOME avec des nouvelles versions tous les six mois.</p>
+    <p>Fonctionnalités :</p>
+    <ul>
+      <li>Coloration syntaxique intégrée pour de nombreux langages</li>
+      <li>Éditeur de code côte à côte</li>
+      <li>Prise en charge de plusieurs moniteurs</li>
+      <li>Carte de la vue d’ensemble du code</li>
+      <li>Intégration avec Git</li>
+      <li>Intégration avec Autotools, Cargo, CMake, Gradle, Meson, Maven, Make, PHPize et Waf</li>
+      <li>Complétion automatique, coloration sémantique et diagnostics basés sur Clang</li>
+      <li>Complétion automatique, coloration sémantique et diagnostics basés sur Python</li>
+      <li>Complétion automatique et diagnostics basés sur Vala</li>
+      <li>Indentation automatique pour C, Python, Vala et XML</li>
+      <li>Aperçu pour HTML, Markdown, reStructuredText et Sphinx</li>
+      <li>Édition à la manière de Vim, Emacs et Sublime Text en option</li>
+      <li>Un logiciel de profilage intégré pour les applications natives</li>
+      <li>Un débogueur intégré pour les applications natives</li>
+      <li>Prise en charge pour la construction d’exécutables avec jhbuild et flatpak</li>
+      <li>Prise en charge de la visualisation des TODO trouvés dans votre base de code</li>
+      <li>Recherche rapide de textes approximatifs dans les fichiers et les symboles</li>
+    </ul>
+  </description>
+  <description lang="fur">
+    <p>Funzionalitâts:</p>
+    <ul>
+      <li>Integrazion cun Git</li>
+    </ul>
+  </description>
+  <description lang="gl">
+    <p>O Construtor é un Contorno de Desenvolvemento Integrado desenvolto activamente para GNOME. Combina a asistencia integrada para as tecnoloxías esenciais de GNOME como GTK+, GLib e as APIs de GNOME con características que calquera desenvolvedor pode apreciar, como o realzado de sintaxe e os fragmentos.</p>
+    <p>Pode confiar nas publicacións preditivas de Builder con cada nova publicación de GNOME cada seis meses.</p>
+    <p>Características:</p>
+    <ul>
+      <li>Construído con realzado de sintaxe para moitos idiomas</li>
+      <li>Editores de código un ao carón de outro</li>
+      <li>Compatibilidade con varios monitores</li>
+      <li>Minimapa de vista previa do código</li>
+      <li>Integración con Git</li>
+      <li>Integración con Autotools, Cargo, CMake, Gradle, Meson, Maven, Make, PHPize e Waf</li>
+      <li>Autocompletado baseado en Clan, realzado semántico e diagnósticos</li>
+      <li>Autocompletado baseado en Python, realzado semántico e diagnósticos</li>
+      <li>Autocompletado baseado en Vala e diagnósticos</li>
+      <li>Compatibilidade de autosangrado para C, Python, Vala e XML</li>
+      <li>Vista previa en vivo para HTML, Markdown, reStructuredText e Sphinx</li>
+      <li>Editado opcional de estilo Vim, Emacs e Sublime Text</li>
+      <li>Un perfilador de software integrado para aplicacións nativas</li>
+      <li>Un perfilador integrado para aplicacións nativas</li>
+      <li>Compatibilidade para construír con ambientes de execución jhbuild e flatpak</li>
+      <li>Compatibilidade para ver os TODO atopados no código</li>
+      <li>Busca de texto difusa rápida nos ficheiros e símbolos</li>
+    </ul>
+  </description>
+  <description lang="he">
+    <p>‏Builder היא סביבת פיתוח משולבת עבור GNOME בשלבי פיתוח פעיל. מאחדת תמיכה משולבת עבור טכנולוגיות GNOME חיוניות כגון GTK+, GLib וממשקי תכנות יישומים (API) של GNOME עם תכונות אותן יעריך כל מפתח, כמו הדגשת תחביר וקטעי קוד.</p>
+    <p>ניתן לבנות על שחרור צפוי של Builder עם כל שחרור של GNOME מדי שישה חודשים.</p>
+    <p>תכונות:</p>
+    <ul>
+      <li>הדגשת תחביר מובנית עבור מגוון שפות</li>
+      <li>עורכי קוד זה לצד זה</li>
+      <li>תמיכה בריבוי צגים</li>
+      <li>תצוגה מקדימה ממוזערת של הקוד</li>
+      <li>שילוב עם Git</li>
+      <li>משתלב עם Autotools, Cargo, CMake, Gradle, Meson, Maven, Make, PHPize ו־Waf</li>
+      <li>אבחנה, הדגשה תחבירית והשלמה אוטומטית מבוססי Clang</li>
+      <li>אבחנה, הדגשה תחבירית והשלמה אוטומטית מבוססי Python</li>
+      <li>אבחנה והשלמה אוטומטית מבוססי Vala</li>
+      <li>הזחה אוטומטית נמתכת עבור C, Python, Vala ו־XML</li>
+      <li>תצוגה מקדימה חיה של HTML, Markdown, reStructuredText ו־Sphinx</li>
+      <li>אפשרות עריכה בסגנון Vim, Emacs ו־SublimeText</li>
+      <li>מנפה שגיאות משולב בצורה טבעית ביישום</li>
+      <li>תמיכה בבנייה עם jhbuild ו־Flatpak בזמן ריצה</li>
+      <li>תמיכה בהצגת רשימת משימות (TODO) הנמצאות בבסיס הקוד</li>
+      <li>חיפוש מקיף מהיר בכל הקבצים והסמלים</li>
+    </ul>
+  </description>
+  <description lang="hu">
+    <p>Az Építő egy folyamatosan fejlesztett integrált fejlesztői környezet a GNOME-hoz. Egyesíti az alapvető GNOME technológiák – mint a GTK+, GLib és a GNOME API-k – integrált támogatását, olyan funkciókkal, melyeket minden fejlesztő értékel, mint a szintaxiskiemelés és a töredékek kezelése.</p>
+    <p>Támaszkodhat az Építő kiszámíthatóan, a GNOME minden új kiadásával hat havonta megjelenő kiadásaira.</p>
+    <p>Funkciók:</p>
+    <ul>
+      <li>Beépített szemantikus kiemelés számos nyelvhez</li>
+      <li>Egymás melletti kódszerkesztők</li>
+      <li>Több kijelző támogatása</li>
+      <li>Kis kódáttekintő térkép</li>
+      <li>Git integráció</li>
+      <li>Autotools, Cargo, CMake, Gradle, Meson, Maven, Make, PHPize és Waf integráció</li>
+      <li>Clang-alapú automatikus kiegészítés, szemantikus kiemelés, és diagnosztika</li>
+      <li>Python-alapú automatikus kiegészítés, szemantikus kiemelés, és diagnosztika</li>
+      <li>Vala-alapú automatikus kiegészítés, szemantikus kiemelés, és diagnosztika</li>
+      <li>Automatikus behúzás támogatása C, Python, Vala és XML nyelvekhez</li>
+      <li>HTML, Markdown, reStructuredText és Sphinx élő előnézet</li>
+      <li>Válaszható Vim-, Emacs- és SublimeText-stílusú szerkesztés</li>
+      <li>Egy integrált szoftverprofilozó a natív alkalmazásokhoz</li>
+      <li>Egy integrált hibakereső a natív alkalmazásokhoz</li>
+      <li>Támogatás jhbuild és flatpack futtatókörnyezettel történő összeállításhoz</li>
+      <li>Támogatás a kódbázisban található teendők (TODO-k) megtekintéséhez</li>
+      <li>Gyors közelítő szövegkeresés a fájlok és szimbólumok között</li>
+    </ul>
+  </description>
+  <description lang="id">
+    <p>Builder merupakan Integrated Development Environment yang aktif dikembangkan untuk GNOME. Ini menggabungkan dukungan terintegrasi untuk teknologi GNOME yang penting seperti GTK+, GLib, dan API GNOME dengan fitur yang setiap pengembang akan mengapresiasi, seperti sintaks dan potongan.</p>
+    <p>Anda dapat mengandalkan rilis berkala Builder dengan setiap rilis baru GNOME setiap enam bulan.</p>
+    <p>Fitur:</p>
+    <ul>
+      <li>Penyorotan sintaks bawaan untuk banyak bahasa</li>
+      <li>Penyunting kode bersisian</li>
+      <li>Dukungan multi-monitor</li>
+      <li>Peta mini ikhtisar kode</li>
+      <li>Integrasi dengan Git</li>
+      <li>Integrasi dengan Autotools, Cargo, CMake, Gradle, Meson, Maven, Make, PHPize, dan Waf</li>
+      <li>Pelengkapan otomatis, penyorotan semantik, dan diagnostik berbasis Clang</li>
+      <li>Pelengkapan otomatis, penyorotan semantik, dan diagnostik berbasis Python</li>
+      <li>Pelengkapan otomatis dan diagnostik berbasis Vala</li>
+      <li>Dukungan indentasi otomatis untuk C, Python, Vala, dan XML</li>
+      <li>Pratinjau langsung HTML, Markdown, dan reStructuredText, dan Sphinx</li>
+      <li>Penyuntingan gaya Vim, Emacs, dan SublimeText opsional</li>
+      <li>Profiler perangkat lunak terpadu untuk aplikasi native</li>
+      <li>Pengawakutu terpadu untuk aplikasi native</li>
+      <li>Dukungan untuk membangun dengan jhbuild dan flatpak runtimes</li>
+      <li>Dukungan untuk melihat TODO yang ditemukan dalam basis kode Anda</li>
+      <li>Pencarian teks fuzzy cepat di seluruh berkas dan simbol</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>Builder è un IDE per GNOME in continua evoluzione. Racchiude il supporto per le tecnologie GNOME essenziali come GTK+, GLib e le API di GNOME oltre a molte funzionalità apprezzate dagli sviluppatori (evidenziazione della sintassi e snippet).</p>
+    <p>Una nuova versione di Builder viene rilasciata assieme a GNOME ogni sei mesi.</p>
+    <p>Caratteristiche:</p>
+    <ul>
+      <li>Evidenziazione della sintassi per molti linguaggi di programmazione</li>
+      <li>Editor di testo affiancati</li>
+      <li>Supporto multi-monitor</li>
+      <li>Mappa panoramica del codice</li>
+      <li>Integrazione con git</li>
+      <li>Integrazione con Autotools, Cargo, CMake, Gradle, Meson, Maven, Make, PHPize e Waf</li>
+      <li>Completamento automatico, evidenziazione semantica e diagnostica basati su clang</li>
+      <li>Completamento automatico, evidenziazione semantica e diagnostica basati su Python</li>
+      <li>Completamento automatico e diagnostica basati su Vala</li>
+      <li>Rientro automatico del codice per C, Python, Vala e XML</li>
+      <li>Anteprime per HTML, Markdown, reStructuredText e Sphinx</li>
+      <li>Modifica in stile Vim, Emacs e SublimeText (opzionale)</li>
+      <li>Un profiler integrato per applicazioni native</li>
+      <li>Un debugger integrato per applicazioni native</li>
+      <li>Supporto per la compilazione con jhbuild e flatpack</li>
+      <li>Supporto per la visualizzazione dei TODO trovati nel codice</li>
+      <li>Ricerca di testo fuzzy rapida tra file e simboli</li>
+    </ul>
+  </description>
+  <description lang="kk">
+    <p>Builder – GNOME үшін белсенді жасалып келе жатқан интеграцияланған әзірлеу ортасы. Оның GTK+, GLib, and GNOME API сияқты маңызды GNOME технологияларына қолдауы бар және синтаксистік ерекшелеу және фрагменттер сияқты кез келген әзірлеуші бағалайтын мүмкіндіктері бар.</p>
+    <p>Мүмкіндіктері:</p>
+    <ul>
+      <li>Көп мониторлы қолдау</li>
+      <li>Код көрінісінің картасын көрсету</li>
+      <li>Git жүйесімен интеграция</li>
+      <li>Clang негізіндегі автотолықтыру, семантикалық түспен ерекшелеу және диагностика</li>
+      <li>Python негізіндегі автотолықтыру, семантикалық түспен ерекшелеу және диагностика</li>
+      <li>Vala негізіндегі автотолықтыру, семантикалық түспен ерекшелеу және диагностика</li>
+      <li>C, Python, Vala және XML үшін автошегіну қолдауы</li>
+    </ul>
+  </description>
+  <description lang="ko">
+    <p>빌더는 활발하게 개발 중인 그놈용 통합 개발 환경입니다. 빌더는 GTK+, GLib, 그놈 API와 같은 주요 그놈 기술을 통합합니다. 또 모든 개발자가 좋아할 만한 구문 강조나 스니핏 같은 기능도 있습니다.</p>
+    <p>6개월마다 그놈의 새 릴리스가 나올 때마다 빌더가 새로 릴리스될 예정입니다.</p>
+    <p>기능:</p>
+    <ul>
+      <li>여러가지 언어에 대한 구문 분석 내장</li>
+      <li>나란히 좌우로 표시되는 코드 편집기</li>
+      <li>다중 모니터 지원</li>
+      <li>코드 개요 미니맵</li>
+      <li>깃 연동</li>
+      <li>오토툴즈, cargo, cmake, gradle, meson, make, PHPize, WAF 통합 기능</li>
+      <li>Clang 기반 자동 완성, 구문 강조, 진단 기능</li>
+      <li>파이썬 기반 자동 완성, 구문 강조, 진단 기능</li>
+      <li>Vala 기반 자동 완성, 진단 기능</li>
+      <li>C, 파이썬, Vala, XML용 자동 들여쓰기 기능</li>
+      <li>HTML, 마크다운, 리스트럭쳐드텍스트, 스핑크스 라이브 미리보기</li>
+      <li>VIM, 이맥스, SublimeText 방식 편집 기능 옵션</li>
+      <li>네이티브 앱용 통합 소프트웨어 프로파일러</li>
+      <li>네이티브 앱용 통합 디버거</li>
+      <li>jhbuild 및 flatpak 런타임 빌드 기능</li>
+      <li>코드 안에 들어 있는 TODO 표시를 보는 기능</li>
+      <li>파일 및 심볼에 대해 빠른 퍼지 텍스트 검색 기능</li>
+    </ul>
+  </description>
+  <description lang="lt">
+    <p>Kūrėjas yra aktyviai kuriama integruota kūrimo aplinka GNOME darbalaukiui. Ji sujungia integruotą palaikymą pagrindinėms GNOME technologijoms, tokioms kaip GTK+, GLib ir GNOME API su savybėmis, kurios patiks kūrėjui, pavyzdžiui sintaksės paryškinimu bei iškarpomis.</p>
+    <p>Galite tikėtis nuspėjamų Kūrėjo leidimų su kiekvienu GNOME leidimu kas šešis mėnesiu.</p>
+    <p>Savybės:</p>
+    <ul>
+      <li>Integruotas sintaksės paryškinimas daugeliui kalbų</li>
+      <li>Kodo redaktoriai vienas šalia kito</li>
+      <li>Daugelio monitorių palaikymas</li>
+      <li>Rodyti apžvalgos žemėlapis</li>
+      <li>Integracija su Git</li>
+      <li>Integracija su Autotools, Cargo, CMake, Gradle, Meson, Maven, Make, PHPize ir Waf</li>
+      <li>Clang pagrindo automatinis užbaigimas,semantinis paryškinimas bei diagnostikos</li>
+      <li>Python pagrindo automatinis užbaigimas, semantinis paryškinimas bei diagnostikos</li>
+      <li>Vala pagrindo automatinis užbaigimas bei diagnostikos</li>
+      <li>Automatinės įtraukos palaikymas C, Python, Vala bei XML kalboms</li>
+      <li>HTML, Markdown ir reStructuredText bei Sphinx tiesioginė peržiūra</li>
+      <li>Galimas Vim, Emacs ir SublimeText stiliaus redagavimas</li>
+      <li>Integruotas programinės įrangos profiliatorius savosioms programoms</li>
+      <li>Integruota derintuvė savosioms programoms</li>
+      <li>Palaikymas jhbuild ir Flatpak vykdymo aplinkų kūrimui</li>
+      <li>Jūsų kode rastų TODO palaikymas</li>
+      <li>Greita neaiškaus teksto paieška failuose bei simboliuose</li>
+    </ul>
+  </description>
+  <description lang="lv">
+    <p>Būvētājs ir aktīvi izstrādāta integrētā izstrādes vide (IDE) GNOME sistēmai. Tā apvieno integrētu atbalstu būtiskajam GNOME tehnoloģijām, piemēram, GTK+, GLib, un GNOME API, ar iespējām, ko novērtēs katrs programmatūras izstrādātājs, piemēram, sintakses izcelšana un fragmenti.</p>
+    <p>Jūs varat paļautie uz paredzamajiem Būvētāja laidieniem, ar katru jauno GNOME laidienu katrus sešus mēnešus.</p>
+    <p>Iespējas:</p>
+    <ul>
+      <li>Iebūvēta sintakses izcelšana daudzām valodām</li>
+      <li>Sānu-pie-sāna koda redaktori</li>
+      <li>Integrācija ar Git</li>
+      <li>Uz Clang balstīta automātiskā pabeigšana, semantikas izcelšana un diagnostika</li>
+      <li>Uz Python balstīta automātiskā pabeigšana, semantikas izcelšana un diagnostika</li>
+      <li>Uz Vala balstīta automātiskā pabeigšana un diagnostika</li>
+      <li>Automātisko atkāpju atbalsts C, Python, Vala, un XML</li>
+      <li>HTML, Markdown, reStructuredText un Sphinx dzīvais priekšskatījums</li>
+      <li>Integrēts programmatūras profilētājs vietējām lietotnēm</li>
+      <li>Integrēts atkļūdotājs vietējām lietotnēm</li>
+      <li>Atbalsts būvēšanai ar jhbuild un flatpak izpildlaiku</li>
+    </ul>
+  </description>
+  <description lang="ms">
+    <p>Pembina ialah satu Persekitaran Pembangunan Bersepadu yang dibangunkan secara aktif untuk GNOME. Ia menggabungkan sokongan bersepadu untuk teknologi GNOME penting seperti GTK+, GLib, dan API GNOME dengan fitur-fitur yang mana-mana pembangun hargai, seperti penyorotan sintaks dan snippet.</p>
+    <p>Anda boleh bergantung pada keluaran boleh ramal Pembina dengan setiap keluaran baharu GNOME iaitu setiap enam bulan.</p>
+    <p>Fitur-Fitur:</p>
+    <ul>
+      <li>Penyorotan sintaks terbina-dalam untuk kebanyakan bahasa</li>
+      <li>Penyunting kod sisi-ke-sisi</li>
+      <li>Sokongan pemantau-berbilang</li>
+      <li>Peta-mini selayang pandang kod</li>
+      <li>Penyepaduan dengan Git</li>
+      <li>Penyepaduan dengan Autotools, Cargo, CMake, Gradle, Meson, Maven, Make, PHPize, dan Waf</li>
+      <li>Clang berasaskan auto-pelengkapan, penyorotan semantik, dan diagnostik</li>
+      <li>Python berasaskan auto-pelengkapan, penyorotan semantik, dan diagnostik</li>
+      <li>Clang berasaskan auto-pelengkapan dan diagnostik</li>
+      <li>Sokongan auto-pengensotan untuk C, Python, Vala, dan XML</li>
+      <li>Pratonton langsung HTML, Markdown, and reStructuredText, dan Sphinx</li>
+      <li>Penyuntingan gaya Vim, Emacs, dan SublimeText secara pilihan</li>
+      <li>Satu pemprofil perisian bersepadu untuk aplikasi tabii</li>
+      <li>Satu penyahpepijat bersepadu untuk aplikasi tabii</li>
+      <li>Sokongan untuk pembinaan dengan masa jalan jhbuild dan flatpak</li>
+      <li>Sokongan untuk melihat TODO yang ditemui dalam tapak kod anda</li>
+      <li>Gelintar teks kabur secara pantas merentasi fail dan simbol</li>
+    </ul>
+  </description>
+  <description lang="ne">
+    <p>बिल्डर लागि एक सक्रिय रुपमा विकसित विकास विकास वातावरण हो। यसले आवश्यक जिनोम टेक्नोलोजीहरू जस्तै GTK +, GLib, र जिनोम एपिआईहरूको लागि एकीकृत समर्थन जोड्दछ जुन कुनै पनि विकासकर्ताले सङ्कलन गर्नेछ, जस्तै सिन्ट्याक्स हाइलाइटिङ र स्निपेटहरू।</p>
+    <p>तपाईं हरेक छ महिनामा जिनोम को प्रत्येक नयाँ रिलीज संग बिल्डरको अनुमानित रिलीजहरूमा भरोसा गर्न सक्नुहुन्छ।</p>
+    <p>विशेषता:</p>
+    <ul>
+      <li>धेरै भाषाहरूको लागि सिन्ट्याक्स हाइलाइटिङमा निर्मित</li>
+      <li>क्ल्याङ्ग आधारित स्वत: पूरा, सिद्ध हाइलाइटिङ, र निदान</li>
+      <li>पायथोनमा आधारित स्वत: पूरा, अर्थशास्त्र हाइलाइटिङ, र निदान</li>
+      <li>सि, पायथोन, भाला, and एक्सएमएल को लागी स्वत: इन्डेन्टेशन समर्थन</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>Builder is een geïntegreerde ontwikkelomgeving voor Gnome die actief ontwikkeld wordt. Het combineert geïntegreerde ondersteuning voor essentiële Gnome-technologieën zoals GTK+, GLib en Gnome API’s met functies die elke ontwikkelaar zal waarderen, zoals syntaxmarkeringen en knipsels.</p>
+    <p>U kunt vertrouwen op regelmatige uitgaven van Builder tezamen met elke nieuwe uitgave van Gnome, elke zes maanden.</p>
+    <p>Functies:</p>
+    <ul>
+      <li>Ingebouwde syntaxmarkering voor veel talen</li>
+      <li>Code-editors naast elkaar</li>
+      <li>Ondersteuning voor meerdere schermen</li>
+      <li>Mini-overzichtsweergave van code</li>
+      <li>Integratie met Git</li>
+      <li>Integratie met Autotools, Cargo, CMake, Gradle, Meson, Maven, Make, PHPize en Waf</li>
+      <li>Clang-gebaseerd automatisch aanvullen, semantisch markeren, en bevindingen tonen</li>
+      <li>Python-gebaseerd automatisch aanvullen, semantisch markeren, en bevindingen tonen</li>
+      <li>Vala-gebaseerd automatisch aanvullen en bevindingen tonen</li>
+      <li>Ondersteuning voor automatisch inspringen voor C, Python, Vala en XML</li>
+      <li>HTML, Markdown en reStructuredText, en Sphinx live-voorbeeldweergave</li>
+      <li>Optioneel bewerken in Vim-, Emacs- en SublimeText-stijl</li>
+      <li>Een geïntegreerde software-profiler voor native toepassingen</li>
+      <li>Een geïntegreerde debugger voor native toepassingen</li>
+      <li>Ondersteuning voor compileren met jhbuild- en flatpak-runtimes</li>
+      <li>Ondersteuning voor de weergave van TODO’s in uw code</li>
+      <li>Snel fuzzy zoeken in bestanden en symbolen</li>
+    </ul>
+  </description>
+  <description lang="oc">
+    <p>Builder es un environament de desvolopament per GNOME activament desvolopat. Combina una presa en carga integrada per las tecnologias GNOME essencialas talas coma GTK+, GLib e las API GNOME amb de foncionalitats qu'agradarà a tot desvolopaire, coma la coloracion sintaxica e los extraits de còdi.</p>
+    <p>Builder seguís lo cicle de publicacion de GNOME amb de novèlas versions a cada sièis meses.</p>
+    <p>Foncionalitats :</p>
+    <ul>
+      <li>Coloracion sintaxica integrada per fòrça lengatges</li>
+      <li>Editor de còdi de còsta</li>
+      <li>Presa en carga multi-monitor</li>
+      <li>Integracion amb Git</li>
+      <li>Complecion automatica, coloracion semantica e diagnostics basats sus Clang</li>
+      <li>Complecion automatica, coloracion semantica e diagnostics basats sus Python</li>
+      <li>Complecion automatica e diagnostics basats sus Vala</li>
+      <li>Indentacion automatica per C, Python, Vala e XML</li>
+      <li>Apercebut per HTML, Markdown, reStructuredText e Sphinx</li>
+      <li>Un logicial de perfilatge integrat per las aplicacions nativas</li>
+      <li>Un desbugador integrat per las aplicacions nativas</li>
+      <li>Presa en carga per la construccion d’executables amb jhbuild e Flatpak</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <p>Builder to aktywnie rozwijane zintegrowane środowisko programistyczne dla projektu GNOME. Łączy ono zintegrowaną obsługę najważniejszych technologii GNOME, takich jak GTK, GLib i API platformy GNOME z funkcjami, które doceni każdy programista, takimi jak wyróżnianie elementów składni i wstawki.</p>
+    <p>Builder jest wydawany co sześć miesięcy, razem z nowym wydaniem środowiska GNOME.</p>
+    <p>Funkcje:</p>
+    <ul>
+      <li>Wbudowane wyróżnianie elementów składni w wielu językach</li>
+      <li>Dwa edytory kodu obok siebie</li>
+      <li>Obsługa wielu monitorów</li>
+      <li>Minimapa kodu</li>
+      <li>Integracja z systemem git</li>
+      <li>Integracja z Autotools, Cargo, CMake, Gradle, Meson, Maven, Make, PHPize i Waf</li>
+      <li>Automatyczne uzupełnianie, semantyczne wyróżnianie elementów składni i diagnostyka na podstawie kompilatora Clang</li>
+      <li>Automatyczne uzupełnianie, semantyczne wyróżnianie elementów składni i diagnostyka na podstawie języka Python</li>
+      <li>Automatyczne uzupełnianie i diagnostyka na podstawie języka Vala</li>
+      <li>Automatyczne wcięcia w językach C, Python, Vala i XML</li>
+      <li>Podgląd HTML, Markdown, reStructuredText i Sphinx na żywo</li>
+      <li>Opcjonalna edycja w stylu programów Vim, Emacs i SublimeText</li>
+      <li>Zintegrowany profiler oprogramowania dla natywnych programów</li>
+      <li>Zintegrowany debuger dla natywnych programów</li>
+      <li>Budowanie za pomocą JHBuild i środowisk wykonawczych Flatpak</li>
+      <li>Przeglądanie TODO znalezionych w kodzie</li>
+      <li>Szybkie wyszukiwanie tekstu w wielu plikach i symbolach</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>O Builder é um 'Ambiente de Desenvolvimento Integrado' (IDE) de desenvolvimento ativo para o GNOME. Este combina suporte integrado para tecnologias GNOME essenciais, tais como GTK+, GLib, e GNOME APIs com funcionalidades que qualquer programador irá apreciar, tais como "snippets" e realce de sintaxe.</p>
+    <p>Pode contar com novas versões previsíveis do Builder a cada novo lançamento do GNOME a cada seis meses.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Crie com realce de sintaxe para muitas linguagens</li>
+      <li>Editores de código lado a lado</li>
+      <li>Suporte para vários monitores</li>
+      <li>Míni mapa da visão geral do código</li>
+      <li>Integração com Git</li>
+      <li>Integração com Autotools, Cargo, CMake, Gradle, Meson, Maven, Make, PHPize, e Waf</li>
+      <li>Conclusão automática baseada em Clang, realce semântico, e diagnósticos</li>
+      <li>Conclusão automática baseada em Python, realce semântico, e diagnósticos</li>
+      <li>Conclusão automática baseada em Vala e diagnósticos</li>
+      <li>Suporte de indentação automática para C, Python, Vala e XML</li>
+      <li>HTML, Markdown e reStructuredText, e visualização em tempo real de Sphinx</li>
+      <li>Edição de texto opcionalmente em estilo de Vim, Emacs e SublimeText</li>
+      <li>Um perfilador de software integrado para aplicações nativas</li>
+      <li>Um depurador integrado para aplicações nativas</li>
+      <li>Suporte para a criação com jhbuild e tempos de execução flatpak</li>
+      <li>Suporte para visualizar Tarefas encontradas dentro da sua base de código</li>
+      <li>Pesquisa de texto rápida e flexível em ficheiros e símbolos</li>
+    </ul>
+  </description>
+  <description lang="pt_BR">
+    <p>O Builder é um Ambiente de Desenvolvimento Integrado (IDE) para o GNOME, com desenvolvimento ativo. Ele combina suporte integrado às principais tecnologias do GNOME como o GTK+, GLib, e APIs do GNOME com recursos que qualquer desenvolvedor irá apreciar, como realce de sintaxe e trechos de código.</p>
+    <p>Você pode contar com lançamentos predizíveis do Builder a cada seis meses, quando ocorrem novos lançamentos do GNOME.</p>
+    <p>Características:</p>
+    <ul>
+      <li>Realce de sintaxe embarcado para muitas linguagens</li>
+      <li>Editores de código lado a lado</li>
+      <li>Suporte a multimonitor</li>
+      <li>Minimapa de visão de geral de código</li>
+      <li>Integração com Git</li>
+      <li>Integração com Autotools, Cargo, CMake, Gradle, Meson, Maven, Make, PHPize e Waf</li>
+      <li>Autocompletar baseado em Clang, realce semântico e diagnósticos</li>
+      <li>Autocompletar baseado em Python, realce semântico e diagnósticos</li>
+      <li>Autocompletar baseado em Vala, realce semântico e diagnósticos</li>
+      <li>Suporte a recuo automático para C, Python, Vala e XML</li>
+      <li>HTML, Markdown e reStructuredText, e visualização em tempo real de Sphinx</li>
+      <li>Edição de texto opcionalmente em estilo de Vim, Emacs e SublimeText</li>
+      <li>Um perfilador de software integrado para aplicativos nativos</li>
+      <li>Um depurador integrado para aplicativos nativos</li>
+      <li>Suporte a compilação com runtime do Flatpak e do JHBuild</li>
+      <li>Suporte para visualizar Tarefas encontradas dentro da sua base de código</li>
+      <li>Pesquisa de texto rápida e flexível em arquivos e símbolos</li>
+    </ul>
+  </description>
+  <description lang="ro">
+    <p>Builder este un mediu de dezvoltare integrat dezvoltat activ pentru GNOME. Acesta combină suportul integrat pentru tehnologii GNOME esențiale cum ar fi GTK+, GLib și API-uri GNOME cu funcționalități care vor fi apreciate de orice dezvoltator, precum evidențierea sintaxei și blocuri de cod.</p>
+    <p>Puteți să vă bazați pe lansări predictibile ale Builder cu fiecare nouă lansare a GNOME odată la șase luni.</p>
+    <p>Funcționalități:</p>
+    <ul>
+      <li>Evidențiere de sintaxă încorporată pentru multe limbaje</li>
+      <li>Editoare de cod alăturate</li>
+      <li>Suport pentru monitoare multiple</li>
+      <li>Miniharta vederii de ansamblu a codului</li>
+      <li>Integrare cu Git</li>
+      <li>Integrare cu Autotools, Cargo, CMake, Gradle, Meson, Maven, Make, PHPize, și Waf</li>
+      <li>Completare automată, evidențiere semantică și diagnosticare bazate pe Clang</li>
+      <li>Completare automată, evidențierea semanticii, și diagnosticări bazate pe Python</li>
+      <li>Completare automată și diagnosticări bazate pe Vala</li>
+      <li>Suport pentru indentare automată pentru C, Python, Vala, și XML</li>
+      <li>Previzualizare în direct de HTML, Markdown, și reStructuredText, și Sphinx</li>
+      <li>Editare opțională în stilul Vim, Emacs, și SublimeText</li>
+      <li>Profiler de software integrat pentru aplicații native</li>
+      <li>Un depanator integrat pentru aplicații native</li>
+      <li>Suport pentru generare cu executări jhbuild și flatpak</li>
+      <li>Suport pentru vizualizarea TODO-urilor găsite în baza de cod</li>
+      <li>Căutare aproximativă de text rapidă asupra multiplelor fișiere și simboluri</li>
+    </ul>
+  </description>
+  <description lang="ru">
+    <p>Builder является активно развиваемой интегрированной средой разработки для GNOME. Приложение сочетает в себе встроенную поддержку основных технологий GNOME таких как GTK+, Glib и GNOME APIs, с функциями которые оценит любой разработчик, такими как подсветка синтаксиса и автодополнение фрагментов текста.</p>
+    <p>Вы можете рассчитывать на постоянные выпуски приложения Builder с новым выпуском GNOME каждые шесть месяцев.</p>
+    <p>Особенности:</p>
+    <ul>
+      <li>Встроенная подсветка синтаксиса для многочисленных языков</li>
+      <li>Многооконный редактор кода</li>
+      <li>Поддержка нескольких мониторов</li>
+      <li>Показывать обзорную мини-карту</li>
+      <li>Интеграция с Git</li>
+      <li>Интеграция с Autotools, Cargo, CMake, Gradle, Meson, Maven, Make, PHPize и Waf</li>
+      <li>Автодополнение на основе Clang, семантическая подсветка, и диагностика</li>
+      <li>Автодополнение на основе Python, семантическая подстветка, и диагностика</li>
+      <li>Автодополнение на основе Vala и диагностика</li>
+      <li>Поддержка автоматических отступов для C, Python, Vala, и XML</li>
+      <li>Предпросмотр HTML, Markdown и reStructuredText в режиме реального времени</li>
+      <li>Возможность редактирования в стиле Vim, Emacs и Sublime Text</li>
+      <li>Интегрированное программное обеспечение профайлера для собственных приложений</li>
+      <li>Интегрированный отладчик для приложений</li>
+      <li>Поддержка построения с помощью jhbuild и flatpak</li>
+      <li>Поддержка просмотра TODO, найденных в вашем проекте</li>
+      <li>Быстрый поиск нечёткого текста по файлам и символам</li>
+    </ul>
+  </description>
+  <description lang="sk">
+    <p>Stavbár je aktívne vyvíjané integrované vývojové prostredie pre GNOME. Kombinuje podporu základných technológií prostredia GNOME ako sú GTK+, GLib a rozhrania GNOME API s funkcionalitami, ktoré  ocení každý vývojár, ako napríklad zvýrazňovanie syntaxe či úryvky.</p>
+    <p>Môžete sa spoľahnúť na pravidelné vydania Stavbára, ktoré vychádzajú s každým novým vydaním GNOME každých šesť mesiacov.</p>
+    <p>Funkcie:</p>
+    <ul>
+      <li>Zabudované zvýrazňovanie syntaxe pre mnoho jazykov</li>
+      <li>Viacero editorov kódu vedľa seba</li>
+      <li>Prepojenie s Gitom</li>
+      <li>Automatické doplňovanie, zvýraznenie sémantiky a diagnostika nástrojmi Clangu</li>
+      <li>Automatické doplňovanie, zvýraznenie sémantiky a diagnostika nástrojmi Pythonu</li>
+      <li>Automatické doplňovanie a diagnostika nástrojmi Vala</li>
+      <li>Podpora automatického odsadzovania pre jazyky C, Python, Vala a XML</li>
+      <li>Priamy náhľad pre HTML, Markdown, reStructuredText a Sphinx </li>
+      <li>Zabudovaný nastroj na profilovanie vlastných aplikácií</li>
+      <li>Zabudovaný odlaďovač vlastných aplikácií</li>
+      <li>Podpora pre zostavovanie pomocou jhbuild a prostredím Flatpak</li>
+    </ul>
+  </description>
+  <description lang="sl">
+    <p>Program Builder je del Razvojnega okolja za namizje GNOME. Združuje podporo za ključne tehnologije okolja GNOME, kot so GTK+, GLib in GNOME API, z zmožnostmi, ki bodo močno v pomoč razvijalcem.</p>
+    <p>Posodobitve programa Builder bodo na voljo vsakih šest mesecev z objavo nove različice okolja GNOME.</p>
+    <p>Zmožnosti:</p>
+    <ul>
+      <li>Vgrajeno poudarjanje skladnje za mnogo programskih jezikov</li>
+      <li>Dvostrani urejevalniki kode</li>
+      <li>Podpora več monitorjem</li>
+      <li>Pokaži predogledni zemljevid kode</li>
+      <li>Povezljivost z Git</li>
+      <li>Podpora za Autotools, Cargo, CMake, Meson, Maven, Make, PHPize in Waf</li>
+      <li>Podpora za samodejno dopolnjevanje, poudarjanje skladnje in diagnostiko za jezik Clang</li>
+      <li>Podpora za samodejno dopolnjevanje, poudarjanje skladnje in diagnostiko za jezik Python</li>
+      <li>Podpora za samodejno dopolnjevanje in diagnostiko za jezik Vala</li>
+      <li>Samodejno zamikanje kode za jezike C, Python, Vala in XML</li>
+      <li>Predogled kode v HTML, Markdown, reStructuredText in Sphinx v živo</li>
+      <li>Izbirno urejanje v slogu Vim, Emacs in SublimeText</li>
+      <li>Programski profilirnik za izvorne programe</li>
+      <li>Programski razhroščevalnik za izvorne programe</li>
+      <li>Podpora za izgradnjo z izvajalnimi programi jhbuil in flatpak</li>
+      <li>Podpora za pregled nalog je najdena v kodi</li>
+      <li>Hitro iskanje besedila po datotekah in simbolih</li>
+    </ul>
+  </description>
+  <description lang="sr">
+    <p>Градитељ је интегрисано развојно окружење за Гном које се активно развија. Оно садржи уграђену подршку за основне Гномове технологије као што су ГТК+, Глиб и Гномове АПИ-је са могућностима као што су истицање кода и исечци кода, које ће сваки програмер ценити.</p>
+    <p>Можете се ослонити на предвидљива нова издања Градитеља која можете добити сваким изласком новог Гнома, на сваких шест месеци.</p>
+    <p>Могућности:</p>
+    <ul>
+      <li>Уграђено истицање синтаксе за доста језика</li>
+      <li>Упоредни уређивачи кода</li>
+      <li>Подршка за више екрана</li>
+      <li>Минијатурни преглед кода</li>
+      <li>Усклађеност са Гитом</li>
+      <li>Уграђена подршка за Ауто-алатке, Карго (Cargo), Си-мејк (Cmake), Грејдл (Gradle), Мезон (Meson), Мејвен (Maven), Мејк (Make), Пи-Ејч-Пајз (PHPize) и Ваф (Waf)</li>
+      <li>Самодовршавање, семантичко истицање и дијагностика преко Це-ланга</li>
+      <li>Самодовршавање, семантичко истицање и дијагностика преко Пајтона</li>
+      <li>Самодовршавање и дијагностика преко Вале</li>
+      <li>Самостално увлачење за Це, Пајтон, Вала и Икс-МЛ језике</li>
+      <li>Живи претпреглед за HTML, Маркдаун, реструктурисани текст и Сфингу (Sphinx)</li>
+      <li>Могућност изборног Вим, Емакс и Саблајм Текст начина уређивања</li>
+      <li>Уграђени профилатор програма за рачунарске програме</li>
+      <li>Уграђени поправљач грешака за рачунарске програме</li>
+      <li>Подршка за изградњу са jhbuild и флетпек извршним окружењима</li>
+      <li>Подршка за прегледање спискова задатака нађених у вашој бази кода</li>
+      <li>Брза претрага мутног текста у свим датотекама и симболима</li>
+    </ul>
+  </description>
+  <description lang="sr@latin">
+    <p>Graditelj je integrisano razvojno okruženje za Gnom koje se aktivno razvija. Ono sadrži ugrađenu podršku za osnovne Gnomove tehnologije kao što su GTK+, Glib i Gnomove API-je sa mogućnostima kao što su isticanje koda i isečci koda, koje će svaki programer ceniti.</p>
+    <p>Možete se osloniti na predvidljiva nova izdanja Graditelja koja možete dobiti svakim izlaskom novog Gnoma, na svakih šest meseci.</p>
+    <p>Mogućnosti:</p>
+    <ul>
+      <li>Ugrađeno isticanje sintakse za dosta jezika</li>
+      <li>Uporedni uređivači koda</li>
+      <li>Usklađenost sa Gitom</li>
+      <li>Samodovršavanje, semantičko isticanje i dijagnostika preko Ce-langa</li>
+      <li>Samodovršavanje, semantičko isticanje i dijagnostika preko Pajtona</li>
+      <li>Samodovršavanje i dijagnostika preko Vale</li>
+      <li>Samostalno uvlačenje za Ce, Pajton, Vala i Iks-ML jezike</li>
+      <li>Živi pretpregled za HTML, Markdaun, restrukturisani tekst i Sfingu (Sphinx)</li>
+      <li>Ugrađeni profilator programa za računarske programe</li>
+      <li>Ugrađeni popravljač grešaka za računarske programe</li>
+      <li>Podrška za izgradnju sa jhbuild i fletpek izvršnim okruženjima</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <p>Builder är en aktivt utvecklad integrerad utvecklingsmiljö (Integrated Development Environment, IDE) för GNOME. Den kombinerar integrerat stöd för nödvändiga GNOME-teknologier som GTK+, GLib och GNOME-API:n med funktioner som alla utvecklare kommer uppskatta, som syntaxmarkering och kodsnuttar.</p>
+    <p>Du kan lita på förutsägbara utgåvor av Builder med varje ny utgåva av GNOME var sjätte månad.</p>
+    <p>Funktioner:</p>
+    <ul>
+      <li>Inbyggd syntaxmarkering för många språk</li>
+      <li>Flera kodredigerare bredvid varandra</li>
+      <li>Stöd för flera skärmar</li>
+      <li>Minikarta för kodöversikt</li>
+      <li>Integration med Git</li>
+      <li>Integration med Autotools, Cargo, CMake, Gradle, Meson, Maven, Make, PHPize och Waf</li>
+      <li>Clang-baserad automatisk komplettering, semantisk färgmarkering och diagnostik</li>
+      <li>Python-baserad automatisk komplettering, semantisk färgmarkering och diagnostik</li>
+      <li>Vala-baserad automatisk komplettering och diagnostik</li>
+      <li>Stöd för automatisk indentering för C, Python, Vala och XML</li>
+      <li>Direkt förhandsgranskning av HTML, Markdown, reStructuredText och Sphinx</li>
+      <li>Möjlighet att redigera i Vim-, Emacs- och SublimeText-stil</li>
+      <li>En integrerad programvaruprofilerare för inhemska program</li>
+      <li>En integrerad felsökare för inhemska program</li>
+      <li>Stöd för att bygga med jhbuild och flatpak-exekveringsmiljöer</li>
+      <li>Stöd för att visa TODO-kommentarer som finns i din kodbas</li>
+      <li>Snabb luddig textsökning genom över filer och symboler</li>
+    </ul>
+  </description>
+  <description lang="tr">
+    <p>Builder, GNOME için aktif olarak geliştirilen Tümleşik Geliştirme Ortamıdır. GTK+, GLib ve GNOME API’leri gibi başlıca GNOME teknolojileri için tümleşik destek ile sözdizimi vurgulama ve kod parçaları gibi her geliştiricinin işine yarayacak özellikleri birleştirir.</p>
+    <p>Her altı ayda bir GNOME’un yeni sürümüyle birlikte Builder’ın da yeni bir sürümü çıkacağından emin olabilirsiniz.</p>
+    <p>Özellikler:</p>
+    <ul>
+      <li>Birçok dil için tümleşik sözdizimi vurgulama</li>
+      <li>Yan yana kod düzenleyiciler</li>
+      <li>Çoklu ekran desteği</li>
+      <li>Kod gözden geçirme küçük haritası</li>
+      <li>Git tümleşimi</li>
+      <li>Autotools, Cargo, CMake, Gradle, Meson, Maven, Make, PHPize, ve Waf ile tümleşim</li>
+      <li>Clang temelli kendiliğinden tamamlama, anlamsal vurgulama ve tanılama</li>
+      <li>Python temelli kendiliğinden tamamlama, anlamsal vurgulama ve tanılama</li>
+      <li>Vala temelli kendiliğinden tamamlama ve tanılama</li>
+      <li>C, Python, Vala ve XML için kendiliğinden girintileme desteği</li>
+      <li>HTML, Markdown, ve reStructuredTest, ve Sphinx canlı ön izleme</li>
+      <li>İsteğe bağlı Vim, Emacs, ve SublimeText tarzı düzenleme</li>
+      <li>Yerli uygulamalar için tümleşik yazılım profilleyici</li>
+      <li>Yerli uygulamalar için tümleşik hata ayıklayıcısı</li>
+      <li>Flatpak çalışma zamanları ve jhbuild ile inşa desteği</li>
+      <li>Kod temelinizle bulunan TODO notlarını görüntüleme desteği</li>
+      <li>Dosyalar ve simgeler arası hızlı bulanık metin arama</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>«Будівник» є комплексним середовищем розробки (IDE) для GNOME із інтенсивним процесом розробляння. У програмі поєднано інтегровану підтримку основних технологій GNOME, зокрема GTK+, GLib, та програмних інтерфейсів GNOME, із можливостями, які подобаються усім розробникам, зокрема підсвічуванням синтаксичних конструкцій та фрагментами.</p>
+    <p>Випуски «Будівника» стабільно синхронізовано із випусками GNOME, які відбуваються кожні шість місяців.</p>
+    <p>Можливості:</p>
+    <ul>
+      <li>Вбудоване підсвічування синтаксичних конструкцій для багатьох мов програмування</li>
+      <li>Панелі паралельного редагування коду</li>
+      <li>Підтримка конфігурацій із багатьма моніторами</li>
+      <li>Мінікарта для огляду коду</li>
+      <li>Інтеграція із Git</li>
+      <li>Інтеграція із Autotools, Cargo, CMake, Gradle, Meson, Maven, Make, PHPize та Waf</li>
+      <li>Автоматичне доповнення коду на основі Clang, семантичне підсвічування та діагностика</li>
+      <li>Автоматичне доповнення коду на основі Python, семантичне підсвічування та діагностика</li>
+      <li>Автоматичне доповнення та діагностика коду Vala</li>
+      <li>Підтримка автоматичних відступів у коді для C, Python, Vala та XML</li>
+      <li>Інтерактивний перегляд результатів обробки коду HTML, Markdown, reStructuredText та Sphinx</li>
+      <li>Можливе редагування коду у стилі Vim, Emacs та SublimeText</li>
+      <li>Інтегрований засіб профілювання для «рідних» програм</li>
+      <li>Інтегрований засіб діагностики для «рідних» програм</li>
+      <li>Підтримка збирання пакунків-комплектів jhbuild та flatpak</li>
+      <li>Підтримка перегляду записів TODO у коді</li>
+      <li>Швидкий нечіткий пошук тексту у файлах та символах</li>
+    </ul>
+  </description>
+  <description lang="zh_CN">
+    <p>构建器是一个为 GNOME 打造的集成开发环境，目前正在积极开发中。它集成了对 GNOME 所必需的技术的支持，如 GTK+、GLib 和 GNOME API 等，并结合了像语法高亮和代码片段等任何开发者都会重视的特性。</p>
+    <p>按 GNOME 每六个月的发布周期，您可以预见每次构建器的发布时间。</p>
+    <p>特性：</p>
+    <ul>
+      <li>为许多语言内置的语法高亮</li>
+      <li>分栏式代码编辑器</li>
+      <li>多显示器支持</li>
+      <li>代码概览图</li>
+      <li>Git 集成</li>
+      <li>Autotools、Cargo、CMake、Gradle、Meson、Maven、Make、PHPize 和 waf 集成</li>
+      <li>基于 Clang 的自动补全、语义高亮和诊断</li>
+      <li>基于 Python 的自动补全、语义高亮和诊断</li>
+      <li>基于 Vala 的自动补全和语法诊断</li>
+      <li>支持 C、Python、Vala 和 XML 的自动缩进</li>
+      <li>HTML、Markdown、重组织文本和 Sphinx 实时预览</li>
+      <li>可选的 Vim、Emacs 和 SublimeText 编辑风格</li>
+      <li>为本地应用程序集成的软件分析器</li>
+      <li>一个集成的本地应用程序调试工具</li>
+      <li>支持用 jhbuild 和 flatpak 运行时进行构建</li>
+      <li>支持查看您的代码里发现的待办事项</li>
+      <li>跨越文件和符号的快速模糊文本搜索</li>
+    </ul>
+  </description>
+  <description lang="zh_TW">
+    <p>Builder 是 積極開發的 GNOME 整合式開發環境。它結合 GTK +、Glib 和 GNOME API 等基本的 GNOME 技術整合的支援，以及任何開發人員都讚賞，像語法標示和文字片段的功能。</p>
+    <p>您可以預期 Builder 會隨著 GNOME 每六個月的更新周期推出新的釋出版本。</p>
+    <p>功能：</p>
+    <ul>
+      <li>內建許多語言的語法標示</li>
+      <li>同步程式碼編輯器</li>
+      <li>整合 Git</li>
+      <li>基於 Clang 的自動補齊、語義標示和診斷</li>
+      <li>基於 Python 的自動補齊、語義標示和診斷</li>
+      <li>基於 Vala 的自動補齊和診斷</li>
+      <li>C、Python、Vala 和 XML 的自動縮排支援</li>
+      <li>對原生應用程式整合的軟體效能分析器</li>
+    </ul>
+  </description>
+  <pkgname>gnome-builder</pkgname>
+  <icon height="64" type="cached" width="64">org.gnome.Builder.png</icon>
+  <icon width="128" height="128" type="cached">org.gnome.Builder.png</icon>
+  <id>org.gnome.Builder.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+ and GPL-2.0+ and LGPL-3.0+ and LGPL-2.0+ and MIT</project_license>
+  <name>Builder</name>
+  <name lang="zh_TW">Builder</name>
+  <name lang="zh_CN">构建器</name>
+  <name lang="uk">Будівник</name>
+  <name lang="tr">Builder</name>
+  <name lang="sv">Builder</name>
+  <name lang="sr@latin">Graditelj</name>
+  <name lang="sr">Градитељ</name>
+  <name lang="sl">Izgrajevalnik</name>
+  <name lang="sk">Stavbár</name>
+  <name lang="ru">Builder</name>
+  <name lang="ro">Builder</name>
+  <name lang="pt_BR">Builder</name>
+  <name lang="pt">Builder</name>
+  <name lang="pl">Builder</name>
+  <name lang="oc">Builder</name>
+  <name lang="nl">Builder</name>
+  <name lang="ne">बिल्डर</name>
+  <name lang="nb">Bygger</name>
+  <name lang="ms">Pembina</name>
+  <name lang="lv">Būvētājs</name>
+  <name lang="lt">Kūrėjas</name>
+  <name lang="ko">빌더</name>
+  <name lang="kk">Құрастырушы</name>
+  <name lang="ja">ビルダー</name>
+  <name lang="it">Builder</name>
+  <name lang="id">Builder</name>
+  <name lang="hu">Építő</name>
+  <name lang="he">Builder</name>
+  <name lang="gl">Construtor</name>
+  <name lang="fur">Builder</name>
+  <name lang="fr">Builder</name>
+  <name lang="fi">Builder</name>
+  <name lang="eu">Builder</name>
+  <name lang="es">Builder</name>
+  <name lang="eo">Konstruilo</name>
+  <name lang="en_GB">Builder</name>
+  <name lang="el">Κατασκευαστής</name>
+  <name lang="de">Builder</name>
+  <name lang="da">Builder</name>
+  <name lang="cs">Builder</name>
+  <name lang="ca@valencia">Constructor</name>
+  <name lang="ca">Constructor</name>
+  <name lang="bs">Graditelj</name>
+  <summary>An IDE for GNOME</summary>
+  <summary lang="zh_TW">GNOME 的 IDE</summary>
+  <summary lang="zh_CN">GNOME 的集成开发环境</summary>
+  <summary lang="uk">Середовище розробляння для GNOME</summary>
+  <summary lang="tr">GNOME için IDE</summary>
+  <summary lang="sv">En utvecklingsmiljö för GNOME</summary>
+  <summary lang="sr@latin">IDE (integrisano razvojno okruženje) za Gnom</summary>
+  <summary lang="sr">ИДЕ (интегрисано развојно окружење) за Гном</summary>
+  <summary lang="sl">IDE za okolje GNOME</summary>
+  <summary lang="sk">Integrované vývojové prostredie pre GNOME</summary>
+  <summary lang="ru">IDE для GNOME</summary>
+  <summary lang="ro">Un IDE pentru GNOME</summary>
+  <summary lang="pt_BR">Uma IDE para o GNOME</summary>
+  <summary lang="pt">Um IDE para o GNOME</summary>
+  <summary lang="pl">Zintegrowane środowisko programistyczne dla GNOME</summary>
+  <summary lang="oc">Un EDI per GNOME</summary>
+  <summary lang="nl">Een geïntegreerde ontwikkelingsomgeving voor Gnome</summary>
+  <summary lang="nb">Et IDE for GNOME</summary>
+  <summary lang="ms">Sebuah IDE untuk GNOME</summary>
+  <summary lang="ml">ഗ്നോമിനുള്ള IDE</summary>
+  <summary lang="lv">IDE GNOME videi</summary>
+  <summary lang="lt">IDE GNOME aplinkai</summary>
+  <summary lang="ko">그놈 통합 개발 환경</summary>
+  <summary lang="kk">GNOME үшін IDE</summary>
+  <summary lang="it">Un IDE per GNOME</summary>
+  <summary lang="id">IDE untuk GNOME</summary>
+  <summary lang="hu">Integrált fejlesztői környezet a GNOME-hoz</summary>
+  <summary lang="he">סביבת פיתוח משולבת עבור GNOME</summary>
+  <summary lang="gl">Un IDE para GNOME</summary>
+  <summary lang="fr">Un EDI pour GNOME</summary>
+  <summary lang="fi">Sovelluskehitin Gnomelle</summary>
+  <summary lang="eu">IDE bat GNOMErako</summary>
+  <summary lang="es">Un EID para GNOME</summary>
+  <summary lang="eo">Programada medio por GNOME</summary>
+  <summary lang="en_GB">An IDE for GNOME</summary>
+  <summary lang="el">Ένα IDE για το GNOME</summary>
+  <summary lang="de">Eine integrierte Entwicklungsumgebung für GNOME</summary>
+  <summary lang="da">Et IDE til GNOME</summary>
+  <summary lang="cs">IDE pro GNOME</summary>
+  <summary lang="ca@valencia">Un IDE per al GNOME</summary>
+  <summary lang="ca">Un IDE per al GNOME</summary>
+  <developer_name>Christian Hergert, et al.</developer_name>
+  <developer_name lang="zh_CN">Christian Hergert 等人</developer_name>
+  <developer_name lang="uk">Christian Hergert та інші</developer_name>
+  <developer_name lang="tr">Christian Hergert ve arkadaşları.</developer_name>
+  <developer_name lang="sv">Christian Hergert med flera.</developer_name>
+  <developer_name lang="sr">Кристијан Хергерт (Christian Hergert) и други.</developer_name>
+  <developer_name lang="sl">Christian Hergert in drugi</developer_name>
+  <developer_name lang="ru">Кристиан Хергерт и др.</developer_name>
+  <developer_name lang="ro">Christian Hergert, și colab.</developer_name>
+  <developer_name lang="pt_BR">Christian Hergert, et al.</developer_name>
+  <developer_name lang="pt">Christian Hergert, et al.</developer_name>
+  <developer_name lang="pl">Christian Hergert i inni</developer_name>
+  <developer_name lang="oc">Christian Hergert, et al.</developer_name>
+  <developer_name lang="nl">Christian Hergert, et al.</developer_name>
+  <developer_name lang="ms">Christian Hergert, et al.</developer_name>
+  <developer_name lang="lt">Christian Hergert ir kiti</developer_name>
+  <developer_name lang="ko">Christian Hergert 등.</developer_name>
+  <developer_name lang="kk">Christian Hergert, et al.</developer_name>
+  <developer_name lang="it">Christian Hergert, et al.</developer_name>
+  <developer_name lang="id">Christian Hergert, et al.</developer_name>
+  <developer_name lang="hu">Christian Hergert, et al.</developer_name>
+  <developer_name lang="he">Christian Hergert, et al.</developer_name>
+  <developer_name lang="gl">Christian Hergert, e outros.</developer_name>
+  <developer_name lang="fr">Christian Hergert, et al.</developer_name>
+  <developer_name lang="fi">Christian Hergert ja muut</developer_name>
+  <developer_name lang="eu">Christian Hergert, et al.</developer_name>
+  <developer_name lang="es">Christian Hergert, y otros</developer_name>
+  <developer_name lang="eo">Christian HERGERT, kaj aliaj.</developer_name>
+  <developer_name lang="en_GB">Christian Hergert, et al.</developer_name>
+  <developer_name lang="el">Christian Hergert, και άλλοι.</developer_name>
+  <developer_name lang="de">Christian Hergert, und weitere.</developer_name>
+  <developer_name lang="da">Christian Hergert med flere</developer_name>
+  <developer_name lang="cs">Christian Hergert a spol.</developer_name>
+  <developer_name lang="ca">Christian Hergert, et al.</developer_name>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Quickly access your projects</caption>
+      <caption lang="zh_CN">快速访问您的工程</caption>
+      <caption lang="uk">Швидкий доступ до ваших проєктів</caption>
+      <caption lang="tr">Projelerinize hızlıca erişin</caption>
+      <caption lang="sv">Kom snabbt åt dina dina projekt</caption>
+      <caption lang="sr@latin">Brzo pristupite vašim projektima</caption>
+      <caption lang="sr">Брзо приступите вашим пројектима</caption>
+      <caption lang="sl">Hiter dostop do datotek projektov</caption>
+      <caption lang="sk">Rýchly prístup k vašim projektom</caption>
+      <caption lang="ru">Быстрый доступ к вашим проектам</caption>
+      <caption lang="ro">Accesați rapid proiectele</caption>
+      <caption lang="pt_BR">Acesso rápido aos seus projetos</caption>
+      <caption lang="pt">Aceda rapidamente aos seus projetos</caption>
+      <caption lang="pl">Szybki dostęp do projektów</caption>
+      <caption lang="oc">Accedissètz rapidament a vòstres projèctes</caption>
+      <caption lang="nl">Snel toegang krijgen tot uw projecten</caption>
+      <caption lang="ms">Capai projek-projek anda secara pantas</caption>
+      <caption lang="lv">Ātri piekļūstiet saviem projektiem</caption>
+      <caption lang="lt">Greitai pasiekite savo projektus</caption>
+      <caption lang="ko">프로젝트에 빠르게 접근</caption>
+      <caption lang="it">Accesso rapido dei progetti</caption>
+      <caption lang="id">Secara cepat mengakses proyek Anda</caption>
+      <caption lang="hu">A projektek gyors elérése</caption>
+      <caption lang="he">גישה מהיר למיזמים שלך</caption>
+      <caption lang="gl">Acceso rápido aos seus proxectos</caption>
+      <caption lang="fur">Acès veloç ai tiei progjets</caption>
+      <caption lang="fr">Accédez rapidement à vos projets</caption>
+      <caption lang="eu">Proiektuen atzipen azkarra</caption>
+      <caption lang="es">Acceso rápido a sus proyectos</caption>
+      <caption lang="eo">Rapide aliri viajn projektojn</caption>
+      <caption lang="en_GB">Quickly access your projects</caption>
+      <caption lang="de">Schneller Zugriff auf alle Ihre Projekte</caption>
+      <caption lang="da">Hurtig adgang til dine projekter</caption>
+      <caption lang="cs">Rychlý přístup k vašim projektům</caption>
+      <caption lang="ca">Accés ràpid als teus projectes</caption>
+      <image width="2104" height="1398">https://gitlab.gnome.org/GNOME/gnome-builder/raw/4aa3486375c618dc97f5477d42bf3674c44f7189/data/appdata/01-greeter.png</image>
+    </screenshot>
+    <screenshot type="default">
+      <caption>Create new projects from a variety of templates</caption>
+      <caption lang="zh_CN">使用多种模版新建工程</caption>
+      <caption lang="uk">Створення проєктів на основі широкого діапазону шаблонів</caption>
+      <caption lang="tr">Çeşitli şablonlardan yeni projeler oluşturun</caption>
+      <caption lang="sv">Skapa nya projekt från en uppsjö av mallar</caption>
+      <caption lang="sr@latin">Napravite novi projekat pomoću velikog broja šablona</caption>
+      <caption lang="sr">Направите нови пројекат помоћу великог броја шаблона</caption>
+      <caption lang="sl">Ustvari nov projekt s pomočjo različnih predlog</caption>
+      <caption lang="sk">Vytváranie nových projektov z rôznych dostupných šablón</caption>
+      <caption lang="ru">Создавайте новые проекты из различных шаблонов</caption>
+      <caption lang="ro">Creați proiecte noi de la o varietate de șabloane</caption>
+      <caption lang="pt_BR">Crie novos projetos de uma variedade de modelos</caption>
+      <caption lang="pt">Crie novos projetos com uma variedade de modelos</caption>
+      <caption lang="pl">Tworzenie nowych projektów z różnych szablonów</caption>
+      <caption lang="oc">Crear de novèls projèctes amb de nombroses modèls</caption>
+      <caption lang="nl">Nieuwe projecten aanmaken op basis van een variëteit aan sjablonen</caption>
+      <caption lang="ms">Cipta projek baharu menerusi pelbagai jenis templat</caption>
+      <caption lang="lv">Izveidot jaunu projektu no dažādām veidnēm</caption>
+      <caption lang="lt">Sukurkite naujus projektus pagal įvairius šablonus</caption>
+      <caption lang="ko">여러가지 서식에서 새 프로젝트를 만듭니다</caption>
+      <caption lang="it">Creazione di nuovi progetti a partire da diversi modelli</caption>
+      <caption lang="id">Buat proyek baru dari berbagai templat</caption>
+      <caption lang="hu">Új projekt létrehozása számos sablonból</caption>
+      <caption lang="he">יצירת מיזם חדש ממנעד של תבניות</caption>
+      <caption lang="gl">Crea un novo proxecto desde varios modelos</caption>
+      <caption lang="fr">Créer de nouveaux projets avec de nombreux modèles</caption>
+      <caption lang="fi">Luo uusia projekteja useista eri mallipohjista</caption>
+      <caption lang="eu">Proiektu berriak txantiloien multzo handi batetik abiatuta sortzea</caption>
+      <caption lang="es">Crear proyectos nuevos desde una amplia variedad de plantillas</caption>
+      <caption lang="eo">Krei novajn projektojn el diversaj ŝablonoj</caption>
+      <caption lang="en_GB">Create new projects from a variety of templates</caption>
+      <caption lang="el">Δημιουργία νέων έργων από μια ποικιλία προτύπων</caption>
+      <caption lang="de">Ein neues Projekt aus einer Reihe von Vorlagen anlegen</caption>
+      <caption lang="da">Opret nye projekter fra et udvalg af skabeloner</caption>
+      <caption lang="cs">Vytváření nových projektů z různorodých šablon</caption>
+      <caption lang="ca">Creeu projectes nous a partir d'una varietat de plantilles</caption>
+      <image width="2104" height="1580">https://gitlab.gnome.org/GNOME/gnome-builder/raw/4aa3486375c618dc97f5477d42bf3674c44f7189/data/appdata/02-template.png</image>
+    </screenshot>
+    <screenshot type="default">
+      <caption>Integration with Git to clone your projects</caption>
+      <caption lang="zh_CN">与 Git 集成以克隆您的工程</caption>
+      <caption lang="uk">Інтеграція із Git для клонування ваших проєктів</caption>
+      <caption lang="tr">Projelerinizi klonlamak için Git tümleşmesi</caption>
+      <caption lang="sv">Integration med Git för att klona dina projekt</caption>
+      <caption lang="sr@latin">Usklađenost sa Gitom radi kloniranja vaših projekata</caption>
+      <caption lang="sr">Усклађеност са Гитом ради клонирања ваших пројеката</caption>
+      <caption lang="sl">Povezljivost z Git za kloniranje projektov</caption>
+      <caption lang="sk">Prepojenie s Gitom kvôli klonovaniu vašich projektov</caption>
+      <caption lang="ru">Интеграция с Git для клонирования ваших проектов</caption>
+      <caption lang="ro">Integrare cu Git pentru a clona proiectele</caption>
+      <caption lang="pt_BR">Integração com Git para clonar seus projetos</caption>
+      <caption lang="pt">Integração com Git para clonar os seus projetos</caption>
+      <caption lang="pl">Integracja z systemem git do klonowania projektów</caption>
+      <caption lang="oc">Integracion amb Git per clonar vòstres projèctes</caption>
+      <caption lang="nl">Integratie met Git om uw projecten te klonen</caption>
+      <caption lang="ms">Penyepaduan dengan Git untuk mengklon projek-projek anda</caption>
+      <caption lang="lv">Integrācija ar Git, lai klonētu savus projektus</caption>
+      <caption lang="lt">Integracija su su Git projektų klonavimui</caption>
+      <caption lang="ko">프로젝트 복제하는데 깃 연동</caption>
+      <caption lang="it">Integrazione con Git per clonare i propri progetti</caption>
+      <caption lang="id">Integrasi dengan Git untuk mengklon proyek ANda</caption>
+      <caption lang="hu">Git integráció a projektek klónozásához</caption>
+      <caption lang="he">שילוב עם Git לשיבוט המיזם שלך</caption>
+      <caption lang="gl">Integración con Git para clonar os seus proxectos</caption>
+      <caption lang="fur">Integrazion cun Git par clonâ i tiei progjets</caption>
+      <caption lang="fr">Intégration avec Git pour cloner vos projets</caption>
+      <caption lang="eu">Integrazio Git sistemarekin zure proiektuak klonatzeko</caption>
+      <caption lang="es">Integración con Git para clonar sus proyectos</caption>
+      <caption lang="eo">Integrigo kun Git por kloni viajn projektojn</caption>
+      <caption lang="en_GB">Integration with Git to clone your projects</caption>
+      <caption lang="de">Integration von Git zum Klonen Ihrer Projekte</caption>
+      <caption lang="da">Integration med Git til at klone dine projekter</caption>
+      <caption lang="cs">Integrace se systémem Git pro rychlé klonování projektů</caption>
+      <caption lang="ca">Integració amb Git per a clonar els vostres projectes</caption>
+      <image width="2104" height="1398">https://gitlab.gnome.org/GNOME/gnome-builder/raw/4aa3486375c618dc97f5477d42bf3674c44f7189/data/appdata/03-clone.png</image>
+    </screenshot>
+    <screenshot type="default">
+      <caption>The source code editor</caption>
+      <caption lang="zh_CN">源代码编辑器</caption>
+      <caption lang="uk">Редактор коду</caption>
+      <caption lang="tr">Kaynak kod düzenleyici</caption>
+      <caption lang="sv">Källkodsredigeraren</caption>
+      <caption lang="sr@latin">Uređivač izvornog koda</caption>
+      <caption lang="sr">Уређивач изворног кода</caption>
+      <caption lang="sl">Urejevalnik izvorne kode</caption>
+      <caption lang="sk">Editor zdrojového kódu</caption>
+      <caption lang="ru">Редактор исходного кода</caption>
+      <caption lang="ro">Editorul de cod sursă</caption>
+      <caption lang="pt_BR">O editor de código-fonte</caption>
+      <caption lang="pt">O editor de código fonte</caption>
+      <caption lang="pl">Edytor kodu źródłowego</caption>
+      <caption lang="oc">L’editor de còdi font</caption>
+      <caption lang="nl">De broncode-editor</caption>
+      <caption lang="ms">Penyunting kod sumber</caption>
+      <caption lang="lv">Pirmkoda redaktors</caption>
+      <caption lang="lt">Programos kodo redaktorius</caption>
+      <caption lang="ko">소스 코드 편집기</caption>
+      <caption lang="kk">Бастапқы код редакторы</caption>
+      <caption lang="it">Editor codice sorgente</caption>
+      <caption lang="id">Penyunting kode sumber</caption>
+      <caption lang="hu">A forráskód-szerkesztő</caption>
+      <caption lang="he">עורך קוד מקור</caption>
+      <caption lang="gl">O editor de código fonte</caption>
+      <caption lang="fr">L’éditeur de code source</caption>
+      <caption lang="fi">Lähdekoodimuokkain</caption>
+      <caption lang="eu">Iturburu-kodearen editorea</caption>
+      <caption lang="es">El editor de código fuente</caption>
+      <caption lang="eo">La fontkoda redaktilo</caption>
+      <caption lang="en_GB">The source code editor</caption>
+      <caption lang="el">Επεξεργαστής πηγαίου κώδικα</caption>
+      <caption lang="de">Der Quellcode-Editor</caption>
+      <caption lang="da">Kildekoderedigeringen</caption>
+      <caption lang="cs">Editor zdrojového kódu</caption>
+      <caption lang="ca">L'editor de codi font</caption>
+      <image width="2976" height="1774">https://gitlab.gnome.org/GNOME/gnome-builder/raw/4aa3486375c618dc97f5477d42bf3674c44f7189/data/appdata/04-editor.png</image>
+    </screenshot>
+    <screenshot type="default">
+      <caption>Fast global fuzzy search</caption>
+      <caption lang="zh_CN">快速全局模糊搜索</caption>
+      <caption lang="uk">Швидкий загальний нечіткий пошук</caption>
+      <caption lang="tr">Hızlı genel bulanık arama</caption>
+      <caption lang="sv">Snabb global luddig sökning</caption>
+      <caption lang="sr@latin">Brza globalna približna pretraga</caption>
+      <caption lang="sr">Брза глобална приближна претрага</caption>
+      <caption lang="sl">Hitro ohlapno splošno iskanje</caption>
+      <caption lang="sk">Rýchle globálne vyhľadávanie</caption>
+      <caption lang="ru">Быстрый глобальный поиск</caption>
+      <caption lang="ro">Căutare globală rapidă fuzzy</caption>
+      <caption lang="pt_BR">Pesquisa aproximada global rápida</caption>
+      <caption lang="pt">Pesquisa imprecisa global rápida</caption>
+      <caption lang="pl">Szybkie globalne wyszukiwanie</caption>
+      <caption lang="oc">Recèrca globala fosca rapida</caption>
+      <caption lang="nl">Snel overal zoeken</caption>
+      <caption lang="ms">Gelintar kabur sejagat dengan pantas</caption>
+      <caption lang="lv">Ātra globālā aptuvenā meklēšana</caption>
+      <caption lang="lt">Greita visuotinė neaiškių paieška</caption>
+      <caption lang="ko">빠른 전체 퍼지 검색</caption>
+      <caption lang="it">Efficiente ricerca globale</caption>
+      <caption lang="id">Pencarian fuzzy global yang cepat</caption>
+      <caption lang="hu">Gyors általános fuzzy keresés</caption>
+      <caption lang="he">חיפוש מקיף מהיר</caption>
+      <caption lang="gl">Busca difusa global rápida</caption>
+      <caption lang="fr">Recherche globale floue rapide</caption>
+      <caption lang="eu">Bilaketa lauso global azkarra</caption>
+      <caption lang="es">Búsqueda difusa global rápida</caption>
+      <caption lang="eo">Rapida malloka svaga serĉo</caption>
+      <caption lang="en_GB">Fast global fuzzy search</caption>
+      <caption lang="de">Schnelle, globale, fehlertolerante Suche</caption>
+      <caption lang="da">Hurtig global uskarp (fuzzy) søgning</caption>
+      <caption lang="cs">Rychlé globální hledání s odhady</caption>
+      <caption lang="ca">Cerca difusa global ràpida</caption>
+      <image height="963" width="1232">https://gitlab.gnome.org/GNOME/gnome-builder/raw/4aa3486375c618dc97f5477d42bf3674c44f7189/data/appdata/05-search.png</image>
+    </screenshot>
+    <screenshot type="default">
+      <caption>Debug with the GNU debugger</caption>
+      <caption lang="zh_CN">使用 GNU debugger 调试</caption>
+      <caption lang="uk">Діагностика за допомогою GNU debugger</caption>
+      <caption lang="tr">GNU hata ayıklayıcıyla hata ayıklayın</caption>
+      <caption lang="sv">Felsök med GNU debugger</caption>
+      <caption lang="sr@latin">Ispravljaj greške sa GNU-ovim popravljačem grešaka</caption>
+      <caption lang="sr">Исправљај грешке са ГНУ-овим поправљачем грешака</caption>
+      <caption lang="sl">Izvedi razhroščevanje z razhroščevalnikom GNU</caption>
+      <caption lang="sk">Ladenie pomocou odlaďovača GNU debugger</caption>
+      <caption lang="ru">Отладка с отладчиком GNU</caption>
+      <caption lang="ro">Depanați cu depanatorul GNU</caption>
+      <caption lang="pt_BR">Depuração com o depurador do GNU</caption>
+      <caption lang="pt">Depurar como o depurador GNU</caption>
+      <caption lang="pl">Debugowanie za pomocą debugera GNU</caption>
+      <caption lang="oc">Desbugar amb lo desbugador GNU</caption>
+      <caption lang="nl">Debuggen met de GNU-debugger</caption>
+      <caption lang="ms">Nyahpepijat dengan penyahpepijat GNU</caption>
+      <caption lang="lv">Atkļūdo ar GNU atkļūdotāju</caption>
+      <caption lang="lt">Vykdyti su GNU derintuve</caption>
+      <caption lang="ko">GNU 디버거로 실행</caption>
+      <caption lang="it">Debug tramite il debugger GNU</caption>
+      <caption lang="id">Mengawakutu dengan GNU debugger</caption>
+      <caption lang="hu">Hibakeresés a GNU hibakeresővel</caption>
+      <caption lang="he">ניפוי שגיאות באמצעות מנפה השגיאות של גנו (gdb)</caption>
+      <caption lang="gl">Depure co GNU debugger</caption>
+      <caption lang="fr">Déboguer avec le débogueur GNU</caption>
+      <caption lang="fi">Suorita vianselvitys GNU debuggerilla</caption>
+      <caption lang="eu">GNU araztailearekin araztea</caption>
+      <caption lang="es">Depurar con el depurador de GNU</caption>
+      <caption lang="eo">Sencimigi kun la GNU sencimigilo</caption>
+      <caption lang="en_GB">Debug with the GNU debugger</caption>
+      <caption lang="de">Fehlerdiagnose mit dem GNU Debugger</caption>
+      <caption lang="da">Fejlsøg med GNU-fejlsøgeren</caption>
+      <caption lang="cs">Ladění pomocí ladicího programu GNU</caption>
+      <caption lang="ca">Depura amb el depurador de GNU</caption>
+      <image height="1774" width="2976">https://gitlab.gnome.org/GNOME/gnome-builder/raw/4aa3486375c618dc97f5477d42bf3674c44f7189/data/appdata/06-debugger.png</image>
+    </screenshot>
+    <screenshot type="default">
+      <caption>Use the minimap to see more of the file</caption>
+      <caption lang="zh_CN">使用迷你图查看文件的更多内容</caption>
+      <caption lang="uk">Використання мінікарти для повнішого перегляду вмісту файла</caption>
+      <caption lang="tr">Dosyanın daha çoğunu görmek için küçük haritayı kullan</caption>
+      <caption lang="sv">Använd minikartan för att se mer av filen</caption>
+      <caption lang="sr">Користи мини-мапу за преглед већег дела датотеке</caption>
+      <caption lang="sl">Uporabite mali zemljevid za pregled strukture datoteke</caption>
+      <caption lang="ru">Использовать мини-карту для более полного просмотра содержимого файл</caption>
+      <caption lang="ro">Utilizați harta în miniatură pentru a vedea mai mult din fișier</caption>
+      <caption lang="pt_BR">Use o mini mapa para ver mais o arquivo</caption>
+      <caption lang="pt">Utilize o minimapa para ver mais do ficheiro</caption>
+      <caption lang="pl">Minimapa pokazująca większą część pliku</caption>
+      <caption lang="lt">Naudokite mini žemėlapį didesnei failo daliai matyti</caption>
+      <caption lang="ko">미니맵을 이용해 파일의 개요 보기</caption>
+      <caption lang="id">Gunakan minimap untuk melihat lebih banyak berkas</caption>
+      <caption lang="hu">Használja a minitérképet, hogy többet lásson a fájlból</caption>
+      <caption lang="he">שימוש במפת סקירה כדי לראות עוד מהקובץ</caption>
+      <caption lang="gl">Use o minimapa para ver máis do ficheiro</caption>
+      <caption lang="fr">Utiliser la petite carte pour mieux voir le fichier</caption>
+      <caption lang="eu">Erabili minimapa fitxategiko gehiago ikusteko</caption>
+      <caption lang="es">Use el minimapa para ver más del archivo</caption>
+      <caption lang="de">Nutzen Sie die Minimap, um mehr von der Datei zu sehen</caption>
+      <caption lang="da">Brug minikortet for at se en større del af filen</caption>
+      <caption lang="cs">Použití minimapy, aby byl přehled o větší části souboru</caption>
+      <caption lang="ca">Utilitzeu el minimapa per a veure més del fitxer</caption>
+      <image height="1638" width="2664">https://gitlab.gnome.org/GNOME/gnome-builder/raw/4aa3486375c618dc97f5477d42bf3674c44f7189/data/appdata/07-minimap.png</image>
+    </screenshot>
+  </screenshots>
+  <launchable type="desktop-id">org.gnome.Builder.desktop</launchable>
+  <url type="homepage">https://wiki.gnome.org/Apps/Builder</url>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/gnome-builder/issues</url>
+  <url type="donation">https://www.gnome.org/donate/</url>
+  <url type="help">https://builder.readthedocs.io</url>
+  <project_group>GNOME</project_group>
+  <kudos>
+    <kudo>AppMenu</kudo>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>Notifications</kudo>
+    <kudo>UserDocs</kudo>
+  </kudos>
+  <update_contact>chergert@gnome.org</update_contact>
+  <translation type="gettext">gnome-builder</translation>
+  <releases>
+    <release version="42.1" date="2022-04-20" />
+    <release date="2022-03-18" version="42.0" />
+  </releases>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="violence-desecration">none</content_attribute>
+    <content_attribute id="violence-slavery">none</content_attribute>
+    <content_attribute id="violence-worship">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="sex-homosexuality">none</content_attribute>
+    <content_attribute id="sex-prostitution">none</content_attribute>
+    <content_attribute id="sex-adultery">none</content_attribute>
+    <content_attribute id="sex-appearance">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+</component>

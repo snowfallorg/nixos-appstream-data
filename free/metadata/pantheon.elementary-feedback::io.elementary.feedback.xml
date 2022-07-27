@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>pantheon.elementary-feedback</pkgname>
+  <launchable type="desktop-id">io.elementary.feedback.desktop</launchable>
+  <icon type="cached" width="64" height="64">io.elementary.feedback.png</icon>
+  <id>io.elementary.feedback</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>Feedback</name>
+  <name lang="zh_CN">反馈</name>
+  <name lang="zh">反馈</name>
+  <name lang="uk">Відгук</name>
+  <name lang="tr">Geri Bildirim</name>
+  <name lang="szl">Ôpinijo zwrotno</name>
+  <name lang="sr">Повратни ток</name>
+  <name lang="sl">Povratne informacije</name>
+  <name lang="sk">Spätná väzba</name>
+  <name lang="ru">Отзыв</name>
+  <name lang="pt_BR">Opinião</name>
+  <name lang="pt">Opinião</name>
+  <name lang="pl">Informacja zwrotna</name>
+  <name lang="pa">ਹੁੰਗਾਰਾ</name>
+  <name lang="oc">Comentaris</name>
+  <name lang="nn">Tilbakemelding</name>
+  <name lang="nl">Feedback</name>
+  <name lang="nb">Tilbakemelding</name>
+  <name lang="mr">अभिप्राय</name>
+  <name lang="lt">Atsiliepimai</name>
+  <name lang="ko">피드백</name>
+  <name lang="ja">フィードバック</name>
+  <name lang="it">Riscontro</name>
+  <name lang="hu">Visszajelzés</name>
+  <name lang="he">משוב</name>
+  <name lang="gl">Observacións</name>
+  <name lang="fr">Commentaires</name>
+  <name lang="fi">Palaute</name>
+  <name lang="fa">بازخورد</name>
+  <name lang="es">Observaciones</name>
+  <name lang="eo">Prijuĝaĵoj</name>
+  <name lang="en_GB">Feedback</name>
+  <name lang="en_CA">Feedback</name>
+  <name lang="en_AU">Feedback</name>
+  <name lang="de">Rückmeldung</name>
+  <name lang="da">Feedback</name>
+  <name lang="cs">Zpětná vazba</name>
+  <name lang="ckb">فیدباک</name>
+  <name lang="ca">Informació de retorn</name>
+  <name lang="ar">الملاحظات</name>
+  <summary />
+  <description>
+    <p />
+  </description>
+  <releases>
+    <release date="2022-05-23" version="6.1.1" urgency="medium">
+      <description>
+        <p>Improvements:</p>
+        <p lang="zh_CN">改进：</p>
+        <p lang="uk">Удосконалення:</p>
+        <p lang="tr">İyileştirmeler:</p>
+        <p lang="sk">Vylepšenia:</p>
+        <p lang="ru">Улучшения:</p>
+        <p lang="pt">Melhorias:</p>
+        <p lang="pl">Ulepszenia:</p>
+        <p lang="nl">Verbeteringen:</p>
+        <p lang="ja">改善点:</p>
+        <p lang="hu">Újdonságok:</p>
+        <p lang="he">שיפורים:</p>
+        <p lang="fr">Améliorations :</p>
+        <p lang="fi">Parannukset:</p>
+        <p lang="es">Mejoras:</p>
+        <p lang="en_GB">Improvements:</p>
+        <p lang="de">Verbesserungen:</p>
+        <p lang="cs">Vylepšení:</p>
+        <p lang="ckb">پێشکەوتنەکان:</p>
+        <p lang="ca">Millores:</p>
+        <p lang="ar">التحسينات:</p>
+        <ul>
+          <li>Avoid focus stealing prevention when opening a web browser</li>
+          <li lang="uk">Уникання запобіганню перенесення фокусу під час відкриття переглядача</li>
+          <li lang="pl">Uniknięto zapobieganiu kradzieży skupienia podczas otwierania przeglądarki</li>
+          <li lang="he">נמנעה גניבת מיקוד בפתיחת דפדפן</li>
+          <li lang="fr">Nous avons fait en sorte d'empêcher la perte du focus lors de l'ouverture d'un navigateur Web</li>
+          <li lang="ca">S'evita la prevenció del robatori de focus quan s'obre un navegador web.</li>
+          <li>Show more entries under Desktop Components</li>
+          <li lang="uk">Показ більшої кількості записів під компонентами настільних ПК</li>
+          <li lang="pl">Pokazano więcej wpisów w Komponentach pulpitu</li>
+          <li lang="he">הצגת רשומות נוספות תחת רכיבי שולחן העבודה</li>
+          <li lang="fr">Affichage d'autres entrées sous Composants du bureau</li>
+          <li lang="ca">Mostra més entrades a Components d'escriptori.</li>
+        </ul>
+        <p>Minor updates:</p>
+        <p lang="zh_CN">次要更新：</p>
+        <p lang="uk">Незначні оновлення:</p>
+        <p lang="tr">Küçük güncellemeler:</p>
+        <p lang="sk">Menšie aktualizácie:</p>
+        <p lang="ru">Незначительные обновления:</p>
+        <p lang="pt">Pequenas atualizações:</p>
+        <p lang="pl">Mniejsze aktualizacje:</p>
+        <p lang="nl">Kleine updates:</p>
+        <p lang="ja">そのほかのアップデート:</p>
+        <p lang="hu">Apróbb frissítések:</p>
+        <p lang="he">עדכונים משניים:</p>
+        <p lang="fr">Mises à jour mineures :</p>
+        <p lang="fi">Pienet päivitykset:</p>
+        <p lang="es">Actualizaciones menores:</p>
+        <p lang="en_GB">Minor updates:</p>
+        <p lang="de">Kleinere Aktualisierungen:</p>
+        <p lang="cs">Drobné aktualizace:</p>
+        <p lang="ckb">نوێکارییە چکۆڵەکان:</p>
+        <p lang="ca">Actualitzacions menors:</p>
+        <p lang="ar">تحديثات طفيفة:</p>
+        <ul>
+          <li>Updated translations</li>
+          <li lang="zh_CN">翻译更新</li>
+          <li lang="uk">Оновлено переклади</li>
+          <li lang="tr">Çeviriler güncellendi</li>
+          <li lang="sr">Освежени преводи</li>
+          <li lang="sl">Posodobljeni prevodi</li>
+          <li lang="sk">Aktualizované preklady</li>
+          <li lang="ru">Обновлены переводы</li>
+          <li lang="pt_BR">Traduções atualizadas</li>
+          <li lang="pt">Traduções atualizadas</li>
+          <li lang="pl">Aktualizacja tłumaczeń</li>
+          <li lang="oc">Traduccions actualizadas</li>
+          <li lang="nn">Oppdaterte oversettingar</li>
+          <li lang="nl">Bijgewerkte vertalingen</li>
+          <li lang="nb">Oppdaterte oversettelser</li>
+          <li lang="mr">अद्ययावत भाषांतर</li>
+          <li lang="ml">അപ്ഡേറ്റ് ചെയ്ത വിവർത്തനങ്ങൾ</li>
+          <li lang="ko">최신 번역</li>
+          <li lang="ja">翻訳の更新</li>
+          <li lang="it">Traduzioni aggiornate</li>
+          <li lang="hu">Frissített fordítások</li>
+          <li lang="he">תרגומים עדכניים</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="fi">Päivitetyt kielikäännökset</li>
+          <li lang="fa">ترجمه های بروز شده</li>
+          <li lang="es">Traducciones actualizadas</li>
+          <li lang="en_GB">Updated translations</li>
+          <li lang="de">Aktualisierte Übersetzungen</li>
+          <li lang="da">Opdaterede oversættelser</li>
+          <li lang="cs">Aktualizovány překlady</li>
+          <li lang="ckb">وەرگێڕانەکان نوێکراونەوە</li>
+          <li lang="ca">Traduccions actualitzades</li>
+          <li lang="ar">تحديثات على الترجمة</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" date="2021-07-26" version="6.1.0">
+      <description>
+        <p>Improvements:</p>
+        <p lang="zh_CN">改进：</p>
+        <p lang="uk">Удосконалення:</p>
+        <p lang="tr">İyileştirmeler:</p>
+        <p lang="sk">Vylepšenia:</p>
+        <p lang="ru">Улучшения:</p>
+        <p lang="pt">Melhorias:</p>
+        <p lang="pl">Ulepszenia:</p>
+        <p lang="nl">Verbeteringen:</p>
+        <p lang="ja">改善点:</p>
+        <p lang="hu">Újdonságok:</p>
+        <p lang="he">שיפורים:</p>
+        <p lang="fr">Améliorations :</p>
+        <p lang="fi">Parannukset:</p>
+        <p lang="es">Mejoras:</p>
+        <p lang="en_GB">Improvements:</p>
+        <p lang="de">Verbesserungen:</p>
+        <p lang="cs">Vylepšení:</p>
+        <p lang="ckb">پێشکەوتنەکان:</p>
+        <p lang="ca">Millores:</p>
+        <p lang="ar">التحسينات:</p>
+        <ul>
+          <li>Add several missing components</li>
+          <li lang="zh_CN">添加几个缺失的组件</li>
+          <li lang="uk">Додано кілька компонентів</li>
+          <li lang="tr">Birkaç eksik bileşen eklendi</li>
+          <li lang="sk">Pridané viaceré chýbajúce súčasti</li>
+          <li lang="ru">Добавлено несколько недостающих компонентов</li>
+          <li lang="pt">Adiciona vários componentes em falta</li>
+          <li lang="pl">Dodano kilka brakujących komponentów</li>
+          <li lang="nl">Meerdere missende componenten zijn toegevoegd</li>
+          <li lang="ja">一覧になかったコンポーネントを追加</li>
+          <li lang="he">מספר רכיבים חסרים נוספו</li>
+          <li lang="fr">Ajout de plusieurs composants manquants</li>
+          <li lang="es">Agregar varios componentes que faltan</li>
+          <li lang="en_GB">Add several missing components</li>
+          <li lang="de">Einige fehlende Komponenten hinzugefügt</li>
+          <li lang="cs">Přidáno několik chybějících součástí</li>
+          <li lang="ckb">زیادکردنی چەند پێکهێنەرێکی پێویست</li>
+          <li lang="ca">Addició de diversos components que mancaven</li>
+          <li lang="ar">إضافة عدة مكونات مفقودة</li>
+        </ul>
+        <p>Minor updates:</p>
+        <p lang="zh_CN">次要更新：</p>
+        <p lang="uk">Незначні оновлення:</p>
+        <p lang="tr">Küçük güncellemeler:</p>
+        <p lang="sk">Menšie aktualizácie:</p>
+        <p lang="ru">Незначительные обновления:</p>
+        <p lang="pt">Pequenas atualizações:</p>
+        <p lang="pl">Mniejsze aktualizacje:</p>
+        <p lang="nl">Kleine updates:</p>
+        <p lang="ja">そのほかのアップデート:</p>
+        <p lang="hu">Apróbb frissítések:</p>
+        <p lang="he">עדכונים משניים:</p>
+        <p lang="fr">Mises à jour mineures :</p>
+        <p lang="fi">Pienet päivitykset:</p>
+        <p lang="es">Actualizaciones menores:</p>
+        <p lang="en_GB">Minor updates:</p>
+        <p lang="de">Kleinere Aktualisierungen:</p>
+        <p lang="cs">Drobné aktualizace:</p>
+        <p lang="ckb">نوێکارییە چکۆڵەکان:</p>
+        <p lang="ca">Actualitzacions menors:</p>
+        <p lang="ar">تحديثات طفيفة:</p>
+        <ul>
+          <li>Updated translations</li>
+          <li lang="zh_CN">翻译更新</li>
+          <li lang="uk">Оновлено переклади</li>
+          <li lang="tr">Çeviriler güncellendi</li>
+          <li lang="sr">Освежени преводи</li>
+          <li lang="sl">Posodobljeni prevodi</li>
+          <li lang="sk">Aktualizované preklady</li>
+          <li lang="ru">Обновлены переводы</li>
+          <li lang="pt_BR">Traduções atualizadas</li>
+          <li lang="pt">Traduções atualizadas</li>
+          <li lang="pl">Aktualizacja tłumaczeń</li>
+          <li lang="oc">Traduccions actualizadas</li>
+          <li lang="nn">Oppdaterte oversettingar</li>
+          <li lang="nl">Bijgewerkte vertalingen</li>
+          <li lang="nb">Oppdaterte oversettelser</li>
+          <li lang="mr">अद्ययावत भाषांतर</li>
+          <li lang="ml">അപ്ഡേറ്റ് ചെയ്ത വിവർത്തനങ്ങൾ</li>
+          <li lang="ko">최신 번역</li>
+          <li lang="ja">翻訳の更新</li>
+          <li lang="it">Traduzioni aggiornate</li>
+          <li lang="hu">Frissített fordítások</li>
+          <li lang="he">תרגומים עדכניים</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="fi">Päivitetyt kielikäännökset</li>
+          <li lang="fa">ترجمه های بروز شده</li>
+          <li lang="es">Traducciones actualizadas</li>
+          <li lang="en_GB">Updated translations</li>
+          <li lang="de">Aktualisierte Übersetzungen</li>
+          <li lang="da">Opdaterede oversættelser</li>
+          <li lang="cs">Aktualizovány překlady</li>
+          <li lang="ckb">وەرگێڕانەکان نوێکراونەوە</li>
+          <li lang="ca">Traduccions actualitzades</li>
+          <li lang="ar">تحديثات على الترجمة</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-07-15" version="6.0.0" urgency="medium">
+      <description>
+        <p>Improvements:</p>
+        <p lang="zh_CN">改进：</p>
+        <p lang="uk">Удосконалення:</p>
+        <p lang="tr">İyileştirmeler:</p>
+        <p lang="sk">Vylepšenia:</p>
+        <p lang="ru">Улучшения:</p>
+        <p lang="pt">Melhorias:</p>
+        <p lang="pl">Ulepszenia:</p>
+        <p lang="nl">Verbeteringen:</p>
+        <p lang="ja">改善点:</p>
+        <p lang="hu">Újdonságok:</p>
+        <p lang="he">שיפורים:</p>
+        <p lang="fr">Améliorations :</p>
+        <p lang="fi">Parannukset:</p>
+        <p lang="es">Mejoras:</p>
+        <p lang="en_GB">Improvements:</p>
+        <p lang="de">Verbesserungen:</p>
+        <p lang="cs">Vylepšení:</p>
+        <p lang="ckb">پێشکەوتنەکان:</p>
+        <p lang="ca">Millores:</p>
+        <p lang="ar">التحسينات:</p>
+        <ul>
+          <li>Show Flatpak Apps</li>
+          <li lang="zh_CN">显示Flatpak应用</li>
+          <li lang="uk">Показ застосунків Flatpak</li>
+          <li lang="tr">Flatpak Uygulamalarını Göster</li>
+          <li lang="sk">Zobrazovať aplikácie formátu Flatpak</li>
+          <li lang="ru">Отображение приложений Flatpak</li>
+          <li lang="pt">Mostra aplicações Flatpak</li>
+          <li lang="pl">Pokaż aplikację Flatpak</li>
+          <li lang="nl">Toon Flatpak apps</li>
+          <li lang="ja">Flatpak アプリを表示するように修正</li>
+          <li lang="he">יישומי Flatpak מופיעים</li>
+          <li lang="fr">Affichage des applications Flatpak</li>
+          <li lang="es">Mostrar aplicaciones Flatpak</li>
+          <li lang="en_GB">Show Flatpak Apps</li>
+          <li lang="de">Flatpak Apps anzeigen</li>
+          <li lang="cs">Zobrazování Flatpak aplikací</li>
+          <li lang="ckb">پشاندانی ئەپەکانی فڵاتپاک</li>
+          <li lang="ca">Es mostren les aplicacions de Flatpak.</li>
+          <li lang="ar">إظهار تطبيقات Flatpak</li>
+          <li>Support dark style</li>
+          <li lang="zh_CN">支持暗色风格</li>
+          <li lang="uk">Підтримка темного стилю</li>
+          <li lang="tr">Koyu renk tema desteği eklendi</li>
+          <li lang="sk">Podpora tmavého štýlu</li>
+          <li lang="ru">Поддержка темного стиля</li>
+          <li lang="pt">Suporte ao estilo escuro</li>
+          <li lang="pl">Wsparcie dla ciemnego motywu</li>
+          <li lang="nl">Ondersteun donkere modus</li>
+          <li lang="ja">ダークスタイルに対応</li>
+          <li lang="he">תמיכה בסגנון כהה</li>
+          <li lang="fr">Prise en charge du thème sombre</li>
+          <li lang="es">Soporte al modo oscuro</li>
+          <li lang="en_GB">Support dark style</li>
+          <li lang="de">Unterstützung für Dark Mode</li>
+          <li lang="cs">Podpora pro tmavý vzhled</li>
+          <li lang="ckb">پاڵپشتیکردنی دۆخی تاریک</li>
+          <li lang="ca">Admissió del tema fosc</li>
+          <li lang="ar">دعم الواجهة المظلمة</li>
+          <li>Add multitouch navigation gestures</li>
+          <li lang="zh_CN">添加多点触控导航手势</li>
+          <li lang="uk">Додано жести навігації</li>
+          <li lang="tr">Çok noktalı dokunma ile gezinme hareketleri eklendi</li>
+          <li lang="sk">Pridané viacdotykové navigačné gestá</li>
+          <li lang="ru">Добавлены навигационные мультитач-жесты</li>
+          <li lang="pt">Adiciona gestos de navegação multi-toque</li>
+          <li lang="pl">Dodano wielodotykowe gesty nawigacji</li>
+          <li lang="nl">Voeg ondersteuning toe voor multitouch navigatiegebaren</li>
+          <li lang="ja">マルチタッチジェスチャーで画面遷移できるように変更</li>
+          <li lang="he">נוספו מחוות ניווט בעזרת מגע במספר נקודות</li>
+          <li lang="fr">Ajout des gestes de navigation multi-touch</li>
+          <li lang="en_GB">Add multitouch navigation gestures</li>
+          <li lang="de">Multitouch-Gesten hinzugefügt</li>
+          <li lang="cs">Přidána vícedotyková gesta pro navigaci</li>
+          <li lang="ckb">زیادکردنی جوڵەکانی multitouch navigation</li>
+          <li lang="ca">Addició gests de navegació multitàctils</li>
+          <li lang="ar">إضافة حركات التنقل متعددة اللمس</li>
+        </ul>
+        <p>Minor updates:</p>
+        <p lang="zh_CN">次要更新：</p>
+        <p lang="uk">Незначні оновлення:</p>
+        <p lang="tr">Küçük güncellemeler:</p>
+        <p lang="sk">Menšie aktualizácie:</p>
+        <p lang="ru">Незначительные обновления:</p>
+        <p lang="pt">Pequenas atualizações:</p>
+        <p lang="pl">Mniejsze aktualizacje:</p>
+        <p lang="nl">Kleine updates:</p>
+        <p lang="ja">そのほかのアップデート:</p>
+        <p lang="hu">Apróbb frissítések:</p>
+        <p lang="he">עדכונים משניים:</p>
+        <p lang="fr">Mises à jour mineures :</p>
+        <p lang="fi">Pienet päivitykset:</p>
+        <p lang="es">Actualizaciones menores:</p>
+        <p lang="en_GB">Minor updates:</p>
+        <p lang="de">Kleinere Aktualisierungen:</p>
+        <p lang="cs">Drobné aktualizace:</p>
+        <p lang="ckb">نوێکارییە چکۆڵەکان:</p>
+        <p lang="ca">Actualitzacions menors:</p>
+        <p lang="ar">تحديثات طفيفة:</p>
+        <ul>
+          <li>Ensure links are up-to-date</li>
+          <li lang="zh_CN">确保链接是最新的</li>
+          <li lang="uk">Оновлювані посилання</li>
+          <li lang="tr">Bağlantıların güncel olduğundan emin olundu</li>
+          <li lang="sk">Zaistené, že odkazy sú aktuálne</li>
+          <li lang="ru">Обновляемые ссылки</li>
+          <li lang="pt">Assegura que as ligações estão atualizadas</li>
+          <li lang="pl">Upewniono się, że linki są aktualne</li>
+          <li lang="nl">Verzeker dat links up-to-date zijn</li>
+          <li lang="ja">リンクを最新の URL に更新</li>
+          <li lang="he">עדכניות הקישורים נבדקה</li>
+          <li lang="fr">Nous nous sommes assurés que les liens soient à jour</li>
+          <li lang="es">Asegúrese de que los enlaces estén actualizados</li>
+          <li lang="en_GB">Ensure links are up-to-date</li>
+          <li lang="de">Sicherstellen, dass Links aktuell sind</li>
+          <li lang="cs">Zajištěno že odkazy jsou aktuální</li>
+          <li lang="ckb">دڵنیابوونەوە لە کارکردنی بەستەرەکان</li>
+          <li lang="ca">S'assegura que els enllaços estiguin actualitzats.</li>
+          <li lang="ar">التأكد من أن الروابط محدثة</li>
+          <li>Updated translations</li>
+          <li lang="zh_CN">翻译更新</li>
+          <li lang="uk">Оновлено переклади</li>
+          <li lang="tr">Çeviriler güncellendi</li>
+          <li lang="sr">Освежени преводи</li>
+          <li lang="sl">Posodobljeni prevodi</li>
+          <li lang="sk">Aktualizované preklady</li>
+          <li lang="ru">Обновлены переводы</li>
+          <li lang="pt_BR">Traduções atualizadas</li>
+          <li lang="pt">Traduções atualizadas</li>
+          <li lang="pl">Aktualizacja tłumaczeń</li>
+          <li lang="oc">Traduccions actualizadas</li>
+          <li lang="nn">Oppdaterte oversettingar</li>
+          <li lang="nl">Bijgewerkte vertalingen</li>
+          <li lang="nb">Oppdaterte oversettelser</li>
+          <li lang="mr">अद्ययावत भाषांतर</li>
+          <li lang="ml">അപ്ഡേറ്റ് ചെയ്ത വിവർത്തനങ്ങൾ</li>
+          <li lang="ko">최신 번역</li>
+          <li lang="ja">翻訳の更新</li>
+          <li lang="it">Traduzioni aggiornate</li>
+          <li lang="hu">Frissített fordítások</li>
+          <li lang="he">תרגומים עדכניים</li>
+          <li lang="fr">Mise à jour des traductions</li>
+          <li lang="fi">Päivitetyt kielikäännökset</li>
+          <li lang="fa">ترجمه های بروز شده</li>
+          <li lang="es">Traducciones actualizadas</li>
+          <li lang="en_GB">Updated translations</li>
+          <li lang="de">Aktualisierte Übersetzungen</li>
+          <li lang="da">Opdaterede oversættelser</li>
+          <li lang="cs">Aktualizovány překlady</li>
+          <li lang="ckb">وەرگێڕانەکان نوێکراونەوە</li>
+          <li lang="ca">Traduccions actualitzades</li>
+          <li lang="ar">تحديثات على الترجمة</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <provides>
+    <binary>io.elementary.feedback</binary>
+  </provides>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/elementary/feedback/master/data/screenshot.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/elementary/feedback/master/data/screenshot-settings.png</image>
+    </screenshot>
+  </screenshots>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="violence-desecration">none</content_attribute>
+    <content_attribute id="violence-slavery">none</content_attribute>
+    <content_attribute id="violence-worship">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="sex-homosexuality">none</content_attribute>
+    <content_attribute id="sex-prostitution">none</content_attribute>
+    <content_attribute id="sex-adultery">none</content_attribute>
+    <content_attribute id="sex-appearance">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+  <translation type="gettext">io.elementary.feedback</translation>
+  <developer_name>elementary, Inc.</developer_name>
+  <developer_name lang="zh_TW">elementary, Inc.</developer_name>
+  <developer_name lang="zh_CN">elementary, Inc.</developer_name>
+  <developer_name lang="uk">elementary, Inc.</developer_name>
+  <developer_name lang="tr">elementary, Inc.</developer_name>
+  <developer_name lang="sv">elementary, Inc.</developer_name>
+  <developer_name lang="sr">elementary, Inc.</developer_name>
+  <developer_name lang="sl">elementary, Inc.</developer_name>
+  <developer_name lang="sk">elementary, Inc.</developer_name>
+  <developer_name lang="ru">elementary, Inc.</developer_name>
+  <developer_name lang="pt_BR">elementary, Inc.</developer_name>
+  <developer_name lang="pt">elementary, Inc.</developer_name>
+  <developer_name lang="pl">elementary, Inc.</developer_name>
+  <developer_name lang="oc">elementary, Inc.</developer_name>
+  <developer_name lang="nn">elementary, Inc.</developer_name>
+  <developer_name lang="nl">elementary, Inc.</developer_name>
+  <developer_name lang="mr">एलिमेंटरी,Inc.</developer_name>
+  <developer_name lang="ml">elementary, Inc.</developer_name>
+  <developer_name lang="lt">elementary, Inc.</developer_name>
+  <developer_name lang="ko">elementary, Inc.</developer_name>
+  <developer_name lang="ja">elementary, Inc.</developer_name>
+  <developer_name lang="it">elementary, Inc.</developer_name>
+  <developer_name lang="hu">elementary, Inc.</developer_name>
+  <developer_name lang="he">elementary בע״מ.</developer_name>
+  <developer_name lang="gl">elementary, Inc.</developer_name>
+  <developer_name lang="fr">elementary, Inc.</developer_name>
+  <developer_name lang="fi">elementary, Inc.</developer_name>
+  <developer_name lang="es">elementary, Inc.</developer_name>
+  <developer_name lang="eo">elementary, Inc.</developer_name>
+  <developer_name lang="en_GB">elementary, Inc.</developer_name>
+  <developer_name lang="en_CA">elementary, Inc.</developer_name>
+  <developer_name lang="en_AU">elementary, Inc.</developer_name>
+  <developer_name lang="el">elementary, Inc.</developer_name>
+  <developer_name lang="de">elementary, Inc.</developer_name>
+  <developer_name lang="da">elementary, Incorporated.</developer_name>
+  <developer_name lang="cs">elementary, Inc.</developer_name>
+  <developer_name lang="ckb">کۆمپانیای ئێلەمێنتەری هاوپشک.</developer_name>
+  <developer_name lang="ca">elementary, Inc.</developer_name>
+  <developer_name lang="bs">elementary, Inc.</developer_name>
+  <developer_name lang="ar">elementary, Inc.</developer_name>
+  <developer_name lang="am">elementary, Inc.</developer_name>
+  <url type="homepage">http://elementary.io</url>
+  <url type="bugtracker">https://github.com/elementary/feedback/issues</url>
+</component>

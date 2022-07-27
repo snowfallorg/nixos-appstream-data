@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>germinal</pkgname>
+  <launchable type="desktop-id">org.gnome.Germinal.desktop</launchable>
+  <id>org.gnome.Germinal.desktop</id>
+  <name>Germinal</name>
+  <name lang="fr">Germinal</name>
+  <summary>Germinal is a minimalist vte-based terminal emulator</summary>
+  <summary lang="fr">Germinal est un émulateur de terminal minimaliste basé sur vte</summary>
+  <developer_name>Marc-Antoine Perennou</developer_name>
+  <project_license>GPL-3.0</project_license>
+  <metadata_license>CC-BY-SA-3.0</metadata_license>
+  <project_group>GNOME</project_group>
+  <content_rating type="oars-1.1" />
+  <description>
+    <p>
+      Germinal is a minimalist terminal emulator aiming for simplicity.
+    </p>
+    <p>
+      You can customize Germinal using dconf-editor, in /org/gnome/Germinal.
+    </p>
+  </description>
+  <description lang="fr">
+    <p>Germinal est un émulateur de terminal visant la simplicité</p>
+    <p>Vous pouvez configurer Germinal avec dconf-editor, donc /org/gnome/Germinal.</p>
+  </description>
+  <url type="homepage">http://www.imagination-land.org/tags/Germinal.html</url>
+  <screenshots>
+    <screenshot type="default">
+      <caption>The main UI</caption>
+      <caption lang="fr">L'interface principale</caption>
+      <image width="1024" height="768">http://www.imagination-land.org/images/Germinal/Germinal-1.png</image>
+    </screenshot>
+  </screenshots>
+  <update_contact>Marc-Antoine@Perennou.com</update_contact>
+  <url type="bugtracker">https://github.com/Keruspe/Germinal/issues</url>
+  <url type="donation">https://paypal.me/keruspe/</url>
+  <url type="help">https://github.com/Keruspe/Germinal/issues</url>
+  <url type="translate">https://github.com/Keruspe/Germinal</url>
+  <translation type="gettext">Germinal</translation>
+  <releases>
+    <release version="26" type="stable" date="2019-10-07">
+      <description>
+        <p>This is a maintenance release. Changes:</p>
+        <p lang="fr">Mise à jour de maintenance. Changements :</p>
+        <ul>
+          <li>Compatibility with recent appstream-glib</li>
+          <li lang="fr">Compatibilité avec les versions récentes de appstream-glib</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+</component>

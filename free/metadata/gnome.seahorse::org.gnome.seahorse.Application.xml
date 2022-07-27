@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>gnome.seahorse</pkgname>
+  <icon type="cached" width="64" height="64">org.gnome.seahorse.Application.png</icon>
+  <icon type="cached" width="128" height="128">org.gnome.seahorse.Application.png</icon>
+  <id>org.gnome.seahorse.Application</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+ and LGPL-2.0+</project_license>
+  <name>Passwords and Keys</name>
+  <name lang="zh_TW">密碼及加密金鑰</name>
+  <name lang="zh_HK">密碼及加密密碼匙</name>
+  <name lang="zh_CN">密码和密钥</name>
+  <name lang="vi">Mật khẩu và Chìa khóa</name>
+  <name lang="uk">Паролі й ключі</name>
+  <name lang="ug">ئىملار ۋە ئاچقۇچلار</name>
+  <name lang="tr">Parolalar ve Anahtarlar</name>
+  <name lang="th">รหัสผ่านและกุญแจ</name>
+  <name lang="te">సంకేతపదాలు మరియు మీటలు</name>
+  <name lang="ta">கடவுச்சொற்கள் மற்றும் விசைகள்</name>
+  <name lang="sv">Lösenord och nycklar</name>
+  <name lang="sr@latin">Lozinke i ključevi</name>
+  <name lang="sr">Лозинке и кључеви</name>
+  <name lang="sl">Gesla in ključi</name>
+  <name lang="sk">Heslá a kľúče</name>
+  <name lang="ru">Пароли и ключи</name>
+  <name lang="ro">Parole și chei</name>
+  <name lang="pt_BR">Senhas e chaves</name>
+  <name lang="pt">Palavras-passe e chaves</name>
+  <name lang="pl">Hasła i klucze</name>
+  <name lang="pa">ਪਾਸਵਰਡ ਅਤੇ ਕੁੰਜੀਆਂ</name>
+  <name lang="oc">Senhals e claus</name>
+  <name lang="nl">Wachtwoorden en sleutels</name>
+  <name lang="ne">पासवर्ड र गुप्तिकरण कुञ्जी</name>
+  <name lang="nb">Passord og nøkler</name>
+  <name lang="ms">Kata Laluan dan Kunci</name>
+  <name lang="ml">രഹസ്യവാക്കുകളും ചാവികളും</name>
+  <name lang="mk">Лозинки и клучеви</name>
+  <name lang="lv">Paroles un atslēgas</name>
+  <name lang="lt">Slaptažodžiai ir raktai</name>
+  <name lang="ko">암호 및 키</name>
+  <name lang="kk">Парольдер және кілттер</name>
+  <name lang="ja">パスワードと鍵</name>
+  <name lang="it">Password e chiavi</name>
+  <name lang="is">Lykilorð og dulritunarlyklar</name>
+  <name lang="id">Kata Sandi dan Kunci</name>
+  <name lang="hu">Jelszavak és kulcsok</name>
+  <name lang="hr">Lozinke i ključevi</name>
+  <name lang="hi">कूटशब्द व कुंजी</name>
+  <name lang="he">סיסמאות ומפתחות</name>
+  <name lang="gl">Contrasinais e chaves de cifrado</name>
+  <name lang="gd">Faclan-faire is iuchraichean</name>
+  <name lang="ga">Focail Fhaire agus Eochracha</name>
+  <name lang="fur">Password e clâfs</name>
+  <name lang="fr">Mots de passe et clés</name>
+  <name lang="fi">Salasanat ja avaimet</name>
+  <name lang="fa">گذرواژه‌ها و کلیدها</name>
+  <name lang="eu">Pasahitzak eta Gakoak</name>
+  <name lang="et">Paroolid ja võtmed</name>
+  <name lang="es">Contraseñas y claves</name>
+  <name lang="eo">Pasvortoj kaj ŝlosiloj</name>
+  <name lang="en_GB">Passwords and Keys</name>
+  <name lang="el">Κωδικοί πρόσβασης και κλειδιά</name>
+  <name lang="de">Passwörter und Verschlüsselung</name>
+  <name lang="da">Adgangskoder og nøgler</name>
+  <name lang="cs">Hesla a klíče</name>
+  <name lang="ca@valencia">Contrasenyes i claus</name>
+  <name lang="ca">Contrasenyes i claus</name>
+  <name lang="bs">Lozinke i ključevi</name>
+  <name lang="bg">Пароли и ключове</name>
+  <name lang="be">Паролі і ключы</name>
+  <name lang="as">পাছৱৰ্ডসমূহ আৰু কি'সমূহ</name>
+  <name lang="ar">كلمات السرِّ ومفاتيح التعمية</name>
+  <summary>Manage your passwords and encryption keys</summary>
+  <summary lang="zh_TW">管理密碼及金鑰</summary>
+  <summary lang="zh_HK">管理密碼及密碼匙</summary>
+  <summary lang="zh_CN">管理您的密码和加密密钥</summary>
+  <summary lang="vi">Quản lý các mật khẩu và khóa mã hóa của bạn</summary>
+  <summary lang="uk">Керування паролями та ключами шифрування</summary>
+  <summary lang="ug">ئىم ۋە شىفىرلاش ئاچقۇچلىرىنى باشقۇرىدۇ</summary>
+  <summary lang="tr">Parolalarınızı ve şifreleme anahtarlarınızı yönetin</summary>
+  <summary lang="th">จัดการรหัสผ่านและกุญแจเข้ารหัสลับของคุณ</summary>
+  <summary lang="te">మీ సంకేతపదాలను మరియు రహస్యపరచే మీటలను నిర్వహించండి</summary>
+  <summary lang="ta">உங்கள் கடவுச்சொற்கள் மற்றும் மறையாக்க விசைகளை மேலாளுங்கள்</summary>
+  <summary lang="sv">Hantera dina lösenord och krypteringsnycklar</summary>
+  <summary lang="sr@latin">Uredite vaše lozinke i ključeve šifrovanja</summary>
+  <summary lang="sr">Уредите ваше лозинке и кључеве шифровања</summary>
+  <summary lang="sl">Upravljanje z gesli in šifrirnimi ključi</summary>
+  <summary lang="sk">Spravuje vaše heslá a šifrovacie kľúče</summary>
+  <summary lang="ru">Управление паролями и ключами шифрования</summary>
+  <summary lang="ro">Administează parolele și cheile de criptare</summary>
+  <summary lang="pt_BR">Gerencie suas senhas e chaves de criptografia</summary>
+  <summary lang="pt">Gerir palavras-passe e chaves de encriptação</summary>
+  <summary lang="pl">Zarządzanie hasłami i kluczami szyfrującymi</summary>
+  <summary lang="pa">ਆਪਣੇ ਪਾਸਵਰਡ ਅਤੇ ਇੰਕ੍ਰਿਪਸ਼ਨ ਕੁੰਜੀਆਂ ਦੀ ਦੇਖਭਾਲ ਕਰੋ</summary>
+  <summary lang="or">ଆପଣଙ୍କର ପ୍ରବେଶ ସଂକେତ ଏବଂ ସଂଗୁପ୍ତ କି କୁ ପରିଚାଳନା କରନ୍ତୁ</summary>
+  <summary lang="oc">Permet de gerir vòstres senhals e vòstras claus de chiframent</summary>
+  <summary lang="nn">Handter dine passord og krypteringsnøklar</summary>
+  <summary lang="nl">Uw encryptiesleutels en wachtwoorden beheren</summary>
+  <summary lang="ne">तपाईँको पासवर्ड र गुप्तिकरण कुञ्जीहरू प्रबन्ध गर्नुहोस्</summary>
+  <summary lang="nb">Håndter dine passord og krypteringsnøkler</summary>
+  <summary lang="ms">Urus kata laluan dan kunci penyulitan anda</summary>
+  <summary lang="mr">तुमचे पासवर्ड व ऐंक्रीप्शन किल्ली नियंत्रीत करा</summary>
+  <summary lang="ml">നിങ്ങളുടെ രഹസ്യവാക്കും എന്‍ക്രിപ്ഷന്‍ കീകളും കൈകാര്യം ചെയ്യുക</summary>
+  <summary lang="mk">Менаџирајте ги Вашите лозинки и клучеви за енкриптирање</summary>
+  <summary lang="lv">Pārvaldīt paroles un šifrēšanas atslēgas</summary>
+  <summary lang="lt">Tvarkyti Jūsų slaptažodžius ir šifravimo raktus</summary>
+  <summary lang="ko">암호 및 암호화 키를 관리합니다</summary>
+  <summary lang="kn">ನಿಮ್ಮ ಗುಪ್ತಪದ ಮತ್ತು ಗೂಢಲಿಪೀಕರಣ ಕೀಲಿಯನ್ನು ನಿರ್ವಹಿಸಿ</summary>
+  <summary lang="kk">Парольдерді және шифрлеу кілттерін басқару</summary>
+  <summary lang="ja">パスワードや暗号鍵を管理します</summary>
+  <summary lang="it">Gestisce le proprie password e chiavi di cifratura</summary>
+  <summary lang="is">Halda utan um lykilorð og dulritunarlykla</summary>
+  <summary lang="id">Kelola kata sandi dan kunci enkripsi Anda</summary>
+  <summary lang="hu">Jelszavak és titkosítási kulcsok kezelése</summary>
+  <summary lang="hr">Upravljajte svojim lozinkama i ključevima šifriranja</summary>
+  <summary lang="hi">अपना कूटशब्द और गोपन कुंजी प्रबंधित करें</summary>
+  <summary lang="he">ניהול הסיסמאות ומפתחות ההצפנה שלך</summary>
+  <summary lang="gu">તમારા પાસવર્ડો અને એનક્રિપ્શન કીઓની વ્યવસ્થા કરો</summary>
+  <summary lang="gl">Xestione os seus contrasinais e chaves de cifrado</summary>
+  <summary lang="gd">Stiùirich na faclan-faire is iuchraichean crioptachaidh agad</summary>
+  <summary lang="ga">Bainistigh d'fhocail faire agus eochracha criptithe</summary>
+  <summary lang="fur">Ministre lis tôs password e clâfs di cifradure</summary>
+  <summary lang="fr">Gérer vos mots de passe et vos clés de chiffrement</summary>
+  <summary lang="fi">Hallitse salasanoja ja salausavaimia</summary>
+  <summary lang="fa">مدیریت گذرواژه‌ها و کلیدهای رمزنگاریتان</summary>
+  <summary lang="eu">Kudeatu pasahitzak eta zifratze-gakoak</summary>
+  <summary lang="et">Sinu paroolide ja krüptimisvõtmete haldamine</summary>
+  <summary lang="es">Administre sus claves y contraseñas de cifrado</summary>
+  <summary lang="eo">Mastrumi viajn pasvortojn kaj ĉifrajn ŝlosilojn</summary>
+  <summary lang="en@shaw">𐑥𐑨𐑯𐑦𐑡 𐑿𐑼 𐑐𐑭𐑕𐑢𐑼𐑛𐑟 𐑯 𐑦𐑯𐑒𐑮𐑦𐑐𐑖𐑩𐑯 𐑒𐑰𐑟</summary>
+  <summary lang="en_GB">Manage your passwords and encryption keys</summary>
+  <summary lang="el">Διαχειριστείτε τους κωδικούς πρόσβασης και τα κλειδιά κρυπτογράφησης σας</summary>
+  <summary lang="dz">ཁྱོད་རའི་ཆོག་ཡིག་དང་གསང་བཟོ་ལྡེ་མིག་ཚུ་ འཛིན་སྐྱོང་འཐབ་</summary>
+  <summary lang="de">Verwalten Sie Ihre Passwörter und Schlüssel</summary>
+  <summary lang="da">Håndtér dine adgangskoder og krypteringsnøgler</summary>
+  <summary lang="cs">Spravujte svá hesla a šifrovací klíče</summary>
+  <summary lang="ca@valencia">Gestioneu les contrasenyes i claus d'encriptació</summary>
+  <summary lang="ca">Gestioneu les contrasenyes i claus d'encriptació</summary>
+  <summary lang="bs">Uredite vaše lozinke i ključeve šifrovanja</summary>
+  <summary lang="br">Ardeiñ ho tremengerioù hag alc'hwezioù enrinegañ</summary>
+  <summary lang="bn_IN">পাসওয়ার্ড ও এনক্রিপশন-কি পরিচালনা করুন</summary>
+  <summary lang="bn">পাসওয়ার্ড ও এনক্রিপশন-কী পরিচালনা করুন</summary>
+  <summary lang="bg">Управление на паролите и ключовете за шифриране</summary>
+  <summary lang="be@latin">Kiruj parolami j klučami šyfravańnia</summary>
+  <summary lang="be">Кіраванне паролямі і ключамі шыфравання</summary>
+  <summary lang="ast">Alministra tos contraseñes y claves de cifráu</summary>
+  <summary lang="as">পাছৱৰ্ড আৰু এনক্ৰিপশন-কি' ব্যৱস্থাপনা কৰক</summary>
+  <summary lang="ar">أدِر كلمات سرّك ومفاتيح تعميتك</summary>
+  <description>
+    <p>
+      Passwords and Keys is a GNOME application for managing encryption keys.
+    </p>
+    <p>
+      With Passwords and Keys you can create and manage PGP keys, create and manage SSH keys,
+      publish and retrieve keys from key servers, cache your passphrase so you
+      don’t have to keep typing it and backup your keys and keyring.
+    </p>
+  </description>
+  <description lang="bg">
+    <p>„Пароли и ключове“ е програма за GNOME за управление на ключовете за шифриране.</p>
+    <p>С „Пароли и ключове“ може да: • създавате и управлявате ключове за PGP и SSH; • публикувате и изтегляте ключове от сървъри; • кеширате основни пароли си в паметта, за да не се налага непрекъснато да ги въвеждате и може да правите резервни копия на ключовете и ключодържателите.</p>
+  </description>
+  <description lang="ca">
+    <p>Contrasenyes i claus és una aplicació del GNOME per a gestionar les claus d'encriptació.</p>
+    <p>Amb Contrasenyes i claus podeu crear i gestionar claus PGP i SSH, publicar i recuperar claus des de servidors, desar en la memòria cau la contrasenya per no haver-la d'introduir i també per a crear una còpia de seguretat de les vostres claus i clauers.</p>
+  </description>
+  <description lang="cs">
+    <p>Hesla a klíče je aplikace GNOME pro správu šifrovacích klíčů.</p>
+    <p>Pomocí Hesel a klíčů můžete vytvářet a spravovat klíče PGP, vytvářet a spravovat klíče SSH, zveřejňovat a získávat klíče ze serverů, ukládat své heslové fráze do mezipaměti (abste je nemuseli pořád dokola psát) a zálohovat své klíče a klíčenku.</p>
+  </description>
+  <description lang="da">
+    <p>Adgangskoder og nøgler er et GNOME-program til håndtering af krypteringsnøgler.</p>
+    <p>Med Adgangskoder og nøgler kan du oprette og håndtere PGP-nøgler, oprette og håndtere SSH-nøgler, offentliggøre og hente nøgler fra nøgleservere, lagre din adgangsfrase, så du ikke behøver blive ved med at skrive den, samt sikkerhedskopiere dine nøgler og nøglering.</p>
+  </description>
+  <description lang="de">
+    <p>»Passwörter und Schlüssel« ist eine GNOME-Anwendung zur Verwaltung von kryptografischen Schlüsseln.</p>
+    <p>Mit »Passwörter und Schlüssel« erstellen und verwalten Sie PGP- und SSH-Schlüssel, veröffentlichen sie und rufen Schlüssel von Schlüssel-Servern ab, speichern Sie Ihre Passphrasen zwischen, um diese nicht wiederholt eintippen zu müssen, und sichern Sie Ihre Schlüssel und den Schlüsselbund.</p>
+  </description>
+  <description lang="es">
+    <p>Contraseñas y claves es una aplicación de GNOME para gestionar claves de cifrado.</p>
+    <p>Con v puede crear y gestionar claves PGP y SSH, publicar y obtener claves de servidores de claves, almacenar en la caché su contraseña para no tener que escribirla y hacer una copia de seguridad de sus claves y de su anillo de claves.</p>
+  </description>
+  <description lang="eu">
+    <p>Pasahitzak eta Gakoak aplikazioa zifratutako gakoak kudeatzeko aplikazio bat da GNOME mahaigainerako.</p>
+    <p>Pasahitzak eta Gakoak aplikazioarekin PGP eta SSH gakoak sortu eta kudeatu daitezke, gako-zerbitzarietatik gakoak eskuratu eta argitaratu daitezke, pasaesaldiak gordetzen ditu hura berriro idatzi behar ez izateko eta gakoen eta gako-sorten babeskopia egiten du.</p>
+  </description>
+  <description lang="fa">
+    <p>گذرواژه‌ها و کلیدها، برنامهٔ گنوم برای مدیریت کلیدهای رمزنگاری است.</p>
+    <p>با گذرواژه‌ها و کلیدها می‌توانید کلیدهای PGP و SSH ایجاد و آن‌ها را مدیریت کنید؛ کلیدهای را از کارسازهای کلید گرفته و رویشان منتشر کنید؛ عبارت عبورتان را انبار کرده تا دیگر نیازی به نوشتنش نباشد و از کلیدها و دسته‌کلیدتان، پشتیبان بگیرید.</p>
+  </description>
+  <description lang="fi">
+    <p>Salasanat ja avaimet on Gnome-sovellus salausavainten hallintaan.</p>
+    <p>Voit luoda sekä hallita PGP- ja SSH-avaimia, julkaista ja noutaa avaimia avainpalvelimilta, asettaa tunnuslauseen välimuistiin sekä varmuuskopioida avaimet ja avainnipun.</p>
+  </description>
+  <description lang="fr">
+    <p>Mots de passe et clés est une application GNOME pour gérer les clés de chiffrement.</p>
+    <p>Mots de passe et clés permet de créer et de gérer des clés PGP et SSH, de publier et d’obtenir des clés à partir de serveurs de clés, de mettre en cache sa phrase de passe pour ne pas devoir la ressaisir de multiples fois et de sauvegarder les clés et les trousseaux de clés.</p>
+  </description>
+  <description lang="fur">
+    <p>Passwords e clâfs e je une aplicazion di GNOME pe gjestion des clâfs di cifradure.</p>
+    <p>Cun Passwords e clâfs tu puedis creâ e gjestî clâfs PGP, creâ e ministrâ clâfs SSH, publicâ e recuperâ clâfs dai servidôrs di clâfs, tignî in memorie lis tôs passphrase cussì no tu âs di tornâ a scrivilis e tu puedis fâ il backup des tôs clâfs e dai puarteclâfs.</p>
+  </description>
+  <description lang="gl">
+    <p>Constrasinais e Chaves é unha aplicación para xestionar chaves de cifrado.</p>
+    <p>Con Contrasinais e Chaves pode crear e xestionar chaves PGP, crear e xestionar chaves SSH, publicar e obter chaves desde servidores de chaves, almacenar na caché a súa frase de paso deste xeito non terá que escribila continuamente e facer un respaldo das súas chaves e do anel de chaves.</p>
+  </description>
+  <description lang="he">
+    <p>‏סיסמאות ומפתחות הוא יישום GNOME לניהול מפתחות הצפנה.</p>
+    <p>עם סיסמאות ומפתחות ניתן ליצור ולנהל מפתחות PGP, ליצור ולנהל מפתחות SSH, לפרסם ולקבל מפתחות משרתי מפתחות, לשמור את מילות הצופן שלך במטמון כדי שלא יהיה עליך להקליד אותן שוב ושוב ולגבות את המפתחות ואת קבוצות המפתחות שלך.</p>
+  </description>
+  <description lang="hr">
+    <p>Lozinke i Ključevi su GNOME aplikacija za upravljanje ključevima šifriranja.</p>
+    <p>S Lozinkama i Ključevima možete stvarati i upravljati PGP ključevima, stvarati i upravljati SSH ključevima, objavljivati i preuzimati ključeve s poslužitelja, spremati vaše lozinke tako da ih ne morate stalno upisivati i sigurnosno kopira vaše ključeve i skupove ključeva.</p>
+  </description>
+  <description lang="hu">
+    <p>A Jelszavak és kulcsok egy GNOME alkalmazás titkosítási kulcsok kezeléséhez.</p>
+    <p>A Jelszavak és kulcsok programmal PGP-kulcsokat hozhat létre és kezelheti őket, SSH-kulcsokat hozhat létre és kezelheti őket, közzétehet és lekérhet kulcsokat a kulcskiszolgálókról, eltárolhatja a jelszavát, így nem kell állandóan begépelnie azt, valamint biztonsági mentést készíthet a kulcsairól és a kulcstartójáról.</p>
+  </description>
+  <description lang="id">
+    <p>Kata Sandi dan Kunci adalah aplikasi GNOME untuk mengelola kunci enkripsi.</p>
+    <p>Dengan Kata Sandi dan Kunci Anda dapat membuat dan mengelola kunci PGP, membuat dan mengelola kunci SSH, menerbitkan dan mengambil kunci dari peladen kunci, menyinggahkan frasa sandi Anda sehingga Anda tak perlu setiap kali mengetikkannya, dan membuat cadangan kunci dan ring kunci Anda.</p>
+  </description>
+  <description lang="it">
+    <p>Password e chiavi è un'applicazione GNOME per la gestione di chiavi di cifratura.</p>
+    <p>Con Password e chiavi è possibile creare e gestire chiavi PGP, SSH, pubblicare e recuperare chiavi da diversi server di chiavi, mantenere in memoria le passphrase in modo da non doverle ripetere ed è in grado di eseguire backup delle proprie chiavi e del portachiavi.</p>
+  </description>
+  <description lang="ja">
+    <p>“パスワードと鍵”は暗号鍵を管理するための GNOME アプリケーションです。</p>
+    <p>“パスワードと鍵”を使用すると PGP 鍵、SSH 鍵の生成および管理、鍵サーバーへの公開や取得が可能です。パスフレーズをキャッシュしておけるため、何度もパスフレーズを入力する必要がなくなります。また、鍵やキーリングのバックアップを取ることもできます。</p>
+  </description>
+  <description lang="kk">
+    <p>Парольдер мен Кілттер қолданбасы көмегімен сіз PGP кілттерін жасау және басқару, SSH кілттерін жасау және басқару, кілттер серверлеріне кілттерді жариялау және олардан алу, кілттік фразаны қайта-қайта тере бермеу үшін оны кэштеу, кілттер және кілттер бауының қор көшірмелерін жасау әрекеттерін жасай аласыз.</p>
+  </description>
+  <description lang="ko">
+    <p>암호 및 키 프로그램은 암호화 키를 관리하는 그놈 프로그램입니다.</p>
+    <p>암호와 키 프로그램에서 PGP 키를 만들고 관리할 수 있고, SSH 키를 만들고 관리할 수 있고, 키 서버에 키를 공개하거나 가져올 수 있고, 암호를 임시 저장해서 반복해서 타이핑할 필요가 없게 해 주고, 키와 키 모음을 백업할 수 있습니다.</p>
+  </description>
+  <description lang="lt">
+    <p>Slaptažodžiai ir raktai yra GNOME programa šifravimo raktų tvarkymui.</p>
+    <p>Su slaptažodžiais ir raktais galite sukurti bei tvarkyti PGP ir SSH raktus, paskelbti ir gauti raktus iš raktų serverių, įrašyti savo slaptažodį, kad nebereikėtų jo rašyti, bei padaryti atsargines savo raktų bei raktinių kopijas.</p>
+  </description>
+  <description lang="lv">
+    <p>“Paroles un atslēgas” ir GNOME lietotne, kas pārvalda šifrēšanas atslēgas.</p>
+    <p>Ar “Parolēm un atslēgām” jūs varat izveidot un pārvaldīt PGP atslēgas, izveidot un pārvaldīt SSH atslēgas, publicēt un saņemt atslēgas no atslēgu serveriem, glabāt paroles, lai tās nevajadzētu rakstīt un dublēt atslēgas un atslēgu saišķus.</p>
+  </description>
+  <description lang="nl">
+    <p>Wachtwoorden en sleutels is een Gnome-toepassing voor het beheren van encryptiesleutels.</p>
+    <p>Met Wachtwoorden en sleutels kunt u PGP- en SSH-sleutels aanmaken en beheren, sleutels publiceren en ophalen van sleutelservers, uw wachtwoord bewaren zodat u dit niet steeds hoeft in te typen, en een reservekopie maken van uw sleutels en sleutelbos.</p>
+  </description>
+  <description lang="pl">
+    <p>Hasła i klucze to program dla środowiska GNOME do zarządzania kluczami szyfrującymi.</p>
+    <p>Program Hasła i klucze umożliwia tworzenie i zarządzanie kluczami PGP i kluczami SSH, publikowanie i pobieranie kluczy z serwerów, zapamiętywanie haseł oraz tworzenie kopii zapasowych kluczy i baz kluczy.</p>
+  </description>
+  <description lang="pt">
+    <p>Palavras-passe e Chaves é uma aplicação do GNOME para gestão de chaves de encriptação.</p>
+    <p>Com o Palavras-passe e Chaves pode criar e gerir chaves PGP, criar e gerir chaves SSH, publicar e consultar chaves em servidores, armazenar as suas palavras-passe de forma a que não tenha de inseri-las continuamente e fazer cópias de segurança das suas chaves e chaveiros.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Senhas e chaves é um aplicativo do GNOME para gerenciar chaves de criptografia.</p>
+    <p>Com o Senhas e chaves você pode criar e gerenciar chaves PGP e chaves SSH, publicar e recuperar chaves de servidores de chaves, armazenar em cache sua frase secreta para que você não precise continuar digitando-a e efetuar cópia de segurança (backup) de suas chaves e chaveiro.</p>
+  </description>
+  <description lang="ru">
+    <p>Пароли и ключи это приложение GNOME для управления хранилищами ключей шифрования.</p>
+    <p>С помощью Паролей и ключей можно создавать и управлять ключами PGP, создавать и управлять ключами SSH, публиковать и получать ключи с серверов, кэшировать парольные фразы, создавать резервные копии ключей и связок с ключами.</p>
+  </description>
+  <description lang="sl">
+    <p>Gesla in Ključi je program GNOME za upravljanje s šifrirnimi ključi.</p>
+    <p>S programom je mogoče ustvarjati in urejati ključe PGP in SSH, jih objavljati in pridobivati iz stražnikov ključev. Podpira tudi predpomnjenje šifrirnih fraz, kar olajša vnos ob zahtevi. Omogoča ustvarjanje varnostnih kopij ključev in celotnih zbirk ključev.</p>
+  </description>
+  <description lang="sr">
+    <p>Лозинке и кључеви су Гномов програм за управљање кључевима за шифровање.</p>
+    <p>Са лозинкама и кључевима можете стварати и управљати ПГП кључевима, кључевима безбедне шкољке (SSH), можете објављивати и довлачити кључеве са сервера кључева, сачувати вашу лозинку да је не бисте куцали стално и правити резерве ваших кључева и привеска кључева.</p>
+  </description>
+  <description lang="sv">
+    <p>Lösenord och nycklar är ett GNOME-program för att hantera kryptonycklar.</p>
+    <p>Med Lösenord och nycklar kan du skapa och hantera PGP-nycklar, skapa och hantera SSH-nycklar, publicera och hämta nycklar från nyckelservrar, mellanlagra dina lösenfraser så du inte behöver ange dem och säkerhetskopiera dina nycklar och din nyckelring.</p>
+  </description>
+  <description lang="tr">
+    <p>Parolalar ve Anahtarlar, şifreleme anahtarlarını yöneten GNOME uygulamasıdır.</p>
+    <p>Parolalar ve Anahtarlar ile PGP ve SSH anahtarları oluşturabilir ve yönetebilir, anahtar sunucularına anahtar gönderip alabilirsiniz, yeniden girmenize gerek kalmaması için parolanızı önbelleğe alabilir, anahtarlarınızı ve anahtarlığınızı yedekleyebilirsiniz.</p>
+  </description>
+  <description lang="uk">
+    <p>«Паролі і ключі» — програма GNOME для керування ключами шифрування.</p>
+    <p>За допомогою «Паролів і ключів» ви можете створювати ключі PGP, SSH тощо та керувати ними, оприлюднювати та одержувати ключі з сервера, кешувати паролі, щоб не набирати їх кожного разу, й робити резервні копії.</p>
+  </description>
+  <description lang="vi">
+    <p>Mật khẩu và Chìa khóa là ứng dụng của GNOME dùng để quản lý các khóa mã hóa.</p>
+    <p>Khi dùng Mật khẩu và Chìa khóa bạn có thể tạo và quản lý các khóa PGP, tạo và quản lý khóa SSH, xuất hay nhận khóa từ các máy chủ phục vụ khóa, nhớ đệm mật khẩu mở tập tin khóa do đó bạn không cần phải gõ nó và sao lưu dự phòng khóa và chùm khóa cho bạn.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>密码和密钥是用于管理加密密钥的 GNOME 应用程序。</p>
+    <p>您可以通过密码和密钥创建和管理 PGP 密钥 、SSH 密钥，将密钥发送或取回到密钥服务器，缓存您的口令以免重复输入，以及备份您的密钥和密钥环。</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image height="576" width="1024">https://gitlab.gnome.org/GNOME/seahorse/raw/master/data/screenshot-default.png</image>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release version="42.0" date="2022-05-21">
+      <description>
+        <p>
+          Version 42 is the next stable release after version 41, with the
+          following major improvements:
+        </p>
+        <ul>
+          <li>The UI will now follow your preferred color scheme</li>
+          <li>
+            Make sure the application shows up when searching for gpg or pgp in
+            GNOME Shell
+          </li>
+          <li>Several fixes searching from GNOME Shell</li>
+          <li>Announce supported mime types</li>
+        </ul>
+        <p>This release also updates translations in several languages.</p>
+      </description>
+    </release>
+    <release date="2021-09-29" version="41.0">
+      <description>
+        <p>
+          Version 41 is the next stable release after version 40, with the
+          following major improvements:
+        </p>
+        <ul>
+          <li>
+            A redesign of several dialogs to follow the new GNOME HIG more
+            closely. Especially the PGP key properties dialog got a major
+            overhaul
+          </li>
+          <li>
+            A long-standing bug has been fixed where newly imported GPG keys
+            would not automatically show up, unless the application was killed
+            and restarted
+          </li>
+          <li>Fixed an issue where the expiration date was set incorrectly</li>
+          <li>Add compatibility with the GnuPG version 2.3 series</li>
+        </ul>
+        <p>This release also updates translations in several languages.</p>
+      </description>
+    </release>
+    <release version="40.0" date="2021-04-11">
+      <description>
+        <p>
+          Version 40 is the next stable release after 3.38, with the
+          following major improvements:
+        </p>
+        <ul>
+          <li>Support for PGP keyservers which use the HKPS format</li>
+          <li>
+            Several hiccups that occurred when adding a new PGP keyservers have
+            now been resolved.
+          </li>
+          <li>You can now create GPG keys with an empty password</li>
+          <li>
+            Fixed an issue with the expiry date when trying to create a new
+            GPG key
+          </li>
+          <li>Network passwords now have a separate icon</li>
+          <li>
+            Style updates to have a more consistent look with other
+            GNOME apps
+          </li>
+        </ul>
+        <p>This release also updates translations in several languages.</p>
+      </description>
+    </release>
+    <release date="2020-11-07" version="3.38.0">
+      <description>
+        <p>
+          Version 3.38 is the next stable release after 3.36, with the
+          following major improvements:
+        </p>
+        <ul>
+          <li>Right-clicking on a password new has a option to copy it</li>
+          <li>
+            Allowing specific SSH keys for remote access was broken for quite
+            some time, but has now been fixed
+          </li>
+          <li>Virtual keyboards will better support several input fields</li>
+          <li>New keyboard shortcuts using &lt;Alt> and arrow keys</li>
+          <li>Several bugfixes</li>
+        </ul>
+        <p>This release also updates translations in several languages.</p>
+      </description>
+    </release>
+    <release version="3.36" date="2020-03-10">
+      <description>
+        <p>
+          Version 3.36 is the next stable release after 3.34, with the
+          following major improvements:
+        </p>
+        <ul>
+          <li>
+            UI improvements to the main window: better fitted to deal with
+            smaller screens, as well as better feedback when iterating over
+            the list
+          </li>
+          <li>
+            The sidebar now groups in the more logical "Passwords", "Keys" and
+            "Certificates" categories
+          </li>
+          <li>
+            Consistent with other GNOME apps, we now have a separate window for
+            our keyboard shortcuts
+          </li>
+          <li>Removed the usage of short key IDs for PGP keys</li>
+          <li>
+            Add the possibility to show and copy the public key of an SSH key
+          </li>
+          <li>
+            When showing passwords in the main list, we do a best effort to
+            also display the username
+          </li>
+          <li>Several bugfixes</li>
+        </ul>
+        <p>This release also updates translations in several languages.</p>
+      </description>
+    </release>
+    <release version="3.34" date="2019-10-01">
+      <description>
+        <p>
+          Version 3.34 is the next stable release after 3.32, with the
+          following major improvements:
+        </p>
+        <ul>
+          <li>Following the GNOME UX with type-to-search</li>
+          <li>Allow passing files that should be imported as argument</li>
+          <li>Fix a segfault when syncing to HKP server</li>
+          <li>Fix a use-after-free the password dialog</li>
+          <li>Fix build for some GPG versions</li>
+          <li>Several Flatpak build fixes</li>
+        </ul>
+        <p>This release also updates translations in several languages.</p>
+      </description>
+    </release>
+    <release version="3.32" date="2019-03-12">
+      <description>
+        <p>
+          Version 3.32 is the first stable release since 3.30, with the
+          following major improvements:
+        </p>
+        <ul>
+          <li>A new and contemporary icon</li>
+          <li>Cleanup of the interface with a headerbar</li>
+          <li>Added an empty state placeholder</li>
+          <li>Passwords filled in GNOME Web show the website and username</li>
+          <li>User-specific Wi-Fi Passwords are now recognized</li>
+          <li>Passwords from Chrome are now more often properly recognized</li>
+          <li>Application-specific passwords now show the application logo if available</li>
+          <li>When entering a new password, an indicator shows its strength</li>
+          <li>Property dialogs for passwords and keys have undergone a cleanup</li>
+        </ul>
+        <p>This release also updates translations in several languages.</p>
+      </description>
+    </release>
+    <release date="2018-09-03" version="3.30">
+      <description>
+        <p>
+          Version 3.30 is the first stable release since 3.20, with the
+          following major improvements:
+        </p>
+        <ul>
+          <li>SSH: Added support for ED25519 and ECDSA keys</li>
+          <li>SSH: different key length options given the encryption type</li>
+          <li>GPG: give a hint when a name is too short for a key</li>
+          <li>GKR: ask for confirmation when changing a password</li>
+          <li>GKR: fix segfault when changing default keyring password</li>
+          <li>Fixed multi-selection of keys</li>
+          <li>Small tweaks to modernize the UI</li>
+          <li>Got rid of several deprecated GTK+ widgets</li>
+          <li>Moved to Meson as build system</li>
+          <li>Migrated to GitLab and added CI with Flatpak</li>
+        </ul>
+        <p>This release also updates translations in several languages.</p>
+      </description>
+    </release>
+  </releases>
+  <recommends>
+    <control>keyboard</control>
+    <control>pointing</control>
+    <control>touch</control>
+  </recommends>
+  <requires>
+    <display_length compare="ge">360</display_length>
+  </requires>
+  <url type="homepage">https://wiki.gnome.org/Apps/Seahorse</url>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/seahorse/issues</url>
+  <url type="donation">http://www.gnome.org/friends/</url>
+  <url type="help">https://help.gnome.org/users/seahorse/stable/</url>
+  <update_contact>nielsdegraef@gmail.com</update_contact>
+  <project_group>GNOME</project_group>
+  <developer_name>The GNOME Project</developer_name>
+  <developer_name lang="zh_TW">GNOME 專案</developer_name>
+  <developer_name lang="zh_CN">GNOME 项目</developer_name>
+  <developer_name lang="vi">Dự án GNOME</developer_name>
+  <developer_name lang="uk">Проєкт GNOME</developer_name>
+  <developer_name lang="tr">GNOME Projesi</developer_name>
+  <developer_name lang="sv">GNOME-projektet</developer_name>
+  <developer_name lang="sr">Гном пројекат</developer_name>
+  <developer_name lang="sl">Projekt GNOME</developer_name>
+  <developer_name lang="sk">Projekt GNOME</developer_name>
+  <developer_name lang="ru">Проект GNOME</developer_name>
+  <developer_name lang="ro">Proiectul GNOME</developer_name>
+  <developer_name lang="pt_BR">O Projeto GNOME</developer_name>
+  <developer_name lang="pt">Projeto GNOME</developer_name>
+  <developer_name lang="pl">Projekt GNOME</developer_name>
+  <developer_name lang="pa">ਗਨੋਮ ਪਰੋਜੈਕਟ</developer_name>
+  <developer_name lang="oc">Lo projècte GNOME</developer_name>
+  <developer_name lang="nl">Het Gnome-project</developer_name>
+  <developer_name lang="ne">जिनोम परियोजना</developer_name>
+  <developer_name lang="nb">GNOME prosjektet</developer_name>
+  <developer_name lang="ms">Projek GNOME</developer_name>
+  <developer_name lang="lv">GNOME projekts</developer_name>
+  <developer_name lang="lt">GNOME projektas</developer_name>
+  <developer_name lang="ko">그놈 프로젝트</developer_name>
+  <developer_name lang="kk">GNOME жобасы</developer_name>
+  <developer_name lang="ja">The GNOME Project</developer_name>
+  <developer_name lang="it">Il progetto GNOME</developer_name>
+  <developer_name lang="id">Proyek GNOME</developer_name>
+  <developer_name lang="hu">A GNOME projekt</developer_name>
+  <developer_name lang="hr">GNOME projekt</developer_name>
+  <developer_name lang="he">מיזם GNOME</developer_name>
+  <developer_name lang="gl">O Proxecto GNOME</developer_name>
+  <developer_name lang="fur">Il progjet GNOME</developer_name>
+  <developer_name lang="fr">Le projet GNOME</developer_name>
+  <developer_name lang="fi">Gnome-projekti</developer_name>
+  <developer_name lang="fa">پروژهٔ گنوم</developer_name>
+  <developer_name lang="eu">GNOME proiektua</developer_name>
+  <developer_name lang="es">El Proyecto GNOME</developer_name>
+  <developer_name lang="en_GB">The GNOME Project</developer_name>
+  <developer_name lang="el">Το έργο GNOME</developer_name>
+  <developer_name lang="de">Das GNOME-Pojekt</developer_name>
+  <developer_name lang="da">GNOME-projektet</developer_name>
+  <developer_name lang="cs">Projekt GNOME</developer_name>
+  <developer_name lang="ca">El projecte GNOME</developer_name>
+  <developer_name lang="bg">Проектът GNOME</developer_name>
+  <developer_name lang="be">Праект GNOME</developer_name>
+  <provides>
+    <binary>seahorse</binary>
+  </provides>
+  <launchable type="desktop-id">org.gnome.seahorse.Application.desktop</launchable>
+  <translation type="gettext">seahorse</translation>
+  <content_rating type="oars-1.1">
+    <content_attribute id="social-contacts">intense</content_attribute>
+  </content_rating>
+</component>

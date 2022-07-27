@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <description>
+    <p>
+      Tellico is an application for organizing your collections.
+      It provides default templates for books, bibliographies, videos, music, video games, coins, stamps, trading cards, comic books, and wines.
+      It allows you to enter your collection in a catalogue database, saving many different properties like title, author, etc.
+    </p>
+    <p>Features:</p>
+    <ul>
+      <li>Supports default collections of books, bibliographic entries, videos, music, video games, comic books, coins, stamps, trading cards, wines, board games, and file catalogs</li>
+      <li>Supports user-defined custom collections</li>
+      <li>Supports any number of user-defined fields, of several different types: text, paragraph, list, checkbox, number, URL, date, images, and combinations</li>
+      <li>Handles entries with multiple authors, genres, keywords, etc</li>
+      <li>Automatically formats titles and names</li>
+      <li>Supports collection searching and view filtering</li>
+      <li>Sorts and groups collection by various properties</li>
+      <li>Allows customizable entry templates through XSLT</li>
+      <li>Imports MODS, Bibtex, RIS, CSV, PDF metadata, and many other formats</li>
+      <li>Exports to Bibtex, ONIX, CSV, HTML, and other formats</li>
+      <li>Imports information directly from Amazon.com, IMDb, z39.50 servers, PubMed, SRU servers, CrossRef.org, various other websites, and from external scripts</li>
+      <li>Imports CDDB data for cataloging audio CDs</li>
+      <li>Scans and imports audio file collections, such as mp3 or ogg</li>
+    </ul>
+  </description>
+  <description lang="bs">
+    <p>Tellico je aplikacija za organiziranje vaše kolekcije. Omogućava početne predloške za knjige, bibliografije, videa, muziku, video igrice, kovanice, markice, kartice za razmjenu, stripove i vina. Dopušta vam ulaz u vašu kolekiju u katalošku bazu podataka, snimajući mnogo različitih osobina kao što su naslov, autor, itd.</p>
+    <p>Svojstva:</p>
+    <ul>
+      <li>Podržava početne kolekcije knjiga, bibliografskih ulaza, videa, muzike, video igrica, stripova, kovanica, markica, kartica za razmjenu, vina, društvenih igara i datotečnih kataloga.</li>
+      <li>Podržava korisnički definisane prilagođene kolekcije</li>
+      <li>Podržava bilo koji broj korisnički definisanih polja, nekoliko različitih tipova: tekst, paragraf, lista, kvadtratić za označavanje, broj, URL, datum, slike i kombinacije.</li>
+      <li>Upravlja ulazima sa više autora, žanrova, ključnih riječi, itd.</li>
+      <li>Automatski formatira naslove i imena</li>
+      <li>Podržava pretragu kolekcije i filter pregleda</li>
+      <li>Sortira i grupira kolekcije po različitim osobinama</li>
+      <li>Dopušta prilagođene ulazne predloške preko XSLT</li>
+      <li>Uvozi iz MODS, Bibtex, RIS, CSV, PDF metapodatke, i mnogih drugih formata</li>
+      <li>Uvozi informacije direktno sa Amazon.com, IMDb, z39.50 servera, PubMed, SRU servera, CrossRef.org, različitih drugih web stranica, i iz vanjskih skripti</li>
+      <li>Uvozi CDDB podatke za popisivanje muzičkih CD-ova</li>
+      <li>Pretražuje i uvozi kolekcije muzičkih datoteka kao što su mp3 ili ogg</li>
+    </ul>
+  </description>
+  <description lang="ca">
+    <p>El Tellico és una aplicació per a organitzar col·leccions. Proporciona plantilles per defecte per a llibres, bibliografies, vídeos, música, videojocs, monedes, segells, cromos, còmics i vins. Permet introduir les col·leccions en una base de dades de catàlegs, desant moltes propietats diferents com el títol, l'autor, etc.</p>
+    <p>Característiques:</p>
+    <ul>
+      <li>Funciona amb col·leccions per defecte de catàlegs de llibres, entrades de bibliografia, vídeos, música, videojocs, còmics, monedes, segells, cromos, vins, jocs de taula i fitxers</li>
+      <li>Funciona amb col·leccions personalitzades definides per l'usuari</li>
+      <li>Funciona amb qualsevol nombre de camps definits per l'usuari, de molts tipus diferents: text, paràgraf, llista, casella de selecció, nombre, URL, data, imatges i combinacions</li>
+      <li>Gestiona entrades amb múltiples autors, gèneres, paraules clau, etc.</li>
+      <li>Formata automàticament els títols i els noms</li>
+      <li>Admet la cerca de col·leccions i filtratge de la vista</li>
+      <li>Ordena i agrupa les col·leccions per diverses propietats</li>
+      <li>Admet plantilles d'entrades personalitzades mitjançant XSLT</li>
+      <li>Importa MODS, Bibtex, RIS, CSV, metadades de PDF, i molts altres formats</li>
+      <li>Exporta a Bibtex, ONIX, CSV, HTML i altres formats</li>
+      <li>Importa informació directament des d'Amazon.com, IMDb, servidors z39.50, PubMed, servidors SRU, CrossRef.org, altres llocs web, i des de scripts externs</li>
+      <li>Importa dades CDDB per a la catalogació dels CD d'àudio</li>
+      <li>Explora i importa col·leccions de fitxers d'àudio, com MP3 o OGG</li>
+    </ul>
+  </description>
+  <description lang="ca-valencia">
+    <p>El Tellico és una aplicació per a organitzar col·leccions. Proporciona plantilles per defecte per a llibres, bibliografies, vídeos, música, videojocs, monedes, segells, cromos, còmics i vins. Permet introduir les col·leccions en una base de dades de catàlegs, desant moltes propietats diferents com el títol, l'autor, etc.</p>
+    <p>Característiques:</p>
+    <ul>
+      <li>Funciona amb col·leccions per defecte de catàlegs de llibres, entrades de bibliografia, vídeos, música, videojocs, còmics, monedes, segells, cromos, vins, jocs de taula i fitxers</li>
+      <li>Funciona amb col·leccions personalitzades definides per l'usuari</li>
+      <li>Funciona amb qualsevol nombre de camps definits per l'usuari, de molts tipus diferents: text, paràgraf, llista, casella de selecció, nombre, URL, data, imatges i combinacions</li>
+      <li>Gestiona entrades amb múltiples autors, gèneres, paraules clau, etc.</li>
+      <li>Formata automàticament els títols i els noms</li>
+      <li>Admet la cerca de col·leccions i filtratge de la vista</li>
+      <li>Ordena i agrupa les col·leccions per diverses propietats</li>
+      <li>Admet plantilles d'entrades personalitzades mitjançant XSLT</li>
+      <li>Importa MODS, Bibtex, RIS, CSV, metadades de PDF, i molts altres formats</li>
+      <li>Exporta a Bibtex, ONIX, CSV, HTML i altres formats</li>
+      <li>Importa informació directament des d'Amazon.com, IMDb, servidors z39.50, PubMed, servidors SRU, CrossRef.org, altres llocs web, i des de scripts externs</li>
+      <li>Importa dades CDDB per a la catalogació dels CD d'àudio</li>
+      <li>Explora i importa col·leccions de fitxers d'àudio, com MP3 o OGG</li>
+    </ul>
+  </description>
+  <description lang="cs">
+    <p>Vlastnosti:</p>
+  </description>
+  <description lang="da">
+    <p>Tellico er et program til at organisere dine samlinger. Det giver standardskabeloner til bøger, bibliografier, video, musik, computerspil, mønter, frimærker, byttekort, tegneserier og vine. Det lader dig angive din samling i en katalogdatabase, som gemmer mange forskellige egenskaber, såsom titel, forfatter osv.</p>
+    <p>Funktioner:</p>
+    <ul>
+      <li>Understøtter standardsamlinger til bøger, bibliografier, video, musik, computerspil, mønter, frimærker, byttekort, tegneserier, vine, brætspil og filkataloger</li>
+      <li>Understøtter brugerdefinerede tilpassede samlinger</li>
+      <li>Understøtter brugerdefinerede felter af mange forskellige typer, tekst, afsnit, liste, afkrydsningsfelt, nummer, URL, dato, billeder og kombinationer</li>
+      <li>Kan håndtere indgange med flere forfattere, genrer, nøgleord osv.</li>
+      <li>Formaterer titler og navne automatisk</li>
+      <li>Understøtter søgning i samlinger og filtrering af visning</li>
+      <li>Sorterer og grupperer samling efter diverse egenskaber</li>
+      <li>Muliggør indgangsskabeloner som kan tilpasses via XSLT</li>
+      <li>Importerer MODS, Bibtex, RIS, CSV, PDF-metadata og mange andre formater</li>
+      <li>Eksporterer til Bibtex, ONIX, CSV, HTML og andre formater</li>
+      <li>Importerer information direkte fra Amazon.com, IMDb, z39.50 servers, PubMed, SRU-servere, CrossRef.org, diverse andre websider og fra eksterne scripts</li>
+      <li>Importerer CDDB-data til katalogisering af lyd-cd'er</li>
+      <li>Scanner og importerer lydfilsamlinger såsom mp3 eller ogg</li>
+    </ul>
+  </description>
+  <description lang="de">
+    <p>Tellico ist eine Anwendung zur Organisation Ihrer Daten. Es enthält Standardvorlagen für Bücher, Literaturverzeichnisse, Videos, Musik, Videospiele, Comicbücher, Münzen, Briefmarken, Karten, Wein, Brettspiele und Dateikataloge. Sie können Ihre Sammlung in einer Katalog-Datenbank eingeben und viele verschiedene Eigenschaften wie Titel, Autor usw. darin speichern.</p>
+    <p>Funktionen:</p>
+    <ul>
+      <li>Unterstützt Standardsammlungen für Bücher, Literaturverzeichnisse, Videos, Musik, Videospiele, Comicbücher, Münzen, Briefmarken, Karten, Wein, Brettspiele und Dateikataloge</li>
+      <li>Unterstützt benutzerdefinierte Sammlungen</li>
+      <li>Unterstützt eine beliebige Anzahl von benutzerdefinierten Feldern mit verschiedenen Typen: Text, Absatz, Liste, Ankreuzfeld, Nummer, Adresse (URL), Datum, Bilder und Kombinationen</li>
+      <li>Verarbeitet Einträge mit mehreren Autoren, Genres, Stichwörtern usw.</li>
+      <li>Automatische Formatierung von Titeln und Namen</li>
+      <li>Unterstützt das Durchsuchen von Sammlungen und Filterung der Ansichten</li>
+      <li>Sortiert und Gruppiert Sammlungen nach verschiedenen Eigenschaften</li>
+      <li>Erlaubt anpassbare Vorlagen für Einträge mittels XSLT</li>
+      <li>Import von MODS-, Bibtex-, RIS-, CSV-, PDF-Metadaten und vielen anderen Formaten</li>
+      <li>Export zu Bibtex, ONIX, CSV, HTML, und andere Formate</li>
+      <li>Importiert Informationen direkt von Amazon.com, IMDb, z39.50-Servern, PubMed, SRU-Servern, CrossRef.org, verschiedenen anderen Webseiten und von externen Skripten</li>
+      <li>Importiert CDDB-Daten für die Katalogisierung von Audi-CDs</li>
+      <li>Durchsucht und importiert Sammlungen von Audio-Dateien wie zum Beispiel mp3 oder ogg</li>
+    </ul>
+  </description>
+  <description lang="el">
+    <p>Το Tellico είναι μια εφαρμογή οργάνωσης των συλλογών σας. Παρέχει προκαθορισμένα πρότυπα για βιβλία, βιβλιογραφίες, βίντεο, μουσική, βιντεοπαιχνίδια, νομίσματα, γραμματόσημα, εμπορικε κάρτες, κόμικς και κρασιά. Σας επιτρέπει να εισάγετε τη συλλογή σας σε μια βάση δεδομένων καταλόγου, να αποθηκεύσετε πολλές διαφορετικές ιδιότητες όπως τίτλο, συγγραφέα, κλπ.</p>
+    <p>Χαρακτηριστικά:</p>
+    <ul>
+      <li>Υποστηρίζει προκαθορισμένες συλλογές από βιβλίά, βιβλιογραφικώές εγγραφές, βίντεο, μουσική, βιντεοπαιχνίδια. βιβλία κόμικ, νομίσματα, γραμματόσημα, εμπορικές κάρτες, οίνους, επιτραπέζια παιχνίδια και καταλόγους αρχείων</li>
+      <li>Υποστηρίζει συλλογές ορισμένες από τον χρήστη</li>
+      <li>Υποστηρίζει οποιοδήποτε πλήθος πεδίων ορισμένων από τον χρήστη από πολλούς διαφορετικούς τύπους: κείμενο, παράγραφο, λίστα, πλαίσιο επιλογής, αριθμό, URL, ημερομηνία, εικόνες και συνδυασμούς</li>
+      <li>Χειρίζεται εγγραφές με πολλούς συγγραφείς, είδη, λέξεις κλειδιά, κλπ.</li>
+      <li>Αυτόματα διαμορφώνει τίτλους και ονόματα</li>
+      <li>Υποστηρίζει αναζήτηση συλλογών και φιλτράρισμα προβολής</li>
+      <li>Ταξινομεί και ομαδοποιεί συλλογές με διάφορες ιδιότητες</li>
+      <li>Επιτρέπει προσαρμόσιμα πρότυπα εγγραφών μέσω XSLT</li>
+      <li>Εισάγει μεταδεδομένα από MODS, Bibtex, RIS, CSV, PDF και πολλούς άλλους τύπους αποθήκευσης</li>
+      <li>Εξάγει σε Bibtex, ONIX, CSV, HTML και άλλους τύπους αποθήκευσης</li>
+      <li>Εισάγει πληροφορίες απευθείας από Amazon.com, IMDb, z39.50 διακομιστές, PubMed, SRU εξυπηρετητές, CrossRef.org, πολλούς άλλους ιστοτόπους και από εξωτερικά σενάρια</li>
+      <li>Εισάγει CDDB δεδομένα για καταλογογράφηση CD ήχου</li>
+      <li>Σαρώνει και εισάγει συλλογές αρχείων ήχου, όπως mp3 ή ogg</li>
+    </ul>
+  </description>
+  <description lang="en-GB">
+    <p>Tellico is an application for organising your collections. It provides default templates for books, bibliographies, videos, music, video games, coins, stamps, trading cards, comic books, and wines. It allows you to enter your collection in a catalogue database, saving many different properties like title, author, etc.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Supports default collections of books, bibliographic entries, videos, music, video games, comic books, coins, stamps, trading cards, wines, board games, and file catalogues</li>
+      <li>Supports user-defined custom collections</li>
+      <li>Supports any number of user-defined fields, of several different types: text, paragraph, list, tickbox, number, URL, date, images, and combinations</li>
+      <li>Handles entries with multiple authors, genres, keywords, etc</li>
+      <li>Automatically formats titles and names</li>
+      <li>Supports collection searching and view filtering</li>
+      <li>Sorts and groups collection by various properties</li>
+      <li>Allows customisable entry templates through XSLT</li>
+      <li>Imports MODS, Bibtex, RIS, CSV, PDF metadata, and many other formats</li>
+      <li>Exports to Bibtex, ONIX, CSV, HTML, and other formats</li>
+      <li>Imports information directly from Amazon.com, IMDb, z39.50 servers, PubMed, SRU servers, CrossRef.org, various other websites, and from external scripts</li>
+      <li>Imports CDDB data for cataloguing audio CDs</li>
+      <li>Scans and imports audio file collections, such as mp3 or ogg</li>
+    </ul>
+  </description>
+  <description lang="es">
+    <p>Tellico es una aplicación para organizar colecciones. Proporciona plantillas predeterminadas para libros, bibliografías, vídeos, música, videojuegos, monedas, sellos, cromos, cómics, y vinos. También le permite almacenar sus colecciones en una base de datos de catálogo, guardando diversas propiedades como el título, el autor, etc.</p>
+    <p>Características:</p>
+    <ul>
+      <li>Soporte para colecciones predeterminadas de libros, entradas bibliográficas, vídeos, música, videojuegos, cómics, monedas, sellos, cromos, vinos, juegos de mesa y catálogos de archivos</li>
+      <li>Soporta colecciones personalizadas definidas por el usuario</li>
+      <li>Soporta cualquier número de campos definidos por el usuario, de varios tipos diferentes: texto, párrafo, lista, checkbox, número, URL, fecha, imágenes y combinaciones.</li>
+      <li>Maneja entradas con varios autores, géneros, palabras clave, etc</li>
+      <li>Formatea automáticamente títulos y nombres</li>
+      <li>Soporta búsqueda de colecciones y filtrado de la vista</li>
+      <li>Ordena y agrupa las colecciones en función de diversas propiedades</li>
+      <li>Permite plantillas personalizadas de entradas a través de XSLT </li>
+      <li>Importa MODS, Bibtex, RIS, CSV, metadatos PDF y muchos otros formatos</li>
+      <li>Exporta a Bibtex, ONIX, CSV, HTML y otros formatos</li>
+      <li>Importa información directamente de Amazon.com, IMDb, z39.50 servers, PubMed, SRU servers, CrossRef.org, y más sitios web, además de hacerlo desde scripts externos</li>
+      <li>Importa datos CDDB para catalogar CD de audio</li>
+      <li>Escanea e importa colecciones de archivos de audio, como por ejemplo mp3 u ogg</li>
+    </ul>
+  </description>
+  <description lang="et">
+    <p>Tellico on kõikvõimalike kogude haldamiseks mõeldud rakendus. See pakub vaikimisi malle raamatute, bibliograafiate, videode, muusika, videomängude, müntide, markide, mängukaartide, koomiksite ja veinide tarbeks. Rakenduses saab oma kogu sisestada kataloogi andmebaasi, kuhu salvestatakse hulk omadusi, näiteks nimi, autor jne.</p>
+    <p>Omadused:</p>
+    <ul>
+      <li>Vaikimisi on toetatud, raamatute, bibliograafiliste kirjete, videode, muusika, videomängude, koomiksite, müntide, markide, mängukaartide, veinide, lauamängude ja failikataloogide kogud</li>
+      <li>Toetatud on ka kasutaja loodud kohandatud kogud</li>
+      <li>Toetatud on mis tahes hulk kasutaja määratud välju, mis võivad olla väga eri tüüpi: tekst, lõik, loend, märkekast, arv, URL, kuupäev, pilt või nende kombinatsioon</li>
+      <li>Raskusi ei valmista ka kirjed, mis sisaldavad mitut autorit, žanri, võtmesõna jne.</li>
+      <li>Pealkirjasid ja nimesid saab lasta automaatselt vormindada</li>
+      <li>Toetatud on kogudes otsimine ja vaate filtreerimine</li>
+      <li>Kogusid saab sortida ja rühmitada eri omaduste järgi</li>
+      <li>XSLT abil on võimalik luua kohandatud kirjemalle</li>
+      <li>MODS-i, Bibtexi, RIS-i, CSV, PDF-i metaandmete ja veel paljude vormingute import</li>
+      <li>Eksport Bibtexi, ONIX-i, CSV, HTML-i ja veel paljudesse vormingutesse</li>
+      <li>Teabe importimine otse Amazon.com-ist, IMDb-st, z39.50 serveritest, PubMed-ist, SRU serveritest, CrossRef.org-ist, veel paljudelt veebilehekülgedelt ja väliste skriptide kaudu</li>
+      <li>CDDB andmete import audio-CD-de kataloogimiseks</li>
+      <li>Helifailide (näiteks mp3 või ogg) kogude läbiuurimine ja import</li>
+    </ul>
+  </description>
+  <description lang="eu">
+    <p>Tellico zure bildumak antolatzeko aplikazio bat da. Lehenetsitako txantiloiak hornitzen ditu liburu, bibliografia, bideo, musika, bideo-joko, txanpon, zigilu, karta (kromo), komiki-liburu, eta ardoentzako. Zure bilduma katalogo datu-base batean sartzen uzten dizu, propietate ezberdin ugari gordez, izenburua,  egilea, eta abar.</p>
+    <p>Ezaugarriak:</p>
+    <ul>
+      <li>Liburu, bibliografia-sarrera, bideo, musika, bideo-joko, komiki-liburu, txanpon, karta (kromo), ardo, taula-joko eta fitxategi-katalogoen bilduma lehenetsiak onartzen ditu</li>
+      <li>Erabiltzaileek definitutako beren erara moldatutako bildumak onartzen ditu</li>
+      <li>Erabiltzaileek definitutako eremu kopuru mugagabea onartzen du, mota ezberdinetakoak: testua, paragrafoa, zerrenda, egiaztapen-lauki, zenbaki, URL, data, irudi, eta konbinazioak</li>
+      <li>Egile, genero, gako-hitz, eta abar anizkoitzak dituzten sarrerak maneiatzen ditu</li>
+      <li>Automatikoki formateatzen ditu izenburuak eta izenak</li>
+      <li>Bildumetan bilatzea eta ikuspegietan iragaztea onartzen du</li>
+      <li>Bildumak hainbat propietateren arabera sailkatu eta taldekatzen ditu</li>
+      <li>XSLT erabliz norbere erara molda daitezkeen sarrera-txantiloiak onartzen ditu</li>
+      <li>MODS, Bibtex, RIS, CSV, PDF meta-datuak, eta beste formatu ugari inportatzen ditu</li>
+      <li>Bibtex, ONIX, CSV, HTML, eta beste formatuetara esportatzen du</li>
+      <li>Informazioa inportatzen du zuzenean Amazon.com, IMDb, z39.50 zerbitzari, PubMed, SRU zerbitzari, CrossRef.org, beste webgune batzuetatik, eta kanpoko scriptetatik.</li>
+      <li>Audio CDak katalogatzeko CDDB datuak inportatzen ditu</li>
+      <li>Miatu eta audio bildumak inportatzen ditu, hala nola mp3 edo ogg</li>
+    </ul>
+  </description>
+  <description lang="fi">
+    <p>Tellico on sovellus kokoelmiesi järjestämiseen. Se tarjoaa oletusmallit kirjoille, lähdeluetteloille, videoille, musiikille, videopeleille, kolikoille, postimerkeille, keräilykorteille, sarjakuville ja viineille. Sen avulla voit syöttää kokoelmasi luettelotietokantaan eri ominaisuudet kuten otsikon, tekijän jne. säilyttäen.</p>
+    <p>Ominaisuuksia:</p>
+    <ul>
+      <li>Tukee kirjojen, lähdeluettelotietueiden, videoiden, musiikin, videopelien, sarjakuvien, kolikoiden, postimerkkien, keräilykuvien, viinien, lautapelien ja tiedostoluettelojen oletuskokoelmia</li>
+      <li>Tukee käyttäjän mukauttamia kokoelmia</li>
+      <li>Tukee rajattomasti käyttäjän määrittämiä useamman tyypin kenttiä (teksti, kappale, luettelo, valintaruutu, luku-, verkko-osoite, päiväys, kuvat ja niiden yhdistelmät)</li>
+      <li>Käsittelee tietueet, joissa on useampia tekijöitä, tyylilajeja, avainsanoja jne.</li>
+      <li>Muotoilee otsikot ja nimet automaattisesti</li>
+      <li>Tukee kokoelmien hakua ja näkymien suodatusta</li>
+      <li>Lajittelee ja ryhmittelee kokoelmia eri ominaisuuksien mukaan</li>
+      <li>Sallii mukautetut tietuemallit XSLT:n avulla</li>
+      <li>Tuo MODS-, BibTeX-, RIS-, CSV-, PDF-metatieto- ja muista tiedostomuodoista</li>
+      <li>Vie BibTeX-, ONIX-, CSV-, HTML- ja muihin tiedostomuotoihin</li>
+      <li>Tuo tietoa suoraan Amazon.comista, IMDb:stä, z39.50-palvelimilta, PubMedistä, SRU-palvelimilta, CrossRef.orgista, muilta verkkosivuilta ja ulkoisista skripteistä</li>
+      <li>Tuo ääni-CD:iden luokitteluun tarvittavat CDDB-tiedot</li>
+      <li>Etsii ja tuo äänitiedostojen kuten MP3:ten ja Oggien kokoelmia</li>
+    </ul>
+  </description>
+  <description lang="fr">
+    <p>Tellico est une application pour organiser vos collections. Il fournit des modèles par défaut pour les livres, les bibliographies, les vidéos, la musique, les jeux vidéo, les monnaies, les timbres, les cartes à collectionner, les bandes dessinées et les vins. Il vous permet de saisir votre collection dans une base de données de catalogue, enregistrant différentes propriétés telles que le titre, l'auteur, etc.</p>
+    <p>Fonctionnalités :</p>
+    <ul>
+      <li>Prends en charge par défaut des collections de livres, d'entrées bibliographiques, de vidéos, de musique, de jeux vidéo, de bandes dessinées, de monnaies, de timbres,de cartes à collectionner, de vins, de jeux de plateau et de catalogues de fichiers.</li>
+      <li>Prends en charge les collections personnalisées par l'utilisateur</li>
+      <li>Prend en charge n'importe quel nombre de champs définis par l'utilisateur, de plusieurs types différents : texte, paragraphe, liste, case à cocher, nombre, URL, date, images et combinaisons</li>
+      <li>Gestion des entrées avec plusieurs auteurs, genres, mots clé, etc.</li>
+      <li>Formate automatiquement les titres et les noms</li>
+      <li>Prend en charge la recherche dans la collection et une vue filtrée</li>
+      <li>Trie et groupe les collections suivant diverses propriétés</li>
+      <li>Permet des modèles d'entrées personnalisable via XSLT</li>
+      <li>Importe MODS, Bibtex, RIS, CSV, les métadonnées PDF, et beaucoup d'autres formats</li>
+      <li>Exporte vers Bibtex, ONIX, CSV, HTML et beaucoup d'autres formats</li>
+      <li>Importe les informations directement depuis Amazon.com, IMDb, z39.50, PubMed, SRU, CrossRef.org et de nombreux autres sites web ainsi que depuis des scripts externes</li>
+      <li>Importe les données CDDB pour cataloguer les CDs audio</li>
+      <li>Scanne et importe les collections de fichiers audio, tels que les fichiers mp3 ou ogg</li>
+    </ul>
+  </description>
+  <description lang="gl">
+    <p>Tellico é unha aplicación para organizar coleccións. Fornece modelos predeterminados para libros, bibliografías, vídeos, música, videoxogos, moedas, selos, cartas de colección, banda deseñada, e vinos. Permítelle inserir a súa colección a unha base de datos de catálogo na que pode gardar moitas propiedades distintas, como o título de cada elemento, o seu autor, etc.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Compatíbel con coleccións predeterminadas de libros, entradas bibliográficas, vídeos, música, videoxogos, banda deseñada, moedas, selos, cartas de colección, viños, xogos de taboleiro e catálogos de ficheiros.</li>
+      <li>Permite aos usuarios definir coleccións personalizadas.</li>
+      <li>Permite ao usuario definir campos de varios tipos: texto, parágrafo, lista, lista con caixas para marcar, número, URL, data, imaxes, e combinacións.</li>
+      <li>Pode xestionar entradas con varios autores, xéneros, palabras clave, etc.</li>
+      <li>Aplica automaticamente un formato aos títulos e nomes.</li>
+      <li>Permite buscar nas coleccións e filtrar nas vistas.</li>
+      <li>Permite ordenar ou agrupar as coleccións en funcións de varias propiedades.</li>
+      <li>Permite personalizar os modelos para entradas mediante XSLT.</li>
+      <li>Pode importar ficheiros en formato MODS, Bibtex, RIS, CSV, metadatos de PDF, e moitos outros formatos.</li>
+      <li>Pode exportar coleccións nos formatos Bibtex, CSV, e HTML, entre outros.</li>
+      <li>Importa información directamente de Amazon.com, IMDb, servidores z39.50, PubMed, servidores SRU, CrossRef.org, doutros sitios web, e de scripts externos.</li>
+      <li>Importa datos de CDDB para catalogar CD de son.</li>
+      <li>Analiza e importa coleccións de ficheiros de son, como MP3 ou OGG.</li>
+    </ul>
+  </description>
+  <description lang="hu">
+    <p>Szolgáltatások:</p>
+  </description>
+  <description lang="ia">
+    <p>Tellico es un application pro organisar tu collectiones. Il forni patronos predefinite pro libros, bibliographias, videos, musica, video jocos, numisma, timbros, cartas de commercio, libros in designos e vinos. Il permitte te insertar tu collection inn un base de datos de catalogo, salveguardante multe proprietates como titulo, autor, etc.</p>
+    <p>Characteristicas:</p>
+    <ul>
+      <li>Il supporta collectiones predefinite de libros, entratas bibliographic, videos, musica, video jocos, libros in designo, numisma, timbros, cartas de commerciar, vinos, jocos de tabula e catalogos de files</li>
+      <li>Il supporta collectiones personalisate definite per le usator</li>
+      <li>Il supporta qualcunque numero de campos definite per le usator, de plure typos differente: texto, paragrapho, lista, quadrato de selection, numero, URL, data, imagines e combinationes</li>
+      <li>Il manea entratas con multiple autores, generes, parolas clave, etc.</li>
+      <li>Automaticamente da forma a titulos e nomines</li>
+      <li>Il supporta cerca de collection e filtro de vista</li>
+      <li>Il ordina e gruppa per varie proprietates</li>
+      <li>Il permitte patronos de entratas personalisate per XSLT</li>
+      <li>Il importa metadatos MODS, Bibtex, RIS, CSV, PDF e plure altere formatos</li>
+      <li>Il exporta a Bibtex, ONIX, CSV, HTML, e altere formatos</li>
+      <li>Il importa information directemente ab Amazon.com, IMDb,  servitores z39.50, PubMed, seritores SRU, CrossRef.org, varie altere sitios web e ab external scripts</li>
+      <li>Il importa datos de CDDB pro catalogar CDs audio</li>
+      <li>Il scande e importa collectiones de file audio, tal como mp3 o ogg</li>
+    </ul>
+  </description>
+  <description lang="id">
+    <p>Tellico adalah aplikasi untuk mengatur koleksi Anda. Ini menyediakan template baku untuk buku, bibliografi, video, musik, video game, koin, perangko, kartu perdagangan, buku komik, dan wine. Ini memungkinkan Anda untuk memasukkan koleksi Anda di database katalog, menyimpan banyak properti berbeda seperti judul, penulis, dll.</p>
+    <p>Fitur:</p>
+    <ul>
+      <li>Mendukung koleksi buku, entri bibliografi, video, musik, video game, buku komik, koin, perangko, kartu perdagangan, wine, permainan papan, dan katalog file standar yang didukung</li>
+      <li>Dukungan koleksi kustom yang ditentukan pengguna</li>
+      <li>Mendukung angka apa pun dari bidang yang ditentukan, beberapa tipe yang berbeda: teks, paragraf, daftar, kotak centang, nomor, URL, tanggal, gambar, dan kombinasi</li>
+      <li>Menangani entri-entri dengan beberapa penulis, genre, kata kunci, dll.</li>
+      <li>Format secara otomatis judul-judul dan nama-nama</li>
+      <li>Dukungan pencarian koleksi dan pemfilteran tampilan</li>
+      <li>Mengurutkan dan mengelompokkan koleksi dengan berbagai properti</li>
+      <li>Kemungkinan men-template-kan entri yang dapat dikustomisasi melalui XSLT</li>
+      <li>Mengimporkan format MODS, Bibtex, RIS, CSV, PDF metadata, dan banyak format lain</li>
+      <li>Pengeksporan ke format Bibtex, ONIX, CSV, HTML, dan format lain</li>
+      <li>Pengimporkan informasi secara langsung dari situs Amazon.com, IMDb, z39.50 servers, PubMed, SRU servers, CrossRef.org, berbagai situs lain, dan dari skrip eksternal</li>
+      <li>Pengimporan data CDDB untuk pengkatalogan CD-CD audio</li>
+      <li>Pemindaian dan pengimporan koleksi file audio, sepertihalnya mp3 atau ogg</li>
+    </ul>
+  </description>
+  <description lang="it">
+    <p>Tellico è un'applicazione per organizzare le tue collezioni. Fornisce modelli predefiniti per libri, bibliografie, video, musica, videogiochi, monete, francobolli, carte da gioco, fumetti e vini. Ti permette di inserire la tua collezione in una base di dati, salvando molte proprietà differenti come titolo, autore, ecc.</p>
+    <p>Funzionalità:</p>
+    <ul>
+      <li>Supporta collezioni standard di libri, voci bibliografiche, video, musica, videogiochi, fumetti, monete, francobolli, carte da gioco, vini, giochi da tavolo e collezioni di file</li>
+      <li>Supporta collezioni personalizzate definite dall'utente</li>
+      <li>Supporta un qualsiasi numero di campi definiti dall'utente, di molti tipi differenti: testo, paragrafi, liste, caselle, numeri, URL, dati, immagini e combinazioni</li>
+      <li>Gestisce voci con autori multipli, generi, parole chiave, ecc.</li>
+      <li>Formatta automaticamente titoli e nomi</li>
+      <li>Supporta ricerche nella collezione e filtraggio della vista</li>
+      <li>Ordina e raggruppa la collezione in base a varie proprietà</li>
+      <li>Permette modelli di immissione personalizzabili attraverso XSLT</li>
+      <li>Importa MODS, Bibtex, RIS, CSV, metadati dei PDF, e molti altri formati</li>
+      <li>Esporta in formato Bibtex, ONIX, CSV, HTML e altri</li>
+      <li>Importa informazioni direttamente da Amazon.com, IMDb, server z39.50, PubMed, server SRU, CrossRef.org, svariati altri siti web, e da script esterni</li>
+      <li>Importa dati CDDB per catalogare cd audio</li>
+      <li>Cerca e importa collezioni di file audio, come mp3 oppure ogg</li>
+    </ul>
+  </description>
+  <description lang="ko">
+    <p>Tellico는 내 소장품을 관리하는 프로그램입니다. 책, 서지, 비디오, 음악, 비디오 게임, 동전, 우표, 트레이드 카드, 만화 및 와인에 대한 기본 템플릿을 제공합니다. 카탈로그 데이터베이스에 소장품을 입력하여 제목, 작성자 등과 같은 다양한 속성을 저장할 수 있습니다.</p>
+    <p>기능:</p>
+    <ul>
+      <li>서적, 서지 정보 항목, 비디오, 음악, 비디오 게임, 만화책, 동전, 우표, 트레이딩 카드, 와인, 보드 게임 및 파일 카탈로그의 기본 소장품 지원</li>
+      <li>사용자 정의 맞춤 소장품 지원</li>
+      <li>텍스트, 단락, 목록, 체크 상자, 번호, URL, 날짜, 이미지 및 조합 등 다양한 형식의 사용자 정의 필드 지원</li>
+      <li>여러 저자, 장르, 키워드 등으로 항목 처리</li>
+      <li>제목과 이름의 자동 서식 지정</li>
+      <li>소장품 검색 및 보기 필터링 지원</li>
+      <li>다양한 속성별 소장품 정렬 및 그룹</li>
+      <li>XSLT를 통해 사용자 정의 가능한 항목 템플릿 허용</li>
+      <li>MODS, Bibtex, RIS, CSV, PDF 메타데이터 및 기타 다양한 형식 가져오기</li>
+      <li>Bibtex, ONIX, CSV, HTML 및 기타 형식으로 내보내기</li>
+      <li>Amazon.com, IMDb, z39.50 서버, PubMed, SRU 서버, CrossRef.org, 기타 여러 웹 사이트 및 외부 스크립트에서 직접 정보 가져오기</li>
+      <li>오디오 CD 카탈로그를 작성하려고 CDDB 데이터 가져오기</li>
+      <li>MP3 또는 OGG 같은 오디오 파일 소장품 검색 및 가져오기</li>
+    </ul>
+  </description>
+  <description lang="nl">
+    <p>Tellico is een toepassing voor het organiseren van uw verzamelingen. Het biedt standaard sjablonen voor boeken, bibliografieën, video's, muziek, videogames, munten, postzegels, visitekaartjes, strips en wijnen. Het stelt u in staat om uw verzameling in een catalogusdatabase in te voeren, waarin veel verschillende eigenschappen, zoals titel, auteur, etc. opgeslagen kunnen worden.</p>
+    <p>Mogelijkheden:</p>
+    <ul>
+      <li>Ondersteunt standaard verzamelingen van boeken, bibliografie-items, video's, muziek, videogames, strips, munten, postzegels, visitekaartjes, wijnen, bordspellen en catalogs van bestanden</li>
+      <li>Ondersteunt gebruikergedefinieerde eigen verzamelingen</li>
+      <li>Ondersteunt elk aantal gebruikergedefinieerde velden met verscheidene verschillende types: tekst, paragraaf, lijst, keuzevakje, aantal, URL, datum, afbeelding en combinaties</li>
+      <li>Behandelt items met meerdere auteurs, genres, zoektermen, etc.</li>
+      <li>Deelt automatisch titels en namen in</li>
+      <li>Ondersteunt zoeken in verzamelingen en filtering op weergave</li>
+      <li>Sorteert en groepeert verzameling door verschillende eigenschappen</li>
+      <li>Staat aanpasbare sjablonen van items toe via XSLT</li>
+      <li>Importeert MODS, Bibtex, RIS, CSV, PDF metadata en vele andere formaten</li>
+      <li>Exporteert naar Bibtex, ONIX, CSV, HTML en andere formaten</li>
+      <li>Importeert informatie direct uit Amazon.com, IMDb, z39.50-servers, PubMed, SRU-servers, CrossRef.org, verschillende andere websites en uit externe scripts</li>
+      <li>Importeert CDDB-gegevens voor catalogiseren van audio-cd's</li>
+      <li>Scant en importeert verzamelingen van audio-bestanden, zoals mp3 of ogg</li>
+    </ul>
+  </description>
+  <description lang="nn">
+    <p>Tellico er eit program for å halda oversikt over samlingane dine. Det kjem med malar for bøker, litteraturlister, filmar, musikk, spel, myntar, frimerke, samlekort, teikneseriar og vin. Du kan katalogisera samlinga di i ein database og lagra mykje ulik informasjon, for eksempel tittel og forfattar.</p>
+    <p>Funksjonar:</p>
+    <ul>
+      <li>Støttar samlingar av bøker, litteraturlister, filmar, musikk, spel, teikneseriar, myntar, frimerke, samlekort, vin, brettspel og filkatalogar</li>
+      <li>Støttar eigendefinerte samlingstypar</li>
+      <li>Støttar vilkårleg mange eigendefinerte felt i ulike variantar: tekst, avsnitt, liste, avkryssingsboks, tal, nettadresse, dato, bilete og kombinasjonar av desse variantane</li>
+      <li>Kan handtera oppføringar som inneheld fleire forfattarar, sjangrar, nøkkelord, …</li>
+      <li>Automatisk formatering av titlar og namn</li>
+      <li>Støttar søk og filtrering i samlingar</li>
+      <li>Sorterer og grupperer automatisk samlingane</li>
+      <li>Kan tilpassa oppføringsmalar ved hjelp av XSLT-stilsett</li>
+      <li>Kan importera metadata frå blant anna MODS-, BibTeX-, RIS-, CSV- og PDF-filer</li>
+      <li>Kan eksportera til BibTeX, ONIX, CSV, HTML og andre format</li>
+      <li>Kan henta informasjon frå Amazon.com, IMDb, z39.50-tenarar, PubMed, SRU-tenarar, CrossRef.org, ymse andre nettstadar og eksterne skript</li>
+      <li>Kan importera CDDB-data for lyd-CD-ar</li>
+      <li>Søkjer etter og importerer lydfilsamlingar, som MP3 og OGG</li>
+    </ul>
+  </description>
+  <description lang="pl">
+    <p>Tellico jest programem do porządkowania twoich zbiorów. Dostarcza domyślnych szablonów dla książek, bibliografii, filmów, muzyki, gier wideo, monet, znaczków, kart handlowych, komiksów i win. Umożliwia wprowadzenie całego twojego zbioru do bazy danych katalogu, zapisując przy tym wiele różnych właściwości takich jak tytuł, autor, itp.</p>
+    <p>Cechy:</p>
+    <ul>
+      <li>Obsługa domyślnych zbiorów książek, bibliografii, filmów, muzyki, gier wideo, monet, znaczków, kart handlowych, komiksów i win, gier planszowych oraz katalogów plików</li>
+      <li>Obsługa zbiorów określonych przez użytkownika</li>
+      <li>Obsługa dowolnej liczby pól określonych przez użytkownika, wielu różnych rodzajów: tekst, akapit, spis, pole zaznaczane, liczba, adres URL, data, obraz i ich kombinacje</li>
+      <li>Obsługa wpisów z wieloma autorami, gatunkami, słowami kluczowymi, itp.</li>
+      <li>Samoczynne formatowanie tytułów i nazw</li>
+      <li>Obsługa przedukiwania zbiorów i filtrowanych widoków</li>
+      <li>Szeregowanie i grupowanie zbiorów według różnych właściwości</li>
+      <li>Własne szablony wpisów dzięki XSLT</li>
+      <li>Importowanie MODS, Bibtex, RIS, CSV, metadanych PDF i wielu innych formatów</li>
+      <li>Eksportowanie Bibtex, ONIX, CSV, HTML i innych formatów</li>
+      <li>Importowanie szczegółów bezpośrednio z Amazon.com, IMDb, serwerów z39.50, PubMed, serwerów SRU, CrossRef.org i różnych innych stron sieciowych, a także z zewnętrznych skryptów</li>
+      <li>Importowanie danych CDDB do katalogowanie płyt muzycznych</li>
+      <li>Przeszukiwanie i importowanie zbiorów plików dźwiękowych, takich jak mp3 czy ogg</li>
+    </ul>
+  </description>
+  <description lang="pt">
+    <p>O Tellico é uma aplicação para organizar as suas colecções. Oferece modelos predefinidos para livros, bibliografias, vídeos, músicas, jogos de vídeo, moedas, selos, cromos, livros de banda desenhada, vinhos, entre outras colecções. Permite-lhe introduzir a sua colecção numa base de dados de catálogos, gravando diversas propriedades, como o título, o autor, etc.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Suporta diversas colecções de livros, itens bibliográficos, vídeos, músicas, jogos de vídeo, livros de banda desenhada, moedas, selos, cromos, vinhos, jogos de tabuleiros e catálogos de ficheiros</li>
+      <li>Suporta colecções personalizadas pelo utilizador</li>
+      <li>Suporta qualquer número de campos definidos pelo utilizador, de diferentes tipos: texto, parágrafo, lista, opção de marcação, número, URL, data, imagens e combinações</li>
+      <li>Lida com itens de vários autores, géneros, palavras-chave, etc</li>
+      <li>Formata automaticamente os títulos e nomes</li>
+      <li>Suporta a pesquisa na colecção e a filtragem da janela</li>
+      <li>Ordena e agrupa a colecção de acordo com diversas propriedades</li>
+      <li>Permite modelos de registos personalizados, através de XSLT</li>
+      <li>Importa dos formatos MODS, Bibtex, RIS, CSV, meta-dados de PDF, entre muitos outros</li>
+      <li>Exporta para o Bibtex, ONIX, CSV, HTML, entre outros formatos</li>
+      <li>Importa a informação directamente a partir da Amazon.com, IMDb, servidores de z39.50, PubMed, servidores de SRU, CrossRef.org, entre outros serviços, bem como de programas externos</li>
+      <li>Importa os dados do CDDB para catalogar os CD's de áudio</li>
+      <li>Sonda e importa as colecções dos ficheiros de áudio, como MP3's ou OGG's</li>
+    </ul>
+  </description>
+  <description lang="pt-BR">
+    <p>Tellico é um aplicativo para organizar suas coleções. Oferece modelos predefinidos para livros, bibliografias, vídeos, músicas, jogos de vídeo game, moedas, selos, figurinhas, histórias em quadrinhos, vinhos, entre outras coleções. Permite-lhe introduzir sua coleção em um banco de dados de catálogos, gravando diversas propriedades, como título, autor, etc.</p>
+    <p>Funcionalidades:</p>
+    <ul>
+      <li>Suporte a diversas coleções de livros, itens bibliográficos, vídeos, músicas, jogos de vídeo game, histórias em quadrinhos, moedas, selos, figurinhas, vinhos, jogos de tabuleiro e catálogos de arquivos</li>
+      <li>Suporte a coleções personalizadas pelo usuário</li>
+      <li>Suporte a qualquer número de campos definidos pelo usuário, de diferentes tipos: texto, parágrafo, lista, opção de marcação, número, URL, data, imagens e combinações</li>
+      <li>Lida com itens de vários autores, gêneros, palavras-chave, etc</li>
+      <li>Formata automaticamente os títulos e nomes</li>
+      <li>Suporte a pesquisa na coleção e filtragem da janela</li>
+      <li>Ordena e agrupa a coleção de acordo com diversas propriedades</li>
+      <li>Permite modelos de registros personalizados, através de XSLT</li>
+      <li>Importa dos formatos MODS, Bibtex, RIS, CSV, metadados de PDF, entre muitos outros</li>
+      <li>Exporta para o Bibtex, ONIX, CSV, HTML, entre outros formatos</li>
+      <li>Importa a informação diretamente a partir da Amazon.com, IMDb, servidores z39.50, PubMed, servidores SRU, CrossRef.org, entre outros serviços, bem como de scripts externos</li>
+      <li>Importa os dados CDDB para catalogar CDs de áudio</li>
+      <li>Verifica e importa as coleções de arquivos de áudio, como MP3 ou OGG</li>
+    </ul>
+  </description>
+  <description lang="ru">
+    <p>Tellico — приложение для упорядочения коллекций. Оно предоставляет шаблоны по умолчанию для коллекций книг, библиографий, видео, музыки, видеоигр, монет, марок, коллекционных карточек, комиксов и вин. Приложение позволяет создать базу данных для коллекции, сохраняя различные характеристики (например, название, автора и так далее).</p>
+    <p>Возможности:</p>
+    <ul>
+      <li>Поддержка шаблонов коллекций книг, библиографических записей, видео, музыки, видеоигр, комиксов, монет, марок, коллекционных карточек, вин, настольных игр и каталогов файлов.</li>
+      <li>Поддержка пользовательских коллекций</li>
+      <li>Поддержка неограниченного количества пользовательских полей нескольких типов: текст, большой текст, список, флажок, номер, URL-адрес, дата, изображения и комбинации</li>
+      <li>Обработка записей, содержащих несколько авторов, жанров, ключевых слов и так далее</li>
+      <li>Автоматическое форматирование заголовков и имён</li>
+      <li>Поддержка поиска по коллекции и фильтров просмотра</li>
+      <li>Упорядочение и группировка коллекции по различным свойствам</li>
+      <li>Поддержка настройки шаблонов записей с помощью XSLT</li>
+      <li>Импорт метаданных из MODS, Bibtex, RIS, CSV, PDF и многих других форматов</li>
+      <li>Экспорт в BibTeX, ONIX, CSV, HTML и другие форматы</li>
+      <li>Импорт информации напрямую с Amazon.com, IMDb, серверов z39.50, PubMed, серверов SRU, CrossRef.org и других веб-сайтов, а также из внешних сценариев</li>
+      <li>Импорт данных CDDB для каталогизации Audio CD</li>
+      <li>Сканирование и импорт коллекций аудиофайлов (например, MP3 или OGG)</li>
+    </ul>
+  </description>
+  <description lang="sk">
+    <p>Tellico je aplikácia na organizáciu vašich zbierok. Poskytuje predvolené šablóny pre knihy, bibliografie, videá, hudbu, videohry, mince, známky, zberateľské karty, komiksy a vína. Umožní vám zadať vašu kolekciu do databázy katalógu, uložiť mnoho rozličných vlastností ako titul, autor atď.</p>
+    <p>Funkcie:</p>
+    <ul>
+      <li>Podporuje predvolené zbierky kníh, bibliografických položiek, videí, hudby, videohier, komiksov, mincí, známok, zberateľských kariet, vín, stolných hier a zakladačov</li>
+      <li>Podporuje používateľom definované vlastné zbierky</li>
+      <li>Podporuje ľubovoľný počet používateľom definovaných polí rôznych typov: text, odstavec, zoznam, checkbox, číslo, URL, dátum, obrázky a kombinácie</li>
+      <li>Spracúva položky s viacerými autormi, žánrami, kľúčovými slovami atď.</li>
+      <li>Automaticky formátuje tituly a názvy</li>
+      <li>Podporuje hľadanie kolekcií a filtrovanie zobrazenia</li>
+      <li>Triedi a zoskupuje kolekciu podľa rôznych vlastností</li>
+      <li>Umožňuje upraviteľné šablóny položiek cez XSLT</li>
+      <li>Importuje MODS, Bibtex, RIS, CSV, PDF metadáta a veľa iných formátov</li>
+      <li>Exportuje do Bibtex, ONIX, CSV, HTML a iných formátov</li>
+      <li>Importuje informácie priamo z Amazon.com, IMDb, z39.50 serverov, PubMed, SRU serverov, CrossRef.org, rôznych iných webstránok a z externých skriptov</li>
+      <li>Importuje údaje CDDB pre katalogizáciu CD</li>
+      <li>Prehľadá a importuje zbierky audio súborov, ako mp3 alebo ogg</li>
+    </ul>
+  </description>
+  <description lang="sl">
+    <p>Tellico je program za upravljanje vaših zbirk. Ponuja privzete predloge za knjige, bibliografije, videe, glasbo, igre, kovance, znamke, karte, stripe in vino. Omogoča vam, da vašo zbirko katalogizirate in shranite z različnimi lastnostmi kot so naslov, avtor, itd.</p>
+    <p>Zmožnosti:</p>
+    <ul>
+      <li>Podpira privzete zbirke za knjige, bibliografije, videe, glasbo, igre, kovance, znamke, karte, stripe, namizne igre, vino in zbirke datotek</li>
+      <li>Podpira uporabniško določene zbirke</li>
+      <li>Podpira poljubno število uporabniško določenih polj različnih vrst: besedilo, odstavek, seznam, označno polje, številka, naslov URL, datum, slike in njihove poljubne kombinacije</li>
+      <li>Zna ravnati z vnosi z večimi avtorji, zvrstmi, ključnimi besedami, itd.</li>
+      <li>Samodejno oblikuje naslove in imena</li>
+      <li>Podpira iskanje po zbirkah in filtriranje prikaza</li>
+      <li>Zna razvrstiti in združevati zbirko po različnih lastnostih</li>
+      <li>Dovoljuje uporabno prilagodljivih predlog za vnos preko XSLT</li>
+      <li>Zna uvoziti MODS, Bibtex, RIS, CSV, metapodatke PDF in druge vrste datotek</li>
+      <li>Zna izvoziti v Bibtex, ONIX, CSV, HTML in druge vrste datotek</li>
+      <li>Zna uvoziti podatke neposredno iz Amazon.com, IMDb, strežnikov  z39.50, PubMed, strežnikov SRU, CrossRef.org, drugih spletnih strani in zunanjih skript</li>
+      <li>Zna uvoziti podatke CDDB za katalogiziranje glasbenih CD-jev</li>
+      <li>Zna preiskati in uvoziti zbirke zvočnih datotek kot so mp3 ali ogg</li>
+    </ul>
+  </description>
+  <description lang="sv">
+    <p>Tellico är ett program för att organisera samlingar. Det tillhandahåller standardmallar för böcker, bibliografier, videor, musik, videospel, mynt, frimärken, samlarbilder, serier och viner. Det låter dig mata in samlingen i en katalogdatabas, och spara många olika egenskaper som titel, författare, etc.</p>
+    <p>Funktioner:</p>
+    <ul>
+      <li>Stöder standardsamlingar för böcker, bibliografiposter, videor, musik, videospel, serier, mynt, frimärken, samlarbilder, viner, brädspel och filkataloger</li>
+      <li>Stöder användardefinierade anpassade samlingar</li>
+      <li>Stöder hur många användardefinierade fält som helst av flera olika typer: text, stycke, lista, kryssruta, tal, webbadress, datum, bilder och kombinationer</li>
+      <li>Hanterar poster med flera författare, genrer, nyckelord, etc.</li>
+      <li>Formaterar automatiskt titlar och namn</li>
+      <li>Stöder sökning i samlingen och filtrering av visningen</li>
+      <li>Sorterar och grupperar samlingen enligt olika egenskaper</li>
+      <li>Tillåter anpassningsbara inmatningsmallar via XSLT</li>
+      <li>Importerar MODS, Bibtexd, RIS, CSV, PDF-metadata och många andra format</li>
+      <li>Exporterar till Bibtex, ONIX, CSV, HTML och andra format</li>
+      <li>Importerar information direkt från Amazon.com, IMDb, z39.50-servrar, PubMed, naSRU-servrar, CrossRef.org, diverse andra webbplatser, och från externa skript</li>
+      <li>Importerar CDDB-data för katalogisering av ljud-cd</li>
+      <li>Söker igenom och importera samlingar av ljudfiler, såsom mp3 eller ogg</li>
+    </ul>
+  </description>
+  <description lang="tr">
+    <p>Tellico koleksiyonlarınızı yönetmek için bir programdır. Kitaplar, kaynakçalar, videolar, müzikler, video oyunları, paralar, pullar, kartlar, çizgi romanlar ve şaraplar için öntanımlı şablonlar içerir. Koleksiyonunuzu bir katalog veritabanına girmenize ve başlık, yazar gibi pek çok özelliğe göre kaydetmenize imkan tanır.</p>
+    <p>Özellikleri:</p>
+    <ul>
+      <li>Kitapların, kaynakça girdilerinin, videoların, müziklerin, video oyunlarının, çizgi romanların, paraların, pulların, kartların, şarapların, oyunların ve dosya katalogların öntanımlı koleksiyonlarını destekler</li>
+      <li>Kullanıcı tanımlı özel koleksiyonları destekler</li>
+      <li>Çok farklı türlerde kullanıcı tanımlı alanları destekler: metin, paragraf, liste, işaret kutusu, sayı, URL, tarih, resim ve bunların bileşimleri</li>
+      <li>Birden çok yazarı, türü ve anahtar kelimeyi işleyebilir</li>
+      <li>Başlık ve isimleri otomatik biçimlendirir</li>
+      <li>Koleksiyon araması ve filtreleyerek görüntülemeyi destekler</li>
+      <li>Koleksiyonları çeşitli özelliklerine göre sıralar ve gruplar</li>
+      <li>XSLT üzerinden girdi şablonlarının özelleştirilmesine izin verir</li>
+      <li>MODS, Bibtex, RIS, CSV, PDF üst verisi ve pek çok diğer biçimi içe aktarır</li>
+      <li>Bibtex, ONIX, CSV, HTML, PilotDB ve pek çok diğer biçimi dışa aktarır</li>
+      <li>Bilgileri doğrudan Amazon.com, IMDb, z39.50 sunucuları, PubMed, SRU sunucuları, CrossRef.org ve çeşitli başka sitelerden ve harici betiklerden içe aktarır</li>
+      <li>CD'leri kataloglamak için CDDB verisini içe aktarır</li>
+      <li>Mp3 ve ogg gibi ses dosyalarını tarar ve içe aktarır</li>
+    </ul>
+  </description>
+  <description lang="uk">
+    <p>Tellico — програма для упорядковування ваших збірок. У ній передбачено типові шаблони для збірок книг, бібліографій, відео, музичних творів, відеоігор, нумізматики, марок, карток, коміксів та вин. За її допомогою ви зможете вести записи у форматі бази даних, зберігаючи різноманітні дані щодо елементів збірки, зокрема дані щодо назви, автора тощо.</p>
+    <p>Можливості:</p>
+    <ul>
+      <li>Підтримка типових збірок книг, бібліографічних записів, відео, музики, відеоігор, коміксів, нумізматики, марок, карток, вин, настільних ігор та каталогів файлів.</li>
+      <li>Підтримка визначених користувачем нетипових збірок.</li>
+      <li>Підтримка довільної кількості визначених користувачем полів записів: текст, абзац, список, поле для позначки, номер, адреса, дата, зображення та будь-які інші комбінації.</li>
+      <li>Обробка записів з декількома авторами, жанрами, ключовими словами тощо.</li>
+      <li>Автоматичне форматування заголовків та назв.</li>
+      <li>Підтримка пошуку у збірці та фільтрування даних для перегляду.</li>
+      <li>Упорядковування та групування збірки за різноманітними властивостями.</li>
+      <li>Придатні до налаштовування шаблони записів на основі XSLT.</li>
+      <li>Імпортування метаданих MODS, Bibtex, RIS, CSV, PDF та даних у багатьох інших форматах.</li>
+      <li>Експортування даних у форматах Bibtex, ONIX, CSV, HTML тощо.</li>
+      <li>Імпортування даних безпосередньо із серверів Amazon.com, IMDb, z39.50, PubMed, SRU, CrossRef.org, інших сайтів та на основі зовнішніх скриптів.</li>
+      <li>Імпортування даних CDDB для каталогізації звукових компакт-дисків.</li>
+      <li>Сканування та імпортування збірок звукових файлів, зокрема mp3 та ogg.</li>
+    </ul>
+  </description>
+  <description lang="x-test">
+    <p>xxTellico is an application for organizing your collections. It provides default templates for books, bibliographies, videos, music, video games, coins, stamps, trading cards, comic books, and wines. It allows you to enter your collection in a catalogue database, saving many different properties like title, author, etc.xx</p>
+    <p>xxFeatures:xx</p>
+    <ul>
+      <li>xxSupports default collections of books, bibliographic entries, videos, music, video games, comic books, coins, stamps, trading cards, wines, board games, and file catalogsxx</li>
+      <li>xxSupports user-defined custom collectionsxx</li>
+      <li>xxSupports any number of user-defined fields, of several different types: text, paragraph, list, checkbox, number, URL, date, images, and combinationsxx</li>
+      <li>xxHandles entries with multiple authors, genres, keywords, etcxx</li>
+      <li>xxAutomatically formats titles and namesxx</li>
+      <li>xxSupports collection searching and view filteringxx</li>
+      <li>xxSorts and groups collection by various propertiesxx</li>
+      <li>xxAllows customizable entry templates through XSLTxx</li>
+      <li>xxImports MODS, Bibtex, RIS, CSV, PDF metadata, and many other formatsxx</li>
+      <li>xxExports to Bibtex, ONIX, CSV, HTML, and other formatsxx</li>
+      <li>xxImports information directly from Amazon.com, IMDb, z39.50 servers, PubMed, SRU servers, CrossRef.org, various other websites, and from external scriptsxx</li>
+      <li>xxImports CDDB data for cataloging audio CDsxx</li>
+      <li>xxScans and imports audio file collections, such as mp3 or oggxx</li>
+    </ul>
+  </description>
+  <description lang="zh-CN">
+    <p>功能：</p>
+  </description>
+  <pkgname>tellico</pkgname>
+  <launchable type="desktop-id">org.kde.tellico.desktop</launchable>
+  <icon height="64" type="cached" width="64">tellico.png</icon>
+  <icon width="128" type="cached" height="128">tellico.png</icon>
+  <id>org.kde.tellico.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Tellico</name>
+  <name lang="bs">Tellico</name>
+  <name lang="ca">Tellico</name>
+  <name lang="ca-valencia">Tellico</name>
+  <name lang="cs">Tellico</name>
+  <name lang="da">Tellico</name>
+  <name lang="de">Tellico</name>
+  <name lang="el">Tellico</name>
+  <name lang="en-GB">Tellico</name>
+  <name lang="es">Tellico</name>
+  <name lang="et">Tellico</name>
+  <name lang="eu">Tellico</name>
+  <name lang="fi">Tellico</name>
+  <name lang="fr">Tellico</name>
+  <name lang="gl">Tellico</name>
+  <name lang="hu">Tellico</name>
+  <name lang="ia">Tellico</name>
+  <name lang="id">Tellico</name>
+  <name lang="it">Tellico</name>
+  <name lang="ko">Tellico</name>
+  <name lang="nl">Tellico</name>
+  <name lang="nn">Tellico</name>
+  <name lang="pl">Tellico</name>
+  <name lang="pt">Tellico</name>
+  <name lang="pt-BR">Tellico</name>
+  <name lang="ru">Tellico</name>
+  <name lang="sk">Tellico</name>
+  <name lang="sl">Tellico</name>
+  <name lang="sv">Tellico</name>
+  <name lang="tr">Tellico</name>
+  <name lang="uk">Tellico</name>
+  <name lang="x-test">xxTellicoxx</name>
+  <name lang="zh-CN">Tellico</name>
+  <summary>Collection Manager</summary>
+  <summary lang="bs">Menadžer kolekcija</summary>
+  <summary lang="ca">Gestor de col·leccions</summary>
+  <summary lang="ca-valencia">Gestor de col·leccions</summary>
+  <summary lang="cs">Správce sbírek</summary>
+  <summary lang="da">Samlingshåndtering</summary>
+  <summary lang="de">Sammlungsverwaltung</summary>
+  <summary lang="el">Διαχειριστής συλλογών</summary>
+  <summary lang="en-GB">Collection Manager</summary>
+  <summary lang="es">Gestor de colecciones</summary>
+  <summary lang="et">Kogude haldur</summary>
+  <summary lang="eu">Bilduma kudeatzailea</summary>
+  <summary lang="fi">Kokoelmahallinta</summary>
+  <summary lang="fr">Gestionnaire de collections</summary>
+  <summary lang="gl">Xestor de coleccións</summary>
+  <summary lang="hu">Gyűjteménykezelő</summary>
+  <summary lang="ia">Gerente de collection</summary>
+  <summary lang="id">Pengelola Koleksi</summary>
+  <summary lang="it">Gestore della collezione</summary>
+  <summary lang="ko">소장품 관리 도구</summary>
+  <summary lang="nl">Collectiebeheer</summary>
+  <summary lang="nn">Samlingsdatabase</summary>
+  <summary lang="pl">Zarządzanie zbiorem</summary>
+  <summary lang="pt">Gestor de Colecções</summary>
+  <summary lang="pt-BR">Gerenciador de Coleções</summary>
+  <summary lang="ru">Диспетчер коллекций</summary>
+  <summary lang="sk">Správca zbierok</summary>
+  <summary lang="sl">Upravljalnik zbirk</summary>
+  <summary lang="sv">Samlingshanterare</summary>
+  <summary lang="tr">Koleksiyon Yöneticisi</summary>
+  <summary lang="uk">Програма для керування збірками</summary>
+  <summary lang="x-test">xxCollection Managerxx</summary>
+  <summary lang="zh-CN">收藏管理器</summary>
+  <url type="homepage">https://tellico-project.org</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=tellico</url>
+  <url type="faq">https://tellico-project.org/faq</url>
+  <url type="help">https://docs.kde.org/?application=tellico</url>
+  <screenshots>
+    <screenshot width="1280" type="default" height="704">
+      <caption>The main window showing a movie collection</caption>
+      <caption lang="ca">La finestra principal mostra una col·lecció de pel·lícules</caption>
+      <caption lang="ca-valencia">La finestra principal mostra una col·lecció de pel·lícules</caption>
+      <caption lang="cs">Hlavní okno zobrazující sbírku filmů</caption>
+      <caption lang="da">Hovedvinduet som viser en filmsamling</caption>
+      <caption lang="de">Das Hauptfenster mit einer Film-Sammlung</caption>
+      <caption lang="el">Το κύριο παράθυρο με μια συλλογή ταινιών</caption>
+      <caption lang="en-GB">The main window showing a movie collection</caption>
+      <caption lang="es">La ventana principal mostrando una colección de películas</caption>
+      <caption lang="et">Peaaken filmikoguga</caption>
+      <caption lang="eu">Leiho nagusia pelikulen bilduma bat erakutsiz</caption>
+      <caption lang="fr">La fenêtre principale, qui affiche une collection de films</caption>
+      <caption lang="ia">Le fenestra principale monstrante un collection de filmes</caption>
+      <caption lang="id">Window utama menampilkan sebuah koleksi filem</caption>
+      <caption lang="it">La finestra principale che mostra una collezione di film</caption>
+      <caption lang="ko">영화 소장품의 간단한 항목을 표시하는 주 창</caption>
+      <caption lang="nl">Het hoofdvenster dat een filmverzameling toont</caption>
+      <caption lang="nn">Hovudvindauget som viser ei filmsamling</caption>
+      <caption lang="pl">Okno główne pokazujące zbiór filmów</caption>
+      <caption lang="pt">A janela principal a mostrar uma colecção de filmes</caption>
+      <caption lang="pt-BR">A janela principal mostrando uma coleção de filmes</caption>
+      <caption lang="ru">Главное окно с коллекцией фильмов</caption>
+      <caption lang="sk">Hlavné okno zobrazujúce kolekciu filmov</caption>
+      <caption lang="sl">Glavno okno, ki prikazuje zbirko filmov</caption>
+      <caption lang="sv">Huvudfönstret som visar en filmsamling</caption>
+      <caption lang="uk">Головне вікно програми зі збіркою фільмів</caption>
+      <caption lang="x-test">xxThe main window showing a movie collectionxx</caption>
+      <image>https://cdn.kde.org/screenshots/tellico/tellico-movies.png</image>
+    </screenshot>
+    <screenshot width="1002" type="default" height="765">
+      <caption>The main window showing a simple item in a book collection</caption>
+      <caption lang="ca">La finestra principal mostra un element senzill en una col·lecció de llibres</caption>
+      <caption lang="ca-valencia">La finestra principal mostra un element senzill en una col·lecció de llibres</caption>
+      <caption lang="da">Hovedvinduet som viser et simpelt element i en bogsamling</caption>
+      <caption lang="de">Das Hauptfenster mit einem einfachen Eintrag einer Bücher-Sammlung</caption>
+      <caption lang="el">Το κύριο παράθυρο με ένα απλό αντικείμενο σε μια συλλογή βιβλίων</caption>
+      <caption lang="en-GB">The main window showing a simple item in a book collection</caption>
+      <caption lang="es">La ventana principal mostrando un elemento sencillo de una colección de libros</caption>
+      <caption lang="et">Peaaken raamatukollektsiooni kirjega</caption>
+      <caption lang="eu">Leiho nagusia liburu bilduma bateko elementu soil bat erakutsiz</caption>
+      <caption lang="fr">La fenêtre principale, qui affiche un élément simple au sein d'une collection de livres</caption>
+      <caption lang="gl">A xanela principal, mostrando un elemento sinxelo nunha colección de libros</caption>
+      <caption lang="ia">Le fenestra principale monstrante un simple elemento in un collection de libros</caption>
+      <caption lang="id">Window utama menampilkan butir sederhana dalam koleksi buku</caption>
+      <caption lang="it">La finestra principale che mostra un semplice elemento in una collezione di libri</caption>
+      <caption lang="ko">도서 소장품의 간단한 항목을 표시하는 주 창</caption>
+      <caption lang="nl">Het hoofdvenster die een eenvoudig item in een boekenverzameling toont</caption>
+      <caption lang="nn">Hovudvindauget som viser ei enkel oppføring i ei boksamling</caption>
+      <caption lang="pl">Okno główne pokazujące prosty element w zbiorze książek</caption>
+      <caption lang="pt">A janela principal a mostrar um único item numa colecção de livros</caption>
+      <caption lang="pt-BR">A janela principal a mostrar um único item em uma coleção de livros</caption>
+      <caption lang="ru">Главное окно с простым элементом из коллекции книг</caption>
+      <caption lang="sk">Hlavné okno zobrazujúce jednoduchú položku v kolekcii kníh</caption>
+      <caption lang="sl">Glavno okno, ki prikazuje preprost predmet v knjižni zbirki</caption>
+      <caption lang="sv">Huvudfönstret som visar ett enkelt objekt i en boksamling</caption>
+      <caption lang="uk">Головне вікно програми із простим записом у збірці книжок</caption>
+      <caption lang="x-test">xxThe main window showing a simple item in a book collectionxx</caption>
+      <image>https://cdn.kde.org/screenshots/tellico/tellico.png</image>
+    </screenshot>
+    <screenshot width="1396" height="883">
+      <caption>The main window showing side-by-side views of a game collection</caption>
+      <caption lang="ca">La finestra principal mostra les vistes, una al costat de l'altra, d'una col·lecció de jocs</caption>
+      <caption lang="ca-valencia">La finestra principal mostra les vistes, una al costat de l'altra, d'una col·lecció de jocs</caption>
+      <caption lang="cs">Hlavní okno zobrazující vedle sebe sbírku her</caption>
+      <caption lang="da">Hovedvinduet som viser side-om-side-visninger af en spilsamling</caption>
+      <caption lang="de">Das Hauptfenster mit einer zweispaltigen Ansicht einer Spiele-Sammlung</caption>
+      <caption lang="el">Το κύριο παράθυρο με κατ' αντιπαράθεση προβολές μιας συλλογής παιχνιδιών</caption>
+      <caption lang="en-GB">The main window showing side-by-side views of a game collection</caption>
+      <caption lang="es">La ventana principal mostrando vistas en paralelo de una colección de juegos</caption>
+      <caption lang="et">Peaaken mängude kõrvutivaatega</caption>
+      <caption lang="eu">Leiho nagusia alboz-albo joko bilduma baten ikuspegiak erakutsiz</caption>
+      <caption lang="fr">La fenêtre principale, qui affiche des vues côte-à-côte d'une collection de jeux</caption>
+      <caption lang="gl">A xanela principal mostrando as vistas lado a lado dunha colección de xogos</caption>
+      <caption lang="ia">Le fenestra principale monstrante vistas flancate de un collection de joco</caption>
+      <caption lang="id">Window utama menampilkan tampilan sisi ke sisi dari sebuah koleksi permainan</caption>
+      <caption lang="it">La finestra principale che mostra le viste affiancate di una collezione di libri</caption>
+      <caption lang="ko">게임 소장품을 나란히 표시하는 주 창</caption>
+      <caption lang="nl">Het hoofdvenster die een spellenverzameling naast elkaar toont</caption>
+      <caption lang="nn">Hovudvindauget som viser side-ved-side-visingaar av ei spelsamling</caption>
+      <caption lang="pl">Okno główne pokazujące widoki zbioru gier obok siebie</caption>
+      <caption lang="pt">A janela principal a mostrar vistas lado-a-lado de uma colecção de jogos</caption>
+      <caption lang="pt-BR">A janela principal mostrando visões lado a lado de uma coleção de jogos</caption>
+      <caption lang="ru">Главное окно с параллельным представлением коллекции игр</caption>
+      <caption lang="sk">Hlavné okno zobrazujúce pohľady vedľa seba kolekcie hier</caption>
+      <caption lang="sl">Glavno okno, ki prikazuje dva vzporedna pogleda zbirke iger</caption>
+      <caption lang="sv">Huvudfönstret som visar en spelsamling med visning sida vid sida</caption>
+      <caption lang="uk">Головне вікно програми із панелями паралельного перегляду збірки ігор</caption>
+      <caption lang="x-test">xxThe main window showing side-by-side views of a game collectionxx</caption>
+      <image>https://cdn.kde.org/screenshots/tellico/tellico-games.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>tellico</binary>
+  </provides>
+  <releases>
+    <release date="2021-05-09" version="3.4.1">
+      <url>https://tellico-project.org/tellico-3-4-1-released</url>
+    </release>
+    <release date="2021-03-14" version="3.4">
+      <url>https://tellico-project.org/tellico-3-4-released</url>
+    </release>
+    <release version="3.3.5" date="2021-02-23">
+      <url>https://tellico-project.org/tellico-3-3-5-released</url>
+    </release>
+    <release date="2020-11-25" version="3.3.4">
+      <url>https://tellico-project.org/tellico-3-3-4-released</url>
+    </release>
+    <release date="2020-09-13" version="3.3.3">
+      <url>https://tellico-project.org/tellico-3-3-3-released</url>
+    </release>
+    <release version="3.3.2" date="2020-08-07">
+      <url>https://tellico-project.org/tellico-3-3-2-released</url>
+    </release>
+    <release date="2020-05-31" version="3.3.1">
+      <url>https://tellico-project.org/tellico-3-3-1-released</url>
+    </release>
+    <release version="3.3" date="2020-04-20">
+      <url>https://tellico-project.org/tellico-3-3-released</url>
+    </release>
+  </releases>
+</component>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>timeshift-minimal</pkgname>
+  <launchable type="desktop-id">timeshift-gtk.desktop</launchable>
+  <icon height="64" type="cached" width="64">timeshift.png</icon>
+  <icon type="cached" height="128" width="128">timeshift.png</icon>
+  <id>timeshift.desktop</id>
+  <metadata_license>CC-BY-SA-3.0</metadata_license>
+  <project_license>GPL-3.0</project_license>
+  <name>Timeshift</name>
+  <summary>System restore utility for Linux</summary>
+  <summary lang="cs">Nástroj pro obnovení systému pro Linux</summary>
+  <summary lang="hr">Alat obnove sustava za Linux</summary>
+  <description>
+    <p>
+			Timeshift protects your system by taking incremental snapshots of the file system at regular intervals.
+			These snapshots can be restored at a later date to undo all changes to the system. 
+		</p>
+    <p>
+			Timeshift is designed to protect system files and settings.
+			It is NOT a backup tool and is not meant to protect user data.
+			Entire contents of users' home directories are excluded by default.
+		</p>
+  </description>
+  <description lang="cs">
+    <p>
+			Timeshift chrání systém pořizováním přírůstkových zachycených stavů souborového systému v pravidelných intervalech.
+			Tyto zachycené stavy je možné později obnovit a vzít tak zpět veškeré změny v systému. 
+		</p>
+    <p>
+			Timeshift je navržen tak, aby chránil systémové soubory a nastavení.
+			NEJEDNÁ se o zálohovací nástroj a není určen k ochraně dat uživatelů.
+			Veškerý obsah domovských složek uživatelů je ve výchozím stavu vynecháván.
+		</p>
+  </description>
+  <description lang="hr">
+    <p>
+			Timeshift štiti vaš sustav stvaranjem pojedinačnih snimaka datotečnog sustava u redovitim vremenskim razmacima.
+			Te snimke sustava kasnije se mogu obnoviti kako bi se poništile sve promjene načinjene u sustavu. 
+		</p>
+    <p>
+			Timeshift je dizajniran kako bi zaštitio vaše datoteke i postavke sustava.
+			Timeshift nije alat za sigurnosno kopiranje i namjena mu nije zaštita korisničkih podataka.
+			Sav sadržaj osobne mape korisnika po zadanome je izuzet.
+		</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/teejee2008/timeshift/master/images/main_window.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/teejee2008/timeshift/master/images/settings_location.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/teejee2008/timeshift/master/images/settings_schedule.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/teejee2008/timeshift/master/images/settings_rsync.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/teejee2008/timeshift/master/images/settings_btrfs.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/teejee2008/timeshift/master/images/settings_users_rsync.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/teejee2008/timeshift/master/images/settings_filters.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/teejee2008/timeshift/master/images/restore_summary.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://github.com/teejee2008/timeshift</url>
+</component>

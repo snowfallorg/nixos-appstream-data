@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>pantheon.switchboard-with-plugs</pkgname>
+  <id>io.elementary.switchboard.applications</id>
+  <extends>io.elementary.switchboard</extends>
+  <name>Applications Settings</name>
+  <name lang="zh_CN">应用程序设置</name>
+  <name lang="uk">Налаштування застосунків</name>
+  <name lang="tr">Uygulama Ayarları</name>
+  <name lang="sr">Поставке програма</name>
+  <name lang="sk">Nastavenia aplikácií</name>
+  <name lang="ru">Параметры приложений</name>
+  <name lang="pt_BR">Configurações de Aplicativos</name>
+  <name lang="pt">Definições das Aplicações</name>
+  <name lang="nl">Toepassingen instellingen</name>
+  <name lang="nb">Programinnstillinger</name>
+  <name lang="mr">ॲप्लिकेशन्स् सेटिंग्ज</name>
+  <name lang="ja">アプリケーションの設定</name>
+  <name lang="it">Impostazioni delle applicazioni</name>
+  <name lang="he">הגדרות יישומים</name>
+  <name lang="fr">Paramètres des applications</name>
+  <name lang="fi">Sovellusten asetukset</name>
+  <name lang="es">Configuración de aplicaciones</name>
+  <name lang="en_GB">Applications Settings</name>
+  <name lang="de">Anwendungseinstellungen</name>
+  <name lang="da">Applikations Indstillinger</name>
+  <name lang="cs">Nastavení aplikací</name>
+  <name lang="ca">Paràmetres de les aplicacions</name>
+  <summary>Manage default and startup applications</summary>
+  <summary lang="zh_TW">管理預設與初始啟動應用程式</summary>
+  <summary lang="zh_CN">管理默认应用和开机启动应用</summary>
+  <summary lang="uk">Керування типовими застосунками та автозапуском</summary>
+  <summary lang="tr">Varsayılan ve başlangıç uygulamalarını yönetin</summary>
+  <summary lang="sr">Управљајте основним и почетним програмима</summary>
+  <summary lang="sl">Nastavitve za privzete in zagonske aplikacije</summary>
+  <summary lang="sk">Spravujte predvolené aplikácie a aplikácie pri spúšťaní systému</summary>
+  <summary lang="ru">Управление приложениями по умолчанию и автозапуском</summary>
+  <summary lang="pt_BR">Gerenciar aplicações padrão e de início</summary>
+  <summary lang="pt">Gerir aplicações predefinidas e de arranque</summary>
+  <summary lang="pl">Zarządzaj programami domyślnymi i startowymi</summary>
+  <summary lang="nl">Beheer standaardapplicaties en applicaties die automatisch opstarten</summary>
+  <summary lang="nb">Håndter forvalgte og oppstarts-programmer</summary>
+  <summary lang="mr">डीफॉल्ट आणि स्टार्टअप अप्लिकेशन व्यवस्थापित करा</summary>
+  <summary lang="lt">Tvarkyti numatytąsias ir paleisties programas</summary>
+  <summary lang="ko">기본 및 시작 애플리케이션 관리</summary>
+  <summary lang="ja">デフォルトのアプリケーションと起動時に実行するアプリケーションを管理します</summary>
+  <summary lang="it">Gestisci le applicazioni predefinite e di avvio</summary>
+  <summary lang="hr">Upravljajte zadanim aplikacijama i pokretanjem aplikacija</summary>
+  <summary lang="he">ניהול יישומי בררת מחדל ועם הפעלת המערכת</summary>
+  <summary lang="gl">Administra as aplicacións predeterminadas e de arranque</summary>
+  <summary lang="fr">Gérer les applications par défauts et au démarrage de l'ordinateur</summary>
+  <summary lang="fi">Hallitse oletussovelluksia ja käynnistyksen yhteydessä käynnistettäviä sovelluksia</summary>
+  <summary lang="es">Gestione las aplicaciones predeterminadas y de arranque</summary>
+  <summary lang="eo">Mastrumi apriorajn kaj startajn aplikaĵojn</summary>
+  <summary lang="en_GB">Manage default and startup applications</summary>
+  <summary lang="en_CA">Manage default and startup applications</summary>
+  <summary lang="en_AU">Manage default and startup applications</summary>
+  <summary lang="de">Verwalten von Standard- und Autostart-Anwendungen</summary>
+  <summary lang="da">Administrer standard- og opstartsapplikationer</summary>
+  <summary lang="cs">Spravovat aplikace: výchozí a ty spouštěné po přihlášení se do systému</summary>
+  <summary lang="ca">Gestioneu les aplicacions per defecte i d'inici.</summary>
+  <summary lang="ar">إدارة التطبيقات الافتراضية وتطبيقات بدء التشغيل</summary>
+  <icon type="stock">preferences-desktop-applications</icon>
+  <translation type="gettext">applications-plug</translation>
+  <releases>
+    <release version="6.0.1" date="2021-09-27" urgency="medium">
+      <description>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Fix an issue with setting the incorrect app for certain files types</li>
+          <li>Don't overwrite custom overrides when unnecessary</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-07-15" version="6.0.0" urgency="medium">
+      <description>
+        <p>New features:</p>
+        <ul>
+          <li>Manage permissions for Flatpak apps</li>
+        </ul>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Show custom launcher files</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.1.7" date="2020-04-08" urgency="medium">
+      <description>
+        <p>Updated translations</p>
+      </description>
+    </release>
+    <release urgency="medium" version="2.1.6" date="2019-11-15">
+      <description>
+        <p>Fix issues with OnlyShowIn and Snap apps</p>
+        <p>Updated translations</p>
+      </description>
+    </release>
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/elementary/switchboard-plug-applications/master/data/screenshot.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/elementary/switchboard-plug-applications/master/data/screenshot-startup.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/elementary/switchboard-plug-applications/master/data/screenshot-permissions.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://elementary.io</url>
+  <url type="bugtracker">https://github.com/elementary/switchboard-plug-applications/issues</url>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+</component>

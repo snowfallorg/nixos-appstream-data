@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>entangle</pkgname>
+  <icon type="cached" width="64" height="64">org.entangle_photo.Manager.png</icon>
+  <icon height="128" type="cached" width="128">org.entangle_photo.Manager.png</icon>
+  <id>org.entangle_photo.Manager</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>Entangle</name>
+  <name lang="nb_NO">Entangle</name>
+  <name lang="zh_CN">Entangle 相机控</name>
+  <name lang="uk">Entangle</name>
+  <name lang="tr">Entangle</name>
+  <name lang="sv">Entangle</name>
+  <name lang="pl">Entangle</name>
+  <name lang="nl">Entangle</name>
+  <name lang="ja">Entangle</name>
+  <name lang="it">Entangle</name>
+  <name lang="hu">Entangle</name>
+  <name lang="fr">Entangle</name>
+  <name lang="eu">Entangle</name>
+  <name lang="es">Entangle</name>
+  <name lang="de">Entangle</name>
+  <name lang="cs">Entangle</name>
+  <name lang="ca">Entangle</name>
+  <name lang="bg">Entangle</name>
+  <summary>Tethered Camera Control &amp; Capture</summary>
+  <summary lang="nb_NO">Tjudret kamerastyring og opptak</summary>
+  <summary lang="zh_CN">控制连接的相机并拍摄</summary>
+  <summary lang="uk">Керування та захоплення зображення зі з’єднаного фотоапарата</summary>
+  <summary lang="tr">Bağlı Kamera Denetleme &amp;amp; Yakalama</summary>
+  <summary lang="sv">Tjudrad kamerakontroll och -fångst</summary>
+  <summary lang="pl">Sterowanie i pobieranie zdjęć z podłączonego aparatu</summary>
+  <summary lang="nl">Gebonden camera controle &amp;amp; vastleggen</summary>
+  <summary lang="ja">接続されたカメラの制御とキャプチャー</summary>
+  <summary lang="it">Controllo e cattura per la fotocamera connessa</summary>
+  <summary lang="fr">Contrôle de l’APN connecté &amp;amp; Capture</summary>
+  <summary lang="es">Control y captura de cámara conectada</summary>
+  <summary lang="de">Kamera-Fernsteuerung und Aufnahme</summary>
+  <summary lang="cs">Ovládání fotoaparátu a pořizování snímků z počítače.</summary>
+  <summary lang="ca">Controleu la càmera enllaçada i captureu</summary>
+  <description>
+    <p>
+      Entangle is a program used to control digital cameras
+      that are connected to the computer via USB.
+    </p>
+    <p>
+      Entangle can trigger the camera shutter to capture new images.
+      When supported by the camera, a continuously updating preview
+      of the scene can be displayed prior to capture. Images will be
+      downloaded and displayed as they are captured by the camera.
+      Entangle also allows the settings of the camera to be changed
+      from the computer.
+    </p>
+    <p>
+      Entangle is compatible with most DSLR cameras from Nikon and
+      Canon, some of their compact camera models, and a variety of
+      cameras from other manufacturers.
+    </p>
+  </description>
+  <description lang="bg">
+    <p>Entangle е програма за управление на цифрови камери, свързани към компютъра чрез USB.</p>
+    <p>Entangle може да задейства затвора на камерата, за да създава нови снимки. Когато се поддържа от камерата, преди снимането може да бъде показван постоянно обновяващ се изглед на сцената. Изображенията ще бъдат сваляни и показвани така, както са заснети от камерата. Entangle позволява също, настройките на камерата да се променят от компютъра.</p>
+    <p>Entangle е съвместим с повечето DSLR фотоапарати на Nikon и Canon, някои от техните компактни модели и различни камери от други производители.</p>
+  </description>
+  <description lang="ca">
+    <p>Entangle és un programa que s'utilitza per controlar càmeres digitals que estiguin connectades a l'ordinador a través de l'USB.</p>
+    <p>Entangle pot disparar l'obturador de la càmera per capturar noves imatges. Quan la càmera és compatible, es pot mostrar abans de la captura una vista prèvia contínua de l'escena. Les imatges es baixen i es mostren com són capturades per la càmera. Entangle també permet que la configuració de la càmera es pugui canviar des de l'ordinador.</p>
+    <p>Entangle és compatible amb la majoria de les càmeres DSLR de Nikon i Canon, alguns dels seus models de càmeres compactes, i una gran varietat de càmeres d'altres fabricants.</p>
+  </description>
+  <description lang="cs">
+    <p>Entangle je program, který slouží k ovládání digitálních fotoaparátů, které jsou připojeny k počítači přes USB</p>
+    <p>Entangle může spustit spoušť fotoaparátu k zachycení nových snímků. Pokud je podporován fotoaparátem, lze zobrazit průběžnou aktualizaci náhledu scény před vyfocením. Snímky budou staženy a zobrazeny tak, jak byly zachyceny fotoaparátem. Entangle také umožňuje nastavení kamery přímo z počítače.</p>
+    <p>Entangle je kompatibilní s většinou digitálních zrcadlovek Nikon a Canon, s některými z jejich kompaktních modelů fotoaparátů a různých kamer od jiných výrobců.</p>
+  </description>
+  <description lang="de">
+    <p>Entangle ist ein Programm zur Steuerung von digitalen Kameras, die über USB mit dem Rechner verbunden sind.</p>
+    <p>Entangle kann den Verschluss der Kamera zur Aufnahme von Bildern auslösen. Sofern es von der Kamera unterstützt wird, ist eine vor der Aufnahme fortwährend aktualisierte Bildvorschau möglich. Bilder werden so übertragen und angezeigt, wie sie von der Kamera aufgenommen werden. Entangle ermöglicht außerdem die Anpassung der Kameraeinstellungen vom Rechner aus.</p>
+    <p>Entangle ist zu den meisten digitalen Spiegelreflexkameras von Nikon und Canon, einigen Kompaktkameras dieser Hersteller und einer Reihe von Kameras anderer Hersteller kompatibel.</p>
+  </description>
+  <description lang="es">
+    <p>Entangle es un programa usado para controlar digitalmente cámaras que están conectadas al ordenador por USB.</p>
+    <p>Entangle puede disparar el obturador de la cámara para obtener nuevas imágenes. Si la cámara lo permite, se puede mostrar una vista previa continua previa a la captura. Las imágenes se descargan y muestran según las captura la cámara. Entangle también permite cambiar la configuración de la cámara desde la computadora.</p>
+    <p>Entangle es compatible con la mayoría de cámaras DSLR de Nikon y Canon, algunas de sus modelso de cámara compacta y varias cámaras de otros fabricantes.</p>
+  </description>
+  <description lang="fr">
+    <p>Entangle peut piloter les APNs connectés aux ports USB de l’ordinateur.</p>
+    <p>Entangle contrôle l’obturateur de l’APN pour capturer de nouvelles images à distance. Suivant le modèle d’APN, l’aperçu préalable continu du sujet visé peut être disponible. Les images sont téléchargées et affichées au fil de l’eau. L’interface d’Entangle permet également de modifier les réglages de l’APN à distance.</p>
+    <p>Entangle est compatible avec la plupart des APN Canon / Nikon réflexes, compacts et de certains modèles d’autres marques.</p>
+  </description>
+  <description lang="it">
+    <p>Entangle è un programma usato per controllare fotocamere digitali che sono connesse al computer via USB.</p>
+    <p>Entangle può far scattare la fotocamera per fare fotografie. Quando è supportato dalla fotocamera, un'anteprima live della scena inquadrata può essere mostrata prima della cattura. Fotografie saranno scaricate e mostrare come sono catturate dalla fotocamera. Entangle permette di cambiare le impostazioni della fotocamera direttamente dal computer.</p>
+    <p>Entangle è compatibile con molte fotocamereDSLR di Nikon e Canon, con alcune dei loro modelli compact, e una varietà di fotocamere di altri produttori.</p>
+  </description>
+  <description lang="ja">
+    <p>EntangleはコンピューターにUSB接続されたデジタルカメラを制御して利用するアプリケーションです。</p>
+    <p>Entangleは新しい写真を撮影するためにシャッターを切ることができます。カメラが対応していた場合には、連続して撮影する場合のプレビューをキャプチャー前に表示することができます。カメラでキャプチャされた写真は、ダウンロードされて表示されます。Entangleはカメラ側の設定をパソコン側から変更することもできます。</p>
+    <p>Entangleは、ほとんどのNikon製とCanon製のデジタル一眼と、いくつかのコンパクトデジカメ、また、他のメーカーが製造している様々なカメラと互換性があります。</p>
+  </description>
+  <description lang="nb_NO">
+    <p>Entangle er et program til bruk for styring av digitale kamera tilkoblet datamaskinen via USB.</p>
+    <p>Entangle er kompatibelt med de fleste DSLR-kamera fra Nikon og Canon, noen av deres kompaktkamera, og et utall andre kamera fra andre produsenter.</p>
+  </description>
+  <description lang="nl">
+    <p>Entangle is een programma voor het beheren van digitale camera's die via USB met de computer verbonden zijn.</p>
+    <p>Entangle kan de camerasluiter bedienen om nieuwe afbeeldingen vast te leggen. Als dit door de camera ondersteund wordt, kan een continu vernieuwde preview van de scene getoond worden voor het vastleggen. Afbeeldingen zullen gedownload en getoond worden als ze door de camera vastgelegd zijn. Entangle staat ook toe dat de instellingen van de camera vanuit de computer veranderd worden.</p>
+    <p>Entangle is compatibel met de meeste DSLR camera's van Nikon en Canon, enkele van hun compact camera modellen, en een groot aantal camera's van andere fabrikanten.</p>
+  </description>
+  <description lang="pl">
+    <p>Entangle jest programem do sterowania aparatami cyfrowych połączonymi do komputera przez USB.</p>
+    <p>Entangle może automatycznie wykonywać zdjęcia. Jeśli jest to obsługiwane przez aparat, to podgląd sceny może być wyświetlany przed zrobieniem zdjęcia. Obrazy zostaną pobrane i wyświetlone po wykonaniu przez aparat. Entangle umożliwia także zmienianie ustawień aparatu z poziomu komputera.</p>
+    <p>Entangle jest zgodny z większością lustrzanek cyfrowych firm Nikon i Canon, niektórymi modelami kompaktowymi, a także różnymi innymi aparatami innych producentów.</p>
+  </description>
+  <description lang="sv">
+    <p>Entangle är ett program som används för att styra digitalkameror som är anslutna till datorn via USB.</p>
+    <p>Entangle kan utlösa kameraslutaren för att ta nya bilder.  När kameran stödjer det kan en kontinuerligt uppdaterad förhandsvisning av scenen visas före kortet tas.  Bilkder kommer hämtas och visas allteftersom de tas av kameran.  Entangle gör också att kamerainställningarna kan ändras från datorn.</p>
+    <p>Entangle är kompatibel med de flesta DSLR-kameror från Nikon och Canon, några av deras modeller av kompaktkameror, och olika kameror från andra tillverkare.</p>
+  </description>
+  <description lang="tr">
+    <p>Entangle, bilgisayara USB ile bağlı dijital kameraları denetlemek için kullanılan bir programdır.</p>
+    <p>Entangle yeni görüntüler yakalamak için kamera deklanşörünü tetikleyebilir. Kamera tarafından desteklendiğinde, çekimden önce görüntünün sürekli güncellenen bir önizlemesi görüntülenebilir. Görüntüler kamera tarafından yakalandığında indirilecek ve görüntülenecektir. Entangle ayrıca kamera ayarlarının bilgisayardan değiştirilmesine de izin vermektedir.</p>
+    <p>Entangle, Nikon ve Canon'un çoğu DSLR kamerası, bunların bazı kompakt kamera modelleri ve diğer üreticilerin çeşitli kameralarıyla uyumludur.</p>
+  </description>
+  <description lang="uk">
+    <p>Entangle — програма для керування цифровими фотоапаратами, з’єднаними з комп’ютером за допомогою USB.</p>
+    <p>Entangle може керувати затвором фотоапарата і виконувати зйомку. Якщо таку підтримку передбачено у фотоапараті, програма може неперервно оновлювати зображення попереднього перегляду до моменту знімання. Програма отримує і показує знімки, щойно їх буде створено. Крім того, Entangle надає змогу змінювати параметри роботи фотоапарата безпосередньо з комп’ютера.</p>
+    <p>Entangle сумісна з більшістю цифрових дзеркальних фотоапаратів, вироблених Nikon та Canon, деякими з компактних фотоапаратів цих виробників та різноманітними фотоапаратами інших виробників.</p>
+  </description>
+  <description lang="zh_CN">
+    <p>Eentangle 是一个在电脑控制通过 USB 线链接的数码相机的程序</p>
+    <p>Entangle 可以激活相机快门来拍摄新图像。当相机支持时，可以在拍摄前持续更新取景以便预览。与相机拍摄类似，图片可以下载下来。Entangle 同样允许在电脑调整相机的设定。</p>
+    <p>Entangle 兼容大多数尼康和佳能出品的数码单反相机和部分型号的紧凑型相机，以及另外一部分其他厂商的相机。</p>
+  </description>
+  <launchable type="desktop-id">org.entangle_photo.Manager.desktop</launchable>
+  <keywords>
+    <keyword>Capture</keyword>
+    <keyword>Camera</keyword>
+    <keyword>Tethered</keyword>
+    <keyword>Photo</keyword>
+  </keywords>
+  <screenshots>
+    <screenshot type="default">https://entangle-photo.org/appdata/en_US/screenshots/camera-manager.png</screenshot>
+  </screenshots>
+  <url type="homepage">https://entangle-photo.org/</url>
+  <developer_name>The Entangle Photo project</developer_name>
+  <developer_name lang="nb_NO">Entangle-bildeprosjektet</developer_name>
+  <developer_name lang="uk">Проєкт Entangle Photo</developer_name>
+  <developer_name lang="tr">Entangle Fotoğraf projesi</developer_name>
+  <developer_name lang="sv">Fotoprojektet Entagle</developer_name>
+  <developer_name lang="pl">Projekt Entangle</developer_name>
+  <developer_name lang="nl">Het Entangle Photo project</developer_name>
+  <developer_name lang="ja">Entangle Photoプロジェクト</developer_name>
+  <developer_name lang="it">Il progetto Fotografico Entangle</developer_name>
+  <developer_name lang="fr">Le projet photo Entangle</developer_name>
+  <developer_name lang="de">Das Fotoprojekt Entangle</developer_name>
+  <developer_name lang="cs">Fotografický projekt Entangle</developer_name>
+  <updatecontact>https://groups.google.com/forum/#!forum/entangle-devel</updatecontact>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release codename="Potassium" date="2020-06-14" version="3.0">
+      <description>
+        <ul>
+          <li>Ensure picture directory is an absolute path</li>
+          <li>Add ability to flip image during preview</li>
+          <li>Fix warnings about string length</li>
+          <li>Convert appdata file to metainfo and add missing info</li>
+          <li>Another attempt to fix build deps on enum headers</li>
+          <li>Display remaining shot count &amp; ETA in repeat shooter plugin</li>
+          <li>Remove use of deprecated GObject macros</li>
+          <li>Remove use of deprecated GLib APIs</li>
+          <li>Ensure glib min version checks at build time</li>
+          <li>Convert to use GObject macros for declaring boilerplate</li>
+          <li>Bulk reformat code using clang-format rules</li>
+          <li>Force a default filename pattern if setting is invalid</li>
+          <li>Validate filename pattern when updating preferences</li>
+          <li>Rename desktop file and icon file to match application ID</li>
+          <li>Add ability to render text mesages over image</li>
+          <li>Add a countdown timer for photobox plugin capture</li>
+          <li>Disable context menu in image browser when photobox plugin is active</li>
+          <li>Run live view when counting down to capturein photobox plugin</li>
+          <li>Fix crash releasing popup windows</li>
+          <li>Add context menu option for opening popup image window</li>
+          <li>Drop drag support for opening popup image window</li>
+          <li>Display greeting when opening popup image window</li>
+          <li>Display greeting when entering photobox plugin</li>
+          <li>Disable view finder after capturing image in preview mode</li>
+        </ul>
+      </description>
+    </release>
+    <release codename="Sodium" date="2019-01-13" version="2.0">
+      <description>
+        <ul>
+          <li>Require gobject introspection >= 1.54</li>
+          <li>Require GTK3 >= 3.22</li>
+          <li>Fix dependency on libraw</li>
+          <li>Fix variable name in photobox plugin</li>
+          <li>Document some missing keyboard shortcuts</li>
+          <li>Fix upper bound in histogram to display clipped pixel</li>
+          <li>Refresh translations</li>
+          <li>Option to highlight over exposed pixels in red</li>
+          <li>Disable noisy compiler warning</li>
+          <li>Remove use of deprecated application menu concept</li>
+          <li>Fix image redraw when changing some settings</li>
+          <li>Update mailing list address in appdaat</li>
+          <li>Add more fields to appdata content</li>
+          <li>Fix reference counting during window close</li>
+          <li>Use correct API for destroying top level windows</li>
+          <li>Fix unmounting of cameras with newer gvfs URI naming scheme</li>
+          <li>Avoid out of bounds read of property values</li>
+          <li>Fix many memory leaks</li>
+          <li>Workaround for combo boxes not displaying on Wayland</li>
+          <li>Fix race condition in building enums</li>
+          <li>Fix setting of gschema directory during startup</li>
+          <li>Set env to ensure plugins can find introspection typelib</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.0" codename="Lithium" date="2017-10-10">
+      <description>
+        <ul>
+          <li>Requires Meson + Ninja build system instead of make</li>
+          <li>Switch to 2-digit version numbering</li>
+          <li>Fix corruption of display when drawing session browser</li>
+          <li>Register application actions for main operations</li>
+          <li>Compile UI files into binary</li>
+          <li>Add a custom application menu</li>
+          <li>Switch over to using header bar, instead of menu bar and tool bar.</li>
+          <li>Enable close button for about dialog</li>
+          <li>Ensure plugin panel fills preferences dialog</li>
+          <li>Tweak UI spacing in supported cameras dialog</li>
+          <li>Add keyboard shortcuts overlay</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2017-08-25" version="0.7.2" codename="Bottom">
+      <description>
+        <ul>
+          <li>Requires Gtk >= 3.10.0</li>
+          <li>Fix some introspection annotations</li>
+          <li>Use GdkSeat APIs if available</li>
+          <li>Use GtkOverlay and GtkRevealer in preference to custom widgets</li>
+          <li>Refactoring to prepare to support display of video files</li>
+          <li>Draw symbolic icons for video/image files while waiting for thumbnails to load</li>
+          <li>Ensure session highlight has a min 1 pixel visible border</li>
+          <li>Ensure session browser scrolls fully to right</li>
+          <li>Check for Adwaita icon theme which now includes symbolic icons</li>
+          <li>Remove left over check for DBus GLib</li>
+          <li>Remove use of deprecated GDK monitor functions</li>
+          <li>Remove use of deprecated GTK API for loading URIs</li>
+          <li>Fix handling of motion-notify event that broke client side window dragging</li>
+          <li>Fix warning when setting size of settings viewport</li>
+          <li>Update bug reporting address</li>
+          <li>Turn off over-zealous compiler warning about loop optimizations</li>
+          <li>Add ability to enter IP address of network camera</li>
+          <li>Fix URI pattern used to locate gphoto gvfs mounts</li>
+          <li>Add example plugin for bracketing photos of a total eclipse</li>
+        </ul>
+      </description>
+    </release>
+    <release codename="Top" date="2016-02-21" version="0.7.1">
+      <description>
+        <ul>
+          <li>Fix linking problem with strict linkers</li>
+          <li>Misc spelling fixes to online help docs</li>
+          <li>Replace use of GSimpleAsyncResult with GTask</li>
+          <li>Specify versions when importing from python plugins</li>
+          <li>Remove use of deprecated GTK APIs</li>
+          <li>Render image stats overlay partially transparent</li>
+          <li>Fix error reporting when saving settings</li>
+          <li>Flush events after capture to avoid accidentally restarting preview</li>
+          <li>Make Nikon fine focus stepping finer</li>
+          <li>Ensure images are sorted by last modified date</li>
+          <li>Switch from 128 px to 256 px thumbnail sizes to benefit larger high dpi screens</li>
+          <li>Rewrite film strip browser to dynamically resize icons to fit available space</li>
+          <li>Draw symbolic icons in film strip if image is not yet loaded</li>
+          <li>Refresh translations from Zanata</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.7.0" date="2015-03-17" codename="Charm">
+      <description>
+        <ul>
+          <li>Require GLib >= 2.36</li>
+          <li>Import new logo design</li>
+          <li>Switch to using zanata.org for translations</li>
+          <li>Set default window icon</li>
+          <li>Introduce an initial help manual via yelp</li>
+          <li>Use shared library for core engine to ensure all symbols are exported to plugins</li>
+          <li>Add framework for scripting capture operations</li>
+          <li>Workaround camera busy problems with Nikon cameras</li>
+          <li>Add a plugin for repeated capture sequences</li>
+          <li>Replace progress bar with spinner icon</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2015-02-05" version="0.6.1" codename="Strange">
+      <description>
+        <ul>
+          <li>Require GTK >= 3.4</li>
+          <li>Fix check for GIO package in configure</li>
+          <li>Add missing icons to Makefile</li>
+          <li>Follow freedesktop thumbnail standard storage location</li>
+          <li>Refactor capture code to facilitate plugin script automation</li>
+          <li>Fix bug causing plugin to be displayed more than once</li>
+          <li>Make histogram height larger</li>
+          <li>Strip trailing '2' from widget labels to be more friendly</li>
+          <li>Completely rewrite control panel display to show a small, user configurable subset from all the camera controls.</li>
+          <li>Remember custom list of camera controls per camera model</li>
+          <li>Hide compiler warnings from new glib atomic opertaions</li>
+          <li>Update to newer gnulib compiler warnings code</li>
+          <li>Remove broken double buffering code that's no required when using GTK3</li>
+          <li>Remove use of deprecated GtkMisc APis</li>
+          <li>Allow camera picker list to show multiple lines</li>
+          <li>Remove crufty broken code from session browser that was breaking with new GTK versions</li>
+          <li>Disable libraw auto brightness since it totally overexposes many images, generally making things look worse</li>
+          <li>Fix memory leak handling camera events</li>
+          <li>Add keywords to desktop &amp; appdata files</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2014-05-02" codename="Down" version="0.6.0">
+      <description>
+        <ul>
+          <li>Add a demonstration plugin for setting up a captive photo box display mode</li>
+          <li>Switch to use Python3 for plugin engine instead of JavaScript</li>
+          <li>Use GTK dark theme</li>
+          <li>Require GNOME symbolic icon theme to be installed</li>
+          <li>Switch to require lcms2 instead of lcms</li>
+          <li>Move application icon into a standard directory mandated to work with the appdata tools</li>
+          <li>Make manual focus work with Canon EOS cameras</li>
+          <li>Disable flickering progress bar in preview mode with Canon EOS cameras</li>
+          <li>Remove use of deprecated GTK methods/classes/constants</li>
+          <li>Remove use of gexiv2 method which is not long exported</li>
+          <li>Remove use of deprecated libpeas methods</li>
+          <li>Add GTK-DOC transfer annotations / docs to all methods</li>
+          <li>Avoid loosing camera capabilities on disconnect</li>
+          <li>Fix off by one in histogram tables causing memory corruption</li>
+          <li>Mark appdata / desktop files for translation</li>
+          <li>Fix typos in README file</li>
+          <li>Fix inverted tests when checking if range widget changed</li>
+          <li>Avoid storm of expose events due to auto-drawer widget</li>
+          <li>Avoid never ending circular update of controls causing errors in some camera modes</li>
+          <li>Add workaround for crazy D5100 camera serial number</li>
+          <li>Add customizable highlight/background for images</li>
+          <li>Avoid reference leak of windows preventing proper cleanup</li>
+          <li>Remove camera manual/about/driver help windows since it did not contain any info useful to users</li>
+          <li>Filter list of cameras in connect dialog to only those which support capture/preview</li>
+          <li>Don't auto connect to cameras which don't support capture or preview</li>
+          <li>Ensure parent window is set on dialogs to prevent them falling behind main window</li>
+          <li>Fix crash with latest GTK due to incorrect overriding of GtkApplication startup method</li>
+          <li>Update to cope with changed GExiv API version</li>
+          <li>Refreshed translations from transifex</li>
+        </ul>
+      </description>
+    </release>
+    <release codename="Up" date="2013-12-15" version="0.5.4">
+      <description>
+        <ul>
+          <li>Ensure thumbnail directory exists when saving thumbnails</li>
+          <li>Fix memory leak generating thumbnails from raw images</li>
+          <li>Add an appdata XML file for GNOME software center</li>
+          <li>Create a dedicated camera actions menu</li>
+          <li>Fix include of gexiv2 header files</li>
+          <li>Fix image selection for onion skinning in preview mode</li>
+          <li>Display selected image when cancelling preview</li>
+          <li>Fix empty tooltips on capture/preview buttons</li>
+          <li>Fix scaling for preview image in onion skinning mode</li>
+          <li>Increase emphasis of top image in onion skinning mode</li>
+          <li>Improve granularity of manual focus and add extra '&lt;' and '>' key accelerators for coarse focus</li>
+          <li>Fix leak of image exiting preview mode</li>
+          <li>Make progress toolbar button permanently visible</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2013-08-28" version="0.5.3" codename="Photon">
+      <description>
+        <ul>
+          <li>Move file name of image thumbnails to tooltip popup</li>
+          <li>Add --disable-schemas-compile configure arg to disable schema compilation</li>
+          <li>Remove "Encoding" key from desktop file</li>
+          <li>Fix massive memory leak in pixbuf loading</li>
+          <li>Fix thread safety in camera control updates which caused hangs in GTK</li>
+          <li>Fix updating of control readonly state when camera modes change</li>
+        </ul>
+      </description>
+    </release>
+    <release codename="Graviton" date="2013-08-17" version="0.5.2">
+      <description>
+        <ul>
+          <li>Split histogram into RGB colour channels</li>
+          <li>Fix aperture / shutter speed calculations in status bar</li>
+          <li>Only import files with known image extensions</li>
+          <li>Use case insensitive file extension check to detect raw files</li>
+          <li>Set saner defaults for processing raw files to fix Canon raw display</li>
+          <li>Set preferences before loading session to fix settings for initial image load</li>
+          <li>Apply orientation from EXIF images if image file has none</li>
+          <li>Remove left over debug prints</li>
+          <li>Add support for linear histogram display mode</li>
+          <li>Support 'h' key to toggle linear/log histogram mode</li>
+          <li>Ensure all events are emitted in main thread</li>
+          <li>Remove use of deprecated GDK thread APIs</li>
+          <li>Use GtkGrid instead of deprecated GtkTable</li>
+          <li>Ensure status bar is constant size when scaling image</li>
+          <li>Preserve scrollbar offsets when switching images</li>
+          <li>Make metadata extraction more robust wrt missing fields</li>
+          <li>Updated translations from transifex</li>
+        </ul>
+      </description>
+    </release>
+    <release codename="W Boson" date="2012-03-12" version="0.5.1">
+      <description>
+        <ul>
+          <li>Update for compatibility with libgphoto 2.5 API callbacks</li>
+          <li>Avoid warnings about deprecated glib2 mutex and condition variable APIs</li>
+          <li>Directly disable viewfinder mode using config APIs</li>
+          <li>Add support for triggering autofocus during preview with 'a' key</li>
+          <li>Add support for manual focus drive in/out using '.' and ',' keys</li>
+          <li>Refresh translations from transifex</li>
+          <li>Import user contributed Italian translation</li>
+          <li>Add missing translation markers on some strings</li>
+        </ul>
+        <p>Known issues:</p>
+        <ul>
+          <li>Compile triggers deprecation warnings about Gdk threads API usage and GtkTable API usage. Harmless but to be addressed in next release.</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2012-12-16" version="0.5.0" codename="Z Boson">
+      <description>
+        <ul>
+          <li>Switch to using LibRaw for loading raw images</li>
+          <li>Allowing loading image preview from raw files</li>
+          <li>Fix deadlock unmounting camera at startup</li>
+          <li>Ensure camera is disconnected before exiting</li>
+          <li>Sort image list by name instead of date</li>
+          <li>Add support for rendering "onion skin" of image sequence</li>
+          <li>Fix updating of range control values</li>
+          <li>Fix filename generation for dual-format capture modes</li>
+          <li>Fix deletion of dual-format images when exiting preview</li>
+          <li>Refresh translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2012-09-06" version="0.4.1" codename="Gluon">
+      <description>
+        <ul>
+          <li>Fix leak of image pixbufs when changing image in session</li>
+          <li>Keep toolbar directory in sync with session dir</li>
+          <li>Fix leak when displaying image popups</li>
+          <li>Fix leak when closing image popups</li>
+          <li>Fix key bindings in session browser</li>
+          <li>Add image histogram display</li>
+          <li>Load libpeas introspection data for plugins</li>
+          <li>Main plugin list in preferences</li>
+          <li>Add object type checking in all APIs</li>
+          <li>Fix image mask aspect ratio conversion to avoid locale problems</li>
+          <li>Fix build on GTK &lt; 3.4</li>
+          <li>Remove obsolete conditionals from GTK 2.x days</li>
+          <li>Populate list of supported cameras in help menu dialog</li>
+          <li>Add a simple man page</li>
+          <li>Add accelerators for many menu options</li>
+          <li>Fix unref of cairo surface objects</li>
+          <li>Avoid GTK assertion when range is max-min is zero</li>
+          <li>Avoid crash in control panel when updating after camera disconnect</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2012-07-08" version="0.4.0" codename="Higgs Boson">
+      <description>
+        <ul>
+          <li>Better use of GtkApplication class</li>
+          <li>Add support for multiple windows &amp; cameras</li>
+          <li>Add ability to sync capture/preview across windows</li>
+          <li>Add preference to control whether cameras autoconnect at startup</li>
+          <li>Add ability to apply aspect ratio masks to images</li>
+          <li>Add key bindings for common actions (see README)</li>
+          <li>Rewrite session browser widget to not use GtkIconView</li>
+          <li>Add popup menu with session browser to allow open and delete of captured images</li>
+          <li>Fix memory leak during preview</li>
+          <li>Fix memory leak in session browser widget</li>
+          <li>Add ability to DPMS-blank screen during capture for consistent lighting environment</li>
+          <li>Add ability to render a focus point during preview</li>
+          <li>Add ability to render grid lines during preview</li>
+          <li>Merge "New session" and "Open session" toolbar buttons into one "Select session" drop down / menu</li>
+          <li>Add custom icons for toolbar capture/preview buttons</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.3.3" date="2012-04-25" codename="Muon neutrino">
+      <description>
+        <ul>
+          <li>Fix deadlock when starting app with glib >= 2.32</li>
+          <li>Remove use of deprecated API calls</li>
+          <li>Remove use of deprecated GTK widgets</li>
+          <li>Fix debugging with glib >= 2.32</li>
+          <li>Fix creation of session browser widget to avoid warnings</li>
+          <li>Refresh translations</li>
+          <li>Fix check for glib-compile-schemas binary</li>
+        </ul>
+      </description>
+    </release>
+    <release codename="Muon" date="2012-04-03" version="0.3.2">
+      <description>
+        <ul>
+          <li>Major code style cleanup</li>
+          <li>Mark all translatable strings in code &amp; UI files</li>
+          <li>Register with Transifex for translations via Fedora team</li>
+          <li>Pull in translations (German, Polish, Ukrainian, Japanese: full, Spanish, Chinese: partial).</li>
+          <li>Add m4 macros for compiler warnings, missing from previous release dist.</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2012-02-13" codename="Tau neutrino" version="0.3.1">
+      <description>
+        <ul>
+          <li>Fix crash in handling camera control combo lists</li>
+          <li>Add notice about need to set XDG_DATA_DIRS when installing into unusual directories</li>
+          <li>Add workaround to avoid immediate crash if schemas were not found in XDG_DATA_DIRS</li>
+          <li>Compile schema files after installation</li>
+          <li>Fix crash updating widget sensitivity</li>
+          <li>Fix crashes &amp; race conditions during capture of images</li>
+          <li>Fix infinite preview error message popups which can hang the window manager</li>
+          <li>Fix crash when retrying a failed connection attempt</li>
+          <li>Fix thread locking when hiding status display</li>
+          <li>Avoid running multiple threads for monitoring status</li>
+          <li>Fix initial sensitivity of camera control panels</li>
+          <li>Update README with new URLs for bugs/mailing lists</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2011-11-28" version="0.3.0" codename="Tau">
+      <description>
+        <ul>
+          <li>Switch to use Gtk3 for UI</li>
+          <li>Switch to use GSettings for preferences</li>
+          <li>Switch to use GtkBuilder for UI modelling</li>
+          <li>Always enable GObject introspection</li>
+          <li>Mandate libpeas for building</li>
+          <li>Use gexiv2 for extracting metadata from images</li>
+          <li>Rewrite internals for camera capture to be based on GIO async invocation, instead of explicitly using threads</li>
+          <li>Automatically detect change of config on camera and propagate to UI (probably only works with Nikon cameras)</li>
+          <li>Display basic image properties (aperture, iso, shutter speed, size and focal length) in a popup</li>
+          <li>Remove support for HAL, in favour of udev</li>
+          <li>Avoid 100% cpu burn with GVolumeMonitor / DBus bug</li>
+          <li>Remember last image directory across restarts</li>
+          <li>Default to $PICTURE_DIR/Capture for images, instead of creating a directory based on the camera model name</li>
+          <li>Keep display of images in session even when no camera is connected</li>
+          <li>Remove "Other PTP properties" from control panel to make the UI more scalable &amp; improve speed of loading the UI</li>
+          <li>Preference to prevent deletion of images from camera after download</li>
+          <li>Preference to allow preview to continue after image capture</li>
+          <li>Continuously monitor for new images on the camera and download as they appear.</li>
+          <li>Setup transient window hints to assist window manager in handling window placement</li>
+          <li>Delete all website content which is now managed live</li>
+          <li>Skip directories / special files when loading sessions</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.2.0" codename="Electron neutrino" date="2010-09-17">
+      <description>
+        <ul>
+          <li>Better compatibility with cameras not supporting events</li>
+          <li>Ability to unmount camera via GVFS</li>
+          <li>Switch to libpeas for plugins</li>
+          <li>Improved error reporting</li>
+          <li>Fixed inifinite loops in event waiting</li>
+          <li>Improved preview capability</li>
+          <li>Fixed crash with udev</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2010-04-08" version="0.1.0" codename="Electron">
+      <description>
+        <ul>
+          <li>First release !</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <translation type="gettext">entangle</translation>
+</component>

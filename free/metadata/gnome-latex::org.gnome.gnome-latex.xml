@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>gnome-latex</pkgname>
+  <launchable type="desktop-id">org.gnome.gnome-latex.desktop</launchable>
+  <icon height="64" width="64" type="cached">org.gnome.gnome-latex.png</icon>
+  <icon width="128" type="cached" height="128">org.gnome.gnome-latex.png</icon>
+  <id>org.gnome.gnome-latex.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>GNOME LaTeX</name>
+  <summary>LaTeX editor</summary>
+  <summary lang="ca">Editor LaTeX</summary>
+  <summary lang="cs">Editor formátu LaTeX</summary>
+  <summary lang="da">LaTeX-editor</summary>
+  <summary lang="de">LaTeX-Editor</summary>
+  <summary lang="el">Επεξεργαστής LaTeX</summary>
+  <summary lang="es">Editor LaTeX</summary>
+  <summary lang="eu">LaTeX editorea</summary>
+  <summary lang="hu">LaTeX szerkesztő</summary>
+  <summary lang="id">Penyunting LaTeX</summary>
+  <summary lang="lt">LaTeX redaktorius</summary>
+  <summary lang="lv">LaTeX redaktors</summary>
+  <summary lang="nl">LaTeX-verwerker</summary>
+  <summary lang="pl">Edytor LaTeX-a</summary>
+  <summary lang="pt_BR">Editor de LaTeX</summary>
+  <summary lang="ro">Editor LaTeX</summary>
+  <summary lang="sr">ЛаТеКс уређивач</summary>
+  <summary lang="sr@latin">LaTeKs uređivač</summary>
+  <summary lang="sv">LaTeX-redigerare</summary>
+  <summary lang="tr">LaTeX düzenleyici</summary>
+  <summary lang="uk">Редактор LaTeX</summary>
+  <description>
+    <p>GNOME LaTeX is a LaTeX editor for the GNOME desktop, previously named LaTeXila. GNOME LaTeX permits to concentrate on the content and the structure of the document instead of being distracted by its presentation.</p>
+    <p>To help the writing of the LaTeX markup, auto-completion is available as well as menus and toolbars with the principal commands. New documents are created from templates. There are buttons to compile, convert and view a document in one click. And projects containing several .tex files are managed easily.</p>
+    <p>A side panel contains three components: the document structure to easily navigate in it; lists of symbols to insert them in a document; and a file browser.</p>
+    <p>GNOME LaTeX has also other features like the spell-checking, or jumping to the associated position between the .tex file and the PDF.</p>
+  </description>
+  <description lang="ca">
+    <p>GNOME LaTeX és un editor LaTeX per a l'escriptori del GNOME, anteriorment anomenat LaTeXila. GNOME LaTeX permet concentrar-se en el contingut i l'estructura del document en comptes de distreure's en la seva presentació.</p>
+    <p>Per a ajudar a escriure el marcatge de LaTeX, l'autocompleció està disponible, així com els menús i les barres d'eines amb les ordres principals. Els documents nous es creen a partir de plantilles. Hi ha botons per compilar, convertir i visualitzar un document amb un sol clic. I els projectes que contenen diversos fitxers .tex es gestionen fàcilment.</p>
+    <p>Un quadre lateral conté tres components: l'estructura del document per a navegar fàcilment en ell; llistes de símbols per a inserir-les en un document; i un navegador de fitxers.</p>
+    <p>GNOME LaTeX també té altres funcions com la verificació ortogràfica o saltar a la posició associada entre el fitxer .tex i el PDF.</p>
+  </description>
+  <description lang="cs">
+    <p>LaTeX GNOME, dříve nazývaný LaTeXila, je editor dokumentů ve formátu LaTeX pro uživatelské prostředí GNOME. LaTeX GNOME vám umožní se soustředit na obsah a strukturu dokumentu, místo toho abyste byli rozptylování jeho podáním.</p>
+    <p>Aby se vám snadněji psaly značky LaTeX, máte k dispozici automatické doplňování a nabídkové a nástrojové lišty s hlavními přikazy LaTeX. Nové dokumenty se vytváří ze šablon. K dispozici jsou tlačítka pro překlad, převod a zobrazení dokumentu jedním kliknutím. Snadná je i správa projektů obsahujících více souborů .tex.</p>
+    <p>Postranní panel obsahuje tři věci: strukturu dokumentu pro snadný pohyb v něm; seznam symbolů pro vkládání do dokumentu; procházení souborů.</p>
+    <p>LaTeX GNOME umí i další funkce, jako je kontrola pravopisu nebo přeskakování na související pozice mezi soubory .tex a PDF.</p>
+  </description>
+  <description lang="da">
+    <p>GNOME LaTeX er en LaTeX-editor til GNOME-skrivebordet som tidligere hed LaTeXila. GNOME LaTeX gør det muligt at fokusere på dokumentets indhold og struktur frem for at blive distraheret af dets præsentation.</p>
+    <p>For at hjælpe med at skrive LaTeX-opmærkning er der autofuldførelse samt menuer og værktøjslinjer med essentielle kommandoer. Nye dokumenter oprettes fra skabeloner. Der er knapper til at kompilere, konvertere og vise et dokument med ét klik. Projekter med flere .tex-filer er lette at håndtere.</p>
+    <p>Et sidepanel med tre komponenter: dokumentstrukturen til let at navigere i det — lister over symboler til indsættelse i et dokument — og en filbrowser.</p>
+    <p>GNOME LaTeX har også andre funktionaliteter såsom stavekontrol, eller hoppe til den tilknyttede placering mellem .tex-filen og PDF'en.</p>
+  </description>
+  <description lang="de">
+    <p>GNOME LaTeX ist ein LaTeX-Editor für die GNOME-Arbeitsumgebung. Mit GNOME LaTeX können Sie sich auf den Inhalt und die Struktur des Dokuments konzentrieren, anstatt von der Darstellung abgelenkt zu werden.</p>
+    <p>Beim Schreiben der LaTeX-Auszeichnung helfen automatische Vervollständigung sowie Menüs und Werkzeugleisten mit den grundlegenden Befehlen. Neue Dokumente werden aus Vorlagen erstellt. Es gibt Knöpfe für das Kompilieren, Konvertieren und Betrachten eines Dokuments mit einem Klick. Projekte, die mehrere .tex-Dateien umfassen, können einfach verwaltet werden.</p>
+    <p>Eine Seitenleiste beinhaltet drei Komponenten: Die Dokumentenstruktur für einfache Navigation; Listen mit Symbolen für das Einfügen in Dokumente und eine integrierte Dateiverwaltung.</p>
+    <p>GNOME LaTeX beinhaltet auch weitere Funktionen wie Rechtschreibprüfung, Vor- und Rückwärtssuche sowie Umschalten zwischen .tex und PDF.</p>
+  </description>
+  <description lang="el">
+    <p>Το GNOME LaTeX είναι ένα πρόγραμμα επεξεργασίας LaTeX για την επιφάνεια εργασίας του GNOME, που προηγουμένως ονομαζόταν LaTeXila. Το GNOME LaTeX επιτρέπει να επικεντρωθεί στο περιεχόμενο και τη δομή του εγγράφου αντί να αποσπάται από την παρουσίασή του.</p>
+  </description>
+  <description lang="es">
+    <p>GNOME LaTeX es un editor LaTeX para el escritorio GNOME, llamado anteriormente LaTeXila. Permite concentrarse en el contenido y la estructura de un documento en lugar de distraerse con su presentación.</p>
+    <p>PAra ayudar a escribir el marcado LaTeX está disponible el completado automático, así como menús y barras de heramientas con los principales comandos. Los documentos nuevos se crean a partir de plantillas. Hay botones para compilar, convertir y ver un documento con una sola pulsación. Y los proyectos que contengan varios archivos .tex se gestionan fácilmente.</p>
+    <p>El panel lateral tiene tres componentes: la estructura del documento, para navegar fácilmente por ella; una lista de símbolos para insertarlos en el documento; y un examinador de archivos.</p>
+    <p>GNOME LaTeX tiene otras características como la comprobación de la ortografía, o saltar a la posición asociada entre el archivo .tex y el PDF.</p>
+  </description>
+  <description lang="eu">
+    <p>GNOME LaTeX aplikazioa GNOME mahaigainerako LaTeX editorea bat da, lehenago LaTeXila deitzen zena. GNOME LaTeX-i esker, dokumentuaren edukian eta egituran zentratu daiteke lana, haren aurkezpenarekin denbora galdu ordez.</p>
+    <p>LaTeX markaketa idazteko lagungarri gisa, osatze automatikoa eskaintzen da, bai eta komando nagusiak dituzten menuak eta tresna-barrak ere. Dokumentu berriak txantiloietatik abiatuta sortzen dira. Dokumentuak klik bakarrean konpilatu, bihurtu eta bistaratzeko botoiak daude. Eta hainbat .tex fitxategi dituzten proiektuak erraz kudeatzen dira.</p>
+    <p>Alboko panelak hiru osagai ditu: dokumentuaren egitura, nabigazioa errazteko; ikurren zerrenda bat haiek dokumentuan txertatu ahal izateko; eta fitxategi-arakatzaile bat.</p>
+    <p>GNOME LaTeX-ek beste eginbide batzuk ere baditu, adibidez zuzentzaile ortografikoa, edo aurrera eta atzera bilatzeko aukera .tex eta PDF artean aldatzeko.</p>
+  </description>
+  <description lang="fr">
+    <p>Pour faciliter l'écriture des balises LaTeX, l'auto-complétion est disponible ainsi que des menus et barres d'outils avec les commandes principales. Les nouveaux documents sont créés à partir de modèles. Des boutons permettent de compiler, convertir et visionner un document en un clic. Et les projets contenant plusieurs fichiers .tex sont gérés facilement.</p>
+  </description>
+  <description lang="hu">
+    <p>A GNOME LaTeX egy LaTeX szerkesztő a GNOME asztali környezethez, régi nevén LaTeXila. A GNOME LaTeX-kel a tartalomra és a dokumentum szerkezetére koncentrálhat, anélkül hogy a megjelenítés elvonná a figyelmét.</p>
+    <p>A LaTeX jelölőnyelv írásában való segítségnyújtásként automatikus kiegészítés érhető el, valamint menük és eszköztárak a főbb parancsokkal. Az új dokumentumok sablonok alapján készülnek. A dokumentumok fordítása, átalakítása és megtekintése egyetlen gombnyomással lehetséges. Valamint a sok .tex fájlt tartalmazó projektek is könnyedén kezelhetőek.</p>
+    <p>Az oldalpanel három összetevővel rendelkezik: a dokumentumszerkezet, amely megkönnyíti a navigációt; a dokumentumba beilleszthető szimbólumok listája; és egy fájlböngésző.</p>
+    <p>A GNOME LaTeX további funkciói között található a helyesírás-ellenőrzés, vagy a .tex és PDF fájl közötti kapcsolódó pozíciójához ugrás.</p>
+  </description>
+  <description lang="id">
+    <p>GNOME LaTeX adalah penyunting LaTeX untuk destop GNOME, sebelumnya bernama LaTeXila. GNPME LaTeX mengizinkan untuk berkonsentrasi pada konten dan struktur dokumen alih-alih terganggu oleh presentasinya.</p>
+    <p>Untuk membantu menulis markup LaTeX, tersedia pelengkapan otomatis maupun menu dan bilah alat dengan perintah-perintah prinsipil. Dokumen baru dibuat dari templat. Ada tombol untuk mengkompail, mengkonversi, dan menilik suatu dokumen dalam satu klik. Proyek yang memuat beberapa berkas .tex dikelola dengan mudah.</p>
+    <p>Panel sisi memuat tiga komponen: struktur dokumen untuk menavigasi dengan mudah; daftar simbol untuk menyisipkan mereka ke dalam dokumen; dan peramban berkas.</p>
+    <p>GNOME LaTeX juga punya fitur lain seperti pemeriksaan ejaan, atau melompat ke posisi yang terkait antara berkas .tex dan PDF.</p>
+  </description>
+  <description lang="lt">
+    <p>GNOME LaTeX yra LaTeX redaktorius GNOME darbalaukiui, anksčiau vadintas LaTeXila. GNOME LaTeX leidžia koncentruotis į turinį bei dokumento struktūrą, užuot blaškiusis dėl jo pavaizdavimo.</p>
+    <p>Siekiant padėti rašyti LaTeX ženklinimu yra automatinis užbaigimas bei meniu ir įrankinės su pagrindinėmis komandomis. Nauji dokumentai yra kuriami pagal šablonus. Yra mygtukai kompiliavimui, konvertavimui ir dokumento peržiūrai vienu paspaudimu. Projektai iš keleto .tex failų yra lengvai tvarkomi.</p>
+    <p>Šoninis skydelis turi tris komponentus: dokumento struktūra lengvai navigacijai jame; simbolių sąrašas įterpimui į dokumentą; integruota failų naršyklė.</p>
+    <p>GNOME LaTeX taip pat turi kitų savybių, tokių kaip rašybos tikrinimas bei paieška pirmyn ir atgal persijungimui tarp .tex ir PDF.</p>
+  </description>
+  <description lang="lv">
+    <p>GNOME LaTeX ir LaTeX redaktors GNOME videi, iepriekš dēvēts par LaTeXila. GNOME LaTeX ļauj koncentrēties uz dokumenta saturu un struktūru, nevis tā prezentāciju.</p>
+    <p>Lai palīdzētu rakstīt LaTeX atzīmes, ir pieejama automātiskā pabeigšana, kā arī izvēlnes un rīkjoslas ar galvenajām komandām. Jauni dokumenti tiek veidoti no veidnēm. Ir pieejamas kompilēšanas, konvertēšanas un gatava dokumenta skatīšanas pogas, kas ir viena klikšķa attālumā. Projekti satur vairākas .tex datnes, kas ir viegli pārvaldāmas.</p>
+    <p>Sānu joslā ir trīs komponentes — dokumenta struktūra, lai varētu tajā viegli pārvietoties; saraksts ar simboliem, kurus var ievietot dokumentā un datņu pārlūks.</p>
+    <p>GNOME LaTeX ir arī citas iespējas, piemēram, pareizrakstības pārbaude un pāriešana uz atbilstošo vietu starp .tex datni un PDF.</p>
+  </description>
+  <description lang="nl">
+    <p>Gnome LaTeX is een LaTeX-verwerker voor Gnome, vroeger bekend onder de naam LaTeXila. Gnome LaTeX laat u toe zich te richten op de inhoud en de structuur van het document, in plaats van afgeleid te zijn door de presentatie ervan.</p>
+    <p>Om u te helpen bij het schrijven van de LaTeX-opmaak, staat automatisch aanvullen ter uwer beschikking, evenals menu’s en werkbalken met de meest gebruikte opdrachten. Sjablonen vormen de basis voor het aanmaken van nieuwe documenten. Er zijn knoppen voor het compileren, converteren en bekijken van een document via één klik. En het is eenvoudig om projecten met daarin verschillende .tex-bestanden te beheren.</p>
+    <p>Het zijpaneel bevat drie componenten: de documentstructuur waar u gemakkelijk doorheen navigeert, lijsten met symbolen die in het document ingevoegd kunnen worden, en een geïntegreerde bestandsverkenner.</p>
+    <p>Gnome LaTeX heeft ook andere functies zoals spellingscontrole, of onmiddellijk te springen naar de geassocieerde positie tussen het .tex- en het PDF-bestand.</p>
+  </description>
+  <description lang="pl">
+    <p>GNOME LaTeX to edytor LaTeX-a dla środowiska GNOME, poprzednio noszący nazwę LaTeXila. Umożliwia skupienie się na treści i strukturze dokumentu, bez rozpraszania się jego prezentacją.</p>
+    <p>W celu ułatwienia pisania znaczników LaTeX-a dostępne jest automatyczne uzupełnianie, a także menu i paski narzędziowe z podstawowymi poleceniami. Nowe dokumenty tworzone są z szablonów. Dzięki przyciskom można jednym kliknięciem skompilować, skonwertować lub wyświetlić dokument. Z łatwością również można zarządzać projektami zawierającymi wiele plików .tex.</p>
+    <p>Panel boczny programu składa się z trzech elementów: struktury dokumentu do łatwej nawigacji, listy symboli do umieszczenia w dokumencie oraz przeglądarki plików.</p>
+    <p>GNOME LaTeX ma również inne funkcje, takie jak sprawdzanie pisowni i przechodzenie do powiązanego położenia między plikiem .tex a plikiem PDF.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>GNOME LaTeX é um editor LaTeX para o ambiente GNOME, anteriormente chamado de LaTeXila. O GNOME LaTeX permite concentrar-se no conteúdo e na estrutura do documento em vez de ser distraído por sua apresentação.</p>
+    <p>Para ajudar na escrita da marcação LaTeX, autocompletamento está disponível assim como menus e barras de ferramentas com os comandos principais. Novos documentos são criados a partir de modelos. Há botões para compilar, converter e visualizar um documento em um clique. E projetos contendo vários arquivos .tex são gerenciados com facilidade.</p>
+    <p>Um painel lateral contém três componentes: a estrutura do documento para fácil navegação pela mesma; listas de símbolos a serem inseridos em um documento e um navegador de arquivos.</p>
+    <p>O GNOME LaTeX também possui outras funções como verificação ortográfica e pular para uma posição associada entre o arquivo .tex e o PDF.</p>
+  </description>
+  <description lang="ro">
+    <p>LaTeX GNOME este un editor LaTeX pentru desktopul GNOME, anterior numit LaTeXila. LaTeX GNOME permite concentrarea pe conținutul și structura documentului în loc să vă distragă atenția cu prezentarea.</p>
+    <p>Pentru a ajuta la scrierea în format LaTeX, completarea automată este disponibilă la fel și meniuri și bare de unelte cu comenzile principale. Documente noi sunt create din șabloane. Există butoane pentru compilare, conversie și vizualizare documente. Și proiectele ce conțin mai multe fișiere .tex sunt administrate ușor.</p>
+    <p>Un panou lateral conține trei componente: structura documentului pentru a naviga ușor; liste de simboluri pentru a le introduce în document; și un navigator de fișiere.</p>
+    <p>LaTeX GNOME are de asemenea alte funcționalități cum ar fi verificarea ortografică, sau navigarea la poziția asociat între fișierul .tex și PDF.</p>
+  </description>
+  <description lang="sr">
+    <p>Гном ЛаТеКс је ЛаТеКс уређивач за Гномову радну површ, који се раније звао ЛаТеКсила. Гном ЛаТеКс допушта да се усредсредите на садржај и структуру документа уместо да вас омета његово представљање.</p>
+    <p>Као испомоћ приликом писања ЛаТеКс ознака, доступно је самостално довршавање као и изборници и траке алата уз главне наредбе. Нови документи се стварају из шаблона. Имамо дугмад за превођење, претварање и прегледање документа на један клик. А и пројектима који садрже неколико „.tex“ датотека лако се управља.</p>
+    <p>Бочна површ садржи три дела: структуру документа за лако кретање кроз исту; списак симбола за уметање у документ; и прегледника датотека.</p>
+    <p>Гном ЛаТеКс поседује и друге функције као што је провера писања, или пребацивање на придружени положај између „.tex“ датотеке и ПДФ-а.</p>
+  </description>
+  <description lang="sr@latin">
+    <p>Gnom LaTeKs je LaTeKs uređivač za Gnomovu radnu površ, koji se ranije zvao LaTeKsila. Gnom LaTeKs dopušta da se usredsredite na sadržaj i strukturu dokumenta umesto da vas ometa njegovo predstavljanje.</p>
+    <p>Kao ispomoć prilikom pisanja LaTeKs oznaka, dostupno je samostalno dovršavanje kao i izbornici i trake alata uz glavne naredbe. Novi dokumenti se stvaraju iz šablona. Imamo dugmad za prevođenje, pretvaranje i pregledanje dokumenta na jedan klik. A i projektima koji sadrže nekoliko „.tex“ datoteka lako se upravlja.</p>
+    <p>Bočna površ sadrži tri dela: strukturu dokumenta za lako kretanje kroz istu; spisak simbola za umetanje u dokument; i preglednika datoteka.</p>
+    <p>Gnom LaTeKs poseduje i druge funkcije kao što je provera pisanja, ili prebacivanje na pridruženi položaj između „.tex“ datoteke i PDF-a.</p>
+  </description>
+  <description lang="sv">
+    <p>GNOME LaTeX är en LaTeX-redigerare för GNOME-skrivbordet, tidigare kallad LaTeXila. GNOME LaTeX låter dig koncentrera dig på innehållet och strukturen på dokumentet snarare än att bli distraherad av dess presentation.</p>
+    <p>För att underlätta skapandet av LaTeX-taggspråk finns automatisk komplettering såväl som menyer och verktygsfält med huvudkommandon tillgängliga. Nya dokument skapas från mallar. Det finns knappar för att kompilera, konvertera och visa ett dokument med ett klick. Projekt som innehåller flera .tex-filer hanteras enkelt.</p>
+    <p>En sidopanel innehåller tre komponenter: dokumentstrukturen för att enkelt navigera i den; listor av symboler för att infoga dem i dokument; samt en filbläddrare.</p>
+    <p>GNOME LaTeX har också andra egenskaper som stavningskontroll eller att hoppa till associerad position mellan .tex-filen och dess PDF-fil.</p>
+  </description>
+  <description lang="tr">
+    <p>GNOME LaTeX, eski adı LaTeXila olan GNOME masaüstü için LaTeX düzenleyicidir. GNOME LaTeX, sunumuyla dikkat dağıtmak yerine belgenin içeriğine ve yapısına odaklanmayı sağlar.</p>
+    <p>LaTeX işaretlemesinin yazılmasına yardımcı olmak için, ana komutlarla birlikte menüler ve araç çubuklarının yanı sıra kendiliğinden tamamlama da kullanılabilir. Yeni belgeler şablonlardan oluşturulur. Tek tıkla belgeyi derlemek, dönüştürmek ve görüntülemek için düğmeler bulunur. Ve birkaç .tex dosyası içeren projeler kolayca yönetilir.</p>
+    <p>Yan panel üç bileşen içerir: içinde kolayca gezinilecek belge yapısı; belgeye eklenebilecek simgelerin listesi; ve dosya tarayıcısı.</p>
+    <p>GNOME LaTeX’in yazım denetimi veya .tex dosyası ile PDF arasındaki ilişkili konuma atlaması gibi başka özellikleri de vardır.</p>
+  </description>
+  <description lang="uk">
+    <p>GNOME LaTeX — редактор LaTeX для стільничного середовища GNOME, який раніше називався LaTeXila. За допомогою GNOME LaTeX ви зможете зосередитися на вмісті документа та його структурі, не відволікаючись на представлення документа.</p>
+    <p>Корисними для написання коду LaTeX будуть можливості автоматичного доповнення команд, а також пункти меню та панелі інструментів для основних команд. Нові документи створюються на основі шаблонів. Передбачено кнопки для збирання, перетворення та перегляду документів у відповідь на одне клацання кнопкою миші. Передбачено інструмент для керування проектів, що складаються з декількох файлів .tex.</p>
+    <p>На бічній панелі програми передбачено три компоненти: панель структури документа для полегшення навігації; списки символів для вставлення цих символів до документа та панель для перегляду файлової системи.</p>
+    <p>Крім того, GNOME LaTeX може перевіряти правопис слів документа і здійснювати двобічний перехід між кодом у форматі .tex та остаточним документом у форматі PDF.</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://gitlab.gnome.org/swilmet/gnome-latex-extra/-/raw/main/screenshots/screenshot-completion.png</image>
+      <caption>Completion of LaTeX commands</caption>
+      <caption lang="ca">Compleció d'ordres LaTeX</caption>
+      <caption lang="cs">Doplňování příkazů LaTeX</caption>
+      <caption lang="da">Fuldførelse af LaTeX-kommandoer</caption>
+      <caption lang="de">Vervollständigung von LaTeX-Befehlen</caption>
+      <caption lang="el">Συμπλήρωση των εντολών LaTeX</caption>
+      <caption lang="es">Completado de comandos de LaTeX</caption>
+      <caption lang="eu">LaTeX komandoen osatzea</caption>
+      <caption lang="fr">Complétion de commandes LaTeX</caption>
+      <caption lang="hu">LaTeX parancsok kiegészítése</caption>
+      <caption lang="id">Pelengkapan perintah LaTeX</caption>
+      <caption lang="lt">LaTeX komandų užbaigimas</caption>
+      <caption lang="lv">LaTeX komandu pabeigšana</caption>
+      <caption lang="nl">Aanvullen van LaTeX-opdrachten</caption>
+      <caption lang="pl">Uzupełnianie poleceń LaTeX-a</caption>
+      <caption lang="pt">Concluir os comandos LaTeX</caption>
+      <caption lang="pt_BR">Autocompletamento de comandos LaTeX</caption>
+      <caption lang="ro">Completarea comenzilor LaTeX</caption>
+      <caption lang="sr">Довршавање ЛаТеКс наредби</caption>
+      <caption lang="sr@latin">Dovršavanje LaTeKs naredbi</caption>
+      <caption lang="sv">Komplettering av LaTeX-kommandon</caption>
+      <caption lang="tr">LaTeX komutlarını tamamla</caption>
+      <caption lang="uk">Доповнення команд LaTeX</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.gnome.org/swilmet/gnome-latex-extra/-/raw/main/screenshots/screenshot-build-tools.png</image>
+      <caption>Generating the PDF file</caption>
+      <caption lang="ca">Generació del fitxer PDF</caption>
+      <caption lang="cs">Generování souboru PDF</caption>
+      <caption lang="da">Generering af PDF-filen</caption>
+      <caption lang="de">PDF-Datei wird erzeugt</caption>
+      <caption lang="el">Δημιουργία του αρχείου PDF</caption>
+      <caption lang="es">Generando el archivo PDF</caption>
+      <caption lang="eu">PDF fitxategia sortzen</caption>
+      <caption lang="fr">Génération du fichier PDF</caption>
+      <caption lang="hu">A PDF-fájl előállítása</caption>
+      <caption lang="id">Membuat berkas PDF</caption>
+      <caption lang="lt">Generuojamas PDF failas</caption>
+      <caption lang="lv">Ģenerē PDF datni</caption>
+      <caption lang="nl">Het PDF-bestand wordt gegenereerd</caption>
+      <caption lang="pl">Tworzenie plików PDF</caption>
+      <caption lang="pt">A criar ficheiro PDF</caption>
+      <caption lang="pt_BR">Geração do arquivo PDF</caption>
+      <caption lang="ro">Se generează fișierul PDF</caption>
+      <caption lang="sr">Стварање ПДФ датотеке</caption>
+      <caption lang="sr@latin">Stvaranje PDF datoteke</caption>
+      <caption lang="sv">Generering av PDF-filen</caption>
+      <caption lang="tr">PDF dosyası oluştur</caption>
+      <caption lang="uk">Створюємо файл PDF</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.gnome.org/swilmet/gnome-latex-extra/-/raw/main/screenshots/screenshot-structure.png</image>
+      <caption>Document structure in the side panel</caption>
+      <caption lang="ca">Estructura del document al quadre lateral</caption>
+      <caption lang="cs">Struktura dokumentu v postranním panelu</caption>
+      <caption lang="da">Dokumentstrukturen i sidepanelet</caption>
+      <caption lang="de">Dokumentstruktur in der Seitenleiste</caption>
+      <caption lang="es">Estructura del documento en el panel lateral</caption>
+      <caption lang="eu">Dokumentuaren egitura alboko panelean</caption>
+      <caption lang="fr">Structure du document dans le panneau latéral</caption>
+      <caption lang="hu">Dokumentumszerkezet az oldalpanelen</caption>
+      <caption lang="id">Struktur dokumen dalam panel samping</caption>
+      <caption lang="lt">Dokumento struktūra šoniniame polangyje</caption>
+      <caption lang="lv">Dokumenta struktūra ir sānu panelī</caption>
+      <caption lang="nl">Documentstructuur in het zijpaneel</caption>
+      <caption lang="pl">Struktura dokumentu w panelu bocznym</caption>
+      <caption lang="pt">Estrutura do documento no painel lateral</caption>
+      <caption lang="pt_BR">Estrutura de documento no painel lateral</caption>
+      <caption lang="ro">Structura documentului în panoul lateral</caption>
+      <caption lang="sr">Структура документа у бочној површи</caption>
+      <caption lang="sr@latin">Struktura dokumenta u bočnoj površi</caption>
+      <caption lang="sv">Dokumentstruktur i sidopanelen</caption>
+      <caption lang="tr">Yan paneldeki belge yapısı</caption>
+      <caption lang="uk">Структура документа на бічній панелі</caption>
+    </screenshot>
+  </screenshots>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>UserDocs</kudo>
+  </kudos>
+  <suggests>
+    <id>org.gnome.Evince.desktop</id>
+  </suggests>
+  <provides>
+    <binary>gnome-latex</binary>
+    <id>org.gnome.latexila.desktop</id>
+  </provides>
+  <url type="homepage">https://gitlab.gnome.org/swilmet/gnome-latex</url>
+  <url type="bugtracker">https://gitlab.gnome.org/swilmet/gnome-latex/-/issues</url>
+  <url type="translate">https://wiki.gnome.org/TranslationProject</url>
+  <translation type="gettext">gnome-latex</translation>
+  <update_contact>swilmet@gnome.org</update_contact>
+  <developer_name>Sébastien Wilmet</developer_name>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release version="3.40.0" date="2022-05-02" />
+    <release version="3.39.1" date="2022-04-21" />
+    <release date="2020-09-11" version="3.38.0" />
+    <release date="2020-05-29" version="3.37.2" />
+    <release date="2020-04-24" version="3.37.1" />
+  </releases>
+</component>

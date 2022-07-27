@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>gnome-keysign</pkgname>
+  <icon height="64" type="cached" width="64">org.gnome.Keysign.png</icon>
+  <icon type="cached" height="128" width="128">org.gnome.Keysign.png</icon>
+  <id>org.gnome.Keysign</id>
+  <metadata_license>CC0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>Keysign</name>
+  <summary>OpenPGP Keysigning helper</summary>
+  <description>
+    <p>
+      GNOME Keysign allows signing OpenPGP keys comfortably and securely
+      via the local network or Bluetooth.
+    </p>
+    <p>
+      It can scan another key's barcode and transfer the key securely,
+      allowing for casual two-party key signing sessions.
+      It follows best practises by sending the encrypted signatures
+      to the UIDs of a key using the Email client the user configured
+      to use.
+    </p>
+  </description>
+  <description lang="cs">
+    <p>
+Umí číst čárový kód jiného klíče a klíče bezpečně přenášet, což se hodí pro dvoustranné podepisování klíčů. Drží se osvědčené praxe posílání šifrovaných podpisů do UID klíče pomocí e-mailového klienta, kterého pro daný účel uživatel nastavil.</p>
+  </description>
+  <description lang="da">
+    <p>
+      GNOME Nøgleunderskriver gør det muligt at underskrive OpenPGP-nøgler
+      komfortabelt og sikkert via det lokale netværk eller Bluetooth.
+    </p>
+    <p>
+      Den kan skanne andre nøglers stregkode og overføre nøglen sikkert,
+      hvilket giver afslappede nøgleunderskrivningssessioner mellem to parter.
+      Den følger bedste praksisser ved at sende de krypterede underskrifter
+      til UID'erne af en nøgle med den e-mailklient brugeren har
+      konfigureret.
+    </p>
+  </description>
+  <description lang="de">
+    <p>
+      Das Programm scannt den Barcode eines anderen Schlüssels und überträgt
+      den Schlüssel sicher, was spontane Signierpartys zu zweit ermöglicht. Es hält
+      sich dabei an die übliche Vorgehensweise. So schickt es die verschlüsselten
+      Signaturen als E-Mail-Anhang an die Benutzerkennungen des Schlüssels unter
+      Benutzung des E-Mail-Clients, den der Benutzer schon eingerichtet hat.
+    </p>
+  </description>
+  <description lang="es_ES">
+    <p>
+      GNOME-Keysign permite firmar llaves OpenPGP de manera cómoda y segura
+      a través de la red local o Bluetooth.
+    </p>
+    <p>
+      Puede escanear el código de barra de otra llave y transferirla
+      de manera segura, permitiendo sesiones casuales bipartitas de firma de llave.
+      Siga buenas prácticas al enviar las firmas cifradas a los UID
+      de una llave usando el cliente de correo configurado por
+      el usuario.
+    </p>
+  </description>
+  <description lang="fr">
+    <p>
+      Il peut lire le code-barre d’une autre clé et transférer la clé
+      de façon sûre, permettant des sessions de signature de clés bipartites.
+      Il suit les bonnes pratiques en envoyant les signatures chiffrées aux
+      identifiants UID d’une clé avec le client de messagerie configuré par
+      l’utilisateur.
+    </p>
+  </description>
+  <description lang="fur">
+    <p>
+      Al pues scansionâ un codiç a sbaris di une altre clâf e trasferî la 
+      clâf in sigurece, permetint a dôs personis di fâ sessions casuâls di firme des clâfs.
+      Al seguìs il miôr costum di inviâ lis firmis cifradis
+      al UIDs di une clâf doprant il client E-mail che l'utent al à configurât
+      di doprâ.
+    </p>
+  </description>
+  <description lang="hu">
+    <p>
+      A GNOME Kulcsaláíró lehetővé teszi, hogy OpenPGP kulcsokat írjon
+      alá kényelmesen és biztonságosan a helyi hálózaton vagy
+      Bluetoothon keresztül.
+    </p>
+    <p>
+      Képes leolvasni egy másik kulcs vonalkódját, és biztonságosan
+      átküldeni a kulcsot, így egyszerű kétszereplős kulcsaláírást
+      biztosít. Követi a legjobb gyakorlatokat azáltal, hogy a
+      felhasználó által beállított levelezőprogramot használja a
+      kulcs UID-jaihoz tartozó titkosított aláírások elküldéséhez.
+    </p>
+  </description>
+  <description lang="id">
+    <p>
+      GNOME-Keysign memungkinkan penandatanganan kunci OpenPGP dengan nyaman dan aman
+      melalui jaringan lokal atau Bluetooth.
+    </p>
+    <p>
+      Ini dapat memindai kode kunci lain dan mentransfer kunci secara aman, 
+      memungkinkan sesi penandatanganan dua-pihak kasual.
+      Ini mengikuti praktik terbaik dengan mengirimkan tanda tangan terenkripsi
+      ke UID kunci menggunakan klien Surel yang dikonfigurasi pengguna
+      untuk digunakan.
+    </p>
+  </description>
+  <description lang="it">
+    <p>
+      GNOME-Keysign permette di firmare chiavi OpenPGP in modo semplice e sicuro
+      utilizzando la rete locale o il Bluetooth.
+    </p>
+    <p>
+      È possibile leggere il codice a barre di un altro e trasferire la chiave
+      in modo sicuro, permettendo a due persone di effettuare una sessione di
+      firma delle chiavi.
+      Segue le linee guida inviando le firme cifrate agli UID della chiave
+      utilizzando il client email configurato dall'utente.
+    </p>
+  </description>
+  <description lang="nl">
+    <p>
+      Gnome Keysign laat u eenvoudig en veilig OpenPGP-sleutels ondertekenen
+      via het lokale netwerk of Bluetooth.
+    </p>
+    <p>
+      Het kan de barcode van een andere sleutel scannen en de sleutel veilig overdragen,
+      wat informele sleutelondertekeningssessies tussen twee partijen mogelijk maakt.
+      Het verzendt de versleutelde ondertekeningen naar de UID’s van een sleutel
+      met de door de gebruiker ingestelde e-mailcliënt.
+    </p>
+  </description>
+  <description lang="pl">
+    <p>
+      GNOME Keysign umożliwia wygodne i bezpieczne podpisywanie kluczy
+      OpenPGP przez sieć lokalną lub Bluetooth.
+    </p>
+    <p>
+      Można zeskanować kod kreskowy innego klucza i bezpiecznie go
+      przesłać, co umożliwia przeprowadzanie nieformalnych sesji
+      podpisywania kluczy przez dwie osoby.
+      Program używa sprawdzonych zasad, wysyłając zaszyfrowane podpisy
+      do UID klucza za pomocą klienta poczty skonfigurowanego przez
+      użytkownika.
+    </p>
+  </description>
+  <description lang="pt_BR">
+    <p>
+      GNOME Keysign permite assinar chaves OpenPGP de forma
+      confortável e segura por meio da rede local ou do Bluetooth.
+    </p>
+    <p>
+      Ele pode escanear o código de barras de outra tecla e
+      transferir a chave com segurança, permitindo sessões
+      informais de sinalização de duas partes.
+      Ele segue as práticas recomendadas enviando as assinaturas
+      criptografadas para os UIDs de uma chave usando o cliente
+      de e-mail que o usuário configurou para usar.
+    </p>
+  </description>
+  <launchable type="desktop-id">org.gnome.Keysign.desktop</launchable>
+  <screenshots>
+    <screenshot type="default">
+      <image height="529" width="646">https://wiki.gnome.org/Apps/Keysign?action=AttachFile&amp;do=get&amp;target=send.png</image>
+    </screenshot>
+    <screenshot>
+      <image width="646" height="529">https://wiki.gnome.org/Apps/Keysign?action=AttachFile&amp;do=get&amp;target=receive.png</image>
+    </screenshot>
+  </screenshots>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+  </kudos>
+  <url type="homepage">https://wiki.gnome.org/Apps/Keysign</url>
+  <url type="bugtracker">https://github.com/gnome-keysign/gnome-keysign/issues</url>
+  <project_group>GNOME</project_group>
+  <releases>
+    <release version="1.2.0" date="2019-10-23">
+      <description>
+        <p>
+         * Fix error stemming from removing the crashing gpgme detection
+         * build: Unvendorise babel-glade python module
+         * change email message to facilitate usage of certifications
+        </p>
+      </description>
+    </release>
+    <release date="2019-09-13" version="1.1.1">
+      <description>
+        <p>
+         * Allow to drag and drop an email or its attachment into the app
+         * show options to save produced certification as a file
+         * Added a tooltip to the Internet button
+         * Change logo to a wax seal
+         * select usable private keys for signing, only
+         * made appdata file validate under stricter requirements
+        </p>
+      </description>
+    </release>
+    <release date="2019-01-21" version="1.0.1">
+      <description>
+        <p>
+         * fixed up appdata
+         * Cater for newer wormhole close() semantics
+        </p>
+      </description>
+    </release>
+    <release version="1.0.0" date="2019-01-08">
+      <description>
+        <p>
+         * Run with python3 from the desktop file
+         * Removed monkeysign support
+         * Stop installing gks-qrcode
+         * Increased Python2 support in the tests
+         * Fixed stopping wormhole discovery
+         * Ship a new icon for the app
+         * Removed gpgmh wrapper module
+        </p>
+      </description>
+    </release>
+    <release date="2018-08-30" version="0.9.9">
+      <description>
+        <p>Transfer keys via the Internet through Magic Wormhole</p>
+      </description>
+    </release>
+    <release date="2018-07-04" version="0.9.8">
+      <description>
+        <p>Check for Bluetooth in a separate thread, detect powered off Bluetooth device, do not show offline keys</p>
+      </description>
+    </release>
+    <release date="2018-05-17" version="0.9.7.2">
+      <description>
+        <p>Made Appdata go into right places</p>
+      </description>
+    </release>
+    <release date="2017-10-03" version="0.9.5">
+      <description>
+        <p>Add Bluetooth support</p>
+        <p>Default to gpgme</p>
+      </description>
+    </release>
+  </releases>
+  <update_contact>tobiasmue@gnome.org</update_contact>
+  <translation type="gettext">gnome-keysign</translation>
+  <content_rating type="oars-1.0">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">intense</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+</component>

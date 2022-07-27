@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>eolie</pkgname>
+  <icon width="64" type="cached" height="64">org.gnome.Eolie.png</icon>
+  <icon width="128" height="128" type="cached">org.gnome.Eolie.png</icon>
+  <id>org.gnome.Eolie</id>
+  <launchable type="desktop-id">org.gnome.Eolie.desktop</launchable>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>Eolie</name>
+  <summary>Web browser</summary>
+  <description>
+    <p>Eolie is a new GNOME web browser.</p>
+  </description>
+  <releases>
+    <release version="0.9.99" date="2020-03-27" />
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://gitlab.gnome.org/gnumdk/screenshots/raw/master/eolie.jpg</image>
+    </screenshot>
+  </screenshots>
+  <translation type="gettext">eolie</translation>
+  <content_rating type="oars-1.0" />
+  <url type="homepage">https://wiki.gnome.org/Apps/Eolie</url>
+  <url type="bugtracker">https://gitlab.gnome.org/World/eolie/issues</url>
+  <url type="donation">https://www.paypal.me/lollypopgnome</url>
+  <url type="translate">https://hosted.weblate.org/projects/gnumdk/</url>
+  <update_contact>cedric.bellegarde@adishatz.org</update_contact>
+</component>

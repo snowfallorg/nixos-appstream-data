@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>nicotine-plus</pkgname>
+  <icon width="64" type="cached" height="64">org.nicotine_plus.Nicotine.png</icon>
+  <icon height="128" type="cached" width="128">org.nicotine_plus.Nicotine.png</icon>
+  <id>org.nicotine_plus.Nicotine</id>
+  <launchable type="desktop-id">org.nicotine_plus.Nicotine.desktop</launchable>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <translation type="gettext">nicotine</translation>
+  <name>Nicotine+</name>
+  <name lang="uk">Nicotine+</name>
+  <name lang="tr">Nicotine+</name>
+  <name lang="sk">Nicotine+</name>
+  <name lang="ru">Nicotine+</name>
+  <name lang="pt_BR">Nicotine+</name>
+  <name lang="pl">Nicotine+</name>
+  <name lang="nl">Nicotine+</name>
+  <name lang="nb_NO">Nicotine+</name>
+  <name lang="lt">Nicotine+</name>
+  <name lang="it">Nicotine+</name>
+  <name lang="hu">Nicotine+</name>
+  <name lang="fr">Nicotine+</name>
+  <name lang="fi">Nicotine+</name>
+  <name lang="eu">Nicotine+</name>
+  <name lang="es_ES">Nicotine+</name>
+  <name lang="es_CL">Nicotine+</name>
+  <name lang="eo">Nicotine+</name>
+  <name lang="de">Nicotine+</name>
+  <name lang="da">Nicotine+</name>
+  <name lang="cs">Nicotine+</name>
+  <summary>Graphical client for the Soulseek peer-to-peer network</summary>
+  <summary lang="uk">Графічний клієнт для однорангової мережі Soulseek</summary>
+  <summary lang="tr">Soulseek eşler arası ağı için grafiksel istemci</summary>
+  <summary lang="sv">Grafisk klient för peer-to-peer-nätverket Soulseek</summary>
+  <summary lang="ru">Графический клиент для одноранговой сети Soulseek</summary>
+  <summary lang="pt_BR">Cliente gráfico para a rede peer-to-peer Soulseek</summary>
+  <summary lang="pl">Graficzny klient sieci P2P Soulseek</summary>
+  <summary lang="nl">Grafische client voor het Soulseek peer-to-peer netwerk</summary>
+  <summary lang="nb_NO">Grafisk klient for Soulseek-likemannsnettverket</summary>
+  <summary lang="it">Client grafico per la rete peer-to-peer Soulseek</summary>
+  <summary lang="fr">Client graphique pour le réseau P2P Soulseek</summary>
+  <summary lang="es_ES">Cliente gráfico para la red P2P de Soulseek</summary>
+  <summary lang="es_CL">Cliente gráfico para la red par a par de Soulseek</summary>
+  <summary lang="de">Grafischer Client für das Soulseek Peer-to-Peer-Netzwerk</summary>
+  <summary lang="cs">Grafický klient pro Soulseek P2P síť</summary>
+  <description>
+    <p>
+      Nicotine+ is a graphical client for the Soulseek peer-to-peer
+      network.
+    </p>
+    <p>
+      Nicotine+ aims to be a pleasant, free and open source (FOSS)
+      alternative to the official Soulseek client, providing additional
+      functionality while keeping current with the Soulseek protocol.
+    </p>
+  </description>
+  <description lang="cs">
+    <p>Nicotine+ je grafický klient pro Soulseek P2P síť.</p>
+    <p>Nicotine+ cílí být příjemnou, zdarma open source (FOSS) alternativou k oficiálnímu Soulseek klientovi. Nabízí dodatečnou funkcionalitu a je používá aktuální Soulseek protokol.</p>
+  </description>
+  <description lang="de">
+    <p>Nicotine+ ist ein grafischer Client für das Soulseek Peer-to-Peer-Netzwerk.</p>
+    <p>Nicotine+ zielt darauf ab, eine angenehme, kostenlose und Open Source (FOSS) Alternative zum offiziellen Soulseek-Client zu sein, die zusätzliche Funktionen bietet und gleichzeitig mit dem Soulseek-Protokoll auf dem Laufenden bleibt.</p>
+  </description>
+  <description lang="es_CL">
+    <p>Nicotine+ es un cliente gráfico para la red par a par de Soulseek.</p>
+    <p>Nicotine+ apunta a ser una alternativa agradable, libre y de código abierto (FOSS) al cliente oficial de Soulseek, proporcionando funcionalidad adicional mientras se mantiene actualizado con el protocolo de Soulseek.</p>
+  </description>
+  <description lang="es_ES">
+    <p>Nicotine+ es un cliente gráfico para la red P2P de Soulseek.</p>
+    <p>Nicotine+ pretende ser una alternativa agradable, libre y de código abierto (FOSS) al cliente oficial de Soulseek, proporcionando funcionalidades adicionales y al mismo tiempo manteniéndose al día con el protocolo de Soulseek.</p>
+  </description>
+  <description lang="fr">
+    <p>Nicotine+ est un client graphique pour le réseau P2P Soulseek.</p>
+    <p>Nicotine+ vise à proposer une alternative agréable, gratuite et open source (FOSS) au client officiel Soulseek, avec des fonctionnalités supplémentaires tout en restant à jour avec le protocole Soulseek.</p>
+  </description>
+  <description lang="it">
+    <p>Nicotine+ è un client grafico per la rete peer-to-peer Soulseek.</p>
+    <p>Nicotine+ mira ad essere un'alternativa piacevole, free e open source (FOSS) al client ufficiale Soulseek, fornendo funzionalità aggiuntive e mantenendosi al passo con il protocollo Soulseek.</p>
+  </description>
+  <description lang="lt">
+    <p>Nicotine+ yra grafinis klientas Soulseek peer-to-peer tinklo.</p>
+    <p>Nicotine+ siekia būti malonus, nemokamas ir atviro kodo (FOSS) alternatyva oficialiam Soulseek klientui, suteikiant papildomą funkcionalumą, išlaikant naujausią soulseek protokolą.</p>
+  </description>
+  <description lang="nb_NO">
+    <p>Nicotine+ er en grafisk klient for Soulseek-likemannsnettverket.</p>
+    <p>Nicotine+ tar sikte på å være et beleilig og fritt alternativ til den offisielle Soulseek-klienten, noe som gir ytterligere funksjonalitet i tillegg til Soulseek-protokollen.</p>
+  </description>
+  <description lang="nl">
+    <p>Nicotine+ is een grafische client voor het Soulseek peer-to-peer netwerk.</p>
+    <p>Nicotine + wil een aangenaam, gratis en open source (FOSS) alternatief zijn voor de officiële Soulseek-client, die extra functionaliteit biedt terwijl het up-to-date blijft met het Soulseek-protocol.</p>
+  </description>
+  <description lang="pl">
+    <p>Nicotine+ jest graficznym klientem sieci P2P Soulseek.</p>
+    <p>Nicotine+ ma na celu być przyjemną, wolną i otwartą (FOSS) alternatywą dla oficjalnego klienta Soulseek, zapewniając dodatkową funkcjonalność przy jednoczesnym zachowaniu aktualności protokołu Soulseek.</p>
+  </description>
+  <description lang="pt_BR">
+    <p>Nicotine+ é um cliente gráfico para a rede peer-to-peer Soulseek.</p>
+    <p>Nicotine+ pretende ser uma alternativa agradável, livre e de código aberto (FOSS) ao cliente oficial de Soulseek, fornecendo funcionalidade adicional e mantendo-se atualizado com o protocolo Soulseek.</p>
+  </description>
+  <description lang="ru">
+    <p>Nicotine+ - это графический клиент одноранговой сети Soulseek.</p>
+    <p>Nicotine+ стремится быть удобной, свободной альтернативой с открытым исходным кодом (FOSS) официальному клиенту Soulseek, предоставляя дополнительные функции, сохраняя при этом совместимость протокола Soulseek.</p>
+  </description>
+  <description lang="tr">
+    <p>Nicotine+, Soulseek eşler arası ağı için grafiksel bir istemcidir.</p>
+    <p>Nicotine+, resmi Soulseek istemcisine kullanımı kolay, özgür ve açık kaynaklı (FOSS) bir alternatif olmayı amaçlamakta ve Soulseek protokolünü yakından takip etmesinin yanı sıra ek işlevsellik sağlamaktadır.</p>
+  </description>
+  <description lang="uk">
+    <p>Nicotine+ - це графічний клієнт для однорангової мережі Soulseek.</p>
+    <p>Nicotine+ має на меті бути приємною, безкоштовною альтернативою офіційному клієнту Soulseek. Альтернативою з відкритим вихідним кодом (FOSS), що забезпечує додаткову функціональність та сумісність з протоколом Soulseek.</p>
+  </description>
+  <categories>
+    <category>FileTransfer</category>
+    <category>GTK</category>
+    <category>P2P</category>
+    <category>Network</category>
+  </categories>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/nicotine-plus/nicotine-plus/HEAD/data/screenshots/screenshot1.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/nicotine-plus/nicotine-plus/HEAD/data/screenshots/screenshot2.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/nicotine-plus/nicotine-plus/HEAD/data/screenshots/screenshot3.png</image>
+    </screenshot>
+  </screenshots>
+  <recommends>
+    <control>keyboard</control>
+    <control>pointing</control>
+    <control>touch</control>
+  </recommends>
+  <requires>
+    <display_length compare="ge">600</display_length>
+  </requires>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>Notifications</kudo>
+  </kudos>
+  <url type="homepage">https://nicotine-plus.org/</url>
+  <url type="bugtracker">https://github.com/nicotine-plus/nicotine-plus/issues</url>
+  <url type="translate">https://nicotine-plus.org/doc/TRANSLATIONS</url>
+  <developer_name>Nicotine+ Team</developer_name>
+  <developer_name lang="uk">Команда Nicotine+</developer_name>
+  <developer_name lang="tr">Nicotine+ Ekibi</developer_name>
+  <developer_name lang="ru">Команда Nicotine+</developer_name>
+  <developer_name lang="pt_BR">Equipe Nicotine+</developer_name>
+  <developer_name lang="pl">Zespół Nicotine+</developer_name>
+  <developer_name lang="nl">Nicotine+ Team</developer_name>
+  <developer_name lang="nb_NO">Laget bak Nicotine+</developer_name>
+  <developer_name lang="lt">Nicotine+ komanda</developer_name>
+  <developer_name lang="it">Squadra di Nicotine+</developer_name>
+  <developer_name lang="fr">L'équipe Nicotine+</developer_name>
+  <developer_name lang="es_ES">Equipo de Nicotine+</developer_name>
+  <developer_name lang="es_CL">Equipo de Nicotine+</developer_name>
+  <developer_name lang="eo">Teamo Nicotine+</developer_name>
+  <developer_name lang="de">Nicotine+ Mannschaft</developer_name>
+  <developer_name lang="cs">Nicotine+ tím</developer_name>
+  <content_rating type="oars-1.0">
+    <content_attribute id="social-chat">intense</content_attribute>
+    <content_attribute id="social-info">mild</content_attribute>
+  </content_rating>
+  <releases>
+    <release version="3.2.2" date="2022-03-19" />
+    <release version="3.2.1" date="2022-02-10" />
+    <release date="2021-12-18" version="3.2.0" />
+    <release date="2021-08-02" version="3.1.1" />
+    <release date="2021-07-23" version="3.1.0" />
+    <release date="2021-05-01" version="3.0.6" />
+    <release date="2021-04-24" version="3.0.5" />
+    <release version="3.0.4" date="2021-04-07" />
+    <release version="3.0.3" date="2021-04-01" />
+    <release version="3.0.2" date="2021-03-01" />
+    <release date="2021-02-26" version="3.0.1" />
+    <release version="3.0.0" date="2021-02-12" />
+    <release date="2020-12-15" version="2.2.2" />
+    <release date="2020-12-14" version="2.2.1" />
+    <release version="2.2.0" date="2020-12-04" />
+    <release version="2.1.2" date="2020-10-12" />
+    <release date="2020-09-26" version="2.1.1" />
+    <release version="2.1.0" date="2020-09-12" />
+    <release version="2.0.1" date="2020-07-16" />
+    <release version="2.0.0" date="2020-07-14" />
+  </releases>
+</component>

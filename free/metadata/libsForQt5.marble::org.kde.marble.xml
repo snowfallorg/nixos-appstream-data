@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>libsForQt5.marble</pkgname>
+  <launchable type="desktop-id">org.kde.marble.desktop</launchable>
+  <icon width="64" type="cached" height="64">marble.png</icon>
+  <icon type="cached" width="128" height="128">marble.png</icon>
+  <id>org.kde.marble.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>LGPL-2.1-or-later</project_license>
+  <name>Marble</name>
+  <name lang="ar">ماربل</name>
+  <name lang="bs">Marble</name>
+  <name lang="ca">Marble</name>
+  <name lang="ca-valencia">Marble</name>
+  <name lang="cs">Marble</name>
+  <name lang="da">Marble</name>
+  <name lang="de">Marble</name>
+  <name lang="el">Marble</name>
+  <name lang="en-GB">Marble</name>
+  <name lang="eo">Marble</name>
+  <name lang="es">Marble</name>
+  <name lang="et">Marble</name>
+  <name lang="fi">Marble</name>
+  <name lang="fr">Marble</name>
+  <name lang="gl">Marble</name>
+  <name lang="id">Marble</name>
+  <name lang="it">Marble</name>
+  <name lang="ko">Marble</name>
+  <name lang="lt">Marble</name>
+  <name lang="nds">Marble</name>
+  <name lang="nl">Marble</name>
+  <name lang="nn">Marble</name>
+  <name lang="pa">ਮਾਰਬਲ</name>
+  <name lang="pl">Marble</name>
+  <name lang="pt">Marble</name>
+  <name lang="pt-BR">Marble</name>
+  <name lang="ru">Marble</name>
+  <name lang="sk">Marble</name>
+  <name lang="sl">Marble</name>
+  <name lang="sv">Marble</name>
+  <name lang="tr">Marble</name>
+  <name lang="uk">Marble</name>
+  <name lang="x-test">xxMarblexx</name>
+  <name lang="zh-CN">Marble 虚拟地球仪</name>
+  <name lang="zh-TW">地球儀_Marble</name>
+  <summary>Virtual Globe</summary>
+  <summary lang="ar">كرة أرضية افتراضية</summary>
+  <summary lang="bs">Virtualni globus</summary>
+  <summary lang="ca">Globus terraqüi virtual</summary>
+  <summary lang="ca-valencia">Globus terraqüi virtual</summary>
+  <summary lang="cs">Virtuální glóbus</summary>
+  <summary lang="da">Virtuel globus</summary>
+  <summary lang="de">Virtueller Globus</summary>
+  <summary lang="el">Εικονική υδρόγειος</summary>
+  <summary lang="en-GB">Virtual Globe</summary>
+  <summary lang="eo">Virtuala Globuso</summary>
+  <summary lang="es">Globo virtual</summary>
+  <summary lang="et">Virtuaalgloobus</summary>
+  <summary lang="fi">Virtuaalinen maapallo</summary>
+  <summary lang="fr">Globe terrestre virtuel</summary>
+  <summary lang="gl">Globo virtual</summary>
+  <summary lang="id">Globe Virtual</summary>
+  <summary lang="it">Globo virtuale</summary>
+  <summary lang="ko">가상 지구본</summary>
+  <summary lang="lt">Virtualus gaublys</summary>
+  <summary lang="nds">Virtuell Globus</summary>
+  <summary lang="nl">Virtuele wereldbol</summary>
+  <summary lang="nn">Virtuell globus</summary>
+  <summary lang="pa">ਵੁਰਚੁਅਲ ਗਲੋਬ</summary>
+  <summary lang="pl">Wirtualna kula ziemska</summary>
+  <summary lang="pt">Globo Virtual</summary>
+  <summary lang="pt-BR">Globo Virtual</summary>
+  <summary lang="ru">Виртуальный глобус</summary>
+  <summary lang="sk">Virtuálny glóbus</summary>
+  <summary lang="sl">Navidezni globus</summary>
+  <summary lang="sv">Virtuell glob</summary>
+  <summary lang="tr">Sanal Küre</summary>
+  <summary lang="uk">Віртуальний глобус</summary>
+  <summary lang="x-test">xxVirtual Globexx</summary>
+  <summary lang="zh-CN">虚拟地球仪</summary>
+  <summary lang="zh-TW">虛擬地球儀</summary>
+  <description>
+    <p>Marble is a virtual globe and world atlas — your swiss army knife for maps that you can use to learn more about the Earth and other planets.</p>
+    <p>Explore the neighborhood with Marble's rich set of city and street level maps. Search for addresses and places of interest. Marble takes care of querying various search backends and presents their results in a unified view. Calculate pedestrian, bike and motorcar routes with ease — online and offline, with an arbitrary number of via points.</p>
+    <p>Start exploring the world. View clouds and sun shadow, follow satellites and space stations and display their orbits, all updated in real-time. Travel back in time and learn about historic views of our planet using maps from past centuries. Earth is not enough? Marble also offers maps of the moon and other planets.</p>
+  </description>
+  <description lang="ar">
+    <p>ماربل هو أطلس العالم وكرة أرضية - سكين الجيش السويسري الخاص بك للخرائط التي يمكنك استخدامها لمعرفة المزيد عن الأرض والكواكب الأخرى.</p>
+    <p>استكشف الحي مع مجموعة ماربل الغنية من خرائط مستوى المدينة والشارع. ابحث عن العناوين والأماكن التي تهمك. يعتني ماربل بالاستعلام خلفيات البحث المختلفة وعرض نتائجها في منظور موحد. احسب مسارات المشاة والدراجات والسيارات بسهولة - عبر الإنترنت وغير متصل، مع عدد عشوائي من نِقَاط عبر.</p>
+    <p>ابدأ في استكشاف العالم. اعرض الغيوم وظلال الشمس، وتابع الأقمار الصناعية والمحطات الفضائية واعرض مداراتها، وكلها محدثة في الوقت الفعلي. سافر عبر الزمن إلى الوراء وتعرف إلى المناظر التاريخية لكوكبنا باستخدام خرائط من القرون الماضية. الأرض لا تكفي؟ يقدم ماربل أيضًا خرائط للقمر والكواكب الأخرى.</p>
+  </description>
+  <description lang="bs">
+    <p>Istražite komšiluk sa bogatim skupom Marble gradskih mapa do nivoa ulice. Tražite adrese i znamenitosti. Marble brine o upitu različitih pretražnih pozadina i predstavlja svoje rezultate u jedinstvenom prikazu. Izračunajte pješačke, biciklističke i automobilske puteve sa lakoćom - sa i bez mreže sa proizvoljnim brojem tačaka preko kojih se prelazi.</p>
+    <p>Počnite istraživanje svijeta. Pogledajte oblake i sunčeve sijenke, pratite satelita i svemirske stanice i prikazujte njihove orbite, sve ažurirano u realnom vremenu. Putujte u prošlost i uče o istorijskim pogledima naše planete koristeći se kartama iz prošlih vijekova. Zemlja nije dovoljna? Marble takođe nudi mape Meseca i drugih planeta.</p>
+  </description>
+  <description lang="ca">
+    <p>El Marble és un globus terraqüi virtual i un atles mundial: la navalla suïssa dels mapes que es pot utilitzar per a aprendre més quant a la Terra i altres planetes.</p>
+    <p>Exploreu el veïnat amb el conjunt de mapes de carrers i ciutats del Marble. Cerqueu adreces i llocs d'interès. El Marble té cura de consultar diversos motors de cerca i mostra els seus resultats en una vista unificada. Calcula rutes a peu, en bicicleta i en automòbil amb facilitat: en línia i desconnectat, amb un nombre arbitrari de punts de pas.</p>
+    <p>Comenceu explorant el món. Vegeu els núvols i les ombres del sol, seguiu els satèl·lits i les estacions espacials, i visualitzeu les seves òrbites actualitzades en temps real. Viatgeu enrere en el temps i apreneu de les vistes històriques del nostre planeta utilitzant mapes de segles passats. La Terra no és suficient? El Marble també ofereix mapes de la Lluna i d'altres planetes.</p>
+  </description>
+  <description lang="ca-valencia">
+    <p>Marble és un globus terraqüi virtual i un atles mundial: la navalla suïssa dels mapes que es pot utilitzar per a aprendre més quant a la Terra i altres planetes.</p>
+    <p>Exploreu el veïnat amb el conjunt de mapes de carrers i ciutats de Marble. Busqueu adreces i llocs d'interés. Marble té cura de consultar diversos motors de busca i mostra els seus resultats en una vista unificada. Calcula rutes a peu, en bicicleta i en automòbil amb facilitat: en línia i desconnectat, amb un nombre arbitrari de punts de pas.</p>
+    <p>Comenceu explorant el món. Vegeu els núvols i les ombres del sol, seguiu els satèl·lits i les estacions espacials, i visualitzeu les seues òrbites actualitzades en temps real. Viatgeu enrere en el temps i apreneu de les vistes històriques del nostre planeta utilitzant mapes de segles passats. La Terra no és suficient? Marble també oferix mapes de la Lluna i d'altres planetes.</p>
+  </description>
+  <description lang="da">
+    <p>Marble er en virtuelt globus og verdensatlas — din personlige schweizerkniv til kort, som du kan bruge til at lære nyt om Jorden og andre planeter.</p>
+    <p>Udforsk nærområdet med Marbles righoldige sæt af kort på by- og gadeniveau. Søg efter adresser og interessepunkter. Marble sørger for at forespørge diverse backends og viser deres resultater i en forenet visning. Beregn nemt fodgænger-, cykel- og bilruter — online eller offline, med et vilkårligt antal via-punkter.</p>
+    <p>Begynd at udforske verden. Se skyer og solskygge, følg satellitter og rumstationer og vis deres kredsløb, alt sammen opdateret i realtid. Rejs tilbage i tiden og lær om historiske visninger af vores planet med brug af kort fra tidligere århundreder. Hvis Jorden ikke er nok, så tilbyder Marble også kort over Månen og andre planeter.</p>
+  </description>
+  <description lang="de">
+    <p>Marble ist ein virtueller Globus und Weltatlas — Ihr leistungsfähiges Werkzeug für Karten. Sie können das Programm benutzen, um mehr der die Erde und andere Planeten zu lernen.</p>
+    <p>Erkunden Sie die Nachbarschaft mit Marbles reichhaltigem Satz an Stadt- und Straßenkarten. Suchen Sie nach interessanten Adressen und Orten. Marble kümmert sich um die Abfrage verschiedener Such-Module und stellt deren Ergebnisse in einer einheitlichen Ansicht dar. Berechnen Sie mühelos Fußgänger-, Fahrrad- und Autorouten - online und offline, mit einer beliebigen Anzahl von Zwischenzielen.</p>
+    <p>Beginnen Sie mit der Erkundung der Welt. Betrachten Sie Wolken und Sonnenschatten, folgen Sie Satelliten und Raumstationen und zeigen Sie deren Umlaufbahnen an, alles in Echtzeit aktualisiert. Reisen Sie in der Zeit zurück und erfahren Sie mehr über historische Ansichten unseres Planeten anhand von Karten aus vergangenen Jahrhunderten. Die Erde ist nicht genug? Marble bietet auch Karten des Mondes und anderer Planeten.</p>
+  </description>
+  <description lang="el">
+    <p>Το Marble είναι μια εικονική υδρόγειος σφαίρα και παγκόσμιος άτλας — το απόλυτο εργαλείο για χάρτες με το οποίο μπορείτε να μάθετε για τη Γη και για άλλους πλανήτες.</p>
+    <p>Εξερευνήστε τξ γειτονιά με το πλούσιο σύνολο χαρτών του Marble σε επίπεδο πόλης και οδικού δικτύου. Αναζητήστε διευθύνσεις και τόπους ενδιαφέροντος. Το Marble φροντίζει για τα ερωτήματα σε διάφορα συστήματα υποστήριξης αναζητήσεων και παρουσιάζει τα αποτελέσματα σε μια ενοποιημένη όψη. Υπολογίστε δόμους πεζοπορίας, ποδηλατικούς και δικύκλων με ευκολία — σε διαδικτυακή σύνδεση ή όχι με έναν αυθαίρεοτ πλήθος οδικών σημείων.</p>
+    <p>Αρχίστρ να εξερευνάτε τον κόσμο. Δείτε τα σύννεφα και τις ηλιακές σκιάσεις, ακολουθήστε τους δορυφόρους και τους διαστημικούς σταθμούς και εμφανίστε τις τροχιές τους, όλα με ενημέρωση σε πραγματικό χρόνο. Ταξιδέψτε στο παρελθόν και μάθετε για τις ιστορικές απόψεις του πλανήτη μας με χρήση χαρτών από περασμένους αιώνες. Η Γη δεν σας είναι αρκετή; Το Marble προσφέρει και χάρτες άλλων πλανητών και της σελήνης.</p>
+  </description>
+  <description lang="en-GB">
+    <p>Marble is a virtual globe and world atlas — your Swiss army knife for maps that you can use to learn more about the Earth and other planets.</p>
+    <p>Explore the neighborhood with Marble's rich set of city and street level maps. Search for addresses and places of interest. Marble takes care of querying various search backends and presents their results in a unified view. Calculate pedestrian, bike and motorcar routes with ease — online and offline, with an arbitrary number of via points.</p>
+    <p>Start exploring the world. View clouds and sun shadow, follow satellites and space stations and display their orbits, all updated in real-time. Travel back in time and learn about historic views of our planet using maps from past centuries. Earth is not enough? Marble also offers maps of the moon and other planets.</p>
+  </description>
+  <description lang="eo">
+    <p>Eksploru la najbarejon per la riĉa urb-kaj-strata maparo de Marble. Serĉu adresojn kaj interesejojn. Marble komprenas diversajn serĉmetodojn kaj prezentas iliajn rezultojn en uniigita vido. Facile kalkulu vojon por piedirantoj, biciklantoj kaj ŝoforojn - surreta aŭ eksterreta, kun pluraj survojaj punktoj.</p>
+    <p>Komencu malkovri la mondon. Vidu la nubojn kaj la sun-ombrojn, sekvu la satelitojn kaj kosmostaciojn kaj vidigu orbitojn, ĉiuj reeltempe. Vojaĵu tra la tempo kaj lernu pri historia vido de nia planedo per mapoj de la pasintaj jarcentoj. Ĉu Tero ne sufiĉas ? Marble ankaŭ proponas mapojn de la luno kaj aliaj planedoj.</p>
+  </description>
+  <description lang="es">
+    <p>Marble es un globo virtual y atlas mundial: su navaja suiza para los mapas que puede usar para aprender más sobre la Tierra y otros planetas.</p>
+    <p>Explore el vecindario con los completo conjunto de mapas de Marble para ciudades y a nivel de calle. Busque direcciones y lugares de interés. Marble se ocupa de consultar diversos motores de búsqueda y presenta sus resultados de una vista unificada. Calcule con facilidad rutas a pie, en bicicleta o en automóvil (tanto con conexión a Internet como sin ella, y usando diversos puntos de referencia).</p>
+    <p>Comience a explorar el mundo. Observe las sombras de las nubes y el sol, siga los satélites y las estaciones espaciales y muestre sus órbitas, actualizadas en tiempo real. Viaje al pasado y aprenda cosas sobre las vitas históricas de nuestro planeta usando mapas de hace siglos. ¿No tiene suficiente con la Tierra? Marble también le ofrece mapas de la Luna y de otros planetas.</p>
+  </description>
+  <description lang="et">
+    <p>Marble kujutab endast virtuaalset gloobust ja maailmaatlast - sinu parimat tööriista, kui tahad õppida lähemalt tundma maakera ja teisi planeete.</p>
+    <p>Marble rikkaliku linnade ja tänavate tasandil kaartidega võid uurida kas või oma naabruskonda. Otsida saab aadresse ja huvikohti. Marble hoolitseb päringute esitamise eest paljudele otsimise taustaprogrammidele ja esitab tulemused ühtses vaates. Äärmiselt lihtne on välja arvutada marsruute jalakäijana, jalgratturina või autosõitjana - nii võrgus olles kui ka ilma võrguta ning suvalise arvu vahepunktidega.</p>
+    <p>Maailma uurimine pole kunagi olnud lihtsam. Vaadelda võib pilvi ja päikese varju, jälgida satelliitide ja kosmosejaamade liikumist - kõike seda reaalajas uuenevalt. Võib aga ka rännata ajas tagasi ning uurida seda, kuidas vanasti meie planeeti ette kujutati, kaugemate sajandite kaartide vahendusel. Maakerast ei piisa? Marble pakub ka Kuu ja teiste planeetide kaarte.</p>
+  </description>
+  <description lang="fi">
+    <p>Marble on virtuaalinen maapallo ja maailmankartta – karttojen linkkuveitsi, jolla oppia lisää maapallosta ja muista planeetoista.</p>
+    <p>Tutki naapurustoa Marblen monipuolisilla kaupunki- ja katukartoilla. Hae osoitteita ja karttakohteita. Marble huolehtii haun suorittamisesta useilla hakukoneilla ja esittää kaikki tulokset yhdessä. Hae reittiohjeet helposti, kuljitpa jalan, pyörällä tai moottoriajoneuvolla – niin verkkoyhteydessä kuin ilmankin, rajattomalla määrällä välietappeja.</p>
+    <p>Ala tutkia maailmaa. Katsele pilviä ja auringon varjoa, seuraa satelliitteja ja avaruusasemia sekä katso niiden kiertoratoja; kaikki on reaaliaikaista. Matkusta menneisyyteen ja opi planeettamme historiallisista näkymistä katselemalla menneiden vuosisatojen karttoja. Eikö Maa riitä? Marblessa on myös Kuun ja muiden planeettojen karttoja.</p>
+  </description>
+  <description lang="fr">
+    <p>Marble est un globe terrestre virtuel et un atlas mondial — votre couteau suisse pour les cartes, que vous pouvez utiliser pour en apprendre plus sur la Terre et les autres planètes.</p>
+    <p>Explorez le voisinage avec les cartes détaillées des villes et des rues de Marble. Cherchez des adresses et des lieux d'intérêt. Marble s'occupe d'interroger les différents moteurs de cartographie et vous présente les résultats d'une façon unifiée. Calculez facilement les itinéraires pour piétons, cycliste ou automobiliste — en ligne et hors ligne, avec un nombre arbitraire de points de passage.</p>
+    <p>Commencez à explorer le monde. Visualisez les nuages et l'ombre du soleil, suivez des satellites et des stations spatiales, et affichez leurs orbites, actualisées en temps-réel. Remontez le temps et affichez la vision du monde de jadis avec les cartes des siècles passés. La Terre ne vous suffit pas ? Marble offre également des cartes de la Lune et d'autres planètes.</p>
+  </description>
+  <description lang="gl">
+    <p>Marble é un globo terráqueo virtual e un atlas mundial. A navalla suíza dos mapas que lle permite aprender máis sobre a Terra e outros planetas.</p>
+    <p>Explore a veciñanza coa gran variedade de mapas metropolitanos e rexionais de Marble. Busque enderezos e lugares de interese. Marble ocúpase de utilizar as diversas infraestruturas de busca existentes, e mostra os resultados nunha vista unificada. Calcule rutas a pé, en bicicleta ou en coche facilmente, tanto por Internet como sen conexión, pasando por cantos puntos queira pasar.</p>
+    <p>Comece a explorar o mundo. Contemple as nubes e as sombras do Sol, siga os satélites e estacións espaciais e mostre as súas órbitas, todo actualizado en tempo real. Viaxe ao pasado e descubra as visións históricas do planeta usando mapas doutros séculos. E se non lle abonda coa Terra, tamén ten á súa disposición mapas da Lúa e doutros planetas.</p>
+  </description>
+  <description lang="id">
+    <p>Marble adalah bola dunia dan atlas dunia — pisau tentara Swiss Anda untuk peta yang dapat Anda gunakan untuk mempelajari selebihnya tentang Bumi dan planet lainnya.</p>
+    <p>Jelajahi lingkungan dengan seperangkat peta tingkat kota dan jalan dengan Marble yang kaya. Cari alamat dan tempat menarik. Marble menangani permintaan berbagai layanan pencarian dan menyajikan hasilnya dalam tampilan terpadu. Kalkulasi rute pejalan kaki, sepeda dan motor dengan mudah — daring dan luring, dengan jumlah via titik sesukanya.</p>
+    <p>Mulailah menjelajahi dunia. Lihat awan dan bayangan matahari, ikuti satelit dan stasiun ruang angkasa dan tampilkan orbitnya, semua diperbarui secara waktu nyata. Jelajahi masa lalu dan pelajari tentang pemandangan bersejarah planet kita menggunakan peta dari abad yang lalu. Bumi tidak cukup? Marble juga menawarkan peta rembulan dan planet lain.</p>
+  </description>
+  <description lang="it">
+    <p>Marble è un globo virtuale e un atlante del mondo — il tuo coltellino svizzero per le mappe che puoi usare per imparare di più sulla Terra e sugli altri pianeti.</p>
+    <p>Esplora i dintorni usando le mappe dettagliate di Marble di città e strade. Cerca indirizzi e luoghi di interesse. Marble si occupa di interrogare vari servizi di ricerca e di presentarne i risultati. Calcola facilmente itinerari a piedi, in bicicletta e in auto — in linea e in locale, usando un numero arbitrario di punti.</p>
+    <p>Inizia ad esplorare il mondo. Visualizza le nuvole e l'ombra del Sole, segui i satelliti e le stazioni spaziali e mostra le loro orbite -- tutto aggiornato in tempo reale. Viaggia indietro nel tempo e impara le viste storiche del nostro pianeta usando le mappe dei secoli scorsi. La Terra non ti basta? Marble offre anche le mappe della Luna e degli altri pianeti.</p>
+  </description>
+  <description lang="ko">
+    <p>Marble은 지구를 더 자세히 알아볼 수 있는 가상 지구본 및 세계 지도입니다. 지구와 다른 행성을 더 자세히 알아볼 수 있는 지도의 스위스 칼입니다.</p>
+    <p>Marble의 도시와 거리 지도를 통해서 동네를 탐험하십시오. 주소와 장소로 검색할 수 있습니다. Marble은 다양한 백엔드 검색을 지원하며 통합된 형태로 결과를 볼 수 있습니다. 온라인 및 오프라인으로 원하는 대로 경유점을 설정하여 도보, 자전거, 도로 길찾기를 쉽게 할 수 있습니다.</p>
+    <p>세계를 탐험해 보십시오. 구름과 해 그림자를 보고, 인공 위성, 우주 정거장을 실시간으로 추적하고 궤도를 볼 수 있습니다. 과거에 제작된 지도를 통해서 시간 여행을 하고 우리 행성의 이전 모습을 볼 수 있습니다. 지구로는 부족하신가요? Marble에서는 달과 다른 행성을 볼 수도 있습니다.</p>
+  </description>
+  <description lang="nds">
+    <p>Mit Marble kannst Du Di de Ümgeven mit Marble sien groot Sett vun Land- un Stratenkoorten ankieken un na Adressen un intressante Steden söken. Marble bruukt en Reeg verscheden Söök-Hülpprogrammen un wiest de Resultaten as een Ansicht. Du kannst ok Weeg för Fohrrad, Auto oder Tofoot eenfach utreken – to- un ok afkoppelt, un ok mit so veel Twischenstatschonen, as Du dat wullt.</p>
+    <p>Kiek Di de Welt an, de Wulken un den Sünnschadden, beluur Satelliten un Ruumstatschonen un kiek Di ehr Ümloopbahnen an, all in Echttiet opfrischt. Gah in de Tiet torüch un kiek Di histoorsch Ansichten vun de Eer mit histoorsch Koorten ut de verleden Johrhunnerten an. De Eer is Di nich noog? Marble hett ok Koorten för den Maand un anner Planeten.</p>
+  </description>
+  <description lang="nl">
+    <p>Marble is een virtuele wereldbol en wereldatlas  — uw Zwitsers zakmes voor kaarten die u kunt gebruiken om meer te leren over de Aarde en andere planeten.</p>
+    <p>Verken de omgeving met de rijke verzameling aan kaarten op stad- en straatniveau van Marble. Zoek interessante adressen en plaatsen op. Marble zoekt met diverse zoekprogramma's en presenteert de resultaten in een eenduidig overzicht. Bereken met gemak routes voor voetgangers, fietsers en auto's — online en offline, en met een willekeurig aantal via-punten.</p>
+    <p>Begin de wereld te verkennen. Zie wolken en zonschaduw, volg satellieten en ruimtestations, en toon de omloopbanen, alle in werkelijke tijd bijgehouden. Reis terug in de tijd, en maak kennis met hoe onze planeet er vroeger uitzag, gebruik makend van kaarten uit vroegere eeuwen. Is de Aarde niet voldoende? Marble bevat ook kaarten van de maan en andere planeten.</p>
+  </description>
+  <description lang="pl">
+    <p>Marble jest wirtualną kulą ziemską i atlasem świata - twoim scyzorykiem od map, którego możesz wykorzystać do większego poznania Ziemi i innych planet.</p>
+    <p>Poznawaj okolicę z bogatym zestawem map Marble na poziomie miast i ulic. Szukaj adresów i interesujących miejsc. Marble przejmuje zadania odpytywania różnych wyszukiwarek i przedstawia ich wyniki w ujednoliconym widoku. Obliczaj trasy na piechotę, rowerem i zmotoryzowane - będąc w sieci i poza nią, z dowolną liczbą punktów pośrednich.</p>
+    <p>Zacznij poznawać świat. Oglądaj chmury i cień słońca, podążaj za satelitami i stacjami kosmicznymi, których orbity można wyświetlić, a wszystko to jest uaktualniane w czasie rzeczywistym. Przenieś się wstecz w czasie i poznaj widoki historyczne naszej planety przy użyciu map z minionych wieków. Ziemia to nie wszystko? Marble zawiera także mapy księżyca i innych planet.</p>
+  </description>
+  <description lang="pt">
+    <p>O Marble é um globo virtual e um atlas mundial — o seu canivete-suíço para mapas, que poderá usar para aprender mais sobre a Terra e os outros planetas.</p>
+    <p>Explore a vizinhança com o rico conjunto de mapas de cidades e ruas do Marble. Procure por endereços e locais de interesse. O Marble toma conta da consulta de várias infra-estruturas de busca e apresenta os seus resultados de forma unificada. Calcule trajectos pedestres, de bicicleta e automóveis com facilidade — tanto 'online' como 'offline', com uma quantidade arbitrária de pontos de trajecto.</p>
+    <p>Comece a explorar o mundo. Veja as nuvens e a sombra do Sol, siga os satélites e estações espaciais, mostrando as suas órbitas, com uma actualização em tempo-real. Volte atrás no tempo e aprenda algumas vistas históricas do nosso planeta, usando mapas dos séculos passados. A Terra não é suficiente? O Marble também oferece mapas da Lua e de outros planetas.</p>
+  </description>
+  <description lang="pt-BR">
+    <p>Marble é um globo virtual e um atlas mundial — seu canivete-suíço para mapas que você pode usar para aprender mais sobre a Terra e outros planetas.</p>
+    <p>Explore a vizinhança com o rico conjunto de mapas de cidades e ruas do Marble. Pesquise por endereços e locais de interesse. O Marble faz a consulta em várias infraestruturas de pesquisa e apresenta os resultados de forma unificada. Calcule trajetos para pedestre, bicicleta e automóveis com facilidade — online e offline, com uma quantidade predefinida de pontos de passagem.</p>
+    <p>Comece a explorar o mundo. Veja as nuvens e a sombra do Sol, siga os satélites e estações espaciais, mostrando suas órbitas, com atualização em tempo-real. Volte no tempo e aprenda história sobre nosso planeta, usando mapas dos séculos passados. A Terra não é suficiente? O Marble também oferece mapas da Lua e de outros planetas.</p>
+  </description>
+  <description lang="ru">
+    <p>Marble — виртуальный глобус и атлас мира, многофункциональная программа для работы с картами, позволяющая узнать больше о планете Земля и других планетах.</p>
+    <p>Исследуйте свой район с помощью множества карт, поддерживаемых Marble. Возможен поиск адресов и мест. Проложить маршрут можно как с подключением к Интернету, так и без него. Учитываются особенности передвижения пешком, на велосипеде или на автомобиле, а также допускается неограниченное число промежуточных точек маршрута.</p>
+    <p>Изучайте мир. Просматривайте карту облачности и тени солнечного света. Перемещайтесь по карте в привязке к спутникам или космическим станциям. Просматривайте исторические карты. Если на Земле не осталось неизведанного вами уголка, откройте карту другой планеты или Луны.</p>
+  </description>
+  <description lang="sk">
+    <p>Marble je virtuálny glóbus a atlas sveta - váš švajčiarsky nožík pre mapy, ktorý môžete použiť na získanie ďalších informácií o Zemi a ostatných planétach.</p>
+    <p>Preskúmajte okolie s bohatou sadou máp miest a ulíc. Hľadajte adresy a body záujmu. Marble sa stará o dotazovanie rôznych backendov a prezentuje ich výsledky v zjednotenom pohľade. Vypočítajte pešie, cyklistické a automobilové cesty s ľahkosťou - online a offline, s ľubovoľným počtom bodov.</p>
+    <p>Začnite skúmať svet. Prezrite si oblaky a slnečné tiene, sledujte satelity a vesmírne stanice a zobrazte si ich orbity, všetky aktualizované v reálnom čase. Cestujte späť v čase a pozrite si historické pohľady na našu planétu pomocou máp z minulých storočí. Nestačí vám Zem? Marble ponúka aj mapy Mesiaca a iných planét.</p>
+  </description>
+  <description lang="sl">
+    <p>Marble je navidezni globus in atlas sveta - vaš švicarski nož za zemljevide, da se lahko naučite več o Zemlji in drugih planetih.</p>
+    <p>S pomočjo bogatega nabora zemljevidov mest in ulic lahko raziskujete okolico. Najdete lahko naslove in zanimiva mesta. Marble poizveduje preko različnih iskalnih zaledij in predstavi njihove rezultate v enotnem prikazu. V povezanem ali nepovezanem načinu lahko izračunate pešpoti, poti s kolesom ali poti z avtomobilom s poljubnim številom vmesnih točk.</p>
+    <p>Začnite raziskovati svet. Oglejte si oblake in sence Sonca, sledite satelitom ter vesoljskim postajam in prikažite njihove krožnice - vse v realnem času. Potujte nazaj v preteklost in se podučite o zgodovinskih pogledih na naš planet s pomočjo zgodovinskih zemljevidov. Vam Zemlja ni dovolj? Marble ponuja tudi karte Lune in drugih planetov.</p>
+  </description>
+  <description lang="sv">
+    <p>Marble är en virtuell jordglob och världsatlas - det generella kartverktyget som kan användas för att lära sig mer om jorden och andra planeter.</p>
+    <p>Utforska grannskapet med den omfattande mängden stads- och vägkartor i Marble. Sök efter adresser och intressanta platser. Marble tar hand om att fråga diverse söktjänster och presentera resultaten i en gemensam vy. Beräkna gång-, cykel- och bilvägar med lätthet — uppkopplad och nedkopplad, med godtyckligt antal vägpunkter.</p>
+    <p>Börja utforska världen. Titta på moln och solskuggor, följ satelliter och rymdstationer och visa deras banor, allt uppdaterat i realtid. Res tillbaka i tiden och lär dig om historiska vyer av planeten genom att använda kartor från gångna århundraden. Räcker det inte med jorden? Marble erbjuder också kartor över månen och andra planeter.</p>
+  </description>
+  <description lang="tr">
+    <p>Marble bir sanal küre ve dünya atlasıdır — haritaların İsviçre çakısıdır. Dünya ve diğer gezegenler hakkında bir sürü yeni şey öğrenebilirsiniz.</p>
+    <p>Marble'ın zengin şehir ve cadde seviyesindeki haritaları ile çevreyi inceleyin. Adresleri ve ilginizi çeken yerleri arayın. Marble, çeşitli arama arka uçlarıyla sorgulamaları ve birleşik bir görünüm ile kendi sonuçlarını göstermektedir. Çevrimiçi ve çevrimdışı şekilde, yaya, bisiklet ve motorlu taşıt rotalarını kolayca hesaplar.</p>
+    <p>Dünyayı incelemeye başlayın. Bulutları ve güneş gölgelerini görün, uyduları ve uzay istasyonlarını takip edin, ayrıca yörüngelerini de gerçek zamanlı takip edebilirsiniz. Geçmişe dönük yolculuk yapın ve geçmiş yüzyıllardan kullanılan haritalar ile gezegenimizin tarihsel görünümleri hakkında bilgi sahibi olun. Dünya yeterli değil mi? Marble ayrıca, ayın ve diğer gezegenlerin haritalarını da önerir.</p>
+  </description>
+  <description lang="uk">
+    <p>Marble — віртуальний глобус та атлас світу, — ваш універсальний інструмент для роботи з картами, яким ви можете скористатися для вивчення Землі та інших планет.</p>
+    <p>Вивчайте околиці за допомогою широкого набору карт Marble. Шукайте цікаві адреси і місця. Marble може виконувати обробку запитів до декількох модулів пошуку одночасно і показувати єдиний список результатів пошуку. Ви можете без проблем складати пішохідні, велосипедні та автомобільні маршрути за допомогою інтернет-служб та без них, визначаючи довільну кількість проміжних пунктів маршруту.</p>
+    <p>Почніть вивчення світу. Спостерігайте за хмарами та зміною дня і ночі, стежте за супутниками та космічними станціями: програма здатна показувати орбіти штучних супутників та оновлює дані у режимі реального часу. Подорожуйте у часі і вивчайте давні карти нашої планети. Землі вже замало? За допомогою ви можете переглядати карти Місяця та інших планет.</p>
+  </description>
+  <description lang="x-test">
+    <p>xxMarble is a virtual globe and world atlas — your swiss army knife for maps that you can use to learn more about the Earth and other planets.xx</p>
+    <p>xxExplore the neighborhood with Marble's rich set of city and street level maps. Search for addresses and places of interest. Marble takes care of querying various search backends and presents their results in a unified view. Calculate pedestrian, bike and motorcar routes with ease — online and offline, with an arbitrary number of via points.xx</p>
+    <p>xxStart exploring the world. View clouds and sun shadow, follow satellites and space stations and display their orbits, all updated in real-time. Travel back in time and learn about historic views of our planet using maps from past centuries. Earth is not enough? Marble also offers maps of the moon and other planets.xx</p>
+  </description>
+  <description lang="zh-CN">
+    <p>Marble 是一款虚拟地球仪和世界地图应用程序。它具备与地图相关的各种功能，为用户了解地球以及其他行星提供了有力工具。</p>
+    <p>Marble 提供了丰富多彩的城市和街道地图来帮助您探索周边区域，搜索地址和名胜。Marble 可以管理多种不同后端程序的查询请求，并在统一的视图中显示结果。它还能够简便地计算步行、骑行和驾驶路线，支持在线和离线使用，并可设置途径点。</p>
+    <p>Marble 能够让您尽情探索世界。它能显示云层和太阳阴影，实时跟踪卫星和空间站并显示它们的轨道。您还可以使用旧世纪的历史地图来领略先人对地球的认知。如果地球已经无法满足您的好奇心，Marble 还提供了月球和其他行星的地图。</p>
+  </description>
+  <description lang="zh-TW">
+    <p>Marble 是一套虛擬地球儀與世界地圖集 — 如同您的地圖瑞士軍刀，能學習關於地球和其他星球的更多資訊。</p>
+    <p>透過 Marble 豐富的城市與街道地圖來探索您的鄰近地區。可以搜尋地址與有趣的地方。Marble 有多個不同的搜尋後端介面，並將它們的搜尋結果在統一的檢視介面中顯示。您也可以輕鬆計算走路、騎車或開車的路徑，設定經過點，甚至可以離線作業。</p>
+    <p>開始探索世界吧！檢視雲與太陽的陰影，跟著衛星與太空站顯示的軌道，所有的一切都是即時更新。時光旅行回到過去，看看過去的地圖上的旅程。地球不夠看嗎？Marble 也提供了月球與其他星球的地圖喔！</p>
+  </description>
+  <url type="homepage">https://marble.kde.org/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=marble</url>
+  <url type="faq">https://techbase.kde.org/Projects/Marble/FAQ</url>
+  <url type="help">https://marble.kde.org/support.php</url>
+  <url type="donation">https://www.kde.org/community/donations/?app=marble&amp;source=appdata</url>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Earth globe in Marble</caption>
+      <caption lang="ar">الكرة الأرضية في ماربل</caption>
+      <caption lang="ca">Globus terraqüi al Marble</caption>
+      <caption lang="ca-valencia">Globus terraqüi a Marble</caption>
+      <caption lang="da">Jordglobus i Marble</caption>
+      <caption lang="de">Erdglobus in Marble</caption>
+      <caption lang="el">Η υδρόγειος στο Marble</caption>
+      <caption lang="en-GB">Earth globe in Marble</caption>
+      <caption lang="es">Globo terrestre en Marble</caption>
+      <caption lang="et">Maakera Marbles</caption>
+      <caption lang="fi">Pallokartta Marblessa</caption>
+      <caption lang="fr">Globe terrestre dans Marble</caption>
+      <caption lang="gl">Globo terráqueo en Marble</caption>
+      <caption lang="id">Globe bumi di Marble</caption>
+      <caption lang="it">Il globo terrestre in Marble</caption>
+      <caption lang="ko">Marble로 본 지구본</caption>
+      <caption lang="nl">Wereldbol in Marble</caption>
+      <caption lang="pa">ਮਾਰਬਲ ਵਿੱਚ ਧਰਤੀ ਦਾ ਗਲੋਬ</caption>
+      <caption lang="pl">Ziemia w Marble</caption>
+      <caption lang="pt">Globo terrestre no Marble</caption>
+      <caption lang="pt-BR">Globo terrestre no Marble</caption>
+      <caption lang="ru">Земной шар в Marble</caption>
+      <caption lang="sk">Zemeguľa v Marble</caption>
+      <caption lang="sl">Globus v Marble</caption>
+      <caption lang="sv">Jordgloben i Marble</caption>
+      <caption lang="tr">Marble'da Yerküre</caption>
+      <caption lang="uk">Глобус Землі у вікні Marble</caption>
+      <caption lang="x-test">xxEarth globe in Marblexx</caption>
+      <caption lang="zh-CN">Marble 的地球仪</caption>
+      <caption lang="zh-TW">Marble 中的球狀地球</caption>
+      <image>https://cdn.kde.org/screenshots/marble/marble.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>marble</binary>
+  </provides>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release date="2022-07-07" version="22.04.3" />
+    <release date="2022-06-09" version="22.04.2" />
+    <release version="22.04.1" date="2022-05-12" />
+    <release version="22.04.0" date="2022-04-21" />
+  </releases>
+</component>
