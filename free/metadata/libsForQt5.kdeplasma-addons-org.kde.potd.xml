@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>libsForQt5.kdeplasma-addons</pkgname>
+  <id>org.kde.potd</id>
+  <extends>org.kde.plasmashell</extends>
+  <name>Picture of the Day</name>
+  <name lang="ar">صورة اليوم</name>
+  <name lang="ast">Semeya del día</name>
+  <name lang="az">Günün şəkli</name>
+  <name lang="bg">Изображение на деня</name>
+  <name lang="bs">Slika dana</name>
+  <name lang="ca@valencia">Imatge del dia</name>
+  <name lang="ca">Imatge del dia</name>
+  <name lang="cs">Obrázek dne</name>
+  <name lang="da">Dagens billede</name>
+  <name lang="de">Bild des Tages</name>
+  <name lang="el">Φωτογραφία της ημέρας</name>
+  <name lang="en_GB">Picture of the Day</name>
+  <name lang="es">Imagen del día</name>
+  <name lang="et">Päevapilt</name>
+  <name lang="eu">Eguneko irudia</name>
+  <name lang="fi">Päivän kuva</name>
+  <name lang="fr">Image du jour</name>
+  <name lang="ga">Grianghraf an Lae</name>
+  <name lang="gl">Imaxe do día</name>
+  <name lang="he">תמונת היום</name>
+  <name lang="hr">Slika dana</name>
+  <name lang="hu">A nap képe a Flickr-ön</name>
+  <name lang="ia">Photo de die</name>
+  <name lang="id">Gambar Harian</name>
+  <name lang="is">Myndir dagsins</name>
+  <name lang="it">Immagine del giorno</name>
+  <name lang="ja">今日の写真</name>
+  <name lang="kk">Тәулік суреті</name>
+  <name lang="km">រូបភាពប្រចាំថ្ងៃ</name>
+  <name lang="ko">오늘의 그림</name>
+  <name lang="lt">Dienos paveikslas</name>
+  <name lang="lv">Dienas attēls</name>
+  <name lang="mr">दिवसाचे चित्र</name>
+  <name lang="nb">Dagens bilde</name>
+  <name lang="nds">Bild för Vundaag</name>
+  <name lang="nl">Afbeelding van de dag</name>
+  <name lang="nn">Dagens bilete</name>
+  <name lang="pa">ਅੱਜ ਦੀ ਤਸਵੀਰ</name>
+  <name lang="pl">Obraz dnia</name>
+  <name lang="pt">Imagem do Dia</name>
+  <name lang="pt_BR">Imagem do dia</name>
+  <name lang="ro">Imaginea zilei</name>
+  <name lang="ru">Изображение дня</name>
+  <name lang="sk">Obrázok dňa</name>
+  <name lang="sl">Slika dneva</name>
+  <name lang="sr@ijekavian">слика дана</name>
+  <name lang="sr@ijekavianlatin">slika dana</name>
+  <name lang="sr@latin">slika dana</name>
+  <name lang="sr">слика дана</name>
+  <name lang="sv">Dagens bild</name>
+  <name lang="tr">Günün Resmi</name>
+  <name lang="uk">Картинка дня</name>
+  <name lang="vi">Ảnh của ngày</name>
+  <name lang="wa">Imådje do djoû</name>
+  <name lang="x-test">xxPicture of the Dayxx</name>
+  <name lang="zh_CN">每日一图</name>
+  <name lang="zh_TW">本日圖片</name>
+  <summary>A new picture from the Internet each day</summary>
+  <summary lang="ar">صورة من السابكة كل يوم</summary>
+  <summary lang="ast">Una semeya nueva d'internet caldía</summary>
+  <summary lang="az">İnternetdən hər gün yeni şəkil</summary>
+  <summary lang="bg">Ново изображение от интернет всеки ден</summary>
+  <summary lang="ca@valencia">Una imatge nova des d'Internet cada dia</summary>
+  <summary lang="ca">Una imatge nova des d'Internet cada dia</summary>
+  <summary lang="cs">Nový obrázek z internetu denně</summary>
+  <summary lang="da">Et nyt billede fra internettet hver dag</summary>
+  <summary lang="de">Täglich ein Bild aus dem Internet anzeigen</summary>
+  <summary lang="el">Κάθε μέρα μια νέα εικόνα από το διαδίκτυο</summary>
+  <summary lang="en_GB">A new picture from the Internet each day</summary>
+  <summary lang="es">Una nueva imagen de Internet cada día</summary>
+  <summary lang="et">Iga päev uus pilt internetist</summary>
+  <summary lang="eu">Irudi berri bat Internetetik egunero</summary>
+  <summary lang="fi">Joka päivä uusi kuva Internetistä</summary>
+  <summary lang="fr">Une nouvelle image chaque jour provenant d'Internet</summary>
+  <summary lang="gl">Mostra imaxes de Internet cada día</summary>
+  <summary lang="he">תמונות חדשות מהאינטרנט בכל יום</summary>
+  <summary lang="hu">Mindennap új kép az internetől</summary>
+  <summary lang="ia">Un nove photo ex le internet cata die</summary>
+  <summary lang="id">Sebuah gambar baru dari Internet setiap harinya</summary>
+  <summary lang="it">Una nuova immagine ogni giorno da Internet</summary>
+  <summary lang="ja">日替わりのインターネット上の写真</summary>
+  <summary lang="kk">Күнде Интернеттен жаңа сурет</summary>
+  <summary lang="ko">인터넷에서 매일 새 그림 가져오기</summary>
+  <summary lang="lt">Kasdieną naujas paveikslas iš interneto</summary>
+  <summary lang="nb">Et nytt bilde  fra Internett hver dag</summary>
+  <summary lang="nds">Elk Dag en nieg Bild ut dat Internet halen</summary>
+  <summary lang="nl">Elke dag een nieuw plaatje uit het internet</summary>
+  <summary lang="nn">Eit nytt bilete frå Internett kvar dag</summary>
+  <summary lang="pl">Każdego dnia nowe zdjęcie z internetu</summary>
+  <summary lang="pt">Uma nova imagem da Internet em cada dia</summary>
+  <summary lang="pt_BR">Uma nova imagem diária da Internet</summary>
+  <summary lang="ro">O nouă imagine din Internet în fiecare zi</summary>
+  <summary lang="ru">Новое изображение из Интернета каждый день</summary>
+  <summary lang="sk">Nový obrázok z Internetu každý deň</summary>
+  <summary lang="sl">Vsak dan nova slika z interneta</summary>
+  <summary lang="sr@ijekavian">Сваки дан нова слика са Интернета</summary>
+  <summary lang="sr@ijekavianlatin">Svaki dan nova slika sa Interneta</summary>
+  <summary lang="sr@latin">Svaki dan nova slika sa Interneta</summary>
+  <summary lang="sr">Сваки дан нова слика са Интернета</summary>
+  <summary lang="sv">En ny bild från Internet varje dag</summary>
+  <summary lang="tg">Ҳар рӯз рамсҳои навро аз Интернет тамошо кунед</summary>
+  <summary lang="tr">Her gün İnternet'ten yeni bir resim göster</summary>
+  <summary lang="uk">Нове зображення з інтернету щодня</summary>
+  <summary lang="vi">Mỗi ngày một ảnh mới từ Liên Mạng</summary>
+  <summary lang="x-test">xxA new picture from the Internet each dayxx</summary>
+  <summary lang="zh_CN">每天从互联网获取新图片</summary>
+  <summary lang="zh_TW">每天從網路上顯示新照片</summary>
+  <url type="homepage">https://kde.org/</url>
+  <url type="donation">https://www.kde.org/donate.php?app=org.kde.potd</url>
+  <developer_name>Weng Xuetian &lt;wengxt@gmail.com></developer_name>
+  <icon type="stock">office-calendar</icon>
+  <project_license>LGPL-2.1</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+</component>

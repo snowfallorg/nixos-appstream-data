@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>libsForQt5.milou</pkgname>
+  <id>org.kde.milou</id>
+  <extends>org.kde.plasmashell</extends>
+  <name>Search</name>
+  <name lang="ar">ابحث</name>
+  <name lang="bg">Търсене</name>
+  <name lang="bs">Pretrazivanje</name>
+  <name lang="ca@valencia">Busca</name>
+  <name lang="ca">Cerca</name>
+  <name lang="cs">Hledat</name>
+  <name lang="da">Søg</name>
+  <name lang="de">Suche</name>
+  <name lang="el">Αναζήτηση</name>
+  <name lang="en_GB">Search</name>
+  <name lang="es">Buscar</name>
+  <name lang="et">Otsing</name>
+  <name lang="eu">Bilatu</name>
+  <name lang="fi">Haku</name>
+  <name lang="fr">Recherche</name>
+  <name lang="gl">Buscar</name>
+  <name lang="hi">खोजें</name>
+  <name lang="hu">Keresés</name>
+  <name lang="ia">Cerca</name>
+  <name lang="id">Search</name>
+  <name lang="it">Ricerca</name>
+  <name lang="ka">ძებნა</name>
+  <name lang="ko">찾기</name>
+  <name lang="lt">Paieška</name>
+  <name lang="nb">Søk</name>
+  <name lang="nds">Söken</name>
+  <name lang="nl">Zoeken</name>
+  <name lang="nn">Søk</name>
+  <name lang="pa">ਖੋਜ</name>
+  <name lang="pl">Znajdź</name>
+  <name lang="pt">Pesquisa</name>
+  <name lang="pt_BR">Procurar</name>
+  <name lang="ro">Căutare</name>
+  <name lang="ru">Поиск</name>
+  <name lang="sk">Hľadať</name>
+  <name lang="sl">Poišči</name>
+  <name lang="sr@ijekavian">Претрага</name>
+  <name lang="sr@ijekavianlatin">Pretraga</name>
+  <name lang="sr@latin">Pretraga</name>
+  <name lang="sr">Претрага</name>
+  <name lang="sv">Sök</name>
+  <name lang="tr">Ara</name>
+  <name lang="uk">Пошук</name>
+  <name lang="x-test">xxSearchxx</name>
+  <name lang="zh_CN">查找</name>
+  <name lang="zh_TW">搜尋</name>
+  <summary>Search and Launch</summary>
+  <summary lang="ar">ابحث وشغل</summary>
+  <summary lang="bg">Търсене и стартиране</summary>
+  <summary lang="bs">Traženje i pokretanje</summary>
+  <summary lang="ca@valencia">Busca i inicia</summary>
+  <summary lang="ca">Cerca i llança</summary>
+  <summary lang="cs">Hledat a spustit</summary>
+  <summary lang="da">Søg og start</summary>
+  <summary lang="de">Suchen und ausführen</summary>
+  <summary lang="el">Αναζήτηση και εκτέλεση</summary>
+  <summary lang="en_GB">Search and Launch</summary>
+  <summary lang="es">Buscar y lanzar</summary>
+  <summary lang="et">Otsimine ja käivitamine</summary>
+  <summary lang="eu">Bilatu eta abiarazi</summary>
+  <summary lang="fi">Haku ja käynnistys</summary>
+  <summary lang="fr">Rechercher et lancer</summary>
+  <summary lang="gl">Buscar e iniciar</summary>
+  <summary lang="hi">खोजें एवं प्रारम्भ करें</summary>
+  <summary lang="hu">Keresés és indítás</summary>
+  <summary lang="ia">Cerca  e lancea</summary>
+  <summary lang="id">Cari dan Luncurkan</summary>
+  <summary lang="it">Cerca e avvia</summary>
+  <summary lang="ka">მოძებნა და გაშვება</summary>
+  <summary lang="ko">찾아서 실행하기</summary>
+  <summary lang="lt">Rasti ir paleisti</summary>
+  <summary lang="nb">Søk og start</summary>
+  <summary lang="nds">Söken un opropen</summary>
+  <summary lang="nl">Zoeken en starten</summary>
+  <summary lang="nn">Søk og køyr</summary>
+  <summary lang="pa">ਖੋਜੋ ਅਤੇ ਚਲਾਓ</summary>
+  <summary lang="pl">Znajdź i uruchom</summary>
+  <summary lang="pt">Pesquisar e Lançar</summary>
+  <summary lang="pt_BR">Pesquisa e executa</summary>
+  <summary lang="ro">Căutare și lansare</summary>
+  <summary lang="ru">Поиск и запуск</summary>
+  <summary lang="sk">Hľadať a spustiť</summary>
+  <summary lang="sl">Poišči in zaženi</summary>
+  <summary lang="sr@ijekavian">Претрага и покретање</summary>
+  <summary lang="sr@ijekavianlatin">Pretraga i pokretanje</summary>
+  <summary lang="sr@latin">Pretraga i pokretanje</summary>
+  <summary lang="sr">Претрага и покретање</summary>
+  <summary lang="sv">Sök och starta</summary>
+  <summary lang="tr">Ara ve Çalıştır</summary>
+  <summary lang="uk">Пошук і запуск</summary>
+  <summary lang="x-test">xxSearch and Launchxx</summary>
+  <summary lang="zh_CN">搜索和启动</summary>
+  <summary lang="zh_TW">搜尋並啟動</summary>
+  <url type="homepage">https://kde.org</url>
+  <url type="donation">https://www.kde.org/donate.php?app=org.kde.milou</url>
+  <developer_name>Vishesh Handa &lt;me@vhanda.in></developer_name>
+  <icon type="stock">system-search</icon>
+  <project_license>LGPL-2.1+</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+</component>

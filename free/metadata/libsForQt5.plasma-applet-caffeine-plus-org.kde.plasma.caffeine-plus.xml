@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>libsForQt5.plasma-applet-caffeine-plus</pkgname>
+  <id>org.kde.plasma.caffeine-plus</id>
+  <extends>org.kde.plasmashell</extends>
+  <name>Caffeine Plus</name>
+  <summary>Disable screensaver and auto suspend</summary>
+  <url type="homepage">plasma.kde.org</url>
+  <url type="donation">https://www.kde.org/donate.php?app=org.kde.plasma.caffeine-plus</url>
+  <developer_name>Gordon Yau &lt;qunxyz@gmail.com></developer_name>
+  <icon type="stock">caffeine-plus</icon>
+  <project_license>GPL-2.0</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+</component>

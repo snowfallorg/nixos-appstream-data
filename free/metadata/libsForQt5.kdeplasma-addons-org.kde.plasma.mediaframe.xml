@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>libsForQt5.kdeplasma-addons</pkgname>
+  <id>org.kde.plasma.mediaframe</id>
+  <extends>org.kde.plasmashell</extends>
+  <name>Media Frame</name>
+  <name lang="ar">إطار صور</name>
+  <name lang="az">Fotoçərçivə</name>
+  <name lang="bg">Медийна рамка</name>
+  <name lang="ca@valencia">Marc multimèdia</name>
+  <name lang="ca">Marc multimèdia</name>
+  <name lang="cs">Rámec médií</name>
+  <name lang="de">Medien-Rahmen</name>
+  <name lang="en_GB">Media Frame</name>
+  <name lang="es">Marco multimedia</name>
+  <name lang="eu">Multimedia markoa</name>
+  <name lang="fi">Mediakehys</name>
+  <name lang="fr">Trame de média</name>
+  <name lang="ia">Quadro de Media</name>
+  <name lang="id">Bingkai Media</name>
+  <name lang="it">Cornice media</name>
+  <name lang="ja">メディアフレーム</name>
+  <name lang="ko">미디어 프레임</name>
+  <name lang="lt">Medijos rėmelis</name>
+  <name lang="nl">Mediaframe</name>
+  <name lang="nn">Medie­ramme</name>
+  <name lang="pl">Ramka multimedialna</name>
+  <name lang="pt">Moldura de Conteúdos</name>
+  <name lang="pt_BR">Quadro multimídia</name>
+  <name lang="ro">Ramă multimedia</name>
+  <name lang="ru">Фоторамка</name>
+  <name lang="sk">Multimediálny rámik</name>
+  <name lang="sl">Okvir medijev</name>
+  <name lang="sv">Mediaram</name>
+  <name lang="tr">Ortam Çerçevesi</name>
+  <name lang="uk">Медіарамка</name>
+  <name lang="vi">Khung phương tiện</name>
+  <name lang="x-test">xxMedia Framexx</name>
+  <name lang="zh_CN">媒体相框</name>
+  <summary>(Picture) Frame</summary>
+  <summary lang="ar">إطار (الصورة)</summary>
+  <summary lang="az">(Şəkil) Çərçivə</summary>
+  <summary lang="bg">(Изображение) Рамка</summary>
+  <summary lang="ca@valencia">Marc (fotografies)</summary>
+  <summary lang="ca">Marc (fotografies)</summary>
+  <summary lang="cs">Rámeček (obrázku)</summary>
+  <summary lang="de">(Bilder)-Rahmen</summary>
+  <summary lang="en_GB">(Picture) Frame</summary>
+  <summary lang="es">Marco (de imagen)</summary>
+  <summary lang="eu">(Irudi) markoa</summary>
+  <summary lang="fi">(Kuva-) kehys</summary>
+  <summary lang="fr">Trame (Image)</summary>
+  <summary lang="ia">(Picture) Frame - (Photogramma)</summary>
+  <summary lang="id">(Gambar) Bingkai</summary>
+  <summary lang="it">(Immagine) Cornice</summary>
+  <summary lang="ja">写真フレーム</summary>
+  <summary lang="ko">(사진) 프레임</summary>
+  <summary lang="lt">Paveikslų rėmelis</summary>
+  <summary lang="nl">(Afbeelding) frame</summary>
+  <summary lang="nn">Bilet­ramme</summary>
+  <summary lang="pl">(Zdjęcie) Ramka</summary>
+  <summary lang="pt">Moldura (Imagem)</summary>
+  <summary lang="pt_BR">Quadro (Imagens)</summary>
+  <summary lang="ro">Ramă (cu poze)</summary>
+  <summary lang="ru">Слайд-шоу из любимых изображений</summary>
+  <summary lang="sk">(Obrázok) Rám</summary>
+  <summary lang="sl">(Slika) Okvir</summary>
+  <summary lang="sv">Bildram</summary>
+  <summary lang="tr">(Resim) Çerçeve(si)</summary>
+  <summary lang="uk">(Картинна) рамка</summary>
+  <summary lang="vi">Khung (ảnh)</summary>
+  <summary lang="x-test">xx(Picture) Framexx</summary>
+  <summary lang="zh_CN">(图片) 相框</summary>
+  <url type="homepage">https://kde.org/plasma-desktop/</url>
+  <url type="donation">https://www.kde.org/donate.php?app=org.kde.plasma.mediaframe</url>
+  <developer_name>Lars Pontoppidan &lt;dev.larpon@gmail.com></developer_name>
+  <icon type="stock">image-x-generic</icon>
+  <project_license>GPL-2.0+</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+</component>

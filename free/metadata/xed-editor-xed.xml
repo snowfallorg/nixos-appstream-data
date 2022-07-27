@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>xed-editor</pkgname>
+  <launchable type="desktop-id">xed.desktop</launchable>
+  <id>xed.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Xed</name>
+  <summary>A Text Editor</summary>
+  <summary lang="am">ጽሁፍ ማረሚያ</summary>
+  <summary lang="ar">محرر النص</summary>
+  <summary lang="be">Тэкставы рэдактар</summary>
+  <summary lang="bg">Редактор на текст</summary>
+  <summary lang="ca">Un editor de text</summary>
+  <summary lang="ca@valencia">Un editor de text</summary>
+  <summary lang="cs">Textový editor</summary>
+  <summary lang="cy">Golygydd Testun</summary>
+  <summary lang="da">Et tekstredigeringsprogram</summary>
+  <summary lang="de">Eine Textbearbeitung</summary>
+  <summary lang="el">Μια Εφαρμογή Επεξεργασίας Κειμένου</summary>
+  <summary lang="en_GB">A Text Editor</summary>
+  <summary lang="eo">Teksta redaktilo</summary>
+  <summary lang="es">Un editor de texto</summary>
+  <summary lang="et">Tekstiredaktor</summary>
+  <summary lang="eu">Testu-editorea</summary>
+  <summary lang="fi">Tekstimuokkain</summary>
+  <summary lang="fr">Un éditeur de texte</summary>
+  <summary lang="fr_CA">Un éditeur de texte</summary>
+  <summary lang="he">עורך מלל</summary>
+  <summary lang="hi">एक टेक्स्ट फ़ाइल संपादक</summary>
+  <summary lang="hr">Uređivač teksta</summary>
+  <summary lang="hu">Szövegszerkesztő</summary>
+  <summary lang="ia">Un application pro rediger textos</summary>
+  <summary lang="id">Penyunting Teks</summary>
+  <summary lang="ie">Un redactor de textus</summary>
+  <summary lang="is">Textaritill</summary>
+  <summary lang="it">Un editor di testo</summary>
+  <summary lang="ja">テキストエディタ</summary>
+  <summary lang="kab">Amaẓrag n uḍris</summary>
+  <summary lang="ko">텍스트 편집기</summary>
+  <summary lang="lt">Tekstų redaktorius</summary>
+  <summary lang="nb">Et skriveprogram</summary>
+  <summary lang="nl">Een tekstbewerker</summary>
+  <summary lang="oc">Un editor de tèxte</summary>
+  <summary lang="pl">Edytor tekstu</summary>
+  <summary lang="pt">Um editor de texto</summary>
+  <summary lang="pt_BR">Um Editor de Texto</summary>
+  <summary lang="ro">Editor de text</summary>
+  <summary lang="ru">Текстовой редактор</summary>
+  <summary lang="sk">Textový editor</summary>
+  <summary lang="sl">Urejevalnik besedil</summary>
+  <summary lang="sr">Уређивач текста</summary>
+  <summary lang="sr@latin">Uređivač teksta</summary>
+  <summary lang="sv">En Textredigerare</summary>
+  <summary lang="th">โปรแกรมแก้ไขข้อความ</summary>
+  <summary lang="tr">Bir Metin Düzenleyici</summary>
+  <summary lang="uk">Текстовий редактор</summary>
+  <summary lang="zgh">ⵢⴰⵏ ⵓⵎⵙⵏⴼⵍ ⵏ ⵉⴹⵕⵉⵚⵏ</summary>
+  <summary lang="zh_CN">一个文本编辑器</summary>
+  <summary lang="zh_HK">一個文字編輯器</summary>
+  <summary lang="zh_TW">一個文字編輯器</summary>
+  <description>
+    <p> Xed is a small, but powerful text editor. It has most standard text editor functions and fully supports international text in Unicode. Advanced features include syntax highlighting and automatic indentation of source code, printing and editing of multiple documents in one window. </p>
+    <p> Xed is extensible through a plugin system, which currently includes support for spell checking, comparing files, viewing CVS ChangeLogs, and adjusting indentation levels. </p>
+  </description>
+  <description lang="am">
+    <p> Xed ትንሽ ነገር ግን በጣም ሀይለኛ ጽሁፍ ማረሚያ ነው: መደበኛ የ ጽሁፍ ማረሚያ ተግባሮች አሉት: እንዲሁም በርካታ አለም አቀፍ ጽሁፍ በ ዩኒኮድ ይደግፋል: የ ረቀቀ ገጽታ የ አገባብ ማድመቂያ እና ራሱ በራሱ ማስረጊያ ይደግፋል: ማተሚያ እና ማረሚያ በርካታ ሰነዶች በ አንድ መስኮት ውስጥ ይደግፋል: </p>
+    <p> Xed የ ተሰኪ ስርአት ይደግፋል: እንዲሁም ፊደል ማረሚያን ያካትታል: ፋይሎችን ያወዳድራል: መመልከቻ CVS የ ተቀየረ መግቢያ እና የ ማስረጊያ ማስተካከያ ይደግፋል </p>
+  </description>
+  <description lang="ar">
+    <p> إن Xed هو محرر نصوص صغير ولكنه قوي. يحتوي على معظم وظائف محرر النص القياسي ويدعم بشكل كامل النص الدولي في Unicode. وتشمل الميزات المتقدمة تمييز بناء الجملة والمسافات التلقائية للكود المصدر، وطباعة وتحرير مستندات متعددة في نافذة واحدة. </p>
+    <p> و Xed قابل للتوسعة من خلال نظام المكون الإضافي، والذي يتضمن حالياً دعم التدقيق الإملائي ومقارنة الملفات وعرض CVS ChangeLogs وتعديل مستويات المسافة البادئة. </p>
+  </description>
+  <description lang="be">
+    <p> Xed – невялікі, але магутны тэкставы рэдактар. Ён мае большасць стандартных функцый рэдагавання тэкста і цалкам падтрымлівае мовы ў кадзіроўцы Unicode. Прасунутыя функцыі ўключаюць выдзяленне сінтаксісу і аўтаматычнае апазнаванне кода, набор і рэдагаванне некалькіх дакументаў у адным акне. </p>
+    <p> Xed можна пашырыць праз сістэму ўбудоў, якія цяпер падтрымліваюць праверку правапісу, параўнанне файлаў, прагляд CVS ChangeLogs і рэгуляванне водступаў. </p>
+  </description>
+  <description lang="bg">
+    <p>Xed е малък но мощен текстов редактор. Той има функциите на повечето стандартни текстови редактори и напълно поддържа всеки текст в  Unicode. Разширените функции включват оцветяване на синтаксиса и автоматично подреждане на изходния код, печатане и редактиране на множество документи в един прозорец. </p>
+    <p> Xed може да се разшири чрез система от плъгини, включващи проверка на правописа, сравняване на файлове, преглед на CVS ChangeLogs и коригиране нивата на отстояние. </p>
+  </description>
+  <description lang="ca@valencia">
+    <p>Xed és un editor de text petit, però potent. Ofereix la majoria de les funcions estàndar d'edició i és totalment compatible amb el text internacional en Unicode. Les funcions avançades inclouen el ressaltat de sintaxi i el sagnat automàtica del codi font, impressió, i l'edició de diversos documents en una sola finestra.</p>
+    <p>Xed és extensible mitjançant un sistema de connectors, inclosos el suport de la correcció ortogràfica, la comparació de fitxers, la vista de registres de canvis CVS, i l'ajustament de nivells de sagnat.</p>
+  </description>
+  <description lang="cy">
+    <p> Mae xed yn olygydd testun bach ond pwerus. Mae ganddo'r rhan fwyaf o nodweddion safonol golygyddion testun ac mae'n cynnal testunau rhyngwladol Unicode, yn llawn. Mae nodweddion uwch yn cynnwys amlygu cystrawen ac adnabod awtomatig o god ffynhonnell, argraffu a golygu dogfennau lluosog mewn un ffenestr. </p>
+    <p> Mae modd estyn xed drwy system o ategion, sy'n cynnwys cefnogaeth ar gyfer gwirio sillafu, cymharu testunau, gweld Cofnodion Newid CVS, a newid lefelau mewnoli.</p>
+  </description>
+  <description lang="da">
+    <p>Xed er et lille, men effektivt tekstredigeringsprogram. Det har de fleste standardfunktioner, som man kan forvente i et tekstredigeringsprogram, og understøtter fuldt ud Unicode-tekst. Af avancerede funktioner kan nævnes syntaksfremhævning, automatisk indrykning af kildekode samt udskrivning og redigering af flere dokumenter i et vindue.</p>
+    <p>Xed kan udvides med plugins, som bl.a. inkluderer understøttelse for stavekontrol, sammenligning af filer, visning af CVS-changelog og justering af indrykningsniveauer.</p>
+  </description>
+  <description lang="de">
+    <p> Xed ist eine kleine, aber mächtiger Textverarbeitung. Sie verfügt über alle Standardfunktionen einer Textverarbeitung und bietet vollständige Unterstützung für internationalen Text in Unicode. Erweiterte Funktionen beinhalten Syntaxhervorhebung und automatische Einrückung von Quelltext, Drucken und Bearbeiten mehrerer Dokumente in einem Fenster. </p>
+    <p> Pluma ist durch ein Erweiterungssystem erweiterbar, das derzeit Unterstützung für Rechtschreibprüfung, Dateivergleiche, die Anzeige von CVS-Änderungsprotokollen und einstellbarer Einrücktiefe bereitstellt. </p>
+  </description>
+  <description lang="el">
+    <p> Ο xed είναι ένας μικρός, αλλά ισχυρός επεξεργαστής κειμένου. Διαθέτει τις περισσότερες πρότυπες λειτουργίες ενός επεξεργαστή κειμένου και υποστηρίζει πλήρως διεθνές κείμενο σε Unicode. Ανάμεσα στις προηγμένες δυνατότητες του περιλαμβάνονται η επισήμανση συντακτικού και οι αυτόματες εσοχές στον πηγαίο κώδικα, καθώς και εκτύπωση και επεξεργασία πολλαπλών εγγράφων μέσα σε ένα παράθυρο. </p>
+    <p> Ο xed είναι επεκτάσιμος μέσω ενός συστήματος προσθέτων, το οποίο περιλαμβάνει επί του παρόντος υποστήριξη για διόρθωση ορθογραφίας, σύγκριση αρχείων, προβολή αρχείων καταγραφών αλλάγων CVS, και προσαρμογή επιπέδων εσοχών. </p>
+  </description>
+  <description lang="en_GB">
+    <p> Xed is a small, but powerful text editor. It has most standard text editor functions and fully supports international text in Unicode. Advanced features include syntax highlighting and automatic indentation of source code, printing and editing of multiple documents in one window. </p>
+    <p> Xed is extensible through a plugin system, which currently includes support for spell checking, comparing files, viewing CVS ChangeLogs, and adjusting indentation levels. </p>
+  </description>
+  <description lang="eo">
+    <p> Xed estas malgranda, sed potenca teksta redaktilo. Ĝi havas plejmulte da normaj tekstredaktilaj funkcioj kaj plene subtenas internacian tekston en Unikodo. Altnivelaj ebloj inkluzivas sintaksan emfazadon kaj aŭtomatajn krommarĝenojn por fontkodo, presadon kaj redaktadon de pluraj dokumentoj en unu fenestro. </p>
+    <p> Xed estas etendebla per sistemo de kromprogramoj, kiu nuntempe inkluzivas subtenon por literumada kontrolo, komparadon de dosieroj, rigardadon de CVS-ŝangoprotokoloj kaj ĝustigado de krommarĝen-niveloj. </p>
+  </description>
+  <description lang="es">
+    <p> Xed es un pequeño pero poderoso editor de texto. Tiene la mayoría de las funciones de un editor de texto estándar y es totalmente compatible con texto internacional en Unicode. Las características avanzadas incluyen el resaltado de la sintaxis y la sangría automática del código fuente, la impresión y la edición de varios documentos en una sola ventana. </p>
+    <p> Xed es extensible a través de un sistema de complementos, que actualmente incluye la comprobación ortográfica, la comparación de archivos, la visualización de los registros de cambios del CVS y el ajuste de los niveles de sangría. </p>
+  </description>
+  <description lang="et">
+    <p>Xed on väike kuid võimekas tekstitoimeti. See sisaldab enamikku tavapäraseid võimalusi ning sel on täielik rahvusvahelise Unicode kodeeringus teksti tugi. Lisavõimalused on süntaksi värvimine ja lähtekoodi automaatne taane, printimine ja mitme dokumendi kuvamine samas aknas.</p>
+    <p> Xed on laiendatav pluginate süsteemi abil, toetatud on õigekirja kontroll, failide võrdlemine, CVS logide kuvamine ja taanete muutmine.</p>
+  </description>
+  <description lang="eu">
+    <p>Xed testu-editore txiki baina ahaltsu bat da. Testu-editoreen funtzio estandar gehienak ditu eta Unicode testu internazionalarentzako euskarri osoa du. Hainbat ezaugarri aurreratu ditu, hala nola, sintaxi nabarmentzea, iturburu-kodeari koska automatikoki ematea eta leiho bakarrean hainbat dokumentu inprimatu eta editatzea.</p>
+    <p>Xed pluginen bidez hedagarria da eta une honetan hainbat plugin daude erabilgarri, adibidez, ortografia-egiaztapena, fitxategiak konparatzea, CVS aldaketa log-ak ikustea eta koska-mailak doitzea.</p>
+  </description>
+  <description lang="fi">
+    <p> Xed on pieni, mutta tehokas tekstimuokkain. Siinä on suurin osa standardin tekstimuokkaimen toiminnoista ja se tukee täysin Unicode muotoista kansainvälistä tekstiä. Kehittyneempiin ominaisuuksiin kuuluu syntaksin korostus ja lähdekoodin automaattinen sisennys, useiden asiakirjojen tulostus ja muokkaus yhdessä ikkunassa. </p>
+    <p> Xed on laajennettavissa liitännäisjärjestelmän avulla, joka sisältää tällä hetkellä oikeinkirjoituksen tarkastuksen, tiedostojen vertailun, CVS-muutoslokien katselun, ja sisennystason säädön. </p>
+  </description>
+  <description lang="fr">
+    <p> Xed est un éditeur de texte petit mais puissant. Il possède la plupart des fonctionnalités standards d'un éditeur de texte et prend en charge pleinement les textes internationaux en Unicode. Les fonctionnalités avancées incluent la coloration et l'indentation automatique de la syntaxe du code source, l'impression et l'édition de documents multiples en une seule fenêtre. </p>
+    <p> Xed est extensible grâce à un système de modules, qui comprend actuellement la prise en charge de la vérification orthographique, de la comparaison de fichiers, du visionnage des ChangeLogs CVS, et de l'ajustement des niveaux d'indentation. </p>
+  </description>
+  <description lang="fr_CA">
+    <p> Xed est un éditeur de texte petit mais puissant. Il possède la plupart des fonctionnalités standards d'un éditeur de texte et prend en charge pleinement les textes internationaux en Unicode. Les fonctionnalités avancées incluent la coloration et l'indentation automatique de la syntaxe du code source, l'impression et l'édition de documents multiples en une seule fenêtre. </p>
+    <p> Xed est extensible grâce à un système de modules, qui comprend actuellement la prise en charge de la vérification orthographique, de la comparaison de fichiers, du visionnage des ChangeLogs CVS, et de l'ajustement des niveaux d'indentation. </p>
+  </description>
+  <description lang="he">
+    <p> קסד הוא עורך מלל זעיר אך חזק. הוא מכיל את כל התכונות השכיחות ביותר של עורך מלל ותומך באופן מלא במלל בינלאומי ביוניקוד. התכונות המתקדמות כוללות: הדגשת תחביר, הזחה אוטומטית של קוד המקור, הדפסה ועריכה של מספר מסמכים בחלון אחד. </p>
+    <p> קסד ניתן להרחבה באמצעות מערכת מתקעים, הכוללים כיום תמיכה בבדיקת איות, השוואת קבצים, צפייה ביומני שינויים CVS והתאמת רמות הזחה. </p>
+  </description>
+  <description lang="hi">
+    <p>Xed एक सरल परंतु प्रबल लेख संपादक है। इसमें सामान्य लेख संपादकों की अधिकतम विशेषताओं के साथ ही अंतर्राष्ट्रीय यूनिकोड भी पूर्णतया समर्थित है। विस्तृत विशेषताएँ हैं - वाक्य-विन्यास चिन्हित करना व स्रोत कोड हेतु स्वतः खरोज, प्रिंट व एकल विंडो में एकाधिक प्रलेख संपादन। </p>
+    <p> Xed की विशेषता विस्तार हेतु प्लगिन प्रणाली द्वारा वर्तनी जाँच, फाइल तुलना, सीवीएस परिवर्तन-सूची प्रदर्शन व खरोज स्तर निर्धारण संभव है। </p>
+  </description>
+  <description lang="hr">
+    <p> Xed je mali, ali moćan uređivač teksta. Ima većinu standardnih funkcija uređivača teksta i u potpunosti podržava međunarodni tekst u Unikôdu. Napredne značajke uključuju isticanje sintaksa i automatsko poravnavanje izvornog kôda, ispisivanje i uređivanje više dokumenata u jednom prozoru. </p>
+    <p> Xed je proširiv putem sustava priključka, koji trenutno uključuje podršku za provjeru pravopisa, uspoređivanje datoteka, pregledavanje CVS zapisa promjena i prilagodbu razine poravnanja. </p>
+  </description>
+  <description lang="hu">
+    <p> Az Xed szövegszerkesztő egy kicsi de hatékony szövegszerkesztő. Rendelkezik a legtöbb általánosan használt szerkesztési funkcióval és teljes mértékben támogatja a nemzetközi szövegek kezelését az Unicode segítségével. Olyan haladó szolgáltatásokat is nyújt, mint a szintaxis kiemelés, automatikus behúzások kezelése a forráskód fájlokban, a nyomtatást és a több dokumentum egyablakos szerkesztését.</p>
+    <p>Az Xed rugalmas bővítménykezelő rendszerének hála helyesírás-ellenőrzés, fájl-összehasonlítás, CVS változtatási naplók olvasása és a behúzási szintek megváltoztatása képességekkel is felruházható.</p>
+  </description>
+  <description lang="id">
+    <p> Xed adalah penyunting teks yang kecil namun kuat. Ini memiliki sebagian besar fungsi penyunting teks standar dan sepenuhnya mendukung teks internasional di Unicode. Fitur lanjutan termasuk penyorotan sintaks dan indentasi otomatis kode sumber, pencetakan dan penyuntingan beberapa dokumen dalam satu jendela.</p>
+    <p> Xed dapat dikembangkan melalui sistem plugin, yang saat ini menyertakan dukungan untuk pemeriksaan ejaan, membandingkan berkas, melihat CVS ChangeLogs, dan menyesuaikan tingkat indentasi. </p>
+  </description>
+  <description lang="is">
+    <p> Xed er lítill en öflugur textaritill. Hann styður flesta þá eiginleika sem textaritill þarf til að bera og er fullkomlega samhæfður fjölþjóðlegum stafagerðum í Unicode. Meðal þróaðra eiginleika má nefna litun textastrengja/skipana og sjálfvirkan inndrátt frumkóða, prentun og ritun margra skráa í einum glugga. </p>
+    <p> Hægt er að bæta við Xed með kerfi forritsviðbóta, eins og til dæmis stuðning við stafsetningaryfirferð, samanburð skráa, skoðun CVS-breytingaannála (changelogs), og breytinga á stigi inndráttar. </p>
+  </description>
+  <description lang="it">
+    <p> Xed è un piccolo ma potente editor di testo. Possiede la maggior parte delle funzioni standard degli editor di testo e supporta completamente testi internazionali in Unicode. Tra le caratteristiche avanzate sono comprese l'evidenziazione della sintassi e l'indentazione automatica del codice sorgente, la stampa e la modifica di più documenti in un'unica finestra. </p>
+    <p> Xed è estendibile grazie a un sistema di plugin che attualmente comprendono il supporto per il controllo della digitazione, il raffronto dei file, la visione dei ChangeLog CVS e l'aggiustamento dei livelli di indentazione. </p>
+  </description>
+  <description lang="ja">
+    <p> Xedは、小さいながらも強力なテキストエディタです。ほとんどの標準テキストエディタ機能があり、Unicodeの国際テキストを完全にサポートしています。高度な機能には、構文の強調表示とソースコードの自動インデント、1つのウィンドウでの複数のドキュメントの印刷と編集が含まれます。 </p>
+    <p> Xedは、現在、スペルチェック、ファイルの比較、CVS ChangeLogの表示、インデントレベルの調整のサポートを含むプラグインシステムを通じて拡張可能です。 </p>
+  </description>
+  <description lang="kab">
+    <p> Xed meẓẓi acu kan d d amaẓrag n uḍris uzmir. Ɣur-s akk timahilin n umaẓrag n uḍris yettwasnen udiɣ isefrak akk iḍrisen igraɣlanen n Unicode. Timahilin leqqayen gebrent asebruṛeq n tira akked urigel awurman n tengalt aɣbalu, tasiggezt akked teẓrigt n deqs isemliyendegi iwen n usfaylu. </p>
+    <p> Xed yettiɣzif s useqdec n unagraw n izegrar, ayen igebren akka tura asefrek n usenqed n tira, aqaṛen n ifuyla, askan n ifulya CV, akked useggem n iswiren n urigel </p>
+  </description>
+  <description lang="ko">
+    <p>Xed는 작지만, 강력한 텍스트 편집기입니다. 대부분의 표준 텍스트 편집기의 기능을 갖추며 유니코드의 국제 텍스트를 지원합니다. 구문 강조와 소스 코드 자동 들여 쓰기, 한 창에서 여러 문서 출력 및 편집 등의 고급 기능을 갖췄습니다.</p>
+    <p> Xed는 플러그인 시스템을 통해 확장 가능합니다, 지금은 맞춤법 검사, 파일 비교, CVS ChangeLogs 보기, 및 들여 쓰기 단계 조절 등을 지원합니다.</p>
+  </description>
+  <description lang="lt">
+    <p> Xed yra mažas, tačiau galingas tekstų redaktorius. Jame yra daugelis standartinio teksto redaktoriaus funkcijų ir jis pilnai palaiko tarptautinius tekstus Unicode pavidalu. Prie išplėstinių ypatybių galima priskirti sintaksės paryškinimą ir automatines šaltinio kodo įtraukas, kelių dokumentų spausdinimą ir redagavimą viename lange. </p>
+    <p> Xed yra išplečiamas per įskiepių sistemą, į kurią šiuo metu įeina rašybos tikrinimas, failų palyginimas, CVS keitimų žurnalų rodymas bei įtraukos lygių reguliavimas. </p>
+  </description>
+  <description lang="nl">
+    <p> Xed is een kleine, maar krachtige tekstbewerker. Hij heeft de meeste van de standaardfuncties van een tekstbewerker en ondersteunt internationale tekst in Unicode volledig. Geavanceerde functies bevatten het zinsbouwmarkering en automatische inspringing van broncode, afdrukken en bewerken van meerdere documenten in één venster. </p>
+    <p> Xed is uitbreidbaar door middel van invoegsels, die thans de volgende zaken omvatten: ondersteuning voor spellingscontrole, vergelijken van bestanden, bekijken van CVS-wijzigingslogboeken en het bijstellen van inspringingsniveaus. </p>
+  </description>
+  <description lang="pl">
+    <p> Xed jest małym, ale potężnym edytorem tekstu. Posiada większość standardowych funkcji edytora tekstu oraz w pełni wspiera międzynarodowe kodowanie znaków w Unicode. Zaawansowane funkcje obejmują podświetlanie składni, automatyczne wcięcia kodu źródłowego, drukowanie oraz edytowanie wielu dokumentów w jednym oknie.</p>
+    <p>Xed jest rozszerzalny poprzez system wtyczek, które obecnie obejmują wsparcie dla sprawdzania pisowni, porównywania plików, przeglądania dzienników zmian CVS oraz dostosowania poziomu wcięcia.</p>
+  </description>
+  <description lang="pt">
+    <p> Xed é um editor de texto pequeno mas poderoso. Tem a maioria das funções padrão de um editor de texto e tem suporte completo a texto internacional em Unicode. Funções avançadas incluem realces de sintaxe, indentação automática de código fonte e impressão e edição de múltiplos documentos numa única janela. </p>
+    <p> Xed é extensível através do seu sistema de plugins, que neste momento suporta verificação ortográfica, comparação de ficheiros, visualização de ficheiros de registo de alterações CVS e ajuste de níveis de indentação. </p>
+  </description>
+  <description lang="pt_BR">
+    <p> Xed é um pequeno, mas poderoso, editor de textos. Ele possui a maioria das funções padrões de editores de textos e suporta totalmente texto internacional em Unicode. Os recursos avançados incluem realçamento de sintaxe e indentação automática de código-fonte, impressão e a edição de múltiplos documentos em uma janela. </p>
+    <p> Xed é extensível por meio de um sistema de plugins, que atualmente incluem suporte para verificação ortográfica, comparar arquivos, visualizar ChangeLogs de CVS e ajustar níveis de indentação. </p>
+  </description>
+  <description lang="ro">
+    <p> Xed este un editor de text mic dar puternic. Are cele mai multe funcții de editor de text standard și acceptă integral textul internațional în Unicode. Funcțiile avansate includ evidențierea sintaxei și indentarea automată a codului sursă, imprimarea și editarea mai multor documente într-o fereastră. </p>
+    <p> Xed este extensibil printr-un sistem de plugin-uri care include în prezent suport pentru verificarea ortografică, compararea fișierelor, vizualizarea CVS ChangeLogs și ajustarea nivelurilor de indentare. </p>
+  </description>
+  <description lang="ru">Xed - небольшой, но мощный текстовый редактор. Он обладает большинством стандартных функций и полностью поддерживает Юникод. Дополнительные функции включают подсветку синтаксиса и автоматическое определение исходного кода, печать и редактирование нескольких документов в одном окне. Xed расширяем с помощью плагинов, которые на данный момент включают проверку орфографии, сравнение файлов, просмотр логов изменений CVS и корректировку уровней отступа.</description>
+  <description lang="sk">
+    <p> Xed je malý, ale výkonný textový editor. Má väčšinu funkcií štandardných textový editorov a plne podporuje medzinárodné kódovanie v Unicode. Medzi pokročilé funkcie patrí zvýraznenie syntaxu a automatické odsadzovanie zdrojového kódu, tlač a editáciu viacerých dokumentov v jednom okne </p>
+    <p> Xed je rozšíriteľný pomocou zásuvných modulov systému, ktorý v súčasnosti zahŕňa podporu pre kontrolu pravopisu, porovnávanie súborov, prezeranie CVS zozname zmien, a nastavenie úrovní odsadenia.</p>
+  </description>
+  <description lang="sl">
+    <p> Xed je manjši, vendar uporaben urejevalnik besedil. Ima najbolj standardne funkcije urejevalnika besedil in povsem podpira mednarodno besedilo v zapisu Unicode. Napredne funkcionalnosti vključujejo poudarjanje skladnje in samodejno zamikanje izvorne kode, tiskanje in urejanje več dokumentov v enem oknu. </p>
+    <p> Xed je mogoče razširiti s sistemom vstavkov, ki trenutno vključuje podporo za preverjanje črkovanja, primerjavo datotek, ogledovanje zapisnikov CVS ChangeLog ter prilagajanje ravni zamikanja. </p>
+  </description>
+  <description lang="sr">
+    <p> Иксед је мали, али моћан уређивач текста. Поседује најуобичајеније функције уређивача текста и у потпуности подржава међународни текст у Уникоду. У напредне функције спадају истицање синтаксе и самостално увлачење изворног кода, штампање и уређивање више докумената у једном прозору. </p>
+    <p> Иксед се може проширити путем система прикључака, у који тренутно спада подршка за проверу писања, упоређивање датотека, преглед дневника измена ЦВС-а и дотеривање нивоа увлачења . </p>
+  </description>
+  <description lang="sr@latin">
+    <p> Xed je mali, ali moćan uređivač teksta. Sadrži većinu standardnih funkcija uređivača teksta i u potpunosti podržava međunarodni tekst u Unikodu. Napredne funkcije uključuju isticanje sintakse i automatsko uravnanje izvornog koda, štampanje i uređivanje više dokumenata u jednom prozoru. </p>
+    <p> Xed je proširiv sistemom priključaka, koji trenutno uključuje podršku za proveru pravopisa, poređenje datoteka, pregled dnevnika izmena CVS datoteka i prilagođavanje nivoa uvlačenja teksta. </p>
+  </description>
+  <description lang="sv">
+    <p>Xed är en liten men kraftfull textredigerare. Den har de flesta standardfunktioner för textredigerare och tack vare unicode fullt stöd för dokument med olika språk. Bland de avancerade funktionerna finns syntaxmarkering, automatisk indrag av källkod, utskrift och redigering av flera dokument i ett och samma fönster.</p>
+    <p>Xed kan byggas ut med hjälp av insticksprogram. Bland dessa finns funktioner för rättstavning, jämföra filer, läsa ändringsloggar i CVS format och inställningar för indrag.</p>
+  </description>
+  <description lang="tr">
+    <p> Xed küçük ama  güçlü metin düzenleyicisidir. Çoğu standart metin düzenleyici işlevlerine sahiptir ve Unicode uluslarası metinleri için tam desteği vardır. Dizim renklendirme ve kaynak kod için otomatik girinti gibi gelişmiş özellikler ile tek pencere içindeki çoklu belgeleri düzenleme ve yazdırmayı destekler. </p>
+    <p> Xed bir eklenti sistemi yardımıyla genişletilebilir, hali hazırda yazım denetimi, dosya karşılaştırma, CVS değişim günlüğügörüntüleme ve girinti düzylerini ayarlama özeliklerini içerir. </p>
+  </description>
+  <description lang="uk">Xed — невеликий, але потужний текстовий редактор. Він має більшість стандартних функцій і повністю підтримує Юнікод. Додаткові функції включають підсвічування синтаксису й автовизначення джерельного коду, друк і редагування декількох документів у одному вікні. Xed розширюваний за допомогою модулів, які на дану мить включають перевірку правопису, порівняння файлів, перегляд часописів змін CVS і коригування рівнів відступу.</description>
+  <description lang="zh_CN">
+    <p> Xed是一款小巧而又功能强大的文本编辑器。它具有大多数的标准文本编辑器功能，而且完全支持以Unicode编码的国际文本，支持源代码语法高亮、自动缩进和单窗口显示、编辑多个文件等高级功能。</p>
+    <p>Xed可以通过插件系统进行扩展，目前其插件系统支持拼写检查、文件对比、CVS变更日志查看以及缩进等级调整等功能。</p>
+  </description>
+  <description lang="zh_HK">
+    <p> Xed 是一個細小但強大的文字編輯器。它具備大多數標準文字編輯器功能並以 Unicode 完全支援國際文字。進階功能包括語法色彩標示與源始碼自動縮排、在單一視窗裏列印和編輯多個文件。</p>
+    <p> Xed 可透過外掛程式系統作功能擴充，目前包括支援拼字檢查、比對檔案、檢視 CVS 變更記錄和調整縮排層級。</p>
+  </description>
+  <description lang="zh_TW">
+    <p> Xed 是一個細小但強大的文字編輯器。它具備大多數標準文字編輯器功能並以 Unicode 完全支援國際文字。進階功能包括語法色彩標示與源始碼自動縮排，在單一視窗裡列印和編輯多個文件。</p>
+    <p> Xed 可透過外掛程式系統作功能擴充，目前包括支援拼字檢查，比對檔案，檢視 CVS 變更記錄和調整縮排層級。</p>
+  </description>
+  <url type="homepage">http://www.github.com/linuxmint/xed</url>
+  <updatecontact>root@linuxmint.com</updatecontact>
+  <project_group>X-Apps</project_group>
+</component>

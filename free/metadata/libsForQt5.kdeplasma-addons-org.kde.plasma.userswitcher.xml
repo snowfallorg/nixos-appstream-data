@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>libsForQt5.kdeplasma-addons</pkgname>
+  <id>org.kde.plasma.userswitcher</id>
+  <extends>org.kde.plasmashell</extends>
+  <name>User Switcher</name>
+  <name lang="ar">مبدل المستخدم</name>
+  <name lang="az">İstifadəçi dəyişdiricisi</name>
+  <name lang="bg">Превключване на потребители</name>
+  <name lang="ca@valencia">Commutador d'usuaris</name>
+  <name lang="ca">Commutador d'usuaris</name>
+  <name lang="cs">Přepínání uživatelů</name>
+  <name lang="de">Benutzerwechsel</name>
+  <name lang="en_GB">User Switcher</name>
+  <name lang="es">Selector de usuario</name>
+  <name lang="eu">Erabiltzaile trukatzailea</name>
+  <name lang="fi">Käyttäjävaihto</name>
+  <name lang="fr">Commutateur d'utilisateurs</name>
+  <name lang="ia">Commutator de usator</name>
+  <name lang="id">Pengalih Pengguna</name>
+  <name lang="it">Cambia utente</name>
+  <name lang="ja">ユーザスイッチャー</name>
+  <name lang="ko">사용자 전환기</name>
+  <name lang="lt">Naudotojų perjungiklis</name>
+  <name lang="nl">Wisselen van gebruiker</name>
+  <name lang="nn">Brukar­bytar</name>
+  <name lang="pl">Przełącznik użytkowników</name>
+  <name lang="pt">Selector de Utilizadores</name>
+  <name lang="pt_BR">Seletor de usuário</name>
+  <name lang="ro">Comutator de utilizatori</name>
+  <name lang="ru">Переключатель пользователей</name>
+  <name lang="sk">Prepínač používateľov</name>
+  <name lang="sl">Preklopnik uporabnikov</name>
+  <name lang="sv">Användarbytare</name>
+  <name lang="tr">Kullanıcı Değiştirici</name>
+  <name lang="uk">Перемикання користувачів</name>
+  <name lang="vi">Trình chuyển người dùng</name>
+  <name lang="x-test">xxUser Switcherxx</name>
+  <name lang="zh_CN">用户切换器</name>
+  <summary>Quickly switch between different users</summary>
+  <summary lang="ar">بدل بسرعة بين المستخدمين</summary>
+  <summary lang="az">Müxtəlif istifadəçilər arasında sürətli keçid</summary>
+  <summary lang="bg">Бързо превключване между различни потребители</summary>
+  <summary lang="ca@valencia">Canvia ràpidament entre diferents usuaris</summary>
+  <summary lang="ca">Commuta ràpidament entre diferents usuaris</summary>
+  <summary lang="cs">Rychlé přepínání mezi různými uživateli</summary>
+  <summary lang="de">Schnell zwischen verschiedenen Benutzern wechseln</summary>
+  <summary lang="en_GB">Quickly switch between different users</summary>
+  <summary lang="es">Cambio rápido entre distintos usuarios</summary>
+  <summary lang="eu">Erabiltzaile ezberdinen artean azkar aldatu</summary>
+  <summary lang="fi">Vaihda nopeasti käyttäjätunnukselta toiselle</summary>
+  <summary lang="fr">Basculer rapidement entre différents utilisateurs</summary>
+  <summary lang="ia">Rapide commutation inter usatores differente</summary>
+  <summary lang="id">Beralih selekasnya antara pengguna yang berbeda</summary>
+  <summary lang="it">Passa rapidamente tra i diversi utenti</summary>
+  <summary lang="ja">他のユーザにすぐ切り替えます</summary>
+  <summary lang="ko">사용자를 빠르게 전환</summary>
+  <summary lang="lt">Greitai persijungti tarp skirtingų sistemos naudotojų</summary>
+  <summary lang="nl">Snel wisselen tussen verschillende gebruikers</summary>
+  <summary lang="nn">Byt kjapt mellom ulike brukarar</summary>
+  <summary lang="pl">Przełącza między użytkownikami</summary>
+  <summary lang="pt">Mudar rapidamente entre os diferentes utilizadores</summary>
+  <summary lang="pt_BR">Alterna rapidamente entre os usuários</summary>
+  <summary lang="ro">Schimbă rapid între diferiți utilizatori</summary>
+  <summary lang="ru">Быстрое переключение между пользователями</summary>
+  <summary lang="sk">Rýchlo prepínajte medzi rôznymi používateľmi</summary>
+  <summary lang="sl">Hitro preklapljaj med različnimi uporabniki</summary>
+  <summary lang="sv">Byt snabbt mellan olika användare</summary>
+  <summary lang="tr">Farklı kullanıcılar arasında hızlıca geçiş yap</summary>
+  <summary lang="uk">Швидке перемикання між записами користувачів</summary>
+  <summary lang="vi">Chuyển nhanh giữa những người dùng khác nhau</summary>
+  <summary lang="x-test">xxQuickly switch between different usersxx</summary>
+  <summary lang="zh_CN">在不同用户之间快速切换</summary>
+  <url type="homepage">https://kde.org/plasma-desktop</url>
+  <url type="donation">https://www.kde.org/donate.php?app=org.kde.plasma.userswitcher</url>
+  <developer_name>Kai Uwe Broulik &lt;kde@privat.broulik.de></developer_name>
+  <icon type="stock">preferences-desktop-user</icon>
+  <project_license>GPL-2.0+</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+</component>

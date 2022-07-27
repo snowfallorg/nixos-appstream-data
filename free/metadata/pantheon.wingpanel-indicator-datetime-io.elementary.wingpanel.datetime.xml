@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>pantheon.wingpanel-indicator-datetime</pkgname>
+  <id>io.elementary.wingpanel.datetime</id>
+  <extends>io.elementary.wingpanel</extends>
+  <name>Date &amp; Time Indicator</name>
+  <name lang="uk">Індикатор дати &amp;amp; часу</name>
+  <name lang="tr">Tarih ve Saat Göstergesi</name>
+  <name lang="szl">Skaźnik daty i godziny</name>
+  <name lang="sr">Указивач датума и времена</name>
+  <name lang="sk">Indikátor dátumu a času</name>
+  <name lang="ru">Индикатор даты &amp;amp; времени</name>
+  <name lang="pt_BR">Indicador de Data &amp;amp; Hora</name>
+  <name lang="pt">Indicador de Data e Hora</name>
+  <name lang="pl">Data &amp; amp; Wskaźnik czasu</name>
+  <name lang="oc">Indicador de data e d’ora</name>
+  <name lang="nn">Indikator for dato og tid</name>
+  <name lang="nl">Datum &amp;amp; tijd indicator</name>
+  <name lang="nb">Dato- og tidsindikator</name>
+  <name lang="mr">तारीख आणि वेळ सूचक</name>
+  <name lang="ja">日付と時刻インジケーター</name>
+  <name lang="it">Indicatore di data e ora</name>
+  <name lang="hu">Dátum- és időkijelzés</name>
+  <name lang="he">מחוון תאריך ושעה</name>
+  <name lang="gl">Indicador de hora e data</name>
+  <name lang="fr">Indicateur de la date et de l'heure</name>
+  <name lang="fi">Ajan ja päiväyksen ilmaisin</name>
+  <name lang="es">Indicador de fecha y hora</name>
+  <name lang="eo">Data &amp;amp; hora indikilo</name>
+  <name lang="en_GB">Date &amp;amp; Time Indicator</name>
+  <name lang="en_CA">Date &amp;amp; Time Indicator</name>
+  <name lang="en_AU">Date &amp;amp; Time Indicator</name>
+  <name lang="de">Datums- und Zeitindikator</name>
+  <name lang="da">Dato &amp;amp; Tidsindikator</name>
+  <name lang="cs">Indikátor data a času</name>
+  <name lang="ca">Indicador de dia i d'hora</name>
+  <name lang="ar">مؤشر التاريخ والوقت</name>
+  <summary>The date and time indicator</summary>
+  <summary lang="uk">Індикатор дати і часу</summary>
+  <summary lang="tr">Tarih ve saat göstergesi</summary>
+  <summary lang="szl">Skaźnik daty i godziny</summary>
+  <summary lang="sr">Указивач датума и времена</summary>
+  <summary lang="sl">Indikator za datum in čas</summary>
+  <summary lang="sk">Indikátor dátumu a času</summary>
+  <summary lang="ru">Индикатор даты и времени</summary>
+  <summary lang="pt_BR">O indicador de data e hora</summary>
+  <summary lang="pt">O indicador de data e hora</summary>
+  <summary lang="pl">Wskaźnik daty i czasu</summary>
+  <summary lang="nn">Indikator for dato og tid</summary>
+  <summary lang="nl">De datum en tijd indicator</summary>
+  <summary lang="nb">Dato- og tidsindikatoren</summary>
+  <summary lang="mr">तारीख आणि वेळ सूचक</summary>
+  <summary lang="ja">日付と時刻のインジケーター</summary>
+  <summary lang="it">L'indicatore di data e ora</summary>
+  <summary lang="hu">A dátum és idő kijelzése</summary>
+  <summary lang="he">מחוון התאריך והשעה</summary>
+  <summary lang="gl">O indicador de data e hora</summary>
+  <summary lang="fr">L'indicateur de la date et de l'heure</summary>
+  <summary lang="fi">Ajan ja päiväyksen ilmaisin</summary>
+  <summary lang="es">El indicador de fecha y hora</summary>
+  <summary lang="eo">La indikilo pri dato kaj horo</summary>
+  <summary lang="en_GB">The date and time indicator</summary>
+  <summary lang="en_CA">The date and time indicator</summary>
+  <summary lang="en_AU">The date and time indicator</summary>
+  <summary lang="de">Die Datums- und Zeitanzeige</summary>
+  <summary lang="da">Dato og klokkeslæt-indikator</summary>
+  <summary lang="cs">Indikátor data a času</summary>
+  <summary lang="ca">Indicador de la data i l'hora</summary>
+  <summary lang="ar">مؤشر التاريخ والوقت</summary>
+  <icon type="stock">preferences-system-time</icon>
+  <releases>
+    <release date="2021-12-10" urgency="medium" version="2.4.0">
+      <description>
+        <p>New features:</p>
+        <ul>
+          <li>Open Calendar on middle-click</li>
+          <li>Show due Tasks for the selected day</li>
+        </ul>
+        <p>Fixes:</p>
+        <ul>
+          <li>Update current day when opening</li>
+          <li>Fix potential memory leak</li>
+        </ul>
+        <p>Improvements:</p>
+        <ul>
+          <li>Performance improvements</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" date="2021-10-29" version="2.3.1">
+      <description>
+        <p>Fixes:</p>
+        <ul>
+          <li>Update current day when opening</li>
+          <li>Fix disappearing dates when changing between dark and light styles</li>
+          <li>Fix potential memory leak</li>
+        </ul>
+        <p>Improvements:</p>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-07-14" urgency="medium" version="2.3.0">
+      <description>
+        <p>Add multitouch gestures</p>
+        <p>Improve time zone handling</p>
+        <p>Updated translations</p>
+      </description>
+    </release>
+    <release version="2.2.5" date="2020-06-30" urgency="medium">
+      <description>
+        <p>Fix issues with time zones not being recognized</p>
+        <p>Updated translations</p>
+      </description>
+    </release>
+    <release version="2.2.4" date="2020-05-28" urgency="medium">
+      <description>
+        <p>Improved performance when switching months</p>
+        <p>Updated translations</p>
+      </description>
+    </release>
+    <release version="2.2.3" urgency="medium" date="2020-05-17">
+      <description>
+        <p>Fix missing event dots in the calendar view</p>
+        <p>Fix event appearance with dark style</p>
+        <p>Updated translations</p>
+      </description>
+    </release>
+    <release urgency="medium" version="2.2.2" date="2020-03-27">
+      <description>
+        <p>Updated translations</p>
+      </description>
+    </release>
+    <release version="2.2.1" urgency="medium" date="2019-11-26">
+      <description>
+        <p>Fix potential crash when loading events with no start or end time</p>
+        <p>Updated translations</p>
+      </description>
+    </release>
+    <release version="2.2.0" urgency="medium" date="2019-10-31">
+      <description>
+        <p>Redesigned the way upcoming events are displayed</p>
+        <p>Fixed issues with large text size</p>
+        <p>Show dots on days with events</p>
+        <p>Better handling of recurring events</p>
+        <p>Performance improvements</p>
+        <p>Display an error dialog if Calendar fails to open</p>
+        <p>Updated translations</p>
+      </description>
+    </release>
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/elementary/wingpanel-indicator-datetime/master/data/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <developer_name>elementary, Inc.</developer_name>
+  <developer_name lang="zh_CN">elementary, Inc.</developer_name>
+  <developer_name lang="uz">elementary Inc.</developer_name>
+  <developer_name lang="uk">elementary, Inc.</developer_name>
+  <developer_name lang="tr">elementary, Inc.</developer_name>
+  <developer_name lang="szl">elementary, Inc.</developer_name>
+  <developer_name lang="sr">elementary, Inc.</developer_name>
+  <developer_name lang="sk">elementary, Inc.</developer_name>
+  <developer_name lang="ru">elementary, Inc.</developer_name>
+  <developer_name lang="pt_BR">elementary, Inc.</developer_name>
+  <developer_name lang="pt">elementary, Inc.</developer_name>
+  <developer_name lang="pl">elementary, Inc.</developer_name>
+  <developer_name lang="oc">elementary, Inc.</developer_name>
+  <developer_name lang="nn">elementary, Inc.</developer_name>
+  <developer_name lang="nl">elementary, Inc.</developer_name>
+  <developer_name lang="nb">elementary, Inc.</developer_name>
+  <developer_name lang="mr">एलिमेंटरी, Inc.</developer_name>
+  <developer_name lang="ja">elementary, Inc.</developer_name>
+  <developer_name lang="it">elementary, Inc.</developer_name>
+  <developer_name lang="hu">elementary, Inc.</developer_name>
+  <developer_name lang="he">elementary בע״מ</developer_name>
+  <developer_name lang="fr">elementary, Inc.</developer_name>
+  <developer_name lang="fi">elementary, Inc.</developer_name>
+  <developer_name lang="es">elementary, Inc.</developer_name>
+  <developer_name lang="eo">elementary, Inc.</developer_name>
+  <developer_name lang="en_GB">elementary, Inc.</developer_name>
+  <developer_name lang="en_CA">elementary, Inc.</developer_name>
+  <developer_name lang="en_AU">elementary, Inc.</developer_name>
+  <developer_name lang="de">elementary, Inc.</developer_name>
+  <developer_name lang="da">elementary, Inc.</developer_name>
+  <developer_name lang="cs">elementary, Inc.</developer_name>
+  <developer_name lang="ca">elementary, Inc.</developer_name>
+  <developer_name lang="ar">elementary, Inc.</developer_name>
+  <url type="homepage">https://elementary.io/</url>
+  <url type="bugtracker">https://github.com/elementary/wingpanel-indicator-datetime/issues</url>
+  <url type="donation">https://elementary.io/get-involved#funding</url>
+  <url type="help">https://elementaryos.stackexchange.com/questions/tagged/wingpanel</url>
+  <url type="translate">https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-datetime/</url>
+  <update_contact>contact_AT_elementary.io</update_contact>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_group>elementary</project_group>
+  <project_license>GPL-3.0+</project_license>
+</component>

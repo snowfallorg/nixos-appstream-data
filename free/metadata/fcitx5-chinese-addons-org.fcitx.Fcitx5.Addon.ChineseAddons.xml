@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>fcitx5-chinese-addons</pkgname>
+  <id>org.fcitx.Fcitx5.Addon.ChineseAddons</id>
+  <extends>org.fcitx.Fcitx5</extends>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+ and LGPL-2.1+</project_license>
+  <name>Chinese Addons</name>
+  <name lang="zh_TW">中文附加元件</name>
+  <name lang="zh_CN">中文附加组件</name>
+  <name lang="ru">Китайский - дополнения</name>
+  <name lang="ko">한어 애드온</name>
+  <name lang="da">Kinesiske tilføjelser</name>
+  <summary>Add support for Pinyin, Table and many other Chinese related functionality to Fcitx</summary>
+  <summary lang="zh_TW">增加對拼音，碼表，以及其他許多中文相關的功能到 Fcitx</summary>
+  <summary lang="zh_CN">增加对拼音，码表，以及其他许多中文相关的功能到 Fcitx</summary>
+  <summary lang="ru">Добавьте в Fcitx поддержку Pinyin, таблиц и многих других функций, связанных с китайским языком.</summary>
+  <summary lang="ko">Fcitx에 Pinyin, 표 및 기타 많은 한어 관련 기능에 대한 지원 추가</summary>
+  <summary lang="da">Tilføj understøttelse af Pinyin, tabel og mange andre kinesiskrelaterede funktionaliteter til Fcitx</summary>
+  <url type="homepage">https://fcitx-im.org</url>
+  <url type="bugtracker">https://github.com/fcitx/fcitx5-chinese-addons/issues</url>
+  <project_group>Fcitx</project_group>
+  <releases>
+    <release date="2022-07-03" version="5.0.14" />
+    <release version="5.0.13" date="2022-05-22" />
+    <release version="5.0.12" date="2022-03-09" />
+    <release version="5.0.11" date="2022-02-01" />
+    <release date="2021-12-18" version="5.0.10" />
+    <release version="5.0.9" date="2021-12-04" />
+    <release version="5.0.8" date="2021-11-05" />
+    <release version="5.0.7" date="2021-08-29" />
+    <release version="5.0.6" date="2021-05-04" />
+    <release version="5.0.5" date="2021-03-21" />
+    <release date="2021-02-18" version="5.0.4" />
+    <release date="2021-01-11" version="5.0.3" />
+    <release version="5.0.2" date="2020-12-03" />
+    <release version="5.0.1" date="2020-11-03" />
+    <release version="5.0.0" date="2020-10-30" />
+  </releases>
+  <content_rating type="oars-1.1" />
+</component>

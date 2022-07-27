@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>fcitx5-hangul</pkgname>
+  <id>org.fcitx.Fcitx5.Addon.Hangul</id>
+  <extends>org.fcitx.Fcitx5</extends>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>LGPL-2.1+</project_license>
+  <name>Hangul for Fcitx 5</name>
+  <name lang="zh_TW">Fcitx 5 的韓文支援</name>
+  <name lang="zh_CN">Fcitx 5 的谚文支持</name>
+  <name lang="tr">Fcitx 5 için Hangul</name>
+  <name lang="ru">Hangul для Fcitx 5</name>
+  <name lang="ko">Fcitx5용 한글</name>
+  <name lang="ja">Hangul for Fcitx 5</name>
+  <name lang="da">Hangul til Fcitx 5</name>
+  <summary>Hangul engine for Fcitx 5</summary>
+  <summary lang="zh_TW">Fcitx 5 的韓文引擎</summary>
+  <summary lang="zh_CN">Fcitx 5 的谚文引擎</summary>
+  <summary lang="tr">Fcitx 5 için Hangul motoru</summary>
+  <summary lang="ru">Движок Hangul для Fcitx 5</summary>
+  <summary lang="ko">Fcitx5용 한글 엔진</summary>
+  <summary lang="ja">Hangul engine for Fcitx 5</summary>
+  <summary lang="da">Hangul-motor til Fcitx 5</summary>
+  <url type="homepage">https://fcitx-im.org</url>
+  <url type="bugtracker">https://github.com/fcitx/fcitx5-hangul/issues</url>
+  <project_group>Fcitx</project_group>
+  <releases>
+    <release version="5.0.10" date="2022-07-03" />
+    <release date="2022-05-22" version="5.0.9" />
+    <release date="2022-03-09" version="5.0.8" />
+    <release date="2022-02-01" version="5.0.7" />
+    <release version="5.0.6" date="2021-12-04" />
+    <release version="5.0.5" date="2021-11-05" />
+    <release version="5.0.4" date="2021-08-29" />
+    <release version="5.0.3" date="2021-03-21" />
+    <release version="5.0.2" date="2021-01-11" />
+    <release date="2020-12-03" version="5.0.1" />
+    <release version="5.0.0" date="2020-10-30" />
+  </releases>
+  <content_rating type="oars-1.1" />
+</component>

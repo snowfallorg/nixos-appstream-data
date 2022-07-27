@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+  <pkgname>amarok</pkgname>
+  <id>org.kde.amarok.analyzer</id>
+  <name>Analyzer</name>
+  <name lang="bs">Analizator</name>
+  <name lang="ca@valencia">Analitzador</name>
+  <name lang="ca">Analitzador</name>
+  <name lang="cs">Analyzátor</name>
+  <name lang="da">Analysator</name>
+  <name lang="de">Analysator</name>
+  <name lang="el">Αναλυτής</name>
+  <name lang="en_GB">Analyser</name>
+  <name lang="es">Analizador</name>
+  <name lang="et">Analüüsija</name>
+  <name lang="eu">Analizatzailea</name>
+  <name lang="fi">Analysaattori</name>
+  <name lang="fr">Analyseur</name>
+  <name lang="gl">Analizador</name>
+  <name lang="hu">Elemző</name>
+  <name lang="id">Analizer</name>
+  <name lang="it">Analizzatore</name>
+  <name lang="ko">분석기</name>
+  <name lang="lt">Analizatorius</name>
+  <name lang="lv">Analizators</name>
+  <name lang="nb">Analysator</name>
+  <name lang="nl">Analysator</name>
+  <name lang="pl">Analizator</name>
+  <name lang="pt">Analisador</name>
+  <name lang="pt_BR">Analisador</name>
+  <name lang="ro">Analizator</name>
+  <name lang="sk">Analyzátor</name>
+  <name lang="sl">Preučevalnik</name>
+  <name lang="sr@ijekavian">Анализатор</name>
+  <name lang="sr@ijekavianlatin">Analizator</name>
+  <name lang="sr@latin">Analizator</name>
+  <name lang="sr">Анализатор</name>
+  <name lang="sv">Analysator</name>
+  <name lang="tr">Çözümleyici</name>
+  <name lang="uk">Аналізатор</name>
+  <name lang="x-test">xxAnalyzerxx</name>
+  <name lang="zh_TW">分析器</name>
+  <summary>Analyzer applet for Amarok</summary>
+  <summary lang="ca@valencia">Miniaplicació analitzadora per a l'Amarok</summary>
+  <summary lang="ca">Miniaplicació analitzadora per a l'Amarok</summary>
+  <summary lang="cs">Applet analyzeru pro AmaroK</summary>
+  <summary lang="da">Analyzer-applet til Amarok</summary>
+  <summary lang="de">Analysator-Modul für Amarok</summary>
+  <summary lang="el">Μικροεφαρμογή ανάλυσης για το AmaroK</summary>
+  <summary lang="en_GB">Analyser applet for Amarok</summary>
+  <summary lang="es">Miniaplicación de análisis para Amarok</summary>
+  <summary lang="et">Amaroki analüüsiaplett</summary>
+  <summary lang="eu">Amarok-erako analizatzaile aplikaziotxoa</summary>
+  <summary lang="fi">Amarokin analyysisovelma</summary>
+  <summary lang="fr">Module d'analyseur pour Amarok</summary>
+  <summary lang="gl">Trebello de analizador para Amarok</summary>
+  <summary lang="hu">Elemző kisalkalmazás az Amarokhoz</summary>
+  <summary lang="id">Applet analyzer untuk Amarok</summary>
+  <summary lang="it">Applet dell'analizzatore per Amarok</summary>
+  <summary lang="ko">Amarok 분석기 애플릿</summary>
+  <summary lang="nl">Analyse-applet voor Amarok</summary>
+  <summary lang="pl">Aplet analizatora dla Amaroka</summary>
+  <summary lang="pt">'Applet' de analisador do Amarok</summary>
+  <summary lang="pt_BR">Miniaplicativo de análises para o Amarok</summary>
+  <summary lang="sl">Vstavek analizatorja za Amarok</summary>
+  <summary lang="sv">Analysatorminiprogram för Amarok</summary>
+  <summary lang="uk">Аплет аналізатора для Amarok</summary>
+  <summary lang="x-test">xxAnalyzer applet for Amarokxx</summary>
+  <summary lang="zh_TW">Amarok 的分析器小程式</summary>
+  <url type="donation">https://www.kde.org/donate.php?app=org.kde.amarok.analyzer</url>
+  <developer_name>Mark Kretschmann &lt;kretschmann@kde.org></developer_name>
+  <icon type="stock">view-media-analyzer-amarok</icon>
+  <project_license>GPL-2.0</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+</component>

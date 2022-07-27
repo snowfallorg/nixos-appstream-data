@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>gnome.networkmanager-fortisslvpn</pkgname>
+  <id>network-manager-fortisslvpn</id>
+  <project_license>GPL-2.0+</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+  <extends>nm-connection-editor.desktop</extends>
+  <extends>gnome-control-center.desktop</extends>
+  <name>Fortinet SSLVPN client</name>
+  <name lang="zh_TW">Fortinet SSLVPN 客戶端</name>
+  <name lang="zh_CN">飞塔（Fortinet）SSLVPN 客户端</name>
+  <name lang="uk">Клієнт SSLVPN Fortinet</name>
+  <name lang="tr">Fortinet SSLVPN istemcisi</name>
+  <name lang="sv">Fortinet SSLVPN-klient</name>
+  <name lang="sr@latin">Fortinet SSLVPN klijent</name>
+  <name lang="sr">Фортинет ССЛВПН клијент</name>
+  <name lang="ru">Клиент SSLVPN Fortinet</name>
+  <name lang="ro">Client SSLVPN Fortinet</name>
+  <name lang="pt_BR">Cliente para SSLVPN da Fortinet</name>
+  <name lang="pl">Klient SSLVPN Fortinet</name>
+  <name lang="nl">Fortinet SSLVPN-cliënt</name>
+  <name lang="lv">Fortinet SSLVPN klients</name>
+  <name lang="lt">Fortinet SSLVPN klientas</name>
+  <name lang="ja">Fortinet SSLVPN クライアント</name>
+  <name lang="it">Client SSLVPN Fortinet</name>
+  <name lang="id">Klien SSLVPN Fortinet</name>
+  <name lang="hu">Fortinet SSLVPN kliens</name>
+  <name lang="hr">Fortinet SSLVPN klijent</name>
+  <name lang="he">לקוח SSLVPN של Fortinet</name>
+  <name lang="fur">Client SSLVPN Fortinet</name>
+  <name lang="fr">Client SSLVPN Fortinet</name>
+  <name lang="fi">Fortinet SSLVPN -asiakasohjelmisto</name>
+  <name lang="eu">Fortinet SSLVPN bezeroa</name>
+  <name lang="es">Cliente de Fortinet SSLVPN</name>
+  <name lang="de">Fortinet-SSLVPN-Client</name>
+  <name lang="da">Fortinet SSLVPN-klient</name>
+  <name lang="cs">Klient Fortinet SSLVPN</name>
+  <name lang="ca">Client Fortinet SSLVPN</name>
+  <summary>Client for Fortinet SSLVPN virtual private networks</summary>
+  <summary lang="zh_TW">Fortinet SSLVPN 虛擬私人網路的客戶端</summary>
+  <summary lang="zh_CN">飞塔（Fortinet）虚拟专用网络的客户端</summary>
+  <summary lang="uk">Клієнт для віртуальних приватних мереж SSLVPN Fortinet</summary>
+  <summary lang="tr">Fortinet SSLVPN sanal özel ağlar için istemci</summary>
+  <summary lang="sv">Klient för Fortinet SSLVPN virtuella privata nätverk</summary>
+  <summary lang="sr@latin">Klijent za Fortinet SSLVPN virtuelne privatne mreže</summary>
+  <summary lang="sr">Клијент за Фортинет ССЛВПН виртуелне приватне мреже</summary>
+  <summary lang="ru">Клиент для частных виртуальных сетей Fortinet SSLVPN</summary>
+  <summary lang="ro">Client pentru rețelele private virtuale SSLVPN Fortinet</summary>
+  <summary lang="pt_BR">Cliente para redes particulares virtuais SSLVPN da Fortinet</summary>
+  <summary lang="pl">Klient wirtualnych sieci prywatnych SSLVPN Fortinet</summary>
+  <summary lang="nl">Cliënt voor Fortinet SSLVPN-virtuele privénetwerken</summary>
+  <summary lang="lv">Fortinet SSLVPN virtuālā privātā tīkla klients</summary>
+  <summary lang="lt">Klientas Fortinet SSLVPN virtualiems privatiems tinklams</summary>
+  <summary lang="it">Client per le reti private virtuali SSLVPN Fortinet</summary>
+  <summary lang="id">Klien untuk virtual private network SSLVPN Fortinet</summary>
+  <summary lang="hu">Kliens a Fortinet SSLVPN virtuális magánhálózatokhoz</summary>
+  <summary lang="hr">Klijent za Fortinet SSLVPN virtualne privatne mreže</summary>
+  <summary lang="he">לקוח לרשתות פרטיות מסוג SSLVPN של Fortinet</summary>
+  <summary lang="fur">Client par rêts privadis virtuâls SSLVPN Fortinet</summary>
+  <summary lang="fr">Client pour les réseaux privés virtuels SSLVPN Fortinet</summary>
+  <summary lang="fi">Asiakasohjelmisto Fortinet SSLVPN -erillisverkkoihin</summary>
+  <summary lang="eu">Fortinet SSLVPN sare birtual pribatuetarako bezeroa</summary>
+  <summary lang="es">Cliente para redes privadas virtuales Fortinet SSLVPN</summary>
+  <summary lang="de">Client für virtuelle private Netze des Typs Fortinet-SSLVPN</summary>
+  <summary lang="da">Klient til Fortinets virtuelle private SSLVPN-netværk</summary>
+  <summary lang="cs">Klient pro Fortinet SSLVPN sítě</summary>
+  <summary lang="ca">Client per a xarxes privades virtuals Fortinet SSLVPN</summary>
+  <keywords>
+    <keyword>network</keyword>
+    <keyword>manager</keyword>
+    <keyword>NetworkManager</keyword>
+    <keyword>connection</keyword>
+    <keyword>VPN</keyword>
+    <keyword>Fortinet</keyword>
+    <keyword>openfortivpn</keyword>
+    <keyword>SSLVPN</keyword>
+  </keywords>
+  <description>
+    <p>Support for configuring Fortinet SSLVPN virtual private network connections.</p>
+    <p lang="zh_TW">支援設定 Fortinet SSLVPN 虛擬私人網路連線。</p>
+    <p lang="zh_CN">支持配置飞塔（Fortinet）SSLVPN 虚拟专用网络连接。</p>
+    <p lang="uk">Підтримка налаштовування з'єднань із віртуальними приватними мережами SSLVPN Fortinet.</p>
+    <p lang="tr">SSLVPN sanal özel ağ bağlantılarını yapılandırma desteği.</p>
+    <p lang="sv">Stöd för att konfigurera Fortinet SSLVPN virtuella privata nätverksanslutningar.</p>
+    <p lang="sr@latin">Podrška za podešavanje veza Fortinet SSLVPN virtuelne privatne mreže.</p>
+    <p lang="sr">Подршка за подешавање веза Фортинет ССЛВПН виртуелне приватне мреже.</p>
+    <p lang="ru">Поддержка в настройке подключений частных виртуальных сетей Fortinet SSLVPN</p>
+    <p lang="ro">Suport pentru configurarea conexiunilor de rețea privată virtuală SSLVPN Fortinet.</p>
+    <p lang="pt_BR">Suporte à configuração de conexões de rede privada virtual SSLVPN da Fortinet.</p>
+    <p lang="pl">Obsługa konfigurowania połączeń wirtualnych sieci prywatnych SSLVPN Fortinet.</p>
+    <p lang="nl">Ondersteuning voor configuratie van Fortinet SSLVPN-virtueleprivénetwerkverbindingen.</p>
+    <p lang="lv">Atbalsts Fortinet SSLVPN virtuālo privāto tīklu savienojumu konfigurēšanai.</p>
+    <p lang="lt">Fortinet SSLVPN virtualių privačių tinklo ryšių konfigūracijos palaikymas.</p>
+    <p lang="it">Supporta la configurazione di connessioni a reti private virtuali SSLVNP Fortinet.</p>
+    <p lang="id">Dukungan bagi penataan koneksi virtual private network SSLVPN Fortinet.</p>
+    <p lang="hu">A Fortinet SSLVPN virtuális magánhálózati kapcsolatok beállításának támogatása.</p>
+    <p lang="hr">Podrška za podešavanje Fortinet SSLVPN virtualne privatne mreže.</p>
+    <p lang="he">תמיכה בהגדרות חיבורי רשתות וירטואליות פרטיות מסוג SSLVPN של Fortinet.</p>
+    <p lang="fur">Supuart par configurâ lis conessions di rêts privadis virtuâls SSLVPN Fortinet.</p>
+    <p lang="fr">Prise en charge de la configuration de connexions de réseaux privés virtuels</p>
+    <p lang="fi">Tuki Fortinet SSLVPN -erillisverkkoyhteyksien määrittämiseen.</p>
+    <p lang="eu">Fortinet SSLVPN sare birtual pribatuetako konexioak konfiguratzeko euskarria</p>
+    <p lang="es">Soporte para configurar conexiones a redes privadas virtuales Fortinet SSLVPN.</p>
+    <p lang="de">Unterstützung für die Konfiguration von Fortinet-SSLVPN virtuellen privaten Netz-Verbindungen.</p>
+    <p lang="da">Understøttelse af konfigurering af virtuelle private SSLVPN-netværksforbindelser.</p>
+    <p lang="cs">Podpora konfigurace připojení Fortinet SSLVPN.</p>
+    <p lang="ca">Suport per a la configuració de connexions de xarxes privades virtuals Fortinet SSLVPN.</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image height="578" width="800">https://gitlab.gnome.org/GNOME/NetworkManager-fortisslvpn/raw/master/appdata/fortisslvpn.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>The advanced options dialog</caption>
+      <caption lang="zh_TW">進階選項對話方塊</caption>
+      <caption lang="uk">Вікно додаткових параметрів</caption>
+      <caption lang="tr">Gelişmiş seçenekler iletişim penceresi</caption>
+      <caption lang="sv">Dialogen för avancerade alternativ</caption>
+      <caption lang="sr">Прозорче напредних опција</caption>
+      <caption lang="ru">Диалог расширенных параметров</caption>
+      <caption lang="ro">Dialogul de opțiuni avansate</caption>
+      <caption lang="pt_BR">A caixa de diálogo de opções avançada</caption>
+      <caption lang="pl">Okno zaawansowanych opcji</caption>
+      <caption lang="nl">Het dialoogvenster voor geavanceerde opties</caption>
+      <caption lang="lt">Išplėstinių parametrų dialogas</caption>
+      <caption lang="it">La finestra delle opzioni avanzate</caption>
+      <caption lang="id">Dialog opsi tingkat lanjut</caption>
+      <caption lang="hu">A speciális beállítások párbeszédablak</caption>
+      <caption lang="hr">Dijalog napredne mogućnosti</caption>
+      <caption lang="he">חלונית האפשרויות המתקדמות</caption>
+      <caption lang="fur">Il dialic des opzions avanzadis</caption>
+      <caption lang="fr">Le dialogue pour les options avancées</caption>
+      <caption lang="eu">Aukera aurreratuen elkarrizketa-koadroa</caption>
+      <caption lang="es">El diálogo de opciones avanzadas</caption>
+      <caption lang="de">Der »Erweiterte Optionen«-Dialog</caption>
+      <caption lang="da">Dialogen med avancerede indstillinger</caption>
+      <caption lang="cs">Dialog pokročilých voleb</caption>
+      <caption lang="ca">El diàleg d'opcions avançades</caption>
+      <image height="450" width="800">https://gitlab.gnome.org/GNOME/NetworkManager-fortisslvpn/raw/master/appdata/fortisslvpn-advanced.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://wiki.gnome.org/Projects/NetworkManager/VPN</url>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/NetworkManager-fortisslvpn/issues</url>
+  <update_contact>networkmanager-list@gnome.org</update_contact>
+  <translation type="gettext">NetworkManager-fortisslvpn</translation>
+  <developer_name>The NetworkManager Developers</developer_name>
+  <developer_name lang="zh_TW">NetworkManager 開發者</developer_name>
+  <developer_name lang="zh_CN">NetworkManager 开发者</developer_name>
+  <developer_name lang="uk">Розробники NetworkManager</developer_name>
+  <developer_name lang="tr">NetworkManager Geliştiricileri</developer_name>
+  <developer_name lang="sv">Utvecklarna av Nätverkshanteraren</developer_name>
+  <developer_name lang="sr@latin">Programeri Upravnika mreže</developer_name>
+  <developer_name lang="sr">Програмери Управника мреже</developer_name>
+  <developer_name lang="ru">Разработчики NetworkManager</developer_name>
+  <developer_name lang="ro">Dezvoltatori ManagerRețea</developer_name>
+  <developer_name lang="pt_BR">Os desenvolvedores do NetworkManager</developer_name>
+  <developer_name lang="pl">Programiści projektu NetworkManager</developer_name>
+  <developer_name lang="nl">De NetworkManager-ontwikkelaars</developer_name>
+  <developer_name lang="lv">NetworkManager izstrādātāji</developer_name>
+  <developer_name lang="lt">NetworkManager kūrėjai</developer_name>
+  <developer_name lang="it">Gli sviluppatori di NetworkManager</developer_name>
+  <developer_name lang="id">Para Pengembang NetworkManager</developer_name>
+  <developer_name lang="hu">A Hálózatkezelő fejlesztői</developer_name>
+  <developer_name lang="hr">Razvijatelji Mrežnog upravitelja</developer_name>
+  <developer_name lang="he">מפתחי NetworkManager</developer_name>
+  <developer_name lang="fur">I svilupadôrs di NetworkManager</developer_name>
+  <developer_name lang="fr">Les développeurs NetworkManager</developer_name>
+  <developer_name lang="fi">NetworkManagerin kehittäjät</developer_name>
+  <developer_name lang="eu">NetworkManager-en garatzaileak</developer_name>
+  <developer_name lang="es">Los desarrolladores de NetworkManager</developer_name>
+  <developer_name lang="de">Die Entwickler von NetworkManager</developer_name>
+  <developer_name lang="da">Udviklerne af Netværkshåndtering</developer_name>
+  <developer_name lang="cs">Vývojáři aplikace NetworkManager</developer_name>
+  <developer_name lang="ca">Els desenvolupadors del NetworkManager</developer_name>
+</component>

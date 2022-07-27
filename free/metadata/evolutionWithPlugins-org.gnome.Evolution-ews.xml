@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>evolutionWithPlugins</pkgname>
+  <id>evolution-ews</id>
+  <extends>org.gnome.Evolution.desktop</extends>
+  <name>Exchange Web Services</name>
+  <name lang="as">ৱেব সেৱাসমূহ অদল বদল কৰক</name>
+  <name lang="bn_IN">Exchange ওয়েব পরিষেবাদি</name>
+  <name lang="bs">Exchange Web usluge</name>
+  <name lang="ca">Serveis web de l'Exchange</name>
+  <name lang="cs">Webové služby Exchange</name>
+  <name lang="da">Exchange Web-tjenester</name>
+  <name lang="de">Exchange-Webdienste</name>
+  <name lang="el">Υπηρεσίες ιστού Exchange</name>
+  <name lang="en_GB">Exchange Web Services</name>
+  <name lang="es">Servicios web Exchange</name>
+  <name lang="eu">Exchange web-zerbitzuak</name>
+  <name lang="fr">Exchange Web Services</name>
+  <name lang="gl">Servizos web Exchange</name>
+  <name lang="gu">ઍક્સચેન્જ વેબ સેવાઓ</name>
+  <name lang="hi">वेब सेवा विनिमय करें</name>
+  <name lang="hr">Exchange web usluge</name>
+  <name lang="hu">Exchange webszolgáltatások</name>
+  <name lang="id">Layanan Web Exchange</name>
+  <name lang="it">Servizi web Exchange</name>
+  <name lang="ja">Exchange Web Services</name>
+  <name lang="kn">ಎಕ್ಸ್‌ಚೇಂಜ್ ವೆಬ್ ಸರ್ವಿಸಸ್</name>
+  <name lang="lt">Exchange Web Services</name>
+  <name lang="lv">Exchange Web Services</name>
+  <name lang="mr">एक्सचेंज वेब सर्व्हिसेस्</name>
+  <name lang="nl">Exchange-webdiensten</name>
+  <name lang="oc">Exchange Web Services</name>
+  <name lang="or">ଏକ୍ସଚେଞ୍ଜ ୱେବ ସର୍ଭିସଗୁଡ଼ିକ</name>
+  <name lang="pl">Exchange Web Services</name>
+  <name lang="pt">Serviços web do Exchange</name>
+  <name lang="pt_BR">Web services do Exchange</name>
+  <name lang="ro">Servicii web Exchange</name>
+  <name lang="ru">Веб-службы Exchange</name>
+  <name lang="sk">Služby Exchange cez web</name>
+  <name lang="sl">Spletna storitev Exchange</name>
+  <name lang="sr">Веб услуге размене</name>
+  <name lang="sr@latin">Veb usluge razmene</name>
+  <name lang="sv">Exchange Web Services</name>
+  <name lang="ta">Exchange வலை சேவைகள்</name>
+  <name lang="te">వినిమయ వెబ్ సేవలు</name>
+  <name lang="tr">Exchange Web Servisleri</name>
+  <name lang="uk">Вебслужби Exchange</name>
+  <name lang="zh_CN">Exchange 网络服务</name>
+  <summary>For accessing Exchange servers using Web Services</summary>
+  <summary lang="as">ৱেব সেৱাসমূহ ব্যৱহাৰ কৰি অদল বদল চাৰ্ভাৰসমূহ অভিগম কৰিবলে</summary>
+  <summary lang="bn_IN">ওয়েব পরিষেবাদির সাহায্যে Exchange সার্ভার অ্যাক্সেস করার ক্ষেত্রে</summary>
+  <summary lang="bs">Za pristup Exchange serverima koristeći Web usluge</summary>
+  <summary lang="ca">Per a accedir a servidors Exchange usant serveis web</summary>
+  <summary lang="cs">Přístup k serverům Exchange pomocí webových služeb</summary>
+  <summary lang="da">For adgang til Exchangeservere der bruger internettjenester</summary>
+  <summary lang="de">Für den Zugriff auf Exchange-Server über Webdienste</summary>
+  <summary lang="el">Για πρόσβαση διακομιστών Exchange χρησιμοποιώντας υπηρεσίες ιστού</summary>
+  <summary lang="en_GB">For accessing Exchange servers using Web Services</summary>
+  <summary lang="es">Para acceder a servidores Exchange usando servicios web</summary>
+  <summary lang="eu">Exchange zerbitzarietara atzitzea, web-zerbitzuak erabiliz</summary>
+  <summary lang="fr">Pour accéder aux serveurs Exchange en utilisant Web Services</summary>
+  <summary lang="gl">Para acceder a servidor Exchange usando servizos web</summary>
+  <summary lang="gu">વેબ સેવાઓની મદદથી ઍક્સચેન્જ સર્વરોને વાપરવા માટે</summary>
+  <summary lang="hi">वेब सेवा के उपयोग से विनिमय सर्वर की पहुँच के लिए</summary>
+  <summary lang="hr">Za pristup Exchange poslužiteljima koristeći web usluge</summary>
+  <summary lang="hu">Exchange kiszolgálók eléréséhez webszolgáltatások használatával</summary>
+  <summary lang="id">Untuk mengakses server Exchange memakai Layanan Web</summary>
+  <summary lang="it">Per accedere ai server Exchange usando i servizi web</summary>
+  <summary lang="ja">Web サービスを使用して Exchange サーバーにアクセスする</summary>
+  <summary lang="kn">ವೆಬ್‌ ಸರ್ವಿಸಸ್ ಬಳಸಿಕೊಂಡು ಎಕ್ಸ್‌ಚೇಂಜ್ ಪೂರೈಕೆಗಣಕಗಳನ್ನು ನಿಲುಕಿಸಿಕೊಳ್ಳಲು</summary>
+  <summary lang="lt">Exchange serverių pasiekimui naudojant internetines tarnybas</summary>
+  <summary lang="lv">Lai piekļūtu Exchange serveriem, izmantojot Web Services</summary>
+  <summary lang="mr">वेब सर्व्हिसेसचा वापर करून एक्सचेंज सर्व्हर्सकरीता प्रवेश प्राप्त करण्यासाठी</summary>
+  <summary lang="nl">Voor toegang tot Exchange-servers met webdiensten</summary>
+  <summary lang="oc">Per accedir als servidors Exchange en utilizant Web Services</summary>
+  <summary lang="or">ୱେବ ସର୍ଭିସଗୁଡ଼ିକୁ ବ୍ୟବହାର କରି ଏକ୍ସଚେଞ୍ଜ ସର୍ଭରଗୁଡ଼ିକୁ ଅଭିଗମ୍ୟ କରିବା ପାଇଁ</summary>
+  <summary lang="pl">Dostęp do serwerów Exchange za pomocą Web Services</summary>
+  <summary lang="pt">Para aceder a servidores Exchange usando serviços web</summary>
+  <summary lang="pt_BR">Para acessar servidores Exchange usando Web services</summary>
+  <summary lang="ro">Pentru accesarea serverelor Exchange folosind servicii web</summary>
+  <summary lang="ru">Для доступа к серверам Exchange с помощью веб-служб</summary>
+  <summary lang="sk">Na prístup k serverom Exchange pomocou webových služieb</summary>
+  <summary lang="sl">Za dostop do strežnikov Exchange preko spletnih storitev</summary>
+  <summary lang="sr">За приступ серверима размене помоћу веб услуга</summary>
+  <summary lang="sr@latin">Za pristup serverima razmene pomoću veb usluga</summary>
+  <summary lang="sv">För att nå Exchange-servrar som använder Web Services</summary>
+  <summary lang="ta">வலை சேவைகளைப் பயன்படுத்தி Exchange சேவையகங்களை அணுகுவதற்கு</summary>
+  <summary lang="te">ఇచ్చిపుచ్చుకొనే సేవికలను వెబ్ సేవలను వుపయోగించి వాడుకొనుటకు</summary>
+  <summary lang="tr">Web Servisleri kullanarak Exchange sunucularına ulaşmak için</summary>
+  <summary lang="uk">Для доступу до серверів Exchange за допомогою вебслужб</summary>
+  <url type="homepage">https://live.gnome.org/Apps/Evolution</url>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>LGPL</project_license>
+  <updatecontact>evolution-hackers_at_gnome.org</updatecontact>
+  <kudos>
+    <kudo>ModernToolkit</kudo>
+  </kudos>
+</component>

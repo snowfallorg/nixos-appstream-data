@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>libsForQt5.kdeplasma-addons</pkgname>
+  <id>org.kde.plasma.quicklaunch</id>
+  <extends>org.kde.plasmashell</extends>
+  <name>Quicklaunch</name>
+  <name lang="ar">الإطلاق السّريع</name>
+  <name lang="az">Sürətli başlatmaq</name>
+  <name lang="bg">Бърз стартиране</name>
+  <name lang="ca@valencia">Quicklaunch</name>
+  <name lang="ca">Quicklaunch</name>
+  <name lang="cs">Rychlé spuštění</name>
+  <name lang="de">Schnellstarter</name>
+  <name lang="en_GB">Quicklaunch</name>
+  <name lang="es">Lanzamiento rápido</name>
+  <name lang="eu">Quicklaunch</name>
+  <name lang="fi">Pikakäynnistin</name>
+  <name lang="fr">Lancement rapide</name>
+  <name lang="ia">Quicklaunch (lancea rapidemente)</name>
+  <name lang="id">Quicklaunch</name>
+  <name lang="it">Avvio rapido</name>
+  <name lang="ja">クイック起動</name>
+  <name lang="ko">빠른 실행</name>
+  <name lang="lt">Spartusis paleidimas</name>
+  <name lang="nl">Snelstarten</name>
+  <name lang="nn">Snøgg­startar</name>
+  <name lang="pl">Szybkie uruchamianie</name>
+  <name lang="pt">Lançador Rápido</name>
+  <name lang="pt_BR">Lançamento rápido</name>
+  <name lang="ro">Lansare rapidă</name>
+  <name lang="ru">Панель запуска</name>
+  <name lang="sk">Rýchle spustenie</name>
+  <name lang="sl">Quicklaunch</name>
+  <name lang="sv">Snabbstart</name>
+  <name lang="tr">Hizlı Başlat</name>
+  <name lang="uk">Швидкий запуск</name>
+  <name lang="vi">Khởi chạy nhanh</name>
+  <name lang="x-test">xxQuicklaunchxx</name>
+  <name lang="zh_CN">快速启动</name>
+  <summary>Launch your favourite Applications</summary>
+  <summary lang="ar">تشغل تطبيقاتك المفضلة</summary>
+  <summary lang="az">Seçilmiş tətbiqlərinizi başladın</summary>
+  <summary lang="bg">Стартиране на вашите предпочитани приложения</summary>
+  <summary lang="ca@valencia">Inicia les vostres aplicacions preferides</summary>
+  <summary lang="ca">Llança les vostres aplicacions preferides</summary>
+  <summary lang="cs">Spouštějte své oblíbené aplikace</summary>
+  <summary lang="de">Ermöglicht den Aufruf Ihrer Lieblingsprogramme</summary>
+  <summary lang="en_GB">Launch your favourite Applications</summary>
+  <summary lang="es">Lanzar sus aplicaciones favoritas</summary>
+  <summary lang="eu">Abiarazi zure aplikazio gogokoenak</summary>
+  <summary lang="fi">Käynnistä suosikkisovelluksesi</summary>
+  <summary lang="fr">Lancer vos applications préférées</summary>
+  <summary lang="ia">Lancea tu applicationes favorite</summary>
+  <summary lang="id">Luncurkan aplikasi favoritmu</summary>
+  <summary lang="it">Avvia le tue applicazioni preferite</summary>
+  <summary lang="ja">好きなアプリケーションを起動します</summary>
+  <summary lang="ko">즐겨 찾는 프로그램 실행</summary>
+  <summary lang="lt">Paleisti mėgstamas programas</summary>
+  <summary lang="nl">Uw favoriete programma's starten</summary>
+  <summary lang="nn">Start favoritt­programma dine</summary>
+  <summary lang="pl">Uruchamia ulubione programy</summary>
+  <summary lang="pt">Invocar as suas aplicações favoritas</summary>
+  <summary lang="pt_BR">Executa seus aplicativos favoritos</summary>
+  <summary lang="ro">Lansați aplicații preferate</summary>
+  <summary lang="ru">Быстрый запуск избранных приложений</summary>
+  <summary lang="sk">Spustite svoje obľúbené aplikácie</summary>
+  <summary lang="sl">Zaženi vaše priljubljene aplikacije</summary>
+  <summary lang="sv">Start dina favoritprogram</summary>
+  <summary lang="tr">Favori uygulamalarınızı çalıştır</summary>
+  <summary lang="uk">Запуск ваших улюблених програм</summary>
+  <summary lang="vi">Khởi chạy các ứng dụng bạn ưa thích</summary>
+  <summary lang="x-test">xxLaunch your favourite Applicationsxx</summary>
+  <summary lang="zh_CN">启动您最常用的程序</summary>
+  <url type="homepage">https://kde.org/plasma-desktop/</url>
+  <url type="donation">https://www.kde.org/donate.php?app=org.kde.plasma.quicklaunch</url>
+  <developer_name>David Rosca &lt;nowrep@gmail.com></developer_name>
+  <icon type="stock">fork</icon>
+  <project_license>GPL-2.0+</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+</component>

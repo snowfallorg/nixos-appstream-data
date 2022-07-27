@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+  <pkgname>libsForQt5.plasma-sdk</pkgname>
+  <id>org.kde.plasmoidviewershell</id>
+  <name>PlasmoidViewerShell</name>
+  <name lang="ast">PlasmoidViewerShell</name>
+  <name lang="az">PlasmoidViewer üzlüyü</name>
+  <name lang="bg">PlasmoidViewerShell</name>
+  <name lang="ca@valencia">Intèrpret d'ordres del visor de plasmoides</name>
+  <name lang="ca">Intèrpret d'ordres del visor de plasmoides</name>
+  <name lang="da">PlasmoidViewerShell</name>
+  <name lang="de">PlasmoidViewerShell</name>
+  <name lang="el">PlasmoidViewerShell</name>
+  <name lang="en_GB">PlasmoidViewerShell</name>
+  <name lang="es">Entorno de vista de plasmoides</name>
+  <name lang="et">PlasmoidViewerShell</name>
+  <name lang="eu">PlasmoidViewerShell</name>
+  <name lang="fi">PlasmoidViewerShell</name>
+  <name lang="fr">Interpréteur PlasmoidViewer</name>
+  <name lang="gl">Shell do visor de plasmoides</name>
+  <name lang="hu">PlasmoidViewerShell</name>
+  <name lang="ia">PlasmoidViewerShell</name>
+  <name lang="id">PlasmoidViewerShell</name>
+  <name lang="it">PlasmoidViewerShell</name>
+  <name lang="ko">PlasmoidViewerShell</name>
+  <name lang="lt">PlasmoidViewerShell</name>
+  <name lang="nl">PlasmoidViewerShell</name>
+  <name lang="nn">PlasmoidViewerShell</name>
+  <name lang="pl">Powłoka przeglądarki plazmoidów</name>
+  <name lang="pt">Consola do PlasmoidViewer</name>
+  <name lang="pt_BR">Console do PlasmoidViewer</name>
+  <name lang="ru">Оболочка PlasmoidViewer</name>
+  <name lang="sk">PlasmoidViewerShell</name>
+  <name lang="sl">PlasmoidViewerShell</name>
+  <name lang="sr@ijekavian">Шкољка приказивача плазмоида</name>
+  <name lang="sr@ijekavianlatin">Školjka prikazivača plazmoida</name>
+  <name lang="sr@latin">Školjka prikazivača plazmoida</name>
+  <name lang="sr">Шкољка приказивача плазмоида</name>
+  <name lang="sv">Plasmoid-visningsskal</name>
+  <name lang="tr">PlasmoidViewerShell</name>
+  <name lang="uk">Оболонка перегляду плазмоїдів</name>
+  <name lang="x-test">xxPlasmoidViewerShellxx</name>
+  <name lang="zh_CN">Plasmoid 查看器外壳</name>
+  <name lang="zh_TW">PlasmoidViewerShell</name>
+  <summary>PlasmoidViewer Shell</summary>
+  <summary lang="ast">Shell de PlasmoidViewer</summary>
+  <summary lang="az">Plasmoidlərə baxış üzlüyü</summary>
+  <summary lang="bg">Обвивка на PlasmoidViewer</summary>
+  <summary lang="ca@valencia">Intèrpret d'ordres del visor de plasmoides</summary>
+  <summary lang="ca">Intèrpret d'ordres del visor de plasmoides</summary>
+  <summary lang="da">PlasmoidViewer-skal</summary>
+  <summary lang="de">PlasmoidViewer-Shell</summary>
+  <summary lang="el">Κέλυφος PlasmoidViewer</summary>
+  <summary lang="en_GB">PlasmoidViewer Shell</summary>
+  <summary lang="es">Entorno de vista de plasmoides</summary>
+  <summary lang="et">PlasmoidVieweri shell</summary>
+  <summary lang="eu">PlasmoidViewer-Shell</summary>
+  <summary lang="fi">PlasmoidViewer-kuori</summary>
+  <summary lang="fr">Interpréteur PlasmoidViewer</summary>
+  <summary lang="gl">Shell do visor de plasmoides</summary>
+  <summary lang="hu">PlasmoidViewer felület</summary>
+  <summary lang="ia">Shell de PlasmoidViewer</summary>
+  <summary lang="id">Shell PenampilPlasmoid</summary>
+  <summary lang="it">PlasmoidViewer Shell</summary>
+  <summary lang="ko">PlasmoidViewer 셸</summary>
+  <summary lang="lt">PlasmoidViewer apvalkalas</summary>
+  <summary lang="nl">Shell van PlasmoidViewer</summary>
+  <summary lang="nn">PlasmoidViewer-skal</summary>
+  <summary lang="pl">Powłoka przeglądarki plazmoidów</summary>
+  <summary lang="pt">Consola do PlasmoidViewer</summary>
+  <summary lang="pt_BR">Console do PlasmoidViewer</summary>
+  <summary lang="ru">Оболочка просмотра виджетов Plasma</summary>
+  <summary lang="sk">Shell PlasmoidViewer</summary>
+  <summary lang="sl">Lupina PlasmoidViewer</summary>
+  <summary lang="sr@ijekavian">Шкољка приказивача плазмоида</summary>
+  <summary lang="sr@ijekavianlatin">Školjka prikazivača plazmoida</summary>
+  <summary lang="sr@latin">Školjka prikazivača plazmoida</summary>
+  <summary lang="sr">Шкољка приказивача плазмоида</summary>
+  <summary lang="sv">Plasmoid-visningsskal</summary>
+  <summary lang="tr">PlasmoidViewer Kabuğu</summary>
+  <summary lang="uk">Оболонка перегляду плазмоїдів</summary>
+  <summary lang="x-test">xxPlasmoidViewer Shellxx</summary>
+  <summary lang="zh_CN">Plasmoid 查看器外壳</summary>
+  <summary lang="zh_TW">Plasmoid 檢視器殼層</summary>
+  <url type="donation">https://www.kde.org/donate.php?app=org.kde.plasmoidviewershell</url>
+  <developer_name>Marco Martin &lt;mart@kde.org></developer_name>
+  <project_license>GPL-2.0+</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+</component>

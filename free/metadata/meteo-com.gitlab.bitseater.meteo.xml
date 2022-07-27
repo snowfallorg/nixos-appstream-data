@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>meteo</pkgname>
+  <launchable type="desktop-id">com.gitlab.bitseater.meteo.desktop</launchable>
+  <icon width="64" type="cached" height="64">com.gitlab.bitseater.meteo.png</icon>
+  <icon height="128" width="128" type="cached">com.gitlab.bitseater.meteo.png</icon>
+  <id>com.gitlab.bitseater.meteo.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <update_contact>bitseater@gmail</update_contact>
+  <name>Meteo</name>
+  <name lang="uk">Meteo</name>
+  <name lang="sr">Meteo</name>
+  <name lang="ru">Meteo</name>
+  <name lang="pt_PT">Meteo</name>
+  <name lang="pt_BR">Meteo</name>
+  <name lang="pt">Meteo</name>
+  <name lang="nl">Meteo</name>
+  <name lang="nb">Meteo</name>
+  <name lang="lt">Meteo</name>
+  <name lang="fr">Météo</name>
+  <name lang="es_ES">Meteo</name>
+  <name lang="es">Meteo</name>
+  <name lang="en">Meteo</name>
+  <name lang="de">Meteo</name>
+  <name lang="ca">Meteo</name>
+  <translation type="gettext">com.gitlab.bitseater.meteo</translation>
+  <summary>Know the forecast of the next hours and days with data and maps</summary>
+  <summary lang="uk">Знайте прогноз на наступні години та дні за допомогою даних та карт</summary>
+  <summary lang="sr">Сазнајте временску прогнозу за наредне часове и дане,уз податке и мапе</summary>
+  <summary lang="ru">Узнайте прогноз погоды на ближайшие часы и дни с отображением данных на карте</summary>
+  <summary lang="pt_PT">Saber a previsão para as próximas horas e dias, com dados e mapas</summary>
+  <summary lang="pt_BR">Saber a previsão para as próximas horas e dias, com dados e mapas</summary>
+  <summary lang="pt">Saber a previsão para as próximas horas e dias, com dados e mapas</summary>
+  <summary lang="nl">Weersvoorspelling voor de volgende uren en dagen met gegevens en kaarten</summary>
+  <summary lang="nb">Se værmeldingen for de neste timene og dagene med værdata og kartvisning</summary>
+  <summary lang="lt">Žinokite ateinančių valandų ir dienų orų prognozę su duomenimis ir žemėlapiais</summary>
+  <summary lang="fr">Prenez connaissance des prévisions dans les heures et des jours à venir avec des données et des cartes</summary>
+  <summary lang="es_ES">Conozca la previsión meteorológica de las próximas horas y días, con datos y mapas</summary>
+  <summary lang="es">Conozca la previsión meteorológica de las próximas horas y días, con datos y mapas</summary>
+  <summary lang="en">Know the forecast of the next hours and days with data and maps</summary>
+  <summary lang="de">Sehen Sie die Wetterprognose der nächsten Stunden und Tage mit vielen Informationen und einer Kartenansicht</summary>
+  <summary lang="ca">Conegui la previsió meteorològica de les pròximes hores i dies, amb dades i mapes</summary>
+  <description>
+    <p>Current weather, with information about temperature, pressure,
+        wind speed and wind direction, sunrise and sunset. Know meteorologic
+        predictions to next hours and days. Show awesome maps with all the
+        information. Switch between some maps distributors. Now with System
+        Tray Indicator, showing your location and forecast.</p>
+    <p lang="uk">Поточна погода з інформацією про температуру, тиск, швидкість вітру та напрямок вітру, схід та захід сонця. Знайте метеорологічні прогнози на наступні години та дні. Покажіть приголомшливі карти з усією інформацією. Перемикайтеся між різними розповсюджувачами карт. Тепер з Індикатором системного лотка, який показує ваше географічне становище та прогноз.</p>
+    <p lang="sr">Тренутна временска прогноза,са информацијама о температури, притиску, брзини ветра и смеру , изласком и заласком сунца. Приказ фантастичних мапа са свим информацијама. Избор више дистрибутера информационих мапа.</p>
+    <p lang="ru">Текущая погода, с информацией о температуре, давлении, скорости ветра и ветре, восходе и закате. Знать метеорологические прогнозы в следующие часы и дни. Покажите удивительные карты со всей информацией. Переключитесь между некоторыми дистрибьюторами карт. Теперь с индикатором системного лотка, показывающим ваше местоположение и прогноз.</p>
+    <p lang="pt_PT">Clima atual, com informações sobre temperatura, pressão, velocidade do vento e direção do vento, nascer e pôr do sol. Conheça as previsões meteorológicas para as próximas horas e dias. Mostrar mapas impressionantes com todas as informações. Alterne entre alguns distribuidores de mapas. Agora com o Indicador da bandeja do sistema, mostrando sua localização e previsão.</p>
+    <p lang="pt_BR">Clima atual, com informações sobre temperatura, pressão, velocidade do vento e direção do vento, nascer e pôr do sol. Conheça as previsões meteorológicas para as próximas horas e dias. Mostrar mapas impressionantes com todas as informações. Alterne entre alguns distribuidores de mapas. Agora com o Indicador da bandeja do sistema, mostrando sua localização e previsão.</p>
+    <p lang="pt">Clima atual, com informações sobre temperatura, pressão, velocidade do vento e direção do vento, nascer e pôr do sol. Conheça as previsões meteorológicas para as próximas horas e dias. Mostrar mapas impressionantes com todas as informações. Alterne entre alguns distribuidores de mapas. Agora com o Indicador da bandeja do sistema, mostrando sua localização e previsão.</p>
+    <p lang="nl">Huidig weer, met informatie over temperatuur, luchtdruk, windsnelheid en windrichting, zonsopkomst, zonsondergang. Weersvoorspellingen voor de volgende uren en dagen. Toont mooie kaarten met alle informatie. Wissel tussen kaartenproviders. Nu met taakbalkindicator, die locatie en voorspelling toont.</p>
+    <p lang="nb">Aktuelt vær, med informasjon om temperatur, trykk, vindhastighet og vindretning, soloppgang og solnedgang. Kjenn meteorologiske prediksjoner til neste timer og dager. Vis fantastiske kart med all informasjon. Bytt mellom noen kartdistributører. Nå med System Tray Indicator, som viser posisjon og prognose.</p>
+    <p lang="lt">Dabartiniai orai su temperatūros, slėgio, vėjo greičio ir krypties, saulėtekio ir saulėlydžio informacija. Rodykite įspūdingus žemėlapius su visa informacija. Persijunkite tarp kai kurių žemėlapių platintojų.</p>
+    <p lang="fr">Météo actuelle, avec des informations sur la température, la pression, la vitesse et la direction du vent, le lever et le coucher du soleil. Connaître les prévisions météorologiques pour les prochaines heures et les prochains jours. Affichez des cartes géniales avec toutes les informations. Basculez entre certains distributeurs de cartes. Maintenant, avec l'indicateur de plateau système, indiquant votre emplacement et vos prévisions.</p>
+    <p lang="es_ES">Situación meteorológica actual, con información sobre temperatura, presión, velocidad y dirección del viento, amanecer y crepúsculo. Muestra divertidos mapas con toda la información. Se puede cambiar entre distintos proveedores de mapas.</p>
+    <p lang="es">Situación meteorológica actual, con información sobre temperatura, presión, velocidad y dirección del viento, amanecer y crepúsculo. Muestra divertidos mapas con toda la información. Se puede cambiar entre distintos proveedores de mapas.</p>
+    <p lang="en">Current weather, with information about temperature, pressure, wind speed and wind direction, sunrise and sunset. Know meteorologic predictions to next hours and days. Show awesome maps with all the information. Switch between some maps distributors. Now with System Tray Indicator, showing your location and forecast.</p>
+    <p lang="de">Aktuelles Wetter mit Informationen zu Temperatur, Druck, Windgeschwindigkeit und Windrichtung, Sonnenaufgang und Sonnenuntergang. Kennen Sie meteorologische Vorhersagen für die nächsten Stunden und Tage. Zeige tolle Karten mit allen Informationen. Wechseln Sie zwischen einigen Kartenverteilern. Jetzt mit der Systemablage-Anzeige, die Ihren Standort und Ihre Prognose anzeigt.</p>
+    <p lang="ca">El temps actual, amb informació sobre la temperatura, la pressió, la velocitat del vent i la direcció del vent, la sortida del sol i la posta de sol. Conegueu prediccions meteorològiques a les properes hores i dies. Mostra mapes increïbles amb tota la informació. Canvia entre alguns distribuïdors de mapes. Ara, amb l'indicador de safata del sistema, que mostra la vostra ubicació i previsió.</p>
+    <p>Other features: </p>
+    <p lang="uk">Інші особливості:</p>
+    <p lang="sr">Остале могућности:</p>
+    <p lang="ru">Другие характеристики:</p>
+    <p lang="pt_PT">Other features:</p>
+    <p lang="pt_BR">Other features:</p>
+    <p lang="pt">Other features:</p>
+    <p lang="nl">Andere mogelijkheden:</p>
+    <p lang="nb">Andre egenskaper:</p>
+    <p lang="lt">Kitos ypatybės:</p>
+    <p lang="fr">Other features:</p>
+    <p lang="es_ES">Otras características:</p>
+    <p lang="es">Otras características:</p>
+    <p lang="en">Other features:</p>
+    <p lang="de">Other features:</p>
+    <p lang="ca">Other features:</p>
+    <ul>
+      <li>Forecast for next 18 hours</li>
+      <li lang="uk">Прогноз на наступні 18 годин</li>
+      <li lang="sr">Прогноза за наредних 18 часова</li>
+      <li lang="ru">Прогноз на следующие 18 часов</li>
+      <li lang="pt_PT">Previsão para os próximos 18 horas</li>
+      <li lang="pt_BR">Previsão para os próximos 18 horas</li>
+      <li lang="pt">Previsão para os próximos 18 horas</li>
+      <li lang="nl">Voorspelling voor de volgende 18 uur</li>
+      <li lang="nb">Værvarsling for neste 18 timer</li>
+      <li lang="lt">Orų prognozė ateinančioms 18 valandoms</li>
+      <li lang="fr">Prévisions pour les prochaines 18 heures</li>
+      <li lang="es_ES">Predicción para las próximas 18 horas</li>
+      <li lang="es">Predicción para las próximas 18 horas</li>
+      <li lang="en">Forecast for next 18 hours</li>
+      <li lang="de">Prognose für die nächsten 18 Stunden</li>
+      <li lang="ca">Predicció per a les pròximes 18 hores</li>
+      <li>Forecast for next five days</li>
+      <li lang="uk">Прогноз на наступні п'ять днів</li>
+      <li lang="sr">Прогноза за наредних 5 дана</li>
+      <li lang="ru">Прогноз на ближайшие пять дней</li>
+      <li lang="pt_PT">Previsão para os próximos cinco dias</li>
+      <li lang="pt_BR">Previsão para os próximos cinco dias</li>
+      <li lang="pt">Previsão para os próximos cinco dias</li>
+      <li lang="nl">Voorspelling voor de volgende vijf dagen</li>
+      <li lang="nb">Værvarsling for neste fem dager</li>
+      <li lang="lt">Orų prognozė ateinančioms 5 dienoms</li>
+      <li lang="fr">Prévisions pour les cinq prochains jours</li>
+      <li lang="es_ES">Previsión para los próximos cinco días</li>
+      <li lang="es">Previsión para los próximos cinco días</li>
+      <li lang="en">Forecast for next five days</li>
+      <li lang="de">Prognose für die nächsten fünf Tage</li>
+      <li lang="ca">Previsió per als pròxims cinc dies</li>
+      <li>Choose your units from metric, imperial or british systems</li>
+      <li lang="uk">Виберіть одиниці виміру з метричної, імперської  або британської систем</li>
+      <li lang="sr">Изаберите Ваше јединице мере (метричке,империјалне или британске)</li>
+      <li lang="ru">Выберите единицы (метрические, имперские или британские)</li>
+      <li lang="pt_PT">Escolha seu sistema de unidades (sistema métrico, imperial ou britânico)</li>
+      <li lang="pt_BR">Escolha seu sistema de unidades (sistema métrico, imperial ou britânico)</li>
+      <li lang="pt">Escolha seu sistema de unidades (sistema métrico, imperial ou britânico)</li>
+      <li lang="nl">Kies jouw eenheden uit metrisch, imperial of Brits systeem</li>
+      <li lang="nb">Velg måleenhet utfra metrisk, imperisk eller britisk system</li>
+      <li lang="lt">Pasirinkite savo vienetus (metrinius, imperinius ar britiškus)</li>
+      <li lang="fr">Choisissez une unité (métrique, impériale ou britannique)</li>
+      <li lang="es_ES">Elija unidades (Sistema métrico, imperial o británico)</li>
+      <li lang="es">Elija unidades (Sistema métrico, imperial o británico)</li>
+      <li lang="en">Choose your units from metric, imperial or british systems</li>
+      <li lang="de">Wählen Sie die gewünschte Maßeinheit (Metrisch, Imperial oder Britisch)</li>
+      <li lang="ca">Esculli unitats (Sistema mètric, imperial o britànic)</li>
+      <li>Choose your city with popup maps</li>
+      <li lang="uk">Оберіть своє місто на виринаючих картах</li>
+      <li lang="sr">Изаберите Ваш град са информационим мапама</li>
+      <li lang="ru">Выберите свой город с информацией на карте</li>
+      <li lang="pt_PT">Escolha sua cidade com os mapas de informação</li>
+      <li lang="pt_BR">Escolha sua cidade com os mapas de informação</li>
+      <li lang="pt">Escolha sua cidade com os mapas de informação</li>
+      <li lang="nl">Kies jouw stad met popup-kaarten</li>
+      <li lang="nb">Velg din by med popup-kart</li>
+      <li lang="lt">Pasirinkite savo miestą su žemėlapių informacija</li>
+      <li lang="fr">Choisissez votre ville grâce à la carte</li>
+      <li lang="es_ES">Elija localidad desde mapas informativos</li>
+      <li lang="es">Elija localidad desde mapas informativos</li>
+      <li lang="en">Choose your city with popup maps</li>
+      <li lang="de">Wählen Sie Ihren Ort mithilfe der Karte</li>
+      <li lang="ca">Esculli la localitat des de mapes informatius</li>
+      <li>Watch awesome maps with weather information</li>
+      <li lang="uk">Дивіться приголомшливі карти з інформацією про погоду</li>
+      <li lang="sr">Погледај феномалне мапе са информацијама о времену</li>
+      <li lang="ru">Посмотрите классные карты с информацией о погоде</li>
+      <li lang="pt_PT">Assista incríveis mapas com informação do tempo</li>
+      <li lang="pt_BR">Assista incríveis mapas com informação do tempo</li>
+      <li lang="pt">Assista incríveis mapas com informação do tempo</li>
+      <li lang="nl">Bekijk kaarten met weersinformatie</li>
+      <li lang="nb">Imponerede kart med værinformasjon</li>
+      <li lang="lt">Stebėkite įspūdingus žemėlapius su orų informacija</li>
+      <li lang="fr">Regardez de superbes cartes météorologiques</li>
+      <li lang="es_ES">Observe divertidos mapas con información meteorológica</li>
+      <li lang="es">Observe divertidos mapas con información meteorológica</li>
+      <li lang="en">Watch awesome maps with weather information</li>
+      <li lang="de">Wunderbare Karten mit Informationen ansehen</li>
+      <li lang="ca">Observi divertits mapes amb informació meteorològica</li>
+    </ul>
+  </description>
+  <provides>
+    <binary>com.gitlab.bitseater.meteo</binary>
+  </provides>
+  <screenshots>
+    <screenshot type="default">
+      <image type="source" height="598" width="898">https://gitlab.com/bitseater/meteo/raw/master/data/screens/screenshot_1.png</image>
+    </screenshot>
+    <screenshot type="default">
+      <image height="598" type="source" width="898">https://gitlab.com/bitseater/meteo/raw/master/data/screens/screenshot_2.png</image>
+    </screenshot>
+    <screenshot type="default">
+      <image width="898" type="source" height="598">https://gitlab.com/bitseater/meteo/raw/master/data/screens/screenshot_3.png</image>
+    </screenshot>
+    <screenshot type="default">
+      <image type="source" height="598" width="898">https://gitlab.com/bitseater/meteo/raw/master/data/screens/screenshot_4.png</image>
+    </screenshot>
+  </screenshots>
+  <developer_name>Carlos Suarez</developer_name>
+  <developer_name lang="uk">Carlos Suarez</developer_name>
+  <developer_name lang="sr">Carlos Suarez</developer_name>
+  <developer_name lang="ru">Carlos Suarez</developer_name>
+  <developer_name lang="pt_PT">Carlos Suarez</developer_name>
+  <developer_name lang="pt_BR">Carlos Suarez</developer_name>
+  <developer_name lang="pt">Carlos Suarez</developer_name>
+  <developer_name lang="nl">Carlos Suarez</developer_name>
+  <developer_name lang="nb">Carlos Suarez</developer_name>
+  <developer_name lang="lt">Carlos Suarez</developer_name>
+  <developer_name lang="fr">Carlos Suarez</developer_name>
+  <developer_name lang="es_ES">Carlos Suarez</developer_name>
+  <developer_name lang="es">Carlos Suarez</developer_name>
+  <developer_name lang="en">Carlos Suarez</developer_name>
+  <developer_name lang="de">Carlos Suarez</developer_name>
+  <developer_name lang="ca">Carlos Suarez</developer_name>
+  <url type="homepage">https://gitlab.com/bitseater/meteo</url>
+  <url type="bugtracker">https://gitlab.com/bitseater/meteo/issues</url>
+  <releases>
+    <release date="2021-10-30" version="0.9.9" />
+  </releases>
+  <content_rating type="oars-1.0">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="violence-desecration">none</content_attribute>
+    <content_attribute id="violence-slavery">none</content_attribute>
+    <content_attribute id="violence-worship">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="sex-homosexuality">none</content_attribute>
+    <content_attribute id="sex-prostitution">none</content_attribute>
+    <content_attribute id="sex-adultery">none</content_attribute>
+    <content_attribute id="sex-appearance">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+</component>

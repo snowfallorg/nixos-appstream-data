@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>libsForQt5.kdeplasma-addons</pkgname>
+  <id>org.kde.plasma.fifteenpuzzle</id>
+  <extends>org.kde.plasmashell</extends>
+  <name>Fifteen Puzzle</name>
+  <name lang="ar">أحجية الخمسة عشر</name>
+  <name lang="az">On beş tapmaca</name>
+  <name lang="bg">Fifteen Puzzle</name>
+  <name lang="ca@valencia">Trencaclosques quinze</name>
+  <name lang="ca">Trencaclosques quinze</name>
+  <name lang="cs">Hra Patnáct</name>
+  <name lang="de">Fünfzehn Steine</name>
+  <name lang="en_GB">Fifteen Puzzle</name>
+  <name lang="es">Rompecabezas «Quince»</name>
+  <name lang="eu">Hamabosteko buruhaustekoa</name>
+  <name lang="fi">Viisitoista-peli</name>
+  <name lang="fr">Puzzle à 15 pièces</name>
+  <name lang="ia">Dece-cinque puzzle</name>
+  <name lang="id">Fifteen Puzzle</name>
+  <name lang="it">Il gioco del quindici</name>
+  <name lang="ja">15 ピースパズル</name>
+  <name lang="ko">열다섯 조각 퍼즐</name>
+  <name lang="lt">Penkiolika dalių</name>
+  <name lang="nl">Vijftien-puzzel</name>
+  <name lang="nn">Spelet femten</name>
+  <name lang="pl">Piętnaście puzzli</name>
+  <name lang="pt">Puzzle dos Quinze</name>
+  <name lang="pt_BR">Quebra-cabeça quinze</name>
+  <name lang="ro">Fifteen Puzzle</name>
+  <name lang="ru">Пятнашки</name>
+  <name lang="sk">Hlavolam pätnástka</name>
+  <name lang="sl">Fifteen Puzzle</name>
+  <name lang="sv">Femtonspel</name>
+  <name lang="tr">Onbeşli Yapboz</name>
+  <name lang="uk">Гра у п’ятнашки</name>
+  <name lang="vi">Trò chơi đảo ô</name>
+  <name lang="x-test">xxFifteen Puzzlexx</name>
+  <name lang="zh_CN">十五子拼图</name>
+  <summary>Put the pieces in order</summary>
+  <summary lang="ar">ضع القطع في مكانها الصحيح</summary>
+  <summary lang="az">Hissələri cərgə ilə düzün</summary>
+  <summary lang="bg">Подредете парчетата правилно</summary>
+  <summary lang="ca@valencia">Poseu les peces en ordre</summary>
+  <summary lang="ca">Poseu les peces en ordre</summary>
+  <summary lang="cs">Zkuste dílky správně poskládat</summary>
+  <summary lang="de">Bringen Sie die Teile in die richtige Reihenfolge</summary>
+  <summary lang="en_GB">Put the pieces in order</summary>
+  <summary lang="es">Colocar las fichas en orden</summary>
+  <summary lang="eu">Piezak ordenan ipini</summary>
+  <summary lang="fi">Järjestä palaset</summary>
+  <summary lang="fr">Mettre les pièces dans l'ordre</summary>
+  <summary lang="ia">Pone le pecias in ordine</summary>
+  <summary lang="id">Masukkan potongan-potongan dalam urutan</summary>
+  <summary lang="it">Rimetti i pezzi in ordine</summary>
+  <summary lang="ja">ピースを正しい順序に並べるパズルです</summary>
+  <summary lang="ko">조각을 순서대로 맞춰 보세요</summary>
+  <summary lang="lt">Surinkite dėlionę</summary>
+  <summary lang="nl">Zet de stukken in de juiste volgorde</summary>
+  <summary lang="nn">Flytt brikkene i rett rekkjefølgje</summary>
+  <summary lang="pl">Puzzle do układania</summary>
+  <summary lang="pt">Colocar as peças por ordem</summary>
+  <summary lang="pt_BR">Coloque as peças em ordem</summary>
+  <summary lang="ro">Potriviți piesele</summary>
+  <summary lang="ru">Головоломка: расположите клеточки по порядку</summary>
+  <summary lang="sk">Zoraďte jednotlivé časti</summary>
+  <summary lang="sl">Postavi delčke v red</summary>
+  <summary lang="sv">Placera brickorna i ordning</summary>
+  <summary lang="tr">Parçaları sıraya koy</summary>
+  <summary lang="uk">Спробуйте впорядкувати плитки</summary>
+  <summary lang="vi">Đảo các ô về đúng thứ tự</summary>
+  <summary lang="x-test">xxPut the pieces in orderxx</summary>
+  <summary lang="zh_CN">按顺序摆放拼图块</summary>
+  <url type="homepage">https://kde.org/plasma-desktop/</url>
+  <url type="donation">https://www.kde.org/donate.php?app=org.kde.plasma.fifteenpuzzle</url>
+  <developer_name>Jesper Thomschutz &lt;jesperht@yahoo.com></developer_name>
+  <icon type="stock">fifteenpuzzle</icon>
+  <project_license>GPL-2.0+</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+</component>

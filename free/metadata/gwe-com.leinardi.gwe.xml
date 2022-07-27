@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>gwe</pkgname>
+  <icon width="64" type="cached" height="64">com.leinardi.gwe.png</icon>
+  <icon height="128" type="cached" width="128">com.leinardi.gwe.png</icon>
+  <id>com.leinardi.gwe.desktop</id>
+  <!-- <translation type="gettext">trg</translation> -->
+  <name>GreenWithEnvy</name>
+  <developer_name>Roberto Leinardi</developer_name>
+  <summary>System utility designed to provide information, control the fans and overclock your NVIDIA card</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <description>
+    <p>GWE is a GTK system utility designed to provide information, control the fans and overclock your NVIDIA video
+            card and graphics processor.
+        </p>
+  </description>
+  <launchable type="desktop-id">com.leinardi.gwe.desktop</launchable>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://gitlab.com/leinardi/gwe/raw/release/art/screenshot-1.png</image>
+    </screenshot>
+  </screenshots>
+  <categories>
+    <category>Utility</category>
+  </categories>
+  <url type="homepage">https://gitlab.com/leinardi/gwe</url>
+  <url type="bugtracker">https://gitlab.com/leinardi/gwe/issues</url>
+  <update_contact>roberto@leinardi.com</update_contact>
+  <releases>
+    <release version="0.15.4" date="2021-08-28">
+      <description>
+        <ul>
+          <li>Updated several dependencies</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.15.3" date="2021-04-10">
+      <description>
+        <ul>
+          <li>Updated several dependencies</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-10-18" version="0.15.2">
+      <description>
+        <ul>
+          <li>Little change of Temp labels</li>
+          <li>Updated several dependencies</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-06-22" version="0.15.1">
+      <description>
+        <ul>
+          <li>Disabled check for new App version on launch (it's now opt-in)</li>
+          <li>Fix #116: Add preference to check for new App version on launch</li>
+          <li>Updated several dependencies</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.15.0" date="2020-06-07">
+      <description>
+        <ul>
+          <li>Fix #74: Fan control hysteresis</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.14.1" date="2020-04-09">
+      <description>
+        <ul>
+          <li>Fix #108: GWE not showing the apply button with some themes</li>
+          <li>Updated several dependencies, including python-xlib: this should fix GWE for rootless Xorg.</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-02-16" version="0.14.0">
+      <description>
+        <ul>
+          <li>Fix #101: Add notification dialog if proprietary NVIDIA driver not installed</li>
+          <li>Fix #10: Window too big to fit into the 1366x768 resolution</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.13.3" date="2020-01-12">
+      <description>
+        <ul>
+          <li>Updated several dependencies</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-09-29" version="0.13.2">
+      <description>
+        <ul>
+          <li>Removed parameter to add Application icon (it's done automatically on install already)</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-09-01" version="0.13.1">
+      <description>
+        <ul>
+          <li>Fix #82: Quit App with Ctrl+Q</li>
+          <li>Hide App with Ctrl+H</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-09-01" version="0.13.0">
+      <description>
+        <ul>
+          <li>Fix #77: Give option to minimize to tray when closing from the X button</li>
+          <li>Fix #47: Preferences not saved on flatpak version</li>
+          <li>Several library updates (solves issue with RxPY 3.x)</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-02-24" version="0.12.3">
+      <description>
+        <ul>
+          <li>Fix #46: Crash if installed via flatpak and there is an update</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.12.1" date="2019-02-24">
+      <description>
+        <ul>
+          <li>New GWE official icon! (closes #43)</li>
+          <li>Removing offsets from LevelBars to keep consistent colors</li>
+          <li>A little code cleanup (fixed many PyLint and Mypy issues plus ground work for multi-gpu
+                        support)
+                    </li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-02-17" version="0.12.0">
+      <description>
+        <ul>
+          <li>Using NV-CONTROL instead of NVML, when possible, to provide better compatibility with older
+                        cards
+                    </li>
+          <li>Added changelog link to App menu</li>
+          <li>Fix #9: The Close button in the About dialog box does not work on KDE</li>
+          <li>Fix #11: Power limit Apply should check exit code</li>
+          <li>Fix #34: Graph max sample based on refresh interval</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-02-10" version="0.11.0">
+      <description>
+        <ul>
+          <li>Added overclock profiles</li>
+          <li>Fixed GPU offset overclock not working for some cards</li>
+          <li>Showing notification via libnotify if an update is available</li>
+          <li>Added PCIe current generation info</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-02-9" version="0.10.4">
+      <description>
+        <ul>
+          <li>Workaround for #36: graph text color from GTK theme</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.10.3" date="2019-02-09">
+      <description>
+        <ul>
+          <li>Applied fix for #26 also to set overclock and fan speed</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-02-09" version="0.10.2">
+      <description>
+        <ul>
+          <li>Fixed #26: Added command line option to specify NV-CONTROL display</li>
+          <li>Fixed #28: NVMLError_InvalidArgument with more than 1 GPU</li>
+          <li>Fixed check for Coolbit 4 not working</li>
+          <li>Launcher name changed to GreenWithEnvy</li>
+          <li>Removed workaround for memory leak caused by python-xlib</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-02-03" version="0.10.1">
+      <description>
+        <ul>
+          <li>Updated new version check to use Flathub instead of PyPI</li>
+          <li>Workaround for memory leak caused by python-xlib</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.9.0" date="2019-02-02">
+      <description>
+        <ul>
+          <li>Fixed #16: [X-Protocol] Unable to set values</li>
+          <li>Fixed #15: [X-Protocol] struct.error: unpack requires a buffer of xxx bytes while reading</li>
+          <li>Fixed crash when Encoder/Decoder usage is not available</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-01-30" version="0.8.0">
+      <description>
+        <ul>
+          <li>App available on Flathub!</li>
+          <li>Fixed crash when power data is not available</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-01-13" version="0.7.0">
+      <description>
+        <ul>
+          <li>**Huge** improvement in resource utilization thanks to the switch from CLI tools to libs to read
+                        the data
+                    </li>
+          <li>Historical data dialog! (Requires GNOME 3.30+. New dependency necessary, check the Distribution
+                        dependencies section of the readme)
+                    </li>
+          <li>Highlighting currently applied profile</li>
+          <li>Distributing the App via Flatpak (not published on Flathub yet)</li>
+          <li>Dropped support for PyPI</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.5.1" date="2019-01-03">
+      <description>
+        <ul>
+          <li>Min duty changed from 25 to 0</li>
+          <li>Slightly bigger App indicator icon</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-01-03" version="0.5.0">
+      <description>
+        <ul>
+          <li>Implemented Fan curve profile!</li>
+          <li>Added GPU temperature to App indicator</li>
+          <li>Changed App indicator icon (again)</li>
+          <li>Other minor UI improvements</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.3.2" date="2019-01-01">
+      <description>
+        <ul>
+          <li>Fixed overclock slider value not correctly restored on startup</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-01-01" version="0.3.1">
+      <description>
+        <ul>
+          <li>Removed unnecessary dependency from py3nvml</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-01-01" version="0.3.0">
+      <description>
+        <ul>
+          <li>Enabled version check on startup</li>
+          <li>Added ability to overclock GPU and Memory (requires coolbits to be set!)</li>
+          <li>Added ability to change Power Limit</li>
+          <li>Changed App indicator icon</li>
+          <li>Other minor UI improvements</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2018-12-31" version="0.1.0">
+      <description>
+        <ul>
+          <li>Initial release</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <content_rating type="oars-1.1" />
+</component>

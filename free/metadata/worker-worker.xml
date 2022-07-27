@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>worker</pkgname>
+  <launchable type="desktop-id">worker.desktop</launchable>
+  <id>worker.desktop</id>
+  <metadata_license>FSFAP</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Worker</name>
+  <summary>Worker is a two-pane file manager for the X Window System</summary>
+  <description>
+    <p>Worker is a two-pane file manager for the X Window System on
+    UN*X. The directories and files are shown in two independent
+    panels supporting a lot of advanced file manipulation
+    features. The main focus is to make managing files easy with full
+    keyboard control, also assisting in finding files and directories
+    by using history of accessed directories, live filtering, and
+    access to commands by using the keyboard.
+    </p>
+  </description>
+  <url type="homepage">http://www.boomerangsworld.de/cms/worker/</url>
+  <screenshots>
+    <screenshot type="default">http://www.boomerangsworld.de/cms/worker/pics/worker-mainwindow1.png</screenshot>
+  </screenshots>
+  <categories>
+    <category>FileManager</category>
+    <category>FileTools</category>
+    <category>System</category>
+  </categories>
+  <provides>
+    <binary>worker</binary>
+  </provides>
+</component>

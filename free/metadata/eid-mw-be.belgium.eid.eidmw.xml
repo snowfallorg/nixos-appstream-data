@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>eid-mw</pkgname>
+  <id>be.belgium.eid.eidmw</id>
+  <name>Belgian electronic ID software</name>
+  <summary>The eID middleware for using your Belgian electronic ID card in various pieces of software</summary>
+  <project_license>LGPL-3.0+</project_license>
+  <developer_name>Belgian Federal Government</developer_name>
+  <description>
+    <p>The eID software allows you to use yoru electronic identity card in various applications, such as:</p>
+    <ul>
+      <li>Browsers: Mozilla Firefox and Google Chrome</li>
+      <li>e-mail programma's: Mozilla Thunderbird, Evolution</li>
+      <li>Office suites: LibreOffice, OpenOffice</li>
+      <li>En alle andere bibliotheken of toepassingen die het gebruik van PKCS#11-modules toelaten.</li>
+    </ul>
+    <p>This package contains the PKCS#11 module, a software module for
+    using external cryptographic aids, such as the eID.</p>
+  </description>
+</component>

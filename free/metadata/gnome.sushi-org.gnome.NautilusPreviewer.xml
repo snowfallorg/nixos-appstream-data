@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>gnome.sushi</pkgname>
+  <id>org.gnome.NautilusPreviewer</id>
+  <extends>org.gnome.Nautilus.desktop</extends>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Sushi</name>
+  <name lang="zh_TW">Sushi</name>
+  <name lang="zh_CN">Sushi</name>
+  <name lang="vi">Sushi</name>
+  <name lang="uk">Sushi</name>
+  <name lang="tr">Sushi</name>
+  <name lang="ta">சூஷி</name>
+  <name lang="sv">Sushi</name>
+  <name lang="sr">Суши</name>
+  <name lang="sk">Sushi</name>
+  <name lang="sl">Sushi</name>
+  <name lang="ru">Sushi</name>
+  <name lang="ro">Sushi</name>
+  <name lang="pt_BR">Sushi</name>
+  <name lang="pt">Sushi</name>
+  <name lang="pl">Sushi</name>
+  <name lang="oc">Sushi</name>
+  <name lang="nl">Sushi</name>
+  <name lang="ne">सुशी</name>
+  <name lang="nb">Sushi</name>
+  <name lang="ms">Sushi</name>
+  <name lang="lv">Suši</name>
+  <name lang="lt">Suši</name>
+  <name lang="ko">스시</name>
+  <name lang="kk">Суши</name>
+  <name lang="ka">Sushi</name>
+  <name lang="ja">Sushi</name>
+  <name lang="it">Sushi</name>
+  <name lang="id">Sushi</name>
+  <name lang="hu">Sushi</name>
+  <name lang="hr">Sushi</name>
+  <name lang="he">Sushi</name>
+  <name lang="gl">Sushi</name>
+  <name lang="fur">Sushi</name>
+  <name lang="fr">Sushi</name>
+  <name lang="fi">Sushi</name>
+  <name lang="fa">سوشی</name>
+  <name lang="eu">Sushi</name>
+  <name lang="es">Sushi</name>
+  <name lang="en_GB">Sushi</name>
+  <name lang="el">Sushi</name>
+  <name lang="de">Sushi</name>
+  <name lang="da">Sushi</name>
+  <name lang="cs">Sushi</name>
+  <name lang="ckb">سوشی</name>
+  <name lang="ca">Sushi</name>
+  <name lang="bg">Sushi</name>
+  <name lang="ab">Sushi</name>
+  <summary>Provide a facility for quickly viewing different kinds of files</summary>
+  <summary lang="zh_TW">一個能快速檢視不同種類的檔案的工具</summary>
+  <summary lang="zh_CN">提供快速查看不同类型文件的功能</summary>
+  <summary lang="vi">Cung cấp phương tiện để xem nhanh các kiểu tập tin khác nhau</summary>
+  <summary lang="uk">Надає можливість швидко переглядати вміст файлів різних типів</summary>
+  <summary lang="tr">Değişik türdeki dosyaları hızlıca görüntülemeyi sağlar</summary>
+  <summary lang="ta">பல்வேறு வகையான கோப்புகளை விரைவாக காணும் வசதியை வழங்கும்</summary>
+  <summary lang="sv">Tillhandahåll ett verktyg för att snabbt visa olika typer av filer</summary>
+  <summary lang="sr">Пружа могућност брзог прегледа различитих врста датотека</summary>
+  <summary lang="sk">Poskytuje prostriedky na rýchle zobrazenie rôznych druhov súborov</summary>
+  <summary lang="sl">Program za hitro pregledovanje različnih vrst datotek</summary>
+  <summary lang="ru">Предоставляет возможность быстрого просмотра различных типов файлов</summary>
+  <summary lang="ro">Oferă o facilitate de a vizualiza rapid tipuri diferite de fișiere</summary>
+  <summary lang="pt_BR">Oferece uma facilidade para visualizar rapidamente diferentes tipos de arquivos</summary>
+  <summary lang="pt">Forneça um recurso para visualizar rapidamente diferentes tipos de ficheiros</summary>
+  <summary lang="pl">Dodaje funkcję szybkiego podglądu różnych rodzajów plików</summary>
+  <summary lang="oc">Ofrís un biais facil per visualizar diferents tipes de fichièrs</summary>
+  <summary lang="nl">Biedt de mogelijkheid om verschillende soorten bestanden in een oogopslag te bekijken</summary>
+  <summary lang="ne">विभिन्न प्रकारका फाइलहरू छिटो हेर्नको लागि सुविधा प्रदान गर्नुहोस्</summary>
+  <summary lang="nb">Gir mulighet for å vise forskjellige typer filer raskt</summary>
+  <summary lang="ms">Sediakan satu kemudahan untuk melihat jenis-jenis fail berbeza secara pantas</summary>
+  <summary lang="lv">Nodrošina veidu, kā ātri apskatīt dažādas datnes</summary>
+  <summary lang="lt">Pateikia galimybę greitai parodyti įvairius failus</summary>
+  <summary lang="ko">여러가지 종류의 파일을 빠르게 보는 기능을 제공합니다</summary>
+  <summary lang="kk">Әр түрлі файлдарды жылдам карауды қамтамасыз ету</summary>
+  <summary lang="ka">სხვადასხვა ტიპის ფაილების ნახვა</summary>
+  <summary lang="ja">さまざまな種類のファイルを素早く表示できるようにします</summary>
+  <summary lang="it">Fornisce un sistema per visualizzare velocemente file diversi</summary>
+  <summary lang="id">Menyediakan fasilitas untuk melihat berbagai jenis berkas dengan cepat</summary>
+  <summary lang="hu">Lehetőség biztosítása különféle típusú fájlok gyors megtekintéséhez</summary>
+  <summary lang="hr">Omogućuje brz pregled različitih vrsta datoteka</summary>
+  <summary lang="he">מספק אמצעי להצגה מהירה של מגוון קבצים</summary>
+  <summary lang="gl">Fornece a capacidade de ver de forma rápida diferentes tipos de ficheiros</summary>
+  <summary lang="fur">Furnìs une funzion par viodi subite diferents gjenars di files</summary>
+  <summary lang="fr">Fournit un moyen pour voir rapidement différents types de fichiers</summary>
+  <summary lang="fi">Tarjoaa mahdollisuuden katsella nopeasti erilaisia tiedostoja</summary>
+  <summary lang="fa">امکانی برای دیدن سریع گونه‌های مختلف پرونده‌ها فراهم می‌‌کند</summary>
+  <summary lang="eu">Fitxategi mota desberdinak azkar bistaratzeko tresna bat</summary>
+  <summary lang="es">Proporciona la posibilidad de ver rápidamente diferentes tipos de archivos</summary>
+  <summary lang="en_GB">Provide a facility for quickly viewing different kinds of files</summary>
+  <summary lang="el">Μια δυνατότητα γρήγορης προβολής διαφόρων ειδών αρχείων</summary>
+  <summary lang="de">Verschiedene Arten von Dateien schnell ansehen</summary>
+  <summary lang="da">En funktion til hurtigt at vise forskellige typer fil</summary>
+  <summary lang="cs">Poskytuje příslušenství pro rychlé náhledy různých druhů souborů</summary>
+  <summary lang="ca">Proporciona la capacitat de veure ràpidament diferents tipus de fitxers</summary>
+  <summary lang="bg">Програма за бърз преглед на файлове</summary>
+  <summary lang="ab">Ишәнаҭоит алшара иаарццакны хкы рацәала афаилқәа рыхәаԥшра</summary>
+  <description>
+    <p>
+      Sushi is a file previewer for the GNOME desktop environment. It is an independent component that
+      integrates with GNOME Files (Nautilus).
+    </p>
+    <p lang="zh_TW">Sushi 是 GNOME 桌面環境的檔案預覽程式。它是整合於 GNOME 檔案 (Nautilus) 的獨立元件。</p>
+    <p lang="zh_CN">Sushi 是 GNOME 桌面的文件预览工具，作为独立组件集成到文件（Nautilus）。</p>
+    <p lang="vi">Sushi là một trình xem trước tập tin cho môi trường máy tính để bàn GNOME. Đây là một thành phần độc lập tích hợp với Tập tin GNOME (Nautilus).</p>
+    <p lang="uk">Sushi — засіб попереднього перегляду вмісту файлів для стільничного середовища GNOME. Це незалежний компонент, який інтегрується із «Файлами» GNOME (Nautilus).</p>
+    <p lang="tr">Sushi, GNOME masaüstü ortamı için dosya ön izleyicidir. GNOME Dosyalar (Nautilus) ile tümleşen bağımsız bileşendir.</p>
+    <p lang="ta">சூஷி என்பது க்னோம் டெஸ்க்டாப்பிறகான கோப்பு முன்னோட்டம். இது க்னோம் கோப்புகளுடன் (நாட்டிலஸ்) ஒருங்கிணையும் ஒரு சுயாதீனமான கூறு ஆகும்.</p>
+    <p lang="sv">Sushi är en filförhandsvisare för skrivbordsmiljön GNOME. Det är en oberoende komponent som integrerar med GNOME Filer (Nautilus).</p>
+    <p lang="sr">Суши је претпрегледач датотека за Гномову радну површ. Ово је независан део који се уграђује унутар Гномових Датотека (Наутилус).</p>
+    <p lang="sk">Sushi je zobrazovač náhľadov pre pracovné prostredie GNOME. Je nezávislou súčasťou, ktorá je integrovaná do aplikácie Súbory prostredia GNOME (Nautilus).</p>
+    <p lang="sl">Sushi je program za predogled datotek za namizje GNOME. Program je neodvisen od sistemskih knjižnic in razširja zmožnosti Datotek GNOME (Nautilus).</p>
+    <p lang="ru">Sushi - программа быстрого просмотра для рабочего стола GNOME. Она является независимым компонентом и интегрируется в Файлы (Nautilus)</p>
+    <p lang="ro">Sushi este un previzualizator de fișiere pentru mediul de desktop GNOME. Este o componentă independentă care se integrează cu Fișiere GNOME (Nautilus).</p>
+    <p lang="pt_BR">Sushi é um visualizador de arquivos para a área de trabalho do GNOME. É um componente independente que se integra com o Arquivos do GNOME (Nautilus).</p>
+    <p lang="pt">O Sushi é um pré-visualizador de ficheiros para o ambiente de trabalho GNOME. É um componente independente que se integra com o Ficheiros do GNOME (Nautilus).</p>
+    <p lang="pl">Sushi to program do podglądu plików dla środowiska GNOME. Jest niezależnym składnikiem integrującym się z Menedżerem plików GNOME (Nautilus).</p>
+    <p lang="oc">Sushi es un previsualizaire de fichièrs per l’environament de burèu GNOME. Es un compausant independent que s’intègra a GNOME Files (Nautilus).</p>
+    <p lang="nl">Sushi is een voorbeeldweergavetoepassing voor de Gnome-bureaubladomgeving. Het is een onafhankelijk onderdeel dat integreert met Gnome Bestanden (Nautilus).</p>
+    <p lang="ne">सुशी जिनोम डेस्कटप परिवेशका लागि फाइल पूर्वावलोकनकर्ता हो । यो एउटा स्वतन्त्र अवयव हो जसले जिनोम फाइल (नटलस) सँग एकीकृत गर्दछ।</p>
+    <p lang="nb">Sushi gjør forhåndsvisning av filer for GNOME skrivebordsmiljøet. Det er en uavhengig komponent som integrerer med GNOME file (Nautilus).</p>
+    <p lang="lv">Sushi ir datņu priekšskatīšanas programma GNOME darbvirsmas videi. Tā ir neatkarīga komponente, kas integrējas ar GNOME Datnēm (Nautilus).</p>
+    <p lang="lt">Sushi yra failų peržiūros priemonė GNOME darbalaukio aplinkai. Tai yra nepriklausomas komponentas, kuris integruojasi su GNOME Failais (Nautilus).</p>
+    <p lang="ko">스시는 그놈 데스크톱 환경을 위한 파일 미리 보기 프로그램입니다. 스시는 그놈 파일(노틸러스)과 연동해 동작하는 독립적인 구성 요소입니다.</p>
+    <p lang="kk">Sushi — GNOME жұмыс үстелі ортасына арналған файлды алдын ала қарау құралы. Ол GNOME файлдарымен (Nautilus) интеграцияланатын дербес компонент.</p>
+    <p lang="ka">Sushi არის ფაილის წინასწარი გადამხედველი GNOME სამუშაო გარემოსთვის. ეს არის დამოუკიდებელი კომპონენტი, რომელიც ინტეგრირდება GNOME ფაილებთან (Nautilus).</p>
+    <p lang="ja">Sushi は GNOME デスクトップ環境向けのファイルプレビューアーで、GNOME のファイルマネージャー (Nautilus) の機能を補う独自コンポーネントです。</p>
+    <p lang="it">Sushi è un'applicazione per la visualizzazione di anteprime di file per l'ambiente GNOME. È un componente indipendente che si integra con File di GNOME (Nautilus).</p>
+    <p lang="id">Sushi adalah pratinjau berkas untuk lingkungan desktop GNOME. Ini adalah komponen independen yang terintegrasi dengan GNOME Berkas (Nautilus).</p>
+    <p lang="hu">A Sushi egy fájlelőnézet-készítő a GNOME asztali környezethez. Egy független összetevő, amely a GNOME Fájlokba (Nautilusba) épül be.</p>
+    <p lang="hr">Sushi je brzi preglednik za GNOME radno okruženje. On je jedinstvena komponenta koja je integrirana u GNOME Datoteke (Nautilus).</p>
+    <p lang="he">‏Sushi הוא מציג תצוגה מקדימה של קבצים עבור שולחן העבודה GNOME. זהו רכיב עצמאי שמשתלב עם יישום הקבצים של GNOME (‏Nautilus).</p>
+    <p lang="gl">Sushi é un previsualizador de ficheiros para o ambiente de escritorio de GNOME. É un compoñente independente que se integra con Ficheiros de GNOME (Nautilus).</p>
+    <p lang="fur">Sushi al è un program pal ambient di scritori GNOME, che al mostre une anteprime dai file. Al è un component indipendent che si integre cun GNOME Files (Nautilus).</p>
+    <p lang="fr">Sushi est un outil de prévisualisation pour l’environnement de bureau GNOME. C’est un composant indépendant qui s’intègre avec Fichiers de GNOME (Nautilus).</p>
+    <p lang="fi">Sushi on tiedostojen esikatselukseen tarkoitettu sovellus Gnome-työpöydälle. Se on itsenäinen komponentti, joka integroituu osaksi Gnomen tiedostonhallintaa (Nautilus).</p>
+    <p lang="fa">سوشی یک پیش‌نمای پرونده برای محیط میزکار گنوم است. مولّفه‌ای مستقل که با پرونده‌های گنوم (ناتیلوس) یکپارچه می‌شود.</p>
+    <p lang="eu">Sushi fitxategien aurrebistak ikusteko aplikazio bat da, GNOME mahaigain-ingurunerako sortua. Osagai independentea da, GNOME Fitxategiak (Nautilus) aplikazioan integratzen dena.</p>
+    <p lang="es">Sushi es un previsualizador de archivos para el entorno de escritorio GNOME. Es un componente independiente que se integra con Archivos de GNOME (Nautilus).</p>
+    <p lang="en_GB">Sushi is a file previewer for the GNOME desktop environment. It is an independent component that integrates with GNOME Files (Nautilus).</p>
+    <p lang="el">Το Sushi είναι ένα πρόγραμμα προεπισκόπησης αρχείων για το περιβάλλον επιφάνειας εργασίας GNOME. Είναι ένα ανεξάρτητο στοιχείο που ενσωματώνεται στο πρόγραμμα Αρχεία GNOME (Nautilus).</p>
+    <p lang="de">Sushi ist eine Dateivorschau für die GNOME-Arbeitsumgebung. Sie ist eine unabhängige Komponente, die sich nahtlos in GNOME Dateien (Nautilus) integriert.</p>
+    <p lang="da">Sushi er en filforhåndsviser til GNOME-skrivebordsmiljøet. Det er en uafhængig komponent som integrerer med GNOME Filer (Nautilus).</p>
+    <p lang="cs">Sushi slouží k zobrazení náhledů souborů v uživatelském prostředí GNOME. Jedná se o nezávislou komponentu, která se začleňuje do aplikace Soubory GNOME (Nautilus).</p>
+    <p lang="ca">El Sushi és un previsualitzador de fitxers per a l'entorn d'escriptori GNOME. Es tracta d'un component independent que s'integra amb el Fitxers del GNOME (Nautilus).</p>
+    <p lang="bg">Sushi е програма за преглед на файлове за графичната среда GNOME. Тя е компонент, който се интегрира с програмата за управление на файлове (Nautilus).</p>
+    <p lang="ab">Sushi- ишәнаҭоит алшара иаарццакны аусуратә ишәа шәахәаԥшырц.Уи ихьыԥшым хәҭаҵас афаил иалалоит.</p>
+  </description>
+  <keywords>
+    <keyword>nautilus</keyword>
+    <keyword>sushi</keyword>
+    <keyword>view</keyword>
+    <keyword>previewer</keyword>
+    <keyword>preview</keyword>
+  </keywords>
+  <releases>
+    <release version="42.0" date="2022-07-01">
+      <description>
+        <p>Sushi 42.0 is the latest stable version of GNOME Sushi, and it contains all
+        features and bugfixes introduced since our last release.</p>
+      </description>
+    </release>
+  </releases>
+  <translation type="gettext">sushi</translation>
+  <url type="translate">https://wiki.gnome.org/TranslationProject</url>
+  <url type="homepage">https://gitlab.gnome.org/GNOME/sushi</url>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/sushi/issues</url>
+  <update_contact>eischmann_at_redhat.com</update_contact>
+</component>

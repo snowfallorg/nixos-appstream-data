@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>wike</pkgname>
+  <icon type="cached" width="64" height="64">com.github.hugolabe.Wike.png</icon>
+  <icon width="128" type="cached" height="128">com.github.hugolabe.Wike.png</icon>
+  <id>com.github.hugolabe.Wike</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <name>Wike</name>
+  <name lang="zh">Wike</name>
+  <name lang="tr">Wike</name>
+  <name lang="sv">Wike</name>
+  <name lang="ru">Wike</name>
+  <name lang="pt_BR">Wike</name>
+  <name lang="pl">Wike</name>
+  <name lang="nl">Wike</name>
+  <name lang="ja">Wike</name>
+  <name lang="it">Wike</name>
+  <name lang="id">Wike</name>
+  <name lang="ia">Wike</name>
+  <name lang="hr">Wike</name>
+  <name lang="gl">Wike</name>
+  <name lang="fr">Wike</name>
+  <name lang="fi">Wike</name>
+  <name lang="fa">وایک</name>
+  <name lang="eu">Wike</name>
+  <name lang="es">Wike</name>
+  <name lang="el">Wike</name>
+  <name lang="de">Wike</name>
+  <name lang="cs">Wike</name>
+  <name lang="bn">Wike</name>
+  <summary>Search and read Wikipedia articles</summary>
+  <summary lang="zh">搜尋和閱讀維基百科條目</summary>
+  <summary lang="tr">Vikipedia makalelerini arayın ve okuyun</summary>
+  <summary lang="sv">Sök och läs Wikipedia-artiklar</summary>
+  <summary lang="ru">Ищите и читайте статьи в Википедии</summary>
+  <summary lang="pt_BR">Pesquise e leia artigos da Wikipédia</summary>
+  <summary lang="pl">Wyszukuj i czytaj artykuły w Wikipedii</summary>
+  <summary lang="nl">Zoek naar en lees Wikipedia-artikelen</summary>
+  <summary lang="ja">Wikipediaの記事を検索と閲覧</summary>
+  <summary lang="it">Cerca e leggi articoli di Wikipedia</summary>
+  <summary lang="id">Cari dan baca artikel Wikipedia</summary>
+  <summary lang="ia">Cerca e lege articulos de WIkipedia</summary>
+  <summary lang="hr">Traži i čitaj članke Wikipedije</summary>
+  <summary lang="gl">Buscar e ler artigos da Wikipedia</summary>
+  <summary lang="fr">Rechercher et lire des articles de Wikipédia</summary>
+  <summary lang="fi">Hae ja lue Wikipedia-artikkeleita</summary>
+  <summary lang="fa">جست‌وجو و خواندن مقالات ویکی‌پدیا</summary>
+  <summary lang="eu">Wikipediako artikuluak bilatu eta irakurri</summary>
+  <summary lang="es">Buscar y leer artículos de Wikipedia</summary>
+  <summary lang="el">Αναζήτηση και ανάγνωση άρθρων Βικιπαίδειας</summary>
+  <summary lang="de">Suche und lese Wikipediaartikel</summary>
+  <summary lang="bn">নানান উইকিপিডিয়া আর্টিকেল সার্চ করুন এবং পড়ুন</summary>
+  <description>
+    <p>
+      Wike is a Wikipedia reader for the GNOME Desktop.
+      Provides access to all the content of this online encyclopedia in a native application,
+      with a simpler and distraction-free view of articles.
+    </p>
+    <p lang="zh">Wike 是專為 Gnome 桌面設計的維基百科瀏覽器，旨在提供更簡約的百科全書瀏覽體驗。</p>
+    <p lang="tr">Wike, GNOME Masaüstü için bir Vikipedia okuyucusu. Bu çevrimiçi ansiklopedinin tüm içeriğine, makalelerin daha basit ve dikkat dağıtıcı olmayan bir görünümü ile yerel bir uygulamada erişimi sağlar.</p>
+    <p lang="sv">Wike är Wikipedia-läsare för GNOME-skrivbord. Ger tillgång till allt innehåll i denna online-encyklopedi i ett program med en enklare och distraktionsfri artikelvy.</p>
+    <p lang="ru">Wike - программа для чтения Википедии для рабочего стола GNOME. Предоставляет доступ ко всему содержимому этой онлайн-энциклопедии в собственном приложении с более простым и удобным просмотром статей.</p>
+    <p lang="pt_BR">Wike é um leitor da Wikipédia para o Desktop GNOME. Provê acesso para todo o conteúdo da enciclopédia online numa aplicação nativa, com uma visualização simples e sem distrações dos artigos.</p>
+    <p lang="pl">Wike to czytnik Wikipedii dla pulpitu GNOME. Zapewnia dostęp do całej zawartości tej encyklopedii online w natywnej aplikacji, z prostszym i wolnym od rozpraszania widokiem artykułów.</p>
+    <p lang="nl">Wike is een Wikipedia-leeshulpmiddel voor de GNOME-werkomgeving. U heeft toegang tot alle inhoud van deze online-encyclopedie, maar in een met de werkomgeving geïntegreerd jasje en een eenvoudige weergave zonder enige afleiding.</p>
+    <p lang="ja">WikeはGNOMEデスクトップ向けのWikipediaリーダーです。ネイティブアプリケーションで、このオンライン百科事典のすべてのコンテンツを提供し、記事をよりシンプルで気を散らすことなく表示します。</p>
+    <p lang="it">Wike è un lettore di Wikipedia per GNOME. Fornisce accesso a tutto il contenuto di questa enciclopedia online in un'applicazione nativa, con una visualizzazione degli articoli più semplice e priva di distrazioni.</p>
+    <p lang="id">Wike adalah pembaca Wikipedia untuk Destop GNOME. Menyediakan akses ke semua konten ensiklopedia luring ini dalam aplikasi asli, dengan tampilan artikel yang lebih sederhana dan bebas gangguan.</p>
+    <p lang="ia">Wike es un lector de Wikipedia pro le scriptorio GNOME. Il provide accesso a tote le contentos del encyclopedia in linea in un application native, con un vista de articulos simple e libere de distractiones.</p>
+    <p lang="hr">Wike je čitač Wikipedije za GNOME radno okruženje. Omogućuje pristup svom sadržaju ove internetske enciklopedije te prikazuje članke na jednostavniji, čitljiviji način.</p>
+    <p lang="gl">Wike é un lector de Wikipedia para GNOME. Fornece acceso a todo o contido desta enciclopedia en liña, con unha vista de artigos máis limpa e libre de distraccións.</p>
+    <p lang="fr">Wike est un lecteur de Wikipedia pour le bureau GNOME. Il permet d'accéder à tout le contenu de cette encyclopédie en ligne dans une application native, avec une vue simple et sans distraction des articles.</p>
+    <p lang="fi">Wike on Wikipedian lukuohjelma Gnome-työpöydälle. Sen avulla sinulla on pääsy kaikkeen vapaan tietosanakirjan sisältöön natiivilla sovelluksella, joka tarjoaa selainta yksinkertaisemman ja vähemmän häiriötekijöitä sisältävän näkymän artikkeleihin.</p>
+    <p lang="fa">وایک یک ویکی‌پدیا‌خوان برای میزکار گنوم است. دسترسی به تمام محتوای این دانش‌نامهٔ برخط را در کاره‌ای بومی، با نمایی ساده‌تر و بدون حواس‌پرتی از مقالات آن، ارائه می‌دهد.</p>
+    <p lang="eu">Wike Wikipediako irakurlea da GNOME mahaigainarako. Online entziklopedia honen eduki guztirako sarbidea ematen du aplikazio natibo batean, ikuspegi errazagoarekin eta artikuluen distrakziorik gabe.</p>
+    <p lang="es">Wike es un lector de Wikipedia para GNOME. Proporciona acceso a todo el contenido de esta enciclopedia online, con una vista de artículos más limpia y libre de distracciones.</p>
+    <p lang="el">Το Wike είναι ένα πρόγραμμα ανάγνωσης της Βικιπαίδειας για το GNOME. Μέσω μιας απλής και δίχως περισπάσεις προβολή παρέχει πρόσβαση σε όλο το περιεχόμενο της ηλεκτρονικής εγκυκλοπαίδειας.</p>
+    <p lang="de">Wike ist eine Wikipedia-Anwendung für die GNOME Oberfläche. Er bietet Zugang zum kompletten Inhalt der Onlineenzyklopädie in einem nativen Programm mit einem einfachen und ablenkungesfreien Ansicht auf die Artikel.</p>
+    <p lang="cs">Wike je čtečka Wikipedie pro prostření GNOME Desktop. Umožňuje čtení veškerého obsahu této online encyklopedie v samostatné aplikaci, s jednodušším a nerušivým zobrazením článků.</p>
+    <p lang="bn">Wike হল GNOME ডেস্কটপের জন্য একটি উইকিপিডিয়া রিডার। আর্টিকেল গুলি এই অনলাইন বিশ্বকোষ থেকে সরল এবং বিভ্রান্তি-মুক্ত দৃশ্য সহ একটি স্থানীয় অ্যাপ্লিকেশন রূপে সরবরাহ করা হয়।</p>
+    <p>
+      Features:
+    </p>
+    <p lang="zh">功能：</p>
+    <p lang="tr">Özellikler:</p>
+    <p lang="sv">Funktioner:</p>
+    <p lang="ru">Возможности:</p>
+    <p lang="pt_BR">Características:</p>
+    <p lang="pl">Cechy:</p>
+    <p lang="nl">Kenmerken:</p>
+    <p lang="ja">機能:</p>
+    <p lang="it">Caratteristiche:</p>
+    <p lang="id">Fitur:</p>
+    <p lang="ia">Characteristicas:</p>
+    <p lang="hr">Značajke:</p>
+    <p lang="gl">Características:</p>
+    <p lang="fr">Fonctionnalités : </p>
+    <p lang="fi">Ominaisuudet:</p>
+    <p lang="fa">ویژگی‌ها:</p>
+    <p lang="eu">Ezaugarriak:</p>
+    <p lang="es">Características:</p>
+    <p lang="el">Χαρακτηριστικά</p>
+    <p lang="de">Merkmale:</p>
+    <p lang="cs">Funkce:</p>
+    <p lang="bn">বৈশিষ্ট্য:</p>
+    <ul>
+      <li>Open multiple articles in tabs</li>
+      <li lang="zh">在不同分頁開啟條目</li>
+      <li lang="tr">Çoklu sayfaları sekmelerde aç</li>
+      <li lang="sv">Öppna flera artiklar i flikar</li>
+      <li lang="ru">Открыть статьи во вкладках</li>
+      <li lang="pt_BR">Abrir múltiplos artigos em abas</li>
+      <li lang="pl">Otwórz wiele artykułów w zakładkach</li>
+      <li lang="nl">Meerdere artikelen op tabbladen openen</li>
+      <li lang="ja">タブで複数の記事を開く</li>
+      <li lang="it">Apri più articoli in schede</li>
+      <li lang="ia">Aperir multiple articulos in schedas</li>
+      <li lang="hr">Otvori više članaka u karticama</li>
+      <li lang="fr">Ouvrir les différents articles dans des onglets</li>
+      <li lang="fi">Avaa useita artikkeleita välilehtiin</li>
+      <li lang="fa">باز کردن چندین مقاله در زبانه‌ها</li>
+      <li lang="eu">Ireki hainbat artikulu erlaitzetan</li>
+      <li lang="es">Abrir varios artículos en pestañas</li>
+      <li lang="de">Artikel in mehreren Reitern öffnen</li>
+      <li lang="bn">ট্যাব গুলিতে একাধিক আর্টিকেল খুলুন</li>
+      <li>Multiple languages</li>
+      <li lang="zh">多種語言</li>
+      <li lang="tr">Çok dilli</li>
+      <li lang="sv">Flera språk</li>
+      <li lang="ru">Несколько языков</li>
+      <li lang="pt_BR">Várias línguas</li>
+      <li lang="pl">Wiele języków</li>
+      <li lang="nl">Meerdere talen</li>
+      <li lang="ja">多言語</li>
+      <li lang="it">Multilingue</li>
+      <li lang="id">Multi Bahasa</li>
+      <li lang="ia">Multiple linguas</li>
+      <li lang="hr">Preveden na razne jezike</li>
+      <li lang="gl">Múltiples idiomas</li>
+      <li lang="fr">Plusieurs langues</li>
+      <li lang="fi">Useita kieliä</li>
+      <li lang="fa">چندین زبان</li>
+      <li lang="eu">Hizkuntza ugari</li>
+      <li lang="es">Múltiples lenguajes</li>
+      <li lang="el">Πολλαπλές γλώσσες</li>
+      <li lang="de">Mehrere Sprachen</li>
+      <li lang="cs">Několik jazyků</li>
+      <li lang="bn">একাধিক ভাষা</li>
+      <li>Search suggestions</li>
+      <li lang="zh">搜尋建議</li>
+      <li lang="tr">Arama Önerilenleri</li>
+      <li lang="sv">Sökförslag</li>
+      <li lang="ru">Подсказки для поиска</li>
+      <li lang="pt_BR">Pesquisar sugestões</li>
+      <li lang="pl">Sugestie wyszukiwania</li>
+      <li lang="nl">Zoeksuggesties</li>
+      <li lang="ja">検索候補</li>
+      <li lang="it">Suggerimenti di ricerca</li>
+      <li lang="id">Saran Pencarian</li>
+      <li lang="ia">Cercar suggestiones</li>
+      <li lang="hr">Prijedlozi pretrage</li>
+      <li lang="gl">Suxestións de busca</li>
+      <li lang="fr">Suggestions de recherche</li>
+      <li lang="fi">Hakuehdotukset</li>
+      <li lang="fa">پیشنهادهای جست‌وجو</li>
+      <li lang="eu">Bilaketa-iradokizunak</li>
+      <li lang="es">Sugerencias de búsqueda</li>
+      <li lang="el">Αναζήτηση προτάσεων</li>
+      <li lang="de">Suchvorschläge</li>
+      <li lang="cs">Návrhy při hledání</li>
+      <li lang="bn">সার্চ সাজেশন</li>
+      <li>List of recent articles</li>
+      <li lang="zh">最近條目列表</li>
+      <li lang="tr">Son makalelerin listesi</li>
+      <li lang="sv">Lista över tidigare artiklar</li>
+      <li lang="ru">Список недавних статей</li>
+      <li lang="pt_BR">Lista de artigos recentes</li>
+      <li lang="pl">Lista ostatnich artykułów</li>
+      <li lang="nl">Lijst met recente artikelen</li>
+      <li lang="ja">最近の記事のリスト</li>
+      <li lang="it">Elenco degli articoli recenti</li>
+      <li lang="id">Daftar artikel terbaru</li>
+      <li lang="ia">Lista de articulos recente</li>
+      <li lang="hr">Popis nedavnih članaka</li>
+      <li lang="gl">Lista de artigos recentes</li>
+      <li lang="fr">Liste des articles récents</li>
+      <li lang="fi">Luettelo viimeisimmistä artikkeleista</li>
+      <li lang="fa">سیاههٔ مقالات تازه دیده شده</li>
+      <li lang="eu">Artikulu berrien zerrenda</li>
+      <li lang="es">Lista de artículos recientes</li>
+      <li lang="el">Λίστα πρόσφατων άρθρων</li>
+      <li lang="de">Liste letzter Artikel</li>
+      <li lang="cs">Seznam posledních článků</li>
+      <li lang="bn">সাম্প্রতিক আর্টিকেলের তালিকা</li>
+      <li>Simple bookmarks management</li>
+      <li lang="zh">簡單書籤管理</li>
+      <li lang="tr">Basit yerimleri yönetimi</li>
+      <li lang="sv">Enkel bokmärkeshantering</li>
+      <li lang="ru">Простое управление закладками</li>
+      <li lang="pt_BR">Gerenciamento simples de favoritos</li>
+      <li lang="pl">Proste zarządzanie zakładkami</li>
+      <li lang="nl">Eenvoudig bladwijzerbeheer</li>
+      <li lang="ja">シンプルなブックマーク管理</li>
+      <li lang="it">Semplice gestione dei segnalibri</li>
+      <li lang="id">Pengelola markah sederhana</li>
+      <li lang="ia">Gestion simple de marcapaginas</li>
+      <li lang="hr">Jednostavno upravljanje oznakama</li>
+      <li lang="gl">Xestión doada de marcadores</li>
+      <li lang="fr">Gestionnaire des signets</li>
+      <li lang="fi">Yksinkertainen kirjanmerkkien hallinta</li>
+      <li lang="fa">مدیریت سادهٔ نشانک‌ها</li>
+      <li lang="eu">Markagailuen kudeaketa erraza</li>
+      <li lang="es">Gestión sencilla de marcadores</li>
+      <li lang="el">Απλή διαχείριση σελιδοδεικτών</li>
+      <li lang="de">Einfache Lesezeichenverwaltung</li>
+      <li lang="cs">Jednoduchá správa záložek</li>
+      <li lang="bn">সহজ বুকমার্ক ম্যানেজমেন্ট</li>
+      <li>Text search in articles</li>
+      <li lang="zh">在文章內搜尋文字</li>
+      <li lang="tr">Makalelerde metin ara</li>
+      <li lang="sv">Textsökning i artiklar</li>
+      <li lang="ru">Текстовый поиск в статьях</li>
+      <li lang="pt_BR">Busca de texto nos artigos</li>
+      <li lang="pl">Wyszukiwanie tekstu w artykułach</li>
+      <li lang="nl">Zoek binnen artikelen</li>
+      <li lang="ja">記事のテキスト検索</li>
+      <li lang="it">Ricerca testuale negli articoli</li>
+      <li lang="id">Pencarian teks dalam artikel</li>
+      <li lang="ia">Recerca de texto in articulos</li>
+      <li lang="hr">Traženje teksta u člancima</li>
+      <li lang="gl">Busca de texto no artigo</li>
+      <li lang="fr">Recherche de texte dans les articles</li>
+      <li lang="fi">Etsi tekstiä artikkeleista</li>
+      <li lang="fa">جست‌وجوی متن در مقالات</li>
+      <li lang="eu">Testu bilaketa artikuluetan</li>
+      <li lang="es">Búsqueda de texto en el artículo</li>
+      <li lang="el">Αναζήτηση κειμένου</li>
+      <li lang="de">Textsuche in Artikel</li>
+      <li lang="cs">Vyhledávání v článcích</li>
+      <li lang="bn">আর্টিকেলে টেক্সট সার্চ</li>
+      <li>Article table of contents</li>
+      <li lang="zh">目錄</li>
+      <li lang="tr">Makale içindekiler tablosu</li>
+      <li lang="sv">Artikelförteckning över innehåll</li>
+      <li lang="ru">Содержание статьи</li>
+      <li lang="pt_BR">Índice do artigo</li>
+      <li lang="pl">Artykuł spis treści</li>
+      <li lang="nl">Inhoudsopgaven</li>
+      <li lang="ja">記事の目次</li>
+      <li lang="it">Indice dei contenuti dell'articolo</li>
+      <li lang="id">Daftar isi artikel</li>
+      <li lang="ia">Tabula del contentos de articulo</li>
+      <li lang="hr">Sadržaj članka</li>
+      <li lang="gl">Táboa de contidos do artigo</li>
+      <li lang="fr">Sommaire de l'article</li>
+      <li lang="fi">Artikkelin sisällysluettelo</li>
+      <li lang="fa">محتویات مقاله</li>
+      <li lang="eu">Artikuluaren aurkibidea</li>
+      <li lang="es">Tabla de contenidos del artículo</li>
+      <li lang="el">Περιεχόμενα άρθρου</li>
+      <li lang="de">Inhaltsverzeichnis in Artikeln</li>
+      <li lang="cs">Obsah článku</li>
+      <li lang="bn">আর্টিকেলের বিষয়সূচি</li>
+      <li>View article in other languages</li>
+      <li lang="zh">以其他語言閱讀條目</li>
+      <li lang="tr">Makaleyi diğer dillerde görüntüleme</li>
+      <li lang="sv">Visa artikel på andra språk</li>
+      <li lang="ru">Просмотр статьи на других языках</li>
+      <li lang="pt_BR">Ver artigo noutras línguas</li>
+      <li lang="pl">Zobacz artykuł w innych językach</li>
+      <li lang="nl">Lees artikelen in andere talen</li>
+      <li lang="ja">記事を他の言語で表示</li>
+      <li lang="it">Visualizza l'articolo in altre lingue</li>
+      <li lang="id">Tampilkan artikel dalam bahasa lain</li>
+      <li lang="ia">Vider le articulo in altere linguas</li>
+      <li lang="hr">Čitaj članak na drugim jezicima</li>
+      <li lang="gl">Ver artigo noutros idiomas</li>
+      <li lang="fr">Voir l'article dans d'autres langues</li>
+      <li lang="fi">Lue artikkeli eri kielillä</li>
+      <li lang="fa">مشاهدهٔ مقاله در زبانی دیگر</li>
+      <li lang="eu">Ikusi artikulua beste hizkuntza batzuetan</li>
+      <li lang="es">Ver artículo en otros idiomas</li>
+      <li lang="el">Προβολή άρθρου σε άλλη γλώσσα</li>
+      <li lang="de">Artikel in anderer Sprache ansehen</li>
+      <li lang="cs">Zobrazení článku v jiných jazycích</li>
+      <li lang="bn">অন্য ভাষায় আর্টিকেল দেখুন</li>
+      <li>GNOME Shell search integration</li>
+      <li lang="zh">從 Gnome 桌面搜尋條目</li>
+      <li lang="tr">GNOME Shell arama birleştirme</li>
+      <li lang="sv">GNOME Shell sökintegration</li>
+      <li lang="ru">Интеграция поиска в оболочку GNOME</li>
+      <li lang="pt_BR">Integração de pesquisa do GNOME Shell</li>
+      <li lang="pl">Integracja wyszukiwania powłoki GNOME</li>
+      <li lang="nl">GNOME Shell-zoekintegratie</li>
+      <li lang="ja">GNOME Shell 検索との統合</li>
+      <li lang="it">Integrazione della ricerca in GNOME Shell</li>
+      <li lang="id">Integrasi pencarian Shell GNOME</li>
+      <li lang="hr">Integracija s pretragom GNOME ljuske</li>
+      <li lang="gl">Integración coa busca de GNOME Shell</li>
+      <li lang="fr">Intégration de la recherche GNOME Shell</li>
+      <li lang="fi">Gnome Shell -hakuintegraatio</li>
+      <li lang="fa">یک‌پارچه‌ساز جست‌وجوی پوستهٔ گنوم</li>
+      <li lang="eu">Bilaketa GNOME Shellen integratua</li>
+      <li lang="es">Integración con la búsqueda de GNOME Shell</li>
+      <li lang="de">Integration in die Suche der GNOME Shell</li>
+      <li lang="cs">Integrace vyhledávání GNOME Shell</li>
+      <li lang="bn">GNOME শেল সার্চ ইনটিগ্রেশন</li>
+      <li>Light, dark and sepia themes</li>
+      <li lang="zh">淺色、深色及 Sepia 色調</li>
+      <li lang="tr">Açık, karanlık ve sepya temalar</li>
+      <li lang="sv">Ljust, mörkt och sepiatema</li>
+      <li lang="ru">Светлая, Темная и тема Сепия</li>
+      <li lang="pt_BR">Temas claro, escuro e sépia</li>
+      <li lang="pl">Jasne, ciemne i sepia motywy</li>
+      <li lang="nl">Lichte, donkere en sepiathema's</li>
+      <li lang="ja">ライト、ダークそして、スピアのテーマ</li>
+      <li lang="it">Temi chiaro, scuro e seppia</li>
+      <li lang="ia">Themas clar, obscur e sepia</li>
+      <li lang="hr">Svijetla, tamna i tamnosmeđa tema</li>
+      <li lang="fr">Thèmes clair, foncé et sépia</li>
+      <li lang="fi">Tumma, vaalea ja seepianvärinen teema</li>
+      <li lang="fa">روشن، تاریک و سوبیایی</li>
+      <li lang="eu">Gai argiak, ilunak eta sepia</li>
+      <li lang="es">Temas claro, oscuro y sepia</li>
+      <li lang="de">Helle, dunkle und sepia Themen</li>
+      <li lang="bn">লাইট, ডার্ক এবং সেপিয়া থিম</li>
+    </ul>
+  </description>
+  <launchable type="desktop-id">com.github.hugolabe.Wike.desktop</launchable>
+  <translation type="gettext">wike</translation>
+  <content_rating type="oars-1.1" />
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/hugolabe/wike/master/data/screenshots/wike-01-main.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/hugolabe/wike/master/data/screenshots/wike-02-tabs.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/hugolabe/wike/master/data/screenshots/wike-03-toc.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/hugolabe/wike/master/data/screenshots/wike-04-bookmarks.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/hugolabe/wike/master/data/screenshots/wike-05-dark.png</image>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release version="1.7.1" date="2022-02-06">
+      <description>
+        <ul>
+          <li>Added translations: Bengali, Chinese (traditional).</li>
+          <li>Updated translations: Catalan, French.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.7.0" date="2022-01-19">
+      <description>
+        <ul>
+          <li>Desktop searches in multiple languages.</li>
+          <li>Context menu improvements.</li>
+          <li>Updated translations: Basque, Croatian, Czech, Dutch, Finnish, Interlingua, Italian, Japanese, Persian, Polish, Portuguese (BR), Russian, Spanish, Swedish.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.6.3" date="2021-12-10">
+      <description>
+        <ul>
+          <li>Added Basque translation.</li>
+          <li>Updated Persian translation.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.6.2" date="2021-12-03">
+      <description>
+        <ul>
+          <li>Added translations: Catalan.</li>
+          <li>Updated translations: German and Japanese.</li>
+          <li>CSS tweaks.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.6.1" date="2021-11-16">
+      <description>
+        <ul>
+          <li>Added translations: Japanese, Persian and Polish.</li>
+          <li>Updated translations: Interlingua, Italian, Russian and Turkish.</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-10-15" version="1.6.0">
+      <description>
+        <ul>
+          <li>Open multiple articles in tabs.</li>
+          <li>Added sepia mode.</li>
+          <li>Added context menu.</li>
+          <li>Main menu redesign.</li>
+          <li>Updated translations: Croatian, Dutch, Finnish, French, Portuguese, Russian, Spanish and Swedish.</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-09-21" version="1.5.7">
+      <description>
+        <ul>
+          <li>Added Croatian and Galician translations.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.5.6" date="2021-09-09">
+      <description>
+        <ul>
+          <li>Updated French and Italian translations.</li>
+          <li>Bug fixes.</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-09-05" version="1.5.5">
+      <description>
+        <ul>
+          <li>Small UI tweaks.</li>
+          <li>Fixed some texts.</li>
+          <li>Added Turkish and Swedish translations.</li>
+          <li>Updated several translations.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.5.4" date="2021-08-10">
+      <description>
+        <ul>
+          <li>Fix alignment issues in Historic view.</li>
+          <li>Added Indonesian translation.</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-07-09" version="1.5.3">
+      <description>
+        <ul>
+          <li>Added Finnish translation.</li>
+          <li>Updated Russian translation.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.5.2" date="2021-07-05">
+      <description>
+        <ul>
+          <li>Added Czech and Russian translations.</li>
+          <li>Updated German translation.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.5.1" date="2021-06-25">
+      <description>
+        <ul>
+          <li>Improvements in privacy management.</li>
+          <li>Updated translations: Dutch, French, Portuguese (BR) and Spanish.</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-06-18" version="1.5.0">
+      <description>
+        <ul>
+          <li>GNOME Shell search integration.</li>
+          <li>Added an option in preferences to show preview popups in article links.</li>
+          <li>Added retry button in view when page fails to load.</li>
+          <li>Updated Spanish translation.</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-06-04" version="1.4.2">
+      <description>
+        <ul>
+          <li>Added Interlingua translation.</li>
+          <li>Updated German translation.</li>
+          <li>Updated Greek translation.</li>
+          <li>Updated Italian translation.</li>
+          <li>Bug fixes.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.4.1" date="2021-05-28">
+      <description>
+        <ul>
+          <li>Added Dutch translation.</li>
+          <li>Updated French translation.</li>
+          <li>Updated Portuguese (BR) translation.</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-05-21" version="1.4.0">
+      <description>
+        <ul>
+          <li>Added dark mode.</li>
+          <li>Updated Spanish translation.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.3.3" date="2021-05-13">
+      <description>
+        <ul>
+          <li>Added Greek translation.</li>
+          <li>Updated Italian translation.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.3.2" date="2021-05-08">
+      <description>
+        <ul>
+          <li>Added Ctrl+K shortcut to search articles.</li>
+          <li>Increased maximum font size.</li>
+          <li>Fixed missing icon in some desktops.</li>
+          <li>Added Portuguese (BR) translation.</li>
+          <li>Updated German translation.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.3.1" date="2021-05-07">
+      <description>
+        <ul>
+          <li>Article view improvements.</li>
+          <li>Updated French translation.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.3.0" date="2021-04-28">
+      <description>
+        <ul>
+          <li>Added option to use custom font in article view.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.2.1" date="2021-04-22">
+      <description>
+        <ul>
+          <li>Added German translation.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.2.0" date="2021-04-21">
+      <description>
+        <ul>
+          <li>Correction in French translation.</li>
+          <li>Switch to GNOME Platform 40 runtime.</li>
+          <li>Rounded corners in main window.</li>
+          <li>Revamped preferences window.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.1.1" date="2021-04-14">
+      <description>
+        <ul>
+          <li>Added French translation.</li>
+          <li>Added Italian translation.</li>
+          <li>Fix Categories in desktop file.</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-04-12" version="1.1.0">
+      <description>
+        <ul>
+          <li>Improved text search bar, with prev/next buttons and match counter.</li>
+          <li>Correction in spanish translation.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.0.2" date="2021-03-24">
+      <description>
+        <ul>
+          <li>Fix content rating missed in metainfo.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.0.1" date="2021-03-24">
+      <description>
+        <ul>
+          <li>CSS style tweaks.</li>
+          <li>Changes in app distribution files.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.0.0" date="2021-03-19">
+      <description>
+        <p>Initial release.</p>
+      </description>
+    </release>
+  </releases>
+  <url type="homepage">https://hugolabe.github.io/Wike/</url>
+  <url type="translate">https://poeditor.com/join/project?hash=kNgJu4MAum</url>
+  <developer_name>Hugo Olabera</developer_name>
+  <update_contact>hugolabe@gmail.com</update_contact>
+</component>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>playbar2</pkgname>
+  <id>audoban.applet.playbar</id>
+  <extends>org.kde.plasmashell</extends>
+  <name>PlayBar</name>
+  <summary>Client MPRIS2, allows you to control your favorite media player</summary>
+  <summary lang="de">Ein MPRIS2-Client, der Ihnen die Kontrolle Ihres bevorzugten Media Players ermöglicht</summary>
+  <summary lang="en">Client MPRIS2, allows you to control your favorite media player</summary>
+  <summary lang="es">Cliente para MPRIS2, le permite controlar su reproductor de audio favorito</summary>
+  <summary lang="pl">Klient MPRIS2 pozwala ci kontrolować ulubiony odtwarzacz multimedialny</summary>
+  <summary lang="pt">Cliente MPRIS2, permite controlar seu tocador de mídia favorito</summary>
+  <summary lang="ru">Клиент MPRIS2, позволяет управлять вашим мультимедиа-проигрывателем</summary>
+  <url type="homepage">https://github.com/audoban/PlayBar2</url>
+  <developer_name>Smith AR &lt;audoban@openmailbox.org></developer_name>
+  <icon type="stock">applications-multimedia</icon>
+  <project_license>GPL-3.0</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+</component>

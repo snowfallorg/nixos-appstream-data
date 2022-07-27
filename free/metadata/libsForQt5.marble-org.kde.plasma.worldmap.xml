@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+  <pkgname>libsForQt5.marble</pkgname>
+  <id>org.kde.plasma.worldmap</id>
+  <name>World Map</name>
+  <name lang="ar">خريطة العالم</name>
+  <name lang="ca@valencia">Mapa mundial</name>
+  <name lang="ca">Mapa mundial</name>
+  <name lang="cs">Mapa světa</name>
+  <name lang="da">Verdenskort</name>
+  <name lang="de">Weltkarte</name>
+  <name lang="el">Παγκόσμιος χάρτης</name>
+  <name lang="en_GB">World Map</name>
+  <name lang="es">Mapa mundial</name>
+  <name lang="et">Maailmakaart</name>
+  <name lang="eu">Munduko mapa</name>
+  <name lang="fi">Maailmankartta</name>
+  <name lang="fr">Carte du monde</name>
+  <name lang="gl">Mapa do mundo</name>
+  <name lang="id">Peta Dunia</name>
+  <name lang="it">Mappa del mondo</name>
+  <name lang="ko">세계 지도</name>
+  <name lang="nl">Wereldkaart</name>
+  <name lang="nn">Verdskart</name>
+  <name lang="pa">ਸੰਸਾਰ ਨਕਸ਼ਾ</name>
+  <name lang="pl">Mapa świata</name>
+  <name lang="pt">Mapa-Mundo</name>
+  <name lang="pt_BR">Mapa mundial</name>
+  <name lang="ru">Карта мира</name>
+  <name lang="sk">Mapa sveta</name>
+  <name lang="sl">Zemljevid sveta</name>
+  <name lang="sv">Världskarta</name>
+  <name lang="tr">Dünya Haritası</name>
+  <name lang="uk">Карта світу</name>
+  <name lang="x-test">xxWorld Mapxx</name>
+  <name lang="zh_CN">世界地图</name>
+  <name lang="zh_TW">世界地圖</name>
+  <summary>Our beautiful globe as your wallpaper</summary>
+  <summary lang="ar">كرتنا الأرضية الجميلة كخلفية لسطح مكتبك</summary>
+  <summary lang="ca@valencia">El nostre globus terraqüi com a fons de pantalla</summary>
+  <summary lang="ca">El nostre globus terraqüi com a fons de pantalla</summary>
+  <summary lang="cs">Naše krásná planeta jako tapeta</summary>
+  <summary lang="da">Vores smukke klode som din skrivebordsbaggrund</summary>
+  <summary lang="de">Unser Globus als Hintergrundbild</summary>
+  <summary lang="el">Η ωραία μας υδρόγειος ως ταπετσαρία</summary>
+  <summary lang="en_GB">Our beautiful globe as your wallpaper</summary>
+  <summary lang="es">Nuestro bello globo como fondo de escritorio</summary>
+  <summary lang="et">Meie kaunis maakera sinu taustapildina</summary>
+  <summary lang="eu">Gure globo ederra zure horma-paper gisa</summary>
+  <summary lang="fi">Maapallo taustakuvanasi</summary>
+  <summary lang="fr">Notre magnifique globe comme fond d'écran</summary>
+  <summary lang="gl">O noso fermoso globo terráqueo como fondo de escritorio</summary>
+  <summary lang="id">Globe kami yang indah sebagai wallpaper Anda</summary>
+  <summary lang="it">Il nostro bellissimo pianeta come sfondo</summary>
+  <summary lang="ko">세상을 배경 화면으로</summary>
+  <summary lang="nl">Onze prachtige wereldbol als uw achtergrondafbeelding</summary>
+  <summary lang="nn">Vår vakre planet som bakgrunnsbilete</summary>
+  <summary lang="pa">ਤੁਹਾਡੇ ਵਾਲਪੇਪਰ ਵਰਗੀ ਸਾਡੀ ਸੋਹਣੀ ਗਲੋਬ</summary>
+  <summary lang="pl">Nasza piękna kula ziemska jako twoja tapeta</summary>
+  <summary lang="pt">O nosso bonito globo como papel de parede</summary>
+  <summary lang="pt_BR">Nosso lindo globo como seu papel de parede</summary>
+  <summary lang="ru">Наша прекрасная планета в качестве обоев</summary>
+  <summary lang="sk">Naša krásna zemeguľa ako tapeta</summary>
+  <summary lang="sl">Naš lep globus kot vaša tapeta</summary>
+  <summary lang="sv">Vår vackra planet som skrivbordsunderlägg</summary>
+  <summary lang="tr">Büyüleyici yerküremiz, masaüstü duvar kağıdı olarak</summary>
+  <summary lang="uk">Наша чудова планета на шпалерах вашої стільниці</summary>
+  <summary lang="x-test">xxOur beautiful globe as your wallpaperxx</summary>
+  <summary lang="zh_CN">将这款地球仪的图像用作壁纸</summary>
+  <summary lang="zh_TW">將我們漂亮的地球設為桌布</summary>
+  <url type="homepage">https://marble.kde.org/</url>
+  <url type="donation">https://www.kde.org/donate.php?app=org.kde.plasma.worldmap</url>
+  <developer_name>Friedrich W. H. Kossebau &lt;kossebau@kde.org></developer_name>
+  <icon type="stock">marble</icon>
+  <project_license>LGPL-2.0</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+</component>

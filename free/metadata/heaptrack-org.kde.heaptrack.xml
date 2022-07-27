@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>heaptrack</pkgname>
+  <launchable type="desktop-id">org.kde.heaptrack.desktop</launchable>
+  <icon height="64" type="cached" width="64">heaptrack.png</icon>
+  <icon width="128" type="cached" height="128">heaptrack.png</icon>
+  <id>org.kde.heaptrack.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0-or-later</project_license>
+  <name>Heaptrack</name>
+  <name lang="ca">Heaptrack</name>
+  <name lang="ca-valencia">Heaptrack</name>
+  <name lang="cs">Heaptrack</name>
+  <name lang="da">Heaptrack</name>
+  <name lang="de">Heaptrack</name>
+  <name lang="en-GB">Heaptrack</name>
+  <name lang="es">Heaptrack</name>
+  <name lang="fr">Heaptrack</name>
+  <name lang="gl">Heaptrack</name>
+  <name lang="ia">Heaptrack</name>
+  <name lang="id">Heaptrack</name>
+  <name lang="it">Heaptrack</name>
+  <name lang="ko">힙 추적</name>
+  <name lang="nl">Heaptrack</name>
+  <name lang="nn">Heaptrack</name>
+  <name lang="pl">Heaptrack</name>
+  <name lang="pt">Heaptrack</name>
+  <name lang="pt-BR">Heaptrack</name>
+  <name lang="ru">Heaptrack</name>
+  <name lang="sk">Heaptrack</name>
+  <name lang="sl">Heaptrack</name>
+  <name lang="sv">Heaptrack</name>
+  <name lang="tr">Heaptrack</name>
+  <name lang="uk">Heaptrack</name>
+  <name lang="x-test">xxHeaptrackxx</name>
+  <name lang="zh-CN">堆栈追踪</name>
+  <summary>A heap memory profiler for Linux</summary>
+  <summary lang="ca">Un perfilador de memòria en monticles per a Linux</summary>
+  <summary lang="ca-valencia">Un perfilador de memòria en monticles per a Linux</summary>
+  <summary lang="en-GB">A heap memory profiler for Linux</summary>
+  <summary lang="es">Un analizador de rendimiento de la memoria de almacenamiento libre para Linux</summary>
+  <summary lang="fr">Un analyseur de mémoire dynamique pour Linux</summary>
+  <summary lang="gl">Un analizador de uso de memoria dinámica (heap) para Linux</summary>
+  <summary lang="ia">Un profilator de memoria heap per Linux</summary>
+  <summary lang="id">Sebuah profil memori tumpukan untuk Linux</summary>
+  <summary lang="it">Un profiler della memoria heap per Linux</summary>
+  <summary lang="ko">리눅스 힙 추적 메모리 프로파일러</summary>
+  <summary lang="nl">Een profiler van heap-geheugen voor Linux</summary>
+  <summary lang="nn">Profileringsprogram for heap-minne</summary>
+  <summary lang="pl">Program profilujący pamięć na stosie dla Linuksa</summary>
+  <summary lang="pt">Um analisador da memória de dados para o Linux</summary>
+  <summary lang="pt-BR">Um analisador de performance de memória de dados para o Linux</summary>
+  <summary lang="sk">Profiler pamäťovej haldy pre Linux.</summary>
+  <summary lang="sl">Analizator profila pomnilnika kopice za Linux</summary>
+  <summary lang="sv">Ett heap-profileringsverktyg för Linux</summary>
+  <summary lang="uk">Засіб профілювання «купи» пам'яті для Linux</summary>
+  <summary lang="x-test">xxA heap memory profiler for Linuxxx</summary>
+  <summary lang="zh-CN">用于 Linux 的堆内存分析器</summary>
+  <description>
+    <p>
+      Heaptrack traces all memory allocations and annotates these events with stack traces. Dedicated analysis tools then allow you to interpret the heap memory profile to:
+    </p>
+    <p lang="ca">El «heaptrack» rastreja totes les assignacions de memòria i anota aquests esdeveniments amb seguiments de pila. Les eines d'anàlisi dedicades que hi ha a continuació, us permetran interpretar el perfil de memòria en monticles:</p>
+    <p lang="ca-valencia">El «heaptrack» rastreja totes les assignacions de memòria i anota aquests esdeveniments amb seguiments de pila. Les eines d'anàlisi dedicades que hi ha a continuació, vos permetran interpretar el perfil de memòria en monticles:</p>
+    <p lang="da">Heaptrack sporer alle hukommelsesallokeringer og anmærker begivenhederne med stakspor. Dedikerede analyseværktøjer som giver dig mulighed for at fortolke heapens hukommelsesprofil til:</p>
+    <p lang="en-GB">Heaptrack traces all memory allocations and annotates these events with stack traces. Dedicated analysis tools then allow you to interpret the heap memory profile to:</p>
+    <p lang="es">Heaptrack rastrea todas las asignaciones de memoria y anota estos eventos con trazas de la pila para poder usar herramientas de dedicadas que le permitan interpretar el análisis de rendimiento de la memoria de almacenamiento libre para:</p>
+    <p lang="fr">Le logiciel « Heaptrack » permet le suivi des allocations de mémoire. Il annote les demandes par des traces dans la pile. Des outils dédiés d'analyse vous permettent ensuite d'interpréter le profil de la mémoire dynamique pour :</p>
+    <p lang="gl">Heaptrack fai un seguimento de todas as asociacións de memoria e apunta os eventos co historial da rima. Logo pode usar ferramentas de análise para interpretar os datos de uso da memoria dinámica (heap) para:</p>
+    <p lang="id">Heaptrack melacak semua alokasi memori dan membubuhi keterangan peristiwa ini dengan jejak tumpukan. Alat analisis khusus kemudian memungkinkan kamu untuk menginterpretasikan profil memori tumpukan untuk:</p>
+    <p lang="it">Heaptrack traccia tutte le allocazioni di memoria e le annota con tracciati dello stack. Degli strumenti dedicati di analisi ti permettono quindi di interpretare il profilo della memoria heap in modo da:</p>
+    <p lang="ko">힙 추적은 모든 메모리 할당을 추적하고 스택 추적과 메모리 할당을 연결합니다. 분석 도구를 사용하여 힙 메모리 프로필을 해석할 수 있습니다:</p>
+    <p lang="nl">Heaptrack traceert alle toewijzigingen van geheugen en annoteert deze gebeurtenissen met stacktraces. Specifieke hulpmiddelen voor analyse bieden u de mogelijkheid om het geheugenprofiel van de heap te interpreteren:</p>
+    <p lang="nn">Heaptrack sporar alle minnereserveringar og merkjer dei med tilhøyrande stabelspor. Analyseverktøyet lèt deg så tolka minneprofilen for å:</p>
+    <p lang="pl">Heaptrack rejestruje wszystkie przydziały pamięci i przypisuje tym zdarzeniom ślady stosu. Dedykowane narzędzia analizy, które umożliwiają interpretację profilu pamięcy aby:</p>
+    <p lang="pt">O Heaptrack faz uma análise de todas as alocações de memória e anota esses eventos com os registos de chamadas. As ferramentas de análise dedicadas permitem-lhe então interpretar o perfil da memória de dados para:</p>
+    <p lang="pt-BR">O heaptrack traça todas as alocações de memória e anota estes eventos com rastreios de pilha. As ferramentas dedicadas de análises permitirão a você interpretar o perfil de memória da pilha para:</p>
+    <p lang="sk">Heaptrack trasuje všetky pamäťové alokácie a anotuje tieto udalosti s trasovaním sledu. Samostatné analytické nástroje vám pomôžu interpretovať profil pamäťovej haldy na:</p>
+    <p lang="sl">Heaptrack zasleduje vse dodelitve pomnilnika in jim pripisuje dogodke v sklad sledi. Namenska orodja za analizo vam nato omogočajo razlago profila kopice pomnilnika:</p>
+    <p lang="sv">Heaptrack spårar alla minnestilldelningar och förser händelserna med noter om bakåtspårningar av stacken. Särskilda analysverktyg låter dig sedan tolka heap-minnesprofilen för att:</p>
+    <p lang="tr">Heaptrack, tüm bellek tahsislerini izler ve bu olayları yığın izleriyle açıklar. Ayrılmış analiz araçları daha sonra yığın bellek profilini yorumlamanıza izin verir:</p>
+    <p lang="uk">Heaptrack трасує усі запити щодо розміщення даних у пам'яті і анотує ці події за допомогою трасування стека. Далі, спеціалізовані інструменти для аналізу надають вам змогу обробляти дані профілювання пам'яті з такою метою:</p>
+    <p lang="x-test">xxHeaptrack traces all memory allocations and annotates these events with stack traces. Dedicated analysis tools then allow you to interpret the heap memory profile to:xx</p>
+    <ul>
+      <li>find hotspots that need to be optimized to reduce the memory footprint of your application</li>
+      <li lang="ca">troba els punts d'accés que necessiten optimitzar-se per a reduir el consum de memòria de la vostra aplicació</li>
+      <li lang="ca-valencia">troba els punts d'accés que necessiten optimitzar-se per a reduir el consum de memòria de la vostra aplicació</li>
+      <li lang="da">find hotspots som behøver optimering for at reducere dit programs hukommelsesfodaftryk</li>
+      <li lang="en-GB">find hotspots that need to be optimized to reduce the memory footprint of your application</li>
+      <li lang="es">encontrar cuellos de botella que es necesario optimizar para reducir el impacto de su aplicación en la memoria</li>
+      <li lang="fr">trouver les zones principales de code à améliorer pour réduire l'empreinte mémoire de votre application</li>
+      <li lang="gl">Atopar puntos quentes que cómpre optimizar para reducir o consumo de memoria da aplicación</li>
+      <li lang="id">menemukan hotspot yang perlu dioptimalkan untuk mengurangi jejak memori aplikasimu</li>
+      <li lang="it">trovare gli «hotspot» che devono essere ottimizzati per ridurre il consumo di memoria della tua applicazione</li>
+      <li lang="ko">프로그램의 메모리 사용량을 줄일 때 필요한 핫스팟(최적화해야 할 지점) 확인</li>
+      <li lang="nl">zoek hotspots die het nodig hebben om geoptimaliseerd te worden om de voetafdruk van het geheugen van uw toepassing te verminderen</li>
+      <li lang="nn">Finna problemområde som må optimerast for å redusera minnebruken til programmet.</li>
+      <li lang="pl">znaleźć gorące miejsca, które wymagają optymalizacji do zmniejszenia zapotrzebowania na pamięć dla twojej aplikacji</li>
+      <li lang="pt">descobrir pontos críticos que precisam de optimização para reduzir a 'pegada' de memória da sua aplicação</li>
+      <li lang="pt-BR">encontrar pontos de acesso que precisam ser otimizados para reduzir o consumo de memória de seu aplicativo</li>
+      <li lang="sk">nájdenie hotspotu, ktoý treba optimalizovať na zníženie použitia pamäte vašej aplikácie</li>
+      <li lang="sl">poišče vroče točke, ki jih je treba optimizirati, da zmanjšate pomnilniški odtis vašega programa</li>
+      <li lang="sv">Hitta överbelastningsställen som behöver optimeras för att reducera programmets minnesanvändning.</li>
+      <li lang="tr">uygulamanızın belleğin kapladığı alanı azaltmak için optimize edilmesi gereken etkin noktaları bulun</li>
+      <li lang="uk">Виявлення проблемних місць, які має бути оптимізовано з метою зменшення споживання пам'яті вашою програмою.</li>
+      <li lang="x-test">xxfind hotspots that need to be optimized to reduce the memory footprint of your applicationxx</li>
+      <li>find memory leaks, i.e. locations that allocate memory which is never deallocated</li>
+      <li lang="ca">troba les fuites de memòria, és a dir, llocs que assignen memòria que mai es desassignarà</li>
+      <li lang="ca-valencia">troba les fuites de memòria, és a dir, llocs que assignen memòria que mai es desassignarà</li>
+      <li lang="da">find hukommelseslæk, dvs. positioner som allokerer hukommelse som aldrig deallokeres</li>
+      <li lang="en-GB">find memory leaks, i.e. locations that allocate memory which is never deallocated</li>
+      <li lang="es">encontrar fugas de memoria (es decir, lugares donde se asigna memoria que no se llega a liberar)</li>
+      <li lang="fr">trouver les fuites de mémoires, c'est-à-dire, des parties de logiciels, qui s'allouent de la mémoire mais qui ne la libèrent jamais</li>
+      <li lang="gl">Atopar perdas de memoria, é dicir, lugares que asignan memoria que nunca se libera.</li>
+      <li lang="id">menemukan kebocoran memori, misal lokasi yang mengalokasikan memori yang tidak pernah dialokasikan</li>
+      <li lang="it">trovare i buchi di memoria, cioè le posizioni dove è allocata memoria che non viene mai rilasciata</li>
+      <li lang="ko">할당하고 해제하지 않는 등 메모리 누수 확인</li>
+      <li lang="nl">zoek naar lekken in het geheugen, d.w.z. locaties die geheugen toewijzen die nooit wordt vrijgegeven</li>
+      <li lang="nn">Finna minnelekkasjar – område der minne vert reservert men aldri frigjort.</li>
+      <li lang="pl">znaleźć wycieki pamięci, tj. miejsca, które przydzielają pamięć, która nigdy nie zostanie zwolniona</li>
+      <li lang="pt">descobrir fugas de memória, i.e. localizações que alocam memória que nunca é libertada</li>
+      <li lang="pt-BR">encontrar vazamentos de memória, por exemplo localizações que alocam memória que nunca é desalocada</li>
+      <li lang="sk">nájdenie pamäťových únikov, teda miest, ktoré alokujú pamäť, ktorá sa nikdy neuvoľní</li>
+      <li lang="sl">poiščite puščanje pomnilnika, to so lokacije, ki dodelijo pomnilnik, ki pa ga nikoli ne sprostijo</li>
+      <li lang="sv">Hitta minnesläckor, dvs. ställen där minne tilldelas som aldrig frigörs.</li>
+      <li lang="tr">bellek sızıntılarını, yani hiçbir zaman tahsis edilmemiş belleği tahsis eden yerleri bulun</li>
+      <li lang="uk">Виявлення витоків пам'яті, тобто розміщень даних у пам'яті без відповідних вивільнень, коли дані стають непотрібними.</li>
+      <li lang="x-test">xxfind memory leaks, i.e. locations that allocate memory which is never deallocatedxx</li>
+      <li>find allocation hotspots, i.e. code locations that trigger a lot of memory allocation calls</li>
+      <li lang="ca">troba els punts d'accés d'assignació, és a dir, les ubicacions al codi que desencadenen un munt de crides d'assignació de memòria</li>
+      <li lang="ca-valencia">troba els punts d'accés d'assignació, és a dir, les ubicacions al codi que desencadenen un munt de crides d'assignació de memòria</li>
+      <li lang="da">find allokerede hotspots, dvs. kodepositioner som udløser en masse kald for hukommelsesallokering</li>
+      <li lang="en-GB">find allocation hotspots, i.e. code locations that trigger a lot of memory allocation calls</li>
+      <li lang="es">encontrar cuellos de botella de asignaciones (es decir, lugares del código fuente que desencadenan numerosas llamadas de asignación de memoria)</li>
+      <li lang="fr">trouver les zones principales de code faisant des allocations mémoire, c'est-à-dire celles faisant de nombreuses requêtes d'allocation mémoire</li>
+      <li lang="gl">Atopar puntos quentes de asignación, é dicir, lugares do código que causan moitas chamadas de asignación de memoria.</li>
+      <li lang="id">menemukan hotspot alokasi, misal lokasi kode yang memicu banyak panggilan alokasi memori</li>
+      <li lang="it">trovare gli «hotspot» delle allocazioni, cioè posizioni nel codice che producono molte chiamate di allocazione della memoria</li>
+      <li lang="ko">메모리 할당을 많이 호출하는 코드 위치(할당 핫스팟) 확인</li>
+      <li lang="nl">zoek naar hotspots voor toewijzingen, d.w.z. locaties in de code die veel aanroepen van geheugen toewijzen doen</li>
+      <li lang="nn">Finna område i programkoden som utløyser veldig mange minnereserveringskall.</li>
+      <li lang="pl">znaleźć gorące miejsca przydziału pamięci, tj. miejsca kodu, które są odpowiedzialne za wiele przydzieleń pamięci</li>
+      <li lang="pt">descobrir pontos críticos de alocação, i.e. localizações de memória que despoletam bastantes chamadas de alocação de memória</li>
+      <li lang="pt-BR">encontrar pontos de acesso de alocação, por exemplo localização de códigos que ativam muitas chamadas de alocação de memória</li>
+      <li lang="sk">nájdenie hotspotov alokácií, teda iest, ktoré spúšťajú veľa volaní alokácie pamäte</li>
+      <li lang="sl">poiščite vroče točke dodeljevanja, to so lokacije kod, ki sprožijo veliko klicev po dodeljevanju pomnilnika</li>
+      <li lang="sv">Hitta överbelastningsställen för tilldelningar, dvs. ställen i koden som orsakar många anrop till minnestilldelning.</li>
+      <li lang="tr">tahsis edilen noktaları, yani bir çok bellek ayırma çağrısını tetikleyen kod yerlerini bulun</li>
+      <li lang="uk">Виявлення проблемних місць розміщення, тобто місць у програмному коді, які призводять до багатьох викликів щодо розміщення у пам'яті.</li>
+      <li lang="x-test">xxfind allocation hotspots, i.e. code locations that trigger a lot of memory allocation callsxx</li>
+      <li>find temporary allocations, which are allocations that are directly followed by their deallocation</li>
+      <li lang="ca">troba les assignacions temporals, són les assignacions que són seguides directament per la cancel·lació de la seva assignació</li>
+      <li lang="ca-valencia">troba les assignacions temporals, són les assignacions que són seguides directament per la cancel·lació de la seua assignació</li>
+      <li lang="da">find midlertidige allokeringer, som er allokeringer der direkte følges af deres deallokering</li>
+      <li lang="en-GB">find temporary allocations, which are allocations that are directly followed by their deallocation</li>
+      <li lang="es">encontrar asignaciones de memoria temporales, que son asignaciones que son inmediatamente seguidas por sus correspondientes liberaciones</li>
+      <li lang="fr">trouver les allocations transitoires, c'est-à-dire enchaînant une allocation suivie directement par une désallocation.</li>
+      <li lang="gl">Atopar asignacións temporais, asignacións que se liberan no momento.</li>
+      <li lang="id">menemukan alokasi sementara, yaitu alokasi yang langsung diikuti oleh alokasi mereka</li>
+      <li lang="it">trovare allocazioni temporanee, cioè allocazioni che sono seguite direttamente dalle rispettive de-allocazioni</li>
+      <li lang="ko">메모리 할당 다음에 바로 해제가 나오는 임시 할당 확인</li>
+      <li lang="nl">zoek naar tijdelijke toewijzingen, die toewijzingen zijn die direct gevolgd worden door hun vrijgave</li>
+      <li lang="nn">Finna «mellombelse» reserveringar – reserveringar som umiddelbart vert etterfølgde av avreserveringar.</li>
+      <li lang="pl">znaleźć tymczasowe przydzielenia, które są przydzieleniami bezpośrednio zwalnianymi poprzez zwolnienie przydziału</li>
+      <li lang="pt">descobrir alocações temporárias, que são alocações que são directamente seguidas da sua libertação</li>
+      <li lang="pt-BR">encontrar alocações temporárias, que são alocações que são seguidas diretamente por sua desalocação</li>
+      <li lang="sk">nájdenie dočasných alokácií, čo sú alokácie, ktoré priamo nasleduje ich dealokácia</li>
+      <li lang="sl">poiščite začasne dodelitve pomnilnika, ki jim neposredno sledijo njihove sprostitve</li>
+      <li lang="sv">Hitta tillfälliga tilldelningar, som är tilldelningar som direkt frigörs.</li>
+      <li lang="tr">tahsisin ardından bırakılacak olan, geçici tahsisleri bulun</li>
+      <li lang="uk">Виявлення тимчасових розміщень, тобто розміщень даних у пам'яті, за якими одразу ж слідують вивільнення відповідних ділянок пам'яті.</li>
+      <li lang="x-test">xxfind temporary allocations, which are allocations that are directly followed by their deallocationxx</li>
+    </ul>
+  </description>
+  <url type="homepage">https://phabricator.kde.org/dashboard/view/28/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=heaptrack</url>
+  <url type="help">https://mail.kde.org/mailman/listinfo/heaptrack</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://cdn.kde.org/screenshots/heaptrack/gui_summary.png</image>
+      <caption>Summary of tracked heap memory allocation data</caption>
+      <caption lang="ca">Resum del seguiment de les dades d'assignació de la memòria en monticles</caption>
+      <caption lang="ca-valencia">Resum del seguiment de les dades d'assignació de la memòria en monticles</caption>
+      <caption lang="es">Sumario de datos de asignación de memoria de almacenamiento libre rastreada</caption>
+      <caption lang="fr">Résumé des données d'allocation pour la mémoire dynamique surveillée.</caption>
+      <caption lang="it">Riepilogo dei dati delle allocazioni di memoria heap tracciati</caption>
+      <caption lang="nl">Samenvatting van gevolgde gegevens voor heap-geheugen toewijzen</caption>
+      <caption lang="nn">Samandrag av minnereserveringsdata</caption>
+      <caption lang="pl">Podsumować śledzonych danych przydzielonych na pamięci stosu</caption>
+      <caption lang="pt-BR">Resumo dos dados rastreados de alocação de memória de dados</caption>
+      <caption lang="sv">Sammanfattning av spårad heap-minnestilldelningsdata</caption>
+      <caption lang="uk">Резюме щодо стеження за розміщенням даних у «купі» пам'яті</caption>
+      <caption lang="x-test">xxSummary of tracked heap memory allocation dataxx</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://cdn.kde.org/screenshots/heaptrack/gui_flamegraph.png</image>
+      <caption>Flamegraph visualization of number of heap memory allocations</caption>
+      <caption lang="ca">Visualització del gràfic de flames del nombre d'assignacions de memòria en monticles</caption>
+      <caption lang="ca-valencia">Visualització del gràfic de flames del nombre d'assignacions de memòria en monticles</caption>
+      <caption lang="es">Visualización de gráfico de llamas del número de asignaciones de memoria de almacenamiento libre</caption>
+      <caption lang="fr">Affichage graphe en chandelles du nombre d'allocations de mémoire dynamique.</caption>
+      <caption lang="it">Visualizzazione di tipo Flamegraph del totale di allocazioni di memoria heap</caption>
+      <caption lang="nl">Flamegraph visualisatie van het aantal toewijzingen van heap-geheugen</caption>
+      <caption lang="nn">Flammegraf-visualisering av talet på minnereserveringar</caption>
+      <caption lang="pl">Zobrazowanie liczby przydzieleń pamięci na stosie na wykresie płomieni</caption>
+      <caption lang="pt-BR">Visualização em gráfico de chamas do número de alocações de memória de dados</caption>
+      <caption lang="sv">Visualisering av antal heap-minnestilldelningar med Flamegraph</caption>
+      <caption lang="uk">Інтерактивна гістограма кількості розміщень у «купі» пам'яті</caption>
+      <caption lang="x-test">xxFlamegraph visualization of number of heap memory allocationsxx</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://cdn.kde.org/screenshots/heaptrack/gui_allocations_chart.png</image>
+      <caption>Chart of heap memory allocations over time</caption>
+      <caption lang="ca">Gràfic de les assignacions de memòria en monticles al llarg del temps</caption>
+      <caption lang="ca-valencia">Gràfic de les assignacions de memòria en monticles al llarg del temps</caption>
+      <caption lang="es">Gráfico de asignaciones de memoria del almacenamiento libre a lo largo del tiempo</caption>
+      <caption lang="fr">Graphique des allocations de mémoire dynamique en temps réel</caption>
+      <caption lang="it">Grafico delle allocazioni della memoria heap nel tempo</caption>
+      <caption lang="nl">Grafiek van toewijzingen van heap-geheugen in de tijd</caption>
+      <caption lang="nn">Diagram over minnereserveringar over tid</caption>
+      <caption lang="pl">Wykres przydzieleń pamięci na stosie na osi czasu</caption>
+      <caption lang="pt-BR">Gráfico das alocações de memória de dado no período de tempo</caption>
+      <caption lang="sv">Diagram över heap-minnestilldelningar över tiden</caption>
+      <caption lang="uk">Діаграма розміщення даних у «купі» пам'яті за часом</caption>
+      <caption lang="x-test">xxChart of heap memory allocations over timexx</caption>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>heaptrack</binary>
+    <binary>heaptrack_gui</binary>
+    <binary>heaptrack_print</binary>
+  </provides>
+</component>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>libsForQt5.plasma-mobile</pkgname>
+  <id>org.kde.plasma.phoneshell</id>
+  <extends>org.kde.plasmashell</extends>
+  <name>Phone</name>
+  <name lang="ast">Teléfonu</name>
+  <name lang="az">Telefon</name>
+  <name lang="ca@valencia">Telèfon</name>
+  <name lang="ca">Telèfon</name>
+  <name lang="cs">Telefon</name>
+  <name lang="da">Telefon</name>
+  <name lang="de">Telefon</name>
+  <name lang="en_GB">Phone</name>
+  <name lang="es">Teléfono</name>
+  <name lang="et">Telefon</name>
+  <name lang="eu">Telefonoa</name>
+  <name lang="fi">Phone</name>
+  <name lang="fr">Téléphone</name>
+  <name lang="gl">Teléfono</name>
+  <name lang="hi">फोन</name>
+  <name lang="hu">Telefon</name>
+  <name lang="ia">Telephono</name>
+  <name lang="id">Ponsel</name>
+  <name lang="it">Telefono</name>
+  <name lang="ka">ტელეფონი</name>
+  <name lang="ko">전화</name>
+  <name lang="lt">Telefonas</name>
+  <name lang="nl">Telefoon</name>
+  <name lang="nn">Telefon</name>
+  <name lang="pa">ਫ਼ੋਨ</name>
+  <name lang="pl">Telefon</name>
+  <name lang="pt">Telefone</name>
+  <name lang="pt_BR">Celular</name>
+  <name lang="ro">Telefon</name>
+  <name lang="ru">Телефон</name>
+  <name lang="sk">Telefón</name>
+  <name lang="sl">Telefon</name>
+  <name lang="sv">Telefon</name>
+  <name lang="tr">Telefon</name>
+  <name lang="uk">Телефон</name>
+  <name lang="x-test">xxPhonexx</name>
+  <name lang="zh_CN">手机</name>
+  <name lang="zh_TW">電話</name>
+  <summary>Plasma shell for phones</summary>
+  <summary lang="ast">La shell de Plasma pa teléfonos</summary>
+  <summary lang="az">Telefonlar üçün Plasma üz qabığı</summary>
+  <summary lang="ca@valencia">Espai de treball Plasma per a telèfons</summary>
+  <summary lang="ca">Espai de treball Plasma per a telèfons</summary>
+  <summary lang="cs">Plasma Shell pro telefony</summary>
+  <summary lang="da">Plasma-skal til telefoner</summary>
+  <summary lang="de">Plasma-Shell für Telefone</summary>
+  <summary lang="en_GB">Plasma shell for phones</summary>
+  <summary lang="es">Intérprete de órdenes de Plasma para teléfonos</summary>
+  <summary lang="et">Plasma kest telefonidele</summary>
+  <summary lang="eu">Telefonoetarako Plasma oskola</summary>
+  <summary lang="fi">Plasma-työtila puhelimiin</summary>
+  <summary lang="fr">Terminal Plasma pour smartphones</summary>
+  <summary lang="gl">Intérprete de ordes de Plasma para móbiles</summary>
+  <summary lang="hi">फोन के लिए प्लाज्मा शेल</summary>
+  <summary lang="hu">Plasma felület telefonokhoz</summary>
+  <summary lang="ia">Shell de Plasma per telephonos</summary>
+  <summary lang="id">Shell Plasma untuk ponsel</summary>
+  <summary lang="it">Shell di Plasma per telefoni</summary>
+  <summary lang="ka">Plasma გარსი ტელეფონისთვის</summary>
+  <summary lang="ko">휴대폰용 Plasma 셸</summary>
+  <summary lang="lt">Plasma apvalkalas, skirtas telefonams</summary>
+  <summary lang="nl">Plasma-shell voor telefoons</summary>
+  <summary lang="nn">Plasma-skal for telefonar</summary>
+  <summary lang="pa">ਫ਼ੋਨਾਂ ਲਈ ਪਲਾਜ਼ਮਾ ਸ਼ੈਲ</summary>
+  <summary lang="pl">Powłoka Plazmy dla telefonów</summary>
+  <summary lang="pt">Área de trabalho Plasma para telemóveis</summary>
+  <summary lang="pt_BR">Plasma Shell para celulares</summary>
+  <summary lang="ro">Învelișul Plasma pentru telefoane</summary>
+  <summary lang="ru">Оболочка Plasma для смартфонов</summary>
+  <summary lang="sk">Plasma shell pre telefóny</summary>
+  <summary lang="sl">Plasma shell za telefone</summary>
+  <summary lang="sv">Plasma skal för telefoner</summary>
+  <summary lang="tr">Akıllı telefonlar için Plasma kabuğu</summary>
+  <summary lang="uk">Оболонка Плазми для телефонів</summary>
+  <summary lang="x-test">xxPlasma shell for phonesxx</summary>
+  <summary lang="zh_CN">适配手机的 Plasma 外壳程序</summary>
+  <summary lang="zh_TW">適用於手機的 Plasma Shell</summary>
+  <url type="homepage">https://plasma-mobile.org</url>
+  <url type="donation">https://www.kde.org/donate.php?app=org.kde.plasma.phoneshell</url>
+  <developer_name>Aaron Seigo &lt;aseigo@kde.org></developer_name>
+  <project_license>GPL-2.0+</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+</component>

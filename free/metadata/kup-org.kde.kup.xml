@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>kup</pkgname>
+  <id>org.kde.kup</id>
+  <extends>org.kde.systemsettings</extends>
+  <extends>org.kde.plasmashell</extends>
+  <metadata_license>FSFAP</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Kup</name>
+  <name lang="ca">Kup</name>
+  <name lang="ca-valencia">Kup</name>
+  <name lang="cs">Kup</name>
+  <name lang="de">Kup</name>
+  <name lang="en-GB">Kup</name>
+  <name lang="es">Kup</name>
+  <name lang="et">Kup</name>
+  <name lang="eu">Kup</name>
+  <name lang="fi">Kup</name>
+  <name lang="fr">Kup</name>
+  <name lang="id">Kup</name>
+  <name lang="it">Kup</name>
+  <name lang="ko">Kup</name>
+  <name lang="nl">Kup</name>
+  <name lang="pl">Kup</name>
+  <name lang="pt">Kup</name>
+  <name lang="pt-BR">Kup</name>
+  <name lang="ro">Kup</name>
+  <name lang="ru">Kup</name>
+  <name lang="sk">Kup</name>
+  <name lang="sl">Kup</name>
+  <name lang="sv">Kup</name>
+  <name lang="uk">Kup</name>
+  <name lang="x-test">xxKupxx</name>
+  <name lang="zh-CN">K 备份</name>
+  <name lang="zh-TW">Kup</name>
+  <summary>Backup scheduler for KDE's Plasma desktop</summary>
+  <summary lang="ca">Planificador de la còpia de seguretat per a l'escriptori Plasma del KDE</summary>
+  <summary lang="ca-valencia">Planificador de la còpia de seguretat per a l'escriptori Plasma del KDE</summary>
+  <summary lang="de">Sicherungsplaner für die KDE-Plasma-Arbeitsfläche</summary>
+  <summary lang="en-GB">Backup scheduler for KDE's Plasma desktop</summary>
+  <summary lang="es">Organizador de copias de seguridad para el escritorio KDE Plasma</summary>
+  <summary lang="et">KDE Plasma töölaua varukoopiate tegemise ajakava</summary>
+  <summary lang="eu">Babes-kopia antolatzailea KDEko Plasma mahaigainerako</summary>
+  <summary lang="fi">Varmuuskopioajastin KDE:n Plasma-työpöydälle</summary>
+  <summary lang="fr">Planificateur de sauvegarde pour le bureau Plasma de KDE</summary>
+  <summary lang="id">Penjadwalan cadangan untuk desktop Plasma KDE</summary>
+  <summary lang="it">Pianificatore di copie di sicurezza per il desktop Plasma di KDE</summary>
+  <summary lang="ko">KDE Plasma 데스크톱 백업 스케줄러</summary>
+  <summary lang="nl">Planner van back-ups voor Plasma bureaublad van KDE</summary>
+  <summary lang="pl">Planowanie kopi zapasowej dla pulpitu KDE Plazma</summary>
+  <summary lang="pt">Agendamento de cópias de segurança para a área de trabalho do Plasma</summary>
+  <summary lang="pt-BR">Agendador de backups para a área de trabalho Plasma da KDE</summary>
+  <summary lang="ro">Planificator de copii de rezervă pentru biroul KDE Plasma</summary>
+  <summary lang="sl">Planer izdelave varnostnih kopij za namizje KDE Plasma</summary>
+  <summary lang="sv">Schemaläggning av säkerhetskopiering för KDE:s Plasma-skrivbord</summary>
+  <summary lang="uk">Засіб планування резервного копіювання для стільниці Плазми KDE</summary>
+  <summary lang="x-test">xxBackup scheduler for KDE's Plasma desktopxx</summary>
+  <summary lang="zh-CN">KDE Plasma 桌面的定期备份工具</summary>
+  <summary lang="zh-TW">KDE Plasma 桌面的備份排程工具</summary>
+  <description>
+    <p>Kup can help you remember to keep up-to-date backups of your personal files. It provides:</p>
+    <p lang="ca">El Kup ajuda a recordar el mantenir actualitzades les còpies de seguretat dels fitxers personals. Proporciona:</p>
+    <p lang="ca-valencia">El Kup ajuda a recordar el mantindre actualitzades les còpies de seguretat dels fitxers personals. Proporciona:</p>
+    <p lang="de">Kup kann Ihnen dabei helfen, aktuelle Sicherungen Ihrer persönlichen Dateien aufzubewahren. Es bietet folgendes:</p>
+    <p lang="en-GB">Kup can help you remember to keep up-to-date backups of your personal files. It provides:</p>
+    <p lang="es">Kup puede ayudarle a mantener copias de seguridad actualizadas de sus archivos personales. Proporciona:</p>
+    <p lang="et">Kup aitab sul meeles pidada vajadust varundada aegsasti oma isiklikke faile. See võimaldab:</p>
+    <p lang="eu">Kup-ek zure fitxategi propioen babes-kopiak egunean mantentzea gogoratzen lagunduko dizu. Hau ematen du:</p>
+    <p lang="fi">Kup auttaa varmuuskopioimaan henkilökohtaiset tiedostot säännöllisesti. Se tarjoaa:</p>
+    <p lang="fr">Kup peut vous aider à vous conserver vos sauvegardes à jour pour vos fichiers personnels. Il propose :</p>
+    <p lang="id">Kup bisa membantu kamu mengingatkan agar pencadangan tetap terbarukan pada file-file personalmu. Ini menyediakan:</p>
+    <p lang="it">Kup può aiutarti a ricordare di mantenere aggiornate le copie di sicurezza dei tuoi file personali. Fornisce:</p>
+    <p lang="ko">Kup을 사용하면 개인 파일 최신 백업을 유지할 수 있습니다. 기능:</p>
+    <p lang="nl">Kup kan u helpen te herinneren om up-to-date back-ups van uw persoonlijke bestanden te maken. Het biedt:</p>
+    <p lang="pl">Kup przypomina o posiadaniu świeżych kopii zapasowych twoich plików osobistych: Zapewnia:</p>
+    <p lang="pt">O Kup pode ajudá-lo a recordar-se das cópias de segurança actualizadas dos seus ficheiros pessoais. Oferece:</p>
+    <p lang="pt-BR">O Kup pode ajudá-lo a lembrar de manter backups atualizados de seus arquivos pessoais. Ele fornece:</p>
+    <p lang="sl">Kup vam lahko pomaga pri spominjanju nenehnega zagotavljanja varnostnih kopij svojih osebnih datotek.Zagotavlja:</p>
+    <p lang="sv">Kup kan hjälpa till att komma ihåg att ha aktuella säkerhetskopior av personliga filer. Det tillhandahåller:</p>
+    <p lang="uk">Kup може допомогти вам у підтриманні актуальності резервних копій ваших особистих файлів. Програма має такі можливості:</p>
+    <p lang="x-test">xxKup can help you remember to keep up-to-date backups of your personal files. It provides:xx</p>
+    <p lang="zh-CN">K 备份可以提醒您及时备份个人数据。它提供了：</p>
+    <ul>
+      <li>Incremental backup archive with the use of "bup".</li>
+      <li lang="ca">Arxiu per a còpia de seguretat incremental emprant «bup».</li>
+      <li lang="ca-valencia">Arxiu per a còpia de seguretat incremental emprant «bup».</li>
+      <li lang="de">Inkrementelles Sicherungsarchiv mit der Verwendung von „bup“.</li>
+      <li lang="en-GB">Incremental backup archive with the use of "bup".</li>
+      <li lang="es">Copias de seguridad incrementales usando «bup».</li>
+      <li lang="et">Inkrementvarundamist "bup" abil.</li>
+      <li lang="eu">Babes-kopia artxibo inkrementalak «bup» erabiliz.</li>
+      <li lang="fi">Inkrementaalisen varmuuskopioarkiston bup-ohjelman avulla.</li>
+      <li lang="fr">Une archive incrémentale de sauvegarde avec l'utilisation de « bup ».</li>
+      <li lang="id">Arsip cadangan tambahan dengan penggunaan "bup".</li>
+      <li lang="it">Archivi di copie di sicurezza incrementali mediante l'uso di «bup».</li>
+      <li lang="ko">"bup"을 사용한 증분 백업 압축 파일 생성.</li>
+      <li lang="nl">Incrementeel back-uparchief met gebruik van "bup".</li>
+      <li lang="pl">Przyrostowe archiwa kopii zapasowych z użyciem "bup".</li>
+      <li lang="pt">Cópias de segurança incrementais com o uso do "bup".</li>
+      <li lang="pt-BR">Arquivo de backup incremental com o uso do "bup".</li>
+      <li lang="sl">Inkrementalno varnostno arhiviranje z uporabo programa "bup".</li>
+      <li lang="sv">Inkrementellt säkerhetskopieringsarkiv med användning av "bup".</li>
+      <li lang="uk">Створення нарощувальних резервних копій за допомогою програми bup.</li>
+      <li lang="x-test">xxIncremental backup archive with the use of "bup".xx</li>
+      <li lang="zh-CN">bup 增量备份归档功能。</li>
+      <li lang="zh-TW">使用「bup」增量備份封存檔。</li>
+      <li>Synchronized folders with the use of "rsync".</li>
+      <li lang="ca">Carpetes sincronitzades emprant «rsync».</li>
+      <li lang="ca-valencia">Carpetes sincronitzades emprant «rsync».</li>
+      <li lang="de">Abgleich von Ordnern mit Hilfe von „rsync“.</li>
+      <li lang="en-GB">Synchronised folders with the use of "rsync".</li>
+      <li lang="es">Carpetas sincronizadas usando «rsync»</li>
+      <li lang="et">Kataloogide sünkroonimist "rsync" abil.</li>
+      <li lang="eu">Karpeta sinkronizatuak «rsync» erabiliz.</li>
+      <li lang="fi">Synkronoidut kansiot rsync-ohjelman avulla.</li>
+      <li lang="fr">Dossiers synchronisés avec l'utilisation de « rsync ».</li>
+      <li lang="id">Folder-folder yang tersinkronisasikan dengan penggunaan "rsync".</li>
+      <li lang="it">Cartelle sincronizzate mediante l'uso di «rsync».</li>
+      <li lang="ko">"rsync"를 사용한 폴더 동기화.</li>
+      <li lang="nl">Gesynchroniseerde mappen met gebruik van "rsync".</li>
+      <li lang="pl">Synchronizowane katalogi z użyciem "rsync".</li>
+      <li lang="pt">Pastas sincronizadas com o uso do "rsync".</li>
+      <li lang="pt-BR">Pastas sincronizadas com o uso do "rsync".</li>
+      <li lang="ro">Dosare sincronizate prin folosirea „rsync”.</li>
+      <li lang="sl">Sinhronizirane mape z uporabo programa "rsync".</li>
+      <li lang="sv">Synkroniserade kataloger med användning av "rsync".</li>
+      <li lang="uk">Синхронізація тек за допомогою програми rsync.</li>
+      <li lang="x-test">xxSynchronized folders with the use of "rsync".xx</li>
+      <li lang="zh-CN">rsync 同步文件夹功能。</li>
+      <li lang="zh-TW">使用「rsync」同步資料夾。</li>
+      <li>Support for local filesystem or external usb storage.</li>
+      <li lang="ca">Suport per a sistema de fitxers local o emmagatzematge extern USB.</li>
+      <li lang="ca-valencia">Suport per a sistema de fitxers local o emmagatzematge extern USB.</li>
+      <li lang="de">Unterstützung für lokale Dateisysteme oder externen USB-Speicher.</li>
+      <li lang="en-GB">Support for local filesystem or external USB storage.</li>
+      <li lang="es">Soporte para sistema de archivos local o almacenaje USB externo.</li>
+      <li lang="et">Salvestamist kohalikku failisüsteemi või välisele USB-pulgale.</li>
+      <li lang="eu">Fitxategi-sistema lokaleko edo kanpoko USBko biltegiratze euskarria.</li>
+      <li lang="fi">Paikallisten tiedostojärjestelmien ja ulkoisten USB-tallennusvälineiden tuen.</li>
+      <li lang="fr">La prise en charge du système local de fichiers ou sur un stockage USB externe.</li>
+      <li lang="id">Dukungan untuk filesystem lokal atau penyimpanan usb eksternal.</li>
+      <li lang="it">Supporto per file i filesystem locali oppure per le memorie usb esterne.</li>
+      <li lang="ko">로컬 파일 시스템 및 외장형 USB 저장소 지원.</li>
+      <li lang="nl">Ondersteuning voor een lokale bestandssysteem of externe usb-opslag.</li>
+      <li lang="pl">Obsługę miejscowych systemów plików lub zewnętrznych pamięci USB</li>
+      <li lang="pt">Suporte para o sistema de ficheiros local ou para o armazenamento externo em USB.</li>
+      <li lang="pt-BR">Suporte a sistema de arquivos local e armazenamento USB externo.</li>
+      <li lang="sl">Podporo lokalnemu datotečnemu sistemu ali zunanji hrambi USB.</li>
+      <li lang="sv">Stöd för lokala filsystem eller extern USB-lagring</li>
+      <li lang="uk">Підтримка локальних файлових систем та зовнішніх сховищ даних USB.</li>
+      <li lang="x-test">xxSupport for local filesystem or external usb storage.xx</li>
+      <li lang="zh-CN">支持本机文件系统或外部 USB 存储。</li>
+      <li>Monitor availability of backup destinations, like for example a mounted network storage.</li>
+      <li lang="ca">Supervisa la disponibilitat de les destinacions per a còpia de seguretat, com ara un emmagatzematge de xarxa muntat.</li>
+      <li lang="ca-valencia">Supervisa la disponibilitat de les destinacions per a còpia de seguretat, com ara un emmagatzematge de xarxa muntat.</li>
+      <li lang="de">Überwachung der Verfügbarkeit von Sicherungszielen, wie z. B. einem eingehänten Netzwerkspeicher.</li>
+      <li lang="en-GB">Monitor availability of backup destinations, like for example a mounted network storage.</li>
+      <li lang="es">Monitorización de disponibilidad de destinos para las copias de seguridad, como por ejemplo almacenamiento de red.</li>
+      <li lang="et">Varundamise sihtkohtade saadavuse jälgimist, mis on oluline näiteks ühendamist vajava võrgusalvesti puhul.</li>
+      <li lang="eu">Gainbegiratu babes-kopia jomugen eskuragarritasuna, muntatutako sareko biltegiratze bat esaterako.</li>
+      <li lang="fi">Varmuuskopioinnin kohteiden kuten verkkojakojen saavutettavuuden valvonnan.</li>
+      <li lang="fr">Surveillance de la disponibilité des destinations de sauvegarde, comme par exemple, un stockage monté en réseau.</li>
+      <li lang="id">Memantau ketersediaan tujuan cadangan, seperti misalnya tempat penyimpanan jaringan yang terkaitkan.</li>
+      <li lang="it">Controllo della disponibilità delle destinazioni della copia di sicurezza, ad esempio delle unità di memorizzazione di rete montate.</li>
+      <li lang="ko">마운트된 네트워크 저장소 등 백업 대상의 사용 가능 여부 모니터링.</li>
+      <li lang="nl">Beschikbaarheid van bestemmingen voor back-ups te monitoren, zoals bijvoorbeeld voor aangekoppelde netwerkopslag.</li>
+      <li lang="pl">Monitorowanie dostępności miejsc tworzenia kopii zapasowych, takich jak np. podpięte sieciowe urządzenie przechowywania.</li>
+      <li lang="pt">Monitorização da disponibilidade dos destinos das cópias de segurança, como por exemplo um armazenamento na rede montado.</li>
+      <li lang="pt-BR">Monitore a disponibilidade dos destinos de backup, como, por exemplo, um armazenamento de rede montado.</li>
+      <li lang="sl">Nadzoruje razpoložljivost rezervnih ciljev varnostnih kopij, kot je na primer nameščen omrežni disk.</li>
+      <li lang="sv">Övervakning av säkerhetskopieringsmål, som exempelvis monterad nätverkslagring.</li>
+      <li lang="uk">Спостереження за доступністю місць зберігання резервних копій, зокрема змонтованих сховищ даних у локальній мережі.</li>
+      <li lang="x-test">xxMonitor availability of backup destinations, like for example a mounted network storage.xx</li>
+      <li lang="zh-CN">监控备份目标可用性，比如挂载的网络存储。</li>
+      <li>Integration into KDE's Plasma desktop.</li>
+      <li lang="ca">Integració amb l'escriptori Plasma del KDE.</li>
+      <li lang="ca-valencia">Integració amb l'escriptori Plasma del KDE.</li>
+      <li lang="de">Integration in die KDE-Plasma-Arbeitsfläche.</li>
+      <li lang="en-GB">Integration into KDE's Plasma desktop.</li>
+      <li lang="es">Integración con el escritorio KDE Plasma.</li>
+      <li lang="et">Lõimimist KDE Plasma töölauga.</li>
+      <li lang="eu">KDEren Plasma mahaigainean bateratzea.</li>
+      <li lang="fi">Integroinnin KDE:n Plasma-työpöydälle.</li>
+      <li lang="fr">Intégration avec le bureau Plasma de KDE.</li>
+      <li lang="id">Integrasi ke dalam desktop Plasma KDE.</li>
+      <li lang="it">Integrazione col desktop Plasma di KDE.</li>
+      <li lang="ko">KDE Plasma 데스크톱 통합.</li>
+      <li lang="nl">Integratie in het bureaublad Plasma van KDE.</li>
+      <li lang="pl">Współpracę z pulpitem KDE Plazmy.</li>
+      <li lang="pt">Integração na área de trabalho Plasma do KDE.</li>
+      <li lang="pt-BR">Integração com a área de trabalho Plasma.</li>
+      <li lang="ro">Integrarea în biroul KDE Plasma.</li>
+      <li lang="sl">Integracija v namizje KDE Plasma.</li>
+      <li lang="sv">Integration med KDE:s Plasma-skrivbord.</li>
+      <li lang="uk">Інтеграція із стільницею Плазми KDE.</li>
+      <li lang="x-test">xxIntegration into KDE's Plasma desktop.xx</li>
+      <li lang="zh-CN">KDE Plasma 桌面整合。</li>
+      <li lang="zh-TW">整合至 KDE Plasma 桌面</li>
+    </ul>
+  </description>
+  <icon type="stock">kup</icon>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://cdn.kde.org/screenshots/kup/kup.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <developer_name>Simon Persson &lt;simon.persson@mykolab.com></developer_name>
+  <developer_name lang="ca">Simon Persson &lt;simon.persson@mykolab.com></developer_name>
+  <developer_name lang="ca-valencia">Simon Persson &lt;simon.persson@mykolab.com></developer_name>
+  <developer_name lang="de">Simon Persson &lt;simon.persson@mykolab.com></developer_name>
+  <developer_name lang="en-GB">Simon Persson &lt;simon.persson@mykolab.com></developer_name>
+  <developer_name lang="es">Simon Persson &lt;simon.persson@mykolab.com></developer_name>
+  <developer_name lang="et">Simon Persson &lt;simon.persson@mykolab.com></developer_name>
+  <developer_name lang="eu">Simon Persson &lt;simon.persson@mykolab.com></developer_name>
+  <developer_name lang="fi">Simon Persson &lt;simon.persson@mykolab.com></developer_name>
+  <developer_name lang="fr">Simon Persson &lt;simon.persson@mykolab.com></developer_name>
+  <developer_name lang="id">Simon Persson &lt;simon.persson@mykolab.com></developer_name>
+  <developer_name lang="it">Simon Persson &lt;simon.persson@mykolab.com></developer_name>
+  <developer_name lang="ko">Simon Persson &lt;simon.persson@mykolab.com></developer_name>
+  <developer_name lang="nl">Simon Persson &lt;simon.persson@mykolab.com></developer_name>
+  <developer_name lang="pl">Simon Persson &lt;simon.persson@mykolab.com></developer_name>
+  <developer_name lang="pt">Simon Persson &lt;simon.persson@mykolab.com></developer_name>
+  <developer_name lang="pt-BR">Simon Persson &lt;simon.persson@mykolab.com></developer_name>
+  <developer_name lang="ro">Simon Persson &lt;simon.persson@mykolab.com></developer_name>
+  <developer_name lang="sl">Simon Persson &lt;simon.persson@mykolab.com></developer_name>
+  <developer_name lang="sv">Simon Persson &lt;simon.persson@mykolab.com></developer_name>
+  <developer_name lang="uk">Simon Persson &lt;simon.persson@mykolab.com></developer_name>
+  <developer_name lang="x-test">xxSimon Persson &lt;simon.persson@mykolab.com>xx</developer_name>
+  <developer_name lang="zh-CN">Simon Persson &lt;simon.persson@mykolab.com></developer_name>
+  <developer_name lang="zh-TW">Simon Persson &lt;simon.persson@mykolab.com></developer_name>
+  <project_group>KDE</project_group>
+  <categories>
+    <category>System</category>
+  </categories>
+  <releases>
+    <release date="2020-06-02" version="0.8.0" />
+    <release date="2021-05-22" version="0.9.0" />
+    <release version="0.9.1" date="2021-06-05" />
+  </releases>
+</component>

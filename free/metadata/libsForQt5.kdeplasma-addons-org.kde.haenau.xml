@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>libsForQt5.kdeplasma-addons</pkgname>
+  <id>org.kde.haenau</id>
+  <extends>org.kde.plasmashell</extends>
+  <name>Haenau</name>
+  <name lang="ar">طبقات</name>
+  <name lang="ast">Haenau</name>
+  <name lang="az">Haenau</name>
+  <name lang="bg">Haenau</name>
+  <name lang="bs">Haenau</name>
+  <name lang="ca@valencia">Haenau</name>
+  <name lang="ca">Haenau</name>
+  <name lang="cs">Haenau</name>
+  <name lang="da">Haenau</name>
+  <name lang="de">Haenau</name>
+  <name lang="el">Haenau</name>
+  <name lang="en_GB">Haenau</name>
+  <name lang="es">Haenau</name>
+  <name lang="et">Haenau</name>
+  <name lang="eu">Haenau</name>
+  <name lang="fi">Haenau</name>
+  <name lang="fr">Haenau</name>
+  <name lang="gl">Haenau</name>
+  <name lang="hu">Haenau</name>
+  <name lang="ia">Haenau</name>
+  <name lang="id">Haenau</name>
+  <name lang="it">Haenau</name>
+  <name lang="ja">Haenau</name>
+  <name lang="kk">Ханау</name>
+  <name lang="ko">Haenau</name>
+  <name lang="lt">Haenau</name>
+  <name lang="mr">हेनोउ</name>
+  <name lang="nb">Haenau</name>
+  <name lang="nds">Haenau</name>
+  <name lang="nl">Haenau</name>
+  <name lang="nn">Haenau</name>
+  <name lang="pl">Haenau</name>
+  <name lang="pt">Haenau</name>
+  <name lang="pt_BR">Haenau</name>
+  <name lang="ro">Haenau</name>
+  <name lang="ru">Haenau</name>
+  <name lang="sk">Haenau</name>
+  <name lang="sl">Haenau</name>
+  <name lang="sr@ijekavian">Хаенау</name>
+  <name lang="sr@ijekavianlatin">Haenau</name>
+  <name lang="sr@latin">Haenau</name>
+  <name lang="sr">Хаенау</name>
+  <name lang="sv">Haenau</name>
+  <name lang="tr">Haenau</name>
+  <name lang="uk">Ганау</name>
+  <name lang="vi">Haenau</name>
+  <name lang="wa">Haenau</name>
+  <name lang="x-test">xxHaenauxx</name>
+  <name lang="zh_CN">层次</name>
+  <name lang="zh_TW">Haenau</name>
+  <summary>Haenau wallpaper</summary>
+  <summary lang="ar">خلفية الطبقات</summary>
+  <summary lang="az">Haenau divar kağızı</summary>
+  <summary lang="bg">Haenau тапет</summary>
+  <summary lang="ca@valencia">Fons de pantalla Haenau</summary>
+  <summary lang="ca">Fons de pantalla Haenau</summary>
+  <summary lang="cs">Tapeta Haenau</summary>
+  <summary lang="da">Haenau-baggrundsbillede</summary>
+  <summary lang="de">Haenau-Hintergrundbild</summary>
+  <summary lang="el">Ταπετσαρία Haenau</summary>
+  <summary lang="en_GB">Haenau wallpaper</summary>
+  <summary lang="es">Fondo de pantalla Haenau</summary>
+  <summary lang="et">Haenau taustapilt</summary>
+  <summary lang="eu">Haenau horma-papera</summary>
+  <summary lang="fi">Haenau-tausta</summary>
+  <summary lang="fr">Papier peint Haenau</summary>
+  <summary lang="gl">Fondo de pantalla de Haenau</summary>
+  <summary lang="hu">Haenau háttérkép</summary>
+  <summary lang="ia">Tapete de papiro de Haenau</summary>
+  <summary lang="id">Wallpaper Haenau</summary>
+  <summary lang="it">Sfondo Haenau</summary>
+  <summary lang="ja">Haenau 壁紙</summary>
+  <summary lang="ko">Haenau 배경 그림</summary>
+  <summary lang="lt">Haenau darbalaukio fonas</summary>
+  <summary lang="nl">Haenau achtergrondafbeelding</summary>
+  <summary lang="nn">Haenau-bakgrunnsbilete</summary>
+  <summary lang="pl">Tapeta Haenau</summary>
+  <summary lang="pt">Papel de pare de Haenau</summary>
+  <summary lang="pt_BR">Papel de parede Haenau</summary>
+  <summary lang="ro">Tapet Haenau</summary>
+  <summary lang="ru">Обои Haenau</summary>
+  <summary lang="sk">Tapeta Haenau</summary>
+  <summary lang="sl">Slika ozadja Haenau</summary>
+  <summary lang="sr@ijekavian">Тапет Хаенау</summary>
+  <summary lang="sr@ijekavianlatin">Tapet Haenau</summary>
+  <summary lang="sr@latin">Tapet Haenau</summary>
+  <summary lang="sr">Тапет Хаенау</summary>
+  <summary lang="sv">Haenau skrivbordsunderlägg</summary>
+  <summary lang="tr">Haenau duvar kağıdı</summary>
+  <summary lang="uk">Шпалера Ганау</summary>
+  <summary lang="vi">Phông nền Haenau</summary>
+  <summary lang="x-test">xxHaenau wallpaperxx</summary>
+  <summary lang="zh_CN">Haenau 壁纸</summary>
+  <summary lang="zh_TW">Haenau 桌布</summary>
+  <url type="homepage">https://kde.org/</url>
+  <url type="donation">https://www.kde.org/donate.php?app=org.kde.haenau</url>
+  <developer_name>Marco Martin &lt;mart@kde.org></developer_name>
+  <icon type="stock">preferences-desktop-wallpaper</icon>
+  <project_license>LGPL-2.1</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+</component>

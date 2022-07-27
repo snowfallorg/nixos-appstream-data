@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>libsForQt5.plasma-mobile</pkgname>
+  <id>org.kde.plasma.phone</id>
+  <extends>org.kde.plasmashell</extends>
+  <name>Plasma Phone</name>
+  <name lang="ast">Plasma Phone</name>
+  <name lang="az">Plasma Telefon</name>
+  <name lang="ca@valencia">Telèfon de Plasma</name>
+  <name lang="ca">Telèfon del Plasma</name>
+  <name lang="cs">Plasma Phone</name>
+  <name lang="da">Plasma Phone</name>
+  <name lang="de">Plasma Phone</name>
+  <name lang="en_GB">Plasma Phone</name>
+  <name lang="es">Plasma Phone</name>
+  <name lang="et">Plasma telefon</name>
+  <name lang="eu">Plasma telefonoa</name>
+  <name lang="fi">Plasma Phone</name>
+  <name lang="fr">Plasma Phone</name>
+  <name lang="gl">Plasma Phone</name>
+  <name lang="hi">प्लाज़्मा फोन</name>
+  <name lang="hu">Plasma Phone</name>
+  <name lang="ia">Plasma Phone</name>
+  <name lang="id">Ponsel Plasma</name>
+  <name lang="it">Plasma Phone</name>
+  <name lang="ka">Plasma-ის ტელეფონი</name>
+  <name lang="ko">Plasma 전화</name>
+  <name lang="lt">Plasma telefonas</name>
+  <name lang="nl">Plasma telefoon</name>
+  <name lang="nn">Plasma-telefon</name>
+  <name lang="pa">ਪਲਾਜ਼ਮਾ ਫ਼ੋਨ</name>
+  <name lang="pl">Telefon Plazmy</name>
+  <name lang="pt">Plasma para Telefones</name>
+  <name lang="pt_BR">Celular do Plasma</name>
+  <name lang="ro">Plasma Phone</name>
+  <name lang="ru">Plasma Phone</name>
+  <name lang="sk">Plasma telefón</name>
+  <name lang="sl">Plasma Phone</name>
+  <name lang="sv">Plasma telefon</name>
+  <name lang="tr">Plasma Telefonu</name>
+  <name lang="uk">Телефон Плазми</name>
+  <name lang="x-test">xxPlasma Phonexx</name>
+  <name lang="zh_CN">Plasma Phone</name>
+  <name lang="zh_TW">Plasma 電話</name>
+  <summary>Plasma workspace for smartphones</summary>
+  <summary lang="ast">La estaya de trabayu de Plasma pa teléfonos intelixentes</summary>
+  <summary lang="az">Smartfonlar üçün Plasma iş sahəsi</summary>
+  <summary lang="ca@valencia">Espai de treball Plasma per a telèfons intel·ligents</summary>
+  <summary lang="ca">Espai de treball del Plasma per a telèfons intel·ligents</summary>
+  <summary lang="da">Plasma arbejdsområde til smartphones</summary>
+  <summary lang="de">Plasma-Arbeitsbereich für Smartphones</summary>
+  <summary lang="en_GB">Plasma workspace for smartphones</summary>
+  <summary lang="es">Espacio de trabajo de Plasma para teléfonos inteligentes</summary>
+  <summary lang="et">Plasma nutitelefonide tööruum</summary>
+  <summary lang="eu">Telefono adimendunetarako Plasma langunea</summary>
+  <summary lang="fi">Plasma-työtila älypuhelimiin</summary>
+  <summary lang="fr">Espace de travail Plasma pour smartphones</summary>
+  <summary lang="gl">Espazo de traballo de Plasma para móbiles intelixentes</summary>
+  <summary lang="hi">स्मार्टफोन के लिए प्लाज्मा कार्यक्षेत्र</summary>
+  <summary lang="hu">Plasma felület okostelefonokhoz</summary>
+  <summary lang="ia">Spatio de labor de Plasma per smartphones</summary>
+  <summary lang="id">Kerangka kerja Plasma untuk smartphone</summary>
+  <summary lang="it">Spazio di lavoro Plasma per smartphone</summary>
+  <summary lang="ka">Plasma-ის სამუშაო გარემო სმარტფონებისთვის</summary>
+  <summary lang="ko">스마트폰용 Plasma 작업 공간</summary>
+  <summary lang="lt">Plasma darbo sritis, skirta išmaniesiems telefonams</summary>
+  <summary lang="nl">Plasma workspace voor smartphones</summary>
+  <summary lang="nn">Plasma-arbeidsområde for smarttelefonar</summary>
+  <summary lang="pa">ਸਮਾਰਟ-ਫ਼ੋਨ ਲਈ ਪਲਾਜ਼ਮਾ ਵਰਕਸਪੇਸ</summary>
+  <summary lang="pl">Przestrzeń pracy Plazmy dla smartfonów</summary>
+  <summary lang="pt">Área de trabalho Plasma para telemóveis</summary>
+  <summary lang="pt_BR">Espaço de trabalho Plasma para celulares</summary>
+  <summary lang="ro">Spațiu de lucru al Plasma pentru telefoane inteligente</summary>
+  <summary lang="ru">Среда рабочего стола Plasma для смартфонов</summary>
+  <summary lang="sk">Plasma pracovný priestor pre smartfóny</summary>
+  <summary lang="sl">Plasmin delovni prostor za pametne telefone</summary>
+  <summary lang="sv">Plasma arbetsyta för smarta telefoner</summary>
+  <summary lang="tr">Akıllı telefonlar için Plasma çalışma alanı</summary>
+  <summary lang="uk">Робочий простір Плазми для смартфонів</summary>
+  <summary lang="x-test">xxPlasma workspace for smartphonesxx</summary>
+  <summary lang="zh_CN">专为手机定制的 Plasma 工作空间</summary>
+  <summary lang="zh_TW">智慧型手機的 Plasma 工作空間</summary>
+  <url type="donation">https://www.kde.org/donate.php?app=org.kde.plasma.phone</url>
+  <project_license>GPL-2.0+</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+</component>

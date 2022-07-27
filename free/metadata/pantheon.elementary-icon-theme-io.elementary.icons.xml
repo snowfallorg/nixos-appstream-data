@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="icon-theme">
+  <pkgname>pantheon.elementary-icon-theme</pkgname>
+  <id>io.elementary.icons</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>elementary Icons</name>
+  <name lang="uk">Піктограми elementary</name>
+  <name lang="tr">elementary Simgeleri</name>
+  <name lang="ru">Пиктограммы elementary</name>
+  <name lang="pt">Ícones do elementary</name>
+  <name lang="pl">Ikony elementary</name>
+  <name lang="ja">elementary アイコン</name>
+  <name lang="hu">elementary ikonok</name>
+  <name lang="he">סמלי elementary</name>
+  <name lang="fr">Icônes d'elementary</name>
+  <name lang="en_GB">elementary Icons</name>
+  <name lang="en_CA">elementary Icons</name>
+  <name lang="en_AU">elementary Icons</name>
+  <name lang="cs">Ikony elementary</name>
+  <name lang="ckb">ئایکۆنەکانی ئێلەمێنتەری</name>
+  <name lang="ca">Icones de l'elementary</name>
+  <summary>Named, vector icons for elementary OS</summary>
+  <summary lang="uk">Названі, векторні піктограми для elementary OS</summary>
+  <summary lang="tr">elementary OS için adlandırılmış vektör simgeleri</summary>
+  <summary lang="ru">Именованные, векторные пиктограммы для elementary OS</summary>
+  <summary lang="pt">Nomeados, ícones vectoriais para o elementary OS</summary>
+  <summary lang="pl">Nazwane ikony wektorowe dla elementary OS</summary>
+  <summary lang="ja">elementary OS 用の名前付きベクターアイコン</summary>
+  <summary lang="hu">Nevesített vektorikonok elementary OS-hez</summary>
+  <summary lang="he">סמלים וקטוריים עם שמות ל־elementary OS</summary>
+  <summary lang="fr">Icônes vectorielles nommées pour elementary OS</summary>
+  <summary lang="en_GB">Named, vector icons for elementary OS</summary>
+  <summary lang="en_CA">Named, vector icons for elementary OS</summary>
+  <summary lang="en_AU">Named, vector icons for elementary OS</summary>
+  <summary lang="cs">Nazvané, vektorové ikony pro elementary OS</summary>
+  <summary lang="ckb">ناونراوەکان، ئایکۆنە ڤیکتۆرەکانی سیستەمی ئێلەمێنتەری</summary>
+  <summary lang="ca">Icones vectorials amb nom per l'elementary OS</summary>
+  <description>
+    <p>An original set of vector icons designed specifically for elementary OS and its desktop environment: Pantheon.</p>
+    <p lang="uk">Оригінальний набір векторних піктограм, розроблених спеціально для elementary OS та її стільничного середовища: Pantheon.</p>
+    <p lang="tr">elementary OS ve masaüstü ortamı için özel olarak tasarlanmış orijinal vektör simgeleri seti: Pantheon.</p>
+    <p lang="ru">Оригинальный набор векторных пиктограмм, разработанный специально для elementary OS и ее среды рабочего стола: Pantheon.</p>
+    <p lang="pl">Oryginalny zbiór ikon wektorowych zaprojektowany specjalnie dla elementary OS i jego środowiska pulpitu: Pantheonu.</p>
+    <p lang="ja">elementary OS とそのデスクトップ環境 (Pantheon) 用にデザインされた、オリジナルのベクターアイコンのセットです。</p>
+    <p lang="he">ערכה מקורית של סמלים וקטוריים שעוצבו במיוחד ל־elementary OS ולסביבת שולחן העבודה שלה: Pantheon.</p>
+    <p lang="fr">Un ensemble d'icônes vectorielles originales conçues spécifiquement pour elementary OS et son environnement de bureau : Pantheon.</p>
+    <p lang="en_GB">An original set of vector icons designed specifically for elementary OS and its desktop environment: Pantheon.</p>
+    <p lang="en_CA">An original set of vector icons designed specifically for elementary OS and its desktop environment: Pantheon.</p>
+    <p lang="en_AU">An original set of vector icons designed specifically for elementary OS and its desktop environment: Pantheon.</p>
+    <p lang="cs">Původní sada vektorových ikon navržených konkrétně pro elementary OS a jeho desktopové prostředí: Pantheon.</p>
+    <p lang="ca">Un conjunt original d'icones vectorials dissenyades específicament per a l'elementary OS i el seu entorn d'escriptori: Pantheon.</p>
+  </description>
+  <releases>
+    <release urgency="medium" date="2022-04-25" version="7.0.0">
+      <description>
+        <p>Additions:</p>
+        <ul>
+          <li>caps-lock-symbolic</li>
+          <li>eye-not-looking-symbolic</li>
+          <li>eye-open-negative-filled-symbolic</li>
+          <li>num-lock-symbolic</li>
+        </ul>
+        <p>Updated families:</p>
+        <ul>
+          <li>Redesign media-playlist-repeat</li>
+          <li>Update media-playlist-shuffle and media-playlist-consecutive</li>
+          <li>Rounder square icons</li>
+          <li>Rounded arrow corners on Downloads folder</li>
+          <li>Deb and Flatpak Bundle files use a package metaphor</li>
+          <li>Updates arrow points up</li>
+          <li>Redesigned package with new colors</li>
+        </ul>
+        <p>Removals:</p>
+        <ul>
+          <li>notification-*</li>
+          <li>Non-FDO network-*</li>
+          <li>Non-FDO app icons</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" date="2021-11-23" version="6.1.0">
+      <description>
+        <p>Additions:</p>
+        <ul>
+          <li>preferences-desktop-font*</li>
+        </ul>
+        <p>Updated families:</p>
+        <ul>
+          <li>Additional sizes for playlist-queue</li>
+          <li>Redesign PDF file type</li>
+          <li>Additional sizes for emblem-downloads</li>
+          <li>Remove arrows from Copy and Paste actions</li>
+        </ul>
+        <p>Removals:</p>
+        <ul>
+          <li>multimedia-video-player</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" version="6.0.0" date="2021-07-15">
+      <description>
+        <p>Updated families:</p>
+        <ul>
+          <li>Improved consistency between arrow shapes</li>
+          <li>Improved appearance of color icons against dark backgrounds</li>
+          <li>More gender-neutral people icons</li>
+          <li>Rounded media controls</li>
+          <li>Rounded lightning bolt shape</li>
+          <li>More colorful battery icons</li>
+        </ul>
+        <p>Additions:</p>
+        <ul>
+          <li>align-*</li>
+          <li>color-picker</li>
+          <li>distribute-*</li>
+          <li>draw-calligraphic</li>
+          <li>office-database-new</li>
+          <li>tools-spray</li>
+          <li>application-content-*</li>
+          <li>thunderbolt devices</li>
+          <li>video-display-tv</li>
+          <li>symbolic headphones</li>
+          <li>application-certificate</li>
+          <li>application-json</li>
+          <li>office-task-symbolic</li>
+          <li>status emblems</li>
+          <li>emblem-git-*</li>
+        </ul>
+        <p>Removals:</p>
+        <ul>
+          <li>accessories-camera</li>
+          <li>accessories-screenshot</li>
+          <li>audio-speaker-testing</li>
+          <li>edit-undo-archive</li>
+          <li>internet-mail</li>
+          <li>internet-news-reader</li>
+          <li>multimedia-audio-player</li>
+          <li>notification bell animations</li>
+          <li>nm-*</li>
+          <li>ubiquity</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" version="5.3.1" date="2020-05-06">
+      <description>
+        <p>Minor updates</p>
+        <ul>
+          <li>Update emoji names for emoji picker in elementary OS 6 and latest GTK</li>
+          <li>Replace Inkscape with rsvg for building cursors</li>
+        </ul>
+      </description>
+    </release>
+    <release version="5.3.0" date="2020-04-30" urgency="medium">
+      <description>
+        <p>New Palette Colors:</p>
+        <ul>
+          <li>Add Bubblegum and Mint to official palette</li>
+          <li>Updated all eraser icons to use Bubblegum palette</li>
+          <li>Updated "path" icons to use Mint palette</li>
+          <li>Updated all pencil icons to use Banana palette</li>
+        </ul>
+        <p>New Icons:</p>
+        <ul>
+          <li>Add "software-update-urgent"</li>
+          <li>Add "sync-synchronizing"</li>
+        </ul>
+        <p>Scaled Icon Sizes:</p>
+        <ul>
+          <li>Add 24px "window-close-symbolic"</li>
+          <li>Add 48px preferences icons</li>
+        </ul>
+      </description>
+    </release>
+    <release version="5.2.0" urgency="medium" date="2020-01-08">
+      <description>
+        <ul>
+          <li>Provide large cursors</li>
+          <li>Fix alignment of several cursors</li>
+          <li>Use palette colors in copy cursors</li>
+          <li>Fix direction of the ban symbol cursor and use red</li>
+          <li>Add "All Scroll", "No Drop", "Vertical Text", and "Zoom" cursors</li>
+        </ul>
+      </description>
+    </release>
+    <release version="5.1.0" date="2019-10-31" urgency="medium">
+      <description>
+        <ul>
+          <li>Add 64px prefs locale</li>
+          <li>Make symbol on 32px places home larger</li>
+          <li>New icons for Workspace preferences</li>
+          <li>Add symbolic variant for updates icon</li>
+          <li>Give browser-download its own unique icon</li>
+          <li>Use a more scalable metaphor for system updates</li>
+          <li>New view-reader icon</li>
+          <li>Add 32px wireless signal icons</li>
+          <li>Add 24px user status icons</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="violence-desecration">none</content_attribute>
+    <content_attribute id="violence-slavery">none</content_attribute>
+    <content_attribute id="violence-worship">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="sex-homosexuality">none</content_attribute>
+    <content_attribute id="sex-prostitution">none</content_attribute>
+    <content_attribute id="sex-adultery">none</content_attribute>
+    <content_attribute id="sex-appearance">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+  <translation type="gettext">io.elementary.icons</translation>
+  <compulsory_for_desktop>Pantheon</compulsory_for_desktop>
+  <developer_name>elementary, Inc.</developer_name>
+  <developer_name lang="ml">elementary, Inc.</developer_name>
+  <developer_name lang="zh_CN">elementary, Inc.</developer_name>
+  <developer_name lang="uk">elementary, Inc.</developer_name>
+  <developer_name lang="tr">elementary, Inc.</developer_name>
+  <developer_name lang="ru">elementary, Inc.</developer_name>
+  <developer_name lang="pt">elementary, Inc.</developer_name>
+  <developer_name lang="pl">elementary, Inc.</developer_name>
+  <developer_name lang="nl">elementary, Inc.</developer_name>
+  <developer_name lang="ja">elementary, Inc.</developer_name>
+  <developer_name lang="hu">elementary, Inc.</developer_name>
+  <developer_name lang="he">elementary בע״מ.</developer_name>
+  <developer_name lang="fr">elementary, Inc.</developer_name>
+  <developer_name lang="en_GB">elementary, Inc.</developer_name>
+  <developer_name lang="en_CA">elementary, Inc.</developer_name>
+  <developer_name lang="en_AU">elementary, Inc.</developer_name>
+  <developer_name lang="de">elementary, Inc.</developer_name>
+  <developer_name lang="cs">elementary, Inc.</developer_name>
+  <developer_name lang="ckb">کۆمپانیای ئێلەمێنتەری هاوپشک.</developer_name>
+  <developer_name lang="ca">elementary, Inc.</developer_name>
+  <url type="homepage">https://elementary.io</url>
+  <url type="bugtracker">https://github.com/elementary/icons/issues</url>
+</component>

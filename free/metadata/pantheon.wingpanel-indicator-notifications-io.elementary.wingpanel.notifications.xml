@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>pantheon.wingpanel-indicator-notifications</pkgname>
+  <id>io.elementary.wingpanel.notifications</id>
+  <extends>io.elementary.wingpanel</extends>
+  <name>Notifications Indicator</name>
+  <name lang="zh_CN">通知指示器</name>
+  <name lang="uk">Індикатор сповіщень</name>
+  <name lang="tr">Bildirim Göstergesi</name>
+  <name lang="szl">Skaźnik powiadōmiyń</name>
+  <name lang="sr">Указивач обавештења</name>
+  <name lang="sk">Indikátor oznámení</name>
+  <name lang="ru">Индикатор уведомлений</name>
+  <name lang="pt_BR">Indicador de notificações</name>
+  <name lang="pt">Indicador de notificações</name>
+  <name lang="pl">Wskaźnik powiadomień</name>
+  <name lang="nn">Varsling-indikator</name>
+  <name lang="nl">Notificaties indicator</name>
+  <name lang="nb">Merknadsindikator</name>
+  <name lang="mr">सूचना सूचक</name>
+  <name lang="ja">通知インジケーター</name>
+  <name lang="it">Indicatore delle notifiche</name>
+  <name lang="hu">Értesítéskijelzés</name>
+  <name lang="he">מחוון התראות</name>
+  <name lang="gl">Indicador de notificacións</name>
+  <name lang="fr">Indicateur de notifications</name>
+  <name lang="fi">Ilmoitusten ilmaisin</name>
+  <name lang="es">Indicador de notificaciones</name>
+  <name lang="eo">Averta indikilo</name>
+  <name lang="en_GB">Notifications Indicator</name>
+  <name lang="en_CA">Notifications Indicator</name>
+  <name lang="en_AU">Notifications Indicator</name>
+  <name lang="de">Benachrichtigunganzeige</name>
+  <name lang="da">Notifikations Indikator</name>
+  <name lang="cs">Indikátor oznámení</name>
+  <name lang="ca">Indicador de notificacions</name>
+  <name lang="ar">مؤشر الإشعارات</name>
+  <summary>See missed notifications in the panel</summary>
+  <summary lang="zh_CN">在面板中查看错过的通知</summary>
+  <summary lang="uk">Перегляньте пропущені сповіщення у панелі</summary>
+  <summary lang="tr">Panelde atlanan bildirimleri görüntüleyin</summary>
+  <summary lang="szl">Ôbejzdrzij niywidziane powiadōmiynia na panelu</summary>
+  <summary lang="sr">Види промашена обавештења у панелу</summary>
+  <summary lang="sk">Skontrolujte na paneli oznámenia, ktoré vám unikli</summary>
+  <summary lang="ru">Смотрите пропущенные оповещения в панели</summary>
+  <summary lang="pt_BR">Veja notificações perdidas no painel</summary>
+  <summary lang="pt">Ver notificações perdidas no painel</summary>
+  <summary lang="pl">Pokaż przegapione powiadomienia w panelu</summary>
+  <summary lang="nn">Sjå tapte varslingar i panelet</summary>
+  <summary lang="nl">Zie gemiste notificaties op het paneel</summary>
+  <summary lang="mr">पॅनेलमधील गमावलेल्या सूचना पहा</summary>
+  <summary lang="ja">見逃した通知をパネルで確認します</summary>
+  <summary lang="it">Vedi le notifiche perse nel pannello</summary>
+  <summary lang="hu">Az elmulasztott értesítések megjelenítése az állapotsoron</summary>
+  <summary lang="he">הצגת התרעות שהוחמצו בלוח</summary>
+  <summary lang="gl">Vexa as notificacións perdidas no panel</summary>
+  <summary lang="fr">Visualisez les notifications manquées dans le panneau</summary>
+  <summary lang="fi">Katso huomaamatta jääneet ilmoitukset paneelista</summary>
+  <summary lang="es">Ver notificaciones perdidas en el panel</summary>
+  <summary lang="eo">Vidi netrafitajn avertojn en la panelo</summary>
+  <summary lang="en_GB">See missed notifications in the panel</summary>
+  <summary lang="en_CA">See missed notifications in the panel</summary>
+  <summary lang="en_AU">See missed notifications in the panel</summary>
+  <summary lang="de">Entgangene Benachrichtigungen im Panel ansehen</summary>
+  <summary lang="da">Se mistede underretninger i panelet</summary>
+  <summary lang="cs">Mějte na panelu na očích upozornění, která vám unikla</summary>
+  <summary lang="ca">Vegeu les notificacions al plafó.</summary>
+  <summary lang="ar">قم برؤية الإشعارات الفائتة في اللوحة</summary>
+  <icon type="stock">preferences-system-notifications</icon>
+  <releases>
+    <release date="2022-07-11" version="6.0.6" urgency="medium">
+      <description>
+        <p>Fixes:</p>
+        <ul>
+          <li>Clear All button no longer leaves undeletable notifications</li>
+        </ul>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" version="6.0.5" date="2022-07-03">
+      <description>
+        <p>Fixes:</p>
+        <ul>
+          <li>Reduce delay in initially showing wingpanel when there is a large number of notifications</li>
+          <li>Reduce delay in clearing all notifications when there is a large number of notifications</li>
+        </ul>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" version="6.0.4" date="2021-12-17">
+      <description>
+        <p>Fixes:</p>
+        <ul>
+          <li>Fix delayed startup</li>
+        </ul>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="6.0.3" date="2021-12-10" urgency="medium">
+      <description>
+        <p>Fixes:</p>
+        <ul>
+          <li>Handle null message body</li>
+        </ul>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-10-26" urgency="medium" version="6.0.2">
+      <description>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" date="2021-09-27" version="6.0.1">
+      <description>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Use app name as fallback title</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" version="6.0.0" date="2021-07-15">
+      <description>
+        <p>Complete redesign:</p>
+        <ul>
+          <li>Multitouch gestures to dismiss notifications</li>
+          <li>Close button on each notification</li>
+          <li>Show images and badged icons</li>
+        </ul>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Show tooltip on hover </li>
+          <li>Performance improvements</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-04-01" urgency="medium" version="2.1.4">
+      <description>
+        <p>Fix issues with disappearing notifications</p>
+        <p>Updated translations</p>
+      </description>
+    </release>
+    <release date="2019-11-25" urgency="medium" version="2.1.3">
+      <description>
+        <p>Fix a minor visual inconsistency</p>
+        <p>Updated translations</p>
+      </description>
+    </release>
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/elementary/wingpanel-indicator-notifications/master/data/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <developer_name>elementary, Inc.</developer_name>
+  <developer_name lang="zh_CN">elementary, Inc.</developer_name>
+  <developer_name lang="uz">elementary Inc.</developer_name>
+  <developer_name lang="uk">elementary, Inc.</developer_name>
+  <developer_name lang="tr">elementary, Inc.</developer_name>
+  <developer_name lang="szl">elementary, Inc.</developer_name>
+  <developer_name lang="sr">elementary, Inc.</developer_name>
+  <developer_name lang="sk">elementary, Inc.</developer_name>
+  <developer_name lang="ru">elementary, Inc.</developer_name>
+  <developer_name lang="pt_BR">elementary, Inc.</developer_name>
+  <developer_name lang="pt">elementary, Inc.</developer_name>
+  <developer_name lang="pl">elementary, Inc.</developer_name>
+  <developer_name lang="oc">elementary, Inc.</developer_name>
+  <developer_name lang="nn">elementary, Inc.</developer_name>
+  <developer_name lang="nl">elementary, Inc.</developer_name>
+  <developer_name lang="nb">elementary, Inc.</developer_name>
+  <developer_name lang="mr">एलिमेंटरी, Inc.</developer_name>
+  <developer_name lang="ja">elementary, Inc.</developer_name>
+  <developer_name lang="it">elementary, Inc.</developer_name>
+  <developer_name lang="hu">elementary, Inc.</developer_name>
+  <developer_name lang="he">elementary בע״מ</developer_name>
+  <developer_name lang="fr">elementary, Inc.</developer_name>
+  <developer_name lang="fi">elementary, Inc.</developer_name>
+  <developer_name lang="es">elementary, Inc.</developer_name>
+  <developer_name lang="eo">elementary, Inc.</developer_name>
+  <developer_name lang="en_GB">elementary, Inc.</developer_name>
+  <developer_name lang="en_CA">elementary, Inc.</developer_name>
+  <developer_name lang="en_AU">elementary, Inc.</developer_name>
+  <developer_name lang="de">elementary, Inc.</developer_name>
+  <developer_name lang="da">elementary, Inc.</developer_name>
+  <developer_name lang="cs">elementary, Inc.</developer_name>
+  <developer_name lang="ca">elementary, Inc.</developer_name>
+  <developer_name lang="ar">elementary, Inc.</developer_name>
+  <url type="homepage">https://elementary.io/</url>
+  <url type="bugtracker">https://github.com/elementary/wingpanel-indicator-notifications/issues</url>
+  <url type="donation">https://elementary.io/get-involved#funding</url>
+  <url type="help">https://elementaryos.stackexchange.com/questions/tagged/wingpanel</url>
+  <url type="translate">https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-notifications/</url>
+  <update_contact>contact_AT_elementary.io</update_contact>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_group>elementary</project_group>
+  <project_license>GPL-3.0+</project_license>
+</component>

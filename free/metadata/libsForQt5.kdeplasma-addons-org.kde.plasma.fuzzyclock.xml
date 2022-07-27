@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>libsForQt5.kdeplasma-addons</pkgname>
+  <id>org.kde.plasma.fuzzyclock</id>
+  <extends>org.kde.plasmashell</extends>
+  <name>Fuzzy Clock</name>
+  <name lang="ar">ساعة تقريبية</name>
+  <name lang="az">Təxmini saat</name>
+  <name lang="bg">Ориентировъчен часовник</name>
+  <name lang="ca@valencia">Rellotge aproximat</name>
+  <name lang="ca">Rellotge aproximat</name>
+  <name lang="cs">Nejasné hodiny</name>
+  <name lang="de">Umgangssprachliche Uhr</name>
+  <name lang="en_GB">Fuzzy Clock</name>
+  <name lang="es">Reloj impreciso</name>
+  <name lang="eu">Ordulari lausoa</name>
+  <name lang="fi">Sumea kello</name>
+  <name lang="fr">Horloge floue</name>
+  <name lang="ia">Horologio confuse</name>
+  <name lang="id">Jam Kabur</name>
+  <name lang="it">Orologio confuso</name>
+  <name lang="ja">あいまい時計</name>
+  <name lang="ko">퍼지 시계</name>
+  <name lang="lt">Netikslus laikrodis</name>
+  <name lang="nl">Vage klok</name>
+  <name lang="nn">Uklar klokke</name>
+  <name lang="pl">Rozmyty zegar</name>
+  <name lang="pt">Relógio Difuso</name>
+  <name lang="pt_BR">Relógio aproximado</name>
+  <name lang="ro">Ceas evaziv</name>
+  <name lang="ru">Неточное время</name>
+  <name lang="sk">Približné hodiny</name>
+  <name lang="sl">Fuzzy Clock</name>
+  <name lang="sv">Inexakt klocka</name>
+  <name lang="tr">Belirsiz Saat</name>
+  <name lang="uk">Нечіткий годинник</name>
+  <name lang="vi">Đồng mơ hồ</name>
+  <name lang="x-test">xxFuzzy Clockxx</name>
+  <name lang="zh_CN">模糊时钟</name>
+  <summary>Time displayed in a less precise format</summary>
+  <summary lang="ar">الوقت يظهر بتنسيق أقل دقة</summary>
+  <summary lang="az">Təxmini vaxt sözlə göstərilir</summary>
+  <summary lang="bg">Показване на ориентировъчен час</summary>
+  <summary lang="ca@valencia">Mostra l'hora en un format aproximat</summary>
+  <summary lang="ca">Mostra l'hora en un format aproximat</summary>
+  <summary lang="cs">Zobrazení času v nejasném formátu</summary>
+  <summary lang="de">Zeigt die Zeit weniger genau an</summary>
+  <summary lang="en_GB">Time displayed in a less precise format</summary>
+  <summary lang="es">Hora mostrada en un formato menos preciso</summary>
+  <summary lang="eu">Ordua zehaztasun txikiagoko formatu batean bistaratua</summary>
+  <summary lang="fi">Vähemmän tarkasti esitetty kellonaika</summary>
+  <summary lang="fr">Heure affichée dans un format moins précis</summary>
+  <summary lang="ia">Tempore monstrate in un formato minus precise</summary>
+  <summary lang="id">Waktu ditampilkan dalam format yang kurang tepat</summary>
+  <summary lang="it">Ora mostrata in modo meno preciso</summary>
+  <summary lang="ja">時間をあいまいな形式で表示します</summary>
+  <summary lang="ko">개략적인 형태로 시간 보여주기</summary>
+  <summary lang="lt">Mažesnio tikslumo formatu rodomas laikas</summary>
+  <summary lang="nl">De tijd in iets minder nauwkeurig formaat</summary>
+  <summary lang="nn">Klokka – meir eller mindre nøyaktig</summary>
+  <summary lang="pl">Wyświetla czas w mniej precyzyjnym formacie</summary>
+  <summary lang="pt">A hora apresentada num formato menos exacto</summary>
+  <summary lang="pt_BR">Hora exibida em formato menos preciso</summary>
+  <summary lang="ro">Ora afișată într-un format mai puțin exact</summary>
+  <summary lang="ru">Время в словесной записи</summary>
+  <summary lang="sk">Čas zobrazený v menej presnom formáte</summary>
+  <summary lang="sl">Čas prikazan v manj natančnem formatu</summary>
+  <summary lang="sv">Tidvisning med ett mindre exakt format</summary>
+  <summary lang="tr">Daha az kesin bir biçimde görüntülenen zaman</summary>
+  <summary lang="uk">Час, показаний у менш точному форматі</summary>
+  <summary lang="vi">Thời gian hiển thị ở dạng ít chính xác hơn</summary>
+  <summary lang="x-test">xxTime displayed in a less precise formatxx</summary>
+  <summary lang="zh_CN">以不精确格式显示的时间</summary>
+  <url type="homepage">https://kde.org/plasma-desktop</url>
+  <url type="donation">https://www.kde.org/donate.php?app=org.kde.plasma.fuzzyclock</url>
+  <developer_name>Kai Uwe Broulik &lt;kde@privat.broulik.de></developer_name>
+  <icon type="stock">preferences-system-time</icon>
+  <project_license>GPL-2.0+</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+</component>

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>gnome.gnome-control-center</pkgname>
+  <icon type="cached" width="64" height="64">org.gnome.Settings.png</icon>
+  <icon type="cached" width="128" height="128">org.gnome.Settings.png</icon>
+  <id>org.gnome.Settings.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Settings</name>
+  <name lang="zh_TW">設定值</name>
+  <name lang="zh_HK">設定值</name>
+  <name lang="zh_CN">设置</name>
+  <name lang="vi">Cài đặt</name>
+  <name lang="uk">Параметри</name>
+  <name lang="ug">تەڭشەكلەر</name>
+  <name lang="tr">Ayarlar</name>
+  <name lang="th">ตั้งค่า</name>
+  <name lang="tg">Танзимот</name>
+  <name lang="te">అమరికలు</name>
+  <name lang="ta">அமைவுகள்</name>
+  <name lang="sv">Inställningar</name>
+  <name lang="sr@latin">Podešavanja</name>
+  <name lang="sr">Подешавања</name>
+  <name lang="sl">Nastavitve</name>
+  <name lang="sk">Nastavenia</name>
+  <name lang="ru">Параметры</name>
+  <name lang="ro">Configurări</name>
+  <name lang="pt_BR">Configurações</name>
+  <name lang="pt">Definições</name>
+  <name lang="pl">Ustawienia</name>
+  <name lang="pa">ਸੈਟਿੰਗ</name>
+  <name lang="or">ସେଟିଙ୍ଗଗୁଡିକ</name>
+  <name lang="oc">Paramètres</name>
+  <name lang="nl">Instellingen</name>
+  <name lang="ne">सेटिङ</name>
+  <name lang="nb">Innstillinger</name>
+  <name lang="ms">Tetapan</name>
+  <name lang="mr">सेटिंग्ज</name>
+  <name lang="ml">സജ്ജീകരണങ്ങള്‍</name>
+  <name lang="lv">Iestatījumi</name>
+  <name lang="lt">Nustatymai</name>
+  <name lang="ko">설정</name>
+  <name lang="kn">ಸಿದ್ಧತೆಗಳು</name>
+  <name lang="kk">Баптаулар</name>
+  <name lang="kab">Iɣewaren</name>
+  <name lang="ka">მორგება</name>
+  <name lang="ja">設定</name>
+  <name lang="it">Impostazioni</name>
+  <name lang="is">Stillingar</name>
+  <name lang="id">Pengaturan</name>
+  <name lang="hu">Beállítások</name>
+  <name lang="hr">Postavke</name>
+  <name lang="hi">सेटिंग्स</name>
+  <name lang="he">הגדרות</name>
+  <name lang="gu">સુયોજનો</name>
+  <name lang="gl">Preferencias</name>
+  <name lang="gd">Roghainnean</name>
+  <name lang="ga">Socruithe</name>
+  <name lang="fur">Impostazions</name>
+  <name lang="fr">Paramètres</name>
+  <name lang="fi">Asetukset</name>
+  <name lang="fa">تنظیمات</name>
+  <name lang="eu">Ezarpenak</name>
+  <name lang="et">Sätted</name>
+  <name lang="es">Configuración</name>
+  <name lang="eo">Agordoj</name>
+  <name lang="en_GB">Settings</name>
+  <name lang="el">Ρυθμίσεις</name>
+  <name lang="de">Einstellungen</name>
+  <name lang="da">Indstillinger</name>
+  <name lang="cs">Nastavení</name>
+  <name lang="crh">Ayarlar</name>
+  <name lang="ckb">ڕێكخستنەكان</name>
+  <name lang="ca@valencia">Paràmetres</name>
+  <name lang="ca">Paràmetres</name>
+  <name lang="bs">Postavke</name>
+  <name lang="br">Arventennoù</name>
+  <name lang="bn_IN">সেটিং</name>
+  <name lang="bg">Настройки</name>
+  <name lang="be">Налады</name>
+  <name lang="as">সংহতিসমূহ</name>
+  <name lang="ar">الإعدادات</name>
+  <name lang="an">Configuración</name>
+  <name lang="af">Instellings</name>
+  <summary>Utility to configure the GNOME desktop</summary>
+  <summary lang="zh_TW">設定 GNOME 桌面的工具程式</summary>
+  <summary lang="zh_CN">用来配置 GNOME 桌面的工具</summary>
+  <summary lang="vi">Tiện ích để cấu hình môi trường máy tính để bàn GNOME</summary>
+  <summary lang="uk">Програма для налаштовування середовища GNOME</summary>
+  <summary lang="tr">GNOME masaüstünü yapılandırma aracı</summary>
+  <summary lang="sv">Verktyg för att konfigurera GNOME-skrivbordet</summary>
+  <summary lang="sr">Алатка за подешавање Гномовог радног окружења</summary>
+  <summary lang="sl">Orodje za nastavljanje namizja GNOME</summary>
+  <summary lang="sk">Nástroj na konfiguráciu prostredia GNOME</summary>
+  <summary lang="ru">Инструмент для настройки рабочего стола GNOME</summary>
+  <summary lang="ro">Utilitate de configurare pentru desktopul GNOME</summary>
+  <summary lang="pt_BR">Utilitário para configurar o ambiente GNOME</summary>
+  <summary lang="pt">Utilitários para configurar o ambiente de trabalho GNOME</summary>
+  <summary lang="pl">Narzędzie do konfigurowania środowiska GNOME</summary>
+  <summary lang="pa">ਗਨੋਮ ਡੈਸਕਟਾਪ ਦੀ ਸੰਰਚਨਾ ਵਾਸਤੇ ਸਹੂਲਤ</summary>
+  <summary lang="oc">Utilitari per configurar l’environament GNOME</summary>
+  <summary lang="nl">Hulpprogramma om het Gnome-bureaublad te configureren</summary>
+  <summary lang="ne">जिनोम डेस्कटप कन्फिगर गर्ने युटिलिटी</summary>
+  <summary lang="nb">Verktøy som lar deg tilpasse GNOME-skrivebordet</summary>
+  <summary lang="ms">Utiliti untuk mengkonfigur atas meja GNOME</summary>
+  <summary lang="lv">Utilītprogramma GNOME darbvirsmas konfigurēšanai</summary>
+  <summary lang="lt">Įrankis GNOME grafinės aplinkos konfigūravimui</summary>
+  <summary lang="ko">그놈 데스크톱 설정 프로그램</summary>
+  <summary lang="kk">GNOME жұмыс үстелін баптау утилитасы</summary>
+  <summary lang="ja">GNOME デスクトップの設定ユーティリティ</summary>
+  <summary lang="it">Applicazione per configurare l'ambiente grafico GNOME</summary>
+  <summary lang="is">Tól til að stilla GNOME skjáborðsumhverfið</summary>
+  <summary lang="id">Utilitas untuk mengonfigurasi destop GNOME</summary>
+  <summary lang="hu">Segédprogram a GNOME asztali környezet személyre szabásához</summary>
+  <summary lang="hr">Pomagalo za podešavanje GNOME radne površine</summary>
+  <summary lang="he">כלים להגדרת שולחן העבודה GNOME</summary>
+  <summary lang="gl">Utilidades para configurar o escritorio GNOME</summary>
+  <summary lang="fur">Utilitât par configurâ l'ambient grafic GNOME</summary>
+  <summary lang="fr">Utilitaire pour configurer l’environnement GNOME</summary>
+  <summary lang="fi">Työkalu Gnome-työpöydän asetusten muokkaukseen</summary>
+  <summary lang="fa">ابزاری برای پیکربندی میزکار گنوم</summary>
+  <summary lang="eu">GNOME mahaigaina konfiguratzeko utilitatea</summary>
+  <summary lang="es">Utilidad para configurar el escritorio GNOME</summary>
+  <summary lang="eo">Ilo por agordi la labortablon de GNOME</summary>
+  <summary lang="en_GB">Utility to configure the GNOME desktop</summary>
+  <summary lang="el">Εργαλείο για τη ρύθμιση του GNOME</summary>
+  <summary lang="de">Dienstprogramme zur Einrichtung der GNOME Arbeitsumgebung</summary>
+  <summary lang="da">Redskab til at konfigurere GNOME-skrivebordet</summary>
+  <summary lang="cs">Nástroj pro nastavení uživatelského prostředí GNOME</summary>
+  <summary lang="ckb">ئامرازێکە بۆ ڕێکخستنی ڕوومێزی گنۆم</summary>
+  <summary lang="ca">Utilitats per a configurar l'escriptori GNOME</summary>
+  <summary lang="bn_IN">জিনোম ডেস্কটপ কনফিগার করতে ইউটিলিটি</summary>
+  <summary lang="bg">Инструменти за настройването на работната среда GNOME</summary>
+  <summary lang="be">Утыліта для канфігуравання асяроддзя GNOME</summary>
+  <summary lang="ar">أدوات لضبط سطح مكتب جنوم</summary>
+  <description>
+    <p>
+      Settings is the primary interface for configuring your system.
+    </p>
+    <p lang="zh_TW">《設定》是設定系統的主要介面。</p>
+    <p lang="zh_CN">“设置”是配置您的系统的主要界面。</p>
+    <p lang="vi">Cài đặt là giao diện chính để cấu hình hệ thống của bạn.</p>
+    <p lang="uk">«Параметри» є основним інтерфейсом для налаштовування вашої системи.</p>
+    <p lang="tr">Ayarlar, sisteminizi yapılandırmak için birincil arayüzdür.</p>
+    <p lang="sv">Inställningar är det primära gränssnittet för att konfigurera ditt system.</p>
+    <p lang="sr">Подешавања су главно средство за подешавање вашег система.</p>
+    <p lang="sl">Program je osnovni vmesnik za prilagajanje nastavitev sistema.</p>
+    <p lang="sk">Aplikácia Nastavenia je hlavným rozhraním na konfiguráciu vášho systému.</p>
+    <p lang="ru">Настройки — основной интерфейс для настройки вашей системы.</p>
+    <p lang="ro">Configurări este interfața primară pentru a vă configura sistemul.</p>
+    <p lang="pt_BR">Configurações é a interface primária para configurar seu sistema.</p>
+    <p lang="pt">Definições é a sua interface principal para configurar o seu sistema.</p>
+    <p lang="pl">Główny interfejs do konfigurowania komputera.</p>
+    <p lang="pa">ਸੈਟਿੰਗਾਂ ਤੁਹਾਡੇ ਸਿਸਟਮ ਦੀ ਸੰਰਚਨਾ ਕਰਨ ਲਈ ਮੁੱਢਲਾ ਦਰ ਹੈ।</p>
+    <p lang="oc">Paramètres es l’interfàcia principala de configuracion del sistèma.</p>
+    <p lang="nl">Instellingen is de hoofdinterface voor de configuratie van uw systeem.</p>
+    <p lang="ne">तपाईँको प्रणाली कन्फिगर गर्नका लागि सेटिङ प्राथमिक इन्टरफेस हो ।</p>
+    <p lang="nb">Innstillinger er primærgrensesnittet for å konfigurere systemet ditt.</p>
+    <p lang="ms">Tetapan ialah antara muka utama untuk Mengkonfigur sistem anda.</p>
+    <p lang="lv">“Iestatījumi” ir galvenā sistēmas konfigurēšanas saskarne.</p>
+    <p lang="lt">Nustatymai yra pirminė sąsaja jūsų sistemos konfigūravimui.</p>
+    <p lang="ko">설정은 시스템을 설정하는 주요 인터페이스 프로그램입니다.</p>
+    <p lang="kk">Баптаулар қолданбасы жүйеңізді баптаудың негізгі сайманы болып табылады.</p>
+    <p lang="ja">“設定”はシステム設定用のプライマリインターフェースです。</p>
+    <p lang="it">«Impostazioni» è il programma principale per la configurazione del sistema.</p>
+    <p lang="id">Pengaturan adalah antarmuka utama untuk mengkonfigurasi sistem Anda.</p>
+    <p lang="hu">A Beállítások az elsődleges felület a rendszer beállításához.</p>
+    <p lang="hr">Postavke su glavno sučelje za podešavanje vašeg sustava.</p>
+    <p lang="he">הגדרות הוא הממשק העיקרי להגדיר את המערכת שלך.</p>
+    <p lang="gl">Preferencias é a interface principal para configurar o seu sistema.</p>
+    <p lang="fur">Impostazions e je la interface principâl par configurâ il sisteme.</p>
+    <p lang="fr">Paramètres est l’interface principale de configuration du système.</p>
+    <p lang="fi">Asetukset on ensisijainen käyttöliittymä järjestelmäsi asetusten määrittämiseen.</p>
+    <p lang="fa">تنظیمات، واسط اصلی برای پیکربندی سامانه‌تان است.</p>
+    <p lang="eu">Ezarpenak zure sistema konfiguratzeko interfaze nagusia da.</p>
+    <p lang="es">Configuración es la interfaz principal para configurar su sistema.</p>
+    <p lang="eo">Agordoj estas la ĉefa fasado por agordi vian sistemon.</p>
+    <p lang="en_GB">Settings is the primary interface for configuring your system.</p>
+    <p lang="el">Οι ρυθμίσεις είναι η κύρια διεπαφή για τη διαμόρφωση του συστήματός σας.</p>
+    <p lang="de">Einstellungen ist die wichtigste Komponente zur Einrichtung Ihres Systems.</p>
+    <p lang="da">Indstillinger er den primære grænseflade til konfigurering af dit system.</p>
+    <p lang="cs">Aplikace Nastavení je hlavním rozhraním pro nastavení vašeho systému.</p>
+    <p lang="ca">El Paràmetres és la interfície principal per a configurar el sistema.</p>
+    <p lang="bn_IN">আপনার সিস্টেমটি কনফিগার করার জন্য সেটিংস হল প্রাথমিক ইন্টারফেস।</p>
+    <p lang="bg">Това е основният интерфейс за настройването на системата ви.</p>
+    <p lang="be">Налады — гэта асноўны інтэрфейс для канфігуравання сістэмы.</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://gitlab.gnome.org/GNOME/gnome-control-center/raw/HEAD/shell/appdata/screenshot-appearance.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.gnome.org/GNOME/gnome-control-center/raw/HEAD/shell/appdata/screenshot-sound.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.gnome.org/GNOME/gnome-control-center/raw/HEAD/shell/appdata/screenshot-mouse.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.gnome.org/GNOME/gnome-control-center/raw/HEAD/shell/appdata/screenshot-keyboard.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/gnome-control-center/issues/</url>
+  <url type="donation">https://www.gnome.org/friends/</url>
+  <url type="translate">https://wiki.gnome.org/TranslationProject</url>
+  <update_contact>gnomecc-list_at_gnome.org</update_contact>
+  <project_group>GNOME</project_group>
+  <launchable type="desktop-id">org.gnome.Settings.desktop</launchable>
+  <developer_name>The GNOME Project</developer_name>
+  <developer_name lang="zh_TW">GNOME 專案</developer_name>
+  <developer_name lang="zh_CN">GNOME 项目</developer_name>
+  <developer_name lang="vi">Dự án GNOME</developer_name>
+  <developer_name lang="uk">Проєкт GNOME</developer_name>
+  <developer_name lang="tr">GNOME Projesi</developer_name>
+  <developer_name lang="sv">GNOME-projektet</developer_name>
+  <developer_name lang="sr">Гном пројекат</developer_name>
+  <developer_name lang="sl">Projekt GNOME</developer_name>
+  <developer_name lang="sk">Projekt GNOME</developer_name>
+  <developer_name lang="ru">Проект GNOME</developer_name>
+  <developer_name lang="ro">Proiectul Gnome</developer_name>
+  <developer_name lang="pt_BR">O Projeto GNOME</developer_name>
+  <developer_name lang="pt">Projeto GNOME</developer_name>
+  <developer_name lang="pl">Projekt GNOME</developer_name>
+  <developer_name lang="pa">ਗਨੋਮ ਪਰੋਜੈਕਟ</developer_name>
+  <developer_name lang="oc">Lo projècte GNOME</developer_name>
+  <developer_name lang="nl">Het Gnome-project</developer_name>
+  <developer_name lang="ne">जिनोम परियोजना</developer_name>
+  <developer_name lang="nb">GNOME prosjektet</developer_name>
+  <developer_name lang="ms">Projek GNOME</developer_name>
+  <developer_name lang="mjw">The GNOME Project</developer_name>
+  <developer_name lang="lv">GNOME projekts</developer_name>
+  <developer_name lang="lt">GNOME projektas</developer_name>
+  <developer_name lang="ko">그놈 프로젝트</developer_name>
+  <developer_name lang="kk">GNOME жобасы</developer_name>
+  <developer_name lang="ka">პროექტი "GNOME"</developer_name>
+  <developer_name lang="ja">The GNOME Project</developer_name>
+  <developer_name lang="it">Il progetto GNOME</developer_name>
+  <developer_name lang="is">GNOME verkefnið</developer_name>
+  <developer_name lang="id">Proyek GNOME</developer_name>
+  <developer_name lang="hu">A GNOME projekt</developer_name>
+  <developer_name lang="hr">GNOME projekt</developer_name>
+  <developer_name lang="he">מיזם GNOME</developer_name>
+  <developer_name lang="gl">O proxecto GNOME</developer_name>
+  <developer_name lang="fur">Il progjet GNOME</developer_name>
+  <developer_name lang="fr">Le projet GNOME</developer_name>
+  <developer_name lang="fi">Gnome-projekti</developer_name>
+  <developer_name lang="fa">پروژهٔ گنوم</developer_name>
+  <developer_name lang="eu">GNOME proiektua</developer_name>
+  <developer_name lang="es">El Proyecto GNOME</developer_name>
+  <developer_name lang="eo">La GNOME Projekto</developer_name>
+  <developer_name lang="en_GB">The GNOME Project</developer_name>
+  <developer_name lang="el">Το έργο GNOME</developer_name>
+  <developer_name lang="de">Das GNOME-Pojekt</developer_name>
+  <developer_name lang="da">GNOME-projektet</developer_name>
+  <developer_name lang="cs">Projekt GNOME</developer_name>
+  <developer_name lang="ca">El projecte GNOME</developer_name>
+  <developer_name lang="bn_IN">জিনোম প্রকল্প</developer_name>
+  <developer_name lang="bg">Проектът GMOME</developer_name>
+  <developer_name lang="be">Праект GNOME</developer_name>
+  <compulsory_for_desktop>GNOME</compulsory_for_desktop>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>HighContrast</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>SearchProvider</kudo>
+    <kudo>UserDocs</kudo>
+  </kudos>
+  <translation type="gettext">gnome-control-center-2.0</translation>
+  <custom>
+    <value key="Purism::form_factor">workstation</value>
+    <value key="Purism::form_factor">mobile</value>
+  </custom>
+</component>

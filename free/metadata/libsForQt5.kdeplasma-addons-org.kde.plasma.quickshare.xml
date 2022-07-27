@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>libsForQt5.kdeplasma-addons</pkgname>
+  <id>org.kde.plasma.quickshare</id>
+  <extends>org.kde.plasmashell</extends>
+  <name>Quick Share</name>
+  <name lang="ar">المشاركة السريعة</name>
+  <name lang="az">Sürətli paylaşmaq</name>
+  <name lang="bg">Бързо споделяне</name>
+  <name lang="ca@valencia">Compartix ràpid</name>
+  <name lang="ca">Comparteix ràpid</name>
+  <name lang="cs">Rychlé sdílení</name>
+  <name lang="de">Schnellfreigabe</name>
+  <name lang="en_GB">Quick Share</name>
+  <name lang="es">Compartir rápidamente</name>
+  <name lang="eu">Partekatze azkarra</name>
+  <name lang="fi">Pikajako</name>
+  <name lang="fr">Partage rapide</name>
+  <name lang="ia">Imparti rapide</name>
+  <name lang="id">Quick Share</name>
+  <name lang="it">Condivisione rapida</name>
+  <name lang="ja">クイック共有</name>
+  <name lang="ko">빠른 공유</name>
+  <name lang="lt">Spartusis bendrinimas</name>
+  <name lang="nl">Snel Share maken</name>
+  <name lang="nn">Snøgg­deling</name>
+  <name lang="pl">Szybkie udostępnianie</name>
+  <name lang="pt">Partilha Rápida</name>
+  <name lang="pt_BR">Compartilhamento rápido</name>
+  <name lang="ro">Partajare rapidă</name>
+  <name lang="ru">Быстрая публикация</name>
+  <name lang="sk">Rýchle zdieľanie</name>
+  <name lang="sl">Quick Share</name>
+  <name lang="sv">Snabbdelning</name>
+  <name lang="tr">Hızlı Paylaş</name>
+  <name lang="uk">Швидке оприлюднення</name>
+  <name lang="vi">Chia sẻ nhanh</name>
+  <name lang="x-test">xxQuick Sharexx</name>
+  <name lang="zh_CN">快速分享</name>
+  <summary>Paste text/images to a remote server</summary>
+  <summary lang="ar">ألصق نص/صور في خادم بعيد</summary>
+  <summary lang="az">Uzaq serverə mətni/şəkli yerləşdirmək</summary>
+  <summary lang="bg">Вмъкване на текст/изображение на отдалечен сървър</summary>
+  <summary lang="ca@valencia">Apega text/imatges en un servidor remot</summary>
+  <summary lang="ca">Enganxa text/imatges en un servidor remot</summary>
+  <summary lang="cs">Vložit text/obrázky na vzdálený server</summary>
+  <summary lang="de">Text und Bilder auf einen entfernten Server hochladen</summary>
+  <summary lang="en_GB">Paste text/images to a remote server</summary>
+  <summary lang="es">Pegar texto/imágenes en un servidor remoto</summary>
+  <summary lang="eu">Itsatsi testua/irudiak urruneko zerbitzari batera</summary>
+  <summary lang="fi">Liitä tekstiä tai kuvaa etäpalvelimeen</summary>
+  <summary lang="fr">Coller du texte ou des images vers un serveur distant</summary>
+  <summary lang="ia">Colla texto/imagines a un servitor remote</summary>
+  <summary lang="id">Rekatkan teks/gambar ke server jarak jauh</summary>
+  <summary lang="it">Incolla testo/immagini su un server remoto</summary>
+  <summary lang="ja">テキストや画像をリモートサーバに貼り付けます</summary>
+  <summary lang="ko">원격 서버에 텍스트/이미지 붙여넣기</summary>
+  <summary lang="lt">Įdėti tekstą/paveikslus į nuotolinį serverį</summary>
+  <summary lang="nl">Tekst/afbeeldingen plakken op een externe server</summary>
+  <summary lang="nn">Kopier tekst og bilete til tenar på nettet</summary>
+  <summary lang="pl">Wkleja teksty/obrazy na zdalny serwer</summary>
+  <summary lang="pt">Colar texto/imagens num servidor remoto</summary>
+  <summary lang="pt_BR">Cola textos e imagens em um servidor remoto</summary>
+  <summary lang="ro">Lipește text/imagini spre un server distant</summary>
+  <summary lang="ru">Временная публикация текста и изображений на удалённых серверах</summary>
+  <summary lang="sk">Vkladanie textu/obrázkov na vzdialený server</summary>
+  <summary lang="sl">Prilepi besedilo/sliko na oddaljeni strežnik</summary>
+  <summary lang="sv">Klistra in text eller bilder på en fjärrserver</summary>
+  <summary lang="tr">Uzak sunucuya metin/resim yapıştır</summary>
+  <summary lang="uk">Викласти текст/зображення на віддалений сервер</summary>
+  <summary lang="vi">Dán chữ/ảnh vào một máy chủ ở xa</summary>
+  <summary lang="x-test">xxPaste text/images to a remote serverxx</summary>
+  <summary lang="zh_CN">粘贴文本/图像到远程服务器</summary>
+  <url type="homepage">https://kde.org/plasma-desktop/</url>
+  <url type="donation">https://www.kde.org/donate.php?app=org.kde.plasma.quickshare</url>
+  <developer_name>The Plasma Team &lt;plasma-devel@kde.org></developer_name>
+  <icon type="stock">emblem-shared-symbolic</icon>
+  <project_license>GPL-2.0+</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+</component>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>gnome.gnome-software</pkgname>
+  <id>org.gnome.Software.Plugin.Flatpak</id>
+  <extends>org.gnome.Software.desktop</extends>
+  <name>Flatpak Support</name>
+  <name lang="zh_TW">Flatpak 支援</name>
+  <name lang="zh_CN">Flatpak 支持</name>
+  <name lang="vi">Hỗ trợ Flatpak</name>
+  <name lang="uk">Підтримка Flatpak</name>
+  <name lang="tr">Flatpak Desteği</name>
+  <name lang="sv">Flatpak-stöd</name>
+  <name lang="sr@latin">Podrška za Fletpek (Flatpak)</name>
+  <name lang="sr">Подршка за Флетпек (Flatpak)</name>
+  <name lang="sl">Podpora Flatpak</name>
+  <name lang="sk">Podpora nástroja Flatpak</name>
+  <name lang="ru">Поддержка Flatpak</name>
+  <name lang="ro">Suport pentru flatpak</name>
+  <name lang="pt_BR">Suporte a flatpak</name>
+  <name lang="pt">Suporte para Flatpak</name>
+  <name lang="pl">Obsługa pakietów Flatpak</name>
+  <name lang="pa">ਫਲੈਟਪਕ ਸਹਿਯੋਗ</name>
+  <name lang="oc">Presa en carga de Flatpak</name>
+  <name lang="nl">Flatpak-ondersteuning</name>
+  <name lang="ne">फ्ल्याटपाक समर्थन</name>
+  <name lang="nb">Støtte for Flatpak</name>
+  <name lang="ms">Sokongan Flatpak</name>
+  <name lang="ml">ഫ്ലാറ്റ്പാക്ക് പിന്തുണ</name>
+  <name lang="mjw">Flatpak Support</name>
+  <name lang="lv">Flatpak atbalsts</name>
+  <name lang="lt">Flatpak palaikymas</name>
+  <name lang="ko">Flatpak 지원</name>
+  <name lang="kk">Flatpak қолдауы</name>
+  <name lang="ja">Flatpak サポート</name>
+  <name lang="it">Supporto Flatpak</name>
+  <name lang="is">Flatpak-stuðningur</name>
+  <name lang="id">Dukungan Flatpak</name>
+  <name lang="hu">Flatpak támogatás</name>
+  <name lang="hr">Flatpak podrška</name>
+  <name lang="hi">Flatpak समर्थन</name>
+  <name lang="he">תמיכת Flatpak</name>
+  <name lang="gl">Compatibilidade de Flatpak</name>
+  <name lang="gd">Taic ri Flatpak</name>
+  <name lang="fur">Supuart Flatpak</name>
+  <name lang="fr">Prise en charge de Flatpak</name>
+  <name lang="fi">Flatpak-tuki</name>
+  <name lang="fa">پشتیبانی فلت‌پک</name>
+  <name lang="eu">Flatpak euskarria</name>
+  <name lang="es">Soporte de Flatpak</name>
+  <name lang="eo">Flatpak-subteno</name>
+  <name lang="en_GB">Flatpak Support</name>
+  <name lang="el">Υποστήριξη Flatpak</name>
+  <name lang="de">Flatpak-Unterstützung</name>
+  <name lang="da">Understøttelse af Flatpak</name>
+  <name lang="cs">Podpora pro Flatpak</name>
+  <name lang="ca@valencia">Compatibilitat amb Flatpak</name>
+  <name lang="ca">Compatibilitat amb Flatpak</name>
+  <name lang="bg">Поддръжка на „Flatpak“</name>
+  <name lang="be">Падтрымка Flatpak</name>
+  <name lang="af">Flatpak ondersteuning</name>
+  <summary>Flatpak is a framework for desktop applications on Linux</summary>
+  <summary lang="zh_TW">Flatpak 是一個用於 Linux 桌面應用程式框架</summary>
+  <summary lang="zh_CN">Flatpak 是用于 Linux 上桌面应用程序的框架</summary>
+  <summary lang="vi">Flatpak là một chương trình khung cho các ứng dụng máy tính chạy trên Linux</summary>
+  <summary lang="uk">Flatpak — система програм і бібліотек для роботи із програмами для робочих станцій на Linux</summary>
+  <summary lang="tr">Flatpak, Linux’taki masaüstü uygulamaları için çerçevedir</summary>
+  <summary lang="sv">Flatpak är ett ramverk för skrivbordsprogram på Linux</summary>
+  <summary lang="sr@latin">Fletpek je radni okvir za stone Linuks programe</summary>
+  <summary lang="sr">Флетпек је радни оквир за стоне Линукс програме</summary>
+  <summary lang="sl">Flatpak je okolje za podporo namiznim programom sistema Linux</summary>
+  <summary lang="sk">Flatpak je architektúra počítačových aplikácií pre systém Linux</summary>
+  <summary lang="ru">Flatpak — это платформа для настольных приложений, запускаемых в Linux</summary>
+  <summary lang="ro">Flatpak este o platformă pentru aplicații desktop în Linux</summary>
+  <summary lang="pt_BR">Flatpak é um framework para aplicativos no Linux</summary>
+  <summary lang="pt">Flatpak é uma framework(plataforma) para aplicações "desktop" no Linux</summary>
+  <summary lang="pl">Flatpak to system dla programów w systemie Linux</summary>
+  <summary lang="pa">ਫਲੈਟਪਕ (Flatpak) ਲੀਨਕਸ 'ਤੇ ਡੈਸਕਟਾਪ ਐਪਲੀਕੇਸ਼ਨਾਂ ਲਈ ਢਾਂਚਾ ਹੈ।</summary>
+  <summary lang="oc">Flatpak es un component logicial per las aplicacions de burèus Linux</summary>
+  <summary lang="nl">Flatpak is een raamwerk voor bureaubladtoepassingen op Linux</summary>
+  <summary lang="nb">Flatpak er et rammeverk for skrivebordsprogrammer på Linux</summary>
+  <summary lang="ms">Flatpak merupakan rangka kerja untuk aplikasi-aplikasi atas meja Linux</summary>
+  <summary lang="ml">ലിനക്സിൽ പണിയിട പ്രയോഗങ്ങൾക്കു വേണ്ടിയുള്ള ഒരു ചട്ടക്കൂടാണ് ഫ്ളാറ്റ്പാക്ക്</summary>
+  <summary lang="lv">Flatpak ir ietvars darbvirsmas lietotnēm uz Linux</summary>
+  <summary lang="lt">Flatpak yra karkasas, skirtas darbalaukio programoms Linux sistemose</summary>
+  <summary lang="ko">Flatpak은 리눅스 데스크톱 프로그램용 프레임워크입니다</summary>
+  <summary lang="kk">Flatpak - бұл Linux үшін жұмыс үстел қолданбаларының жүйесі</summary>
+  <summary lang="ja">Flatpak は Linux 上のデスクトップアプリケーション向けフレームワークです</summary>
+  <summary lang="it">Flatpak è un framework per le applicazioni desktop su Linux</summary>
+  <summary lang="id">Flatpak adalah kerangka kerja untuk aplikasi destop di Linux</summary>
+  <summary lang="hu">A Flatpak egy keretrendszer Linuxos asztali alkalmazásokhoz</summary>
+  <summary lang="hr">Flatpak je radni okvir za aplikacije radne površine na Linuxu</summary>
+  <summary lang="hi">Flatpak, Linux पर डेस्कटॉप ऐप्लिकेशन्स के लिए एक फ़्रेमवर्क है</summary>
+  <summary lang="he">‏Flatpak זוהי מסגרת עבור יישומים שולחניים על לינוקס</summary>
+  <summary lang="gl">Flatpak é un ambiente de desenvolvemento de aplicacións de escritorio en Linux</summary>
+  <summary lang="gd">’S e frèam-obrach a th’ ann am Flatpak airson aplacaidean deasga air Linux</summary>
+  <summary lang="fur">Flatpak al è un ambient di svilup par aplicazions di scritori su Linux</summary>
+  <summary lang="fr">Flatpak est une structure pour les applications de bureau sous Linux</summary>
+  <summary lang="fi">Flatpak on viitekehys Linux-työpöytäsovelluksille</summary>
+  <summary lang="fa">فلت‌پک چارچوبی برای برنامه‌های میزکار روی گنو/لینوکس است</summary>
+  <summary lang="eu">Flatpak Linuxeko mahaigaineko aplikazioen lan-marko bat da</summary>
+  <summary lang="es">Flatpak es un entorno de desarrollo para aplicaciones de escritorio en Linux</summary>
+  <summary lang="eo">Flatpak estas framo por labortablaj aplikaĵoj sur Linukso</summary>
+  <summary lang="en_GB">Flatpak is a framework for desktop applications on Linux</summary>
+  <summary lang="el">Το Flatpak είναι ένα framework για εφαρμογές στο Linux</summary>
+  <summary lang="de">Flatpak ist eine Laufzeitumgebung für Linux-Desktop-Anwendungen, deren Pakete distributionsunabhängig laufen</summary>
+  <summary lang="da">Flatpak er et framework til skrivebordsprogrammer på Linux</summary>
+  <summary lang="cs">Flatpak je systém pro provozování aplikací na Linuxu</summary>
+  <summary lang="ca@valencia">Flatpak és un espai de treball per aplicacions d'escriptori a Linux</summary>
+  <summary lang="ca">Flatpak és un espai de treball per a aplicacions d'escriptori a Linux</summary>
+  <summary lang="bg">„Flatpak“ е система за пакетиране на програми за Линукс</summary>
+  <summary lang="be">Flatpak – гэта фрэймворк для праграм пад Linux</summary>
+  <summary lang="af">Flatpak is 'n raamwerk vir Linux toepassings</summary>
+  <url type="homepage">https://flatpak.org/</url>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <update_contact>richard_at_hughsie.com</update_contact>
+</component>

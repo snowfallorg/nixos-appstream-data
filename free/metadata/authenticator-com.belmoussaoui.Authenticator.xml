@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>authenticator</pkgname>
+  <icon height="64" type="cached" width="64">com.belmoussaoui.Authenticator.png</icon>
+  <icon height="128" type="cached" width="128">com.belmoussaoui.Authenticator.png</icon>
+  <id>com.belmoussaoui.Authenticator</id>
+  <metadata_license>CC0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <name>Authenticator</name>
+  <name lang="zh_CN">验证器</name>
+  <name lang="uk">Розпізнавач</name>
+  <name lang="tr">Kimlik Doğrulayıcı</name>
+  <name lang="sv">Authenticator</name>
+  <name lang="sr@latin">Autentifikator</name>
+  <name lang="sr">Потврђивач</name>
+  <name lang="sl">Overjevalnik</name>
+  <name lang="sk">Authenticator</name>
+  <name lang="ru">Аутентификатор</name>
+  <name lang="ro">Autentificator</name>
+  <name lang="pt_BR">Autenticador</name>
+  <name lang="pt">Autenticador</name>
+  <name lang="pl">Authenticator</name>
+  <name lang="pa">ਅਥੈਂਟੀਕੇਟਰ</name>
+  <name lang="oc">Autentificador</name>
+  <name lang="nn">Authenticator</name>
+  <name lang="nl">Authenticator</name>
+  <name lang="nb">Authenticator</name>
+  <name lang="ms">Pengesah</name>
+  <name lang="ko">인증기</name>
+  <name lang="ja">Authenticator</name>
+  <name lang="it">Authenticator</name>
+  <name lang="id">Autentikator</name>
+  <name lang="hu">Hitelesítő</name>
+  <name lang="hr">Ovjeritelj</name>
+  <name lang="he">מאמת</name>
+  <name lang="gl">Autenticador</name>
+  <name lang="fur">Autenticadôr</name>
+  <name lang="fr">Authentificateur</name>
+  <name lang="fi">Todennin</name>
+  <name lang="eu">Authenticator</name>
+  <name lang="es">Authenticador</name>
+  <name lang="en_GB">Authenticator</name>
+  <name lang="de">Authenticator</name>
+  <name lang="da">Godkender</name>
+  <name lang="cs">Autentikátor</name>
+  <name lang="ca">Autenticador</name>
+  <name lang="ar">الموثق</name>
+  <summary>Generate Two-Factor Codes</summary>
+  <summary lang="zh_CN">生成双因素验证码</summary>
+  <summary lang="uk">Створення двофакторних кодів</summary>
+  <summary lang="tr">İki Aşamalı Kodlar Oluştur</summary>
+  <summary lang="sv">Generera tvåfaktorskoder</summary>
+  <summary lang="sr">Створите двофакторне шифре</summary>
+  <summary lang="sl">Ustvarjanje dvostopenjske overitvene kode</summary>
+  <summary lang="ru">Создание Двухфакторных Кодов</summary>
+  <summary lang="ro">Generează coduri cu doi factori</summary>
+  <summary lang="pt_BR">Gere códigos de dois fatores</summary>
+  <summary lang="pt">Gere códigos de dois fatores</summary>
+  <summary lang="pl">Generowanie kodów uwierzytelniania dwuetapowego</summary>
+  <summary lang="pa">ਦੋ-ਪੜਾਵੀਂ ਕੋਡ ਬਣਾਓ</summary>
+  <summary lang="oc">Generar de còdis a dos factors</summary>
+  <summary lang="nn">Generer tofaktor-koder</summary>
+  <summary lang="nl">Tweestapscodes genereren</summary>
+  <summary lang="nb">Generer tofaktor-koder</summary>
+  <summary lang="ms">Janakan Kod Dua Langkah Pengesahan</summary>
+  <summary lang="ko">이중 인증 코드 생성</summary>
+  <summary lang="ja">二要素認証コードを生成します</summary>
+  <summary lang="it">Genera codici per l'autenticazione a due fattori</summary>
+  <summary lang="id">Hasilkan Kode Dua Faktor</summary>
+  <summary lang="hu">Kétlépcsős kódok előállítása</summary>
+  <summary lang="hr">Stvorite dvofaktorne kôdove</summary>
+  <summary lang="he">יצירת קודים לאימות דו־שלבי</summary>
+  <summary lang="gl">Xerar códigos de dobre factor</summary>
+  <summary lang="fur">Gjenere codiçs a doi fatôrs</summary>
+  <summary lang="fr">Générez des codes d’authentification à deux facteurs</summary>
+  <summary lang="fi">Luo kaksivaiheisen todennuksen koodeja</summary>
+  <summary lang="eu">Sortu bi faktoreko kodeak</summary>
+  <summary lang="es">Generar códigos de autenticación de doble factor</summary>
+  <summary lang="en_GB">Generate Two-Factor Codes</summary>
+  <summary lang="de">Zwei-Faktor-Codes generieren</summary>
+  <summary lang="da">Generer tofaktorkoder</summary>
+  <summary lang="cs">Generujte dvoufaktorové kódy</summary>
+  <description>
+    <p>Simple application for generating Two-Factor Authentication Codes.</p>
+    <p lang="zh_CN">可生成双因素验证码的简单应用程序。</p>
+    <p lang="uk">Проста програма для створення двофакторних кодів розпізнавання.</p>
+    <p lang="tr">İki Aşamalı Kimlik Doğrulama Kodları oluşturmak için basit bir uygulama.</p>
+    <p lang="sv">Enkelt program som genererar tvåfaktorsautentiseringskoder.</p>
+    <p lang="sr">Једноставан програм за стварање шифара за двофакторног потврђивача.</p>
+    <p lang="sl">Program za ustvarjanje dvostopenjskih overitvenih kod.</p>
+    <p lang="ru">Простое приложение для генерации Кодов Двухфакторной Аутентификации.</p>
+    <p lang="ro">O aplicație simplă care generează un cod de autentificare cu doi factori.</p>
+    <p lang="pt_BR">Aplicativo simples para gerar códigos de autenticação de dois fatores.</p>
+    <p lang="pt">Aplicação simples para gerar códigos de autenticação de dois fatores.</p>
+    <p lang="pl">Prosty program do generowania kodów uwierzytelniania dwuetapowego.</p>
+    <p lang="pa">ਦੋ-ਪੜਾਵੀਂ ਪਰਮਾਣਕਿਤਾ ਕੋਡ ਤਿਆਰ ਕਰਨ ਲਈ ਸਰਲ ਐਪਲੀਕੇਸ਼ਨ ਹੈ।</p>
+    <p lang="oc">Aplicacion simpla de generacion de còdis d’autentificacion a dos factors.</p>
+    <p lang="nn">Enkelt program for å generere to-faktor autentiseringskoder.</p>
+    <p lang="nl">Eenvoudige toepassing voor het genereren van codes voor authenticatie in twee stappen.</p>
+    <p lang="nb">Enkelt program for å generere to-faktor autentiseringskoder.</p>
+    <p lang="ms">Aplikasi mudah untuk menjana Kod Pengesahan Dua Langkah</p>
+    <p lang="ko">이중 인증 코드를 만드는 간단한 프로그램입니다.</p>
+    <p lang="ja">シンプルな二要素認証コード生成アプリケーションです。</p>
+    <p lang="it">Semplice applicazione per generare codici di autenticazione a due fattori.</p>
+    <p lang="id">Aplikasi sederhana yang menghasilkan Kode Autentikasi Dua Faktor, dibuat untuk GNOME.</p>
+    <p lang="hu">Egyszerű alkalmazás kétlépcsős hitelesítő kódok előállítására.</p>
+    <p lang="hr">Jednostavna aplikacija za stvaranje dvofaktorskih kôdova.</p>
+    <p lang="he">יישום פשוט ליצירת קודים לאימות דו־שלבי.</p>
+    <p lang="gl">Unha aplicación sinxela para xerar Códigos de autenticación de Doble factor.</p>
+    <p lang="fur">Semplice aplicazion par gjenerâ codiçs di autenticazion a doi fatôrs.</p>
+    <p lang="fr">Une application simple pour générer des codes d’authentification à deux facteurs.</p>
+    <p lang="fi">Yksinkertainen sovellus, joka luo kaksivaiheisia todennuskoodeja.</p>
+    <p lang="eu">Bi faktoreko autentifikazio-kodeak sortzeko aplikazio sinplea.</p>
+    <p lang="es">Aplicación sencilla para generar códigos de autenticación de doble factor.</p>
+    <p lang="en_GB">Simple application for generating Two-Factor Authentication Codes.</p>
+    <p lang="de">Eine einfache Anwendung, um Zwei-Faktor-Authentifizierungscodes zu erzeugen.</p>
+    <p lang="da">Simpelt program til GNOME der genererer tofaktorgodkendelseskoder.</p>
+    <p lang="cs">Jednoduchá aplikace pro generování dvoufaktorových autentizačních kódů.</p>
+    <p>Features:</p>
+    <p lang="zh_CN">功能：</p>
+    <p lang="uk">Можливості:</p>
+    <p lang="tr">Özellikler:</p>
+    <p lang="sv">Funktioner:</p>
+    <p lang="sr">Одлике:</p>
+    <p lang="sl">Zmožnosti:</p>
+    <p lang="sk">Funkcie:</p>
+    <p lang="ru">Возможности:</p>
+    <p lang="ro">Funcționalități:</p>
+    <p lang="pt_BR">Características:</p>
+    <p lang="pt">Funcionalidades:</p>
+    <p lang="pl">Funkcje:</p>
+    <p lang="pa">ਫੀਚਰ:</p>
+    <p lang="oc">Foncionalitats :</p>
+    <p lang="nn">Funksjoner:</p>
+    <p lang="nl">Functies:</p>
+    <p lang="nb">Funksjoner:</p>
+    <p lang="ms">Ciri-ciri:</p>
+    <p lang="ko">기능:</p>
+    <p lang="ja">特徴:</p>
+    <p lang="it">Funzionalità:</p>
+    <p lang="id">Fitur:</p>
+    <p lang="hu">Funkciók:</p>
+    <p lang="hr">Značajke:</p>
+    <p lang="he">יכולות:</p>
+    <p lang="gl">Características:</p>
+    <p lang="fur">Funzionalitâts:</p>
+    <p lang="fr">Fonctionnalités :</p>
+    <p lang="fi">Ominaisuudet:</p>
+    <p lang="eu">Eginbideak:</p>
+    <p lang="es">Características:</p>
+    <p lang="en_GB">Features:</p>
+    <p lang="el">Χαρακτηριστικά:</p>
+    <p lang="de">Funktionen:</p>
+    <p lang="da">Funktioner:</p>
+    <p lang="cs">Funkce:</p>
+    <p lang="ca">Funcionalitats:</p>
+    <p lang="ar">اضافات:</p>
+    <ul>
+      <li>Time-based/Counter-based/Steam methods support</li>
+      <li lang="zh_CN">支持基于时间/计数器和 Steam 等方式</li>
+      <li lang="uk">На основі часу/На основі лічильника/Підтримка методів Steam</li>
+      <li lang="tr">Zaman temelli/Sayaç Temelli/Akış yöntemleri desteği</li>
+      <li lang="sv">Tidsbaserade/räknarbaserade/Steam-metoder stöds</li>
+      <li lang="sr">Подршка метода занованих на времену/бројачу/Steam-у</li>
+      <li lang="sl">Podpora za Steam, časovno, števčno zaklepanje</li>
+      <li lang="ru">Поддержка методов, основанных на Времени/Счетчиках/Steam</li>
+      <li lang="ro">Suport pentru metode bazate pe timp/bazate pe numărare/Steam</li>
+      <li lang="pt_BR">Suporte a métodos Steam/baseados em tempo/baseados em contador</li>
+      <li lang="pt">Suporte a métodos Steam/baseados em tempo/baseados em contador</li>
+      <li lang="pl">Obsługa metod na podstawie czasu/licznika/Steam</li>
+      <li lang="pa">ਸਮਾਂ-ਅਧਾਰਿਤ/ਗਿਣਤੀ-ਅਧਾਰਿਤ/ਸਟੀਮ ਢੰਗ ਸਹਾਇਕ</li>
+      <li lang="nn">Tidsbasert/Tellerbasert/Steam-basert metodestøtte</li>
+      <li lang="nl">Ondersteuning voor Time-based/Counter-based/Steam-methoden</li>
+      <li lang="nb">Tidsbasert/Tellerbasert/Steam-basert metodestøtte</li>
+      <li lang="ms">Sokongan Berdasarkan masa/Berdasarkan pembilang/Kaedah Steam</li>
+      <li lang="ko">시간 기반/카운터 기반/스팀 방식 지원</li>
+      <li lang="it">Supporto per metodi basati sul tempo/basati su un contatore/Steam</li>
+      <li lang="id">Dukungan metode Berbasis Waktu/Pencacah/Steam</li>
+      <li lang="hu">Időalapú/számlálóalapú/Steam módszerek támogatása</li>
+      <li lang="hr">Podrška za vremenske/brojčane/steam načine</li>
+      <li lang="he">תמיכה בשיטות מבוססות זמן/מבוססות מונה/Steam</li>
+      <li lang="gl">Compatibilidade dos métodos Baseado-en-tempo/Baseado-en-contador/Steam</li>
+      <li lang="fur">Supuart dai metodis basâts su timp/su contadôr/Steam</li>
+      <li lang="fr">Prise en charge des méthodes basées sur le temps, les compteurs, ou Steam</li>
+      <li lang="fi">Tuki seuraaville menetelmille: aikaperusteisuus, laskuriperusteisuus ja Steam</li>
+      <li lang="eu">Denboran oinarritua/Kontagailuan oinarritua/Steam metodoen euskarria</li>
+      <li lang="es">Soporte para métodos Basado en tiempo/Basado en contador/Steam</li>
+      <li lang="en_GB">Time-based/Counter-based/Steam methods support</li>
+      <li lang="de">Unterstützung für die zeitbasierte/zählerbasierte/Steam-Methode</li>
+      <li lang="da">Understøttelse af metoderne tidsbaseret/tællerbaseret/Steam</li>
+      <li lang="cs">Podpora časových/čítačových/Steam metod</li>
+      <li>SHA-1/SHA-256/SHA-512 algorithms support</li>
+      <li lang="zh_CN">支持 SHA-1/SHA-256/SHA-512 算法</li>
+      <li lang="uk">Підтримка алгоритмів SHA-1/SHA-256/SHA-512</li>
+      <li lang="tr">SHA-1/SHA-256/SHA-512 algoritmalarını destekler</li>
+      <li lang="sv">SHA-1/SHA-256/SHA-512-algoritmer stöds</li>
+      <li lang="sr">Подршка алгоритама SHA-1/SHA-256/SHA-512</li>
+      <li lang="sl">Podpora algoritmom SHA1/SHA256/SHA512</li>
+      <li lang="ru">Поддержка алгоритмов SHA-1/SHA-256/SHA-512</li>
+      <li lang="ro">Suport pentru algoritmii SHA-1/SHA-256/SHA-512</li>
+      <li lang="pt_BR">Suporte a algoritmos SHA-1/SHA-256/SHA-512</li>
+      <li lang="pt">Suporte a algoritmos SHA-1/SHA-256/SHA-512</li>
+      <li lang="pl">Obsługa algorytmów SHA-1/SHA-256/SHA-512</li>
+      <li lang="pa">SHA-1/SHA-256/SHA-512 ਐਲਗੋਰਿਥਮ ਸਹਾਇਕ</li>
+      <li lang="oc">Algoritmes SHA-1/SHA-256/SHA-512 preses en cargar</li>
+      <li lang="nn">SHA-1/SHA-256/SHA-512 algoritmestøtte</li>
+      <li lang="nl">Ondersteuning SHA-1/SHA-256/SHA-512 algoritmen</li>
+      <li lang="nb">SHA-1/SHA-256/SHA-512 algoritmestøtte</li>
+      <li lang="ms">Sokongan algoritma SHA-1/SHA-256/SHA-512</li>
+      <li lang="ko">SHA-1/SHA-256/SHA-512 알고리즘 지원</li>
+      <li lang="it">Supporto per gli algoritmi SHA-1/SHA-256/SHA-512</li>
+      <li lang="id">Dukungan algoritma SHA-1/SHA-256/SHA-512</li>
+      <li lang="hu">SHA-1/SHA-256/SHA-512 algoritmusok támogatása</li>
+      <li lang="hr">SHA-1/SHA-256/SHA-512 algoritamska podrška</li>
+      <li lang="he">תמיכה באלגוריתמים SHA-1/‏SHA-256/‏SHA-512</li>
+      <li lang="gl">Compatibilidade cos algoritmos SHA-1/SHA-256/SHA-512</li>
+      <li lang="fur">Supuart dai algoritmis SHA-1/SHA-256/SHA-512</li>
+      <li lang="fr">Prise en charge des algorithmes SHA-1/SHA-256/SHA-512</li>
+      <li lang="fi">SHA-1/SHA-256/SHA-512-algoritmien tuki</li>
+      <li lang="eu">SHA-1/SHA-256/SHA-512 algoritmoen euskarria</li>
+      <li lang="es">Soporte de algoritmos SHA-1/SHA-256/SHA-512</li>
+      <li lang="en_GB">SHA-1/SHA-256/SHA-512 algorithms support</li>
+      <li lang="el">Υποστήριξη αλγορίθμων SHA-1/SHA-256/SHA-512</li>
+      <li lang="de">Unterstützung für SHA-1/SHA-256/SHA-512-Algorithmen</li>
+      <li lang="da">Understøttelse af algoritmerne SHA-1/SHA-256/SHA-512</li>
+      <li lang="cs">Podpora algoritmů SHA-1/SHA-256/SHA-512</li>
+      <li>QR code scanner using a camera or from a screenshot</li>
+      <li lang="zh_CN">使用摄像头或者截图的二维码扫描器</li>
+      <li lang="uk">Сканування кодів QR за допомогою камери або зі знімка вікна</li>
+      <li lang="tr">Kamera kullanarak veya ekran görüntüsünden QR kod tarayıcı</li>
+      <li lang="sv">QR-kodskanner med en kamera eller från en skärmbild</li>
+      <li lang="sr">Скенирање QR кода коришћењем фото-апарата или снимка екрана</li>
+      <li lang="sl">Bralnik kode QR s kamero ali prek zajete slike zaslona</li>
+      <li lang="ru">Сканер QR-кодов использующий камеру или скриншот</li>
+      <li lang="ro">Scaner de coduri QR folosind o cameră sau dintr-o captură de ecran</li>
+      <li lang="pt_BR">Leitor de código QR usando uma câmera ou a partir de uma captura de tela</li>
+      <li lang="pt">Leitor de código QR usando uma câmara ou a partir de uma captura de ecrã</li>
+      <li lang="pl">Skanowanie kodów QR za pomocą aparatu lub ze zrzutu ekranu</li>
+      <li lang="pa">ਕੈਮਰਾ ਵਰਤ ਕੇ ਜਾਂ ਸਕਰੀਨਸ਼ਾਟ ਤੋਂ QR ਕੋਡ ਸਕੈਨਰ</li>
+      <li lang="nn">Skann QR-kode ved hjelp av et kamera eller fra et skjermbilde</li>
+      <li lang="nl">QR-codescanner met behulp van een camera of vanaf een schermafdruk</li>
+      <li lang="nb">Skann QR-kode ved hjelp av et kamera eller fra et skjermbilde</li>
+      <li lang="ms">Pengimbas kod QR menggunakan kamera atau tangkapan skrin</li>
+      <li lang="ko">카메라 또는 스크린샷을 활용한 QR 코드 스캐너</li>
+      <li lang="it">Scanner per codice QR utilizzando una fotocamera o da uno screenshot</li>
+      <li lang="id">Pemindai kode QR menggunakan kamera atau dari cuplikan layar</li>
+      <li lang="hu">QR-kód leolvasó kamera használatával vagy képernyőképről</li>
+      <li lang="hr">Skener QR kôdova koji koristi kameru ili snimku zaslona</li>
+      <li lang="he">סורק קודים מסוג QR באמצעות מצלמה או מצילום מסך</li>
+      <li lang="gl">Escáner de código QR usando unha cámara ou desde unha captura de pantalla</li>
+      <li lang="fur">Scansion codiç QR doprant une fotocjamare o di une cature di videade</li>
+      <li lang="fr">Scanneur de code QR utilisant l’appareil photo ou une capture d’écran</li>
+      <li lang="fi">QR-koodin lukeminen käyttäen kameraa tai kuvakaappausta</li>
+      <li lang="eu">QR kodeen eskanerra kamera bat erabilita edo pantaila-argazki bat erabilita</li>
+      <li lang="es">Analizador de códigos QR usando la cámara o a partir de una captura de pantalla</li>
+      <li lang="en_GB">QR code scanner using a camera or from a screenshot</li>
+      <li lang="de">QR-Code-Scanner, per Kamera oder von einem Bildschirmfoto</li>
+      <li lang="da">QR-kodeskanner med et kamera eller fra et skærmbillede</li>
+      <li lang="cs">Čtení QR kódů pomocí kamery/fotoaparátu nebo ze snímku obrazovky</li>
+      <li>Lock the application with a password</li>
+      <li lang="zh_CN">可使用密码锁定应用程序</li>
+      <li lang="uk">Замикання програми за допомогою пароля</li>
+      <li lang="tr">Uygulamayı parolayla kilitle</li>
+      <li lang="sv">Lås programmet med ett lösenord</li>
+      <li lang="sr">Закључавање програма лозинком</li>
+      <li lang="sl">Zaklepanje programa z geslom</li>
+      <li lang="ru">Заблокировать приложение с помощью пароля</li>
+      <li lang="ro">Blochează aplicația cu o parolă</li>
+      <li lang="pt_BR">Bloqueie o aplicativo com uma senha</li>
+      <li lang="pt">Bloquear a aplicação com uma palavra-passe</li>
+      <li lang="pl">Blokowanie programu za pomocą hasła</li>
+      <li lang="pa">ਐਪਲੀਕੇਸ਼ਨ ਨੂੰ ਪਾਸਵਰਡ ਨਾਲ ਲਾਕ ਕਰੋ</li>
+      <li lang="oc">Verrolhar l’aplicacion amb un senhal</li>
+      <li lang="nn">Lås programmet med et passord</li>
+      <li lang="nl">Toepassing vergrendelen met een wachtwoord</li>
+      <li lang="nb">Lås programmet med et passord</li>
+      <li lang="ms">Kunci aplikasi dengan kata kunci</li>
+      <li lang="ko">암호로 프로그램 잠금</li>
+      <li lang="it">Blocca l'applicazione con una password</li>
+      <li lang="id">Kunci aplikasi dengan kata sandi</li>
+      <li lang="hu">Az alkalmazás jelszavas zárolása</li>
+      <li lang="hr">Zaključaj aplikaciju s lozinkom</li>
+      <li lang="he">נעילת היישום עם ססמה</li>
+      <li lang="gl">Bloquear a aplicación con unha contrasinal</li>
+      <li lang="fur">Bloche la aplicazion cuntune password</li>
+      <li lang="fr">Verrouillage de l’application avec un mot de passe</li>
+      <li lang="fi">Lukitse sovellus salasanalla</li>
+      <li lang="eu">Blokeatu aplikazioa pasahitz batekin</li>
+      <li lang="es">Bloquear la aplicación con una contraseña</li>
+      <li lang="en_GB">Lock the application with a password</li>
+      <li lang="de">Anwendung mit Passwort sperren</li>
+      <li lang="da">Lås programmet med en adgangskode</li>
+      <li lang="cs">Uzamykání aplikaci heslem</li>
+      <li>Beautiful UI</li>
+      <li lang="zh_CN">美观的用户界面</li>
+      <li lang="uk">Чудовий інтерфейс користувача</li>
+      <li lang="tr">Mükemmel kullanıcı arayüzü</li>
+      <li lang="sv">Vackert användargränssnitt</li>
+      <li lang="sr">Лепо корисничко сучеље</li>
+      <li lang="sl">Prefinjen grafični vmesnik</li>
+      <li lang="sk">Krásne užívateľské rozhranie</li>
+      <li lang="ru">Прекрасный Пользовательский Интерфейс</li>
+      <li lang="ro">UI frumos</li>
+      <li lang="pt_BR">Uma interface de usuário bonita</li>
+      <li lang="pt">Boa interface de utilizador</li>
+      <li lang="pl">Piękny interfejs</li>
+      <li lang="pa">ਸੋਹਣਾ UI</li>
+      <li lang="oc">Interfàcia crana</li>
+      <li lang="nn">Vakkert grensesnitt</li>
+      <li lang="nl">Prachtige vormgeving</li>
+      <li lang="nb">Vakkert grensesnitt</li>
+      <li lang="ms">UI yang cantik</li>
+      <li lang="ko">아름다운 UI</li>
+      <li lang="ja">美しい UI</li>
+      <li lang="it">Bella interfaccia utente</li>
+      <li lang="id">UI yang indah</li>
+      <li lang="hu">Gyönyörű felhasználói felület</li>
+      <li lang="hr">Prekrasno korisničko sučelje</li>
+      <li lang="he">מנשק משתמש יפהפה</li>
+      <li lang="gl">UI bonita</li>
+      <li lang="fur">Biele interface utent</li>
+      <li lang="fr">Interface élégante</li>
+      <li lang="fi">Nätti käyttöliittymä</li>
+      <li lang="eu">Interfaze grafiko ederra</li>
+      <li lang="es">Excelente interfaz de usuario</li>
+      <li lang="en_GB">Beautiful UI</li>
+      <li lang="de">Hübsche Benutzeroberfläche</li>
+      <li lang="da">Smuk brugerflade</li>
+      <li lang="cs">Hezké uživatelské rozhraní</li>
+      <li lang="ca">Una interfície bonica</li>
+      <li lang="ar">واجهة مستخدم جميلة</li>
+      <li>GNOME Shell search provider</li>
+      <li lang="zh_CN">GNOME Shell 搜索提供者</li>
+      <li lang="uk">Надавач даних пошуку GNOME Shell</li>
+      <li lang="tr">GNOME Kabuk arama sağlayıcısı</li>
+      <li lang="ru">Провайдер поиска GNOME Shell</li>
+      <li lang="pt_BR">O provedor de serviço do GNOME Shell</li>
+      <li lang="pt">Provedor de pesquisa GNOME Shell</li>
+      <li lang="pl">Dostawca wyszukiwania w Powłoce GNOME</li>
+      <li lang="nn">GNOME-skallsøktilbyder</li>
+      <li lang="nb">GNOME-skallsøktilbyder</li>
+      <li lang="it">Provider di ricerca per GNOME Shell</li>
+      <li lang="id">Penyedia pencarian GNOME Shell</li>
+      <li lang="he">ספק חיפוש למעטפת GNOME</li>
+      <li lang="fr">Fournisseur de recherche de GNOME Shell</li>
+      <li lang="fi">Gnome Shellin hakupalvelun tarjoaja</li>
+      <li>Backup/Restore from/into known applications like FreeOTP+, Aegis (encrypted / plain-text), andOTP, Google Authenticator</li>
+    </ul>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://gitlab.gnome.org/World/Authenticator/raw/master/data/screenshots/screenshot1.png</image>
+      <caption>Main Window</caption>
+      <caption lang="zh_CN">主窗口</caption>
+      <caption lang="uk">Головне вікно</caption>
+      <caption lang="tr">Ana Pencere</caption>
+      <caption lang="sv">Huvudfönster</caption>
+      <caption lang="sr">Главни прозор</caption>
+      <caption lang="sl">Glavno okno</caption>
+      <caption lang="ru">Главное Окно</caption>
+      <caption lang="ro">Fereastră principală</caption>
+      <caption lang="pt_BR">Janela principal</caption>
+      <caption lang="pt">Janela principal</caption>
+      <caption lang="pl">Główne okno</caption>
+      <caption lang="pa">ਮੁੱਖ ਵਿੰਡੋ</caption>
+      <caption lang="oc">Fenèstra principala</caption>
+      <caption lang="nn">Hovedvindu</caption>
+      <caption lang="nl">Hoofdvenster</caption>
+      <caption lang="nb">Hovedvindu</caption>
+      <caption lang="ms">Tetingkap utama</caption>
+      <caption lang="ko">메인 창</caption>
+      <caption lang="ja">メインウィンドウ</caption>
+      <caption lang="it">Finestra principale</caption>
+      <caption lang="id">Jendela Utama</caption>
+      <caption lang="hu">Főablak</caption>
+      <caption lang="hr">Glavni prozor</caption>
+      <caption lang="he">חלון ראשי</caption>
+      <caption lang="gl">Xanela principal</caption>
+      <caption lang="fur">Barcon principâl</caption>
+      <caption lang="fr">Fenêtre principale</caption>
+      <caption lang="fi">Pääikkuna</caption>
+      <caption lang="eu">Leiho nagusia</caption>
+      <caption lang="es">Ventana principal</caption>
+      <caption lang="en_GB">Main Window</caption>
+      <caption lang="el">Κυρίως παράθυρο</caption>
+      <caption lang="de">Hauptfenster</caption>
+      <caption lang="da">Hovedvindue</caption>
+      <caption lang="cs">Hlavní okno</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.gnome.org/World/Authenticator/raw/master/data/screenshots/screenshot2.png</image>
+      <caption>Add a New Account</caption>
+      <caption lang="zh_CN">添加新帐号</caption>
+      <caption lang="uk">Додавання нового облікового запису</caption>
+      <caption lang="tr">Yeni Hesap Ekle</caption>
+      <caption lang="sv">Lägg till ett nytt konto</caption>
+      <caption lang="sr">Додајте нови налог</caption>
+      <caption lang="sl">Dodaj račun</caption>
+      <caption lang="ru">Добавить Новый Аккаунт</caption>
+      <caption lang="ro">Adaugă un cont nou</caption>
+      <caption lang="pt_BR">Adição de uma nova conta</caption>
+      <caption lang="pt">Adição de uma nova conta</caption>
+      <caption lang="pl">Dodawanie nowego konta</caption>
+      <caption lang="pa">ਨਵਾਂ ਖਾਤਾ ਜੋੜੋ</caption>
+      <caption lang="oc">Apondre un compte novèl</caption>
+      <caption lang="nn">Legg til ny konto</caption>
+      <caption lang="nl">Nieuwe account toevoegen</caption>
+      <caption lang="nb">Legg til ny konto</caption>
+      <caption lang="ms">Tambah Akaun Baharu</caption>
+      <caption lang="ko">새 계정 추가</caption>
+      <caption lang="it">Aggiungi un nuovo account</caption>
+      <caption lang="id">Tambah Akun Baru</caption>
+      <caption lang="hu">Új fiók hozzáadása</caption>
+      <caption lang="hr">Dodaj novi račun</caption>
+      <caption lang="he">הוספת חשבון חדש</caption>
+      <caption lang="gl">Engadir unha nova conta</caption>
+      <caption lang="fur">Zonte un gnûf account</caption>
+      <caption lang="fr">Ajouter un nouveau compte</caption>
+      <caption lang="fi">Lisää uusi tili</caption>
+      <caption lang="eu">Gehitu kontu berria</caption>
+      <caption lang="es">Añadir una cuenta nueva</caption>
+      <caption lang="en_GB">Add a New Account</caption>
+      <caption lang="el">Προσθήκη νέου λογαριασμού</caption>
+      <caption lang="de">Neues Konto hinzufügen</caption>
+      <caption lang="da">Tilføj en ny konto</caption>
+      <caption lang="cs">Přidat nový účet</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.gnome.org/World/Authenticator/raw/master/data/screenshots/screenshot3.png</image>
+      <caption>Add a New Provider</caption>
+      <caption lang="zh_CN">添加新提供方</caption>
+      <caption lang="uk">Додавання нового надавача даних</caption>
+      <caption lang="tr">Yeni Sağlayıcı Ekle</caption>
+      <caption lang="sv">Lägg till en ny leverantör</caption>
+      <caption lang="sr">Додајте новог достављача</caption>
+      <caption lang="sl">Dodaj novega ponudnika</caption>
+      <caption lang="ru">Добавить Нового Провайдера</caption>
+      <caption lang="ro">Adaugă un furnizor nou</caption>
+      <caption lang="pt_BR">Adição de um novo provedor</caption>
+      <caption lang="pt">Adição de um novo provedor</caption>
+      <caption lang="pl">Dodawanie nowego dostawcy</caption>
+      <caption lang="pa">ਨਵਾਂ ਪੂਰਕ ਜੋੜੋ</caption>
+      <caption lang="oc">Apondre un provesidor novèl</caption>
+      <caption lang="nn">Legg til ny leverandør</caption>
+      <caption lang="nl">Nieuwe provider toevoegen</caption>
+      <caption lang="nb">Legg til ny leverandør</caption>
+      <caption lang="ms">Tambah Pembekal Baharu</caption>
+      <caption lang="ko">새 제공자 추가</caption>
+      <caption lang="it">Aggiungi un nuovo provider</caption>
+      <caption lang="id">Tambah Penyedia Baru</caption>
+      <caption lang="hu">Új szolgáltató hozzáadása</caption>
+      <caption lang="hr">Dodaj novog pružatelja usluga</caption>
+      <caption lang="he">הוספת ספק חדש</caption>
+      <caption lang="gl">Engadir un novo fornecedor</caption>
+      <caption lang="fur">Zonte un gnûf furnidôr</caption>
+      <caption lang="fr">Ajouter un nouveau fournisseur</caption>
+      <caption lang="fi">Lisää uusi palveluntarjoaja</caption>
+      <caption lang="eu">Gehitu hornitzaile berria</caption>
+      <caption lang="es">Añadir un proveedor nuevo</caption>
+      <caption lang="en_GB">Add a New Provider</caption>
+      <caption lang="el">Προσθήκη νέου παρόχου</caption>
+      <caption lang="de">Neuen Anbieter hinzufügen</caption>
+      <caption lang="da">Tilføj en ny udbyder</caption>
+      <caption lang="cs">Přidat nového poskytovatele</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.gnome.org/World/Authenticator/raw/master/data/screenshots/screenshot4.png</image>
+      <caption>Account Details</caption>
+      <caption lang="zh_CN">帐号详情</caption>
+      <caption lang="uk">Параметри облікового запису</caption>
+      <caption lang="tr">Hesap Ayrıntıları</caption>
+      <caption lang="sv">Kontodetaljer</caption>
+      <caption lang="sr">Детаљи о налогу</caption>
+      <caption lang="sl">Podrobnosti računa</caption>
+      <caption lang="ru">Детали Аккаунта</caption>
+      <caption lang="ro">Detalii cont</caption>
+      <caption lang="pt_BR">Detalhes da conta</caption>
+      <caption lang="pt">Detalhes da conta</caption>
+      <caption lang="pl">Informacje o koncie</caption>
+      <caption lang="pa">ਖਾਤੇ ਦੇ ਵੇਰਵੇ</caption>
+      <caption lang="oc">Detalhs del comptes</caption>
+      <caption lang="nn">Kontodetaljer</caption>
+      <caption lang="nl">Accountgegevens</caption>
+      <caption lang="nb">Kontodetaljer</caption>
+      <caption lang="ms">Butiran akaun</caption>
+      <caption lang="ko">계정 세부 정보</caption>
+      <caption lang="it">Dettagli account</caption>
+      <caption lang="id">Detail Akun</caption>
+      <caption lang="hu">Fiók részletei</caption>
+      <caption lang="hr">Pojedinosti računa</caption>
+      <caption lang="he">פרטי חשבון</caption>
+      <caption lang="gl">Detalles da conta</caption>
+      <caption lang="fur">Detais Account</caption>
+      <caption lang="fr">Informations du compte</caption>
+      <caption lang="fi">Tilin tiedot</caption>
+      <caption lang="eu">Kontuaren xehetasunak</caption>
+      <caption lang="es">Detalles de la cuenta</caption>
+      <caption lang="en_GB">Account Details</caption>
+      <caption lang="el">Λεπτομέρειες λογαριασμού</caption>
+      <caption lang="de">Kontodetails</caption>
+      <caption lang="da">Kontodetaljer</caption>
+      <caption lang="cs">Podrobnosti účtu</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.gnome.org/World/Authenticator/raw/master/data/screenshots/screenshot5.png</image>
+      <caption>Backup/Restore formats support</caption>
+      <caption lang="zh_CN">支持的备份/恢复格式</caption>
+      <caption lang="uk">Підтримка форматів резервного копіювання/відновлення</caption>
+      <caption lang="tr">Yedekleme/Geri Yükleme biçimleri desteği</caption>
+      <caption lang="sv">Formatstöd för säkerhetskopiering/återställning</caption>
+      <caption lang="sr">Подршка формата прављења/враћања резерви</caption>
+      <caption lang="sl">Podpora zapisom varnostnega kopiranja in obnovitve</caption>
+      <caption lang="ru">Поддержка форматов резервного копирования/восстановления</caption>
+      <caption lang="ro">Formate suportate de copiere de rezervă/restaurare</caption>
+      <caption lang="pt_BR">Suporte a formatos de backup/restauração</caption>
+      <caption lang="pt">Suporte a formatos de cópia de segurança/restauro</caption>
+      <caption lang="pl">Obsługa formatów kopii zapasowej/przywracania</caption>
+      <caption lang="pa">ਬੈਕਅੱਪ/ਬਹਾਲ ਕਰਨ ਵਾਲੇ ਫਾਰਮੈਟਾਂ ਲਈ ਸਹਾਇਕ</caption>
+      <caption lang="nn">Støttede formater for sikkerhetskopiering/gjenoppretting</caption>
+      <caption lang="nl">Ondersteuning voor back-up/herstelformaten</caption>
+      <caption lang="nb">Støttede formater for sikkerhetskopiering/gjenoppretting</caption>
+      <caption lang="ms">Sokongan format Sandarkan/Pulihkan</caption>
+      <caption lang="ko">백업/복원 형식 지원</caption>
+      <caption lang="it">Formati di backup/ripristino supportati</caption>
+      <caption lang="id">Dukungan format Pencadangan/Pemulihan</caption>
+      <caption lang="hu">Biztonsági mentési/helyreállítási formátumok támogatása</caption>
+      <caption lang="hr">Podržani formati sigurnosnog kopiranja/obnove</caption>
+      <caption lang="he">תמיכה בתצורות גיבוי/שחזור</caption>
+      <caption lang="gl">Compatibilidade de formatos de Respaldo/Restauración</caption>
+      <caption lang="fur">Supuart di formâts di backup/ripristin</caption>
+      <caption lang="fr">Prise en charge de formats de sauvegarde/restauration</caption>
+      <caption lang="fi">Varmuuskopioinnin ja palautuksen muotojen tuki</caption>
+      <caption lang="eu">Babeskopien/leheneratzeen formatuen euskarria</caption>
+      <caption lang="es">Soporte de formatos de Respaldar/Restaurar</caption>
+      <caption lang="en_GB">Backup/Restore formats support</caption>
+      <caption lang="de">Unterstützung für Sicherungs-/Wiederherstellungs-Formate</caption>
+      <caption lang="da">Understøttelse af formater til sikkerhedskopiering/gendannelse</caption>
+      <caption lang="cs">Podpora formátů zálohy/obnovy</caption>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://gitlab.gnome.org/World/Authenticator</url>
+  <url type="bugtracker">https://gitlab.gnome.org/World/Authenticator/issues</url>
+  <url type="translate">https://l10n.gnome.org/module/authenticator/</url>
+  <url type="donation">https://liberapay.com/bielmoussaoui</url>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release version="4.1.6" date="2022-06-10">
+      <ul>
+        <li>Add Google Autenticator restore support</li>
+        <li>Disable Inspector on release builds</li>
+      </ul>
+    </release>
+    <release date="2022-06-06" version="4.1.5">
+      <description>Fix a crash when loading an account token</description>
+    </release>
+    <release date="2022-06-04" version="4.1.4">
+      <description>Fix fallback to host keyring and shell search provider results</description>
+    </release>
+    <release version="4.1.3" date="2022-05-31">
+      <description>Fallback to host keyring in case the portal is not available</description>
+    </release>
+    <release date="2022-05-29" version="4.1.2">
+      <description>Bugfixes release</description>
+      <ul>
+        <li>Fix a failure when importing from andOTP</li>
+        <li>Fix importing from Aegis if the database was encrypted with biometrics</li>
+        <li>Handle SVG favicons</li>
+        <li>Fix QR code scanning from a screenshot</li>
+        <li>Translations updates and other bugfixes</li>
+      </ul>
+    </release>
+    <release date="2022-04-22" version="4.1.1">
+      <description>Bugfixes release</description>
+      <ul>
+        <li>Restore the copy button</li>
+        <li>Add feedback when copying generated codes</li>
+        <li>Add feedback when updating/removing provider</li>
+        <li>Shell search: search on provider name as well</li>
+        <li>Fix Aegis backup restore if generated from a phone with a biometric key</li>
+        <li>Fixes a crash</li>
+      </ul>
+    </release>
+    <release version="4.1.0" date="2022-04-19">
+      <description>Encrypted backups are finally here!</description>
+      <ul>
+        <li>Port to GTK 4</li>
+        <li>Encrypted backup support</li>
+        <li>Use the camera portal for scanning QR codes</li>
+        <li>GNOME Shell search provider</li>
+        <li>Allow editing accounts provider</li>
+        <li>Better favicons detection</li>
+        <li>Refined user interface</li>
+        <li>Translations updates</li>
+        <li>Updated providers database</li>
+      </ul>
+    </release>
+    <release version="4.0.3" date="2021-03-26">
+      <description>
+        <ul>
+          <li>Properly unlock the keyring</li>
+          <li>Translations updates</li>
+        </ul>
+      </description>
+    </release>
+    <release version="4.0.2" date="2021-02-09">
+      <description>
+        <ul>
+          <li>Unlock the keyring as early as possible</li>
+          <li>Fix an issue with decoding longer tokens like Amazon</li>
+          <li>Translations updates</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-02-01" version="4.0.1">
+      <description>
+        <ul>
+          <li>Fix an issue with token validation</li>
+        </ul>
+      </description>
+    </release>
+    <release version="4.0.0" date="2021-01-31">
+      <description>
+        <ul>
+          <li>Rewrite in Rust</li>
+          <li>HOTP/Steam support</li>
+          <li>Scanning from a camera stream support</li>
+          <li>Backup/Restore from FreeOTP+</li>
+          <li>Backup/Restore from andOTP</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.32.2" date="2019-07-23">
+      <description>
+        <ul>
+          <li>Use the new libhandy Settings widget</li>
+          <li>Settings: add an auto lock timeout</li>
+          <li>Various fixes</li>
+          <li>Translations updates</li>
+        </ul>
+      </description>
+    </release>
+    <release version="3.32.1" date="2019-05-25">
+      <description>
+        <p>
+               HOTFIX: if you had an issue with your accounts being lost after the latest update, please update to this one.
+        </p>
+        <ul>
+          <li>Database migrations: ensure users won't lose their data in the future</li>
+          <li>Fix edit account issue</li>
+          <li>Improve the provider image widget</li>
+          <li>Translations updates</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-05-22" version="3.32">
+      <description>
+        <p>
+                Authenticator 3.32 is out! Here's an overview of what changed
+                Please backup your accounts before updating to the latest version and restore the data after update.
+        </p>
+        <ul>
+          <li>New settings window</li>
+          <li>Download provider images using their favicon if possible</li>
+          <li>Night Light feature: not working yet!</li>
+          <li>The possibility to enable/disable a password without having to reset everything</li>
+          <li>You can now add new providers and set images for providers that we didn't find an icon for</li>
+          <li>Mobile ready</li>
+          <li>New icon by Tobias Bernard</li>
+          <li>Click to copy the PIN on GNOME Shell Search provider results</li>
+          <li>Hide the results from Shell Search Provider if the application is locked</li>
+          <li>Bunch of fixed bugs</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.2.5" date="2018-09-11">
+      <description>
+        <p>
+          Since I have moved the application to GNOME Gitlab's World group, a Flatpak build for each new commit is available to download from the site's website.
+        </p>
+        <ul>
+          <li>Backup and restore from a basic JSON file</li>
+          <li>Backup and restore from an encrypted-GPG JSON file</li>
+          <li>Add andOTP support (free and open Android 2FA application)</li>
+          <li>New Settings window with 3 sections: appearance, behavior and backup</li>
+          <li>Fix Flatpak Build with the latest GNOME Runtime</li>
+          <li>Move the project to GNOME Gitlab's World group</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2018-09-10" version="0.2.4">
+      <description>
+        <ul>
+          <li>GNOME Shell Search provider</li>
+          <li>Codes expire simultaneously #91 </li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.2.3" date="2018-09-09">
+      <description>
+        <ul>
+          <li>Revamped main window to more closely follow the GNOME HIG</li>
+          <li>Revamped add a new account window to make it easier to use</li>
+          <li>Possibility to add an account from a provider not listed in the shipped database</li>
+          <li>Possibility to edit an account</li>
+          <li>One Time Password now visible by default</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.2.2.1" date="2018-09-03">
+      <description>
+        <ul>
+          <li>Fix python-dbus by using GDbus instead</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.2.2" date="2018-09-02">
+      <description>
+        <ul>
+          <li>Fix the QRScanner on GNOME Shell</li>
+          <li>Add a new entry for the account's username</li>
+          <li>Updated database of supported accounts</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.2.1" date="2018-03-22">
+      <description>
+        <ul>
+          <li>HOTFIX: App not running in DE other than GNOME</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.2" date="2018-03-16">
+      <description>
+        <ul>
+          <li>Rename project to Authenticator</li>
+          <li>Cleaner code base</li>
+          <li>Faster startup</li>
+          <li>Remove unneeded features</li>
+          <li>Switch to pyzbar instead of zbarlight</li>
+          <li>Flatpak package</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.1.1" date="2016-06-28" />
+    <release date="2016-06-22" version="0.1.0" />
+  </releases>
+  <kudos>
+    <!--
+        GNOME Software kudos:
+        https://gitlab.gnome.org/GNOME/gnome-software/blob/main/doc/kudos.md
+      -->
+    <kudo>ModernToolkit</kudo>
+    <kudo>SearchProvider</kudo>
+    <kudo>HighContrast</kudo>
+    <kudo>HiDpiIcon</kudo>
+  </kudos>
+  <recommends>
+    <control>keyboard</control>
+    <control>pointing</control>
+    <control>touch</control>
+  </recommends>
+  <requires>
+    <display_length compare="ge">360</display_length>
+  </requires>
+  <provides>
+    <id>com.github.bilelmoussaoui.Authenticator</id>
+  </provides>
+  <developer_name>Bilal Elmoussaoui</developer_name>
+  <developer_name lang="zh_CN">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="uk">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="tr">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="sv">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="sr">Билал Елмусауи</developer_name>
+  <developer_name lang="sl">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="sk">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="ru">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="ro">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="pt_BR">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="pt">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="pl">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="pa">ਬਿਲਾਲ ਇਲਮੌਸੋਈ</developer_name>
+  <developer_name lang="oc">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="nn">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="nl">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="nb">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="ms">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="ko">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="ja">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="id">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="hu">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="hr">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="he">בילאל אלמוסאווי</developer_name>
+  <developer_name lang="gl">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="fur">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="fr">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="fi">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="eu">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="es">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="en_GB">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="el">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="de">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="da">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="cs">Bilal Elmoussaoui</developer_name>
+  <developer_name lang="ca">Bilal Elmoussaoui</developer_name>
+  <update_contact>bilal.elmoussaoui@gnome.org</update_contact>
+  <translation type="gettext">authenticator</translation>
+  <launchable type="desktop-id">com.belmoussaoui.Authenticator.desktop</launchable>
+  <custom>
+    <value key="Purism::form_factor">workstation</value>
+    <value key="Purism::form_factor">mobile</value>
+  </custom>
+</component>

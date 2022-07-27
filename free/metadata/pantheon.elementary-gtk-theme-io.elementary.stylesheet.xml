@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="runtime">
+  <pkgname>pantheon.elementary-gtk-theme</pkgname>
+  <!-- NOTE: this ID format is required for automatic Flatpak theme matching -->
+  <id>org.gtk.Gtk3theme.elementary</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>Greenfield</name>
+  <name lang="uk">Greenfield</name>
+  <name lang="tr">Greenfield</name>
+  <name lang="ru">Greenfield</name>
+  <name lang="pt">Greenfield</name>
+  <name lang="pl">Greenfield</name>
+  <name lang="ja">Greenfield</name>
+  <name lang="he">גרינפילד</name>
+  <name lang="fr">Greenfield</name>
+  <name lang="en_GB">Greenfield</name>
+  <name lang="en_CA">Greenfield</name>
+  <name lang="en_AU">Greenfield</name>
+  <name lang="cs">Zelená louka</name>
+  <name lang="ca">Campverd</name>
+  <summary>The Gtk Stylesheet for elementary OS</summary>
+  <summary lang="uk">Таблиця стилів Gtk для elementary OS</summary>
+  <summary lang="tr">elementary OS için Gtk Stil Sayfası</summary>
+  <summary lang="ru">Таблица стилей Gtk для elementary OS</summary>
+  <summary lang="pt">A folha de estilos Gtk para o elementary OS</summary>
+  <summary lang="pl">Style GTK dla elementary OS</summary>
+  <summary lang="ja">elementary OS の Gtk スタイルシート</summary>
+  <summary lang="he">גיליון סגנון Gtk ל־elementary OS</summary>
+  <summary lang="fr">La feuille de style de Gtk pour elementary OS</summary>
+  <summary lang="en_GB">The Gtk Stylesheet for elementary OS</summary>
+  <summary lang="en_CA">The Gtk Stylesheet for elementary OS</summary>
+  <summary lang="en_AU">The Gtk Stylesheet for elementary OS</summary>
+  <summary lang="cs">Gtk tabulka stylů pro elementary OS</summary>
+  <summary lang="ca">L'estil de Gtk per a l'elementary OS</summary>
+  <description>
+    <p>An original Gtk.CSS stylesheet designed specifically for elementary OS and its desktop environment: Pantheon.</p>
+    <p lang="uk">Оригінальна таблиця стилів Gtk.CSS створена спеціально для elementary OS та її стільниці: Pantheon.</p>
+    <p lang="tr">elementary OS ve masaüstü ortamı için özel olarak tasarlanmış orijinal bir Gtk.CSS stil sayfası: Pantheon.</p>
+    <p lang="ru">Оригинальная таблица стилей Gtk.CSS разработана специально для elementary OS и ее среды рабочего стола: Pantheon.</p>
+    <p lang="pl">Oryginalny styl Gtk.CSS zaprojektowany specjalnie dla elementary OS i jego środowiska pulpitu: Pantheon.</p>
+    <p lang="ja">elementary OS とそのデスクトップ環境 (Pantheon) 用にデザインされた、オリジナルの Gtk.CSS スタイルシートです。</p>
+    <p lang="he">גיליון סגנון Gtk.CSS מקורי שעוצב במיוחד ל־elementary OS ולסביבת שולחן העבודה שלה: Pantheon.</p>
+    <p lang="fr">Une feuille de style Gtk.CSS originale conçue spécifiquement pour elementary OS et sont environnement de bureau : Pantheon.</p>
+    <p lang="en_GB">An original Gtk.CSS stylesheet designed specifically for elementary OS and its desktop environment: Pantheon.</p>
+    <p lang="en_CA">An original Gtk.CSS stylesheet designed specifically for elementary OS and its desktop environment: Pantheon.</p>
+    <p lang="en_AU">An original Gtk.CSS stylesheet designed specifically for elementary OS and its desktop environment: Pantheon.</p>
+    <p lang="cs">Původní Gtk.CSS tabulka stylů navržená konkrétně pro elementary OS a jeho desktopové prostředí: Pantheon.</p>
+    <p lang="ca">Un estil de Gtk.CSS original dissenyat específicament per a l'elementary OS i el seu entorn d'escriptori: Pantheon.</p>
+  </description>
+  <provides>
+    <id>io.elementary.stylesheet</id>
+  </provides>
+  <releases>
+    <release version="7.0.0" urgency="medium" date="2022-04-20">
+      <description>
+        <p>New Features:</p>
+        <ul>
+          <li>Support for Gtk4</li>
+        </ul>
+        <p>Fixes:</p>
+        <ul>
+          <li>Fix titlebar in GNOME Web 42</li>
+          <li>Fix font style for bold labels in some languages</li>
+          <li>ModelButtons: add margin between checks, radios, and labels</li>
+        </ul>
+      </description>
+    </release>
+    <release version="6.1.1" date="2021-11-23" urgency="medium">
+      <description>
+        <p>Improvements:</p>
+        <ul>
+          <li>Improve contrast of horizontal separators in dark style</li>
+        </ul>
+        <p>Fixes:</p>
+        <ul>
+          <li>Use the accent color for highlighting in IBus candidate window</li>
+          <li>Fix font style for title labels in headerbars</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-10-22" urgency="medium" version="6.1.0">
+      <description>
+        <ul>
+          <li>Support for Hdy.Tabbar</li>
+          <li>Fix accent class for Gtk.Scale</li>
+          <li>Flat titlebars inherit background color for views and sidebars</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-07-15" version="6.0.0" urgency="medium">
+      <description>
+        <ul>
+          <li>Complete redesign</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <content_rating type="oars-1.1" />
+  <translation type="gettext">io.elementary.stylesheet</translation>
+  <compulsory_for_desktop>Pantheon</compulsory_for_desktop>
+  <developer_name>elementary, Inc.</developer_name>
+  <developer_name lang="zh_CN">elementary, Inc.</developer_name>
+  <developer_name lang="uk">elementary, Inc.</developer_name>
+  <developer_name lang="tr">elementary, Inc.</developer_name>
+  <developer_name lang="ru">elementary, Inc.</developer_name>
+  <developer_name lang="pt">elementary, Inc.</developer_name>
+  <developer_name lang="pl">elementary, Inc.</developer_name>
+  <developer_name lang="nl">elementary, Inc.</developer_name>
+  <developer_name lang="ml">elementary, Inc.</developer_name>
+  <developer_name lang="ja">elementary, Inc.</developer_name>
+  <developer_name lang="hu">elementary, Inc.</developer_name>
+  <developer_name lang="he">elementary בע״מ.</developer_name>
+  <developer_name lang="fr">elementary, Inc.</developer_name>
+  <developer_name lang="en_GB">elementary, Inc.</developer_name>
+  <developer_name lang="en_CA">elementary, Inc.</developer_name>
+  <developer_name lang="en_AU">elementary, Inc.</developer_name>
+  <developer_name lang="de">elementary, Inc.</developer_name>
+  <developer_name lang="cs">elementary, Inc.</developer_name>
+  <developer_name lang="ckb">کۆمپانیای ئێلەمێنتەری هاوپشک.</developer_name>
+  <developer_name lang="ca">elementary, Inc.</developer_name>
+  <url type="homepage">https://elementary.io</url>
+  <url type="bugtracker">https://github.com/elementary/stylesheet/issues</url>
+</component>

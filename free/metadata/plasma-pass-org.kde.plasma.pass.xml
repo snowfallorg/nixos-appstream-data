@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>plasma-pass</pkgname>
+  <id>org.kde.plasma.pass</id>
+  <extends>org.kde.plasmashell</extends>
+  <name>Plasma Pass</name>
+  <name lang="ast">Plasma Pass</name>
+  <name lang="az">Plasma Pass</name>
+  <name lang="ca@valencia">Plasma Pass</name>
+  <name lang="ca">Plasma Pass</name>
+  <name lang="cs">Plasma Pass</name>
+  <name lang="da">Plasma Pass</name>
+  <name lang="de">Plasma Pass</name>
+  <name lang="el">Plasma Pass</name>
+  <name lang="en_GB">Plasma Pass</name>
+  <name lang="es">Plasma Pass</name>
+  <name lang="et">Plasma Pass</name>
+  <name lang="eu">Plasma Pass</name>
+  <name lang="fi">Plasma Pass</name>
+  <name lang="fr">Plasma Pass</name>
+  <name lang="gl">Pass para Plasma</name>
+  <name lang="hi">प्लाज़्मा पास</name>
+  <name lang="hu">Plasma Pass</name>
+  <name lang="ia">Plasma Pass</name>
+  <name lang="it">Plasma Pass</name>
+  <name lang="ko">Plasma 패스</name>
+  <name lang="lt">Plasma Pass</name>
+  <name lang="nl">Plasma Pass</name>
+  <name lang="nn">Plasma Pass</name>
+  <name lang="pa">ਪਲਾਜ਼ਮਾ ਪਾਸ</name>
+  <name lang="pl">Plazma Hasło</name>
+  <name lang="pt">Plasma Pass</name>
+  <name lang="pt_BR">Plasma Pass</name>
+  <name lang="ro">Plasma Pass</name>
+  <name lang="ru">Plasma Pass</name>
+  <name lang="sk">Plasma Pass</name>
+  <name lang="sl">Plasma Pass</name>
+  <name lang="sv">Plasma pass</name>
+  <name lang="uk">Паролі Плазми</name>
+  <name lang="x-test">xxPlasma Passxx</name>
+  <name lang="zh_CN">Plasma Pass</name>
+  <name lang="zh_TW">Plasma Pass</name>
+  <summary>Plasma applet to access passwords from the 'pass' password manager</summary>
+  <summary lang="ast">L'aplicación de Plasma p'acceder a les contraseñes del xestor de contraseñes pass</summary>
+  <summary lang="az">'pass' şifrə menecerindən şifrələrə giriş üçün Plasma əlavəsi</summary>
+  <summary lang="ca@valencia">Miniaplicació del Plasma per a accedir a les contrasenyes des del gestor de contrasenyes «pas»</summary>
+  <summary lang="ca">Miniaplicació del Plasma per a accedir a les contrasenyes des del gestor de contrasenyes «pas»</summary>
+  <summary lang="cs">Applet Plasma pro přístup k heslům ze správce hesel 'pass'</summary>
+  <summary lang="da">Plasma-applet til at få adgang til adgangskoder fra adgangskodehåndteringen 'pass'</summary>
+  <summary lang="de">Plasma-Miniprogramm für den Zugriff auf Passwörter Passwort-Verwaltung Pass</summary>
+  <summary lang="el">Μικροεφαρμογή του Plasma για την πρόσβαση σε κωδικούς από το διαχειριστή κωδικών πρόσβασης 'pass'</summary>
+  <summary lang="en_GB">Plasma applet to access passwords from the 'pass' password manager</summary>
+  <summary lang="es">Miniaplicación de Plasma para acceder a las contraseñas desde el gestor de contraseñas «pass»</summary>
+  <summary lang="et">Plasma aplett paroolihalduri 'pass' paroolide kasutamiseks</summary>
+  <summary lang="eu">«pass» pasahitz kudeatzailetik pasahitzak atzitzeko Plasma aplikaziotxo bat</summary>
+  <summary lang="fi">Plasma-sovelma salasanojen kyselemiseksi ”pass”-salasanahallinnasta</summary>
+  <summary lang="fr">Applet Plasma permettant d'accéder aux mots de passe du gestionnaire de mots de passe « pass »</summary>
+  <summary lang="gl">Miniaplicativo de Plasma para acceder aos contrasinais do xestor de contrasinais «pass»</summary>
+  <summary lang="hi">'pass' पासवर्ड प्रबंधक से पासवर्ड पहुँच के लिए प्लाज़्मा एप्पलेट</summary>
+  <summary lang="hu">Plasma kisalkalmazás a jelszavak elérésére a „pass” jelszókezelőben</summary>
+  <summary lang="ia">Applet de Plasma per acceder a contrasignos ex le gerente de contrasigno 'pass'</summary>
+  <summary lang="it">Applet per Plasma per accedere alle password dal gestore delle password «pass»</summary>
+  <summary lang="ko">'패스' 암호 관리자에 저장된 암호에 접근하는 Plasma 애플릿</summary>
+  <summary lang="lt">Plasma programėlė, skirta gauti prieigą prie slaptažodžių iš "pass" slaptažodžių tvarkytuvės</summary>
+  <summary lang="nl">Plasma-applet voor toegang tot wachtwoorden vanuit de wachtwoordenbeheerder pass</summary>
+  <summary lang="nn">Plasma-element for å få tilgang til passord frå passordhandsamaren «pass»</summary>
+  <summary lang="pa">'pass' ਪਾਸਵਰਡ ਮੈਨੇਜਰ ਤੋਂ ਪਾਸਵਰਡ ਵਰਤਣ ਲਈ ਪਲਾਜ਼ਮਾ ਐਪਲਿਟ ਹੈ</summary>
+  <summary lang="pl">Aplet Plazmy do dostępu do formularza hasła z programu do zarządzania hasłami</summary>
+  <summary lang="pt">Elemento do Plasma para aceder às senhas do gestor de senhas 'pass'</summary>
+  <summary lang="pt_BR">Miniaplicativo do Plasma para acessar as senhas do gerenciador de senhas 'pass'</summary>
+  <summary lang="ro">Miniaplicație Plasma pentru accesarea parolelor din gestionarul de parole „pass”</summary>
+  <summary lang="ru">Виджет для получения паролей из менеджера «pass»</summary>
+  <summary lang="sk">Aplet prostredia Plasma na prístup k heslám zo správcu hesiel "pass"</summary>
+  <summary lang="sl">Plazmin applet za dostop do gesel od upravitelja gesla 'pass'</summary>
+  <summary lang="sv">Plasma miniprogram för att komma åt lösenord från lösenordshanteraren 'pass'</summary>
+  <summary lang="uk">Аплет Плазми для доступу до паролів програми для керування паролями «pass»</summary>
+  <summary lang="x-test">xxPlasma applet to access passwords from the 'pass' password managerxx</summary>
+  <summary lang="zh_CN">从 'pass' 密码管理器访问密码的 Plasma 小程序</summary>
+  <summary lang="zh_TW">用來從「Pass」密碼管理程式存取密碼的 Plasma 元件</summary>
+  <url type="homepage">https://www.kde.org/plasma-desktop</url>
+  <url type="donation">https://www.kde.org/donate.php?app=org.kde.plasma.pass</url>
+  <developer_name>Daniel Vrátil &lt;dvratil@kde.org></developer_name>
+  <icon type="stock">lock</icon>
+  <project_license>GPL-2.0</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+</component>

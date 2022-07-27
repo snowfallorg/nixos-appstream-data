@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>fcitx5-unikey</pkgname>
+  <id>org.fcitx.Fcitx5.Addon.Unikey</id>
+  <extends>org.fcitx.Fcitx5</extends>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+ and LGPL-2.0+</project_license>
+  <name>Unikey</name>
+  <name lang="zh_TW">Unikey</name>
+  <name lang="zh_CN">Unikey</name>
+  <name lang="vi">Unikey</name>
+  <name lang="tr">Unikey</name>
+  <name lang="ru">Unikey</name>
+  <name lang="ko">유니키</name>
+  <name lang="ja">Unikey</name>
+  <name lang="fr">Unikey</name>
+  <name lang="de">Unikey</name>
+  <name lang="da">Unikey</name>
+  <name lang="ca">Unikey</name>
+  <summary>Vietnamese input method</summary>
+  <summary lang="zh_TW">越南語輸入法</summary>
+  <summary lang="zh_CN">越南语输入法</summary>
+  <summary lang="tr">Vietnamca giriş yöntemi</summary>
+  <summary lang="ru">Вьетнамский метод ввода</summary>
+  <summary lang="ko">베트남어 입력기</summary>
+  <summary lang="ja">ベトナム語入力メソッド</summary>
+  <summary lang="fr">Méthode de saisie vietnamienne</summary>
+  <summary lang="de">Vietnamesische Eingabemethode</summary>
+  <summary lang="da">Vietnamesisk-inputmetode</summary>
+  <url type="homepage">https://fcitx-im.org</url>
+  <url type="bugtracker">https://github.com/fcitx/fcitx5-unikey/issues</url>
+  <project_group>Fcitx</project_group>
+  <releases>
+    <release date="2022-07-03" version="5.0.11" />
+    <release date="2022-05-22" version="5.0.10" />
+    <release version="5.0.9" date="2022-03-09" />
+    <release version="5.0.8" date="2022-02-01" />
+    <release version="5.0.7" date="2021-12-04" />
+    <release date="2021-11-05" version="5.0.6" />
+    <release date="2021-08-29" version="5.0.5" />
+    <release date="2021-03-21" version="5.0.4" />
+    <release version="5.0.3" date="2021-02-18" />
+    <release version="5.0.2" date="2020-12-04" />
+    <release version="5.0.1" date="2020-12-03" />
+    <release date="2020-10-30" version="5.0.0" />
+  </releases>
+  <content_rating type="oars-1.1" />
+</component>

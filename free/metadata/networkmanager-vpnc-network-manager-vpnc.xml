@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>networkmanager-vpnc</pkgname>
+  <id>network-manager-vpnc</id>
+  <project_license>GPL-2.0+</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+  <extends>nm-connection-editor.desktop</extends>
+  <extends>gnome-control-center.desktop</extends>
+  <name>Legacy Cisco VPNC client</name>
+  <name lang="ca">Client antic Cisco VPNC</name>
+  <name lang="cs">Původní klient Cisco VPNC</name>
+  <name lang="da">Forældet VPNC-klient fra Cisco</name>
+  <name lang="de">VPNC-Client für veraltete Cisco-Systeme</name>
+  <name lang="es">Cliente VPNC heredado de Cisco</name>
+  <name lang="fr">Client VPN Cisco historique</name>
+  <name lang="fur">Client VPNC Cisco vecje maniere</name>
+  <name lang="hr">Zastarjeli Cisco VPNC klijent</name>
+  <name lang="hu">Örökölt Cisco VPNC kliens</name>
+  <name lang="id">Klien legacy Cisco VPNC</name>
+  <name lang="it">Vecchio client VPNC Cisco</name>
+  <name lang="lt">Pasenęs Cisco VPNC klientas</name>
+  <name lang="lv">Vecais Cisco VPNC klients</name>
+  <name lang="nl">Verouderde Cisco VPNC-cliënt</name>
+  <name lang="pl">Przestarzały klient Cisco VPNC</name>
+  <name lang="pt_BR">Cliente legado para Cisco VPNC</name>
+  <name lang="ro">Client VPNC Cisco de moștenire</name>
+  <name lang="ru">Устаревший клиент Cisco VPNC</name>
+  <name lang="sl">Odjemalec Cisco VPNC</name>
+  <name lang="sr">Стари Цисков ВПНЦ клијент</name>
+  <name lang="sr@latin">Stari Ciskov VPNC klijent</name>
+  <name lang="sv">Legacy Cisco VPNC-klient</name>
+  <name lang="tr">Eski Cisco VPNC istemcisi</name>
+  <name lang="uk">Клієнт для застарілих VPNC Cisco</name>
+  <name lang="zh_CN">传统思科 VPNC 客户端</name>
+  <summary>Client for Cisco IPsec virtual private networks</summary>
+  <summary lang="ca">Client per a xarxes privades virtuals Cisco IPsec</summary>
+  <summary lang="cs">Klient pro virtuální privátní sítě Cisco IPSec</summary>
+  <summary lang="da">Klient til virtuelle private IPsec-netværk fra Cisco</summary>
+  <summary lang="de">Client für Cisco-IPsec virtuelle private Netze</summary>
+  <summary lang="es">Cliente para redes privadas virtuales IPsec de Cisco</summary>
+  <summary lang="fi">Asiakasohjelmisto Cisco IPsec -erillisverkoille</summary>
+  <summary lang="fr">Client pour les réseaux privés virtuels IPsec Cisco</summary>
+  <summary lang="fur">Client par rêts privadis virtuâls IPsec Cisco</summary>
+  <summary lang="hr">Klijent za Cisco IPsec virtualne privatne mreže</summary>
+  <summary lang="hu">Kliens a Cisco IPsec virtuális magánhálózatokhoz</summary>
+  <summary lang="id">Klien untuk virtual private network IPsec Cisco</summary>
+  <summary lang="it">Client per reti private virtuali IPsec Cisco</summary>
+  <summary lang="lt">Cisco IPsec virtualių privačių tinklų klientas</summary>
+  <summary lang="lv">Cisco IPsec virtuālā privātā tīkla klients</summary>
+  <summary lang="nl">Cliënt voor Cisco IPsec-virtuele privénetwerken</summary>
+  <summary lang="pl">Klient dla wirtualnych sieci prywatnych IPsec firmy Cisco</summary>
+  <summary lang="pt_BR">Cliente para redes privadas virtuais IPsec da Cisco</summary>
+  <summary lang="ro">Client pentru rețele private virtuale IPsec Cisco</summary>
+  <summary lang="ru">Клиент для виртуальных приватных сетей Cisco IPsec</summary>
+  <summary lang="sk">Klient pre virtuálne súkromné siete Cisco IPsec</summary>
+  <summary lang="sl">Odjemalec za virtualna zasebna omrežja Cisco IPsec</summary>
+  <summary lang="sr">Клијент за Цискову ИПсец виртуелну приватну мрежу</summary>
+  <summary lang="sr@latin">Klijent za Ciskovu IPsec virtuelnu privatnu mrežu</summary>
+  <summary lang="sv">Klient för Cisco IPsec virtuella privata nätverk</summary>
+  <summary lang="tr">Cisco IPsec sanal özel ağları için istemci</summary>
+  <summary lang="uk">Клієнт для віртуальних приватних мереж IPsec Cisco</summary>
+  <summary lang="zh_CN">思科 IPsec 虚拟专用网络的客户端</summary>
+  <keywords>
+    <keyword>network</keyword>
+    <keyword>manager</keyword>
+    <keyword>NetworkManager</keyword>
+    <keyword>connection</keyword>
+    <keyword>VPN</keyword>
+    <keyword>VPNC</keyword>
+    <keyword>IPsec</keyword>
+    <keyword>Cisco</keyword>
+  </keywords>
+  <description>
+    <p>Support for configuring virtual private networks based on VPNC.</p>
+    <p lang="ca">Suport per a configurar xarxes privades virtuals basades en VPNC.</p>
+    <p lang="cs">Podpora nastavení sítí VPN založených na VPNC.</p>
+    <p lang="da">Understøttelse af konfigurering af virtuelle private netværk baseret på VPNC.</p>
+    <p lang="de">Unterstützung für die Konfiguration virtueller privater Netzverbindungen, die auf VPNC basieren.</p>
+    <p lang="es">Soporte para configurar redes privadas virtuales basadas en VPNC.</p>
+    <p lang="fr">Prise en charge de la configuration de réseaux privés virtuels basés sur VPNC.</p>
+    <p lang="fur">Supuart par configurâ rêts privadis virtuâls basadis su VPNC.</p>
+    <p lang="hr">Podrška za podešavanje virtualnih privatnih mreža temeljenih na VPNC-u.</p>
+    <p lang="hu">A VPNC alapú virtuális magánhálózatok beállításának támogatása.</p>
+    <p lang="id">Dukungan untuk menata virtual private network berbasis VPNC.</p>
+    <p lang="it">Supporta la configurazione di connessioni private virtuali basate su VPNC.</p>
+    <p lang="lt">VPNC pagrindo virtualių privačių tinklų konfigūracijos palaikymas.</p>
+    <p lang="lv">Atbalsts uz bāzēto VPNC virtuālo privāto konfigurēšanai.</p>
+    <p lang="nl">Ondersteuning voor configuratie van virtuele privénetwerken gebaseerd op VPNC.</p>
+    <p lang="pl">Obsługa konfigurowania wirtualnych sieci prywatnych opartych na VPNC.</p>
+    <p lang="pt_BR">Suporte a configuração de redes privadas virtuais baseadas em VPNC.</p>
+    <p lang="ro">Suport pentru configurarea de rețele private virtuale bazate pe VPNC.</p>
+    <p lang="ru">Поддержка настройки виртуальных частных сетей на основе VPNC.</p>
+    <p lang="sk">Podpora pre nastavenie virtuálnych súkromných sietí založených na VPNC.</p>
+    <p lang="sl">Podpora za nastavljanje navideznih zasebnih omrežij z VPNC.</p>
+    <p lang="sr">Подршка за подешавање виртуелних приватних мрежа заснованих на ВПНЦ-у.</p>
+    <p lang="sr@latin">Podrška za podešavanje virtuelnih privatnih mreža zasnovanih na VPNC-u.</p>
+    <p lang="sv">Stöd för att konfigurera virtuella privata nätverk baserade på VPNC.</p>
+    <p lang="tr">VPNC temelli sanal özel ağları yapılandırma desteği.</p>
+    <p lang="uk">Підтримка налаштовування віртуальних приватних мереж на основі VPNC.</p>
+    <p lang="zh_CN">支持配置基于 VPNC 的虚拟专用网络。</p>
+    <p>Compatible with Cisco VPN concentrators configured to use IPsec.</p>
+    <p lang="ca">Compatible amb concentradors Cisco VPN configurats per a usar IPsec.</p>
+    <p lang="cs">Kompatibilní s koncentrátory Cisco VPN nastavenými pro použití IPsec.</p>
+    <p lang="da">Kompatibel med Ciscos VPN-concentratorer konfigureret til at bruge IPsec.</p>
+    <p lang="de">Kompatibel mit Cisco-VPN-Konzentratoren, die für den Einsatz von IPsec konfiguriert sind.</p>
+    <p lang="es">Compatible con concentradores VPN de Cisco configurados para usar IPsec.</p>
+    <p lang="fr">Compatible avec les concentrateurs VPN Cisco configurés pour utiliser IPsec.</p>
+    <p lang="fur">Compatibil cui concentradôrs VPN Cisco configurâts par doprâ IPsec.</p>
+    <p lang="hr">Kompatibilno sa Cisco VPN koncentratorima podešenih za IPsec korištenje.</p>
+    <p lang="hu">Kompatibilis az IPsec használatára beállított Cisco VPN koncentrátorokkal</p>
+    <p lang="id">Kompatibel dengan konsentrator VPN Cisco yang ditata memakai IPsec.</p>
+    <p lang="it">Compatibile con i concentratori VPN Cisco configurati per utilizzare IPsec.</p>
+    <p lang="lt">Suderinamas su Cisco VPN koncentratoriais, sukonfigūruotas IPsec naudojimui.</p>
+    <p lang="lv">Savietojams ar Cisco VPN koncentratoriem, kas ir konfigurēti izmantot IPsec.</p>
+    <p lang="nl">Compatibel met Cisco VPN-concentratoren geconfigureerd voor gebruik met IPsec.</p>
+    <p lang="pl">Zgodne z koncentratorami VPN firmy Cisco skonfigurowanymi do używania IPsec.</p>
+    <p lang="pt_BR">Compatível com concentradores VPN da Cisco configurados para usar IPsec.</p>
+    <p lang="ro">Compatibil cu concentratorii VPN Cisco configurate pentru a utiliza IPsec.</p>
+    <p lang="ru">Совместимость с концентраторами Cisco VPN, настроенными на использование IPsec.</p>
+    <p lang="sk">Kompatibilná s koncentrátormi Cisco VPN nastavenými na používanie IPsec.</p>
+    <p lang="sl">Skladni združevalniki, nastavljeni za uporabo IPsec z Cisco VPN.</p>
+    <p lang="sr">Сагласно са Цисковим ВПН концентраторима подешеним за коришћење ИПсец-а.</p>
+    <p lang="sr@latin">Saglasno sa Ciskovim VPN koncentratorima podešenim za korišćenje IPsec-a.</p>
+    <p lang="sv">Kompatibel med Cisco VPN-koncentratorer konfigurerade att använda IPsec.</p>
+    <p lang="tr">IPsec kullanmak üzere yapılandırılmış Cisco VPN yoğunlaştırıcılarıyla uyumludur.</p>
+    <p lang="uk">Сумісний із концентраторами VPN Cisco, які налаштовано на використання IPsec.</p>
+    <p lang="zh_CN">与配置于使用 IPsec 的思科 VPN 集中器兼容。</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image height="572" width="800">https://gitlab.gnome.org/GNOME/NetworkManager-vpnc/raw/master/appdata/vpnc.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>The advanced options dialog</caption>
+      <image width="800" height="547">https://gitlab.gnome.org/GNOME/NetworkManager-vpnc/raw/master/appdata/vpnc-advanced.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://wiki.gnome.org/Projects/NetworkManager/VPN</url>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/NetworkManager-vpnc/issues</url>
+  <update_contact>networkmanager-maint@gnome.bugs</update_contact>
+  <translation type="gettext">NetworkManager-vpnc</translation>
+  <developer_name>The NetworkManager Developers</developer_name>
+  <developer_name lang="ca">Els desenvolupadors del NetworkManager</developer_name>
+  <developer_name lang="cs">Vývojáři aplikace NetworkManager</developer_name>
+  <developer_name lang="da">Udviklerne af Netværkshåndtering</developer_name>
+  <developer_name lang="de">Die Entwickler von NetworkManager</developer_name>
+  <developer_name lang="es">Los desarrolladores de NetworkManager</developer_name>
+  <developer_name lang="fi">NetworkManagerin kehittäjät</developer_name>
+  <developer_name lang="fr">Les développeurs NetworkManager</developer_name>
+  <developer_name lang="fur">I svilupadôrs di NetworkManager</developer_name>
+  <developer_name lang="hr">Razvijatelji mrežnog upravitelja</developer_name>
+  <developer_name lang="hu">A Hálózatkezelő fejlesztői</developer_name>
+  <developer_name lang="id">Para Pengembang NetworkManager</developer_name>
+  <developer_name lang="it">Gli sviluppatori di NetworkManager</developer_name>
+  <developer_name lang="lt">NetworkManager kūrėjai</developer_name>
+  <developer_name lang="lv">NetworkManager izstrādātāji</developer_name>
+  <developer_name lang="nl">De NetworkManager-ontwikkelaars</developer_name>
+  <developer_name lang="pl">Programiści projektu NetworkManager</developer_name>
+  <developer_name lang="pt_BR">Os desenvolvedores NetworkManager</developer_name>
+  <developer_name lang="ro">Dezvoltatorii ManagerRețea</developer_name>
+  <developer_name lang="ru">Разработчики NetworkManager</developer_name>
+  <developer_name lang="sk">Vývojári správcu siete NetworkManager</developer_name>
+  <developer_name lang="sl">Razvijalci programa NetworkManager</developer_name>
+  <developer_name lang="sr">Програмери Управника мреже</developer_name>
+  <developer_name lang="sr@latin">Programeri Upravnika mreže</developer_name>
+  <developer_name lang="sv">Utvecklarna av Nätverkshanteraren</developer_name>
+  <developer_name lang="tr">NetworkManager Geliştiricileri</developer_name>
+  <developer_name lang="uk">Розробники NetworkManager</developer_name>
+  <developer_name lang="zh_CN">NetworkManager 开发者</developer_name>
+</component>

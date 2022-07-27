@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+  <pkgname>amarok</pkgname>
+  <id>org.kde.amarok.currenttrack</id>
+  <name>Current Track</name>
+  <name lang="bg">Текущ запис</name>
+  <name lang="bs">Trenutna numera</name>
+  <name lang="ca@valencia">Peça actual</name>
+  <name lang="ca">Peça actual</name>
+  <name lang="cs">Aktuální stopa</name>
+  <name lang="csb">Biéżny sztëczk</name>
+  <name lang="da">Aktuelt spor</name>
+  <name lang="de">Aktuelles Stück</name>
+  <name lang="el">Τρέχον κομμάτι</name>
+  <name lang="en_GB">Current Track</name>
+  <name lang="es">Pista actual</name>
+  <name lang="et">Aktiivne pala</name>
+  <name lang="eu">Uneko pista</name>
+  <name lang="fa">شیار جاری</name>
+  <name lang="fi">Soiva kappale</name>
+  <name lang="fr">Piste actuelle</name>
+  <name lang="ga">An tAmhrán Reatha</name>
+  <name lang="gl">Pista actual</name>
+  <name lang="hu">Jelenlegi szám</name>
+  <name lang="id">Trek Saat Ini</name>
+  <name lang="is">Núverandi lag</name>
+  <name lang="it">Traccia attuale</name>
+  <name lang="ja">現在のトラック</name>
+  <name lang="km">បទបច្ចុប្បន្ន</name>
+  <name lang="ko">현재 트랙</name>
+  <name lang="lt">Dabartinė daina</name>
+  <name lang="lv">Aktīvais celiņš</name>
+  <name lang="nb">Gjeldende spor</name>
+  <name lang="nds">Aktuell Stück</name>
+  <name lang="nl">Huidige track</name>
+  <name lang="nn">Gjeldande spor</name>
+  <name lang="pa">ਮੌਜੂਦਾ ਟਰੈਕ</name>
+  <name lang="pl">Bieżący utwór</name>
+  <name lang="pt">Faixa Actual</name>
+  <name lang="pt_BR">Faixa atual</name>
+  <name lang="ro">Piesa curentă</name>
+  <name lang="ru">Текущая дорожка</name>
+  <name lang="sk">Aktuálna skladba</name>
+  <name lang="sl">Trenutna skladba</name>
+  <name lang="sr@ijekavian">Текућа нумера</name>
+  <name lang="sr@ijekavianlatin">Tekuća numera</name>
+  <name lang="sr@latin">Tekuća numera</name>
+  <name lang="sr">Текућа нумера</name>
+  <name lang="sv">Aktuellt spår</name>
+  <name lang="th">แทร็กปัจจุบัน</name>
+  <name lang="tr">Mevcut Parça</name>
+  <name lang="ug">نۆۋەتتىكى نەغمە</name>
+  <name lang="uk">Поточна композиція</name>
+  <name lang="wa">Boket do moumint</name>
+  <name lang="x-test">xxCurrent Trackxx</name>
+  <name lang="zh_CN">当前音轨</name>
+  <name lang="zh_TW">現在的曲目</name>
+  <summary>Current track applet for Amarok</summary>
+  <summary lang="ca@valencia">Miniaplicació de peça actual per a l'Amarok</summary>
+  <summary lang="ca">Miniaplicació de peça actual per a l'Amarok</summary>
+  <summary lang="cs">Applet pro současnou skladbu pro Amarok</summary>
+  <summary lang="da">Nuværende spor-applet til Amarok</summary>
+  <summary lang="el">Μικροεφαρμογή τρέχοντος κομματιού για το AmaroK</summary>
+  <summary lang="en_GB">Current track applet for Amarok</summary>
+  <summary lang="es">Miniaplicación de pista actual para Amarok</summary>
+  <summary lang="et">Amaroki aktiivse raja aplett</summary>
+  <summary lang="eu">Amarok-erako uneko pistako aplikaziotxoa</summary>
+  <summary lang="fi">Amarokin nykyinen kappale -sovelma</summary>
+  <summary lang="fr">Module de piste actuelle pour Amarok</summary>
+  <summary lang="gl">Trebello de pista actual para Amarok</summary>
+  <summary lang="hu">Jelenlegi szám kisalkalmazás az Amarokhoz</summary>
+  <summary lang="id">Applet trek saat ini untuk Amarok</summary>
+  <summary lang="it">Applet della traccia attuale per Amarok</summary>
+  <summary lang="ko">Amarok 현재 트랙 애플릿</summary>
+  <summary lang="nl">Huidig track-applet voor Amarok</summary>
+  <summary lang="pl">Aplet bieżącego utworu dla Amaroka</summary>
+  <summary lang="pt">'Applet' da faixa actual para o Amarok</summary>
+  <summary lang="pt_BR">Miniaplicativo de faixa atual para o Amarok</summary>
+  <summary lang="sl">Vstavek sledi za Amarok</summary>
+  <summary lang="sv">Miniprogram med aktuellt spår för Amarok</summary>
+  <summary lang="uk">Аплет поточної композиції для Amarok</summary>
+  <summary lang="x-test">xxCurrent track applet for Amarokxx</summary>
+  <summary lang="zh_TW">Amarok 的目前曲目小程式</summary>
+  <url type="donation">https://www.kde.org/donate.php?app=org.kde.amarok.currenttrack</url>
+  <developer_name>Leo Franchi &lt;lfranchi@gmail.com></developer_name>
+  <icon type="stock">current-track-amarok</icon>
+  <project_license>GPL-2.0</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+</component>

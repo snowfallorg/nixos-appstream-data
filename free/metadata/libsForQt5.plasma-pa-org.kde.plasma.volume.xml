@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>libsForQt5.plasma-pa</pkgname>
+  <id>org.kde.plasma.volume</id>
+  <extends>org.kde.plasmashell</extends>
+  <name>Audio Volume</name>
+  <name lang="ar">مستوى الصّوت</name>
+  <name lang="ast">Volume del audiu</name>
+  <name lang="az">Səs səviyyəsi</name>
+  <name lang="bg">Сила на звука</name>
+  <name lang="ca@valencia">Volum de l'àudio</name>
+  <name lang="ca">Volum de l'àudio</name>
+  <name lang="cs">Hlasitost zvuku</name>
+  <name lang="da">Lydstyrke</name>
+  <name lang="de">Lautstärke</name>
+  <name lang="el">Ένταση ήχου</name>
+  <name lang="en_GB">Audio Volume</name>
+  <name lang="es">Volumen del sonido</name>
+  <name lang="et">Helitugevus</name>
+  <name lang="eu">Audioaren bolumena</name>
+  <name lang="fi">Äänenvoimakkuus</name>
+  <name lang="fr">Volume audio</name>
+  <name lang="gl">Volume do son</name>
+  <name lang="he">עוצמת שמע</name>
+  <name lang="hsb">Audijo-wótrosć</name>
+  <name lang="hu">Hangerő</name>
+  <name lang="ia">Volumine de audio</name>
+  <name lang="id">Volume Audio</name>
+  <name lang="it">Volume audio</name>
+  <name lang="ja">音量</name>
+  <name lang="ko">오디오 음량</name>
+  <name lang="lt">Garsumas</name>
+  <name lang="nl">Geluidsvolume</name>
+  <name lang="nn">Lydstyrke</name>
+  <name lang="pa">ਆਡੀਓ ਵਾਲੀਅਮ</name>
+  <name lang="pl">Głośność dźwięku</name>
+  <name lang="pt">Volume do Áudio</name>
+  <name lang="pt_BR">Volume do áudio</name>
+  <name lang="ro">Volum audio</name>
+  <name lang="ru">Громкость</name>
+  <name lang="sk">Hlasitosť zvuku</name>
+  <name lang="sl">Glasnost zvoka</name>
+  <name lang="sr@ijekavian">Јачина звука</name>
+  <name lang="sr@ijekavianlatin">Jačina zvuka</name>
+  <name lang="sr@latin">Jačina zvuka</name>
+  <name lang="sr">Јачина звука</name>
+  <name lang="sv">Ljudvolym</name>
+  <name lang="ta">ஒலியின் அளவு</name>
+  <name lang="tg">Баландии садо</name>
+  <name lang="tr">Ses Düzeyi</name>
+  <name lang="uk">Гучність</name>
+  <name lang="x-test">xxAudio Volumexx</name>
+  <name lang="zh_CN">音频音量</name>
+  <name lang="zh_TW">音效音量</name>
+  <summary>Adjust the volume of devices and applications</summary>
+  <summary lang="ar">ضبط مستوى صوت الأجهزة والتطبيقات</summary>
+  <summary lang="ast">Axusta'l volume de los preseos y aplicaciones</summary>
+  <summary lang="az">Cihazların və Tətbiqlərin səs səviyyəsini nizmalamaq</summary>
+  <summary lang="bg">Регулиране на силата на звука на устройствата и приложенията</summary>
+  <summary lang="ca@valencia">Ajusta el volum dels dispositius i les aplicacions</summary>
+  <summary lang="ca">Ajusta el volum dels dispositius i les aplicacions</summary>
+  <summary lang="cs">Upravit hlasitost zařízení a aplikací</summary>
+  <summary lang="da">Justér lydstyrke for enheder og programmer</summary>
+  <summary lang="de">Anpassung der Lautstärke von Geräten und Anwendungen</summary>
+  <summary lang="el">Προσαρμογή της έντασης των συσκευών και εφαρμογών</summary>
+  <summary lang="en_GB">Adjust the volume of devices and applications</summary>
+  <summary lang="es">Ajustar el volumen de dispositivos y aplicaciones</summary>
+  <summary lang="et">Seadmete ja rakenduste helitugevuse kohendamine</summary>
+  <summary lang="eu">Doitu gailuen eta aplikazioen bolumena</summary>
+  <summary lang="fi">Laitteiden ja sovellusten äänenvoimakkuuden säätö</summary>
+  <summary lang="fr">Ajuster le volume des périphériques et des applications</summary>
+  <summary lang="gl">Axustar o volume de dispositivos e aplicacións</summary>
+  <summary lang="he">התאמת עוצמת שמע להתקנים ויישומים</summary>
+  <summary lang="hsb">Wótrosć gratow a aplikacijow připrawić</summary>
+  <summary lang="hu">Beállítja az eszközök és alkalmazások hangerejét</summary>
+  <summary lang="ia">Accomoda le volumine de dispositivos e applicationes</summary>
+  <summary lang="id">Sesuaikan volume perangkat dan aplikasi</summary>
+  <summary lang="it">Regola il volume dei dispositivi e delle applicazioni</summary>
+  <summary lang="ja">デバイスとアプリケーションの音量を調整</summary>
+  <summary lang="ko">장치와 프로그램의 음량 조정</summary>
+  <summary lang="lt">Reguliuoti įrenginių ir programų garsumą</summary>
+  <summary lang="nl">Geluidsniveau van apparaten en toepassingen aanpassen</summary>
+  <summary lang="nn">Juster lydstyrken til einingar og program</summary>
+  <summary lang="pa">ਡਿਵਾਈਸ ਅਤੇ ਐਪਲੀਕੇਸ਼ਨਾਂ ਲਈ ਵਾਲੀਅਮ ਨੂੰ ਠੀਕ ਕਰੋ</summary>
+  <summary lang="pl">Dostosuj głośność urządzeń i aplikacji</summary>
+  <summary lang="pt">Ajustar o volume dos dispositivos e aplicações</summary>
+  <summary lang="pt_BR">Ajuste o volume dos dispositivos e aplicativos</summary>
+  <summary lang="ro">Ajustează volumul dispozitivelor și aplicațiilor</summary>
+  <summary lang="ru">Настройка громкости устройств и звука в приложениях</summary>
+  <summary lang="sk">Upraviť hlasitosť zariadení a aplikácií</summary>
+  <summary lang="sl">Prilagodi glasnost naprav in programov</summary>
+  <summary lang="sr@ijekavian">Подешавање јачине звука уређаја и програма</summary>
+  <summary lang="sr@ijekavianlatin">Podešavanje jačine zvuka uređaja i programa</summary>
+  <summary lang="sr@latin">Podešavanje jačine zvuka uređaja i programa</summary>
+  <summary lang="sr">Подешавање јачине звука уређаја и програма</summary>
+  <summary lang="sv">Justera enhets- och programvolym</summary>
+  <summary lang="ta">செயலிகளின் மற்றும் சாதனங்களின் ஒலியளவை மாற்றுங்கள்</summary>
+  <summary lang="tg">Танзим кардани баландии садои дастгоҳҳо ва барномаҳо</summary>
+  <summary lang="tr">Aygıtların ve uygulamaların ses düzeyini ayarla</summary>
+  <summary lang="uk">Коригування гучності пристроїв і звуків програм</summary>
+  <summary lang="x-test">xxAdjust the volume of devices and applicationsxx</summary>
+  <summary lang="zh_CN">调整设备和程序的音量</summary>
+  <summary lang="zh_TW">調整裝置與應用程式的音量</summary>
+  <url type="donation">https://www.kde.org/donate.php?app=org.kde.plasma.volume</url>
+  <developer_name>Harald Sitter &lt;sitter@kde.org></developer_name>
+  <icon type="stock">audio-volume-high</icon>
+  <project_license>GPL-2.0</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+</component>

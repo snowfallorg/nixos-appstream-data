@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>gnome.gnome-software</pkgname>
+  <id>org.gnome.Software.Plugin.Fwupd</id>
+  <extends>org.gnome.Software.desktop</extends>
+  <name>Firmware Upgrade Support</name>
+  <name lang="zh_TW">韌體升級支援</name>
+  <name lang="zh_CN">固件升级支持</name>
+  <name lang="vi">Hỗ trợ Nâng cấp Phần dẻo</name>
+  <name lang="uk">Підтримка оновлення мікропрограм</name>
+  <name lang="tr">Donanım Yazılımı Yükseltme Desteği</name>
+  <name lang="sv">Stöd för uppgradering av fast programvara</name>
+  <name lang="sr@latin">Podrška za nadogradnju firmvera</name>
+  <name lang="sr">Подршка за надоградњу фирмвера</name>
+  <name lang="sl">Podpora nadgradnji strojne programske opreme</name>
+  <name lang="sk">Podpora aktualizácie firmvéru</name>
+  <name lang="ru">Поддержка обновления прошивок</name>
+  <name lang="ro">Suport de înnoire microcod</name>
+  <name lang="pt_BR">Suporte a atualização de firmware</name>
+  <name lang="pt">Suporte para atualizações de firmware</name>
+  <name lang="pl">Obsługa aktualizacji oprogramowania sprzętowego</name>
+  <name lang="pa">ਫਿਰਮਵੇਅਰ ਅੱਪਗਰੇਡ ਸਹਿਯੋਗ</name>
+  <name lang="oc">Presa en carga de la mesa a jorn del micrologicial</name>
+  <name lang="nl">Ondersteuning voor opwaarderen van firmware</name>
+  <name lang="ne">फर्मवेयर स्तरोन्नति समर्थन</name>
+  <name lang="nb">Støtte for oppgradering av fastvare</name>
+  <name lang="ms">Sokongan Penataran Perisian Tegar</name>
+  <name lang="ml">ഫേംവെയർ നവീകരണ പിന്തുണ</name>
+  <name lang="mjw">Firmware Upgrade Support</name>
+  <name lang="lv">Aparātprogrammatūras uzlabošanas atbalsts</name>
+  <name lang="lt">Programinės aparatinės įrangos naujinimo palaikymas</name>
+  <name lang="ko">펌웨어 업그레이드 지원</name>
+  <name lang="kk">Бинарлық кодтарды жаңарту қолдауы</name>
+  <name lang="ja">ファームウェアアップグレードサポート</name>
+  <name lang="it">Supporto aggiornamento firmware</name>
+  <name lang="id">Dukungan Peningkatan Perangkat Tegar</name>
+  <name lang="hu">Firmware frissítés támogatás</name>
+  <name lang="hr">Podrška za nadogradnju frimvera</name>
+  <name lang="hi">फ़र्मवेयर नवीनीकरण समर्थन</name>
+  <name lang="he">תמיכה בשדרוג קושחות</name>
+  <name lang="gl">Compatibilidade de actualizacións de firmware</name>
+  <name lang="gd">Taic ri àrdachadh bathair-an-sàs</name>
+  <name lang="fur">Supuart di inzornament dai Firmware</name>
+  <name lang="fr">Prise en charge de la mise à niveau du micrologiciel</name>
+  <name lang="fi">Laiteohjelmistojen päivitystuki</name>
+  <name lang="fa">پشتیبانی ارتقای ثابت‌افزار</name>
+  <name lang="eu">Firmwarea bertsio-berritzeko euskarria</name>
+  <name lang="es">Soporte de actualización de firmware</name>
+  <name lang="eo">Subteno por mikroprograma ĝisdatigo</name>
+  <name lang="en_GB">Firmware Upgrade Support</name>
+  <name lang="el">Υποστήριξη αναβάθμισης υλικολογισμικού</name>
+  <name lang="de">Unterstützung für Firmware-Aktualisierungen</name>
+  <name lang="da">Understøttelse af firmwareopgradering</name>
+  <name lang="cs">Podpora aktualizací firmwaru</name>
+  <name lang="ca@valencia">Compatibilitat amb actualitzacions de microprogramari</name>
+  <name lang="ca">Compatibilitat amb actualitzacions de microprogramari</name>
+  <name lang="bg">Поддръжка за надграждането на фърмуера</name>
+  <name lang="be">Падтрымка абнаўлення ўбудаванага ПЗ</name>
+  <name lang="af">Ondersteuning vir die opgradering van fermware</name>
+  <summary>Provides support for firmware upgrades</summary>
+  <summary lang="zh_TW">提供韌體升級的支援</summary>
+  <summary lang="zh_CN">提供固件升级的支持</summary>
+  <summary lang="vi">Cung cấp hỗ trợ cho các bản nâng cấp phần dẻo</summary>
+  <summary lang="uk">Надає підтримку оновлення мікропрограм</summary>
+  <summary lang="tr">Donanım yazılımı güncellemeleri için destek sağlar</summary>
+  <summary lang="sv">Tillhandahåller stöd för uppgradering av fast programvara</summary>
+  <summary lang="sr@latin">Pruža podršku za nadogradnje firmvera</summary>
+  <summary lang="sr">Пружа подршку за надоградње фирмвера</summary>
+  <summary lang="sl">Omogoča podporo za posodobitve strojne programske opreme</summary>
+  <summary lang="sk">Poskytuje podporu aktualizácií firmvéru</summary>
+  <summary lang="ru">Предоставляет поддержку обновления прошивок</summary>
+  <summary lang="ro">Oferă suport pentru înnoiri de microcod</summary>
+  <summary lang="pt_BR">Fornece suporte para atualizações de firmwares</summary>
+  <summary lang="pt">Permite realizar atualizações de firmware</summary>
+  <summary lang="pl">Dostarcza obsługę aktualizacji oprogramowania sprzętowego</summary>
+  <summary lang="pa">ਫਿਰਮਵੇਅਰ ਅੱਪਗਰੇਡ ਲਈ ਸਹਿਯੋਗ ਦਿੰਦਾ ਹੈ</summary>
+  <summary lang="oc">Provesís una presa en carga de las mesas a jorn del micrologicial</summary>
+  <summary lang="nl">Biedt ondersteuning voor het opwaarderen van firmware</summary>
+  <summary lang="nb">Gir støtte for oppgradering av fastvare</summary>
+  <summary lang="ms">Menyediakan sokongan untuk penataran perisian tegar</summary>
+  <summary lang="ml">ഫേംവെയർ നവീകരിക്കാനുള്ള പിന്തുണ ലഭ്യമാക്കുന്നു</summary>
+  <summary lang="lv">Nodrošina atbalstu aparātprogrammatūras uzlabojumiem</summary>
+  <summary lang="lt">Pateikia palaikymą, skirtą programinės aparatinės įrangos naujinimams</summary>
+  <summary lang="ko">펌웨어 업그레이드 지원 기능이 들어있습니다</summary>
+  <summary lang="kk">Бинарлық кодтарды жаңарту мүмкіндігін ұсынады</summary>
+  <summary lang="ja">ファームウェアのアップグレード機能を提供します</summary>
+  <summary lang="it">Fornisce il supporto agli aggiornamenti dei firmware</summary>
+  <summary lang="id">Menyediakan dukungan untuk peningkatan perangkat tegar</summary>
+  <summary lang="hu">Támogatást biztosít a firmware frissítésekhez</summary>
+  <summary lang="hr">Omogućuje podršku za nadogradnju frimvera</summary>
+  <summary lang="hi">फ़र्मवेयर नवीनीकरणों के लिए समर्थन प्रदान करता है</summary>
+  <summary lang="he">מספק תמיכה עבור שדרוג קושחות</summary>
+  <summary lang="gl">Fornece compatibilidade para actualizacións de firmware</summary>
+  <summary lang="gd">Bheir seo dhut taic ri àrdachaidhean bathair-an-sàs</summary>
+  <summary lang="fur">Al furnìs supuart pai inzornaments dai firmware</summary>
+  <summary lang="fr">Fournit la prise en charge des mises à niveau du micrologiciel</summary>
+  <summary lang="fi">Tarjoaa tuen laiteohjelmistojen (firmware) päivityksille</summary>
+  <summary lang="fa">برای ارتقاهای ثابت‌افزار، پشتیبانی فراهم می‌کند</summary>
+  <summary lang="eu">Firmwarea bertsio-berritzeko euskarria eskaintzen du</summary>
+  <summary lang="es">Proporciona soporte para actualizaciones de firmware</summary>
+  <summary lang="eo">Provizas subtenon por mikroprogramaj ĝisdatigoj</summary>
+  <summary lang="en_GB">Provides support for firmware upgrades</summary>
+  <summary lang="el">Παρέχει υποστήριξη για αναβαθμίσεις υλικολογισμικού</summary>
+  <summary lang="de">Stellt Unterstützung für Firmware-Aktualisierungen bereit</summary>
+  <summary lang="da">Giver understøttelse for firmwareopgraderinger</summary>
+  <summary lang="cs">Poskytuje podporu pro povyšování verzí firmwaru</summary>
+  <summary lang="ca@valencia">Proveeix compatibilitat amb actualitzacions de microprogramari</summary>
+  <summary lang="ca">Proveeix compatibilitat amb actualitzacions de microprogramari</summary>
+  <summary lang="bg">Осигурява поддръжка за надгражданията на фърмуера</summary>
+  <summary lang="be">Забяспечвае падтрымку абнаўлення для ўбудаванага ПЗ</summary>
+  <summary lang="af">Verskaf ondersteuning vir die opgradering van fermware</summary>
+  <url type="homepage">https://fwupd.org</url>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <update_contact>richard_at_hughsie.com</update_contact>
+</component>

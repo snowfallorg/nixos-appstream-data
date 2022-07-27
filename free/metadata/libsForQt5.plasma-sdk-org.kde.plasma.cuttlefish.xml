@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+  <pkgname>libsForQt5.plasma-sdk</pkgname>
+  <id>org.kde.plasma.cuttlefish</id>
+  <name>Cuttlefish</name>
+  <name lang="ast">Cuttlefish</name>
+  <name lang="az">Cuttlefish</name>
+  <name lang="bg">Cuttlefish</name>
+  <name lang="ca@valencia">Cuttlefish</name>
+  <name lang="ca">Cuttlefish</name>
+  <name lang="cs">Cuttlefish</name>
+  <name lang="da">Cuttlefish</name>
+  <name lang="de">Cuttlefish</name>
+  <name lang="el">Cuttlefish</name>
+  <name lang="en_GB">Cuttlefish</name>
+  <name lang="es">Cuttlefish</name>
+  <name lang="et">Cuttlefish</name>
+  <name lang="eu">Cuttlefish</name>
+  <name lang="fi">Cuttlefish</name>
+  <name lang="fr">Cuttlefish</name>
+  <name lang="gl">Cuttlefish</name>
+  <name lang="hu">Cuttlefish</name>
+  <name lang="ia">Cuttlefish</name>
+  <name lang="id">Cuttlefish</name>
+  <name lang="it">Cuttlefish</name>
+  <name lang="ko">Cuttlefish</name>
+  <name lang="lt">Cuttlefish</name>
+  <name lang="nl">Cuttlefish</name>
+  <name lang="nn">Cuttlefish</name>
+  <name lang="pl">Cuttlefish</name>
+  <name lang="pt">Cuttlefish</name>
+  <name lang="pt_BR">Cuttlefish</name>
+  <name lang="ru">Cuttlefish</name>
+  <name lang="sk">Cuttlefish</name>
+  <name lang="sl">Cuttlefish</name>
+  <name lang="sr@ijekavian">Катлфиш</name>
+  <name lang="sr@ijekavianlatin">Cuttlefish</name>
+  <name lang="sr@latin">Cuttlefish</name>
+  <name lang="sr">Катлфиш</name>
+  <name lang="sv">Cuttlefish</name>
+  <name lang="tr">Cuttlefish</name>
+  <name lang="uk">Cuttlefish</name>
+  <name lang="x-test">xxCuttlefishxx</name>
+  <name lang="zh_CN">Cuttlefish</name>
+  <name lang="zh_TW">Cuttlefish</name>
+  <summary>List and preview available icons</summary>
+  <summary lang="ast">Llista y previsualiza los iconos disponibles</summary>
+  <summary lang="az">Mövcud ikonların siyahısı və onlara baxış</summary>
+  <summary lang="bg">Списък и визуализация на наличните икони</summary>
+  <summary lang="ca@valencia">Llista i fa una vista prèvia de les icones disponibles</summary>
+  <summary lang="ca">Llista i fa una vista prèvia de les icones disponibles</summary>
+  <summary lang="da">Oplist og forhåndsvis tilgængelige ikoner</summary>
+  <summary lang="de">Auflistung und Vorschau verfügbarer Symbole</summary>
+  <summary lang="el">Εμφάνιση και προεπισκόπηση διαθέσιμων εικονιδίων</summary>
+  <summary lang="en_GB">List and preview available icons</summary>
+  <summary lang="es">Lista y vista previa de los iconos disponibles</summary>
+  <summary lang="et">Saadaolevate ikoonide loend ja eelvaatlus</summary>
+  <summary lang="eu">Zerrendatu eta aurrerakutsi ikono erabilgarriak</summary>
+  <summary lang="fi">Listaa ja esikatsele kuvakkeita</summary>
+  <summary lang="fr">Lister et afficher les icônes disponibles</summary>
+  <summary lang="gl">Lista e mostra unha vista previa das iconas dispoñíbeis</summary>
+  <summary lang="hu">Elérhető ikonok listázása és előnézete</summary>
+  <summary lang="ia">Lista e vide in anteprima icones disponibile</summary>
+  <summary lang="id">Daftar dan pratinjau ikon yang tersedia</summary>
+  <summary lang="it">Lista e anteprima delle icone disponibili</summary>
+  <summary lang="ko">사용 가능한 아이콘 미리 보기</summary>
+  <summary lang="lt">Išvardyti ir peržiūrėti prieinamas piktogramas</summary>
+  <summary lang="nl">Beschikbare pictogrammen in een lijst weergeven en bekijken</summary>
+  <summary lang="nn">List og førehandsvis tilgjengelege ikon</summary>
+  <summary lang="pl">Wypisz i podglądaj dostępne ikony</summary>
+  <summary lang="pt">Enumera e antevê os ícones disponíveis</summary>
+  <summary lang="pt_BR">Relaciona e visualiza os ícones disponíveis</summary>
+  <summary lang="ru">Инструмент для просмотра списка доступных значков</summary>
+  <summary lang="sk">Zoznam a náhľad dostupných ikon</summary>
+  <summary lang="sl">Izpiše predogledni seznam razpoložljivih ikon</summary>
+  <summary lang="sr@ijekavian">Набрајање и преглед доступних иконица</summary>
+  <summary lang="sr@ijekavianlatin">Nabrajanje i pregled dostupnih ikonica</summary>
+  <summary lang="sr@latin">Nabrajanje i pregled dostupnih ikonica</summary>
+  <summary lang="sr">Набрајање и преглед доступних иконица</summary>
+  <summary lang="sv">Lista och visa tillgängliga ikoner</summary>
+  <summary lang="tr">Mevcut simgeleri listele ve önizle</summary>
+  <summary lang="uk">Показ списку і попередній перегляду доступних піктограм</summary>
+  <summary lang="x-test">xxList and preview available iconsxx</summary>
+  <summary lang="zh_CN">列出和预览可用图标</summary>
+  <summary lang="zh_TW">列出並預覽可用的圖示</summary>
+  <url type="homepage">https://kde.org</url>
+  <url type="donation">https://www.kde.org/donate.php?app=org.kde.plasma.cuttlefish</url>
+  <developer_name>Sebastian Kügler &lt;sebas@kde.org></developer_name>
+  <icon type="stock">cuttlefish</icon>
+  <project_license>GPL-2.0+</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+</component>

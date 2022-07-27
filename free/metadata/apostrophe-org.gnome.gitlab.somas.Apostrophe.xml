@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>apostrophe</pkgname>
+  <icon width="64" height="64" type="cached">org.gnome.gitlab.somas.Apostrophe.png</icon>
+  <icon type="cached" height="128" width="128">org.gnome.gitlab.somas.Apostrophe.png</icon>
+  <id>org.gnome.gitlab.somas.Apostrophe</id>
+  <name>Apostrophe</name>
+  <name lang="zh_CN">Apostrophe</name>
+  <name lang="uk">Апостроф</name>
+  <name lang="tr">Apostrophe</name>
+  <name lang="sv">Apostrophe</name>
+  <name lang="sr">Апостроф</name>
+  <name lang="sl">Apostrof</name>
+  <name lang="ru">Апостроф</name>
+  <name lang="pt_BR">Apostrophe</name>
+  <name lang="pt">Apóstrofe</name>
+  <name lang="pl">Apostrof</name>
+  <name lang="nl">Apostrophe</name>
+  <name lang="it">Apostrophe</name>
+  <name lang="id">Apostrophe</name>
+  <name lang="hu">Apostrophe</name>
+  <name lang="hr">Apostrof</name>
+  <name lang="he">אפוסטרוף</name>
+  <name lang="gl">Apóstrofe</name>
+  <name lang="fr">Apostrophe</name>
+  <name lang="fi">Apostrophe</name>
+  <name lang="fa">آپوستروف</name>
+  <name lang="eu">Apostrophe</name>
+  <name lang="es">Apostrophe</name>
+  <name lang="en_GB">Apostrophe</name>
+  <name lang="de">Apostrophe</name>
+  <name lang="da">Apostrophe</name>
+  <name lang="cs">Apostrophe</name>
+  <name lang="ca">Apostrophe</name>
+  <summary>Edit Markdown in style</summary>
+  <summary lang="zh_CN">在样式中编辑 Markdown</summary>
+  <summary lang="uk">Редагувати Markdown у стилі</summary>
+  <summary lang="tr">Markdown’ın tarzını düzenleyin</summary>
+  <summary lang="sv">Redigera markdown med stil</summary>
+  <summary lang="sl">Uporabi oblikovanje Markdown v slogu</summary>
+  <summary lang="ru">Редактировать в стиле Markdown</summary>
+  <summary lang="pt_BR">Editar Markdown em estilo</summary>
+  <summary lang="pt">Editar Markdown em estilo</summary>
+  <summary lang="pl">Elegancki edytor Markdown</summary>
+  <summary lang="nl">Bewerk Markdown in stijl</summary>
+  <summary lang="id">Sunting Markdown dalam gaya</summary>
+  <summary lang="hu">Markdown szerkesztése a stílusban</summary>
+  <summary lang="hr">Uredite Markdown elegantno</summary>
+  <summary lang="he">עריכת Markdown בסטייל</summary>
+  <summary lang="fr">Éditer du Markdown avec style</summary>
+  <summary lang="fi">Muokkaa Markdownia tyylillä</summary>
+  <summary lang="fa">ویرایش مارک‌دون در سبک</summary>
+  <summary lang="eu">Editatu markdown-a estiloan</summary>
+  <summary lang="es">Edita markdown con estilo</summary>
+  <summary lang="de">Markdown mit Stil bearbeiten</summary>
+  <summary lang="ca">Edita el Markdown amb l'estil</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <developer_name>Manuel G., Wolf V.</developer_name>
+  <developer_name lang="zh_CN">Manuel G., Wolf V.</developer_name>
+  <developer_name lang="uk">Manuel G., Wolf V.</developer_name>
+  <developer_name lang="tr">Manuel G., Wolf V.</developer_name>
+  <developer_name lang="sv">Manuel G., Wolf V.</developer_name>
+  <developer_name lang="sl">Manuel G., Wolf V.</developer_name>
+  <developer_name lang="ru">Мануэль Г., Вольф В.</developer_name>
+  <developer_name lang="pt_BR">Manuel G., Wolf V.</developer_name>
+  <developer_name lang="pt">Manuel G., Wolf V.</developer_name>
+  <developer_name lang="pl">Manuel G., Wolf V.</developer_name>
+  <developer_name lang="nl">Manuel G., Wolf V.</developer_name>
+  <developer_name lang="id">Manuel G., Wolf V.</developer_name>
+  <developer_name lang="hu">Manuel G., Wolf V.</developer_name>
+  <developer_name lang="hr">Manuel G., Wolf V.</developer_name>
+  <developer_name lang="he">מנואל ג., וולף ו.</developer_name>
+  <developer_name lang="fr">Manuel G., Wolf V.</developer_name>
+  <developer_name lang="fi">Manuel G., Wolf V.</developer_name>
+  <developer_name lang="fa">مانویل جی.، وُلف وی.</developer_name>
+  <developer_name lang="eu">Manuel G., Wolf V.</developer_name>
+  <developer_name lang="es">Manuel G., Wolf V.</developer_name>
+  <developer_name lang="de">Manuel G., Wolf V.</developer_name>
+  <developer_name lang="ca">Manuel G., Wolf V.</developer_name>
+  <description>
+    <p>Focus on your writing with a clean, distraction-free markdown editor.</p>
+    <p lang="zh_CN">使用干净无干扰的 Markdown 编辑器来让您专注于写作。</p>
+    <p lang="uk">Зосередьтеся на написанні тексту, скориставшись охайним ненав'язливим редактором markdown.</p>
+    <p lang="tr">Temiz, dikkat dağıtmayan bir markdown editörü ile yazınıza odaklanın.</p>
+    <p lang="sv">Fokusera på ditt skrivande i en elegant, distraktionsfri markdown-redigerare.</p>
+    <p lang="sr">Усредсредите се на ваше писање са чистим уређивачем обележавања који не одвлачи пажњу.</p>
+    <p lang="sl">Osredotočite se na pisanje s enostavnim in preglednim urejevalnikom.</p>
+    <p lang="ru">Сосредоточьтесь на написании текста с помощью простого, не отвлекающего внимание markdown редактора.</p>
+    <p lang="pt_BR">Foque na sua escrita com um editor markdown elegante e livre de distrações.</p>
+    <p lang="pt">Foque no seu texto com um editor markdown limpo e sem distrações.</p>
+    <p lang="pl">Skup się na pisaniu dzięki prostemu, nierozpraszającemu edytorowi formatu Markdown.</p>
+    <p lang="nl">Focus op uw schrijven met een eenvoudige, afleidingsvrije Markdownbewerker.</p>
+    <p lang="id">Fokus pada tulisan Anda dengan penyunting markdown yang bersih dan bebas gangguan.</p>
+    <p lang="hu">Koncentráljon az írásra egy letisztult, zavartalan markdown szerkesztővel.</p>
+    <p lang="hr">Usredotočite se na pisanje pomoću jednostavnog markdown uređivača bez ometanja.</p>
+    <p lang="he">מאפשר להתמקד בכתיבה בעורך Markdown פשוט ונקי מהפרעות.</p>
+    <p lang="gl">Enfóquese na súa escritura con un editor de markdown limpo e sen distracións.</p>
+    <p lang="fr">Se concentrer sur son écriture avec un éditeur markdown élégant et sans distraction.</p>
+    <p lang="fi">Keskity kirjoittamiseen selkeällä, häiriötekijät minimoivalla markdown-muokkaimella.</p>
+    <p lang="fa">با ویرایشگر مارک‌دونی تمیز و بدون حواس‌پرتی، روی نوشتن‌تان تمرکز کنید.</p>
+    <p lang="eu">Eutsi arretari idazten ari zarenean, distrakziorik gabeko markdown editore garbi batekin.</p>
+    <p lang="es">Enfóquese en su escritura con un editor de Markdown claro y libre de distracciones.</p>
+    <p lang="en_GB">Focus on your writing with a clean, distraction-free markdown editor.</p>
+    <p lang="de">Auf den Text fokussierter, übersichtlicher und ablenkungsfreier Markdown-Editor.</p>
+    <p lang="da">Fokusér på dit skrivearbejde med en ryddelig markdownredigering uden distraktioner.</p>
+    <p lang="ca">Centrar-se en la teva escriptura amb un editor net i lliure de distraccions.</p>
+    <p>Features:</p>
+    <p lang="zh_CN">特性：</p>
+    <p lang="uk">Можливості:</p>
+    <p lang="tr">Özellikler:</p>
+    <p lang="sv">Funktioner:</p>
+    <p lang="sr">Функције:</p>
+    <p lang="sl">Zmožnosti:</p>
+    <p lang="ru">Возможности:</p>
+    <p lang="pt_BR">Recursos:</p>
+    <p lang="pt">Funcionalidades:</p>
+    <p lang="pl">Funkcje:</p>
+    <p lang="oc">Foncionalitats :</p>
+    <p lang="nl">Functies:</p>
+    <p lang="id">Fitur:</p>
+    <p lang="hu">Funkciók:</p>
+    <p lang="hr">Značajke:</p>
+    <p lang="he">יכולות:</p>
+    <p lang="gl">Características:</p>
+    <p lang="fr">Fonctionnalités :</p>
+    <p lang="fi">Ominaisuudet:</p>
+    <p lang="fa">ویژگی‌ها:</p>
+    <p lang="eu">Eginbideak:</p>
+    <p lang="es">Características:</p>
+    <p lang="en_GB">Features:</p>
+    <p lang="de">Funktionen:</p>
+    <p lang="da">Funktioner:</p>
+    <p lang="ca">Característiques:</p>
+    <ul>
+      <li>An UI tailored to comfortable writing</li>
+      <li lang="zh_CN">用来舒适写作的特制用户界面</li>
+      <li lang="uk">Інтерфейс, який пристосовано до комфортного написання текстів</li>
+      <li lang="tr">Rahat yazmaya uygun kullanıcı arayüzü</li>
+      <li lang="sv">Ett användargränssnitt skräddarsytt för bekvämt skrivande</li>
+      <li lang="sr">Корисничко сучеље по мери удобног писања</li>
+      <li lang="sl">Vmesnik, prilagojen udobnemu pisanju</li>
+      <li lang="ru">Пользовательский интерфейс, адаптированный для комфортного письма</li>
+      <li lang="pt_BR">Uma UI projetada para escrita confortável</li>
+      <li lang="pt">Uma UI desenhada para uma leitura confortável</li>
+      <li lang="pl">Interfejs przygotowany do wygodnego pisania</li>
+      <li lang="nl">Een interface om comfortabel te schrijven</li>
+      <li lang="id">UI yang disesuaikan dengan tulisan yang nyaman</li>
+      <li lang="hu">Kényelmes íráshoz szabott felhasználói felület</li>
+      <li lang="hr">Korisničko sučelje prilagođeno za ugodno pisanje</li>
+      <li lang="he">מנשק משתמש שמותאם לכתיבה נוחה</li>
+      <li lang="gl">Unha interface adaptada a unha escrita confortábel</li>
+      <li lang="fr">Une interface pensée pour une écriture confortable</li>
+      <li lang="fi">Kirjoitusta varten suunniteltu käyttöliittymä</li>
+      <li lang="fa">رابط کاربری‌ای طراحی شده برای نوشتن راحت</li>
+      <li lang="eu">Eroso idazteko helburua duen interfazea</li>
+      <li lang="es">Una interfaz de usuario diseñada para la escritura cómoda</li>
+      <li lang="en_GB">An UI tailored to comfortable writing</li>
+      <li lang="de">Eine auf bequemes Schreiben zugeschnittene Benutzeroberfläche</li>
+      <li lang="da">Brugerflade skræddersyet til behagelig skrivning</li>
+      <li lang="ca">Una interfície d'usuari creada per a una escriptura còmoda</li>
+      <li>A distraction-free mode</li>
+      <li lang="zh_CN">一个没有干扰元素的模式</li>
+      <li lang="uk">Режим зосередженості</li>
+      <li lang="tr">Dikkat dağıtmayan kip</li>
+      <li lang="sv">Ett distraktionsfritt läge</li>
+      <li lang="sr">Режим без одвлачења пажње</li>
+      <li lang="sl">Način vnašanja brez nepotrebnih motenj</li>
+      <li lang="ru">Режим, не отвлекающий от работы</li>
+      <li lang="pt_BR">Um modo livre de distrações</li>
+      <li lang="pt">Um modo sem distrações</li>
+      <li lang="pl">Tryb bez rozproszeń</li>
+      <li lang="nl">Een afleidingsvrije modus</li>
+      <li lang="id">Mode bebas gangguan</li>
+      <li lang="hu">Zavaró elemektől mentes mód</li>
+      <li lang="hr">Način rada bez ometanja</li>
+      <li lang="he">מצב נקי מהפרעות</li>
+      <li lang="gl">Un modo sen distraccións</li>
+      <li lang="fr">Un mode sans distraction</li>
+      <li lang="fi">Häiriötön tila</li>
+      <li lang="fa">حالتی بدون حواس‌پرتی</li>
+      <li lang="eu">Distrakziorik gabeko modua</li>
+      <li lang="es">Un modo libre de distracciones</li>
+      <li lang="en_GB">A distraction-free mode</li>
+      <li lang="de">Ein ablenkungsfreier Modus</li>
+      <li lang="da">En tilstand uden distraktioner</li>
+      <li lang="ca">Un editor sense distraccions</li>
+      <li>Dark, light and sepia themes</li>
+      <li lang="zh_CN">暗色、亮色和深褐色主题</li>
+      <li lang="uk">Темна, світла теми та тема у кольорах сепії</li>
+      <li lang="tr">Karanlık, aydınlık ve sepya temalar</li>
+      <li lang="sv">Mörka, ljusa och sepiafärgade teman</li>
+      <li lang="sr">Тамна, светла и сепија теме</li>
+      <li lang="sl">Temna, svetla in starinska tema</li>
+      <li lang="ru">Тёмная, светлая и «сепия» темы</li>
+      <li lang="pt_BR">Temas claro, escuro e sépia</li>
+      <li lang="pt">Temas escuro, claro e sépia</li>
+      <li lang="pl">Motyw ciemny, jasny i w kolorach sepii</li>
+      <li lang="nl">Donkere, lichte en sepia thema’s</li>
+      <li lang="id">Tema gelap, terang dan sepia</li>
+      <li lang="hu">Sötét, világos és szépia témák</li>
+      <li lang="hr">Tamna, svijetla i crvenkasto-smeđa tema</li>
+      <li lang="he">ערכות צבע כהות, בהירות ובגוונים חמים</li>
+      <li lang="gl">Temas escuro, claro e sepia</li>
+      <li lang="fr">Thèmes sombre, clair et sépia</li>
+      <li lang="fi">Eri väriteemoja: tumma, vaalea ja seepia</li>
+      <li lang="fa">پوسته‌های تاریک، روشن و سوبیایی</li>
+      <li lang="eu">Gai iluna, argia eta sepia</li>
+      <li lang="es">Tema oscuro, claro y sepia</li>
+      <li lang="en_GB">Dark, light and sepia themes</li>
+      <li lang="de">Dunkles, helles und sepiafarbenes Thema</li>
+      <li lang="da">Mørkt, lyst og sepiatema</li>
+      <li lang="ca">Temes foscos, clars i sèpia</li>
+      <li>Everything you expect from a text editor, such as spellchecking or document statistics</li>
+      <li lang="zh_CN">您在文本编辑器上期望的一切，比如拼写检查或文档统计</li>
+      <li lang="uk">Усе, що ви могли очікувати від текстового редактора, зокрема перевірка правопису та показ статистики документа</li>
+      <li lang="tr">Yazım denetimi veya belge istatistikleri gibi bir metin düzenleyiciden beklediğiniz her şey</li>
+      <li lang="sv">Allt du förväntar dig av en textredigerare, såsom stavningskontroll eller dokumentstatistik</li>
+      <li lang="sr">Све што очекујете од уређивача текста, као што је провера писања или статистика документа</li>
+      <li lang="sl">Vse, kar pričakujete od urejevalnika besedil, od črkovanja do statistike dokumenta</li>
+      <li lang="ru">Всё, что вы ожидаете от текстового редактора, например, проверка орфографии или статистика документов</li>
+      <li lang="pt_BR">Tudo que você espera de um editor de texto, como verificação ortográfica ou estatísticas do documento</li>
+      <li lang="pt">Tudo que espera dum editor de texto, como verificação ortográfica ou estatísticas do documento</li>
+      <li lang="pl">Wszystkie funkcje edytora tekstu, takie jak sprawdzanie pisowni i statystyki dokumentu</li>
+      <li lang="nl">Alles wat u verwacht van een tekstverwerker, zoals spellingscontrole of documentstatistieken</li>
+      <li lang="id">Semua yang Anda harapkan dari penyunting teks, seperti pemeriksaan ejaan atau statistik dokumen</li>
+      <li lang="hu">Minden, amit elvárhat egy szövegszerkesztőtől, mint például helyesírás-ellenőrzés vagy dokumentumstatisztika</li>
+      <li lang="hr">Sve što očekujete od uređivača teksta, poput provjere pravopisa ili statistike dokumenata</li>
+      <li lang="he">כל מה שאפשר לצפות לו מעורך טקסט כגון בדיקת איות או סטטיסטיקת מסמך</li>
+      <li lang="gl">Todo o que agarda dun editor de texto, como verificación ortográfica e estatísticas do documento</li>
+      <li lang="fr">Tout ce que vous attendez d’un éditeur de texte, comme la correction orthographique ou les statistiques des documents</li>
+      <li lang="fi">Kaikki mitä tekstimuokkaimelta voi odottaa, kuten oikoluku ja asiakirjan tilastot</li>
+      <li lang="fa">هر آن‌چه از یک ویرایشگر متن انتظار دارید، همچون بررسی املایی یا آمارهای سند</li>
+      <li lang="eu">Testu-editore batean espero den guztia, ortografiaren egiaztatzea eta dokumentu-estatistikak barne.</li>
+      <li lang="es">Todo lo que espera de un editor de texto, como corrector ortográfico o estadísticas del documento</li>
+      <li lang="en_GB">Everything you expect from a text editor, such as spellchecking or document statistics</li>
+      <li lang="de">Alles, was von einem Texteditor erwartet werden kann, wie zum Beispiel eine Rechtschreibprüfung oder eine Dokumentenstatistik</li>
+      <li lang="da">Alt hvad du forventer fra en tekstredigering sâsom stavekontrol og dokumentstatistik</li>
+      <li lang="ca">Tot el que espereu d'un editor de text, com ara verificació ortogràfica o estadístiques del document</li>
+      <li>Live preview of what you write</li>
+      <li lang="zh_CN">您编写内容的实时预览</li>
+      <li lang="uk">Інтерактивний перегляд результатів написання тексту</li>
+      <li lang="tr">Yazdıklarınızın canlı ön izlemesi</li>
+      <li lang="sv">Direkt förhandsgranskning av vad du skriver</li>
+      <li lang="sr">Претпреглед уживо онога што пишете</li>
+      <li lang="sl">Sprotni predogled vnesenega besedila</li>
+      <li lang="ru">Предварительный просмотр написанного в режиме реального времени</li>
+      <li lang="pt_BR">Visão dinâmica do que você escreve</li>
+      <li lang="pt">Antever em direto aquilo que escreve</li>
+      <li lang="pl">Podgląd pisanego tekstu na żywo</li>
+      <li lang="nl">Live voorvertoning van wat u schrijft</li>
+      <li lang="id">Pratinjau langsung dari apa yang Anda tulis</li>
+      <li lang="hu">Élő előnézet ahhoz, amit ír</li>
+      <li lang="hr">Trenutni pregled onoga što pišete</li>
+      <li lang="he">תצוגה מקדימה חיה של מה שנכתב</li>
+      <li lang="gl">Vista previa en vivo do que escribe</li>
+      <li lang="fr">Aperçu direct de ce que vous écrivez</li>
+      <li lang="fi">Reaaliaikainen esikatselu</li>
+      <li lang="fa">پیش‌نمایش زنده از آن‌چه می‌نویسید</li>
+      <li lang="eu">Idazten ari zarenaren aurrebista dinamikoa</li>
+      <li lang="es">Vista previa de lo que escribe</li>
+      <li lang="en_GB">Live preview of what you write</li>
+      <li lang="de">Echtzeit-Vorschau auf das Geschriebene</li>
+      <li lang="da">Dynamisk forhåndsvisning af det du skriver</li>
+      <li lang="ca">Vista prèvia en viu d'allò que escriviu</li>
+      <li>Export to all kind of formats: PDF, Word/Libreoffice, LaTeX, or even HTML slideshows</li>
+      <li lang="zh_CN">导出为所有格式类型：PDF、Word/Libreoffice、LaTeX 或 HTML 幻灯片</li>
+      <li lang="uk">Експорт до усіх типів форматів: PDF, Word/Libreoffice, LaTeX, або навіть показів слайдів HTML</li>
+      <li lang="tr">Her biçimde dışarıya aktarın: PDF, Word/Libreoffice, LaTeX ve hatta HTML slayt gösterileri</li>
+      <li lang="sv">Export till alla sorters format: PDF, Word/Libreoffice, LaTeX eller till och med HTML-bildspel</li>
+      <li lang="sr">Извезите у све врсте формата: ПДФ, Ворд/Либреофис, ЛаТеКс или чак у ХТМЛ покретне приказе</li>
+      <li lang="sl">Izvoz v številne zapise: PDF, Word/Libreoffice, LaTeX, ali celo predstavitve HTML</li>
+      <li lang="ru">Экспорт во всевозможные форматы: PDF, Word/Libreoffice, LaTeX или даже слайд-шоу HTML</li>
+      <li lang="pt_BR">Exporte para todos os tipos de formatos: PDF, Word/Libreoffice, LaTeX ou até mesmo apresentações de slides em HTML</li>
+      <li lang="pt">Exportar para todos os formatos: PDF, Word/Libreoffice, LaTeX, ou até apresentações HTML</li>
+      <li lang="pl">Eksport do wszelkich rodzajów formatów: PDF, Word/LibreOffice, LaTeX czy nawet pokazu slajdów HTML</li>
+      <li lang="nl">Exporteer naar alle soorten formaten: PDF, LibreOffice/Word, LaTeX, of zelfs HTML-diavoorstellingen</li>
+      <li lang="id">Ekspor ke semua jenis format: PDF, Word/Libreoffice, LaTeX, atau bahkan tayangan salindia HTML</li>
+      <li lang="hu">Exportálás mindenféle formátumba: PDF-be, Wordbe/LibreOffice-ba, LaTeX-be vagy akár HTML diavetítésekbe</li>
+      <li lang="hr">Izvoz u sve vrste formata: PDF, Word/Libreoffice, LaTeX, pa čak i HTML prezentacije</li>
+      <li lang="he">ייצוא לכל סוגי הקבצים: PDF,‏ Word/Libreoffice,‏ LaTeX או אפילו מצגות HTML</li>
+      <li lang="gl">Exportar a todos os tipos de formatos: PDF, Word/Libreoffice, LaTeX ou incluso presentacións HTML</li>
+      <li lang="fr">Exportation vers toutes sortes de formats : PDF, Word/Libreoffice, LaTeX, ou même des diaporamas HTML</li>
+      <li lang="fi">Vie eri tiedostomuotoihin: PDF, Word/Libreoffice, LaTeX tai jopa HTML-diaesitys</li>
+      <li lang="fa">به تمامی قالب‌ها برون‌ریزی کنید: PDF، لیبره‌آفیس/ورد، لاتک، یا حتی نمابرگ‌های HTML</li>
+      <li lang="eu">Esportatu edozein formatu motatara: PDF, Word/Libreoffice, LaTeX, edo baita HTML diapositiba-aurkezpenak ere</li>
+      <li lang="es">Exporta a todo tipo de formatos: PDF, Word/Libreoffice, LaTeX o incluso diapositivas HTML</li>
+      <li lang="en_GB">Export to all kind of formats: PDF, Word/Libreoffice, LaTeX, or even HTML slideshows</li>
+      <li lang="de">Export in alle möglichen Formate: PDF, Word/Libreoffice, LaTeX oder sogar HTML-Diashows</li>
+      <li lang="da">Eksportér til alle mulige formater: PDF, Word/Libreoffice, LaTeX eller endda HTML-præsentationer</li>
+      <li lang="ca">Exporta a tots els tipus de formats: PDF, Word/Libreoffice, LaTeX, o fins i tot presentacions HTML</li>
+    </ul>
+  </description>
+  <launchable type="desktop-id">org.gnome.gitlab.somas.Apostrophe.desktop</launchable>
+  <url type="homepage">https://apps.gnome.org/app/org.gnome.gitlab.somas.Apostrophe/</url>
+  <url type="bugtracker">https://gitlab.gnome.org/World/apostrophe/-/issues</url>
+  <url type="help">https://gitlab.gnome.org/World/apostrophe/</url>
+  <url type="donation">https://www.paypal.me/manuelgenoves</url>
+  <url type="translate">https://l10n.gnome.org/module/apostrophe/</url>
+  <translation type="gettext">apostrophe</translation>
+  <screenshots>
+    <screenshot type="default">
+      <image type="source">https://gitlab.gnome.org/World/apostrophe/-/raw/main/screenshots/main.png</image>
+    </screenshot>
+    <screenshot>
+      <image type="source">https://gitlab.gnome.org/World/apostrophe/-/raw/main/screenshots/main-dark.png</image>
+    </screenshot>
+    <screenshot>
+      <image type="source">https://gitlab.gnome.org/World/apostrophe/-/raw/main/screenshots/formula.png</image>
+    </screenshot>
+    <screenshot>
+      <image type="source">https://gitlab.gnome.org/World/apostrophe/-/raw/main/screenshots/preview.png</image>
+    </screenshot>
+    <screenshot>
+      <image type="source">https://gitlab.gnome.org/World/apostrophe/-/raw/main/screenshots/focus.png</image>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release date="2022-04-29T00:00:00Z" version="2.6.3" type="stable">
+      <description>
+        <p>This release fixes the following bugs:</p>
+        <ul>
+          <li>Fix a bug where the preview wouldn't be shown when opening a file from Files or the CLI</li>
+          <li>Fix a bug where horizontal preview wouldn't request enough space at startup</li>
+          <li>Removed swipe gestures from the preview panel</li>
+        </ul>
+        <p>This release adds the following feature:</p>
+        <ul>
+          <li>Added Persian translations, updated Catalan, German , Finnish and Turkish ones</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2022-03-31T00:00:00Z" version="2.6.2" type="stable">
+      <description>
+        <p>This release fixes the following bug:</p>
+        <ul>
+          <li>Fix handling of windowed preview mode on some circumstances</li>
+        </ul>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>Add proper titles to the preview window</li>
+          <li>Update translations</li>
+        </ul>
+      </description>
+    </release>
+    <release type="stable" version="2.6.1" date="2022-03-20T00:00:00Z">
+      <description>
+        <p>This release fixes the following bug:</p>
+        <ul>
+          <li>A small bug in 2.6 which didn't allow to save files</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <content_rating type="oars-1.1" />
+</component>

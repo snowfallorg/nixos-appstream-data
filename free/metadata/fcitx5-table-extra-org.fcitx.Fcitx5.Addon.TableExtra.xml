@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>fcitx5-table-extra</pkgname>
+  <id>org.fcitx.Fcitx5.Addon.TableExtra</id>
+  <extends>org.fcitx.Fcitx5</extends>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Table Extra</name>
+  <name lang="zh_TW">額外表格</name>
+  <name lang="zh_CN">额外码表</name>
+  <name lang="ru">Table Extra</name>
+  <name lang="ko">표 추가</name>
+  <name lang="ja">テーブルエクストラ</name>
+  <name lang="da">Tabelekstra</name>
+  <summary>Additional Table based Chinese input method</summary>
+  <summary lang="zh_TW">額外基於字碼表格的中文輸入法</summary>
+  <summary lang="zh_CN">额外的基于码表的中文输入法</summary>
+  <summary lang="ru">Дополнительный метод ввода на китайском языке в виде таблицы</summary>
+  <summary lang="ko">추가 표 기반 한어 입력기</summary>
+  <summary lang="ja">追加テーブルによる中国語入力メソッド</summary>
+  <summary lang="da">Yderligere tabelbaseret kinesisk-inputmetode</summary>
+  <url type="bugtracker">https://github.com/fcitx/fcitx5-table-extra/issues</url>
+  <url type="homepage">https://fcitx-im.org</url>
+  <project_group>Fcitx</project_group>
+  <releases>
+    <release version="5.0.11" date="2022-07-03" />
+    <release version="5.0.10" date="2022-05-22" />
+    <release date="2022-03-09" version="5.0.9" />
+    <release date="2022-02-01" version="5.0.8" />
+    <release date="2021-12-04" version="5.0.7" />
+    <release date="2021-11-05" version="5.0.6" />
+    <release date="2021-08-29" version="5.0.5" />
+    <release date="2021-05-04" version="5.0.4" />
+    <release date="2021-03-21" version="5.0.3" />
+    <release version="5.0.2" date="2020-12-29" />
+    <release version="5.0.1" date="2020-12-03" />
+    <release date="2020-10-30" version="5.0.0" />
+  </releases>
+  <content_rating type="oars-1.1" />
+</component>

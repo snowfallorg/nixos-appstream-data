@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>pantheon.wingpanel-indicator-sound</pkgname>
+  <id>io.elementary.wingpanel.sound</id>
+  <extends>io.elementary.wingpanel</extends>
+  <name>Sound Indicator</name>
+  <name lang="uz">Ovoz indikatori</name>
+  <name lang="uk">Індикатор гучності</name>
+  <name lang="tr">Ses Göstergesi</name>
+  <name lang="szl">Skaźnik źwiynku</name>
+  <name lang="sr">Указивач звука</name>
+  <name lang="sk">Indikátor zvuku</name>
+  <name lang="ru">Индикатор громкости</name>
+  <name lang="pt_BR">Indicador de som</name>
+  <name lang="pt">Indicador de som</name>
+  <name lang="pl">Wskaźnik dźwięku</name>
+  <name lang="nn">Lydindikator</name>
+  <name lang="nl">Geluid indicator</name>
+  <name lang="nb">Lydindikator</name>
+  <name lang="mr">आवाज निर्देशक</name>
+  <name lang="ja">サウンドインジケーター</name>
+  <name lang="it">Indicatore dell'audio</name>
+  <name lang="hu">Hangkijelzés</name>
+  <name lang="he">מחוון שמע</name>
+  <name lang="gl">Indicador de son</name>
+  <name lang="fr">Indicateur de son</name>
+  <name lang="fi">Ääni-ilmaisin</name>
+  <name lang="es">Indicador de sonido</name>
+  <name lang="eo">Sona indikilo</name>
+  <name lang="en_GB">Sound Indicator</name>
+  <name lang="en_CA">Sound Indicator</name>
+  <name lang="en_AU">Sound Indicator</name>
+  <name lang="de">Soundanzeige</name>
+  <name lang="da">Lyd Indikator</name>
+  <name lang="cs">Indikátor pro zvuk</name>
+  <name lang="ca">Indicador de so</name>
+  <name lang="ar">مؤشر الصوت</name>
+  <summary>Adjust speaker and microphone volume or see Now Playing information and media controls</summary>
+  <summary lang="uz">Dinamik va mikrofon ovoz balandligini o'zgartirish yoki hozir ijro etilayotgan fayl haqida ma'lumotlar va ularni boshqarish tugmalarini ko'rish</summary>
+  <summary lang="uk">Налаштуйте гучність динаміка та мікрофона або перегляньте відомості про звукову доріжку, яка зараз грає та елементи керування медіа</summary>
+  <summary lang="tr">Hoparlör ve mikrofon sesini ayarlayın veya Şimdi Çalınıyor bilgisi ve medya kontrollerine bakın</summary>
+  <summary lang="szl">Szteluj głośność głośnika i mikrofōnu abo wejzdrzij na informacyjo ô tym, co prawie gro, i na kōntrolki mediōw</summary>
+  <summary lang="sr">Дотерајте гласност звучника и микрофона или видите информације „Сада пуштам“ и дугмад медија</summary>
+  <summary lang="sk">Upravte hlasitosť reproduktora a zosilnenie mikrofónu alebo skontrolujte informácie o práve prehrávaných skladbách a ovládaní prehrávania</summary>
+  <summary lang="ru">Настройте громкость динамика и микрофона или посмотрите информацию о воспроизведении и элементах управления медиа</summary>
+  <summary lang="pt_BR">Ajuste o volume do alto-falante e do microfone ou consulte Reproduzindo Agora informações e controles de mídia</summary>
+  <summary lang="pt">Ajuste o volume do altifalante e do microfone ou veja Agora a reproduzir informações e controlos de multimédia</summary>
+  <summary lang="pl">Dopasuj głośność głośnika oraz mikrofonu lub zobacz informację na temat aktualnie odtwarzanych mediów i kontroluj je</summary>
+  <summary lang="nn">Juster volumet på høgtalar og mikrofon, eller sjå kva som bli spelt av og mediekontrollarar</summary>
+  <summary lang="nl">Pas het volume van de speakers en microfoon aan, zie informatie over het huidige nummer en bedien media</summary>
+  <summary lang="nb">Juster lydstyrke for høyttaler og mikrofon, eller se «Nå spilles»-info og mediakontroller</summary>
+  <summary lang="mr">स्पीकर आणि मायक्रोफोन व्हॉल्यूम समायोजित करा किंवा आता प्ले होत असणाऱ्यांची माहिती आणि मीडिया नियंत्रणे पहा</summary>
+  <summary lang="ja">スピーカーやマイクの音量を調整したり、現在再生中の曲の情報やメディアコントロールを表示したりします</summary>
+  <summary lang="it">Regola il volume dell'altoparlante e del microfono o consulta le informazioni di riproduzione e i controlli multimediali</summary>
+  <summary lang="he">כוונון עצמת הרמקולים והמיקרופון או הצגת הפרטים על מה שמתנגן לרבות האפשרות לפקד על המדיה</summary>
+  <summary lang="fr">Ajuster le volume de lecture et d'enregistrement ou voir et contrôler les médias en-cours</summary>
+  <summary lang="fi">Säädä äänenvoimakkuutta tai näytä nyt toistettavan kappaleen tiedot ja mediaohjaimet</summary>
+  <summary lang="es">Ajuste el volumen del altavoz y del micrófono o vea información de reproducción y controles multimedia</summary>
+  <summary lang="eo">Agordi la laŭtparolilon kaj mikrofonon aŭ vidi informojn pri ludataĵoj kaj aŭdovidajn regilojn</summary>
+  <summary lang="en_GB">Adjust speaker and microphone volume or see Now Playing information and media controls</summary>
+  <summary lang="en_CA">Adjust speaker and microphone volume or see Now Playing information and media controls</summary>
+  <summary lang="en_AU">Adjust speaker and microphone volume or see Now Playing information and media controls</summary>
+  <summary lang="de">Lautsprecher- und Mikrofonlautstärke anpassen oder Informationen über den laufenden Medientitel und dessen Steuerung anzeigen</summary>
+  <summary lang="da">Juster højttaler- og mikrofonvolumen eller se Nu Afspilller information og mediekontroller</summary>
+  <summary lang="cs">Úprava hlasitosti reprodukce zvuku a zesílení mikrofonu. Dále zobrazení informace o právě přehrávané skladbě a ovládacích prvků přehrávání</summary>
+  <summary lang="ca">Ajusteu el volum de l'altaveu i el micròfon o vegeu la informació del que es reprodueix i els controls.</summary>
+  <summary lang="ar">قم بضبط مستوى صوت السماعات أو مكبر الصوت أو شاهد الملف الصوتي المشغل حالياً مع أزرار الوسائط</summary>
+  <icon type="stock">preferences-desktop-sound</icon>
+  <releases>
+    <release urgency="medium" version="6.0.1" date="2021-11-18">
+      <description>
+        <p>Minor updates</p>
+        <ul>
+          <li>Show more specific icons for different types of devices</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" version="6.0.0" date="2021-07-14">
+      <description>
+        <p>New features</p>
+        <ul>
+          <li>select specific input and output devices</li>
+        </ul>
+        <p>Minor updates</p>
+        <ul>
+          <li>Hide temporary audio players when they stop</li>
+          <li>Add a tooltip on hover</li>
+          <li>Minor visual improvements</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" date="2020-12-23" version="2.1.8">
+      <description>
+        <p>Minor updates</p>
+        <ul>
+          <li>Fix duplicate default player</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2020-10-08" version="2.1.7" urgency="medium">
+      <description>
+        <p>Minor updates</p>
+        <ul>
+          <li>Fix opacity flash during icon animation</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.1.6" date="2020-08-07" urgency="medium">
+      <description>
+        <p>Update default music player when changed</p>
+        <p>Updated translations</p>
+      </description>
+    </release>
+    <release urgency="medium" date="2020-04-02" version="2.1.5">
+      <description>
+        <p>Correctly show "Unknown Artist" when artist info isn't available</p>
+        <p>Performance improvements</p>
+        <p>Updated translations</p>
+      </description>
+    </release>
+    <release version="2.1.4" date="2019-11-25" urgency="medium">
+      <description>
+        <p>Updated translations</p>
+      </description>
+    </release>
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/elementary/wingpanel-indicator-sound/master/data/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <developer_name>elementary, Inc.</developer_name>
+  <developer_name lang="zh_CN">elementary, Inc.</developer_name>
+  <developer_name lang="uz">elementary Inc.</developer_name>
+  <developer_name lang="uk">elementary, Inc.</developer_name>
+  <developer_name lang="tr">elementary, Inc.</developer_name>
+  <developer_name lang="szl">elementary, Inc.</developer_name>
+  <developer_name lang="sr">elementary, Inc.</developer_name>
+  <developer_name lang="sk">elementary, Inc.</developer_name>
+  <developer_name lang="ru">elementary, Inc.</developer_name>
+  <developer_name lang="pt_BR">elementary, Inc.</developer_name>
+  <developer_name lang="pt">elementary, Inc.</developer_name>
+  <developer_name lang="pl">elementary, Inc.</developer_name>
+  <developer_name lang="oc">elementary, Inc.</developer_name>
+  <developer_name lang="nn">elementary, Inc.</developer_name>
+  <developer_name lang="nl">elementary, Inc.</developer_name>
+  <developer_name lang="nb">elementary, Inc.</developer_name>
+  <developer_name lang="mr">एलिमेंटरी, Inc.</developer_name>
+  <developer_name lang="ja">elementary, Inc.</developer_name>
+  <developer_name lang="it">elementary, Inc.</developer_name>
+  <developer_name lang="hu">elementary, Inc.</developer_name>
+  <developer_name lang="he">elementary בע״מ</developer_name>
+  <developer_name lang="fr">elementary, Inc.</developer_name>
+  <developer_name lang="es">elementary, Inc.</developer_name>
+  <developer_name lang="eo">elementary, Inc.</developer_name>
+  <developer_name lang="en_GB">elementary, Inc.</developer_name>
+  <developer_name lang="en_CA">elementary, Inc.</developer_name>
+  <developer_name lang="en_AU">elementary, Inc.</developer_name>
+  <developer_name lang="de">elementary, Inc.</developer_name>
+  <developer_name lang="da">elementary, Inc.</developer_name>
+  <developer_name lang="cs">elementary, Inc.</developer_name>
+  <developer_name lang="ca">elementary, Inc.</developer_name>
+  <developer_name lang="ar">elementary, Inc.</developer_name>
+  <url type="homepage">https://elementary.io/</url>
+  <url type="bugtracker">https://github.com/elementary/wingpanel-indicator-sound/issues</url>
+  <url type="donation">https://elementary.io/get-involved#funding</url>
+  <url type="help">https://elementaryos.stackexchange.com/questions/tagged/wingpanel</url>
+  <url type="translate">https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-sound/</url>
+  <update_contact>contact_AT_elementary.io</update_contact>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_group>elementary</project_group>
+  <project_license>GPL-3.0+</project_license>
+</component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>libsForQt5.applet-window-buttons</pkgname>
+  <id>org.kde.windowbuttons</id>
+  <extends>org.kde.plasmashell</extends>
+  <name>Window Buttons</name>
+  <summary>Window buttons for your panels</summary>
+  <url type="homepage">https://github.com/psifidotos/applet-window-buttons</url>
+  <url type="donation">https://www.kde.org/donate.php?app=org.kde.windowbuttons</url>
+  <developer_name>Michail Vourlakos &lt;mvourlakos@gmail.com></developer_name>
+  <icon type="stock">focus-windows</icon>
+  <project_license>GPL-2.0</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+</component>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>xpra</pkgname>
+  <launchable type="desktop-id">xpra.desktop</launchable>
+  <id>xpra.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Xpra</name>
+  <summary>A multi-platform screen and application forwarding system</summary>
+  <description>
+    <p>
+   Xpra is a multi-platform persistent remote display server and client for
+   forwarding applications and desktop screens.
+  </p>
+    <p>
+    It gives you remote access to individual applications or full desktops.
+    On X11, it is also known as 'screen for X11': it allows you to run programs,
+    usually on a remote host, direct their display to your local machine, and
+    then to disconnect from these programs and reconnect from the same
+    or another machine, without losing any state.
+    It can also be used to forward full desktops, from X11 servers,
+    MS Windows, or Mac OS X.
+    Xpra also allows forwarding of sound, clipboard and printing services.
+  </p>
+    <p>
+    With X11 programs, Xpra can be used "rootless" or "seamless":
+    programs you run under it show up on your desktop as regular programs,
+    managed by your regular window manager.
+    Sessions can be accessed over SSH, or password  protected over plain
+    TCP sockets.  Xpra is usable over reasonably slow links and does its
+    best to adapt to changing network bandwidth constraints.
+  </p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://xpra.org/screenshots/xpra-session-info.png</image>
+      <caption>The session information dialog showing bandwidth usage and latency</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://xpra.org/screenshots/xpra-launcher.png</image>
+      <caption>The session launcher dialog running on Windows XP</caption>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://xpra.org/</url>
+  <updatecontact>shifter-users@lists.devloop.org.uk</updatecontact>
+</component>

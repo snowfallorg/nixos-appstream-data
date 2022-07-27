@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+  <pkgname>libsForQt5.kaccounts-providers</pkgname>
+  <id>owncloud_kaccounts_ui</id>
+  <name>ownCloud</name>
+  <name lang="ar">ownCloud</name>
+  <name lang="ast">ownCloud</name>
+  <name lang="az">ownCloud</name>
+  <name lang="ca@valencia">ownCloud</name>
+  <name lang="ca">ownCloud</name>
+  <name lang="cs">ownCloud</name>
+  <name lang="de">ownCloud</name>
+  <name lang="el">ownCloud</name>
+  <name lang="en_GB">ownCloud</name>
+  <name lang="es">ownCloud</name>
+  <name lang="eu">ownCloud</name>
+  <name lang="fi">ownCloud</name>
+  <name lang="fr">ownCloud</name>
+  <name lang="hu">ownCloud</name>
+  <name lang="ia">ownCloud</name>
+  <name lang="it">ownCloud</name>
+  <name lang="ko">ownCloud</name>
+  <name lang="nl">ownCloud</name>
+  <name lang="nn">ownCloud</name>
+  <name lang="pa">ownCloud</name>
+  <name lang="pl">ownCloud</name>
+  <name lang="pt">ownCloud</name>
+  <name lang="pt_BR">ownCloud</name>
+  <name lang="ro">ownCloud</name>
+  <name lang="ru">ownCloud</name>
+  <name lang="sk">ownCloud</name>
+  <name lang="sl">ownCloud</name>
+  <name lang="sv">ownCloud</name>
+  <name lang="tr">ownCloud</name>
+  <name lang="uk">ownCloud</name>
+  <name lang="x-test">xxownCloudxx</name>
+  <name lang="zh_CN">ownCloud</name>
+  <summary>Use OwnCloud with KAccounts</summary>
+  <summary lang="ar">استخدم ownCloud مع حساباتك</summary>
+  <summary lang="ast">Usa ownCloud con KAccounts</summary>
+  <summary lang="az">OwnCloud'u KAccounts ilə istifadə etmək</summary>
+  <summary lang="ca@valencia">Utilitza ownCloud amb KAccounts</summary>
+  <summary lang="ca">Usa ownCloud amb KAccounts</summary>
+  <summary lang="cs">Použít ownCloud s KAccounts</summary>
+  <summary lang="da">Brug OwnCloud med KAccounts</summary>
+  <summary lang="de">OwnCloud mit KAccounts benutzen</summary>
+  <summary lang="el">Χρήση OwnCloud με KAccounts</summary>
+  <summary lang="en_GB">Use OwnCloud with KAccounts</summary>
+  <summary lang="es">Usar OwnCloud con KAccounts</summary>
+  <summary lang="et">OwnCloudi kasutamine KAccountsiga</summary>
+  <summary lang="eu">Erabili OwnCloud KAccounts-ekin</summary>
+  <summary lang="fi">Käytä Owncloudia KAccountsissa</summary>
+  <summary lang="fr">Utiliser « Owncloud » avec KAccounts</summary>
+  <summary lang="gl">Usar OwnCloud con KAccounts</summary>
+  <summary lang="hi">KAccounts के साथOwnCloud प्रयोग करें</summary>
+  <summary lang="hu">OwnCloud használata a KAccounts-cal</summary>
+  <summary lang="ia">Usa OwnCloud con KAccounts</summary>
+  <summary lang="it">Usa OwnCloud con KAccounts</summary>
+  <summary lang="ko">KAccounts에서 OwnCloud 사용하기</summary>
+  <summary lang="lt">Naudoti OwnCloud su KAccounts</summary>
+  <summary lang="nl">OwnCloud met KAccounts gebruiken</summary>
+  <summary lang="nn">Bruk OwnCloud med KAccounts</summary>
+  <summary lang="pa">KAccounts ਨਾਲ OwnCloud ਵਰਤੋਂ</summary>
+  <summary lang="pl">Używaj ownCloud z KAccounts</summary>
+  <summary lang="pt">Usar o OwnCloud com o KAccounts</summary>
+  <summary lang="pt_BR">Usar OwnCloud com o KAccounts</summary>
+  <summary lang="ro">Folosește OwnCloud cu KAccounts</summary>
+  <summary lang="ru">Доступ к ownCloud посредством KAccounts</summary>
+  <summary lang="sk">Použije účet OwnCloud s aplikáciou KAccounts</summary>
+  <summary lang="sl">Uporabi OwnCloud s KAccounts</summary>
+  <summary lang="sr@ijekavian">Користите Оунклауд са К‑налозима</summary>
+  <summary lang="sr@ijekavianlatin">Koristite ownCloud sa K‑nalozima</summary>
+  <summary lang="sr@latin">Koristite ownCloud sa K‑nalozima</summary>
+  <summary lang="sr">Користите Оунклауд са К‑налозима</summary>
+  <summary lang="sv">Använd ownCloud med Kaccounts</summary>
+  <summary lang="tr">ownCloud'u KAccounts ile birlikte kullan</summary>
+  <summary lang="uk">Використання OwnCloud з KAccounts</summary>
+  <summary lang="x-test">xxUse OwnCloud with KAccountsxx</summary>
+  <summary lang="zh_CN">通过 KAccounts 使用 OwnCloud</summary>
+  <summary lang="zh_TW">以 KAccounts 使用 OwnCloud</summary>
+  <url type="homepage">https://kde.org</url>
+  <developer_name>Martin Klapetek &lt;mklapetek@kde.org></developer_name>
+  <icon type="stock">applications-internet</icon>
+  <project_license>GPL-2.0</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+</component>

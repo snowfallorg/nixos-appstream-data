@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>plasma-applet-volumewin7mixer</pkgname>
+  <id>org.kde.plasma.volumewin7mixer</id>
+  <extends>org.kde.plasmashell</extends>
+  <name>Audio Volume (Win7 Mixer)</name>
+  <name lang="fr">Volume audio (Win7 Mixer)</name>
+  <name lang="nl">Geluidsvolume (Win7 Mixer)</name>
+  <summary>Adjust the volume of devices and applications</summary>
+  <summary lang="fr">Ajuster le volume des périphériques et des applications</summary>
+  <summary lang="nl">Geluidsniveau van apparaten en toepassingen aanpassen</summary>
+  <url type="homepage">https://github.com/Zren/plasma-applet-volumewin7mixer</url>
+  <url type="donation">https://www.kde.org/donate.php?app=org.kde.plasma.volumewin7mixer</url>
+  <developer_name>Harald Sitter + Chris Holland &lt;zrenfire@gmail.com></developer_name>
+  <icon type="stock">org.kde.plasma.volume</icon>
+  <project_license>GPL-2.0</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+</component>

@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>libsForQt5.angelfish</pkgname>
+  <icon type="cached" width="64" height="64">org.kde.angelfish.png</icon>
+  <icon width="128" height="128" type="cached">org.kde.angelfish.png</icon>
+  <id>org.kde.angelfish</id>
+  <name>Angelfish Web Browser</name>
+  <name lang="az">Angelfish Veb Bələdçisi</name>
+  <name lang="ca">Navegador web Angelfish</name>
+  <name lang="ca-valencia">Navegador web Angelfish</name>
+  <name lang="cs">Webový prohlížeč Angelfish</name>
+  <name lang="de">Angelfish-Webbrowser</name>
+  <name lang="el">Angelfish περιηγητής ιστού</name>
+  <name lang="en-GB">Angelfish Web Browser</name>
+  <name lang="es">Navegador web Angelfish</name>
+  <name lang="eu">Angelfish web-arakatzailea</name>
+  <name lang="fi">Angelfish-verkkoselain</name>
+  <name lang="fr">Navigateur Internet Angelfish</name>
+  <name lang="hu">Angelfish webböngésző</name>
+  <name lang="ia">Angelfish Webbrowser (navigator web)</name>
+  <name lang="id">Browser Web Angelfish</name>
+  <name lang="it">Browser web Angelfish</name>
+  <name lang="ko">Angelfish 웹 브라우저</name>
+  <name lang="lt">Angelfish saityno naršyklė</name>
+  <name lang="nl">Webbrowser Angelfish</name>
+  <name lang="nn">Angelfish nettlesar</name>
+  <name lang="pa">ਐਂਗਲਫਿਸ਼ ਵੈੱਬ ਬਰਾਊਜ਼ਰ</name>
+  <name lang="pl">Przeglądarka sieciowa Angelfish</name>
+  <name lang="pt">Navegador Web Angelfish</name>
+  <name lang="pt-BR">Navegador Web Angelfish</name>
+  <name lang="ru">Веб-браузер Angelfish</name>
+  <name lang="sk">Webový prehliadač Angelfish</name>
+  <name lang="sl">Angelfish spletni brskalnik</name>
+  <name lang="sv">Angelfish webbläsare</name>
+  <name lang="tr">Angelfish Web Tarayıcısı</name>
+  <name lang="uk">Веббраузер Angelfish</name>
+  <name lang="x-test">xxAngelfish Web Browserxx</name>
+  <name lang="zh-CN">Angelfish 网页浏览器</name>
+  <summary>Webbrowser for mobile devices</summary>
+  <summary lang="az">Mobil qurğular üçün Veb_Bələdçi</summary>
+  <summary lang="ca">Navegador web per a dispositius mòbils</summary>
+  <summary lang="ca-valencia">Navegador web per a dispositius mòbils</summary>
+  <summary lang="cs">Webový prohlížeč pro mobilní zařízení</summary>
+  <summary lang="da">Webbrowser til mobile enheder</summary>
+  <summary lang="de">Webbrowser für mobile Geräte</summary>
+  <summary lang="el">Πειηγητής ιστού για κινητά</summary>
+  <summary lang="en-GB">Web browser for mobile devices</summary>
+  <summary lang="es">Navegador web para dispositivos móviles</summary>
+  <summary lang="et">Mobiilseadmete veebilehitseja</summary>
+  <summary lang="eu">Gailu mugikorretarako web-arakatzailea</summary>
+  <summary lang="fi">Verkkoselain mobiililaitteille</summary>
+  <summary lang="fr">Navigateur web pour les appareils mobiles</summary>
+  <summary lang="gl">Navegador web para dispositivos móbiles</summary>
+  <summary lang="hu">Webböngésző mobileszközökre</summary>
+  <summary lang="ia">Webbrowser (Navigator de web) per dispositivos mobile</summary>
+  <summary lang="id">Webbrowser untuk perangkat ponsel</summary>
+  <summary lang="it">Browser web per dispositivi mobili</summary>
+  <summary lang="ko">모바일 장치용 웹 브라우저</summary>
+  <summary lang="lt">Saityno naršyklė mobiliesiems įrenginiams</summary>
+  <summary lang="nl">Webbrowser voor mobiele apparaten</summary>
+  <summary lang="nn">Nettlesar for mobile einingar</summary>
+  <summary lang="pa">ਮੋਬਾਈਲ ਡਿਵਾਈਸਾਂ ਲਈ ਵੈੱਬ-ਬਰਾਊਜ਼ਰ</summary>
+  <summary lang="pl">Przeglądarka sieciowa przystosowana do urządzeń przenośnych</summary>
+  <summary lang="pt">Navegador Web para dispositivos móveis</summary>
+  <summary lang="pt-BR">Navegador Web para dispositivos móveis</summary>
+  <summary lang="ru">Веб-браузер для мобильных устройств</summary>
+  <summary lang="sk">Webový prehliadač pre mobilné zariadenia</summary>
+  <summary lang="sl">Spletni brskalnik za mobilne naprave</summary>
+  <summary lang="sv">Webbläsare för mobila apparater</summary>
+  <summary lang="tr">Taşınabilir aygıtlar için web tarayıcı</summary>
+  <summary lang="uk">Браузер для мобільних пристроїв</summary>
+  <summary lang="x-test">xxWebbrowser for mobile devicesxx</summary>
+  <summary lang="zh-CN">移动设备的网络浏览器</summary>
+  <summary lang="zh-TW">適用於行動裝置的網頁瀏覽器</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0</project_license>
+  <content_rating type="oars-1.1" />
+  <developer_name>KDE Community</developer_name>
+  <developer_name lang="az">KDE İcması</developer_name>
+  <developer_name lang="ca">La comunitat KDE</developer_name>
+  <developer_name lang="ca-valencia">La comunitat KDE</developer_name>
+  <developer_name lang="cs">Komunita KDE</developer_name>
+  <developer_name lang="da">KDE-fællesskabet</developer_name>
+  <developer_name lang="de">KDE-Gemeinschaft</developer_name>
+  <developer_name lang="el">Κοινότητα του KDE</developer_name>
+  <developer_name lang="en-GB">KDE Community</developer_name>
+  <developer_name lang="es">Comunidad KDE</developer_name>
+  <developer_name lang="et">KDE kogukond</developer_name>
+  <developer_name lang="eu">KDE komunitatea</developer_name>
+  <developer_name lang="fi">KDE-yhteisö</developer_name>
+  <developer_name lang="fr">La communauté KDE</developer_name>
+  <developer_name lang="gl">Comunidade KDE</developer_name>
+  <developer_name lang="hu">A KDE Közösség</developer_name>
+  <developer_name lang="ia">Communitate de KDE</developer_name>
+  <developer_name lang="id">Komunitas KDE</developer_name>
+  <developer_name lang="it">Comunità KDE</developer_name>
+  <developer_name lang="ko">KDE 커뮤니티</developer_name>
+  <developer_name lang="lt">KDE bendruomenė</developer_name>
+  <developer_name lang="nl">KDE-gemeenschap</developer_name>
+  <developer_name lang="nn">KDE-fellesskapet</developer_name>
+  <developer_name lang="pa">ਕੇਡੀਈ ਕਮਿਊਨਟੀ</developer_name>
+  <developer_name lang="pl">Społeczność KDE</developer_name>
+  <developer_name lang="pt">Comunidade do KDE</developer_name>
+  <developer_name lang="pt-BR">KDE Community</developer_name>
+  <developer_name lang="ru">Сообщество KDE</developer_name>
+  <developer_name lang="sk">KDE komunita</developer_name>
+  <developer_name lang="sl">Skupnost KDE</developer_name>
+  <developer_name lang="sv">KDE-gemenskapen</developer_name>
+  <developer_name lang="tr">KDE Topluluğu</developer_name>
+  <developer_name lang="uk">Спільнота KDE</developer_name>
+  <developer_name lang="x-test">xxKDE Communityxx</developer_name>
+  <developer_name lang="zh-CN">KDE 社区</developer_name>
+  <developer_name lang="zh-TW">KDE 社群</developer_name>
+  <url type="bugtracker">https://invent.kde.org/plasma-mobile/angelfish/-/issues</url>
+  <description>
+    <p>Angelfish is a modern mobile webbrowser</p>
+    <p lang="az">Angelfish müasir mobil veb_bələdçidir</p>
+    <p lang="ca">L'Angelfish és un navegador web modern per a mòbils</p>
+    <p lang="ca-valencia">Angelfish és un navegador web modern per a mòbils</p>
+    <p lang="cs">Angelfish je moderní mobilní webový prohlížeč</p>
+    <p lang="da">Angelfish er en moderne mobil-webbrowser</p>
+    <p lang="de">Angelfish ist ein moderner Webbrowser für mobile Geräte</p>
+    <p lang="el">Το Angelfish είναι ένας σύγχρονος περιηγητής ιστού για κινητά</p>
+    <p lang="en-GB">Angelfish is a modern mobile web browser</p>
+    <p lang="es">Angelfish es un moderno navegador web móvil</p>
+    <p lang="et">Angelfish on tänapäevane mobiilne veebilehitseja</p>
+    <p lang="eu">Angelfish web-arakatzaile mugikor moderno bat da</p>
+    <p lang="fi">Angelfish on nykyaikainen mobiiliverkkoselain</p>
+    <p lang="fr">Angelfish est un navigateur web mobile moderne</p>
+    <p lang="gl">Angelfish é un navegador web móbil moderno</p>
+    <p lang="hu">Az Angelfish egy modern mobilos webböngésző</p>
+    <p lang="ia">Angelfish es un moderne Webbrowser (navigator web) de mobile</p>
+    <p lang="id">Angelfish adalah sebuah webbrowser ponsel yang modern</p>
+    <p lang="it">Angelfish è un browser web moderno per dispositivi mobili</p>
+    <p lang="ko">Angelfish는 현대적인 모바일 웹 브라우저입니다</p>
+    <p lang="lt">Angelfish yra šiuolaikinė mobilioji saityno naršyklė</p>
+    <p lang="nl">Angelfish is een moderne mobiele webbrowser</p>
+    <p lang="nn">Angelfish er ein moderne nettlesar for mobiltelefonar.</p>
+    <p lang="pa">ਐਂਗਲਫਿਸ਼ ਨਵੇਂ ਜ਼ਮਾਨੇ ਦਾ ਮੋਬਾਈਲ ਵੈੱਬ-ਬਰਾਊਜ਼ਰ ਹੈ</p>
+    <p lang="pl">Angelfish to nowoczesna, przenośna przeglądarka sieciowa</p>
+    <p lang="pt">O Angelfish é um navegador Web móvel moderno</p>
+    <p lang="pt-BR">O Angelfish é um navegador Web móvel modem</p>
+    <p lang="ru">Angelfish — это современный веб-браузер для мобильных устройств</p>
+    <p lang="sk">Angelfish je moderný mobilný webový prehliadač</p>
+    <p lang="sl">Angelfish je sodobni mobilni spletni brskalnik</p>
+    <p lang="sv">Angelfish är en modern mobilwebbläsare</p>
+    <p lang="tr">Angelfish; çağdaş ve taşınabilir bir web tarayıcıdır</p>
+    <p lang="uk">Angelfish — сучасний браузер для мобільних пристроїв</p>
+    <p lang="x-test">xxAngelfish is a modern mobile webbrowserxx</p>
+    <p lang="zh-CN">Angelfish 是一款现代化的移动设备网络浏览器</p>
+    <p lang="zh-TW">Angelfish 是款現代化的行動網頁瀏覽器</p>
+    <p>It supports typical browser features, such as</p>
+    <p lang="az">O, veb bələdçilərə xas aşağıda göstərilən bir çox xüsusiyyətləri dəstəkləyir</p>
+    <p lang="ca">Permet les funcionalitats típiques de navegació, com</p>
+    <p lang="ca-valencia">Permet les funcionalitats típiques de navegació, com</p>
+    <p lang="cs">Podporuje typické vlastnosti prohlížeče jako</p>
+    <p lang="da">Den understøtter almindelige browserfunktioner såsom</p>
+    <p lang="de">Es unterstützt die typischen Funktionen von Browsern wie</p>
+    <p lang="el">Υποστηρίζει τις τυπικές λειτουργίες ενός περιηγητή, όπως</p>
+    <p lang="en-GB">It supports typical browser features, such as</p>
+    <p lang="es">Permite las funciones típicas de un navegador, como</p>
+    <p lang="et">See toetab tüüpilisi veebilehitseja võimalusi, nagu</p>
+    <p lang="eu">Arakatzaileen ohiko ezaugarriak ditu, besteak beste</p>
+    <p lang="fi">Tukee tavallisia selainominaisuuksia kuten</p>
+    <p lang="fr">Il prend en charge les fonctionnalités classiques des navigateurs :</p>
+    <p lang="gl">Goza das funcionalidades habituais dos navegadores, como</p>
+    <p lang="hu">Támogatja a megszokott szolgáltatásokat, úgy mint</p>
+    <p lang="ia">Il supporta typic characteristicas de navigator, tal como</p>
+    <p lang="id">Ini mendukung fitur-fitur browser biasanya, sepertihalnya</p>
+    <p lang="it">Supporta le funzionalità tipiche del browser, quali</p>
+    <p lang="ko">다음과 같은 웹 브라우저 기능을 제공합니다</p>
+    <p lang="lt">Ji palaiko tipines naršyklės ypatybes, tokias kaip</p>
+    <p lang="nl">Het ondersteunt typische browserfuncties, zoals</p>
+    <p lang="nn">Han støttar vanlege nettlesarfunksjonar:</p>
+    <p lang="pa">ਇਹ ਸਧਾਰਨ ਬਰਾਊਜ਼ਰ ਫੀਚਰਾਂ ਲਈ ਸਹਾਇਕ ਹੈ ਜਿਵੇਂ ਕਿ</p>
+    <p lang="pl">Obsługuje zwyczajne funkcje przeglądarki, takie jak</p>
+    <p lang="pt">Suporta as funcionalidades típicas de navegação, como</p>
+    <p lang="pt-BR">Tem suporte a funcionalidades típicas de navegação, como</p>
+    <p lang="ru">Он поддерживает типичные функции веб-браузеров, такие как</p>
+    <p lang="sk">Podporuje typické funkcie prehliadača, ako napr.</p>
+    <p lang="sl">Podpira tipične možnosti brskalnikov, kot so</p>
+    <p lang="sv">Den stöder typiska webbläsarfunktioner, såsom</p>
+    <p lang="tr">Aşağıda bir listesini görebileceğiniz standart web tarayıcı özelliklerine sahiptir:</p>
+    <p lang="uk">Передбачено типові можливості браузера, зокрема</p>
+    <p lang="x-test">xxIt supports typical browser features, such asxx</p>
+    <p lang="zh-CN">它支持典型的浏览器功能，例如：</p>
+    <p lang="zh-TW">此瀏覽器支援一般瀏覽器會有的功能，例如</p>
+    <ul>
+      <li>bookmarks</li>
+      <li lang="az">əlfəcinlər</li>
+      <li lang="ca">adreces d'interès</li>
+      <li lang="ca-valencia">adreces d'interés</li>
+      <li lang="cs">záložky</li>
+      <li lang="da">bogmærker</li>
+      <li lang="de">Lesezeichen</li>
+      <li lang="el">σελιδοδείκτες</li>
+      <li lang="en-GB">bookmarks</li>
+      <li lang="es">marcadores</li>
+      <li lang="et">järjehoidjad</li>
+      <li lang="eu">laster-markak</li>
+      <li lang="fi">kirjanmerkit</li>
+      <li lang="fr">signets</li>
+      <li lang="gl">marcadores</li>
+      <li lang="hu">könyvjelzők</li>
+      <li lang="ia">Marcatores de libro</li>
+      <li lang="id">markah</li>
+      <li lang="it">segnalibri</li>
+      <li lang="ko">책갈피</li>
+      <li lang="lt">žymeles</li>
+      <li lang="nl">bladwijzers</li>
+      <li lang="nn">bokmerke</li>
+      <li lang="pa">ਬੁੱਕਮਾਰਕ</li>
+      <li lang="pl">zakładki</li>
+      <li lang="pt">favoritos</li>
+      <li lang="pt-BR">favoritos</li>
+      <li lang="ru">закладки</li>
+      <li lang="sk">zalozky</li>
+      <li lang="sl">zaznamki</li>
+      <li lang="sv">bokmärken</li>
+      <li lang="tr">yer imleri</li>
+      <li lang="uk">закладки</li>
+      <li lang="x-test">xxbookmarksxx</li>
+      <li lang="zh-CN">书签</li>
+      <li lang="zh-TW">書籤</li>
+      <li>history</li>
+      <li lang="az">tarixçə</li>
+      <li lang="ca">historial</li>
+      <li lang="ca-valencia">historial</li>
+      <li lang="cs">historie</li>
+      <li lang="da">historik</li>
+      <li lang="de">Verlauf</li>
+      <li lang="el">ιστορικό</li>
+      <li lang="en-GB">history</li>
+      <li lang="es">historial</li>
+      <li lang="et">ajalugu</li>
+      <li lang="eu">historiala</li>
+      <li lang="fi">historia</li>
+      <li lang="fr">historique</li>
+      <li lang="gl">historial</li>
+      <li lang="hu">előzmények</li>
+      <li lang="ia">Chronologia</li>
+      <li lang="id">histori</li>
+      <li lang="it">cronologia</li>
+      <li lang="ko">과거 기록</li>
+      <li lang="lt">istoriją</li>
+      <li lang="nl">geschiedenis</li>
+      <li lang="nn">besøkslogg</li>
+      <li lang="pa">ਅਤੀਤ</li>
+      <li lang="pl">historia</li>
+      <li lang="pt">histórico</li>
+      <li lang="pt-BR">histórico</li>
+      <li lang="ru">журнал</li>
+      <li lang="sk">História</li>
+      <li lang="sl">zgodovino brskanja</li>
+      <li lang="sv">historik</li>
+      <li lang="tr">geçmiş</li>
+      <li lang="uk">журнал</li>
+      <li lang="x-test">xxhistoryxx</li>
+      <li lang="zh-CN">历史记录</li>
+      <li lang="zh-TW">歷史記錄</li>
+      <li>tabs</li>
+      <li lang="az">vərəqlər</li>
+      <li lang="ca">pestanyes</li>
+      <li lang="ca-valencia">pestanyes</li>
+      <li lang="cs">karty</li>
+      <li lang="da">faneblade</li>
+      <li lang="de">Unterfenster</li>
+      <li lang="el">καρτέλες</li>
+      <li lang="en-GB">tabs</li>
+      <li lang="es">pestañas</li>
+      <li lang="et">kaardid</li>
+      <li lang="eu">fitxak</li>
+      <li lang="fi">välilehdet</li>
+      <li lang="fr">onglets</li>
+      <li lang="gl">separadores</li>
+      <li lang="hu">lapok</li>
+      <li lang="ia">schedas</li>
+      <li lang="id">tab</li>
+      <li lang="it">schede</li>
+      <li lang="ko">탭</li>
+      <li lang="lt">korteles</li>
+      <li lang="nl">tabs</li>
+      <li lang="nn">faner</li>
+      <li lang="pa">ਟੈਬਾਂ</li>
+      <li lang="pl">karty</li>
+      <li lang="pt">páginas</li>
+      <li lang="pt-BR">abas</li>
+      <li lang="ru">вкладки</li>
+      <li lang="sk">karty</li>
+      <li lang="sl">zavihke</li>
+      <li lang="sv">flikar</li>
+      <li lang="tr">sekmeler</li>
+      <li lang="uk">вкладки</li>
+      <li lang="x-test">xxtabsxx</li>
+      <li lang="zh-CN">标签页</li>
+      <li lang="zh-TW">分頁</li>
+    </ul>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Homepage</caption>
+      <caption lang="az">Ev səhifəsi</caption>
+      <caption lang="ca">Pàgina inicial</caption>
+      <caption lang="ca-valencia">Pàgina inicial</caption>
+      <caption lang="cs">Domovská stránka</caption>
+      <caption lang="da">Startside</caption>
+      <caption lang="de">Internetseite</caption>
+      <caption lang="el">Προσωπική σελίδα</caption>
+      <caption lang="en-GB">Homepage</caption>
+      <caption lang="es">Página de inicio</caption>
+      <caption lang="et">Kodulehekülg</caption>
+      <caption lang="eu">Orri nagusia</caption>
+      <caption lang="fi">Kotisivu</caption>
+      <caption lang="fr">Page d'accueil</caption>
+      <caption lang="gl">Páxina inicial</caption>
+      <caption lang="hu">Kezdőlap</caption>
+      <caption lang="ia">Pagina Domo o Principal</caption>
+      <caption lang="id">Laman</caption>
+      <caption lang="it">Pagina iniziale</caption>
+      <caption lang="ko">홈페이지</caption>
+      <caption lang="lt">Pagrindinis puslapis</caption>
+      <caption lang="nl">Homepagina</caption>
+      <caption lang="nn">Heimeside</caption>
+      <caption lang="pa">ਮੁੱਖ ਸਫ਼ਾ</caption>
+      <caption lang="pl">Strona domowa</caption>
+      <caption lang="pt">Página Web</caption>
+      <caption lang="pt-BR">Site</caption>
+      <caption lang="ru">Домашняя страница</caption>
+      <caption lang="sk">Domovská stránka</caption>
+      <caption lang="sl">Domača stran</caption>
+      <caption lang="sv">Hemsida</caption>
+      <caption lang="tr">Anasayfa</caption>
+      <caption lang="uk">Домашня сторінка</caption>
+      <caption lang="x-test">xxHomepagexx</caption>
+      <caption lang="zh-CN">主页</caption>
+      <caption lang="zh-TW">首頁</caption>
+      <image type="source">https://cdn.kde.org/screenshots/plasma-angelfish/homepage.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Menu Actions</caption>
+      <caption lang="az">Menyu fəaliyyətləri</caption>
+      <caption lang="ca">Accions de menú</caption>
+      <caption lang="ca-valencia">Accions de menú</caption>
+      <caption lang="cs">Činnosti nabídky</caption>
+      <caption lang="da">Menuhandlinger</caption>
+      <caption lang="de">Menüaktionen</caption>
+      <caption lang="el">Ενέργειες μενού</caption>
+      <caption lang="en-GB">Menu Actions</caption>
+      <caption lang="es">Acciones del menú</caption>
+      <caption lang="et">Menüütoimingud</caption>
+      <caption lang="eu">Menu-ekintzak</caption>
+      <caption lang="fi">Valikkotoimenpiteet</caption>
+      <caption lang="fr">Actions de menu</caption>
+      <caption lang="gl">Accións de menú</caption>
+      <caption lang="hu">Menüműveletek</caption>
+      <caption lang="ia">Actiones de menu</caption>
+      <caption lang="id">Aksi Menu</caption>
+      <caption lang="it">Menu Azioni</caption>
+      <caption lang="ko">메뉴 동작</caption>
+      <caption lang="lt">Meniu veiksmai</caption>
+      <caption lang="nl">Menuopties</caption>
+      <caption lang="nn">Menyhandlingar</caption>
+      <caption lang="pa">ਮੇਨੂ ਕਾਰਵਾਈਆਂ</caption>
+      <caption lang="pl">Działania menu</caption>
+      <caption lang="pt">Acções do Menu</caption>
+      <caption lang="pt-BR">Menu de ações</caption>
+      <caption lang="ru">Действия меню</caption>
+      <caption lang="sk">Akcie ponuky</caption>
+      <caption lang="sl">Dejavnosti menija</caption>
+      <caption lang="sv">Menyalternativ</caption>
+      <caption lang="tr">Menü Eylemleri</caption>
+      <caption lang="uk">Пункти меню</caption>
+      <caption lang="x-test">xxMenu Actionsxx</caption>
+      <caption lang="zh-CN">菜单操作</caption>
+      <caption lang="zh-TW">選單動作</caption>
+      <image type="source">https://cdn.kde.org/screenshots/plasma-angelfish/actions.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Tabs View</caption>
+      <caption lang="az">Vərəq görünüşü</caption>
+      <caption lang="ca">Vista en pestanyes</caption>
+      <caption lang="ca-valencia">Vista en pestanyes</caption>
+      <caption lang="cs">Prohlížení karet</caption>
+      <caption lang="de">Unterfensteransicht</caption>
+      <caption lang="el">Προβολή καρτελών</caption>
+      <caption lang="en-GB">Tabs View</caption>
+      <caption lang="es">Vista de pestañas</caption>
+      <caption lang="eu">Fitxa-ikuspegia</caption>
+      <caption lang="fi">Välilehtinäkymä</caption>
+      <caption lang="fr">Vue par onglets</caption>
+      <caption lang="hu">Lapnézet</caption>
+      <caption lang="ia">Vista de Schedas</caption>
+      <caption lang="id">Tampilan Tab</caption>
+      <caption lang="it">Vista a schede</caption>
+      <caption lang="ko">탭 보기</caption>
+      <caption lang="lt">Kortelių rodinys</caption>
+      <caption lang="nl">Tabbladenweergave</caption>
+      <caption lang="pa">ਟੈਬ ਝਲਕ</caption>
+      <caption lang="pl">Widok kart</caption>
+      <caption lang="pt">Vista de Páginas</caption>
+      <caption lang="pt-BR">Visualização das abas</caption>
+      <caption lang="ru">Вкладки</caption>
+      <caption lang="sk">Zobrazenie kariet</caption>
+      <caption lang="sl">Pogled zavihkov</caption>
+      <caption lang="sv">Flikvy</caption>
+      <caption lang="tr">Sekmeler Görünümü</caption>
+      <caption lang="uk">Перегляд з вкладками</caption>
+      <caption lang="x-test">xxTabs Viewxx</caption>
+      <caption lang="zh-CN">标签页视图</caption>
+      <image type="source">https://cdn.kde.org/screenshots/plasma-angelfish/tabs.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Desktop User Interface</caption>
+      <caption lang="az">İş Masası İstifadəçi İnterfeysi</caption>
+      <caption lang="ca">Interfície d'usuari d'escriptori</caption>
+      <caption lang="ca-valencia">Interfície d'usuari d'escriptori</caption>
+      <caption lang="cs">Uživatelské rozhraní pracovní plochy</caption>
+      <caption lang="de">Benutzeroberfläche der Arbeitsfläche</caption>
+      <caption lang="en-GB">Desktop User Interface</caption>
+      <caption lang="es">Interfaz de usuario del escritorio</caption>
+      <caption lang="eu">Mahaigaineko erabiltzailearen interfazea</caption>
+      <caption lang="fi">Työpöytäkäyttöliittymä</caption>
+      <caption lang="fr">Interface utilisateur de bureau</caption>
+      <caption lang="hu">Asztali felhasználói felület</caption>
+      <caption lang="ia">Interfacie de usator de scriptorio</caption>
+      <caption lang="id">Antarmuka Pengguna Desktop</caption>
+      <caption lang="it">Interfaccia utente desktop</caption>
+      <caption lang="ko">데스크톱 사용자 인터페이스</caption>
+      <caption lang="nl">Gebruikersinterface op bureaublad</caption>
+      <caption lang="pa">ਡੈਸਕਟਾਪ ਵਰਤੋਂਕਾਰ ਇੰਟਰਫੇਸ</caption>
+      <caption lang="pl">Interfejs użytkownika na komputerze</caption>
+      <caption lang="pt">Interface de Utilizador</caption>
+      <caption lang="pt-BR">Desktop User Interface</caption>
+      <caption lang="ru">Графический интерфейс пользователя для ПК</caption>
+      <caption lang="sk">Desktopové používateľské rozhranie</caption>
+      <caption lang="sl">Uporabniški vmesnik namizja</caption>
+      <caption lang="sv">Användargränssnitt för skrivbord</caption>
+      <caption lang="tr">Masaüstü Kullanıcı Arayüzü</caption>
+      <caption lang="uk">Інтерфейс користувача стільниці</caption>
+      <caption lang="x-test">xxDesktop User Interfacexx</caption>
+      <caption lang="zh-CN">桌面用户界面</caption>
+      <image type="source">https://cdn.kde.org/screenshots/plasma-angelfish/desktop.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://invent.kde.org/plasma-mobile/angelfish</url>
+  <url type="bugtracker">https://invent.kde.org/plasma-mobile/angelfish/-/issues</url>
+  <provides>
+    <binary>angelfish</binary>
+  </provides>
+  <launchable type="desktop-id">org.kde.angelfish.desktop</launchable>
+  <releases>
+    <release date="2022-06-24" version="22.06">
+      <url>https://www.plasma-mobile.org/2022/06/28/plasma-mobile-gear-22-06/</url>
+      <description>
+        <ul>
+          <li>Allow to hide tab bar when single tab is open</li>
+          <li>Fix window activation on wayland</li>
+        </ul>
+      </description>
+    </release>
+    <release version="22.04" date="2022-04-26">
+      <url>https://www.plasma-mobile.org/2022/04/26/plasma-mobile-gear-22-04/</url>
+      <description>
+        <ul>
+          <li>Update adblock crate version</li>
+          <li>Fix webapp entries not showing up in phosh</li>
+          <li>Expose downloads in the desktop version</li>
+        </ul>
+      </description>
+    </release>
+    <release version="22.02" date="2022-02-09">
+      <url>https://www.plasma-mobile.org/2022/02/09/plasma-mobile-gear-22-02/</url>
+      <description>
+        <ul>
+          <li>Fix developer tools</li>
+          <li>Fix displaying the page title in tab switcher</li>
+          <li>Fix wrong check in ad-blocker</li>
+          <li>Implement a desktop UI</li>
+          <li>Re-organize the settings UI and unify for desktop and mobile</li>
+          <li>Simplify the navigation logic</li>
+          <li>Show a popup when URL bar is focused showing history and related text for current URL</li>
+          <li>Use a better default user-agent for mobile devices</li>
+        </ul>
+      </description>
+    </release>
+    <release version="21.12" date="2021-12-07">
+      <url>https://www.plasma-mobile.org/2021/12/07/plasma-mobile-gear-21-12/</url>
+      <description>
+        <ul>
+          <li>Add action button to clear history</li>
+          <li>Improve virtual keyboard integration</li>
+          <li>Allow user to ignore SSL errors</li>
+          <li>Fix loading chrome:// URLs</li>
+          <li>Improved ad-blocker support for cosmetic filters</li>
+        </ul>
+      </description>
+    </release>
+    <release version="21.08" date="2021-08-31">
+      <url>https://www.plasma-mobile.org/2021/08/31/plasma-mobile-gear-21-08/</url>
+    </release>
+    <release date="2021-07-20" version="21.07">
+      <description>
+        <ul>
+          <li>Improve the startup time of the ad blocker</li>
+          <li>Fix various bugs and safety issues in the web app manager</li>
+          <li>Improve flatpak support</li>
+        </ul>
+      </description>
+      <url>https://www.plasma-mobile.org/2021/07/20/plasma-mobile-gear-21-07/</url>
+    </release>
+    <release date="2021-06-10" version="21.06">
+      <description>
+        <ul>
+          <li>Add a settings page for managing web apps</li>
+        </ul>
+      </description>
+      <url>https://www.plasma-mobile.org/2021/06/10/plasma-mobile-update-june/</url>
+    </release>
+    <release version="21.05" date="2021-05-10" />
+  </releases>
+</component>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>libsForQt5.kdeplasma-addons</pkgname>
+  <id>org.kde.plasma.konsoleprofiles</id>
+  <extends>org.kde.plasmashell</extends>
+  <name>Konsole Profiles</name>
+  <name lang="ar">تشكيلات كونسول</name>
+  <name lang="az">Konsol profilləri</name>
+  <name lang="bg">Профили на Konsole</name>
+  <name lang="ca@valencia">Perfils de Konsole</name>
+  <name lang="ca">Perfils del Konsole</name>
+  <name lang="cs">Profily Konsole</name>
+  <name lang="de">Konsole-Profile</name>
+  <name lang="en_GB">Konsole Profiles</name>
+  <name lang="es">Perfiles de Konsole</name>
+  <name lang="eu">«Konsole»ren profilak</name>
+  <name lang="fi">Konsole-profiilit</name>
+  <name lang="fr">Profils de Konsole</name>
+  <name lang="ia">Profilos de Konsole</name>
+  <name lang="id">Profil Konsole</name>
+  <name lang="it">Profili di Konsole</name>
+  <name lang="ja">Konsole プロファイル</name>
+  <name lang="ko">Konsole 프로필</name>
+  <name lang="lt">Konsole profiliai</name>
+  <name lang="nl">Konsole-profielen</name>
+  <name lang="nn">Konsoll-profilar</name>
+  <name lang="pl">Profile Konsoli</name>
+  <name lang="pt">Perfis do Konsole</name>
+  <name lang="pt_BR">Perfis do Konsole</name>
+  <name lang="ro">Profiluri Konsolă</name>
+  <name lang="ru">Konsole: профили</name>
+  <name lang="sk">Profily Konsole</name>
+  <name lang="sl">Profili Konzole</name>
+  <name lang="sv">Terminalprofiler</name>
+  <name lang="tr">Konsol Profilleri</name>
+  <name lang="uk">Профілі Konsole</name>
+  <name lang="vi">Hồ sơ Konsole</name>
+  <name lang="x-test">xxKonsole Profilesxx</name>
+  <name lang="zh_CN">Konsole 配置</name>
+  <summary>List and launch Konsole profiles</summary>
+  <summary lang="ar">تعرض و تطلق تشكيلات كونسول</summary>
+  <summary lang="az">Konsol profillərini sıralamaq və başlatmaq</summary>
+  <summary lang="bg">Показване и избиране на профили на Konsole</summary>
+  <summary lang="ca@valencia">Llista i inicia els perfils de Konsole</summary>
+  <summary lang="ca">Llista i llança els perfils del Konsole</summary>
+  <summary lang="cs">Seznam a spouštění profilů Konsole</summary>
+  <summary lang="de">Konsole-Profile anzeigen und starten</summary>
+  <summary lang="en_GB">List and launch Konsole profiles</summary>
+  <summary lang="es">Listar y lanzar perfiles de Konsole</summary>
+  <summary lang="eu">«Konsole»ren profilak zerrendatu eta jaurtitzea</summary>
+  <summary lang="fi">Luettele ja käynnistä Konsole-profiileja</summary>
+  <summary lang="fr">Lister et lancer des profils de Konsole</summary>
+  <summary lang="ia">Lista e lancea profilos de Konsole</summary>
+  <summary lang="id">Cantumkan dan luncurkan profil Konsole</summary>
+  <summary lang="it">Elenca ed esegue i profili di Konsole</summary>
+  <summary lang="ja">Konsole のプロファイルを起動します</summary>
+  <summary lang="ko">Konsole 프로필을 보고 실행하기</summary>
+  <summary lang="lt">Išvardyti ir paleisti Konsole profilius</summary>
+  <summary lang="nl">Toon en start Konsole-profielen</summary>
+  <summary lang="nn">Vis og start Konsoll-profilar</summary>
+  <summary lang="pl">Wypisuje i uruchamia profile Konsoli</summary>
+  <summary lang="pt">Listar e invocar os perfis do Konsole</summary>
+  <summary lang="pt_BR">Lista e carrega os perfis do Konsole</summary>
+  <summary lang="ro">Enumeră și lansează profiluri de Konsolă</summary>
+  <summary lang="ru">Запуск Konsole для разных задач</summary>
+  <summary lang="sk">Zoznam a spustenie profilov Konsole</summary>
+  <summary lang="sl">Zlistaj in zaženi profile Konzole</summary>
+  <summary lang="sv">Lista och starta terminalprofiler</summary>
+  <summary lang="tr">Konsole profillerini listele ve çalıştır</summary>
+  <summary lang="uk">Перегляньте і запустіть профілі Konsole</summary>
+  <summary lang="vi">Liệt kê và khởi chạy các hồ sơ Konsole</summary>
+  <summary lang="x-test">xxList and launch Konsole profilesxx</summary>
+  <summary lang="zh_CN">列出 Konsole 配置并启动它们</summary>
+  <url type="homepage">https://userbase.kde.org/Plasma</url>
+  <url type="donation">https://www.kde.org/donate.php?app=org.kde.plasma.konsoleprofiles</url>
+  <developer_name>Shaun Reich &lt;shaun.reich@kdemail.net></developer_name>
+  <icon type="stock">utilities-terminal</icon>
+  <project_license>GPL-2.0+</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+</component>

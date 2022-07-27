@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>libsForQt5.kdeplasma-addons</pkgname>
+  <id>org.kde.plasma.weather</id>
+  <extends>org.kde.plasmashell</extends>
+  <name>Weather Report</name>
+  <name lang="ar">تقرير الطقس</name>
+  <name lang="az">Hava məlumatı</name>
+  <name lang="bg">Прогноза за времето</name>
+  <name lang="ca@valencia">Informe meteorològic</name>
+  <name lang="ca">Informe meteorològic</name>
+  <name lang="cs">Hlášení počasí</name>
+  <name lang="de">Wetterbericht</name>
+  <name lang="en_GB">Weather Report</name>
+  <name lang="es">Informe meteorológico</name>
+  <name lang="eu">Eguraldi iragarpena</name>
+  <name lang="fi">Säätiedotus</name>
+  <name lang="fr">Bulletin météo</name>
+  <name lang="ia">Reporto de Tempore meteorologic</name>
+  <name lang="id">Laporan Cuaca</name>
+  <name lang="it">Previsioni meteo</name>
+  <name lang="ja">天気予報</name>
+  <name lang="ko">일기 예보</name>
+  <name lang="lt">Orų pranešimai</name>
+  <name lang="nl">Weerrapport</name>
+  <name lang="nn">Vêr­melding</name>
+  <name lang="pl">Prognoza pogody</name>
+  <name lang="pt">Boletim Meteorológico</name>
+  <name lang="pt_BR">Previsão do tempo</name>
+  <name lang="ro">Prognoza vremii</name>
+  <name lang="ru">Прогноз погоды</name>
+  <name lang="sk">Hlásenie o počasí</name>
+  <name lang="sl">Vremensko poročilo</name>
+  <name lang="sv">Väderprognos</name>
+  <name lang="tr">Hava Durumu Raporu</name>
+  <name lang="uk">Звіт щодо погоди</name>
+  <name lang="vi">Tin thời tiết</name>
+  <name lang="x-test">xxWeather Reportxx</name>
+  <name lang="zh_CN">天气报告</name>
+  <summary>Forecast and current conditions</summary>
+  <summary lang="ar">حالة الطق الحالية و المتوقعة</summary>
+  <summary lang="az">Cari və gözlənilən hava məlumatı</summary>
+  <summary lang="bg">Прогноза за времето и настоящи условия</summary>
+  <summary lang="ca@valencia">Previsió i condicions actuals</summary>
+  <summary lang="ca">Previsió i condicions actuals</summary>
+  <summary lang="cs">Předpověď a současná situace</summary>
+  <summary lang="de">Vorhersage und aktuelle Zustand</summary>
+  <summary lang="en_GB">Forecast and current conditions</summary>
+  <summary lang="es">Previsión meteorológica y condiciones actuales</summary>
+  <summary lang="eu">Iragarpena eta uneko egoera</summary>
+  <summary lang="fi">Ennuste ja nykyinen säätila</summary>
+  <summary lang="fr">Prévisions et conditions actuelles</summary>
+  <summary lang="ia">Prevision e conditiones currente</summary>
+  <summary lang="id">Prakiraan dan kondisi saat ini</summary>
+  <summary lang="it">Previsioni e condizioni attuali</summary>
+  <summary lang="ja">予報と現在の状況を表示します</summary>
+  <summary lang="ko">일기 예보와 현재 날씨</summary>
+  <summary lang="lt">Orų prognozė ir dabartinės orų sąlygos</summary>
+  <summary lang="nl">Voorspelling en huidige condities</summary>
+  <summary lang="nn">Vêrmelding og gjeldande vêr</summary>
+  <summary lang="pl">Prognoza i obecny warunki pogodowe</summary>
+  <summary lang="pt">Previsão e condições actuais</summary>
+  <summary lang="pt_BR">Previsão e condições atuais</summary>
+  <summary lang="ro">Prognoza și condițiile actuale</summary>
+  <summary lang="ru">Прогноз и информация о погоде в данный момент</summary>
+  <summary lang="sk">Predpoveď a aktuálne podmienky</summary>
+  <summary lang="sl">Napoved in trenutne razmere</summary>
+  <summary lang="sv">Prognos och aktuella förhållanden</summary>
+  <summary lang="tr">Hava tahmini ve geçerli durum</summary>
+  <summary lang="uk">Прогноз і поточні умови</summary>
+  <summary lang="vi">Dự báo và điều kiện hiện tại</summary>
+  <summary lang="x-test">xxForecast and current conditionsxx</summary>
+  <summary lang="zh_CN">天气预告和当前天气</summary>
+  <url type="homepage">https://kde.org/plasma-desktop/</url>
+  <url type="donation">https://www.kde.org/donate.php?app=org.kde.plasma.weather</url>
+  <developer_name>Luís Gabriel Lima &lt;lampih@gmail.com></developer_name>
+  <icon type="stock">weather-clear</icon>
+  <project_license>GPL-2.0+</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+</component>

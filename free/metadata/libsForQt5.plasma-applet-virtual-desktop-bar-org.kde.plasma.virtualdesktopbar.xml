@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>libsForQt5.plasma-applet-virtual-desktop-bar</pkgname>
+  <id>org.kde.plasma.virtualdesktopbar</id>
+  <extends>org.kde.plasmashell</extends>
+  <name>Virtual Desktop Bar</name>
+  <summary>Manage your virtual desktops</summary>
+  <url type="donation">https://www.kde.org/donate.php?app=org.kde.plasma.virtualdesktopbar</url>
+  <developer_name>wsdfhjxc &lt;></developer_name>
+  <icon type="stock">virtualdesktopbar</icon>
+  <project_license />
+  <metadata_license>CC0-1.0</metadata_license>
+</component>

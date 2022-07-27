@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>zathura</pkgname>
+  <id>org.pwmt.zathura-ps</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>Zlib</project_license>
+  <extends>org.pwmt.zathura</extends>
+  <name>Zathura-PS</name>
+  <summary>PostScript plugin for zathura</summary>
+  <url type="homepage">https://pwmt.org/projects/zathur-ps/</url>
+  <update_contact>zathura@lists.pwmt.org</update_contact>
+</component>

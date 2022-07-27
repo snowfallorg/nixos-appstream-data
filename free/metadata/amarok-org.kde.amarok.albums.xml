@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>amarok</pkgname>
+  <id>org.kde.amarok.albums</id>
+  <extends>amarok</extends>
+  <name>Albums</name>
+  <name lang="be">Альбомы</name>
+  <name lang="bg">Албуми</name>
+  <name lang="bs">Albumi</name>
+  <name lang="ca@valencia">Àlbums</name>
+  <name lang="ca">Àlbums</name>
+  <name lang="cs">Alba</name>
+  <name lang="csb">Albùmë</name>
+  <name lang="da">Albummer</name>
+  <name lang="de">Alben</name>
+  <name lang="el">Άλμπουμ</name>
+  <name lang="en_GB">Albums</name>
+  <name lang="eo">Albumoj</name>
+  <name lang="es">Álbumes</name>
+  <name lang="et">Albumid</name>
+  <name lang="eu">Albumak</name>
+  <name lang="fa">آلبومها</name>
+  <name lang="fi">Albumit</name>
+  <name lang="fr">Albums</name>
+  <name lang="ga">Albaim</name>
+  <name lang="gl">Albuns</name>
+  <name lang="he">אלבומים</name>
+  <name lang="hne">एल्बम</name>
+  <name lang="hu">Albumok</name>
+  <name lang="ia">Albumes</name>
+  <name lang="id">Album</name>
+  <name lang="is">Plötur</name>
+  <name lang="it">Album</name>
+  <name lang="ja">アルバム</name>
+  <name lang="km">អាល់ប៊ុម</name>
+  <name lang="ko">앨범</name>
+  <name lang="ku">Albûm</name>
+  <name lang="lt">Albumai</name>
+  <name lang="lv">Albūmi</name>
+  <name lang="mr">अल्बम्स</name>
+  <name lang="ms">Album</name>
+  <name lang="nb">Album</name>
+  <name lang="nds">Alben</name>
+  <name lang="nl">Albums</name>
+  <name lang="nn">Album</name>
+  <name lang="oc">Albums</name>
+  <name lang="pa">ਐਲਬਮ</name>
+  <name lang="pl">Albumy</name>
+  <name lang="pt">Álbuns</name>
+  <name lang="pt_BR">Álbuns</name>
+  <name lang="ro">Albume</name>
+  <name lang="ru">Альбомы</name>
+  <name lang="sk">Albumy</name>
+  <name lang="sl">Albumi</name>
+  <name lang="sq">Albumet</name>
+  <name lang="sr@ijekavian">Албуми</name>
+  <name lang="sr@ijekavianlatin">Albumi</name>
+  <name lang="sr@latin">Albumi</name>
+  <name lang="sr">Албуми</name>
+  <name lang="sv">Album</name>
+  <name lang="th">อัลบั้มต่าง ๆ</name>
+  <name lang="tr">Albümler</name>
+  <name lang="ug">ئالبوملار</name>
+  <name lang="uk">Альбоми</name>
+  <name lang="wa">Alboms</name>
+  <name lang="x-test">xxAlbumsxx</name>
+  <name lang="zh_CN">专辑</name>
+  <name lang="zh_TW">專輯</name>
+  <summary>Album cover manager for Amarok</summary>
+  <summary lang="ca@valencia">Gestor per a les caràtules d'àlbum per a l'Amarok</summary>
+  <summary lang="ca">Gestor per a les caràtules d'àlbum per a l'Amarok</summary>
+  <summary lang="cs">Správce obalů alb pro Amarok</summary>
+  <summary lang="da">Håndtering af albumomslag til Amarok</summary>
+  <summary lang="de">Cover-Verwaltung für Amarok</summary>
+  <summary lang="el">Διαχειριστής εξωφύλλου άλμπουμ για το Amarok</summary>
+  <summary lang="en_GB">Album cover manager for Amarok</summary>
+  <summary lang="es">Gestor de portadas de álbumes para Amarok</summary>
+  <summary lang="et">Amaroki kaanepildihaldur</summary>
+  <summary lang="eu">Amarok-en album azal kudeatzailea</summary>
+  <summary lang="fi">Amarokin levykansikuvien hallinta</summary>
+  <summary lang="fr">Gestionnaire de pochettes d'album pour Amarok</summary>
+  <summary lang="gl">Xestor de portadas de álbums para Amarok</summary>
+  <summary lang="hu">Borítókezelő az Amarokhoz</summary>
+  <summary lang="id">Pengelola sampul album untuk Amarok</summary>
+  <summary lang="it">Gestore delle copertine per Amarok</summary>
+  <summary lang="ko">Amarok 앨범 커버 관리자</summary>
+  <summary lang="nl">Albumhoesbeheerder voor Amarok</summary>
+  <summary lang="pl">Zarządzanie okładkami albumów dla Amaroka</summary>
+  <summary lang="pt">Gestor de capas de álbuns para o Amarok</summary>
+  <summary lang="pt_BR">Gerenciador de capas de álbum para o Amarok</summary>
+  <summary lang="sl">Upravljalnik ovitkov za Amarok</summary>
+  <summary lang="sv">Albumomslagshanterare för Amarok</summary>
+  <summary lang="uk">Керування зображеннями обкладинок альбомів для Amarok</summary>
+  <summary lang="x-test">xxAlbum cover manager for Amarokxx</summary>
+  <summary lang="zh_TW">Amarok 的專輯封面管理員</summary>
+  <url type="donation">https://www.kde.org/donate.php?app=org.kde.amarok.albums</url>
+  <developer_name>Seb Ruiz &lt;ruiz@kde.org></developer_name>
+  <icon type="stock">media-album-cover-manager-amarok</icon>
+  <project_license>GPL-2.0</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+</component>

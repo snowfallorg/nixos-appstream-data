@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+  <pkgname>pantheon.elementary-wallpapers</pkgname>
+  <id>io.elementary.wallpapers</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>elementary Wallpapers</name>
+  <name lang="uk">Тло elementary</name>
+  <name lang="tr">elementary Duvar Kağıtları</name>
+  <name lang="ru">Обои elementary</name>
+  <name lang="pl">Tapety elementary</name>
+  <name lang="ja">壁紙</name>
+  <name lang="he">תמונות רקע של elementary</name>
+  <name lang="fr">Fonds d'écran d'elementary</name>
+  <name lang="fi">elementary-taustakuvat</name>
+  <name lang="en_GB">elementary Wallpapers</name>
+  <name lang="en_CA">elementary Wallpapers</name>
+  <name lang="en_AU">elementary Wallpapers</name>
+  <name lang="ca">Fons de pantalla de l'elementary</name>
+  <summary>Curated wallpapers for elementary OS</summary>
+  <summary lang="uk">Зображення для тла від elementary OS</summary>
+  <summary lang="tr">elementary OS için seçilmiş duvar kağıtları</summary>
+  <summary lang="pl">Specjalnie wybrane tapety dla elementary OS</summary>
+  <summary lang="ja">elementary OS 向けに選ばれた壁紙</summary>
+  <summary lang="he">תמונות רקע שנאספו לטובת elementary OS</summary>
+  <summary lang="fr">Fond d'écrans officiels pour elementary OS</summary>
+  <summary lang="fi">Valikoidut taustakuvat elementary OS:lle</summary>
+  <summary lang="en_GB">Curated wallpapers for elementary OS</summary>
+  <summary lang="en_CA">Curated wallpapers for elementary OS</summary>
+  <summary lang="en_AU">Curated wallpapers for elementary OS</summary>
+  <summary lang="ca">Fons de pantalla seleccionats per a l'elementary OS</summary>
+  <releases>
+    <release version="6.1.0" date="2021-12-13" urgency="medium">
+      <description>
+        <ul>
+          <li>Make Odin Dark the default</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" version="6.0.0" date="2021-07-13">
+      <description>
+        <ul>
+          <li>Add day and night custom Odin wallpapers by Freehive</li>
+          <li>Add Snow-capped Mountain, Martin Adams, Tj Holowaychuk, and Vikor Forgacs</li>
+          <li>Remove Carmine de Fazio, Luca Bravo, Pablo Garcia Saldana, Rob Bye, and Ryan Schroeder</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2019-11-26" version="5.5.0" urgency="medium">
+      <description>
+        <ul>
+          <li>Change default to Sunset by the Pier</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <content_rating type="oars-1.1" />
+  <translation type="gettext">io.elementary.wallpapers</translation>
+  <developer_name>elementary, Inc.</developer_name>
+  <developer_name lang="uk">elementary, Inc.</developer_name>
+  <developer_name lang="tr">elementary, Inc.</developer_name>
+  <developer_name lang="ru">elementary, Inc.</developer_name>
+  <developer_name lang="pl">elementary, Inc.</developer_name>
+  <developer_name lang="ja">elementary, Inc.</developer_name>
+  <developer_name lang="he">elementary בע״מ.</developer_name>
+  <developer_name lang="fr">elementary, Inc.</developer_name>
+  <developer_name lang="en_GB">elementary, Inc.</developer_name>
+  <developer_name lang="en_CA">elementary, Inc.</developer_name>
+  <developer_name lang="en_AU">elementary, Inc.</developer_name>
+  <developer_name lang="ca">elementary, Inc.</developer_name>
+  <url type="homepage">https://elementary.io</url>
+  <url type="bugtracker">https://github.com/elementary/wallpapers/issues</url>
+</component>

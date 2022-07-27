@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>pantheon.wingpanel-indicator-power</pkgname>
+  <id>io.elementary.wingpanel.power</id>
+  <extends>io.elementary.wingpanel</extends>
+  <name>Power Indicator</name>
+  <name lang="uz">Quvvat indikatori</name>
+  <name lang="uk">Індикатор живлення</name>
+  <name lang="tr">Güç Göstergesi</name>
+  <name lang="szl">Skaźnik ynergije</name>
+  <name lang="sr">Указивач напајања</name>
+  <name lang="sk">Indikátor napájania</name>
+  <name lang="ru">Индикатор питания</name>
+  <name lang="pt_BR">Indicador de energia</name>
+  <name lang="pt">Indicador de energia</name>
+  <name lang="nl">Energie indicator</name>
+  <name lang="nb">Effektindikator</name>
+  <name lang="mr">पॉवर सूचक</name>
+  <name lang="ja">電源インジケーター</name>
+  <name lang="it">Indicatore dell'alimentazione</name>
+  <name lang="he">מחוון צריכת חשמל</name>
+  <name lang="gl">Indicador da enerxía</name>
+  <name lang="fr">Indicateur d'alimentation</name>
+  <name lang="fi">Virransäästön ilmaisin</name>
+  <name lang="es">Indicador de energía</name>
+  <name lang="eo">Energia indikilo</name>
+  <name lang="en_GB">Power Indicator</name>
+  <name lang="en_CA">Power Indicator</name>
+  <name lang="en_AU">Power Indicator</name>
+  <name lang="de">Stromverbrauch</name>
+  <name lang="da">Strøm Indikator</name>
+  <name lang="cs">Indikátor napájení</name>
+  <name lang="ca">Indicador d'energia</name>
+  <summary>View battery levels, adjust display brightness, and see apps using lots of power</summary>
+  <summary lang="uz">Batareya darajalarini ko'rish, ekran yorqinligini sozlash va quvvatni ko'p ishlatayotgan dasturlashni ko'rish</summary>
+  <summary lang="uk">Переглядайте рівень заряду акумулятора, регулюйте рівень яскравості екрана та переглядайте, які з застосунків використовують забагато енергії</summary>
+  <summary lang="tr">Pil seviyelerini görüntüleyin, ekran parlaklığını ayarlayın ve çok fazla güç kullanan uygulamaları görün</summary>
+  <summary lang="szl">Wejzdrzij na poziōmy bateryje, naszteluj jasność ekranu i ôbejzdrzij, co spotrzebowuje nojwiyncyj ynergije</summary>
+  <summary lang="sr">Видите нивое батерије, дотерајте осветљеност екрана и видите програме који користе доста напајања</summary>
+  <summary lang="sk">Zobrazte si úroveň nabitia batérie, upravte jas obrazovky a skontrolujte aplikácie, ktoré spotrebúvajú veľa energie</summary>
+  <summary lang="ru">Просматривайте уровень заряда аккумулятора, регулируйте уровень яркости экрана, а также смотрите, какие из приложений используют много энергии</summary>
+  <summary lang="pt_BR">Verifica os níveis da bateria, ajuste o brilho da tela e veja aplicativos usando muita energia</summary>
+  <summary lang="pt">Veja os níveis da bateria, ajuste o brilho do ecrã e veja aplicações que usam muita energia</summary>
+  <summary lang="nl">Zie het batterijniveau, pas de helderheid van het scherm aan en zie apps die veel energie gebruiken</summary>
+  <summary lang="nb">Vis batterinivåer, juster skjermlysstyrke, og se programmer som bruker mye effekt</summary>
+  <summary lang="mr">बॅटरीचे स्तर पहा, प्रदर्शन चमक समायोजित करा आणि बरीच पॉवर वापरणारे अ‍ॅप पहा</summary>
+  <summary lang="ja">バッテリー残量を表示したり、ディスプレイの輝度を調整したり、電力の消費が激しいアプリを確認したりします</summary>
+  <summary lang="it">Visualizza i livelli della batteria, regola la luminosità del display e controlla quali applicazioni consumano molta energia</summary>
+  <summary lang="he">הצגת רמות סוללה, כוונון בהירות התצוגה והצגת יישומים שמנצלים חשמל רב</summary>
+  <summary lang="gl">Vexa os niveis de batería, axuste o brillo da pantalla e vexa as aplicacións que consumen moita enerxía</summary>
+  <summary lang="fr">Voir le niveau de batterie, ajuster la luminosité de l'écran et voir les applications utilisant beaucoup d'énergie</summary>
+  <summary lang="fi">Katso akkutasot, säädä näytön kirkkautta ja katso mitkä sovellukset tarvitsevat eniten tehoa</summary>
+  <summary lang="es">Vea los niveles de batería, ajuste el brillo de la pantalla y vea las aplicaciones que consumen mucha energía</summary>
+  <summary lang="eo">Vidi bateriajn nivelojn, alĝustigi ekranan brilecon, kaj vidi aplikaĵojn ĉerpantaj energion</summary>
+  <summary lang="en_GB">View battery levels, adjust display brightness, and see apps using lots of power</summary>
+  <summary lang="en_CA">View battery levels, adjust display brightness, and see apps using lots of power</summary>
+  <summary lang="en_AU">View battery levels, adjust display brightness, and see apps using lots of power</summary>
+  <summary lang="de">Akkustand anzeigen, Bildschirmhelligkeit anpassen und Apps mit hohem Energieverbrauch ansehen</summary>
+  <summary lang="da">Se batteriniveauer, juster skærmens lysstyrke og se apps, der bruger masser af strøm</summary>
+  <summary lang="cs">Zobrazte si úroveň nabití akumulátoru, upravte intenzitu podsvícení a zobrazte aplikace, výrazně vybíjející akumulátor</summary>
+  <summary lang="ca">Vegeu el nivell de la bateria, ajusteu la brillantor de la pantalla i vegeu les aplicacions que gasten molta energia.</summary>
+  <icon type="stock">preferences-system-power</icon>
+  <releases>
+    <release version="6.1.0" date="2020-08-23" urgency="medium">
+      <description>
+        <p>New features:</p>
+        <ul>
+          <li>Show brightness level when scrolled</li>
+          <li>Show battery percentage automatically at 20% or lower</li>
+        </ul>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Match scroll direction with Sound indicator</li>
+          <li>Show "Fully Charged" at 100% when plugged in</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-07-14" urgency="medium" version="6.0.0">
+      <description>
+        <p>New features:</p>
+        <ul>
+          <li>Show battery statistics when selected</li>
+          <li>Launch apps using power when selected</li>
+          <li>Control display brightness by scrolling the indicator</li>
+        </ul>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Improvements for desktops with peripherals</li>
+          <li>Filter out internal devices</li>
+          <li>Show tooltip on hover</li>
+          <li>Performance improvements</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.2.0" date="2020-09-02" urgency="medium">
+      <description>
+        <p>Support for Controllers and Pens</p>
+        <p>Reduce spacing when percentage is shown</p>
+        <p>Updated translations</p>
+      </description>
+    </release>
+    <release date="2020-03-27" version="2.1.5" urgency="medium">
+      <description>
+        <p>Updated translations</p>
+      </description>
+    </release>
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/elementary/wingpanel-indicator-power/master/data/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <developer_name>elementary, Inc.</developer_name>
+  <developer_name lang="uz">elementary Inc.</developer_name>
+  <developer_name lang="uk">elementary, Inc.</developer_name>
+  <developer_name lang="tr">elementary, Inc.</developer_name>
+  <developer_name lang="szl">elementary, Inc.</developer_name>
+  <developer_name lang="sr">elementary, Inc.</developer_name>
+  <developer_name lang="sk">elementary, Inc.</developer_name>
+  <developer_name lang="ru">elementary, Inc.</developer_name>
+  <developer_name lang="pt_BR">elementary, Inc.</developer_name>
+  <developer_name lang="pt">elementary, Inc.</developer_name>
+  <developer_name lang="oc">elementary, Inc.</developer_name>
+  <developer_name lang="nn">elementary, Inc.</developer_name>
+  <developer_name lang="nl">elementary, Inc.</developer_name>
+  <developer_name lang="nb">elementary, Inc.</developer_name>
+  <developer_name lang="mr">एलिमेंटरी, Inc.</developer_name>
+  <developer_name lang="ja">elementary, Inc.</developer_name>
+  <developer_name lang="it">elementary, Inc.</developer_name>
+  <developer_name lang="he">elementary בע״מ</developer_name>
+  <developer_name lang="fr">elementary, Inc.</developer_name>
+  <developer_name lang="fi">elementary, Inc.</developer_name>
+  <developer_name lang="es">elementary, Inc.</developer_name>
+  <developer_name lang="eo">elementary, Inc.</developer_name>
+  <developer_name lang="en_GB">elementary, Inc.</developer_name>
+  <developer_name lang="en_CA">elementary, Inc.</developer_name>
+  <developer_name lang="en_AU">elementary, Inc.</developer_name>
+  <developer_name lang="de">elementary, Inc.</developer_name>
+  <developer_name lang="da">elementary, Inc.</developer_name>
+  <developer_name lang="cs">elementary, Inc.</developer_name>
+  <developer_name lang="ca">elementary, Inc.</developer_name>
+  <url type="homepage">https://elementary.io/</url>
+  <url type="bugtracker">https://github.com/elementary/wingpanel-indicator-power/issues</url>
+  <url type="donation">https://elementary.io/get-involved#funding</url>
+  <url type="help">https://elementaryos.stackexchange.com/questions/tagged/wingpanel</url>
+  <url type="translate">https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-power/</url>
+  <update_contact>contact_AT_elementary.io</update_contact>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_group>elementary</project_group>
+  <project_license>GPL-3.0+</project_license>
+</component>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>pantheon.wingpanel-indicator-network</pkgname>
+  <id>io.elementary.wingpanel.network</id>
+  <extends>io.elementary.wingpanel</extends>
+  <name>Network Indicator</name>
+  <name lang="zh_CN">网络指示器</name>
+  <name lang="uz">Tarmoq indikatori</name>
+  <name lang="uk">Індикатор мережі</name>
+  <name lang="tr">Ağ Göstergesi</name>
+  <name lang="szl">Skaźnik necu</name>
+  <name lang="sr">Указивач мреже</name>
+  <name lang="sk">Indikátor siete</name>
+  <name lang="ru">Индикатор сети</name>
+  <name lang="pt_BR">Indicador de rede</name>
+  <name lang="pt">Indicador de rede</name>
+  <name lang="pl">Wskaźnik sieci</name>
+  <name lang="oc">Indicador ret</name>
+  <name lang="nn">Nettverk-indikator</name>
+  <name lang="nl">Netwerk indicator</name>
+  <name lang="nb">Nettverksindikator</name>
+  <name lang="mr">नेटवर्क सूचक</name>
+  <name lang="ja">ネットワークインジケーター</name>
+  <name lang="it">Indicatore di rete</name>
+  <name lang="hu">Hálózatkijelzés</name>
+  <name lang="he">מחוון רשת</name>
+  <name lang="gl">Indicador de rede</name>
+  <name lang="fr">Indicateur Réseau</name>
+  <name lang="fi">Verkkoilmaisin</name>
+  <name lang="es">Indicador de red</name>
+  <name lang="eo">Reta indikilo</name>
+  <name lang="en_GB">Network Indicator</name>
+  <name lang="en_CA">Network Indicator</name>
+  <name lang="en_AU">Network Indicator</name>
+  <name lang="de">Netzwerkanzeige</name>
+  <name lang="da">Netværks Indikator</name>
+  <name lang="cs">Indikátor sítě</name>
+  <name lang="ca">Indicador de la xarxa</name>
+  <name lang="ar">مؤشر الشبكة</name>
+  <summary>Connect to wireless networks and manage VPNs</summary>
+  <summary lang="zh_CN">连接到无线网线和管理 VPN</summary>
+  <summary lang="uz">Simsiz tarmoqlarga ulanish va VPN larni boshqarish</summary>
+  <summary lang="uk">Зʼєднуйтеся з бездротовими мережами та керуйте VPN</summary>
+  <summary lang="tr">Kablosuz ağlara bağlanın ve VPN'leri yönetin</summary>
+  <summary lang="szl">Skupluj sie ze necami bezkablowymi i szteluj VPN-y</summary>
+  <summary lang="sr">Повежите се на бежичне мреже и управљајте ВПН-има</summary>
+  <summary lang="sk">Pripojte sa k bezdrôtovým sieťam a spravujte VPN pripojenia</summary>
+  <summary lang="ru">Соединяйтесь с беспроводными сетями и управляйте VPN</summary>
+  <summary lang="pt_BR">Conecte-se a redes sem fio e gerencie VPNs</summary>
+  <summary lang="pt">Ligar-se a redes sem fio e gerir VPNs</summary>
+  <summary lang="pl">Łącz się z bezprzewodowymi sieciami i zarządzaj VPNami</summary>
+  <summary lang="oc">Connectatz-vos als rets sens fial e gerissètz los VPN</summary>
+  <summary lang="nn">Kople til trådlause nettverk og handsam VPN-ar</summary>
+  <summary lang="nl">Maak verbinding met draadloze netwerken en beheer VPNs</summary>
+  <summary lang="nb">Koble til trådløse nettverk og håndter VPN-er</summary>
+  <summary lang="mr">वायरलेस नेटवर्कशी कनेक्ट व्हा आणि व्हीपीएन व्यवस्थापित करा</summary>
+  <summary lang="ja">無線ネットワークに接続したり VPN を管理したりします</summary>
+  <summary lang="it">Connettiti alle reti wireless e gestisci le VPN</summary>
+  <summary lang="hu">Csatlakozás vezeték nélküli hálózathoz és VPN-ek kezelése</summary>
+  <summary lang="he">התחברות לרשתות אלחוטיות וניהול חיבור VPN</summary>
+  <summary lang="fr">Connectez-vous à des réseaux sans fil et gérez vos VPN</summary>
+  <summary lang="fi">Yhdistä langattomiin verkkoihin ja hallitse erillisverkkoja</summary>
+  <summary lang="es">Conéctese a redes inalámbricas y gestione VPN</summary>
+  <summary lang="eo">Konekti al sendrataj retoj kaj mastrumi VPN-konektadojn</summary>
+  <summary lang="en_GB">Connect to wireless networks and manage VPNs</summary>
+  <summary lang="en_CA">Connect to wireless networks and manage VPNs</summary>
+  <summary lang="en_AU">Connect to wireless networks and manage VPNs</summary>
+  <summary lang="de">Mit Drahtlosnetzwerken verbinden und VPNs verwalten</summary>
+  <summary lang="da">Opret forbindelse til trådløse netværk og administrer VPN'er</summary>
+  <summary lang="cs">Připojování se k bezdrátovým sítím a správa VPN připojení</summary>
+  <summary lang="ca">Connecteu amb xarxes sense fil i gestioneu XPV.</summary>
+  <summary lang="ar">اتصل بشبكات لاسلكية وقم بإدارة الشبكات الخاصة الافتراضية</summary>
+  <icon type="stock">preferences-system-network</icon>
+  <releases>
+    <release date="2022-06-30" urgency="medium" version="2.3.3">
+      <description>
+        <p>Fixes:</p>
+        <ul>
+          <li>Ensure correct tooltip on system start</li>
+          <li>Prevent connecting to invalid VPNs</li>
+          <li>Show correct info for WPA3 networks</li>
+        </ul>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.3.2" urgency="medium" date="2021-11-23">
+      <description>
+        <p>Fixes:</p>
+        <ul>
+          <li>Prevent blank lines in VPN list</li>
+        </ul>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.3.1" date="2021-10-22" urgency="medium">
+      <description>
+        <p>Fixes:</p>
+        <ul>
+          <li>Don't launch Captive Network Assistant with full connectivity</li>
+        </ul>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-07-14" version="2.3.0" urgency="medium">
+      <description>
+        <p>Fixes:</p>
+        <ul>
+          <li>Fix VPN spinning after connecting</li>
+          <li>Improve detecting network encryption type</li>
+        </ul>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Ellipsize long network names</li>
+          <li>Show tooltip on hover</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.2.4" date="2020-05-28" urgency="medium">
+      <description>
+        <p>Updated translations</p>
+      </description>
+    </release>
+    <release version="2.2.3" date="2020-03-27" urgency="medium">
+      <description>
+        <p>Prevent panel icon from showing in the dock</p>
+        <p>Updated translations</p>
+      </description>
+    </release>
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/elementary/wingpanel-indicator-network/master/data/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <developer_name>elementary, Inc.</developer_name>
+  <developer_name lang="zh_CN">elementary, Inc.</developer_name>
+  <developer_name lang="uz">elementary Inc.</developer_name>
+  <developer_name lang="uk">elementary, Inc.</developer_name>
+  <developer_name lang="tr">elementary, Inc.</developer_name>
+  <developer_name lang="szl">elementary, Inc.</developer_name>
+  <developer_name lang="sr">elementary, Inc.</developer_name>
+  <developer_name lang="sk">elementary, Inc.</developer_name>
+  <developer_name lang="ru">elementary, Inc.</developer_name>
+  <developer_name lang="pt_BR">elementary, Inc.</developer_name>
+  <developer_name lang="pt">elementary, Inc.</developer_name>
+  <developer_name lang="pl">elementary, Inc.</developer_name>
+  <developer_name lang="oc">elementary, Inc.</developer_name>
+  <developer_name lang="nn">elementary, Inc.</developer_name>
+  <developer_name lang="nl">elementary, Inc.</developer_name>
+  <developer_name lang="nb">elementary, Inc.</developer_name>
+  <developer_name lang="mr">एलिमेंटरी, Inc.</developer_name>
+  <developer_name lang="ja">elementary, Inc.</developer_name>
+  <developer_name lang="it">elementary, Inc.</developer_name>
+  <developer_name lang="hu">elementary, Inc.</developer_name>
+  <developer_name lang="he">elementary בע״מ</developer_name>
+  <developer_name lang="fr">elementary, Inc.</developer_name>
+  <developer_name lang="fi">elementary, Inc.</developer_name>
+  <developer_name lang="es">elementary, Inc.</developer_name>
+  <developer_name lang="eo">elementary, Inc.</developer_name>
+  <developer_name lang="en_GB">elementary, Inc.</developer_name>
+  <developer_name lang="en_CA">elementary, Inc.</developer_name>
+  <developer_name lang="en_AU">elementary, Inc.</developer_name>
+  <developer_name lang="de">elementary, Inc.</developer_name>
+  <developer_name lang="da">elementary, Inc.</developer_name>
+  <developer_name lang="cs">elementary, Inc.</developer_name>
+  <developer_name lang="ca">elementary, Inc.</developer_name>
+  <developer_name lang="ar">elementary, Inc.</developer_name>
+  <url type="homepage">https://elementary.io/</url>
+  <url type="bugtracker">https://github.com/elementary/wingpanel-indicator-network/issues/new/choose</url>
+  <url type="donation">https://elementary.io/get-involved#funding</url>
+  <url type="help">https://elementaryos.stackexchange.com/questions/tagged/wingpanel</url>
+  <url type="translate">https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-network/</url>
+  <update_contact>contact_AT_elementary.io</update_contact>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_group>elementary</project_group>
+  <project_license>GPL-3.0+</project_license>
+</component>

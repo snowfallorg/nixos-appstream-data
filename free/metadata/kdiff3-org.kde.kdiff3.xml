@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>kdiff3</pkgname>
+  <launchable type="desktop-id">org.kde.kdiff3.desktop</launchable>
+  <icon width="64" height="64" type="cached">kdiff3.png</icon>
+  <icon height="128" type="cached" width="128">kdiff3.png</icon>
+  <id>org.kde.kdiff3.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0-or-later</project_license>
+  <name>KDiff3</name>
+  <name lang="ca">KDiff3</name>
+  <name lang="ca-valencia">KDiff3</name>
+  <name lang="cs">KDiff3</name>
+  <name lang="da">KDiff3</name>
+  <name lang="de">KDiff3</name>
+  <name lang="el">KDiff3</name>
+  <name lang="en-GB">KDiff3</name>
+  <name lang="es">KDiff3</name>
+  <name lang="et">KDiff3</name>
+  <name lang="eu">KDiff3</name>
+  <name lang="fi">KDiff3</name>
+  <name lang="fr">KDiff3</name>
+  <name lang="gl">KDiff3</name>
+  <name lang="ia">KDiff3</name>
+  <name lang="id">KDiff3</name>
+  <name lang="it">KDiff3</name>
+  <name lang="ko">KDiff3</name>
+  <name lang="nl">KDiff3</name>
+  <name lang="nn">KDiff3</name>
+  <name lang="pl">KDiff3</name>
+  <name lang="pt">KDiff3</name>
+  <name lang="pt-BR">KDiff3</name>
+  <name lang="ru">KDiff3</name>
+  <name lang="sk">KDiff3</name>
+  <name lang="sl">KDiff3</name>
+  <name lang="sv">Kdiff3</name>
+  <name lang="uk">KDiff3</name>
+  <name lang="x-test">xxKDiff3xx</name>
+  <name lang="zh-CN">KDiff3</name>
+  <summary>A file and folder comparison and merge tool</summary>
+  <summary lang="ca">Una eina per a la comparació i fusió de fitxers i carpetes</summary>
+  <summary lang="ca-valencia">Una eina per a la comparació i fusió de fitxers i carpetes</summary>
+  <summary lang="cs">Nástroj pro porovnávání a slučování souborů a složek</summary>
+  <summary lang="de">Programm zum Vergleichen und Zusammenführen von Dateien und Ordnern</summary>
+  <summary lang="el">Ένα εργαλείο σύγκρισης και συγχώνευσης αρχείων και φακέλων</summary>
+  <summary lang="en-GB">A file and folder comparison and merge tool</summary>
+  <summary lang="es">Una herramienta para comparar y fusionar archivos y carpetas</summary>
+  <summary lang="eu">Fitxategiak eta direktorioak konparatzeko eta bateratzeko tresna bat</summary>
+  <summary lang="fi">Tiedostojen ja kansioiden vertailu- ja yhdistämistyökalu</summary>
+  <summary lang="fr">Un outil de comparaison et de fusion de fichiers et de dossiers</summary>
+  <summary lang="id">Sebuah alat penggabung dan pembanding folder dan file</summary>
+  <summary lang="it">Uno strumento di confronto e fusione di file e cartelle</summary>
+  <summary lang="ko">파일과 폴더 비교 및 병합 도구</summary>
+  <summary lang="nl">Een hulpmiddel voor het vergelijken en samenvoegen van bestanden en mappen</summary>
+  <summary lang="pl">Narzędzie do porównywania i scalania plików i katalogów</summary>
+  <summary lang="pt-BR">Uma ferramenta de comparação e junção de arquivos e pastas</summary>
+  <summary lang="sl">Orodje za primerjavo datotek in map ter za združevanje</summary>
+  <summary lang="sv">Ett jämförelse- och sammanfogningsverktyg för fil- och katalogjämförelser</summary>
+  <summary lang="uk">Програма для порівняння і об'єднання файлів та тек</summary>
+  <summary lang="x-test">xxA file and folder comparison and merge toolxx</summary>
+  <summary lang="zh-CN">一个比较、合并文件和文件夹的工具</summary>
+  <project_group>KDE</project_group>
+  <description>
+    <p>KDiff3 is a file and folder diff and merge tool which</p>
+    <p lang="ca">El KDiff3 és una eina per a la comparació i fusió de fitxers i carpetes</p>
+    <p lang="ca-valencia">El KDiff3 és una eina per a la comparació i fusionat de fitxers i carpetes</p>
+    <p lang="de">KDiff3 ist ein Programm zum Anzeigen von Unterschieden und zum Zusammenführen von Dateien und Ordnern.</p>
+    <p lang="el">Το KDiff3 είναι ένα εργαλείο σύγκρισης και συγχώνευσης αρχείων και φακέλων, το οποίο</p>
+    <p lang="en-GB">KDiff3 is a file and folder diff and merge tool which</p>
+    <p lang="es">KDiff es una herramienta de visualización de diferencias y de fusión de archivos y carpetas que</p>
+    <p lang="eu">KDiff3 fitxategiak eta direktorioak alderatzeko eta bateratzeko tresna bat da,</p>
+    <p lang="fi">Kdiff3 on tiedostojen ja kansioiden vertailu- ja yhdistämistyökalu, joka</p>
+    <p lang="fr">KDiff3 est un outil de comparaison et de fusion de fichiers et de dossiers qui</p>
+    <p lang="id">KDiff3 adalah sebuah alat penggabung dan pembeda mana file dan folder</p>
+    <p lang="it">KDiff3 è uno strumento per fondere file e cartelle che</p>
+    <p lang="ko">KDiff3는 파일 및 폴더 diff 및 병합 도구입니다</p>
+    <p lang="nl">KDdiff3 is een hulpmiddel om bestanden en mappen te vergelijken en samen te voegen dat</p>
+    <p lang="pl">KDiff3 jest narzędziem do pokazywania różnicy i scalania plików i katalogów, które</p>
+    <p lang="pt-BR">O KDiff3 é uma ferramenta de diferenças e mesclagem de arquivos e pastas que</p>
+    <p lang="sl">KDiff3 je orodje za prikaz razlik med datotekami in mapami, ki</p>
+    <p lang="sv">Kdiff3 är ett verktyg för jämförelser och sammanfogning av filer och kataloger, som</p>
+    <p lang="uk">KDiff3 — програма для визначення відмінностей у файлах і теках та об'єднання цих відмінностей в один варіант, яка</p>
+    <p lang="x-test">xxKDiff3 is a file and folder diff and merge tool whichxx</p>
+    <p lang="zh-CN">KDiff3 是一个比较、合并文件和文件夹的工具，</p>
+    <ul>
+      <li>compares and merges two or three text input files or folders,</li>
+      <li lang="ca">compara i fusiona dos o tres fitxers o carpetes des de l'entrada,</li>
+      <li lang="ca-valencia">compara i fusiona dos o tres fitxers o carpetes des de l'entrada,</li>
+      <li lang="de">vergleicht zwei oder drei Textdateien bzw. Ordner und führt sie zusammen,</li>
+      <li lang="el">συγκρίνει και συγχωνεύει δύο ή τρία αρχεία κειμένου ή φακέλους,</li>
+      <li lang="en-GB">compares and merges two or three text input files or folders,</li>
+      <li lang="es">compara y fusiona dos o tres archivos de texto de entrada o carpetas,</li>
+      <li lang="eu">sarrerako bi edo hiru testu fitxategi edo direktorio alderatu eta bateratzen dituena,</li>
+      <li lang="fi">vertaa ja yhdistää kaksi tai kolme tekstitiedostoa tai kansiota</li>
+      <li lang="fr">compare et fusionne deux ou trois fichiers ou dossiers en entrée,</li>
+      <li lang="id">membandingkan dan menggabungkan dua atau tiga file atau folder input teks,</li>
+      <li lang="it">confronta e fonde due o tre file di testo o cartelle in ingresso,</li>
+      <li lang="ko">텍스트 입력 파일 또는 폴더 두 개 또는 세 개를 비교하고 병합하며,</li>
+      <li lang="nl">twee of drie tekstbestanden of mappen vergelijkt en samenvoegt,</li>
+      <li lang="pl">porównuje i scala dwa, trzy lub więcej plików wejściowych lub katalogów,</li>
+      <li lang="pt-BR">compara e mescla dois ou três arquivos de texto ou pastas,</li>
+      <li lang="sl">primerja in združuje dve ali tri vhodne datoteke ali mape besedil,</li>
+      <li lang="sv">jämför och sammanfogar två eller tre textfiler eller kataloger,</li>
+      <li lang="uk">порівнює і об'єднує два або три вхідних текстових файли або теки.</li>
+      <li lang="x-test">xxcompares and merges two or three text input files or folders,xx</li>
+      <li lang="zh-CN">它能比较、合并输入的两份或三份文件和文件夹，</li>
+      <li>shows the differences line by line and character by character(!),</li>
+      <li lang="ca">mostra les diferències línia per línia i caràcter per caràcter!,</li>
+      <li lang="ca-valencia">mostra les diferències línia per línia i caràcter per caràcter!,</li>
+      <li lang="de">kann Unterschiede zeilenweise und sogar Zeichen für Zeichen anzeigen,</li>
+      <li lang="el">εμφανίζει τις διαφορές ανά γραμμή και ανά χαρακτήρα(!),</li>
+      <li lang="en-GB">shows the differences line by line and character by character(!),</li>
+      <li lang="es">muestra las diferencias línea a línea y carácter a carácter (!),</li>
+      <li lang="et">näitab erinevusi ridade ja märkide (!) kaupa,</li>
+      <li lang="eu">ezberdintasunak lerroz-lerro eta karakterez-karaktere erakusten ditu(!),</li>
+      <li lang="fi">näyttää erot riveittäin ja merkeittäin (!)</li>
+      <li lang="fr">affiche les différences ligne par ligne et caractère par caractère (!),</li>
+      <li lang="gl">mostra as diferenzas liña por liña e carácter por carácter(!),</li>
+      <li lang="id">menampilkan perbedaan baris demi baris dan karakter demi karakter(!),</li>
+      <li lang="it">mostra le differenze riga per riga e carattere per carattere(!),</li>
+      <li lang="ko">줄과 문자 단위로(!)로 다른 줄을 표시하며,</li>
+      <li lang="nl">toont de verschillen regel voor regel en teken voor teken(!),</li>
+      <li lang="pl">pokazuje różnice wiersz po wierszu i znak po znaku(!),</li>
+      <li lang="pt">mostra as diferenças linha-a-linha e carácter-a-carácter(!),</li>
+      <li lang="pt-BR">mostra as diferenças linha por linha e caractere por caractere(!),</li>
+      <li lang="sk">zobrazuje rozdiely riadok po riadku a znak po znaku,</li>
+      <li lang="sl">prikazuje razlike črto za črto in znak za znakom (!),</li>
+      <li lang="sv">visar skillnaderna rad för rad och tecken för tecken (!),</li>
+      <li lang="uk">показує відмінності за рядками і за символами(!),</li>
+      <li lang="x-test">xxshows the differences line by line and character by character(!),xx</li>
+      <li lang="zh-CN">按单行或单字符显示差异(!)，</li>
+      <li>provides an automatic merge-facility,</li>
+      <li lang="ca">proporciona la facilitat de la fusió automàtica,</li>
+      <li lang="ca-valencia">proporciona la facilitat del fusionat automàtic,</li>
+      <li lang="de">hat eine Funktion zum automatischen Zusammenführen,</li>
+      <li lang="el">παρέχει μια αυτόματη υπηρεσία συγχώνευσης,</li>
+      <li lang="en-GB">provides an automatic merge-facility,</li>
+      <li lang="es">proporciona una utilidad de fusión automática,</li>
+      <li lang="et">pakub automaatse ühendamise võimalust,</li>
+      <li lang="eu">automatikoki bateratzeko erraztasuna ematen du,</li>
+      <li lang="fi">tarjoaa automaattisen yhdistämistoiminnon</li>
+      <li lang="fr">offre des fonctionnalités de fusion automatique,</li>
+      <li lang="gl">fornece unha ferramenta de fusión automática,</li>
+      <li lang="id">menyediakan sebuah fasilitas penggabungan otomatis,</li>
+      <li lang="it">fornisce un servizio automatico per la fusione,</li>
+      <li lang="ko">자동 병합 기능을 제공하며,</li>
+      <li lang="nl">een automatische samenvoegfunctie biedt,</li>
+      <li lang="pl">zapewnia narzędzie do samoczynnego scalania,</li>
+      <li lang="pt">oferece uma funcionalidade de junção automática,</li>
+      <li lang="pt-BR">fornecendo a facilidade da mesclagem automática,</li>
+      <li lang="sk">poskytuje automatickú možnosť zlúčenia,</li>
+      <li lang="sl">omogoča samodejno združitev,</li>
+      <li lang="sv">tillhandahåller en automatisk sammanfogingsfunktion,</li>
+      <li lang="uk">надає можливість автоматичного об’єднання,</li>
+      <li lang="x-test">xxprovides an automatic merge-facility,xx</li>
+      <li lang="zh-CN">提供自动合并功能，</li>
+      <li>has an editor for comfortable solving of merge-conflicts,</li>
+      <li lang="ca">té un editor per a la solució còmoda dels conflictes de fusió,</li>
+      <li lang="ca-valencia">té un editor per a la solució còmoda dels conflictes de fusionat,</li>
+      <li lang="de">enthält einen speziellen komfortablen Editor zum Auflösen von Konflikten beim Zusammenführen,</li>
+      <li lang="el">έχει έναν κειμενογράφο για άνετη επίλυση των συγκρούσεων σε συγχωνεύσεις,</li>
+      <li lang="en-GB">has an editor for comfortable solving of merge-conflicts,</li>
+      <li lang="es">posee un editor para resolver confortablemente los conflictos de fusión,</li>
+      <li lang="et">pakub redaktorit mugavaks ühendamisel tekkinud konfliktide lahendamiseks,</li>
+      <li lang="eu">bateratze-gatazkak erosotasunez ebazteko editore bat dauka,</li>
+      <li lang="fi">sisältää muokkaimen yhdistämisristiriitojen ratkaisemiseksi</li>
+      <li lang="fr">dispose d'un éditeur pour résoudre confortablement les conflits lors de la fusion,</li>
+      <li lang="gl">ten un editor para solucionar de maneira cómoda conflitos de fusión,</li>
+      <li lang="id">memiliki sebuah editor untuk pemecahan yang baik pada penggabungan yang bentrok</li>
+      <li lang="it">dispone di un editor per risolvere comodamente i conflitti di fusione,</li>
+      <li lang="ko">병합 충돌을 원만하게 해결할 수 있는 편집기가 있으며,</li>
+      <li lang="nl">een editor heeft voor het comfortabel oplossen van samenvoegconflicten,</li>
+      <li lang="pl">ma edytor do wygodnego rozwiązywania sprzeczności przy scalaniu,</li>
+      <li lang="pt">tem um editor para resolver confortavelmente os conflitos de junção,</li>
+      <li lang="pt-BR">tem um editor para resolver confortavelmente os conflitos de mesclagem,</li>
+      <li lang="sk">má editor na pohodlné riešenie konfliktov zlučovania,</li>
+      <li lang="sl">ima urejevalnik za udobno reševanje sporov med spajanjem,</li>
+      <li lang="sv">har en editor för bekväm lösning av sammanfogningskonflikter,</li>
+      <li lang="uk">містить редактор для полегшення розв’язання конфліктів під час об’єднання,</li>
+      <li lang="x-test">xxhas an editor for comfortable solving of merge-conflicts,xx</li>
+      <li lang="zh-CN">有一个舒适的编辑器来解决合并冲突，</li>
+      <li>provides network transparency via KIO,</li>
+      <li lang="ca">proporciona transparència de xarxa a través del KIO,</li>
+      <li lang="ca-valencia">proporciona transparència de xarxa a través del KIO,</li>
+      <li lang="de">ist mit Hilfe von KIO Netzwerktransparent,</li>
+      <li lang="el">παρέχει δικτυακή διαφάνεια μέσα από το KIO,</li>
+      <li lang="en-GB">provides network transparency via KIO,</li>
+      <li lang="es">proporciona transparencia de red mediante el uso de KIO,</li>
+      <li lang="et">võimaldab KIO vahendusel võrgu läbipaistvust,</li>
+      <li lang="eu">KIO bidez sarearekiko gardentasuna hornitzen du,</li>
+      <li lang="fi">tarjoaa läpinäkyvän verkon KIOn kautta</li>
+      <li lang="fr">fournit une transparence réseau via KIO,</li>
+      <li lang="gl">fornece transparencia de rede mediante KIO,</li>
+      <li lang="id">menyediakan transparan jaringan via KIO</li>
+      <li lang="it">fornisce trasparenza di rete tramite KIO,</li>
+      <li lang="ko">KIO를 통한 네트워크 투명성을 제공하며,</li>
+      <li lang="nl">netwerktransparantie biedt via KIO,</li>
+      <li lang="pl">zapewnia przejrzystość sieciową przez KIO,</li>
+      <li lang="pt">oferece a transparência na rede com o KIO,</li>
+      <li lang="pt-BR">fornece transparência de rede via KIO,</li>
+      <li lang="sk">poskytuje sieťovú transparentnosť cez KIO,</li>
+      <li lang="sl">zagotavlja preglednost omrežja prek KIO,</li>
+      <li lang="sv">tillhandahåller nätverkstransparens via KIO,</li>
+      <li lang="uk">забезпечує мережеву прозорість за допомогою KIO,</li>
+      <li lang="x-test">xxprovides network transparency via KIO,xx</li>
+      <li lang="zh-CN">通过 KIO 提供网络文件透明访问，</li>
+      <li>has options to highlight or hide changes in white-space or comments,</li>
+      <li lang="ca">té opcions per a ressaltar o ocultar els canvis en els espais en blanc o els comentaris,</li>
+      <li lang="ca-valencia">té opcions per a ressaltar o ocultar els canvis en els espais en blanc o els comentaris,</li>
+      <li lang="de">kann Unterschiede in Leerraum-Zeichen oder Kommentaren besonders hervorheben oder ausblenden,</li>
+      <li lang="el">έχει επιλογές τονισμού ή απόκρυψης αλλαγών σε κενά ή σχόλια,</li>
+      <li lang="en-GB">has options to highlight or hide changes in white-space or comments,</li>
+      <li lang="es">contiene opciones para resaltar u ocultar cambios en espacios en blanco y en comentarios,</li>
+      <li lang="et">võib esile tõsta või peita erinevusi tühimärkides või kommentaarides,</li>
+      <li lang="eu">zuriune edo iruzkinetako aldaketak nabarmentzeko edo ezkutatzeko aukerak ditu,</li>
+      <li lang="fi">osaa korostaa tai piilottaa muutokset tyhjemerkeissä ja kommenteissa</li>
+      <li lang="fr">dispose d'options permettant de surligner ou de cacher les différences d'espaces ou de commentaires,</li>
+      <li lang="gl">ten opcións para salientar ou agochar cambios en espazos en branco ou comentarios,</li>
+      <li lang="id">memiliki opsi untuk menyorot atau menyembunyikan perubahan dalam spasi putih atau komentar,</li>
+      <li lang="it">ha opzioni per evidenziare o per nascondere le modifiche negli spazi o nei commenti,</li>
+      <li lang="ko">공백이나 주석의 변경 사항을 강조 표시하거나 숨길 수 있는 옵션이 있고,</li>
+      <li lang="nl">opties heeft voor het accentueren of verbergen van wijzigingen in witruimte of commentaar,</li>
+      <li lang="pl">ma opcje do podświetlenia i ukrycia zmian w białych znakach lub komentarzach,</li>
+      <li lang="pt">tem opções para realçar ou esconder as alterações nos espaços em branco ou comentários,</li>
+      <li lang="pt-BR">tem opção para realçar ou ocultar alterações nos espaços em branco ou comentários,</li>
+      <li lang="sk">má voľby na zvýraznenie alebo skrytie zmien v bielych znakoch alebo komentároch,</li>
+      <li lang="sl">ima možnosti za označevanje ali skrivanje sprememb v prostoru presledkov ali komentarjih,</li>
+      <li lang="sv">har alternativ för att markera eller dölja ändringar av blanktecken eller kommentarer,</li>
+      <li lang="uk">може підсвічувати або ховати зміни у пробілах або коментарях,</li>
+      <li lang="x-test">xxhas options to highlight or hide changes in white-space or comments,xx</li>
+      <li lang="zh-CN">有选项可以设置高亮或隐藏空白字符和代码注释的更改，</li>
+      <li>supports Unicode, UTF-8 and other file encodings,</li>
+      <li lang="ca">admet Unicode, UTF-8 i altres codificacions de fitxer,</li>
+      <li lang="ca-valencia">admet Unicode, UTF-8 i altres codificacions de fitxer,</li>
+      <li lang="cs">podporuje Unicode, UTF-8 a další kódování souborů.</li>
+      <li lang="de">unterstützt Unicode, UTF-8 und weitere Dateikodierungen,</li>
+      <li lang="el">υποστηρίζει Unicode, UTF-8 και άλλες κωδικοποιήσεις αρχείων,</li>
+      <li lang="en-GB">supports Unicode, UTF-8 and other file encodings,</li>
+      <li lang="es">permite el uso de Unicode, UTF-8 y de otras codificaciones de archivos,</li>
+      <li lang="et">toetab Unicode'i, UTF-8 ja teisi failikodeeringuid,</li>
+      <li lang="eu">Unicode, UTF-8 eta beste fitxategi kodeketa batzuk onartzen ditu,</li>
+      <li lang="fi">tukee Unicodea, UTF-8:aa ja muita merkistökoodauksia</li>
+      <li lang="fr">prend en charge Unicode, UTF-8 et d'autres encodages de fichiers,</li>
+      <li lang="gl">é compatíbel con Unicode, UTF-8 e outras codificacións de ficheiros,s</li>
+      <li lang="id">dukungan Unicode, UTF-8 dqn pengenkodean file lain</li>
+      <li lang="it">supporta Unicode, UTF-8 e altre codifiche di file,</li>
+      <li lang="ko">유니코드, UTF-8 및 기타 파일 인코딩을 지원하며,</li>
+      <li lang="nl">Unicode, UTF-8 en andere bestandscoderingen ondersteunt,</li>
+      <li lang="pl">obsługuje Unikod, UTF-8 i inne kodowania plików,</li>
+      <li lang="pt">suporta o Unicode, o UTF-8 e outras codificações de ficheiros,</li>
+      <li lang="pt-BR">suporta o Unicode, UTF-8 e outras codificações de arquivos,</li>
+      <li lang="sk">podporuje Unicode, UTF-8 a iné kódovania súborov,</li>
+      <li lang="sl">podpira Unicode, UTF-8 in drugo kodiranje datotek,</li>
+      <li lang="sv">stöder Unicode, UTF-8 och andra filkodningar,</li>
+      <li lang="uk">підтримує Unicode, UTF-8 та інші кодування текстів файлів,</li>
+      <li lang="x-test">xxsupports Unicode, UTF-8 and other file encodings,xx</li>
+      <li lang="zh-CN">支持 Unicode, UTF-8 和其他文件编码,</li>
+      <li>prints differences,</li>
+      <li lang="ca">imprimeix les diferències,</li>
+      <li lang="ca-valencia">imprimeix les diferències,</li>
+      <li lang="de">druckt Abweichungen,</li>
+      <li lang="el">εκτυπώνει διαφορές,</li>
+      <li lang="en-GB">prints differences,</li>
+      <li lang="es">imprime las diferencias,</li>
+      <li lang="et">trükib erinevusi,</li>
+      <li lang="eu">ezberdintasunak inprimatzen ditu,</li>
+      <li lang="fi">tulostaa eroavuudet</li>
+      <li lang="fr">affiche les différences,</li>
+      <li lang="gl">imprime diferenzas,</li>
+      <li lang="id">cetakan yang berbeda</li>
+      <li lang="it">stampa le differenze,</li>
+      <li lang="ko">차이점을 인쇄하고,</li>
+      <li lang="nl">verschillen in regels afdrukt,</li>
+      <li lang="pl">drukuje różnice,</li>
+      <li lang="pt">imprime as diferenças,</li>
+      <li lang="pt-BR">imprime as diferenças,</li>
+      <li lang="sk">vytlačí rozdiely,</li>
+      <li lang="sl">tiska razlike,</li>
+      <li lang="sv">skriver ut skillnader,</li>
+      <li lang="uk">може надсилати на друк різницю,</li>
+      <li lang="x-test">xxprints differences,xx</li>
+      <li lang="zh-CN">打印差异,</li>
+      <li>supports version control keyword and history merging.</li>
+      <li lang="ca">admet la paraula clau per al control de versions i un historial de les fusions.</li>
+      <li lang="ca-valencia">admet la paraula clau per al control de versions i un historial de les fusions.</li>
+      <li lang="de">unterstützt Schlüsselwörter für Versionsverwaltung und Verlauf-Zusammenführung.</li>
+      <li lang="el">υποστηρίζει συγχώνευση λέξεων κλειδιών και ιστορικού με έλεγχο εκδόσεων.</li>
+      <li lang="en-GB">supports version control keyword and history merging.</li>
+      <li lang="es">permite el uso de palabras clave de control de versiones y de fusión de historial.</li>
+      <li lang="et">toetab versioonihalduse võtmesõnade ja ajaloo ühendamist.</li>
+      <li lang="eu">bertsio-kontrolerako gako-hitzak eta historia bateratzea onartzen du.</li>
+      <li lang="fi">tukee versionhallinnan avainsanoja ja historian yhdistämistä.</li>
+      <li lang="fr">prend en charge les mots clés de contrôle de version et la fusion des historiques.</li>
+      <li lang="gl">e permite fusionar historiais e palabras clave de control de versión.</li>
+      <li lang="id">dukungan katakunci kendali versi dan histori penggabungan.</li>
+      <li lang="it">supporta le parole chiave per il controllo di versione e la fusione della cronologia.</li>
+      <li lang="ko">버전 관리 키워드 및 기록 병합을 지원합니다.</li>
+      <li lang="nl">versiebeheersleutelwoorden ondersteunt en samenvoegen van geschiedenis.</li>
+      <li lang="pl">obsługuje scalanie słów kluczowych i historii zarządzania wersjami</li>
+      <li lang="pt">suporta as palavras-chave de controlo de versões e de junção do histórico.</li>
+      <li lang="pt-BR">suporta palavras-chave de controle de versão e mesclagem de histórico.</li>
+      <li lang="sk">podporuje kľúčové slová na správu verzií a zlučovanie histórie.</li>
+      <li lang="sl">podpira združevanje ključnih besed in zgodovine za nadzor verzij.</li>
+      <li lang="sv">stöder nyckelord för versionskontroll och sammanfogning av historik.</li>
+      <li lang="uk">підтримує об’єднання за ключовими словами і журналом інструментів керування версіями.</li>
+      <li lang="x-test">xxsupports version control keyword and history merging.xx</li>
+      <li lang="zh-CN">支持版本控制关键词和历史合并。</li>
+    </ul>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://cdn.kde.org/screenshots/kdiff3/diffscreen_two_way.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://cdn.kde.org/screenshots/kdiff3/ManualMerdge.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://kde.org/applications/development/org.kde.kdiff3</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kdiff3</url>
+  <url type="help">https://docs.kde.org/?application=kdiff3</url>
+  <url type="donation">https://www.kde.org/community/donations/?app=kdiff3</url>
+  <provides>
+    <binary>kdiff3</binary>
+  </provides>
+  <releases>
+    <release date="2022-3-2" version="1.9.5" />
+    <release version="1.9.4" date="2021-11-17" />
+    <release version="1.9.3" date="2021-07-15" />
+    <release date="2021-05-16" version="1.9.2" />
+    <release version="1.9.1" date="2021-05-13" />
+    <release date="2021-04-29" version="1.9.0" />
+    <release version="1.8.5" date="2021-01-10" />
+    <release version="1.8.4" date="2020-08-25" />
+    <release date="2020-06-24" version="1.8.3" />
+    <release version="1.8.2" date="2020-03-29" />
+    <release date="2019-03-23" version="1.8.1" />
+    <release date="2019-03-22" version="1.8.0" />
+  </releases>
+</component>

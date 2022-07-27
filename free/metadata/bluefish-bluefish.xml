@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>bluefish</pkgname>
+  <icon height="64" type="cached" width="64">bluefish.png</icon>
+  <icon type="cached" width="128" height="128">bluefish.png</icon>
+  <id type="desktop">bluefish.desktop</id>
+  <name>Bluefish</name>
+  <summary>Text editor with many web and software development extras</summary>
+  <url type="homepage">http://bluefish.openoffice.nl/</url>
+  <metadata_licence>CC0-1.0</metadata_licence>
+  <description>
+    <p>Bluefish is a powerful editor targeted towards programmers and web developers, with many options to write websites, scripts and programming code. Bluefish supports many programming and markup languages and has many features, but is still a very fast and lightweight application.</p>
+    <p lang="ca">Bleufish és un potent editor dirigit a programadors i desenvolupadors web, amb moltes opcions per escriure llocs web, scripts i codi de programació. Bluefish admet molts llenguatges de programació i de marques i té moltes funcionalitats, tot i ser una aplicació molt ràpida i lleugera.</p>
+    <p lang="cs">Bluefish je mocný editor zaměřený na programátory a vývojáře webů s možností psaní webových stránek, skriptů i programování kódu. Podporuje řadu různých programovacích a značkovacích jazyků a má spoustu funkcí, ale přesto jde o rychlou a lehkou aplikaci.</p>
+    <p lang="da">Bluefish er et kraftfuldt redigeringsprogram for programmører og webudviklere. Det giver mange valgmuligheder når man skal skrive hjemmesider, scripts og programkode. Bluefish understøtter mange programmerings- og markeringssprog og har mange funktioner, men er alligevel et meget hurtigt letvægtsprogram.</p>
+    <p lang="de">Bluefish ist ein mächtiger Editor für Programmierer und Webentwickler mit vielen Möglichkeiten zum Erstellen von Websites und Skripten und zur Programmierung. Bluefish unterstützt viele Programmier- und Auszeichnungssprachen und hat viele Funktionalitäten, ist aber dennoch sehr schnell und leichtgewichtig.</p>
+    <p lang="es">Bluefish es un potente editor orientado a programadores y desarrolladores web, con muchas opciones para escribir sitios web, scripts y código de programación. Bluefish soporta varios lenguajes de programación y de marcado y tiene muchas características, sin dejar de de ser una aplicación rápida y ligera.</p>
+    <p lang="fa"> بلوفیش یک ویرایشگره قدرتمندی است برای برنامه نویسان و توسعه دهندگانه وب سایتها , با گزینه های بسیاری  برای طراهی وب سایت , اسکریبها و کد های برنامه نویسی  است. بلوفیش پشتیبانی و کمک میکند از برای بسیاری از زبانهای برنامه نویسی و نشانه گذاری و دارای خصوصیاتهای بسیاری است. ولی هنوز یک نرم افزار بسیار اسان, سبک و سریع است.‬ </p>
+    <p lang="fr">Bluefish est un éditeur puissant destiné aux programmeurs et développeurs web,avec de nombreuses options pour écrire des pages web, des scripts et du code source. Bluefish supporte de nombreux langages de programmation et de balise et possède de nombreuses fonctionnalités, mais il reste rapide et léger.</p>
+    <p lang="gl">Bluefish é un poderoso editor destinado a programadores e desenvolvedores web, con moitas ferramentas para escribir sitios web, scripts e código de programación. Bluefish soporta moitas linguaxes de programación e linguaxes de marcado e ten moitas ferramentas, pero aínda así é un aplicativo lixeiro e rápido.</p>
+    <p lang="hu">A Bluefish egy programozóknak és webfejlesztőknek szánt hatékony szerkesztő számos lehetőséggel weboldalak, parancsfájlok és programkódok írásához. A Bluefish számos programozási és leírónyelvet támogat, valamint sok szolgáltatással rendelkezik, de még így is nagyon gyors és könnyűsúlyú alkalmazás.</p>
+    <p lang="it">Bluefish è un potente editor rivolto a programmatori e sviluppatori web, con molte opzioni per scrivere siti web, script e codice di programmazione. Bluefish supporta molti linguaggi di programmazione e di markup e ha molte caratteristiche, ma è comunque un programma molto veloce e leggero.</p>
+    <p lang="ja">Bluefish は強力なエディタでプログラマ、Web開発者を対象としています。ウェブサイト、スクリプト、プログラムコードを書くために必要な多くのオプションを持っています。Bluefish は多くのプログラミング言語、マークアップ言語をサポートし、これらの言語のための数多くの機能を持ちながら、速く、また軽く動作するアプリケーションです。</p>
+    <p lang="nb">Bluefish er en kraftig editor for programmerere og webutviklere, beregnet på programmering, skripting og webutvikling. Bluefish støtter mange programmerings- og markupspråk, og har mange funksjoner for tekstredigering, men er likevel lynrask og lite ressurskrevende.</p>
+    <p lang="nl">Bluefish is een krachtige editor gericht op programmeurs en web-ontwikkelaars, met veel extra's om websites, scripts en code te schrijven. Bluefish ondersteunt vele programmeer- en opmaaktalen, heeft veel mogelijkheden, en is tegelijkertijd een snelle en lichtgewicht applicatie.</p>
+    <p lang="nn">Bluefish er eit kraftig skriveprogram retta mot programmerarar og nettutviklarar. Det har mange val for å skriva nettstadar, skript og programkode.  Bluefish støttar mange programmerings- og markeringsspråk. Det har mange eigenskapar, men er likevel eit særs raskt og lite program.</p>
+    <p lang="pl">Bluefish to potężny edytor ukierunkowany dla programistów i twórców stron internetowych. Posiada wiele opcji do tworzenia stron internetowych, skryptów i kodów programów. Bluefish obsługuje wiele języków programowania i znaczników oraz posiada mnóstwo funkcji, zachowując przy tym szybkość, lekkość i stabilność.</p>
+    <p lang="pt_BR">Bluefish é um poderoso editor direcionado a programadores e web developers, com muitas opções para escrever websites, scripts e códigos. Bluefish suporta muitas linguagens de programação e markup e têm muitos recursos, mas ainda assim é um aplicativo bastante rápido e leve.</p>
+    <p lang="ru">Bluefish — мощный текстовый редактор, предназначенный для программистов и веб-разработчиков. Он включает в себя набор инструментов для создания веб-сайтов, сценариев и программного кода. Bluefish поддерживает множество языков программирования и разметки, многофункционален, но при этом работает быстро и нетребователен к ресурсам.</p>
+    <p lang="uk">Bluefish — потужний редактор для програмістів та розробників сторінок інтернету. У ньому реалізовано багато можливостей для написання сайтів, скриптів та програмного коду. У Bluefish передбачено підтримку багатьох мов програмування та розмітки, а також багато можливостей з редагування, але програма все одно залишилася дуже швидкою і невибагливою до ресурсів.</p>
+    <p lang="zh_CN">Bluefish是一个强大的面向程序员和网页制作者的编辑器，为撰写网站、脚本和程序编码提供更多的选择。Bluefish支持非常多的编程及标记语言，虽然特性较多，但仍保持着快速和轻量。</p>
+    <p>A selection of the features:</p>
+    <p lang="ca">Una selecció de les característiques:</p>
+    <p lang="cs">Mezi vybrané funkce patří:</p>
+    <p lang="da">Udvalgte muligheder:</p>
+    <p lang="de">Eine Auswahl der Funktionalitäten:</p>
+    <p lang="es">Una selección de características</p>
+    <p lang="fa">یک  چند اتنتخواباتی از ویزگی ها:  </p>
+    <p lang="fr">Une sélection des fonctionnalités :</p>
+    <p lang="gl">Unha selecións das características:</p>
+    <p lang="hu">A szolgáltatások választéka:</p>
+    <p lang="it">Una selezione delle caratteristiche:</p>
+    <p lang="ja">機能の選択:</p>
+    <p lang="nb">Noen funksjoner:</p>
+    <p lang="nl">Een selectie van de mogelijkheden:</p>
+    <p lang="nn">Eit utval av eigenskapane:</p>
+    <p lang="pl">Wybrane funkcje:</p>
+    <p lang="pt_BR">Uma seleção de recursos:</p>
+    <p lang="ru">Примеры инструментов:</p>
+    <p lang="uk">Ось лише деякі з можливостей:</p>
+    <p lang="zh_CN">部分特性：</p>
+    <ul>
+      <li>Well done syntax highlighting which for example supports languages inside languages (e.g. Javascript inside HTML inside PHP)</li>
+      <li lang="ca">Bon ressaltament de la sintaxi que per exemple admet llenguatges dins de llenguatges (per exemple Javascript dins d'HTML dins de PHP)</li>
+      <li lang="cs">Velmi dobré zvýrazňování syntaxe, které mimo jiné podporuje jazyky v jazycích (např. JavaScript uvnitř HTML uvnitř PHP).</li>
+      <li lang="da">God syntaksmarkering, som bl.a. understøtter sprog i sprog (f.eks. javascript i HTML i PHP)</li>
+      <li lang="de">Eine ausgereifte Syntaxhervorhebung, die u. a. Sprachen innerhalb Sprachen unterstützt (z. B. Javascript innerhalb HTML innerhalb PHP)</li>
+      <li lang="es">Resaltado de sintaxis que, por ejemplo, soporta lenguajes dentro de otros lenguajes (ej. Javascript dentro de HTML dentro de PHP)</li>
+      <li lang="fa">به خوبی انجام و نحو سریع و برجسته که به عنوان مثال پشتیبانی از زبان های داخل زبان (به عنوان مثال:  جاوا اسکریپت در داخل HTML در داخل پی اچ پی)</li>
+      <li lang="fr">Coloration syntaxique avancée permettant entre autres le support de langages inclus dans d'autres langages (par exemple : Javascript dans HTML dans PHP)</li>
+      <li lang="gl">Resaltado correcto da sintaxe que por exemplo soporta linguaxes dentro de linguaxes (ex. Javascript dentro de HTML dentro de PHP)</li>
+      <li lang="hu">Nagyszerű szintaxiskiemelés, amely támogatja például a nyelveken belüli nyelveket (például a PHP-ba ágyazott HTML-be ágyazott JavaScript)</li>
+      <li lang="it">Evidenziazione della sintassi ben fatta che, per esempio, supporta linquaggi all'interno di altri linquaggi (ad esempio Javascript all'interno di HTML all'interno di PHP)</li>
+      <li lang="ja">よくできた文法ハイライト。言語内に別の言語がある場合も含めて機能します。（例 PHP の中のHTMLの中のJavaScript）</li>
+      <li lang="nb">Syntaksmarkering som støtter språk i språk (f.eks Javascript i HTML i PHP)</li>
+      <li lang="nl">Goede syntax-highlighting die binnen in een taal een andere taal ondersteunt (bijv. JavaScript in HTML in PHP)</li>
+      <li lang="nn">Bra utført syntaksframheving som til dømes støttar språk inne i språk (slik som Javascript i HTML i PHP)</li>
+      <li lang="pl">Zaawansowana obsługa podświetlania składni z funkcją wyróżniania kodu w kodzie (np. rozróżnianie kodu JavaScript wewnątrz HTML w PHP)</li>
+      <li lang="pt_BR">Refinado destaque de sintaxe que, por exemplo, suporta linguagens dentro de linguagens (e.g. Javascript dentro de HTML dentro de PHP)</li>
+      <li lang="ru">Аккуратная подсветка синтаксиса, позволяющая в текст на одном языке вставлять фрагменты на других языках (например, Javascript внутри HTML в программе на PHP)</li>
+      <li lang="uk">Чудові можливості з підсвічування синтаксичних конструкцій, зокрема підтримка вбудованого коду різними мовами (наприклад, коду Javascript у коді HTML у коді PHP).</li>
+      <li lang="zh_CN">出色的语法高亮提示，提供了一种语言嵌入在另一种语言中的语法高亮功能（例如：Javascript在HTML中，在PHP中的语法高亮）。</li>
+      <li>All kind of powerful editor features like auto indenting and auto completion for many functions and libraries in many programming languages</li>
+      <li lang="ca">Tot tipus de potents funcionalitats d'edició com el sagnat automàtic i la compleció automàtica per a moltes funcions i llibreries de molts llenguatges de programació</li>
+      <li lang="cs">Všechny běžné funkce textových editorů, jako je automatické odsazování a automatické dokončování pro spoustu funkcí a knihoven v mnoha programovacích jazycích</li>
+      <li lang="da">Mange kraftfulde redigeringsværktøjer som auto-indrykning og auto-fuldførelse for mange funktioner og biblioteker i mange programmeringssprog</li>
+      <li lang="de">Alle möglichen Funktionalitäten eines Editors wie automatische Einrückung und automatische Vervollständigung für viele Funktionen und Bibliotheken vieler Programmiersprachen</li>
+      <li lang="es">Incluye todas las características de un editor de texto potente como el sangrado y el completado automáticos para muchas funciones y bibliotecas en varios lenguajes de programación.</li>
+      <li lang="fa">همه نوع از ویرایشگر قدرتمند ویژگی های مانند تورفتگی متن خودرو و تکمیل خودکار برای بسیاری از توابع و کتابخانه ها در بسیاری از زبان های برنامه نویسی</li>
+      <li lang="fr">Des fonctions d'édition puissantes telles l'indentation automatique et l'auto-complétion disponibles pour de nombreuses fonctions et bibliothèques dans de nombreux langages de programmation.</li>
+      <li lang="gl">Todas as características dos editores potentes como autoindentación e autocompletado para moitas funcións e bibliotecas en moitas linguaxes de programación</li>
+      <li lang="hu">Hatékony szerkesztő szolgáltatások minden fajtája, mint például automatikus behúzás és automatikus kiegészítés számos függvényhez és könyvtárhoz több programozási nyelven</li>
+      <li lang="it">Tutte le caratteristiche di un potente editor come l'indentazione automatica e il completamento automatico per molte funzioni e librerie in molti linguaggi di programmazione</li>
+      <li lang="ja">強力なあらゆる種類のエディタとしての機能: 多くの場面でのオートインデントおよび自動補間、プログラム言語についての参考文書</li>
+      <li lang="nb">Kraftige tekstediteringsfunksjoner som automatisk innrykk og autofullfør for mange funksjoner og bibliotek i mange programeringsspråk</li>
+      <li lang="nl">Allerlei krachtige editoropties zoals automatisch inspringen en automatisch aanvullen van namen van vele functies en uit bibliotheken van veel programmeertalen</li>
+      <li lang="nn">Alle slag kraftige skriveprogramseigenskapar som automatiske innrykk og fullføringar for mange funksjonar og bibliotek i mange programmeringsspråk</li>
+      <li lang="pl">Dużo użytecznych funkcji, takich jak automatyczne wcięcia oraz zakończenia wielu funkcji i bibliotek. Bluefish obsługuje naprawdę wiele języków programowania.</li>
+      <li lang="pt_BR">Todos os tipos de poderosos recursos editoriais como recuo automático e auto completar para muitas funções e bibliotecas em muitas linguagens de programação</li>
+      <li lang="ru">Всевозможные инструменты профессионального редактирования, например автоотступ или автодополнение для различных функций и библиотек многих языков</li>
+      <li lang="uk">Усі можливості потужного редактора, зокрема автоматичне встановлення відступів та автоматичне доповнення коду для багатьох функцій та бібліотек багатьма мовами програмування.</li>
+      <li lang="zh_CN">各式各样的强力编辑功能，可为多种语言中的函数和库提供自动缩进、自动完成的功能。</li>
+      <li>Project support</li>
+      <li lang="ca">Ajuda de projectes</li>
+      <li lang="cs">Podpora projektů</li>
+      <li lang="da">Projektunderstøttelse</li>
+      <li lang="de">Unterstützung für _Projekte</li>
+      <li lang="es">Soporte del proyecto</li>
+      <li lang="fa"> پشتیبانی کن ار پروژهها‬</li>
+      <li lang="fr">Gestion des projets</li>
+      <li lang="gl">Axuda do proxecto</li>
+      <li lang="hu">Projekt támogatás</li>
+      <li lang="it">Sostegno al progetto</li>
+      <li lang="ja">プロジェクト支援機能</li>
+      <li lang="nb">Prosjektstøtte</li>
+      <li lang="nl">Projectondersteuning</li>
+      <li lang="nn">Prosjektstøtte</li>
+      <li lang="pl">Wsparcie projektu</li>
+      <li lang="pt_BR">Suporte do projeto</li>
+      <li lang="ru">Работа с проектами</li>
+      <li lang="uk">Підтримка роботи з проєктами.</li>
+      <li lang="zh_CN">支持项目</li>
+      <li>Support for remote files over ftp, sftp, webdav, etc</li>
+      <li lang="ca">Ajuda per a fitxers remots sobre ftp, sftp, webdav, etc</li>
+      <li lang="cs">Podpora vzdálených souborů přes FTP, SFTP, WebDAV atd.</li>
+      <li lang="da">Understøttelse af ikke-lokale filer via ftp, sftp, webdav, etc</li>
+      <li lang="de">Unterstützung für verschiedene Datenprotokolle wie FTP, SFTP, WebDAV usw</li>
+      <li lang="es">Soporte para archivos remotos mediante ftp, sftp, webdav, etc</li>
+      <li lang="fa">پشتیبانی از فایل های FTP، SFTP، WebDAV و غیره از طریق راه دور هم امکان دارد.‬</li>
+      <li lang="fr">Support des fichiers distants via FTP, SFTP, WebDAV, etc.</li>
+      <li lang="gl">Soporta ficheiros remotos sobre ftp, sftp, webdav, etc</li>
+      <li lang="hu">Távoli fájlok támogatása FTP, SFTP, Webdav, stb. protokollokon keresztül</li>
+      <li lang="it">Supporto per file remoti tramite ftp, sftp, webdav, ecc</li>
+      <li lang="ja">リモートファイルサポート: FTP, SFTP, webdav など</li>
+      <li lang="nb">Støtte for åpning av filer over ftp, sftp, webdav, etc</li>
+      <li lang="nl">Ondersteuning voor bestanden op servers, via ftp, sftp, webdav, et cetera</li>
+      <li lang="nn">Støttar fjernfiltilgang over ftp,sftp, webdav, mv.</li>
+      <li lang="pl">Obsługa zdalnych plików poprzez ftp, sftp, webdav itp.</li>
+      <li lang="pt_BR">Suporta arquivos remotos por ftp, sftp, webdav, etc</li>
+      <li lang="ru">Работа с удалёнными файлами по ftp, sftp, webdav и т. п.</li>
+      <li lang="uk">Підтримка роботи з файлами віддаленого зберігання, зокрема протоколів ftp, sftp, webdav тощо.</li>
+      <li lang="zh_CN">支持ftp、sftp、webdav等远程文件调用功能</li>
+      <li>Powerful search and replace engine</li>
+      <li lang="ca">Potent motor de cerca i reemplaçament</li>
+      <li lang="cs">Mocný vyhledávací a nahrazovací nástroj</li>
+      <li lang="da">Kraftfuld søg-og-erstat-motor</li>
+      <li lang="de">Ein mächtiges Suchen und Ersetzen</li>
+      <li lang="es">Búsqueda potente y motor de reemplazo</li>
+      <li lang="fa">موتور جستجو و جایگزین قدرتمند.</li>
+      <li lang="fr">Puissant moteur de recherche et remplacement</li>
+      <li lang="gl">Poderoso motor de búsqueda e remplazo</li>
+      <li lang="hu">Hatékony keresés és csere motor</li>
+      <li lang="it">Potente motore per ricerca e sostituzione</li>
+      <li lang="ja">強力な検索/置換エンジン</li>
+      <li lang="nb">Kraftig funksjonalitet for søk og erstatt</li>
+      <li lang="nl">Krachtige zoek- en vervangmogelijkheden</li>
+      <li lang="nn">Kraftig motor for søk og erstatt</li>
+      <li lang="pl">Potężny silnik wyszukiwania i zamiany</li>
+      <li lang="pt_BR">Poderoso sistema de busca e substituição</li>
+      <li lang="ru">Мощный механизм поиска с заменой</li>
+      <li lang="uk">Потужний рушій для пошуку і заміни.</li>
+      <li lang="zh_CN">强力的搜索和替换引擎</li>
+      <li>Customizable integration of external programs such as lint, make, etc</li>
+      <li lang="ca">Integració personalitzada de programes externs com lint, make, etc</li>
+      <li lang="cs">Přizpůsobitelná integrace externích programů, jako je lint, make apod.</li>
+      <li lang="da">Tilpasningsmulifheder for integrering af eksterne programmer som lint, make, osv</li>
+      <li lang="de">Anpassbare Integration externer Programme wie lint, make usw</li>
+      <li lang="es">Integración personalizable de programas externos como lint, make, etc</li>
+      <li lang="fa">قابل تنظیم برنامه ریزی برنامه های خارجی مانند لینت , میک و غیره‬</li>
+      <li lang="fr">Intégration personnnlisable des programmes externes tels que lint, make, etc.</li>
+      <li lang="gl">Integración personalizada con programas externos como lint, make, etc</li>
+      <li lang="hu">Külső programok személyre szabható integrációja, mint például lint, make, stb.</li>
+      <li lang="it">Integrazione personalizzabile di programmi esterni come lint, make, ecc</li>
+      <li lang="ja">外部プログラム(lint, make等)との連携をカスタマイズ可能</li>
+      <li lang="nb">Kjøring av eksterne programmer som lint, make, etc</li>
+      <li lang="nl">Configureerbare integratie met externe programmatuur zoals lint, make, etc.</li>
+      <li lang="nn">Tilpassa integrering av eksterne program som lint, make, o.l.</li>
+      <li lang="pl">Konfigurowalna integracja z zewnętrznymi programami takimi jak lint, make itp.</li>
+      <li lang="pt_BR">Integração ajustável de programas externos como lint, make, etc</li>
+      <li lang="ru">Настройка взаимодействия с внешними программами (lint, make и т. п.)</li>
+      <li lang="uk">Придатна до налаштовування інтеграція із зовнішніми програмами, зокрема lint, make тощо.</li>
+      <li lang="zh_CN">可与lint、make等外部程序定制整合</li>
+      <li>Snippets plugin to automate often used code</li>
+      <li lang="ca">Connector de fragments de codi per automatitzar el codi usat sovint</li>
+      <li lang="cs">Zásuvný modul Úryvky pro automatizaci často používaného kódu</li>
+      <li lang="da">Plugin med kodestumper til automatisering af ofte brugt kode</li>
+      <li lang="de">Ein Snippets Plugin zum Automatisieren oft verwendeten Codes</li>
+      <li lang="es">Complemento de fragmentos para automatizar el código usado con frecuencia</li>
+      <li lang="fa">قطعه و تکهه های ؛ پلاگین ؛ که به طور خودکار اغلب مواقع استفاده می شود</li>
+      <li lang="fr">Plugin de snippets pour automatiser le code souvent utilisé</li>
+      <li lang="gl">Plugin Anacos para automatizar código utilizado con frecuencia</li>
+      <li lang="hu">Töredékek bővítmény a gyakran használt kódok automatizálásához</li>
+      <li lang="it">Plugin 'Ritagli' per automatizzare l'inserimento di codice</li>
+      <li lang="ja">スニペットプラグイン: 繰り返し現れるコードの操作に役立ちます</li>
+      <li lang="nb">Utklippsplugin for å automatisere bruk av ofte brukt kode</li>
+      <li lang="nl">Een "Snippets" plugin om veelgebruikte code te automatiseren</li>
+      <li lang="nn">Tilleggsprogram for kodesnuttar for å automatisera ofte nytta kode</li>
+      <li lang="pl">Wtyczka Snipets (Fragmenty) do automatyzacji często używanego kodu</li>
+      <li lang="pt_BR">Plugin Snippets para automatizar código usado com frequência</li>
+      <li lang="ru">Использование сниппетов для часто используемых участков кода</li>
+      <li lang="uk">Додаток роботи з фрагментами, який призначено для автоматизації вставлення поширених фрагментів коду.</li>
+      <li lang="zh_CN">片段代码插件使经常使用的代码自动化</li>
+      <li>Code-aware in-line spell checking</li>
+      <li lang="ca">Comprovació d'ortografia en línia tenint en compte el codi</li>
+      <li lang="cs">Vestavěná podpora kontroly pravopisu beroucí ohled na kód</li>
+      <li lang="da">Indbygget kode-bevidst stavekontrol</li>
+      <li lang="de">Eine Rechtschreibprüfung, der Quellcode berücksichtigt</li>
+      <li lang="es">Revisión ortográfica en línea sensible al código</li>
+      <li lang="fa"> برسی و چک کردن دیکته برای ؛ کود ور؛  و ؛این لاین؛.</li>
+      <li lang="fr">Vérification orthographique en ligne avec discrimination du code</li>
+      <li lang="gl">Comprobación da ortografía en liña dependente do tipo de código</li>
+      <li lang="hu">Kódfelismerő sorközi helyesírás-ellenőrzés</li>
+      <li lang="it">Controllo ortografico in linea consapevole del codice</li>
+      <li lang="ja">コードを識別した上での行内スペルチェック</li>
+      <li lang="nb">Kodesensitiv in-line stavekontroll</li>
+      <li lang="nl">Spellingcontrole die rekening houdt met programmeercode</li>
+      <li lang="nn">Integrert kodeorientert stavekontroll</li>
+      <li lang="pl">Świadome sprawdzanie pisowni wg linii kodu.</li>
+      <li lang="pt_BR">Checagem ortográfica em linha sensível a código</li>
+      <li lang="ru">Контекстная проверка синтаксиса «на лету»</li>
+      <li lang="uk">Вбудований інструмент перевірки правопису, який враховує особливості синтаксису мови програмування.</li>
+      <li lang="zh_CN">关注代码的联机语法检查</li>
+      <li>Zencoding or Emmet support</li>
+      <li lang="ca">Ajuda per a Zencoding o Emmet</li>
+      <li lang="cs">Podpora Zencoding a Emmet</li>
+      <li lang="da">Zenkodning eller Emmet-støtte</li>
+      <li lang="de">Unterstützung für Zencoding oder Emmet</li>
+      <li lang="es">soporte de Zencoding o Emmet</li>
+      <li lang="fa">؛ زن کودینگ ؛ و یا ؛آمت؛ هم کرد داشته باشد و پشتیبانی کند </li>
+      <li lang="fr">Support de Zencoding ou Emmet</li>
+      <li lang="gl">Soporte de Zencoding ou Emmet</li>
+      <li lang="hu">Zencoding vagy Emmet támogatás</li>
+      <li lang="it">Supporto Zencoding o Emmet</li>
+      <li lang="ja">Zencoding あるいは Emmet のサポート</li>
+      <li lang="nb">Støtte for Zencoding og Emmet</li>
+      <li lang="nl">Zencoding- of Emmet-ondersteuning</li>
+      <li lang="nn">Emmet-støtte (zen-koding)</li>
+      <li lang="pl">Wsparcie dla ZenCoding oraz Emmet</li>
+      <li lang="pt_BR">Suporte Zencoding ou Emmet</li>
+      <li lang="ru">Поддержка Zencoding и Emmet</li>
+      <li lang="uk">Підтримка дзен-програмування або Emmet.</li>
+      <li lang="zh_CN">支持Zencoding 或者叫 Emmet</li>
+      <li>Bookmarks panel</li>
+      <li lang="ca">Panell de marcadors</li>
+      <li lang="cs">Panel záložek</li>
+      <li lang="da">Bogmærkepanel</li>
+      <li lang="de">Lesezeichen</li>
+      <li lang="es">Panel de marcadores</li>
+      <li lang="fa">صفحه و تصویره ؛نشانیها؛</li>
+      <li lang="fr">Panneau de marque-pages</li>
+      <li lang="gl">Panel de marcadores</li>
+      <li lang="hu">Könyvjelzők panel</li>
+      <li lang="it">Pannello segnalibri</li>
+      <li lang="ja">ブックマーク パネル</li>
+      <li lang="nb">Bokmerkepanel</li>
+      <li lang="nl">Bladwĳzers</li>
+      <li lang="nn">Bokmerkepanel</li>
+      <li lang="pl">Panel zakładek</li>
+      <li lang="pt_BR">Painel Bookmarks</li>
+      <li lang="ru">Работа с закладками</li>
+      <li lang="uk">Панель закладок.</li>
+      <li lang="zh_CN">书签面板</li>
+    </ul>
+    <p>If you are an occasional coder who is in need for a simple to learn editor, or a heavy coder who dislikes heavy IDE's like eclipse or netbeans, Bluefish is your editor of choice!</p>
+    <p lang="ca">Si sou un programador ocasional que necessita un editor fàcil d'aprendre, o un programador avançat a qui no li agraden els IDEs pesats com eclipse o netbeans, Bluefish és el teu editor!</p>
+    <p lang="cs">Pokud jste jen příležitostný kodér, který potřebuje jednoduchý a snadno pochopitelný editor nebo naopak náročný kodér, který ale nemá rád těžká prostředí jako Eclipse nebo Netbeans, v obou případech je Bluefish právě pro vás.</p>
+    <p lang="da">Hvis du kun koder en gang imellem og har brug for et redigeringsprogram, som er let at lære, eller hvis du koder jævnligt og ikke bryder dig om tunge brugerflader som eclipse eller netbeans, så er Bluefish lige noget for dig!</p>
+    <p lang="de">Für Gelegenheitsprogrammierer, die einen leicht zu erlernenden Editor benötigen, oder Vielprogrammierer, die schwergewichtige Entwicklungsumgebungen wie Eclipse oder Netbeans nicht mögen, ist Bluefish der Editor der Wahl!</p>
+    <p lang="es">Si es un programador ocasional que necesita un editor sencillo de aprender, o un programador avanzado al que no le gustan los EID pesados como eclipse o netbeans, Bluefish es su elección.</p>
+    <p lang="fa">اگر شما یک برنامه نویسی و کورد نویسی هستید که گاهی اوقاط احتیاج دارید که یک ویراستار ساده ایی را یاد بگیرید, ویا یک کودر و یا برنامه نویسه حرفه ایی باشید که از استفاده زیاد  IDE ها ماننده اکلیپس و یا نت بینز , را دوست نداشته باشید انوقت ؛بلوفیش؛ انتخواب ویراستار ایده ال شما است    </p>
+    <p lang="fr">Que vous soyez un codeur occasionnel qui recherche un éditeur simple à maîtriser,ou un codeur frénétique peu attiré par les IDE lourds tels eclipse ou netbeans, Bluefish est fait pour vous !</p>
+    <p lang="gl">Se vostede é un programador ocasional que precisa de un editor doado de utilizar, ou un programador habitual que fuxe de IDEs enormes como eclipse ou netbeans, Bluefish é a súa elección!</p>
+    <p lang="hu">Ha Ön olyan alkalmi programozó, aki rászorul egy egyszerűen megtanulható szerkesztőre, vagy tapasztalt programozó, aki nem szereti a nagy IDE programokat, mint például Eclipse vagy Netbeans, akkor a Bluefish a megfelelő választás Önnek!</p>
+    <p lang="it">Se sei un programmatore occasionale che ha bisogno di un editor semplice da imparare, o un programmatore pesante che non ama IDE pesanti come eclipse o netbeans, Bluefish è il tuo editor!</p>
+    <p lang="ja">あなたがたまにコーディングをする人で簡単に操作を学ぶことができるエディタを必要とするなら、あるいは常にコーディングをしている人であって、Eclipse や netbeans のような重いIDEを嫌っているなら、Bluefish こそがあなたの選択肢です！</p>
+    <p lang="nb">Enten om du trenger en editor som er enkel å lære, eller bare misliker tunge utviklingsmiljø som Eclipse eller Netbeans, så er Bluefish et glimrende valg.</p>
+    <p lang="nl">Als je af en toe programmeert, en je zoekt een makkelijk te gebruiken editor, of je bent een professionele programmeur die niet van zwaar opgetuigde IDE's als Eclipse of Netbeans houdt, dan is Bluefish de editor voor jou!</p>
+    <p lang="nn">Bluefish tilfredsstiller krava både til hobbyprogrammeraren som treng eit skriveprogram som er lett å læra og til den profesjonelle utviklaren som misliker tunge integrerte utviklingsmiljø som Eclipse eller Netbeans. </p>
+    <p lang="pl">Jeżeli jesteś osobą, która rzadko programuje i potrzebuje prostego edytora lub posiadasz dużą wiedzę i doświadczenie, ale nie przypadły Ci do gustu takie środowiska jak Eclipse czy NetBeans, Bluefish jest właśnie dla Ciebie!</p>
+    <p lang="pt_BR">Se você é um programador casual que precisa de um editor fácil de aprender, ou umprogramador avançado que não gosta de IDE's pesados como eclipse ou netbeans, Bluefish é o editor correto para você!</p>
+    <p lang="ru">Если вы программируете от случая к случаю и вам нужет простой в изучении редактор, или, наоборот, программируете всё время, но устали от тяжёлых сред программирования наподобие eclipse или netbeans, вам стоит поинтересоваться Bluefish!</p>
+    <p lang="uk">Якщо час від часу ви займаєтеся програмуванням і шукаєте простий у вивченні редактор або ви є професійним програмістом, якому не подобаються важкі комплексні середовища розробки (IDE), зокрема eclipse або netbeans, Bluefish — це саме той редактор, який вам потрібен!</p>
+    <p lang="zh_CN">无论你是仅想使用简单编辑器的程序员，还是不喜欢臃肿的eclipse或netbeans的编程老手，Bluefish都是你不错的选择。</p>
+  </description>
+  <launchable type="desktop-id">bluefish.desktop</launchable>
+  <categories>
+    <category>Development</category>
+    <category>Webdevelopment</category>
+</categories>
+  <screenshots>
+    <screenshot type="default">
+      <image type="source">http://bluefish.openoffice.nl/images/bluefish-appdata-screenshot.png</image>
+      <caption>The main window showing the application</caption>
+    </screenshot>
+  </screenshots>
+  <updatecontact>olivier(at)bluefish.openoffice.nl</updatecontact>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+  </kudos>
+</component>

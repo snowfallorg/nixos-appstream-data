@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>pantheon.elementary-greeter</pkgname>
+  <id>io.elementary.greeter</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>Greeter</name>
+  <name lang="zh_TW">歡迎程式</name>
+  <name lang="zh_CN">登录界面</name>
+  <name lang="uk">Екран вітання</name>
+  <name lang="tr">Greeter</name>
+  <name lang="sr">Поздравни екран</name>
+  <name lang="ru">Экран приветствия</name>
+  <name lang="pt_BR">Greeter</name>
+  <name lang="pt">Boas-vindas</name>
+  <name lang="pl">Blokada ekranu</name>
+  <name lang="oc">Greeter</name>
+  <name lang="nl">Greeter</name>
+  <name lang="nb">Greeter</name>
+  <name lang="mr">ग्रीटर</name>
+  <name lang="lt">Sveikintojas</name>
+  <name lang="ko">그리터</name>
+  <name lang="ja">Greeter</name>
+  <name lang="it">Schermata di sblocco</name>
+  <name lang="hu">Üdvözlőképernyő</name>
+  <name lang="he">מקבל הפנים</name>
+  <name lang="gl">Greeter</name>
+  <name lang="fr">Greeter</name>
+  <name lang="fi">Kirjautumisnäkymä</name>
+  <name lang="es">Recibidor</name>
+  <name lang="eo">Salutilo</name>
+  <name lang="en_GB">Greeter</name>
+  <name lang="de">Anmeldebildschirm</name>
+  <name lang="da">Greeter</name>
+  <name lang="cs">Přihlašovací obrazovka</name>
+  <name lang="ckb">گریتەر</name>
+  <name lang="ca">Benvinguda</name>
+  <name lang="ar">شاشة الترحيب</name>
+  <summary>Unlock or log in to your device</summary>
+  <summary lang="zh_TW">解除鎖定或登入您的裝置</summary>
+  <summary lang="zh_CN">解锁或登录设备</summary>
+  <summary lang="uk">Розблокуйте або увійдіть до свого пристрою</summary>
+  <summary lang="tr">Cihazınızın kilidini veya oturumunuzu açın</summary>
+  <summary lang="sr">Откључава или се пријављује на ваш уређај</summary>
+  <summary lang="ru">Разблокируйте устройство или авторизуйтесь</summary>
+  <summary lang="pt_BR">Desbloquear ou efetuar login em seu dispositivo</summary>
+  <summary lang="pt">Desbloquear ou iniciar sessão no seu dispositivo</summary>
+  <summary lang="pl">Odblokuj lub zaloguj się do swojego urządzenia</summary>
+  <summary lang="oc">Desverrolhar o vos connectar a l’aparelh</summary>
+  <summary lang="nl">Ontgrendel uw apparaat of log in</summary>
+  <summary lang="nb">Lås opp eller logg inn på enheten din</summary>
+  <summary lang="mr">डिव्हाइस अनलॉक करा किंवा आपल्या डिव्हाइसवर लॉग इन करा</summary>
+  <summary lang="lt">Atrakinti ar prisijungti prie savo įrenginio</summary>
+  <summary lang="ko">컴퓨터의 잠금을 해제하거나 로그인할수 있게 해 줍니다</summary>
+  <summary lang="ja">お使いのデバイスのロックを解除したりログインしたりします</summary>
+  <summary lang="it">Sblocca o accedi al tuo dispositivo</summary>
+  <summary lang="hu">Feloldás vagy bejelentkezés az eszlözbe</summary>
+  <summary lang="he">שחרור נעילה או כניסה למכשיר שלך</summary>
+  <summary lang="gl">Desbloquear ou iniciar sesión no seu dispositivo</summary>
+  <summary lang="fr">Déverrouillez ou connectez-vous à votre appareil</summary>
+  <summary lang="fi">Kirjaudu laitteelle tai avaa laitteen lukitus</summary>
+  <summary lang="fa">قفل دستگاه خود را باز کرده یا وارد شوید</summary>
+  <summary lang="es">Desbloquee o acceda a su dispositivo</summary>
+  <summary lang="eo">Malŝlosi aŭ ensaluti vian aparaton</summary>
+  <summary lang="en_GB">Unlock or log in to your device</summary>
+  <summary lang="de">Gerät entsperren oder daran anmelden</summary>
+  <summary lang="da">Lås op eller log ind på din enhed</summary>
+  <summary lang="cs">Odemkněte nebo se přihlaste do svého počítače</summary>
+  <summary lang="ckb">قوفڵ بکەوە یان بچۆرە ناو ئامێرەکەتەوە</summary>
+  <summary lang="ca">Desbloquegeu o entreu al dispositiu</summary>
+  <summary lang="ar">افتح أو سجل الدخول إلى جهازك</summary>
+  <description>
+    <p />
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/elementary/greeter/master/data/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <provides>
+    <binary>io.elementary.greeter</binary>
+  </provides>
+  <releases>
+    <release urgency="medium" date="2022-05-09" version="6.1.0">
+      <description>
+        <p>New Features:</p>
+        <ul>
+          <li>Provide panel background color interface</li>
+        </ul>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="6.0.2" date="2022-02-28" urgency="medium">
+      <description>
+        <p>Improvements:</p>
+        <ul>
+          <li>Fix a random issue where Greeter does not load correctly on boot</li>
+        </ul>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" version="6.0.1" date="2021-09-22">
+      <description>
+        <p>Improvements:</p>
+        <ul>
+          <li>Hide clock during initial setup</li>
+          <li>Use selected accent color for logged in checkmark</li>
+        </ul>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" date="2021-07-14" version="6.0.0">
+      <description>
+        <ul>
+          <li>Add multitouch finger tracking</li>
+          <li>Add keyboard layout support</li>
+          <li>New colorful avatar fallbacks</li>
+          <li>Fix clock when resuming from sleep</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" date="2020-05-28" version="5.0.4">
+      <description>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" date="2020-04-05" version="5.0.3">
+      <description>
+        <ul>
+          <li>Fix an issue with media keys</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" version="5.0.2" date="2020-02-25">
+      <description>
+        <ul>
+          <li>Ensure that manual login is available when users are hidden</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release urgency="medium" version="5.0.1" date="2019-10-31">
+      <description>
+        <ul>
+          <li>Save last user on attempted login</li>
+          <li>Handle all background aspect ratios</li>
+          <li>Give non-focused user cards smaller usernames</li>
+          <li>Better respect NumLock settings</li>
+          <li>Enable sounds in greeter</li>
+          <li>Select password text on error instead of immediately clearing it</li>
+          <li>Code cleanup</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="5.0" date="2019-08-26" urgency="medium">
+      <description>
+        <p>Extensive overhaul</p>
+        <ul>
+          <li>New card-based appearance</li>
+          <li>Improved HiDPI support</li>
+          <li>AccountsService functionality</li>
+          <li>Various bug fixes</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="violence-desecration">none</content_attribute>
+    <content_attribute id="violence-slavery">none</content_attribute>
+    <content_attribute id="violence-worship">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="sex-homosexuality">none</content_attribute>
+    <content_attribute id="sex-prostitution">none</content_attribute>
+    <content_attribute id="sex-adultery">none</content_attribute>
+    <content_attribute id="sex-appearance">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+  <translation type="gettext">io.elementary.greeter</translation>
+  <compulsory_for_desktop>Pantheon</compulsory_for_desktop>
+  <developer_name>elementary, Inc.</developer_name>
+  <developer_name lang="zh_TW">elementary, Inc.</developer_name>
+  <developer_name lang="zh_CN">elementary, Inc.</developer_name>
+  <developer_name lang="uk">elementary, Inc.</developer_name>
+  <developer_name lang="tr">elementary, Inc.</developer_name>
+  <developer_name lang="sv">elementary, Inc.</developer_name>
+  <developer_name lang="sr">elementary, Inc.</developer_name>
+  <developer_name lang="sl">elementary, Inc.</developer_name>
+  <developer_name lang="sk">elementary, Inc.</developer_name>
+  <developer_name lang="ru">elementary, Inc.</developer_name>
+  <developer_name lang="pt_BR">elementary, Inc.</developer_name>
+  <developer_name lang="pt">elementary, Inc.</developer_name>
+  <developer_name lang="pl">elementary, Inc.</developer_name>
+  <developer_name lang="oc">elementary, Inc.</developer_name>
+  <developer_name lang="nn">elementary, Inc.</developer_name>
+  <developer_name lang="nl">elementary, Inc.</developer_name>
+  <developer_name lang="mr">एलिमेंटरी,Inc.</developer_name>
+  <developer_name lang="ml">elementary, Inc.</developer_name>
+  <developer_name lang="lt">elementary, Inc.</developer_name>
+  <developer_name lang="ko">elementary, Inc.</developer_name>
+  <developer_name lang="ja">elementary, Inc.</developer_name>
+  <developer_name lang="it">elementary, Inc.</developer_name>
+  <developer_name lang="hu">elementary, Inc.</developer_name>
+  <developer_name lang="he">elementary בע״מ.</developer_name>
+  <developer_name lang="gl">elementary, Inc.</developer_name>
+  <developer_name lang="fr">elementary, Inc.</developer_name>
+  <developer_name lang="fi">elementary, Inc.</developer_name>
+  <developer_name lang="es">elementary, Inc.</developer_name>
+  <developer_name lang="eo">elementary, Inc.</developer_name>
+  <developer_name lang="en_GB">elementary, Inc.</developer_name>
+  <developer_name lang="en_CA">elementary, Inc.</developer_name>
+  <developer_name lang="en_AU">elementary, Inc.</developer_name>
+  <developer_name lang="el">elementary, Inc.</developer_name>
+  <developer_name lang="de">elementary, Inc.</developer_name>
+  <developer_name lang="da">elementary, Incorporated.</developer_name>
+  <developer_name lang="cs">elementary, Inc.</developer_name>
+  <developer_name lang="ckb">کۆمپانیای ئێلەمێنتەری هاوپشک.</developer_name>
+  <developer_name lang="ca">elementary, Inc.</developer_name>
+  <developer_name lang="bs">elementary, Inc.</developer_name>
+  <developer_name lang="ar">elementary, Inc.</developer_name>
+  <developer_name lang="am">elementary, Inc.</developer_name>
+  <url type="homepage">https://elementary.io</url>
+  <url type="bugtracker">https://github.com/elementary/greeter/issues</url>
+</component>

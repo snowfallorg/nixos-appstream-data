@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>kooha</pkgname>
+  <icon type="cached" height="64" width="64">io.github.seadve.Kooha.png</icon>
+  <icon type="cached" width="128" height="128">io.github.seadve.Kooha.png</icon>
+  <id>io.github.seadve.Kooha</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <name>Kooha</name>
+  <name lang="hu">Kooha</name>
+  <name lang="hr">Kooha</name>
+  <name lang="oc">Kooha</name>
+  <name lang="gl">Kooha</name>
+  <name lang="hi">Kooha</name>
+  <name lang="zh_Hans">Kooha</name>
+  <name lang="uk">Kooha</name>
+  <name lang="tr">Kooha</name>
+  <name lang="sv">Kooha</name>
+  <name lang="sr@latin">Kooha</name>
+  <name lang="sr">Kooha</name>
+  <name lang="sk">Kooha</name>
+  <name lang="ru">Kooha</name>
+  <name lang="pt_BR">Kooha</name>
+  <name lang="pt">Kooha</name>
+  <name lang="pl">Kooha</name>
+  <name lang="nl">Kooha</name>
+  <name lang="nb_NO">Kooha</name>
+  <name lang="ko">쿠하</name>
+  <name lang="ja">Kooha</name>
+  <name lang="it">Kooha</name>
+  <name lang="id">Kooha</name>
+  <name lang="he">Kooha</name>
+  <name lang="fr_FR">Kooha</name>
+  <name lang="fil">Kooha</name>
+  <name lang="fi">Kooha</name>
+  <name lang="fa">کوها</name>
+  <name lang="eu">Kooha</name>
+  <name lang="eo">Kooha</name>
+  <name lang="es">Kooha</name>
+  <name lang="de">Kooha</name>
+  <name lang="cs">Kooha</name>
+  <name lang="ar">Kooha</name>
+  <summary>Elegantly record your screen</summary>
+  <summary lang="hu">Vegye fel a képernyőjét elegánsan</summary>
+  <summary lang="hr">Snimi ekran na elegantan način</summary>
+  <summary lang="oc">Enregistrar elegantament vòstre ecran</summary>
+  <summary lang="gl">Grave a súa pantalla elegantemente</summary>
+  <summary lang="hi">अपनी स्क्रीन को अच्छे ढंग से रिकॉर्ड करें</summary>
+  <summary lang="zh_Hans">优雅地录制屏幕</summary>
+  <summary lang="uk">Елегантно записуйте ваш екран</summary>
+  <summary lang="tr">Ekranınızı zarif bir şekilde kaydedin</summary>
+  <summary lang="sv">Spela in din skärm på ett elegant sätt</summary>
+  <summary lang="sr@latin">Snimi ekran na elegantan način</summary>
+  <summary lang="sr">Сними екран на елегантан начин</summary>
+  <summary lang="sk">Elegantne zaznamenáva vašu obrazovku</summary>
+  <summary lang="ru">Записывайте экран элегантно</summary>
+  <summary lang="pt_BR">Grave sua tela elegantemente</summary>
+  <summary lang="pt">Grave o seu ecrã com estilo</summary>
+  <summary lang="pl">Elegancko nagrywa twój ekran</summary>
+  <summary lang="nl">Maak elegante schermopnames</summary>
+  <summary lang="nb_NO">Ta opp skjermen din på elegant vis</summary>
+  <summary lang="ko">화면을 우아하게 녹화해보세요</summary>
+  <summary lang="ja">エレガントに画面を記録</summary>
+  <summary lang="it">Registra il tuo schermo elegantemente</summary>
+  <summary lang="id">Rekam layar Anda dengan elegan</summary>
+  <summary lang="he">הקלט את המסך בעדינות</summary>
+  <summary lang="fr_FR">Enregistrez élégamment votre écran</summary>
+  <summary lang="fil">Eleganteng i-record ang iyong screen</summary>
+  <summary lang="fi">Tallenna näyttösi tapahtumat</summary>
+  <summary lang="fa">صفحه‌ی خود را با ظرافت ضبط کنید</summary>
+  <summary lang="eu">Grabatu zure pantaila dotoretasunez</summary>
+  <summary lang="eo">Elegante registri vian ekranon</summary>
+  <summary lang="es">Grabe su pantalla elegantemente</summary>
+  <summary lang="de">Ihren Bildschirm elegant aufnehmen</summary>
+  <summary lang="cs">Elegantně zaznamenej svou obrazovku</summary>
+  <summary lang="ar">سجل شاشتك بأناقة</summary>
+  <description>
+    <p>Capture your screen in a intuitive and straightforward way without distractions.</p>
+    <p lang="hu">Vegye fel a képernyőjét intuitív és egyszerű módon, zavaró tényezők nélkül.</p>
+    <p lang="hr">Snimi ekran na intuitivan i jednostavan način.</p>
+    <p lang="uk">Вибирайте ділянку інтуїтивно зрозумілим і простим способом без зайвих чинників.</p>
+    <p lang="tr">Dikkatiniz dağılmadan ekranınızı sezgisel ve basit bir şekilde kaydedin.</p>
+    <p lang="sv">Fånga din skärm på ett intuitivt och rakt på sak-sätt utan distraktioner.</p>
+    <p lang="sr@latin">Snimi ekran na intuitivan i jednostavan način bež smetnji.</p>
+    <p lang="sr">Сними екран на интуитиван и једноставан начин беж сметњи.</p>
+    <p lang="sk">Zachytávajte vašu obrazovku intuitívnym a zreteľným spôsobom bez rozptyľovania.</p>
+    <p lang="nl">Maak op eenvoudige wijze opnames van je scherm, zonder enige vorm van afleiding.</p>
+    <p lang="it">Cattura il tuo schermo in modo intuitivo e diretto senza distrazioni.</p>
+    <p lang="eu">Grabatu zure pantaila modu intuitiboan eta zuzenean distrakziorik gabe.</p>
+    <p lang="es">Capture su pantalla de forma intuitiva y directa, sin distracciones.</p>
+    <p lang="de">Nehmen Sie Ihren Bildschirm auf intuitive und unkomplizierte Weise ohne Ablenkungen auf.</p>
+    <p>Kooha is a simple screen recorder with a minimalist interface. You can just click the record button without having to configure a bunch of settings.</p>
+    <p lang="hu">A Kooha egy egyszerű képernyőfelvevő minimalista felülettel. Csak a felvétel gombra kell kattintania, anélkül hogy egy csomó beállítást be kellene állítania.</p>
+    <p lang="hr">Kooha je jednostavan program za snimanje ekrana s minimalističkim sučeljem. Jednostavno pritisni gumb za snimanje bez potrebe za konfiguriranjem hrpe postavki.</p>
+    <p lang="gl">Kooha é un gravador de pantalla simple con unha interface minimalista. Só faga clic no botón gravar sen ter que configurar un centar de axustes.</p>
+    <p lang="hi">‌‌Kooha एक साधारण स्क्रीन रिकॉर्डर है जिसमें न्यूनतम इंटरफ़ेस है। आप सेटिंग्स के एक समूह को कॉन्फ़िगर किए बिना रिकॉर्ड बटन पर क्लिक कर सकते हैं।</p>
+    <p lang="zh_Hans">Kooha 是一个界面极简的录屏软件。无需一系列的配置，只需轻点一下即可开始录制。</p>
+    <p lang="uk">Kooha — це простий записувач екрана з мінімалістичним інтерфейсом. Ви можете просто натиснути кнопку запису без витрачання часу на налаштування.</p>
+    <p lang="tr">Kooha, sade bir arayüze sahip basit bir ekran kaydedicidir. Bir dizi ayarı yapılandırmanıza gerek kalmadan sadece kayıt düğmesine tıklayabilirsiniz.</p>
+    <p lang="sv">Kooha är en enkel skärminspelare med ett minimalistiskt gränssnitt. Du kan klicka på inspelningsknappen utan att behöva konfigurera en massa inställningar.</p>
+    <p lang="sr@latin">Kooha je jednostavan snimatelj ekrana sa minimalnim interfejsom. Možeš samo pritisnuti dugme za snimanje bez postavljanja ikakvih podešavanja.</p>
+    <p lang="sr">Kooha је једноставан сниматељ екрана са минималним интерфејсом. Можеш само притиснути дугме за снимање без постављања икаквих подешавања.</p>
+    <p lang="sk">Aplikácia Kooha je jednoduchým záznamníkom obrazovky s minimalistickým rozhraním. Stačí len kliknúť na zaznamenávacie tlačidlo bez zložitého nastavovania.</p>
+    <p lang="ru">Kooha — простая программа для записи экрана с минималистичным интерфейсом. Вы можете нажать кнопку записи без необходимости дополнительной настройки.</p>
+    <p lang="pt_BR">Kooha é um gravador de tela simples e com uma interface minimalista. Você apenas clica no botão de gravação e não precisa fazer mais nada.</p>
+    <p lang="pt">Kooha é um gravador de ecrã simples com uma interface minimalista. Basta clicar no botão de gravação sem ter de configurar um monte de definições.</p>
+    <p lang="nl">Kooha is een eenvoudige schermopnametoepassing met een minimalistische vormgeving. Klik gewoon op de opnameknop zonder allerlei instellingen te moeten doorlopen.</p>
+    <p lang="nb_NO">Kooha er en enkel skjermopptaker med et minimalistisk grensesnitt. Du kan bare klikke opptaksknappen uten å måtte sette opp en masse innstillinger.</p>
+    <p lang="ko">쿠하는 최소주의를 지향하는 인터페이스를 갖춘 간단한 화면 녹화기입니다. 번거로운 설정을 하지 않고 그냥 녹화 단추만 눌러 녹화할 수 있습니다.</p>
+    <p lang="it">Kooha è un registratore di schermo semplice con un'interfaccia minimalista. Si può semplicemente fare clic sul pulsante di registrazione senza dover configurare un sacco di impostazioni.</p>
+    <p lang="id">Konoha adalah perekam layar yang sederhana dengan antarmuka minimalis. Anda hanya perlu mengklik tombol rekam tanpa harus mengkonfigurasi beberapa pengaturan.</p>
+    <p lang="fr_FR">Kooha est un enregistreur d'écran simple avec une interface minimaliste. Vous pouvez simplement cliquer sur le bouton d'enregistrement sans avoir à configurer un tas de paramètres.</p>
+    <p lang="fil">Ang Kooha ay isang simpleng pangrekord ng screen na may minimalist na interface. Pindutin lamang ang record button nang hindi gumagalaw ng mga settings.</p>
+    <p lang="fi">Kooha on yksinkertainen sovellus, jonka avulla voit nauhoittaa näytölläsi tapahtuvat asiat. Napsauta vain nauhoituspainiketta ja vältä lukuisten asetusten kanssa säätäminen.</p>
+    <p lang="eu">Kooha interfaze minimalista duen pantaila-grabagailu sinple bat da. Nahikoa da grabatzeko botoian klik egitea, doikuntza pila bat konfiguratu behar izan gabe.</p>
+    <p lang="eo">Kooha estas simpla ekranregistrilo kun minimumista interfaco. Vi povas nur alklaki la registran butonon sen devi agordi multajn reguligojn.</p>
+    <p lang="es">Kooha es un grabador de pantalla simple con una interfaz minimalista. Pulse en el botón grabar sin tener que configurar un centenar de ajustes.</p>
+    <p lang="de">Kooha ist ein einfacher Bildschirmrekorder mit einer minimalistischen Oberfläche. Sie können einfach auf die Aufnahmetaste klicken, ohne einen Haufen von Einstellungen konfigurieren zu müssen.</p>
+    <p lang="cs">Hooha je jednoduchý nahrávač obrazovky s minimalistickým rozhraním. Můžeš ihned začít bez potřeby cokoliv nastavovat.</p>
+    <p lang="ar">Kooha هو مسجل شاشة بسيط بواجهة بسيطة. يمكنك فقط النقر فوق زر التسجيل دون الحاجة إلى ضبط العديد من الإعدادات.</p>
+    <p>The main features of Kooha include the following:</p>
+    <p lang="hu">A Kooha fő funkciói a következők:</p>
+    <p lang="hr">Glavne karakteristike Koohe uključuju:</p>
+    <p lang="gl">As características principais de Kooha inclúen o seguinte:</p>
+    <p lang="hi">Kooha की मुख्य विशेषताओं निम्नलिखित हैं:</p>
+    <p lang="zh_Hans">Kooha 的主要特性有：</p>
+    <p lang="uk">Основні можливості Kooha:</p>
+    <p lang="tr">Kooha'nın temel özellikleri şunlardır:</p>
+    <p lang="sv">De viktigaste funktionerna i Kooha är följande:</p>
+    <p lang="sr@latin">Glavne funkcionalnosti u Kooha su:</p>
+    <p lang="sr">Главне функционалности у Kooha су:</p>
+    <p lang="sk">Hlavnými funkciami aplikácie Kooha sú:</p>
+    <p lang="ru">Главные возможности Kooha следующие:</p>
+    <p lang="pt_BR">Os principais recursos do Kooha incluem o seguinte:</p>
+    <p lang="pt">As principais características da Kooha incluem as seguintes:</p>
+    <p lang="pl">Główne funkcjonalności Kooha to:</p>
+    <p lang="nl">Enkele kenmerken:</p>
+    <p lang="nb_NO">Kooha har blandt annet disse hovedfunksjonene:</p>
+    <p lang="ko">쿠하의 주요 기능은 다음과 같습니다:</p>
+    <p lang="it">Le caratteristiche principali di Kooha sono le seguenti:</p>
+    <p lang="id">Fitur-fitur utama Kooha termasuk yang berikut ini:</p>
+    <p lang="fr_FR">Les principales caractéristiques de Kooha sont les suivantes :</p>
+    <p lang="fil">Ang mga pangunahing tampok ng Kooha ay ang mga sumusunod:</p>
+    <p lang="fi">Koohan keskeisimmät ominaisuudet:</p>
+    <p lang="eu">Kooharen ezaugarri nagusiak hauek dira:</p>
+    <p lang="eo">La precipaj ebloj de Kooha inkludas la sekvantan:</p>
+    <p lang="es">Las características principales de Kooha incluyen lo siguiente:</p>
+    <p lang="de">Zu den Hauptmerkmalen von Kooha gehören:</p>
+    <p lang="cs">Hlavní funkcionality Hoohy jsou:</p>
+    <p lang="ar">تشمل الميزات الرئيسية ل Kooha ما يلي:</p>
+    <ul>
+      <li>🎥 Capture your screen without any hassle.</li>
+      <li lang="hu">🎥 A képernyő felvétele mindenféle gond nélkül.</li>
+      <li lang="hr">🎥 Snimi ekran bez poteškoća.</li>
+      <li lang="gl">🎥 Grava a súa pantalla sen ningunha molestia.</li>
+      <li lang="hi">🎥 बिना किसी परेशानी के अपनी स्क्रीन कैप्चर करें।</li>
+      <li lang="zh_Hans">🎥 轻松录屏，省心省时。</li>
+      <li lang="uk">🎥 Записування екрана без зайвих рухів.</li>
+      <li lang="tr">🎥 Herhangi bir güçlük çekmeden ekranınızı kaydedin.</li>
+      <li lang="sv">🎥 Spela in skärmen utan krångel.</li>
+      <li lang="sr@latin">🎥 Snimi ekran bez muke.</li>
+      <li lang="sr">🎥 Сними екран без муке.</li>
+      <li lang="sk">🎥 Zachytenie vašej obrazovky bez problémov.</li>
+      <li lang="ru">🎥 Запись экрана без неудобностей.</li>
+      <li lang="pt_BR">🎥 Capture sua tela sem complicações.</li>
+      <li lang="pt">🎥 Capture o seu ecrã sem qualquer problema.</li>
+      <li lang="nl">🎥 Maak eenvoudig opnames van je scherm.</li>
+      <li lang="nb_NO">🎥 Ta opp skjermen uten stress.</li>
+      <li lang="ko">🎥 어떤 번거로움 없이 화면을 찍습니다.</li>
+      <li lang="it">🎥 Cattura il tuo schermo senza problemi.</li>
+      <li lang="id">🎥 Rekam layar Anda tanpa repot-repot.</li>
+      <li lang="fr_FR">🎥 Capturez votre écran en toute simplicité.</li>
+      <li lang="fil">🎥 I-record ang iyong screen nang walang sagabal.</li>
+      <li lang="fi">🎥 Nauhoita näyttösi sisältö vaivatta.</li>
+      <li lang="eu">🎥 Kapturatu pantaila arazorik gabe.</li>
+      <li lang="eo">🎥 Enkaptu vian ekranon sen iu malfacilaĵo.</li>
+      <li lang="es">🎥 Grabar su pantalla sin ninguna molestia.</li>
+      <li lang="de">🎥 Erfassen Sie Ihren Bildschirm mühelos.</li>
+      <li lang="cs">🎥 Zaznamenej bez problémů svou obrazovku.</li>
+      <li lang="ar">🎥 التقط شاشتك دون أي متاعب.</li>
+      <li>🎙️ Record your microphone, computer sounds, or both at the same time.</li>
+      <li lang="hu">🎙️ A mikrofon, a számítógép hangjai vagy mindkettő egyidejű felvétele.</li>
+      <li lang="hr">🎙️ Snimi mikrofon, zvukove računala ili oboje istovremeno.</li>
+      <li lang="gl">🎙️ Grava o seu micrófono, os sons do sistema, ou ambos ao mesmo tempo.</li>
+      <li lang="hi">️ 🎙️अपने माइक्रोफ़ोन, कंप्यूटर की आवाज़ या दोनों को एक ही समय पर रिकॉर्ड करें।</li>
+      <li lang="zh_Hans">🎙️ 录制麦克风或计算机声音，抑或两者同时录制。</li>
+      <li lang="uk">🎙️ Запис звуків за допомогою мікрофона, звуків комп'ютера, або обох одночасно.</li>
+      <li lang="tr">🎙️ Mikrofonunuzu, bilgisayar seslerini veya her ikisini aynı anda kaydedin.</li>
+      <li lang="sv">🎙️ Spela in din mikrofon, datorljud eller båda samtidigt.</li>
+      <li lang="sr@latin">🎙️ Snimi mikrofon, zvuk sa računara ili oba u isto vreme.</li>
+      <li lang="sr">🎙️ Сними микрофон, звук са рачунара или оба у исто време.</li>
+      <li lang="sk">🎙️ Záznam vášho mikrofónu, počítačových zvukov alebo oboch súčasne.</li>
+      <li lang="ru">🎙️ Запись звука с микрофона, рабочего стола компьютера, или всё вместе одновременно.</li>
+      <li lang="pt_BR">🎙️ Grave seu microfone, sons do computador ou ambos ao mesmo tempo.</li>
+      <li lang="pt">🎙️ Grave o seu microfone, sons do computador ou ambos ao mesmo tempo.</li>
+      <li lang="pl">Nagrywanie wejścia z mikrofonu, dźwięku komputera lub obu jednocześnie.</li>
+      <li lang="nl">🎙️ Neem op van je microfoon, computergeluiden of beide tegelijk.</li>
+      <li lang="nb_NO">🎙️ Spill inn mikrofon, skrivebordslyd, eller begge på en gang.</li>
+      <li lang="ko">🎙️ 마이크로폰, 컴퓨터 소리 또는 둘 다 동시에 녹음합니다.</li>
+      <li lang="it">🎙️ Registra il tuo microfono, i suoni del computer o entrambi allo stesso tempo.</li>
+      <li lang="id">🎙️ Rekam mikrofon Anda, suara komputer, atau keduanya di waktu yang sama.</li>
+      <li lang="fr_FR">🎙️ Enregistrez votre micro, les sons de l'ordinateur ou les deux en même temps.</li>
+      <li lang="fil">🎙️ I-rekord ang iyong mikropono, tunog ng kompyuter, o kaya naman pareho.</li>
+      <li lang="fi">🎙️ Nauhoita tietokoneen äänet, mikrofonin äänet tai molemmat samanaikaisesti.</li>
+      <li lang="eu">🎙️ Grabatu zure mikrofonoa, ordenagailuko soinuak edo biak batera.</li>
+      <li lang="eo">🎙️ Registru vian mikrofonon, komputerajn sonojn, aŭ ambaŭ sinkrone.</li>
+      <li lang="es">🎙️ Grabar su micrófono, los sonidos del sistema, o ambos al mismo tiempo.</li>
+      <li lang="de">🎙️ Nehmen Sie Ihr Mikrofon, Computertöne oder beides gleichzeitig auf.</li>
+      <li lang="cs">🎙️ Nahrávej zvuk z mikrofonu, z pořítače nebo z obojího zároveň.</li>
+      <li lang="ar">سجل المايكروفون، أصوات الحاسوب، أو كليهما في نفس الوقت.</li>
+      <li>📼 Support for WebM, MP4, GIF, and MKV formats.</li>
+      <li lang="hu">📼 WebM, MP4, GIF és MKV formátumok támogatása.</li>
+      <li lang="hr">📼 Podrška za formate WebM, MP4, GIF i MKV.</li>
+      <li lang="gl">📼 Compatibilidade para formatos WebM, MP4, GIF, e MKV.</li>
+      <li lang="hi">WebM, MP4, GIF और MKV प्रारूपों में रिकार्ड करने में समर्थ।</li>
+      <li lang="zh_Hans">📼 支持 WebM、MP4、GIF 和 MKV 格式。</li>
+      <li lang="uk">📼 Підтримка форматів WebM, MP4, GIF та MKV.</li>
+      <li lang="tr">📼 WebM, MP4, GIF ve MKV biçimleri desteği.</li>
+      <li lang="sv">📼 Stöd för formaten WebM, MP4, GIF och MKV.</li>
+      <li lang="sr@latin">📼 Podrška za WebM, MP4, GIF, i MKV formate.</li>
+      <li lang="sr">📼 Подршка за WebM, MP4, GIF, и MKV формате.</li>
+      <li lang="sk">📼 Podpora formátov WebM, MP4, GIF a MKV.</li>
+      <li lang="pl">Wsparcie dla formatów WebM, MP4 i MKV.</li>
+      <li lang="nl">📼 Ondersteuning voor webm-, mp4-, gif- en mkv-formaten.</li>
+      <li lang="nb_NO">📼 Støtte for WebM-, MP4-, GIF-, og MKV-formater.</li>
+      <li lang="ko">📼 WebM, MP4, GIF, MKV 형식을 지원합니다.</li>
+      <li lang="it">📼 Supporta i formati WebM, MP4, GIF, e MKV.</li>
+      <li lang="id">📼 Mendukung format WebM, MP4, GIF, dan MKV.</li>
+      <li lang="fil">📼 Mayroong support para sa mga format na WebM, MP4, GIF at MKV.</li>
+      <li lang="fi">📼 Tuki WebM-, MP4-, GIF- ja MKV-tiedostomuodoille.</li>
+      <li lang="eu">📼 WebM, MP4, GIF eta MKV formatuetarako euskarria.</li>
+      <li lang="es">📼 Soporte para formatos WebM, MP4, GIF, y MKV.</li>
+      <li lang="de">📼 Unterstützung für die Formate WebM, MP4, GIF und MKV.</li>
+      <li lang="cs">📼 Podpora pro formáty WebM, MP4, GIF a MKV.</li>
+      <li lang="ar">الصيغ المدعومة GIF، MP4، WebM، و MKV.</li>
+      <li>🗔 Multiple sources selection.</li>
+      <li lang="hu">🗔 Több forrás kiválasztása.</li>
+      <li lang="hr">🗔 Biranje više izvora.</li>
+      <li lang="gl">🗔 Selección de múltiples fontes.</li>
+      <li lang="hi">🗔 एकाधिक स्रोत चयन।</li>
+      <li lang="zh_Hans">🗔 多个画面来源选择。</li>
+      <li lang="uk">🗔 Вибір кількох джерел.</li>
+      <li lang="tr">🗔 Çoklu kaynak seçimi.</li>
+      <li lang="sr@latin">🗔 Izbor više izvora.</li>
+      <li lang="sr">🗔 Избор више извора.</li>
+      <li lang="sk">🗔 Výber viacerých zdrojov.</li>
+      <li lang="pl">Wybór wielu źródeł.</li>
+      <li lang="nl">🗔 Keuze uit meerdere bronnen.</li>
+      <li lang="ko">🗔 여러 원본을 선택합니다.</li>
+      <li lang="it">🗔 Selezione di più fonti.</li>
+      <li lang="id">🗔 Pilihan berbagai sumber.</li>
+      <li lang="fil">🗔 Maraiming selection ng mga source.</li>
+      <li lang="fi">🗔 Usein lähteiden valinta.</li>
+      <li lang="eu">🗔 Hainbat iturrien hautaketa.</li>
+      <li lang="es">🗔 Selección de múltiples fuentes.</li>
+      <li lang="de">🗔 Auswahl mehrerer Quellen.</li>
+      <li lang="ar">اختيار عدة مصادر.</li>
+      <li>🚀 Optional hardware accelerated encoding</li>
+      <li lang="hu">🚀 Választható hardveresen gyorsított kódolás.</li>
+      <li lang="hr">🚀 Opcionalno hardverski ubrzano kodiranje</li>
+      <li lang="gl">🚀 Codificación acelerada por hardware opcional</li>
+      <li lang="hi">🚀 वैकल्पिक हार्डवेयर त्वरित एन्कोडिंग</li>
+      <li lang="zh_Hans">🚀 可选硬件加速编码</li>
+      <li lang="uk">🚀 Додаткове апаратне прискорене кодування</li>
+      <li lang="tr">🚀 İsteğe bağlı donanım hızlandırmalı kodlama</li>
+      <li lang="sv">Hårdvaruaccelererad kodning som tillval</li>
+      <li lang="sr@latin">🚀 Opciono hardverski ubrzano kodiranje</li>
+      <li lang="sr">🚀 Опционо хардверски убрзано кодирање</li>
+      <li lang="sk">🚀 Voliteľné dekódovanie akcelerované pomocou hardvéru.</li>
+      <li lang="pl">Opcjonalne wykorzystanie przyspieszenia sprzętowego</li>
+      <li lang="nl">🚀 Hardware-versnelde encodering (optioneel)</li>
+      <li lang="nb_NO">🚀 Valgfri maskinvareakselerert koding</li>
+      <li lang="ko">🚀 추가 하드웨어 가속 인코딩</li>
+      <li lang="it">🚀 Codifica con accelerazione hardware opzionale</li>
+      <li lang="id">🚀 Opsi pengkodean dengan percepatan perangkat keras</li>
+      <li lang="fil">🚀 Puwedeng buksan ang hardware accelerated na pag-encode</li>
+      <li lang="fi">🚀 Valinnainen laitteistokiihdytys videon koodausta varten</li>
+      <li lang="eu">🚀 Hardware bidezko kodetze azeleratua, aukerakoa</li>
+      <li lang="es">🚀 Codificación acelerada por hardware opcional</li>
+      <li lang="de">🚀 Optionale hardwarebeschleunigte Kodierung</li>
+      <li lang="cs">🚀 Volitelné hardwarově akcelerované kódování</li>
+      <li lang="ar">🚀 ترميز مسرَّع بالعتاد اختياريًا</li>
+      <li>🖥️ Select a monitor or window to record.</li>
+      <li lang="hu">🖥️ Egy monitor vagy egy ablak kiválasztása a felvételhez.</li>
+      <li lang="hr">🖥️ Odaberi monitor ili prozor za snimanje.</li>
+      <li lang="gl">🖥️ Selecciona un monitor ou xanela para gravar.</li>
+      <li lang="hi">🖥️ ️रिकॉर्ड करने के लिए मॉनिटर या विंडो चुनें।</li>
+      <li lang="zh_Hans">🖥️ 选择显示器或窗口以录制。</li>
+      <li lang="uk">🖥️ Вибір монітора або вікна для записування.</li>
+      <li lang="tr">🖥️ Kaydetmek için bir ekran veya pencere seçin.</li>
+      <li lang="sv">Välj en skärm eller ett fönster att spela in.</li>
+      <li lang="sr@latin">🖥️ Odaberi monitor ili prozor koji bi da snimaš.</li>
+      <li lang="sr">🖥️ Одабери монитор или прозор који би да снимаш.</li>
+      <li lang="sk">🖥️ Výber monitora alebo okna na zaznamenanie.</li>
+      <li lang="pl">Możliwość wyboru monitora lub okna do nagrania.</li>
+      <li lang="nl">🖥️ Kies het beeldscherm dat je wilt vastleggen.</li>
+      <li lang="nb_NO">🖥️ Velg en skjerm eller et vindu å ta opp.</li>
+      <li lang="ko">🖥️ 녹화할 모니터 또는 창을 선택합니다.</li>
+      <li lang="it">🖥️ Seleziona un monitor o una finestra da registrare.</li>
+      <li lang="id">🖥️ Pilih monitor atau jendela yang ingin direkam.</li>
+      <li lang="fil">🖥️ Pumili ng monitor o window na maaaring i-record.</li>
+      <li lang="fi">🖥️ Valitse näyttö tai ikkuna nauhoitettavaksi.</li>
+      <li lang="eu">🖥️ Grabatzeko monitore edo leiho bat hautatu.</li>
+      <li lang="es">🖥️ Seleccionar un monitor o ventana para grabar.</li>
+      <li lang="de">🖥️ Wähle einen Monitor oder ein Fenster zum Aufzeichnen.</li>
+      <li lang="cs">🖥️ Vyberte k nahrávání monitor nebo okno.</li>
+      <li lang="ar">🖥️ اختر شاشة أو نافذة لتسجيلها.</li>
+      <li>🖼️ Create a selection to capture certain area from your screen.</li>
+      <li lang="hu">🖼️ Kijelölés létrehozása a képernyő egy bizonyos területének felvételéhez.</li>
+      <li lang="hr">🖼️ Stvori odabir za snimanje određenog područja na ekranu.</li>
+      <li lang="gl">🖼️ Crea unha selección para capturar un área específica da súa pantalla.</li>
+      <li lang="hi">🖼️ अपनी स्क्रीन से निश्चित क्षेत्र को कैप्चर करने के लिए एक चयन बनाएँ।</li>
+      <li lang="zh_Hans">🖼️ 在屏幕上选择特定区域来捕获画面。</li>
+      <li lang="uk">🖼️ Вибір ділянки екрана.</li>
+      <li lang="tr">🖼️ Ekranınızdan belirli bir alanı yakalamak için bir seçim oluşturun.</li>
+      <li lang="sv">Skapa en markering för att spela in ett bestämt område på skärmen.</li>
+      <li lang="sr@latin">🖼️ Izaberite prostor za snimanje određenog područja ekrana.</li>
+      <li lang="sr">🖼️ Изаберите простор за снимање одређеног подручја екрана.</li>
+      <li lang="sk">🖼️ Vytvorenie výberu na zachytenie určitej oblasti vašej obrazovky.</li>
+      <li lang="pl">🖼️ Możliwość utworzenia zaznaczenia określonej części ekranu.</li>
+      <li lang="nl">🖼️ Selecteer een gebied op je scherm dat je wilt vastleggen.</li>
+      <li lang="nb_NO">🖼️ Opprett et utvalg for å fange et gitt område på skjermen din.</li>
+      <li lang="ko">🖼️ 화면에서 녹화할 영역을 선택합니다.</li>
+      <li lang="it">🖼️ Crea una selezione per catturare un'area specifica dal tuo schermo.</li>
+      <li lang="id">🖼️ Buat seleksi untuk menangkap area tertentu dari layar anda.</li>
+      <li lang="fil">🖼️ Maaaring gumawa ng selection upang maka-capture ng area sa iyong screen.</li>
+      <li lang="fi">🖼️ Valitse haluamasi alue näytöltä nauhoitettavaksi.</li>
+      <li lang="eu">🖼️ Jarri aukera bat zure pantailako eremu jakin bat hartzeko.</li>
+      <li lang="es">🖼️ Crear una selección para capturar una área específica de su pantalla.</li>
+      <li lang="de">🖼️ Erstelle eine Auswahl, um einen bestimmten Bereich auf Ihrem Bildschirm aufzuzeichnen.</li>
+      <li lang="cs">🖼️ Vytvořte výběr, který zachytí určitou oblast z vaší obrazovky.</li>
+      <li lang="ar">🖼️ حدد منطقة معيَّنة في شاشتك لتسجيلها.</li>
+      <li>⏲️ Set delay to prepare before you start recording.</li>
+      <li lang="hu">⏲️ Késleltetés beállítása az előkészítéshez, mielőtt elindítja a felvételt.</li>
+      <li lang="hr">⏲️ Postavi odgađanje početka snimanja.</li>
+      <li lang="gl">⏲️ Selecciona un atraso antes de empezar a gravar.</li>
+      <li lang="hi">️ ⏲️रिकॉर्डिंग शुरू करने से पहले तैयारी के लिए विलंब समय सेट करें।</li>
+      <li lang="zh_Hans">⏲️ 在开始录制之前设置延迟来准备。</li>
+      <li lang="uk">⏲️ Налаштування затримки початку запису.</li>
+      <li lang="tr">⏲️ Kayda başlamadan önce hazırlanmak için bir gecikme ayarlayın.</li>
+      <li lang="sv">⏲️ Ställ in en fördröjning för att förbereda dig innan du börjar spela in.</li>
+      <li lang="sk">⏲️ Nastavenie oneskorenia na prípravu pred zahájením zaznamenávania.</li>
+      <li lang="ru">⏲️ Задержка перед началом записи.</li>
+      <li lang="pt_BR">⏲️ Defina o atraso para se preparar antes de iniciar a gravação.</li>
+      <li lang="pt">⏲️ Defina o atraso para se preparar antes de iniciar a gravação.</li>
+      <li lang="pl">⏲️ Możliwość ustawienia opóźnienia, aby przygotować się przed rozpoczęciem nagrywania.</li>
+      <li lang="nl">⏲️ Stel een wachttijd in zodat de opname iets later start.</li>
+      <li lang="nb_NO">⏲️ Angi en forsinkelse for å forberede deg før opptaket.</li>
+      <li lang="ko">⏲️ 녹화 시작 전 준비 지연 시간을 설정합니다.</li>
+      <li lang="it">⏲️ Imposta il ritardo da preparare prima di iniziare la registrazione.</li>
+      <li lang="id">⏲️ Pasang penundaan untuk bersiap-siap sebelum mulai merekam.</li>
+      <li lang="fr_FR">⏲️ Définissez le délai de préparation avant de commencer l'enregistrement.</li>
+      <li lang="fil">⏲️ Maglagay ng delay bago magsumali ang pag-record.</li>
+      <li lang="fi">⏲️ Aseta viive ennen nauhoituksen alkua.</li>
+      <li lang="eu">⏲️ Grabatzen hasi aurretik prestatzeko atzerapena ezarri.</li>
+      <li lang="eo">⏲️ Agordu prokraston por pretigi antaŭ vi ekregistrus.</li>
+      <li lang="es">⏲️ Seleccionar un retardo antes de empezar a grabar.</li>
+      <li lang="de">⏲️ Stellen Sie eine Verzögerung ein, um die Aufnahme vorzubereiten.</li>
+      <li lang="cs">⏲️ Nastav zpoždění aby jsi se připravil před nahráváním.</li>
+      <li lang="ar">ضبط مهلة زمنية قبل بدء التسجيل.</li>
+      <li>🖱️ Hide or show mouse pointer.</li>
+      <li lang="hu">🖱️ Az egérmutató elrejtése vagy megjelenítése.</li>
+      <li lang="hr">🖱️ Sakrij ili pokaži pokazivač miša.</li>
+      <li lang="gl">🖱️ Oculta ou mostra o cursor.</li>
+      <li lang="hi">🖱️ ️माउस पॉइंटर छुपाएँ या दिखाएँ।</li>
+      <li lang="zh_Hans">🖱️ 显示/隐藏鼠标指针。</li>
+      <li lang="uk">🖱️ Показ або приховування вказівника миші.</li>
+      <li lang="tr">🖱️ Fare işaretçisini gizleyin veya gösterin.</li>
+      <li lang="sv">🖱️ Dölj eller visa muspekaren.</li>
+      <li lang="sr@latin">🖱️ Prikaži ili sakrij kursor.</li>
+      <li lang="sr">🖱️ Прикажи или сакриј курсор.</li>
+      <li lang="sk">🖱️ Skrytie alebo zobrazenie ukazovateľa myši.</li>
+      <li lang="ru">🖱️ Возможность спрятать или показать курсор мыши.</li>
+      <li lang="pt_BR">🖱️Esconda ou mostre o ponteiro do mouse.</li>
+      <li lang="pt">🖱️ Oculte ou exiba o ponteiro do mouse.</li>
+      <li lang="pl">Pokazuje lub ukrywa wskaźnik myszy.</li>
+      <li lang="nl">🖱️ Toon of verberg de cursor.</li>
+      <li lang="nb_NO">🖱️ Skjul eller vis musepekeren.</li>
+      <li lang="ko">🖱️ 마우스 포인터를 숨기거나 나타낼 수 있습니다.</li>
+      <li lang="it">🖱️ Nascondi o mostra il puntatore del mouse.</li>
+      <li lang="id">🖱️ Sembunyikan atau tampilkan penunjuk tetikus.</li>
+      <li lang="fr_FR">🖱️ Masquer ou afficher le pointeur de la souris.</li>
+      <li lang="fil">🖱️ Ipakita o itago ang pointer.</li>
+      <li lang="fi">🖱️ Piilota tai näytä hiiren osoitin.</li>
+      <li lang="eu">🖱️ Saguaren erakuslea ezkutatu edo erakutsi.</li>
+      <li lang="eo">🖱️ Kaŝi aŭ elmontri musan montrilon.</li>
+      <li lang="es">🖱️ Ocultar o mostrar el puntero.</li>
+      <li lang="de">🖱️ Mauszeiger ein- oder ausblenden.</li>
+      <li lang="cs">🖱️ Zobraz nebo skryj svou myš.</li>
+      <li lang="ar">🖱️ إخفاء أو إظهار مؤشر الفأرة.</li>
+      <li>💾 Choose a saving location for your recording.</li>
+      <li lang="hu">💾 A felvétel mentési helyének kiválasztása.</li>
+      <li lang="hr">💾 Odaberi mjesto za spremanje snimke.</li>
+      <li lang="gl">💾 Selecciona unha localización para a súa gravación.</li>
+      <li lang="hi">अपनी रिकॉर्डिंग को सहेजने का स्थान चुनें।</li>
+      <li lang="zh_Hans">💾 为您的录像选择一个保存位置。</li>
+      <li lang="uk">💾 Вибір місця збереження записів.</li>
+      <li lang="tr">💾 Kaydınız için bir kaydetme konumu seçin.</li>
+      <li lang="sv">💾 Välj en lagringsplats för inspelningen.</li>
+      <li lang="sr@latin">💾 Odaberi mesto za čuvanje snimka.</li>
+      <li lang="sr">💾 Одабери место за чување снимка.</li>
+      <li lang="sk">💾 Voľba miesta pre uloženie vášho záznamu.</li>
+      <li lang="ru">💾 Выбор места сохранения записи.</li>
+      <li lang="pt_BR">💾 Escolha um local para salvar a gravação.</li>
+      <li lang="pt">💾 Escolha um local para gravar a gravação.</li>
+      <li lang="pl">Wybór miejsca docelowego dla nagrania.</li>
+      <li lang="nl">💾 Kies zelf waar de opname moet worden opgeslagen.</li>
+      <li lang="nb_NO">💾 Velg et sted der opptakene skal lagres.</li>
+      <li lang="ko">💾 녹화 저장 위치를 선택합니다.</li>
+      <li lang="it">💾 Scegli una posizione di salvataggio per la tua registrazione.</li>
+      <li lang="id">💾 Pilih lokasi penyimpanan untuk rekaman Anda.</li>
+      <li lang="fr_FR">💾 Choisissez un emplacement de sauvegarde pour votre enregistrement.</li>
+      <li lang="fil">💾 Pumili ng paglalagyan ng mga recording.</li>
+      <li lang="fi">💾 Valitse tallennussijainti nauhoitukselle.</li>
+      <li lang="eu">💾 Aukeratu grabazioa gordetzeko kokaleku bat.</li>
+      <li lang="eo">💾 Elektu surdiskigan lokon por via registro.</li>
+      <li lang="es">💾 Seleccionar una ubicación para su grabación.</li>
+      <li lang="de">💾 Wählen Sie einen Speicherort für Ihre Aufnahme.</li>
+      <li lang="cs">💾 Zvol lokaci pro ukládání nahrávek.</li>
+      <li lang="ar">💾 اختر مكان حفظ التسجيل.</li>
+      <li>⌨️ Utilize helpful keyboard shortcuts.</li>
+      <li lang="hu">⌨️ Hasznos gyorsbillentyűk használata.</li>
+      <li lang="hr">⌨️ Koristi korisne tipkovne prečace.</li>
+      <li lang="gl">⌨️ Usa os útiles atallos de teclado.</li>
+      <li lang="hi">⌨️ उपयोगी कीबोर्ड शॉर्टकट का उपयोग करें।</li>
+      <li lang="zh_Hans">⌨️ 键盘快捷键让你事半功倍。</li>
+      <li lang="uk">⌨️ Можливість застосовувати комбінації клавіш.</li>
+      <li lang="tr">⌨️ Kullanışlı klavye kısayollarını kullanın.</li>
+      <li lang="sv">⌨️ Använd användbara tangentbordsgenvägar.</li>
+      <li lang="sr@latin">⌨️ Koristite prečice na tastaturi.</li>
+      <li lang="sr">⌨️ Користите пречице на тастатури.</li>
+      <li lang="sk">⌨️ Využitie užitočných klávesových skratiek.</li>
+      <li lang="ru">⌨️ Поддержка полезных клавиатурных сокращений.</li>
+      <li lang="pt_BR">⌨️ Utilize atalhos de teclado úteis.</li>
+      <li lang="pt">⌨️ Utilize atalhos de teclado úteis.</li>
+      <li lang="nl">⌨️ Maak gebruik van handige sneltoetsen.</li>
+      <li lang="nb_NO">⌨️ Ta i bruk nyttige tastatursnarveier.</li>
+      <li lang="ko">⌨️ 쓸만한 키보드 바로 가기 키를 활용합니다.</li>
+      <li lang="it">⌨️ Utilizza utili scorciatoie da tastiera.</li>
+      <li lang="id">⌨️ Manfaatkan pintasan keyboard yang berguna.</li>
+      <li lang="fr_FR">⌨️ Utilisez des raccourcis clavier utiles.</li>
+      <li lang="fil">⌨️ Gamitin ang mga malaking-tulong na mga keyboard shortcuts.</li>
+      <li lang="fi">⌨️ Hyödynnä käteviä pikanäppäimiä.</li>
+      <li lang="eu">⌨️ Teklatu-lasterbideak erabili.</li>
+      <li lang="eo">⌨️ Uzu helpa klavara kurtvojo.</li>
+      <li lang="es">⌨️ Usar los útiles atajos del teclado.</li>
+      <li lang="de">⌨️ Nutzen Sie hilfreiche Tastaturkürzel.</li>
+      <li lang="cs">⌨️ Využij užitečné klávesové zkratky.</li>
+      <li lang="ar">⌨️ استخدم اختصارات مفيدة في لوحة المفاتيح.</li>
+    </ul>
+  </description>
+  <url type="homepage">https://github.com/SeaDve/Kooha</url>
+  <url type="bugtracker">https://github.com/SeaDve/Kooha/issues</url>
+  <url type="translate">https://hosted.weblate.org/projects/kooha/pot-file/</url>
+  <url type="donation">https://liberapay.com/SeaDve/</url>
+  <developer_name>Dave Patrick</developer_name>
+  <developer_name lang="hu">Dave Patrick</developer_name>
+  <developer_name lang="hr">Dave Patrick</developer_name>
+  <developer_name lang="oc">Dave Patrick</developer_name>
+  <developer_name lang="gl">Dave Patrick</developer_name>
+  <developer_name lang="hi">Dave Patrick</developer_name>
+  <developer_name lang="zh_Hans">Dave Patrick</developer_name>
+  <developer_name lang="uk">Дейв Патрік</developer_name>
+  <developer_name lang="tr">Dave Patrick</developer_name>
+  <developer_name lang="sv">Dave Patrick</developer_name>
+  <developer_name lang="sr@latin">Dave Patrick</developer_name>
+  <developer_name lang="sr">Dave Patrick</developer_name>
+  <developer_name lang="sk">Dave Patrick</developer_name>
+  <developer_name lang="ru">Дэйв Патрик</developer_name>
+  <developer_name lang="pt_BR">Dave Patrick</developer_name>
+  <developer_name lang="pt">Dave Patrick</developer_name>
+  <developer_name lang="pl">Dave Patrick</developer_name>
+  <developer_name lang="nl">Dave Patrick</developer_name>
+  <developer_name lang="nb_NO">Dave Patrick</developer_name>
+  <developer_name lang="ko">Dave Patrick</developer_name>
+  <developer_name lang="ja">Dave Patrick</developer_name>
+  <developer_name lang="it">Dave Patrick</developer_name>
+  <developer_name lang="id">Dave Patrick</developer_name>
+  <developer_name lang="fr_FR">Dave Patrick</developer_name>
+  <developer_name lang="fil">Dave Patrick</developer_name>
+  <developer_name lang="fi">Dave Patrick</developer_name>
+  <developer_name lang="eu">Dave Patrick</developer_name>
+  <developer_name lang="eo">Dave Patrick</developer_name>
+  <developer_name lang="es">Dave Patrick</developer_name>
+  <developer_name lang="de">Dave Patrick</developer_name>
+  <developer_name lang="cs">Dave Patrick</developer_name>
+  <developer_name lang="ar">Dave Patrick</developer_name>
+  <update_contact>davecruz48@gmail.com</update_contact>
+  <content_rating type="oars-1.1" />
+  <translation type="gettext">kooha</translation>
+  <launchable type="desktop-id">io.github.seadve.Kooha.desktop</launchable>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/SeaDve/Kooha/main/data/screenshots/screenshot.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/SeaDve/Kooha/main/data/screenshots/screenshot2.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/SeaDve/Kooha/main/data/screenshots/screenshot3.png</image>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release date="2021-10-20" version="2.0.1">
+      <description>
+        <p>This is a minor release:</p>
+        <ul>
+          <li>GIF recordings now loops infinitely</li>
+          <li>Minor codebase improvements</li>
+          <li>Added Serbian Cyrillic translations</li>
+          <li>Added Serbian Latin translations</li>
+          <li>Updated Croatian translations</li>
+          <li>Updated Ukrainian translations</li>
+          <li>Updated Basque translations</li>
+          <li>Updated Dutch translations</li>
+          <li>Updated Turkish translations</li>
+          <li>Updated Italian translations</li>
+          <li>Updated Spanish translations</li>
+          <li>Updated Hungarian translations</li>
+          <li>Updated German translations</li>
+          <li>Updated Slovak translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.0.0" date="2021-09-23">
+      <description>
+        <p>This is a big release containing a lot of fixes and new features!</p>
+        <ul>
+          <li>Added MP4 and GIF formats</li>
+          <li>Added feature to record a single window or monitor</li>
+          <li>Added optional-in hardware accelerated encoding</li>
+          <li>Added multiple video sources recording</li>
+          <li>Added much improved error handling</li>
+          <li>Fixed broken UI on non-default close button placement</li>
+          <li>Fixed major bug in GNOME 41</li>
+          <li>Fixed off selection region on integer scaling</li>
+          <li>Fixed saving the recording to a hidden directory</li>
+          <li>Improved performance</li>
+          <li>Now working for certain desktop environments and window managers</li>
+          <li>Full rewrite to Rust</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.2.1" date="2021-05-23">
+      <description>
+        <p>This release contains small fixes and improvements:</p>
+        <ul>
+          <li>Focus start record button on startup</li>
+          <li>Improved UI and UX</li>
+          <li>Fixed bug when tmp folder doesn't exist</li>
+          <li>Updated Swedish translations</li>
+          <li>Updated Spanish translations</li>
+          <li>Updated Turkish translations</li>
+          <li>Updated Italian translations</li>
+          <li>Updated Dutch translations</li>
+          <li>Updated French translations</li>
+          <li>Updated Portuguese (Brazil) translations</li>
+          <li>Updated Norwegian Bokmål translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-05-17" version="1.2.0">
+      <description>
+        <p>This release brings the new GTK4 and an important fix for GNOME 40.</p>
+        <ul>
+          <li>Recording performance improvements</li>
+          <li>Major UI improvements</li>
+          <li>Dynamically change the multiplexer</li>
+          <li>Fix GNOME 40 crashes</li>
+          <li>Fix crashes in non-supported environment</li>
+          <li>Updated Spanish translations</li>
+          <li>Updated Portuguese translations</li>
+          <li>Updated Turkish translations</li>
+          <li>Updated Norwegian Bokmål translations</li>
+          <li>Updated Italian translations</li>
+          <li>Updated Indonesian translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.1.3" date="2021-05-04">
+      <description>
+        <p>New fixes and translations update coming this release:</p>
+        <ul>
+          <li>More responsive shortcuts</li>
+          <li>Fix crashing when no desktop environment is set up</li>
+          <li>Updated Slovak Translations</li>
+          <li>Updated Portuguese (Brazil) translations</li>
+          <li>Updated Russian translations</li>
+          <li>Updated Indonesian translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.1.2" date="2021-04-25">
+      <description>
+        <p>This is a minor release composing of fixes and improvements:</p>
+        <ul>
+          <li>Minor performance optimizations</li>
+          <li>Updated Dutch translations</li>
+          <li>Updated Turkish translations</li>
+          <li>Updated Spanish translations</li>
+          <li>Updated Indonesian translations</li>
+          <li>Updated Filipino translations</li>
+          <li>Updated Italian translations</li>
+          <li>Updated French translations</li>
+          <li>Updated German translations</li>
+          <li>Updated Norwegian Bokmål translations</li>
+          <li>Updated Chinese(simplified) translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.1.1" date="2021-04-09">
+      <description>
+        <p>This release is composing of minor changes:</p>
+        <ul>
+          <li>Minor UI improvements</li>
+          <li>Code cleaning and minor performance improvements</li>
+          <li>Fixed a bug when trying to save in an inaccessible location</li>
+          <li>Added Persian translations</li>
+          <li>Added Chinese(simplified) translations</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-03-25" version="1.1.0">
+      <description>
+        <p>This update brings new features and few bug fixes:</p>
+        <ul>
+          <li>Added a processing view to avoid recording corruption</li>
+          <li>Added a notification after recording to show saving location</li>
+          <li>Added option to change framerate through Kooha's keyfile</li>
+          <li>Minor improvements</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.0.5" date="2021-03-24">
+      <description>
+        <p>This is a small update composing of bug fixes:</p>
+        <ul>
+          <li>Fix audio recording in other locales</li>
+          <li>Fix when using keyboard shortcuts unexpectedly</li>
+          <li>Minor improvements</li>
+          <li>Update translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-03-23" version="1.0.4">
+      <description>
+        <p>This release brings a couple of improvements:</p>
+        <ul>
+          <li>New! Ability to select audio devices through GNOME Settings</li>
+          <li>Removed the annoying tong sound</li>
+          <li>Fixed when the selection is not divisible by 2</li>
+          <li>Minor UI tweaks and other bug fixes</li>
+          <li>Performance improvements</li>
+          <li>Added new translations</li>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.0.3" date="2021-03-17">
+      <description>
+        <p>A couple of bug fixes here and improvements there:</p>
+        <ul>
+          <li>Minor performance improvements</li>
+          <li>Bug fixes</li>
+          <li>Added Swedish translations</li>
+          <li>Added Indonesian translations</li>
+          <li>Update Filipino translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-03-15" version="1.0.2">
+      <description>
+        <p>This release brings a couple of small changes:</p>
+        <ul>
+          <li>set WebM as default format</li>
+          <li>Minor fixes</li>
+          <li>Add Filipino translations</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-03-14" version="1.0.1">
+      <description>
+        <p>Version 1.0.1 brings fixes to a couple of bugs:</p>
+        <ul>
+          <li>Catch the error when the path of the directory no longer exists</li>
+          <li>Fix the bug when the path contains spaces</li>
+          <li>Fix missing argument argv</li>
+          <li>Possible fix for GioDBus: The name is not activatable</li>
+          <li>Make desktop environment check less strict</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.0.0" date="2021-03-13">
+      <description>
+        <p>This is the 1.0 release of Kooha. The features of this release include the following:</p>
+        <ul>
+          <li>Record your screen and also audio from your microphone or desktop</li>
+          <li>Option to show or hide the pointer</li>
+          <li>Option to record only an area on your screen</li>
+          <li>Select the saving location of the record</li>
+          <li>Ability to add a delay before recording starts</li>
+          <li>Video format settings (MKV and WebM)</li>
+          <li>And of course, keyboard shortcuts!</li>
+        </ul>
+      </description>
+    </release>
+    <release date="2021-03-06" version="0.1.0">
+      <description>
+        <p>Initial release.</p>
+      </description>
+    </release>
+  </releases>
+  <kudos>
+    <kudo>ModernToolkit</kudo>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>Notifications</kudo>
+  </kudos>
+</component>

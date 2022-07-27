@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>fcitx5-m17n</pkgname>
+  <id>org.fcitx.Fcitx5.Addon.M17N</id>
+  <extends>org.fcitx.Fcitx5</extends>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>LGPL-2.1+</project_license>
+  <name>M17N for Fcitx 5</name>
+  <name lang="zh_CN">Fcitx 5 的 M17N 支持</name>
+  <name lang="tr">Fcitx 5 için M17N</name>
+  <name lang="ru">M17N для Fcitx 5</name>
+  <name lang="ko">Fcitx5용 M17N</name>
+  <name lang="ja">M17N for Fcitx 5</name>
+  <name lang="da">M17N til Fcitx 5</name>
+  <summary>M17N Input method</summary>
+  <summary lang="zh_CN">M17N 输入法</summary>
+  <summary lang="tr">M17N Giriş yöntemi</summary>
+  <summary lang="ru">Метод ввода M17N</summary>
+  <summary lang="ko">M17N 입력기</summary>
+  <summary lang="ja">M17N 入力メソッド</summary>
+  <summary lang="da">M17N-inputmetode</summary>
+  <url type="homepage">https://fcitx-im.org</url>
+  <url type="bugtracker">https://github.com/fcitx/fcitx5-m17n/issues</url>
+  <project_group>Fcitx</project_group>
+  <releases>
+    <release date="2022-07-03" version="5.0.10" />
+    <release date="2022-05-22" version="5.0.9" />
+    <release version="5.0.8" date="2022-02-01" />
+    <release version="5.0.7" date="2022-01-01" />
+    <release version="5.0.6" date="2021-11-05" />
+    <release date="2021-05-04" version="5.0.5" />
+    <release version="5.0.4" date="2021-03-21" />
+    <release date="2021-02-18" version="5.0.3" />
+    <release version="5.0.2" date="2021-01-11" />
+    <release version="5.0.1" date="2020-12-03" />
+    <release version="5.0.0" date="2020-10-30" />
+  </releases>
+  <content_rating type="oars-1.1" />
+</component>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <pkgname>liferea</pkgname>
+  <launchable type="desktop-id">net.sourceforge.liferea.desktop</launchable>
+  <icon width="64" height="64" type="cached">net.sourceforge.liferea.png</icon>
+  <icon height="128" type="cached" width="128">net.sourceforge.liferea.png</icon>
+  <id>net.sourceforge.liferea.desktop</id>
+  <metadata_license>CC0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Liferea</name>
+  <summary>RSS feed reader</summary>
+  <summary lang="cs">Čtečka RSS kanálů</summary>
+  <summary lang="de">RSS Feedreader</summary>
+  <summary lang="es">Lector de noticias</summary>
+  <summary lang="fr">Lecteur de flux RSS</summary>
+  <summary lang="hu">RSS hírforrásolvasó</summary>
+  <summary lang="id">Pembaca RSS Feed</summary>
+  <summary lang="it">Lettore di notiziari RSS</summary>
+  <summary lang="pl">Czytnik wiadomości</summary>
+  <summary lang="pt_BR">Leitor de fontes de notícias</summary>
+  <summary lang="sq">Lexues prurjesh RSS</summary>
+  <summary lang="tr">RSS besleme okuyucu</summary>
+  <summary lang="zh_CN">RSS 阅读器</summary>
+  <description>
+    <p>Liferea is an abbreviation for Linux Feed Reader. It is a news aggregator for online news feeds. It supports a number of different feed formats including RSS/RDF, CDF and Atom. There are many other news readers available, but these others are not available for Linux or require many extra libraries to be installed. Liferea tries to fill this gap by creating a fast, easy to use, easy to install news aggregator for GTK/GNOME.</p>
+    <p lang="ar">لايفريا هو مجمّع أخبار لتلقيمات الأخبار. يدعم عددًا من أنساق التلقيمات مثل RSS/RDF و CDF و Atom. يوجد العديد من قارئات تلقيمات الأخبار لكنها إما غير متوفرة على لينكس أو تتطلب الكثير من المكتبات الإضافية. يحاول لايفريا سد هذه الهوّة بتوفير مجمّع أخبار سهل الاستخدام و التثبيت لجنوم.</p>
+    <p lang="cs">Liferea je zkratka pro Linux Feed Reader. Jedná se o agregátor zpráv pro on-line zpravodajské kanály. Podporuje řadu různých formátů zdrojů, včetně RSS/RDF, CDF a Atom. K dispozici je mnoho dalších čteček zpráv, ale tyto další nejsou k dispozici pro Linux nebo vyžadují instalaci mnoha dalších knihoven. Liferea se snaží tuto mezeru zaplnit vytvořením rychlého, snadno použitelného a snadno instalovatelného agregátoru zpráv pro GTK / GNOME.</p>
+    <p lang="de">Liferea ist eine Abkürzung für »Linux Feed Reader«. Es ist ein Aggregator für Online-News-Feeds. Es unterstützt eine Reihe von verschiedenen Feed-Formaten, wie RSS/RDF, CDF und Atom. Es gibt viele andere Aggregatoren, doch diese sind nicht für Linux verfügbar oder setzen voraus dass viele externe Bibliotheken installiert sind. Liferea versucht diese Lücke zu schließen indem ein schneller, leicht zu benutzender, und leicht zu installierender Nachrichten-Aggregator für GTK/Gnome erstellt wird.</p>
+    <p lang="es">Liferea es una abreviatura de «Linux Feed Reader». Es un agregador de canales de noticias en línea. Es compatible con varios formatos de canales, como RSS/RDF, CDF y Atom. Existen otros lectores de noticias, pero o no están disponibles en Linux o necesitan de muchas bibliotecas adicionales para funcionar. Liferea trata de llenar ese vacío con un agregador rápido y fácil de usar y de instalar para GTK/GNOME.</p>
+    <p lang="fi">Liferea on lyhenne sanoista Linux Feed Reader, eli Linux-syötteenlukija. Se on uutiskeräin verkossa oleville syötteille. Liferea tukee lukuisia eri muotoja, mukaan lukien RSS/RDF, CDF ja Atom. Vaikka olemassa on myös muita uutislukijoita, ne eivät ole saatavilla Linuxille tai vaativat useita eri lisäkirjastoja asennettavaksi. Liferea pyrkii vastaamaan tarpeeseen tarjoamalla nopean ja heppokäyttöisen uutiskeräimen GNOME-työpöydälle.</p>
+    <p lang="fr">Liferea est l’abréviation de Linux Feed Reader. C’est un agrégateur de flux pour sites web. Il gère un certain nombre de formats de flux dont RSS/RDF, CDF et Atom. D’autres lecteurs de flux existent mais soit ils ne sont pas disponibles pour Linux, soit ils nécessitent beaucoup de bibliothèques externes pour être installés. Liferea essaie de combler ce manque en créant un agrégateur de flux rapide, facile à utiliser et à installer pour GTK/GNOME.</p>
+    <p lang="he">‏Liferea הינו קיצור של Linux Feed Reader (קורא ערוצים של Linux). זהו מאגד חדשות עבור ערוצי חדשות מקוונים. זה תומך במספר של פורמטים שונים של ערוצים כולל RSS/RDF, ‏CDF וגם Atom. קיימים קוראי חדשות רבים אחרים זמינים, אך אלו לא זמינים עבור Linux או מצריכים ספריות חיצוניות רבות על מנת שיותקנו. Liferea מנסה לגשר על פער זה על ידי יצירת מאגד חדשות עבור GTK/GNOME מהיר, קל לשימוש, קל להתקנה.</p>
+    <p lang="hu">A Liferea a Linux Feed Reader (Linux hírforrásolvasó) rövidítése. Ez egy híraggregátor az internetes hírforrásokhoz. Számos különböző hírforrásformátumot támogat, beleértve az RSS/RDF, CDF és Atom formátumokat. Sok egyéb hírolvasó is elérhető, de azok nem érhetők el Linuxra, vagy sok további programkönyvtár telepítését igénylik. A Liferea ezt a hiányt próbálja betölteni egy gyors, könnyen használható, egyszerűen telepíthető híraggregátor létrehozásával a GTK/GNOME számára.</p>
+    <p lang="id">Liferea ialah akronim untuk Linux Feed Reader. Agregator berita untuk feed berita online. Mendukung berbagai format feed yang berbeda termasuk RSS/RDF, CDF dan Atom. Ada banyak pembaca berita yang tersedia, namun tidak tersedia untuk Linux atau memerlukan pustaka ekstra untuk diinstal. Liferea mencoba untuk memenuhinya dengan membuat agregator untuk GTK/GNOME yang cepat, mudah digunakan, mudah diinstall.</p>
+    <p lang="it">Liferea è un'abbreviazione di Linux Feed Reader. È un aggregatore di notizie per i notiziari in rete. Supporta diversi formati di notiziari tra cui RSS/RDF, CDF e Atom. Ci sono molti altri lettori di notizie disponibili, ma questi non sono disponibili per Linux o richiedono l'installazione di molte librerie aggiuntive. Liferea cerca di colmare questa lacuna creando un aggregatore di notizie veloce, facile da usare e facile da installare per GTK/GNOME.</p>
+    <p lang="pl">Liferea to skrót od Linux Feed Reader. Jest to agregator wiadomości internetowych kanałów informacyjnych. Obsługuje wiele różnych formatów, w tym RSS / RDF, CDF i Atom. Jest wiele innych czytników wiadomości, ale nie są dostępne dla systemu Linuks lub wymagają zainstalowania wielu dodatkowych bibliotek. Liferea próbuje wypełnić tę lukę, tworząc szybki, łatwy w użyciu i łatwy w instalacji agregator wiadomości dla GTK / GNOME.</p>
+    <p lang="pt_BR">Liferea é uma abreviatura para Linux Feed Reader. É um agregador para fontes de notícias online. Suporta vários formatos de fonte diferentes, incluindo RSS / RDF, CDF e Atom. Existem muitos outros leitores de notícias disponíveis, mas esses outros não estão disponíveis para Linux ou requerem a instalação de muitas bibliotecas extras. Liferea tenta preencher essa lacuna criando um agregador de notícias rápido, fácil de usar e de instalar para GTK / GNOME.</p>
+    <p lang="ru">Liferea — сокращение слов Linux Feed Reader. Она поддерживает ленты большинства форматов, включая RSS/RDF, CDF и Atom. Существует много других агрегаторов новостей, но они не работают под Linux или требуют установки множества дополнительных библиотек. Liferea пытается восполнить этот пробел, оставаясь быстрым, простым в установке и использовании агрегатором новостей для GTK/GNOME.</p>
+    <p lang="sq">Liferea është një shkurtim për Linux Feed Reader. Është një grumbullues lajmesh për prurje lajmesh në internet. Mbulon një numër formatesh prurjeje, përfshi RSS/RDF, CDF dhe Atom. Ka mjaft lexues të tjerë lajmesh, por këta nuk gjenden për Linux-in ose lypin shumë librari ekstra, pa të instalohen. Liferea orvatet ta plotësojë këtë mungesë duke krijuar një grumbullues lajmesh për GTK/GNOME, të shpejtë, të lehtë për t’u instaluar dhe përdorur.</p>
+    <p lang="sv">Liferea är en förkortning av Linux Feed Reader. Det är en nyhetsläsare för nyhetsflöden på nätet. Det stödjer ett antal olika flödesformat inklusive RSS/RDF, CDF och Atom. Det finns många andra nyhetsläsare tillgängliga, men dessa andra finns inte tillgängliga för Linux eller kräver många extra bibliotek för installation. Liferea försöker att fylla detta tomrum genom att skapa en snabb, lättanvänd, lätt installerbar nyhetsläsare för GTK/GNOME.</p>
+    <p lang="tr">Liferea, Linux Feed Reader'ın bir kısaltmasıdır. Çevrim içi haber beslemeleri için bir haber toplayıcısıdır. RSS/RDF, CDF ve Atom gibi çok sayıda farklı besleme biçimini destekler. Birçok farklı haber okuyucu vardır ancak bunlar Linux'ta kullanılamayabilir ya da yüklenmek için birçok ek kütüphane gerektirir. Liferea hızlı, kullanımı kolay ve GTK/GNOME için kurulumu kolay haber toplayıcısı olarak bu boşluğu kapatmayı denemektedir.</p>
+    <p lang="uk">Liferea — абревіатура від Linux Feed Reader (засіб читання подач у Linux). Це програма для збирання нових із подач у інтернеті. У програмі передбачено підтримку декількох різних форматів подач, зокрема RSS/RDF, CDF та Atom. Існує багато інших програм для читання новин, але вони або недоступні у Linux, або потребують встановлення багатьох додаткових бібліотек. Liferea є спробою заповнити цю прогалину створенням швидкої, простої у користуванні та простої у встановленні програми для читання новин із використанням GTK/GNOME.</p>
+    <p lang="vi">Liferea là từ viết tắt từ Linux Feed Reader. Nó là một bộ tập hợp tin tức cho các feed tin tức trực tuyến. Nó hỗ trợ một lượng lớn các định dạng feed khác nhau bao gồm RSS/RDF, CDF và Atom. Hiện sẵn có nhiều bộ đọc tin tức, nhưng những cái khác đó không sẵn có trên Linux hay yêu cầu cài đặt bổ sung nhiều thư viện. Liferea có để lấp đầy khoảng trống này bằng các tạo cho môi trường  GTK/GNOME một bộ tập hợp tin tức nhanh, dễ cài đặt và sử dụng.</p>
+    <p>Distinguishing features:</p>
+    <p lang="ar">الخصائص المميزة:</p>
+    <p lang="cs">Charakteristické vlastnosti:</p>
+    <p lang="de">Interessante Fähigkeiten:</p>
+    <p lang="es">Funcionalidades distintivas:</p>
+    <p lang="fi">Ominaisuuksia:</p>
+    <p lang="fr">Fonctionnalités importantes :</p>
+    <p lang="he">תכונות מיוחדות:</p>
+    <p lang="hu">Megkülönböztető funkciók:</p>
+    <p lang="id">Fitur istimewa:</p>
+    <p lang="it">Funzionalità distintive:</p>
+    <p lang="ja">特徴的な機能:</p>
+    <p lang="pl">Cechy wyróżniające:</p>
+    <p lang="pt_BR">Características distintas:</p>
+    <p lang="ru">Особенности:</p>
+    <p lang="sq">Veçori dalluese:</p>
+    <p lang="sv">Utmärkande funktioner:</p>
+    <p lang="tr">Mükemmel özellikler:</p>
+    <p lang="uk">Визначні особливості:</p>
+    <p lang="vi">Các tính năng phân biệt:</p>
+    <ul>
+      <li>Read articles when offline</li>
+      <li lang="ar">قراءة المقالات دون اتصال</li>
+      <li lang="cs">Číst články při stavu offline</li>
+      <li lang="de">Artikel offline lesen</li>
+      <li lang="es">Lectura de artículos sin conexión</li>
+      <li lang="fi">Lue artikkeleita kun et ole yhteydessä verkkoon</li>
+      <li lang="fr">Lire les articles hors-ligne</li>
+      <li lang="he">קריאת מאמרים במצב לא־מקוון</li>
+      <li lang="hu">Cikkek olvasása kapcsolat nélküli módban</li>
+      <li lang="id">Baca artikel ketika luring</li>
+      <li lang="it">Legge gli articoli quando si è offline</li>
+      <li lang="pl">Program działa w trybie rozłączonym</li>
+      <li lang="pt_BR">Leia artigos quando estiver offline</li>
+      <li lang="ru">Чтение в автономном режиме</li>
+      <li lang="sq">Lexoni artikuj kur jeni i palidhur</li>
+      <li lang="sv">Läs artiklar i frånkopplat läge</li>
+      <li lang="tr">Çevrim dışı iken maddeleri oku</li>
+      <li lang="uk">Читання статей у автономному режимі.</li>
+      <li lang="vi">Đọc các bài viết khi ngoại tuyến</li>
+      <li>Synchronizes with TheOldReader</li>
+      <li lang="ar">المزامنة مع قارئ TheOldReader</li>
+      <li lang="de">Synchronisiert mit TheOldReader</li>
+      <li lang="es">Sincronización con TheOldReader</li>
+      <li lang="fi">Synkronoi TheOldReaderin kanssa</li>
+      <li lang="fr">Synchroniser avec TheOldReader</li>
+      <li lang="he">סנכרון בעזרת TheOldReader</li>
+      <li lang="hu">Szinkronizálás a TheOldReader alkalmazással</li>
+      <li lang="id">Sinkronisasi dengan TheOldReader</li>
+      <li lang="it">Sincronizza con TheOldReader</li>
+      <li lang="ja">TheOldReader との同期</li>
+      <li lang="pl">Synchronizuje się z TheOldReader</li>
+      <li lang="pt_BR">Sincronizar com TheOldReader</li>
+      <li lang="ru">Синхронизация с TheOldReader</li>
+      <li lang="sq">Njëkohësohet me TheOldReader-in</li>
+      <li lang="sv">Synkroniserar med TheOldReader</li>
+      <li lang="tr">TheOldReader ile eşzamanlar</li>
+      <li lang="uk">Синхронізація з TheOldReader.</li>
+      <li lang="vi">Đồng bộ hóa với TheOldReader</li>
+      <li>Synchronizes with TinyTinyRSS</li>
+      <li lang="ar">المزامنة مع TinyTinyRSS</li>
+      <li lang="de">Synchronisiert mit TinyTinyRSS</li>
+      <li lang="es">Sincronización con TinyTinyRSS</li>
+      <li lang="fi">Synkronoi TinyTinyRSS:n kanssa</li>
+      <li lang="fr">Synchroniser avec TinyTinyRSS</li>
+      <li lang="he">סנכרון בעזרת TinyTinyRSS</li>
+      <li lang="hu">Szinkronizálás a TinyTinyRSS alkalmazással</li>
+      <li lang="id">Sinkronisasi dengan TinyTinyRSS</li>
+      <li lang="it">Sincronizza con TinyTinyRSS</li>
+      <li lang="ja">TinyTinyRSS との同期</li>
+      <li lang="pl">Synchronizuje się z TinyTinyRSS</li>
+      <li lang="pt_BR">Sincronizar com TinyTinyRSS</li>
+      <li lang="ru">Синхронизация с TinyTinyRSS</li>
+      <li lang="sq">Njëkohësohet me TinyTinyRSS-në</li>
+      <li lang="sv">Synkroniserar med TinyTinyRSS</li>
+      <li lang="tr">TinyTinyRSS ile eşzamanlar</li>
+      <li lang="uk">Синхронізація з TinyTinyRSS.</li>
+      <li lang="vi">Đồng bộ hóa với TinyTinyRSS</li>
+      <li>Synchronizes with InoReader</li>
+      <li lang="ar">المزامنة مع قارئ InoReader</li>
+      <li lang="de">Synchronisiert mit InoReader</li>
+      <li lang="es">Sincronización con InoReader</li>
+      <li lang="fi">Synkronoi InoReaderin kanssa</li>
+      <li lang="fr">Synchroniser avec les InoReader</li>
+      <li lang="he">סנכרון בעזרת InoReader</li>
+      <li lang="hu">Szinkronizálás az InoReader alkalmazással</li>
+      <li lang="id">Sinkronisasi dengan InoReader</li>
+      <li lang="it">Sincronizza con InoReader</li>
+      <li lang="ja">InoReader との同期</li>
+      <li lang="pl">Synchronizuje się z InoReader</li>
+      <li lang="pt_BR">Sincronizar com InoReader</li>
+      <li lang="sq">Njëkohësohet me InoReader-in</li>
+      <li lang="sv">Synkroniserar med InoReader</li>
+      <li lang="tr">InoReader ile eşzamanlar</li>
+      <li lang="uk">Синхронізація з InoReader.</li>
+      <li lang="vi">Đồng bộ hóa với InoReader</li>
+      <li>Synchronizes with Reedah</li>
+      <li lang="ar">المزامنة مع قارئ Reedah</li>
+      <li lang="de">Synchronisiert mit Reedah</li>
+      <li lang="es">Sincronización con Reedah</li>
+      <li lang="fi">Synkronoi Reedahin kanssa</li>
+      <li lang="fr">Synchroniser avec Reedah</li>
+      <li lang="he">סנכרון בעזרת Reedah</li>
+      <li lang="hu">Szinkronizálás a Reedah alkalmazással</li>
+      <li lang="id">Sinkronisasi dengan Reedah</li>
+      <li lang="it">Sincronizza con Reedah</li>
+      <li lang="ja">Reedah との同期</li>
+      <li lang="pl">Synchronizuje się z Reedah</li>
+      <li lang="pt_BR">Sincronizar com Reedah</li>
+      <li lang="sq">Njëkohësohet me with Reedah</li>
+      <li lang="sv">Synkroniserar med Reedah</li>
+      <li lang="tr">Reedah ile eşzamanlar</li>
+      <li lang="uk">Синхронізація з Reedah.</li>
+      <li lang="vi">Đồng bộ hóa với Reedah</li>
+      <li>Permanently save headlines in news bins</li>
+      <li lang="ar">حفظ عناوين الأخبار بشكل دائم في سلة الأخبار</li>
+      <li lang="cs">Trvale ukládat nadpisy do zásobníků zpráv</li>
+      <li lang="de">Speichert Schlagzeilen dauerhauft in 'News Bins'</li>
+      <li lang="es">Guardado permanente de titulares en bandejas de noticias</li>
+      <li lang="fi">Tallenna uutisotsikot pysyvästi uutiskoreihin</li>
+      <li lang="fr">Sauvegarder des titres dans des boîtes à nouvelles</li>
+      <li lang="he">אחסון כותרות באופן קבוע בתוך סלי איסוף</li>
+      <li lang="hu">Szalagcímek végleges mentése a hírgyűjtőkben</li>
+      <li lang="id">Simpan headline di news bin</li>
+      <li lang="it">Salve permanentemente i titoli nell'archivio delle notizie</li>
+      <li lang="pl">Trwale zapisuj nagłówki w koszach z wiadomościami</li>
+      <li lang="pt_BR">Salvar permanentemente as manchetes no recipiente de notícias</li>
+      <li lang="ru">Постоянное хранение заголовков в ящиках новостей</li>
+      <li lang="sq">Ruaji përgjithmonë titujt në kosha lajmesh</li>
+      <li lang="sv">Spara permanent rubriker i nyhetslådor</li>
+      <li lang="tr">Haber başlıklarını haber sepetlerinde kalıcı olarak sakla</li>
+      <li lang="uk">Зберігання заголовків записів новин.</li>
+      <li lang="vi">Lưu vĩnh viễn tin chính vào một bin tin tức</li>
+      <li>Match items using search folders</li>
+      <li lang="ar">تجميع العناصر باستخدام مجلدات البحث</li>
+      <li lang="de">Filtern von Schlagzeilen mit Suchordnern</li>
+      <li lang="es">Correspondencia de artículos mediante carpetas virtuales</li>
+      <li lang="fi">Hae tuloksia käyttämällä hakukansioita</li>
+      <li lang="fr">Retrouvez des articles en utilisant des dossiers de recherche</li>
+      <li lang="he">התאמת פריטים באמצעות תיקיות חיפוש</li>
+      <li lang="hu">Elemek illesztése keresési mappák használatával</li>
+      <li lang="id">Item yang sesuai menggunakan pencarian folder</li>
+      <li lang="it">Abbina gli articoli usando le cartelle di ricerca</li>
+      <li lang="pl">Dopasuj elementy za pomocą folderów wyszukiwania</li>
+      <li lang="pt_BR">Combinar itens usando pastas de pesquisa</li>
+      <li lang="ru">Объединение новостей в папках поиска</li>
+      <li lang="sq">Gjej përputhje për artikuj duke përdorur dosje kërkimi</li>
+      <li lang="sv">Matcha artiklar med hjälp av sökmappar</li>
+      <li lang="tr">Arama klasörlerini kullanarak ögeleri eşleştir</li>
+      <li lang="uk">Встановлення відповідності записів з використанням тек пошуку.</li>
+      <li lang="vi">Khớp các mục tin sử dụng các thư mục tìm kiếm</li>
+      <li>Play Podcasts</li>
+      <li lang="ar">تشغيل التدوين صوتي</li>
+      <li lang="cs">Přehrát podcasty</li>
+      <li lang="de">Podcasts abspielen</li>
+      <li lang="es">Reproducción de podcasts</li>
+      <li lang="fi">Toista podcasteja</li>
+      <li lang="fr">Lire les podcasts</li>
+      <li lang="he">ניגון פודקסטים</li>
+      <li lang="hu">Podcastok lejátszása</li>
+      <li lang="id">Mainkan Podcast</li>
+      <li lang="it">Riproduci i Podcasts</li>
+      <li lang="ja">Podcastを演奏する</li>
+      <li lang="pl">Odtwarzaj Podkasty</li>
+      <li lang="pt_BR">Reproduza podcasts</li>
+      <li lang="ru">Воспроизведение подкастов</li>
+      <li lang="sq">Luaj Podcast-e</li>
+      <li lang="sv">Spela poddsändningar</li>
+      <li lang="tr">Podcastleri Oynat</li>
+      <li lang="uk">Відтворення трансляцій.</li>
+      <li lang="vi">Chơi Podcast</li>
+      <li lang="zh_CN">播放播客</li>
+    </ul>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image width="833" height="656">https://lzone.de/liferea/screenshots/screenshot2.png</image>
+    </screenshot>
+    <screenshot type="default">
+      <image height="657" width="837">https://lzone.de/liferea/screenshots/screenshot3.png</image>
+    </screenshot>
+    <screenshot type="default">
+      <image width="837" height="657">https://lzone.de/liferea/screenshots/screenshot4.png</image>
+    </screenshot>
+    <screenshot type="default">
+      <image width="837" height="657">https://lzone.de/liferea/screenshots/screenshot5.png</image>
+    </screenshot>
+    <screenshot type="default">
+      <image width="837" height="657">https://lzone.de/liferea/screenshots/screenshot6.png</image>
+    </screenshot>
+    <screenshot type="default">
+      <image height="438" width="642">https://lzone.de/liferea/screenshots/screenshot7.png</image>
+    </screenshot>
+    <screenshot type="default">
+      <image height="657" width="834">https://lzone.de/liferea/screenshots/screenshot8.png</image>
+    </screenshot>
+    <screenshot type="default">
+      <image height="657" width="837">https://lzone.de/liferea/screenshots/screenshot9.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://lzone.de/liferea/</url>
+  <update_contact>liferea-devel@lists.sf.net</update_contact>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="violence-desecration">none</content_attribute>
+    <content_attribute id="violence-slavery">none</content_attribute>
+    <content_attribute id="violence-worship">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="sex-homosexuality">none</content_attribute>
+    <content_attribute id="sex-prostitution">none</content_attribute>
+    <content_attribute id="sex-adultery">none</content_attribute>
+    <content_attribute id="sex-appearance">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+  <releases>
+    <release version="1.13.7" date="2021-12-07" />
+    <release version="1.13.6" date="2021-05-07" />
+    <release version="1.13.5" date="2021-01-10" />
+    <release version="1.13.4" date="2020-12-24" />
+    <release version="1.13.3" date="2020-10-09" />
+    <release version="1.13.2" date="2020-08-28" />
+  </releases>
+</component>

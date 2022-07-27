@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>tellico</pkgname>
+  <launchable type="desktop-id">org.kde.tellico.desktop</launchable>
+  <icon height="64" type="cached" width="64">tellico.png</icon>
+  <icon type="cached" width="128" height="128">tellico.png</icon>
+  <id>org.kde.tellico.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Tellico</name>
+  <name lang="bs">Tellico</name>
+  <name lang="ca">Tellico</name>
+  <name lang="ca-valencia">Tellico</name>
+  <name lang="cs">Tellico</name>
+  <name lang="da">Tellico</name>
+  <name lang="de">Tellico</name>
+  <name lang="el">Tellico</name>
+  <name lang="en-GB">Tellico</name>
+  <name lang="es">Tellico</name>
+  <name lang="et">Tellico</name>
+  <name lang="eu">Tellico</name>
+  <name lang="fi">Tellico</name>
+  <name lang="fr">Tellico</name>
+  <name lang="gl">Tellico</name>
+  <name lang="hu">Tellico</name>
+  <name lang="ia">Tellico</name>
+  <name lang="id">Tellico</name>
+  <name lang="it">Tellico</name>
+  <name lang="ko">Tellico</name>
+  <name lang="nl">Tellico</name>
+  <name lang="nn">Tellico</name>
+  <name lang="pl">Tellico</name>
+  <name lang="pt">Tellico</name>
+  <name lang="pt-BR">Tellico</name>
+  <name lang="ru">Tellico</name>
+  <name lang="sk">Tellico</name>
+  <name lang="sl">Tellico</name>
+  <name lang="sv">Tellico</name>
+  <name lang="tr">Tellico</name>
+  <name lang="uk">Tellico</name>
+  <name lang="x-test">xxTellicoxx</name>
+  <name lang="zh-CN">Tellico</name>
+  <summary>Collection Manager</summary>
+  <summary lang="bs">Menadžer kolekcija</summary>
+  <summary lang="ca">Gestor de col·leccions</summary>
+  <summary lang="ca-valencia">Gestor de col·leccions</summary>
+  <summary lang="cs">Správce sbírek</summary>
+  <summary lang="da">Samlingshåndtering</summary>
+  <summary lang="de">Sammlungsverwaltung</summary>
+  <summary lang="el">Διαχειριστής συλλογών</summary>
+  <summary lang="en-GB">Collection Manager</summary>
+  <summary lang="es">Gestor de colecciones</summary>
+  <summary lang="et">Kogude haldur</summary>
+  <summary lang="eu">Bilduma kudeatzailea</summary>
+  <summary lang="fi">Kokoelmahallinta</summary>
+  <summary lang="fr">Gestionnaire de collections</summary>
+  <summary lang="gl">Xestor de coleccións</summary>
+  <summary lang="hu">Gyűjteménykezelő</summary>
+  <summary lang="ia">Gerente de collection</summary>
+  <summary lang="id">Pengelola Koleksi</summary>
+  <summary lang="it">Gestore della collezione</summary>
+  <summary lang="ko">소장품 관리 도구</summary>
+  <summary lang="nl">Collectiebeheer</summary>
+  <summary lang="nn">Samlingsdatabase</summary>
+  <summary lang="pl">Zarządzanie zbiorem</summary>
+  <summary lang="pt">Gestor de Colecções</summary>
+  <summary lang="pt-BR">Gerenciador de Coleções</summary>
+  <summary lang="ru">Диспетчер коллекций</summary>
+  <summary lang="sk">Správca zbierok</summary>
+  <summary lang="sl">Upravljalnik zbirk</summary>
+  <summary lang="sv">Samlingshanterare</summary>
+  <summary lang="tr">Koleksiyon Yöneticisi</summary>
+  <summary lang="uk">Програма для керування збірками</summary>
+  <summary lang="x-test">xxCollection Managerxx</summary>
+  <summary lang="zh-CN">收藏管理器</summary>
+  <description>
+    <p>
+      Tellico is an application for organizing your collections.
+      It provides default templates for books, bibliographies, videos, music, video games, coins, stamps, trading cards, comic books, and wines.
+      It allows you to enter your collection in a catalogue database, saving many different properties like title, author, etc.
+    </p>
+    <p lang="bs">Tellico je aplikacija za organiziranje vaše kolekcije. Omogućava početne predloške za knjige, bibliografije, videa, muziku, video igrice, kovanice, markice, kartice za razmjenu, stripove i vina. Dopušta vam ulaz u vašu kolekiju u katalošku bazu podataka, snimajući mnogo različitih osobina kao što su naslov, autor, itd.</p>
+    <p lang="ca">El Tellico és una aplicació per a organitzar col·leccions. Proporciona plantilles per defecte per a llibres, bibliografies, vídeos, música, videojocs, monedes, segells, cromos, còmics i vins. Permet introduir les col·leccions en una base de dades de catàlegs, desant moltes propietats diferents com el títol, l'autor, etc.</p>
+    <p lang="ca-valencia">El Tellico és una aplicació per a organitzar col·leccions. Proporciona plantilles per defecte per a llibres, bibliografies, vídeos, música, videojocs, monedes, segells, cromos, còmics i vins. Permet introduir les col·leccions en una base de dades de catàlegs, desant moltes propietats diferents com el títol, l'autor, etc.</p>
+    <p lang="da">Tellico er et program til at organisere dine samlinger. Det giver standardskabeloner til bøger, bibliografier, video, musik, computerspil, mønter, frimærker, byttekort, tegneserier og vine. Det lader dig angive din samling i en katalogdatabase, som gemmer mange forskellige egenskaber, såsom titel, forfatter osv.</p>
+    <p lang="de">Tellico ist eine Anwendung zur Organisation Ihrer Daten. Es enthält Standardvorlagen für Bücher, Literaturverzeichnisse, Videos, Musik, Videospiele, Comicbücher, Münzen, Briefmarken, Karten, Wein, Brettspiele und Dateikataloge. Sie können Ihre Sammlung in einer Katalog-Datenbank eingeben und viele verschiedene Eigenschaften wie Titel, Autor usw. darin speichern.</p>
+    <p lang="el">Το Tellico είναι μια εφαρμογή οργάνωσης των συλλογών σας. Παρέχει προκαθορισμένα πρότυπα για βιβλία, βιβλιογραφίες, βίντεο, μουσική, βιντεοπαιχνίδια, νομίσματα, γραμματόσημα, εμπορικε κάρτες, κόμικς και κρασιά. Σας επιτρέπει να εισάγετε τη συλλογή σας σε μια βάση δεδομένων καταλόγου, να αποθηκεύσετε πολλές διαφορετικές ιδιότητες όπως τίτλο, συγγραφέα, κλπ.</p>
+    <p lang="en-GB">Tellico is an application for organising your collections. It provides default templates for books, bibliographies, videos, music, video games, coins, stamps, trading cards, comic books, and wines. It allows you to enter your collection in a catalogue database, saving many different properties like title, author, etc.</p>
+    <p lang="es">Tellico es una aplicación para organizar colecciones. Proporciona plantillas predeterminadas para libros, bibliografías, vídeos, música, videojuegos, monedas, sellos, cromos, cómics, y vinos. También le permite almacenar sus colecciones en una base de datos de catálogo, guardando diversas propiedades como el título, el autor, etc.</p>
+    <p lang="et">Tellico on kõikvõimalike kogude haldamiseks mõeldud rakendus. See pakub vaikimisi malle raamatute, bibliograafiate, videode, muusika, videomängude, müntide, markide, mängukaartide, koomiksite ja veinide tarbeks. Rakenduses saab oma kogu sisestada kataloogi andmebaasi, kuhu salvestatakse hulk omadusi, näiteks nimi, autor jne.</p>
+    <p lang="eu">Tellico zure bildumak antolatzeko aplikazio bat da. Lehenetsitako txantiloiak hornitzen ditu liburu, bibliografia, bideo, musika, bideo-joko, txanpon, zigilu, karta (kromo), komiki-liburu, eta ardoentzako. Zure bilduma katalogo datu-base batean sartzen uzten dizu, propietate ezberdin ugari gordez, izenburua,  egilea, eta abar.</p>
+    <p lang="fi">Tellico on sovellus kokoelmiesi järjestämiseen. Se tarjoaa oletusmallit kirjoille, lähdeluetteloille, videoille, musiikille, videopeleille, kolikoille, postimerkeille, keräilykorteille, sarjakuville ja viineille. Sen avulla voit syöttää kokoelmasi luettelotietokantaan eri ominaisuudet kuten otsikon, tekijän jne. säilyttäen.</p>
+    <p lang="fr">Tellico est une application pour organiser vos collections. Il fournit des modèles par défaut pour les livres, les bibliographies, les vidéos, la musique, les jeux vidéo, les monnaies, les timbres, les cartes à collectionner, les bandes dessinées et les vins. Il vous permet de saisir votre collection dans une base de données de catalogue, enregistrant différentes propriétés telles que le titre, l'auteur, etc.</p>
+    <p lang="gl">Tellico é unha aplicación para organizar coleccións. Fornece modelos predeterminados para libros, bibliografías, vídeos, música, videoxogos, moedas, selos, cartas de colección, banda deseñada, e vinos. Permítelle inserir a súa colección a unha base de datos de catálogo na que pode gardar moitas propiedades distintas, como o título de cada elemento, o seu autor, etc.</p>
+    <p lang="ia">Tellico es un application pro organisar tu collectiones. Il forni patronos predefinite pro libros, bibliographias, videos, musica, video jocos, numisma, timbros, cartas de commercio, libros in designos e vinos. Il permitte te insertar tu collection inn un base de datos de catalogo, salveguardante multe proprietates como titulo, autor, etc.</p>
+    <p lang="id">Tellico adalah aplikasi untuk mengatur koleksi Anda. Ini menyediakan template baku untuk buku, bibliografi, video, musik, video game, koin, perangko, kartu perdagangan, buku komik, dan wine. Ini memungkinkan Anda untuk memasukkan koleksi Anda di database katalog, menyimpan banyak properti berbeda seperti judul, penulis, dll.</p>
+    <p lang="it">Tellico è un'applicazione per organizzare le tue collezioni. Fornisce modelli predefiniti per libri, bibliografie, video, musica, videogiochi, monete, francobolli, carte da gioco, fumetti e vini. Ti permette di inserire la tua collezione in una base di dati, salvando molte proprietà differenti come titolo, autore, ecc.</p>
+    <p lang="ko">Tellico는 내 소장품을 관리하는 프로그램입니다. 책, 서지, 비디오, 음악, 비디오 게임, 동전, 우표, 트레이드 카드, 만화 및 와인에 대한 기본 템플릿을 제공합니다. 카탈로그 데이터베이스에 소장품을 입력하여 제목, 작성자 등과 같은 다양한 속성을 저장할 수 있습니다.</p>
+    <p lang="nl">Tellico is een toepassing voor het organiseren van uw verzamelingen. Het biedt standaard sjablonen voor boeken, bibliografieën, video's, muziek, videogames, munten, postzegels, visitekaartjes, strips en wijnen. Het stelt u in staat om uw verzameling in een catalogusdatabase in te voeren, waarin veel verschillende eigenschappen, zoals titel, auteur, etc. opgeslagen kunnen worden.</p>
+    <p lang="nn">Tellico er eit program for å halda oversikt over samlingane dine. Det kjem med malar for bøker, litteraturlister, filmar, musikk, spel, myntar, frimerke, samlekort, teikneseriar og vin. Du kan katalogisera samlinga di i ein database og lagra mykje ulik informasjon, for eksempel tittel og forfattar.</p>
+    <p lang="pl">Tellico jest programem do porządkowania twoich zbiorów. Dostarcza domyślnych szablonów dla książek, bibliografii, filmów, muzyki, gier wideo, monet, znaczków, kart handlowych, komiksów i win. Umożliwia wprowadzenie całego twojego zbioru do bazy danych katalogu, zapisując przy tym wiele różnych właściwości takich jak tytuł, autor, itp.</p>
+    <p lang="pt">O Tellico é uma aplicação para organizar as suas colecções. Oferece modelos predefinidos para livros, bibliografias, vídeos, músicas, jogos de vídeo, moedas, selos, cromos, livros de banda desenhada, vinhos, entre outras colecções. Permite-lhe introduzir a sua colecção numa base de dados de catálogos, gravando diversas propriedades, como o título, o autor, etc.</p>
+    <p lang="pt-BR">Tellico é um aplicativo para organizar suas coleções. Oferece modelos predefinidos para livros, bibliografias, vídeos, músicas, jogos de vídeo game, moedas, selos, figurinhas, histórias em quadrinhos, vinhos, entre outras coleções. Permite-lhe introduzir sua coleção em um banco de dados de catálogos, gravando diversas propriedades, como título, autor, etc.</p>
+    <p lang="ru">Tellico — приложение для упорядочения коллекций. Оно предоставляет шаблоны по умолчанию для коллекций книг, библиографий, видео, музыки, видеоигр, монет, марок, коллекционных карточек, комиксов и вин. Приложение позволяет создать базу данных для коллекции, сохраняя различные характеристики (например, название, автора и так далее).</p>
+    <p lang="sk">Tellico je aplikácia na organizáciu vašich zbierok. Poskytuje predvolené šablóny pre knihy, bibliografie, videá, hudbu, videohry, mince, známky, zberateľské karty, komiksy a vína. Umožní vám zadať vašu kolekciu do databázy katalógu, uložiť mnoho rozličných vlastností ako titul, autor atď.</p>
+    <p lang="sl">Tellico je program za upravljanje vaših zbirk. Ponuja privzete predloge za knjige, bibliografije, videe, glasbo, igre, kovance, znamke, karte, stripe in vino. Omogoča vam, da vašo zbirko katalogizirate in shranite z različnimi lastnostmi kot so naslov, avtor, itd.</p>
+    <p lang="sv">Tellico är ett program för att organisera samlingar. Det tillhandahåller standardmallar för böcker, bibliografier, videor, musik, videospel, mynt, frimärken, samlarbilder, serier och viner. Det låter dig mata in samlingen i en katalogdatabas, och spara många olika egenskaper som titel, författare, etc.</p>
+    <p lang="tr">Tellico koleksiyonlarınızı yönetmek için bir programdır. Kitaplar, kaynakçalar, videolar, müzikler, video oyunları, paralar, pullar, kartlar, çizgi romanlar ve şaraplar için öntanımlı şablonlar içerir. Koleksiyonunuzu bir katalog veritabanına girmenize ve başlık, yazar gibi pek çok özelliğe göre kaydetmenize imkan tanır.</p>
+    <p lang="uk">Tellico — програма для упорядковування ваших збірок. У ній передбачено типові шаблони для збірок книг, бібліографій, відео, музичних творів, відеоігор, нумізматики, марок, карток, коміксів та вин. За її допомогою ви зможете вести записи у форматі бази даних, зберігаючи різноманітні дані щодо елементів збірки, зокрема дані щодо назви, автора тощо.</p>
+    <p lang="x-test">xxTellico is an application for organizing your collections. It provides default templates for books, bibliographies, videos, music, video games, coins, stamps, trading cards, comic books, and wines. It allows you to enter your collection in a catalogue database, saving many different properties like title, author, etc.xx</p>
+    <p>Features:</p>
+    <p lang="bs">Svojstva:</p>
+    <p lang="ca">Característiques:</p>
+    <p lang="ca-valencia">Característiques:</p>
+    <p lang="cs">Vlastnosti:</p>
+    <p lang="da">Funktioner:</p>
+    <p lang="de">Funktionen:</p>
+    <p lang="el">Χαρακτηριστικά:</p>
+    <p lang="en-GB">Features:</p>
+    <p lang="es">Características:</p>
+    <p lang="et">Omadused:</p>
+    <p lang="eu">Ezaugarriak:</p>
+    <p lang="fi">Ominaisuuksia:</p>
+    <p lang="fr">Fonctionnalités :</p>
+    <p lang="gl">Funcionalidades:</p>
+    <p lang="hu">Szolgáltatások:</p>
+    <p lang="ia">Characteristicas:</p>
+    <p lang="id">Fitur:</p>
+    <p lang="it">Funzionalità:</p>
+    <p lang="ko">기능:</p>
+    <p lang="nl">Mogelijkheden:</p>
+    <p lang="nn">Funksjonar:</p>
+    <p lang="pl">Cechy:</p>
+    <p lang="pt">Funcionalidades:</p>
+    <p lang="pt-BR">Funcionalidades:</p>
+    <p lang="ru">Возможности:</p>
+    <p lang="sk">Funkcie:</p>
+    <p lang="sl">Zmožnosti:</p>
+    <p lang="sv">Funktioner:</p>
+    <p lang="tr">Özellikleri:</p>
+    <p lang="uk">Можливості:</p>
+    <p lang="x-test">xxFeatures:xx</p>
+    <p lang="zh-CN">功能：</p>
+    <ul>
+      <li>Supports default collections of books, bibliographic entries, videos, music, video games, comic books, coins, stamps, trading cards, wines, board games, and file catalogs</li>
+      <li lang="bs">Podržava početne kolekcije knjiga, bibliografskih ulaza, videa, muzike, video igrica, stripova, kovanica, markica, kartica za razmjenu, vina, društvenih igara i datotečnih kataloga.</li>
+      <li lang="ca">Funciona amb col·leccions per defecte de catàlegs de llibres, entrades de bibliografia, vídeos, música, videojocs, còmics, monedes, segells, cromos, vins, jocs de taula i fitxers</li>
+      <li lang="ca-valencia">Funciona amb col·leccions per defecte de catàlegs de llibres, entrades de bibliografia, vídeos, música, videojocs, còmics, monedes, segells, cromos, vins, jocs de taula i fitxers</li>
+      <li lang="da">Understøtter standardsamlinger til bøger, bibliografier, video, musik, computerspil, mønter, frimærker, byttekort, tegneserier, vine, brætspil og filkataloger</li>
+      <li lang="de">Unterstützt Standardsammlungen für Bücher, Literaturverzeichnisse, Videos, Musik, Videospiele, Comicbücher, Münzen, Briefmarken, Karten, Wein, Brettspiele und Dateikataloge</li>
+      <li lang="el">Υποστηρίζει προκαθορισμένες συλλογές από βιβλίά, βιβλιογραφικώές εγγραφές, βίντεο, μουσική, βιντεοπαιχνίδια. βιβλία κόμικ, νομίσματα, γραμματόσημα, εμπορικές κάρτες, οίνους, επιτραπέζια παιχνίδια και καταλόγους αρχείων</li>
+      <li lang="en-GB">Supports default collections of books, bibliographic entries, videos, music, video games, comic books, coins, stamps, trading cards, wines, board games, and file catalogues</li>
+      <li lang="es">Soporte para colecciones predeterminadas de libros, entradas bibliográficas, vídeos, música, videojuegos, cómics, monedas, sellos, cromos, vinos, juegos de mesa y catálogos de archivos</li>
+      <li lang="et">Vaikimisi on toetatud, raamatute, bibliograafiliste kirjete, videode, muusika, videomängude, koomiksite, müntide, markide, mängukaartide, veinide, lauamängude ja failikataloogide kogud</li>
+      <li lang="eu">Liburu, bibliografia-sarrera, bideo, musika, bideo-joko, komiki-liburu, txanpon, karta (kromo), ardo, taula-joko eta fitxategi-katalogoen bilduma lehenetsiak onartzen ditu</li>
+      <li lang="fi">Tukee kirjojen, lähdeluettelotietueiden, videoiden, musiikin, videopelien, sarjakuvien, kolikoiden, postimerkkien, keräilykuvien, viinien, lautapelien ja tiedostoluettelojen oletuskokoelmia</li>
+      <li lang="fr">Prends en charge par défaut des collections de livres, d'entrées bibliographiques, de vidéos, de musique, de jeux vidéo, de bandes dessinées, de monnaies, de timbres,de cartes à collectionner, de vins, de jeux de plateau et de catalogues de fichiers.</li>
+      <li lang="gl">Compatíbel con coleccións predeterminadas de libros, entradas bibliográficas, vídeos, música, videoxogos, banda deseñada, moedas, selos, cartas de colección, viños, xogos de taboleiro e catálogos de ficheiros.</li>
+      <li lang="ia">Il supporta collectiones predefinite de libros, entratas bibliographic, videos, musica, video jocos, libros in designo, numisma, timbros, cartas de commerciar, vinos, jocos de tabula e catalogos de files</li>
+      <li lang="id">Mendukung koleksi buku, entri bibliografi, video, musik, video game, buku komik, koin, perangko, kartu perdagangan, wine, permainan papan, dan katalog file standar yang didukung</li>
+      <li lang="it">Supporta collezioni standard di libri, voci bibliografiche, video, musica, videogiochi, fumetti, monete, francobolli, carte da gioco, vini, giochi da tavolo e collezioni di file</li>
+      <li lang="ko">서적, 서지 정보 항목, 비디오, 음악, 비디오 게임, 만화책, 동전, 우표, 트레이딩 카드, 와인, 보드 게임 및 파일 카탈로그의 기본 소장품 지원</li>
+      <li lang="nl">Ondersteunt standaard verzamelingen van boeken, bibliografie-items, video's, muziek, videogames, strips, munten, postzegels, visitekaartjes, wijnen, bordspellen en catalogs van bestanden</li>
+      <li lang="nn">Støttar samlingar av bøker, litteraturlister, filmar, musikk, spel, teikneseriar, myntar, frimerke, samlekort, vin, brettspel og filkatalogar</li>
+      <li lang="pl">Obsługa domyślnych zbiorów książek, bibliografii, filmów, muzyki, gier wideo, monet, znaczków, kart handlowych, komiksów i win, gier planszowych oraz katalogów plików</li>
+      <li lang="pt">Suporta diversas colecções de livros, itens bibliográficos, vídeos, músicas, jogos de vídeo, livros de banda desenhada, moedas, selos, cromos, vinhos, jogos de tabuleiros e catálogos de ficheiros</li>
+      <li lang="pt-BR">Suporte a diversas coleções de livros, itens bibliográficos, vídeos, músicas, jogos de vídeo game, histórias em quadrinhos, moedas, selos, figurinhas, vinhos, jogos de tabuleiro e catálogos de arquivos</li>
+      <li lang="ru">Поддержка шаблонов коллекций книг, библиографических записей, видео, музыки, видеоигр, комиксов, монет, марок, коллекционных карточек, вин, настольных игр и каталогов файлов.</li>
+      <li lang="sk">Podporuje predvolené zbierky kníh, bibliografických položiek, videí, hudby, videohier, komiksov, mincí, známok, zberateľských kariet, vín, stolných hier a zakladačov</li>
+      <li lang="sl">Podpira privzete zbirke za knjige, bibliografije, videe, glasbo, igre, kovance, znamke, karte, stripe, namizne igre, vino in zbirke datotek</li>
+      <li lang="sv">Stöder standardsamlingar för böcker, bibliografiposter, videor, musik, videospel, serier, mynt, frimärken, samlarbilder, viner, brädspel och filkataloger</li>
+      <li lang="tr">Kitapların, kaynakça girdilerinin, videoların, müziklerin, video oyunlarının, çizgi romanların, paraların, pulların, kartların, şarapların, oyunların ve dosya katalogların öntanımlı koleksiyonlarını destekler</li>
+      <li lang="uk">Підтримка типових збірок книг, бібліографічних записів, відео, музики, відеоігор, коміксів, нумізматики, марок, карток, вин, настільних ігор та каталогів файлів.</li>
+      <li lang="x-test">xxSupports default collections of books, bibliographic entries, videos, music, video games, comic books, coins, stamps, trading cards, wines, board games, and file catalogsxx</li>
+      <li>Supports user-defined custom collections</li>
+      <li lang="bs">Podržava korisnički definisane prilagođene kolekcije</li>
+      <li lang="ca">Funciona amb col·leccions personalitzades definides per l'usuari</li>
+      <li lang="ca-valencia">Funciona amb col·leccions personalitzades definides per l'usuari</li>
+      <li lang="da">Understøtter brugerdefinerede tilpassede samlinger</li>
+      <li lang="de">Unterstützt benutzerdefinierte Sammlungen</li>
+      <li lang="el">Υποστηρίζει συλλογές ορισμένες από τον χρήστη</li>
+      <li lang="en-GB">Supports user-defined custom collections</li>
+      <li lang="es">Soporta colecciones personalizadas definidas por el usuario</li>
+      <li lang="et">Toetatud on ka kasutaja loodud kohandatud kogud</li>
+      <li lang="eu">Erabiltzaileek definitutako beren erara moldatutako bildumak onartzen ditu</li>
+      <li lang="fi">Tukee käyttäjän mukauttamia kokoelmia</li>
+      <li lang="fr">Prends en charge les collections personnalisées par l'utilisateur</li>
+      <li lang="gl">Permite aos usuarios definir coleccións personalizadas.</li>
+      <li lang="ia">Il supporta collectiones personalisate definite per le usator</li>
+      <li lang="id">Dukungan koleksi kustom yang ditentukan pengguna</li>
+      <li lang="it">Supporta collezioni personalizzate definite dall'utente</li>
+      <li lang="ko">사용자 정의 맞춤 소장품 지원</li>
+      <li lang="nl">Ondersteunt gebruikergedefinieerde eigen verzamelingen</li>
+      <li lang="nn">Støttar eigendefinerte samlingstypar</li>
+      <li lang="pl">Obsługa zbiorów określonych przez użytkownika</li>
+      <li lang="pt">Suporta colecções personalizadas pelo utilizador</li>
+      <li lang="pt-BR">Suporte a coleções personalizadas pelo usuário</li>
+      <li lang="ru">Поддержка пользовательских коллекций</li>
+      <li lang="sk">Podporuje používateľom definované vlastné zbierky</li>
+      <li lang="sl">Podpira uporabniško določene zbirke</li>
+      <li lang="sv">Stöder användardefinierade anpassade samlingar</li>
+      <li lang="tr">Kullanıcı tanımlı özel koleksiyonları destekler</li>
+      <li lang="uk">Підтримка визначених користувачем нетипових збірок.</li>
+      <li lang="x-test">xxSupports user-defined custom collectionsxx</li>
+      <li>Supports any number of user-defined fields, of several different types: text, paragraph, list, checkbox, number, URL, date, images, and combinations</li>
+      <li lang="bs">Podržava bilo koji broj korisnički definisanih polja, nekoliko različitih tipova: tekst, paragraf, lista, kvadtratić za označavanje, broj, URL, datum, slike i kombinacije.</li>
+      <li lang="ca">Funciona amb qualsevol nombre de camps definits per l'usuari, de molts tipus diferents: text, paràgraf, llista, casella de selecció, nombre, URL, data, imatges i combinacions</li>
+      <li lang="ca-valencia">Funciona amb qualsevol nombre de camps definits per l'usuari, de molts tipus diferents: text, paràgraf, llista, casella de selecció, nombre, URL, data, imatges i combinacions</li>
+      <li lang="da">Understøtter brugerdefinerede felter af mange forskellige typer, tekst, afsnit, liste, afkrydsningsfelt, nummer, URL, dato, billeder og kombinationer</li>
+      <li lang="de">Unterstützt eine beliebige Anzahl von benutzerdefinierten Feldern mit verschiedenen Typen: Text, Absatz, Liste, Ankreuzfeld, Nummer, Adresse (URL), Datum, Bilder und Kombinationen</li>
+      <li lang="el">Υποστηρίζει οποιοδήποτε πλήθος πεδίων ορισμένων από τον χρήστη από πολλούς διαφορετικούς τύπους: κείμενο, παράγραφο, λίστα, πλαίσιο επιλογής, αριθμό, URL, ημερομηνία, εικόνες και συνδυασμούς</li>
+      <li lang="en-GB">Supports any number of user-defined fields, of several different types: text, paragraph, list, tickbox, number, URL, date, images, and combinations</li>
+      <li lang="es">Soporta cualquier número de campos definidos por el usuario, de varios tipos diferentes: texto, párrafo, lista, checkbox, número, URL, fecha, imágenes y combinaciones.</li>
+      <li lang="et">Toetatud on mis tahes hulk kasutaja määratud välju, mis võivad olla väga eri tüüpi: tekst, lõik, loend, märkekast, arv, URL, kuupäev, pilt või nende kombinatsioon</li>
+      <li lang="eu">Erabiltzaileek definitutako eremu kopuru mugagabea onartzen du, mota ezberdinetakoak: testua, paragrafoa, zerrenda, egiaztapen-lauki, zenbaki, URL, data, irudi, eta konbinazioak</li>
+      <li lang="fi">Tukee rajattomasti käyttäjän määrittämiä useamman tyypin kenttiä (teksti, kappale, luettelo, valintaruutu, luku-, verkko-osoite, päiväys, kuvat ja niiden yhdistelmät)</li>
+      <li lang="fr">Prend en charge n'importe quel nombre de champs définis par l'utilisateur, de plusieurs types différents : texte, paragraphe, liste, case à cocher, nombre, URL, date, images et combinaisons</li>
+      <li lang="gl">Permite ao usuario definir campos de varios tipos: texto, parágrafo, lista, lista con caixas para marcar, número, URL, data, imaxes, e combinacións.</li>
+      <li lang="ia">Il supporta qualcunque numero de campos definite per le usator, de plure typos differente: texto, paragrapho, lista, quadrato de selection, numero, URL, data, imagines e combinationes</li>
+      <li lang="id">Mendukung angka apa pun dari bidang yang ditentukan, beberapa tipe yang berbeda: teks, paragraf, daftar, kotak centang, nomor, URL, tanggal, gambar, dan kombinasi</li>
+      <li lang="it">Supporta un qualsiasi numero di campi definiti dall'utente, di molti tipi differenti: testo, paragrafi, liste, caselle, numeri, URL, dati, immagini e combinazioni</li>
+      <li lang="ko">텍스트, 단락, 목록, 체크 상자, 번호, URL, 날짜, 이미지 및 조합 등 다양한 형식의 사용자 정의 필드 지원</li>
+      <li lang="nl">Ondersteunt elk aantal gebruikergedefinieerde velden met verscheidene verschillende types: tekst, paragraaf, lijst, keuzevakje, aantal, URL, datum, afbeelding en combinaties</li>
+      <li lang="nn">Støttar vilkårleg mange eigendefinerte felt i ulike variantar: tekst, avsnitt, liste, avkryssingsboks, tal, nettadresse, dato, bilete og kombinasjonar av desse variantane</li>
+      <li lang="pl">Obsługa dowolnej liczby pól określonych przez użytkownika, wielu różnych rodzajów: tekst, akapit, spis, pole zaznaczane, liczba, adres URL, data, obraz i ich kombinacje</li>
+      <li lang="pt">Suporta qualquer número de campos definidos pelo utilizador, de diferentes tipos: texto, parágrafo, lista, opção de marcação, número, URL, data, imagens e combinações</li>
+      <li lang="pt-BR">Suporte a qualquer número de campos definidos pelo usuário, de diferentes tipos: texto, parágrafo, lista, opção de marcação, número, URL, data, imagens e combinações</li>
+      <li lang="ru">Поддержка неограниченного количества пользовательских полей нескольких типов: текст, большой текст, список, флажок, номер, URL-адрес, дата, изображения и комбинации</li>
+      <li lang="sk">Podporuje ľubovoľný počet používateľom definovaných polí rôznych typov: text, odstavec, zoznam, checkbox, číslo, URL, dátum, obrázky a kombinácie</li>
+      <li lang="sl">Podpira poljubno število uporabniško določenih polj različnih vrst: besedilo, odstavek, seznam, označno polje, številka, naslov URL, datum, slike in njihove poljubne kombinacije</li>
+      <li lang="sv">Stöder hur många användardefinierade fält som helst av flera olika typer: text, stycke, lista, kryssruta, tal, webbadress, datum, bilder och kombinationer</li>
+      <li lang="tr">Çok farklı türlerde kullanıcı tanımlı alanları destekler: metin, paragraf, liste, işaret kutusu, sayı, URL, tarih, resim ve bunların bileşimleri</li>
+      <li lang="uk">Підтримка довільної кількості визначених користувачем полів записів: текст, абзац, список, поле для позначки, номер, адреса, дата, зображення та будь-які інші комбінації.</li>
+      <li lang="x-test">xxSupports any number of user-defined fields, of several different types: text, paragraph, list, checkbox, number, URL, date, images, and combinationsxx</li>
+      <li>Handles entries with multiple authors, genres, keywords, etc</li>
+      <li lang="bs">Upravlja ulazima sa više autora, žanrova, ključnih riječi, itd.</li>
+      <li lang="ca">Gestiona entrades amb múltiples autors, gèneres, paraules clau, etc.</li>
+      <li lang="ca-valencia">Gestiona entrades amb múltiples autors, gèneres, paraules clau, etc.</li>
+      <li lang="da">Kan håndtere indgange med flere forfattere, genrer, nøgleord osv.</li>
+      <li lang="de">Verarbeitet Einträge mit mehreren Autoren, Genres, Stichwörtern usw.</li>
+      <li lang="el">Χειρίζεται εγγραφές με πολλούς συγγραφείς, είδη, λέξεις κλειδιά, κλπ.</li>
+      <li lang="en-GB">Handles entries with multiple authors, genres, keywords, etc</li>
+      <li lang="es">Maneja entradas con varios autores, géneros, palabras clave, etc</li>
+      <li lang="et">Raskusi ei valmista ka kirjed, mis sisaldavad mitut autorit, žanri, võtmesõna jne.</li>
+      <li lang="eu">Egile, genero, gako-hitz, eta abar anizkoitzak dituzten sarrerak maneiatzen ditu</li>
+      <li lang="fi">Käsittelee tietueet, joissa on useampia tekijöitä, tyylilajeja, avainsanoja jne.</li>
+      <li lang="fr">Gestion des entrées avec plusieurs auteurs, genres, mots clé, etc.</li>
+      <li lang="gl">Pode xestionar entradas con varios autores, xéneros, palabras clave, etc.</li>
+      <li lang="ia">Il manea entratas con multiple autores, generes, parolas clave, etc.</li>
+      <li lang="id">Menangani entri-entri dengan beberapa penulis, genre, kata kunci, dll.</li>
+      <li lang="it">Gestisce voci con autori multipli, generi, parole chiave, ecc.</li>
+      <li lang="ko">여러 저자, 장르, 키워드 등으로 항목 처리</li>
+      <li lang="nl">Behandelt items met meerdere auteurs, genres, zoektermen, etc.</li>
+      <li lang="nn">Kan handtera oppføringar som inneheld fleire forfattarar, sjangrar, nøkkelord, …</li>
+      <li lang="pl">Obsługa wpisów z wieloma autorami, gatunkami, słowami kluczowymi, itp.</li>
+      <li lang="pt">Lida com itens de vários autores, géneros, palavras-chave, etc</li>
+      <li lang="pt-BR">Lida com itens de vários autores, gêneros, palavras-chave, etc</li>
+      <li lang="ru">Обработка записей, содержащих несколько авторов, жанров, ключевых слов и так далее</li>
+      <li lang="sk">Spracúva položky s viacerými autormi, žánrami, kľúčovými slovami atď.</li>
+      <li lang="sl">Zna ravnati z vnosi z večimi avtorji, zvrstmi, ključnimi besedami, itd.</li>
+      <li lang="sv">Hanterar poster med flera författare, genrer, nyckelord, etc.</li>
+      <li lang="tr">Birden çok yazarı, türü ve anahtar kelimeyi işleyebilir</li>
+      <li lang="uk">Обробка записів з декількома авторами, жанрами, ключовими словами тощо.</li>
+      <li lang="x-test">xxHandles entries with multiple authors, genres, keywords, etcxx</li>
+      <li>Automatically formats titles and names</li>
+      <li lang="bs">Automatski formatira naslove i imena</li>
+      <li lang="ca">Formata automàticament els títols i els noms</li>
+      <li lang="ca-valencia">Formata automàticament els títols i els noms</li>
+      <li lang="da">Formaterer titler og navne automatisk</li>
+      <li lang="de">Automatische Formatierung von Titeln und Namen</li>
+      <li lang="el">Αυτόματα διαμορφώνει τίτλους και ονόματα</li>
+      <li lang="en-GB">Automatically formats titles and names</li>
+      <li lang="es">Formatea automáticamente títulos y nombres</li>
+      <li lang="et">Pealkirjasid ja nimesid saab lasta automaatselt vormindada</li>
+      <li lang="eu">Automatikoki formateatzen ditu izenburuak eta izenak</li>
+      <li lang="fi">Muotoilee otsikot ja nimet automaattisesti</li>
+      <li lang="fr">Formate automatiquement les titres et les noms</li>
+      <li lang="gl">Aplica automaticamente un formato aos títulos e nomes.</li>
+      <li lang="ia">Automaticamente da forma a titulos e nomines</li>
+      <li lang="id">Format secara otomatis judul-judul dan nama-nama</li>
+      <li lang="it">Formatta automaticamente titoli e nomi</li>
+      <li lang="ko">제목과 이름의 자동 서식 지정</li>
+      <li lang="nl">Deelt automatisch titels en namen in</li>
+      <li lang="nn">Automatisk formatering av titlar og namn</li>
+      <li lang="pl">Samoczynne formatowanie tytułów i nazw</li>
+      <li lang="pt">Formata automaticamente os títulos e nomes</li>
+      <li lang="pt-BR">Formata automaticamente os títulos e nomes</li>
+      <li lang="ru">Автоматическое форматирование заголовков и имён</li>
+      <li lang="sk">Automaticky formátuje tituly a názvy</li>
+      <li lang="sl">Samodejno oblikuje naslove in imena</li>
+      <li lang="sv">Formaterar automatiskt titlar och namn</li>
+      <li lang="tr">Başlık ve isimleri otomatik biçimlendirir</li>
+      <li lang="uk">Автоматичне форматування заголовків та назв.</li>
+      <li lang="x-test">xxAutomatically formats titles and namesxx</li>
+      <li>Supports collection searching and view filtering</li>
+      <li lang="bs">Podržava pretragu kolekcije i filter pregleda</li>
+      <li lang="ca">Admet la cerca de col·leccions i filtratge de la vista</li>
+      <li lang="ca-valencia">Admet la cerca de col·leccions i filtratge de la vista</li>
+      <li lang="da">Understøtter søgning i samlinger og filtrering af visning</li>
+      <li lang="de">Unterstützt das Durchsuchen von Sammlungen und Filterung der Ansichten</li>
+      <li lang="el">Υποστηρίζει αναζήτηση συλλογών και φιλτράρισμα προβολής</li>
+      <li lang="en-GB">Supports collection searching and view filtering</li>
+      <li lang="es">Soporta búsqueda de colecciones y filtrado de la vista</li>
+      <li lang="et">Toetatud on kogudes otsimine ja vaate filtreerimine</li>
+      <li lang="eu">Bildumetan bilatzea eta ikuspegietan iragaztea onartzen du</li>
+      <li lang="fi">Tukee kokoelmien hakua ja näkymien suodatusta</li>
+      <li lang="fr">Prend en charge la recherche dans la collection et une vue filtrée</li>
+      <li lang="gl">Permite buscar nas coleccións e filtrar nas vistas.</li>
+      <li lang="ia">Il supporta cerca de collection e filtro de vista</li>
+      <li lang="id">Dukungan pencarian koleksi dan pemfilteran tampilan</li>
+      <li lang="it">Supporta ricerche nella collezione e filtraggio della vista</li>
+      <li lang="ko">소장품 검색 및 보기 필터링 지원</li>
+      <li lang="nl">Ondersteunt zoeken in verzamelingen en filtering op weergave</li>
+      <li lang="nn">Støttar søk og filtrering i samlingar</li>
+      <li lang="pl">Obsługa przedukiwania zbiorów i filtrowanych widoków</li>
+      <li lang="pt">Suporta a pesquisa na colecção e a filtragem da janela</li>
+      <li lang="pt-BR">Suporte a pesquisa na coleção e filtragem da janela</li>
+      <li lang="ru">Поддержка поиска по коллекции и фильтров просмотра</li>
+      <li lang="sk">Podporuje hľadanie kolekcií a filtrovanie zobrazenia</li>
+      <li lang="sl">Podpira iskanje po zbirkah in filtriranje prikaza</li>
+      <li lang="sv">Stöder sökning i samlingen och filtrering av visningen</li>
+      <li lang="tr">Koleksiyon araması ve filtreleyerek görüntülemeyi destekler</li>
+      <li lang="uk">Підтримка пошуку у збірці та фільтрування даних для перегляду.</li>
+      <li lang="x-test">xxSupports collection searching and view filteringxx</li>
+      <li>Sorts and groups collection by various properties</li>
+      <li lang="bs">Sortira i grupira kolekcije po različitim osobinama</li>
+      <li lang="ca">Ordena i agrupa les col·leccions per diverses propietats</li>
+      <li lang="ca-valencia">Ordena i agrupa les col·leccions per diverses propietats</li>
+      <li lang="da">Sorterer og grupperer samling efter diverse egenskaber</li>
+      <li lang="de">Sortiert und Gruppiert Sammlungen nach verschiedenen Eigenschaften</li>
+      <li lang="el">Ταξινομεί και ομαδοποιεί συλλογές με διάφορες ιδιότητες</li>
+      <li lang="en-GB">Sorts and groups collection by various properties</li>
+      <li lang="es">Ordena y agrupa las colecciones en función de diversas propiedades</li>
+      <li lang="et">Kogusid saab sortida ja rühmitada eri omaduste järgi</li>
+      <li lang="eu">Bildumak hainbat propietateren arabera sailkatu eta taldekatzen ditu</li>
+      <li lang="fi">Lajittelee ja ryhmittelee kokoelmia eri ominaisuuksien mukaan</li>
+      <li lang="fr">Trie et groupe les collections suivant diverses propriétés</li>
+      <li lang="gl">Permite ordenar ou agrupar as coleccións en funcións de varias propiedades.</li>
+      <li lang="ia">Il ordina e gruppa per varie proprietates</li>
+      <li lang="id">Mengurutkan dan mengelompokkan koleksi dengan berbagai properti</li>
+      <li lang="it">Ordina e raggruppa la collezione in base a varie proprietà</li>
+      <li lang="ko">다양한 속성별 소장품 정렬 및 그룹</li>
+      <li lang="nl">Sorteert en groepeert verzameling door verschillende eigenschappen</li>
+      <li lang="nn">Sorterer og grupperer automatisk samlingane</li>
+      <li lang="pl">Szeregowanie i grupowanie zbiorów według różnych właściwości</li>
+      <li lang="pt">Ordena e agrupa a colecção de acordo com diversas propriedades</li>
+      <li lang="pt-BR">Ordena e agrupa a coleção de acordo com diversas propriedades</li>
+      <li lang="ru">Упорядочение и группировка коллекции по различным свойствам</li>
+      <li lang="sk">Triedi a zoskupuje kolekciu podľa rôznych vlastností</li>
+      <li lang="sl">Zna razvrstiti in združevati zbirko po različnih lastnostih</li>
+      <li lang="sv">Sorterar och grupperar samlingen enligt olika egenskaper</li>
+      <li lang="tr">Koleksiyonları çeşitli özelliklerine göre sıralar ve gruplar</li>
+      <li lang="uk">Упорядковування та групування збірки за різноманітними властивостями.</li>
+      <li lang="x-test">xxSorts and groups collection by various propertiesxx</li>
+      <li>Allows customizable entry templates through XSLT</li>
+      <li lang="bs">Dopušta prilagođene ulazne predloške preko XSLT</li>
+      <li lang="ca">Admet plantilles d'entrades personalitzades mitjançant XSLT</li>
+      <li lang="ca-valencia">Admet plantilles d'entrades personalitzades mitjançant XSLT</li>
+      <li lang="da">Muliggør indgangsskabeloner som kan tilpasses via XSLT</li>
+      <li lang="de">Erlaubt anpassbare Vorlagen für Einträge mittels XSLT</li>
+      <li lang="el">Επιτρέπει προσαρμόσιμα πρότυπα εγγραφών μέσω XSLT</li>
+      <li lang="en-GB">Allows customisable entry templates through XSLT</li>
+      <li lang="es">Permite plantillas personalizadas de entradas a través de XSLT </li>
+      <li lang="et">XSLT abil on võimalik luua kohandatud kirjemalle</li>
+      <li lang="eu">XSLT erabliz norbere erara molda daitezkeen sarrera-txantiloiak onartzen ditu</li>
+      <li lang="fi">Sallii mukautetut tietuemallit XSLT:n avulla</li>
+      <li lang="fr">Permet des modèles d'entrées personnalisable via XSLT</li>
+      <li lang="gl">Permite personalizar os modelos para entradas mediante XSLT.</li>
+      <li lang="ia">Il permitte patronos de entratas personalisate per XSLT</li>
+      <li lang="id">Kemungkinan men-template-kan entri yang dapat dikustomisasi melalui XSLT</li>
+      <li lang="it">Permette modelli di immissione personalizzabili attraverso XSLT</li>
+      <li lang="ko">XSLT를 통해 사용자 정의 가능한 항목 템플릿 허용</li>
+      <li lang="nl">Staat aanpasbare sjablonen van items toe via XSLT</li>
+      <li lang="nn">Kan tilpassa oppføringsmalar ved hjelp av XSLT-stilsett</li>
+      <li lang="pl">Własne szablony wpisów dzięki XSLT</li>
+      <li lang="pt">Permite modelos de registos personalizados, através de XSLT</li>
+      <li lang="pt-BR">Permite modelos de registros personalizados, através de XSLT</li>
+      <li lang="ru">Поддержка настройки шаблонов записей с помощью XSLT</li>
+      <li lang="sk">Umožňuje upraviteľné šablóny položiek cez XSLT</li>
+      <li lang="sl">Dovoljuje uporabno prilagodljivih predlog za vnos preko XSLT</li>
+      <li lang="sv">Tillåter anpassningsbara inmatningsmallar via XSLT</li>
+      <li lang="tr">XSLT üzerinden girdi şablonlarının özelleştirilmesine izin verir</li>
+      <li lang="uk">Придатні до налаштовування шаблони записів на основі XSLT.</li>
+      <li lang="x-test">xxAllows customizable entry templates through XSLTxx</li>
+      <li>Imports MODS, Bibtex, RIS, CSV, PDF metadata, and many other formats</li>
+      <li lang="bs">Uvozi iz MODS, Bibtex, RIS, CSV, PDF metapodatke, i mnogih drugih formata</li>
+      <li lang="ca">Importa MODS, Bibtex, RIS, CSV, metadades de PDF, i molts altres formats</li>
+      <li lang="ca-valencia">Importa MODS, Bibtex, RIS, CSV, metadades de PDF, i molts altres formats</li>
+      <li lang="da">Importerer MODS, Bibtex, RIS, CSV, PDF-metadata og mange andre formater</li>
+      <li lang="de">Import von MODS-, Bibtex-, RIS-, CSV-, PDF-Metadaten und vielen anderen Formaten</li>
+      <li lang="el">Εισάγει μεταδεδομένα από MODS, Bibtex, RIS, CSV, PDF και πολλούς άλλους τύπους αποθήκευσης</li>
+      <li lang="en-GB">Imports MODS, Bibtex, RIS, CSV, PDF metadata, and many other formats</li>
+      <li lang="es">Importa MODS, Bibtex, RIS, CSV, metadatos PDF y muchos otros formatos</li>
+      <li lang="et">MODS-i, Bibtexi, RIS-i, CSV, PDF-i metaandmete ja veel paljude vormingute import</li>
+      <li lang="eu">MODS, Bibtex, RIS, CSV, PDF meta-datuak, eta beste formatu ugari inportatzen ditu</li>
+      <li lang="fi">Tuo MODS-, BibTeX-, RIS-, CSV-, PDF-metatieto- ja muista tiedostomuodoista</li>
+      <li lang="fr">Importe MODS, Bibtex, RIS, CSV, les métadonnées PDF, et beaucoup d'autres formats</li>
+      <li lang="gl">Pode importar ficheiros en formato MODS, Bibtex, RIS, CSV, metadatos de PDF, e moitos outros formatos.</li>
+      <li lang="ia">Il importa metadatos MODS, Bibtex, RIS, CSV, PDF e plure altere formatos</li>
+      <li lang="id">Mengimporkan format MODS, Bibtex, RIS, CSV, PDF metadata, dan banyak format lain</li>
+      <li lang="it">Importa MODS, Bibtex, RIS, CSV, metadati dei PDF, e molti altri formati</li>
+      <li lang="ko">MODS, Bibtex, RIS, CSV, PDF 메타데이터 및 기타 다양한 형식 가져오기</li>
+      <li lang="nl">Importeert MODS, Bibtex, RIS, CSV, PDF metadata en vele andere formaten</li>
+      <li lang="nn">Kan importera metadata frå blant anna MODS-, BibTeX-, RIS-, CSV- og PDF-filer</li>
+      <li lang="pl">Importowanie MODS, Bibtex, RIS, CSV, metadanych PDF i wielu innych formatów</li>
+      <li lang="pt">Importa dos formatos MODS, Bibtex, RIS, CSV, meta-dados de PDF, entre muitos outros</li>
+      <li lang="pt-BR">Importa dos formatos MODS, Bibtex, RIS, CSV, metadados de PDF, entre muitos outros</li>
+      <li lang="ru">Импорт метаданных из MODS, Bibtex, RIS, CSV, PDF и многих других форматов</li>
+      <li lang="sk">Importuje MODS, Bibtex, RIS, CSV, PDF metadáta a veľa iných formátov</li>
+      <li lang="sl">Zna uvoziti MODS, Bibtex, RIS, CSV, metapodatke PDF in druge vrste datotek</li>
+      <li lang="sv">Importerar MODS, Bibtexd, RIS, CSV, PDF-metadata och många andra format</li>
+      <li lang="tr">MODS, Bibtex, RIS, CSV, PDF üst verisi ve pek çok diğer biçimi içe aktarır</li>
+      <li lang="uk">Імпортування метаданих MODS, Bibtex, RIS, CSV, PDF та даних у багатьох інших форматах.</li>
+      <li lang="x-test">xxImports MODS, Bibtex, RIS, CSV, PDF metadata, and many other formatsxx</li>
+      <li>Exports to Bibtex, ONIX, CSV, HTML, and other formats</li>
+      <li lang="ca">Exporta a Bibtex, ONIX, CSV, HTML i altres formats</li>
+      <li lang="ca-valencia">Exporta a Bibtex, ONIX, CSV, HTML i altres formats</li>
+      <li lang="da">Eksporterer til Bibtex, ONIX, CSV, HTML og andre formater</li>
+      <li lang="de">Export zu Bibtex, ONIX, CSV, HTML, und andere Formate</li>
+      <li lang="el">Εξάγει σε Bibtex, ONIX, CSV, HTML και άλλους τύπους αποθήκευσης</li>
+      <li lang="en-GB">Exports to Bibtex, ONIX, CSV, HTML, and other formats</li>
+      <li lang="es">Exporta a Bibtex, ONIX, CSV, HTML y otros formatos</li>
+      <li lang="et">Eksport Bibtexi, ONIX-i, CSV, HTML-i ja veel paljudesse vormingutesse</li>
+      <li lang="eu">Bibtex, ONIX, CSV, HTML, eta beste formatuetara esportatzen du</li>
+      <li lang="fi">Vie BibTeX-, ONIX-, CSV-, HTML- ja muihin tiedostomuotoihin</li>
+      <li lang="fr">Exporte vers Bibtex, ONIX, CSV, HTML et beaucoup d'autres formats</li>
+      <li lang="gl">Pode exportar coleccións nos formatos Bibtex, CSV, e HTML, entre outros.</li>
+      <li lang="ia">Il exporta a Bibtex, ONIX, CSV, HTML, e altere formatos</li>
+      <li lang="id">Pengeksporan ke format Bibtex, ONIX, CSV, HTML, dan format lain</li>
+      <li lang="it">Esporta in formato Bibtex, ONIX, CSV, HTML e altri</li>
+      <li lang="ko">Bibtex, ONIX, CSV, HTML 및 기타 형식으로 내보내기</li>
+      <li lang="nl">Exporteert naar Bibtex, ONIX, CSV, HTML en andere formaten</li>
+      <li lang="nn">Kan eksportera til BibTeX, ONIX, CSV, HTML og andre format</li>
+      <li lang="pl">Eksportowanie Bibtex, ONIX, CSV, HTML i innych formatów</li>
+      <li lang="pt">Exporta para o Bibtex, ONIX, CSV, HTML, entre outros formatos</li>
+      <li lang="pt-BR">Exporta para o Bibtex, ONIX, CSV, HTML, entre outros formatos</li>
+      <li lang="ru">Экспорт в BibTeX, ONIX, CSV, HTML и другие форматы</li>
+      <li lang="sk">Exportuje do Bibtex, ONIX, CSV, HTML a iných formátov</li>
+      <li lang="sl">Zna izvoziti v Bibtex, ONIX, CSV, HTML in druge vrste datotek</li>
+      <li lang="sv">Exporterar till Bibtex, ONIX, CSV, HTML och andra format</li>
+      <li lang="tr">Bibtex, ONIX, CSV, HTML, PilotDB ve pek çok diğer biçimi dışa aktarır</li>
+      <li lang="uk">Експортування даних у форматах Bibtex, ONIX, CSV, HTML тощо.</li>
+      <li lang="x-test">xxExports to Bibtex, ONIX, CSV, HTML, and other formatsxx</li>
+      <li>Imports information directly from Amazon.com, IMDb, z39.50 servers, PubMed, SRU servers, CrossRef.org, various other websites, and from external scripts</li>
+      <li lang="bs">Uvozi informacije direktno sa Amazon.com, IMDb, z39.50 servera, PubMed, SRU servera, CrossRef.org, različitih drugih web stranica, i iz vanjskih skripti</li>
+      <li lang="ca">Importa informació directament des d'Amazon.com, IMDb, servidors z39.50, PubMed, servidors SRU, CrossRef.org, altres llocs web, i des de scripts externs</li>
+      <li lang="ca-valencia">Importa informació directament des d'Amazon.com, IMDb, servidors z39.50, PubMed, servidors SRU, CrossRef.org, altres llocs web, i des de scripts externs</li>
+      <li lang="da">Importerer information direkte fra Amazon.com, IMDb, z39.50 servers, PubMed, SRU-servere, CrossRef.org, diverse andre websider og fra eksterne scripts</li>
+      <li lang="de">Importiert Informationen direkt von Amazon.com, IMDb, z39.50-Servern, PubMed, SRU-Servern, CrossRef.org, verschiedenen anderen Webseiten und von externen Skripten</li>
+      <li lang="el">Εισάγει πληροφορίες απευθείας από Amazon.com, IMDb, z39.50 διακομιστές, PubMed, SRU εξυπηρετητές, CrossRef.org, πολλούς άλλους ιστοτόπους και από εξωτερικά σενάρια</li>
+      <li lang="en-GB">Imports information directly from Amazon.com, IMDb, z39.50 servers, PubMed, SRU servers, CrossRef.org, various other websites, and from external scripts</li>
+      <li lang="es">Importa información directamente de Amazon.com, IMDb, z39.50 servers, PubMed, SRU servers, CrossRef.org, y más sitios web, además de hacerlo desde scripts externos</li>
+      <li lang="et">Teabe importimine otse Amazon.com-ist, IMDb-st, z39.50 serveritest, PubMed-ist, SRU serveritest, CrossRef.org-ist, veel paljudelt veebilehekülgedelt ja väliste skriptide kaudu</li>
+      <li lang="eu">Informazioa inportatzen du zuzenean Amazon.com, IMDb, z39.50 zerbitzari, PubMed, SRU zerbitzari, CrossRef.org, beste webgune batzuetatik, eta kanpoko scriptetatik.</li>
+      <li lang="fi">Tuo tietoa suoraan Amazon.comista, IMDb:stä, z39.50-palvelimilta, PubMedistä, SRU-palvelimilta, CrossRef.orgista, muilta verkkosivuilta ja ulkoisista skripteistä</li>
+      <li lang="fr">Importe les informations directement depuis Amazon.com, IMDb, z39.50, PubMed, SRU, CrossRef.org et de nombreux autres sites web ainsi que depuis des scripts externes</li>
+      <li lang="gl">Importa información directamente de Amazon.com, IMDb, servidores z39.50, PubMed, servidores SRU, CrossRef.org, doutros sitios web, e de scripts externos.</li>
+      <li lang="ia">Il importa information directemente ab Amazon.com, IMDb,  servitores z39.50, PubMed, seritores SRU, CrossRef.org, varie altere sitios web e ab external scripts</li>
+      <li lang="id">Pengimporkan informasi secara langsung dari situs Amazon.com, IMDb, z39.50 servers, PubMed, SRU servers, CrossRef.org, berbagai situs lain, dan dari skrip eksternal</li>
+      <li lang="it">Importa informazioni direttamente da Amazon.com, IMDb, server z39.50, PubMed, server SRU, CrossRef.org, svariati altri siti web, e da script esterni</li>
+      <li lang="ko">Amazon.com, IMDb, z39.50 서버, PubMed, SRU 서버, CrossRef.org, 기타 여러 웹 사이트 및 외부 스크립트에서 직접 정보 가져오기</li>
+      <li lang="nl">Importeert informatie direct uit Amazon.com, IMDb, z39.50-servers, PubMed, SRU-servers, CrossRef.org, verschillende andere websites en uit externe scripts</li>
+      <li lang="nn">Kan henta informasjon frå Amazon.com, IMDb, z39.50-tenarar, PubMed, SRU-tenarar, CrossRef.org, ymse andre nettstadar og eksterne skript</li>
+      <li lang="pl">Importowanie szczegółów bezpośrednio z Amazon.com, IMDb, serwerów z39.50, PubMed, serwerów SRU, CrossRef.org i różnych innych stron sieciowych, a także z zewnętrznych skryptów</li>
+      <li lang="pt">Importa a informação directamente a partir da Amazon.com, IMDb, servidores de z39.50, PubMed, servidores de SRU, CrossRef.org, entre outros serviços, bem como de programas externos</li>
+      <li lang="pt-BR">Importa a informação diretamente a partir da Amazon.com, IMDb, servidores z39.50, PubMed, servidores SRU, CrossRef.org, entre outros serviços, bem como de scripts externos</li>
+      <li lang="ru">Импорт информации напрямую с Amazon.com, IMDb, серверов z39.50, PubMed, серверов SRU, CrossRef.org и других веб-сайтов, а также из внешних сценариев</li>
+      <li lang="sk">Importuje informácie priamo z Amazon.com, IMDb, z39.50 serverov, PubMed, SRU serverov, CrossRef.org, rôznych iných webstránok a z externých skriptov</li>
+      <li lang="sl">Zna uvoziti podatke neposredno iz Amazon.com, IMDb, strežnikov  z39.50, PubMed, strežnikov SRU, CrossRef.org, drugih spletnih strani in zunanjih skript</li>
+      <li lang="sv">Importerar information direkt från Amazon.com, IMDb, z39.50-servrar, PubMed, naSRU-servrar, CrossRef.org, diverse andra webbplatser, och från externa skript</li>
+      <li lang="tr">Bilgileri doğrudan Amazon.com, IMDb, z39.50 sunucuları, PubMed, SRU sunucuları, CrossRef.org ve çeşitli başka sitelerden ve harici betiklerden içe aktarır</li>
+      <li lang="uk">Імпортування даних безпосередньо із серверів Amazon.com, IMDb, z39.50, PubMed, SRU, CrossRef.org, інших сайтів та на основі зовнішніх скриптів.</li>
+      <li lang="x-test">xxImports information directly from Amazon.com, IMDb, z39.50 servers, PubMed, SRU servers, CrossRef.org, various other websites, and from external scriptsxx</li>
+      <li>Imports CDDB data for cataloging audio CDs</li>
+      <li lang="bs">Uvozi CDDB podatke za popisivanje muzičkih CD-ova</li>
+      <li lang="ca">Importa dades CDDB per a la catalogació dels CD d'àudio</li>
+      <li lang="ca-valencia">Importa dades CDDB per a la catalogació dels CD d'àudio</li>
+      <li lang="da">Importerer CDDB-data til katalogisering af lyd-cd'er</li>
+      <li lang="de">Importiert CDDB-Daten für die Katalogisierung von Audi-CDs</li>
+      <li lang="el">Εισάγει CDDB δεδομένα για καταλογογράφηση CD ήχου</li>
+      <li lang="en-GB">Imports CDDB data for cataloguing audio CDs</li>
+      <li lang="es">Importa datos CDDB para catalogar CD de audio</li>
+      <li lang="et">CDDB andmete import audio-CD-de kataloogimiseks</li>
+      <li lang="eu">Audio CDak katalogatzeko CDDB datuak inportatzen ditu</li>
+      <li lang="fi">Tuo ääni-CD:iden luokitteluun tarvittavat CDDB-tiedot</li>
+      <li lang="fr">Importe les données CDDB pour cataloguer les CDs audio</li>
+      <li lang="gl">Importa datos de CDDB para catalogar CD de son.</li>
+      <li lang="ia">Il importa datos de CDDB pro catalogar CDs audio</li>
+      <li lang="id">Pengimporan data CDDB untuk pengkatalogan CD-CD audio</li>
+      <li lang="it">Importa dati CDDB per catalogare cd audio</li>
+      <li lang="ko">오디오 CD 카탈로그를 작성하려고 CDDB 데이터 가져오기</li>
+      <li lang="nl">Importeert CDDB-gegevens voor catalogiseren van audio-cd's</li>
+      <li lang="nn">Kan importera CDDB-data for lyd-CD-ar</li>
+      <li lang="pl">Importowanie danych CDDB do katalogowanie płyt muzycznych</li>
+      <li lang="pt">Importa os dados do CDDB para catalogar os CD's de áudio</li>
+      <li lang="pt-BR">Importa os dados CDDB para catalogar CDs de áudio</li>
+      <li lang="ru">Импорт данных CDDB для каталогизации Audio CD</li>
+      <li lang="sk">Importuje údaje CDDB pre katalogizáciu CD</li>
+      <li lang="sl">Zna uvoziti podatke CDDB za katalogiziranje glasbenih CD-jev</li>
+      <li lang="sv">Importerar CDDB-data för katalogisering av ljud-cd</li>
+      <li lang="tr">CD'leri kataloglamak için CDDB verisini içe aktarır</li>
+      <li lang="uk">Імпортування даних CDDB для каталогізації звукових компакт-дисків.</li>
+      <li lang="x-test">xxImports CDDB data for cataloging audio CDsxx</li>
+      <li>Scans and imports audio file collections, such as mp3 or ogg</li>
+      <li lang="bs">Pretražuje i uvozi kolekcije muzičkih datoteka kao što su mp3 ili ogg</li>
+      <li lang="ca">Explora i importa col·leccions de fitxers d'àudio, com MP3 o OGG</li>
+      <li lang="ca-valencia">Explora i importa col·leccions de fitxers d'àudio, com MP3 o OGG</li>
+      <li lang="da">Scanner og importerer lydfilsamlinger såsom mp3 eller ogg</li>
+      <li lang="de">Durchsucht und importiert Sammlungen von Audio-Dateien wie zum Beispiel mp3 oder ogg</li>
+      <li lang="el">Σαρώνει και εισάγει συλλογές αρχείων ήχου, όπως mp3 ή ogg</li>
+      <li lang="en-GB">Scans and imports audio file collections, such as mp3 or ogg</li>
+      <li lang="es">Escanea e importa colecciones de archivos de audio, como por ejemplo mp3 u ogg</li>
+      <li lang="et">Helifailide (näiteks mp3 või ogg) kogude läbiuurimine ja import</li>
+      <li lang="eu">Miatu eta audio bildumak inportatzen ditu, hala nola mp3 edo ogg</li>
+      <li lang="fi">Etsii ja tuo äänitiedostojen kuten MP3:ten ja Oggien kokoelmia</li>
+      <li lang="fr">Scanne et importe les collections de fichiers audio, tels que les fichiers mp3 ou ogg</li>
+      <li lang="gl">Analiza e importa coleccións de ficheiros de son, como MP3 ou OGG.</li>
+      <li lang="ia">Il scande e importa collectiones de file audio, tal como mp3 o ogg</li>
+      <li lang="id">Pemindaian dan pengimporan koleksi file audio, sepertihalnya mp3 atau ogg</li>
+      <li lang="it">Cerca e importa collezioni di file audio, come mp3 oppure ogg</li>
+      <li lang="ko">MP3 또는 OGG 같은 오디오 파일 소장품 검색 및 가져오기</li>
+      <li lang="nl">Scant en importeert verzamelingen van audio-bestanden, zoals mp3 of ogg</li>
+      <li lang="nn">Søkjer etter og importerer lydfilsamlingar, som MP3 og OGG</li>
+      <li lang="pl">Przeszukiwanie i importowanie zbiorów plików dźwiękowych, takich jak mp3 czy ogg</li>
+      <li lang="pt">Sonda e importa as colecções dos ficheiros de áudio, como MP3's ou OGG's</li>
+      <li lang="pt-BR">Verifica e importa as coleções de arquivos de áudio, como MP3 ou OGG</li>
+      <li lang="ru">Сканирование и импорт коллекций аудиофайлов (например, MP3 или OGG)</li>
+      <li lang="sk">Prehľadá a importuje zbierky audio súborov, ako mp3 alebo ogg</li>
+      <li lang="sl">Zna preiskati in uvoziti zbirke zvočnih datotek kot so mp3 ali ogg</li>
+      <li lang="sv">Söker igenom och importera samlingar av ljudfiler, såsom mp3 eller ogg</li>
+      <li lang="tr">Mp3 ve ogg gibi ses dosyalarını tarar ve içe aktarır</li>
+      <li lang="uk">Сканування та імпортування збірок звукових файлів, зокрема mp3 та ogg.</li>
+      <li lang="x-test">xxScans and imports audio file collections, such as mp3 or oggxx</li>
+    </ul>
+  </description>
+  <url type="homepage">https://tellico-project.org</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=tellico</url>
+  <url type="faq">https://tellico-project.org/faq</url>
+  <url type="help">https://docs.kde.org/?application=tellico</url>
+  <screenshots>
+    <screenshot width="1280" type="default" height="704">
+      <caption>The main window showing a movie collection</caption>
+      <caption lang="ca">La finestra principal mostra una col·lecció de pel·lícules</caption>
+      <caption lang="ca-valencia">La finestra principal mostra una col·lecció de pel·lícules</caption>
+      <caption lang="cs">Hlavní okno zobrazující sbírku filmů</caption>
+      <caption lang="da">Hovedvinduet som viser en filmsamling</caption>
+      <caption lang="de">Das Hauptfenster mit einer Film-Sammlung</caption>
+      <caption lang="el">Το κύριο παράθυρο με μια συλλογή ταινιών</caption>
+      <caption lang="en-GB">The main window showing a movie collection</caption>
+      <caption lang="es">La ventana principal mostrando una colección de películas</caption>
+      <caption lang="et">Peaaken filmikoguga</caption>
+      <caption lang="eu">Leiho nagusia pelikulen bilduma bat erakutsiz</caption>
+      <caption lang="fr">La fenêtre principale, qui affiche une collection de films</caption>
+      <caption lang="ia">Le fenestra principale monstrante un collection de filmes</caption>
+      <caption lang="id">Window utama menampilkan sebuah koleksi filem</caption>
+      <caption lang="it">La finestra principale che mostra una collezione di film</caption>
+      <caption lang="ko">영화 소장품의 간단한 항목을 표시하는 주 창</caption>
+      <caption lang="nl">Het hoofdvenster dat een filmverzameling toont</caption>
+      <caption lang="nn">Hovudvindauget som viser ei filmsamling</caption>
+      <caption lang="pl">Okno główne pokazujące zbiór filmów</caption>
+      <caption lang="pt">A janela principal a mostrar uma colecção de filmes</caption>
+      <caption lang="pt-BR">A janela principal mostrando uma coleção de filmes</caption>
+      <caption lang="ru">Главное окно с коллекцией фильмов</caption>
+      <caption lang="sk">Hlavné okno zobrazujúce kolekciu filmov</caption>
+      <caption lang="sl">Glavno okno, ki prikazuje zbirko filmov</caption>
+      <caption lang="sv">Huvudfönstret som visar en filmsamling</caption>
+      <caption lang="uk">Головне вікно програми зі збіркою фільмів</caption>
+      <caption lang="x-test">xxThe main window showing a movie collectionxx</caption>
+      <image>https://cdn.kde.org/screenshots/tellico/tellico-movies.png</image>
+    </screenshot>
+    <screenshot type="default" width="1002" height="765">
+      <caption>The main window showing a simple item in a book collection</caption>
+      <caption lang="ca">La finestra principal mostra un element senzill en una col·lecció de llibres</caption>
+      <caption lang="ca-valencia">La finestra principal mostra un element senzill en una col·lecció de llibres</caption>
+      <caption lang="da">Hovedvinduet som viser et simpelt element i en bogsamling</caption>
+      <caption lang="de">Das Hauptfenster mit einem einfachen Eintrag einer Bücher-Sammlung</caption>
+      <caption lang="el">Το κύριο παράθυρο με ένα απλό αντικείμενο σε μια συλλογή βιβλίων</caption>
+      <caption lang="en-GB">The main window showing a simple item in a book collection</caption>
+      <caption lang="es">La ventana principal mostrando un elemento sencillo de una colección de libros</caption>
+      <caption lang="et">Peaaken raamatukollektsiooni kirjega</caption>
+      <caption lang="eu">Leiho nagusia liburu bilduma bateko elementu soil bat erakutsiz</caption>
+      <caption lang="fr">La fenêtre principale, qui affiche un élément simple au sein d'une collection de livres</caption>
+      <caption lang="gl">A xanela principal, mostrando un elemento sinxelo nunha colección de libros</caption>
+      <caption lang="ia">Le fenestra principale monstrante un simple elemento in un collection de libros</caption>
+      <caption lang="id">Window utama menampilkan butir sederhana dalam koleksi buku</caption>
+      <caption lang="it">La finestra principale che mostra un semplice elemento in una collezione di libri</caption>
+      <caption lang="ko">도서 소장품의 간단한 항목을 표시하는 주 창</caption>
+      <caption lang="nl">Het hoofdvenster die een eenvoudig item in een boekenverzameling toont</caption>
+      <caption lang="nn">Hovudvindauget som viser ei enkel oppføring i ei boksamling</caption>
+      <caption lang="pl">Okno główne pokazujące prosty element w zbiorze książek</caption>
+      <caption lang="pt">A janela principal a mostrar um único item numa colecção de livros</caption>
+      <caption lang="pt-BR">A janela principal a mostrar um único item em uma coleção de livros</caption>
+      <caption lang="ru">Главное окно с простым элементом из коллекции книг</caption>
+      <caption lang="sk">Hlavné okno zobrazujúce jednoduchú položku v kolekcii kníh</caption>
+      <caption lang="sl">Glavno okno, ki prikazuje preprost predmet v knjižni zbirki</caption>
+      <caption lang="sv">Huvudfönstret som visar ett enkelt objekt i en boksamling</caption>
+      <caption lang="uk">Головне вікно програми із простим записом у збірці книжок</caption>
+      <caption lang="x-test">xxThe main window showing a simple item in a book collectionxx</caption>
+      <image>https://cdn.kde.org/screenshots/tellico/tellico.png</image>
+    </screenshot>
+    <screenshot height="883" width="1396">
+      <caption>The main window showing side-by-side views of a game collection</caption>
+      <caption lang="ca">La finestra principal mostra les vistes, una al costat de l'altra, d'una col·lecció de jocs</caption>
+      <caption lang="ca-valencia">La finestra principal mostra les vistes, una al costat de l'altra, d'una col·lecció de jocs</caption>
+      <caption lang="cs">Hlavní okno zobrazující vedle sebe sbírku her</caption>
+      <caption lang="da">Hovedvinduet som viser side-om-side-visninger af en spilsamling</caption>
+      <caption lang="de">Das Hauptfenster mit einer zweispaltigen Ansicht einer Spiele-Sammlung</caption>
+      <caption lang="el">Το κύριο παράθυρο με κατ' αντιπαράθεση προβολές μιας συλλογής παιχνιδιών</caption>
+      <caption lang="en-GB">The main window showing side-by-side views of a game collection</caption>
+      <caption lang="es">La ventana principal mostrando vistas en paralelo de una colección de juegos</caption>
+      <caption lang="et">Peaaken mängude kõrvutivaatega</caption>
+      <caption lang="eu">Leiho nagusia alboz-albo joko bilduma baten ikuspegiak erakutsiz</caption>
+      <caption lang="fr">La fenêtre principale, qui affiche des vues côte-à-côte d'une collection de jeux</caption>
+      <caption lang="gl">A xanela principal mostrando as vistas lado a lado dunha colección de xogos</caption>
+      <caption lang="ia">Le fenestra principale monstrante vistas flancate de un collection de joco</caption>
+      <caption lang="id">Window utama menampilkan tampilan sisi ke sisi dari sebuah koleksi permainan</caption>
+      <caption lang="it">La finestra principale che mostra le viste affiancate di una collezione di libri</caption>
+      <caption lang="ko">게임 소장품을 나란히 표시하는 주 창</caption>
+      <caption lang="nl">Het hoofdvenster die een spellenverzameling naast elkaar toont</caption>
+      <caption lang="nn">Hovudvindauget som viser side-ved-side-visingaar av ei spelsamling</caption>
+      <caption lang="pl">Okno główne pokazujące widoki zbioru gier obok siebie</caption>
+      <caption lang="pt">A janela principal a mostrar vistas lado-a-lado de uma colecção de jogos</caption>
+      <caption lang="pt-BR">A janela principal mostrando visões lado a lado de uma coleção de jogos</caption>
+      <caption lang="ru">Главное окно с параллельным представлением коллекции игр</caption>
+      <caption lang="sk">Hlavné okno zobrazujúce pohľady vedľa seba kolekcie hier</caption>
+      <caption lang="sl">Glavno okno, ki prikazuje dva vzporedna pogleda zbirke iger</caption>
+      <caption lang="sv">Huvudfönstret som visar en spelsamling med visning sida vid sida</caption>
+      <caption lang="uk">Головне вікно програми із панелями паралельного перегляду збірки ігор</caption>
+      <caption lang="x-test">xxThe main window showing side-by-side views of a game collectionxx</caption>
+      <image>https://cdn.kde.org/screenshots/tellico/tellico-games.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>tellico</binary>
+  </provides>
+  <releases>
+    <release date="2021-05-09" version="3.4.1">
+      <url>https://tellico-project.org/tellico-3-4-1-released</url>
+    </release>
+    <release date="2021-03-14" version="3.4">
+      <url>https://tellico-project.org/tellico-3-4-released</url>
+    </release>
+    <release version="3.3.5" date="2021-02-23">
+      <url>https://tellico-project.org/tellico-3-3-5-released</url>
+    </release>
+    <release date="2020-11-25" version="3.3.4">
+      <url>https://tellico-project.org/tellico-3-3-4-released</url>
+    </release>
+    <release version="3.3.3" date="2020-09-13">
+      <url>https://tellico-project.org/tellico-3-3-3-released</url>
+    </release>
+    <release date="2020-08-07" version="3.3.2">
+      <url>https://tellico-project.org/tellico-3-3-2-released</url>
+    </release>
+    <release version="3.3.1" date="2020-05-31">
+      <url>https://tellico-project.org/tellico-3-3-1-released</url>
+    </release>
+    <release version="3.3" date="2020-04-20">
+      <url>https://tellico-project.org/tellico-3-3-released</url>
+    </release>
+  </releases>
+</component>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <pkgname>libsForQt5.skanpage</pkgname>
+  <launchable type="desktop-id">org.kde.skanpage.desktop</launchable>
+  <icon height="64" type="cached" width="64">skanpage.png</icon>
+  <icon height="128" width="128" type="cached">skanpage.png</icon>
+  <id>org.kde.skanpage.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Skanpage</name>
+  <name lang="ar">ماسح الصفحات</name>
+  <name lang="ca">Skanpage</name>
+  <name lang="ca-valencia">Skanpage</name>
+  <name lang="cs">Skanpage</name>
+  <name lang="de">Skanpage</name>
+  <name lang="el">Skanpage</name>
+  <name lang="en-GB">Skanpage</name>
+  <name lang="es">Skanpage</name>
+  <name lang="fi">Skanpage</name>
+  <name lang="fr">Skanpage</name>
+  <name lang="ia">Skanpage</name>
+  <name lang="id">Skanpage</name>
+  <name lang="it">Skanpage</name>
+  <name lang="ko">Skanpage</name>
+  <name lang="nl">Skanpage</name>
+  <name lang="nn">Skanpage</name>
+  <name lang="pl">Skanpage</name>
+  <name lang="pt">Skanpage</name>
+  <name lang="pt-BR">Skanpage</name>
+  <name lang="sk">Skanpage</name>
+  <name lang="sl">Skanpage</name>
+  <name lang="sv">Skanpage</name>
+  <name lang="uk">Skanpage</name>
+  <name lang="x-test">xxSkanpagexx</name>
+  <name lang="zh-CN">Skanpage 扫描工具</name>
+  <summary>Simple, multi-page scanning application</summary>
+  <summary lang="ar">تطبيق لمسح المستندات متعددة الصفحات ضوئيًّا</summary>
+  <summary lang="ca">Aplicació senzilla d'escaneig multipàgina</summary>
+  <summary lang="ca-valencia">Aplicació senzilla d'escaneig multipàgina</summary>
+  <summary lang="de">Anwendung zum Scannen von mehreren Seiten</summary>
+  <summary lang="el">Απλή εφαρμογή πολυσέλιδης σάρωσης</summary>
+  <summary lang="en-GB">Simple, multi-page scanning application</summary>
+  <summary lang="es">Sencilla aplicación para escanear múltiples páginas</summary>
+  <summary lang="fi">Yksinkertainen monta sivua lukeva kuvanlukusovellus</summary>
+  <summary lang="fr">Une application simple et multi-page de numérisation</summary>
+  <summary lang="ia">Simple application pro scander multi-paginas</summary>
+  <summary lang="id">Aplikasi pemindaian multi halaman yang sederhana</summary>
+  <summary lang="it">Semplice applicazione per scansioni multipagina</summary>
+  <summary lang="ko">간단한 여러 쪽 스캔 프로그램</summary>
+  <summary lang="nl">Eenvoudig scanprogramma voor meerdere pagina's</summary>
+  <summary lang="pl">Prosty program do wielostronicowego skanowania</summary>
+  <summary lang="pt">Aplicação de digitalização multi-páginas simples</summary>
+  <summary lang="pt-BR">Aplicativo simples de digitalização de múltiplas páginas</summary>
+  <summary lang="sk">Jednoduchá viacstranová skenovania aplikácia</summary>
+  <summary lang="sl">Enostavna aplikacija za optično branje več strani</summary>
+  <summary lang="sv">Enkelt bildinläsningsprogram för flera sidor</summary>
+  <summary lang="uk">Проста програма для сканування сторінок</summary>
+  <summary lang="x-test">xxSimple, multi-page scanning applicationxx</summary>
+  <summary lang="zh-CN">简易多页扫描应用程序</summary>
+  <description>
+    <p>Skanpage is a simple scanning application designed for multi-page scanning and saving of documents and images.</p>
+    <p lang="ar">ماسح الصفحات تطبيق مسح ضوئي بسيط مصمم لإجراء مسح ضوئي متعدد الصفحات وحفظ الصور والمستندات.</p>
+    <p lang="ca">L'Skanpage és una aplicació d'escaneig dissenyada per a l'escaneig multipàgina i per al desament de documents i imatges.</p>
+    <p lang="ca-valencia">L'Skanpage és una aplicació d'escaneig dissenyada per a l'escaneig multipàgina i per al guardada de documents i imatges.</p>
+    <p lang="el">Το Skanpage Μια απλή εφαρμογή σάρωσης σχεδιασμένη για σάρωση πολλών σελίδων και αποθήκευση των εγγράφων και των εικόνων.</p>
+    <p lang="en-GB">Skanpage is a simple scanning application designed for multi-page scanning and saving of documents and images.</p>
+    <p lang="es">Skanpage es una aplicación de escaneo sencilla diseñada para escanear múltiples páginas y guardarlas como documentos e imágenes.</p>
+    <p lang="fi">Skanpage on yksinkertainen monisivuisten tiedostojen ja kuvien lukemiseen ja tallentamiseen suunniteltu kuvanlukusovellus.</p>
+    <p lang="fr">Skanpage est une application simple de numérisation conçue pour la numérisation sur plusieurs pages et l'enregistrement de documents et d'images.</p>
+    <p lang="ia">Skanpage es un simple application de scadner designate per scander  multi-paginas e salveguardar documentos e imagines.</p>
+    <p lang="id">Skanpage adalah aplikasi pemindaian yang sederhana didesain untuk pemindaian multi-halaman dan penyimpanan dokumen dan citra.</p>
+    <p lang="it">Skanpage è una semplice applicazione per scansionare progettata per scansioni multi-pagina e per il salvataggio di documenti e di immagini.</p>
+    <p lang="ko">Skanpage는 여러 쪽 스캔과 문서 및 그림 저장이 가능한 간단한 스캔 프로그램입니다.</p>
+    <p lang="nl">Skanpage is een eenvoudig scanprogramma ontworpen voor scannen van meerdere pagina's en opslaan van documenten en afbeeldingen.</p>
+    <p lang="pl">Skanpage jest prostym programem opracowany do wielostronicowego skanowania i zapisywania dokumentów i obrazów.</p>
+    <p lang="pt">Uma aplicação de digitalização simples que está desenhada para a digitalização e gravação de várias páginas e na gravação dos documentos e imagens.</p>
+    <p lang="pt-BR">Skanpage é um aplicativo simples de digitalização desenhado para digitalizar múltiplas páginas e salvar documentos e imagens.</p>
+    <p lang="sk">Skanpage je jednoduchá skenovacia aplikácia určená na viacstránkové skenovanie a ukladanie dokumentov a obrázkov.</p>
+    <p lang="sl">Preprosta aplikacija za optično branje več strani in shranjevanje dokumentov in slik.</p>
+    <p lang="sv">Skanpage är ett enkelt program för bildinläsning konstruerat för inläsning av flera sidor och för att spara dokument och bilder.</p>
+    <p lang="uk">Skanpage — проста програма для сканування, яку розроблено для сканування багато сторінкових документів і збереження документів та зображень.</p>
+    <p lang="x-test">xxSkanpage is a simple scanning application designed for multi-page scanning and saving of documents and images.xx</p>
+    <p lang="zh-CN">Skanpage 是一款简易扫描应用程序，可以进行多页扫描并保存文档和图像。</p>
+    <p>Features:</p>
+    <p lang="ar">الميزات:</p>
+    <p lang="ca">Característiques:</p>
+    <p lang="ca-valencia">Característiques:</p>
+    <p lang="cs">Vlastnosti:</p>
+    <p lang="el">Χαρακτηριστικά:</p>
+    <p lang="en-GB">Features:</p>
+    <p lang="es">Funcionalidades:</p>
+    <p lang="fi">Ominaisuuksia:</p>
+    <p lang="fr">Fonctionnalités :</p>
+    <p lang="ia">Characteristicas:</p>
+    <p lang="id">Fitur:</p>
+    <p lang="it">Funzionalità:</p>
+    <p lang="ko">기능:</p>
+    <p lang="nl">Mogelijkheden:</p>
+    <p lang="pl">Możliwości:</p>
+    <p lang="pt">Funcionalidades:</p>
+    <p lang="pt-BR">Funcionalidades:</p>
+    <p lang="sk">Funkcie:</p>
+    <p lang="sl">Možnosti:</p>
+    <p lang="sv">Funktioner:</p>
+    <p lang="uk">Можливості:</p>
+    <p lang="x-test">xxFeatures:xx</p>
+    <p lang="zh-CN">程序功能：</p>
+    <ul>
+      <li>Scanning from flatbed and ADF scanners</li>
+      <li lang="ar">المسح الضوئي من الماسحات الضوئية المسطحة ووحدة تغذية المستندات التلقائية</li>
+      <li lang="ca">Escaneig amb escàners de superfície plana i ADF</li>
+      <li lang="ca-valencia">Escaneig amb escàners de superfície plana i ADF</li>
+      <li lang="el">Σάρωση από επίπεδους και ADF σαρωτές</li>
+      <li lang="en-GB">Scanning from flatbed and ADF scanners</li>
+      <li lang="es">Escanear mediante escáneres de cama plana y con alimentador automático de documentos</li>
+      <li lang="fi">Kuvanluku taso- ja ADF-skannereilta</li>
+      <li lang="fr">Numérisation à partir de périphériques de numérisation à plat ou « ADF ».</li>
+      <li lang="ia">Scander ex scanners  flatbed (i.e. le plan) e ADF</li>
+      <li lang="id">Pemindaian dari pemindai flatbed dan ADF</li>
+      <li lang="it">Scansione dagli scanner piani e ADF</li>
+      <li lang="ko">평판 및 ADF 스캐너에서 스캔</li>
+      <li lang="nl">Scannen uit flatbed en ADF scanners</li>
+      <li lang="pl">Skanowanie na skanerach płaskich oraz ADF</li>
+      <li lang="pt">Digitalização de 'scanners' planos e ADF</li>
+      <li lang="pt-BR">Digitalização a partir de scanners de mesa e com alimentador automático</li>
+      <li lang="sk">Skenovanie z plochých skenerov a ADF skenerov</li>
+      <li lang="sl">Optično branje z namiznih in bralnikov s podajalniki listov</li>
+      <li lang="sv">Inläsning från flatbädds- och ADF-bildläsare</li>
+      <li lang="uk">Сканування з планшетних сканерів та сканерів із автоматичною подачею документів</li>
+      <li lang="x-test">xxScanning from flatbed and ADF scannersxx</li>
+      <li lang="zh-CN">支持平板式扫描仪和自动送纸器扫描仪</li>
+      <li>Configurable options for scanning device</li>
+      <li lang="ar">خيارات قابلة للضبط لمسح الجهاز</li>
+      <li lang="ca">Opcions configurables per al dispositiu d'escaneig</li>
+      <li lang="ca-valencia">Opcions configurables per al dispositiu d'escaneig</li>
+      <li lang="cs">Nastavitelné volby skenovacího zařízení</li>
+      <li lang="el">Διαμορφώσιμες επιλογές για τη συσκευή σάρωσης</li>
+      <li lang="en-GB">Configurable options for scanning device</li>
+      <li lang="es">Opciones configurables para el dispositivo de escaneo</li>
+      <li lang="fi">Kuvanlukulaitteiden mukautettavat asetukset</li>
+      <li lang="fr">Options configurables pour un périphérique de numérisation</li>
+      <li lang="ia">Optiones configurabile per dispositivos de scander</li>
+      <li lang="id">Opsi yang dapat dikonfigurasikan untuk perangkat pemindai</li>
+      <li lang="it">Opzioni configurabili per gli scanner</li>
+      <li lang="ko">스캔 장치 설정</li>
+      <li lang="nl">Te configureren opties voor scanapparaat</li>
+      <li lang="pl">Możliwość zmiany ustawień urządzenia skanującego</li>
+      <li lang="pt">Opções configuráveis do dispositivo de digitalização</li>
+      <li lang="pt-BR">Opções configuráveis para o dispositivo de digitalização</li>
+      <li lang="sk">Nastaviteľné možnosti pre skenovacie zariadenie</li>
+      <li lang="sl">Nastavljanje možnosti za bralno napravo</li>
+      <li lang="sv">Anpassningsbara alternativ för bildläsarenhet</li>
+      <li lang="uk">Можливість налаштовування параметрів сканування</li>
+      <li lang="x-test">xxConfigurable options for scanning devicexx</li>
+      <li lang="zh-CN">支持配置扫描设备的选项</li>
+      <li>Reordering, rotation and deletion of scanned pages</li>
+      <li lang="ar">إعادة ترتيب وتدوير وحذف الصفحات الممسوحة ضوئيًا</li>
+      <li lang="ca">Reordenació, gir i supressió de pàgines escanejades</li>
+      <li lang="ca-valencia">Reordenació, gir i supressió de pàgines escanejades</li>
+      <li lang="el">Αναδιάταξη, περιστροφή και διαγραφή των σαρωμένων εικόνων</li>
+      <li lang="en-GB">Reordering, rotation and deletion of scanned pages</li>
+      <li lang="es">Reordenar, rotar y borrar páginas escaneadas</li>
+      <li lang="fi">Luettujen sivujen järjestäminen, kiertäminen ja poistaminen</li>
+      <li lang="fr">Tri, rotation et suppression des pages numérisées.</li>
+      <li lang="ia">Reordinar, rotation  e deletion de paginas scandite</li>
+      <li lang="id">Pengurutan ulang, pemutaran dan penghapusan halaman-halaman yang telah dipindai</li>
+      <li lang="it">Riordinamento, rotazione ed eliminazione delle pagine scansionate</li>
+      <li lang="ko">스캔한 페이지 순서 조정, 회전, 삭제</li>
+      <li lang="nl">Opnieuw ordenen, draaien en verwijderen van gescande pagina's</li>
+      <li lang="pl">Zmiana kolejności, obrót i usuwanie zeskanowanych stron</li>
+      <li lang="pt">Reordenação, rotação e remoção das páginas digitalizadas</li>
+      <li lang="pt-BR">Reordenar, rotação e exclusão de páginas digitalizadas</li>
+      <li lang="sk">Zmena poradia, otočenie a vymazanie naskenovaných strán</li>
+      <li lang="sl">Zamenjava vrstnega reda, vrtenje in brisanje prebranih strani</li>
+      <li lang="sv">Omordning, rotation och borttagning av inlästa sidor</li>
+      <li lang="uk">Переупорядковування, обертання та вилучення сканованих сторінок</li>
+      <li lang="x-test">xxReordering, rotation and deletion of scanned pagesxx</li>
+      <li lang="zh-CN">对已扫描的页面进行重新排序、旋转和删除</li>
+      <li>Saving to multi-page PDF documents and image files</li>
+      <li lang="ar">الحفظ في مستندات بي دي اف متعددة الصفحات وملفات صور</li>
+      <li lang="ca">Desament en documents PDF multipàgina i fitxers d'imatge</li>
+      <li lang="ca-valencia">Guardada en documents PDF multipàgina i fitxers d'imatge</li>
+      <li lang="cs">Ukládání do vícestránkových souborů PDF a souborů obrázků</li>
+      <li lang="el">Αποθήκευση σε πολυσέλιδα PDF έγγραφα και σε αρχεία εικόνων</li>
+      <li lang="en-GB">Saving to multi-page PDF documents and image files</li>
+      <li lang="es">Guardar en documentos PDF multipágina y en archivos de imagen</li>
+      <li lang="fi">Useampisivuisten PDF- ja kuvatiedostojen tallennus</li>
+      <li lang="fr">Enregistrement de documents « PDF » sur plusieurs pages et de fichiers d'image.</li>
+      <li lang="ia">Salveguardar a files de images e documentos PDF multi-pagina</li>
+      <li lang="id">Penyimpanan ke dokumen PDF multi-halaman dan file citra</li>
+      <li lang="it">Salvataggio in documenti PDF multi-pagine e in file d'immagine</li>
+      <li lang="ko">여러 쪽 PDF 문서 및 그림 파일로 저장</li>
+      <li lang="nl">Opslaan in multi-pagina PDF-documenten en afbeeldingsbestanden</li>
+      <li lang="pl">Zapisywanie wielostronicowych dokumentów PDF i plików obrazów</li>
+      <li lang="pt">Gravação multi-páginas em documentos PDF e ficheiros de imagem</li>
+      <li lang="pt-BR">Salvar em documentos PDF de várias páginas e arquivos de imagem</li>
+      <li lang="sk">Ukladanie do viacstranových dokumentov PDF a obrazových súborov</li>
+      <li lang="sl">Shranjevanje v večstranske dokumente PDF in slikovne datoteke</li>
+      <li lang="sv">Spara PDF-dokument med flera sidor och bildfiler</li>
+      <li lang="uk">Збереження багатосторінкових документів PDF та файлів зображень</li>
+      <li lang="x-test">xxSaving to multi-page PDF documents and image filesxx</li>
+      <li lang="zh-CN">保存为多页 PDF 文档和图像文件</li>
+    </ul>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://cdn.kde.org/screenshots/skanpage/skanpage.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?product=skanpage</url>
+  <provides>
+    <binary>skanpage</binary>
+  </provides>
+  <project_group>KDE</project_group>
+  <releases>
+    <release version="22.04.3" date="2022-07-07" />
+    <release date="2022-06-09" version="22.04.2" />
+    <release date="2022-05-12" version="22.04.1" />
+    <release date="2022-04-21" version="22.04.0" />
+  </releases>
+  <content_rating type="oars-1.1" />
+</component>

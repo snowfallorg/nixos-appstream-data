@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>libsForQt5.kdeplasma-addons</pkgname>
+  <id>org.kde.plasma.calculator</id>
+  <extends>org.kde.plasmashell</extends>
+  <name>Calculator</name>
+  <name lang="ar">آلة حاسبة</name>
+  <name lang="az">Kalkulyator</name>
+  <name lang="bg">Калкулатор</name>
+  <name lang="ca@valencia">Calculadora</name>
+  <name lang="ca">Calculadora</name>
+  <name lang="cs">Kalkulačka</name>
+  <name lang="de">Rechner</name>
+  <name lang="en_GB">Calculator</name>
+  <name lang="es">Calculadora</name>
+  <name lang="eu">Kalkulagailua</name>
+  <name lang="fi">Laskin</name>
+  <name lang="fr">Calculatrice</name>
+  <name lang="ia">Calculator</name>
+  <name lang="id">Kalkulator</name>
+  <name lang="it">Calcolatrice</name>
+  <name lang="ja">計算機</name>
+  <name lang="ko">계산기</name>
+  <name lang="lt">Skaičiuotuvas</name>
+  <name lang="nl">Rekenmachine</name>
+  <name lang="nn">Kalkulator</name>
+  <name lang="pl">Kalkulator</name>
+  <name lang="pt">Calculadora</name>
+  <name lang="pt_BR">Calculadora</name>
+  <name lang="ro">Calculator</name>
+  <name lang="ru">Калькулятор</name>
+  <name lang="sk">Kalkulačka</name>
+  <name lang="sl">Kalkulator</name>
+  <name lang="sv">Räknare</name>
+  <name lang="tr">Hesap Makinesi</name>
+  <name lang="uk">Калькулятор</name>
+  <name lang="vi">Máy tính bỏ túi</name>
+  <name lang="x-test">xxCalculatorxx</name>
+  <name lang="zh_CN">计算器</name>
+  <summary>Calculate simple sums</summary>
+  <summary lang="ar">احسب عمليات جمع بسيطة</summary>
+  <summary lang="az">Sadə hesablama</summary>
+  <summary lang="bg">Изчисляване на прости суми</summary>
+  <summary lang="ca@valencia">Calcula sumes senzilles</summary>
+  <summary lang="ca">Calcula sumes senzilles</summary>
+  <summary lang="cs">Jednoduché sčítání</summary>
+  <summary lang="de">Für kleine Rechenaufgaben</summary>
+  <summary lang="en_GB">Calculate simple sums</summary>
+  <summary lang="es">Calcular sumas sencillas</summary>
+  <summary lang="eu">Gehiketa errazak kalkulatzea</summary>
+  <summary lang="fi">Laske yksinkertaisia summia</summary>
+  <summary lang="fr">Calculer de simples sommes</summary>
+  <summary lang="ia">Calcula simple summas</summary>
+  <summary lang="id">Hitung penjumlahan sederhana</summary>
+  <summary lang="it">Calcola semplici somme</summary>
+  <summary lang="ja">簡単な計算ができます</summary>
+  <summary lang="ko">간단한 계산기</summary>
+  <summary lang="lt">Paprasti skaičiavimai</summary>
+  <summary lang="nl">Eenvoudige berekeningen</summary>
+  <summary lang="nn">Grafisk kalkulator</summary>
+  <summary lang="pl">Oblicza proste sumy</summary>
+  <summary lang="pt">Calcular somas simples</summary>
+  <summary lang="pt_BR">Calcula funções matemáticas básicas</summary>
+  <summary lang="ro">Calculează sume simple</summary>
+  <summary lang="ru">Вычисление простых выражений</summary>
+  <summary lang="sk">Počítajte jednoduché sumy</summary>
+  <summary lang="sl">Izračunaj enostavne vsote</summary>
+  <summary lang="sv">Beräkna enkla summor</summary>
+  <summary lang="tr">Yalın toplamları hesapla</summary>
+  <summary lang="uk">Обчисліть прості суми</summary>
+  <summary lang="vi">Tính các phép tính đơn giản</summary>
+  <summary lang="x-test">xxCalculate simple sumsxx</summary>
+  <summary lang="zh_CN">简单求和计算</summary>
+  <url type="homepage">https://kde.org/plasma-desktop/</url>
+  <url type="donation">https://www.kde.org/donate.php?app=org.kde.plasma.calculator</url>
+  <developer_name>Henry Stanaland, Davide Bettio &lt;stanaland@gmail.com, bettio@kde.org></developer_name>
+  <icon type="stock">accessories-calculator</icon>
+  <project_license>GPL-2.0+</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+</component>

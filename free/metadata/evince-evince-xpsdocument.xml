@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>evince</pkgname>
+  <id>evince-xpsdocument</id>
+  <extends>org.gnome.Evince</extends>
+  <name>XPS Documents</name>
+  <name lang="zh_TW">XPS 文件</name>
+  <name lang="zh_HK">XPS 文件</name>
+  <name lang="zh_CN">XPS 文档</name>
+  <name lang="vi">Tài liệu XPS</name>
+  <name lang="uk">Документи XPS</name>
+  <name lang="ug">XPS پۈتۈكلىرى</name>
+  <name lang="tr">XPS Belgeleri</name>
+  <name lang="th">เอกสาร XPS</name>
+  <name lang="tg">Ҳуҷҷатҳои XPS </name>
+  <name lang="te">XPS పత్రములు</name>
+  <name lang="ta">XPS ஆவணங்கள்</name>
+  <name lang="sv">XPS-dokument</name>
+  <name lang="sr@latin">IksPS dokumenti</name>
+  <name lang="sr">ИксПС документи</name>
+  <name lang="sl">Dokumenti XPS</name>
+  <name lang="sk">Dokumenty typu XPS</name>
+  <name lang="ru">Документы формата XPS</name>
+  <name lang="ro">Documente XPS</name>
+  <name lang="pt_BR">Documentos XPS</name>
+  <name lang="pt">Documentos XPS</name>
+  <name lang="pl">Dokumenty XPS</name>
+  <name lang="pa">XPS ਦਸਤਾਵੇਜ਼</name>
+  <name lang="or">XPS ଦଲିଲଗୁଡ଼ିକ</name>
+  <name lang="oc">Documents XPS</name>
+  <name lang="nl">XPS-documenten</name>
+  <name lang="ne">XPS कागजात</name>
+  <name lang="nb">XPS-dokumenter</name>
+  <name lang="ms">Dokumen-dokumen XPS</name>
+  <name lang="mr">XPS दस्तऐवज</name>
+  <name lang="ml">XPS രേഖകള്‍</name>
+  <name lang="mjw">XPS Documents</name>
+  <name lang="lv">XPS dokumenti</name>
+  <name lang="lt">XPS dokumentai</name>
+  <name lang="ko">XPS 문서</name>
+  <name lang="kn">XPS ದಸ್ತಾವೇಜುಗಳು</name>
+  <name lang="km">ឯកសារ XPS</name>
+  <name lang="kk">XPS құжаттары</name>
+  <name lang="ja">XPS ドキュメント</name>
+  <name lang="it">Documenti XPS</name>
+  <name lang="is">XPS skjöl</name>
+  <name lang="id">Dokumen XPS</name>
+  <name lang="hu">XPS-dokumentumok</name>
+  <name lang="hr">XPS dokumenti</name>
+  <name lang="hi">एक्सपीएस दस्तावेज़</name>
+  <name lang="he">מסמכי XPS</name>
+  <name lang="gu">XPS દસ્તાવેજો</name>
+  <name lang="gl">Documentos XPS</name>
+  <name lang="gd">Sgrìobhainnean XPS</name>
+  <name lang="ga">Cáipéisí XPS</name>
+  <name lang="fur">Documents XPS</name>
+  <name lang="fr">Documents XPS</name>
+  <name lang="fi">XPS-asiakirjat</name>
+  <name lang="fa">سندهای XPS</name>
+  <name lang="eu">XPS dokumentuak</name>
+  <name lang="et">XPS-dokumendid</name>
+  <name lang="es">Documentos XPS</name>
+  <name lang="eo">XPS-dokumentoj</name>
+  <name lang="en_GB">XPS Documents</name>
+  <name lang="el">Έγγραφα XPS</name>
+  <name lang="de">XPS-Dokumente</name>
+  <name lang="da">XPS-dokumenter</name>
+  <name lang="cs">Dokumenty XPS</name>
+  <name lang="ca@valencia">Documents XPS</name>
+  <name lang="ca">Documents XPS</name>
+  <name lang="bs">XPS dokumentu</name>
+  <name lang="bn_IN">XPS ডকুমেন্ট</name>
+  <name lang="bg">Документи XPS</name>
+  <name lang="be">XPS-дакументы</name>
+  <name lang="as">XPS দস্তাবেজসমূহ</name>
+  <name lang="ar">مستندات XPS</name>
+  <name lang="an">Documentos XPS</name>
+  <name lang="af">XPS-dokumente</name>
+  <summary>Adds support for reading XPS documents</summary>
+  <summary lang="zh_TW">加入讀取 XPS 文件的支援</summary>
+  <summary lang="zh_HK">加入讀取 XPS 文件的支援</summary>
+  <summary lang="zh_CN">增加支持阅读 XPS 文档的功能</summary>
+  <summary lang="vi">Thêm hỗ trợ đọc các tài liệu dạng XPS</summary>
+  <summary lang="uk">Додає підтримування читання документів XPS</summary>
+  <summary lang="tr">XPS belgelerini görüntüleme desteği ekler</summary>
+  <summary lang="th">เพิ่มการรองรับการอ่านเอกสาร XPS</summary>
+  <summary lang="tg">Барои хониши ҳуҷҷатҳои XPS дастгириро илова мекунад</summary>
+  <summary lang="te">XPS పత్రములు చదువుటకు తోడ్పాటు జతచేయును</summary>
+  <summary lang="ta">XPS ஆவணங்களைப் படிப்பதற்கான ஆதரவைச் சேர்க்கிறது</summary>
+  <summary lang="sv">Lägger till stöd för att läsa XPS-dokument</summary>
+  <summary lang="sr@latin">Dodajte podršku za čitanje IksPS dokumenata</summary>
+  <summary lang="sr">Додајте подршку за читање ИксПС докумената</summary>
+  <summary lang="sl">Doda podporo za branje datotek XPS</summary>
+  <summary lang="sk">Pridá podporu na čítanie dokumentov typu XPS</summary>
+  <summary lang="ru">Добавляет поддержку для чтения документов в формате XPS</summary>
+  <summary lang="ro">Adaugă suport pentru citirea documentelor XPS</summary>
+  <summary lang="pt_BR">Adiciona suporte para leitura de documentos XPS</summary>
+  <summary lang="pt">Adiciona suporte para ler documentos XPS</summary>
+  <summary lang="pl">Dodaje obsługę dokumentów w formacie XPS</summary>
+  <summary lang="pa">XPS ਦਸਤਾਵੇਜ਼ ਪੜ੍ਹਨ ਲਈ ਸਹਾਇਤਾ ਜੋੜਦੀ ਹੈ</summary>
+  <summary lang="oc">Apond la presa en carga de la lectura dels documents XPS</summary>
+  <summary lang="nl">Voegt ondersteuning toe voor het lezen van XPS-documenten</summary>
+  <summary lang="ne">XPS कागजात पढ्न समर्थन थप्नुहोस्</summary>
+  <summary lang="nb">Legger til støtte for å lese XPS-dokumenter</summary>
+  <summary lang="ms">Tambah sokongan untuk pembacaan dokumen XPS</summary>
+  <summary lang="mr">XPS दस्तऐवज वाचण्याकरिता समर्थन समाविष्ट करते</summary>
+  <summary lang="lv">Pievieno atbalstu XPS dokumentu lasīšanai</summary>
+  <summary lang="lt">Prideda XPS dokumentų palaikymą</summary>
+  <summary lang="ko">XPS 문서를 읽는 기능을 추가합니다</summary>
+  <summary lang="kn">XPS ದಸ್ತಾವೇಜುಗಳನ್ನು ಓದುವುದಕ್ಕಾಗಿ ಬೆಂಬಲವನ್ನು ಸೇರಿಸುತ್ತದೆ</summary>
+  <summary lang="kk">XPS құжаттарын оқу мүмкіндігін қосады</summary>
+  <summary lang="ja">XPS ドキュメントの読み取りサポートを追加する</summary>
+  <summary lang="it">Aggiunge il supporto per la lettura dei documenti XPS</summary>
+  <summary lang="is">Bætir við stuðningi til lestrar á XPS skjölum</summary>
+  <summary lang="id">Menambahkan dukungan untuk membaca dokumen XPS</summary>
+  <summary lang="hu">Támogatást nyújt XPS dokumentumok olvasásához</summary>
+  <summary lang="hr">Dodaje podršku za čitanje XPS dokumenata</summary>
+  <summary lang="hi">XPS दस्तावेज़ पढ़ने के लिए समर्थन देता है</summary>
+  <summary lang="he">הוספת תמיכה לקריאת מסמכי XPS</summary>
+  <summary lang="gu">XPS દસ્તાવેજોને વાંચવા માટે આધારને ઉમેરે છે</summary>
+  <summary lang="gl">Engade compatibilidade para ler documentos XPS</summary>
+  <summary lang="gd">Cuiridh seo taic gus sgrìobhainnean XPS a leughadh ris</summary>
+  <summary lang="fur">Al zonte il supuart par lei i documents XPS</summary>
+  <summary lang="fr">Ajoute la prise en charge de la lecture des documents XPS</summary>
+  <summary lang="fi">Lisää tuen XPS-asiakirjojen lukemiselle</summary>
+  <summary lang="fa">پشتیبانی از خواندن سندهای XPS را اضافه می‌کند</summary>
+  <summary lang="eu">XPS dokumentuak irakurtzeko euskarria gehitzen du</summary>
+  <summary lang="es">Añade soporte para leer documentos XPS</summary>
+  <summary lang="eo">Aldonas subtenon por legi XPS-dokumentojn</summary>
+  <summary lang="en_GB">Adds support for reading XPS documents</summary>
+  <summary lang="el">Προσθέτει υποστήριξη για την ανάγνωση εγγράφων XPS</summary>
+  <summary lang="de">Fügt Unterstützung für das Lesen von XPS-Dokumenten hinzu</summary>
+  <summary lang="da">Tilføjer understøttelse af XPS-dokumenter</summary>
+  <summary lang="cs">Přidává podporu pro čtení dokumentů XPS</summary>
+  <summary lang="ca@valencia">Permet la lectura de documents XPS</summary>
+  <summary lang="ca">Permet la lectura de documents XPS</summary>
+  <summary lang="bs">Dodaje podršku za čitanje XPS dokumenata</summary>
+  <summary lang="bn_IN">XPS নথিপত্র পড়ার জন্য সহায়তা যোগ করে</summary>
+  <summary lang="bg">Добавя поддръжка за четене на документи XPS</summary>
+  <summary lang="be">Дадае падтрымку прагляду XPS дакументаў</summary>
+  <summary lang="as">XPS দস্তাবেজসমূহ পঢ়াৰ সমৰ্থন যোগ কৰিছে</summary>
+  <summary lang="an">Anyade capacidat ta leyer documentos XPS</summary>
+  <mimetypes>
+    <mimetype>application/oxps</mimetype>
+    <mimetype>application/vnd.ms-xpsdocument</mimetype>
+  </mimetypes>
+  <kudos>
+    <kudo>ModernToolkit</kudo>
+  </kudos>
+  <url type="homepage">https://wiki.gnome.org/Apps/Evince/SupportedDocumentFormats</url>
+  <metadata_license>GPL-2.0+ or GFDL-1.3-only</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <update_contact>evince-list@gnome.org</update_contact>
+</component>

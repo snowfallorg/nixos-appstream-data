@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>libsForQt5.plasma-nm</pkgname>
+  <launchable type="desktop-id">kcm_networkmanagement.desktop</launchable>
+  <id>org.kde.plasma.networkmanagement</id>
+  <extends>org.kde.plasmashell</extends>
+  <name>Networks</name>
+  <name lang="ar">الشّبكات</name>
+  <name lang="ast">Redes</name>
+  <name lang="az">Şəbəkələr</name>
+  <name lang="bg">Мрежи</name>
+  <name lang="bs">Mreže</name>
+  <name lang="ca@valencia">Xarxes</name>
+  <name lang="ca">Xarxes</name>
+  <name lang="cs">Sítě</name>
+  <name lang="da">Netværk</name>
+  <name lang="de">Netzwerke</name>
+  <name lang="el">Δίκτυα</name>
+  <name lang="en_GB">Networks</name>
+  <name lang="es">Redes</name>
+  <name lang="et">Võrgud</name>
+  <name lang="eu">Sareak</name>
+  <name lang="fi">Verkot</name>
+  <name lang="fr">Réseaux</name>
+  <name lang="gl">Redes</name>
+  <name lang="he">רשתות</name>
+  <name lang="hsb">Syć</name>
+  <name lang="hu">Hálózatok</name>
+  <name lang="ia">Retes</name>
+  <name lang="id">Jaringan</name>
+  <name lang="it">Reti</name>
+  <name lang="ja">ネットワーク</name>
+  <name lang="ko">네트워크</name>
+  <name lang="lt">Tinklai</name>
+  <name lang="ml">ശൃംഖലകൾ</name>
+  <name lang="nb">Nettverk</name>
+  <name lang="nds">Nettwarken</name>
+  <name lang="nl">Netwerken</name>
+  <name lang="nn">Nettverk</name>
+  <name lang="pa">ਨੈੱਟਵਰਕ</name>
+  <name lang="pl">Sieci</name>
+  <name lang="pt">Redes</name>
+  <name lang="pt_BR">Redes</name>
+  <name lang="ro">Rețele</name>
+  <name lang="ru">Сети</name>
+  <name lang="sk">Siete</name>
+  <name lang="sl">Omrežja</name>
+  <name lang="sr@ijekavian">Мреже</name>
+  <name lang="sr@ijekavianlatin">Mreže</name>
+  <name lang="sr@latin">Mreže</name>
+  <name lang="sr">Мреже</name>
+  <name lang="sv">Nätverk</name>
+  <name lang="ta">பிணையங்கள்</name>
+  <name lang="tg">Шабакаҳо</name>
+  <name lang="tr">Ağlar</name>
+  <name lang="uk">Мережі</name>
+  <name lang="x-test">xxNetworksxx</name>
+  <name lang="zh_CN">网络</name>
+  <name lang="zh_TW">網路</name>
+  <summary>Network status and control</summary>
+  <summary lang="ar">حالة الشّبكة والتّحكّم بها</summary>
+  <summary lang="az">Şəbəkə statusu və idarəsi</summary>
+  <summary lang="bg">Състояние и контрол на мрежата</summary>
+  <summary lang="ca@valencia">Control i estat de la xarxa</summary>
+  <summary lang="ca">Control i estat de la xarxa</summary>
+  <summary lang="cs">Stav a ovládání sítě</summary>
+  <summary lang="en_GB">Network status and control</summary>
+  <summary lang="es">Estado y control de redes</summary>
+  <summary lang="eu">Sareen egoera eta agintea</summary>
+  <summary lang="fi">Verkon tila ja hallinta</summary>
+  <summary lang="fr">État et contrôle du réseau</summary>
+  <summary lang="hu">Hálózatállapot és vezérlés</summary>
+  <summary lang="ia">Stato e controlo de rete</summary>
+  <summary lang="it">Stato e controllo della rete</summary>
+  <summary lang="ko">네트워크 상태 및 제어</summary>
+  <summary lang="nl">Netwerkstatus en besturing</summary>
+  <summary lang="nn">Nettverksstatus og -styring</summary>
+  <summary lang="pl">Stan i obsługa sieci</summary>
+  <summary lang="pt">Estado e controlo da rede</summary>
+  <summary lang="pt_BR">Status e controle da rede</summary>
+  <summary lang="ro">Starea și controlul rețelei</summary>
+  <summary lang="ru">Состояние и управление сетью</summary>
+  <summary lang="sk">Správa a ovládanie siete</summary>
+  <summary lang="sl">Stanje omrežja in nadzor</summary>
+  <summary lang="sv">Nätverksstatus och kontroll</summary>
+  <summary lang="tr">Ağ denetim ve durum izleme</summary>
+  <summary lang="uk">Стеження за станом і керування мережею</summary>
+  <summary lang="x-test">xxNetwork status and controlxx</summary>
+  <summary lang="zh_CN">网络状态和控制</summary>
+  <url type="homepage">https://projects.kde.org/projects/kde/workspace/plasma-nm</url>
+  <url type="donation">https://www.kde.org/donate.php?app=org.kde.plasma.networkmanagement</url>
+  <developer_name>Jan Grulich,Lukáš Tinkl &lt;jgrulich@redhat.com,ltinkl@redhat.com></developer_name>
+  <project_license>GPL-2.0</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+</component>

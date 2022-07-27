@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <pkgname>libsForQt5.kdeplasma-addons</pkgname>
+  <id>org.kde.plasma.binaryclock</id>
+  <extends>org.kde.plasmashell</extends>
+  <name>Binary Clock</name>
+  <name lang="ar">ساعة ثنائية</name>
+  <name lang="az">Binar saat</name>
+  <name lang="bg">Двоичен часовник</name>
+  <name lang="ca@valencia">Rellotge binari</name>
+  <name lang="ca">Rellotge binari</name>
+  <name lang="cs">Binární hodiny</name>
+  <name lang="de">Binäre Uhr</name>
+  <name lang="en_GB">Binary Clock</name>
+  <name lang="es">Reloj binario</name>
+  <name lang="eu">Ordulari bitarra</name>
+  <name lang="fi">Binaarikello</name>
+  <name lang="fr">Horloge numérique</name>
+  <name lang="ia">Horologio binari</name>
+  <name lang="id">Jam Binari</name>
+  <name lang="it">Orologio binario</name>
+  <name lang="ja">バイナリ時計</name>
+  <name lang="ko">바이너리 시계</name>
+  <name lang="lt">Dvejetainis laikrodis</name>
+  <name lang="nl">Binaire klok</name>
+  <name lang="nn">Binær­klokke</name>
+  <name lang="pl">Zegar dwójkowy</name>
+  <name lang="pt">Relógio Binário</name>
+  <name lang="pt_BR">Relógio binário</name>
+  <name lang="ro">Ceas binar</name>
+  <name lang="ru">Двоичные часы</name>
+  <name lang="sk">Binárne hodiny</name>
+  <name lang="sl">Binarna ura</name>
+  <name lang="sv">Binärklocka</name>
+  <name lang="tr">İkili Saat</name>
+  <name lang="uk">Двійковий годинник</name>
+  <name lang="vi">Đồng hồ nhị phân</name>
+  <name lang="x-test">xxBinary Clockxx</name>
+  <name lang="zh_CN">二进制时钟</name>
+  <summary>Time displayed in binary format</summary>
+  <summary lang="ar">الوقت يظهر بالتنسيق الثنائي</summary>
+  <summary lang="az">Vaxt, binar formatında göstərilir</summary>
+  <summary lang="bg">Представяне на часа в бинарен формат</summary>
+  <summary lang="ca@valencia">Mostra l'hora en format binari</summary>
+  <summary lang="ca">Mostra l'hora en format binari</summary>
+  <summary lang="cs">Zobrazení času v binárním formátu</summary>
+  <summary lang="de">Zeitanzeige in Binärformat</summary>
+  <summary lang="en_GB">Time displayed in binary format</summary>
+  <summary lang="es">Hora mostrada en formato binario</summary>
+  <summary lang="eu">Ordua formatu bitarrean bistaratua</summary>
+  <summary lang="fi">Binaarimuodossa esitetty kellonaika</summary>
+  <summary lang="fr">Heure affichée dans un format numérique</summary>
+  <summary lang="ia">Tempore monstrate in formato binari</summary>
+  <summary lang="id">Waktu ditampilkan dalam format binari</summary>
+  <summary lang="it">Ora mostrata in formato binario</summary>
+  <summary lang="ja">時間をバイナリ形式で表示します</summary>
+  <summary lang="ko">이진수로 시각 표시</summary>
+  <summary lang="lt">Dvejetainiu formatu rodomas laikas</summary>
+  <summary lang="nl">De tijd in binair formaat</summary>
+  <summary lang="nn">Klokka vist i binærformat</summary>
+  <summary lang="pl">Wyświetla czas w formacie dwójkowym</summary>
+  <summary lang="pt">A hora apresentada no formato binário</summary>
+  <summary lang="pt_BR">Hora exibida em formato binário</summary>
+  <summary lang="ro">Ora afișată în format binar</summary>
+  <summary lang="ru">Время в двоичной записи</summary>
+  <summary lang="sk">Čas zobrazený v binárnom tvare</summary>
+  <summary lang="sl">Čas prikazan v binarnem formatu</summary>
+  <summary lang="sv">Tid visad med binärformat</summary>
+  <summary lang="tr">İkili biçimde gösterilen zaman</summary>
+  <summary lang="uk">Час, показаний у двійковому форматі</summary>
+  <summary lang="vi">Thời gian hiển thị ở dạng nhị phân</summary>
+  <summary lang="x-test">xxTime displayed in binary formatxx</summary>
+  <summary lang="zh_CN">以二进制格式显示时间</summary>
+  <url type="homepage">https://kde.org/plasma-desktop</url>
+  <url type="donation">https://www.kde.org/donate.php?app=org.kde.plasma.binaryclock</url>
+  <developer_name>Joseph Wenninger,Davide Bettio,Piotr Kąkol &lt;jowenn@kde.org, davide.bettio@kdemail.net, piotrkakol@protonmail.com></developer_name>
+  <icon type="stock">clock</icon>
+  <project_license>GPL-2.0+</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+</component>
