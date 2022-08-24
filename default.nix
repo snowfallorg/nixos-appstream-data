@@ -1,11 +1,16 @@
 {
 set ? "free",
 stdenv ? (import <nixpkgs> {}).stdenv,
-lib ? import <nixpkgs/lib>
+lib ? import <nixpkgs/lib>,
+pkgs ? import <nixpkgs> {}
 }:
 stdenv.mkDerivation rec {
   pname = "nixos-appstream-data";
   version = "0.0.1";
+
+  buildInputs = with pkgs; [
+    appstream
+  ];
 
   src = [ ./. ];
 
