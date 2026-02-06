@@ -1,26 +1,22 @@
 {
-set ? "free",
-stdenv ? (import <nixpkgs> {}).stdenv,
-lib ? import <nixpkgs/lib>,
-pkgs ? import <nixpkgs> {}
+  section ? "nixos-unstable",
+  stdenv,
 }:
-stdenv.mkDerivation rec {
+stdenv.mkDerivation {
   pname = "nixos-appstream-data";
   version = "0.0.1";
 
-  buildInputs = with pkgs; [
-    appstream
-  ];
-
-  src = [ ./. ];
+  src = ./.;
 
   installPhase = ''
     runHook preInstall
-    ./build.sh ${set}
-    mkdir -p $out/share/app-info/{icons/nixos,xmls}
-    cp dest/*.gz $out/share/app-info/xmls/
-    cp -r dest/icons/64x64 $out/share/app-info/icons/nixos/
-  	cp -r dest/icons/128x128 $out/share/app-info/icons/nixos/
+    mkdir -p $out/share/swcatalog/{icons/${section},xml}
+    cp appstream/${section}/Components-*.xml.gz $out/share/swcatalog/xml/${section}.xml.gz
+    for tarball in appstream/${section}/icons-*.tar.gz; do
+      size=$(basename "$tarball" .tar.gz | sed 's/icons-//')
+      mkdir -p $out/share/swcatalog/icons/${section}/$size
+      tar -xzf "$tarball" -C $out/share/swcatalog/icons/${section}/$size/
+    done
     runHook postInstall
   '';
 }
