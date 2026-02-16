@@ -60,9 +60,19 @@
         let
           pkgs = pkgsFor system;
         in
-        {
+        let
           appstream-data = pkgs.callPackage ./default.nix { };
           appstream-data-unfree = pkgs.callPackage ./default.nix { section = "nixos-unstable-unfree"; };
+          appstream-data-all = pkgs.symlinkJoin {
+            name = "nixos-appstream-data-all";
+            paths = [
+              appstream-data
+              appstream-data-unfree
+            ];
+          };
+        in
+        {
+          inherit appstream-data appstream-data-unfree appstream-data-all;
           inherit (pkgs) appstream-generator;
         }
       );

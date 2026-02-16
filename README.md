@@ -10,6 +10,12 @@ or for unfree metadata
 nix build .#appstream-data-unfree
 ```
 
+or for both free and unfree combined
+
+```shell
+nix build .#appstream-data-all
+```
+
 # Licenses
 
 All metadata and icons fall under the licenses specified in their respective metainfo files under the `metadata_license` tag.
