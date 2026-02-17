@@ -57,3 +57,9 @@ rm -rf appstream/"$SECTION"-unfree/data
 mkdir -p appstream/"$SECTION"-unfree/data
 mv workspace-unfree/export/data/nixpkgs/"$REV"/Components*.gz appstream/"$SECTION"-unfree/data/
 mv workspace-unfree/export/data/nixpkgs/"$REV"/icons* appstream/"$SECTION"-unfree/data/
+
+for f in appstream/"$SECTION"-unfree/data/Components*.gz; do
+  gunzip "$f"
+  sed -i "s/origin=\"[^\"]*\"/origin=\"${SECTION}-unfree\"/" "${f%.gz}"
+  gzip "${f%.gz}"
+done
