@@ -11,6 +11,7 @@ bitwig-studio3
 burpsuite
 decent-sampler
 devilutionx
+devilutionx
 discord
 etlegacy
 factorio-demo

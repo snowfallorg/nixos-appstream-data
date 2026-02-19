@@ -23,7 +23,7 @@ cat > workspace/asgen-config.json << EOF
   "Features": {
     "processDesktop": true,
     "validateMetainfo": true,
-    "createScreenshotsStore": true,
+    "createScreenshotsStore": false,
     "noDownloads": false
   },
   "Suites": {
@@ -43,12 +43,12 @@ pushd workspace
 unbuffer appstream-generator process nixpkgs --verbose 2>&1 | tee appstream-generator.log
 popd
 
-rm -rf appstream/"$SECTION"/data
-mkdir -p appstream/"$SECTION"/data
-mv workspace/export/data/nixpkgs/"$REV"/Components*.gz appstream/"$SECTION"/data/
-mv workspace/export/data/nixpkgs/"$REV"/icons* appstream/"$SECTION"/data/
+rm -rf appstream/"$SECTION"
+mkdir -p appstream/"$SECTION"
+cp workspace/export/data/nixpkgs/"$REV"/Components*.gz appstream/"$SECTION"/
+cp workspace/export/data/nixpkgs/"$REV"/icons* appstream/"$SECTION"/
 
-for f in appstream/"$SECTION"/data/Components*.gz; do
+for f in appstream/"$SECTION"/Components*.gz; do
   gunzip "$f"
   sed -i "s/origin=\"[^\"]*\"/origin=\"$SECTION\"/" "${f%.gz}"
   gzip "${f%.gz}"

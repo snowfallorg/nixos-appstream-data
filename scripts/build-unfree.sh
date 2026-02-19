@@ -6,7 +6,7 @@ cd "$(dirname "$0")/.."
 SECTION="${SECTION:-nixos-unstable}"
 REV=$(nix flake metadata nixpkgs/$SECTION --json | jq '.revision' -r)
 
-mapfile -t UNFREE_PKGS < unfree-full.txt
+mapfile -t UNFREE_PKGS < ./scripts/unfree.txt
 
 mkdir -p workspace-unfree
 pushd workspace-unfree
@@ -27,7 +27,7 @@ cat > asgen-config.json << EOF
   "Features": {
     "processDesktop": true,
     "validateMetainfo": true,
-    "createScreenshotsStore": true,
+    "createScreenshotsStore": false,
     "noDownloads": false
   },
   "Suites": {
@@ -46,19 +46,19 @@ EOF
 mkdir -p "cache/nixpkgs/$REV/x86_64-linux"
 NIXPKGS_PATH="$(nix eval nixpkgs/$REV#path)"
 
-nix-env -qaP --out-path --meta --json --file ../scripts/unfree-filter.nix --arg nixpkgsPath "$NIXPKGS_PATH" --arg packageListFile ../unfree-full.txt \
+nix-env -qaP --out-path --meta --json --file ../scripts/unfree-filter.nix --arg nixpkgsPath "$NIXPKGS_PATH" --arg packageListFile ../scripts/unfree.txt \
   | jq -c '{version: "2", packages: .}' \
   > "cache/nixpkgs/$REV/x86_64-linux/packages.json"
 
 unbuffer appstream-generator process nixpkgs --verbose 2>&1 | tee appstream-generator.log
 popd
 
-rm -rf appstream/"$SECTION"-unfree/data
-mkdir -p appstream/"$SECTION"-unfree/data
-mv workspace-unfree/export/data/nixpkgs/"$REV"/Components*.gz appstream/"$SECTION"-unfree/data/
-mv workspace-unfree/export/data/nixpkgs/"$REV"/icons* appstream/"$SECTION"-unfree/data/
+rm -rf appstream/"$SECTION"-unfree
+mkdir -p appstream/"$SECTION"-unfree
+cp workspace-unfree/export/data/nixpkgs/"$REV"/Components*.gz appstream/"$SECTION"-unfree/
+cp workspace-unfree/export/data/nixpkgs/"$REV"/icons* appstream/"$SECTION"-unfree/
 
-for f in appstream/"$SECTION"-unfree/data/Components*.gz; do
+for f in appstream/"$SECTION"-unfree/Components*.gz; do
   gunzip "$f"
   sed -i "s/origin=\"[^\"]*\"/origin=\"${SECTION}-unfree\"/" "${f%.gz}"
   gzip "${f%.gz}"
